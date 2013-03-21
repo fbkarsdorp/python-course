@@ -18,4 +18,5 @@ def test(document, feature_counts, feature_author_counts):
             scores[author] += math.log(
                 (feature_author_counts[feature][author] + 1.0) / 
                 (feature_counts[feature] + len(feature_counts)))
-    return max(scores, key=scores.__getitem__, reverse=True)
+    return max(scores, key=scores.__getitem__)
+
