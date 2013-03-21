@@ -16,11 +16,28 @@ def predict_author(document, corpus):
     for author in corpus:
         # this is normally for class prior smoothing.
         #scores[author] += log(author_counts[author] / sum(author_counts.values()))
-        author_n = sum(corpus[author].values())
+        author_feature_sum = sum(corpus[author].values())
         for feature in document:
             scores[author] += log((corpus[author][feature] + 1.0) / 
-                                  (author_n + n_features))
+                                  (author_feature_sum + n_features))
     return max(scores, key=scores.__getitem__)
+
+
+def add_file_to_corpus(filename, corpus):
+    author = filename.split('-')[0]
+    text = read_corpus_file(filename)
+    tokens = tokenise(text)
+    sentences = splitsentences(tokens)
+    for sentence in sentences:
+        for word in sentence:
+            corpus[author][word] += 1
+    return corpus
+
+def add_dir_to_corpus(directory, corpus):
+    for filename in os.listdir(directory):
+        corpus = add_file_to_corpus(os.path.join(directory, filename))
+    return corpus
+
 
 WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
 
@@ -37,9 +54,9 @@ def tokenise(text):
         if c in PUNCTUATION or c in WHITESPACE:
             token = text[begin:i]
             tokens.append(token)
-            if c != " " and c != "\n":
+            if c not in WHITESPACE:
                 tokens.append(c) #anything but spaces and newlines (i.e. punctuation) counts as a token too
-            begin = i+1 #set the begin cursor
+            begin = i + 1 #set the begin cursor
     return tokens
             
 def is_end_of_sentence(i, tokens):
@@ -107,6 +124,7 @@ for root, dirs, files in os.walk(traincorpusdirectory):
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
+        # this will overwrite earlier assignments....
         corpus[author] = makefrequencylist(sentences,n)
 print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
 
