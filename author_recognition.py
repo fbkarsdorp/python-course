@@ -5,7 +5,7 @@ import sys
 
 from collections import defaultdict
 from math import log
-from string import punctuation
+from string import punctuation as PUNCTUATION
 
 
 def predict_author(document, corpus):
@@ -22,8 +22,10 @@ def predict_author(document, corpus):
                                   (author_n + n_features))
     return max(scores, key=scores.__getitem__)
 
-def readcorpusfile(filepath, encoding='utf-8'):
-    f = open(filepath,'rt',encoding=encoding)
+WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
+
+def readcorpusfile(filepath, encoding='latin-1'):
+    f = open(filepath,'rt', encoding=encoding)
     text = f.read()
     f.close()
     return text
@@ -32,7 +34,7 @@ def tokenise(text):
     tokens = []
     begin = 0
     for i, c in enumerate(text):
-        if c in punctuation or c == "\n" or c == " ":
+        if c in PUNCTUATION or c in WHITESPACE:
             token = text[begin:i]
             tokens.append(token)
             if c != " " and c != "\n":
@@ -41,13 +43,15 @@ def tokenise(text):
     return tokens
             
 def is_end_of_sentence(i, tokens):
-    return token in ('.','?','!') and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!'))
+    # is this an end-of-sentence marker? ... and is this either 
+    # the last token or the next token is NOT an end of sentence 
+    # marker as well? (to deal with ellipsis etc, bonus)
+    return tokens[i] in ('.','?','!') and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!'))
 
 def splitsentences(tokens):
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
-        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc, bonus)
         if is_end_of_sentence(i, tokens): 
             sentences.append( tokens[begin:i+1] )
             begin = i+1
