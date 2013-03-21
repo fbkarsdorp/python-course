@@ -52,13 +52,17 @@ def getsentences(tokens):
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
-        #is this an end-of-sentence marker ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc)
+        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc)
         if token in ('.','?','!')      and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!')): 
             sentences.append( tokens[begin:i+1] )
             begin = i+1
     return sentences
             
-            
+def getngrams(sentence, n):   
+    ngrams = []
+    for begin in range(0, len(sentence) - n + 1):
+        ngrams.append( sentence[begin:begin+n] )
+    return ngrams
        
     
         
