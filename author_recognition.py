@@ -6,7 +6,7 @@ import sys
 from collections import defaultdict
 from math import log
 from string import punctuation as PUNCTUATION
-
+from glob import glob
 
 def predict_author(document, corpus):
     scores = defaultdict(float)
@@ -25,7 +25,7 @@ def predict_author(document, corpus):
 
 def add_file_to_corpus(filename, corpus):
     author = filename.split('-')[0]
-    text = read_corpus_file(filename)
+    text = readcorpusfile(filename)
     tokens = tokenise(text)
     sentences = splitsentences(tokens)
     for sentence in sentences:
@@ -35,7 +35,7 @@ def add_file_to_corpus(filename, corpus):
 
 def add_dir_to_corpus(directory, corpus):
     for filename in os.listdir(directory):
-        corpus = add_file_to_corpus(os.path.join(directory, filename))
+        corpus = add_file_to_corpus(os.path.join(directory, filename), corpus)
     return corpus
 
 
@@ -117,14 +117,13 @@ if not os.path.exists(testdocument):
     sys.exit(1)      
 
 corpus = {}
-for root, dirs, files in os.walk(traincorpusdirectory):
-    for filename in files:
-        author = filename.split('-')[0] #the filename without the .txt extension is the author's name
-        filepath = os.path.join(root,filename)
-        text = readcorpusfile(filepath)
-        tokens = tokenise(text)
-        sentences = splitsentences(tokens)
-        # this will overwrite earlier assignments....
-        corpus[author] = makefrequencylist(sentences,n)
+for filepath in glob(traincorpusdirectory + "/*.txt"):
+    filename = os.path.basename(filepath)
+    author = filename.split('-')[0] #the filename without the .txt extension is the author's name
+    text = readcorpusfile(filepath)
+    tokens = tokenise(text)
+    sentences = splitsentences(tokens)
+    # this will overwrite earlier assignments....
+    corpus[author] = makefrequencylist(sentences,n)
 print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
 
