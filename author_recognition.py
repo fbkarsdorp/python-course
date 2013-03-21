@@ -1,6 +1,10 @@
+#! /usr/bin/env python3
+# -*- coding: utf8 -*-
 
 from collections import defaultdict
 from math import log
+import sys
+import os
 
 
 def predict_author(document, corpus):
@@ -15,39 +19,30 @@ def predict_author(document, corpus):
                                   (author_n + n_features))
     return max(scores, key=scores.__getitem__)
 
-
-def readcorpusfile(filename):
-    f = open(filename,'rt',encoding='utf-8')
+def readcorpusfile(filepath):
+    f = open(filepath,'rt',encoding='utf-8')
     text = f.read()
     f.close()
     return text
-
           
-def tokenizer(text,separatorlist, abbreviationlist):
+def tokenise(text):
     tokens = []
     begin = 0
     for i, c in enumerate(text):
-        if c in separatorlist:
+        if c in ("\n"," ",".","?","!",",",":",";","/","(",")","[","]","{","}","<",">","\"","'"):
             token = text[begin:i]
-            if c == '.' and token in abbreviationlist:
-                #this is an abbreviation ending in a period, do not split the period
-                tokens.append(token + c) 
-            elif (c == '.' or c == ',') and token.isdigit() and (i < len(tokens) - 1 and tokens[i+1].isdigit()):
-                #period is probably a decimal or thousands separator, let's keep these together and just continue with the next
-                continue
-            elif c != " " and c != "\n": 
-                tokens.append(token)
+            tokens.append(token)
+            if c != " " and c != "\n":
                 tokens.append(c) #anything but spaces and newlines (i.e. punctuation) counts as a token too
             begin = i+1 #set the begin cursor
     return tokens
             
-            
 
-def getsentences(tokens):
+def splitsentences(tokens):
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
-        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc)
+        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc, bonus)
         if token in ('.','?','!')      and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!')): 
             sentences.append( tokens[begin:i+1] )
             begin = i+1
@@ -68,15 +63,40 @@ def makefrequencylist(sentences, n=1):
            freqlist[ngram] += 1
     return freqlist
 
+try:
+    traincorpusdirectory = sys.argv[1]
+    testdocument = sys.argv[2]
+except: 
+    print "Specify the directory of the training corpus as the first argument to the program"
+    print "Specify the text you want to analyse as the second argument"
+    print "Specify the n-gram order to use as third argument"
+    sys.exit(1)
+    
+try:
+    n = int(sys.argv[3])
+except IndexError: 
+    #No value specified, let's just choose 1 and continue
+    n = 1
+except ValueError:
+    print "n must be a number!"
+        
+#Verify that the corpus directory exists        
+if not os.path.exists(traincorpusdirectory):
+    print "The specified training corpus does not exist"
+    sys.exit(1)  
+    
+#Verify that the test document exists    
+if not os.path.exists(testdocument):
+    print "The specified test document does not exist"
+    sys.exit(1)      
 
-    
-    
-    
-        
-            
-            
-            
-        
-        
-    
-    
+corpus = {}
+for root, dirs, files in os.walk(traincorpusdirectory):
+    for filename in files:
+        author = filename[:-4] #the filename without the .txt extension is the author's name
+        filepath = os.path.join(root,filename)
+        text = readcorpusfile(filepath)
+        tokens = tokenise(text)
+        sentences = splitsentences(tokens)
+        corpus[author] = makefrequencylist(sentences,n) 
+
