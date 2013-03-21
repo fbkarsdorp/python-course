@@ -20,7 +20,7 @@ def predict_author(document, corpus):
     return max(scores, key=scores.__getitem__)
 
 def readcorpusfile(filepath):
-    f = open(filepath,'rt',encoding='utf-8')
+    f = open(filepath,'rt',encoding='latin-1')
     text = f.read()
     f.close()
     return text
@@ -57,7 +57,7 @@ def getngrams(sentence, n):
     return ngrams
            
 def makefrequencylist(sentences, n=1):    
-    freqlist = defaultdict(lambda: defaultdict(int))
+    freqlist = defaultdict(int)
     for sentence in sentences:
         for ngram in getngrams(sentence,n):
            freqlist[ngram] += 1
@@ -99,5 +99,5 @@ for root, dirs, files in os.walk(traincorpusdirectory):
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
         corpus[author] = makefrequencylist(sentences,n)
-print(predict_author(tokenise(readcorpusfile(testdocument))))
+print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
 
