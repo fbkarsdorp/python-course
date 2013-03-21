@@ -67,9 +67,9 @@ try:
     traincorpusdirectory = sys.argv[1]
     testdocument = sys.argv[2]
 except: 
-    print "Specify the directory of the training corpus as the first argument to the program"
-    print "Specify the text you want to analyse as the second argument"
-    print "Specify the n-gram order to use as third argument"
+    print("Specify the directory of the training corpus as the first argument to the program")
+    print("Specify the text you want to analyse as the second argument")
+    print("Specify the n-gram order to use as third argument")
     sys.exit(1)
     
 try:
@@ -78,16 +78,16 @@ except IndexError:
     #No value specified, let's just choose 1 and continue
     n = 1
 except ValueError:
-    print "n must be a number!"
+    print("n must be a number!")
         
 #Verify that the corpus directory exists        
 if not os.path.exists(traincorpusdirectory):
-    print "The specified training corpus does not exist"
+    print("The specified training corpus does not exist")
     sys.exit(1)  
     
 #Verify that the test document exists    
 if not os.path.exists(testdocument):
-    print "The specified test document does not exist"
+    print("The specified test document does not exist")
     sys.exit(1)      
 
 corpus = {}
@@ -98,5 +98,6 @@ for root, dirs, files in os.walk(traincorpusdirectory):
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
-        corpus[author] = makefrequencylist(sentences,n) 
+        corpus[author] = makefrequencylist(sentences,n)
+print(predict_author(tokenise(readcorpusfile(testdocument))))
 
