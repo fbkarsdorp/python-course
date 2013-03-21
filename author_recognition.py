@@ -2,22 +2,17 @@
 from collections import defaultdict
 from math import log
 
-def train(corpus):
-    feature_author_counts = {}
-    feature_counts = defaultdict(int)
-    for author, features in corpus.items():
-        feature_author_counts[author] = features
-        for feature, count in features.items():
-            feature_counts[feature] = count
-    return feature_counts, feature_author_counts
 
-def test(document, feature_counts, feature_author_counts):
+def predict_author(document, corpus):
     scores = defaultdict(float)
-    for feature in document:
-        for author in feature_author_counts:
-            scores[author] += log(
-                (feature_author_counts[author][feature] + 1.0) / 
-                (feature_counts[feature] + len(feature_counts)))
+    n_features = len(set(feature for author, features in corpus.items() 
+                                 for feature in features))
+    for author in corpus:
+        #scores[author] += log(author_counts[author] / sum(author_counts.values()))
+        author_n = sum(corpus[author].values())
+        for feature in document:
+            scores[author] += log((corpus[author][feature] + 1.0) / 
+                                  (author_n + n_features))
     return max(scores, key=scores.__getitem__)
 
 
