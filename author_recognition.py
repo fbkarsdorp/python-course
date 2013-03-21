@@ -7,6 +7,7 @@ def train(corpus):
     feature_counts = defaultdict(int)
     for author, features in corpus.iteritems():
         author_feature_counts[author] = features
+        for feature, count in features.iteritems():
             feature_author_counts[feature][author] = count
     return feature_counts, feature_author_counts
 
