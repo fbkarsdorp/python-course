@@ -5,9 +5,9 @@ from math import log
 def train(corpus):
     feature_author_counts = {}
     feature_counts = defaultdict(int)
-    for author, features in corpus.iteritems():
+    for author, features in corpus.items():
         feature_author_counts[author] = features
-        for feature, count in features.iteritems():
+        for feature, count in features.items():
             feature_counts[feature] = count
     return feature_counts, feature_author_counts
 
