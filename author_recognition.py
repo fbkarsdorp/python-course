@@ -24,19 +24,17 @@ def test(document, feature_counts, feature_author_counts):
                 (feature_counts[feature] + len(feature_counts)))
     return max(scores, key=scores.__getitem__)
 
-
 def readcorpusfile(filepath):
     f = open(filepath,'rt',encoding='utf-8')
     text = f.read()
     f.close()
     return text
-
           
-def tokenise(text,separatorlist):
+def tokenise(text):
     tokens = []
     begin = 0
     for i, c in enumerate(text):
-        if c in separatorlist:
+        if c in ("\n"," ",".","?","!",",",":",";","/","(",")","[","]","{","}","<",">","\"","'"):
             token = text[begin:i]
             tokens.append(token)
             if c != " " and c != "\n":
@@ -44,13 +42,12 @@ def tokenise(text,separatorlist):
             begin = i+1 #set the begin cursor
     return tokens
             
-            
 
 def splitsentences(tokens):
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
-        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc)
+        #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc, bonus)
         if token in ('.','?','!')      and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!')): 
             sentences.append( tokens[begin:i+1] )
             begin = i+1
@@ -71,10 +68,6 @@ def makefrequencylist(sentences, n=1):
            freqlist[ngram] += 1
     return freqlist
 
-
-
-
-
 try:
     traincorpusdirectory = sys.argv[1]
     testdocument = sys.argv[2]
@@ -92,16 +85,15 @@ except IndexError:
 except ValueError:
     print "n must be a number!"
         
+#Verify that the corpus directory exists        
 if not os.path.exists(traincorpusdirectory):
     print "The specified training corpus does not exist"
     sys.exit(1)  
     
+#Verify that the test document exists    
 if not os.path.exists(testdocument):
     print "The specified test document does not exist"
     sys.exit(1)      
-
-
-separatorlist = ("\n"," ",".","?","!",",",":",";","/","(",")","[","]","{","}","<",">","\"","'")
 
 corpus = {}
 for root, dirs, files in os.walk(traincorpusdirectory):
@@ -109,7 +101,7 @@ for root, dirs, files in os.walk(traincorpusdirectory):
         author = filename[:-4] #the filename without the .txt extension is the author's name
         filepath = os.path.join(root,filename)
         text = readcorpusfile(filepath)
-        tokens = tokenise(text, separatorlist)
+        tokens = tokenise(text)
         sentences = splitsentences(tokens)
         corpus[author] = makefrequencylist(sentences,n) 
 
