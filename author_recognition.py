@@ -59,11 +59,23 @@ def getsentences(tokens):
     return sentences
             
 def getngrams(sentence, n):   
+    if n == 1: 
+        return sentence
     ngrams = []
     for begin in range(0, len(sentence) - n + 1):
         ngrams.append( sentence[begin:begin+n] )
     return ngrams
-       
+           
+def makefrequencylist(sentences, n=1):    
+    freqlist = defaultdict(lambda: defaultdict(int))
+    for sentence in sentences:
+        for ngram in getngrams(sentence,n):
+           freqlist[ngram] += 1
+    return freqlist
+
+
+    
+    
     
         
             
