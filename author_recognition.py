@@ -14,6 +14,7 @@ def predict_author(document, corpus):
     n_features = len(set(feature for author, features in corpus.items() 
                                  for feature in features))
     for author in corpus:
+        # this is normally for class prior smoothing.
         #scores[author] += log(author_counts[author] / sum(author_counts.values()))
         author_n = sum(corpus[author].values())
         for feature in document:
@@ -39,13 +40,15 @@ def tokenise(text):
             begin = i+1 #set the begin cursor
     return tokens
             
+def is_end_of_sentence(i, tokens):
+    return token in ('.','?','!') and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!'))
 
 def splitsentences(tokens):
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
         #is this an end-of-sentence marker? ... and is this either the last token or the next token is NOT an end of sentence marker as well? (to deal with ellipsis etc, bonus)
-        if token in ('.','?','!')      and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!')): 
+        if is_end_of_sentence(i, tokens): 
             sentences.append( tokens[begin:i+1] )
             begin = i+1
     return sentences
