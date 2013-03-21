@@ -93,7 +93,7 @@ if not os.path.exists(testdocument):
 corpus = {}
 for root, dirs, files in os.walk(traincorpusdirectory):
     for filename in files:
-        author = filename[:-4] #the filename without the .txt extension is the author's name
+        author = filename.split('-')[0] #the filename without the .txt extension is the author's name
         filepath = os.path.join(root,filename)
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
