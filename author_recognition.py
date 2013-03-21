@@ -1,14 +1,16 @@
 #! /usr/bin/env python3
 # -*- coding: utf8 -*-
+import os
+import sys
 
 from collections import defaultdict
 from math import log
-import sys
-import os
+from string import punctuation
 
 
 def predict_author(document, corpus):
     scores = defaultdict(float)
+    # get the number of unique features used in the training corpus
     n_features = len(set(feature for author, features in corpus.items() 
                                  for feature in features))
     for author in corpus:
@@ -19,8 +21,8 @@ def predict_author(document, corpus):
                                   (author_n + n_features))
     return max(scores, key=scores.__getitem__)
 
-def readcorpusfile(filepath):
-    f = open(filepath,'rt',encoding='latin-1')
+def readcorpusfile(filepath, encoding='utf-8'):
+    f = open(filepath,'rt',encoding=encoding)
     text = f.read()
     f.close()
     return text
@@ -29,7 +31,7 @@ def tokenise(text):
     tokens = []
     begin = 0
     for i, c in enumerate(text):
-        if c in ("\n"," ",".","?","!",",",":",";","/","(",")","[","]","{","}","<",">","\"","'"):
+        if c in punctuation or c == "\n" or c == " ":
             token = text[begin:i]
             tokens.append(token)
             if c != " " and c != "\n":
