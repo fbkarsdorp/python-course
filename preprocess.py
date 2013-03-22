@@ -15,6 +15,9 @@ def readcorpusfile(filepath, encoding='latin-1'):
     text = f.read()
     f.close()
     return text
+
+def findcorpusfiles(corpusdirectory):
+    return glob(corpusdirectory + "/*.txt"):      
           
 def tokenise(text):
     tokens = []
@@ -58,47 +61,13 @@ def makefrequencylist(sentences, n=1):
            freqlist[ngram] += 1
     return freqlist
 
-
-
-if __name__ == '__main__':
-
-    try:
-        traincorpusdirectory = sys.argv[1]
-        testdocument = sys.argv[2]
-    except: 
-        print("Specify the directory of the training corpus as the first argument to the program")
-        print("Specify the text you want to analyse as the second argument")
-        print("Specify the n-gram order to use as third argument")
-        sys.exit(1)
-        
-    try:
-        n = int(sys.argv[3])
-    except IndexError: 
-        #No value specified, let's just choose 1 and continue
-        n = 1
-    except ValueError:
-        print("n must be a number!")
-            
-    #Verify that the corpus directory exists        
-    if not os.path.exists(traincorpusdirectory):
-        print("The specified training corpus does not exist")
-        sys.exit(1)  
-        
-    #Verify that the test document exists    
-    if not os.path.exists(testdocument):
-        print("The specified test document does not exist")
-        sys.exit(1)      
-
-    corpus = {}
-    for filepath in glob(traincorpusdirectory + "/*.txt"):
+def readcorpus(corpusdirectory):
+    for filepath in findcorpusfiles(corpusdirectory):
         filename = os.path.basename(filepath)
-        author = filename.split('-')[0] #the part of the filename before the hyphen is the author's name
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
-        freqlist = makefrequencylist(sentences,n)
-        #add to corpus
-        for wordtype, count in freqlist.items():
-            corpus[author][wordtype] += count
+        yield filename, sentences
 
-    print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
+
+#    print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
