@@ -58,6 +58,8 @@ def makefrequencylist(sentences, n=1):
            freqlist[ngram] += 1
     return freqlist
 
+
+
 if __name__ == '__main__':
 
     try:
@@ -90,10 +92,12 @@ if __name__ == '__main__':
     corpus = {}
     for filepath in glob(traincorpusdirectory + "/*.txt"):
         filename = os.path.basename(filepath)
-        author = filename.split('-')[0] #the filename without the .txt extension is the author's name
+        author = filename.split('-')[0] #the part of the filename before the hyphen is the author's name
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
-        # this will overwrite earlier assignments....
-        corpus[author] = makefrequencylist(sentences,n)
+        freqlist = makefrequencylist(sentences,n)
+        #add to corpus
+        for wordtype, count in freqlist.items():
+            corpus[author][wordtype] += count
     print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
