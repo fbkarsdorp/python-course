@@ -1,12 +1,9 @@
 #! /usr/bin/env python3
 # -*- coding: utf8 -*-
-import os
-import sys
 
 from collections import defaultdict
 from math import log
-from string import punctuation as PUNCTUATION
-from glob import glob
+
 
 def predict_author(document, corpus):
     "Predict who wrote the document on the basis of the corpus."

@@ -1,3 +1,11 @@
+#! /usr/bin/env python3
+# -*- coding: utf8 -*-
+
+import os
+import sys
+
+from string import punctuation as PUNCTUATION
+from glob import glob
 
 
 WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
