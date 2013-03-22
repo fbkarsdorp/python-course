@@ -3,7 +3,7 @@
 
 import os
 import sys
-
+from collections import defaultdict
 from string import punctuation as PUNCTUATION
 from glob import glob
 
@@ -100,4 +100,5 @@ if __name__ == '__main__':
         #add to corpus
         for wordtype, count in freqlist.items():
             corpus[author][wordtype] += count
+
     print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
