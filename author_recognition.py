@@ -6,7 +6,7 @@ import sys
 
 from collections import defaultdict
 from math import log
-from preprocess import tokenise, splitsentences, readcorpusfile, readcorpus, makefrequencylist
+from preprocess import tokenise, splitsentences, readcorpusfile, readcorpus, makefrequencylist6
 
 
 def predict_author(document, corpus):
