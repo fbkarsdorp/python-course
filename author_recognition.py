@@ -29,8 +29,6 @@ def get_author(filename):
 
 def add_file_to_corpus(text, author, corpus):
     "Add a text (which is a list of sentences) to the corpus."
-    # text is a list of sentences
-#    author = filename.split('-')[0]
     tokens = tokenise(text)
     sentences = splitsentences(tokens)
     for sentence in sentences:
