@@ -6,7 +6,7 @@ import sys
 from collections import defaultdict
 from string import punctuation as PUNCTUATION
 from glob import glob
-
+from author_recognition import predict_author
 
 WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
 
