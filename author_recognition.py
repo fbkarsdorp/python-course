@@ -41,10 +41,20 @@ def add_dir_to_corpus(directory, corpus):
     "Add all files from a directory to the corpus."
     for filename in os.listdir(directory):
         corpus = add_file_to_corpus(
-            os.path.join(directory, filename), get_author(filename), corpus)
+            readcorpusfile(os.path.join(directory, filename)), 
+            get_author(filename), corpus)
     return corpus
 
-def test_from_corpus(): pass
+def test_from_corpus(directory, corpus):
+    "Predict the authors for all files in the directory."
+    results = []
+    for filename in os.listdir(directory):
+        text = tokenise(readcorpusfile(os.path.join(directory, filename)))
+        author = get_author(filename)
+        prediction = predict_author(text, corpus)
+        results.append((filename, author, prediction))
+    return results
+
 
 
 WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
