@@ -9,6 +9,7 @@ from string import punctuation as PUNCTUATION
 
 
 def predict_author(document, corpus):
+    "Predict who wrote the document on the basis of the corpus."
     scores = defaultdict(float)
     # get the number of unique features used in the training corpus
     n_features = len(set(feature for author, features in corpus.items() 
@@ -22,9 +23,13 @@ def predict_author(document, corpus):
                                   (author_feature_sum + n_features))
     return max(scores, key=scores.__getitem__)
 
+def get_author(filename):
+    return filename.split('-')[0]
 
-def add_file_to_corpus(filename, corpus):
-    author = filename.split('-')[0]
+def add_file_to_corpus(text, author, corpus):
+    "Add a text (which is a list of sentences) to the corpus."
+    # text is a list of sentences
+#    author = filename.split('-')[0]
     text = read_corpus_file(filename)
     tokens = tokenise(text)
     sentences = splitsentences(tokens)
@@ -34,9 +39,13 @@ def add_file_to_corpus(filename, corpus):
     return corpus
 
 def add_dir_to_corpus(directory, corpus):
+    "Add all files from a directory to the corpus."
     for filename in os.listdir(directory):
-        corpus = add_file_to_corpus(os.path.join(directory, filename))
+        corpus = add_file_to_corpus(
+            os.path.join(directory, filename), get_author(filename), corpus)
     return corpus
+
+def test_from_corpus(): pass
 
 
 WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
@@ -124,7 +133,7 @@ for root, dirs, files in os.walk(traincorpusdirectory):
         text = readcorpusfile(filepath)
         tokens = tokenise(text)
         sentences = splitsentences(tokens)
-        # this will overwrite earlier assignments....
+        # this will overwrite earlier assignments in case of the same author
         corpus[author] = makefrequencylist(sentences,n)
 print(predict_author(tokenise(readcorpusfile(testdocument)), corpus))
 
