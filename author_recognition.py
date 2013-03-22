@@ -1,8 +1,12 @@
 #! /usr/bin/env python3
 # -*- coding: utf8 -*-
 
+import os
+
 from collections import defaultdict
 from math import log
+
+from preprocess import tokenise, splitsentences, readcorpusfile
 
 
 def predict_author(document, corpus):
@@ -52,5 +56,12 @@ def test_from_corpus(directory, corpus):
         results.append((filename, author, prediction))
     return results
 
+def analyze_results(results):
+    "Return the fraction of correct predictions."
+    correct = 0.0
+    for _, author, prediction in results:
+        if author == prediction:
+            correct += 1
+    return correct / len(results)
 
 
