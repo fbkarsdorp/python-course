@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 mkdir tmp
 cd tmp
 curl http://python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg > python-3.3.0-macosx10.6.dmg
@@ -17,4 +16,5 @@ cd ..
 /Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 tornado
 /Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 pyzmq
 cd ..
-
+echo "export PATH=\"/Library/Frameworks/Python.framework/Versions/3.3/bin/:\$PATH\"" >> ~/.bash_profile
+export PATH="/Library/Frameworks/Python.framework/Versions/3.3/bin/:$PATH"
