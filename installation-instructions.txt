@@ -1,0 +1,52 @@
+==========
+# Windows
+==========
+
+1. Download and install pyzo from http://www.pyzo.org/downloads.html (use pyzo_distro-2013b.win32.exe)
+2. After (default) installation python3 resides in the folder c:\pyzo2013b 
+3. Check your installation by double clicking ipython3.exe. 
+4. For the class you will need to use iPython's notebook. To launch the notebook you will have to open `Command Prompt' (`Opdrachtprompt' in Dutch). First go to the right folder by typing:
+
+    cd c:\pyzo2013b
+
+After that launch the notebook with:
+
+    ipython3.exe notebook
+
+If everything goes right, this should open your browser (preferably Google Chrome) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'
+
+==========
+# OS X 
+==========
+1. Download python3 from http://www.python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg
+2. Follow the default installation procedures of the package.
+3. Open spotlight and type in `terminal' to open the terminal application.
+4. You will need to install a couple of python packages using pip3
+5. Install readline. In the terminal type:
+
+    sudo pip3 install readline
+
+6. Install ipython3. In the terminal type:
+
+    sudo pip3 install ipython3
+
+7. Install tornado. In the terminal type:
+
+    sudo pip3 install tornado
+
+8. Install pyzmq. In the terminal type:
+
+    sudo pip3 install pyzmq
+
+9. To check you installation, relaunch the terminal app. Than type in 
+
+    ipython notebook 
+
+   If everything went well this should open your browsers (best with Google Chrome) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+
+=================
+# Linux (Ubuntu)
+=================
+
+
+
