@@ -2,14 +2,15 @@
 Installation instructions for sublime text 2, python3 and ipython3 on Windows, Mac OS X and Linux
 =================================================================================================
 
-This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl)
+This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
 =============
 # All systems
 =============
 
-We advice you to install a good text editor, named Sublime text 2. However, you are absolutely free to use your own favorite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.
+We advice you to install a good text editor, named Sublime text 2. However, you are absolutely free to use your own favourite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install
 
+We will be using Python 3 for our course, so lower versions of Python are not sufficient. 
 
 =============
 # Windows
@@ -26,7 +27,7 @@ After that launch the notebook with:
 
     ipython3.exe notebook
 
-If everything goes right, this should open your browser (preferably Google Chrome) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'
+If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'
 
 =============
 # OS X 
@@ -58,10 +59,13 @@ If everything goes right, this should open your browser (preferably Google Chrom
 
     ipython notebook 
 
-   If everything went well this should open your browsers (best with Google Chrome) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+   If everything went well this should open your browsers (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
-=================
-# Linux (Ubuntu)
-=================
+========================
+# Linux (Ubuntu/Debian)
+========================
 
+1. Open a terminal
+2. Type: sudo apt-get install python3 ipython3 ipython3-notebook  
 
+If you run another Linux distribution, similar packages should be available.
