@@ -33,30 +33,17 @@ If everything goes right, this should open your browser (preferably Google Chrom
 # OS X 
 =============
 
-1. Download python3 from http://www.python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg
-2. Follow the default installation procedures of the package.
-3. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
-4. You will need to install a couple of python packages using pip3:
-   
-   - Install readline. In the terminal type:
+1. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
 
-        sudo pip3 install readline
+2. Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
 
-   This will ask you for your password. (You won't see any *'s but that's just fine.)
+   cd /folder/of/mac-installer.sh 
 
-   - Install ipython:
+3. Run the installer by typing:
 
-       sudo pip3 install ipython
+   sh mac-installer.sh
 
-   - Install tornado:
-
-       sudo pip3 install tornado
-
-   - Install pyzmq:
-
-       sudo pip3 install pyzmq
-
-5. To check your installation, relaunch the terminal.app. Then type in 
+4. To check your installation, relaunch the terminal.app. Then type in 
 
     ipython notebook 
 
