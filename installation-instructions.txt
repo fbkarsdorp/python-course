@@ -1,6 +1,19 @@
-==========
+=================================================================================================
+Installation instructions for sublime text 2, python3 and ipython3 on Windows, Mac OS X and Linux
+=================================================================================================
+
+This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl)
+
+=============
+# All systems
+=============
+
+We advice you to install a good text editor, named Sublime text 2. However, you are absolutely free to use your own favorite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.
+
+
+=============
 # Windows
-==========
+=============
 
 1. Download and install pyzo from http://www.pyzo.org/downloads.html (use pyzo_distro-2013b.win32.exe)
 2. After (default) installation python3 resides in the folder c:\pyzo2013b 
@@ -15,30 +28,33 @@ After that launch the notebook with:
 
 If everything goes right, this should open your browser (preferably Google Chrome) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'
 
-==========
+=============
 # OS X 
-==========
+=============
+
 1. Download python3 from http://www.python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg
 2. Follow the default installation procedures of the package.
-3. Open spotlight and type in `terminal' to open the terminal application.
-4. You will need to install a couple of python packages using pip3
-5. Install readline. In the terminal type:
+3. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
+4. You will need to install a couple of python packages using pip3:
+   - Install readline. In the terminal type:
 
-    sudo pip3 install readline
+        sudo pip3 install readline
 
-6. Install ipython3. In the terminal type:
+   This will ask you for your password. (You won't see any *'s but that's just fine.)
 
-    sudo pip3 install ipython3
+   - Install ipython3. In the terminal type:
 
-7. Install tornado. In the terminal type:
+       sudo pip3 install ipython
 
-    sudo pip3 install tornado
+   - Install tornado. In the terminal type:
 
-8. Install pyzmq. In the terminal type:
+       sudo pip3 install tornado
 
-    sudo pip3 install pyzmq
+   - Install pyzmq. In the terminal type:
 
-9. To check you installation, relaunch the terminal app. Than type in 
+       sudo pip3 install pyzmq
+
+5. To check you installation, relaunch the terminal app. Than type in 
 
     ipython notebook 
 
