@@ -8,7 +8,7 @@ This document describes the installation procedure for all the software needed f
 # All systems
 =============
 
-We advice you to install a good text editor, named Sublime text 2. However, you are absolutely free to use your own favourite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install
+We advice you to install a good text editor, Sublime text 2. However, you are absolutely free to use your own favourite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.
 
 We will be using Python 3 for our course, so lower versions of Python are not sufficient. 
 
@@ -19,7 +19,7 @@ We will be using Python 3 for our course, so lower versions of Python are not su
 1. Download and install pyzo from http://www.pyzo.org/downloads.html (use pyzo_distro-2013b.win32.exe)
 2. After (default) installation python3 resides in the folder c:\pyzo2013b 
 3. Check your installation by double clicking ipython3.exe. 
-4. For the class you will need to use iPython's notebook. To launch the notebook you will have to open `Command Prompt' (`Opdrachtprompt' in Dutch). First go to the right folder by typing:
+4. For the course you will need to use iPython's notebook. To launch the notebook you will have to open `Command Prompt' (`Opdrachtprompt' in Dutch). First go to the right folder by typing:
 
     cd c:\pyzo2013b
 
@@ -59,7 +59,7 @@ If everything goes right, this should open your browser (preferably Google Chrom
 
     ipython notebook 
 
-   If everything went well this should open your browsers (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+   If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
 ========================
 # Linux (Ubuntu/Debian)
