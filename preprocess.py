@@ -39,7 +39,8 @@ def is_end_of_sentence(i, tokens):
     return tokens[i] in ('.','?','!') and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!'))
 
 def splitsentences(tokens):
-    """Split sentences, returns sentences as a list of lists of tokens (each sentence is a list of tokens)"""
+    """Split sentences, returns sentences as a list of lists of tokens
+     (each sentence is a list of tokens)"""
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
@@ -66,7 +67,8 @@ def makefrequencylist(sentences, n=1):
     return freqlist
 
 def readcorpus(corpusdirectory):
-    """Read and preprocess corpus, will iterate over all corpus files one by one, tokenise them, split sentences, and return/yield them """
+    """Read and preprocess corpus, will iterate over all corpus files 
+    one by one, tokenise them, split sentences, and return/yield them """
     for filepath in findcorpusfiles(corpusdirectory):
         filename = os.path.basename(filepath)
         text = readcorpusfile(filepath)

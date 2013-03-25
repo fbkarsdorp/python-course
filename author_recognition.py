@@ -8,8 +8,13 @@ from collections import defaultdict
 from math import log
 from preprocess import tokenise, splitsentences, readcorpusfile, readcorpus, makefrequencylist6
 
+def predict_author(text, training_data):
+    return classify(score(text, training_data))
 
-def predict_author(document, corpus):
+def classify(scores):
+    return max(scores, key=scores.__getitem__)
+
+def score(document, corpus):
     "Predict who wrote the document on the basis of the corpus."
     scores = defaultdict(float)
     # get the number of unique features used in the training corpus
@@ -22,7 +27,7 @@ def predict_author(document, corpus):
         for feature in document:
             scores[author] += log((corpus[author][feature] + 1.0) / 
                                   (author_feature_sum + n_features))
-    return max(scores, key=scores.__getitem__)
+    return scores
 
 def get_author(filename):
     return filename.split('-')[0]
