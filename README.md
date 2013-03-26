@@ -1,4 +1,4 @@
-# Python Programming for the Humanties
+# Python Programming for the Humanities
 
 ## Static Notebooks
 
