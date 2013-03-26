@@ -1,3 +1,5 @@
+# Static Notebooks
+
 [Chapter 1 - Getting started](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%201%20-%20Getting%20started.ipynb)
 
 [Chapter 2 - The basics](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%202%20-%20The%20basics.ipynb)
