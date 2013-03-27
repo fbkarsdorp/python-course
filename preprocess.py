@@ -2,20 +2,22 @@
 # -*- coding: utf8 -*-
 
 import os
+
 from collections import defaultdict
 from string import punctuation as PUNCTUATION
 from glob import glob
 
-WHITESPACE = [" ", "\t", "\n", "\r", "\f", "\v"]
 
-def readcorpusfile(filepath, encoding='utf-8'):    
+WHITESPACE = [" ", "\t", "\n", "\r"]
+
+def read_corpus_file(filepath, encoding='utf-8'):    
     """Returns the full raw text of the corpus document, in a single string"""
     f = open(filepath,'rt', encoding=encoding)
     text = f.read()
     f.close()
     return text
 
-def findcorpusfiles(corpusdirectory):
+def find_corpus_files(corpusdirectory):
     """Returns a list of all filenames of corpus files"""
     return glob(corpusdirectory + "/*.txt")      
           
@@ -38,24 +40,24 @@ def is_end_of_sentence(i, tokens):
     # marker as well? (to deal with ellipsis etc, bonus)
     return tokens[i] in ('.','?','!') and (i == len(tokens) - 1 or not tokens[i+1] in ('.','?','!'))
 
-def splitsentences(tokens):
+def split_sentences(tokens):
     """Split sentences, returns sentences as a list of lists of tokens
      (each sentence is a list of tokens)"""
     sentences = []
     begin = 0
     for i, token in enumerate(tokens):
         if is_end_of_sentence(i, tokens): 
-            sentences.append( tokens[begin:i+1] )
+            sentences.append(tokens[begin:i+1])
             begin = i+1
     return sentences
             
-def getngrams(sentence, n):   
+def get_ngrams(sentence, n):   
     """Extract n-grams from a sentence, where a sentence is a list of tokens"""
     if n == 1: 
         return sentence
     ngrams = []
-    for begin in range(0, len(sentence) - n + 1):
-        ngrams.append( sentence[begin:begin+n] )
+    for begin in range(len(sentence) - n + 1):
+        ngrams.append(sentence[begin:begin+n])
     return ngrams
            
 def makefrequencylist(sentences, n=1):    
@@ -69,9 +71,9 @@ def makefrequencylist(sentences, n=1):
 def readcorpus(corpusdirectory):
     """Read and preprocess corpus, will iterate over all corpus files 
     one by one, tokenise them, split sentences, and return/yield them """
-    for filepath in findcorpusfiles(corpusdirectory):
+    for filepath in find_corpus_files(corpusdirectory):
         filename = os.path.basename(filepath)
-        text = readcorpusfile(filepath)
+        text = read_corpus_file(filepath)
         tokens = tokenise(text)
-        sentences = splitsentences(tokens)
+        sentences = split_sentences(tokens)
         yield filename, sentences
