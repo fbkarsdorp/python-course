@@ -60,12 +60,12 @@ def get_ngrams(sentence, n):
         ngrams.append(sentence[begin:begin+n])
     return ngrams
            
-def makefrequencylist(sentences, n=1):    
-    """Make a frequency list given sentences of a corpus file"""
-    freqlist = defaultdict(int)
+def make_frequency_distribution(sentences, n=1):    
+    """Make a frequency distribution given sentences of a corpus file"""
+    freq_dist = defaultdict(int)
     for sentence in sentences:
-        for ngram in getngrams(sentence,n):
-           freqlist[ngram] += 1
+        for ngram in get_ngrams(sentence,n):
+           freq_dist[ngram] += 1
     return freqlist
 
 def readcorpus(corpusdirectory):
