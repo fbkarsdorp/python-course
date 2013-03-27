@@ -7,7 +7,7 @@ import sys
 from collections import defaultdict
 from math import log
 
-from preprocess import tokenise, readcorpusfile
+from preprocess import tokenise, read_corpus_file
 
 
 def predict_author(text):
@@ -20,7 +20,7 @@ def classify(scores):
 
 def extract_features(filename):
     "Open and tokenise the contents of a file."
-    return tokenise(open(filename, encoding="latin-1").read())
+    return tokenise(read_corpus_file(filename))
 
 def extract_author(filename):
     "Extract the name of the author from the filename."
