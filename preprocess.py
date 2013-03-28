@@ -4,10 +4,9 @@
 import os
 
 from collections import defaultdict
-from string import punctuation as PUNCTUATION
 from glob import glob
 
-
+PUNCTUATION = [".",",",":",";","\"","'","!","?","(",")","[","]","/"]
 WHITESPACE = [" ", "\t", "\n", "\r"]
 
 def read_corpus_file(filepath, encoding='utf-8'):    
@@ -66,7 +65,7 @@ def make_frequency_distribution(sentences, n=1):
     for sentence in sentences:
         for ngram in get_ngrams(sentence,n):
            freq_dist[ngram] += 1
-    return freqlist
+    return freq_dist
 
 def readcorpus(corpusdirectory):
     """Read and preprocess corpus, will iterate over all corpus files 

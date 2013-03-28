@@ -60,7 +60,11 @@ class TwitterGraph():
         for filepath in preprocess.find_corpus_files(corpusdirectory): 
             text = preprocess.read_corpus_file(filepath)
             for line in text.strip("\n"):
-                user, time, tweetmessage = line.split("\t", 3) #do a maximum of three splits
+                try:
+                    user, time, tweetmessage = line.split("\t", 3) #do a maximum of three splits
+                except ValueError:
+                    pass #ignore the error, we have an invalid line in our data
+                    
                 if not user in self.users:
                     #we have a new user, make a new TwitterUser instance and add it to the dictionary:
                     self.users[user] = TwitterUser(user)
