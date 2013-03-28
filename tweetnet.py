@@ -5,13 +5,13 @@ import sys
 import preprocess
 
 
-class Tweet():    
+class Tweet:    
     def __init__(self, message, time):
         self.message = message
         self.time = time
         
 
-class TwitterUser():
+class TwitterUser:
     def __init__(self, name):
         self.name = name
         self.tweets = [] #This will be a list of all tweets 
@@ -56,7 +56,7 @@ class TwitterUser():
                 yield self.name + "," + recipient
  
         
-class TwitterGraph():
+class TwitterGraph:
     def __init__(self, corpusdirectory):        
         self.users = {} #initialisation of dictionary that will store all twitter users. They keys are the names, the values are TwitterUser objects.
 
