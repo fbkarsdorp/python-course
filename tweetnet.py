@@ -63,7 +63,7 @@ class TwitterGraph():
                 try:
                     user, time, tweetmessage = line.split("\t", 3) #do a maximum of three splits
                 except ValueError:
-                    pass #ignore the error, we have an invalid line in our data
+                    continue #we have an invalid line in our data, ignore it and continue the for loop
                     
                 if not user in self.users:
                     #we have a new user, make a new TwitterUser instance and add it to the dictionary:
