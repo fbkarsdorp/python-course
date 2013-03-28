@@ -37,7 +37,7 @@ class TwitterUser():
             tokens = preprocess.tokenise(tweet.message)
             for token in tokens:
                 #Does this token look like twitter's @recipient syntax ??
-                if token[0] == '@': 
+                if token and token[0] == '@': 
                     user = token[1:]
                     if user in self.relations:
                         #the user is already in our relations, strengthen the bond:
@@ -59,7 +59,7 @@ class TwitterGraph():
         #Load the twitter corpus
         for filepath in preprocess.find_corpus_files(corpusdirectory): 
             text = preprocess.read_corpus_file(filepath)
-            for line in text.strip("\n"):
+            for line in text.split("\n"):
                 try:
                     user, time, tweetmessage = line.split("\t", 3) #do a maximum of three splits
                 except ValueError:
@@ -72,7 +72,7 @@ class TwitterGraph():
                 #Does this message contain a @, which indicated there may be @recipient syntax in the message 
                 #Otherwise, we are not interested in the tweet and just ignore it
                 if tweetmessage.find('@') != -1:
-                    tweet = Tweet(user, tweetmessage,time)
+                    tweet = Tweet(self.users[user], tweetmessage,time)
                     self.users[user].append(tweet)
 
         #Compute relations between users
@@ -83,7 +83,8 @@ class TwitterGraph():
         return user in self.users
     
     def __iter__(self):
-        return self.users.values()
+        for user in self.users.values():
+            yield user
 
     def __getitem__(self, user):    
         return self.users[user]
