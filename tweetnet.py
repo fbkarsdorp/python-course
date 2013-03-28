@@ -52,6 +52,11 @@ class TwitterUser():
         for recipient, weight in self.relations.items():
             print(self.name + " -> " + recipient + " (" + str(weight) + ")")
  
+    def gephioutput(self):
+        for recipient, weight in self.relations.items():
+            for i in range(0, weight):
+                yield self.name + "," + recipient
+ 
         
 class TwitterGraph():
     def __init__(self, corpusdirectory):        
@@ -94,3 +99,9 @@ class TwitterGraph():
 twittergraph = TwitterGraph(sys.argv[1])
 for twitteruser in twittergraph:
     twitteruser.printrelations()
+
+f = open('gephigraph.csv','wt',encoding='utf-8')
+for twitteruser in twittergraph:
+    for line in twitteruser.gephioutput(): 
+        f.write(line + "\n")
+f.close()
