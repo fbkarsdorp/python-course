@@ -6,9 +6,7 @@ import preprocess
 
 
 class Tweet():    
-    def __init__(self, user, message, time):
-        assert isinstance(user, TwitterUser)
-        self.user = user
+    def __init__(self, message, time):
         self.message = message
         self.time = time
         
@@ -78,7 +76,7 @@ class TwitterGraph():
                 #Does this message contain a @, which indicated there may be @recipient syntax in the message 
                 #Otherwise, we are not interested in the tweet and just ignore it
                 if tweetmessage.find('@') != -1:
-                    tweet = Tweet(self.users[user], tweetmessage,time)
+                    tweet = Tweet(tweetmessage,time)
                     self.users[user].append(tweet)
 
         #Compute relations between users
