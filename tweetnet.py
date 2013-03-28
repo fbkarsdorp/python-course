@@ -39,13 +39,14 @@ class TwitterUser():
                 #Does this token look like twitter's @recipient syntax ??
                 if token and token[0] == '@': 
                     user = token[1:]
-                    if user in self.relations:
-                        #the user is already in our relations, strengthen the bond:
-                        self.relations[user] += 1
-                    elif user in graph:                        
-                        #the user exists in the graph, we can add a relation!
-                        self.relations[user] = 1
-                    #if the user does not exist in the graph, no relations will be added
+                    if user and user != self.name: #user must not be empty, and must not be the user itself
+                        if user in self.relations:
+                            #the user is already in our relations, strengthen the bond:
+                            self.relations[user] += 1
+                        elif user in graph:                        
+                            #the user exists in the graph, we can add a relation!
+                            self.relations[user] = 1
+                        #if the user does not exist in the graph, no relations will be added
         
     def printrelations(self):
         for recipient, weight in self.relations.items():
