@@ -49,8 +49,8 @@ class TwitterUser():
         
     def printrelations(self):
         for recipient, weight in self.relations.items():
-            print self.name + " -> " + recipient + " (" + str(weight) + ")"
-
+            print(self.name + " -> " + recipient + " (" + str(weight) + ")")
+ 
         
 class TwitterGraph():
     def __init__(self, corpusdirectory):        
