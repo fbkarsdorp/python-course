@@ -34,20 +34,20 @@ If everything goes right, this should open your browser (preferably Google Chrom
 =============
 # OS X 
 =============
+1. First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
+2. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
 
-1. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
-
-2. Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
+3. Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
 
    cd /folder/of/mac-installer.sh 
 
-3. Run the installer by typing, the installer will download some packages and will request for your password to install them.
+4. Run the installer by typing, the installer will download some packages and will request for your password to install them.
 
    sh mac-installer.sh
 
-4. To check your installation, relaunch the terminal.app. Then type in 
+5. To check your installation, relaunch the terminal.app. Then type in 
 
-    ipython notebook 
+    ipython3 notebook 
 
    If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
