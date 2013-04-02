@@ -73,7 +73,7 @@ def make_frequency_distribution(sentences, n=1):
     """Make a frequency distribution given sentences of a corpus file"""
     freq_dist = defaultdict(int)
     for sentence in sentences:
-        for ngram in get_ngrams(sentence,n):
+        for ngram in get_ngrams(sentence,n):            
            freq_dist[ngram] += 1
     return freq_dist
 
