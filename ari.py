@@ -5,9 +5,9 @@ from preprocess import readcorpusfile, tokenise, splitsentences
 def prepare_text(filename):
     return splitsentences(tokenise(readcorpusfile(filename)))
 
-def extract_counts(text):
+def extract_counts(sentences):
     n_chars, n_words, n_sents = 0, 0, 0
-    for sentence in text:
+    for sentence in sentences:
         n_sents += 1
         for word in sentence:
             n_words += 1
