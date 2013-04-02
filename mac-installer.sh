@@ -2,7 +2,9 @@
 mkdir tmp
 cd tmp
 curl http://python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg > python-3.3.0-macosx10.6.dmg
+sleep 1
 hdiutil attach python-3.3.0-macosx10.6.dmg
+sleep 2
 cd /Volumes/Python\ 3.3.0
 sudo installer -pkg Python.mpkg -target /
 cd -
