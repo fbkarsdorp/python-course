@@ -6,8 +6,8 @@ import os
 from collections import defaultdict
 from glob import glob
 
-PUNCTUATION = [".",",",":",";","\"","'","!","?","(",")","[","]","/"]
-WHITESPACE = [" ", "\t", "\n", "\r"]
+PUNCTUATION = (".",",",":",";","\"","'","!","?","(",")","[","]","/")
+WHITESPACE = (" ", "\t", "\n", "\r")
 
 def read_corpus_file(filepath, encoding='utf-8'):    
     """Returns the full raw text of the corpus document, in a single string"""
@@ -24,10 +24,14 @@ def tokenise(text):
     """Tokenises a string and returns a list of tokens"""
     tokens = []
     begin = 0
+    #if the text does not end in a whitespace, we
+    #add one, this simplifies our algorithm, otherwise
+    #it may forget the last word
+    if text[-1] != ' ': text += ' '
     for i, c in enumerate(text):
         if c in PUNCTUATION or c in WHITESPACE:
             token = text[begin:i]
-            tokens.append(token)
+            if token: tokens.append(token)
             if c not in WHITESPACE:
                 tokens.append(c) #anything but spaces and newlines (i.e. punctuation) counts as a token too
             begin = i + 1 #set the begin cursor
@@ -48,6 +52,12 @@ def split_sentences(tokens):
         if is_end_of_sentence(i, tokens): 
             sentences.append(tokens[begin:i+1])
             begin = i+1
+    
+    #If the last sentence does not end nicely with a EOS-marker
+    #we would miss it. Add the last sentence if our 'begin' cursor
+    #isn't at the end yet:    
+    if begin < len(tokens):
+        sentences.append(tokens[begin:])        
     return sentences
             
 def get_ngrams(sentence, n):   
@@ -76,3 +86,5 @@ def readcorpus(corpusdirectory):
         tokens = tokenise(text)
         sentences = split_sentences(tokens)
         yield filename, sentences
+
+
