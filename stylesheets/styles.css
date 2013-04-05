@@ -95,6 +95,13 @@ img {
   max-width:100%;
 }
 
+#logo {
+	background: url(../images/logo.png);
+	min-width: 512px;
+	min-height: 172px;
+	border: 0px;
+}
+
 header {
   width:270px;
   float:left;
