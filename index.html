@@ -30,7 +30,44 @@
       </header>
       <section>
         <h2>Installation instructions</h2>
-        <p>For installation instructions for various platforms, see the file installation-instructions.txt .</p>
+        <p>We advice you to install a good text editor, Sublime text 2. However, you are absolutely free to use your own favourite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.</p>
+
+<p>In the course we will be using software that works best with Google Chrome.  Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. </p>
+
+<p>We will be using Python 3 for our course, so lower versions of Python are not sufficient. Below we describe the installation procedure for Python and the necessary dependencies for this tutorial.</p>
+
+<h3>Windows</h3>
+<ul>
+<li> Download and install pyzo from http://www.pyzo.org/downloads.html (use pyzo_distro-2013b.win32.exe) </li>
+<li> After (default) installation python3 resides in the folder c:\pyzo2013b </li>
+<li> Check your installation by double clicking the ipython executable. </li>
+
+<h3>OS X</h3>
+<ul>
+<li>First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. </li> 
+<li>Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)</li>
+<li>`cd' to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
+
+   cd /folder/of/mac-installer.sh 
+</li>
+<li>Run the installer with the following command. The installer will download some packages and will request for your password to install them.
+
+   sh mac-installer.sh
+</li>
+<li>To check your installation, relaunch the terminal.app. Then type in 
+
+    ipython3 notebook 
+
+   If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+</li>
+</ul>
+
+<h3>Linux (Ubuntu/Debian)</h3>
+<ul>
+<li>Open a terminal</li>
+<li>Type: sudo apt-get install python3 ipython3 ipython3-notebook  </li>
+<li>If you run another Linux distribution, similar packages should be available.</li>
+</ul>
 
 <h2>Opening the Interactive Notebooks</h2>
 
