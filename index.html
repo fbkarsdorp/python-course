@@ -74,13 +74,30 @@
           </li>
         </ul>
 
-        <h3>Linux (Ubuntu/Debian)</h3>
+        <h3>Linux</h3>
+        
+        <p>Ubuntu 12.10 and above:</p>
+        
         <ul>
           <li>Open a terminal</li>
           <li>Type: 
             <p><pre>sudo apt-get install python3 ipython3 ipython3-notebook</pre></p>
           </li>
-          <li>If you run another Linux distribution, similar packages should be available.</li>
+        </ul>
+         
+        <p>If you are on another distribution, look for similar packages. If no package like ipython3-notebook is available for your distribution (such as on Ubuntu 12.04 and below). Then follow the below procedure instead. Adapt the lines with <tt>apt-get</tt> lines for your package manager, on Fedora/RedHat/CentOS and SuSE this will be <tt>yum</tt> instead:</p>
+         
+        <ul>  
+          <li>Open a terminal</li>
+          <li>First deinstall ipython3 if it is already installed through your package manager, we will be reinstalling it from a newer source:
+          	<p><pre>sudo apt-get remove ipython3</pre></p> 
+          </li>
+          <li>Then type: 
+            <p><pre>sudo apt-get install python3 python3-setuptools</pre></p>
+            <p><pre>sudo easy_install3 tornado</pre></p>
+            <p><pre>sudo easy_install3 zmq</pre></p>
+            <p><pre>sudo easy_install3 ipython</pre></p>
+          </li>          
         </ul>
 
 <h2>Opening the Interactive Notebooks</h2>
