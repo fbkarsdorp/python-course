@@ -98,6 +98,7 @@ img {
 #logo {
 	background: url(../images/logo.png) no-repeat;
 	background-size: 100%;
+  min-width: 250px;
 	min-height: 84px;
 	border: 0px;
 }
