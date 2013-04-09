@@ -47,7 +47,7 @@ If everything goes right, this should open your browser (preferably Google Chrom
 
 4. Run the installer with the following command. The installer will download some packages and will request for your password to install them.
 
-   sh mac-installer.sh
+   . mac-installer.sh
 
 5. To check your installation, relaunch the terminal.app. Then type in 
 
