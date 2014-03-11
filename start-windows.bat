@@ -1,1 +1,1 @@
-c:\pyzo2013b\ipython.exe notebook
+c:\pyzo2013c\ipython.exe notebook
