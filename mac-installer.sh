@@ -2,22 +2,22 @@
 mkdir tmp
 cd tmp
 echo "Downloading Python 3"
-curl http://python.org/ftp/python/3.3.0/python-3.3.0-macosx10.6.dmg > python-3.3.0-macosx10.6.dmg
+curl http://www.python.org/ftp/python/3.3.5/python-3.3.5-macosx10.6.dmg > python-3.3.5-macosx10.6.dmg
 
 
 sleep 1
-hdiutil attach python-3.3.0-macosx10.6.dmg
+hdiutil attach python-3.3.5-macosx10.6.dmg
 sleep 2
 
-cd /Volumes/Python\ 3.3.0
+cd /Volumes/Python\ 3.3.5
 echo "The installer will query for your password in order to install Python 3 on your system"
 sudo installer -pkg Python.mpkg -target /
 cd -
 
 echo "Downloading and installing distribute tools"
-curl https://pypi.python.org/packages/source/d/distribute/distribute-0.6.35.tar.gz > distribute-0.6.35.tar.gz
-tar xf distribute-0.6.35.tar.gz
-cd distribute-0.6.35
+curl https://pypi.python.org/packages/source/d/distribute/distribute-0.6.49.tar.gz > distribute-0.6.49.tar.gz
+tar xf distribute-0.6.49.tar.gz
+cd distribute-0.6.49.tar.gz
 python3 setup.py install
 
 
@@ -39,5 +39,8 @@ else
     echo "Python should now be installed in /Library/Frameworks/Python.framework/Versions/3.3/bin/"
 fi
 
+curl https://rawgithub.com/minrk/ipython_extensions/master/nbextensions/toc.js > $(ipython locate)/nbextensions/toc.js
+curl https://rawgithub.com/minrk/ipython_extensions/master/nbextensions/toc.css > $(ipython locate)/nbextensions/toc.css
+echo "IPython.load_extensions('toc');" >> $(ipython locate profile)/static/custom/custom.js
 
 export PATH="/Library/Frameworks/Python.framework/Versions/3.3/bin/:$PATH"
