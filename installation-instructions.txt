@@ -15,10 +15,15 @@ In the course we will be using software that works best with Google Chrome.  Fir
 We will be using Python 3 for our course, so lower versions of Python are not sufficient. 
 
 =============
-# Windows
+# All platforms
 =============
 
-1. Download and install pyzo from http://www.pyzo.org/downloads.html (use pyzo_distro-2013c.win32.exe)
+The easiest way to install all the necessary packages and modules is to download and install the Anaconda Python Distribution from http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html
+
+=============
+# Windows
+=============
+1. Download and install the Anaconda Python Distribution (see above).
 2. After (default) installation python3 resides in the folder c:\pyzo2013c 
 3. Check your installation by double clicking the ipython executable.
 4. For the course you will need to use iPython's notebook. To launch the notebook you will have to open `Command Prompt' (`Opdrachtprompt' in Dutch) via `Start' -> `run' and then type `cmd'. Now first go to the right folder by typing:
@@ -38,6 +43,7 @@ If everything goes right, this should open your browser (preferably Google Chrom
 =============
 # OS X 
 =============
+0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above).
 1. First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
 2. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
 
@@ -58,7 +64,7 @@ If everything goes right, this should open your browser (preferably Google Chrom
 ========================
 # Linux (Ubuntu/Debian)
 ========================
-
+0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
 1. Open a terminal
 2. Type: sudo apt-get install python3 ipython3 ipython3-notebook  
 
