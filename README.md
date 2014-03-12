@@ -11,10 +11,10 @@ On Mac and Linux:
  - go to the directory where you downloaded and extracted our files (example: cd /your/path/to/python-course)
  - Run: ipython3 notebook
 
-On Windows with Pyzo (assuming default installation):
+On Windows with Anaconda (assuming default installation):
  - open the command prompt
  - go to the directory where you downloaded and extracted our files (example: cd c:\your\path\to\python-course)
- - Run: c:\pyzo2013c\ipython.exe notebook
+ - Run: Anaconda's ipytho notebook
 
  Make use not to use Internet Explorer, if that is your default browser, copy the URL that pops up to Google Chrome or Firefox.
 

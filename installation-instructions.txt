@@ -18,7 +18,19 @@ We will be using Python 3 for our course, so lower versions of Python are not su
 # All platforms
 ===============
 
-We strongly advice you to install the Anaconda Python Distribution. This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html
+We strongly advice you to install the Anaconda Python Distribution. This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
+
+Anaconda's default installation is Python 2.7. However, we will use Python 3 in this course. To install all necessary packages for Python 3, type 
+
+$ conda create -n py3k python=3 anaconda
+
+followed by
+
+$ source activate py3k
+
+at the command line (without the $ sign). (If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that launch ipython with:
+
+$ ipython notebook --pylab=inline
 
 =============
 # Windows
