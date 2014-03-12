@@ -30,13 +30,17 @@ at the command line. (If this doesn't work, have a look here: http://continuum.i
     ipython notebook --pylab=inline
 
 ### Windows
-1. Download and install the Anaconda Python Distribution (see above).
-2. Follow the instructions of Anaconda to launch ipython notebook.
-3. If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by IE, copy the URL and paste that in either Google Chrome or Firefox.
+Download and install the Anaconda Python Distribution (see above).
+
+Follow the instructions of Anaconda to launch ipython notebook.
+
+If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by IE, copy the URL and paste that in either Google Chrome or Firefox.
 
 ### OS X 
 Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above).
+
 First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
+
 Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
 
 Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
@@ -55,9 +59,9 @@ If everything went well this should open your browser (best with Google Chrome o
 
 ### Linux (Ubuntu/Debian)
 
-0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
-1. Open a terminal
-2. Type: 
+Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
+
+First open a terminal, then type
 
     sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
 
