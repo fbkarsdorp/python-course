@@ -41,23 +41,25 @@ at the command line. (If this doesn't work, have a look here: http://continuum.i
 
 3. Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
 
-   cd /folder/of/mac-installer.sh 
+    cd /folder/of/mac-installer.sh 
 
 4. Run the installer with the following command. The installer will download some packages and will request for your password to install them.
 
-   . mac-installer.sh
+    . mac-installer.sh
 
 5. To check your installation, relaunch the terminal.app. Then type in 
 
     ipython3 notebook 
 
-   If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
+If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
 ### Linux (Ubuntu/Debian)
 
 0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
 1. Open a terminal
-2. Type: sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
+2. Type: 
+
+    sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
 
 If you run another Linux distribution, similar packages should be available.
 
