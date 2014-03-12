@@ -14,31 +14,18 @@ In the course we will be using software that works best with Google Chrome.  Fir
 
 We will be using Python 3 for our course, so lower versions of Python are not sufficient. 
 
-=============
+===============
 # All platforms
-=============
+===============
 
-The easiest way to install all the necessary packages and modules is to download and install the Anaconda Python Distribution from http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html
+We strongly advice you to install the Anaconda Python Distribution. This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html
 
 =============
 # Windows
 =============
 1. Download and install the Anaconda Python Distribution (see above).
-2. After (default) installation python3 resides in the folder c:\pyzo2013c 
-3. Check your installation by double clicking the ipython executable.
-4. For the course you will need to use iPython's notebook. To launch the notebook you will have to open `Command Prompt' (`Opdrachtprompt' in Dutch) via `Start' -> `run' and then type `cmd'. Now first go to the right folder by typing:
-
-    cd c:\pyzo2013b
-
-After that launch the notebook with:
-
-    ipython_notebook.exe
-
-Or, alternatively:
-    
-    ipython.exe notebook
-
-If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by IE, copy the URL and paste that in either Google Chrome or Firefox.
+2. Follow the instructions of Anaconda to launch ipython notebook.
+3. If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by IE, copy the URL and paste that in either Google Chrome or Firefox.
 
 =============
 # OS X 
@@ -66,6 +53,6 @@ If everything goes right, this should open your browser (preferably Google Chrom
 ========================
 0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
 1. Open a terminal
-2. Type: sudo apt-get install python3 ipython3 ipython3-notebook  
+2. Type: sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
 
 If you run another Linux distribution, similar packages should be available.

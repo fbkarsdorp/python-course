@@ -28,6 +28,9 @@ cd ..
 /Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 tornado
 /Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 pyzmq
 /Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 jinja2
+/Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 numpy
+/Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 scipy
+/Library/Frameworks/Python.framework/Versions/3.3/bin/easy_install-3.3 matplotlib
 cd ..
 #echo "export PATH=\"/Library/Frameworks/Python.framework/Versions/3.3/bin/:\$PATH\"" >> ~/.bash_profile
 
