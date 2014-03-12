@@ -1,7 +1,5 @@
 # Python Programming for the Humanities
 
-## Installation instructions for sublime text 2, python3 and ipython3 on Windows, Mac OS X and Linux
-
 This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
 ## Sublime text
