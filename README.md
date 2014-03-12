@@ -35,21 +35,21 @@ at the command line. (If this doesn't work, have a look here: http://continuum.i
 3. If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by IE, copy the URL and paste that in either Google Chrome or Firefox.
 
 ### OS X 
-0. Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above).
-1. First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
-2. Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
+Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above).
+First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
+Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
 
-3. Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
+Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
 
     cd /folder/of/mac-installer.sh 
 
-4. Run the installer with the following command. The installer will download some packages and will request for your password to install them.
+Run the installer with the following command. The installer will download some packages and will request for your password to install them.
 
     . mac-installer.sh
 
-5. To check your installation, relaunch the terminal.app. Then type in 
+To check your installation, relaunch the terminal.app. Then type in 
 
-    ipython3 notebook 
+    ipython3 notebook --pylab=inline
 
 If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
