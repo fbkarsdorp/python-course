@@ -26,7 +26,7 @@ This is a fall-back method.
 
 [Chapter 2 - First steps into text processing](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%202%20-%20First%20steps.ipynb)
 
-[Chapter 3 - Text Preprocessing](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%203%20-%20Text%20Preprocessing.ipynb)
+[Chapter 3 - Text Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%203%20-%20Text%20analysis.ipynb)
 
 [Chapter 4 - Programming principles](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%204%20-%20Programming%20principles.ipynb)
 
