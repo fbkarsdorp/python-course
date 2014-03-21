@@ -1,1 +1,1 @@
-c:\pyzo2013c\ipython.exe notebook
+c:\Anaconda\Scripts\ipython.bat notebook --pylab=inline
