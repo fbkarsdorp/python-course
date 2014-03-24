@@ -1,1 +1,1 @@
-c:\Anaconda\Scripts\ipython.bat notebook --pylab=inline
+ipython notebook --pylab=inline
