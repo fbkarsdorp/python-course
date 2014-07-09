@@ -1,50 +1,39 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
 <style>
-    @font-face {
-        font-family: "Computer Modern";
-        src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-    }
-    div.cell {
+    @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,700italic);
+
+    div.cell{
+        font-family:'roboto','helvetica','sans';
+        color:#444;
         width:800px;
-        margin-left:auto;
+        margin-left:16% !important;
         margin-right:auto;
     }
-    div.cell, .input.hbox {
-    display:block;
-}
-    h1 {
-        font-family: "Charis SIL", Palatino, serif;
-    }
-    h4{
-        margin-top:12px;
-        margin-bottom: 3px;
-       }
+
     div.text_cell_render{
-        font-family: Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+        font-family: 'roboto','helvetica','sans';
         line-height: 145%;
         font-size: 120%;
+        color:#444;
         width:800px;
         margin-left:auto;
         margin-right:auto;
     }
     .CodeMirror{
-            font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
+            font-family: "Menlo", source-code-pro,Consolas, monospace;
     }
     .prompt{
         display: None;
-    }
-    .text_cell_render h5 {
-        font-weight: 300;
-        font-size: 16pt;
-        color: #4057A1;
-        font-style: italic;
-        margin-bottom: .5em;
-        margin-top: 0.5em;
-        display: block;
-    }
-    
+    }    
     .warning{
         color: rgb( 240, 20, 20 )
-        }
+        }  
 </style>
 <script>
     MathJax.Hub.Config({
