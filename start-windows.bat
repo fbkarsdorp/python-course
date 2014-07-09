@@ -1,1 +1,1 @@
-ipython notebook --pylab=inline
+ipython notebook --matplotlib=inline
