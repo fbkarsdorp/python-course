@@ -14,7 +14,7 @@ from whoosh.index import create_in, open_dir
 from bs4 import BeautifulSoup
 
 
-pdf_schema = Schema(id = ID(unique=True), 
+pdf_schema = Schema(id = ID(unique=True, stored=True), 
                     path = ID(stored=True), 
                     source = ID(stored=True),
                     author = TEXT(stored=True), 
