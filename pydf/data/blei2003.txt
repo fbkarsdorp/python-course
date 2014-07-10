@@ -1,3 +1,4 @@
+
 Journal of Machine Learning Research 3 (2003) 993-1022
 
 Submitted 2/02; Published 1/03
@@ -26,12 +27,12 @@ We describe latent Dirichlet allocation (LDA), a generative probabilistic model 
 In this paper we consider the problem of modeling text corpora and other collections of discrete data. The goal is to ﬁnd short descriptions of the members of a collection that enable efﬁcient processing of large collections while preserving the essential statistical relationships that are useful for basic tasks such as classiﬁcation, novelty detection, summarization, and similarity and relevance judgments. Signiﬁcant progress has been made on this problem by researchers in the ﬁeld of information retrieval (IR) (Baeza-Yates and Ribeiro-Neto, 1999). The basic methodology proposed by IR researchers for text corpora—a methodology successfully deployed in modern Internet search engines—reduces each document in the corpus to a vector of real numbers, each of which represents ratios of counts. In the popular tf-idf scheme (Salton and McGill, 1983), a basic vocabulary of “words” or “terms” is chosen, and, for each document in the corpus, a count is formed of the number of occurrences of each word. After suitable normalization, this term frequency count is compared to an inverse document frequency count, which measures the number of occurrences of a
 c 2003 David M. Blei, Andrew Y. Ng and Michael I. Jordan.
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 word in the entire corpus (generally on a log scale, and again suitably normalized). The end result is a term-by-document matrix X whose columns contain the tf-idf values for each of the documents in the corpus. Thus the tf-idf scheme reduces documents of arbitrary length to ﬁxed-length lists of numbers. While the tf-idf reduction has some appealing features—notably in its basic identiﬁcation of sets of words that are discriminative for documents in the collection—the approach also provides a relatively small amount of reduction in description length and reveals little in the way of inter- or intradocument statistical structure. To address these shortcomings, IR researchers have proposed several other dimensionality reduction techniques, most notably latent semantic indexing (LSI) (Deerwester et al., 1990). LSI uses a singular value decomposition of the X matrix to identify a linear subspace in the space of tf-idf features that captures most of the variance in the collection. This approach can achieve signiﬁcant compression in large collections. Furthermore, Deerwester et al. argue that the derived features of LSI, which are linear combinations of the original tf-idf features, can capture some aspects of basic linguistic notions such as synonymy and polysemy. To substantiate the claims regarding LSI, and to study its relative strengths and weaknesses, it is useful to develop a generative probabilistic model of text corpora and to study the ability of LSI to recover aspects of the generative model from data (Papadimitriou et al., 1998). Given a generative model of text, however, it is not clear why one should adopt the LSI methodology—one can attempt to proceed more directly, ﬁtting the model to data using maximum likelihood or Bayesian methods. A signiﬁcant step forward in this regard was made by Hofmann (1999), who presented the probabilistic LSI (pLSI) model, also known as the aspect model, as an alternative to LSI. The pLSI approach, which we describe in detail in Section 4.3, models each word in a document as a sample from a mixture model, where the mixture components are multinomial random variables that can be viewed as representations of “topics.” Thus each word is generated from a single topic, and different words in a document may be generated from different topics. Each document is represented as a list of mixing proportions for these mixture components and thereby reduced to a probability distribution on a ﬁxed set of topics. This distribution is the “reduced description” associated with the document. While Hofmann’s work is a useful step toward probabilistic modeling of text, it is incomplete in that it provides no probabilistic model at the level of documents. In pLSI, each document is represented as a list of numbers (the mixing proportions for topics), and there is no generative probabilistic model for these numbers. This leads to several problems: (1) the number of parameters in the model grows linearly with the size of the corpus, which leads to serious problems with overﬁtting, and (2) it is not clear how to assign probability to a document outside of the training set. To see how to proceed beyond pLSI, let us consider the fundamental probabilistic assumptions underlying the class of dimensionality reduction methods that includes LSI and pLSI. All of these methods are based on the “bag-of-words” assumption—that the order of words in a document can be neglected. In the language of probability theory, this is an assumption of exchangeability for the words in a document (Aldous, 1985). Moreover, although less often stated formally, these methods also assume that documents are exchangeable; the speciﬁc ordering of the documents in a corpus can also be neglected. A classic representation theorem due to de Finetti (1990) establishes that any collection of exchangeable random variables has a representation as a mixture distribution—in general an inﬁnite mixture. Thus, if we wish to consider exchangeable representations for documents and words, we need to consider mixture models that capture the exchangeability of both words and documents.
 994
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 This line of thinking leads to the latent Dirichlet allocation (LDA) model that we present in the current paper. It is important to emphasize that an assumption of exchangeability is not equivalent to an assumption that the random variables are independent and identically distributed. Rather, exchangeability essentially can be interpreted as meaning “conditionally independent and identically distributed,” where the conditioning is with respect to an underlying latent parameter of a probability distribution. Conditionally, the joint distribution of the random variables is simple and factored while marginally over the latent parameter, the joint distribution can be quite complex. Thus, while an assumption of exchangeability is clearly a major simplifying assumption in the domain of text modeling, and its principal justiﬁcation is that it leads to methods that are computationally efﬁcient, the exchangeability assumptions do not necessarily lead to methods that are restricted to simple frequency counts or linear operations. We aim to demonstrate in the current paper that, by taking the de Finetti theorem seriously, we can capture signiﬁcant intra-document statistical structure via the mixing distribution. It is also worth noting that there are a large number of generalizations of the basic notion of exchangeability, including various forms of partial exchangeability, and that representation theorems are available for these cases as well (Diaconis, 1988). Thus, while the work that we discuss in the current paper focuses on simple “bag-of-words” models, which lead to mixture distributions for single words (unigrams), our methods are also applicable to richer models that involve mixtures for larger structural units such as n-grams or paragraphs. The paper is organized as follows. In Section 2 we introduce basic notation and terminology. The LDA model is presented in Section 3 and is compared to related latent variable models in Section 4. We discuss inference and parameter estimation for LDA in Section 5. An illustrative example of ﬁtting LDA to data is provided in Section 6. Empirical results in text modeling, text classiﬁcation and collaborative ﬁltering are presented in Section 7. Finally, Section 8 presents our conclusions.
 
@@ -39,7 +40,7 @@ This line of thinking leads to the latent Dirichlet allocation (LDA) model that 
 We use the language of text collections throughout the paper, referring to entities such as “words,” “documents,” and “corpora.” This is useful in that it helps to guide intuition, particularly when we introduce latent variables which aim to capture abstract notions such as topics. It is important to note, however, that the LDA model is not necessarily tied to text, and has applications to other problems involving collections of data, including data from domains such as collaborative ﬁltering, content-based image retrieval and bioinformatics. Indeed, in Section 7.3, we present experimental results in the collaborative ﬁltering domain. Formally, we deﬁne the following terms: • A word is the basic unit of discrete data, deﬁned to be an item from a vocabulary indexed by {1, . . . , V }. We represent words using unit-basis vectors that have a single component equal to one and all other components equal to zero. Thus, using superscripts to denote components, the vth word in the vocabulary is represented by a V -vector w such that wv = 1 and wu = 0 for u = v. • A document is a sequence of N words denoted by w = (w1 , w2 , . . . , wN ), where wn is the nth word in the sequence. • A corpus is a collection of M documents denoted by D = {w1 , w2 , . . . , wM }.
 995
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 We wish to ﬁnd a probabilistic model of a corpus that not only assigns high probability to members of the corpus, but also assigns high probability to other “similar” documents.
 
@@ -55,7 +56,7 @@ n =1 N
 
 996
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 β
 
@@ -103,7 +104,7 @@ d θd .
 The LDA model is represented as a probabilistic graphical model in Figure 1. As the ﬁgure makes clear, there are three levels to the LDA representation. The parameters α and β are corpuslevel parameters, assumed to be sampled once in the process of generating a corpus. The variables θd are document-level variables, sampled once per document. Finally, the variables zdn and wdn are word-level variables and are sampled once for each word in each document. It is important to distinguish LDA from a simple Dirichlet-multinomial clustering model. A classical clustering model would involve a two-level model in which a Dirichlet is sampled once for a corpus, a multinomial clustering variable is selected once for each document in the corpus, and a set of words are selected for the document conditional on the cluster variable. As with many clustering models, such a model restricts a document to being associated with a single topic. LDA, on the other hand, involves three levels, and notably the topic node is sampled repeatedly within the document. Under this model, documents can be associated with multiple topics. Structures similar to that shown in Figure 1 are often studied in Bayesian statistical modeling, where they are referred to as hierarchical models (Gelman et al., 1995), or more precisely as conditionally independent hierarchical models (Kass and Steffey, 1989). Such models are also often referred to as parametric empirical Bayes models, a term that refers not only to a particular model structure, but also to the methods used for estimating parameters in the model (Morris, 1983). Indeed, as we discuss in Section 5, we adopt the empirical Bayes approach to estimating parameters such as α and β in simple implementations of LDA, but we also consider fuller Bayesian approaches as well.
 997
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 3.1 LDA and exchangeability A ﬁnite set of random variables {z1 , . . . , zN } is said to be exchangeable if the joint distribution is invariant to permutation. If π is a permutation of the integers from 1 to N : p(z1 , . . . , zN ) = p(zπ(1) , . . . , zπ(N ) ). An inﬁnite sequence of random variables is inﬁnitely exchangeable if every ﬁnite subsequence is exchangeable. De Finetti’s representation theorem states that the joint distribution of an inﬁnitely exchangeable sequence of random variables is as if a random parameter were drawn from some distribution and then the random variables in question were independent and identically distributed, conditioned on that parameter. In LDA, we assume that words are generated by topics (by ﬁxed conditional distributions) and that those topics are inﬁnitely exchangeable within a document. By de Finetti’s theorem, the probability of a sequence of words and topics must therefore have the form: p(w, z) = p(θ)
 
@@ -131,7 +132,7 @@ d θ,
 where p(wn | θ, β) are the mixture components and p(θ | α) are the mixture weights. Figure 2 illustrates this interpretation of LDA. It depicts the distribution on p(w | θ, β) which is induced from a particular instance of an LDA model. Note that this distribution on the (V − 1)simplex is attained with only k + kV parameters yet exhibits a very interesting multimodal structure.
 998
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 Figure 2: An example density on unigram distributions p(w | θ, β) under LDA for three words and four topics. The triangle embedded in the x-y plane is the 2-D simplex representing all possible multinomial distributions over three words. Each of the vertices of the triangle corresponds to a deterministic distribution that assigns probability one to one of the words; the midpoint of an edge gives probability 0.5 to two of the words; and the centroid of the triangle is the uniform distribution over all three words. The four points marked with an x are the locations of the multinomial distributions p(w | z) for each of the four topics, and the surface shown on top of the simplex is an example of a density over the (V − 1)-simplex (multinomial distributions of words) given by LDA.
 
@@ -142,7 +143,7 @@ n =1 N
 This is illustrated in the graphical model in Figure 3a.
 999
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 w
 
@@ -180,7 +181,7 @@ z n =1 N
 When estimated from a corpus, the word distributions can be viewed as representations of topics under the assumption that each document exhibits exactly one topic. As the empirical results in Section 7 illustrate, this assumption is often too limiting to effectively model a large collection of documents. In contrast, the LDA model allows documents to exhibit multiple topics to different degrees. This is achieved at a cost of just one additional parameter: there are k − 1 parameters associated with p(z) in the mixture of unigrams, versus the k parameters associated with p(θ | α) in LDA. 4.3 Probabilistic latent semantic indexing Probabilistic latent semantic indexing (pLSI) is another widely used document model (Hofmann, 1999). The pLSI model, illustrated in Figure 3c, posits that a document label d and a word wn are
 1000
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 conditionally independent given an unobserved topic z: p(d , wn ) = p(d ) ∑ p(wn | z) p(z | d ).
 z
@@ -188,7 +189,7 @@ z
 The pLSI model attempts to relax the simplifying assumption made in the mixture of unigrams model that each document is generated from only one topic. In a sense, it does capture the possibility that a document may contain multiple topics since p(z | d ) serves as the mixture weights of the topics for a particular document d . However, it is important to note that d is a dummy index into the list of documents in the training set. Thus, d is a multinomial random variable with as many possible values as there are training documents and the model learns the topic mixtures p(z | d ) only for those documents on which it is trained. For this reason, pLSI is not a well-deﬁned generative model of documents; there is no natural way to use it to assign probability to a previously unseen document. A further difﬁculty with pLSI, which also stems from the use of a distribution indexed by training documents, is that the number of parameters which must be estimated grows linearly with the number of training documents. The parameters for a k-topic pLSI model are k multinomial distributions of size V and M mixtures over the k hidden topics. This gives kV + kM parameters and therefore linear growth in M . The linear growth in parameters suggests that the model is prone to overﬁtting and, empirically, overﬁtting is indeed a serious problem (see Section 7.1). In practice, a tempering heuristic is used to smooth the parameters of the model for acceptable predictive performance. It has been shown, however, that overﬁtting can occur even when tempering is used (Popescul et al., 2001). LDA overcomes both of these problems by treating the topic mixture weights as a k-parameter hidden random variable rather than a large set of individual parameters which are explicitly linked to the training set. As described in Section 3, LDA is a well-deﬁned generative model and generalizes easily to new documents. Furthermore, the k + kV parameters in a k-topic LDA model do not grow with the size of the training corpus. We will see in Section 7.1 that LDA does not suffer from the same overﬁtting issues as pLSI. 4.4 A geometric interpretation A good way of illustrating the differences between LDA and the other latent topic models is by considering the geometry of the latent space, and seeing how a document is represented in that geometry under each model. All four of the models described above—unigram, mixture of unigrams, pLSI, and LDA— operate in the space of distributions over words. Each such distribution can be viewed as a point on the (V − 1)-simplex, which we call the word simplex. The unigram model ﬁnds a single point on the word simplex and posits that all words in the corpus come from the corresponding distribution. The latent variable models consider k points on the word simplex and form a sub-simplex based on those points, which we call the topic simplex. Note that any point on the topic simplex is also a point on the word simplex. The different latent variable models use the topic simplex in different ways to generate a document. • The mixture of unigrams model posits that for each document, one of the k points on the word simplex (that is, one of the corners of the topic simplex) is chosen randomly and all the words of the document are drawn from the distribution corresponding to that point.
 1001
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 11 00 topic 1 000000000000000000000 111111111111111111111 00 11 000000000000000000000 111111111111111111111 00 11 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 topic simplex 000000000000000000000 111111111111111111111 000000000000000000000 x 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 word simplex x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 x 111111111111111111111 000000000000000000000 000000000000000000000 111111111111111111111 x x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x 000000000000000000000 x 111111111111111111111 x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x x 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 x x111111111111111111111 x 000000000000000000000 x 000000000000000000000 111111111111111111111 topic 2 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 000000000000000000000 111111111111111111111 00 11 0 1 00000000000000000000000000000 11111111111111111111111111111 00 11 0 1 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 topic 00000000000000000000000000000 3 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111 00000000000000000000000000000 11111111111111111111111111111
 
@@ -200,7 +201,7 @@ Figure 4: The topic simplex for three topics embedded in the word simplex for th
 We have described the motivation behind LDA and illustrated its conceptual advantages over other latent topic models. In this section, we turn our attention to procedures for inference and parameter estimation under LDA.
 1002
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 β
 
@@ -256,7 +257,7 @@ d θ,
 a function which is intractable due to the coupling between θ and β in the summation over latent topics (Dickey, 1983). Dickey shows that this function is an expectation under a particular extension to the Dirichlet distribution which can be represented with special hypergeometric functions. It has been used in a Bayesian context for censored discrete data to represent the posterior on θ which, in that setting, is a random parameter (Dickey et al., 1987). Although the posterior distribution is intractable for exact inference, a wide variety of approximate inference algorithms can be considered for LDA, including Laplace approximation, variational approximation, and Markov chain Monte Carlo (Jordan, 1999). In this section we describe a simple convexity-based variational algorithm for inference in LDA, and discuss some of the alternatives in Section 8. 5.2 Variational inference The basic idea of convexity-based variational inference is to make use of Jensen’s inequality to obtain an adjustable lower bound on the log likelihood (Jordan et al., 1999). Essentially, one considers a family of lower bounds, indexed by a set of variational parameters. The variational parameters are chosen by an optimization procedure that attempts to ﬁnd the tightest possible lower bound. A simple way to obtain a tractable family of lower bounds is to consider simple modiﬁcations of the original graphical model in which some of the edges and nodes are removed. Consider in particular the LDA model shown in Figure 5 (left). The problematic coupling between θ and β
 1003
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 arises due to the edges between θ, z, and w. By dropping these edges and the w nodes, and endowing the resulting simpliﬁed graphical model with free variational parameters, we obtain a family of distributions on the latent variables. This family is characterized by the following variational distribution: q(θ, z | γ, φ) = q(θ | γ) ∏ q(zn | φn ),
 n =1 N
@@ -277,7 +278,7 @@ As we show in Appendix A.1, the expectation in the multinomial update can be com
 where Ψ is the ﬁrst derivative of the log Γ function which is computable via Taylor approximations (Abramowitz and Stegun, 1970). Eqs. (6) and (7) have an appealing intuitive interpretation. The Dirichlet update is a posterior Dirichlet given expected observations taken under the variational distribution, E[zn | φn ]. The multinomial update is akin to using Bayes’ theorem, p(zn | wn ) ∝ p(wn | zn ) p(zn ), where p(zn ) is approximated by the exponential of the expected value of its logarithm under the variational distribution. It is important to note that the variational distribution is actually a conditional distribution, varying as a function of w. This occurs because the optimization problem in Eq. (5) is conducted for ﬁxed w, and thus yields optimizing parameters (γ∗ , φ∗ ) that are a function of w. We can write the resulting variational distribution as q(θ, z | γ∗ (w), φ∗ (w)), where we have made the dependence on w explicit. Thus the variational distribution can be viewed as an approximation to the posterior distribution p(θ, z | w, α, β). In the language of text, the optimizing parameters (γ∗ (w), φ∗ (w)) are document-speciﬁc. In particular, we view the Dirichlet parameters γ∗ (w) as providing a representation of a document in the topic simplex.
 1004
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 (1) (2) (3) (4) (5) (6) (7) (8) (9)
 
@@ -297,7 +298,7 @@ As we have described above, the quantity p(w | α, β) cannot be computed tracta
 2. (M-step) Maximize the resulting lower bound on the log likelihood with respect to the model parameters α and β. This corresponds to ﬁnding maximum likelihood estimates with expected sufﬁcient statistics for each document under the approximate posterior which is computed in the E-step.
 1005
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 η
 
@@ -331,7 +332,7 @@ We further show that the M-step update for Dirichlet parameter α can be impleme
 
 1006
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 conditioned on the data. Thus we move beyond the empirical Bayes procedure of Section 5.3 and consider a fuller Bayesian approach to LDA. We consider a variational approach to Bayesian inference that places a separable distribution on the random variables β, θ, and z (Attias, 2000): q(β1:k , z1:M , θ1:M | λ, φ, γ) = ∏ Dir(βi | λi ) ∏ qd (θd , zd | φd , γd ),
 i=1 d =1 k M
@@ -347,7 +348,7 @@ Iterating these equations to convergence yields an approximate posterior distrib
 In this section, we provide an illustrative example of the use of an LDA model on real data. Our data are 16,000 documents from a subset of the TREC AP corpus (Harman, 1992). After removing a standard list of stop words, we used the EM algorithm described in Section 5.3 to ﬁnd the Dirichlet and conditional multinomial parameters for a 100-topic LDA model. The top words from some of the resulting multinomial distributions p(w | z) are illustrated in Figure 8 (top). As we have hoped, these distributions seem to capture some of the underlying topics in the corpus (and we have named them according to these topics). As we emphasized in Section 4, one of the advantages of LDA over related latent variable models is that it provides well-deﬁned inference procedures for previously unseen documents. Indeed, we can illustrate how LDA works by performing inference on a held-out document and examining the resulting variational posterior parameters. Figure 8 (bottom) is a document from the TREC AP corpus which was not used for parameter estimation. Using the algorithm in Section 5.1, we computed the variational posterior Dirichlet parameters γ for the article and variational posterior multinomial parameters φn for each word in the article. Recall that the ith posterior Dirichlet parameter γi is approximately the ith prior Dirichlet parameter αi plus the expected number of words which were generated by the ith topic (see Eq. 7). Therefore, the prior Dirichlet parameters subtracted from the posterior Dirichlet parameters indicate the expected number of words which were allocated to each topic for a particular document. For the example article in Figure 8 (bottom), most of the γi are close to αi . Four topics, however, are signiﬁcantly larger (by this, we mean γi − αi ≥ 1). Looking at the corresponding distributions over words identiﬁes the topics which mixed to form this document (Figure 8, top).
 1007
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 Further insight comes from examining the φn parameters. These distributions approximate p(zn | w) and tend to peak towards one of the k possible topic values. In the article text in Figure 8, the words are color coded according to these values (i.e., the ith color is used if qn (zi n = 1) > 0.9). With this illustration, one can identify how the different topics mixed in the document text. While demonstrating the power of LDA, the posterior analysis also highlights some of its limitations. In particular, the bag-of-words assumption allows words that should be generated by the same topic (e.g., “William Randolph Hearst Foundation”) to be allocated to several different topics. Overcoming this limitation would require some form of extension of the basic LDA model; in particular, we might relax the bag-of-words assumption by assuming partial exchangeability or Markovianity of word sequences.
 
@@ -359,7 +360,7 @@ In our experiments, we used a corpus of scientiﬁc abstracts from the C. Elegan
 
 1008
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 ÖØ×
 
@@ -383,7 +384,7 @@ The William Randolph Hearst Foundation will give $1.25 million to Lincoln Center
 
 1009
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 3400 3200 3000 2800 Smoothed Unigram Smoothed Mixt. Unigrams LDA Fold in pLSI
 
@@ -421,7 +422,7 @@ Figure 9: Perplexity results on the nematode (Top) and AP (Bottom) corpora for L
 
 1010
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 Num. topics (k) 2 5 10 20 50 100 200
 
@@ -437,12 +438,12 @@ d n =1 z N
 Essentially, we are integrating over the empirical distribution on the topic simplex (see Figure 4). This method of inference, though theoretically sound, causes the model to overﬁt. The documentspeciﬁc topic distribution has some components which are close to zero for those topics that do not appear in the document. Thus, certain words will have very small probability in the estimates of
 1011
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 each mixture component. When determining the probability of a new document through marginalization, only those training documents which exhibit a similar proportion of topics will contribute to the likelihood. For a given training document’s topic proportions, any word which has small probability in all the constituent topics will cause the perplexity to explode. As k gets larger, the chance that a training document will exhibit topics that cover all the words in the new document decreases and thus the perplexity grows. Note that pLSI does not overﬁt as quickly (with respect to k) as the mixture of unigrams. This overﬁtting problem essentially stems from the restriction that each future document exhibit the same topic proportions as were seen in one or more of the training documents. Given this constraint, we are not free to choose the most likely proportions of topics for the new document. An alternative approach is the “folding-in” heuristic suggested by Hofmann (1999), where one ignores the p(z|d ) parameters and reﬁts p(z|dnew ). Note that this gives the pLSI model an unfair advantage by allowing it to reﬁt k − 1 parameters to the test data. LDA suffers from neither of these problems. As in pLSI, each document can exhibit a different proportion of underlying topics. However, LDA can easily assign probability to a new document; no heuristics are needed for a new document to be endowed with a different set of topic proportions than were associated with documents in the training corpus. Figure 9 presents the perplexity for each model on both corpora for different values of k. The pLSI model and mixture of unigrams are suitably corrected for overﬁtting. The latent variable models perform better than the simple unigram model. LDA consistently performs better than the other models. 7.2 Document classiﬁcation In the text classiﬁcation problem, we wish to classify a document into two or more mutually exclusive classes. As in any classiﬁcation problem, we may wish to consider generative approaches or discriminative approaches. In particular, by using one LDA module for each class, we obtain a generative model for classiﬁcation. It is also of interest to use LDA in the discriminative framework, and this is our focus in this section. A challenging aspect of the document classiﬁcation problem is the choice of features. Treating individual words as features yields a rich but very large feature set (Joachims, 1999). One way to reduce this feature set is to use an LDA model for dimensionality reduction. In particular, LDA reduces any document to a ﬁxed set of real-valued features—the posterior Dirichlet parameters γ∗ (w) associated with the document. It is of interest to see how much discriminatory information we lose in reducing the document description to these parameters. We conducted two binary classiﬁcation experiments using the Reuters-21578 dataset. The dataset contains 8000 documents and 15,818 words. In these experiments, we estimated the parameters of an LDA model on all the documents, without reference to their true class label. We then trained a support vector machine (SVM) on the low-dimensional representations provided by LDA and compared this SVM to an SVM trained on all the word features. Using the SVMLight software package (Joachims, 1999), we compared an SVM trained on all the word features with those trained on features induced by a 50-topic LDA model. Note that we reduce the feature space by 99.6 percent in this case.
 1012
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 95
 
@@ -498,7 +499,7 @@ Figure 11: Results for collaborative ﬁltering on the EachMovie data.
 Figure 10 shows our results. We see that there is little reduction in classiﬁcation performance in using the LDA-based features; indeed, in almost all cases the performance is improved with the LDA features. Although these results need further substantiation, they suggest that the topic-based representation provided by LDA may be useful as a fast ﬁltering algorithm for feature selection in text classiﬁcation.
 1013
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 7.3 Collaborative ﬁltering Our ﬁnal experiment uses the EachMovie collaborative ﬁltering data. In this data set, a collection of users indicates their preferred movie choices. A user and the movies chosen are analogous to a document and the words in the document (respectively). The collaborative ﬁltering task is as follows. We train a model on a fully observed set of users. Then, for each unobserved user, we are shown all but one of the movies preferred by that user and are asked to predict what the held-out movie is. The different algorithms are evaluated according to the likelihood they assign to the held-out movie. More precisely, deﬁne the predictive perplexity on M test users to be: predictive-perplexity(Dtest ) = exp − ∑M d =1 log p(wd ,Nd | wd ,1:Nd −1 ) ) . M
 
@@ -516,7 +517,7 @@ where p(θ|wobs ) is given by the variational inference method described in Sect
 We have described latent Dirichlet allocation, a ﬂexible generative probabilistic model for collections of discrete data. LDA is based on a simple exchangeability assumption for the words and topics in a document; it is therefore realized by a straightforward application of de Finetti’s representation theorem. We can view LDA as a dimensionality reduction technique, in the spirit of LSI, but with proper underlying generative probabilistic semantics that make sense for the type of data that it models. Exact inference is intractable for LDA, but any of a large suite of approximate inference algorithms can be used for inference and parameter estimation within the LDA framework. We have presented a simple convexity-based variational approach for inference, showing that it yields a fast
 1014
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 algorithm resulting in reasonable comparative performance in terms of test set likelihood. Other approaches that might be considered include Laplace approximation, higher-order variational techniques, and Monte Carlo methods. In particular, Leisink and Kappen (2002) have presented a general methodology for converting low-order variational lower bounds into higher-order variational bounds. It is also possible to achieve higher accuracy by dispensing with the requirement of maintaining a bound, and indeed Minka and Lafferty (2002) have shown that improved inferential accuracy can be obtained for the LDA model via a higher-order variational technique known as expectation propagation. Finally, Grifﬁths and Steyvers (2002) have presented a Markov chain Monte Carlo algorithm for LDA. LDA is a simple model, and although we view it as a competitor to methods such as LSI and pLSI in the setting of dimensionality reduction for document collections and other discrete corpora, it is also intended to be illustrative of the way in which probabilistic models can be scaled up to provide useful inferential machinery in domains involving multiple levels of structure. Indeed, the principal advantages of generative models such as LDA include their modularity and their extensibility. As a probabilistic module, LDA can be readily embedded in a more complex model— a property that is not possessed by LSI. In recent work we have used pairs of LDA modules to model relationships between images and their corresponding descriptive captions (Blei and Jordan, 2002). Moreover, there are numerous possible extensions of LDA. For example, LDA is readily extended to continuous data or other non-multinomial data. As is the case for other mixture models, including ﬁnite mixture models and hidden Markov models, the “emission” probability p(wn | zn ) contributes only a likelihood value to the inference procedures for LDA, and other likelihoods are readily substituted in its place. In particular, it is straightforward to develop a continuous variant of LDA in which Gaussian observables are used in place of multinomials. Another simple extension of LDA comes from allowing mixtures of Dirichlet distributions in the place of the single Dirichlet of LDA. This allows a richer structure in the latent topic space and in particular allows a form of document clustering that is different from the clustering that is achieved via shared topics. Finally, a variety of extensions of LDA can be considered in which the distributions on the topic variables are elaborated. For example, we could arrange the topics in a time series, essentially relaxing the full exchangeability assumption to one of partial exchangeability. We could also consider partially exchangeable models in which we condition on exogenous variables; thus, for example, the topic distribution could be conditioned on features such as “paragraph” or “sentence,” providing a more powerful text model that makes use of information obtained from a parser.
 
@@ -527,14 +528,14 @@ References
 M. Abramowitz and I. Stegun, editors. Handbook of Mathematical Functions. Dover, New York, 1970.
 1015
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 ´ D. Aldous. Exchangeability and related topics. In Ecole d’´ et´ e de probabilit´ es de Saint-Flour, XIII— 1983, pages 1–198. Springer, Berlin, 1985. H. Attias. A variational Bayesian framework for graphical models. In Advances in Neural Information Processing Systems 12, 2000. L. Avery. Caenorrhabditis genetic center http://elegans.swmed.edu/wli/cgcbib. bibliography. 2002. URL
 
 R. Baeza-Yates and B. Ribeiro-Neto. Modern Information Retrieval. ACM Press, New York, 1999. D. Blei and M. Jordan. Modeling annotated data. Technical Report UCB//CSD-02-1202, U.C. Berkeley Computer Science Division, 2002. B. de Finetti. Theory of probability. Vol. 1-2. John Wiley & Sons Ltd., Chichester, 1990. Reprint of the 1975 translation. S. Deerwester, S. Dumais, T. Landauer, G. Furnas, and R. Harshman. Indexing by latent semantic analysis. Journal of the American Society of Information Science, 41(6):391–407, 1990. P. Diaconis. Recent progress on de Finetti’s notions of exchangeability. In Bayesian statistics, 3 (Valencia, 1987), pages 111–125. Oxford Univ. Press, New York, 1988. J. Dickey. Multiple hypergeometric functions: Probabilistic interpretations and statistical uses. Journal of the American Statistical Association, 78:628–637, 1983. J. Dickey, J. Jiang, and J. Kadane. Bayesian methods for censored categorical data. Journal of the American Statistical Association, 82:773–781, 1987. A. Gelman, J. Carlin, H. Stern, and D. Rubin. Bayesian data analysis. Chapman & Hall, London, 1995. T. Grifﬁths and M. Steyvers. A probabilistic approach to semantic representation. In Proceedings of the 24th Annual Conference of the Cognitive Science Society, 2002. D. Harman. Overview of the ﬁrst text retrieval conference (TREC-1). In Proceedings of the First Text Retrieval Conference (TREC-1), pages 1–20, 1992. D. Heckerman and M. Meila. An experimental comparison of several clustering and initialization methods. Machine Learning, 42:9–29, 2001. T. Hofmann. Probabilistic latent semantic indexing. Proceedings of the Twenty-Second Annual International SIGIR Conference, 1999. F. Jelinek. Statistical Methods for Speech Recognition. MIT Press, Cambridge, MA, 1997. T. Joachims. Making large-scale SVM learning practical. In Advances in Kernel Methods - Support Vector Learning. M.I.T. Press, 1999. M. Jordan, editor. Learning in Graphical Models. MIT Press, Cambridge, MA, 1999.
 1016
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 M. Jordan, Z. Ghahramani, T. Jaakkola, and L. Saul. Introduction to variational methods for graphical models. Machine Learning, 37:183–233, 1999. R. Kass and D. Steffey. Approximate Bayesian inference in conditionally independent hierarchical models (parametric empirical Bayes models). Journal of the American Statistical Association, 84 (407):717–726, 1989. M. Leisink and H. Kappen. General lower bounds based on computer generated higher order expansions. In Uncertainty in Artiﬁcial Intelligence, Proceedings of the Eighteenth Conference, 2002. T. Minka. Estimating a Dirichlet distribution. Technical report, M.I.T., 2000. T. P. Minka and J. Lafferty. Expectation-propagation for the generative aspect model. In Uncertainty in Artiﬁcial Intelligence (UAI), 2002. C. Morris. Parametric empirical Bayes inference: Theory and applications. Journal of the American Statistical Association, 78(381):47–65, 1983. With discussion. K. Nigam, J. Lafferty, and A. McCallum. Using maximum entropy for text classiﬁcation. IJCAI-99 Workshop on Machine Learning for Information Filtering, pages 61–67, 1999. K. Nigam, A. McCallum, S. Thrun, and T. Mitchell. Text classiﬁcation from labeled and unlabeled documents using EM. Machine Learning, 39(2/3):103–134, 2000. C. Papadimitriou, H. Tamaki, P. Raghavan, and S. Vempala. Latent semantic indexing: A probabilistic analysis. pages 159–168, 1998. A. Popescul, L. Ungar, D. Pennock, and S. Lawrence. Probabilistic models for uniﬁed collaborative and content-based recommendation in sparse-data environments. In Uncertainty in Artiﬁcial Intelligence, Proceedings of the Seventeenth Conference, 2001. J. Rennie. Improving multi-class text classiﬁcation with naive Bayes. Technical Report AITR-2001004, M.I.T., 2001. G. Ronning. Maximum likelihood estimation of Dirichlet distributions. Journal of Statistcal Computation and Simulation, 34(4):215–221, 1989. G. Salton and M. McGill, editors. Introduction to Modern Information Retrieval. McGraw-Hill, 1983.
 
@@ -542,7 +543,7 @@ Appendix A. Inference and parameter estimation
 In this appendix, we derive the variational inference procedure (Eqs. 6 and 7) and the parameter maximization procedure for the conditional multinomial (Eq. 9) and for the Dirichlet. We begin by deriving a useful property of the Dirichlet distribution.
 1017
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 A.1 Computing E[log(θi | α)] The need to compute the expected value of the log of a single probability component under the Dirichlet arises repeatedly in deriving the inference and parameter estimation procedures for LDA. This value can be easily computed from the natural parameterization of the exponential family representation of the Dirichlet distribution. Recall that a distribution is in the exponential family if it can be written in the form: p(x | η) = h(x) exp ηT T (x) − A(η) , where η is the natural parameter, T (x) is the sufﬁcient statistic, and A(η) is the log of the normalization factor. We can write the Dirichlet in this form by exponentiating the log of Eq. (1): p(θ | α) = exp
 k k ∑k i=1 (αi − 1) log θi + log Γ ∑i=1 αi − ∑i=1 log Γ(αi ) .
@@ -555,7 +556,7 @@ Multiplying by the gradient, we obtain the ith component: (H −1 g)i =
 
 1018
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 where c=
 −1 z−1 + ∑k j =1 h j
@@ -595,7 +596,7 @@ L (γ, φ; α, β) = Eq [log p(θ | α)] + Eq [log p(z | θ)] + Eq [log p(w | z,
 
 (14)
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 Finally, we expand Eq. (14) in terms of the model parameters (α, β) and the variational parameters (γ, φ). Each of the ﬁve lines below expands one of the ﬁve terms in the bound:
 
@@ -649,7 +650,7 @@ where we have dropped the arguments of L for simplicity, and where the subscript
 
 (16)
 
-L ATENT D IRICHLET A LLOCATION
+L ATENT D IRICHLET A LLOCATION
 
 A.3.2 VARIATIONAL D IRICHLET Next, we maximize Eq. (15) with respect to γi , the ith component of the posterior Dirichlet parameter. The terms containing γi are:
 
@@ -684,7 +685,7 @@ k
 Since Eq. (17) depends on the variational multinomial φ, full variational inference requires alternating between Eqs. (16) and (17) until the bound converges. A.4 Parameter estimation In this ﬁnal section, we consider the problem of obtaining empirical Bayes estimates of the model parameters α and β. We solve this problem by using the variational lower bound as a surrogate for the (intractable) marginal log likelihood, with the variational parameters φ and γ ﬁxed to the values found by variational inference. We then obtain (approximate) empirical Bayes estimates by maximizing this lower bound with respect to the model parameters. We have thus far considered the log likelihood for a single document. Given our assumption of exchangeability for the documents, the overall log likelihood of a corpus D = {w1 , w2 , . . . , wM } is the sum of the log likelihoods for individual documents; moreover, the overall variational lower bound is the sum of the individual variational bounds. In the remainder of this section, we abuse notation by using L for the total variational bound, indexing the document-speciﬁc terms in the individual bounds by d , and summing over all the documents. Recall from Section 5.3 that our overall approach to ﬁnding empirical Bayes estimates is based on a variational EM procedure. In the variational E-step, discussed in Appendix A.3, we maximize the bound L (γ, φ; α, β) with respect to the variational parameters γ and φ. In the M-step, which we describe in this section, we maximize the bound with respect to the model parameters α and β. The overall procedure can thus be viewed as coordinate ascent in L .
 1021
 
-B LEI , N G , AND J ORDAN
+B LEI , N G , AND J ORDAN
 
 A.4.1 C ONDITIONAL
 
@@ -735,4 +736,3 @@ This derivative depends on α j , where j = i, and we therefore must use an iter
 
 1022
 
-
