@@ -8,43 +8,50 @@ from whoosh.qparser import QueryParser
 config = configparser.ConfigParser()
 config.read("pydf.ini")
 
+
 def search(query):
     index = open_dir(config.get("filepaths", "index directory"))
     query = QueryParser("text", index.schema).parse(query)
     with index.searcher() as searcher:
         results = searcher.search(
             query, limit=config.getint("indexer.options", "search limit"), terms=True)
-        html_out = ''
         results.fragmenter.maxchars = 300
         results.fragmenter.surround = 50
-        for result in results:
-            fileid = result['id']
-            title = result['title'] if 'title' in result else ''
-            author = result['author'] if 'author' in result else ''
+        for hit in results:
+            result = dict(hit)
             with open(result['path']) as infile:
-                html_out += """<div id='match'>
-                              <span id='id'>
-                                 <a href='%s' target='_blank'>%s</a>
-                              </span>
-                              <span id='author'>%s</span>
-                              </br>
-                              <span id='text'>%s</span>
-                           </div>
-                        """ % (result['source'], title if title else fileid,
-                               author, 
-                               result.highlights("text", text=infile.read(), top=3))
-        return html_out
+                result['snippet'] = hit.highlights("text", infile.read(), top=3)
+            yield result
+
+
+def to_html(result):
+    "Return a representation of a search result in HTML."
+    title = result['title'] if 'title' in result else result['id']
+    author = result['author'] if 'author' in result else ''
+    html = """<div id='match'>
+                 <span id='id'>
+                    <a href='%s' target='_blank'>%s</a>
+                 </span>
+                 </br>
+                 <span id='author'>%s</span>
+                 </br>
+                 <span id='text'>%s</span>
+              </div>
+           """ % (result['source'], title, author, result['snippet'])
+    return html
 
 
 app = Flask(__name__)
 
-@app.route('/api', methods=['GET', 'POST'])
-def api():
-    return jsonify({'html': search(request.form['q'].strip())})
+@app.route('/searchbox', methods=['GET', 'POST'])
+def searchbox():
+    query = request.form['q'].strip()
+    html_results = '\n'.join(map(to_html, search(query)))
+    return jsonify({'html': html_results})
 
 @app.route('/')
 def index():
-    return render_template('index.html', title='PDF viewer')
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True, host='localhost', port=8000, use_reloader=True, threaded=True)

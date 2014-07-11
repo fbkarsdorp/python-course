@@ -14,10 +14,10 @@ from whoosh.index import create_in, open_dir
 from bs4 import BeautifulSoup
 
 
-pdf_schema = Schema(id = ID(unique=True, stored=True), 
-                    path = ID(stored=True), 
+pdf_schema = Schema(id = ID(unique=True, stored=True),
+                    path = ID(stored=True),
                     source = ID(stored=True),
-                    author = TEXT(stored=True), 
+                    author = TEXT(stored=True),
                     title = TEXT(stored=True),
                     text = TEXT)
 
@@ -30,6 +30,7 @@ def fileid(filepath):
     """
     base, _ = splitext(basename(filepath))
     return base
+
 
 def parse_html(filename):
     """Extract the Author, Title and Text from a HTML file
@@ -46,10 +47,10 @@ def parse_html(filename):
 
 
 def pdftotext(pdf, outdir='.', sourcedir='source', p2t='pdftotext', move=False):
-    """Convert a pdf to a text file. Extract the Author and Title 
+    """Convert a pdf to a text file. Extract the Author and Title
     and return a dictionary consisting of the author, title, text
-    the source path, the path of the converted text file and the 
-    file ID."""    
+    the source path, the path of the converted text file and the
+    file ID."""
     filename = fileid(pdf)
     htmlpath = os.path.join(outdir, filename + '.html')
     txtpath = os.path.join(outdir, filename + '.txt')
@@ -90,7 +91,7 @@ def index_collection(configpath):
             if fileid(filepath) not in indexed or recompile:
                 try:
                     data = pdftotext(
-                        filepath, 
+                        filepath,
                         outdir=config.get("filepaths", "txt directory"),
                         sourcedir=config.get("filepaths", "source directory"),
                         p2t=config.get('programpaths', 'pdftotext'),
