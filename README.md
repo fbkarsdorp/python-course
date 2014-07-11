@@ -1,6 +1,6 @@
 # Python Programming for the Humanities
 
-The programming language [Python](http://www.python.org") is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this tutorial you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. This tutorial expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 8 chapters:
+The programming language [Python](http://www.python.org) is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this tutorial you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. This tutorial expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 8 chapters:
 
 - [Chapter 1](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%201%20-%20Getting%20started.ipynb) starts with the very basics where we will try to whet your appetite. You will be asked to do many short quizes to test whether you really understand the material.
 - [Chapter 2](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%202%20-%20First%20steps.ipynb) will introduce you to the task of text processing. You will learn how to read files from 
@@ -10,7 +10,7 @@ The programming language [Python](http://www.python.org") is widely used within 
 - In [Chapter 5](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%25205%2520-%2520Building%2520NLP%2520Applications.ipynb) things are becoming increasingly difficult. First, you will write a program to compute the readability of texts. Next, you will implement the basic algorithm that is behind authorship attribution!
 - In [Chapter 6](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%206%20-%20Object%20Oriented%20Programming.ipynb) we will introduce you to the concept of Object Oriented Programming. You will implement a network structure with which you can analyze relations between people on Twitter.
 - From Chapter 7 onwards, we will start working on more real applications. In [Chapter 7](http://nbviewer.ipython.org/urls/raw.github.com/) we will work on systems for archiving and searching through collections of text. We introduce you to the field of Information Retrieval and build a simple information retrieval system. This chapter furthers your knowledge about Object Oriented Programming.
-- In [Chapter 8](http://nbviewer.ipython.org/urls/raw.github.com/) we create a complete web applicatioon to search through your own library of PDF files. This will be our first real application ready for use by end-users. The Chapter introduces you to many modules available in the standard library as well as third-party modules.
+- In [Chapter 8](http://nbviewer.ipython.org/urls/raw.github.com/) we create a complete web application to search through your own library of PDF files. This will be our first real application ready for use by end-users. The chapter introduces you to many modules available in the standard library as well as third-party modules.
 
 This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
@@ -30,11 +30,11 @@ We will be using Python 3 for our course. Lower versions are supported, but not 
 
 Anaconda's default installation is Python 2.7. However, we will use Python 3 in this course. To install all necessary packages for Python 3, type 
 
-    conda create -n py3k python=3 anaconda
+    conda create -n py34 python=3.4 anaconda
 
 followed by
 
-    source activate py3k
+    source activate py34
 
 at the command line. (If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
 
@@ -62,7 +62,7 @@ Run the installer with the following command. The installer will download some p
 
 To check your installation, relaunch the terminal.app. Then type in 
 
-    ipython3 notebook --pylab=inline
+    ipython3 notebook --matplotlib=inline
 
 If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
 
