@@ -36,13 +36,16 @@ def parse_html(filename):
     """Extract the Author, Title and Text from a HTML file
     which was produced by pdftotext with the option -htmlmeta."""
     with open(filename) as infile:
-        html = BeautifulSoup(infile, from_encoding='utf-8')
+        html = BeautifulSoup(infile, "html.parser", from_encoding='utf-8')
         d = {'text': html.pre.text}
         if html.title is not None:
             d['title'] = html.title.text
         for meta in html.findAll('meta'):
-            if meta['name'] in ('Author', 'Title'):
-                d[meta['name'].lower()] = meta['content']
+            try:
+                if meta['name'] in ('Author', 'Title'):
+                    d[meta['name'].lower()] = meta['content']
+            except KeyError:
+                continue
         return d
 
 
