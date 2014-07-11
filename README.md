@@ -92,6 +92,6 @@ This is a fall-back method.
 
 [Chapter 6 - Objected Oriented Programming](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%206%20-%20Object%20Oriented%20Programming.ipynb)
 
-[Chapter 7 - Archiving and Searching](http://nbviewer.ipython.org/urls/raw.github.com/)
+[Chapter 7 - Archiving and Searching](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%207%20-%20Archiving%20and%20Searching.ipynb)
 
-[Chapter 8 - Practical: Searching your own PDF library](http://nbviewer.ipython.org/urls/raw.github.com/)
+[Chapter 8 - Practical: Searching your own PDF library](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%208%20-%20PDF%20Search%20App.ipynb)
