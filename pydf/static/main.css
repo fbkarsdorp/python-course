@@ -8,7 +8,14 @@ html,body {
 }
 
 body {
-	background:#eee;
+	background:#FFFFFF;
+	padding: 0;
+    margin: 0;
+}
+
+#bar {
+	height:4px;
+    background: #00C5A1;
 }
 
 #head {
@@ -26,7 +33,7 @@ body {
 	position:absolute;
 	width:100%;
 	padding:3.5em;
-	max-width: 900px;
+	max-width: 750px;
 	display:block;
 	top:5px;
     line-height:1.3em;
@@ -41,37 +48,62 @@ body {
 
 #search input {
 	padding:0.5em 1em;
-	border:1px solid #ccc;
+	border:0px solid #ccc;
 	outline-style:none;
-	width:900px;
+	background: #F7F7F7;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width:750px;
 	line-height:2em;
 	font-family:Menlo, courier;
 	font-size:15px;
 }
 
-#search input:focus {
-	border:1px solid #999;
-}
-
 #results {
 	margin:2em 0;
 	min-height:50px;
+	text-align:left;
+	width:750px;
 }
 
 #results.loading {
-	background:#eeeeee url("images/ajax-loader.gif") no-repeat 10px 10px;
+	background:#FFFFFF url("images/ajax-loader.gif") no-repeat 10px 10px;
 }
 #results #match {
 	margin:0.5em 0;
-	border-bottom:1px solid #ccc;
+	border:0px solid #ccc;
+	-moz-border-radius: 3px;
+	width: 750px;
+    border-radius: 3px;
 	line-height:2em;
 	padding:0.5em 1em;
+	font-size: 14px;
 }
 
-#results #match #idee {
+#results #match:hover {
+	background: #F7F7F7;
+}
+
+#results #match #id {
 	font-weight:bold;
+	font-size: 20px;
+}
+
+#results #match #id a {
+	text-decoration:none;
+	color: #444;
+}
+
+#results #match:hover #id a {
+	color: #00C5A1;
+}
+
+#results #match #author {
+	font-style:italic;
+	font-size:17px;
 }
 
 #results #match #text {
 	margin-left:1em;
+	color: #5E5F61;
 }
