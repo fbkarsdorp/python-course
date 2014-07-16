@@ -12,6 +12,7 @@ The programming language [Python](http://www.python.org) is widely used within m
 - From Chapter 7 onwards, we will start working on more real applications. In [Chapter 7](http://nbviewer.ipython.org/urls/raw.github.com/) we will work on systems for archiving and searching through collections of text. We introduce you to the field of Information Retrieval and build a simple information retrieval system. This chapter furthers your knowledge about Object Oriented Programming.
 - In [Chapter 8](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%208%20-%20PDF%20Search%20App.ipynb) we create a complete web application to search through your own library of PDF files. This will be our first real application ready for use by end-users. The chapter introduces you to many modules available in the standard library as well as third-party modules.
 - [Chapter 9](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%209%20-%20Learning%20from%20Examples.ipynb) will introduce you to some of the more advanced techniques used in automatic classification. We will implement a naive bayes classifier, show you a number of evaluation metrics and strategies and briefly address the question of parameter optimization.
+- [Chapter 10](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%2010%20-%20Learning%20without%20Supervision.ipynb) focusses on hierarchical clustering, one of the important methods for unsupervized learning. We explain the basic methods for doining hierarchical clustering and create a simple implementation in Python.
 
 This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
@@ -21,7 +22,7 @@ We advice you to install a good text editor, Sublime text 2 for example. However
 
 In the course we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. 
 
-We will be using Python 3 for our course. Lower versions are supported, but not recommended.
+We will be using Python 3 for our course. Lower versions are more or less supported, but not recommended.
 
 
 ## Installation
@@ -98,3 +99,5 @@ This is a fall-back method.
 [Chapter 8 - Practical: Searching your own PDF library](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%208%20-%20PDF%20Search%20App.ipynb)
 
 [Chapter 9 - Learning from Examples](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%209%20-%20Learning%20from%20Examples.ipynb)
+
+[Chapter 10 - Learning without Supervision](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%2010%20-%20Learning%20without%20Supervision.ipynb)
