@@ -3,7 +3,7 @@
 cd "$(dirname "$0")"
 which ipython3
 if [[ $? == 0 ]]; then
-	ipython3 notebook --pylab=inline
+	ipython3 notebook --matploblib=inline
 else
-	ipython notebook --pylab=inline
+	ipython notebook --matplotlib=inline
 fi
