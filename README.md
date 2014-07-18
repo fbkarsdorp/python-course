@@ -38,7 +38,11 @@ followed by
 
     source activate py34
 
-at the command line. (If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
+at the command line. If you work on a Windows machine, use the following command instead:
+
+    activate py34
+
+(If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
 
 ### Windows
 Download and install the Anaconda Python Distribution (see above).
