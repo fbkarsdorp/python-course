@@ -856,7 +856,11 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
+<<<<<<< HEAD
+      "**b)** Once we have obtained the document length for each document, computing the average document length is trivial. In this exercize we will focus on the IDF weights. To compute the IDF weight for a particular term $q_i$ we need to know two things:\n",
+=======
       "**b)** Once we have obtained the document length for each document, computing the average document length is trivial. In this exercise we will focus on the IDF weights. To compute the IDF weight for a particular term $q_i$ we need to know two things:\n",
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "\n",
       "1. how many documents $N$ there are in our collection;\n",
       "2. in how many documents that term occurs: $n(q_i)$.\n",
@@ -884,7 +888,10 @@
       "                \n",
       "    def index_document(self, doc_id, words):\n",
       "        \"Add a new unindexed document to the system.\"\n",
+<<<<<<< HEAD
       "        self.doc_ids.append(doc_id)\n",
+=======
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "        # insert you code here\n",
       "    \n",
       "    def index_collection(self, filenames):\n",
@@ -1153,6 +1160,10 @@
      "collapsed": false,
      "input": [
       "class WebSearcher(IRSystem):\n",
+<<<<<<< HEAD
+=======
+      "    \n",
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "    # insert your code here"
      ],
      "language": "python",
