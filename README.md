@@ -101,3 +101,8 @@ This is a fall-back method.
 [Chapter 9 - Learning from Examples](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%209%20-%20Learning%20from%20Examples.ipynb)
 
 [Chapter 10 - Learning without Supervision](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%2010%20-%20Learning%20without%20Supervision.ipynb)
+
+## Contributors
+- Folgert Karsdorp
+- Maarten van Gompel
+- Matt Munson
