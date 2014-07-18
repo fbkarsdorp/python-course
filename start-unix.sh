@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source activate py34
+
 cd "$(dirname "$0")"
 which ipython3
 if [[ $? == 0 ]]; then
