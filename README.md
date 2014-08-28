@@ -1,4 +1,6 @@
-# Python Programming for the Humanities
+# Programming for the Humanities
+
+**DRAFT VERSION OF BOOK "Programming for the Humanities"**
 
 The programming language [Python](http://www.python.org) is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this book you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. The book expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 10 chapters. Chapter 5 and Chapter 6 are still in draft status and not ready for use.
 
@@ -108,5 +110,5 @@ This is a fall-back method.
 
 ## Contributors
 - Folgert Karsdorp
-- Maarten van Gompel
-- Matt Munson
+- Mike Kestemont
+- Allen Riddell
