@@ -3,8 +3,8 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#555;
-  font-weight:300;
+  color:#444;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,13 +44,13 @@ a:hover {
 
 a small {
   font-size:11px;
-  color:#555;
+  color:#444;
   margin-top:-0.6em;
   display:block;
 }
 
 a:hover small {
-  color:#555;
+  color:#444;
 }
 
 .wrapper {
@@ -155,7 +155,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#555;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -289,7 +289,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:13pt;
     color:#444;
   }
 }
