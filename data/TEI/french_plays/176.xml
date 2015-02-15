@@ -1,0 +1,2782 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MAXIMIAN, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1662</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Ernest FIEVRE, Mai 2009</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">MAXIMIAN</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1662'>M. DC LXII.</docDate>
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id=''></privilege>
+			<acheveImprime id=''></acheveImprime>
+			<printer>Imprimé à Rouen ; et Paris : A. Courbé et G. de Luyne.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1662-02' location='Hôtel de Bourgogne'>Représenté pour la première fois en février 1662 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="CONSTANTIN" civil='M'>CONSTANTIN</role>, Empereur.</castItem>
+		<castItem><role id="MAXIMIAN" civil='M'>MAXIMIAN</role>, père de Fauste
+</castItem>
+		<castItem><role id="FAUSTE" civil='F'>FAUSTE</role>, femme de Constantin.</castItem>
+		<castItem><role id="CONSTANCE" civil='F'>CONSTANCE</role>, soeur de Constantin.</castItem>
+		<castItem><role id="SEVERE" civil='M'>SÉVÈRE</role>, lieutenant Général des Armées de l'Empereur.</castItem>
+		<castItem><role id="LICINE" civil='M'>LICINE</role>, amant de Constance.</castItem>
+		<castItem><role id="MAXIME" civil='M'>MAXIME</role>, capitaine des Gardes de l'Empereur.</castItem>
+		<castItem><role id="MARTIAN" civil='M'>MARTIAN</role>, confident de Maximin.</castItem>
+		<castItem><role id="FLAVIE" civil='F'>FLAVIE</role>, confidente de Fauste.</castItem>
+		<castItem><role id="LUCIE" civil='F'>LUCIE</role>, confidente de Constance.</castItem>
+		<castItem><role id="SUITE_EMPEREUR" civil='G'>Suite de l'Empereur</role>.</castItem>
+</castList>
+<set location='Marseille' country='France' periode='IVer avant JC' link=''>Le scène est à Marseille.</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Maximian, Licine. </head>
+<sp who='LICINE'><SPEAKER>LICINE.</SPEAKER>
+	<l id='1'>Seigneur, je le confesse, on ne peut plus rien faire, </l>
+	<l id='2'>Dont la gloire ne cède à celle de Sévère ; </l>
+	<l id='3'>L'honneur d'avoir rangé la Gaule sous nos lois </l>
+	<l id='4'>Ajoute un nouveau lustre à ses autres exploits, </l>
+	<l id='5'>Et de plus beaux lauriers après cette conquête </l>
+	<l id='6'>Auront peut-être peine à couronner sa tête. </l>
+	<l id='7'>Pour s'acquitter vers lui, je vois sans murmurer </l>
+	<l id='8'>Que du nom de César on songe à l'honorer ; </l>
+	<l id='9'>Mais ce rang lui doit être assez de récompense, </l>
+	<l id='10'>Sans en prendre aucun droit sur le coeur de Constance, </l>
+	<l id='11'>Et je ne puis, Seigneur, que je ne sois surpris </l>
+	<l id='12'>De voir qu'à tant de gloire on joigne un si haut prix. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='13'>Cette gloire où pour lui je vois que l'on s'obstine, </l>
+	<l id='14'>A lieu d'être sensible au généreux Licine, </l>
+	<l id='15'>Et si j'en étais crû, l'on verrait aujourd'hui </l>
+	<l id='16'>Un peu moins de distance entre Sévère et lui. </l>
+	<l id='17'>Dans un pareil degré de vertu, de mérite, </l>
+	<l id='18'>Constantin doit à l'un quand vers l'autre il s'acquitte, </l>
+	<l id='19'>Et quoi qu'ait fait Sévère, il est beau de penser </l>
+	<l id='20'>Que qui l'élève trop semble vous abaisser ; </l>
+	<l id='21'>Mais d'un retour brillant de plus d'une victoire, </l>
+	<l id='22'>Le seul rang de César peut consacrer sa gloire ; </l>
+	<l id='23'>Et sans voir que c'est faire un attentat sur vous... </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='24'>Non, Seigneur, de ce rang je ne suis point jaloux. </l>
+	<l id='25'>Qu'il coure vers le Trône où son destin l'entraîne, </l>
+	<l id='26'>Qu'on l'y comble d'honneurs, je le verrai sans peine, </l>
+	<l id='27'>Mais pour partage au moins, assuré d'y monter, </l>
+	<l id='28'>Qu'il laisse à mon espoir un coeur à disputer. </l>
+	<l id='29'>J'en dis trop, mais en vain je me fais violence, </l>
+	<l id='30'>Pour pouvoir de mes voeux vous cacher l'arrogance. </l>
+	<l id='31'>Du malheur qui les fuit la douce cruauté </l>
+	<l id='32'>Arrache à mon respect l'aveu de leur fierté ; </l>
+	<l id='33'>De mille attraits divins la Princesse est pourvue, </l>
+	<l id='34'>Sa beauté charme tout, j'ai des yeux, je l'ai vue, </l>
+	<l id='35'>Et dans ce droit pressant qu'elle a de tout charmer, </l>
+	<l id='36'>Puisque j'ai pu la voir il m'a fallu l'aimer. </l>
+	<l id='37'>Non qu'enfin je demande en l'ardeur qui me presse </l>
+	<l id='38'>Que contre elle pour moi l'Empereur s'intéresse. </l>
+	<l id='39'>Qu'il souffre seulement que pour donner sa foi, </l>
+	<l id='40'>Elle n'ait dans ses voeux à consulter que soi ; </l>
+	<l id='41'>La grandeur de son rang est peu digne d'envie </l>
+	<l id='42'>Si sous son fier éclat il la tient asservie, </l>
+	<l id='43'>Et fait dépendre un coeur né pour donner des lois </l>
+	<l id='44'>Du besoin de l'État, et non pas de son choix ; </l>
+	<l id='45'>Daignez-en à ma flamme épargner le supplice, </l>
+	<l id='46'>Vos conseils peuvent tout contre cette injustice, </l>
+	<l id='47'>Et quoi qu' à l'Empereur vous vouliez inspirer </l>
+	<l id='48'>Il vous estime trop pour n'y pas déférer. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='49'>Depuis que Constantin en épousant ma Fille </l>
+	<l id='50'>A remis malgré moi le Trône en ma famille, </l>
+	<l id='51'>Pour soutenir un rang que l'on m'a vu quitter, </l>
+	<l id='52'>Il a crû presque en tout me devoir consulter : </l>
+	<l id='53'>Mais l'éclat des grandeurs qu'il destine à Sévère </l>
+	<l id='54'>De sa Soeur avec lui rend l'hymen nécessaire, </l>
+	<l id='55'>Et dans ce grand projet on doit peu s'étonner </l>
+	<l id='56'>S'il lui prescrit un choix qui la doit couronner. </l>
+	<l id='57'>C'est par là qu'ayant su l'amour qui vous engage, </l>
+	<l id='58'>J'ai du Trône à Sévère envié l'avantage, </l>
+	<l id='59'>Et combattu longtemps ce partage inégal, </l>
+	<l id='60'>Dont l'injustice accable un illustre rival ; </l>
+	<l id='61'>Mais la Gaule soumise emporte la balance, </l>
+	<l id='62'>Constantin donne tout à la reconnaissance, </l>
+	<l id='63'>Et dans ce qu'il prépare, il ne peut endurer </l>
+	<l id='64'>Le vif ressentiment qui vous fait murmurer. </l>
+	<l id='65'>Il le sait, et pour vous sa colère est à craindre. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='66'>L'amour qu'on désespère a-t-il à se contraindre, </l>
+	<l id='67'>Et si malgré Constance on engage sa foi, </l>
+	<l id='68'>Suis-je en état, hélas, de répondre de moi ? </l>
+	<l id='69'>Encor un coup, Seigneur, permettez-moi l'audace </l>
+	<l id='70'>Qui force mon amour à vous demander grâce. </l>
+	<l id='71'>Il aspire à des droits qu'on cherche à violer, </l>
+	<l id='72' part='i'>Et ma foi... </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Maximian, Licine, Maxime, Martian.</head>
+<sp who='MAXIME'><speaker>MAXIME, à Licine.</speaker>
+	<l id='72' part='f'>L'Empereur demande à vous parler. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='73' part='i'>À moi, Maxime ? </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME.</speaker>
+	<l id='73' part='f'>À vous, Seigneur ; son ordre presse. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN, à Licine.</speaker>
+	<l id='74'>Ménagez son courroux avec un peu d'adresse, </l>
+	<l id='75'>Quand vous l'aurez quitté, j'aurai soin de le voir. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='76'>Enfin c'est de vous seul que dépend mon espoir. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Maximian, Martian. </head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='77'>Et bien, cher Martian, que faut-il que j'espère ? </l>
+	<l id='78'>Dans quels secrets transports as-tu trouvé Sévère ? </l>
+	<l id='79'>Licine est mécontent, et si j'en puis juger, </l>
+	<l id='80'>La Princesse offre assez de quoi nous l'engager. </l>
+	<l id='81'>Son hymen résolu tient son âme alarmée ; </l>
+	<l id='82'>Mais comme enfin Sévère est maître de l'armée, </l>
+	<l id='83'>Qu'en vain sans son appui j'ose me découvrir, </l>
+	<l id='84'>Avant toute autre chose il faut nous l'acquérir. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='85'>Vous le ferez sans peine, et la secrète rage </l>
+	<l id='86'>Où la perte de Fauste abîme son courage, </l>
+	<l id='87'>D'une douleur si forte arme son désespoir, </l>
+	<l id='88'>Qu'il n'est plus en état d'écouter son devoir. </l>
+	<l id='89'>Aussi pour lui, Seigneur, la disgrâce est cruelle ; </l>
+	<l id='90'>Il aime votre Fille, il se fait aimer d'elle, </l>
+	<l id='91'>Vous approuvez sa flamme, il part, et trouve enfin </l>
+	<l id='92'>Qu'elle est à son retour Femme de Constantin. </l>
+	<l id='93'>Je viens de le quitter comme frappé du foudre, </l>
+	<l id='94'>Il brûle de la voir, et tremble à s'y résoudre, </l>
+	<l id='95'>Et l'amas des lauriers dont il revient couvert, </l>
+	<l id='96'>N'a rien qu'il considère auprès de ce qu'il perd. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='97'>Prenons donc à nos voeux un temps si favorable, </l>
+	<l id='98'>Pressons adroitement la douleur qui l'accable, </l>
+	<l id='99'>Et l'aigrissons si bien qu'il se laisse flatter </l>
+	<l id='100'>De voir ma Fille à lui s'il ose l'accepter. </l>
+	<l id='101'>Par moi, de son hymen ayant reçu parole, </l>
+	<l id='102'>Montrons-lui qu'en effet c'est son bien qu'on lui vole, </l>
+	<l id='103'>Et que jamais l'Amour n'échauffa son désir, </l>
+	<l id='104'>Si quand il le retrouve il craint de s'en saisir. </l>
+	<l id='105'>Un amant qu'en secret le désespoir anime, </l>
+	<l id='106'>Vient insensiblement sur le penchant du crime, </l>
+	<l id='107'>Ébloui d'un faux jour il aime à s'y placer, </l>
+	<l id='108'>Et pour peu qu'on le pousse, il s'y laisse glisser. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='109'>C'est ce qu'attend Sévère, et puisque l'entreprise </l>
+	<l id='110'>N'est qu'un projet mal sûr à moins qu'il l'autorise, </l>
+	<l id='111'>Ménagez un traité dont l'accord résolu </l>
+	<l id='112'>Vous acquiert sur l'Armée un pouvoir absolu. </l>
+	<l id='113'>Quand à nous seconder vous l'aurez su réduire, </l>
+	<l id='114'>Licine sera moins en état de nous nuire. </l>
+	<l id='115'>Les Conjurés sont prêts, et perdant Constantin, </l>
+	<l id='116'>Aspirent chaque jour à changer de destin. </l>
+	<l id='117'>J'ai peine à retenir l'ardeur qui les emporte. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='118'>Et toujours cette ardeur est également forte ? </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='119'>Quand quelque lâche entre eux se pourrait déguiser, </l>
+	<l id='120'>Vous êtes à couvert de ce qu'il peut oser. </l>
+	<l id='121'>Impatients du Chef que je leur fais attendre, </l>
+	<l id='122'>Leur soupçon jusqu'à vous est bien loin de s'étendre, </l>
+	<l id='123'>Puisque pour l'empêcher j'ai soutenu d'abord </l>
+	<l id='124'>Qu'à notre sûreté nous devions votre mort. </l>
+	<l id='125'>C'est ce qu'à notre Chef on doit laisser résoudre, </l>
+	<l id='126'>Et quand sur Constantin on lancera la foudre, </l>
+	<l id='127'>Vous êtes en pouvoir, après ce vain discours, </l>
+	<l id='128'>De sauver votre gloire en vous cachant toujours ; </l>
+	<l id='129'>Lui mort, la brigue est forte à vous choisir pour Maître. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='130'>Non, Sévère a moins lieu de se faire connaître, </l>
+	<l id='131'>Et si nos Mécontents par un secret appui </l>
+	<l id='132'>Ont besoin pour agir d'être assuré de lui, </l>
+	<l id='133'>Il faut dans le dessein qui me fait entreprendre </l>
+	<l id='134'>Cacher à d'autres yeux la part qu'il voudra prendre. </l>
+	<l id='135'>Fauste étant le seul prix qui le puisse attirer, </l>
+	<l id='136'>Si le crime est connu, que peut-il espérer ? </l>
+	<l id='137'>Croira-t-il de sa mort que le sachant coupable </l>
+	<l id='138'>L'assassin d'un époux lui soit jamais aimable, </l>
+	<l id='139'>Et si ce doux espoir ne flatte ses souhaits, </l>
+	<l id='140'>Voudra-t-il embrasser d'inutiles forfaits ? </l>
+	<l id='141'>Pour moi qui me cachant hasarde toute chose, </l>
+	<l id='142'>Je ne refuse point d'avouer ce que j'ose. </l>
+	<l id='143'>Tout mon but est le Trône, et pour y parvenir, </l>
+	<l id='144'>Les chemins les plus sûrs me plaisent à tenir. </l>
+	<l id='145'>Ne dis point que l'éclat à ma gloire est contraire, </l>
+	<l id='146'>Ce scrupule n'est bon qu'à quelque âme vulgaire, </l>
+	<l id='147'>Et pour te l'arracher, souviens-toi, Martian, </l>
+	<l id='148'>Qu'en moi, qu'en me servant tu sers Maximian. </l>
+	<l id='149'>Si j'ai de l'Avenir à craindre quelque blâme, </l>
+	<l id='150'>C'est qu'un indigne exemple ait pu trop sur mon âme, </l>
+	<l id='151'>Quand Dioclétian m'inspira le dessein </l>
+	<l id='152'>De quitter comme lui le pouvoir souverain. </l>
+	<l id='153'>Séduit par ses conseils j'abandonnai l'Empire, </l>
+	<l id='154'>Et quand à leur faiblesse on m'a trop vu souscrire, </l>
+	<l id='155'>Le crime sera beau s'il peut me racheter </l>
+	<l id='156'>La honteuse vertu qui me le fit quitter. </l>
+	<l id='157'>C'est sur ce grand projet, c'est sur cette espérance </l>
+	<l id='158'>Que j'ai de Constantin souhaité l'alliance, </l>
+	<l id='159'>Afin que par ces noeuds mon pouvoir augmenté </l>
+	<l id='160'>M'offrit à l'immoler plus de facilité. </l>
+	<l id='161'>Ne différons donc plus puisqu'il faut entreprendre, </l>
+	<l id='162'>La Couronne est à moi, cherchons à la reprendre, </l>
+	<l id='163'>Et par de grands effets hâtons-nous d'enseigner </l>
+	<l id='164'>Qu'on doit nommer vertu tout ce qui fait régner. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='165'>L'hymen où pour Sévère on veut forcer Constance </l>
+	<l id='166'>Su succès de vos voeux nous donne l'assurance, </l>
+	<l id='167'>Puisque Licine et lui piqués que l'Empereur... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='168'>Par ce nom odieux redouble ma fureur, </l>
+	<l id='169'>Et pour hâter le coup dont tu vois la menace, </l>
+	<l id='170'>Fais-moi voir, Martian, qu'un autre est en ma place. </l>
+	<l id='171'>Je sais bien qu'aujourd'hui, quoi que j'ose vouloir, </l>
+	<l id='172'>C'est à mes seuls désirs à régler mon pouvoir, </l>
+	<l id='173'>Que par eux, à mon choix, j'ordonne de l'Empire ; </l>
+	<l id='174'>Mais Constantin le souffre, et pourrait s'en dédire, </l>
+	<l id='175'>Et c'est pour un grand coeur une trop dure loi, </l>
+	<l id='176'>De tenir ce qu'il peut d'un autre que de soi. </l>
+	<l id='177'>Il trouve, quoi qu'enfin tout cède à sa puissance, </l>
+	<l id='178'>Je ne sais quelle horreur dans cette dépendance, </l>
+	<l id='179'>Et la plus absolue est pour lui sans appas, </l>
+	<l id='180'>Quand il songe qu'il règne, et peut ne régner pas. </l>
+	<l id='181'>Surtout l'essai du Trône enfle trop un courage </l>
+	<l id='182'>Pour lui laisser souffrir ce honteux esclavage, </l>
+	<l id='183'>Et pour qui l'a su faire, il est injurieux </l>
+	<l id='184'>De ne pas ôter tout pour ne céder qu'aux Dieux. </l>
+	<l id='185'>C'est un affront pour lui d'avoir plus qu'eux à craindre, </l>
+	<l id='186'>Et pour monter au faîte où l'on voudrait atteindre, </l>
+	<l id='187'>Lorsque dans le seul crime on trouve du secours, </l>
+	<l id='188'>Je ne sais s'il est beau de les craindre toujours. </l>
+	<l id='189'>Quoi qu'il en soit enfin, dans ce grand sacrifice... </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='190'>Seigneur, ne dites rien, voici l'Impératrice. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Maximian, Fauste, Flavie, Martian.</head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='191'>Madame, savez-vous que Licine aujourd'hui </l>
+	<l id='192'>Pour fléchir Constantin implore mon appui ? </l>
+	<l id='193'>Il adore Constance, et l'hymen de Sévère...</l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='194'>Seigneur, sa passion n'a pu si bien se taire, </l>
+	<l id='195'>Qu'au malheur qui la suit son transport n'ait cédé, </l>
+	<l id='196'>Et pour s'en éclaircir l'Empereur l'a mandé. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='197'>Le coup est assez rude, et Sévère lui-même </l>
+	<l id='198'>Ne pourra sans douleur lui ravir ce qu'il aime ; </l>
+	<l id='199'>Mais quoique l'un et l'autre ait droit d'en soupirer, </l>
+	<l id='200'>Ici vos intérêts se doivent préférer ; </l>
+	<l id='201'>Je vous les ai fait voir, et de quelle importance </l>
+	<l id='202'>Pour vous avec Sévère était cette alliance. </l>
+	<l id='203'>Constantin l'a conclue, et pour la terminer </l>
+	<l id='204'>Vous savez quels conseils vous avez à donner. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Fauste, Flavie.</head>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='205'>Ah, funestes conseils, dont la rigueur extrême </l>
+	<l id='206'>Me force pour ma gloire à m'immoler moi-même ! </l>
+	<l id='207'>Après ce que mon coeur a voulu lui céder, </l>
+	<l id='208'>Faut-il qu'il donne encor ce qu'il n'ose garder ? </l>
+</sp>
+<sp who='FLAVIE'><speaker>FLAVIE.</speaker>
+	<l id='209'>Quoi ! Parmi tant d'honneurs, et de pompe et de gloire, </l>
+	<l id='210'>Vous conservez, Madame, une humeur sombre et noire, </l>
+	<l id='211'>Et pour vaincre l'ennui qui traverse vos jours, </l>
+	<l id='212'>Le rang d'Impératrice est un faible secours ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='213'>S'il assure à mon sort la gloire la plus haute, </l>
+	<l id='214'>Qui me rendra le bien que cette gloire m'ôte ? </l>
+	<l id='215' part='i'>Dieux ! </l>
+</sp>
+<sp who='FLAVIE'><speaker>FLAVIE.</speaker>
+	<l id='215' part='m'>Vous n'achevez point ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='215' part='m'>Si pour Sévère... </l>
+</sp>
+<sp who='FLAVIE'><speaker>FLAVIE.</speaker>
+	<l id='215' part='f'>Et bien ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='216' part='i'>Je t'en dis trop, hélas ! </l>
+</sp>
+<sp who='FLAVIE'><speaker>FLAVIE.</speaker>
+	<l id='216' part='f'>Mais vous ne dites rien ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='217'>Après ce nom fatal que ma douleur attire, </l>
+	<l id='218'>Soupirer et me taire, est-ce ne te rien dire ? </l>
+	<l id='219'>Et puis-je expliquer mieux qu'en secret trop charmé, </l>
+	<l id='220'>Si sévère m'aima, Sévère fut aimé ? </l>
+	<l id='221'>Dans l'estime où pour lui je surprenais mon âme, </l>
+	<l id='222'>Maximian mon père autorisa sa flamme, </l>
+	<l id='223'>Et je n'eus pas de peine à céder au pouvoir </l>
+	<l id='224'>Qui d'un penchant si doux me faisait un devoir. </l>
+	<l id='225'>Ainsi ce pur amour dont j'ai tu la naissance </l>
+	<l id='226'>Éclata sur l'appui de mon obéissance, </l>
+	<l id='227'>Et contrainte à des voeux qui n'osaient s'exprimer, </l>
+	<l id='228'>Je vis avec plaisir qu'on m'ordonnât d'aimer. </l>
+	<l id='229'>Mais las ! Cette douceur me fut bientôt amère, </l>
+	<l id='230'>Quand pour dompter la Gaule on fit choix de Sévère. </l>
+	<l id='231'>Général de l'armée il adore un emploi </l>
+	<l id='232'>Où son bras le rendra moins indigne de moi, </l>
+	<l id='233'>De ma main en partant il reçoit l'assurance. </l>
+	<l id='234'>Vois par là quels malheurs ont suivi son absence. </l>
+	<l id='235'>Constantin à me voir trouve un charme pressant, </l>
+	<l id='236'>Il m'offre place au Trône, et mon père y consent ; </l>
+	<l id='237'>J'oppose en vain ma foi par son ordre donnée, </l>
+	<l id='238'>Son pouvoir me condamne à ce triste hyménée. </l>
+	<l id='239'>J'obéis, il s'achève, on trahit mon amour ; </l>
+	<l id='240'>Cependant aujourd'hui Sévère est de retour, </l>
+	<l id='241'>Et pour comble de maux ma gloire m'intéresse </l>
+	<l id='242'>À conseiller pour lui l'hymen de la Princesse. </l>
+	<l id='243' part='i'>Mais Dieux ! </l>
+</sp>
+<sp who='FLAVIE'><speaker>FLAVIE.</speaker>
+	<l id='243' part='f'>Il vient ici, Madame, songez bien... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='244'>Hélas ! Quand on perd tout, peut-on songer à rien ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Fauste, Sévère, Flavie.</head>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='245'>Quel dessein vous engage à rechercher ma vue ? </l>
+	<l id='246'>Est-ce trop peu pour moi du tourment qui me tue, </l>
+	<l id='247'>Et quand à sa rigueur je n'ai pu m'arracher, </l>
+	<l id='248'>Venez-vous pour m'en plaindre, ou me le reprocher ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='249'>Madame, pour commettre une telle injustice, </l>
+	<l id='250'>Je dois trop de respect à mon Impératrice. </l>
+	<l id='251'>Elle est digne du choix qui la rend ce qu'elle est, </l>
+	<l id='252'>Je le suis de la mort dont j'ai reçu l'arrêt, </l>
+	<l id='253'>Et si de mes regards la langueur indiscrète </l>
+	<l id='254'>Lui fait de ma disgrâce une plainte secrète, </l>
+	<l id='255'>Le pressant désespoir qu'ici je viens aigrir </l>
+	<l id='256'>Ne lui laissera pas longtemps à la souffrir. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='257'>Que Sévère m'offense, et que malgré son zèle </l>
+	<l id='258'>La plainte qu'il étouffe en est une cruelle ! </l>
+	<l id='259'>Ne la contraignez point, et pour vous soulager, </l>
+	<l id='260'>Dites que pour un Trône il est beau de changer. </l>
+	<l id='261'>Dites que son éclat m'ayant l'âme charmée, </l>
+	<l id='262'>Votre perte à ce prix ne m'a point alarmée, </l>
+	<l id='263'>Que j'ai couru moi-même à l'infidélité, </l>
+	<l id='264'>Le reproche est bien juste, et j'ai tout mérité. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='265'>Quand le Ciel vous élève au rang le plus insigne, </l>
+	<l id='266'>Est-ce vous offenser que vous en trouver digne ? </l>
+	<l id='267'>Je l'ai dit, et les Dieux me sont ici témoins </l>
+	<l id='268'>Si j'ai cru que pour vous ils puissent faire moins. </l>
+	<l id='269'>Mais les transports affreux où sans cesse m'expose </l>
+	<l id='270'>Des honneurs qu'on vous rend la déplorable cause, </l>
+	<l id='271'>Sont des maux que peut-être, adorant vos appas, </l>
+	<l id='272'>Pour prix de mon amour je ne méritais pas. </l>
+	<l id='273'>Mon coeur ne peut s'offrir cette funeste image </l>
+	<l id='274'>Sans en trembler d'horreur, sans en frémir de rage. </l>
+	<l id='275'>J'aime, on veut que j'espère, et par un coup fatal </l>
+	<l id='276'>Je vois tout ce que j'aime au pouvoir d'un rival ; </l>
+	<l id='277'>Mon malheur fait sa gloire, il triomphe ; ah, Madame, </l>
+	<l id='278'>Avez-vous bien conçu ce tourment dans mon âme, </l>
+	<l id='279'>Et si son triste excès semble vous étonner, </l>
+	<l id='280'>L'avez-vous pu comprendre, et m'y voir condamner ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='281'>Oui, je l'ai pu, Sévère et prête à m'y contraindre, </l>
+	<l id='282'>J'ai vu ces maux affreux qui vous rendent à plaindre, </l>
+	<l id='283'>De votre amour trahi j'ai vu le désespoir, </l>
+	<l id='284'>J'en ai vu tout l'excès, mais j'ai vu mon devoir, </l>
+	<l id='285'>Et quelques durs malheurs où ce devoir me livre, </l>
+	<l id='286'>Je n'ai pu balancer un moment à le suivre. </l>
+	<l id='287'>Non qu'à ses tristes lois on m'ait vue obéir, </l>
+	<l id='288'>Qu'il n'en ait à mon coeur coûté plus d'un soupir. </l>
+	<l id='289'>Comme vous en teniez la conquête assez chère, </l>
+	<l id='290'>Il en fit votre bien par l'ordre de mon père, </l>
+	<l id='291'>Et peut-être jamais il ne l'eût retiré </l>
+	<l id='292'>Si pour vous l'arracher il ne l'eût déchiré. </l>
+	<l id='293'>Vous en voyez l'effet dans ce désordre d'âme </l>
+	<l id='294'>Qui suit le souvenir d'une si belle flamme, </l>
+	<l id='295'>Et le trouble où je suis est un aveu secret, </l>
+	<l id='296'>Que réduit à vous perdre, il vous perd à regret. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='297'>Triste soulagement dans un mal sans remède ! </l>
+	<l id='298'>Votre coeur est un bien que mon amour possède, </l>
+	<l id='299'>Et quand il me tient lieu de cent Trônes offerts, </l>
+	<l id='300'>On me l'ôte à regret, mais enfin je le perds, </l>
+	<l id='301'>Accablé du devoir qui veut qu'on le retire, </l>
+	<l id='302'>Qu'importe qu'il se rende, ou bien qu'on le déchire, </l>
+	<l id='303'>La violence est-elle une plus douce loi, </l>
+	<l id='304'>Et pour me l'arracher en est-il plus à moi ? </l>
+	<l id='305'>Non, non, de vos bontés ces preuves obligeantes </l>
+	<l id='306'>Ne font que rendre encor mes douleurs plus pressantes. </l>
+	<l id='307'>Plus votre amour me tient ses charmes découverts, </l>
+	<l id='308'>Plus ma rage s'augmente à voir ce que je perds. </l>
+	<l id='309'>Au lieu de me montrer qu'en un sort si contraire, </l>
+	<l id='310'>Je dois tous mes malheurs au seul ordre d'un père, </l>
+	<l id='311'>Qu'à cet ordre à regret vous avez obéi, </l>
+	<l id='312'>Dites-moi, s'il se peut, que vous m'avez trahi. </l>
+	<l id='313'>Vous montrant insensible à tout ce que j'endure, </l>
+	<l id='314'>Prêtez à ma raison le secours du murmure, </l>
+	<l id='315'>Affectez des mépris dont l'outrageant aveu </l>
+	<l id='316'>Affaiblissaient ma perte en console mon feu ; </l>
+	<l id='317'>Et puisque le devoir a bien su vous apprendre </l>
+	<l id='318'>À m'arracher ce coeur où j'eus droit de prétendre. </l>
+	<l id='319'>Par tout ce que la haine a de plus obstiné, </l>
+	<l id='320'>Arrachez-moi l'amour que vous m'avez donné. </l>
+	<l id='321'>Mais que dis-je ? Les maux à qui ma vertu cède, </l>
+	<l id='322'>Égalent-ils l'horreur d'un si cruel remède ? </l>
+	<l id='323'>Puisque enfin votre coeur en daigne soupirer, </l>
+	<l id='324'>Laissez-les moi, ces maux, je veux les adorer. </l>
+	<l id='325'>Au repos le plus doux j'en préfère la peine, </l>
+	<l id='326'>Si pour la voir finir il me faut votre haine ; </l>
+	<l id='327'>Vos mépris combleraient les rigueurs de mon sort. </l>
+	<l id='328'>Madame, pardonnez à ces confus transports, </l>
+	<l id='329'>Je cède, et me dérobe à l'erreur qui m'abuse, </l>
+	<l id='330'>Je veux, et ne veux pas, je demande et refuse, </l>
+	<l id='331'>Je trouve un nouveau mal où je crois voir un bien. </l>
+	<l id='332'>Mais hélas ! En est-il pour qui n'espère rien ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='333'>Oui, Sévère, il en est, et quoi qu'en apparence </l>
+	<l id='334'>Vous puissiez dans vos maux garder peu d'espérance, </l>
+	<l id='335'>Le temps et la raison où l'on doit recourir, </l>
+	<l id='336'>Sauront vous assurer les moyens d'en guérir. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='337'>Ainsi cette raison à votre aide appelée </l>
+	<l id='338'>D'un si beau feu trahi vous aura consolée, </l>
+	<l id='339'>Et ce qu'en votre coeur l'amour avait tracé, </l>
+	<l id='340'>N'a plus rien que déjà le temps n'ait effacé ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='341'>C'est ce qu'ils ont dû faire, et quoi qu'ils me proposent </l>
+	<l id='342'>Si mes sens révoltés à leur secours s'opposent, </l>
+	<l id='343'>Mon coeur se contraindra si bien à le cacher, </l>
+	<l id='344'>Qu'à peine aurai-je droit de me le reprocher. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='345'>Quoi, si de mes malheurs quelquefois il soupire, </l>
+	<l id='346'>M'envier la douceur de vous l'entendre dire ? </l>
+	<l id='347'>Pourquoi me refuser cet innocent aveu ? </l>
+	<l id='348'>Vous coûterait-il tant pour me donner si peu ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='349'>Trop, puisqu'il n'est pas tel que vous le voulez croire. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='350' part='i'>Qu'a-t-il de condamnable ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+     	<l id='350' part='f'>Il hasarde ma gloire. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='351'>Par ce feu, ce beau feu qu'honora votre foi. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='352'>Je l'étouffe pour elle, étouffez-le pour moi. </l>
+<note>Le vers 353 était attribué à Fauste, il semble qu'il appartient à Sévère.</note>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='353'>C'est à quoi sans effort vous savez vous contraindre ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='354'>Mon devoir l'alluma, mon devoir sait l'éteindre. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='355'>Qu'il l'éteint bien plutôt qu'il ne fut allumé ! </l>
+	<l id='356'>Et vous disiez encor que vous m'avez aimé ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='357'>Adieu, Sévère, adieu ; quelque effort que je fasse, </l>
+	<l id='358'>Je sens que malgré moi ma vertu s'embarrasse, </l>
+	<l id='359'>Non que de la victoire elle ait lieu de douter, </l>
+	<l id='360'>Mais c'est l'acheter trop que de la disputer. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='361'>Quoi, vous m'abandonnez ? Ah ! Divine Princesse, </l>
+	<l id='362'>Avec tant de vertu craignez-vous ma faiblesse ? </l>
+	<l id='363'>Craignez-vous un amour dont le triste entretien </l>
+	<l id='364'>Dans tout son désespoir ne vous impute rien ? </l>
+	<l id='365'>Constantin eut pour soi l'autorité d'un père, </l>
+	<l id='366'>Vous avez obéi, vous avez dû le faire ; </l>
+	<l id='367'>Quelque reste d'amour semble vous alarmer, </l>
+	<l id='368'>Je n'y résiste point, il faut cesser d'aimer, </l>
+	<l id='369'>N'aimez plus, j'y consens, mais souffrez qu'à ma rage </l>
+	<l id='370' part='i'>Vos regards... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='370' part='f'>Je ne puis écouter davantage, </l>
+	<l id='371'>Vos plaintes sur mon coeur prennent trop de pouvoir, </l>
+	<l id='372'>Et plus je vous entends, moins je sais mon devoir. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Constantin, Maxime. </head>
+<sp who='CONSTANTIN'><SPEAKER>CONSTANTIN.</SPEAKER>
+	<l id='373'>Je l'avais bien prévu, que cette résistance </l>
+	<l id='374'>Venait d'un feu secret qui plaît trop à Constance, </l>
+	<l id='375'>Sans mon ordre en son coeur ce feu s'est allumé, </l>
+	<l id='376'>Et si Licine l'aime, il n'est pas moins aimé ; </l>
+	<l id='377'>Je viens de lui parler, et l'ai trop su connaître. </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME.</speaker>
+	<l id='378'>Sa passion toujours affectait de paraître, </l>
+	<l id='379'>Mais jusqu'ici, Seigneur, rien n'avait fait juger </l>
+	<l id='380'>Que pour lui la Princesse eût voulu s'engager, </l>
+	<l id='381'>Et s'il faut qu'en secret Licine ait pu lui plaire, </l>
+	<l id='382'>De l'espoir de sa main on flatte un peu Sévère. </l>
+	<l id='383'>L'Amour soutient longtemps la gloire de son choix. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='384'>Mais je suis dans le Trône, et j'en connais les droits. </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME.</speaker>
+	<l id='385'>N'en croyez point l'aigreur qui vous parle contre elle </l>
+	<l id='386'>Licine est un Sujet grand, illustre, fidèle, </l>
+	<l id='387'>Et je ne vois enfin Sévère à préférer </l>
+	<l id='388'>Que par l'auguste rang qu'on lui fait espérer...</l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='389'>Du titre de César je fais sa récompense ; </l>
+	<l id='390'>Mais sais-tu que pour lui je fais moins qu'on ne pense, </l>
+	<l id='391'>Et que l'éclat du rang où ma faveur le met </l>
+	<l id='392'>De mon ingratitude est le honteux effet ? </l>
+	<l id='393'>Jaloux de la vertu dont le charme l'inspire, </l>
+	<l id='394'>Pour m'ôter un rival je partage l'Empire </l>
+	<l id='395'>Et m'empresserais moins à le faire régner, </l>
+	<l id='396'>Si je n'en acquérais le droit de l'éloigner. </l>
+	<l id='397'>Il soupirait pour Fauste, et jamais l'espérance </l>
+	<l id='398'>N'avait d'un plus beau feu soutenu la constance, </l>
+	<l id='399'>Quand la guerre allumée armant pour moi son bras, </l>
+	<l id='400'>Le plonge en des malheurs qu'il ne prévoyait pas. </l>
+	<l id='401'>Tandis que sa valeur soutient mon Diadème, </l>
+	<l id='402'>Mon hymen résolu lui vole ce qu'il aime ; </l>
+	<l id='403'>Fauste cède, mais las ! Son chagrin fait trop voir </l>
+	<l id='404'>Que son obéissance est due à son devoir. </l>
+	<l id='405'>Quelque effort, quelques soins que mon adresse emploie, </l>
+	<l id='406'>La Couronne est trop peu pour lui rendre sa joie. </l>
+	<l id='407'>Par là juge à quel point s'alarme mon amour </l>
+	<l id='408'>Quand je vois aujourd'hui Sévère de retour. </l>
+	<l id='409'>Non que ce feu secret qu'il a peine à contraindre, </l>
+	<l id='410'>Offre à ma jalousie aucun sujet de craindre. </l>
+	<l id='411'>Quelque trouble en son coeur qu'il ait droit de jeter, </l>
+	<l id='412'>Fauste a trop de vertu pour m'en inquiéter, </l>
+	<l id='413'>Elle en triomphera, mais enfin je prends garde </l>
+	<l id='414'>Que ce coeur est un bien que ce trouble hasarde, </l>
+	<l id='415'>Et qu'à le voir souvent, quoi que puisse sa foi, </l>
+	<l id='416'>Il est bien malaisé qu'il n'en soit moins à moi. </l>
+	<l id='417'>Tu sais que je l'adore, et que son hyménée </l>
+	<l id='418'>Tenait de tous mes voeux l'avidité bornée ; </l>
+	<l id='419'>Mais je ne puis souffrir que dans des noeuds si doux, </l>
+	<l id='420'>L'Amant n'ait point de part au bonheur de l'Époux. </l>
+	<l id='421'>Sans cesse à mon repos ce dur chagrin s'oppose, </l>
+	<l id='422'>La douceur de l'effet se corrompt par sa cause, </l>
+	<l id='423'>Et mon coeur que confond ce juste désespoir, </l>
+	<l id='424'>En faveur de l'amour est jaloux du devoir. </l>
+	<l id='425'>Ne t'étonne donc plus du chois que j'ai su faire. </l>
+	<l id='426'>En couronnant ma Soeur il engage Sévère, </l>
+	<l id='427'>Et par ce prompt hymen l'oblige d'étouffer </l>
+	<l id='428'>Un amour dont lui seul a droit de triompher. </l>
+	<l id='429'>Outre qu'avecque lui partageant ma puissance, </l>
+	<l id='430'>Je l'éloigne des lieux où je crains sa présence, </l>
+	<l id='431'>Et le faisant régner où je ne serai pas, </l>
+	<l id='432'>J'empêche... Mais Constance adresse ici ses pas ; </l>
+	<l id='433' part='i'>Sachons ses sentiments. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Constantin, Constance, Maxime, Lucie.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='433' part='f'>Ma Soeur, j'ai peine à croire </l>
+	<l id='434'>Un bruit sourd que l'envie oppose à votre gloire. </l>
+	<l id='435'>Quand par ce que je dois aux tendresses du sang </l>
+	<l id='436'>Je veux vous élever à l'éclat de mon rang, </l>
+	<l id='437'>J'apprends que vous souffrant un indiscret murmure, </l>
+	<l id='438'>Ces marques de bonté vous tiennent lieu d'injure, </l>
+	<l id='439'>Et que vous dédaignez dans le choix d'un époux </l>
+	<l id='440'>Celui que l'amitié m'a fait faire pour vous. </l>
+	<l id='441'>Sévère aura peut-être assez de déférence </l>
+	<l id='442'>Pour forcer par respect ses désirs au silence, </l>
+	<l id='443'>Mais si trop de fierté tient les vôtres séduits, </l>
+	<l id='444'>Sachant ce que je veux, craignez ce que je puis. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='445'>Ces soins de m'élever à la grandeur suprême </l>
+	<l id='446'>Sont sans doute l'effet d'une tendresse extrême, </l>
+	<l id='447'>Et les profonds respects qui vous marquent ma foi </l>
+	<l id='448'>Ne sauraient m'acquitter de ce que je vous dois ; </l>
+	<l id='449'>Mais de quelque fierté que je sois soupçonnée, </l>
+	<l id='450'>Je réponds mal, Seigneur, au sang dont je suis née </l>
+	<l id='451'>Si je ne tiens le Trône un bonheur imparfait </l>
+	<l id='452'>Quand la menace est jointe à l'offre qu'on m'en fait. </l>
+	<l id='453'>Quelque éclatant qu'il soit, forcer d'y prendre place, </l>
+	<l id='454'>C'est imposer un joug, et non pas faire grâce, </l>
+	<l id='455'>Et pour m'y donner part, l'hymen qu'on me prescrit </l>
+	<l id='456'>Me l'asservit bien moins qu'il ne m'assujettit. </l>
+	<l id='457'>Dans les droits que pour lui l'on veut que j'abandonne, </l>
+	<l id='458'>Bien loin qu'il soit à moi, c'est à lui qu'on me donne, </l>
+	<l id='459'>Et mon ambition s'en laisse en vain flatter </l>
+	<l id='460'>Si mon coeur est le prix dont je dois l'acheter. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='461'>Ce prix est-il si haut que tout couvert de gloire, </l>
+	<l id='462'>Tout brillant de l'éclat d'une illustre victoire, </l>
+	<l id='463'>Sévère à trop d'orgueil semble s'abandonner, </l>
+	<l id='464'>S'il en reçoit l'espoir que je lui fais donner ? </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='465'>Sévère a des vertus dignes de sa naissance ; </l>
+	<l id='466'>Mais mon coeur est jaloux de son indépendance, </l>
+	<l id='467'>Et quoi que mon devoir ait d'empire sur lui, </l>
+	<l id='468'>Il dédaigne d'aimer par les ordres d'autrui. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='469'>Dites, dites plutôt que ce coeur téméraire </l>
+	<l id='470'>Pour se donner ailleurs se refuse à Sévère, </l>
+	<l id='471'>Et qu'à des feux secrets prêtant trop de soutien, </l>
+	<l id='472'>Votre choix pour aimer a prévenu le mien. </l>
+	<l id='473'>Licine vous adore, et l'ardeur qui l'enflamme </l>
+	<l id='474'>N'a pu frapper vos yeux sans pénétrer votre âme ; </l>
+	<l id='475'>Mais flattant des soupirs sans mon ordre écoutés, </l>
+	<l id='476'>Avez-vous oublié de quel sang vous sortez ? </l>
+	<l id='477'>Celles de votre rang à qui la gloire est chère, </l>
+	<l id='478'>Hors le bien de l'État n'ont point de choix à faire, </l>
+	<l id='479'>Et quelque passion qui les puisse aveugler, </l>
+	<l id='480'>Un si noble intérêt la doit toujours régler. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='481'>Je sais que plus le rang approche des Couronnes, </l>
+	<l id='482'>Plus la fière grandeur asservit nos personnes, </l>
+	<l id='483'>Mais je ne sais pas moins quel injuste attentat </l>
+	<l id='484'>Font souvent sur nos coeurs ces maximes d'État ; </l>
+	<l id='485'>Non que vous devant tout le mien les examine, </l>
+	<l id='486'>C'est sans aveuglement que j'estime Licine, </l>
+	<l id='487'>Et son amour n'a rien qui me puisse ébranler, </l>
+	<l id='488'>Sitôt qu'à votre gloire il faudra l'immoler. </l>
+	<l id='489'>Mais je puis à vos voeux me rendre un peu contraire, </l>
+	<l id='490'>Quand votre seul dessein est d'élever Sévère, </l>
+	<l id='491'>Et je ne dois point tant au soin de sa grandeur... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='492'>Et bien, pour cet hymen je fais voir trop d'ardeur, </l>
+	<l id='493'>L'État en peut tenir les droits illégitimes, </l>
+	<l id='494'>Mais ce n'est pas à vous d'en régler les maximes ; </l>
+	<l id='495'>Et quoi que votre orgueil ait peine à se trahir, </l>
+	<l id='496'>Qui ne sait point aimer doit savoir obéir. </l>
+	<l id='497'>Qu'à son gré d'un Sujet votre mépris décide, </l>
+	<l id='498'>Il suffit qu'à ce choix ma volonté préside, </l>
+	<l id='499'>Et pour ôter tout lieu d'obstacles superflus, </l>
+	<l id='500'>Licine me sera garant de vos refus. </l>
+	<l id='501'>C'est lui dont l'intérêt trop puissant sur votre âme </l>
+	<l id='502'>À la rébellion engage votre flamme ; </l>
+	<l id='503'>C'est lui qui contre moi vous la fait soutenir, </l>
+	<l id='504'>Et c'est lui seul aussi que j'en saurai punir. </l>
+	<l id='505'>Il est en votre choix d'arrêter ma colère ; </l>
+	<l id='506'>Mais tremblez pour sa tête, ou songez à me plaire, </l>
+	<l id='507' part='i'>Je vous laisse en résoudre, adieu. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Constance, Lucie.</head>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+      	<l id='507' part='f'>Qui l'eût pensé, </l>
+	<l id='508'>Qu'à tant de tyrannie il se fut dispensé, </l>
+	<l id='509'>Qu'il eût prêté la main au coup qui m'assassine ? </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker>
+	<l id='510'>J'en soupire pour vous, et tremble pour Licine, </l>
+	<l id='511'>Et si de ce revers votre coeur combattu </l>
+	<l id='512'>N'en trouvait le remède en sa propre vertu... </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='513'>Quel remède, Lucie, et qu'il a d'amertume </l>
+	<l id='514'>Quand l'amour est un feu que le mérite allume, </l>
+	<l id='515'>Et que le coeur atteint d'un si charmant poison </l>
+	<l id='516'>Obtient pour lui céder l'appui de la raison ! </l>
+	<l id='517'>Non qu'enfin la vertu n'en soit toujours maîtresse, </l>
+	<l id='518'>Mais quand à l'étouffer le devoir l'intéresse, </l>
+	<l id='519'>C'est un combat affreux dont la triste rigueur </l>
+	<l id='520'>Du malheur du vaincu fait gémir le vainqueur. </l>
+	<l id='521'>Timide à triompher, puni par sa victoire, </l>
+	<l id='522'>Il soupire du coup qui l'immole à sa gloire, </l>
+	<l id='523'>Et Tyran malgré lui de ses plus chers souhaits, </l>
+	<l id='524'>S'il osait ne pas vaincre, il ne vaincrait jamais</l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker>
+	<l id='525'>J'ose encor me flatter d'un succès plus propice, </l>
+	<l id='526'>S'il est vrai que Sévère aime l'Impératrice ; </l>
+	<l id='527'>L'Empereur s'en alarme, et sur un tel souci, </l>
+	<l id='528'>S'armant contre Licine, on dit... Mais le voici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Constance, Licine, Lucie.</head>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='529'>Dans l'état déplorable où me réduit l'envie, </l>
+	<l id='530'>Madame, qu'avez-vous résolu de ma vie ? </l>
+	<l id='531'>Tout conspire à ma perte, et je vois l'Empereur </l>
+	<l id='532'>Du coup le plus cruel me préparer l'horreur ; </l>
+	<l id='533'>Mais quoi que de mon sort puisse ordonner sa haine, </l>
+	<l id='534'>Vous en êtes toujours l'arbitre Souveraine, </l>
+	<l id='535'>Et toute la rigueur des Destins irrités </l>
+	<l id='536'>Ne peut rien contre moi si vous n'y consentez. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='537'>Si pour vous en secret mon coeur toujours propice </l>
+	<l id='538'>Suffit de leur courroux à rompre l'injustice, </l>
+	<l id='539'>Quelques maux qui sur vous semblent prêts d'éclater, </l>
+	<l id='540'>Vous me connaissez trop pour en rien redouter. </l>
+	<l id='541'>N'attendez rien de plus ; j'ai cru pouvoir sans crime </l>
+	<l id='542'>Vous souffrir d'aspirer à toute mon estime, </l>
+	<l id='543'>Et n'ai point balancé d'approuver un amour </l>
+	<l id='544'>Qu'aux yeux de l'Empereur vous osiez mettre au jour. </l>
+	<l id='545'>L'éclat qu'il lui souffrait flattant votre espérance, </l>
+	<l id='546'>Contre un doute importun me servait d'assurance, </l>
+	<l id='547'>Et mes désirs trop prompts aidant à me trahir, </l>
+	<l id='548'>Je crus que vous aimer ce n'était qu'obéir ; </l>
+	<l id='549'>Mais enfin aujourd'hui que cette erreur bannie </l>
+	<l id='550'>Laisse de mon devoir agir la tyrannie, </l>
+	<l id='551'>Contrainte à m'y soumettre, en de pareils ennuis </l>
+	<l id='552'>Faire des voeux pour vous c'est tout ce que je puis. </l>
+	<l id='553'>Je sais que votre amour qu'un cruel ordre alarme, </l>
+	<l id='554'>D'un si faible secours dédaignera le charme, </l>
+	<l id='555'>Mais si c'est peu pour lui, dans ce que je me dois </l>
+	<l id='556'>Peut-être avouerez-vous que c'est beaucoup pour moi. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='557'>Oui, c'est beaucoup, Madame, et d'un sort si funeste </l>
+	<l id='558'>Le coup doit m'être doux si cet espoir me reste. </l>
+	<l id='559'>Quel remède à des maux si rudes, si pressants, </l>
+	<l id='560'>Que de les soulager par des voeux impuissants ! </l>
+	<l id='561'>Non, non, puisque je vois votre amour trop crédule </l>
+	<l id='562'>D'un pareil sentiment se former un scrupule, </l>
+	<l id='563'>Qu'il s'abandonne entier à ce cruel devoir </l>
+	<l id='564'>Qui cherche à triompher de tout mon désespoir. </l>
+	<l id='565'>Ne vous reprochez point d'avoir été facile </l>
+	<l id='566'>Jusques à m'accorder un souhait inutile, </l>
+	<l id='567'>Consentez à ma perte, et purgez votre foi </l>
+	<l id='568'>De l'indigne pitié qui vous parle pour moi. </l>
+	<l id='569'>Ce coeur dont votre amour faisait toute la gloire </l>
+	<l id='570'>Ne vaut pas qu'un soupir souille votre victoire, </l>
+	<l id='571'>Et vous laisseriez voir un courage abattu </l>
+	<l id='572'>Si vous n'étiez cruelle à force de vertu. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='573'>J'excuse des transports qui trop prompts à paraître </l>
+	<l id='574'>Suivent l'aveuglement du feu qui les fait naître, </l>
+	<l id='575'>Mais si par la raison il se laisse éclairer, </l>
+	<l id='576'>Vous n'aurez pas longtemps sujet de murmurer. </l>
+	<l id='577'>Voyez ce que je suis, et ce que l'on m'ordonne ; </l>
+	<l id='578'>Au choix qu'on me prescrit ma gloire m'abandonne, </l>
+	<l id='579'>Contre vous, contre moi, tout conspire à s'armer. </l>
+	<l id='580' part='i'>Dans ces extrémités que puis-je faire ? </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='580' part='f'>Aimer. </l>
+	<l id='581'>Que sans cesse on oppose obstacles sur obstacles, </l>
+	<l id='582'>L'Amour pour les braver est fertile en miracles, </l>
+	<l id='583'>Des plus rudes assauts sans peine il vient à bout, </l>
+	<l id='584'>Et pourvu que l'on aime, on triomphe de tout. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='585'>Quoi que vous en croyiez, tout ce que je puis faire </l>
+	<l id='586'>C'est d'oser expliquer ma contrainte à Sévère, </l>
+	<l id='587'>D'obtenir son refus pour prétexte du mien ; </l>
+	<l id='588'>Mais après cet effort ne me demandez rien. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='589'>Quoi, si l'ambition l'oblige à se défendre </l>
+	<l id='590'>De céder à ma foi ce qu'elle osait attendre, </l>
+	<l id='591'>Cette fière vertu que vous mettez au jour, </l>
+	<l id='592'>Fera de votre coeur le prix de son amour ? </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='593'>Jugez-en par mon rang qui vous force à le croire ; </l>
+	<l id='594'>Plus il est élevé, plus je dois à ma gloire ; </l>
+	<l id='595'>Et je souffrirai moins à le laisser agir, </l>
+	<l id='596'>Qu'à jouir d'un bonheur dont j'aurais à rougir. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='597'>Ainsi vous l'aimerez si le devoir l'ordonne ? </l>
+	<l id='598'>À quels cruels tourments cet aveu m'abandonne ! </l>
+	<l id='599'>Ce serait donc trop peu pour remplir ce devoir </l>
+	<l id='600'>Que vous fissiez alors effort à le vouloir : </l>
+	<l id='601'>Il faut pousser plus loin votre rigueur extrême, </l>
+	<l id='602'>Et pour lui contre moi répondre de vous-même. </l>
+	<l id='603'>Non, non, n'opposez plus à mon ennui secret </l>
+	<l id='604'>Le charme injurieux de me perdre à regret. </l>
+	<l id='605'>Quand la vertu demande un si dur sacrifice, </l>
+	<l id='606'>On peut bien souhaiter que le coeur obéisse, </l>
+	<l id='607'>S'efforcer d'en bannir ce qui pût l'enflammer, </l>
+	<l id='608'>Mais qui croit le pouvoir n'a su jamais aimer. </l>
+	<l id='609'>Ce prompt dégagement un peu trop volontaire, </l>
+	<l id='610'>Du vrai, du vif amour dément le caractère ; </l>
+	<l id='611'>Et c'est aimer bien peu, qu'être sûr d'un secours </l>
+	<l id='612'>Qui nous mette en pouvoir de n'aimer pas toujours. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='613'>Quoique le trop de zèle où pour vous je m'engage, </l>
+	<l id='614'>D'un reproche pareil dût m'épargner l'outrage, </l>
+	<l id='615'>Je ne déguise point qu'en cette extrémité </l>
+	<l id='616'>Il me serait bien doux de l'avoir mérité. </l>
+	<l id='617'>À ma triste raison mon âme plus soumise </l>
+	<l id='618'>De mes sens révoltés préviendrait la surprise, </l>
+	<l id='619'>Et leur rébellion, par un indigne éclat, </l>
+	<l id='620'>Ne me coûterait pas la honte du combat. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='621'>Que de vertu, Madame, et que je suis à plaindre, </l>
+	<l id='622'>Puisqu'à tant d'injustice elle peut vous contraindre, </l>
+	<l id='623'>Qu'il faille me haïr jusqu'à vous opposer </l>
+	<l id='624'>Au regret de la mort que vous m'allez causer ! </l>
+	<l id='625'>Pour moi, qu'un sang plus bas, et ma triste disgrâce </l>
+	<l id='626'>Semblent autoriser d'avoir l'âme plus basse, </l>
+	<l id='627'>Je ne me défends point de tous les mouvements </l>
+	<l id='628'>Qu'une aveugle fureur met au coeur des Amants ; </l>
+	<l id='629'>N'ayant qu'elle en mon mal à choisir pour remède, </l>
+	<l id='630'>Il n'est rien que je n'ose avant que je vous cède, </l>
+	<l id='631'>Et j'aurai lieu peut-être en ce revers fatal </l>
+	<l id='632'>De rendre mon malheur funeste à mon rival. </l>
+	<l id='633'>Mais je le vois ; Madame, agréez ma retraite, </l>
+	<l id='634'>Sa présence fait peine à mon âme inquiète, </l>
+	<l id='635'>Et je craindrais enfin de ne pouvoir calmer </l>
+	<l id='636'>Les transports violents qu'elle a droit d'animer. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Constance, Sévère, Lucie.</head>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='637'>J'aspirais à vous voir, Sévère, et ce mérite </l>
+	<l id='638'>Dont le brillant éclat pour vous me sollicite, </l>
+	<l id='639'>M'oblige à prendre part aux surprenants exploits </l>
+	<l id='640'>Qui du Trône aujourd'hui vous acquièrent les droits. </l>
+	<l id='641'>Pour payer ce qu'on doit à votre grand courage, </l>
+	<l id='642'>L'Empereur avec vous en résout le partage. </l>
+	<l id='643'>Il fait plus, et c'est peu que de vous couronner, </l>
+	<l id='644'>Si ma main n'est un prix qu'il me force à donner. </l>
+	<l id='645'>J'obéirai sans doute, et quoi qu'il en arrive, </l>
+	<l id='646'>Mon fier devoir tiendra ma volonté captive ; </l>
+	<l id='647'>Mais s'il faut, pour répondre à cet ordre inhumain, </l>
+	<l id='648'>Joindre le don du coeur à celui de la main, </l>
+	<l id='649'>Comme je me connais hors d'état de le faire, </l>
+	<l id='650'>Je vous estime trop pour vouloir vous le taire. </l>
+	<l id='651'>C'est à vous là-dessus à régler vos desseins, </l>
+	<l id='652'>Mon bonheur, mon repos, tout est entre vos mains. </l>
+	<l id='653'>Peut-être qu'il serait d'une âme magnanime </l>
+	<l id='654'>De ne pas abuser d'un devoir qui m'opprime ; </l>
+	<l id='655'>Mais vous vous connaissez, et jamais on eut droit </l>
+	<l id='656'>D'exciter un grand coeur à faire ce qu'il doit. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='657' part='i'>Madame... </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='657' part='f'>Adieu, c'est trop, Maximian s'avance. </l>
+	<l id='658'>Je vous ai répondu de mon obéissance, </l>
+	<l id='659'>Et sûr à votre choix du nom de mon époux, </l>
+	<l id='660'>Vous m'apprendrez vous-même à bien juger de vous. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Maximian, Sévère.</head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='661'>Quoi, pousser des soupirs en quittant la Princesse ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='662'>Ah, Seigneur, épargnez la douleur qui me presse. </l>
+	<l id='663'>Je ne vous parle point en amant outragé </l>
+	<l id='664'>De l'abîme des maux où vous m'avez plongé, </l>
+	<l id='665'>C'était à mon orgueil un attentat insigne </l>
+	<l id='666'>D'écouter un espoir dont je n'étais pas digne. </l>
+	<l id='667'>Le rang d'Impératrice, et l'éclat qui le suit, </l>
+	<l id='668'>Valent bien la disgrâce où je me vois réduit ; </l>
+	<l id='669'>Mais si quelque pitié pour moi vous intéresse, </l>
+	<l id='670'>Sauvez-moi, d'un refus honteux à la Princesse, </l>
+	<l id='671'>Prévenez un éclat où je suis résolu. </l>
+	<l id='672'>J'aime, Seigneur ; hélas ! Vous l'avez bien voulu, </l>
+	<l id='673'>Et quoique sans espoir l'amour soit un supplice, </l>
+	<l id='674'>Puisque c'est mon seul bien, souffrez que j'en jouisse. </l>
+	<l id='675'>Par un hymen illustre on tente en vain ma foi, </l>
+	<l id='676'>En vain on veut qu'un Trône ait des charmes pour moi ; </l>
+	<l id='677'>C'est un surcroît de rage à ma douleur extrême, </l>
+	<l id='678'>Je ne veux que mourir aux yeux de ce que j'aime, </l>
+	<l id='679'>Lui soumettre mes jours, et les abandonner </l>
+	<l id='680'>À la triste langueur qui les doit terminer. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='681'>Quoi, Sévère, il se peut que le sort qui t'outrage </l>
+	<l id='682'>Te fasse des malheurs plus grands que ton courage ? </l>
+	<l id='683'>Apprends, apprends les miens, et pour sortir d'erreur </l>
+	<l id='684'>Vois comme la Fortune accable un Empereur. </l>
+	<l id='685'>Si j'osai la braver en dédaignant l'Empire, </l>
+	<l id='686'>À son tour contre moi je vois qu'elle conspire. </l>
+	<l id='687'>En vain auprès d'un fils des Romains adoré </l>
+	<l id='688'>Je crois jouir du calme où j'avais aspiré, </l>
+	<l id='689'>Redoutant mes conseils, ce fils, l'ingrat Maxence, </l>
+	<l id='690'>Par mon éloignement affermit sa puissance ; </l>
+	<l id='691'>On me bannit de Rome, et tel est mon destin, </l>
+	<l id='692'>Qu'il me faut rechercher l'appui de Constantin. </l>
+	<l id='693'>Contre sa tyrannie il m'offre un sûr asile, </l>
+	<l id='694'>Et quand auprès de lui je me crois tout facile, </l>
+	<l id='695'>Loin d'obtenir pour toi l'aveu de ton amour, </l>
+	<l id='696'>J'apprends quel intérêt t'éloigne de sa Cour. </l>
+	<l id='697'>Devenu ton rival, il veut que ton absence </l>
+	<l id='698'>Laisse dans ses projets agir sa violence, </l>
+	<l id='699'>Et tout ce qu'à ton feu l'honneur me fait devoir </l>
+	<l id='700'>Est forcé de céder à son lâche pouvoir. </l>
+	<l id='701'>Ainsi plus le Tyran que l'Époux de ma Fille, </l>
+	<l id='702'>Il usurpe mes droits jusque sur ma Famille, </l>
+	<l id='703'>Et mes voeux par contrainte à ses ordres soumis </l>
+	<l id='704'>Sont l'effet du repos que je m'étais promis. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='705'>C'est trop, Seigneur, c'est trop, tant de bonté m'accable. </l>
+	<l id='706'>Le Destin a rendu ma perte irréparable ; </l>
+	<l id='707'>Mais l'intérêt de Fauste étant à préférer, </l>
+	<l id='708'>Quand il la met au Trône, en dois-je murmurer ? </l>
+	<l id='709'>Non, il lui fait justice, et pourvu qu'on s'oppose </l>
+	<l id='710'>À l'hymen où pour moi l'Empereur se dispose, </l>
+	<l id='711'>Qu'on ne me force point à l'éclatant refus... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='712'>Et si je te disais que je veux faire plus ? </l>
+	<l id='713'>J'ai besoin seulement de trouver dans Sévère </l>
+	<l id='714'>Cette fermeté d'âme aux Héros ordinaire ; </l>
+	<l id='715'>Elle aide à repousser le sort le plus affreux, </l>
+	<l id='716'>Et si tu l'as enfin, tu n'es plus malheureux. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='717'>Ah, seigneur, pour guérir le mal qui me possède, </l>
+	<l id='718'>La grandeur de courage est un faible remède ; </l>
+	<l id='719'>Contre un si rude assaut il n'est point de vertu, </l>
+	<l id='720' part='i'>Et qui sait bien aimer... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='720' part='f'>Mais enfin aimes-tu ? </l>
+	<l id='721'>Sous un indigne joug Constantin me fait vivre, </l>
+	<l id='722'>Aux plus cruels ennuis sa lâcheté te livre, </l>
+	<l id='723'>Sur tous deux sa rigueur aime à se découvrir, </l>
+	<l id='724'>Je suis las d'être esclave, es-tu las de souffrir ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='725' part='i'>Seigneur. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='725' part='f'>Explique-toi sans que rien ne retienne, </l>
+	<l id='726'>Ton choix seul peut résoudre ou sa perte ou la mienne. </l>
+	<l id='727'>Et dans ce que m'inspire une juste fureur, </l>
+	<l id='728'>C'est à toi d'ordonner des jours d'un Empereur. </l>
+	<l id='729'>Dans l'ardeur du repos où sans cesse j'aspire, </l>
+	<l id='730'>Il m'est dur de songer à reprendre l'Empire, </l>
+	<l id='731'>Mais j'ai le coeur trop haut pour oser me trahir </l>
+	<l id='732'>Jusques à me soumettre à l'affront d'obéir. </l>
+	<l id='733'>Ma Fille était à toi, je t'en donnai parole, </l>
+	<l id='734'>Le lâche Constantin malgré moi te la vole, </l>
+	<l id='735'>Sa tyrannie est prête à lui coûter le jour, </l>
+	<l id='736'>J'ai consulté mon coeur, consulte ton amour. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='737' part='i'>L'écouter fut un crime... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='737' part='f'>Et quoi, tu t'embarrasses ? </l>
+	<l id='738'>Les crimes ne sont faits que pour les âmes basses, </l>
+	<l id='739'>Qui de leur fermeté s'osent trop défier, </l>
+	<l id='740'>Pour se croire en pouvoir de les justifier. </l>
+	<l id='741'>Sur ce scrupule en vain tu trembles à résoudre, </l>
+	<l id='742'>Il n'est rien de honteux pour qui s'en peut absoudre, </l>
+	<l id='743'>Et quoi qu'on puisse oser, c'est aux faibles esprits </l>
+	<l id='744'>À rougir d'un forfait dont le Trône est le prix. </l>
+	<l id='745'>Non que les mouvements que je te fais paraître </l>
+	<l id='746'>Demandent que ton bras s'arme contre ton Maître ; </l>
+	<l id='747'>Pour te laisser ta gloire, et contenter tes voeux, </l>
+	<l id='748'>Le secret de ta part est tout ce que je veux. </l>
+	<l id='749'>Je feindrai comme toi d'ignorer l'entreprise, </l>
+	<l id='750'>Et pourvu qu'en effet ton aveu l'autorise, </l>
+	<l id='751'>Me laissant sans obstacle agir dans le Palais, </l>
+	<l id='752'>Je n'en vois guère à craindre au dessein que je fais. </l>
+	<l id='753'>Tu peux tout sur l'armée, et c'est assez te dire </l>
+	<l id='754'>Qu'en vain sans ton appui par mon ordre on conspire. </l>
+	<l id='755'>Si pour Fauste à l'amour ton coeur craint d'obéir, </l>
+	<l id='756'>Je verrai sans regret que tu m'oses trahir. </l>
+	<l id='757'>Mon sort dépend de toi, mais j'ai cet avantage </l>
+	<l id='758'>Qu'au moins je me vois sûr de sortir d'esclavage, </l>
+	<l id='759'>Puisque, quelque succès qui suive mon effort, </l>
+	<l id='760'>Il assure à mes voeux ou le Trône, ou la mort. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='761'>Le désordre où me jette une telle entreprise </l>
+	<l id='762'>Ne souffre point, Seigneur, que je vous le déguise, </l>
+	<l id='763'>Il éclate à vos yeux, et je confesse enfin </l>
+	<l id='764'>Que la pitié me force à plaindre Constantin. </l>
+	<l id='765'>Mais qu'en vous trahissant, j'expose votre vie, </l>
+	<l id='766'>À tout ce qui rendrait sa vengeance assouvie ; </l>
+	<l id='767'>Connaissez mieux Sévère, et croyez que ma foi </l>
+	<l id='768'>Sait trop ce qu'il faut rendre à qui fait tout pour moi. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='769'>Ô généreux Ami que touche ma disgrâce ! </l>
+	<l id='770'>Viens dans mon cabinet savoir ce qui se passe, </l>
+	<l id='771'>Consulter Martian, et résoudre avec lui </l>
+	<l id='772'>Si de quelque autre bras il faut chercher l'appui. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Fauste, Sévère.</head>
+<sp who='FAUSTE'><SPEAKER>FAUSTE.</SPEAKER>
+	<l id='773'>Non, c'est vous abuser que de l'oser prétendre, </l>
+	<l id='774'>Il n'est rien que de vous je puisse encor entendre, </l>
+	<l id='775'>Et dans l'étroit scrupule où m'engage ma foi, </l>
+	<l id='776'>Un second entretien est un crime pour moi. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='777'>Quoi, vous jugez si mal de l'ardeur qui m'anime, </l>
+	<l id='778'>Qu'elle puisse à vos yeux offrir l'ombre d'un crime, </l>
+	<l id='779'>Si ce scrupule a droit de vous inquiéter, </l>
+	<l id='780'>Pour en sortir, Madame, il me faut écouter. </l>
+	<l id='781'>Je ne viens point surprendre un reste de tendresse </l>
+	<l id='782'>Qu'à vous faire étouffer le devoir s'intéresse. </l>
+	<l id='783'>Je viens aux dures lois de cet affreux devoir </l>
+	<l id='784'>Immoler ce qu'on cherche à me rendre d'espoir ; </l>
+	<l id='785'>Trop content, si je puis vous faire assez connaître, </l>
+	<l id='786'>Que n'étant point heureux j'étais digne de l'être, </l>
+	<l id='787'>Et que dans ce grand coeur trop justement charmé </l>
+	<l id='788'>Jamais un si beau feu ne s'était allumé. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='789'>Ah ! Si ce charme a fait le bonheur de ma vie, </l>
+	<l id='790'>C'est là ce qu'aujourd'hui l'honneur veut que j'oublie. </l>
+	<l id='791'>Autrefois, je l'avoue, il eût pu m'être doux, </l>
+	<l id='792'>Mais devant tout mon coeur à l'amour d'un époux... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='793'>Je sais qu'à l'Empereur les droits de l'hyménée </l>
+	<l id='794'>En acquièrent la part que vous m'aviez donnée, </l>
+	<l id='795'>Qu'à lui seul le devoir vous fait l'assujettir, </l>
+	<l id='796'>Mais l'Empereur n'est plus si j'y veux consentir. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='797' part='i'>On en veut à ses jours ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='797' part='f'>Oui, Madame, on conspire, </l>
+	<l id='798'>On cherche à lui ravir et le jour et l'Empire, </l>
+	<l id='799'>Et si je tiens secret l'attentat entrepris, </l>
+	<l id='800'>Sans avoir part au crime on me répond du prix. </l>
+	<l id='801'>L'image de sa mort à votre esprit offerte </l>
+	<l id='802'>Ne me montrera point complice de sa perte, </l>
+	<l id='803'>Et dans le coup fatal qu'on veut faire éclater </l>
+	<l id='804'>Vous plaindrez son malheur sans me rien imputer. </l>
+	<l id='805'>Pour changer de Fortune il ne faut que me taire, </l>
+	<l id='806'>Tous mes maux sont finis, on me venge, et j'espère ; </l>
+	<l id='807'>Mais mon coeur succombant à des projets si bas, </l>
+	<l id='808'>Pour les cacher à tous ne me les cache pas. </l>
+	<l id='809'>Si jusqu'au plus haut point ma disgrâce est montée, </l>
+	<l id='810'>Du moins je veux mourir sans l'avoir méritée, </l>
+	<l id='811'>Et j'aurai l'avantage en ce funeste jour </l>
+	<l id='812'>D'emporter votre estime en perdant votre amour. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='813'>En vain à vous l'ôter on voudrait me contraindre ; </l>
+	<l id='814'>Mais je n'ai rien à dire où je vois tout à craindre, </l>
+	<l id='815'>Et dans ce qu'à mes yeux le crime offre d'horreur, </l>
+	<l id='816'>Tout l'effort de mes soins se doit à l'Empereur. </l>
+	<l id='817'>Montrez-moi promptement la main qui l'assassine, </l>
+	<l id='818'>Parlez, est-ce un effet de l'amour de Licine ? </l>
+	<l id='819'>Il murmure, il s'emporte, et dans son désespoir... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='820'>Non, Madame, Licine est ferme en son devoir, </l>
+	<l id='821'>Il ignore le crime, et loin qu'il l'autorise, </l>
+	<l id='822'>C'est de lui seul qu'on craint obstacle à l'entreprise, </l>
+	<l id='823'>Il est Chef de la Garde, et peut tout au Palais, </l>
+	<l id='824'>Et comme on en prévoit de dangereux effets, </l>
+	<l id='825'>Ceux qu'à les prévenir la trahison engage, </l>
+	<l id='826'>Pour le rendre suspect, vont tout mettre en usage. </l>
+	<l id='827'>C'est à vous d'empêcher qu'ils n'en viennent à bout, </l>
+	<l id='828'>S'ils font changer la Garde, ils sont maître de tout, </l>
+	<l id='829' part='i'>Et... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='829' part='f'>Mais à l'Empereur ont-ils pouvoir de nuire, </l>
+	<l id='830'>Si sachant l'attentat nous le pouvons détruire ? </l>
+	<l id='831'>Allons lui découvrir les noms des Conjurés. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='832'>Le voudrez-vous, hélas ! Lorsque vous les saurez ? </l>
+	<l id='833'>Jusqu'ici Martian a conduit l'entreprise, </l>
+	<l id='834'>Avec Pompilius Straton la favorise, </l>
+	<l id='835'>Lucile, Eutrope, Albin, s'en déclarent l'appui, </l>
+	<l id='836' part='i'>Mais leur Chef... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='836' part='m'>Achevez. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='836' part='f'>Le croirez-vous de lui ? </l>
+	<l id='837'>Contre un lâche Assassin arme votre colère, </l>
+	<l id='838'>Mais, Madame, tremblez au nom de votre père. </l>
+	<l id='839'>Pour remonter au Trône, et changer de destin, </l>
+	<l id='840' part='i'>Maximian... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='840' part='m'>Ô Dieux ! </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='840' part='f'>Veut perdre Constantin. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='841' part='i'>Quoi, c'est lui qui conspire ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='841' part='f'>Et ce qui doit surprendre, </l>
+	<l id='842'>C'est par Martian seul qu'il a fait entreprendre, </l>
+	<l id='843'>Sans que les Conjurés, dont il est le soutien, </l>
+	<l id='844'>Sachent dans ce projet ni son nom ni le mien. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='845'>On vous trompe, Sévère, et pour noircir sa gloire </l>
+	<l id='846'>L'imposture a songé ce qu'on vous a fait croire. </l>
+	<l id='847' part='i'>Maximian ne peut... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='847' part='f'>Hélas ! Que n'est-il vrai ? </l>
+	<l id='848'>Mais de lui seul enfin je tiens ce que je sais. </l>
+	<l id='849'>Feignant qu'un fol espoir avait pu me séduire, </l>
+	<l id='850'>De tout par Martian je me suis fait instruire. </l>
+	<l id='851'>Un père ambitieux veut perdre votre époux, </l>
+	<l id='852'>Et je viens pour agir prendre l'ordre de vous. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='853'>Ah, si ma gloire encor vous avait été chère, </l>
+	<l id='854'>C'est sans m'en consulter que vous le deviez faire, </l>
+	<l id='855'>Et ne me pas réduire à l'affreux déplaisir </l>
+	<l id='856'>D'être forcée au choix, et de n'oser choisir. </l>
+	<l id='857'>Quel conseil vous donner, à quel parti me rendre, </l>
+	<l id='858'>Sans exposer des jours que je devrais défendre, </l>
+	<l id='859'>Sans qu'aux traits du Destin les voulant arracher </l>
+	<l id='860'>Il n'en coûte à mon coeur ce qu'il a de plus cher ? </l>
+	<l id='861'>Si j'ose pour un père écouter la Nature, </l>
+	<l id='862'>Mon devoir outragé souffre, tremble, murmure, </l>
+	<l id='863'>Et lors qu'en sa faveur je me laisse émouvoir, </l>
+	<l id='864'>La Nature à son tour frémit de mon devoir. </l>
+	<l id='865'>Ainsi mon innocence est partout poursuivie, </l>
+	<l id='866'>Je deviens sacrilège à moins que d'être impie, </l>
+	<l id='867'>Et de quelque côté que penchent mes souhaits, </l>
+	<l id='868'>J'y découvre aussitôt le plus noirs des forfaits. </l>
+	<l id='869'>J'ai beau haïr les noms d'ingrate et de perfide, </l>
+	<l id='870'>Je ne m'en puis sauver que par un parricide, </l>
+	<l id='871'>Et de mes tristes maux l'excès monte à tel point </l>
+	<l id='872'>Que je commets un crime à n'en commettre point. </l>
+	<l id='873'>Je hasarde un époux si je respecte un père, </l>
+	<l id='874'>Il faut me déclarer, on m'y force. Ah, Sévère ! </l>
+	<l id='875'>Si dans quelques ennuis j'ai pu vous engager, </l>
+	<l id='876'>Est-ce ainsi qu'un grand coeur se plaît à se venger ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='877'>Continuez, Madame, et par cette injustice </l>
+	<l id='878'>D'un amour qui perd tout augmentez le supplice. </l>
+	<l id='879'>Si d'un espoir honteux il eût pu se flatter, </l>
+	<l id='880'>Ma vengeance était sûre à vouloir l'accepter. </l>
+	<l id='881'>La mort qu'à l'Empereur la trahison apprête, </l>
+	<l id='882'>Faisait cesser l'horreur de vous voir sa conquête, </l>
+	<l id='883'>Et me vengeait bien mieux que le pressant ennui </l>
+	<l id='884'>D'avoir à vous résoudre, ou pour, ou contre lui ; </l>
+	<l id='885'>Mais j'aurais trop par là racheté ma disgrâce, </l>
+	<l id='886'>Et vous n'eussiez rien su du coup qui le menace, </l>
+	<l id='887'>Si prêt à faire éclat, j'eusse pu l'arrêter, </l>
+	<l id='888'>Sans exposer un sang que je dois respecter. </l>
+	<l id='889'>C'est la source du vôtre, et pour me voir sans peine </l>
+	<l id='890'>Vous épargner un choix dont la rigueur vous gêne, </l>
+	<l id='891'>Vous n'avez qu'à souffrir que j'ose me cacher </l>
+	<l id='892'>Ce qu'exige de vous un intérêt si cher. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='893'>Non, si mes tristes voeux n'osent rien se permettre, </l>
+	<l id='894'>Ce choix n'est pas un droit qu'ils puissent vous remettre. </l>
+	<l id='895'>C'est à moi d'essayer si j'aurai le pouvoir </l>
+	<l id='896'>D'accorder la nature avecque mon devoir. </l>
+	<l id='897'>Pour sortir de l'horreur où mon esprit s'abîme, </l>
+	<l id='898'>Détournons le péril sans découvrir le crime. </l>
+	<l id='899'>Quelque pressante ardeur qui force d'attenter, </l>
+	<l id='900'>On n'entreprendra rien sans vous en consulter, </l>
+	<l id='901'>Et d'un si noir complot par vous toujours instruite, </l>
+	<l id='902'>Je ne perds pas l'espoir d'en prévenir la suite. </l>
+	<l id='903'>Mon coeur aux droits du sang doit garder ce respect ; </l>
+	<l id='904'>Mais ne me parlez plus de peur d'être suspect. </l>
+	<l id='905'>À moins que l'avis presse, et qu'il soit d'importance, </l>
+	<l id='906'>Un billet suffira pour notre intelligence. </l>
+	<l id='907'>Voyez, observez tout, et si les Conjurés </l>
+	<l id='908'>À faire un prompt éclat se trouvent préparés, </l>
+	<l id='909'>Alors contre le coup que leur rage médite... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='910'>Maximian paraît, souffrez que je vous quitte, </l>
+	<l id='911'>Vos ordres que j'attends en régleront le sort. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Maximian, Fauste, Sévère. </head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='912'>Quoi, Sévère prend soin d'éviter mon abord, </l>
+	<l id='913'>Il me fuit, et pour lui ma vue est un supplice ! </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='914'>Ma présence, Seigneur, blesse l'Impératrice, </l>
+	<l id='915'>Et voyant ce qu'elle est, je sais trop mon devoir </l>
+	<l id='916'>Pour la vouloir contraindre à l'ennui de me voir. </l>
+<stage>Sévère sort. </stage>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='917'>Quelque austère vertu dont la rigueur vous porte </l>
+	<l id='918'>À traiter aujourd'hui Sévère de la sorte, </l>
+	<l id='919'>Madame, vous pourriez par maxime d'État </l>
+	<l id='920'>À sa dure fierté permettre moins d'éclat. </l>
+	<l id='921'>La douleur de vous perdre excite assez sa rage </l>
+	<l id='922'>Sans l'irriter encor par un nouvel outrage. </l>
+	<l id='923'>Il est des Mécontents, vous le poussez à bout, </l>
+	<l id='924'>Et qui n'espère rien est capable de tout. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='925'>Ah, Seigneur, jugez mieux de ce qu'il en faut croire, </l>
+	<l id='926'>Soupçonnez sa douleur, mais épargnez sa gloire, </l>
+	<l id='927'>Et quelque désespoir dont il soit combattu, </l>
+	<l id='928'>Craignez-le pour sa vie, et non pour sa vertu. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='929'>J'en craindrais moins l'effet si l'hymen de Constance</l>
+	<l id='930'>Lui souffrait d'en calmer la juste violence, </l>
+	<l id='931'>Mais pour comble de maux, je vois que l'Empereur </l>
+	<l id='932'>S'attache obstinément à lui donner sa Soeur. </l>
+	<l id='933'>Sa rage impatiente en va jusqu'à l'extrême, </l>
+	<l id='934'>Et dans l'âpre douleur de perdre ce qu'il aime, </l>
+	<l id='935'>C'est engager sa flamme aux derniers attentats </l>
+	<l id='936'>Que vouloir l'asservir à ce qu'il n'aime pas. </l>
+	<l id='937'>Par mon ordre, un des miens doit l'observer sans cesse ; </l>
+	<l id='938'>Mais Licine d'ailleurs adore la Princesse, </l>
+	<l id='939'>Et ce qu'en son pouvoir son feu trouve d'appui, </l>
+	<l id='940'>Nous montre en sa fureur tout à craindre de lui. </l>
+	<l id='941'>Du Palais à son gré c'est lui seul qui dispose, </l>
+	<l id='942'>La Garde aveuglément suit les lois qu'il impose, </l>
+	<l id='943'>Et jaloux d'un espoir qu'on le force à quitter, </l>
+	<l id='944'>Quoi qu'il veuille entreprendre, il peut l'exécuter. </l>
+	<l id='945'>Je ne déguise point que ce péril m'étonne, </l>
+	<l id='946'>J'estime l'Empereur, et crains pour sa personne, </l>
+	<l id='947'>Et la Garde changée est l'unique secours </l>
+	<l id='948'>Qui nous puisse aujourd'hui répondre de ses jours. </l>
+	<l id='949'>C'est ce qu'il faut de lui que vos conseils obtiennent, </l>
+	<l id='950'>Tous périls sont légers pour ceux qui les préviennent, </l>
+	<l id='951'>Et dans le moindre lieu de craindre un attentat, </l>
+	<l id='952'>Le trop de confiance est un crime d'État. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='953'>Je sais que pour me mettre à couvert de ces crimes </l>
+	<l id='954'>Je ne puis faire mieux que suivre vos maximes, </l>
+	<l id='955'>Et que l'essai du Trône a su vous enseigner </l>
+	<l id='956'>Tout ce qu'a de plus sûr le grand art de régner. </l>
+	<l id='957'>Aussi, comme il n'est rien qu'après vous j'examine, </l>
+	<l id='958'>Je veux bien me contraindre à soupçonner Licine, </l>
+	<l id='959'>Mais afin que l'affront l'en fasse moins rougir, </l>
+	<l id='960'>C'est sans aucun éclat que je prétends agir. </l>
+	<l id='961'>Pour avoir sûreté que rien ne se hasarde, </l>
+	<l id='962'>Je ferai qu'en secret on observe la Garde, </l>
+	<l id='963'>Et vois trop quels périls s'offrent à redouter </l>
+	<l id='964'>Pour laisser les moyens de rien exécuter. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='965'>Mais malgré tous vos soins, si la Garde est la même, </l>
+	<l id='966'>L'Empereur est toujours dans un péril extrême, </l>
+	<l id='967'>Et ceux dont vous aurez le zèle pour appui, </l>
+	<l id='968'>Sans empêcher sa mort périront avec lui. </l>
+	<l id='969'>Non, non, jamais l'éclat ne fut plus nécessaire, </l>
+	<l id='970'>Licine est trop suspect pour songer à le taire, </l>
+	<l id='971'>Le voici, remarquez comme tout interdit </l>
+	<l id='972'>Dans ses transports secrets lui-même il se trahit. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Maximian, Fauste, Licine.</head>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='973'>Vous a-t-on averti de tout ce qui se passe, </l>
+	<l id='974'>Seigneur ? J'ignore encor quel destin nous menace, </l>
+	<l id='975'>Mais mille bruits confus courent de tous côtés. </l>
+	<l id='976'>Eutrope et Saturnin viennent d'être arrêtés, </l>
+	<l id='977'>De Félix, de Lucile, on dit la même chose. </l>
+	<l id='978'>Chacun diversement en soupçonne la cause, </l>
+	<l id='979'>On parle d'entreprise, on murmure, on se plaint, </l>
+	<l id='980'>Et quoiqu'on craigne tout, on ne sait ce qu'on craint. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='981' part='i'>Et l'Empereur, Licine ? </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='981' part='f'>Il fait effort, Madame, </l>
+	<l id='982'>Pour ne pas découvrir le trouble de son âme, </l>
+	<l id='983'>Mais sur divers avis qui semblaient l'alarmer, </l>
+	<l id='984'>Seul avec Straton on l'a vu s'enfermer. </l>
+	<l id='985'>Il a mandé Maxime, et c'est là qu'on soupçonne </l>
+	<l id='986'>Que Maxime a reçu tous les ordres qu'il donne. </l>
+	<l id='987'>Vous savez ceux déjà qu'il a fait arrêter, </l>
+	<l id='988'>Et le reste sans doute est tout prêt d'éclater. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='989' part='i'>Seigneur, quelle surprise ! </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='989' part='f'>Elle est telle qu'à peine </l>
+	<l id='990'>Je puis me dérober à tout ce qui me gêne, </l>
+	<l id='991'>Par cent motifs divers ma frayeur se soutient, </l>
+	<l id='992'>Et si pour Constantin... Mais le voici qui vient. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Constantin, Maximian, Fauste, Licine, Suite. </head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='993'>L'auriez-vous cru, Madame ? Un traître, un Parricide </l>
+	<l id='994'>S'abandonne aux transports dont la fureur le guide, </l>
+	<l id='995'>Et ma vie immolée est le titre éclatant </l>
+	<l id='996'>Qui lui répond du trône où son orgueil prétend. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='997' part='i'>On conspire, Seigneur ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='997' part='f'>Seigneur est-il possible </l>
+	<l id='998'>Qu'à l'éclat des vertus on soit si peu sensible, </l>
+	<l id='999' part='i'>Que fut un lâche espoir... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='999' part='f'>Non, non, Seigneur, jamais </l>
+	<l id='1000'>Un Souverain n'agit au gré de ses Sujets. </l>
+	<l id='1001'>U vrai discernement leurs âmes incapables </l>
+	<l id='1002'>Ne veulent voir en lui que des vertus coupables, </l>
+	<l id='1003'>Et ces soins d'un pouvoir qu'il cherche à maintenir </l>
+	<l id='1004'>Sont des crimes secrets qu'ils ont droit de punir. </l>
+	<l id='1005'>Le Ciel en ma faveur s'oppose à cette envie, </l>
+	<l id='1006'>Aux fureurs d'un ingrat il dérobe ma vie, </l>
+	<l id='1007'>Et de Straton séduit le noble repentir </l>
+	<l id='1008'>M'apprenant l'entreprise a su m'en garantir ; </l>
+	<l id='1009'>Mais quoi que son rapport m'ait pu donner d'indices, </l>
+	<l id='1010'>J'en ignore l'Auteur si j'en sais les Complices, </l>
+	<l id='1011'>Et je vois contre moi cent lâches déclarés, </l>
+	<l id='1012'>Sans que son nom encor soit su des Conjurés. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1013'>Quoi, Straton ne sait pas qui les fait entreprendre ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1014'>Voici par qui, Seigneur, nous allons tout apprendre ; </l>
+	<l id='1015'>D'un complot si hardi ce traître est le soutien. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Constantin, Maximian, Fauste, Licine, Martian, Maxime, Suite.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1016'>Viens, méchant, et surtout ne nous déguise rien. </l>
+	<l id='1017'>On en veut à ma vie, et par tes artifices </l>
+	<l id='1018'>Un projet si coupable a trouvé des complices. </l>
+	<l id='1019'>Toi seul en sais l'Auteur ; parle, et nous fait savoir </l>
+	<l id='1020'>Quels charmes dans ma perte ont flatté ton espoir. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1021'>Seigneur, le Ciel est juste, et j'apprends de Maxime </l>
+	<l id='1022'>Qu'en vain je tâcherais à déguiser mon crime ; </l>
+	<l id='1023'>Straton vous a tout dit, et de ma trahison </l>
+	<l id='1024'>La plus affreuse mort vous doit faire raison. </l>
+	<l id='1025'>Je saurais la souffrir, sans parler, sans me plaindre, </l>
+	<l id='1026'>Sans qu'à rien déclarer elle pût me contraindre, </l>
+	<l id='1027'>Si d'un pressant remords l'indispensable loi </l>
+	<l id='1028'>Ne m'arrachait un nom qui n'est su que de moi.</l>
+	<l id='1029'>Pour un Ambitieux qui se cache à tout autre, </l>
+	<l id='1030'>La mort que je rencontre est le prix de la vôtre, </l>
+	<l id='1031'>Pour lui je l'ai jurée, et sans le découvrir, </l>
+	<l id='1032'>Si j'étais arrêté, j'ai promis de périr. </l>
+	<l id='1033'>Sur cette confiance il ose encor paraître, </l>
+	<l id='1034'>Assuré d'un secret dont seul je suis le maître ; </l>
+	<l id='1035'>Mais le moins que je puisse après ma lâcheté, </l>
+	<l id='1036'>C'est de donner sa vie à votre sûreté. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1037'>Dis tout, traître, il est temps que ta rage s'explique. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN? à Maximian.</speaker>
+	<l id='1038'>Seigneur, que votre haine à ma perte s'applique. </l>
+	<l id='1039'>Si déjà mon forfait éclate aux yeux de tous, </l>
+	<l id='1040'>Ce que j'en tiens caché ne regarde que vous. </l>
+	<l id='1041'>Du sang de l'Empereur mon lâche coeur avide </l>
+	<l id='1042'>Formait le noir dessein d'un second parricide, </l>
+	<l id='1043'>Et la même fureur qui sut armer mon bras </l>
+	<l id='1044'>Vous mettait hors d'état de venger son trépas. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1045'>Quoi, sur Maximian ton insolente rage </l>
+	<l id='1046'>Résolvait lâchement d'achever son ouvrage ! </l>
+<note>Les vers 1047 à 1052 étaient la suite des 2 vers précédents attribués à Constantin. Cela ne semble pas vraisemblable, le locuteur ne peut-être que Maximian. </note>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1047'>Seigneur, à mon injure il ne faut plus songer, </l>
+	<l id='1048'>C'est la vôtre, c'est vous que l'État doit venger. </l>
+	<l id='1049'>Il n'aurait rien perdu, si dans un si grand crime </l>
+	<l id='1050'>J'eusse à la trahison servi seul de victime ; </l>
+	<l id='1051'>Mais privé de défense en perdant votre appui, </l>
+	<l id='1052'>Le fruit de vos travaux périssait avec lui. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1053' part='i'>Juste Ciel ! </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1053' part='f'>Dis le reste, et sachons qui conspire. </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1054'>Licine peut parler, je n'ai plus rien à dire. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1055' part='i'>Quoi, méchant ? </l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1055' part='f'>Malgré moi l'on a tout découvert, </l>
+	<l id='1056'>Et Straton me contraint de perdre qui me perd. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1057'>Moi, j'ai pris quelque part aux projets d'un infâme ? </l>
+	<l id='1058' part='i'>J'ai su ta trahison ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN, à Fauste.</speaker>
+	<l id='1058' part='f'>Vous le voyez, Madame, </l>
+	<l id='1059'>Lorsqu'à tant de murmure il s'est abandonné, </l>
+	<l id='1060'>Si c'était sans raison que je l'ai soupçonné. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE, à Maximian.</speaker>
+	<l id='1061'>Ah, Seigneur, contre moi croyez-vous l'imposture ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1062'>C'est donc là cette foi, pleine, sincère, pure, </l>
+	<l id='1063'>Et l'hymen de ma Soeur contraire à tes souhaits, </l>
+	<l id='1064'>Te fait ainsi sans peine oublier mes bienfaits ! </l>
+	<l id='1065'>C'est peu du rang illustre où ma faveur t'élève </l>
+	<l id='1066'>Si l'ayant commencé ton crime ne l'achève, </l>
+	<l id='1067'>Et si par l'attentat dans le Trône placé </l>
+	<l id='1068'>Tu n'y vois de sa main ton feu récompensé.</l>
+	<l id='1069'>Le Ciel ne l'a souffert que pour mieux te confondre. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1070'>La surprise, Seigneur, m'empêche de répondre, </l>
+	<l id='1071'>Et de pareils malheurs permettent rarement </l>
+	<l id='1072'>Que les sens étonnés agissent librement. </l>
+	<l id='1073'>Si c'est un crime d'aimer un Objet adorable, </l>
+	<l id='1074'>De tous les criminels je suis le plus coupable, </l>
+	<l id='1075'>Et comme à mon amour l'espoir est défendu, </l>
+	<l id='1076'>La mort est le seul bien où j'avais prétendu, </l>
+	<l id='1077'>M'en avancer le coup c'est finir mon supplice ; </l>
+	<l id='1078'>Mais à ma gloire au moins rendez quelque justice, </l>
+	<l id='1079'>Et pour être à couvert de tous déguisements, </l>
+	<l id='1080'>Faites parler ce Traître au milieu des tourments. </l>
+	<l id='1081'>Pour tous les Conjurés imaginez des gênes, </l>
+	<l id='1082'>Que moi-même on me livre aux plus cruelles peines, </l>
+	<l id='1083'>Et dans cette rigueur forcez-vous à chercher </l>
+	<l id='1084'>L'aveu des vérités qu'on aime à vous cacher. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1085'>En vain tu crois t'absoudre en bravant les supplices, </l>
+	<l id='1086'>Tu n'as point d'intérêt au rapport des Complices, </l>
+	<l id='1087'>Ignorant ton secret, qu'ont-ils à déposer ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1088'>Cesse en te déguisant, cesse de t'abuser. </l>
+	<l id='1089'>Déjà de mon esprit ton attentat s'efface, </l>
+	<l id='1090'>Pourvu que l'Empereur daigne te faire grâce ; </l>
+	<l id='1091'>Mais avoue, et du moins par ta sincérité, </l>
+	<l id='1092'>Mérite qu'il écoute un reste de bonté. </l>
+	<l id='1093'>L'espoir de le fléchir sur l'hymen de Constance </l>
+	<l id='1094'>T'obligeait à tenir l'entreprise en balance, </l>
+	<l id='1095'>Et toujours à la rompre au besoin préparé, </l>
+	<l id='1096'>C'est à Martian seul que tu t'es déclaré. </l>
+	<l id='1097'>Du succès de ton feu tu la faisais dépendre, </l>
+	<l id='1098'>Par tes emportements je l'ai trop su comprendre. </l>
+	<l id='1099'>Tu ne m'as point caché que dans ton désespoir </l>
+	<l id='1100'>Tu ne connaîtrais plus ni raison ni devoir, </l>
+	<l id='1101' part='i'>Et puisque Martian... </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1101' part='f'>Quoi, par sa calomnie </l>
+	<l id='1102'>L'on souffrira qu'ainsi ma gloire soit ternie ? </l>
+	<l id='1103'>Non, non, Seigneur, qu'il parle, et d'un coup si fatal...</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1104'>Quoi qu'on veuille en juger, mon destin est égal. </l>
+	<l id='1105'>Qu'on vous croie innocent, qu'on vous tienne coupable, </l>
+	<l id='1106'>Je vois toujours pour moi la mort inévitable, </l>
+	<l id='1107'>Et si le crime un jour au Trône vous fait seoir, </l>
+	<l id='1108'>Il suffit qu'en mourant j'aurai fait mon devoir. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1109' part='i'>Tu fais ton devoir, Traître ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1109' part='f'>On vous rendra justice. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1110'>D'un si lâche Imposteur redoutez l'artifice, </l>
+	<l id='1111'>Seigneur, il vous perdra si vous vous assurez... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1112'>Qu'on les tienne en lieu sûr, et qu'ils soient séparés, </l>
+	<l id='1113' part='i'>C'est trop les écouter. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1113' part='m'>De grâce... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1113' part='f'>Allez, Maxime. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Constantin, Maximian, Fauste.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1114'>Madame, on ne peut trop s'étonner de leur crime ; </l>
+	<l id='1115'>Mais à l'examiner, ce qui plus me surprend, </l>
+	<l id='1116'>C'est que vous le voyiez d'un oeil indifférent. </l>
+	<l id='1117'>Il semble qu'insensible au coup qui me menace </l>
+	<l id='1118'>De Licine en secret vous plaigniez la disgrâce. </l>
+	<l id='1119'>J'observe votre trouble, il m'accable, et j'y vois </l>
+	<l id='1120'>Plus de pitié pour lui que de crainte pour moi. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1121'>Seigneur, il m'est bien dur que ma foi soupçonnée </l>
+	<l id='1122'>Redouble les malheurs où je suis destinée. </l>
+	<l id='1123'>Mon silence, il est vrai, renferme dans mon coeur </l>
+	<l id='1124'>Ce que leur triste excès a pour moi de rigueur ; </l>
+	<l id='1125'>Mais dans un mal qui porte et l'horreur et la crainte, </l>
+	<l id='1126'>Qui sait bien s'expliquer en ressent peu l'atteinte ; </l>
+	<l id='1127'>Et peut-être jamais de si pressants ennuis </l>
+	<l id='1128'>N'avaient autorisé le désordre où je suis. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1129'>Ah, si j'étais aimé vous n'auriez pu vous taire ; </l>
+	<l id='1130'>Le crime eût contre un lâche armé votre colère, </l>
+	<l id='1131'>Et du traître Licine apprenant l'attentat, </l>
+	<l id='1132'>Pleine d'un vif transport, vous auriez fait éclat. </l>
+	<l id='1133'>Depuis le triste jour que mon amour extrême </l>
+	<l id='1134'>Vous a par mon hymen fait part du Diadème, </l>
+	<l id='1135'>Toujours d'un noir chagrin votre esprit obsédé </l>
+	<l id='1136'>M'a fait voir la contrainte où vous avez cédé, </l>
+	<l id='1137'>La rigueur du devoir éteignait une flamme </l>
+	<l id='1138'>Q'un funeste retour rallume dans votre âme, </l>
+	<l id='1139'>Vous avez vu Sévère, et dans l'appas flatteur </l>
+	<l id='1140'>Où cette chère vue entretient votre coeur, </l>
+	<l id='1141'>D'autres présumeraient qu'à lui seul attachée, </l>
+	<l id='1142'>Le malheur de ma mort vous aurait peu touchée, </l>
+	<l id='1143'>Et que ce feu secret qu'on ne peut ébranler, </l>
+	<l id='1144'>Eût trouvé les moyens de vous en consoler ; </l>
+	<l id='1145' part='i'>Mais... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1145' part='f'>Contre elle, Seigneur, trop d'aigreur vous engage, </l>
+	<l id='1146'>Au sang dont elle sort ce soupçon fait outrage, </l>
+	<l id='1147'>Et d'un feu criminel lui reprocher l'ardeur, </l>
+	<l id='1148'>C'est jusque dans sa source en souiller la splendeur. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1149'>En l'état où je suis je ne sais que vous dire. </l>
+	<l id='1150'>Dans mes honteux soupçons moi-même je m'admire, </l>
+	<l id='1151'>Mais à les repousser je fais un vain effort, </l>
+	<l id='1152'>Tout mon coeur s'abandonne à mon jaloux transport, </l>
+	<l id='1153'>Et dans les sentiments qui viennent me surprendre, </l>
+	<l id='1154'>Je vois mon injustice, et ne puis m'en défendre. </l>
+	<l id='1155'>Aussi pour m'en punir, ma vie est en danger, </l>
+	<l id='1156'>On conspire, on me hait, je veux tout négliger. </l>
+	<l id='1157'>Prenez soin de la vôtre, et puisqu'on vous menace, </l>
+	<l id='1158'>Seigneur, à votre choix, faites justice ou grâce, </l>
+	<l id='1159'>Punissez, pardonnez, je n'examine rien. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1160'>Non, non, votre intérêt l'emporte sur le mien, </l>
+	<l id='1161'>Et comme tout l'État en vous seul se hasarde, </l>
+	<l id='1162'>Le soin le plus pressant c'est de changer la garde. </l>
+	<l id='1163'>Licine l'a choisie, et sa lâche fureur... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1164'>Seigneur, je prendrai soin des jours de l'Empereur, </l>
+	<l id='1165' part='i'>J'en connais le péril. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1165' part='f'>Ordonnez-en, Madame, </l>
+	<l id='1166'>Votre Empire est toujours absolu sur mon âme, </l>
+	<l id='1167'>Et quoi que m'offre à craindre un désespoir jaloux, </l>
+	<l id='1168'>Venant de votre main tout me semblera doux. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN, arrêtant Fauste.</speaker>
+	<l id='1169'>Madame, l'Empereur trompé par votre zèle, </l>
+	<l id='1170' part='i'>Loin de fuir... </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1170' part='f'>Son malheur auprès de lui m'appelle, </l>
+	<l id='1171'>Seigneur, et du forfait quoi qu'on veuille espérer, </l>
+	<l id='1172'>Le Ciel pour rompre tout daignera m'inspirer. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Maximian, Constance.</head>
+<sp who='CONSTANCE'><SPEAKER>CONSTANCE.</SPEAKER>
+	<l id='1173'>Quoi, n'avoir point encor par l'effroi des supplices </l>
+	<l id='1174'>Chercher la vérité dans le sein des Complices, </l>
+	<l id='1175'>Et souffrir si longtemps sans les faire parler </l>
+	<l id='1176'>Tout ce que Martian a voulu révéler ! </l>
+	<l id='1177'>Que son rapport soit vrai, que ce soit imposture, </l>
+	<l id='1178'>Il faut punir Licine, ou venger son injure, </l>
+	<l id='1179'>Et l'on ne peut trop tôt dans ces obscurités </l>
+	<l id='1180'>Faire effort à trouver de fidèles clartés. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1181'>Madame, en ce forfait quoi que l'on examine, </l>
+	<l id='1182'>Il est bon d'épargner la gloire de Licine, </l>
+	<l id='1183'>Et ne pénétrer pas avec tant de rigueur </l>
+	<l id='1184'>Quels intérêts cachés ont séduit son grand coeur. </l>
+	<l id='1185'>Constantin y consent ; qu'on punisse, pardonne, </l>
+	<l id='1186'>Avec l'Impératrice il veut que j'en ordonne, </l>
+	<l id='1187'>Et sans vouloir entendre aucun des Conjurés, </l>
+	<l id='1188'>Sur l'ardeur de nos soins tient ses jours assurés. </l>
+	<l id='1189'>Je sais ce que je dois ; mais pourvu que Licine </l>
+	<l id='1190'>À ne rien avouer jusques au bout s'obstine, </l>
+	<l id='1191'>Peut-être il suffira pour sa punition </l>
+	<l id='1192'>D'ôter tout lieu de nuire à son ambition,</l>
+	<l id='1193'>Et prévenant par là tout ce qu'on appréhende... </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1194'>Ah, Seigneur, ce n'est pas ce que je vous demande, </l>
+	<l id='1195'>Et Licine est d'un rang à ne pouvoir souffrir </l>
+	<l id='1196'>L'outrageante pitié que vous semblez m'offrir. </l>
+	<l id='1197'>J'ai pour lui de l'estime, et je l'ai fait paraître ; </l>
+	<l id='1198'>Mais l'éclat de sa gloire est ce qui la fit naître, </l>
+	<l id='1199'>Il la surprit par elle, et s'il l'a pu ternir, </l>
+	<l id='1200'>C'est un double attentat dont il le faut punir. </l>
+	<l id='1201'>Ainsi pour vous, pour moi, soyez juge sévère, </l>
+	<l id='1202'>Point de grâce pour lui s'il osa trop me plaire, </l>
+	<l id='1203'>Et si d'un faux brillant les indignes appas </l>
+	<l id='1204'>Lui gagnèrent un prix qu'il ne méritait pas. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1205'>Jusqu'à cette rigueur contre lui vous contraindre ? </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1206'>À dire vrai, Seigneur, je n'ai pas tout à craindre, </l>
+	<l id='1207'>L'attentat m'est suspect, et pour votre intérêt </l>
+	<l id='1208'>Du lâche Martian il faut presse l'arrêt. </l>
+	<l id='1209'>Si de l'auteur du crime il a seul connaissance, </l>
+	<l id='1210'>La vertu de Licine en prouve l'innocence, </l>
+	<l id='1211'>Et tout ce qu'il a fait semble être un sûr garant </l>
+	<l id='1212'>Du peu qu'il a de part dans ce qu'on entreprend. </l>
+	<l id='1213'>Son nom qui n'est connu d'aucun autre complice</l>
+	<l id='1214'>Sous un si grand secret cache quelque artifice ; </l>
+	<l id='1215'>Et si Martian parle, afin de moins douter, </l>
+	<l id='1216'>C'est dans les seuls tourments qu'il le faut écouter. </l>
+	<l id='1217'>Comme la vérité par là se peut connaître, </l>
+	<l id='1218'>J'ai pressé l'Empereur de condamner ce Traître, </l>
+	<l id='1219'>Il vous en laisse arbitre, et dans ce plein pouvoir, </l>
+	<l id='1220'>Punissant Martian, vous pourrez tout savoir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1221'>Il est juste, et dans peu par les plus rudes gênes </l>
+	<l id='1222'>On m'en verra tirer des lumières certaines. </l>
+	<l id='1223'>Je craignais pour Licine à trop examiner, </l>
+	<l id='1224'>Mais s'il est innocent, qui peut-on soupçonner ? </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1225'>Seigneur, une belle âme incapable de crime </l>
+	<l id='1226'>Ne croit former jamais de soupçon légitime, </l>
+	<l id='1227'>Et le mien ne sachant où pouvoir s'arrêter ; </l>
+	<l id='1228'>Vous laisse là-dessus Sévère à consulter. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Maximian, Sévère. </head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1229'>Viens, il faut de nouveau résoudre l'entreprise. </l>
+	<l id='1230'>La prison de Licine en vain la favorise, </l>
+	<l id='1231'>En vain par cet obstacle à nos desseins ôté, </l>
+	<l id='1232'>D'un sûr et prompt succès mon espoir s'est flatté ; </l>
+	<l id='1233'>Toujours l'Impératrice à cet espoir contraire </l>
+	<l id='1234'>Détruit par ses conseils tout ce que je crois faire, </l>
+	<l id='1235'>Et n'agirait pas mieux si dans ce qu'on résout, </l>
+	<l id='1236'>Pour en rompre l'effet on l'instruisait de tout. </l>
+	<l id='1237'>D'ailleurs de Constantin le procédé m'étonne ; </l>
+	<l id='1238'>Par cent jaloux transports sans cesse il s'abandonne, </l>
+	<l id='1239'>Il croit qu'avecque vous Fauste toujours d'accord </l>
+	<l id='1240'>Pour vous garder sa foi fait des voeux pour sa mort, </l>
+	<l id='1241'>Et lorsqu'à ce soupçon son trop d'amour le livre, </l>
+	<l id='1242'>Quoi qu'elle lui conseille, il se plaît à le suivre. </l>
+	<l id='1243'>C'est ses seuls avis que sans y rien changer </l>
+	<l id='1244'>De la Garde suspecte il brave le danger, </l>
+	<l id='1245'>En vain les Conjurés lui veulent tout apprendre, </l>
+	<l id='1246'>Elle ne peut souffrir qu'il songe à les entendre, </l>
+	<l id='1247'>Et rompt ce que par eux, les faisant écouter, </l>
+	<l id='1248'>Nous pouvions être sûrs de voir exécuter. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1249'>Cet obstacle, Seigneur a droit de vous surprendre, </l>
+	<l id='1250'>Mais vous teniez trop sûr ce moyen d'entreprendre, </l>
+	<l id='1251'>Le coup précipité m'en semblait hasardeux. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1252'>Non, non, il n'offrait rien à craindre que pour eux, </l>
+	<l id='1253'>Et si leur mort sur l'heure eût terminé leur peine, </l>
+	<l id='1254'>Celle de l'Empereur était toujours certaine. </l>
+	<l id='1255'>Les armes qu'en secret je leur faisais donner </l>
+	<l id='1256'>N'avaient rien contre moi que l'on pût soupçonner, </l>
+	<l id='1257'>Et lorsqu'en l'abordant, l'ardeur qui les anime </l>
+	<l id='1258'>Eût cherché dans son sang le pardon de leur crime, </l>
+	<l id='1259'>Par ce hardi projet maîtres de tout l'État, </l>
+	<l id='1260'>Nous n'aurions pas eu de peine à cacher l'attentat. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1261'>Craignez de trop céder à l'espoir qui vous flatte, </l>
+	<l id='1262'>Quand le secours du Ciel pour l'Empereur éclate. </l>
+	<l id='1263'>Le coup que de sa tête il aime à détourner, </l>
+	<l id='1264'>Est peut-être un avis de tout abandonner, </l>
+	<l id='1265'>Et quoi qu'un plein pouvoir que lui-même autorise, </l>
+	<l id='1266'>Vous laisse en liberté d'étouffer l'entreprise, </l>
+	<l id='1267'>Redoutez un projet dont le succès douteux, </l>
+	<l id='1268'>S'il tourne contre vous, n'a rien que de honteux. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1269'>Et soumis au destin dont la rigueur me brave, </l>
+	<l id='1270'>Tu ne crois point de honte à demeurer esclave, </l>
+	<l id='1271'>À craindre le pouvoir qu'il m'a plu de céder, </l>
+	<l id='1272'>Et me voir obéir où j'ai pu commander ? </l>
+	<l id='1273'>Non, non, plutôt sur moi tombe cent fois la foudre, </l>
+	<l id='1274'>Qu'on m'oblige à changer ce que j'osai résoudre. </l>
+	<l id='1275'>J'arracherais ce coeur s'il s'était démenti ; </l>
+	<l id='1276'>C'est assez qu'une fois je me sois repenti, </l>
+	<l id='1277'>Il m'en coûte l'Empire, et si pour le reprendre </l>
+	<l id='1278'>Du seul secours du crime il nous faut tout attendre, </l>
+	<l id='1279'>La gloire du succès que je prends pour objet, </l>
+	<l id='1280'>Aura droit d'effacer la honte du projet. </l>
+	<l id='1281'>Ainsi, quelques périls où j'expose ma tête... </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Constantin, Maximian, Sévère, Suite.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1282'>Ah, Seigneur, que de maux le Destin nous apprête, </l>
+	<l id='1283'>Et qu'on m'eût épargné de peines à souffrir </l>
+	<l id='1284'>Si sans me rien apprendre on m'eût laissé périr ! </l>
+	<l id='1285'>Vous ne conceviez point sur quels secrets indices </l>
+	<l id='1286'>Fauste me détournait d'entendre les Complices, </l>
+	<l id='1287'>Et malgré vos conseils m'a forcé d'ordonner </l>
+	<l id='1288'>Qu'un autre prît le soin de les examiner. </l>
+	<l id='1289'>Elle vous l'a remis, et n'a pas craint qu'un père </l>
+	<l id='1290'>Par l'intérêt du sang refusât de se taire, </l>
+	<l id='1291'>Et pour sa gloire au moins n'aidât à déguiser </l>
+	<l id='1292'>Ce que les Conjurés auraient pu déposer. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1293' part='i'>Que dites-vous, Seigneur ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1293' part='f'>Que la rage et l'envie </l>
+	<l id='1294'>Par son seul ordre, hélas attentent sur ma vie, </l>
+	<l id='1295'>Et que d'un premier feu le souvenir trop doux </l>
+	<l id='1296'>Lui fait tremper les mains dans le sang d'un époux. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1297'>Ah, Seigneur, de ma Fille épargnez l'innocence. </l>
+	<l id='1298'>Je vous l'ai déjà dit, ce sentiment m'offense, </l>
+	<l id='1299'>Et quoi que l'imposture ait oser publier, </l>
+	<l id='1300'>Le sang dont elle sort la doit justifier. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1301' part='i'>Il le devrait, mais las ! </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1301' part='f'>Quoi, Seigneur, il peut être </l>
+	<l id='1302' part='i'>Que d'aveugles soupçons tombent... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1302' part='f'>Ne dis rien, traître. </l>
+	<l id='1303'>C'est toi de qui l'amour dans son coeur enflammé </l>
+	<l id='1304'>A versé la fureur dont il est animé. </l>
+	<l id='1305'>En vain tu fais paraître une surprise extrême, </l>
+	<l id='1306'>S'il te faut des témoins je ne veux que toi-même, </l>
+	<l id='1307'>Lâche, dans ce billet reconnais-tu ta main ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1308' part='i'>Ô Ciel !</l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN, donnant le billet à Maximin.</speaker>
+	<l id='1308' part='f'>Voyez, Seigneur, s'il a part au dessein. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN, lit.</speaker>
+	<l id='1309'>Quoi que de l'attentat on ait donné d'indices, </l>
+	<l id='1310'>Peut-être dès ce soir vous n'aurez plus d'Époux. </l>
+	<l id='1311'>Agissez promptement, tout est perdu pour nous </l>
+	<l id='1312'>Si vous ne l'empêchez d'écouter les Complices. </l>
+	<l id='1313'>Il le faut avouer, ce coup de foudre est grand, </l>
+	<l id='1314'>Mais sans doute, Seigneur, Sévère vous surprend. </l>
+	<l id='1315'>L'ingrat pour se venger de sa foi méprisée </l>
+	<l id='1316'>À vos ressentiments la veut voir exposée, </l>
+	<l id='1317'>Et par ce faux billet qu'il vous fait supposer</l>
+	<l id='1318'>Il s'accuse lui-même afin de l'accuser. </l>
+	<l id='1319' part='i'>L'ardeur de la noircir... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1319' part='f'>Pouvez-vous la défendre, </l>
+	<l id='1320'>Si moi-même en ses mains je viens de le surprendre ? </l>
+	<l id='1321'>Entré sans l'avertir dans son appartement, </l>
+	<l id='1322'>J'ai soupçonné son crime à son étonnement. </l>
+	<l id='1323'>Je l'ai vue inquiète, et comme toute émue </l>
+	<l id='1324'>Dérober avec soin ce Billet à ma vue, </l>
+	<l id='1325'>Et confus de son trouble, au point de lui parler, </l>
+	<l id='1326'>Votre abord m'a contraint de tout dissimuler. </l>
+	<l id='1327'>Vous avez vu, Seigneur, avec quels artifices </l>
+	<l id='1328'>Elle a su se soustraire au rapport des Complices. </l>
+	<l id='1329'>J'ai voulu devant vous lui laisser son secret, </l>
+	<l id='1330'>Et lorsque resté seul j'ai parlé du Billet, </l>
+	<l id='1331'>Ses refus ont si loin porté ma défiance, </l>
+	<l id='1332'>Qu'à la prière enfin j'ai joint la violence. </l>
+	<l id='1333'>On va vous l'amener afin que sa fureur </l>
+	<l id='1334'>Vous oblige avec moi d'en partager l'horreur. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1335'>Dans l'affreux désespoir où me plonge son crime, </l>
+	<l id='1336'>Pardonnez le désordre où ma raison s'abîme. </l>
+	<l id='1337'>Quoi qu'à votre péril le mien fût attaché, </l>
+	<l id='1338'>Jusqu'ici l'attentat ne m'avait point touché ; </l>
+	<l id='1339'>J'estime peu la vie, et la main qui conspire </l>
+	<l id='1340'>M'assurait par la mort le repos où j'aspire ; </l>
+	<l id='1341'>Mais voir que sur le Trône après m'être vaincu </l>
+	<l id='1342'>J'aie à ma gloire encor malgré moi survécu, </l>
+	<l id='1343'>Tout mon sang que noircit un si honteux outrage </l>
+	<l id='1344'>En frémit de colère, en bouillonne de rage, </l>
+	<l id='1345'>Et dans l'accablement de mes tristes ennuis, </l>
+	<l id='1346'>Je me pers, je m'égare, et ne sais qui je suis. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1347'>Ah, si vous l'ignorez, puis-je encor me connaître ? </l>
+	<l id='1348'>L'Amour de tous mes voeux s'est rendu le seul Maître, </l>
+	<l id='1349'>Je ne vis que pour Fauste, et la soif de mon sang </l>
+	<l id='1350'>Est le prix du beau feu qui l'élève à mon rang. </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1351'>Et vous pouvez souffrir qu'une aveugle injustice </l>
+	<l id='1352'>Étende sa rigueur jusqu'à l'Impératrice ? </l>
+	<l id='1353'>Par sa haute vertu vos soupçons repoussés </l>
+	<l id='1354' part='i'>N'ont rien... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1354' part='f'>Quoi, ce Billet ne m'en dit pas assez, </l>
+	<l id='1355'>Traître, et ton fol espoir veut que je me déguise </l>
+	<l id='1356'>Qu'ainsi qu'elle avant moi tu savais l'entreprise ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1357'>Non, si de ce forfait mon sang vous doit raison, </l>
+	<l id='1358'>Condamnez, punissez, j'ai su la trahison ; </l>
+	<l id='1359'>Mais quoique la rigueur de vos dures maximes </l>
+	<l id='1360'>De mes tristes malheurs me fasse autant de crimes, </l>
+	<l id='1361'>Le favorable arrêt qui saura les finir, </l>
+	<l id='1362'>Par la mort que j'attends n'aura rien à punir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1363'>Oui, tu mourras, perfide, et ta lâche complice </l>
+	<l id='1364'>Dans ta peine du moins trouvera son supplice, </l>
+	<l id='1365'>Et puisque mon amour par un tendre intérêt... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1366'>Ah, contre elle, Seigneur, suspendez votre arrêt. </l>
+	<l id='1367'>Quoi que vous fasse croire une indigne apparence, </l>
+	<l id='1368'>Jamais tant de vertu ne soutint l'innocence, </l>
+	<l id='1369' part='i'>Et j'atteste les Dieux... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1369' part='f'>Cesse de t'obstiner, </l>
+	<l id='1370'>Si tu n'as pour témoins que les Dieux à donner. </l>
+	<l id='1371'>Tes serments dont l'audace attire encor leur foudre, </l>
+	<l id='1372'>Quand ta main te convainc, te peuvent-ils absoudre, </l>
+	<l id='1373'>Et crois-tu que le Ciel voulut favoriser... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1374'>Quoi, vous-même, Seigneur, vous pouvez l'accuser, </l>
+	<l id='1375'>Vous à qui sa vertu par des clartés secrètes</l>
+	<l id='1376'>Pour montrer ce qu'elle est, offre ce que vous êtes, </l>
+	<l id='1377'>Et pour braver un sort de sa gloire jaloux </l>
+	<l id='1378'>Prend pour elle en vous-même un témoin contre vous ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1379'>J'en aurais cru ce sang, qu'avant un coup si lâche </l>
+	<l id='1380'>J'avais pris tant de soin de conserver sans tache ; </l>
+	<l id='1381'>Mais contre un fol amour que rien n'a pu bannir </l>
+	<l id='1382'>Il n'est point de vertu qu'il puisse soutenir. </l>
+	<l id='1383'>Sous l'horreur surprenante où l'attentat me jette, </l>
+	<l id='1384'>La Nature étouffée a droit d'être muette, </l>
+	<l id='1385'>Et saisi tout à coup et de trouble et d'effroi, </l>
+	<l id='1386'>Je n'entends qu'une voix qui parle contre toi. </l>
+	<l id='1387'>C'est lui, Seigneur, c'est lui dont l'ardeur criminelle </l>
+	<l id='1388'>Force l'Impératrice à vous être infidèle, </l>
+	<l id='1389'>Il m'en coûte ma gloire, et pour venger mon rang... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1390'>Et bien, à cette gloire abandonnez mon sang, </l>
+	<l id='1391'>Mais songez, si l'amour me la rendait moins chère, </l>
+	<l id='1392'>Que je pourrais parler où je cherche à me taire. </l>
+	<l id='1393'>Comme c'est le seul crime où j'ai su m'engager, </l>
+	<l id='1394'>L'Impératrice seule a droit de m'en purger. </l>
+	<l id='1395'>Par de honteux soupçons qui noircissent son zèle </l>
+	<l id='1396'>Ne me contraignez point à m'expliquer pour elle, </l>
+	<l id='1397'>Son intérêt me touche, et pour la maintenir, </l>
+	<l id='1398' part='i'>Mon coeur... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1398' part='f'>Et c'est de quoi je saurai te punir, </l>
+	<l id='1399'>Lâche, fais gloire encor de ta coupable flamme, </l>
+	<l id='1400' part='i'>On vient te seconder. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Constantin, Maximian, Fauste, Sévère, Maxime, Suite.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1400' part='f'>Parlez, parlez, Madame, </l>
+	<l id='1401'>Et par le noble éclat d'un généreux amour </l>
+	<l id='1402'>Faites-nous voir Sévère innocent à son tour. </l>
+	<l id='1403'>Comme avec tant de zèle il prend votre défense </l>
+	<l id='1404'>Vous devez quelque chose à la reconnaissance, </l>
+	<l id='1405'>Et ce sera pour vous un reproche éternel </l>
+	<l id='1406'>Si lorsqu'il vous absout il reste criminel. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1407'>Seigneur, n'attendez point qu'en faveur de Sévère </l>
+	<l id='1408'>Je cherche à déguiser ce qu'on ne peut plus taire. </l>
+	<l id='1409'>Ce Billet nous accuse, et ce qu'il vous apprend </l>
+	<l id='1410'>De notre intelligence est un trop sûr garant, </l>
+	<l id='1411'>Nous avons cru tous deux devoir suivre un beau zèle, </l>
+	<l id='1412'>Je l'ai rendu coupable, il me rend criminelle. </l>
+	<l id='1413'>Mais quoi que l'un et l'autre en soit moins innocent, </l>
+	<l id='1414'>C'est un crime louable où la vertu consent. </l>
+	<l id='1415'>Dans les divers malheurs où le destin m'engage </l>
+	<l id='1416'>Il ne m'est pas permis d'en dire davantage. </l>
+	<l id='1417'>Des Conjurés saisis le dangereux appas </l>
+	<l id='1418'>Découvre l'entreprise, et ne la détruit pas. </l>
+	<l id='1419'>Vous voyez de nouveau le péril où vous êtes, </l>
+	<l id='1420'>Appréhendez partout des pratiques secrètes, </l>
+	<l id='1421'>Et pour conseil utile en de si lâches coups, </l>
+	<l id='1422'>Si vous les voulez fuir, n'en prenez que de vous. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1423'>Ah, que de ce conseil j'ai sujet de me plaindre ! </l>
+	<l id='1424'>Pour confondre mes soins il m'oblige à tout craindre, </l>
+	<l id='1425'>Et le péril partout qu'il m'offre à redouter, </l>
+	<l id='1426'>Force mon désespoir de m'y précipiter. </l>
+	<l id='1427'>Vous serez satisfaite, et puisqu'à votre crime </l>
+	<l id='1428'>La vertu peut prêter un appui légitime, </l>
+	<l id='1429'>De mes jours odieux le sacrifice offert </l>
+	<l id='1430'>Rendra le coup facile à la main qui me perd. </l>
+	<l id='1431'>Vous aurez la douceur d'immoler à Sévère </l>
+	<l id='1432'>Cet époux qu'à sa flamme il trouva si contraire, </l>
+	<l id='1433'>Et malgré les transports de mon juste courroux </l>
+	<l id='1434'>J'ai pour vous trop d'amour pour me garder de vous ; </l>
+	<l id='1435'>Mais quoi que de vos voeux je me rende complice, </l>
+	<l id='1436'>J'empêcherai du moins que l'ingrat n'en jouisse, </l>
+	<l id='1437'>Et si ma mort a droit d'adoucir vos malheurs, </l>
+	<l id='1438'>La sienne auparavant vous coûtera des pleurs. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1439'>J'aurai lieu d'en donner au malheur qui l'accable </l>
+	<l id='1440'>Puisque c'est malgré lui qu'il s'est rendu coupable, </l>
+	<l id='1441'>Et qu'à mes intérêts s'osant sacrifier... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1442'>Cherchez, cherchez, Madame, à le justifier, </l>
+	<l id='1443'>Et quelque affront par là qui sur mon sang s'imprime, </l>
+	<l id='1444'>Pour le faire innocent chargez-vous de son crime. </l>
+	<l id='1445'>L'horreur du fol amour dont vos sens sont blessés </l>
+	<l id='1446'>Sans ce honteux aveu n'éclate pas assez, </l>
+	<l id='1447'>Il faut par une audace, et lâche, et téméraire... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1448'>Seigneur, encor un coup souffrez-moi de me taire, </l>
+	<l id='1449'>Et de l'Impératrice épargnant la vertu, </l>
+	<l id='1450' part='i'>Laissez-moi le pouvoir... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1450' part='f'>Lâche, que dirais-tu ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1451'>Seigneur, il faut qu'il parle, et qu'il nous fasse entendre </l>
+	<l id='1452'>Jusqu'à quelle fureur le crime a pu s'étendre. </l>
+	<l id='1453'>De quoi en l'écoutant nous puissions être instruits, </l>
+	<l id='1454'>Je n'ai plus rien à craindre en l'état où je suis. </l>
+	<l id='1455'>En vain la vertu seule attira tout mon zèle, </l>
+	<l id='1456'>Plus de gloire pour moi quand Fauste est criminelle, </l>
+	<l id='1457'>Son forfait dont l'image à mes yeux vient s'offrir... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1458'>Enfin, Madame, enfin je n'en puis plus souffrir, </l>
+	<l id='1459'>Et quelque fort respect qui m'oblige au silence, </l>
+	<l id='1460'>C'est trop voir l'injustice opprimer l'innocence. </l>
+	<l id='1461'>Seigneur, le Criminel n'a plus à se cacher, </l>
+	<l id='1462'>C'est dans Maximian qu'il vous le faut chercher, </l>
+	<l id='1463'>Lui seul fait conspirer, et Chef de l'entreprise... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1464' part='i'>Traître, Maximian ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1464' part='f'>J'avouerai ma surprise, </l>
+	<l id='1465'>À ce coup imprévu je ne sais qu'opposer ; </l>
+	<l id='1466'>Mais je m'accuserais en voulant m'excuser, </l>
+	<l id='1467'>Et ne puis faire mieux, pour confondre l'Envie, </l>
+	<l id='1468'>Que laisser ma défense à l'éclat de ma vie. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN, à Sévère.</speaker>
+	<l id='1469'>Ah, lâche, c'est donc là cet important secret </l>
+	<l id='1470'>Que ta jalouse rage abandonne à regret, </l>
+	<l id='1471'>Et d'un crime odieux que l'enfer te suggère, </l>
+	<l id='1472'>Tu crois sauver la Fille en accusant le père ? </l>
+	<l id='1473'>Mais au moins apprends-nous quel pressent intérêt </l>
+	<l id='1474'>L'a contraint de ma mort à prononcer l'arrêt. </l>
+	<l id='1475'>Quand par un noble effort que l'Univers admire, </l>
+	<l id='1476'>Pour régner sur soi-même il a quitté l'Empire, </l>
+	<l id='1477'>Veux-tu que par un crime aussi noir que honteux </l>
+	<l id='1478'>L'objet de son mépris soit celui de ses voeux ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1479'>À quoi qu'en sa faveur un tel mépris vous force, </l>
+	<l id='1480'>L'éclat d'une Couronne est une douce amorce, </l>
+	<l id='1481'>Et quiconque du Trône a goûté les appas, </l>
+	<l id='1482'>En conçoit mieux le prix quand il n'en jouit pas. </l>
+	<l id='1483'>À son ambition vous serviez de victime, </l>
+	<l id='1484'>Il m'a dit son secret, et c'est là tout mon crime. </l>
+	<l id='1485'>J'ai vu l'Impératrice, et cru que ses avis </l>
+	<l id='1486'>Pour rompre l'attentat devaient être suivis. </l>
+	<l id='1487'>Ce billet prévenant de lâches artifices </l>
+	<l id='1488'>Dérobe votre sang aux fureurs des Complices, </l>
+	<l id='1489'>Qui par Maximian secrètement armés </l>
+	<l id='1490'>À l'envie contre vous se fussent animés. </l>
+	<l id='1491'>Votre perte était sûre à les vouloir entendre, </l>
+	<l id='1492'>Leur crime découvert le pressait d'entreprendre, </l>
+	<l id='1493'>Il voyait tout facile, et Licine arrêté </l>
+	<l id='1494'>Faisait de ses desseins l'entière sûreté. </l>
+	<l id='1495'>C'est à vous là-dessus d'être Juge équitable, </l>
+	<l id='1496'>Licine est innocent, vous voyez le Coupable, </l>
+	<l id='1497'>Et j'expose à vos yeux, sans plus rien vous cacher, </l>
+	<l id='1498'>Tout ce que dans son crime on peut me reprocher. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1499'>Mais si par ce Billet sa trahison connue </l>
+	<l id='1500'>Ne t'en eût pas fait voir la rage prévenue, </l>
+	<l id='1501'>Sans nommer le Coupable, et me rien découvrir, </l>
+	<l id='1502'>Ton jaloux désespoir m'aurait laissé périr ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1503'>Pour l'arracher au crime où le Trône l'engage, </l>
+	<l id='1504'>J'aurais mis en secret toute chose en usage, </l>
+	<l id='1505'>Et si tous mes efforts n'eussent pu l'émouvoir, </l>
+	<l id='1506'>Le péril redoublant je savais mon devoir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1507'>Ah, puisque ce devoir était inébranlable, </l>
+	<l id='1508'>Tu devais m'accuser quand tu me sus coupable, </l>
+	<l id='1509'>Et ne t'exposer pas à te voir condamné </l>
+	<l id='1510'>Par le honteux silence où tu t'es obstiné. </l>
+	<l id='1511'>La gloire de Licine indignement ternie </l>
+	<l id='1512'>Demandait ton secours contre la calomnie ; </l>
+	<l id='1513'>Mais à ta lâcheté mon déplaisir consent, </l>
+	<l id='1514'>Je suis seul criminel, Licine est innocent. </l>
+	<l id='1515'>Je ne demande point qu'à force de supplices </l>
+	<l id='1516'>On tire un juste arrêt de l'aveu des Complices ; </l>
+	<l id='1517'>Loin de vouloir par eux justifier ma foi, </l>
+	<l id='1518'>Je t'offre dans ma Fille un témoin contre moi. </l>
+	<l id='1519'>Il est temps qu'elle parle, et qu'aidant l'imposture </l>
+	<l id='1520'>Ce nouveau parricide accable la Nature, </l>
+	<l id='1521'>Le sang contre l'Amour s'explique vainement, </l>
+	<l id='1522'>Et ce n'est rien qu'un père, où l'on sauve un amant. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1523'>Dans les cruels soupçons que mon malheur m'attire, </l>
+	<l id='1524'>Après ce que j'ai dit je n'ai plus rien à dire. </l>
+	<l id='1525'>C'est à l'Empereur seul à bien examiner </l>
+	<l id='1526'>Ce qu'il doit d'absoudre, ou droit de condamner ; </l>
+	<l id='1527'>Ou plutôt, le péril étant toujours extrême, </l>
+	<l id='1528'>Il doit pour s'en sauver ne croire que soi-même</l>
+	<l id='1529'>Se défier sans cesse, et pour sa sûreté </l>
+	<l id='1530'>Voir et craindre partout de l'infidélité. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1531'>Hélas ! Pour mon repos ainsi que pour ma gloire </l>
+	<l id='1532'>Je ne connais que trop ce qu'il faut craindre et croire, </l>
+	<l id='1533'>Et d'un feu criminel l'espoir trop écouté, </l>
+	<l id='1534'>Pour voir tous mes malheurs m'offre assez de clarté, </l>
+	<l id='1535'>Il périra, le Traître, et ma rage secrète </l>
+	<l id='1536'>Du moins par son trépas se verra satisfaite ; </l>
+	<l id='1537'>Non que dans l'attentat il puisse être accusé </l>
+	<l id='1538'>Que d'avoir su le crime, et l'avoir déguisé. </l>
+	<l id='1539'>Vous seule avec Licine aviez juré ma perte, </l>
+	<l id='1540'>Il trouve à son retour l'occasion offerte, </l>
+	<l id='1541'>Et ne peut refuser de prêter quelque appui </l>
+	<l id='1542'>Aux indignes complots qu'on a formés sans lui ; </l>
+	<l id='1543'>Mais ce que ma douleur à punir s'intéresse, </l>
+	<l id='1544'>C'est qu'il m'est lâchement volé votre tendresse, </l>
+	<l id='1545'>Et que de mon amour osant braver l'ardeur, </l>
+	<l id='1546'>Quand j'obtiens votre main, il garde votre coeur. </l>
+	<l id='1547'>C'est là ce qui vers moi noircit son innocence, </l>
+	<l id='1548'>C'est le seul attentat dont je me dois vengeance, </l>
+	<l id='1549'>Et pour voir jusqu'au bout ma haine s'enflammer, </l>
+	<l id='1550'>Le crime est assez grand de s'être fait aimer. </l>
+	<l id='1551'>Qu'on le tienne en lieu sûr. Dans un sort si funeste, </l>
+	<l id='1552'>Seigneur, c'est à vous seul de disposer du reste. </l>
+	<l id='1553'>Pour moi, quelques ennuis où mon coeur soit plongé, </l>
+	<l id='1554'>Si Sévère est puni, je suis assez vengé. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Maximian, Fauste. </head>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1555'>Ah, Seigneur, si jamais la pitié sur votre âme, </l>
+	<l id='1556' part='i'>Par un juste pouvoir... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1556' part='f'>Nous sommes seuls, Madame, </l>
+	<l id='1557'>Et pour vous épargner des efforts superflus, </l>
+	<l id='1558'>Je veux bien avec vous m'expliquer là-dessus. </l>
+	<l id='1559'>C'est par mon ordre seul que Martian conspire, </l>
+	<l id='1560'>La mort de Constantin me doit rendre l'Empire, </l>
+	<l id='1561'>Et mon coeur insensible à toutes vos douleurs </l>
+	<l id='1562'>Verra couler son sang de même que vos pleurs. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1563'>Quoi ? L'aveugle transport que vous prenez pour guide </l>
+	<l id='1564'>L'emporte sur l'horreur d'un si noir parricide, </l>
+	<l id='1565'>Et par lui votre coeur au crime abandonné </l>
+	<l id='1566'>N'épargne point l'époux que vous m'avez donné ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1567'>Ce titre de ma haine aurait dû le défendre, </l>
+	<l id='1568'>Mais il est Empereur aussi bien que mon gendre, </l>
+	<l id='1569'>Et l'inquiète ardeur dont je me sens brûler </l>
+	<l id='1570'>Ne l'a fait votre époux que pour me l'immoler. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1571'>S'il n'est point de fureur qu'un nom si doux n'éteigne, </l>
+	<l id='1572' part='i'>Sur quel crime assez grand... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1572' part='f'>Il est au trône, il règne, </l>
+	<l id='1573'>Et dans l'abaissement du rang où je me vois, </l>
+	<l id='1574'>Quiconque est au-dessus est coupable vers moi</l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1575'>Peut-il l'être vers vous d'un Trône héréditaire ? </l>
+	<l id='1576'>Votre place à remplir y fit monter son père, </l>
+	<l id='1577'>Et lors que la vertu vous l'a fait dédaigner, </l>
+	<l id='1578'>Est-ce un crime pour lui que le droit de régner ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1579'>Si des projets si bas surprirent ma faiblesse, </l>
+	<l id='1580'>À m'en faire raison ma gloire s'intéresse, </l>
+	<l id='1581'>Et pour les réparer dans l'éclat qu'ils ont eu, </l>
+	<l id='1582'>Je dois un crime illustre à ma lâche vertu. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1583'>Quoi ! Réduite aux devoirs et de Fille et de Femme, </l>
+	<l id='1584' part='i'>Ce déplorable état... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1584' part='f'>C'est perdre temps, Madame, </l>
+	<l id='1585'>Les larmes dans vos maux sont un faible secours, </l>
+	<l id='1586'>Et le Trône vaut bien les forfaits où je cours.</l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1587'>Et bien, père cruel, il faut être cruelle, </l>
+	<l id='1588'>Votre infidélité me va rendre infidèle, </l>
+	<l id='1589'>Et contre la Nature un juste désespoir </l>
+	<l id='1590'>Fait déjà dans mon coeur révolter mon devoir. </l>
+	<l id='1591'>Pour sauver mon époux, j'accuserai mon père, </l>
+	<l id='1592' part='i'>Et... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1592' part='f'>Vous craindrai-je plus que je n'ai fait Sévère ? </l>
+	<l id='1593'>Après que son rapport n'a pu trouver de foi, </l>
+	<l id='1594'>Pour empêcher sa perte agissez contre moi, </l>
+	<l id='1595'>Déclarez mes desseins, accusez qui l'opprime. </l>
+	<l id='1596'>Malgré vous je me vois le maître de mon crime, </l>
+	<l id='1597'>Et sa mort me va mettre en état de jouir </l>
+	<l id='1598'>De la pleine douceur d'avoir osé trahir. </l>
+	<l id='1599'>Mais enfin de sa peine il est temps qu'on ordonne, </l>
+	<l id='1600'>Vous savez le pouvoir que l'Empereur me donne, </l>
+	<l id='1601' part='i'>J'en saurai bien user. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1601' part='m'>Hélas ! </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1601' part='f'>Dans un moment </l>
+	<l id='1602'>Vous recevrez mon ordre en votre appartement</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Constantin, Constance. </head>
+<sp who='CONSTANTIN'><SPEAKER>CONSTANTIN.</SPEAKER>
+	<l id='1603'>Quoi, ma Soeur, c'est par vous que sa prison ouverte... </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1604'>Seigneur, je vous voyais au point de votre perte. </l>
+	<l id='1605'>Déjà des Révoltés l'aveugle emportement </l>
+	<l id='1606'>Assiégeant le Palais s'expliquait fièrement, </l>
+	<l id='1607'>Tout le Peuple poussé d'un zèle téméraire </l>
+	<l id='1608'>Demandait à hauts cris et Licine et Sévère, </l>
+	<l id='1609'>Et sans aucun respect pour le nom d'Empereur </l>
+	<l id='1610'>Semblait jusque sur vous étendre sa fureur. </l>
+	<l id='1611'>Dans un mal violent à qui tout secours cède, </l>
+	<l id='1612'>Souvent tout hasarder en est le seul remède, </l>
+	<l id='1613'>Et c'est par là, Seigneur, qu'un mouvement secret </l>
+	<l id='1614'>A su m'autoriser à tout ce que j'ai fait. </l>
+	<l id='1615'>J'ai délivré Licine, et l'arrêt qu'il peut craindre </l>
+	<l id='1616'>À quitter sa prison n'aurait pu le contraindre, </l>
+	<l id='1617'>S'il n'eût vu que lui seul avait droit d'apaiser </l>
+	<l id='1618'>De lâches Factieux qui pouvaient tout oser. </l>
+	<l id='1619'>Vous en voyez l'effet ; par sa seule présence </l>
+	<l id='1620'>Il a calmé soudain leur plus fière insolence, </l>
+	<l id='1621'>Et si dans ce qu'elle ose il leur doit quelque appui, </l>
+	<l id='1622'>Je le connais assez pour répondre de lui. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1623'>Je n'en suis point en peine, et ce qui m'inquiète </l>
+	<l id='1624'>C'est le secret remords où la raison me jette. </l>
+	<l id='1625'>J'aime, et l'Amour enfin éclairant ma fureur, </l>
+	<l id='1626'>De mes jaloux transports me découvre l'erreur. </l>
+	<l id='1627'>Leur rigueur contre Fauste était peu légitime, </l>
+	<l id='1628'>Sa vertu suffisait pour la croire sans crime, </l>
+	<l id='1629'>Et pour en voir soudain le soupçon rejeté, </l>
+	<l id='1630'>Mon coeur n'avait besoin d'aucune autre clarté. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1631'>L'attentat est si noir, qu'avec trop d'injustice </l>
+	<l id='1632'>Du coup qui vous perdait vous la croyiez complice. </l>
+	<l id='1633'>Mais je ne vous dis pas, Seigneur, ce que je crains, </l>
+	<l id='1634'>Voyant que Martian n'est plus entre vos mains. </l>
+	<l id='1635'>On l'a fait évader, et sa fuite m'étonne ; </l>
+	<l id='1636'>Un Traître qui se cache en veut à la Couronne, </l>
+	<l id='1637'>Et connu de lui seul, quoi qu'il veuille tenter, </l>
+	<l id='1638'>Ne l'en pouvant convaincre il est à redouter. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1639'>Sa fuite n'a pas eu le succès que l'on pense, </l>
+	<l id='1640'>Et s'il peut mériter encor quelque croyance, </l>
+	<l id='1641'>L'ingrat Maximian doit seul être accusé </l>
+	<l id='1642'>Du forfait qu'à Licine il avait supposé. </l>
+	<l id='1643'>Le perfide alarmé du rapport de Sévère, </l>
+	<l id='1644'>Pour le faire évader s'est servi de Valère, </l>
+	<l id='1645'>Qui craignant d'avoir part à ses lâches desseins, </l>
+	<l id='1646'>Me l'a secrètement remis entre les mains. </l>
+	<l id='1647'>Maximian l'ignore, et le bruit de sa fuite </l>
+	<l id='1648'>L'autorisant toujours à la même conduite, </l>
+	<l id='1649'>De ses déguisements le but mystérieux, </l>
+	<l id='1650'>Après ce que je sais, se découvrira mieux. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1651' part='i'>Et Martian ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1651' part='f'>D'abord il a voulu se taire, </l>
+	<l id='1652'>Mais resté sans secours, et trahi par Valère, </l>
+	<l id='1653'>Dans l'effroi des tourments qui l'auraient fait parler, </l>
+	<l id='1654'>Il s'est vu hors d'état de plus dissimuler. </l>
+	<l id='1655'>Avec tant de fureur Maximian conspire, </l>
+	<l id='1656'>Que dans l'avidité de reprendre l'Empire, </l>
+	<l id='1657'>La nuit favorisant ce qu'il veut hasarder, </l>
+	<l id='1658'>Jusque dans mon lit même il doit me poignarder. </l>
+	<l id='1659'>C'est de quoi, sur l'espoir d'un obstiné silence, </l>
+	<l id='1660'>Il avait su déjà lui donner l'assurance, </l>
+	<l id='1661'>Et craignant des mutins le murmure indiscret, </l>
+	<l id='1662'>Il a cru par sa fuite assurer son secret. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1663' part='i'>Quelle rage, Seigneur ? </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1663' part='f'>Ce qui me désespère, </l>
+	<l id='1664'>C'est le contraint aveu que m'en a fait Sévère, </l>
+	<l id='1665'>Qui sachant le secret du lâche qui me perd, </l>
+	<l id='1666'>Si Straton n'eût parlé, ne m'eût rien découvert. </l>
+	<l id='1667'>Maxime nous l'amène, afin qu'en sa présence </l>
+	<l id='1668' part='i'>Fauste puisse... </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1668' part='f'>Seigneur, la voici qui s'avance. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Constantin, Fauste, Constance. </head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1669'>Dans le confus désordre où mon malheur me met, </l>
+	<l id='1670'>Madame, oublierez-vous l'affront qu'on vous a fait ? </l>
+	<l id='1671'>Dans votre appartement l'ordre cruel d'un père </l>
+	<l id='1672'>Sans en être avoué vous tenait prisonnière, </l>
+	<l id='1673'>L'outrage m'est sensible, et pour le réparer, </l>
+	<l id='1674'>Il n'est rien que de moi l'on est droit d'espérer. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1675'>Ah, Seigneur, il n'est point de peine assez cruelle </l>
+	<l id='1676'>Pour punir mon forfait si je suis criminelle, </l>
+	<l id='1677'>Mais ce soupçon peut-être un peu trop écouté </l>
+	<l id='1678'>Vous livre sans obstacle à l'infidélité : </l>
+	<l id='1679'>De son aveuglement on ne peut trop vous plaindre, </l>
+	<l id='1680'>C'est lui seul contre vous que vous ayez à craindre. </l>
+	<l id='1681'>Je ne combattrai point un rigoureux arrêt, </l>
+	<l id='1682'>Sévère doit mourir puisque sa mort vous plaît ; </l>
+	<l id='1683'>Mais quand la trahison vous cherche pour victime, </l>
+	<l id='1684'>Qui paraît innocent peut n'être pas sans crime, </l>
+	<l id='1685'>Partout d'un noir destin vos jours sont menacés, </l>
+	<l id='1686'>Et ne rien dire plus c'est vous en dire assez. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1687'>Oui, c'est m'en dire assez, et le soin de ma gloire </l>
+	<l id='1688'>Suffisait à forcer mon amour à vous croire, </l>
+	<l id='1689'>Mais je ne vois que trop par ce revers fatal </l>
+	<l id='1690'>Qu'un feu qui brûle trop souvent éclaire mal. </l>
+	<l id='1691'>Ses flammes dévorant tout ce qui le fait naître, </l>
+	<l id='1692'>Rendent faux les objets qu'elles font trop paraître, </l>
+	<l id='1693'>Et si l'erreur qu'en vain j'ai voulu prévenir, </l>
+	<l id='1694'>M'a de Maximian... Mais je le vois venir. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Constantin, Maximian, Fauste, Constance. </head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1695'>Et bien, après l'éclat que le Peuple autorise, </l>
+	<l id='1696'>Douterez-vous, Seigneur, des Chefs de l'entreprise ? </l>
+	<l id='1697'>Par sa rébellion il est aisé de voir </l>
+	<l id='1698'>Qu'en secret son appui soutenait leur espoir. </l>
+	<l id='1699'>De tant de factieux la criminelle audace, </l>
+	<l id='1700'>S'ils étaient arrêtés, répondait de leur grâce : </l>
+	<l id='1701'>Par là leur fermeté bravait votre courroux, </l>
+	<l id='1702'>Et sûrs d'une révolte ils n'ont rien craint de vous. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1703'>S'ils n'ont rien craint de moi, je vois beaucoup à craindre, </l>
+	<l id='1704'>Et l'on ne connaît pas combien je suis à plaindre. </l>
+	<l id='1705'>Non que du criminel je puisse encor douter, </l>
+	<l id='1706'>Les motifs du secret ont su trop éclater ; </l>
+	<l id='1707'>Le Traître m'est connu, mais ce qui fait ma peine, </l>
+	<l id='1708'>L'amour peut sur mon coeur encor plus que la haine, </l>
+	<l id='1709'>Et dans ce que de moi Fauste a droit d'obtenir, </l>
+	<l id='1710'>C'est mal savoir aimer que songer à punir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1711'>Quoi, Seigneur, à l'État, à vous-même perfide, </l>
+	<l id='1712'>Vous pourriez épargnez un lâche Parricide, </l>
+	<l id='1713'>Et cet amour que Fauste a si peu mérité, </l>
+	<l id='1714'>Contre vos intérêts est encor écouté ? </l>
+	<l id='1715'>Quand pour vous affranchir de tout ce qu'on hasarde, </l>
+	<l id='1716'>Je vous ai conseillé de changer votre Garde, </l>
+	<l id='1717'>Vous voyez, au forfait qu'on lui peut reprocher, </l>
+	<l id='1718'>Par quelle politique elle a su l'empêcher. </l>
+	<l id='1719'>Cette Garde à Licine aveuglément soumise </l>
+	<l id='1720'>La flattait du succès de sa noire entreprise, </l>
+	<l id='1721'>Et je vous vois toujours dans le même danger </l>
+	<l id='1722'>Si vous vous obstinez à ne la point changer. </l>
+	<l id='1723'>Non qu'à ces sûretés mon zèle vous convie </l>
+	<l id='1724'>Par l'effroi du péril qui menace ma vie, </l>
+	<l id='1725'>Bien loin de le souffrir un si bas sentiment, </l>
+	<l id='1726'>Je passerai la nuit dans votre appartement, </l>
+	<l id='1727'>Et si le Trône enfin n'offre rien que respecte </l>
+	<l id='1728'>L'insolente fureur d'une Garde suspecte, </l>
+	<l id='1729'>Du moins mon sang versé, s'il ne peut l'émouvoir, </l>
+	<l id='1730'>Justifiera l'avis que j'ai cru vous devoir. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1731'>De tout ce que j'entends interdite et confuse, </l>
+	<l id='1732'>Je n'ose murmurer quand mon père m'accuse, </l>
+	<l id='1733'>Mais après mon silence il m'est bien dur de voir </l>
+	<l id='1734'>Que sur lui la Nature ait si peu de pouvoir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1735'>Moi, je l'écouterais quand je vois Licine </l>
+	<l id='1736'>Avec vous de l'État a juré la ruine ? </l>
+	<l id='1737'>Voyez ce que pour lui les Mutins ont osé. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE.</speaker>
+	<l id='1738'>Il doit être suspect puisqu'il est accusé ; </l>
+	<l id='1739'>Mais je doute, Seigneur, si ce serait un crime </l>
+	<l id='1740'>D'avoir encor pour lui quelque reste d'estime, </l>
+	<l id='1741'>Et de se hasarder à juger un peu mieux </l>
+	<l id='1742'>Du secret intérêt qu'il prend aux factieux. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1743'>En vain votre pitié veut être son refuge. </l>
+	<l id='1744'>Qui se trouve innocent n'a jamais craint son Juge, </l>
+	<l id='1745'>Et suspect d'une lâche et noire trahison, </l>
+	<l id='1746'>Lui-même il se condamne en quittant sa prison. </l>
+	<l id='1747'>C'est peu si Martian ne seconde sa fuite, </l>
+	<l id='1748'>Martian qui du crime eut l'entière conduite, </l>
+	<l id='1749'>En garda le secret, et qui seul aujourd'hui </l>
+	<l id='1750'>Aurait pu nous servir de témoin contre lui. </l>
+	<l id='1751'>Pour qui doit recourir à sa seule innocence, </l>
+	<l id='1752'>Trouver lieu d'évader c'est trop d'intelligence. </l>
+	<l id='1753'>Seigneur, encor un coup craignez-en les effets, </l>
+	<l id='1754'>Il peut tout sur le Peuple, il peut tout au Palais, </l>
+	<l id='1755'>Il excite à son choix et calme la tempête, </l>
+	<l id='1756'>Et quand sa perfidie en veut à votre tête, </l>
+	<l id='1757'>En prévenir la rage avec tant de langueur, </l>
+	<l id='1758'>C'est pousser le poignard qui vous perce le coeur. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1759'>Ainsi tout prêt à voir l'entreprise détruite, </l>
+	<l id='1760'>De Martian Licine a pratiqué la fuite ? </l>
+	<l id='1761'>C'est par lui que ce Traître est hors de mon pouvoir ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1762'>Lui-même par la sienne il vous le fait trop voir. </l>
+	<l id='1763'>Ne craignant rien d'ailleurs dans l'horreur des supplices, </l>
+	<l id='1764'>Il laisse entre vos mains tous les autre Complices. </l>
+	<l id='1765'>Martian au remords avait déjà cédé, </l>
+	<l id='1766'>Lui seul l'eût convaincu, lui seul est évadé. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1767'>D'autres témoins peut-être auront peine à se taire, </l>
+	<l id='1768' part='i'>Voici Maxime. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Constantin, Maximian, Fauste, Constance, Maxime.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1768' part='f'>Et bien, amène-t-on Sévère ? </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME.</speaker>
+	<l id='1769'>Seigneur, le triste état où la perte du sang </l>
+	<l id='1770'>Que trois coups de poignard ont tiré de son flanc... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1771' part='i'>Quoi, Sévère est blessé ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1771' part='f'>Seigneur, quelle surprise ! </l>
+	<l id='1772'>Mais s'il n'est que mourant le Ciel me favorise. </l>
+	<l id='1773'>Comme il a sur moi seul jeté la trahison, </l>
+	<l id='1774'>Pour recouvrer ma gloire allons dans sa prison, </l>
+	<l id='1775'>Il parlera sans doute, et voudra se dédire. </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME.</speaker>
+	<l id='1776'>À peine y suis-je entré qu'on l'entend qui soupire, </l>
+	<l id='1777'>Et nous voyant saisis d'épouvante et d'horreur, </l>
+	<l id='1778'>Qu'on me porte, a-t-il dit, aux pieds de l'Empereur, </l>
+	<l id='1779'>J'ai beaucoup à lui dire. Il n'achève qu'à peine, </l>
+	<l id='1780'>Et sa voix... Mais, Seigneur, le voici qu'on amène. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Constantin, Maximian, Fauste, Constance, Sévère, Maxime, Suite.</head>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1781' part='i'>Ah, Sévère ! </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1781' part='m'>Ah, Seigneur. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1781' part='f'>Hâte-toi de parler, </l>
+	<l id='1782'>Quelle main à sa rage a voulu t'immoler ? </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1783'>Où la faut-il chercher qu'en celle qui conspire ? </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1784' part='i'>Dieux ! </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE, à Maximian.</speaker>
+	<l id='1784' part='f'>Je ne dirai rien que vous n'eussiez pu dire. </l>
+<stage>À Constantin. </stage>
+	<l id='1785'>Seigneur, Maximian par moi seul découvert </l>
+	<l id='1786'>M'a cru devoir punir d'un rapport qui le perd, </l>
+	<l id='1787'>Mais le Ciel malgré lui contraire à son envie </l>
+	<l id='1788'>Pour l'accuser encor me laisse assez de vie, </l>
+	<l id='1789'>Lui seul des Conjurés engage la fureur. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1790'>Quoi, Traître, les forfaits te font si peu d'horreur, </l>
+	<l id='1791'>Que pour plaire à l'amour, ton indigne imposture... </l>
+</sp>
+<sp who='SEVERE'><speaker>SÉVÈRE.</speaker>
+	<l id='1792'>Ce que je viens de dire est la vérité pure. </l>
+	<l id='1793'>Dans le funeste état, Seigneur, où je me vois, </l>
+	<l id='1794'>La crainte ni l'espoir ne peuvent rien sur moi, </l>
+	<l id='1795'>Je vais mourir, je meurs, mais à l'Impératrice </l>
+	<l id='1796'>Les Dieux auparavant veulent rendre justice. </l>
+	<l id='1797'>D'un sentiment jaloux votre coeur combattu </l>
+	<l id='1798'>A fait outrage en elle à la même vertu, </l>
+	<l id='1799'>Et comme les soupçons que l'on a vu paraître </l>
+	<l id='1800'>Sont tombés par moi seul dans l'esprit de mon Maître, </l>
+	<l id='1801'>Je verrai sans regret tout mon sang répandu </l>
+	<l id='1802'>Si par là le repos lui peut être rendu. </l>
+	<l id='1803'>Vivez, régnez, aimez, Seigneur ; et vous, Madame, </l>
+	<l id='1804'>Songez que tout mon crime est l'excès de ma flamme, </l>
+	<l id='1805'>Et que malgré le sort à ma perte animé, </l>
+	<l id='1806'>Je serais innocent si j'avais moins aimé. </l>
+	<l id='1807' part='i'>C'en est fait, et déjà... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1807' part='f'>Prenez en soin, Maxime. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Constantin, Maximian, Fauste, Constance, Suite. </head>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1808'>J'ai voulu jusqu'au bout lui voir pousser son crime, </l>
+	<l id='1809'>Il meurt en m'accusant ; laissez couler vos pleurs, </l>
+	<l id='1810'>Vous les devez, Madame, à ses tristes malheurs. </l>
+	<l id='1811'>Un amant qui pour vous a fait amas de crimes </l>
+	<l id='1812'>Doit rendre par sa mort vos larmes légitimes, </l>
+	<l id='1813'>Et leur seule tendresse a droit de mériter </l>
+	<l id='1814'>Ceux que sur moi sa rage a voulu rejeter. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE, à Maximian.</speaker>
+	<l id='1815'>Vous le savez, Seigneur ; quoi que m'impute un père, </l>
+	<l id='1816'>Le respect, le devoir m'ont appris à me taire, </l>
+	<l id='1817'>Heureuse dans un mal qui veut un prompt secours, </l>
+	<l id='1818'>S'il peut m'être permis de me taire toujours. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN, à Maximian.</speaker>
+	<l id='1819'>Dans ce que d'un Mourant le Ciel nous fait entendre, </l>
+	<l id='1820'>C'est trop que d'accuser, songez à vous défendre. </l>
+	<l id='1821'>Sévère est mort, à qui le doit-on imputer ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1822'>Quoi, parce qu'il m'accuse on voudrait en douter ? </l>
+	<l id='1823'>Pour en craindre l'effet l'imposture est trop claire ; </l>
+	<l id='1824'>Qui fait fuir Martian a fait périr Sévère, </l>
+	<l id='1825' part='i'>Licine seul... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1825' part='f'>Seigneur, sur quoi l'en soupçonner ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1826'>Sur l'excès d'un orgueil qui se veut couronner ; </l>
+	<l id='1827'>Puis qu'enfin de deux Chefs que l'ambition presse, </l>
+	<l id='1828'>L'un à détruire l'autre à l'envi s'intéresse, </l>
+	<l id='1829'>Et dans l'ennui secret de souffrir un égal, </l>
+	<l id='1830'>Met son heur le plus grand à perdre son rival. </l>
+	<l id='1831'>Voilà sur quels motifs le coupable Licine... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1832'>Mais dans sa trahison voyons-nous qu'il s'obstine ? </l>
+	<l id='1833'>Si le Peuple s'emporte, il sait le retenir. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1834'>Et c'est un crime encor dont il le faut punir. </l>
+	<l id='1835'>Ce que sur les Mutins il s'est acquis d'empire </l>
+	<l id='1836'>Fais voir à quoi par eux son lâche orgueil aspire. </l>
+	<l id='1837'>Sous les fausses couleurs d'un respect affecté </l>
+	<l id='1838'>Son coeur de ses desseins cache l'indignité. </l>
+	<l id='1839'>Feignant d'agir pour vous il agit pour lui-même. </l>
+	<l id='1840'>Courons de cet affront venger le Diadème. </l>
+	<l id='1841'>Aussi bien pour sa gloire il faut qu'un Souverain </l>
+	<l id='1842'>Avec des Révoltés parle la foudre en main ; </l>
+	<l id='1843'>Ils ont beau s'attacher aux intérêts d'un Traître, </l>
+	<l id='1844'>Pour faire avorter tout je ne veux que paraître, </l>
+	<l id='1845'>Et quoi qu'à se garder Licine ait pris de soin, </l>
+	<l id='1846' part='i'>L'arrachant de leurs mains... </l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Constantin, Maximian, Fauste, Constance, </head>Licine, Suite. 
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1846' part='f'>Il n'en est pas besoin. </l>
+	<l id='1847'>Seigneur, il vient se rendre, et dérober sa gloire </l>
+	<l id='1848'>À ce qu'un imposteur a donné lieu de croire. </l>
+	<l id='1849'>La fuite où m'a forcé le seul bien de l'État </l>
+	<l id='1850'>Eût de la calomnie autorisé l'éclat. </l>
+	<l id='1851'>Dans rébellion le Peuple était à craindre, </l>
+	<l id='1852'>Le feu m'a paru grand, j'ai tâché de l'éteindre, </l>
+	<l id='1853'>Et comme à l'innocence on doit se confier, </l>
+	<l id='1854'>Je reviens, ou mourir ou me justifier. </l>
+</sp>
+<sp who='CONSTANCE'><speaker>CONSTANCE, à Constantin.</speaker>
+	<l id='1855'>Vous le voyez, Seigneur, si j'ai dû vous répondre </l>
+	<l id='1856'>Que bravant l'imposture il saurait la confondre. </l>
+	<l id='1857'>Son retour à sa gloire assure assez l'éclat. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN, à Maximian.</speaker>
+	<l id='1858'>Lui voudrez-vous encor imputer l'attentat ? </l>
+	<l id='1859' part='i'>Vous paraissez surpris ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+    <l id='1859' part='f'>Je n'ai plus rien à dire, </l>
+	<l id='1860'>Pour justifier Fauste on veut que je conspire, </l>
+	<l id='1861'>J'y consens, croyez tout, l'indice est trop pressant, </l>
+	<l id='1862'>Licine vient s'offrir, il doit être innocent. </l>
+	<l id='1863'>Mais que hasarde-t-il ? Un grand Peuple rebelle, </l>
+	<l id='1864'>Si vous le condamnez, va prendre sa querelle, </l>
+	<l id='1865'>Et sûr de son secours, il doit peu redouter </l>
+	<l id='1866'>La rigueur d'un arrêt qu'on n'ose exécuter. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1867'>J'avais de vous, Seigneur, attendu plus d'estime, </l>
+	<l id='1868'>Mais l'Empereur sans doute éclaircira le crime, </l>
+	<l id='1869'>Et l'imposture en vain l'aura sur moi jeté, </l>
+	<l id='1870'>Si contre Martian Sévère est écouté. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN, à Licine.</speaker>
+	<l id='1871'>Bien loin de te flatter d'un si faible avantage, </l>
+	<l id='1872'>Tremble, Sévère est mort, on l'impute à ta rage. </l>
+	<l id='1873'>Purge-toi, si tu peux, de l'avoir fait périr. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1874'>Sévère ne vit plus ! Et bien, il faut mourir. </l>
+	<l id='1875'>J'aurais beau repousser un crime détestable, </l>
+	<l id='1876'>Puisque Sévère est mort, on veut me voir coupable, </l>
+	<l id='1877'>Et quoi que l'imposture invente contre moi, </l>
+	<l id='1878'>Le traître Martian sera digne de foi. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1879'>Feins de le craindre encor, quand par tes artifices </l>
+	<l id='1880'>Sa fuite l'a soustrait aux plus affreux supplices. </l>
+	<l id='1881'>Tu l'as fait évader, et reviens sans effroi, </l>
+	<l id='1882'>N'ayant plus de témoin qui parle contre toi. </l>
+	<l id='1883'>Nie encor, et par là prouve ton innocence. </l>
+</sp>
+<sp who='LICINE'><speaker>LICINE.</speaker>
+	<l id='1884'>Moi, qu'avec Martian je sois d'intelligence ? </l>
+	<l id='1885'>Ai-je quelque intérêt à le faire évader </l>
+	<l id='1886'>Quand de l'Auteur du crime il peut seul décider ? </l>
+	<l id='1887'>Si m'étant confronté je ne le fais dédire, </l>
+	<l id='1888'>Je demeure coupable, et c'est moi qui conspire. </l>
+	<l id='1889'>Qu'attends-je de sa fuite, et quel est mon espoir ? </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1890'>Par ces fausses clartés tâche à nous décevoir. </l>
+	<l id='1891'>Pour te justifier c'est peu que l'apparence. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1892'>Elle fait encor plus pour lui que l'on ne pense, </l>
+	<l id='1893'>Et pour tout dire enfin, il me serait bien doux </l>
+	<l id='1894'>Qu'avec autant de force elle parlât pour vous. </l>
+	<l id='1895'>Sévère a soutenu que pour vous on conspire, </l>
+	<l id='1896'>Et sa mort l'a puni de ce qu'il a su dire ; </l>
+	<l id='1897'>Votre intérêt ailleurs se trouve conservé, </l>
+	<l id='1898'>Martian n'a rien dit, Martian est sauvé. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1899'>Enfin je suis coupable, et l'éclat de ma gloire </l>
+	<l id='1900'>Est trop peu pour régler ce que vous devez croire ? </l>
+	<l id='1901'>Mais si j'avais encor Martian pour témoin... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1902'>Et bien, s'il vous le faut, Martian n'est pas loin. </l>
+	<l id='1903'>Voulez-vous qu'on l'amène, et que Valère ensuite </l>
+	<l id='1904'>Vienne vous expliquer ce qu'il sait de sa fuite ? </l>
+	<l id='1905'>Voulez-vous savoir d'eux d'où j'ai pu deviner </l>
+	<l id='1906'>Que jusque dans mon lit on doit m'assassiner, </l>
+	<l id='1907'>Et que dès cette nuit pour cet excès de rage </l>
+	<l id='1908'>Par votre appartement on trouve au mien passage ? </l>
+	<l id='1909'>Qu'on les fasse venir. Pour peu qu'ils soient pressés... </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1910'>Arrête, Constantin, tu m'en as dit assez. </l>
+	<l id='1911'>Je vois que tu sais tout, et qu'instruit par Valère </l>
+	<l id='1912'>De mes déguisements tu perces le mystère. </l>
+	<l id='1913'>Martian dont la fuite assurait mes desseins, </l>
+	<l id='1914'>Quand je le crois sauvé, se trouve entre tes mains, </l>
+	<l id='1915'>Il t'a tout découvert, et dans la défiance </l>
+	<l id='1916'>Où de mes voeux trahis te met la connaissance, </l>
+	<l id='1917'>Me voyant hors d'espoir d'en obtenir l'effet, </l>
+	<l id='1918'>Je n'ai plus d'intérêt à cacher mon forfait. </l>
+	<l id='1919'>Quand en n'avouant rien je pourrais te réduire </l>
+	<l id='1920'>À douter si c'est moi qui cherche à te détruire, </l>
+	<l id='1921'>Observé dans ta Cour, haï de toutes parts, </l>
+	<l id='1922'>J'aurais beau vers le Trône élever mes regards. </l>
+	<l id='1923'>On ne me laisserait aucun lieu d'entreprendre, </l>
+	<l id='1924'>Et puis que je connais qu'il n'y faut plus prétendre, </l>
+	<l id='1925'>J'aime mieux, te pressant de ne pas m'épargner, </l>
+	<l id='1926'>Mourir dans cet orgueil, que vivre sans régner. </l>
+	<l id='1927'>Peut-être à déguiser ce qu'on t'a fait connaître, </l>
+	<l id='1928'>De tes jours malgré toi j'aurais pu me voir maître </l>
+	<l id='1929'>Et soulager du moins la peine où je me vois </l>
+	<l id='1930'>Par la fausse douceur de te perdre avec moi ; </l>
+	<l id='1931'>Mais comme à l'attentat le Trône seul m'anime, </l>
+	<l id='1932'>Lorsque j'en perds l'espoir, je perds l'ardeur du crime, </l>
+	<l id='1933'>Et dans l'avide soif de reprendre ton rang, </l>
+	<l id='1934'>Ne pouvant te l'ôter, je dédaigne ton sang. </l>
+	<l id='1935'>Prononce, Martian n'a plus rien à te dire. </l>
+</sp>
+<sp who='MAXIMIAN'><speaker>MAXIMIAN.</speaker>
+	<l id='1936'>Qu'au Trône par ma mort Maximian aspire ! </l>
+	<l id='1937'>Lui qui dans mes États plus Souverain que moi, </l>
+	<l id='1938'>Puisqu'il voulait régner, pouvait donner la loi ! </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE.</speaker>
+	<l id='1939'>Seigneur, n'écoutez pas toute votre colère, </l>
+	<l id='1940'>Et s'il est criminel, songez qu'il est mon père. </l>
+	<l id='1941'>Non que d'un attentat qu'on ne peut trop punir, </l>
+	<l id='1942'>Je veuille vous ôter le fatal souvenir, </l>
+	<l id='1943'>Mais qu'il vive, et s'il faut qu'enfin le sang efface... </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+	<l id='1944'>Moi vivre ! Moi de lui daigner recevoir grâce ! </l>
+	<l id='1945'>Régnez, régnez, Madame, et cesser de penser </l>
+	<l id='1946'>Qu'au rang de vos Sujets je puisse m'abaisser ; </l>
+	<l id='1947'>Et pour vous et pour moi je sais ce qu'il faut faire. </l>
+	<l id='1948'>Toi, Constantin, jouis de la mort de Sévère. </l>
+	<l id='1949'>C'est à moi que tu dois le bonheur sans égal </l>
+	<l id='1950'>De n'avoir plus enfin à craindre de rival. </l>
+	<l id='1951'>Son sang à ma vengeance a servi de victime, </l>
+	<l id='1952'>Et loin de démentir la fierté de mon crime, </l>
+	<l id='1953'>Je veux te faire voir, qu'indigne d'obéir, </l>
+	<l id='1954'>Je sais braver les Dieux qui m'ont osé trahir. </l>
+	<l id='1955'>Pour rentrer dans ce Trône où tu remplis ma place, </l>
+	<l id='1956'>J'eusse aux plus noirs forfaits élevé mon audace, </l>
+	<l id='1957'>Et comme l'ardeur de te le dérober </l>
+	<l id='1958'>J'avais songé d'abord à t'en faire tomber, </l>
+	<l id='1959'>Voilà pour me punir d'avoir manqué ta chute, </l>
+	<l id='1960'>Et comme je prononce, et comme j'exécute. </l>
+<stage>Il tire un poignard dont il se tue. </stage>
+	<l id='1961' part='i'>Qu'on m'emporte. </l>
+</sp>
+<sp who='FAUSTE'><speaker>FAUSTE suivant Maximian. </speaker>
+    <l id='1961' part='m'>Ah, Seigneur. </l>
+</sp>
+<sp who='CONSTANTIN'><speaker>CONSTANTIN.</speaker>
+    <l id='1961' part='f'>Courons la seconder. </l>
+	<l id='1962'>Son intérêt ici doit seul se regarder ; </l>
+	<l id='1963'>Et quand un peu de calme après ce grand orage </l>
+	<l id='1964'>M'aura tiré du trouble où ce revers m'engage, </l>
+	<l id='1965'>Licine aura sujet d'oublier son malheur, </l>
+	<l id='1966'>Par le rang de Sévère, et l'hymen de ma Soeur. </l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

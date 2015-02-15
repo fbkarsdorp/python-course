@@ -1,0 +1,6121 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<TEI.2>
+
+<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>LA CONQUÊTE DE LA TOISON D'OR, TRAGÉDIE</title>
+
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+
+			</titleStmt>
+
+			<publicationStmp>	
+
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+
+			</publicationStmp>
+
+			<SourceDesc>
+
+				<genre>Tragédie</genre>
+
+				<inspiration>mythe grec</inspiration>
+
+				<structure>Cinq actes, un prologue</structure>
+
+				<type>vers</type>
+
+				<periode>1661-1670</periode>
+
+				<taille>2000-2250</taille>
+
+				<permalien></permalien>
+
+				<sources>
+
+					<source id='1'><author></author><text></text></source>
+
+				</sources>	
+
+
+
+			</SourceDesc>
+
+		</fileDesc>
+
+</teiHeader>
+
+<text>
+
+	<front>
+
+		<docTitle>
+
+			<titlePart type="main">LA CONQUÊTE DE LA TOISON D'OR</titlePart>
+
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+
+		</docTitle> 
+
+		<docDate value='1661'>1661</docDate>
+
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Pierre Corneille</docAuthor>
+
+		<docImprint>
+
+			<privilege id=''></privilege>
+
+			<acheveImprime id=''></acheveImprime>
+
+			<printer id=''></printer>
+
+		</docImprint>
+
+		<performance>
+
+			<premiere date='1661-02-19' location='Théâtre du Marais'>Représenté pour la première fois le 19 février 1661 au Théâtre du Marais.</premiere>
+
+		</performance>
+
+	<castList><head>Acteurs </head>
+
+	<castItem><role id="FRANCE" civil="F" type="A" statut='perosonnification' age='A' stat_amour='néant'>LA FRANCE</role>.</castItem>
+
+	<castItem><role id="VICTOIRE" civil="F" type="A" statut='allégorie' age='allégorie' stat_amour='néant'>LA VICTOIRE</role>.</castItem>
+
+	<castItem><role id="MARS" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>MARS</role>.</castItem>
+
+	<castItem><role id="PAIX" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>LA PAIX</role>.</castItem>
+
+	<castItem><role id="HYMENEE" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>L'HYMÉNÉE</role>.</castItem>
+
+		<castItem><role id="ENVIE" civil="F" type="A" statut='allégorie' age='A' stat_amour='néant'>L'ENVIE</role></castItem>
+
+	<castItem><role id="DISCORDE" civil="F" type="H" statut='allégorie' age='A' stat_amour='néant'>LA DISCORDE</role></castItem>
+
+	<castItem><role id="CHOEUR_MUSIQUE" civil="G" type="H" statut='choeur' age='A' stat_amour='néant'>LE CHOEUR de musique</role></castItem>
+
+
+
+	<castItem><role id="AAETE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>AAETE</role>, roi de Colchos, fils du Soleil.</castItem>
+
+	<castItem><role id="ABSYRTE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>ABSYRTE</role>, fils d'Aaete.</castItem>
+
+	<castItem><role id="CHALCIOPE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>CHALCIOPE</role>, fille d'Aaete, veuve de Phryxus.</castItem>
+
+	<castItem><role id="MEDEE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>MÉDÉE</role>, fille d'Aaete, amante de Jason.</castItem>
+
+	<castItem><role id="HYPSIPYLE" civil="F" type="H" statut='roi' age='A' stat_amour='néant'>HYPSIPYLE</role>, reine de Lemnos.</castItem>
+
+	<castItem><role id="JASON" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>JASON</role>, prince de Thessalie, chef des Argonautes.</castItem>
+
+	<castItem><role id="PELEE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PÉLÉE</role>, argonaute.</castItem>
+
+	<castItem><role id="IPHITE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>IPHITE</role>, argonaute.</castItem>
+
+	<castItem><role id="ORPHEE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ORPHÉE</role>, argonaute.</castItem>
+
+	<castItem><role id="ZETHES" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>ZÉTHÈS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+
+	<castItem><role id="CALAIS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CALAIS</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+
+	<castItem><role id="GLAUQUE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>GLAUQUE</role>, argonaute allié, fils de Borée et d'Orithye.</castItem>
+
+	<castItem><role id="SOLEIL" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>SOLEIL</role>.</castItem>
+
+	<castItem><role id="IRIS" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>IRIS</role>.</castItem>
+
+	<castItem><role id="JUNON" civil="F" type="D" statut='dieu' age='A' stat_amour='néant'>JUNON</role>.</castItem>
+
+	<castItem><role id="JUPITER" civil="M" type="D" statut='dieu' age='A' stat_amour='néant'>JUPITER</role>.</castItem>
+
+	<!-- <castItem><role id="TRITONS" civil="G" type="D" statut='dieu' age='A' stat_amour='néant'>Deux TRITONS</role>.</castItem> -->
+
+	<castItem><role id="SIRENES" civil="G" type="D" statut='dieu' age='A' stat_amour='néant'>Deux SIRÈNES</role>.</castItem>
+
+	<!-- <castItem><role id="VENTS" civil="M" type="D" statut='personnification' age='A' stat_amour='néant'>Quatre VENTS</role>.</castItem> -->
+
+
+
+	</castList>
+
+	<set location='Colchos' country='Georgie' periode='Temps mythologiques' link=''>La scène est à Colchos.</set>
+
+	</front>
+
+<body>
+
+<div1 type="prologue" n="0"><head>PROLOGUE</head>
+
+<stage>DÉCORATION DU PROLOGUE.
+
+L'heureux mariage de Sa Majesté, et la paix qu'il lui a pu donner à ses peuples, ayant été les motifs de la réjouissance publique pour laquelle cette tragédie a été préparée, non seulement il était juste qu'ils servissent de sujet au prologue qui la précède, mais il était même absolument impossible d'en choisir une plus illustre matière.
+
+L'ouverture du théâtre fait voir un pays ruiné par les guerres, et terminé dans son enfoncement par une ville qui n'en est pas mieux traitée, ce qui marque le pitoyable état ou la France était réduite avant cette faveur du ciel, qu'elle a si longtemps souhaitée, et dont la bonté de son généreux monarque la fait jouir à présent.</stage>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La France, La Victoire.</head>
+
+<stage>DÉCORATION DU THÉÂTRE.
+
+L'heureux mariage de Sa Majesté, et la paix qu'il lui a plu donner à ses peuples, ayant été les motifs de la réjouissance publique pour laquelle cette tragédie a été préparée, non seulement il était juste qu'ils servissent de sujet au prologue qui la précède, mais il était même absolument impossible d'en choisir une plus illustre matière.
+
+L'ouverture du théâtre fait voir un pays ruiné par les guerres, et terminé dans son enfoncement par une ville qui n'en est pas mieux traitée, ce qui marque le pitoyable état où la France était réduite avant cette faveur du ciel, qu'elle a si longtemps souhaitée, et dont la bonté de son généreux monarque la fait jouir à présent.</stage>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="1">Doux charme des héros, immortelle Victoire,</l>
+
+	<l id="2">Âme de leur vaillance, et source de leur gloire,</l>
+
+	<l id="3">Vous qu'on fait si volage, et qu'on voit toutefois</l>
+
+	<l id="4">Si constante à me suivre, et si ferme en ce choix,</l>
+
+	<l id="5">Ne vous offensez pas si j'arrose de larmes</l>
+
+	<l id="6">Cette illustre union qu'ont avec vous mes armes,</l>
+
+	<l id="7">Et si vos faveurs même obstinent mes soupirs</l>
+
+	<l id="8">À pousser vers la Paix mes plus ardents désirs.</l>
+
+	<l id="9">Vous faites qu'on m'estime aux deux bouts de la terre,</l>
+
+	<l id="10">Vous faites qu'on m'y craint ; mais il vous faut la guerre ;</l>
+
+	<l id="11">Et quand je vois quel prix me coûtent vos lauriers,</l>
+
+	<l id="12">J'en vois avec chagrin couronner mes guerriers.</l>
+
+</sp>
+
+<sp who="VICTOIRE"><speaker>LA VICTOIRE.</speaker>
+
+	<l id="13">Je ne me repents point, incomparable France,</l>
+
+	<l id="14">De vous avoir suivie avec tant de constance :</l>
+
+	<l id="15">Je vous prépare encor mêmes attachements ;</l>
+
+	<l id="16">Mais j'attendais de vous d'autres remerciements.</l>
+
+	<l id="17">Vous lassez-vous de moi qui vous comble de gloire,</l>
+
+	<l id="18">De moi qui de vos fils assure la mémoire,</l>
+
+	<l id="19">Qui fais marcher partout l'effroi devant leurs pas ?</l>
+
+</sp>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="20">Ah ! Victoire, pour fils n'ai-je que des soldats ?</l>
+
+	<l id="21">La gloire qui les couvre, à moi-même funeste,</l>
+
+	<l id="22">Sous mes plus beaux succès fait trembler tout le reste ;</l>
+
+	<l id="23">Ils ne vont aux combats que pour me protéger,</l>
+
+	<l id="24">Et n'en sortent vainqueurs que pour me ravager.</l>
+
+	<l id="25">S'ils renversent des murs, s'ils gagnent des batailles,</l>
+
+	<l id="26">Ils prennent droit par là de ronger mes entrailles :</l>
+
+	<l id="27">Leur retour me punit de mon trop de bonheur,</l>
+
+	<l id="28">Et mes bras triomphants me déchirent le coeur.</l>
+
+	<l id="29">À vaincre tant de fois mes forces s'affaiblissent :</l>
+
+	<l id="30">L'Etat est florissant, mais les peuples gémissent ;</l>
+
+	<l id="31">Leurs membres décharnés courbent sous mes hauts faits,</l>
+
+	<l id="32">Et la gloire du trône accable les sujets.</l>
+
+	<l id="33">Voyez autour de moi que de tristes spectacles !</l>
+
+	<l id="34">Voilà ce qu'en mon sein enfantent vos miracles.</l>
+
+	<l id="35">Quelque encens que je doive à cette fermeté</l>
+
+	<l id="36">Qui vous fait en tous lieux marcher à mon côté,</l>
+
+	<l id="37">Je me lasse de voir mes villes désolées,</l>
+
+	<l id="38">Mes habitants pillés, mes campagnes brûlées.</l>
+
+	<l id="39">Mon roi, que vous rendez le plus puissant des rois,</l>
+
+	<l id="40">En goûte moins le fruit de ses propres exploits ;</l>
+
+	<l id="41">Du même oeil dont il voit ses plus nobles conquêtes,</l>
+
+	<l id="42">Il voit ce qu'il leur faut sacrifier de têtes ;</l>
+
+	<l id="43">De ce glorieux trône où brille sa vertu,</l>
+
+	<l id="44">Il tend sa main auguste à son peuple abattu ;</l>
+
+	<l id="45">Et comme à tous moments la commune misère</l>
+
+	<l id="46">Rappelle en son grand coeur les tendresses de père,</l>
+
+	<l id="47">Ce coeur se laisse vaincre aux voeux que j'ai formés,</l>
+
+	<l id="48">Pour faire respirer ce que vous opprimez.</l>
+
+</sp>
+
+<sp who="VICTOIRE"><speaker>LA VICTOIRE.</speaker>
+
+	<l id="49">France, j'opprime donc ce que je favorise !</l>
+
+	<l id="50">À ce nouveau reproche excusez ma surprise :</l>
+
+	<l id="51">J'avais cru jusqu'ici qu'à vos seuls ennemis</l>
+
+	<l id="52">Ces termes odieux pouvaient être permis,</l>
+
+	<l id="53">Qu'eux seuls de ma conduite avaient droit de se plaindre.</l>
+
+</sp>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="54">Vos dons sont à chérir, mais leur suite est à craindre :</l>
+
+	<l id="55">Pour faire deux héros ils font cent malheureux ;</l>
+
+	<l id="56">Et ce dehors brillant que mon nom reçoit d'eux</l>
+
+	<l id="57">M'éclaire à voir les maux qu'à ma gloire il attache,</l>
+
+	<l id="58">Le sang dont il m'épuise, et les nerfs qu'il m'arrache.</l>
+
+</sp>
+
+<sp who="VICTOIRE"><speaker>LA VICTOIRE.</speaker>
+
+	<l id="59">Je n'ose condamner de si justes ennuis,</l>
+
+	<l id="60">Quand je vois quels malheurs malgré moi je produis ;</l>
+
+	<l id="61">Mais ce dieu dont la main m'a chez vous affermie</l>
+
+	<l id="62">Vous pardonnera-t-il d'aimer son ennemie ?</l>
+
+	<l id="63">Le voilà qui paraît, c'est lui-même, c'est Mars,</l>
+
+	<l id="64">Qui vous lance du ciel de farouches regards ;</l>
+
+	<l id="65">Il menace, il descend : apaisez sa colère</l>
+
+	<l id="66">Par le prompt désaveu d'un souhait téméraire.</l>
+
+	<stage>Le ciel s'ouvre et fait voir Mars en posture menaçante, un pied en l'air, et l'autre porté sur son étoile. Il descend ainsi à un de ses côtés du théâtre, qu'il traverse en parlant, et sitôt qu'il a parlé, il remonte au même lieu dont il est parti.</stage>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Mars, la France, la Victoire.</head>
+
+<sp who="MARS"><speaker>MARS.</speaker>
+
+	<l id="67">France ingrate, tu veux la paix !</l>
+
+	<l id="68">Et pour toute reconnaissance</l>
+
+	<l id="69">D'avoir en tant de lieux étendu ta puissance,</l>
+
+	<l id="70">Tu murmures de mes bienfaits !</l>
+
+	<l id="71">Encore un lustre ou deux, et sous tes destinées</l>
+
+	<l id="72">J'aurais rangé le sort des têtes couronnées ;</l>
+
+	<l id="73">Ton état n'aurait eu pour bornes que ton choix ;</l>
+
+	<l id="74">Et tu devais tenir pour assuré présage,</l>
+
+	<l id="75">Voyant toute l'Europe apprendre ton langage,</l>
+
+	<l id="76">Que toute cette Europe allait prendre tes lois.</l>
+
+	<l id="77">Tu renonces à cette gloire ;</l>
+
+	<l id="78">La Paix a pour toi plus d'appâts,</l>
+
+	<l id="79">Et tu dédaignes la Victoire</l>
+
+	<l id="80">Que j'ai de ma main propre attachée à tes pas !</l>
+
+	<l id="81">Vois dans quels fers sous moi la Discorde et l'Envie</l>
+
+	<l id="82">Tiennent cette Paix asservie.</l>
+
+	<l id="83">La Victoire t'a dit comme on peut m'apaiser ;</l>
+
+	<l id="84">J'en veux bien faire encor ta compagne éternelle ;</l>
+
+	<l id="85">Mais sache que je la rappelle,</l>
+
+	<l id="86">Si tu manques d'en bien user.</l>
+
+	<stage>Avant que de disparaître, ce dieu, en colère contre la France, lui fait voir la Paix, qu'elle demande avec tant d'ardeur, prisonnière dans son palais, entre les mains de la Discorde et de l'Envie, qu'il lui a donnée pour garder. Ce palais a pour colonnes des canons, qui ont pour bases des mortiers, et des boulets pour chapiteaux; le tout accompagné, pour ornement, de trompettes, de tambours, et autres instruments de guerre entrelacés ensemble et découpés à jour, qui font comme un second rang de colonnes. Le lambris est composé de trophée d'armes, et de tout ce qui peut désigner et embellir la demeure de ce dieu des batailles.</stage>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. La Paix, La Discorde, L'Envie, La France, La Vicroire.</head>
+
+<sp who="PAIX"><speaker>LA PAIX.</speaker>
+
+	<l id="87">En vain à tes soupirs il est inexorable :</l>
+
+	<l id="88">Un dieu plus fort que lui me va rejoindre à toi ;</l>
+
+	<l id="89">Et tu devras bientôt ce succès adorable</l>
+
+	<l id="90">À cette reine incomparable</l>
+
+	<l id="91">Dont les soins et l'exemple ont formé ton grand roi.</l>
+
+	<l id="92">Ses tendresses de soeur, ses tendresses de mère,</l>
+
+	<l id="93">Peuvent tout sur un fils, peuvent tout sur un frère.</l>
+
+	<l id="94">Bénis, France, bénis ce pouvoir fortuné ;</l>
+
+	<l id="95">Bénis le choix qu'il fait d'une reine comme elle :</l>
+
+	<l id="96">Cent rois en sortiront, dont la gloire immortelle</l>
+
+	<l id="97">Fera trembler sous toi l'univers étonné,</l>
+
+	<l id="98">Et dans tout l'avenir sur leur front couronné</l>
+
+	<l id="99">Portera l'image fidèle</l>
+
+	<l id="100">De celui qu'elle t'a donné.</l>
+
+	<l id="101">Ce dieu dont le pouvoir suprême</l>
+
+	<l id="102">Etouffe d'un coup d'oeil les plus vieux différends,</l>
+
+	<l id="103">Ce dieu par qui l'amour plaît à la vertu même,</l>
+
+	<l id="104">Et qui borne souvent l'espoir des conquérants,</l>
+
+	<l id="105">Le blond et pompeux Hyménée</l>
+
+	<l id="106">Prépare en ta faveur l'éclatante journée</l>
+
+	<l id="107">Où sa main doit briser mes fers.</l>
+
+	<l id="108">Ces monstres insolents dont je suis prisonnière,</l>
+
+	<l id="109">Prisonniers à leur tour au fond de leurs enfers,</l>
+
+	<l id="110">Ne pourront mêler d'ombre à sa vive lumière.</l>
+
+	<l id="111">À tes cantons les plus déserts</l>
+
+	<l id="112">Je rendrai leur beauté première ;</l>
+
+	<l id="113">Et dans les doux torrents d'une allégresse entière</l>
+
+	<l id="114">Tu verras s'abîmer tes maux les plus amers.</l>
+
+	<l id="115">Tu vois comme déjà ces deux hautes puissances,</l>
+
+	<l id="116">Que Mars semblait plonger en d'immortels discords,</l>
+
+	<l id="117">Ont malgré ses fureurs assemblé sur tes bords</l>
+
+	<l id="118">Les sublimes intelligences</l>
+
+	<l id="119">Qui de leurs grands états meuvent les vastes corps.</l>
+
+	<l id="120">Les surprenantes harmonies</l>
+
+	<l id="121">De ces miraculeux génies</l>
+
+	<l id="122">Savent tout balancer, savent tout soutenir.</l>
+
+	<l id="123">Leur prudence était due à cet illustre ouvrage,</l>
+
+	<l id="124">Et jamais on n'eût pu fournir,</l>
+
+	<l id="125">Aux intérêts divers de la Seine et du Tage,</l>
+
+	<l id="126">Ni zèle plus savant en l'art de réunir,</l>
+
+	<l id="127">Ni savoir mieux instruit du commun avantage.</l>
+
+	<l id="128">Par ces organes seuls ces dignes potentats</l>
+
+	<l id="129">Se font eux-mêmes leurs arbitres ;</l>
+
+	<l id="130">Aux conquêtes par eux ils donnent d'autres titres,</l>
+
+	<l id="131">Et des bornes à leurs états.</l>
+
+	<l id="132">Ce dieu même qu'attend ma longue impatience</l>
+
+	<l id="133">N'a droit de m'affranchir que par leur conférence :</l>
+
+	<l id="134">Sans elle son pouvoir serait mal reconnu.</l>
+
+	<l id="135">Mais enfin je le vois, leur accord me l'envoie.</l>
+
+	<l id="136">France, ouvre ton coeur à la joie ;</l>
+
+	<l id="137">Et vous, monstres, fuyez ; ce grand jour est venu.</l>
+
+	<stage>L'Hyménée paraît, couronné de leurs, portant en sa main droite un dard semé de lys et de roses, et en la gauche le portrait de la Reine peint sur son bouclier.</stage>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. L'Hyménée, La Paix, la Discorde, l'Envie, La France, La Victoire, Choeur de musique.</head>
+
+<sp who="DISCORDE"><speaker>LA DISCORDE.</speaker>
+
+	<l id="138">En vain tu le veux croire, orgueilleuse captive :</l>
+
+	<l id="139">Pourrions-nous fuir le secours qui t'arrive ?</l>
+
+</sp>
+
+<sp who="ENVIE"><speaker>L'ENVIE.</speaker>
+
+	<l id="140">Pourrions-nous craindre un dieu qui contre nos fureurs</l>
+
+	<l id="141">Ne prend pour armes que des fleurs ?</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE.</speaker>
+
+	<l id="142">Oui, monstres, oui, craignez cette main vengeresse ;</l>
+
+	<l id="143">Mais craignez encor plus cette grande princesse</l>
+
+	<l id="144">Pour qui je viens allumer mon flambeau :</l>
+
+	<l id="145">Pourriez-vous soutenir les traits de son visage ?</l>
+
+	<l id="146">Fuyez, monstres, à son image ;</l>
+
+	<l id="147">Fuyez, et que l'enfer, qui fut votre berceau,</l>
+
+	<l id="148">Vous serve à jamais de tombeau.</l>
+
+	<l id="149">Et vous, noirs instruments d'un indigne esclavage,</l>
+
+	<l id="150">Tombez, fers odieux, à ce divin aspect,</l>
+
+	<l id="151">Et pour lui rendre un prompt hommage,</l>
+
+	<l id="152">Anéantissez-vous de honte ou de respect.</l>
+
+	<stage>Il présente ce portrait aux yeux de la Discorde et de l'Envie, qui trébuchent aussitôt aux enfers, et ensuite il le présente aux chaînes qui tiennent la Paix prisonnière, lesquelles tombent et se brisent tout à l'heure.</stage>
+
+</sp>
+
+<sp who="PAIX"><speaker>LA PAIX.</speaker>
+
+	<l id="153">Dieu des sacrés plaisirs, vous venez de me rendre</l>
+
+	<l id="154">Un bien dont les dieux même ont lieu d'être jaloux ;</l>
+
+	<l id="155">Mais ce n'est pas assez, il est temps de descendre,</l>
+
+	<l id="156">Et de remplir les voeux qu'en terre on fait pour nous.</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE.</speaker>
+
+	<l id="157">Il en est temps, déesse, et c'est trop faire attendre</l>
+
+	<l id="158">Les effets d'un espoir si doux.</l>
+
+	<l id="159">Vous donc, mes ministres fidèles,</l>
+
+	<l id="160">Venez, amours, et prêtez-nous vos ailes.</l>
+
+	<stage>Quatre Amours descendent du ciel, deux de chaque côtés, et s'attachent à l'Hyménée et à la Paix pour les apporter en terre.</stage>
+
+</sp>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="161">Peuple, fais voir ta joie à ces divinités</l>
+
+	<l id="162">Qui vont tarir le cours de tes calamités.</l>
+
+</sp>
+
+<sp who="CHOEUR_MUSIQUE"><speaker>CHOEUR DE MUSIQUE.</speaker>
+
+<stage>L'Hyménée, la Paix et les quatre amours descendent cependant qu'il chante.</stage>
+
+	<l id="163">Descends, Hymen, et ramène sur terre</l>
+
+	<l id="164">Les délices avec la paix ;</l>
+
+	<l id="165">Descends, objet divin de nos plus doux souhaits,</l>
+
+	<l id="166">Et par tes feux éteins ceux de la guerre.</l>
+
+	<stage>Après que l'Hyménée et la Paix sont descendus, les quatre Amours remontent du ciel, premièrement de droit il tous quatre ensemble, et puis se séparant deu à deux et croisant leur vol, en sorte que ceux qui sont au côté droit se retirent à gauche dans les nues, et ceux qui sont au gauche se perdent dans celles du côté droit.</stage>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. L'Hyménée, La Paix, La France, La Victoire.</head>
+
+<sp who="FRANCE"><speaker>LA FRANCE, à La Paix.</speaker>
+
+	<l id="167">Adorable souhait des peuples gémissants,</l>
+
+	<l id="168">Féconde sûreté des travaux innocents,</l>
+
+	<l id="169">Infatigable appui du pouvoir légitime,</l>
+
+	<l id="170">Qui dissipez le trouble et détruisez le crime,</l>
+
+	<l id="171">Protectrice des arts, mère des beaux loisirs,</l>
+
+	<l id="172">Est-ce une illusion qui flatte mes désirs ?</l>
+
+	<l id="173">Puis-je en croire mes yeux, et dans chaque province</l>
+
+	<l id="174">De votre heureux retour faire bénir mon prince ?</l>
+
+</sp>
+
+<sp who="PAIX"><speaker>LA PAIX.</speaker>
+
+	<l id="175">France, apprends que lui-même il aime à le devoir</l>
+
+	<l id="176">À ces yeux dont tu vois le souverain pouvoir.</l>
+
+	<l id="177">Par un effort d'amour réponds à leurs miracles ;</l>
+
+	<l id="178">Fais éclater ta joie en de pompeux spectacles :</l>
+
+	<l id="179">Ton théâtre a souvent d'assez riches couleurs</l>
+
+	<l id="180">Pour n'avoir pas besoin d'emprunter rien ailleurs.</l>
+
+	<l id="181">Ose donc, et fais voir que ta reconnaissance...</l>
+
+</sp>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="182">De grâce, voyez mieux quelle est mon impuissance.</l>
+
+	<l id="183">Est-il effort humain qui jamais ait tiré</l>
+
+	<l id="184">Des spectacles pompeux d'un sein si déchiré ?</l>
+
+	<l id="185">Il faudroit que vos soins par le cours des années...</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE.</speaker>
+
+	<l id="186">Ces traits divins n'ont pas des forces si bornées.</l>
+
+	<l id="187">Mes roses et mes lys par eux en un moment</l>
+
+	<l id="188">À ces lieux désolés vont servir d'ornement.</l>
+
+	<l id="189">Promets, et tu verras l'effet de ma parole.</l>
+
+</sp>
+
+<sp who="FRANCE"><speaker>LA FRANCE.</speaker>
+
+	<l id="190">J'entreprendrai beaucoup ; mais ce qui m'en console</l>
+
+	<l id="191" part="i">C'est que sous votre aveu...</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE.</speaker>
+
+	<l id="191" part="f">Va, n'appréhende rien :</l>
+
+	<l id="192">Nous serons à l'envi nous-mêmes ton soutien.</l>
+
+	<l id="193">Porte sur ton théâtre une chaleur si belle,</l>
+
+	<l id="194">Que des plus heureux temps l'éclat s'y renouvelle :</l>
+
+	<l id="195">Nous en partagerons la gloire et le souci.</l>
+
+</sp>
+
+<sp who="VICTOIRE"><speaker>LA VICTOIRE.</speaker>
+
+	<l id="196">Cependant la Victoire est inutile ici :</l>
+
+	<l id="197">Puisque la paix y règne, il faut qu'elle s'exile.</l>
+
+</sp>
+
+<sp who="PAIX"><speaker>LA PAIX.</speaker>
+
+	<l id="198">Non, Victoire : avec moi tu n'es pas inutile.</l>
+
+	<l id="199">Si la France en repos n'a plus où t'employer,</l>
+
+	<l id="200">Du moins à ses amis elle peut t'envoyer.</l>
+
+	<l id="201">D'ailleurs mon plus grand calme aime l'inquiétude</l>
+
+	<l id="202">Des combats de prudence, et des combats d'étude ;</l>
+
+	<l id="203">Il ouvre un champ plus large à ces guerres d'esprits ;</l>
+
+	<l id="204">Tous les peuples sans cesse en disputent le prix ;</l>
+
+	<l id="205">Et comme il fait monter à la plus haute gloire,</l>
+
+	<l id="206">Il est bon que la France ait toujours la Victoire.</l>
+
+	<l id="207">Fais-lui donc cette grâce, et prends part comme nous</l>
+
+	<l id="208">À ce qu'auront d'heureux des spectacles si doux.</l>
+
+</sp>
+
+<sp who="VICTOIRE"><speaker>LA VICTOIRE.</speaker>
+
+	<l id="209">J'y consens, et m'arrête aux rives de la Seine,</l>
+
+	<l id="210">Pour rendre un long hommage à l'une et l'autre reine,</l>
+
+	<l id="211">Pour y prendre à jamais les ordres de son roi.</l>
+
+	<l id="212">Puissé-je en obtenir, pour mon premier emploi,</l>
+
+	<l id="213">Ceux d'aller jusqu'aux bouts de ce vaste hémisphère</l>
+
+	<l id="214">Arborer les drapeaux de son généreux frère,</l>
+
+	<l id="215">D'aller d'un si grand prince, en mille et mille lieux,</l>
+
+	<l id="216">Egaler le grand nom au nom de ses aïeux,</l>
+
+	<l id="217">Le conduire au-delà de leurs fameuses traces,</l>
+
+	<l id="218">Faire un appui de Mars du favori des Grâces,</l>
+
+	<l id="219">Et sous d'autres climats couronner ses hauts faits</l>
+
+	<l id="220">Des lauriers qu'en ceux-ci lui dérobe la Paix !</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE.</speaker>
+
+	<l id="221">Tu vas voir davantage, et les dieux, qui m'ordonnent</l>
+
+	<l id="222">Qu'attendant tes lauriers mes myrtes le couronnent,</l>
+
+	<l id="223">Lui vont donner un prix de toute autre valeur</l>
+
+	<l id="224">Que ceux que tu promets avec tant de chaleur.</l>
+
+	<l id="225">Cette illustre conquête a pour lui plus de charmes</l>
+
+	<l id="226">Que celles que tu veux assurer à ses armes ;</l>
+
+	<l id="227">Et son oeil, éclairé par mon sacré flambeau,</l>
+
+	<l id="228">Ne voit point de trophée ou si noble ou si beau.</l>
+
+	<l id="229">Ainsi, France, à l'envi l'Espagne et l'Angleterre</l>
+
+	<l id="230">Aiment à t'enrichir quand tu finis la guerre ;</l>
+
+	<l id="231">Et la paix, qui succède à ses tristes efforts,</l>
+
+	<l id="232">Te livre par ma main leurs plus rares trésors.</l>
+
+</sp>
+
+<sp who="PAIX"><speaker>LA PAIX.</speaker>
+
+	<l id="233">Allons sans plus tarder mettre ordre à tes spectacles ;</l>
+
+	<l id="234">Et pour les commencer par de nouveaux miracles,</l>
+
+	<l id="235">Toi que rend tout-puissant ce chef-d'oeuvre des cieux,</l>
+
+	<l id="236">Hymen, fais-lui changer la face de ces lieux.</l>
+
+</sp>
+
+<sp who="HYMENEE"><speaker>L'HYMÉNÉE, seule.</speaker>
+
+	<l id="237">Naissez à cet aspect, fontaines, fleurs, bocages ;</l>
+
+	<l id="238">Chassez de ces débris les funestes images,</l>
+
+	<l id="239">Et formez des jardins tels qu'avec quatre mots</l>
+
+	<l id="240">Le grand art de Médée en fit naître à Colchos.</l>
+
+<stage>Tout le théâtre se change en un jardin magnifique à la vue du portrait de la Reine, que l'Hyménée lui présente.</stage>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="1"><head>ACTE I</head>
+
+<stage>DÉCORATION DU PREMIER ACTE.</stage>
+
+<stage>Ce grand jardin, qui en fait la scène, est composé de trois rangs de cyprès, à côté desquels on voit
+
+alternativement en chque châssis des statues de marbre blanc à l'antique, qui versent de gros jets d'eau 
+
+dans de grands bassins, soutenues par des tritons, qui leur servent de piédestal, ou trois vases qui portent, 
+
+l'un des orangers et les deux autres diverses fleurs en confusion, chantournées et découpées à jour. Les 
+
+ornements de ces vases et de ces bassins sont rehaussés d'or, et ces statues portent sur leurs têtes des corbeilles
+
+d'or treillissées et remplies de pareilles leurs. Le théâtre est fermé par une grand arcade de verdure, orné de 
+
+festons de leurs avec une grande corbeille d'or sur le milieu, qui en est remplie par les autres. Quatre autres 
+
+arcades qui le suivent composent avec elle un berceau qui laisse voir plus loin un autre jardin de cyprès, 
+
+entremêlées avec quantité d'autres statues à l'antique, et la perspective du fond borne la vue par un 
+
+parterre encore plus éloigné, au milieu duquel s'élève une ontaine avec divers autres jets d'eau, qui ne 
+
+font pas le moindre agrément de ce spectacle.</stage>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Chalciope, Médée.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="241">Parmi ces grands sujets d'allégresse publique,</l>
+
+	<l id="242">Vous portez sur le front un air mélancolique :</l>
+
+	<l id="243">Votre humeur paroît sombre ; et vous semblez, ma soeur,</l>
+
+	<l id="244">Murmurer en secret contre notre bonheur.</l>
+
+	<l id="245">La veuve de Phryxus et la fille d'Aaete</l>
+
+	<l id="246">Plaint-elle de Persès la honte et la défaite ?</l>
+
+	<l id="247">Vous faut-il consoler de ces illustres coups</l>
+
+	<l id="248">Qui partent d'un héros parent de votre époux ?</l>
+
+	<l id="249">Et le vaillant Jason pourroit-il vous déplaire</l>
+
+	<l id="250">Alors que dans son trône il rétablit mon père ?</l>
+
+</sp>
+
+<sp who="CHALCIOPE"><speaker>CHALCIOPE.</speaker>
+
+	<l id="251">Vous m'offensez, ma soeur : celles de notre rang</l>
+
+	<l id="252">Ne savent point trahir leur pays ni leur sang ;</l>
+
+	<l id="253">Et j'ai vu les combats de Persès et d'Aaete</l>
+
+	<l id="254">Toujours avec des yeux de fille et de sujette.</l>
+
+	<l id="255">Si mon front porte empreints quelques troubles secrets,</l>
+
+	<l id="256">Sachez que je n'en ai que pour vos intérêts.</l>
+
+	<l id="257">J'aime autant que je dois cette haute victoire :</l>
+
+	<l id="258">Je veux bien que Jason en ait toute la gloire ;</l>
+
+	<l id="259">Mais à tout dire enfin, je crains que ce vainqueur</l>
+
+	<l id="260">N'en étende les droits jusque sur votre coeur.</l>
+
+	<l id="261">Je sais que sa brigade, à peine descendue,</l>
+
+	<l id="262">Rétablit à nos yeux la bataille perdue,</l>
+
+	<l id="263">Que Persès triomphoit, que Styrus étoit mort,</l>
+
+	<l id="264">Styrus que pour époux vous envoyoit le sort.</l>
+
+	<l id="265">Jason de tant de maux borna soudain la course :</l>
+
+	<l id="266">Il en dompta la force, il en tarit la source ;</l>
+
+	<l id="267">Mais avouez aussi qu'un héros si charmant</l>
+
+	<l id="268">Vous console bientôt de la mort d'un amant.</l>
+
+	<l id="269">L'éclat qu'a répandu le bonheur de ses armes</l>
+
+	<l id="270">À vos yeux éblouis ne permet plus de larmes :</l>
+
+	<l id="271">Il sait les détourner des horreurs d'un cercueil ;</l>
+
+	<l id="272">Et la peur d'être ingrate étouffe votre deuil.</l>
+
+	<l id="273">Non que je blâme en vous quelques soins de lui plaire,</l>
+
+	<l id="274">Tant que la guerre ici l'a rendu nécessaire ;</l>
+
+	<l id="275">Mais je ne voudrois pas que cet empressement</l>
+
+	<l id="276">D'un soin étudié fît un attachement ;</l>
+
+	<l id="277">Car enfin, aujourd'hui que la guerre est finie,</l>
+
+	<l id="278">Votre facilité se trouveroit punie ;</l>
+
+	<l id="279">Et son départ subit ne vous laisseroit plus</l>
+
+	<l id="280">Qu'un coeur embarrassé de soucis superflus.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="281">La remontrance est douce, obligeante, civile ;</l>
+
+	<l id="282">Mais à parler sans feinte elle est fort inutile :</l>
+
+	<l id="283">Si je n'ai point d'amour, je n'y prends point de part ;</l>
+
+	<l id="284">Et si j'aime Jason, l'avis vient un peu tard.</l>
+
+	<l id="285">Quoi qu'il en soit, ma soeur, nommeriez-vous un crime</l>
+
+	<l id="286">Un vertueux amour qui suivroit tant d'estime ?</l>
+
+	<l id="287">Alors que ses hauts faits lui gagnent tous les coeurs,</l>
+
+	<l id="288">Faut-il que ses soupirs excitent mes rigueurs,</l>
+
+	<l id="289">Que contre ses exploits moi seule je m'irrite,</l>
+
+	<l id="290">Et fonde mes dédains sur son trop de mérite ?</l>
+
+	<l id="291">Mais s'il m'en doit bientôt coûter un repentir,</l>
+
+	<l id="292">D'où pouvez-vous savoir qu'il soit prêt à partir ?</l>
+
+</sp>
+
+<sp who="CHALCIOPE"><speaker>CHALCIOPE.</speaker>
+
+	<l id="293">Je le sais de mes fils, qu'une ardeur de jeunesse</l>
+
+	<l id="294">Emporte malgré moi jusqu'à le suivre en Grèce,</l>
+
+	<l id="295">Pour voir en ces beaux lieux la source de leur sang,</l>
+
+	<l id="296">Et de Phryxus leur père y reprendre le rang.</l>
+
+	<l id="297">Déjà tous ces héros au départ se disposent :</l>
+
+	<l id="298">Ils ont peine à souffrir que leurs bras se reposent ;</l>
+
+	<l id="299">Comme la gloire à tous fait leur plus cher souci,</l>
+
+	<l id="300">N'ayant plus à combattre, ils n'en ont plus ici :</l>
+
+	<l id="301">Ils brûlent d'en chercher dessus quelque autre rive,</l>
+
+	<l id="302">Tant leur valeur rougit sitôt qu'elle est oisive.</l>
+
+	<l id="303">Jason veut seulement une grâce du roi.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="304">Cette grâce, ma soeur, n'est sans doute que moi.</l>
+
+	<l id="305">Ce n'est plus avec vous qu'il faut que je déguise.</l>
+
+	<l id="306">Du chef de ces héros j'asservis la franchise ;</l>
+
+	<l id="307">De tout ce qu'il a fait de grand, de glorieux,</l>
+
+	<l id="308">Il rend un plein hommage au pouvoir de mes yeux.</l>
+
+	<l id="309">Il a vaincu Persès, il a servi mon père,</l>
+
+	<l id="310">Il a sauvé l'état, sans chercher qu'à me plaire.</l>
+
+	<l id="311">Vous l'avez vu peut-être, et vos yeux sont témoins</l>
+
+	<l id="312">De combien chaque jour il y donne de soins,</l>
+
+	<l id="313" part="i">Avec combien d'ardeur...</l>
+
+</sp>
+
+<sp who="CHALCIOPE"><speaker>CHALCIOPE.</speaker>
+
+	<l id="313" part="f">Oui, je l'ai vu moi-même,</l>
+
+	<l id="314">Que pour plaire à vos yeux il prend un soin extrême ;</l>
+
+	<l id="315">Mais je n'ai pas moins vu combien il vous est doux</l>
+
+	<l id="316">De vous montrer sensible aux soins qu'il prend pour vous.</l>
+
+	<l id="317">Je vous vois chaque jour avec inquiétude</l>
+
+	<l id="318">Chercher ou sa présence ou quelque solitude,</l>
+
+	<l id="319">Et dans ces grands jardins sans cesse repasser</l>
+
+	<l id="320">Le souvenir des traits qui vous ont su blesser.</l>
+
+	<l id="321">En un mot, vous l'aimez, et ce que j'appréhende...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="322">Je suis prête à l'aimer, si le roi le commande ;</l>
+
+	<l id="323">Mais jusque-là, ma soeur, je ne fais que souffrir</l>
+
+	<l id="324">Les soupirs et les voeux qu'il prend soin de m'offrir.</l>
+
+</sp>
+
+<sp who="CHALCIOPE"><speaker>CHALCIOPE.</speaker>
+
+	<l id="325">Quittez ce faux devoir dont l'ombre vous amuse.</l>
+
+	<l id="326">Vous irez plus avant si le roi le refuse ;</l>
+
+	<l id="327">Et quoi que votre erreur vous fasse présumer,</l>
+
+	<l id="328">Vous obéirez mal s'il vous défend d'aimer.</l>
+
+	<l id="329">Je sais... Mais le voici, que le prince accompagne.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Aaete, Absyrte, Chalciope, Médée.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="330">Enfin nos ennemis nous cèdent la campagne,</l>
+
+	<l id="331">Et des Scythes défaits le camp abandonné</l>
+
+	<l id="332">Nous est de leur déroute un gage fortuné,</l>
+
+	<l id="333">Un fidèle témoin d'une victoire entière ;</l>
+
+	<l id="334">Mais comme la fortune est souvent journalière,</l>
+
+	<l id="335">Il en faut redouter de funestes retours,</l>
+
+	<l id="336">Ou se mettre en état de triompher toujours.</l>
+
+	<l id="337">Vous savez de quel poids et de quelle importance</l>
+
+	<l id="338">De ce peu d'étrangers s'est fait voir l'assistance.</l>
+
+	<l id="339">Quarante, qui l'eût cru ? Quarante à leur abord</l>
+
+	<l id="340">D'une armée abattue ont relevé le sort,</l>
+
+	<l id="341">Du côté des vaincus rappelé la victoire,</l>
+
+	<l id="342">Et fait d'un jour fatal un jour brillant de gloire.</l>
+
+	<l id="343">Depuis cet heureux jour que n'ont point fait leurs bras ?</l>
+
+	<l id="344">Leur chef nous a paru le démon des combats ;</l>
+
+	<l id="345">Et trois fois sa valeur, d'un noble effet suivie,</l>
+
+	<l id="346">Au péril de son sang a dégagé ma vie.</l>
+
+	<l id="347">Que ne lui dois-je point ? Et que ne dois-je à tous ?</l>
+
+	<l id="348">Ah ! Si nous les pouvions arrêter parmi nous,</l>
+
+	<l id="349">Que ma couronne alors se verroit assurée !</l>
+
+	<l id="350">Qu'il faudroit craindre peu pour la toison dorée,</l>
+
+	<l id="351">Ce trésor où les dieux attachent nos destins,</l>
+
+	<l id="352">Et que veulent ravir tant de jaloux voisins !</l>
+
+	<l id="353">N'y peux-tu rien, Médée, et n'as-tu point de charmes</l>
+
+	<l id="354">Qui fixent en ces lieux le bonheur de leurs armes ?</l>
+
+	<l id="355">N'est-il herbes, parfums, ni chants mystérieux,</l>
+
+	<l id="356">Qui puissent nous unir ces bras victorieux ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="357">Seigneur, il est en vous d'avoir cet avantage :</l>
+
+	<l id="358">Le charme qu'il y faut est tout sur son visage.</l>
+
+	<l id="359">Jason l'aime, et je crois que l'offre de son coeur</l>
+
+	<l id="360">N'en seroit pas reçue avec trop de rigueur.</l>
+
+	<l id="361">Un favorable aveu pour ce digne hyménée</l>
+
+	<l id="362">Rendroit ici sa course heureusement bornée ;</l>
+
+	<l id="363">Son exemple auroit force, et feroit qu'à l'envi</l>
+
+	<l id="364">Tous voudroient imiter le chef qu'ils ont suivi.</l>
+
+	<l id="365">Tous sauroient comme lui, pour faire une maîtresse,</l>
+
+	<l id="366">Perdre le souvenir des beautés de leur Grèce ;</l>
+
+	<l id="367">Et tous ainsi que lui permettroient à l'amour</l>
+
+	<l id="368">D'obstiner des héros à grossir votre cour.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="369">Le refus d'un tel heur auroit trop d'injustice.</l>
+
+	<l id="370">Puis-je d'un moindre prix payer un tel service ?</l>
+
+	<l id="371">Le ciel, qui veut pour elle un époux étranger,</l>
+
+	<l id="372">Sous un plus digne joug ne sauroit l'engager.</l>
+
+	<l id="373">Oui, j'y consens, Absyrte, et tiendrai même à grâce</l>
+
+	<l id="374">Que du roi d'Albanie il remplisse la place,</l>
+
+	<l id="375">Que la mort de Styrus permette à votre soeur</l>
+
+	<l id="376">L'incomparable choix d'un si grand successeur.</l>
+
+	<l id="377">Ma fille, si jamais les droits de la naissance...</l>
+
+</sp>
+
+<sp who="CHALCIOPE"><speaker>CHALCIOPE.</speaker>
+
+	<l id="378">Seigneur, je vous réponds de son obéissance ;</l>
+
+	<l id="379">Mais je ne réponds pas que vous trouviez les Grecs</l>
+
+	<l id="380">Dans la même pensée et les mêmes respects.</l>
+
+	<l id="381">Je les connois un peu, veuve d'un de leurs princes :</l>
+
+	<l id="382">Ils ont aversion pour toutes nos provinces ;</l>
+
+	<l id="383">Et leur pays natal leur imprime un amour</l>
+
+	<l id="384">Qui partout les rappelle et presse leur retour.</l>
+
+	<l id="385">Ainsi n'espérez pas qu'il soit des hyménées</l>
+
+	<l id="386">Qui puissent à la vôtre unir leurs destinées.</l>
+
+	<l id="387">Ils les accepteront, si leur sort rigoureux</l>
+
+	<l id="388">A fait de leur patrie un lieu mal sûr pour eux ;</l>
+
+	<l id="389">Mais le péril passé, leur soudaine retraite</l>
+
+	<l id="390">Vous fera bientôt voir que rien ne les arrête,</l>
+
+	<l id="391">Et qu'il n'est point de noeud qui les puisse obliger</l>
+
+	<l id="392">À vivre sous les lois d'un monarque étranger.</l>
+
+	<l id="393">Bien que Phryxus m'aimât avec quelque tendresse,</l>
+
+	<l id="394">Je l'ai vu mille fois soupirer pour sa Grèce,</l>
+
+	<l id="395">Et quelque illustre rang qu'il tînt dans vos états,</l>
+
+	<l id="396">S'il eût eu l'accès libre en ces heureux climats,</l>
+
+	<l id="397">Malgré ces beaux dehors d'une ardeur empressée,</l>
+
+	<l id="398">Il m'eût fallu l'y suivre, ou m'en voir délaissée.</l>
+
+	<l id="399">Il semble après sa mort qu'il revive en ses fils ;</l>
+
+	<l id="400">Comme ils ont même sang, ils ont mêmes esprits :</l>
+
+	<l id="401">La Grèce en leur idée est un séjour céleste,</l>
+
+	<l id="402">Un lieu seul digne d'eux. Par là jugez du reste.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="403">Faites-les-moi venir : que de leur propre voix</l>
+
+	<l id="404">J'apprenne les raisons de cet injuste choix.</l>
+
+	<l id="405">Et quant à ces guerriers que nos dieux tutélaires</l>
+
+	<l id="406">Au salut de l'état rendent si nécessaires,</l>
+
+	<l id="407">Si pour les obliger à vivre mes sujets</l>
+
+	<l id="408">Il n'est point dans ma cour d'assez dignes objets,</l>
+
+	<l id="409">Si ce nom sur leur front jette tant d'infamie</l>
+
+	<l id="410">Que leur gloire en devienne implacable ennemie,</l>
+
+	<l id="411">Subornons cette gloire, et voyons dès demain</l>
+
+	<l id="412">Ce que pourra sur eux le nom de souverain.</l>
+
+	<l id="413">Le trône a ses liens ainsi que l'hyménée,</l>
+
+	<l id="414">Et quand ce double noeud tient une âme enchaînée,</l>
+
+	<l id="415">Quand l'ambition marche au secours de l'amour,</l>
+
+	<l id="416">Elle étouffe aisément tous ces soins du retour.</l>
+
+	<l id="417">Elle triomphera de cette idolâtrie</l>
+
+	<l id="418">Que tous ces grands guerriers gardent pour leur patrie.</l>
+
+	<l id="419">Leur Grèce a des climats et plus doux et meilleurs ;</l>
+
+	<l id="420">Mais commander ici vaut bien servir ailleurs.</l>
+
+	<l id="421">Partageons avec eux l'éclat d'une couronne</l>
+
+	<l id="422">Que la bonté du ciel par leurs mains nous redonne :</l>
+
+	<l id="423">D'un bien qu'ils ont sauvé je leur dois quelque part ;</l>
+
+	<l id="424">Je le perdois sans eux, sans eux il court hasard ;</l>
+
+	<l id="425">Et c'est toujours prudence, en un péril funeste,</l>
+
+	<l id="426">D'offrir une moitié pour conserver le reste.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="427">Vous les connoissez mal : ils sont trop généreux</l>
+
+	<l id="428">Pour vous vendre à ce prix le besoin qu'on a d'eux.</l>
+
+	<l id="429">Après ce grand secours, ce seroit pour salaire</l>
+
+	<l id="430">Prendre une part du vol qu'on tâchoit à vous faire,</l>
+
+	<l id="431">Vous piller un peu moins sous couleur d'amitié,</l>
+
+	<l id="432">Et vous laisser enfin ce reste par pitié.</l>
+
+	<l id="433">C'est là, seigneur, c'est là cette haute infamie</l>
+
+	<l id="434">Dont vous verriez leur gloire implacable ennemie.</l>
+
+	<l id="435">Le trône a des splendeurs dont les yeux éblouis</l>
+
+	<l id="436">Peuvent réduire une âme à l'oubli du pays ;</l>
+
+	<l id="437">Mais aussi la Scythie, ouverte à nos conquêtes,</l>
+
+	<l id="438">Offre assez de matière à couronner leurs têtes.</l>
+
+	<l id="439">Qu'ils règnent, mais par nous, et sur nos ennemis :</l>
+
+	<l id="440">C'est là qu'il faut trouver un sceptre à nos amis ;</l>
+
+	<l id="441">Et lors d'un sacré noeud l'inviolable étreinte</l>
+
+	<l id="442">Tirera notre appui d'où partoit notre crainte ;</l>
+
+	<l id="443">Et l'hymen unira par des liens plus doux</l>
+
+	<l id="444">Des rois sauvés par eux à des rois faits par nous.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="445">Vous regardez trop tôt comme votre héritage</l>
+
+	<l id="446">Un trône dont en vain vous craignez le partage.</l>
+
+	<l id="447">J'ai d'autres yeux, Absyrte, et vois un peu plus loin.</l>
+
+	<l id="448">Je veux bien réserver ce remède au besoin,</l>
+
+	<l id="449">Ne faire point cette offre à moins que nécessaire ;</l>
+
+	<l id="450">Mais s'il y faut venir, rien ne m'en peut distraire.</l>
+
+	<l id="451">Les voici : parlons-leur ; et pour les arrêter,</l>
+
+	<l id="452">Ne leur refusons rien qu'ils daignent souhaiter.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Aaete, Absyrte, Médée, Jason, Pélée, Iphite, Orphée, Argonautes.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="453">Guerriers par qui mon sort devient digne d'envie,</l>
+
+	<l id="454">Héros à qui je dois et le sceptre et la vie,</l>
+
+	<l id="455">Après tant de bienfaits et d'un si haut éclat,</l>
+
+	<l id="456">Voulez-vous me laisser la honte d'être ingrat ?</l>
+
+	<l id="457">Je ne vous fais point d'offre ; et dans ces lieux sauvages</l>
+
+	<l id="458">Je ne découvre rien digne de vos courages :</l>
+
+	<l id="459">Mais si dans mes états, mais si dans mon palais</l>
+
+	<l id="460">Quelque chose avait pu mériter vos souhaits,</l>
+
+	<l id="461">Le choix qu'en auroit fait cette valeur extrême</l>
+
+	<l id="462">Lui donneroit un prix qu'il n'a pas de lui-même ;</l>
+
+	<l id="463">Et je croirois devoir à ce précieux choix</l>
+
+	<l id="464">L'heur de vous rendre un peu de ce que je vous dois.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="465">Si nos bras, animés par vos destins propices,</l>
+
+	<l id="466">Vous ont rendu, seigneur, quelques foibles services,</l>
+
+	<l id="467">Et s'il en est encore, après un sort si doux,</l>
+
+	<l id="468">Que vos commandements puissent vouloir de nous,</l>
+
+	<l id="469">Vous avez en vos mains un trop digne salaire,</l>
+
+	<l id="470">Et pour ce qu'on a fait et pour ce qu'on peut faire ;</l>
+
+	<l id="471">Et s'il nous est permis de vous le demander...</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="472">Attendez tout d'un roi qui veut tout accorder :</l>
+
+	<l id="473">J'en jure le dieu Mars, et le Soleil mon père ;</l>
+
+	<l id="474">Et me puisse à vos yeux accabler leur colère,</l>
+
+	<l id="475">Si mes serments pour vous n'ont de si prompts effets,</l>
+
+	<l id="476">Que vos voeux dès ce jour se verront satisfaits !</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="477">Seigneur, j'ose vous dire, après cette promesse,</l>
+
+	<l id="478">Que vous voyez la fleur des princes de la Grèce,</l>
+
+	<l id="479">Qui vous demandent tous d'une commune voix</l>
+
+	<l id="480">Un trésor qui jadis fut celui de ses rois :</l>
+
+	<l id="481">La toison d'or, seigneur, que Phryxus, votre gendre,</l>
+
+	<l id="482" part="i">Phryxus, notre parent...</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="482" part="f">Ah ! Que viens-je d'entendre !</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="483" part="i">Ah ! Perfide.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="483" part="f">À ce mot vous paraissez surpris !</l>
+
+	<l id="484">Notre peu de secours se met à trop haut prix ;</l>
+
+	<l id="485">Mais enfin, je l'avoue, un si précieux gage</l>
+
+	<l id="486">Est l'unique motif de tout notre voyage.</l>
+
+	<l id="486">Telle est la dure loi que nous font nos tyrans,</l>
+
+	<l id="487">Que lui seul nous peut rendre au sein de nos parents ;</l>
+
+	<l id="489">Et telle est leur rigueur, que sans cette conquête</l>
+
+	<l id="490">Le retour au pays nous coûterait la tête.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="491">Ah ! Si vous ne pouvez y rentrer autrement,</l>
+
+	<l id="492">Dure, dure à jamais votre bannissement !</l>
+
+	<l id="493">Princes, tel est mon sort, que la toison ravie</l>
+
+	<l id="494">Me doit coûter le sceptre, et peut-être la vie.</l>
+
+	<l id="495">De sa perte dépend celle de tout l'état ;</l>
+
+	<l id="496">En former un desir, c'est faire un attentat ;</l>
+
+	<l id="497">Et si jusqu'à l'effet vous pouvez le réduire,</l>
+
+	<l id="498">Vous ne m'avez sauvé que pour mieux me détruire</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="499">Qui vous l'a dit, seigneur ? Quel tyrannique effroi</l>
+
+	<l id="500">Fait cette illusion aux destins d'un grand roi ?</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="501">Votre Phryxus lui-même a servi d'interprète</l>
+
+	<l id="502">À ces ordres des dieux dont l'effet m'inquiète :</l>
+
+	<l id="503">Son ombre en mots exprès nous les a fait savoir.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="504">À des fantômes vains donnez moins de pouvoir.</l>
+
+	<l id="505">Une ombre est toujours ombre, et des nuits éternelles</l>
+
+	<l id="506">Il ne sort point de jours qui ne soient infidèles.</l>
+
+	<l id="507">Ce n'est point à l'enfer à disposer des rois,</l>
+
+	<l id="508">Et les ordres du ciel n'empruntent point sa voix.</l>
+
+	<l id="509">Mais vos bontés par là cherchent à faire grâce</l>
+
+	<l id="510">Au trop d'ambition dont vous voyez l'audace ;</l>
+
+	<l id="511">Et c'est pour colorer un trop juste refus</l>
+
+	<l id="512">Que vous faites parler cette ombre de Phryxus.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="513">Quoi ? De mon noir destin la triste certitude</l>
+
+	<l id="514">Ne seroit qu'un prétexte à mon ingratitude ?</l>
+
+	<l id="515">Et quand je vous dois tout, je voudrois essayer</l>
+
+	<l id="516">Un mauvais artifice à ne vous rien payer ?</l>
+
+	<l id="517">Quoi que vous en croyiez, quoi que vous puissiez dire,</l>
+
+	<l id="518">Pour vous désabuser partageons mon empire.</l>
+
+	<l id="519">Cette offre peut-elle être un refus coloré,</l>
+
+	<l id="520">Et répond-elle mal à ce que j'ai juré ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="521">D'autres l'accepteroient avec pleine allégresse ;</l>
+
+	<l id="522">Mais elle n'ouvre pas les chemins de la Grèce ;</l>
+
+	<l id="523">Et ces héros, sortis ou des dieux ou des rois,</l>
+
+	<l id="524">Ne sont pas mes sujets pour vivre sous mes lois.</l>
+
+	<l id="525">C'est à l'heur du retour que leur courage aspire,</l>
+
+	<l id="526">Et non pas à l'honneur de me faire un empire.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="527">Rien ne peut donc changer ce rigoureux desir ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="528">Seigneur, nous n'avons pas le pouvoir de choisir.</l>
+
+	<l id="529">Ce n'est que perdre temps qu'en parler davantage ;</l>
+
+	<l id="530">Et vous savez à quoi le serment vous engage.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="531">Téméraire serment qui me fait une loi</l>
+
+	<l id="532">Dangereuse pour vous, ou funeste pour moi !</l>
+
+	<l id="533">La toison est à vous si vous pouvez la prendre,</l>
+
+	<l id="534">Car ce n'est pas de moi qu'il vous la faut attendre.</l>
+
+	<l id="535">Comme votre Phryxus l'a consacrée à Mars,</l>
+
+	<l id="536">Ce dieu même lui fait d'effroyables remparts,</l>
+
+	<l id="537">Contre qui tout l'effort de la valeur humaine</l>
+
+	<l id="538">Ne peut être suivi que d'une mort certaine :</l>
+
+	<l id="539">Il faut pour l'emporter quelque chose au-dessus.</l>
+
+	<l id="540">J'ouvrirai la carrière, et ne puis rien de plus :</l>
+
+	<l id="541">Il y va de ma vie ou de mon diadème ;</l>
+
+	<l id="542">Mais je tremble pour vous autant que pour moi-même.</l>
+
+	<l id="543">Je croirais faire un crime à vous le déguiser ;</l>
+
+	<l id="544">Il est en votre choix d'en bien ou mal user.</l>
+
+	<l id="545">Ma parole est donnée, il faut que je la tienne ;</l>
+
+	<l id="546">Mais votre perte est sûre à moins que de la mienne.</l>
+
+	<l id="547">Adieu : pensez-y bien. Toi, ma fille, dis-lui</l>
+
+	<l id="548">À quels affreux périls il se livre aujourd'hui.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Médée, Jason, Argonautes.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="549" part="i">Ces périls sont légers.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="549" part="f">Ah ! Divine princesse !</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="550">Il n'y faut que du coeur, des forces, de l'adresse.</l>
+
+	<l id="551">Vous en avez, Jason ; mais peut-être, après tout,</l>
+
+	<l id="552">Ce que vous en avez n'en viendra pas à bout.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="553" part="i">Madame, si jamais...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="553" part="f">Ne dis rien, téméraire.</l>
+
+	<l id="554">Tu ne savois que trop quel choix pouvoit me plaire.</l>
+
+	<l id="555">Celui de la toison m'a fait voir tes mépris :</l>
+
+	<l id="556">Tu la veux, tu l'auras ; mais apprends à quel prix.</l>
+
+	<l id="557">Pour voir cette dépouille au dieu Mars consacrée,</l>
+
+	<l id="558">À tous dans sa forêt il permet libre entrée ;</l>
+
+	<l id="559">Mais pour la conquérir qui s'ose hasarder</l>
+
+	<l id="560">Trouve un affreux dragon commis à la garder.</l>
+
+	<l id="561">Rien n'échappe à sa vue, et le sommeil sans force</l>
+
+	<l id="562">Fait avec sa paupière un éternel divorce.</l>
+
+	<l id="563">Le combat contre lui ne te sera permis</l>
+
+	<l id="564">Qu'après deux fiers taureaux par ta valeur soumis ;</l>
+
+	<l id="565">Leurs yeux sont tout de flamme, et leur brûlante haleine</l>
+
+	<l id="566">D'un long embrasement couvre toute la plaine.</l>
+
+	<l id="567">Va leur faire souffrir le joug et l'aiguillon,</l>
+
+	<l id="568">Ouvrir du champ de Mars le funeste sillon :</l>
+
+	<l id="569">C'est ce qu'il te faut faire, et dans ce champ horrible</l>
+
+	<l id="570">Jeter une semence encore plus terrible,</l>
+
+	<l id="571">Qui soudain produira des escadrons armés</l>
+
+	<l id="572">Contre la même main qui les aura semés.</l>
+
+	<l id="573">Tous, sitôt qu'ils naîtront, en voudront à ta vie :</l>
+
+	<l id="574">Je vais moi-même à tous redoubler leur furie.</l>
+
+	<l id="575">Juge par là, Jason, de la gloire où tu cours,</l>
+
+	<l id="576">Et cherche où tu pourras des bras et du secours.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Jason, Pélée, Iphite, Orphée, Argonautes.</head>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="577">Amis, voilà l'effet de votre impatience.</l>
+
+	<l id="578">Si j'avais eu sur vous un peu plus de croyance,</l>
+
+	<l id="579">L'amour m'auroit livré ce précieux dépôt,</l>
+
+	<l id="580">Et vous l'avez perdu pour le vouloir trop tôt.</l>
+
+</sp>
+
+<sp who="PELEE"><speaker>PÉLÉE.</speaker>
+
+	<l id="581">L'amour vous est bien doux, et votre espoir tranquille,</l>
+
+	<l id="582">Qui vous fit consumer deux ans chez Hypsipyle,</l>
+
+	<l id="583">En consumeroit quatre avec plus de raison</l>
+
+	<l id="584">À cajoler Médée et gagner la toison.</l>
+
+	<l id="585">Après que nos exploits l'ont si bien méritée,</l>
+
+	<l id="586">Un mot seul, un souhait dût l'avoir emportée ;</l>
+
+	<l id="587">Mais puisqu'on la refuse au service rendu,</l>
+
+	<l id="588">Il faut avoir de force un bien qui nous est dû.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="589">De Médée en courroux dissipez donc les charmes ;</l>
+
+	<l id="590">Combattez ce dragon, ces taureaux, ces gensdarmes.</l>
+
+</sp>
+
+<sp who="IPHITE"><speaker>Iphite.</speaker>
+
+	<l id="591">Les dieux nous ont sauvés de mille autres dangers,</l>
+
+	<l id="592">Et sont les mêmes dieux en ces bords étrangers.</l>
+
+	<l id="593">Pallas nous a conduits, et Junon de nos têtes</l>
+
+	<l id="594">A parmi tant de mers écarté les tempêtes.</l>
+
+	<l id="595">Ces grands secours unis auront leur plein effet,</l>
+
+	<l id="596">Et ne laisseront point leur ouvrage imparfait.</l>
+
+	<l id="597">Voyez si je m'abuse, amis, quand je l'espère :</l>
+
+	<l id="598">Regardez de Junon briller la messagère ;</l>
+
+	<l id="599">Iris nous vient du ciel dire ses volontés.</l>
+
+	<l id="600">En attendant son ordre, adorons ses bontés.</l>
+
+	<l id="601">Prends ton luth, cher Orphée, et montre à la déesse</l>
+
+	<l id="602">Combien ce doux espoir charme notre tristesse.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+
+<sp who="ORPHEE"><speaker>ORPHÉE chante.</speaker>
+
+	<l id="603">Femme et soeur du maître des dieux,</l>
+
+	<l id="604">De qui le seul regard fait nos destins propices,</l>
+
+	<l id="605">Nous as-tu jusqu'ici guidés sous tes auspices</l>
+
+	<l id="606">Pour nous voir périr en ces lieux ?</l>
+
+	<l id="607">Contre des bras mortels tout ce qu'ont pu nos armes,</l>
+
+	<l id="608">Nous l'avons fait dans les combats :</l>
+
+	<l id="609">Contre les monstres et les charmes</l>
+
+	<l id="610">C'est à toi maintenant de nous prêter ton bras.</l>
+
+</sp>
+
+<sp who="IRIS"><speaker>IRIS.</speaker>
+
+	<l id="611">Princes, ne perdez pas courage ;</l>
+
+	<l id="612">Les deux mêmes divinités</l>
+
+	<l id="613">Qui vous ont garantis sur les flots irrités</l>
+
+	<l id="614">Prennent votre défense en ce climat sauvage.</l>
+
+	<l id="615">Les voici toutes deux, qui de leur propre voix</l>
+
+	<l id="616">Vous apprendront sous quelles lois</l>
+
+	<l id="617">Le destin vous promet cette illustre conquête ;</l>
+
+	<l id="618">Elles sauront vous la faciliter :</l>
+
+	<l id="619">Écoutez leurs conseils, et tenez l'âme prête</l>
+
+	<l id="620">À les exécuter.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="621">Tous vos bras et toutes vos armes</l>
+
+	<l id="622">Ne peuvent rien contre les charmes</l>
+
+	<l id="623">Que Médée en fureur verse sur la toison :</l>
+
+	<l id="624">L'amour seul aujourd'hui peut faire ce miracle ;</l>
+
+	<l id="625">Et dragon ni taureaux ne vous feront obstacle,</l>
+
+	<l id="626">Pourvu qu'elle s'apaise en faveur de Jason.</l>
+
+	<l id="627">Prête à descendre en terre afin de l'y réduire,</l>
+
+	<l id="628">J'ai pris et le visage et l'habit de sa soeur.</l>
+
+	<l id="629">Rien ne vous peut servir si vous n'avez son coeur ;</l>
+
+	<l id="630">Et si vous le gagnez, rien ne vous sauroit nuire.</l>
+
+</sp>
+
+<sp who="PALLAS"><speaker>PALLAS.</speaker>
+
+	<l id="631">Pour vous secourir en ces lieux,</l>
+
+	<l id="632">Junon change de forme et va descendre en terre ;</l>
+
+	<l id="633">Et pour vous protéger Pallas remonte aux cieux,</l>
+
+	<l id="634">Où Mars et quelques autres dieux</l>
+
+	<l id="635">Vont presser contre vous le maître du tonnerre.</l>
+
+	<l id="636">Le soleil, de son fils embrassant l'intérêt,</l>
+
+	<l id="637">Voudra faire changer l'arrêt</l>
+
+	<l id="638">Qui vous laisse espérer la toison demandée ;</l>
+
+	<l id="639">Mais quoi qu'il puisse faire, assurez-vous qu'enfin</l>
+
+	<l id="640">L'amour fera votre destin,</l>
+
+	<l id="641">Et vous donnera tout, s'il vous donne Médée.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="642" part="i">Eh bien ! Si mes conseils...</l>
+
+</sp>
+
+<sp who="PELEE"><speaker>PÉLÉE.</speaker>
+
+	<l id="642" part="f">N'en parlons plus, Jason :</l>
+
+	<l id="643">Cet oracle l'emporte, et vous aviez raison.</l>
+
+	<l id="644">Aimez, le ciel l'ordonne, et c'est l'unique voie</l>
+
+	<l id="645">Qu'après tant de travaux il ouvre à notre joie.</l>
+
+	<l id="646">N'y perdons point de temps, et sans plus de séjour</l>
+
+	<l id="647">Allons sacrifier au tout-puissant Amour.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="2"><head>ACTE II</head>
+
+<stage>DÉCORATION DU SECOND ACTE.</stage>
+
+<stage>La rivière du Phase et le paysage qu'elle traverse succèdent </stage>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Junon, Jason sous le visage de Chalciope.</head>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="648">Nous pouvons à l'écart, sur ces rives du Phase,</l>
+
+	<l id="649">Parler en sûreté du feu qui vous embrase.</l>
+
+	<l id="650">Souvent votre Médée y vient prendre le frais,</l>
+
+	<l id="651">Et pour y mieux rêver s'échappe du palais.</l>
+
+	<l id="652">Il faut venir à bout de cette humeur altière :</l>
+
+	<l id="653">De sa soeur tout exprès j'ai pris l'image entière,</l>
+
+	<l id="654">Mon visage a même air, ma voix a même ton ;</l>
+
+	<l id="655">Vous m'en voyez la taille, et l'habit, et le nom ;</l>
+
+	<l id="656">Et je la cache à tous sous un épais nuage,</l>
+
+	<l id="657">De peur que son abord ne trouble mon ouvrage.</l>
+
+	<l id="658">Sous ces déguisements j'ai déjà rétabli</l>
+
+	<l id="659">Presque en toute sa force un amour affoibli.</l>
+
+	<l id="660">L'horreur de vos périls, que redoublent les charmes,</l>
+
+	<l id="661">Dans cette âme inquiète excite mille alarmes :</l>
+
+	<l id="662">Elle blâme déjà son trop d'emportement.</l>
+
+	<l id="663">C'est à vous d'achever un si doux changement.</l>
+
+	<l id="664">Un soupir poussé juste, en suite d'une excuse,</l>
+
+	<l id="665">Perce un coeur bien avant quand lui-même il s'accuse,</l>
+
+	<l id="666">Et qu'un secret retour le force à ressentir</l>
+
+	<l id="667">De sa fureur trop prompte un tendre repentir.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="668" part="i">Déesse, quels encens...</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="668" part="f">Traitez-moi de princesse,</l>
+
+	<l id="669">Jason, et laissez là l'encens et la déesse.</l>
+
+	<l id="670">Quand vous serez en Grèce il y faudra penser ;</l>
+
+	<l id="671">Mais ici vos devoirs s'en doivent dispenser :</l>
+
+	<l id="672">Par ce respect suprême ils m'y feroient connoître.</l>
+
+	<l id="673">Laissez-y-moi passer pour ce que je feins d'être,</l>
+
+	<l id="674">Jusqu'à ce que le coeur de Médée adouci...</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="675">Madame, puisqu'il faut ne vous nommer qu'ainsi,</l>
+
+	<l id="676">Vos ordres me seront des lois inviolables :</l>
+
+	<l id="677">J'aurai pour les remplir des soins infatigables ;</l>
+
+	<l id="678" part="i">Et mon amour plus fort...</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="678" part="f">Je sais que vous aimez,</l>
+
+	<l id="679">Que Médée a des traits dont vos sens sont charmés.</l>
+
+	<l id="680">Mais cette passion est-elle en vous si forte</l>
+
+	<l id="681">Qu'à tous autres objets elle ferme la porte ?</l>
+
+	<l id="682">Ne souffre-t-elle plus l'image du passé ?</l>
+
+	<l id="683">Le portrait d'Hypsipyle est-il tout effacé ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="684" part="i">Ah !</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="684" part="m">Vous en soupirez !</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="684" part="f">Un reste de tendresse</l>
+
+	<l id="685">M'échappe encore au nom d'une belle princesse ;</l>
+
+	<l id="686">Mais comme assez souvent la distance des lieux</l>
+
+	<l id="687">Affoiblit dans le coeur ce qu'elle cache aux yeux,</l>
+
+	<l id="688">Les charmes de Médée ont aisément la gloire</l>
+
+	<l id="689">D'abattre dans le mien l'effet de sa mémoire.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="690">Peut-être elle n'est pas si loin que vous pensez.</l>
+
+	<l id="691">Ses voeux de vous attendre enfin se sont lassés,</l>
+
+	<l id="692">Et n'ont pu résister à cette impatience</l>
+
+	<l id="693">Dont tous les vrais amants ont trop d'expérience.</l>
+
+	<l id="694">L'ardeur de vous revoir l'a hasardée aux flots ;</l>
+
+	<l id="695">Elle a pris après vous la route de Colchos ;</l>
+
+	<l id="696">Et moi, pour empêcher que sa flamme importune</l>
+
+	<l id="697">Ne rompît sur ces bords toute votre fortune,</l>
+
+	<l id="698">J'ai soulevé les vents, qui brisant son vaisseau,</l>
+
+	<l id="699">Dans les flots mutinés ont ouvert son tombeau.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="700" part="i">Hélas !</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="700" part="f">N'en craignez point une funeste issue :</l>
+
+	<l id="701">Dans son propre palais Neptune l'a reçue.</l>
+
+	<l id="702">Comme il craint pour Pélie, à qui votre retour</l>
+
+	<l id="703">Doit coûter la couronne, et peut-être le jour,</l>
+
+	<l id="704">Il va tâcher d'y mettre un obstacle par elle,</l>
+
+	<l id="705">Et vous la renvoira, plus pompeuse et plus belle,</l>
+
+	<l id="706">Rattacher votre coeur à des liens si doux,</l>
+
+	<l id="707">Ou du moins exciter des sentiments jaloux</l>
+
+	<l id="708">Qui vous rendent Médée à tel point inflexible,</l>
+
+	<l id="709">Que le pouvoir du charme en demeure invincible,</l>
+
+	<l id="710">Et que vous périssiez en le voulant forcer,</l>
+
+	<l id="711">Ou qu'à votre conquête il faille renoncer.</l>
+
+	<l id="712">Dès son premier abord une soudaine flamme</l>
+
+	<l id="713">D'Absyrte à ses beautés livrera toute l'âme ;</l>
+
+	<l id="714">L'Amour me l'a promis : vous l'en verrez charmé ;</l>
+
+	<l id="715">Mais vous serez sans doute encor le plus aimé.</l>
+
+	<l id="716">Il faut donc prévenir ce dieu qui l'a sauvée,</l>
+
+	<l id="717">Emporter la toison avant son arrivée.</l>
+
+	<l id="718">Votre amante paroît : agissez en amant</l>
+
+	<l id="719">Qui veut en effet vaincre, et vaincre promptement.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Jason, Junon, Médée.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="720">Que faites-vous, ma soeur, avec ce téméraire ?</l>
+
+	<l id="721">Quand son orgueil m'outrage, a-t-il de quoi vous plaire ?</l>
+
+	<l id="722">Et vous a-t-il réduite à lui servir d'appui,</l>
+
+	<l id="723">Vous qui parliez tantôt, et si haut, contre lui ?</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="724">Je suis toujours sincère ; et dans l'idolâtrie</l>
+
+	<l id="725">Qu'en tous ces héros grecs je vois pour leur patrie,</l>
+
+	<l id="726">Si votre coeur étoit encore à se donner,</l>
+
+	<l id="727">Je ferois mes efforts à vous en détourner :</l>
+
+	<l id="728">Je vous dirois encor ce que j'ai su vous dire ;</l>
+
+	<l id="729">Mais l'amour sur tous deux a déjà trop d'empire :</l>
+
+	<l id="730">Il vous aime, et je vois qu'avec les mêmes traits...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="731">Que dites-vous, ma soeur ? Il ne m'aima jamais.</l>
+
+	<l id="732">À quelque complaisance il a pu se contraindre ;</l>
+
+	<l id="733">Mais s'il feignit d'aimer, il a cessé de feindre,</l>
+
+	<l id="734">Et me l'a bien fait voir en demandant au roi,</l>
+
+	<l id="735">En ma présence même, un autre prix que moi.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="736">Ne condamnons personne avant que de l'entendre.</l>
+
+	<l id="737">Savez-vous les raisons dont il se peut défendre ?</l>
+
+	<l id="738">Il m'en a dit quelqu'une, et je ne puis nier,</l>
+
+	<l id="739">Non pas qu'elle suffise à le justifier,</l>
+
+	<l id="740">Il est trop criminel, mais que du moins son crime</l>
+
+	<l id="741">N'est pas du tout si noir qu'il l'est dans votre estime ;</l>
+
+	<l id="742">Et si vous la saviez, peut-être à votre tour</l>
+
+	<l id="743">Vous trouveriez moins lieu d'accuser son amour.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="744">Quoi ? Ce lâche tantôt ne m'a pas regardée ;</l>
+
+	<l id="745">Il n'a montré qu'orgueil, que mépris pour Médée,</l>
+
+	<l id="746">Et je pourrois encor l'entendre discourir !</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="747">Le discours siéroit mal à qui cherche à mourir.</l>
+
+	<l id="748">J'ai mérité la mort si j'ai pu vous déplaire ;</l>
+
+	<l id="749">Mais cessez contre moi d'armer votre colère :</l>
+
+	<l id="750">Vos taureaux, vos dragons sont ici superflus ;</l>
+
+	<l id="751">Dites-moi seulement que vous ne m'aimez plus :</l>
+
+	<l id="752">Ces deux mots suffiront pour réduire en poussière...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="753">Va, quand il me plaira, j'en sais bien la manière ;</l>
+
+	<l id="754">Et si ma bouche encor n'en fulmine l'arrêt,</l>
+
+	<l id="755">Rends grâces à ma soeur qui prend ton intérêt.</l>
+
+	<l id="756">Par quel art, par quel charme as-tu pu la séduire,</l>
+
+	<l id="757">Elle qui ne cherchoit tantôt qu'à te détruire ?</l>
+
+	<l id="758">D'où vient que mon coeur même à demi révolté</l>
+
+	<l id="759">Semble vouloir s'entendre avec ta lâcheté,</l>
+
+	<l id="760">Et de tes actions favorable interprète,</l>
+
+	<l id="761">Ne te peint à mes yeux que tel qu'il te souhaite ?</l>
+
+	<l id="762">Par quelle illusion lui fais-tu cette loi ?</l>
+
+	<l id="763">Serois-tu dans mon art plus grand maître que moi ?</l>
+
+	<l id="764">Tu mets dans tous mes sens le trouble et le divorce :</l>
+
+	<l id="765">Je veux ne t'aimer plus, et n'en ai pas la force.</l>
+
+	<l id="766">Achève d'éblouir un si juste courroux,</l>
+
+	<l id="767">Qu'offusquent malgré moi des sentiments trop doux ;</l>
+
+	<l id="768">Car enfin, et ma soeur l'a bien pu reconnoître,</l>
+
+	<l id="769">Tout violent qu'il est, l'amour seul l'a fait naître ;</l>
+
+	<l id="770">Il va jusqu'à la haine, et toutefois, hélas !</l>
+
+	<l id="771">Je te haïrois peu, si je ne t'aimois pas.</l>
+
+	<l id="772">Mais parle, et si tu peux, montre quelque innocence.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="773">Je renonce, madame, à toute autre défense.</l>
+
+	<l id="774">Si vous m'aimez encore, et si l'amour en vous</l>
+
+	<l id="775">Fait naître cette haine, anime ce courroux,</l>
+
+	<l id="776">Puisque de tous les deux sa flamme est triomphante,</l>
+
+	<l id="777">Le courroux est propice et la haine obligeante.</l>
+
+	<l id="778">Oui, puisque cet amour vous parle encor pour moi,</l>
+
+	<l id="779">Il ne vous permet pas de douter de ma foi ;</l>
+
+	<l id="780">Et pour vous faire voir mon innocence entière,</l>
+
+	<l id="781">Il éclaire vos yeux de toute sa lumière :</l>
+
+	<l id="782">De ses rayons divins le vif discernement</l>
+
+	<l id="783">Du chef de ces héros sépare votre amant.</l>
+
+	<l id="784">Ces princes, qui pour vous ont exposé leur vie,</l>
+
+	<l id="785">Sans qui votre province alloit être asservie,</l>
+
+	<l id="786">Eux qui de vos destins rompant le cours fatal,</l>
+
+	<l id="787">Tous mes égaux qu'ils sont, m'ont fait leur général ;</l>
+
+	<l id="788">Eux qui de leurs exploits, eux qui de leur victoire</l>
+
+	<l id="789">Ont répandu sur moi la plus brillante gloire ;</l>
+
+	<l id="790">Eux tous ont par ma voix demandé la toison :</l>
+
+	<l id="791">C'étoient eux qui parloient, ce n'étoit pas Jason.</l>
+
+	<l id="792">Il ne vouloit que vous ; mais pouvoit-il dédire</l>
+
+	<l id="793">Ces guerriers dont le bras a sauvé votre empire,</l>
+
+	<l id="794">Et par une bassesse indigne de son rang,</l>
+
+	<l id="795">Demander pour lui seul tout le prix de leur sang ?</l>
+
+	<l id="796">Pouvois-je les trahir, moi qui de leurs suffrages</l>
+
+	<l id="797">De ce rang où je suis tiens tous les avantages ?</l>
+
+	<l id="798">Pouvois-je avec honneur à ce qu'il a d'éclat</l>
+
+	<l id="799">Joindre le nom de lâche et le titre d'ingrat ?</l>
+
+	<l id="800">Auriez-vous pu m'aimer couvert de cette honte ?</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="801">Ma soeur, dites le vrai, n'étiez-vous point trop prompte ?</l>
+
+	<l id="802">Qu'a-t-il fait qu'un coeur noble et vraiment généreux...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="803">Ma soeur, je le voulois seulement amoureux.</l>
+
+	<l id="804">En qui sauroit aimer seroit-ce donc un crime,</l>
+
+	<l id="805">Pour montrer plus d'amour, de perdre un peu d'estime ?</l>
+
+	<l id="806">Et malgré les douceurs d'un espoir si charmant,</l>
+
+	<l id="807">Faut-il que le héros fasse taire l'amant ?</l>
+
+	<l id="808">Quel que soit ce devoir, ou ce noble caprice,</l>
+
+	<l id="809">Tu me devois, Jason, en faire un sacrifice.</l>
+
+	<l id="810">Peut-être j'aurois pu t'en entendre blâmer,</l>
+
+	<l id="811">Mais non pas t'en haïr, non pas t'en moins aimer.</l>
+
+	<l id="812">Tout oblige en amour, quand l'amour en est cause.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="813">Voyez à quoi pour vous cet amour la dispose.</l>
+
+	<l id="814">N'abusez point, Jason, des bontés de ma soeur,</l>
+
+	<l id="815">Qui semble se résoudre à vous rendre son coeur ;</l>
+
+	<l id="816">Et laissez à vos Grecs, au péril de leur vie,</l>
+
+	<l id="817">Chercher cette toison si chère à leur envie.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="818">Quoi ? Les abandonner en ce pas dangereux !</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="819">N'as-tu point assez fait d'avoir parlé pour eux ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="820">Je suis leur chef, madame ; et pour cette conquête</l>
+
+	<l id="821">Mon honneur me condamne à marcher à leur tête :</l>
+
+	<l id="822">J'y dois périr comme eux, s'il leur faut y périr ;</l>
+
+	<l id="823">Et bientôt à leur tête on m'y verroit courir,</l>
+
+	<l id="824">Si j'aimois assez mal pour essayer mes armes</l>
+
+	<l id="825">À forcer des périls qu'ont préparés vos charmes,</l>
+
+	<l id="826">Et si le moindre espoir de vaincre malgré vous</l>
+
+	<l id="827">N'étoit un attentat contre votre courroux.</l>
+
+	<l id="828">Oui, ce que nos destins m'ordonnent que j'obtienne,</l>
+
+	<l id="829">Je le veux de vos mains, et non pas de la mienne.</l>
+
+	<l id="830">Si ce trésor par vous ne m'est point accordé,</l>
+
+	<l id="831">Mon bras me punira d'avoir trop demandé ;</l>
+
+	<l id="832">Et mon sang à vos yeux, sur ce triste rivage,</l>
+
+	<l id="833">De vos justes refus étalera l'ouvrage.</l>
+
+	<l id="834">Vous m'en verrez, madame, accepter la rigueur,</l>
+
+	<l id="835">Votre nom en la bouche et votre image au coeur,</l>
+
+	<l id="836">Et mon dernier soupir, par un pur sacrifice,</l>
+
+	<l id="837">Sauver toute ma gloire et vous rendre justice.</l>
+
+	<l id="838">Quel heur de pouvoir dire en terminant mon sort :</l>
+
+	<l id="839">" un respect amoureux a seul causé ma mort ! "</l>
+
+	<l id="840">Quel heur de voir ma mort charger la renommée</l>
+
+	<l id="841">De tout ce digne excès dont vous êtes aimée,</l>
+
+	<l id="842" part="i">Et dans tout l'avenir...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="842" part="f">Va, ne me dis plus rien ;</l>
+
+	<l id="843">Je ferai mon devoir, comme tu fais le tien.</l>
+
+	<l id="844">L'honneur doit m'être cher, si la gloire t'est chère :</l>
+
+	<l id="845">Je ne trahirai point mon pays et mon père ;</l>
+
+	<l id="846">Le destin de l'état dépend de la toison,</l>
+
+	<l id="847">Et je commence enfin à connoître Jason.</l>
+
+	<l id="848">Ces paniques terreurs pour ta gloire flétrie</l>
+
+	<l id="849">Nous déguisent en vain l'amour de ta patrie ;</l>
+
+	<l id="850">L'impatiente ardeur d'en voir le doux climat</l>
+
+	<l id="851">Sous ces fausses couleurs ne fait que trop d'éclat ;</l>
+
+	<l id="852">Mais s'il faut la toison pour t'en ouvrir l'entrée,</l>
+
+	<l id="853">Va traîner ton exil de contrée en contrée ;</l>
+
+	<l id="854">Et ne présume pas, pour te voir trop aimé,</l>
+
+	<l id="855">Abuser en tyran de mon coeur enflammé.</l>
+
+	<l id="856">Puisque le tien s'obstine à braver ma colère,</l>
+
+	<l id="857">Que tu me fais des lois, à moi qui t'en dois faire,</l>
+
+	<l id="858">Je reprends cette foi que tu crains d'accepter,</l>
+
+	<l id="859">Et préviens un ingrat qui cherche à me quitter.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="860">Moi, vous quitter, madame ! Ah ! Que c'est mal connoître</l>
+
+	<l id="861">Le pouvoir du beau feu que vos yeux ont fait naître !</l>
+
+	<l id="862">Que nos héros en Grèce emportent leur butin,</l>
+
+	<l id="863">Jason auprès de vous attache son destin.</l>
+
+	<l id="864">Donnez-leur la toison qu'ils ont presque achetée ;</l>
+
+	<l id="865">Ou si leur sang versé l'a trop peu méritée,</l>
+
+	<l id="866">Joignez-y tout le mien, et laissez-moi l'honneur</l>
+
+	<l id="867">De leur voir de ma main tenir tout leur bonheur.</l>
+
+	<l id="868">Que si le souvenir de vous avoir servie</l>
+
+	<l id="869">Me réserve pour vous quelque reste de vie,</l>
+
+	<l id="870">Soit qu'il faille à Colchos borner notre séjour,</l>
+
+	<l id="871">Soit qu'il vous plaise ailleurs éprouver mon amour,</l>
+
+	<l id="872">Sous les climats brûlants, sous les zones glacées,</l>
+
+	<l id="873">Les routes me plairont que vous m'aurez tracées :</l>
+
+	<l id="874">J'y baiserai partout les marques de vos pas.</l>
+
+	<l id="875">Point pour moi de patrie où vous ne serez pas ;</l>
+
+	<l id="876" part="i">Point pour moi...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="876" part="f">Quoi ? Jason, tu pourrois pour Médée</l>
+
+	<l id="877">Etouffer de ta Grèce et l'amour et l'idée ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="878" part="i">Je le pourrai, madame, et de plus...</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Adsyrte, Junon, Jason, Médée.</head>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="878" part="f">Ah ! Mes soeurs,</l>
+
+	<l id="879">Quel miracle nouveau va ravir tous nos coeurs !</l>
+
+	<l id="880">Sur ce fleuve mes yeux ont vu de cette roche</l>
+
+	<l id="881">Comme un trône flottant qui de nos bords s'approche.</l>
+
+	<l id="882">Quatre monstres marins courbent sous ce fardeau ;</l>
+
+	<l id="883">Quatre nains emplumés le soutiennent sur l'eau ;</l>
+
+	<l id="884">Et découpant les airs par un battement d'ailes,</l>
+
+	<l id="885">Lui servent de rameurs et de guides fidèles.</l>
+
+	<l id="886">Sur cet amas brillant de nacre et de coral,</l>
+
+	<l id="887">Qui sillonne les flots de ce mouvant cristal,</l>
+
+	<l id="888">L'opale étincelante à la perle mêlée</l>
+
+	<l id="889">Renvoie un jour pompeux vers la voûte étoilée.</l>
+
+	<l id="890">Les nymphes de la mer, les tritons, tout autour,</l>
+
+	<l id="891">Semblent au dieu caché faire à l'envi leur cour ;</l>
+
+	<l id="892">Et sur ces flots heureux, qui tressaillent de joie,</l>
+
+	<l id="893">Par mille bonds divers ils lui tracent la voie.</l>
+
+	<l id="894">Voyez du fond des eaux s'élever à nos yeux,</l>
+
+	<l id="895">Par un commun accord, ces moites demi-dieux.</l>
+
+	<l id="896">Puissent-ils sur ces bords arrêter ce miracle !</l>
+
+	<l id="897">Admirez avec moi ce merveilleux spectacle.</l>
+
+	<l id="898">Le voilà qui les suit. Voyez-le s'avancer.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="899" part="i">Ah ! Madame.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="899" part="f">Voyez sans vous embarrasser.</l>
+
+</sp>
+
+<stage>Ici l'on voit sortir du milieu du Phase le dieu Glauque avec deux tritons et deux sirènes qui chantent, cependant qu'une grande conque de nacre, semée de branches de coral et de pierres précieuses, portée par quatre dauphins, et soutenue par quatre vents en l'air, vient insensiblement s'arrêtér au milieu de ce même fleuve.
+
+Tandis qu'elles chantent, le devant ce cette conque merveilleuse fond dans l'eau, et l'aisse voir la reine Hypsipyle assise comme dans un trône ;
+
+et soudain Glauque commande aux vents de s'envoler, aux tritons et aux sirènes de disparaître, et ua fleuve de retirer une partie de ses eaux pour 
+
+laisser prendre tyerre à Hypsipyle. Les tritons, le fleuve, les vents et les sirène obéissent, et Glauque se perd lui-même 
+
+au fond de l'eau, si tôt qu'il a parlé ; de quoi Absyrte donne la main à Hypsipyle pour sortir de cette conque, qui s'abîme aussitôt dans le fleuve. </stage>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Absyrte, Junon, Médée, Jason, Glauque, sirènes, tritons, Hypsipyle.</head>
+
+<sp who="SIRENES"><speaker>CHANT DES SIRÈNES.</speaker>
+
+	<l id="900">Telle Vénus sortit du sein de l'onde,</l>
+
+	<l id="901">Pour faire régner dans le monde</l>
+
+	<l id="902">Les jeux et les plaisirs, les grâces et l'amour ;</l>
+
+	<l id="903">Telle tous les matins l'aurore</l>
+
+	<l id="904">Sur le sein émaillé de Flore</l>
+
+	<l id="905">Verse la rosée et le jour.</l>
+
+	<l id="906">Objet divin, qui vas de ce rivage</l>
+
+	<l id="907">Bannir ce qu'il a de sauvage,</l>
+
+	<l id="908">Pour y faire régner les grâces et l'amour,</l>
+
+	<l id="909">Telle et plus adorable encore</l>
+
+	<l id="910">Que n'est Vénus, que n'est l'aurore,</l>
+
+	<l id="911">Tu vas y faire un nouveau jour.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="912">Quelle beauté, mes soeurs, dans ce trône enfermée,</l>
+
+	<l id="913">De son premier coup d'oeil a mon âme charmée ?</l>
+
+	<l id="914">Quel coeur pourroit tenir contre de tels appas ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="915">Juste ciel, il me voit, et ne s'avance pas !</l>
+
+</sp>
+
+<sp who="GLAUQUE"><speaker>GLAUQUE.</speaker>
+
+	<l id="916">Allez, tritons, allez, sirènes ;</l>
+
+	<l id="917">Allez, vents, et rompez vos chaînes ;</l>
+
+	<l id="918">Neptune est satisfait,</l>
+
+	<l id="919">Et l'ordre qu'il vous donne a son entier effet.</l>
+
+	<l id="920">Jason, vois les bontés de ce même Neptune,</l>
+
+	<l id="921">Qui pour achever ta fortune,</l>
+
+	<l id="922">A sauvé du naufrage, et renvoie à tes voeux</l>
+
+	<l id="923">La princesse qui seule est digne de ta flamme.</l>
+
+	<l id="924">À son aspect rallume tous tes feux ;</l>
+
+	<l id="925">Et pour répondre aux siens, rends-lui toute ton âme.</l>
+
+	<l id="926">Et toi, qui jusques à Colchos</l>
+
+	<l id="927">Dois à tant de beautés un assuré passage,</l>
+
+	<l id="928">Fleuve, pour un moment retire un peu tes flots,</l>
+
+	<l id="929">Et laisse approcher ton rivage.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="930">Princesse, en qui du ciel les merveilleux efforts</l>
+
+	<l id="931">Se sont plu d'animer ses plus rares trésors,</l>
+
+	<l id="932">Souffrez qu'au nom du roi dont je tiens la naissance,</l>
+
+	<l id="933">Je vous offre en ces lieux une entière puissance :</l>
+
+	<l id="934">Régnez dans ses états, régnez dans son palais ;</l>
+
+	<l id="935">Et pour premier hommage à vos divins attraits...</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="936">Faites moins d'honneur, prince, à mon peu de mérite :</l>
+
+	<l id="937">Je ne cherche en ces lieux qu'un ingrat qui m'évite.</l>
+
+	<l id="938">Au lieu de m'aborder, Jason, vous pâlissez !</l>
+
+	<l id="939">Dites-moi pour le moins si vous me connoissez.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="940">Je sais bien qu'à Lemnos vous étiez Hypsipyle ;</l>
+
+	<l id="941" part="i">Mais ici...</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="941" part="f">Qui vous rend de la sorte immobile ?</l>
+
+	<l id="942">Ne suis-je plus la même arrivant à Colchos ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="943">Oui ; mais je n'y suis pas le même qu'à Lemnos.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="944" part="i">Dieux ! Que viens-je d'ouïr ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="944" part="f">J'ai d'autres yeux, madame :</l>
+
+	<l id="945">Voyez cette princesse, elle a toute mon âme ;</l>
+
+	<l id="946">Et pour vous épargner les discours superflus,</l>
+
+	<l id="947">Ici je ne connois et ne vois rien de plus.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="948">Ô faveurs de Neptune, où m'avez-vous conduite ?</l>
+
+	<l id="949">Et s'il commence ainsi, quelle sera la suite ?</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="950">Non, non, madame, non, je ne veux rien d'autrui :</l>
+
+	<l id="951">Reprenez votre amant, je vous laisse avec lui.</l>
+
+	<l id="952">Ne m'offre plus un coeur dont une autre est maîtresse,</l>
+
+	<l id="953">Volage, et reçois mieux cette grande princesse.</l>
+
+	<l id="954">Adieu : des yeux si beaux valent bien la toison.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="955">Ah ! Madame, voyez qu'avec peu de raison...</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="956">Suivez sans perdre temps, je saurai vous rejoindre.</l>
+
+	<l id="957">Madame, on vous trahit ; mais votre heur n'est pas moindre.</l>
+
+	<l id="958">Mon frère, qui s'apprête à vous conduire au roi,</l>
+
+	<l id="959">N'a pas moins de mérite, et tiendra mieux sa foi.</l>
+
+	<l id="960">Si je le connois bien, vous avez qui vous venge ;</l>
+
+	<l id="961">Et si vous m'en croyez, vous gagnerez au change.</l>
+
+	<l id="962">Je vous laisse en résoudre, et prends quelques moments</l>
+
+	<l id="963">Pour rétablir le calme entre ces deux amants.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Absyrte, Hypsipyle.</head>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="964">Madame, si j'osois, dans le trouble où vous êtes,</l>
+
+	<l id="965">Montrer à vos beaux yeux des peines plus secrètes,</l>
+
+	<l id="966">Si j'osois faire voir à ces divins tyrans</l>
+
+	<l id="967">Ce qu'ont déjà soumis de si doux conquérants,</l>
+
+	<l id="968">Je mettrois à vos pieds le trône et la couronne</l>
+
+	<l id="969">Où le ciel me destine et que le sang me donne.</l>
+
+	<l id="970">Mais puisque vos douleurs font taire mes desirs,</l>
+
+	<l id="971">Ne vous offensez pas du moins de mes soupirs ;</l>
+
+	<l id="972">Et tant que le respect m'imposera silence,</l>
+
+	<l id="973">Expliquez-vous pour eux toute leur violence.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="974">Prince, que voulez-vous d'un coeur préoccupé</l>
+
+	<l id="975">Sur qui domine encor l'ingrat qui l'a trompé ?</l>
+
+	<l id="976">Si c'est à mon amour une peine cruelle</l>
+
+	<l id="977">Où je cherche un amant de voir un infidèle,</l>
+
+	<l id="978">C'est un nouveau supplice à mes tristes appas</l>
+
+	<l id="979">De faire une conquête où je n'en cherche pas.</l>
+
+	<l id="980">Non que je vous méprise, et que votre personne</l>
+
+	<l id="981">N'eût de quoi me toucher plus que votre couronne :</l>
+
+	<l id="982">Le ciel me donne un sceptre en des climats plus doux,</l>
+
+	<l id="983">Et de tous vos états je ne voudrois que vous.</l>
+
+	<l id="984">Mais ne vous flattez point sur ces marques d'estime</l>
+
+	<l id="985">Qu'en mon coeur, tel qu'il est, votre présence imprime :</l>
+
+	<l id="986">Quand l'univers entier vous connoîtroit pour roi,</l>
+
+	<l id="987">Que pourrois-je pour vous, si je ne suis à moi ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="988">Vous y serez, madame, et pourrez toute chose :</l>
+
+	<l id="989">Le change de Jason déjà vous y dispose ;</l>
+
+	<l id="990">Et pour peu qu'il soutienne encor cette rigueur,</l>
+
+	<l id="991">Le dépit, malgré vous, vous rendra votre coeur.</l>
+
+	<l id="992">D'un si volage amant que pourriez-vous attendre ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="993">L'inconstance me l'ôte, elle peut me le rendre.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="994">Quoi ? Vous pourriez l'aimer, s'il rentroit sous vos lois</l>
+
+	<l id="995">En devenant perfide une seconde fois ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="996">Prince, vous savez mal combien charme un courage</l>
+
+	<l id="997">Le plus frivole espoir de reprendre un volage,</l>
+
+	<l id="998">De le voir malgré lui dans nos fers retombé,</l>
+
+	<l id="999">Échapper à l'objet qui nous l'a dérobé,</l>
+
+	<l id="1000">Et sur une rivale et confuse et trompée</l>
+
+	<l id="1001">Ressaisir avec gloire une place usurpée.</l>
+
+	<l id="1002">Si le ciel en courroux m'en refuse l'honneur,</l>
+
+	<l id="1003">Du moins je servirai d'obstacle à son bonheur.</l>
+
+	<l id="1004">Cependant éteignez une flamme inutile :</l>
+
+	<l id="1005">Aimez en d'autres lieux, et plaignez Hypsipyle ;</l>
+
+	<l id="1006">Et s'il vous reste encor quelque bonté pour moi,</l>
+
+	<l id="1007">Aidez contre un ingrat ma plainte auprès du roi.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1008">Votre plainte, madame, auroit pour toute issue</l>
+
+	<l id="1009">Un nouveau déplaisir de la voir mal reçue.</l>
+
+	<l id="1010">Le roi le veut pour gendre, et ma soeur pour époux.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1011">Il me rendra justice, un roi la doit à tous ;</l>
+
+	<l id="1012">Et qui la sacrifie aux tendresses de père</l>
+
+	<l id="1013">Est d'un pouvoir si saint mauvais dépositaire.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1014">À quelle rude épreuve engagez-vous ma foi,</l>
+
+	<l id="1015">De me forcer d'agir contre ma soeur et moi !</l>
+
+	<l id="1016">Mais n'importe, le temps et quelque heureux service</l>
+
+	<l id="1017">Pourront à mon amour vous rendre plus propice.</l>
+
+	<l id="1018">Tandis souvenez-vous que jusqu'à se trahir</l>
+
+	<l id="1019">Ce prince malheureux cherche à vous obéir.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="3"><head>ACTE III</head>
+
+<stage>DÉCORATION DU TROISIÈME ACTE.</stage>
+
+<stage>Nos théâtres n'ont encore rien fait paraître de si brillant que le palais du roi Aaete qui sert de décoration à cet acte. 
+
+On y voit de chaque côté deux rang de colonnes de japse torses, et environnées de pampre d'or à grands feuillages, chantournées, 
+
+et découpées à jour, au milieu desquelles sont des statues d'or à l'antique, de grandeur naturelle. Les frises, les festons, les corniches et les chapiteaux 
+
+sont pareillement d'or, et portent pour finissement des vases de porcelaine d'où sortent de gros bouquets de fleurs aussi au naturel. 
+
+Les bases et les piédestaux sont enrichis des basses-tailles, où sont peintes diverses fables de l'antiquité. Un grand portique doré, soutenu par 
+
+quatre autres colonnes dans le même ordre, fait la face du théâtre, et est suivi de cinq ou six autres de même manière ; qui forment, par le moyen de ses colonnes, comme cinq galeries, où la vue s'enfonçant découvre ce même jardin 
+
+de cyprès qui a paru au premier acte.</stage>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Aaete, Jason.</head> 
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1020">Je vous devois assez pour vous donner Médée,</l>
+
+	<l id="1021">Jason ; et si tantôt vous l'aviez demandée,</l>
+
+	<l id="1022">Si vous m'aviez parlé comme vous me parlez,</l>
+
+	<l id="1023">Vous auriez obtenu le bien que vous voulez.</l>
+
+	<l id="1024">Mais en est-il saison au jour d'une conquête</l>
+
+	<l id="1025">Qui doit faire tomber mon trône ou votre tête ?</l>
+
+	<l id="1026">Et vous puis-je accepter pour gendre, et vous chérir,</l>
+
+	<l id="1027">S'il vous faut dans une heure ou me perdre ou périr ?</l>
+
+	<l id="1028">Prétendre à la toison par l'hymen de ma fille,</l>
+
+	<l id="1029">C'est pour m'assassiner s'unir à ma famille ;</l>
+
+	<l id="1030">Et si vous abusez de ce que j'ai promis,</l>
+
+	<l id="1031">Vous êtes le plus grand de tous mes ennemis.</l>
+
+	<l id="1032">Je ne m'en puis dédire, et le serment me lie.</l>
+
+	<l id="1033">Mais si tant de périls vous laissent quelque vie,</l>
+
+	<l id="1034">Après avoir perdu ce roi que vous bravez,</l>
+
+	<l id="1035">Allez porter vos voeux à qui vous les devez :</l>
+
+	<l id="1036">Hypsipyle vous aime, elle est reine, elle est belle ;</l>
+
+	<l id="1037">Fuyez notre vengeance, et régnez avec elle.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1038">Quoi ? Parler de vengeance, et d'un oeil de courroux</l>
+
+	<l id="1039">Voir l'immuable ardeur de m'attacher à vous !</l>
+
+	<l id="1040">Vous présumer perdu sur la foi d'un scrupule</l>
+
+	<l id="1041">Qu'embrasse aveuglément votre âme trop crédule,</l>
+
+	<l id="1042">Comme si sur la peau d'un chétif animal</l>
+
+	<l id="1043">Le ciel avait écrit tout votre sort fatal !</l>
+
+	<l id="1044">Ce que l'ombre a prédit, si vous daignez l'entendre,</l>
+
+	<l id="1045">Ne met aucun obstacle aux prières d'un gendre.</l>
+
+	<l id="1046">Me donner la princesse, et pour dot la toison,</l>
+
+	<l id="1047">Ce n'est que l'assurer dedans votre maison,</l>
+
+	<l id="1048">Puisque par les doux noeuds de ce bonheur suprême</l>
+
+	<l id="1049">Je deviendrai soudain une part de vous-même,</l>
+
+	<l id="1050">Et que ce même bras qui vous a pu sauver</l>
+
+	<l id="1051">Sera toujours armé pour vous la conserver.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1052">Vous prenez un peu tard une mauvaise adresse :</l>
+
+	<l id="1053">Nos esprits sont plus lourds que ceux de votre Grèce ;</l>
+
+	<l id="1054">Mais j'ai d'assez bons yeux, dans un si juste effroi,</l>
+
+	<l id="1055">Pour démêler sans peine un gendre d'avec moi.</l>
+
+	<l id="1056">Je sais que l'union d'un époux à ma fille</l>
+
+	<l id="1057">De mon sang et du sien forme une autre famille,</l>
+
+	<l id="1058">Et que si de moi-même elle fait quelque part,</l>
+
+	<l id="1059">Cette part de moi-même a ses destins à part.</l>
+
+	<l id="1060">Ce que l'ombre a prédit se fait assez entendre.</l>
+
+	<l id="1061">Cessez de vous forcer à devenir mon gendre ;</l>
+
+	<l id="1062">Ce seroit un honneur qui ne vous plairoit pas,</l>
+
+	<l id="1063">Puisque la toison seule a pour vous des appas,</l>
+
+	<l id="1064">Et que si mon malheur vous l'avait accordée,</l>
+
+	<l id="1065">Vous n'auriez jamais fait aucuns voeux pour Médée.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1066">C'est faire trop d'outrage à mon coeur enflammé.</l>
+
+	<l id="1067">Dès l'abord je la vis, dès l'abord je l'aimai ;</l>
+
+	<l id="1068">Et mon amour n'est pas un amour politique</l>
+
+	<l id="1069">Que le besoin colore, et que la crainte explique.</l>
+
+	<l id="1070">Mais n'ayant que moi-même à vous parler pour moi,</l>
+
+	<l id="1071">Je n'osois espérer d'être écouté d'un roi,</l>
+
+	<l id="1072">Ni que sur ma parole il me crût de naissance</l>
+
+	<l id="1073">À porter mes desirs jusqu'à son alliance.</l>
+
+	<l id="1074">Maintenant qu'une reine a fait voir que mon sang</l>
+
+	<l id="1075">N'est pas fort au-dessous de cet illustre rang,</l>
+
+	<l id="1076">Qu'un refus de son sceptre après votre victoire</l>
+
+	<l id="1077">Montre qu'on peut m'aimer sans hasarder sa gloire,</l>
+
+	<l id="1078">J'ose, un peu moins timide, offrir, avec ma foi,</l>
+
+	<l id="1079">Ce que veut une reine à la fille d'un roi.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1080">Et cette même reine est un exemple illustre</l>
+
+	<l id="1081">Qui met tous vos hauts faits en leur plus digne lustre.</l>
+
+	<l id="1082">L'état où la réduit votre fidélité</l>
+
+	<l id="1083">Nous instruit hautement de cette vérité,</l>
+
+	<l id="1084">Que ma fille avec vous seroit fort assurée</l>
+
+	<l id="1085">Sur les gages douteux d'une foi parjurée.</l>
+
+	<l id="1086">Ce trône refusé, dont vous faites le vain,</l>
+
+	<l id="1087">Nous doit donner à tous horreur de votre main.</l>
+
+	<l id="1088">Il ne faut pas ainsi se jouer des couronnes :</l>
+
+	<l id="1089">On doit toujours respect au sceptre, à nos personnes.</l>
+
+	<l id="1090">Mépriser cette reine en présence d'un roi,</l>
+
+	<l id="1091">C'est manquer de prudence aussi bien que de foi.</l>
+
+	<l id="1092">Le ciel nous unit tous en ce grand caractère :</l>
+
+	<l id="1093">Je ne puis être roi sans être aussi son frère ;</l>
+
+	<l id="1094">Et si vous étiez né mon sujet ou mon fils,</l>
+
+	<l id="1095">J'aurois déjà puni l'orgueil d'un tel mépris ;</l>
+
+	<l id="1096">Mais l'unique pouvoir que sur vous je puis prendre,</l>
+
+	<l id="1097">C'est de vous ordonner de la voir, de l'entendre.</l>
+
+	<l id="1098">La voilà : pensez bien que tel est votre sort,</l>
+
+	<l id="1099">Que vous n'avez qu'un choix, Hypsipyle ou la mort ;</l>
+
+	<l id="1100">Car à vous en parler avec pleine franchise,</l>
+
+	<l id="1101">Ma perte dépend bien de la toison conquise ;</l>
+
+	<l id="1102">Mais je ne dois pas craindre en ces périls nouveaux</l>
+
+	<l id="1103">Que votre vie échappe aux feux de nos taureaux.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Aaete, Hypsipyle, Jason.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1104">Madame, j'ai parlé ; mais toutes mes paroles</l>
+
+	<l id="1105">Ne sont auprès de lui que des discours frivoles.</l>
+
+	<l id="1106">C'est à vous d'essayer ce que pourront vos yeux :</l>
+
+	<l id="1107">Comme ils ont plus de force, ils réussiront mieux.</l>
+
+	<l id="1108">Arrachez-lui du sein cette funeste envie</l>
+
+	<l id="1109">Qui dans ce même jour lui va coûter la vie.</l>
+
+	<l id="1110">Je vous devrai beaucoup, si vous touchez son coeur</l>
+
+	<l id="1111">Jusques à le sauver de sa propre fureur :</l>
+
+	<l id="1112">Devant ce que je dois au secours de ses armes,</l>
+
+	<l id="1113">Rompre son mauvais sort, c'est épargner nos larmes.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Hypsipyle, Jason.</head>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1114">Eh bien ! Jason, la mort a-t-elle de tels biens</l>
+
+	<l id="1115">Qu'elle soit plus aimable à vos yeux que les miens ?</l>
+
+	<l id="1116">Et sa douceur pour vous seroit-elle moins pure</l>
+
+	<l id="1117">Si vous n'y joigniez l'heur de mourir en parjure ?</l>
+
+	<l id="1118">Oui, ce glorieux titre est si doux à porter,</l>
+
+	<l id="1119">Que de tout votre sang il le faut acheter.</l>
+
+	<l id="1120">Le mépris qui succède à l'amitié passée</l>
+
+	<l id="1121">D'une seule douleur m'auroit trop peu blessée :</l>
+
+	<l id="1122">Pour mieux punir ce coeur d'avoir su vous chérir,</l>
+
+	<l id="1123">Il faut vous voir ensemble et changer et périr ;</l>
+
+	<l id="1124">Il faut que le tourment d'être trop tôt vengée</l>
+
+	<l id="1125">Se mêle aux déplaisirs de me voir outragée ;</l>
+
+	<l id="1126">Que l'amour, au dépit ne cédant qu'à moitié,</l>
+
+	<l id="1127">Sitôt qu'il est banni, rentre par la pitié ;</l>
+
+	<l id="1128">Et que ce même feu, que je devrois éteindre,</l>
+
+	<l id="1129">M'oblige à vous haïr, et me force à vous plaindre.</l>
+
+	<l id="1130">Je ne t'empêche pas, volage, de changer ;</l>
+
+	<l id="1131">Mais du moins, en changeant, laisse-moi me venger.</l>
+
+	<l id="1132">C'est être trop cruel, c'est trop croître l'offense</l>
+
+	<l id="1133">Que m'ôter à la fois ton coeur et ma vengeance</l>
+
+	<l id="1134">Le supplice où tu cours la va trop tôt finir.</l>
+
+	<l id="1135">Ce n'est pas me venger, ce n'est que te punir ;</l>
+
+	<l id="1136">Et toute sa rigueur n'a rien qui me soulage,</l>
+
+	<l id="1137">S'il n'est de mon souhait et le choix et l'ouvrage.</l>
+
+	<l id="1138">Hélas ! Si tu pouvois le laisser à mon choix,</l>
+
+	<l id="1139">Ton supplice, il seroit de rentrer sous mes lois,</l>
+
+	<l id="1140">De m'attacher à toi d'une chaîne plus forte,</l>
+
+	<l id="1141">Et de prendre en ta main le sceptre que je porte.</l>
+
+	<l id="1142">Tu n'as qu'à dire un mot, ton crime est effacé :</l>
+
+	<l id="1143">J'ai déjà, si tu veux, oublié le passé.</l>
+
+	<l id="1144">Mais qu'inutilement je me montre si bonne</l>
+
+	<l id="1145">Quand tu cours à la mort de peur qu'on te pardonne !</l>
+
+	<l id="1146">Quoi ? Tu ne réponds rien, et mes plaintes en l'air</l>
+
+	<l id="1147">N'ont rien d'assez puissant pour te faire parler ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1148">Que voulez-vous, madame, ici que je vous die ?</l>
+
+	<l id="1149">Je ne connois que trop quelle est ma perfidie ;</l>
+
+	<l id="1150">Et l'état où je suis ne sauroit consentir</l>
+
+	<l id="1151">Que j'en fasse une excuse, ou montre un repentir :</l>
+
+	<l id="1152">Après ce que j'ai fait, après ce qui se passe,</l>
+
+	<l id="1153">Tout ce que je dirois auroit mauvaise grâce.</l>
+
+	<l id="1154">Laissez dans le silence un coupable obstiné,</l>
+
+	<l id="1155">Qui se plaît dans son crime, et n'en est point gêné.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1156">Parle toutefois, parle, et non plus pour me plaire,</l>
+
+	<l id="1157">Mais pour rendre la force à ma juste colère ;</l>
+
+	<l id="1158">Parle, pour m'arracher ces tendres sentiments</l>
+
+	<l id="1159">Que l'amour enracine au coeur des vrais amants ;</l>
+
+	<l id="1160">Repasse mes bontés et tes ingratitudes ;</l>
+
+	<l id="1161">Joins-y, si tu le peux, des coups encor plus rudes :</l>
+
+	<l id="1162">Ce sera m'obliger, ce sera m'obéir.</l>
+
+	<l id="1163">Je te devrai beaucoup, si je te puis haïr,</l>
+
+	<l id="1164">Et si de tes forfaits la peinture étendue</l>
+
+	<l id="1165">Ne laisse plus flotter ma haine suspendue.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1166">Que dirai-je, après tout, que ce que vous savez ?</l>
+
+	<l id="1167">Madame, rendez-vous ce que vous vous devez.</l>
+
+	<l id="1168">Il n'est pas glorieux pour une grande reine</l>
+
+	<l id="1169">De montrer de l'amour, et de voir de la haine ;</l>
+
+	<l id="1170">Et le sexe et le rang se doivent souvenir</l>
+
+	<l id="1171">Qu'il leur sied bien d'attendre, et non de prévenir ;</l>
+
+	<l id="1172">Et que c'est profaner la dignité suprême</l>
+
+	<l id="1173">Que de lui laisser dire : " on me trahit, et j'aime. "</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1174">Je le puis dire, ingrat, sans blesser mon devoir :</l>
+
+	<l id="1175">C'est mon époux en toi que le ciel me fait voir,</l>
+
+	<l id="1176">Du moins si la parole et reçue et donnée</l>
+
+	<l id="1177">A des noeuds assez forts pour faire un hyménée.</l>
+
+	<l id="1178">Ressouviens-t'en, volage, et des chastes douceurs</l>
+
+	<l id="1179">Qu'un mutuel amour répandit dans nos coeurs.</l>
+
+	<l id="1180">Je te laissai partir afin que ta conquête</l>
+
+	<l id="1181">Remît sous mon empire une plus digne tête,</l>
+
+	<l id="1182">Et qu'une reine eût droit d'honorer de son choix</l>
+
+	<l id="1183">Un héros que son bras eût fait égal aux rois.</l>
+
+	<l id="1184">J'attendois ton retour pour pouvoir avec gloire</l>
+
+	<l id="1185">Récompenser ta flamme et payer ta victoire ;</l>
+
+	<l id="1186">Et quand jusques ici je t'apporte ma foi,</l>
+
+	<l id="1187">Je trouve en arrivant que tu n'es plus à moi !</l>
+
+	<l id="1188">Hélas ! Je ne craignois que tes beautés de Grèce ;</l>
+
+	<l id="1189">Et je vois qu'une Scythe a rompu ta promesse,</l>
+
+	<l id="1190">Et qu'un climat barbare a des traits assez doux</l>
+
+	<l id="1191">Pour m'avoir de mes bras enlevé mon époux !</l>
+
+	<l id="1192">Mais, dis-moi, ta Médée est-elle si parfaite ?</l>
+
+	<l id="1193">Ce que cherche Jason vaut-il ce qu'il rejette ?</l>
+
+	<l id="1194">Malgré ton coeur changé, j'en fais juges tes yeux.</l>
+
+	<l id="1195">Tu soupires en vain, il faut t'expliquer mieux :</l>
+
+	<l id="1196">Ce soupir échappé me dit bien quelque chose ;</l>
+
+	<l id="1197">Toute autre l'entendroit ; mais sans toi je ne l'ose.</l>
+
+	<l id="1198">Parle donc et sans feinte : où porte-t-il ta foi ?</l>
+
+	<l id="1199">Va-t-il vers ma rivale, ou revient-il vers moi ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1200">Osez autant qu'une autre ; entendez-le, madame,</l>
+
+	<l id="1201">Ce soupir qui vers vous pousse toute mon âme ;</l>
+
+	<l id="1202">Et concevez par là jusqu'où vont mes malheurs,</l>
+
+	<l id="1203">De soupirer pour vous, et de prétendre ailleurs.</l>
+
+	<l id="1204">Il me faut la toison : il y va de la vie</l>
+
+	<l id="1205">De tous ces demi-dieux que brûle même envie ;</l>
+
+	<l id="1206">Il y va de ma gloire, et j'ai beau soupirer,</l>
+
+	<l id="1207">Sous cette tyrannie il me faut expirer.</l>
+
+	<l id="1208">J'en perds tout mon bonheur, j'en perds toute ma joie ;</l>
+
+	<l id="1209">Mais pour sortir d'ici je n'ai que cette voie ;</l>
+
+	<l id="1210">Et le même intérêt qui vous fit consentir,</l>
+
+	<l id="1211">Malgré tout votre amour, à me laisser partir,</l>
+
+	<l id="1212">Le même me dérobe ici votre couronne.</l>
+
+	<l id="1213">Pour faire ma conquête, il faut que je me donne,</l>
+
+	<l id="1214">Que pour l'objet aimé j'affecte des mépris,</l>
+
+	<l id="1215">Que je m'offre en esclave, et me vende à ce prix :</l>
+
+	<l id="1216">Voilà ce que mon coeur vous dit quand il soupire.</l>
+
+	<l id="1217">Ne me condamnez plus, madame, à le redire :</l>
+
+	<l id="1218">Si vous m'aimez encor, de pareils entretiens</l>
+
+	<l id="1219">Peuvent aigrir vos maux et redoublent les miens ;</l>
+
+	<l id="1220">Et cet aveu d'un crime où le destin m'attache</l>
+
+	<l id="1221">Grossit l'indignité des remords que je cache</l>
+
+	<l id="1222">Pour me les épargner, vous voyez qu'en ces lieux</l>
+
+	<l id="1223">Je fuis votre présence, et j'évite vos yeux.</l>
+
+	<l id="1224">L'amour vous montre aux miens toujours charmante et belle ;</l>
+
+	<l id="1225">Chaque moment allume une flamme nouvelle ;</l>
+
+	<l id="1226">Mais ce qui de mon coeur fait les plus chers desirs,</l>
+
+	<l id="1227">De mon change forcé fait tous les déplaisirs ;</l>
+
+	<l id="1228">Et dans l'affreux supplice où me tient votre vue,</l>
+
+	<l id="1229">Chaque coup d'oeil me perce, et chaque instant me tue.</l>
+
+	<l id="1230">Vos bontés n'ont pour moi que des traits rigoureux :</l>
+
+	<l id="1231">Plus je me vois aimé, plus je suis malheureux ;</l>
+
+	<l id="1232">Plus vous me faites voir d'amour et de mérite,</l>
+
+	<l id="1233">Plus vous haussez le prix des trésors que je quitte ;</l>
+
+	<l id="1234">Et l'excès de ma perte allume une fureur</l>
+
+	<l id="1235">Qui me donne moi-même à moi-même en horreur.</l>
+
+	<l id="1236">Laissez-moi m'affranchir de la secrète rage</l>
+
+	<l id="1237">D'être en dépit de moi déloyal et volage ;</l>
+
+	<l id="1238">Et puisqu'ici le ciel vous offre un autre époux</l>
+
+	<l id="1239">D'un rang pareil au vôtre, et plus digne de vous,</l>
+
+	<l id="1240">Ne vous obstinez point à gêner une vie</l>
+
+	<l id="1241">Que de tant de malheurs vous voyez poursuivie.</l>
+
+	<l id="1242">Oubliez un ingrat qui jusques au trépas,</l>
+
+	<l id="1243">Tout ingrat qu'il paroît, ne vous oubliera pas :</l>
+
+	<l id="1244">Apprenez à quitter un lâche qui vous quitte.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1245">Tu te confesses lâche, et veux que je t'imite ;</l>
+
+	<l id="1246">Et quand tu fais effort pour te justifier,</l>
+
+	<l id="1247">Tu veux que je t'oublie, et ne peux m'oublier !</l>
+
+	<l id="1248">Je vois ton artifice et ce que tu médites ;</l>
+
+	<l id="1249">Tu veux me conserver alors que tu me quittes ;</l>
+
+	<l id="1250">Et par les attentats d'un flatteur entretien</l>
+
+	<l id="1251">Me dérober ton coeur, et retenir le mien :</l>
+
+	<l id="1252">Tu veux que je te perde, et que je te regrette,</l>
+
+	<l id="1253">Que j'approuve en pleurant la perte que j'ai faite,</l>
+
+	<l id="1254">Que je t'estime et t'aime avec ta lâcheté,</l>
+
+	<l id="1255">Et me prenne de tout à la fatalité.</l>
+
+	<l id="1256">Le ciel l'ordonne ainsi : ton change est légitime ;</l>
+
+	<l id="1257">Ton innocence est sûre au milieu de ton crime ;</l>
+
+	<l id="1258">Et quand tes trahisons pressent leur noir effet,</l>
+
+	<l id="1259">Ta gloire, ton devoir, ton destin a tout fait.</l>
+
+	<l id="1260">Reprends, reprends, Jason, tes premières rudesses :</l>
+
+	<l id="1261">Leur coup m'est bien plus doux que tes fausses tendresses ;</l>
+
+	<l id="1262">Tes remords impuissants aigrissent mes douleurs :</l>
+
+	<l id="1263">Ne me rends point ton coeur, quand tu te vends ailleurs.</l>
+
+	<l id="1264">D'un coeur qu'on ne voit pas l'offre est lâche et barbare,</l>
+
+	<l id="1265">Quand de tout ce qu'on voit un autre objet s'empare ;</l>
+
+	<l id="1266">Et c'est faire un hommage et ridicule et vain</l>
+
+	<l id="1267">De présenter le coeur et retirer la main.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1268" part="i">L'un et l'autre est à vous, si...</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1268" part="f">N'achève pas, traître ;</l>
+
+	<l id="1269">Ce que tu veux cacher se feroit trop paroître :</l>
+
+	<l id="1270">Un véritable amour ne parle point ainsi.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1271">Trouvez donc les moyens de nous tirer d'ici.</l>
+
+	<l id="1272">La toison emportée, il agira, madame,</l>
+
+	<l id="1273">Ce véritable amour qui vous donne mon âme ;</l>
+
+	<l id="1274">Sinon... Mais dieux ! Que vois-je ? ô ciel ! Je suis perdu,</l>
+
+	<l id="1275">Si j'ai tant de malheur qu'elle m'aye entendu.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Médée, Hypsipile.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1276">Vous l'avez vu, madame, êtes-vous satisfaite ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1277">Vous en pouvez juger par sa prompte retraite.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1278">Elle marque le trouble où son coeur est réduit ;</l>
+
+	<l id="1279">Mais j'ignore, après tout, s'il vous quitte ou me fuit.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1280">Vous pouvez donc, madame, ignorer quelque chose ?</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1281">Je sais que, s'il me fuit, vous en êtes la cause.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1282">Moi, je n'en sais pas tant ; mais j'avoue entre nous</l>
+
+	<l id="1283">Que s'il faut qu'il me quitte, il a besoin de vous.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1284">Ce que vous en pensez me donne peu d'alarmes.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+<note type="C">Ce vers est célèbre comme étant un "concetto", un jeu de mots sur le terme charme synonyme de d'attraits et synonyme de sort jété par une sorcier ou une sorcière.</note>
+
+	<l id="1285">Je n'ai que des attraits, et vous avez des charmes.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1286">C'est beaucoup en amour que de savoir charmer.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1287">Et c'est beaucoup aussi que de se faire aimer.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1288">Si vous en avez l'art, j'ai celui d'y contraindre.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1289">À faute d'être aimée, on peut se faire craindre.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1290" part="i">Il vous aima jadis ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1290" part="f">Peut-être il m'aime encor,</l>
+
+	<l id="1291">Moins que vous toutefois, ou que la toison d'or.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1292">Du moins, quand je voudrai flatter son espérance,</l>
+
+	<l id="1293">Il saura de nous deux faire la différence.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1294">J'en vois la différence assez grande à Colchos ;</l>
+
+	<l id="1295">Mais elle seroit autre et plus grande à Lemnos.</l>
+
+	<l id="1296">Les lieux aident au choix ; et peut-être qu'en Grèce</l>
+
+	<l id="1297">Quelque troisième objet surprendroit sa tendresse.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1298">J'appréhende assez peu qu'il me manque de foi.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1299">Vous êtes plus adroite et plus belle que moi :</l>
+
+	<l id="1300">Tant qu'il aura des yeux vous n'avez rien à craindre.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1301">J'allume peu de feux qu'un autre puisse éteindre ;</l>
+
+	<l id="1302">Et puisqu'il me promet un coeur ferme et constant...</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1303">Autrefois à Lemnos il m'en promit autant.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1304">D'un amant qui s'en va de quoi sert la parole ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1305">À montrer qu'on vous peut voler ce qu'on me vole.</l>
+
+	<l id="1306">Ces beaux feux qu'en mon île il n'osoit démentir...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1307">Eurent un peu de tort de le laisser partir.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1308">Comme vous en aurez, si jamais ce volage</l>
+
+	<l id="1309">Porte à quelque autre objet ce qu'il vous rend d'hommage.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1310">Les captifs mal gardés ont droit de nous quitter.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1311">J'avais quelque mérite, et n'ai pu l'arrêter.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1312">J'en ai peu, mais enfin s'il fait plus que le vôtre ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1313">Vous avez lieu de croire en valoir bien un autre ;</l>
+
+	<l id="1314">Mais prenez moins d'appui sur un coeur usurpé :</l>
+
+	<l id="1315">Il peut vous échapper, puisqu'il m'est échappé.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1316">Votre esprit n'est rempli que de mauvais augures.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1317">On peut sur le passé former ses conjectures.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1318">Le passé mal conduit n'est qu'un miroir trompeur,</l>
+
+	<l id="1319">Où l'oeil bien éclairé ne fonde espoir ni peur.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1320">Si j'ai conçu pour vous des craintes mal fondées...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1321">Laissons faire Jason, et gardons nos idées.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1322">Avec sincérité je dois vous avouer</l>
+
+	<l id="1323">Que j'ai quelque sujet encor de m'en louer.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1324">Avec sincérité je dois aussi vous dire</l>
+
+	<l id="1325">Qu'assez malaisément on sort de mon empire,</l>
+
+	<l id="1326">Et que quand jusqu'à moi j'ai permis d'aspirer,</l>
+
+	<l id="1327">On ne s'abaisse plus à vous considérer.</l>
+
+	<l id="1328">Profitez des avis que ma pitié vous donne.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1329">À vous dire le vrai, cette hauteur m'étonne.</l>
+
+	<l id="1330">Je suis reine, madame, et les fronts couronnés...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1331">Et moi je suis Médée, et vous m'importunez.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1332">Cet indigne mépris que de mon rang vous faites...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1333">Connoissez-moi, madame, et voyez où vous êtes.</l>
+
+	<l id="1334">Si Jason pour vos yeux ose encor soupirer,</l>
+
+	<l id="1335">Il peut chercher des bras à vous en retirer.</l>
+
+	<l id="1336">Adieu : souvenez-vous, au lieu de vous en plaindre,</l>
+
+	<l id="1337">Qu'à faute d'être aimée, on peut se faire craindre.</l>
+
+</sp>
+
+<stage>Ce palais doré en un palais d'horreur sitôt que Médée a dit le premier de ces cinq derniers vers, et qu'elle a donné un coup de baguette. 
+
+Tout ce qu'il y a d'épouvantable en la nature y sert de termes. L'éléphant, le rhinocéros, le lion, l'once, les tigres, les léopards, 
+
+les panthères, les dragons, les serpents, tous avec leurs antipathies à leurs pieds, y lancent des regards menaçants. une grotte obscure borne la vue, 
+
+au travers de laquelle l'oeil ne laisse pas de découvrir un éloignement merveilleux que fait la perspective. Quatre monstres ailés et quatre rampants enferment 
+
+Hypsipyle, et semblent prêts à la dévorer.</stage>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1338">Que vois-je ? Où suis-je ? Ô dieux ! Quels abîmes ouverts</l>
+
+	<l id="1339">Exhalent jusqu'à moi les vapeurs des enfers !</l>
+
+	<l id="1340">Que d'yeux étincelants sous d'horribles paupières</l>
+
+	<l id="1341">Mêlent au jour qui fuit d'effroyables lumières !</l>
+
+	<l id="1342">Ô toi, qui crois par là te faire redouter,</l>
+
+	<l id="1343">Si tu l'as espéré, cesse de t'en flatter.</l>
+
+	<l id="1344">Tu perds de ton grand art la force ou l'imposture,</l>
+
+	<l id="1345">À t'armer contre moi de toute la nature.</l>
+
+	<l id="1346">L'amour au désespoir ne peut craindre la mort :</l>
+
+	<l id="1347">Dans un pareil naufrage elle ouvre un heureux port.</l>
+
+	<l id="1348">Hâtez, monstres, hâtez votre approche fatale.</l>
+
+	<l id="1349">Mais immoler ainsi ma vie à ma rivale !</l>
+
+	<l id="1350">Cette honte est pour moi pire que le trépas.</l>
+
+	<l id="1351">Je ne veux plus mourir ; monstres, n'avancez pas.</l>
+
+</sp>
+
+<sp who="VOIX"><speaker>UNE VOIX, derrière le théâtre.</speaker>
+
+	<l id="1352">Monstres, n'avancez pas, une reine l'ordonne ;</l>
+
+	<l id="1353">Respectez ses appas ;</l>
+
+	<l id="1354">Suivez les lois qu'elle vous donne :</l>
+
+	<l id="1355">Monstres, n'avancez pas.</l>
+
+<stage>Les monstres s'arrêtent sitôt que cette voix chante.</stage>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1356">Quel favorable écho, pendant que je soupire,</l>
+
+	<l id="1357">Répète mes frayeurs avec un tel empire ?</l>
+
+	<l id="1358">Et d'où vient que frappés par ces divins accents,</l>
+
+	<l id="1359">Ces monstres tout à coup deviennent impuissants ?</l>
+
+</sp>
+
+<sp who="VOIX"><speaker>LA VOIX.</speaker>
+
+	<l id="1360">C'est l'amour qui fait ce miracle,</l>
+
+	<l id="1361">Et veut plus faire en ta faveur.</l>
+
+	<l id="1362">N'y mets donc point d'obstacle :</l>
+
+	<l id="1363">Aime qui t'aime, et donne coeur pour coeur.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1364">Quel prodige nouveau ! Cet amas de nuages</l>
+
+	<l id="1365">Vient-il dessus ma tête éclater en orages ?</l>
+
+	<l id="1366">Vous qui nous gouvernez, dieux, quel est votre but ?</l>
+
+	<l id="1367">M'annoncez-vous par là ma perte ou mon salut ?</l>
+
+	<l id="1368">Le nuage descend, il s'arrête, il s'entr'ouvre ;</l>
+
+	<l id="1369">Et je vois... Mais, ô dieux, qu'est-ce que j'y découvre ?</l>
+
+	<l id="1370" part="i">Seroit-ce bien le prince ?</l>
+
+</sp>
+
+<stage>Un nuage descend jusqu'à terre, et, s'y séparant en deux moitiés, qui se perdent chacune de son côté, il laisse sur le théâtre le prince Absyrte.</stage>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI. Absyrte, Hypsipyle.</head>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1370" part="f">Oui, madame, c'est lui</l>
+
+	<l id="1371">Dont l'amour vous apporte un ferme et sûr appui :</l>
+
+	<l id="1372">Le même qui pour vous courant à son supplice,</l>
+
+	<l id="1373">Contre un ingrat trop cher a demandé justice,</l>
+
+	<l id="1374">Le même vient encor dissiper votre peur.</l>
+
+	<l id="1375">J'ai parlé contre moi, j'agis contre ma soeur ;</l>
+
+	<l id="1376">Et sitôt que je vois quelque espoir de vous plaire,</l>
+
+	<l id="1377">Je ne me connois plus, je cesse d'être frère.</l>
+
+	<l id="1378">Monstres, disparoissez ; fuyez de ces beaux yeux</l>
+
+	<l id="1379">Que vous avez en vain obsédés en ces lieux.</l>
+
+<stage>Tous les monstres s'envolent ou fondent sous terre, et Absyrte continue.</stage>
+
+	<l id="1380">Et vous, divin objet, n'en ayez plus d'alarmes.</l>
+
+	<l id="1381">Pour détruire le reste, il faudroit d'autres charmes.</l>
+
+	<l id="1382">Contre ceux qu'on pressoit de vous faire périr,</l>
+
+	<l id="1383">Je n'avais que les airs par où vous secourir ;</l>
+
+	<l id="1384">Et d'un art tout-puissant les forces inconnues</l>
+
+	<l id="1385">Ne me laissoient ouvert que le milieu des nues ;</l>
+
+	<l id="1386">Mais le mien, quoique moindre, a pleine autorité</l>
+
+	<l id="1387">De nous faire sortir d'un séjour enchanté.</l>
+
+	<l id="1388" part="i">Allons, madame.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1388" part="f">Allons, prince trop magnanime,</l>
+
+	<l id="1389">Prince digne en effet de toute mon estime.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1390">N'aurez-vous rien de plus pour des voeux si constants ?</l>
+
+	<l id="1391" part="i">Et ne pourrai-je...</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1391" part="f">Allons, et laissez faire au temps.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="4"><head>ACTE IV</head>
+
+<stage>DÉCORATION DU QUATRIÈME ACTE.</stage>
+
+<stage>Ce théâtre horrible fait place à un plus agréable : c'est le désert où Médée à coutume de se retirer pour faire ses enchantements. 
+
+Il est tout de rochers qui laissent sortir de leurs fentes quelques filaments d'herbes rampantes et quelques arbres moitié verts et moitié 
+
+secs ; ces rochers sont d'une pierre blanche et luisante, de sorte que que comme l'autre théâtre était fort chargé d'ombres, le changement 
+
+subit de l'un de l'autre fait qu'il semble qu'on passe de la nuit au jour.</stage>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Absyrte, Médée.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1392">Qui donne cette audace à votre inquiétude,</l>
+
+	<l id="1393">Prince, de me troubler jusqu'en ma solitude ?</l>
+
+	<l id="1394">Avez-vous oublié que dans ces tristes lieux</l>
+
+	<l id="1395">Je ne souffre que moi, les ombres et les dieux,</l>
+
+	<l id="1396">Et qu'étant par mon art consacrés au silence,</l>
+
+	<l id="1397">Aucun ne peut sans crime y mêler sa présence ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1398">De vos bontés, ma soeur, c'est sans doute abuser ;</l>
+
+	<l id="1399">Mais l'ardeur d'un amant a droit de tout oser.</l>
+
+	<l id="1400">C'est elle qui m'amène en ces lieux solitaires,</l>
+
+	<l id="1401">Où votre art fait agir ses plus secrets mystères,</l>
+
+	<l id="1402">Vous demander un charme à détacher un coeur,</l>
+
+	<l id="1403">À dérober une âme à son premier vainqueur.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1404">Hélas ! Cet art, mon frère, impuissant sur les âmes,</l>
+
+	<l id="1405">Ne sait que c'est d'éteindre ou d'allumer des flammes</l>
+
+	<l id="1406">Et s'il a sur le reste un absolu pouvoir,</l>
+
+	<l id="1407">Loin de charmer les coeurs, il n'y sauroit rien voir.</l>
+
+	<l id="1408">Mais n'avancez-vous rien sur celui d'Hypsipyle ?</l>
+
+	<l id="1409">Son péril, son effroi, vous est-il inutile ?</l>
+
+	<l id="1410">Après ce stratagème entre nous concerté,</l>
+
+	<l id="1411">Elle vous croit devoir et vie et liberté ;</l>
+
+	<l id="1412">Et son ingratitude au dernier point éclate,</l>
+
+	<l id="1413">Si d'une ombre d'espoir cet effroi ne vous flatte.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1414">Elle croit qu'en votre art aussi savant que vous,</l>
+
+	<l id="1415">Je prends plaisir pour elle à rabattre vos coups ;</l>
+
+	<l id="1416">Et sans rien soupçonner de tout notre artifice,</l>
+
+	<l id="1417">Elle doit tout, dit-elle, à ce rare service ;</l>
+
+	<l id="1418">Mais à moins toutefois que de perdre l'espoir,</l>
+
+	<l id="1419">Du côté de l'amour rien ne peut l'émouvoir.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1420">L'espoir qu'elle conserve aura peu de durée,</l>
+
+	<l id="1421">Puisque Jason en veut à la toison dorée,</l>
+
+	<l id="1422">Et qu'à la conquérir faire le moindre effort,</l>
+
+	<l id="1423">C'est se livrer soi-même et courir à la mort.</l>
+
+	<l id="1424">Oui, mon frère, prenez un esprit plus tranquille,</l>
+
+	<l id="1425">Si la mort d'un rival vous assure Hypsipyle ;</l>
+
+	<l id="1426" part="i">Et croyez...</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1426" part="f">Ah ! Ma soeur, ce seroit me trahir</l>
+
+	<l id="1427">Que de perdre Jason sans le faire haïr.</l>
+
+	<l id="1428">L'âme de cette reine, à la douleur ouverte,</l>
+
+	<l id="1429">À toute la famille imputeroit sa perte,</l>
+
+	<l id="1430">Et m'envelopperoit dans le juste courroux</l>
+
+	<l id="1431">Qu'elle auroit pour le roi, qu'elle prendroit pour vous.</l>
+
+	<l id="1432">Faites donc qu'il vous aime, afin qu'on le haïsse ;</l>
+
+	<l id="1433">Qu'on regarde sa mort comme un digne supplice.</l>
+
+	<l id="1434">Non que je la souhaite : il s'est vu trop aimé</l>
+
+	<l id="1435">Pour n'en présumer pas votre esprit alarmé ;</l>
+
+	<l id="1436">Je ne veux pas non plus chercher jusqu'en votre âme</l>
+
+	<l id="1437">Les sentiments qu'y laisse une si belle flamme :</l>
+
+	<l id="1438">Arrêtez seulement ce héros sous vos lois,</l>
+
+	<l id="1439">Et disposez sans moi du reste, à votre choix.</l>
+
+	<l id="1440">S'il doit mourir, qu'il meure en amant infidèle ;</l>
+
+	<l id="1441">S'il doit vivre, qu'il vive en esclave rebelle,</l>
+
+	<l id="1442">Et qu'on n'aye aucun lieu, dans l'un ni l'autre sort,</l>
+
+	<l id="1443">Ni de l'aimer vivant, ni de le plaindre mort.</l>
+
+	<l id="1444">C'est ce que je demande à cette amitié pure</l>
+
+	<l id="1445">Qu'avec le jour pour moi vous donna la nature.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1446">Puis-je m'en faire aimer sans l'aimer à mon tour,</l>
+
+	<l id="1447">Et pour un coeur sans foi me souffrir de l'amour ?</l>
+
+	<l id="1448">Puis-je l'aimer, mon frère, au moment qu'il n'aspire</l>
+
+	<l id="1449">Qu'à ce trésor fatal dont dépend votre empire ?</l>
+
+	<l id="1450">Ou si par nos taureaux il se fait déchirer,</l>
+
+	<l id="1451">Voulez-vous que je l'aime, afin de le pleurer ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1452">Aimez, ou n'aimez pas, il suffit qu'il vous aime ;</l>
+
+	<l id="1453">Et quant à ces périls pour notre diadème,</l>
+
+	<l id="1454">Je ne suis pas de ceux dont le crédule esprit</l>
+
+	<l id="1455">S'attache avec scrupule à ce qu'on leur prédit.</l>
+
+	<l id="1456">Je sais qu'on n'entend point de telles prophéties</l>
+
+	<l id="1457">Qu'après que par l'effet elles sont éclaircies ;</l>
+
+	<l id="1458">Et que quoi qu'il en soit, le sceptre de Lemnos</l>
+
+	<l id="1459">A de quoi réparer la perte de Colchos.</l>
+
+	<l id="1460">Ces climats désolés où même la nature</l>
+
+	<l id="1461">Ne tient que de votre art ce qu'elle a de verdure,</l>
+
+	<l id="1462">Où nos plus beaux jardins n'ont ni roses ni lis</l>
+
+	<l id="1463">Dont par votre savoir ils ne soient embellis,</l>
+
+	<l id="1464">Sont-ils à comparer à ces charmantes îles</l>
+
+	<l id="1465">Où nos maux trouveroient de glorieux asiles ?</l>
+
+	<l id="1466">Tomber à bas d'un trône est un sort rigoureux ;</l>
+
+	<l id="1467">Mais quitter l'un pour l'autre est un échange heureux.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1468">Un amant tel que vous, pour gagner ce qu'il aime,</l>
+
+	<l id="1469">Changeroit sans remords d'air et de diadème...</l>
+
+	<l id="1470">Comme j'ai d'autres yeux, j'ai d'autres sentiments,</l>
+
+	<l id="1471">Et ne me règle pas sur vos attachements.</l>
+
+	<l id="1472">Envoyez-moi ma soeur, que je puisse avec elle</l>
+
+	<l id="1473">Pourvoir au doux succès d'une flamme si belle.</l>
+
+	<l id="1474">Ménagez cependant un si cher intérêt :</l>
+
+	<l id="1475">Faites effort à plaire autant comme on vous plaît.</l>
+
+	<l id="1476">Pour Jason, je saurai de sorte m'y conduire,</l>
+
+	<l id="1477">Que soit qu'il vive ou meure, il ne pourra vous nuire.</l>
+
+	<l id="1478">Allez sans perdre temps, et laissez-moi rêver</l>
+
+	<l id="1479">Aux beaux commencements que je veux achever.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1480">Tranquille et vaste solitude,</l>
+
+	<l id="1481">Qu'à votre calme heureux j'ose en vain recourir !</l>
+
+	<l id="1482">Et que la rêverie est mal propre à guérir</l>
+
+	<l id="1483">D'une peine qui plaît la flatteuse habitude !</l>
+
+	<l id="1484">J'en viens soupirer seule au pied de vos rochers ;</l>
+
+	<l id="1485">Et j'y porte avec moi dans mes voeux les plus chers</l>
+
+	<l id="1486">Mes ennemis les plus à craindre :</l>
+
+	<l id="1487">Plus je crois les dompter, plus je leur obéis ;</l>
+
+	<l id="1488">Ma flamme s'en redouble ; et plus je veux l'éteindre,</l>
+
+	<l id="1489">Plus moi-même je m'y trahis.</l>
+
+	<l id="1490">C'est en vain que toute alarmée</l>
+
+	<l id="1491">J'envisage à quels maux expose un inconstant :</l>
+
+	<l id="1492">L'amour tremble à regret dans mon esprit flottant ;</l>
+
+	<l id="1493">Et timide à l'aimer, je meurs d'en être aimée.</l>
+
+	<l id="1494">Ainsi j'adore et crains son manquement de foi ;</l>
+
+	<l id="1495">Je m'offre et me refuse à ce que je prévoi :</l>
+
+	<l id="1496">Son change me plaît et m'étonne.</l>
+
+	<l id="1497">Dans l'espoir le plus doux j'ai tout à soupçonner ;</l>
+
+	<l id="1498">Et bien que tout mon coeur obstinément se donne,</l>
+
+	<l id="1499">Ma raison n'ose me donner.</l>
+
+	<l id="1500">Silence, raison importune ;</l>
+
+	<l id="1501">Est-il temps de parler quand mon coeur s'est donné ?</l>
+
+	<l id="1502">Du bien que tu lui veux ce lâche est si gêné,</l>
+
+	<l id="1503">Que ton meilleur avis lui tient lieu d'infortune.</l>
+
+	<l id="1504">Ce que tu mets d'obstacle à ses desirs mutins</l>
+
+	<l id="1505">Anime leur révolte et le livre aux destins,</l>
+
+	<l id="1506">Contre qui tu prends sa défense :</l>
+
+	<l id="1507">Ton effort odieux ne sert qu'à les hâter ;</l>
+
+	<l id="1508">Et ton cruel secours lui porte par avance</l>
+
+	<l id="1509">Tous les maux qu'il doit redouter.</l>
+
+	<l id="1510">Parle toutefois pour sa gloire ;</l>
+
+	<l id="1511">Donne encor quelques lois à qui te fait la loi :</l>
+
+	<l id="1512">Tyrannise un tyran qui triomphe de toi,</l>
+
+	<l id="1513">Et par un faux trophée usurpe sa victoire.</l>
+
+	<l id="1514">S'il est vrai que l'amour te vole tout mon coeur,</l>
+
+	<l id="1515">Exile de mes yeux cet insolent vainqueur,</l>
+
+	<l id="1516">Dérobe-lui tout mon visage ;</l>
+
+	<l id="1517">Et si mon âme cède à mes feux trop ardents,</l>
+
+	<l id="1518">Sauve tout le dehors du honteux esclavage</l>
+
+	<l id="1519">Qui t'enlève tout le dedans.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Junon, Médée.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1520">L'avez-vous vu, ma soeur, cet amant infidèle ?</l>
+
+	<l id="1521">Que répond-il aux pleurs d'une reine si belle ?</l>
+
+	<l id="1522">Souffre-t-il par pitié qu'ils en fassent un roi ?</l>
+
+	<l id="1523">A-t-il encor le front de vous parler de moi ?</l>
+
+	<l id="1524">Croit-il qu'un tel exemple ait su si peu m'instruire,</l>
+
+	<l id="1525">Qu'il lui laisse encor lieu de me pouvoir séduire ?</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1526">Modérez ces chaleurs de votre esprit jaloux :</l>
+
+	<l id="1527">Prenez des sentiments plus justes et plus doux ;</l>
+
+	<l id="1528">Et sans vous emporter souffrez que je vous die...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1529">Qu'il pense m'acquérir par cette perfidie ?</l>
+
+	<l id="1530">Et que ce qu'il fait voir de tendresse et d'amour,</l>
+
+	<l id="1531">Si j'ose l'accepter, m'en garde une à mon tour ?</l>
+
+	<l id="1532">Un volage, ma soeur, a beau faire et beau dire,</l>
+
+	<l id="1533">On peut toujours douter pour qui son coeur soupire :</l>
+
+	<l id="1534">Sa flamme à tous moments peut prendre un autre cours,</l>
+
+	<l id="1535">Et qui change une fois peut changer tous les jours.</l>
+
+	<l id="1536">Vous, qui vous préparez à prendre sa défense,</l>
+
+	<l id="1537">Savez-vous, après tout, s'il m'aime ou s'il m'offense ?</l>
+
+	<l id="1538">Lisez-vous dans son coeur pour voir ce qui s'y fait,</l>
+
+	<l id="1539">Et si j'ai de ces feux l'apparence ou l'effet ?</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1540">Quoi ? Vous vous offensez d'Hypsipyle quittée !</l>
+
+	<l id="1541">D'Hypsipyle pour vous à vos yeux maltraitée !</l>
+
+	<l id="1542">Vous, son plus cher objet ! Vous de qui hautement</l>
+
+	<l id="1543">En sa présence même il s'est nommé l'amant !</l>
+
+	<l id="1544">C'est mal vous acquitter de la reconnaissance</l>
+
+	<l id="1545">Qu'une autre croiroit due à cette préférence.</l>
+
+	<l id="1546">Voyez mieux qu'un héros si grand, si renommé,</l>
+
+	<l id="1547">Auroit peu fait pour vous, s'il n'avait rien aimé.</l>
+
+	<l id="1548">En ces tristes climats qui n'ont que vous d'aimable,</l>
+
+	<l id="1549">Où rien ne s'offre aux yeux qui vous soit comparable,</l>
+
+	<l id="1550">Un coeur qu'un autre objet ne peut vous disputer</l>
+
+	<l id="1551">Vous porte peu de gloire à se laisser dompter.</l>
+
+	<l id="1552">Mais Hypsipyle est belle, et joint au diadème</l>
+
+	<l id="1553">Un amour assez fort pour mériter qu'on l'aime ;</l>
+
+	<l id="1554">Et quand, malgré son trône, et malgré sa beauté,</l>
+
+	<l id="1555">Et malgré son amour, vous l'avez emporté,</l>
+
+	<l id="1556">Que ne devez-vous point à l'illustre victoire</l>
+
+	<l id="1557">Dont ce choix obligeant vous assure la gloire ?</l>
+
+	<l id="1558">Peut-il de vos attraits faire mieux voir le prix,</l>
+
+	<l id="1559">Que par le don d'un coeur qu'Hypsipyle avait pris ?</l>
+
+	<l id="1560">Pouvez-vous sans chagrin refuser un hommage</l>
+
+	<l id="1561">Qu'une autre lui demande avec tant d'avantage ?</l>
+
+	<l id="1562">Pouvez-vous d'un tel don faire si peu d'état,</l>
+
+	<l id="1563">Sans vouloir être ingrate, et l'être avec éclat ?</l>
+
+	<l id="1564">Si c'est votre dessein, en faisant la cruelle,</l>
+
+	<l id="1565">D'obliger ce héros à retourner vers elle,</l>
+
+	<l id="1566">Vous en pourrez avoir un succès assez prompt ;</l>
+
+	<l id="1567" part="i">Sinon...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1567" part="f">Plutôt la mort qu'un si honteux affront.</l>
+
+	<l id="1568">Je ne souffrirai point qu'Hypsipyle me brave,</l>
+
+	<l id="1569">Et m'enlève ce coeur que j'ai vu mon esclave.</l>
+
+	<l id="1570">Je voudrois avec vous en vain le déguiser ;</l>
+
+	<l id="1571">Quand je l'ai vu pour moi tantôt la mépriser,</l>
+
+	<l id="1572">Qu'à ses yeux, sans nous mettre un moment en balance,</l>
+
+	<l id="1573">Il m'a si hautement donné la préférence,</l>
+
+	<l id="1574">J'ai senti des transports que mon esprit discret</l>
+
+	<l id="1575">Par un soudain adieu n'a cachés qu'à regret.</l>
+
+	<l id="1576">Je ne croirai jamais qu'il soit douceur égale</l>
+
+	<l id="1577">À celle de se voir immoler sa rivale,</l>
+
+	<l id="1578">Qu'il soit pareille joie ; et je mourrois, ma soeur,</l>
+
+	<l id="1579">S'il falloit qu'à son tour elle eût même douceur.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1580">Quoi ? Pour vous cette honte est un malheur extrême ?</l>
+
+	<l id="1581" part="i">Ah ! Vous l'aimez encor.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1581" part="f">Non ; mais je veux qu'il m'aime.</l>
+
+	<l id="1582">Je veux, pour éviter un si mortel ennui,</l>
+
+	<l id="1583">Le conserver à moi, sans me donner à lui,</l>
+
+	<l id="1584">L'arrêter sous mes lois, jusqu'à ce qu'Hypsipyle</l>
+
+	<l id="1585">Lui rende de son coeur la conquête inutile,</l>
+
+	<l id="1586">Et que le prince Absyrte, ayant reçu sa foi,</l>
+
+	<l id="1587">L'ait mise hors d'état de triompher de moi.</l>
+
+	<l id="1588">Lors, par un juste exil punissant l'infidèle,</l>
+
+	<l id="1589">Je n'aurai plus de peur qu'il me traite comme elle ;</l>
+
+	<l id="1590">Et je saurai sur lui nous venger toutes deux,</l>
+
+	<l id="1591">Sitôt qu'il n'aura plus à qui porter ses voeux.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1592">Vous vous promettez plus que vous ne voudrez faire,</l>
+
+	<l id="1593">Et vous n'en croirez pas toute cette colère.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1594">Je ferai plus encor que je ne me promets,</l>
+
+	<l id="1595">Si vous pouvez, ma soeur, quitter ses intérêts.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1596">Quelques chers qu'ils me soient, je veux bien m'y contraindre,</l>
+
+	<l id="1597">Et pour mieux vous ôter tout sujet de me craindre,</l>
+
+	<l id="1598">Le voilà qui paroît, je vous laisse avec lui.</l>
+
+	<l id="1599">Vous me rappellerez, s'il a besoin d'appui.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Jason, Médée.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1600">êtes-vous prêt, Jason, d'entrer dans la carrière ?</l>
+
+	<l id="1601">Faut-il du champ de Mars vous ouvrir la barrière,</l>
+
+	<l id="1602">Vous donner nos taureaux pour tracer des sillons</l>
+
+	<l id="1603">D'où naîtront contre vous de soudains bataillons ?</l>
+
+	<l id="1604">Pour dompter ces taureaux et vaincre ces gensdarmes,</l>
+
+	<l id="1605">Avez-vous d'Hypsipyle emprunté quelques charmes ?</l>
+
+	<l id="1606">Je ne demande point quel est votre souci ;</l>
+
+	<l id="1607">Mais si vous la cherchez, elle n'est pas ici ;</l>
+
+	<l id="1608">Et tandis qu'en ces lieux vous perdez votre peine,</l>
+
+	<l id="1609">Mon frère vous pourroit enlever cette reine.</l>
+
+	<l id="1610">Jason, prenez-y garde, il faut moins s'éloigner</l>
+
+	<l id="1611">D'un objet qu'un rival s'efforce de gagner,</l>
+
+	<l id="1612">Et prêter un peu moins les faveurs de l'absence</l>
+
+	<l id="1613">À ce qui peut entre eux naître d'intelligence.</l>
+
+	<l id="1614">Mais j'ai tort, je l'avoue, et je raisonne mal :</l>
+
+	<l id="1615">Vous êtes trop aimé pour craindre un tel rival ;</l>
+
+	<l id="1616">Vous n'avez qu'à paroître, et sans autre artifice,</l>
+
+	<l id="1617">Un coup d'oeil détruira ce qu'il rend de service.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1618">Qu'un si cruel reproche à mon coeur seroit doux</l>
+
+	<l id="1619">S'il avait pu partir d'un sentiment jaloux,</l>
+
+	<l id="1620">Et si par cette injuste et douteuse colère</l>
+
+	<l id="1621">Je pouvois m'assurer de ne vous pas déplaire !</l>
+
+	<l id="1622">Sans raison toutefois j'ose m'en défier ;</l>
+
+	<l id="1623">Il ne me faut que vous pour me justifier.</l>
+
+	<l id="1624">Vous avez trop bien vu l'effet de vos mérites</l>
+
+	<l id="1625">Pour garder un soupçon de ce que vous me dites ;</l>
+
+	<l id="1626">Et du change nouveau que vous me supposez</l>
+
+	<l id="1627">Vous me défendez mieux que vous ne m'accusez.</l>
+
+	<l id="1628">Si vous avez pour moi vu l'amour d'Hypsipyle,</l>
+
+	<l id="1629">Vous n'avez pas moins vu sa constance inutile :</l>
+
+	<l id="1630">Que ses plus doux attraits, pour qui j'avais brûlé,</l>
+
+	<l id="1631">N'ont rien que mon amour ne vous aye immolé ;</l>
+
+	<l id="1632">Que toute sa beauté rehausse votre gloire,</l>
+
+	<l id="1633">Et que son sceptre même enfle votre victoire :</l>
+
+	<l id="1634">Ce sont des vérités que vous vous dites mieux,</l>
+
+	<l id="1635">Et j'ai tort de parler où vous avez des yeux.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1636">Oui, j'ai des yeux, ingrat, meilleurs que tu ne penses,</l>
+
+	<l id="1637">Et vois jusqu'en ton coeur tes fausses préférences.</l>
+
+	<l id="1638">Hypsipyle à ma vue a reçu des mépris ;</l>
+
+	<l id="1639">Mais quand je n'y suis plus, qu'est-ce que tu lui dis ?</l>
+
+	<l id="1640">Explique, explique encor ce soupir tout de flamme</l>
+
+	<l id="1641">Qui vers ce cher objet poussoit toute ton âme,</l>
+
+	<l id="1642">Et fais-moi concevoir jusqu'où vont tes malheurs</l>
+
+	<l id="1643">De soupirer pour elle et de prétendre ailleurs.</l>
+
+	<l id="1644">Redis-moi les raisons dont tu l'as apaisée,</l>
+
+	<l id="1645">Dont jusqu'à me braver tu l'as autorisée :</l>
+
+	<l id="1646">Qu'il te faut la toison pour revoir tes parents,</l>
+
+	<l id="1647">Qu'à ce prix je te plais, qu'à ce prix tu te vends.</l>
+
+	<l id="1648">Je tenois cher le don d'une amour si parfaite ;</l>
+
+	<l id="1649">Mais puisque tu te vends, va chercher qui t'achète,</l>
+
+	<l id="1650">Perfide, et porte ailleurs cette vénale foi</l>
+
+	<l id="1651">Qu'obtiendroit ma rivale à même prix que moi.</l>
+
+	<l id="1652">Il est, il est encor des âmes toutes prêtes</l>
+
+	<l id="1653">À recevoir mes lois et grossir mes conquêtes ;</l>
+
+	<l id="1654">Il est encor des rois dont je fais le desir ;</l>
+
+	<l id="1655">Et si parmi tes Grecs il me plaît de choisir,</l>
+
+	<l id="1656">Il en est d'attachés à ma seule personne,</l>
+
+	<l id="1657">Qui n'ont jamais su l'art d'être à qui plus leur donne,</l>
+
+	<l id="1658">Qui trop contents d'un coeur dont tu fais peu de cas,</l>
+
+	<l id="1659">Méritent la toison qu'ils ne demandent pas,</l>
+
+	<l id="1660">Et que pour toi mon âme, hélas ! Trop enflammée,</l>
+
+	<l id="1661">Auroit pu te donner, si tu m'avais aimée.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1662">Ah ! Si le pur amour peut mériter ce don,</l>
+
+	<l id="1663">À qui peut-il, madame, être dû qu'à Jason ?</l>
+
+	<l id="1664">Ce refus surprenant que vous m'avez vu faire,</l>
+
+	<l id="1665">D'une vénale ardeur n'est pas le caractère.</l>
+
+	<l id="1666">Le trône qu'à vos yeux j'ai traité de mépris</l>
+
+	<l id="1667">En seroit pour tout autre un assez digne prix ;</l>
+
+	<l id="1668">Et rejeter pour vous l'offre d'un diadème,</l>
+
+	<l id="1669">Si ce n'est vous aimer, j'ignore comme on aime.</l>
+
+	<l id="1670">Je ne me défends point d'une civilité</l>
+
+	<l id="1671">Que du bandeau royal vouloit la majesté.</l>
+
+	<l id="1672">Abandonnant pour vous une reine si belle,</l>
+
+	<l id="1673">J'ai poussé par pitié quelques soupirs vers elle :</l>
+
+	<l id="1674">J'ai voulu qu'elle eût lieu de se dire en secret</l>
+
+	<l id="1675">Que je change par force et la quitte à regret ;</l>
+
+	<l id="1676">Que satisfaite ainsi de son propre mérite,</l>
+
+	<l id="1677">Elle se consolât de tout ce qui l'irrite ;</l>
+
+	<l id="1678">Et que l'appas flatteur de cette illusion</l>
+
+	<l id="1679">La vengeât un moment de sa confusion.</l>
+
+	<l id="1680">Mais quel crime ont commis ces compliments frivoles ?</l>
+
+	<l id="1681">Des paroles enfin ne sont que des paroles ;</l>
+
+	<l id="1682">Et quiconque possède un coeur comme le mien</l>
+
+	<l id="1683">Doit se mettre au-dessus d'un pareil entretien.</l>
+
+	<l id="1684">Je n'examine point, après votre menace,</l>
+
+	<l id="1685">Quelle foule d'amants brigue chez vous ma place.</l>
+
+	<l id="1686">Cent rois, si vous voulez, vous consacrent leurs voeux :</l>
+
+	<l id="1687">Je le crois ; mais aussi je suis roi si je veux ;</l>
+
+	<l id="1688">Et je n'avance rien touchant le diadème</l>
+
+	<l id="1689">Dont il faille chercher de témoins que vous-même.</l>
+
+	<l id="1690">Si par le choix d'un roi vous pouvez me punir,</l>
+
+	<l id="1691">Je puis vous imiter, je puis vous prévenir ;</l>
+
+	<l id="1692">Et si je me bannis par là de ma patrie,</l>
+
+	<l id="1693">Un exil couronné peut faire aimer la vie.</l>
+
+	<l id="1694">Mille autres en ma place, au lieu de s'alarmer...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1695">Eh bien ! Je t'aimerai, s'il ne faut que t'aimer :</l>
+
+	<l id="1696">Malgré tous ces héros, malgré tous ces monarques,</l>
+
+	<l id="1697">Qui m'ont de leur amour donné d'illustres marques,</l>
+
+	<l id="1698">Malgré tout ce qu'ils ont et de coeur et de foi,</l>
+
+	<l id="1699">Je te préfère à tous, si tu ne veux que moi.</l>
+
+	<l id="1700">Fais voir, en renonçant à ta chère patrie,</l>
+
+	<l id="1701">Qu'un exil avec moi peut faire aimer la vie,</l>
+
+	<l id="1702">Ose prendre à ce prix le nom de mon époux.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1703">Oui, madame, à ce prix tout exil m'est trop doux ;</l>
+
+	<l id="1704">Mais je veux être aimé, je veux pouvoir le croire ;</l>
+
+	<l id="1705">Et vous ne m'aimez pas, si vous n'aimez ma gloire.</l>
+
+	<l id="1706">L'ordre de mon destin l'attache à la toison :</l>
+
+	<l id="1707">C'est d'elle que dépend tout l'honneur de Jason.</l>
+
+	<l id="1708">Ah ! Si le ciel l'eût mise au pouvoir d'Hypsipyle,</l>
+
+	<l id="1709">Que j'en aurois trouvé la conquête facile !</l>
+
+	<l id="1710">Ma passion pour vous a beau l'abandonner,</l>
+
+	<l id="1711">Elle m'offre encor tout ce qu'elle peut donner ;</l>
+
+	<l id="1712">Malgré mon inconstance, elle aime sans réserve.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1713">Et moi, je n'aime point, à moins que je te serve ?</l>
+
+	<l id="1714">Cherche un autre prétexte à lui rendre ta foi ;</l>
+
+	<l id="1715">J'aurai soin de ta gloire aussi bien que de toi.</l>
+
+	<l id="1716">Si ce noble intérêt te donne tant d'alarmes,</l>
+
+	<l id="1717">Tiens, voilà de quoi vaincre et taureaux et gensdarmes ;</l>
+
+	<l id="1718">Laisse à tes compagnons combattre le dragon :</l>
+
+	<l id="1719">Ils veulent comme toi leur part à la toison ;</l>
+
+	<l id="1720">Et comme ainsi qu'à toi la gloire leur est chère,</l>
+
+	<l id="1721">Ils ne sont pas ici pour te regarder faire.</l>
+
+	<l id="1722">Zéthès et Calaïs, ces héros emplumés,</l>
+
+	<l id="1723">Qu'aux routes des oiseaux leur naissance a formés,</l>
+
+	<l id="1724">Y préparent déjà leurs ailes enhardies</l>
+
+	<l id="1725">D'avoir pour coup d'essai triomphé des Harpies ;</l>
+
+	<l id="1726">Orphée avec ses chants se promet le bonheur</l>
+
+	<l id="1727" part="i">D'assoupir...</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1727" part="f">Ah ! Madame, ils auront tout l'honneur,</l>
+
+	<l id="1728">Ou du moins j'aurai part moi-même à leur défaite,</l>
+
+	<l id="1729">Si je laisse comme eux la conquête imparfaite :</l>
+
+	<l id="1730">Il me la faut entière ; et je veux vous devoir...</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="1731">Va, laisse quelque chose, ingrat, en mon pouvoir ;</l>
+
+	<l id="1732">J'en ai déjà trop fait pour une âme infidèle.</l>
+
+	<l id="1733">Adieu. Je vois ma soeur : délibère avec elle ;</l>
+
+	<l id="1734">Et songe qu'après tout ce coeur que je te rends,</l>
+
+	<l id="1735">S'il accepte un vainqueur, ne veut point de tyrans ;</l>
+
+	<l id="1736">Que s'il aime ses fers, il hait tout esclavage ;</l>
+
+	<l id="1737">Qu'on perd souvent l'acquis à vouloir davantage ;</l>
+
+	<l id="1738">Qu'il faut subir la loi de qui peut obliger ;</l>
+
+	<l id="1739">Et que qui veut un don ne doit pas l'exiger.</l>
+
+	<l id="1740">Je ne te dis plus rien : va rejoindre Hypsipyle,</l>
+
+	<l id="1741">Va reprendre auprès d'elle un destin plus tranquille ;</l>
+
+	<l id="1742">Ou si tu peux, volage, encor la dédaigner,</l>
+
+	<l id="1743">Choisis en d'autres lieux qui te fasse régner.</l>
+
+	<l id="1744">Je n'ai pour t'acheter sceptres ni diadèmes ;</l>
+
+	<l id="1745">Mais telle que je suis, crains-moi, si tu ne m'aimes.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Junon, jason, L'Amour.</head>
+
+<stage>L'amour est dans le ciel de Vénus.</stage>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1746">À bien examiner l'éclat de ce grand bruit,</l>
+
+	<l id="1747">Hypsipyle vous sert plus qu'elle ne vous nuit.</l>
+
+	<l id="1748">Ce n'est pas qu'après tout ce courroux ne m'étonne :</l>
+
+	<l id="1749">Médée à sa fureur un peu trop s'abandonne.</l>
+
+	<l id="1750">L'amour tient assez mal ce qu'il m'avait promis,</l>
+
+	<l id="1751">Et peut-être avez-vous trop de dieux ennemis.</l>
+
+	<l id="1752">Tous veulent à l'envi faire la destinée</l>
+
+	<l id="1753">Dont se doit signaler cette grande journée :</l>
+
+	<l id="1754">Tous se sont assemblés exprès chez Jupiter,</l>
+
+	<l id="1755">Pour en résoudre l'ordre, ou pour le contester ;</l>
+
+	<l id="1756">Et je vous plains, si ceux qui daignoient vous défendre</l>
+
+	<l id="1757">Au plus nombreux parti sont forcés de se rendre.</l>
+
+	<l id="1758">Le ciel s'ouvre, et pourra nous donner quelque jour :</l>
+
+	<l id="1759">C'est celui de Vénus, j'y vois encor l'amour ;</l>
+
+	<l id="1760">Et puisqu'il n'en est pas, toute cette assemblée</l>
+
+	<l id="1761">Par sa rébellion pourra se voir troublée.</l>
+
+	<l id="1762">Il veut parler à nous : écoutez quel appui</l>
+
+	<l id="1763">Le trouble où je vous vois peut espérer de lui.</l>
+
+</sp>
+
+<stage>Le ciel s'ouvre et fait voior le palais de Vénus , composé de Termes à face humaine et revêtus de gazes d'or, qui lui servent de colonnes ; le lambris n'en est pas moins riche. L'Amour y araît seul, et sitôt qu'il a parlé, il s'élance ne l'air, et traverse le théâtre en volant, non pas d'un côté à l'autre, comme se font les vols ordinaires, mais d'un bout à l'autre, en tirant vers les spectateurs, ce qui n'a point encore été pratique en France de cette manière.</stage>
+
+<sp who="AMOUR"><speaker>L'AMOUR.</speaker>
+
+	<l id="1764">Cessez de m'accuser, soupçonneuse déesse ; </l>
+
+	<l id="1765">Je sais tenir promesse :</l>
+
+	<l id="1766">C'est en vain que les dieux s'assemblent chez leur roi ;</l>
+
+	<l id="1767">Je vais bien leur faire connoître</l>
+
+	<l id="1768">Que je suis, quand je veux, leur véritable maître,</l>
+
+	<l id="1769">Et que de ce grand jour le destin est à moi.</l>
+
+	<l id="1770">Toi, si tu sais aimer, ne crains rien de funeste ;</l>
+
+	<l id="1771">Obéis à Médée, et j'aurai soin du reste.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1772">Ces favorables mots vous ont rendu le coeur.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1773">Mon espoir abattu reprend d'eux sa vigueur.</l>
+
+	<l id="1774">Allons, déesse, allons, et sûrs de l'entreprise,</l>
+
+	<l id="1775">Reportons à Médée une âme plus soumise.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="1776">Allons, je veux encor seconder vos projets,</l>
+
+	<l id="1777">Sans remonter au ciel qu'après leurs pleins effets.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="5"><head>ACTE V</head>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Absyrte, Hypsipyle.</head>
+
+<stage>DÉCORATION DU CINQUIÈME ACTE.</stage>
+
+<stage>Ce dernier spectacle présente à la vue une forêt épaisse, composée de divers arbres entrelacés ensemble, et si touffus qu'il est 
+
+aisé de juger que le respect qu'on porte au dieu Mars, à qui elle est consacrée, fait qu'on n'ose en couper aucune branche, ni même brosser 
+
+au travers : les trophées d'armes appendus en haut de la plupart des arbres marquent encore plus particlièrement qu'elle appartient à ce dieu. La Toison d'or est sur le plus élevé, qu'on voit seul de son rang, au milieu de cette forêt, et la perspective du fond fait paraître en éloignement la rivière du Phase, avec le navire Argo, qui semble n'attendre plus que jason et sa conqupte pour partir.</stage>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1778">Voilà ce prix fameux où votre ingrat aspire,</l>
+
+	<l id="1779">Ce gage où les destins attachent notre empire,</l>
+
+	<l id="1780">Cette toison enfin, dont Mars est si jaloux :</l>
+
+	<l id="1781">Chacun impunément la peut voir comme nous ;</l>
+
+	<l id="1782">Ce monstrueux dragon, dont les fureurs la gardent,</l>
+
+	<l id="1783">Semble exprès se cacher aux yeux qui la regardent ;</l>
+
+	<l id="1784">Il laisse agir sans crainte un curieux desir,</l>
+
+	<l id="1785">Et ne fond que sur ceux qui s'en veulent saisir.</l>
+
+	<l id="1786">Lors, d'un cri qui suffit à punir tout leur crime,</l>
+
+	<l id="1787">Sous leur pied téméraire il ouvre un noir abîme,</l>
+
+	<l id="1788">À moins qu'on n'ait déjà mis au joug nos taureaux,</l>
+
+	<l id="1789">Et fait mordre la terre aux escadrons nouveaux</l>
+
+	<l id="1790">Que des dents d'un serpent la semence animée</l>
+
+	<l id="1791">Doit opposer sur l'heure à qui l'aura semée :</l>
+
+	<l id="1792">Sa voix perdant alors cet effroyable éclat,</l>
+
+	<l id="1793">Contre les ravisseurs le réduit au combat.</l>
+
+	<l id="1794">Telles furent les lois que Circé par ses charmes</l>
+
+	<l id="1795">Sut faire à ce dragon, aux taureaux, aux gensdarmes :</l>
+
+	<l id="1796">Circé, soeur de mon père, et fille du soleil,</l>
+
+	<l id="1797">Circé, de qui ma soeur tient cet art sans pareil</l>
+
+	<l id="1798">Dont tantôt à vous perdre eût abusé sa rage,</l>
+
+	<l id="1799">Si ce peu que du ciel j'en eus pour mon partage,</l>
+
+	<l id="1800">Et que je vous consacre aussi bien que mes jours,</l>
+
+	<l id="1801">Par le milieu des airs n'eût porté du secours.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1802">Je n'oublierai jamais que sa jalouse envie</l>
+
+	<l id="1803">Se fût sans vos bontés sacrifié ma vie ;</l>
+
+	<l id="1804">Et pour dire encor plus, ce penser m'est si doux,</l>
+
+	<l id="1805">Que si j'étois à moi, je voudrois être à vous.</l>
+
+	<l id="1806">Mais un reste d'amour retient dans l'impuissance</l>
+
+	<l id="1807">Ces sentiments d'estime et de reconnaissance.</l>
+
+	<l id="1808">J'ai peine, je l'avoue, à me le pardonner ;</l>
+
+	<l id="1809">Mais enfin je dois tout, et n'ai rien à donner.</l>
+
+	<l id="1810">Ce qu'à vos yeux surpris Jason m'a fait d'outrage</l>
+
+	<l id="1811">N'a pas encor rompu cette foi qui m'engage ;</l>
+
+	<l id="1812">Et malgré les mépris qu'il en montre aujourd'hui,</l>
+
+	<l id="1813">Tant qu'il peut être à moi, je suis encore à lui.</l>
+
+	<l id="1814">Mon espoir chancelant dans mon âme inquiète</l>
+
+	<l id="1815">Ne veut pas lui prêter l'exemple qu'il souhaite,</l>
+
+	<l id="1816">Ni que cet infidèle ait de quoi se vanter</l>
+
+	<l id="1817">Qu'il ne se donne ailleurs qu'afin de m'imiter.</l>
+
+	<l id="1818">Pour changer avec gloire il faut qu'il me prévienne,</l>
+
+	<l id="1819">Que sa foi violée ait dégagé la mienne,</l>
+
+	<l id="1820">Et que l'hymen ait joint aux mépris qu'il en fait</l>
+
+	<l id="1821">D'un entier changement l'irrévocable effet.</l>
+
+	<l id="1822">Alors par son parjure à moi-même rendue,</l>
+
+	<l id="1823">Mes sentiments d'estime auront plus d'étendue ;</l>
+
+	<l id="1824">Et dans la liberté de faire un second choix,</l>
+
+	<l id="1825">Je saurai mieux penser à ce que je vous dois.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1826">Je ne sais si ma soeur voudra prendre assurance</l>
+
+	<l id="1827">Sur des serments trompeurs que rompt son inconstance ;</l>
+
+	<l id="1828">Mais je suis sûr qu'à moins qu'elle rompe son sort,</l>
+
+	<l id="1829">Ce que feroit l'hymen vous l'aurez par sa mort.</l>
+
+	<l id="1830">Il combat nos taureaux, et telle est leur furie,</l>
+
+	<l id="1831">Qu'il faut qu'il y périsse, ou lui doive la vie.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1832">Il combat vos taureaux ! Ah ! Que me dites-vous ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1833">Qu'il n'en peut plus sortir que mort, ou son époux.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1834">Ah ! Prince, votre soeur peut croire encor qu'il m'aime,</l>
+
+	<l id="1835">Et sur ce faux soupçon se venger elle-même.</l>
+
+	<l id="1836">Pour bien rompre le coup d'un malheur si pressant,</l>
+
+	<l id="1837">Peut-être que son art n'est pas assez puissant :</l>
+
+	<l id="1838">De grâce en ma faveur joignez-y tout le vôtre ;</l>
+
+	<l id="1839" part="i">Et si...</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1839" part="f">Quoi ? Vous voulez qu'il vive pour un autre ?</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1840">Oui, qu'il vive, et laissons tout le reste au hasard.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1841">Ah ! Reine, en votre coeur il garde trop de part ;</l>
+
+	<l id="1842">Et s'il faut vous parler avec une âme ouverte,</l>
+
+	<l id="1843">Vous montrez trop d'amour pour empêcher sa perte.</l>
+
+	<l id="1844">Votre rivale et moi nous en sommes d'accord :</l>
+
+	<l id="1845">À moins que vous m'aimiez, votre Jason est mort.</l>
+
+	<l id="1846">Ma soeur n'a pas pour vous un sentiment si tendre,</l>
+
+	<l id="1847">Qu'elle aime à le sauver afin de vous le rendre ;</l>
+
+	<l id="1848">Et je ne suis pas homme à servir mon rival,</l>
+
+	<l id="1849">Quand vous rendez pour moi mon secours si fatal.</l>
+
+	<l id="1850">Je ne le vois que trop, pour prix de mes services</l>
+
+	<l id="1851">Vous destinez mon âme à de nouveaux supplices.</l>
+
+	<l id="1852">C'est m'immoler à lui que de le secourir ;</l>
+
+	<l id="1853">Et lui sauver le jour, c'est me faire périr.</l>
+
+	<l id="1854">Puisqu'il faut qu'un des deux cesse aujourd'hui de vivre,</l>
+
+	<l id="1855">Je vais hâter sa perte, où lui-même il se livre :</l>
+
+	<l id="1856">Je veux bien qu'on l'impute à mon dépit jaloux ;</l>
+
+	<l id="1857">Mais vous, qui m'y forcez, ne l'imputez yu'à vous.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1858">Ce reste d'intérêt que je prends en sa vie</l>
+
+	<l id="1859">Donne trop d'aigreur, prince, à votre jalousie.</l>
+
+	<l id="1860">Ce qu'on a bien aimé, l'on ne peut le haïr</l>
+
+	<l id="1861">Jusqu'à le vouloir perdre, ou jusqu'à le trahir.</l>
+
+	<l id="1862">Ce vif ressentiment qu'excite l'inconstance</l>
+
+	<l id="1863">N'emporte pas toujours jusques à la vengeance ;</l>
+
+	<l id="1864">Et quand même on la cherche, il arrive souvent</l>
+
+	<l id="1865">Qu'on plaint mort un ingrat qu'on détestoit vivant.</l>
+
+	<l id="1866">Quand je me défendois sur la foi qui m'engage,</l>
+
+	<l id="1867">Je voulois à vos feux épargner cet ombrage ;</l>
+
+	<l id="1868">Mais puisque le péril a fait parler l'amour,</l>
+
+	<l id="1869">Je veux bien qu'il éclate et se montre en plein jour.</l>
+
+	<l id="1870">Oui, j'aime encor Jason, et l'aimerai sans doute</l>
+
+	<l id="1871">Jusqu'à l'hymen fatal que ma flamme redoute.</l>
+
+	<l id="1872">Je regarde son coeur encor comme mon bien,</l>
+
+	<l id="1873">Et donnerois encor tout mon sang pour le sien.</l>
+
+	<l id="1874">Vous m'aimez, et j'en suis assez persuadée</l>
+
+	<l id="1875">Pour me donner à vous, s'il se donne à Médée ;</l>
+
+	<l id="1876">Mais si par jalousie ou par raison d'état,</l>
+
+	<l id="1877">Vous le laissez tous deux périr dans ce combat,</l>
+
+	<l id="1878">N'attendez rien de moi que ce qu'ose la rage</l>
+
+	<l id="1879">Quand elle est une fois maîtresse d'un courage,</l>
+
+	<l id="1880">Que les pleines fureurs d'un désespoir d'amour.</l>
+
+	<l id="1881">Vous me faites trembler, tremblez à votre tour :</l>
+
+	<l id="1882">Prenez soin de sa vie, ou perdez cette reine ;</l>
+
+	<l id="1883">Et si je crains sa mort, craignez aussi ma haine.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Aaete, Absyrte, Hypsipyle.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1884">Ah ! Madame, est-ce là cette fidélité</l>
+
+	<l id="1885">Que vous gardez aux droits de l'hospitalité ?</l>
+
+	<l id="1886">Quand pour vous je m'oppose aux destins de ma fille,</l>
+
+	<l id="1887">À l'espoir de mon fils, aux voeux de ma famille,</l>
+
+	<l id="1888">Quand je presse un héros de vous rendre sa foi,</l>
+
+	<l id="1889">Vous prêtez à son bras des charmes contre moi ;</l>
+
+	<l id="1890">De sa témérité vous vous faites complice</l>
+
+	<l id="1891">Pour renverser un trône où je vous fais justice :</l>
+
+	<l id="1892">Comme si c'étoit peu de posséder Jason,</l>
+
+	<l id="1893">Si pour don nuptial il n'avait la toison ;</l>
+
+	<l id="1894">Et que sa foi vous fût indignement offerte,</l>
+
+	<l id="1895">À moins que son destin éclatât par ma perte !</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1896">Je ne sais pas, seigneur, à quel point vous réduit</l>
+
+	<l id="1897">Cette témérité de l'ingrat qui me fuit ;</l>
+
+	<l id="1898">Mais je sais que mon coeur ne joint à son envie</l>
+
+	<l id="1899">Qu'un timide souhait en faveur de sa vie ;</l>
+
+	<l id="1900">Et que si je savois ce grand art de charmer,</l>
+
+	<l id="1901">Je ne m'en servirois que pour m'en faire aimer.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1902">Ah ! Je n'ai que trop cru vos plaintes ajustées</l>
+
+	<l id="1903">À des illusions entre vous concertées ;</l>
+
+	<l id="1904">Et les dehors trompeurs d'un dédain préparé</l>
+
+	<l id="1905">N'ont que trop ébloui mon oeil mal éclairé.</l>
+
+	<l id="1906">Oui, trop d'ardeur pour vous, et trop peu de lumière</l>
+
+	<l id="1907">M'ont conduit en aveugle à ma ruine entière.</l>
+
+	<l id="1908">Ce pompeux appareil que soutenoient les vents,</l>
+
+	<l id="1909">Ces tritons tout autour rangés comme suivants,</l>
+
+	<l id="1910">Montroient bien qu'en ces lieux vous n'étiez abordée</l>
+
+	<l id="1911">Que par un art plus fort que celui de Médée.</l>
+
+	<l id="1912">D'un naufrage affecté l'histoire sans raison</l>
+
+	<l id="1913">Déguisoit le secours amené pour Jason ;</l>
+
+	<l id="1914">Et vos pleurs ne sembloient m'en demander vengeance</l>
+
+	<l id="1915">Que pour mieux faire place à votre intelligence.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1916">Que ne sont vos soupçons autant de vérités,</l>
+
+	<l id="1917">Et que ne puis-je ici ce que vous m'imputez !</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1918">Qu'a fait Jason, seigneur, et quel mal vous menace,</l>
+
+	<l id="1919">Quand nous voyons encor la toison en sa place ?</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1920">Nos taureaux sont domptés, nos gensdarmes défaits,</l>
+
+	<l id="1921">Absyrte : après cela crains les derniers effets.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1922" part="i">Quoi ? Son bras...</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1922" part="f">Oui, son bras, secondé par ses charmes,</l>
+
+	<l id="1923">A dompté nos taureaux et défait nos gensdarmes :</l>
+
+	<l id="1924">Juge si le dragon pourra faire plus qu'eux !</l>
+
+	<l id="1925">Ils ont poussé d'abord de gros torrents de feux ;</l>
+
+	<l id="1926">Ils l'ont enveloppé d'une épaisse fumée,</l>
+
+	<l id="1927">Dont sur toute la plaine une nuit s'est formée ;</l>
+
+	<l id="1928">Mais après ce nuage en l'air évaporé,</l>
+
+	<l id="1929">On les a vus au joug et le champ labouré :</l>
+
+	<l id="1930">Lui, sans aucun effroi, comme maître paisible,</l>
+
+	<l id="1931">Jetoit dans les sillons cette semence horrible,</l>
+
+	<l id="1932">D'où s'élève aussitôt un escadron armé,</l>
+
+	<l id="1933">Par qui de tous côtés il se trouve enfermé.</l>
+
+	<l id="1934">Tous n'en veulent qu'à lui ; mais son âme plus fière</l>
+
+	<l id="1935">Ne daigne contre eux tous s'armer que de poussière.</l>
+
+	<l id="1936">À peine il la répand, qu'une commune erreur</l>
+
+	<l id="1937">D'eux tous, l'un contre l'autre, anime la fureur,</l>
+
+	<l id="1938">Ils s'entr'immolent tous au commun adversaire :</l>
+
+	<l id="1939">Tous pensent le percer, quand ils percent leur frère ;</l>
+
+	<l id="1940">Leur sang partout regorge, et Jason au milieu</l>
+
+	<l id="1941">Reçoit ce sacrifice en posture d'un dieu ;</l>
+
+	<l id="1942">Et la terre, en courroux de n'avoir pu lui nuire,</l>
+
+	<l id="1943">Rengloutit l'escadron qu'elle vient de produire.</l>
+
+	<l id="1944">On va bientôt, madame, achever à vos yeux</l>
+
+	<l id="1945">Ce qu'ébauche par là votre abord en ces lieux.</l>
+
+	<l id="1946">Soit Jason, soit Orphée, ou les fils de Borée,</l>
+
+	<l id="1947">Ou par eux ou par lui ma perte est assurée ;</l>
+
+	<l id="1948">Et l'on va faire hommage à votre heureux secours</l>
+
+	<l id="1949">Du destin de mon sceptre et de mes tristes jours.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1950">Connoissez mieux, seigneur, la main qui vous offense ;</l>
+
+	<l id="1951">Et lorsque je perds tout, laissez-moi l'innocence.</l>
+
+	<l id="1952">L'ingrat qui me trahit est secouru d'ailleurs.</l>
+
+	<l id="1953">Ce n'est que de chez vous que partent vos malheurs,</l>
+
+	<l id="1954">Chez vous en est la source ; et Médée elle-même</l>
+
+	<l id="1955">Rompt son art par son art, pour plaire à ce qu'elle aime.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1956">Ne l'en accusez point, elle hait trop Jason.</l>
+
+	<l id="1957">De sa haine, seigneur, vous savez la raison :</l>
+
+	<l id="1958">La toison préférée aigrit trop son courage</l>
+
+	<l id="1959">Pour craindre qu'il en tienne un si grand avantage ;</l>
+
+	<l id="1960">Et si contre son art ce prince a réussi,</l>
+
+	<l id="1961">C'est qu'on le sait en Grèce autant ou plus qu'ici.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1962">Ah ! Que tu connois mal jusqu'à quelle manie</l>
+
+	<l id="1963">D'un amour déréglé passe la tyrannie !</l>
+
+	<l id="1964">Il n'est rang, ni pays, ni père, ni pudeur,</l>
+
+	<l id="1965">Qu'épargne de ses feux l'impérieuse ardeur.</l>
+
+	<l id="1966">Jason plut à Médée, et peut encor lui plaire ;</l>
+
+	<l id="1967">Peut-être es-tu toi-même ennemi de ton père,</l>
+
+	<l id="1968">Et consens que ta soeur, par ce présent fatal,</l>
+
+	<l id="1969">S'assure d'un amant qui seroit ton rival.</l>
+
+	<l id="1970">Tout mon sang révolté trahit mon espérance :</l>
+
+	<l id="1971">Je trouve ma ruine où fut mon assurance ;</l>
+
+	<l id="1972">Le destin ne me perd que par l'ordre des miens,</l>
+
+	<l id="1973">Et mon trône est brisé par ses propres soutiens.</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="1974">Quoi ? Seigneur, vous croiriez qu'une action si noire... </l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1975">Je sais ce qu'il faut craindre, et non ce qu'il faut croire.</l>
+
+	<l id="1976">Dans cette obscurité tout me devient suspect :</l>
+
+	<l id="1977">L'amour aux droits du sang garde peu de respect.</l>
+
+	<l id="1978">Ce même amour d'ailleurs peut forcer cette reine</l>
+
+	<l id="1979">À répondre à nos soins par des effets de haine ;</l>
+
+	<l id="1980">Et Jason peut avoir lui-même en ce grand art</l>
+
+	<l id="1981">Des secrets dont le ciel ne nous fit point de part.</l>
+
+	<l id="1982">Ainsi, dans les rigueurs de mon sort déplorable,</l>
+
+	<l id="1983">Tout peut être innocent, tout peut être coupable :</l>
+
+	<l id="1984">Je ne cherche qu'en vain à qui les imputer ;</l>
+
+	<l id="1985">Et ne discernant rien, j'ai tout à redouter.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1986">La vérité, seigneur, se va faire connoître :</l>
+
+	<l id="1987">À travers ces rameaux je vois venir mon traître.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Aaete, Absyrte, Hypsipyle, Jason, Orphée, Zéthès, Calaïs.</head>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="1988">Parlez, parlez, Jason ; dites sans feinte au roi</l>
+
+	<l id="1989">Qui vous seconde ici de Médée ou de moi :</l>
+
+	<l id="1990">Dites, est-ce elle ou moi qui contre lui conspire ?</l>
+
+	<l id="1991">Est-ce pour elle ou moi que votre coeur soupire ?</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="1992">La demande est, madame, un peu hors de saison :</l>
+
+	<l id="1993">Je vous y répondrai quand j'aurai la toison.</l>
+
+	<l id="1994">Seigneur, sans différer permettez que j'achève ;</l>
+
+	<l id="1995">La gloire où je prétends ne souffre point de trêve :</l>
+
+	<l id="1996">Elle veut que du ciel je presse le secours,</l>
+
+	<l id="1997">Et ce qu'il m'en promet ne descend pas toujours.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="1998">Hâtez à votre gré ce secours de descendre ;</l>
+
+	<l id="1999">Mais encore une fois gardez de vous méprendre.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="2000">Par ce qu'ont vu vos yeux jugez ce que je puis :</l>
+
+	<l id="2001">Tout me paroît facile en l'état où je suis ;</l>
+
+	<l id="2002">Et si la force enfin répond mal au courage,</l>
+
+	<l id="2003">Il en est parmi nous qui peuvent davantage.</l>
+
+	<l id="2004">Souffrez donc que l'ardeur dont je me sens brûler...</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Aaete, Absyrte, Hypsipyle, Médée, Jason, Orphée, Zéthès, Calïs.</head>
+
+<sp who="MEDEE"><speaker>MÉDÉE, sur le dragon, élévée en l'air à la hauteur d'un homme.</speaker>
+
+	<l id="2005">Arrête, déloyal, et laisse-moi parler :</l>
+
+	<l id="2006">Que je rende un plein lustre à ma gloire ternie</l>
+
+	<l id="2007">Par l'outrageux éclat que fait la calomnie.</l>
+
+	<l id="2008">Qui vous l'a dit, madame, et sur quoi fondez-vous</l>
+
+	<l id="2009">Ces dignes visions de votre esprit jaloux ?</l>
+
+	<l id="2010">Si Jason entre nous met quelque différence</l>
+
+	<l id="2011">Qui flatte malgré moi sa crédule espérance,</l>
+
+	<l id="2012">Faut-il sur votre exemple aussitôt présumer</l>
+
+	<l id="2013">Qu'on n'en peut être aimée et ne le pas aimer ?</l>
+
+	<l id="2014">Connoissez mieux Médée, et croyez-la trop vaine</l>
+
+	<l id="2015">Pour vouloir d'un captif marqué d'une autre chaîne.</l>
+
+	<l id="2016">Je ne puis empêcher qu'il vous manque de foi,</l>
+
+	<l id="2017">Mais je vaux bien un coeur qui n'ait aimé que moi ;</l>
+
+	<l id="2018">Et j'aurai soutenu des revers bien funestes</l>
+
+	<l id="2019">Avant que je me daigne enrichir de vos restes.</l>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="2020">Puissiez-vous conserver ces nobles sentiments !</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="2021">N'en croyez plus, seigneur, que les événements.</l>
+
+	<l id="2022">Ce ne sont plus ici ces taureaux, ces gensdarmes</l>
+
+	<l id="2023">Contre qui son audace a pu trouver des charmes :</l>
+
+	<l id="2024">Ce n'est point le dragon dont il est menacé ;</l>
+
+	<l id="2025">C'est Médée elle-même, et tout l'art de Circé.</l>
+
+	<l id="2026">Fidèle gardien des destins de ton maître,</l>
+
+	<l id="2027">Arbre, que tout exprès mon charme avait fait naître,</l>
+
+	<l id="2028">Tu nous défendrois mal contre ceux de Jason ;</l>
+
+	<l id="2029">Retourne en ton néant, et rends-moi la toison.</l>
+
+<stage>Elle prend la Toison en sa main, et la met sur le col du dragon ; L'arbre où elle était suspendue disparaît, et se retire derrière le théâtre, après quoi Médée continue en parlant à Jason.</stage>
+
+	<l id="2030">Ce n'est qu'avec le jour qu'elle peut m'être ôtée.</l>
+
+	<l id="2031">Viens donc, viens, téméraire, elle est à ta portée ;</l>
+
+	<l id="2032">Viens teindre de mon sang cet or qui t'est si cher,</l>
+
+	<l id="2033">Qu'à travers tant de mers on te force à chercher.</l>
+
+	<l id="2034">Approche, il n'est plus temps que l'amour te retienne :</l>
+
+	<l id="2035">Viens m'arracher la vie, ou m'apporter la tienne ;</l>
+
+	<l id="2036">Et sans perdre un moment en de vains entretiens,</l>
+
+	<l id="2037">Voyons qui peut le plus de tes dieux ou des miens.</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2038">À ce digne courroux je reconnais ma fille :</l>
+
+	<l id="2039">C'est mon sang dans ses yeux, c'est son aïeul qui brille ;</l>
+
+	<l id="2040">C'est le soleil mon père. Avancez donc, Jason,</l>
+
+	<l id="2041">Et sur cette ennemie emportez la toison.</l>
+
+</sp>
+
+<sp who="JASON"><speaker>JASON.</speaker>
+
+	<l id="2042">Seigneur, contre ses yeux qui voudroit se défendre ?</l>
+
+	<l id="2043">Il ne faut point combattre où l'on aime à se rendre.</l>
+
+	<l id="2044">Oui, madame, à vos pieds je mets les armes bas,</l>
+
+	<l id="2045">J'en fais un prompt hommage à vos divins appas,</l>
+
+	<l id="2046">Et renonce avec joie à ma plus haute gloire.</l>
+
+	<l id="2047">S'il faut par ce combat acheter la victoire,</l>
+
+	<l id="2048">Je l'abandonne, Orphée, aux charmes de ta voix,</l>
+
+	<l id="2049">Qui traîne les rochers, qui fait marcher les bois :</l>
+
+	<l id="2050">Assoupis le dragon, enchante la princesse.</l>
+
+	<l id="2051">Et vous, héros ailés, ménagez votre adresse :</l>
+
+	<l id="2052">Si pour cette conquête il vous reste du coeur,</l>
+
+	<l id="2053">Tournez sur le dragon toute votre vigueur.</l>
+
+	<l id="2054">Je vais dans le navire attendre une défaite,</l>
+
+	<l id="2055">Qui vous fera bientôt imiter ma retraite.</l>
+
+</sp>
+
+<sp who="ZETHES"><speaker>ZÉTHÈS.</speaker>
+
+	<l id="2056">Montrez plus d'espérance, et souvenez-vous mieux</l>
+
+	<l id="2057">Que nous avons dompté des monstres à vos yeux.</l>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Aaete, Absyrte, Hypsipyle, Médée, Zéthès, Calaïs, Orphée.</head>
+
+<sp who="CALAIS"><speaker>CALAÏS.</speaker>
+
+	<l id="2058">Élevons-nous, mon frère, au-dessus des nuages :</l>
+
+	<l id="2059">Du sang dont nous sortons prenons les avantages ;</l>
+
+	<l id="2060">Surtout obéissons aux ordres de Jason :</l>
+
+	<l id="2061">Respectons la princesse, et donnons au dragon.</l>
+
+<stage>ici Zéthès et Calïs s'élèvent au plus haut des  nuages en croisant leur vol.</stage>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="2062">Donnez où vous pourrez ; ce vain respect m'outrage :</l>
+
+	<l id="2063">Du sang dont vous sortez prenez tout l'avantage.</l>
+
+	<l id="2064">Je vais voler moi-même au-devant de vos coups,</l>
+
+	<l id="2065">Et n'avais que Jason à craindre parmi vous.</l>
+
+	<l id="2066">Et toi, de qui la voix inspire l'âme aux arbres,</l>
+
+	<l id="2067">Enchaîne les lions, et déplace les marbres,</l>
+
+	<l id="2068">D'un pouvoir si divin fais un meilleur emploi :</l>
+
+	<l id="2069">N'en détruis point la force à l'essayer sur moi.</l>
+
+	<l id="2070">Mais je n'en parle ainsi que de peur que ses charmes</l>
+
+	<l id="2071">Ne prêtent un miracle à l'effort de leurs armes.</l>
+
+	<l id="2072">Ne m'en crois pas, Orphée, et prends l'occasion</l>
+
+	<l id="2073">De partager leur gloire ou leur confusion.</l>
+
+</sp>
+
+<sp who="ORPHEE"><speaker>ORPHÉE, chante.</speaker>
+
+	<l id="2074">Hâtez-vous, enfants de Borée,</l>
+
+	<l id="2075">Demi-dieux, hâtez-vous,</l>
+
+	<l id="2076">Et faites voir qu'en tous lieux, contre tous,</l>
+
+	<l id="2077">À vos exploits la victoire assurée</l>
+
+	<l id="2078">Suit l'effort de vos moindres coups.</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="2079">Vos demi-dieux, Orphée, ont peine à vous entendre :</l>
+
+	<l id="2080">Ils ont volé si haut qu'ils n'en peuvent descendre ;</l>
+
+	<l id="2081">De ce nuage épais sachez les dégager,</l>
+
+	<l id="2082">Et pratiquez mieux l'art de les encourager.</l>
+
+</sp>
+
+<sp who="ORPHEE"><speaker>ORPHÉE.</speaker>
+
+<stage>Il chante ce second couplet cependant que Zéthès et Calïs fondent l'un après l'autre sur le dragon, et le combattent en milieu de l'air. Ils se relèvent aussitôt qu'ils ont tâché de lui porter une atteinte, et tournent face en même temps pour revenir à la charge. Médée ets au milieu des deux, qui pare leurs coups, et fait tourner le dragon vers l'un et vers l'autre, quivant qu'ils se présentent.</stage>
+
+	<l id="2083">Combattez, race d'Orithye,</l>
+
+	<l id="2084">Demi-dieux, combattez,</l>
+
+	<l id="2085">Et faites voir que vos bras indomptés</l>
+
+	<l id="2086">Se font partout une heureuse sortie</l>
+
+	<l id="2087">Des périls les plus redoutés.</l>
+
+</sp>
+
+<sp who="ZETHES"><speaker>Zéthès.</speaker>
+
+	<l id="2088">Fuyons, sans plus tarder, la vapeur infernale</l>
+
+	<l id="2089">Que ce dragon affreux de son gosier exhale :</l>
+
+	<l id="2090">La valeur ne peut rien contre un air empesté.</l>
+
+	<l id="2091">Fais comme nous, Orphée, et fuis de ton côté.</l>
+
+<stage>Zéthès, Calaïs et Orphée s'enfuient.</stage>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE.</speaker>
+
+	<l id="2092">Allez, vaillants guerriers, envoyez-moi Pélée,</l>
+
+	<l id="2093">Mopse, Iphite, échion, Eurydamas, Oilée,</l>
+
+	<l id="2094">Et tout ce reste enfin pour qui votre Jason</l>
+
+	<l id="2095">Avec tant de chaleur demandoit la toison.</l>
+
+	<l id="2096">Aucun d'eux ne paroît ! Ces âmes intrépides</l>
+
+	<l id="2097">Règlent sur mes vaincus leurs démarches timides ;</l>
+
+	<l id="2098">Et malgré leur ardeur pour un exploit si beau,</l>
+
+	<l id="2099">Leur effroi les renferme au fond de leur vaisseau.</l>
+
+	<l id="2100">Ne laissons pas ainsi la victoire imparfaite :</l>
+
+	<l id="2101">Par le milieu des airs, courons à leur défaite ;</l>
+
+	<l id="2102">Et nous-mêmes portons à leur témérité</l>
+
+	<l id="2103">Jusque dans ce vaisseau ce qu'elle a mérité.</l>
+
+<stage>Médée s'élève encore plus haut sur le dragon.</stage>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2104">Que fais-tu ? La toison ainsi que toi s'envole !</l>
+
+	<l id="2105">Ah ! Perfide, est-ce ainsi que tu me tiens parole,</l>
+
+	<l id="2106">Toi qui me promettois, même aux yeux de Jason,</l>
+
+	<l id="2107">Qu'on t'ôteroit le jour avant que la toison ?</l>
+
+</sp>
+
+<sp who="MEDEE"><speaker>MÉDÉE, ne s'envolant.</speaker>
+
+	<l id="2108">Encor tout de nouveau je vous en fais promesse,</l>
+
+	<l id="2109">Et vais vous la garder au milieu de la Grèce.</l>
+
+	<l id="2110">Du pays et du sang l'amour rompt les liens,</l>
+
+	<l id="2111">Et les dieux de Jason sont plus forts que les miens.</l>
+
+	<l id="2112">Ma soeur avec ses fils m'attend dans le navire ;</l>
+
+	<l id="2113">Je la suis, et ne fais que ce qu'elle m'inspire ;</l>
+
+	<l id="2114">De toutes deux madame ici vous tiendra lieu.</l>
+
+	<l id="2115">Consolez-vous, seigneur, et pour jamais adieu.</l>
+
+</sp>
+
+<stage>Elle s'envole avec la Toison.</stage>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI. Aaete, Absyrte, Hypsipyle, Junon.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2116">Ah ! Madame ; ah ! Mon fils ; ah ! Sort inexorable.</l>
+
+	<l id="2117">Est-il sur terre un père, un roi plus déplorable ?</l>
+
+	<l id="2118">Mes filles toutes deux contre moi se ranger !</l>
+
+	<l id="2119">Toutes deux à ma perte à l'envi s'engager !</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON, dans son char.</speaker>
+
+	<l id="2120">On vous abuse, Aaete ; et Médée elle-même,</l>
+
+	<l id="2121">Dans l'amour qui la force à suivre ce qu'elle aime,</l>
+
+	<l id="2122">S'abuse comme vous.</l>
+
+	<l id="2123">Chalciope n'a point de part en cet ouvrage :</l>
+
+	<l id="2124">Dans un coin du jardin, sous un épais nuage,</l>
+
+	<l id="2125">Je l'enveloppe encor d'un sommeil assez doux,</l>
+
+	<l id="2126">Cependant qu'en sa place ayant pris son visage,</l>
+
+	<l id="2127">Dans l'esprit de sa soeur j'ai porté les grands coups</l>
+
+	<l id="2128">Qui donnent à Jason ce dernier avantage.</l>
+
+	<l id="2129">Junon a tout fait seule ; et je remonte aux cieux</l>
+
+	<l id="2130">Presser le souverain des dieux</l>
+
+	<l id="2131">D'approuver ce qu'il m'a plu faire.</l>
+
+	<l id="2132">Mettez votre esprit en repos ;</l>
+
+	<l id="2133">Si le destin vous est contraire</l>
+
+	<l id="2134">Lemnos peut réparer la perte de Colchos.</l>
+
+<stage>junon remonte au ciel dans ce même char.</stage>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2135">Qu'ai-je fait, que le ciel contre moi s'intéresse</l>
+
+	<l id="2136">Jusqu'à faire descendre en terre une déesse ?</l>
+
+</sp>
+
+<sp who="ABSYRTE"><speaker>ABSYRTE.</speaker>
+
+	<l id="2137">La désavouerez-vous, madame, et votre coeur</l>
+
+	<l id="2138">Dédira-t-il sa voix qui parle en ma faveur ?</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2139">Absyrte, il n'est plus temps de parler de ta flamme.</l>
+
+	<l id="2140">Qu'as-tu pour mériter quelque part en son âme ?</l>
+
+	<l id="2141">Et que lui peut offrir ton ridicule espoir,</l>
+
+	<l id="2142">Qu'un sceptre qui m'échappe, un trône prêt à choir ?</l>
+
+	<l id="2143">Ne songeons qu'à punir le traître et sa complice.</l>
+
+	<l id="2144">Nous aurons dieux pour dieux à nous faire justice ;</l>
+
+	<l id="2145">Et déjà le soleil, pour nous prêter secours,</l>
+
+	<l id="2146">Fait ouvrir son palais, et détourne son cours.</l>
+
+<stage>Le ciel s'ouvre, et fait paraître le palais du soleil, où l'on le voit dans son char tout brillant de lumière s'avancer vers les spectateurs, et sortant de ce palais, s'élever en haut pour parler à Jupiter, dont le palais souvre aussi quelques moments après. Ce maître des Dieux y paraît sur son trône, avec Junon à ses côtés. Ces trois théâtres, qu'on voit tout à la fois, font un spectacle tout à fait agréable et majestueux. La sombre verdure de la forêt épaisse, qui occupe le premier, relève d'autant plus la clarté des deux autres, par l'opposition de ses ombres. La palais du Soleil, qui fait le second, a ses colonnes toutes d'oripeau, et sonlambris doré, avec divers grands feuillages à l'arabesque. le rejaillissement des lumières qui portent sur ces dorures produit un jour merveilleux, qu'augmente celui qui sort du trône de Jupiter, qui n'a pas moins d'ornement. Ses marches ont au deux bouts et au milieu des aigles d'or, entre lesquelles on voit peintes en basse taille toutes les amours de ce dieu. Les deux côtés font voir chacun un rang de piliers enrichis de diverses pierres précieuses, environnées chacunes d'un cercle et d'un carré d'or. Au haut de ces piliers sont d'uatres grandes aigles d'or quisoutiennet de leur bec le plafond de ce palais, composé de riches étoffes de diverses couleurs, qui font comme autant de courtines, dont les aigles laissent pendre les bouts en forme d'écharpe. Jupiter a un autre grand aigle à ses pieds, qui porte son foudre, et Junon est à sa gauche, avec un paon aussi à ses pieds, de grandeur et de couleur naturelle.</stage>
+
+</sp>
+
+</div2>
+
+<div2 type="scene" n="7"><head>SCÈNE VII. La Soleil, Jupiter, Junon, Aaete, Hypsipyle, Absyrte.</head>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2147">Âme de l'univers, auteur de ma naissance,</l>
+
+	<l id="2148">Dont nous voyons partout éclater la puissance,</l>
+
+	<l id="2149">Souffriras-tu qu'un roi qui tient de toi le jour</l>
+
+	<l id="2150">Soit lâchement trahi par un indigne amour ?</l>
+
+	<l id="2151">À ces Grecs vagabonds refuse ta lumière,</l>
+
+	<l id="2152">De leurs climats chéris détourne ta carrière,</l>
+
+	<l id="2153">N'éclaire point leur fuite après qu'ils m'ont détruit,</l>
+
+	<l id="2154">Et répands sur leur route une éternelle nuit.</l>
+
+	<l id="2155">Fais plus, montre-toi père ; et pour venger ta race,</l>
+
+	<l id="2156">Donne-moi tes chevaux à conduire en ta place ;</l>
+
+	<l id="2157">Prête-moi de tes feux l'éclat étincelant,</l>
+
+	<l id="2158">Que j'embrase leur Grèce avec ton char brûlant ;</l>
+
+	<l id="2159">Que d'un de tes rayons lançant sur eux le foudre,</l>
+
+	<l id="2160">Je les réduise en cendre, et leur butin en poudre ;</l>
+
+	<l id="2161">Et que par mon courroux leur pays désolé</l>
+
+	<l id="2162">Ait horreur à jamais du bras qui m'a volé.</l>
+
+	<l id="2163">Je vois que tu m'entends, et ce coup d'oeil m'annonce</l>
+
+	<l id="2164">Que ta bonté m'apprête une heureuse réponse.</l>
+
+	<l id="2165">Parle donc, et fais voir aux destins ennemis</l>
+
+	<l id="2166">De quelle ardeur tu prends les intérêts d'un fils.</l>
+
+</sp>
+
+<sp who="SOLEIL"><speaker>LE SOLEIL.</speaker>
+
+	<l id="2167">Je plains ton infortune, et ne puis davantage :</l>
+
+	<l id="2168">Un noir destin s'oppose à tes justes desseins,</l>
+
+	<l id="2169">Et depuis Phaéton, ce brillant attelage</l>
+
+	<l id="2170">Ne peut passer en d'autres mains :</l>
+
+	<l id="2171">Sous un ordre éternel qui gouverne ma route,</l>
+
+	<l id="2172">Je dispense en esclave et les nuits et les jours.</l>
+
+	<l id="2173">Mais enfin ton père t'écoute,</l>
+
+	<l id="2174">Et joint ses voeux aux tiens pour un plus fort secours.</l>
+
+<stage>Ici s'ouvre le ceil de Jupiter, et le soleil continue en lui adressant sa parole.</stage>
+
+	<l id="2175">Maître absolu des destinées,</l>
+
+	<l id="2176">Change leurs dures lois en faveur de mon sang,</l>
+
+	<l id="2177">Et laisse-lui garder son rang</l>
+
+	<l id="2178">Parmi les têtes couronnées.</l>
+
+	<l id="2179">C'est toi qui règles les états,</l>
+
+	<l id="2180">C'est toi qui départs les couronnes ;</l>
+
+	<l id="2181">Et quand le sort jaloux met un monarque à bas,</l>
+
+	<l id="2182">Il détruit ton ouvrage, et fait des attentats</l>
+
+	<l id="2183">Qui dérobent ce que tu donnes.</l>
+
+</sp>
+
+<sp who="JUNON"><speaker>JUNON.</speaker>
+
+	<l id="2184">Je ne mets point d'obstacle à de si justes voeux ;</l>
+
+	<l id="2185">Mais laissez ma puissance entière ;</l>
+
+	<l id="2186">Et si l'ordre du sort se rompt à sa prière,</l>
+
+	<l id="2187">D'un hymen que j'ai fait ne rompez pas les noeuds.</l>
+
+	<l id="2188">Comme je ne veux point détruire son Aaete,</l>
+
+	<l id="2189">Ne détruisez pas mes héros :</l>
+
+	<l id="2190">Assurez à ses jours gloire, sceptre, repos ;</l>
+
+	<l id="2191">Assurez-lui tous les biens qu'il souhaite ;</l>
+
+	<l id="2192">Mais de la même main assurez à Jason</l>
+
+	<l id="2193">Médée et la toison.</l>
+
+</sp>
+
+<sp who="JUPITER"><speaker>JUPITER.</speaker>
+
+	<l id="2194">Des arrêts du destin l'ordre est invariable,</l>
+
+	<l id="2195">Rien ne sauroit le rompre en faveur de ton fils,</l>
+
+	<l id="2196">Soleil ; et ce trésor surpris</l>
+
+	<l id="2197">Lui rend de ses états la perte inévitable.</l>
+
+	<l id="2198">Mais la même légèreté</l>
+
+	<l id="2199">Qui donne Jason à Médée</l>
+
+	<l id="2200">Servira de supplice à l'infidélité</l>
+
+	<l id="2201">Où pour lui contre un père elle s'est hasardée.</l>
+
+	<l id="2202">Persès dans la Scythie arme un bras souverain ;</l>
+
+	<l id="2203">Sitôt qu'il paraîtra, quittez ces lieux, Aaete,</l>
+
+	<l id="2204">Et par une prompte retraite,</l>
+
+	<l id="2205">Épargnez tout le sang qui coulerait en vain.</l>
+
+	<l id="2206">De Lemnos faites votre asile ;</l>
+
+	<l id="2207">Le ciel veut qu'Hypsipyle</l>
+
+	<l id="2208">Réponde aux voeux d'Absyrte, et qu'un sceptre dotal</l>
+
+	<l id="2209">Adoucisse le cours d'un peu de temps fatal.</l>
+
+	<l id="2210">Car enfin de votre perfide</l>
+
+	<l id="2211">Doit sortir un Médus qui vous doit rétablir ;</l>
+
+	<l id="2212">À rentrer dans Colchos il sera votre guide ;</l>
+
+	<l id="2213">Et mille grands exploits qui doivent l'ennoblir,</l>
+
+	<l id="2214">Feront de tous vos maux les assurés remèdes,</l>
+
+	<l id="2215">Et donneront naissance à l'empire des Mèdes.</l>
+
+<stage>Le palais de Jupiter et celui du Soleil se referment.</stage>
+
+</sp>
+
+<sp who="SOLEIL"><speaker>LE SOLEIL.</speaker>
+
+	<l id="2216">Ne vous permettez plus d'inutiles soupirs,</l>
+
+	<l id="2217">Puisque le ciel répare et venge votre perte,</l>
+
+	<l id="2218">Et qu'une autre couronne offerte</l>
+
+	<l id="2219">Ne peut plus vous souffrir de justes déplaisirs.</l>
+
+	<l id="2220">Adieu. J'ai trop longtemps détourné ma carrière,</l>
+
+	<l id="2221">Et trop perdu pour vous en ces lieux de moments</l>
+
+	<l id="2222">Qui devoient ailleurs ma lumière.</l>
+
+	<l id="2223">Allez, heureux amants,</l>
+
+	<l id="2224">Pour qui Jupiter montre une faveur entière ;</l>
+
+	<l id="2225">Hâtez-vous d'obéir à ses commandements.</l>
+
+<stage>Il disparaît en baissant, comme pour fondre dans la mer.</stage>
+
+</sp>
+
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
+
+	<l id="2226">J'obéis avec joie à tout ce qu'il m'ordonne :</l>
+
+	<l id="2227">Un prince si bien né vaut mieux qu'une couronne.</l>
+
+	<l id="2228">Sitôt que je le vis, il en eut mon aveu,</l>
+
+	<l id="2229">Et ma foi pour Jason nuisoit seule à son feu ;</l>
+
+	<l id="2230">Mais à présent, seigneur, cette foi dégagée...</l>
+
+</sp>
+
+<sp who="AAETE"><speaker>AAETE.</speaker>
+
+	<l id="2231">Ah ! Madame, ma perte est déjà trop vengée,</l>
+
+	<l id="2232">Et vous faites trop voir comme un coeur généreux</l>
+
+	<l id="2233">Se plaît à relever un destin malheureux.</l>
+
+	<l id="2234">Allons ensemble, allons sous de si doux auspices</l>
+
+	<l id="2235">Préparer à demain de pompeux sacrifices,</l>
+
+	<l id="2236">Et par nos voeux unis répondre au doux espoir</l>
+
+	<l id="2237">Que daigne un dieu si grand nous faire concevoir.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

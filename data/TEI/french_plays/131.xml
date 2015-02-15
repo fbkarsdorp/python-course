@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>DON SANCHE D'ARAGON, COMÉDIE HÉROÏQUE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1649</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE, janvier 2010</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie héroïque</genre>
+				<inspiration>moeurs espagnoles</inspiration>
+				<type>vers</type>
+				<structure>Cinq actes</structure>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">DON SANCHE D'ARAGON</titlePart>
+			<titlePart type="sub">COMÉDIE HÉROÏQUE</titlePart>
+		</docTitle> 
+		<docDate value='1649'>1649</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Pierre Corneille</docAuthor>
+		<docImprint>
+			<privilege id='**/**/16**'>**** 16**</privilege>
+			<acheveImprime id='**/**/16**'>** 16**</acheveImprime>
+		</docImprint>
+		<performance>
+			<premiere date='1649' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1649 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+		<castList><head>ACTEURS</head>
+			<head>ACTEURS</head>
+			<castItem><role id="ISABELLE" civil='F'>DONA ISABELLE</role>, reine de Castille.</castItem>
+			<castItem><role id="LEONOR" civil='F'>DONA LÉONOR</role>, reine d'Aragon.</castItem>
+			<castItem><role id="ELVIRE" civil='F'>DONA ELVIRE</role>, princesse d'Aragon.</castItem>
+			<castItem><role id="BLANCHE" civil='F'>BLANCHE</role>, dame d'honneur de la reine de Castille.</castItem>
+			<castItem><role id="CARLOS" civil='M'>CARLOS</role>, cavalier inconnu qui se trouve être Don Sanche, roi d'Aragon.</castItem>
+			<castItem><role id="RAYMOND" civil='M'>DOM RAYMOND de MONCADE</role>, favori du défunt roi d'Aragon.</castItem>
+			<castItem><role id="LOPE" civil='M'>DOM LOPE de GUSMAN</role>, grand de Castille.</castItem>
+			<castItem><role id="MANRIQUE" civil='M'>DOM MANRIQUE de LARE</role>, grand de Castille.</castItem>
+			<castItem><role id="ALVAR" civil='M'>DOM ALVAR de LUNE</role>, grand de Castille.</castItem>
+			<castItem><role id="GARDE" civil='M'>Un garde</role>.</castItem>
+		</castList>
+		<set location='Valladolid' country='Espagne' periode='XVème' link=''>La scène est à Valladolid.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dona Léonor, Dona Elvire.</head>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1">Après tant de malheurs, enfin le ciel propice</l>
+	<l id="2">S'est résolu, ma fille, à nous faire justice :</l>
+	<l id="3">Notre Aragon, pour nous presque tout révolté,</l>
+	<l id="4">Enlève à nos tyrans ce qu'ils nous ont ôté,</l>
+	<l id="5">Brise les fers honteux de leurs injustes chaînes,</l>
+	<l id="6">Se remet sous nos lois, et reconnaît ses reines ;</l>
+	<l id="7">Et par ses députés, qu'aujourd'hui l'on attend,</l>
+	<l id="8">Rend d'un si long exil le retour éclatant.</l>
+	<l id="9">Comme nous, la Castille attend cette journée</l>
+	<l id="10">Qui lui doit de sa reine assurer l'hyménée :</l>
+	<l id="11">Nous l'allons voir ici faire choix d'un époux.</l>
+	<l id="12">Que ne puis-je, ma fille, en dire autant de vous !</l>
+	<l id="13">Nous allons en des lieux sur qui vingt ans d'absence</l>
+	<l id="14">Nous laissent une faible et douteuse puissance :</l>
+	<l id="15">Le trouble règne encore où vous devez régner ;</l>
+	<l id="16">Le peuple vous rappelle, et peut vous dédaigner,</l>
+	<l id="17">Si vous ne lui portez, au retour de Castille,</l>
+	<l id="18">Que l'avis d'une mère et le nom d'une fille.</l>
+	<l id="19">D'un mari valeureux les ordres et le bras</l>
+	<l id="20">Sauraient bien mieux que nous assurer vos états,</l>
+	<l id="21">Et par des actions nobles, grandes et belles,</l>
+	<l id="22">Dissiper les mutins, et dompter les rebelles.</l>
+	<l id="23">Vous ne pouvez manquer d'amants dignes de vous ;</l>
+	<l id="24">On aime votre sceptre, on vous aime ; et sur tous,</l>
+	<l id="25">Du comte Dom Alvar la vertu non commune</l>
+	<l id="26">Vous aima dans l'exil et durant l'infortune.</l>
+	<l id="27">Qui vous aima sans sceptre et se fit votre appui,</l>
+	<l id="28">Quand vous le recouvrez, est bien digne de lui.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="29">Ce comte est généreux, et me l'a fait paraître ;</l>
+	<l id="30">Aussi le ciel pour moi l'a voulu reconnaître,</l>
+	<l id="31">Puisque les Castillans l'ont mis entre les trois</l>
+	<l id="32">Dont à leur grande reine ils demandent le choix ;</l>
+	<l id="33">Et comme ses rivaux lui cèdent en mérite,</l>
+	<l id="34">Un espoir à présent plus doux le sollicite ;</l>
+	<l id="35">Il régnera sans nous. Mais, madame, après tout,</l>
+	<l id="36">Savez-vous à quel choix l'Aragon se résout,</l>
+	<l id="37">Et quels troubles nouveaux j'y puis faire renaître,</l>
+	<l id="38">S'il voit que je lui mène un étranger pour maître ?</l>
+	<l id="39">Montons, de grâce, au trône ; et de là beaucoup mieux</l>
+	<l id="40">Sur le choix d'un époux nous baisserons les yeux.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="41">Vous les abaissez trop ; une secrète flamme</l>
+	<l id="42">A déjà malgré moi fait ce choix dans votre âme :</l>
+	<l id="43">De l'inconnu Carlos l'éclatante valeur</l>
+	<l id="44">Aux mérites du comte a fermé votre coeur.</l>
+	<l id="45">Tout est illustre en lui, moi-même je l'avoue ;</l>
+	<l id="46">Mais son sang, que le ciel n'a formé que de boue,</l>
+	<l id="47">Et dont il cache exprès la source obstinément...</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="48">Vous pourriez en juger plus favorablement ;</l>
+	<l id="49">Sa naissance inconnue est peut-être sans tache :</l>
+	<l id="50">Vous la présumez basse à cause qu'il la cache ;</l>
+	<l id="51">Mais combien a-t-on vu de princes déguisés</l>
+	<l id="52">Signaler leur vertu sous des noms supposés,</l>
+	<l id="53">Dompter des nations, gagner des diadèmes,</l>
+	<l id="54">Sans qu'aucun les connût, sans se connaître eux-mêmes !</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="55">Quoi ? Voilà donc enfin de quoi vous vous flattez !</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="56">J'aime et prise en Carlos ses rares qualités.</l>
+	<l id="57">Il n'est point d'âme noble à qui tant de vaillance</l>
+	<l id="58">N'arrache cette estime et cette bienveillance ;</l>
+	<l id="59">Et l'innocent tribut de ces affections</l>
+	<l id="60">Que doit toute la terre aux belles actions,</l>
+	<l id="61">N'a rien qui déshonore une jeune princesse.</l>
+	<l id="62">En cette qualité, je l'aime et le caresse ;</l>
+	<l id="63">En cette qualité, ses devoirs assidus</l>
+	<l id="64">Me rendent les respects à ma naissance dus.</l>
+	<l id="65">Il fait sa cour chez moi comme un autre peut faire :</l>
+	<l id="66">Il a trop de vertus pour être téméraire ;</l>
+	<l id="67">Et si jamais ses voeux s'échappaient jusqu'à moi,</l>
+	<l id="68">Je sais ce que je suis, et ce que je me dois.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="69">Daigne le juste ciel vous donner le courage</l>
+	<l id="70">De vous en souvenir et le mettre en usage !</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="71">Vos ordres sur mon coeur sauront toujours régner.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="72">Cependant ce Carlos vous doit accompagner,</l>
+	<l id="73">Doit venir jusqu'aux lieux de votre obéissance,</l>
+	<l id="74">Vous rendre ces respects dus à votre naissance,</l>
+	<l id="75">Vous faire, comme ici, sa cour tout simplement ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="76">De ses pareils la guerre est l'unique élément :</l>
+	<l id="77">Accoutumés d'aller de victoire en victoire,</l>
+	<l id="78">Ils cherchent en tous lieux les dangers et la gloire,</l>
+	<l id="79">La prise de Séville, et les Mores défaits,</l>
+	<l id="80">Laissent à la Castille une profonde paix :</l>
+	<l id="81">S'y voyant sans emploi, sa grande âme inquiète</l>
+	<l id="82">Veut bien de Dom Garcie achever la défaite,</l>
+	<l id="83">Et contre les efforts d'un reste de mutins</l>
+	<l id="84">De toute sa valeur hâter nos bons destins.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="85">Mais quand il vous aura dans le trône affermie,</l>
+	<l id="86">Et jeté sous vos pieds la puissance ennemie,</l>
+	<l id="87">S'en ira-t-il soudain aux climats étrangers</l>
+	<l id="88">Chercher tout de nouveau la gloire et les dangers ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="89" part="i">Madame, la reine entre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dona Isabelle, Dona Léonor, Dona Elvire, Blanche.</head>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="89" part="f">Aujourd'hui donc, madame,</l>
+	<l id="90">Vous allez d'un héros rendre heureuse la flamme,</l>
+	<l id="91">Et d'un mot satisfaire aux plus ardents souhaits</l>
+	<l id="92">Que poussent vers le ciel vos fidèles sujets.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="93">Dites, dites plutôt qu'aujourd'hui, grandes reines,</l>
+	<l id="94">Je m'impose à vos yeux la plus dure des gênes,</l>
+	<l id="95">Et fais dessus moi-même un illustre attentat</l>
+	<l id="96">Pour me sacrifier au repos de l'état.</l>
+	<l id="97">Que c'est un sort fâcheux et triste que le nôtre,</l>
+	<l id="98">De ne pouvoir régner que sous les lois d'un autre ;</l>
+	<l id="99">Et qu'un sceptre soit cru d'un si grand poids pour nous,</l>
+	<l id="100">Que pour le soutenir il nous faille un époux !</l>
+	<l id="101">À peine ai-je deux mois porté le diadème,</l>
+	<l id="102">Que de tous les côtés j'entends dire qu'on m'aime,</l>
+	<l id="103">Si toutefois sans crime et sans m'en indigner</l>
+	<l id="104">Je puis nommer amour une ardeur de régner.</l>
+	<l id="105">L'ambition des grands à cet espoir ouverte</l>
+	<l id="106">Semble pour m'acquérir s'apprêter à ma perte ;</l>
+	<l id="107">Et pour trancher le cours de leurs dissensions,</l>
+	<l id="108">Il faut fermer la porte à leurs prétentions ;</l>
+	<l id="109">Il m'en faut choisir un ; eux-mêmes m'en convient,</l>
+	<l id="110">Mon peuple m'en conjure, et mes états m'en prient ;</l>
+	<l id="111">Et même par mon ordre ils m'en proposent trois,</l>
+	<l id="112">Dont mon coeur à leur gré peut faire un digne choix.</l>
+	<l id="113">Don Lope de Gusman, Dom Manrique de Lare,</l>
+	<l id="114">Et Dom Alvar de Lune, ont un mérite rare ;</l>
+	<l id="115">Mais que me sert ce choix qu'on fait en leur faveur,</l>
+	<l id="116">Si pas un d'eux enfin n'a celui de mon coeur ?</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="117">On vous les a nommés, mais sans vous les prescrire ;</l>
+	<l id="118">On vous obéira, quoi qu'il vous plaise élire :</l>
+	<l id="119">Si le coeur a choisi, vous pouvez faire un roi.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="120">Madame, je suis reine, et dois régner sur moi.</l>
+	<l id="121">Le rang que nous tenons, jaloux de notre gloire,</l>
+	<l id="122">Souvent dans un tel choix nous défend de nous croire,</l>
+	<l id="123">Jette sur nos désirs un joug impérieux,</l>
+	<l id="124">Et dédaigne l'avis et du coeur et des yeux.</l>
+	<l id="125">Qu'on ouvre. Juste ciel, vois ma peine, et m'inspire</l>
+	<l id="126">Et ce que je dois faire, et ce que je dois dire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dona Isabelle, Dona Léonor, Dona Elvire, Blanche, Dom Lope, Dom Manrique, Dom Alvar, Carlos.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="127">Avant que de choisir je demande un serment,</l>
+	<l id="128">Comtes, qu'on agréera mon choix aveuglément ;</l>
+	<l id="129">Que les deux méprisés, et tous les trois peut-être,</l>
+	<l id="130">De ma main, quel qu'il soit, accepteront un maître ;</l>
+	<l id="131">Car enfin je suis libre à disposer de moi ;</l>
+	<l id="132">Le choix de mes états ne m'est point une loi ;</l>
+	<l id="133">D'une troupe importune il m'a débarrassée,</l>
+	<l id="134">Et d'eux tous sur vous trois détourné ma pensée,</l>
+	<l id="135">Mais sans nécessité de l'arrêter sur vous.</l>
+	<l id="136">J'aime à savoir par là qu'on vous préfère à tous ;</l>
+	<l id="137">Vous m'en êtes plus chers et plus considérables :</l>
+	<l id="138">J'y vois de vos vertus les preuves honorables ;</l>
+	<l id="139">J'y vois la haute estime où sont vos grands exploits ;</l>
+	<l id="140">Mais quoique mon dessein soit d'y borner mon choix,</l>
+	<l id="141">Le ciel en un moment quelquefois nous éclaire.</l>
+	<l id="142">Je veux, en le faisant, pouvoir ne le pas faire,</l>
+	<l id="143">Et que vous avouiez que pour devenir roi,</l>
+	<l id="144">Quiconque me plaira n'a besoin que de moi.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="145">C'est une autorité qui vous demeure entière ;</l>
+	<l id="146">Votre état avec vous n'agit que par prière,</l>
+	<l id="147">Et ne vous a pour nous fait voir ses sentiments</l>
+	<l id="148">Que par obéissance à vos commandements.</l>
+	<l id="149">Ce n'est point ni son choix ni l'éclat de ma race</l>
+	<l id="150">Qui me font, grande reine, espérer cette grâce :</l>
+	<l id="151">Je l'attends de vous seule et de votre bonté,</l>
+	<l id="152">Comme on attend un bien qu'on n'a pas mérité,</l>
+	<l id="153">Et dont, sans regarder service, ni famille,</l>
+	<l id="154">Vous pouvez faire part au moindre de Castille.</l>
+	<l id="155">C'est à nous d'obéir, et non d'en murmurer ;</l>
+	<l id="156">Mais vous nous permettrez toutefois d'espérer</l>
+	<l id="157">Que vous ne ferez choir cette faveur insigne,</l>
+	<l id="158">Ce bonheur d'être à vous, que sur le moins indigne ;</l>
+	<l id="159">Et que votre vertu vous fera trop savoir</l>
+	<l id="160">Qu'il n'est pas bon d'user de tout votre pouvoir.</l>
+	<l id="161" part="i">Voilà mon sentiment.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="161" part="f">Parlez, vous, Dom Manrique.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="162">Madame, puisqu'il faut qu'à vos yeux je m'explique,</l>
+	<l id="163">Quoique votre discours nous ait fait des leçons</l>
+	<l id="164">Capables d'ouvrir l'âme à de justes soupçons,</l>
+	<l id="165">Je vous dirai pourtant, comme à ma souveraine,</l>
+	<l id="166">Que pour faire un vrai roi vous le fassiez en reine,</l>
+	<l id="167">Que vous laisser borner, c'est vous-même affaiblir</l>
+	<l id="168">La dignité du rang qui le doit ennoblir ;</l>
+	<l id="169">Et qu'à prendre pour loi le choix qu'on vous propose,</l>
+	<l id="170">Le roi que vous feriez vous devrait peu de chose,</l>
+	<l id="171">Puisqu'il tiendrait les noms de monarque et d'époux</l>
+	<l id="172">Du choix de vos états aussi bien que de vous.</l>
+	<l id="173">Pour moi, qui vous aimai sans sceptre et sans couronne,</l>
+	<l id="174">Qui n'ai jamais eu d'yeux que pour votre personne,</l>
+	<l id="175">Que même le feu roi daigna considérer</l>
+	<l id="176">Jusqu'à souffrir ma flamme et me faire espérer,</l>
+	<l id="177">J'oserai me promettre un sort assez propice</l>
+	<l id="178">De cet aveu d'un frère et quatre ans de service ;</l>
+	<l id="179">Et sur ce doux espoir dussai-je me trahir,</l>
+	<l id="180">Puisque vous le voulez, je jure d'obéir.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="181">C'est comme il faut m'aimer. Et Dom Alvar de Lune ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="182">Je ne vous ferai point de harangue importune.</l>
+	<l id="183">Choisissez hors des trois, tranchez absolument :</l>
+	<l id="184">Je jure d'obéir, madame, aveuglément.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="185">Sous les profonds respects de cette déférence</l>
+	<l id="186">Vous nous cachez peut-être un peu d'indifférence ;</l>
+	<l id="187">Et comme votre coeur n'est pas sans autre amour,</l>
+	<l id="188">Vous savez des deux parts faire bien votre cour.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="189" part="i">Madame...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="189" part="f">C'est assez ; que chacun prenne place.</l>
+<stage>Ici les trois reines prennent  chacune un fauteuil, et après que les trois comtes et le reste des grands qui sont présents se sont assis sur des bancs préparés exprès, Carlos, y voyant une place vide, s'y veut seoir, et Dom Manrique l'en empêche.</stage>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="190">Tout beau, tout beau, Carlos ! D'où vous vient cette audace ?</l>
+	<l id="191">Et quel titre en ce rang a pu vous établir ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="192">J'ai vu la place vide, et cru la bien remplir.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="193">Un soldat bien remplir une place de comte !</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="194">Seigneur, ce que je suis ne me fait point de honte.</l>
+	<l id="195">Depuis plus de six ans il ne s'est fait combat</l>
+	<l id="196">Qui ne m'ait bien acquis ce grand nom de soldat :</l>
+	<l id="197">J'en avais pour témoin le feu roi votre frère,</l>
+	<l id="198" part="i">Madame ; et par trois fois...</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="198" part="f">Nous vous avons vu faire,</l>
+	<l id="199">Et savons mieux que vous ce que peut votre bras.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="200">Vous en êtes instruits, et je ne la suis pas :</l>
+	<l id="201">Laissez-le me l'apprendre. Il importe aux monarques</l>
+	<l id="202">Qui veulent aux vertus rendre de dignes marques,</l>
+	<l id="203">De les savoir connaître, et ne pas ignorer</l>
+	<l id="204">Ceux d'entre leurs sujets qu'ils doivent honorer.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="205">Je ne me croyais pas être ici pour l'entendre.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="206">Comte, encore une fois, laissez-le me l'apprendre.</l>
+	<l id="207">Nous aurons temps pour tout. Et vous, parlez, Carlos.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="208">Je dirai qui je suis, madame, en peu de mots.</l>
+	<l id="209">On m'appelle soldat : je fais gloire de l'être ;</l>
+	<l id="210">Au feu roi par trois fois je le fis bien paraître.</l>
+	<l id="211">L'étendard de Castille, à ses yeux enlevé,</l>
+	<l id="212">Des mains des ennemis par moi seul fut sauvé :</l>
+	<l id="213">Cette seule action rétablit la bataille,</l>
+	<l id="214">fit rechasser le More au pied de sa muraille,</l>
+	<l id="215">Et rendant le courage aux plus timides coeurs,</l>
+	<l id="216">Rappela les vaincus, et défit les vainqueurs.</l>
+	<l id="217">Ce même roi me vit dedans l'Andalousie</l>
+	<l id="218">Dégager sa personne en prodiguant ma vie,</l>
+	<l id="219">Quand tout percé de coups, sur un monceau de morts,</l>
+	<l id="220">Je lui fis si longtemps bouclier de mon corps,</l>
+	<l id="221">Qu'enfin autour de lui ses troupes ralliées,</l>
+	<l id="222">Celles qui l'enfermaient furent sacrifiées ;</l>
+	<l id="223">Et le même escadron qui vint le secourir</l>
+	<l id="224">Le ramena vainqueur, et moi prêt à mourir.</l>
+	<l id="225">Je montai le premier sur les murs de Séville,</l>
+	<l id="226">Et tins la brèche ouverte aux troupes de Castille.</l>
+	<l id="227">Je ne vous parle point d'assez d'autres exploits,</l>
+	<l id="228">Qui n'ont pas pour témoins eu les yeux de mes rois.</l>
+	<l id="229">Tel me voit et m'entend, et me méprise encore,</l>
+	<l id="230">Qui gémirait sans moi dans les prisons du More.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="231">Nous parlez-vous, Carlos, pour Dom Lope et pour moi ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="232">Je parle seulement de ce qu'a vu le roi,</l>
+	<l id="233">Seigneur ; et qui voudra parle à sa conscience.</l>
+	<l id="234">Voilà dont le feu roi me promit récompense ;</l>
+	<l id="235">Mais la mort le surprit comme il la résolvait.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="236">Il se fût acquitté de ce qu'il vous devait ;</l>
+	<l id="237">Et moi, comme héritant son sceptre et sa couronne,</l>
+	<l id="238">Je prends sur moi sa dette, et je vous la fais bonne.</l>
+	<l id="239">Seyez-vous, et quittons ces petits différends.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="240">Souffrez qu'auparavant il nomme ses parents.</l>
+	<l id="241">Nous ne contestons point l'honneur de sa vaillance,</l>
+	<l id="242">Madame ; et s'il en faut notre reconnaissance,</l>
+	<l id="243">Nous avouerons tous deux qu'en ces combats derniers</l>
+	<l id="244">L'un et l'autre, sans lui, nous étions prisonniers ;</l>
+	<l id="245">Mais enfin la valeur, sans l'éclat de la race,</l>
+	<l id="246">N'eut jamais aucun droit d'occuper cette place.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="247">Se pare qui voudra des noms de ses aïeux :</l>
+	<l id="248">Moi, je ne veux porter que moi-même en tous lieux ;</l>
+	<l id="249">Je ne veux rien devoir à ceux qui m'ont fait naître,</l>
+	<l id="250">Et suis assez connu sans les faire connaître.</l>
+	<l id="251">Mais pour en quelque sorte obéir à vos lois,</l>
+	<l id="252">Seigneur, pour mes parents je nomme mes exploits :</l>
+	<l id="253">Ma valeur est ma race, et mon bras est mon père.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="254">Vous le voyez, madame, et la preuve en est claire :</l>
+	<l id="255" part="i">Sans doute il n'est pas noble.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="255" part="f">Eh bien ! Je l'anoblis,</l>
+	<l id="256">Quelle que soit sa race et de qui qu'il soit fils.</l>
+	<l id="257" part="i">Qu'on ne conteste plus.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="257" part="f">Encore un mot, de grâce.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="258">Don Manrique, à la fin, c'est prendre trop d'audace.</l>
+	<l id="259">Ne puis-je l'anoblir si vous n'y consentez ?</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="260">Oui, mais ce rang n'est dû qu'aux hautes dignités ;</l>
+	<l id="261">Tout autre qu'un marquis ou comte le profane.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="262">Eh bien ! Seyez-vous donc, marquis de Santillane,</l>
+	<l id="263">Comte de Pennafiel, gouverneur de Burgos.</l>
+	<l id="264">Don Manrique, est-ce assez pour faire seoir Carlos ?</l>
+	<l id="265">Vous reste-t-il encore quelque scrupule en l'âme ?</l>
+<stage>Dom Manrique et Dom Lope se lèvent, et Carlos se sied.</stage>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="266">Achevez, achevez ; faites-le roi, madame :</l>
+	<l id="267">Par ces marques d'honneur l'élever jusqu'à nous,</l>
+	<l id="268">C'est moins nous l'égaler que l'approcher de vous.</l>
+	<l id="269">Ce préambule adroit n'était pas sans mystère ;</l>
+	<l id="270">Et ces nouveaux serments qu'il nous a fallu faire</l>
+	<l id="271">Montraient bien dans votre âme un tel choix préparé.</l>
+	<l id="272">Enfin vous le pouvez, et nous l'avons juré.</l>
+	<l id="273">Je suis prêt d'obéir ; et loin d'y contredire,</l>
+	<l id="274">Je laisse entre ses mains et vous et votre empire.</l>
+	<l id="275">Je sors avant ce choix, non que j'en sois jaloux,</l>
+	<l id="276">Mais de peur que mon front n'en rougisse pour vous.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="277">Arrêtez, insolent : votre reine pardonne</l>
+	<l id="278">Ce qu'une indigne crainte imprudemment soupçonne ;</l>
+	<l id="279">Et pour la démentir, veut bien vous assurer</l>
+	<l id="280">Qu'au choix de ses états elle veut demeurer ;</l>
+	<l id="281">Que vous tenez encore même rang dans son âme ;</l>
+	<l id="282">Qu'elle prend vos transports pour un excès de flamme,</l>
+	<l id="283">Et qu'au lieu d'en punir le zèle injurieux,</l>
+	<l id="284">Sur un crime d'amour elle ferme les yeux.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="285">Madame, excusez donc si quelque antipathie...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="286">Ne faites point ici de fausse modestie :</l>
+	<l id="287">J'ai trop vu votre orgueil pour le justifier,</l>
+	<l id="288">Et sais bien les moyens de vous humilier.</l>
+	<l id="289">Soit que j'aime Carlos, soit que par simple estime</l>
+	<l id="290">Je rende à ses vertus un honneur légitime,</l>
+	<l id="291">Vous devez respecter, quels que soient mes desseins,</l>
+	<l id="292">Ou le choix de mon coeur, ou l'oeuvre de mes mains.</l>
+	<l id="293">Je l'ai fait votre égal ; et quoiqu'on s'en mutine,</l>
+	<l id="294">Sachez qu'à plus encore ma faveur le destine.</l>
+	<l id="295">Je veux qu'aujourd'hui même il puisse plus que moi :</l>
+	<l id="296">J'en ai fait un marquis, je veux qu'il fasse un roi.</l>
+	<l id="297">S'il a tant de valeur que vous-mêmes le dites,</l>
+	<l id="298">Il sait quelle est la vôtre, et connaît vos mérites,</l>
+	<l id="299">Et jugera de vous avec plus de raison</l>
+	<l id="300">Que moi, qui n'en connais que la race et le nom.</l>
+	<l id="301">Marquis, prenez ma bague, et la donnez pour marque</l>
+	<l id="302">Au plus digne des trois, que j'en fasse un monarque.</l>
+	<l id="303">Je vous laisse y penser tout ce reste du jour.</l>
+	<l id="304">Rivaux, ambitieux, faites-lui votre cour :</l>
+	<l id="305">Qui me rapportera l'anneau que je lui donne</l>
+	<l id="306">Recevra sur-le-champ ma main et ma couronne.</l>
+	<l id="307">Allons, reines, allons, et laissons-les juger</l>
+	<l id="308">De quel côté l'amour avait su m'engager.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Manrique, Dom Lope, Dom Alvar, Carlos.</head>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="309">Eh bien ! Seigneur marquis, nous direz-vous, de grâce,</l>
+	<l id="310">Ce que, pour vous gagner, il est besoin qu'on fasse ?</l>
+	<l id="311">Vous êtes notre juge, il faut vous adoucir.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="312">Vous y pourriez peut-être assez mal réussir.</l>
+	<l id="313">Quittez ces contre-temps de froide raillerie.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="314">Il n'en est pas saison, quand il faut qu'on vous prie.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="315">Ne raillons, ni prions, et demeurons amis.</l>
+	<l id="316">Je sais ce que la reine en mes mains a remis ;</l>
+	<l id="317">J'en userai fort bien : vous n'avez rien à craindre,</l>
+	<l id="318">Et pas un de vous trois n'aura lieu de se plaindre.</l>
+	<l id="319">Je n'entreprendrai point de juger entre vous</l>
+	<l id="320">Qui mérite le mieux le nom de son époux :</l>
+	<l id="321">Je serais téméraire, et m'en sens incapable ;</l>
+	<l id="322">Et peut-être quelqu'un m'en tiendrait récusable.</l>
+	<l id="323">Je m'en récuse donc, afin de vous donner</l>
+	<l id="324">Un juge que sans honte on ne peut soupçonner ;</l>
+	<l id="325">Ce sera votre épée et votre bras lui-même.</l>
+	<l id="326">Comtes, de cet anneau dépend le diadème :</l>
+	<l id="327">Il vaut bien un combat ; vous avez tous du coeur,</l>
+	<l id="328" part="i">Et je le garde...</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="328" part="m">À qui, Carlos ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="328" part="f">À mon vainqueur.</l>
+	<l id="329">Qui pourra me l'ôter l'ira rendre à la reine :</l>
+	<l id="330">Ce sera du plus digne une preuve certaine.</l>
+	<l id="331">Prenez entre vous l'ordre et du temps et du lieu ;</l>
+	<l id="332">Je m'y rendrai sur l'heure, et vais l'attendre. Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dom Manrique, Dom Lope, Alvar.</head>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="333" part="i">Vous voyez l'arrogance.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="333" part="f">Ainsi les grands courages</l>
+	<l id="334">Savent en généreux repousser les outrages.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="335">Il se méprend pourtant, s'il pense qu'aujourd'hui</l>
+	<l id="336">Nous daignions mesurer notre épée avec lui.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="337" part="i">Refuser un combat !</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="337" part="f">Des généraux d'armée,</l>
+	<l id="338">Jaloux de leur honneur et de leur renommée,</l>
+	<l id="339">Ne se commettent point contre un aventurier.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="340">Ne mettez point si bas un si vaillant guerrier :</l>
+	<l id="341">Qu'il soit ce qu'en voudra présumer votre haine,</l>
+	<l id="342">Il doit être pour nous ce qu'a voulu la reine.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="343">La reine qui nous brave, et sans égard au sang,</l>
+	<l id="344">Ose souiller ainsi l'éclat de notre rang !</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="345">Les rois de leurs faveurs ne sont jamais comptables ;</l>
+	<l id="346">Ils font, comme il leur plaît, et défont nos semblables.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="347">Envers les majestés vous êtes bien discret.</l>
+	<l id="348">Voyez-vous cependant qu'elle l'aime en secret ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="349">Dites, si vous voulez, qu'ils sont d'intelligence,</l>
+	<l id="350">Qu'elle a de sa valeur si haute confiance,</l>
+	<l id="351">Qu'elle espère par là faire approuver son choix,</l>
+	<l id="352">Et se rendre avec gloire au vainqueur de tous trois,</l>
+	<l id="353">Qu'elle nous hait dans l'âme autant qu'elle l'adore :</l>
+	<l id="354">C'est à nous d'honorer ce que la reine honore.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="355">Vous la respectez fort ; mais y prétendez-vous ?</l>
+	<l id="356">On dit que l'Aragon a des charmes si doux...</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="357">Qu'ils me soient doux ou non, je ne crois pas sans crime</l>
+	<l id="358">Pouvoir de mon pays désavouer l'estime ;</l>
+	<l id="359">Et puisqu'il m'a jugé digne d'être son roi,</l>
+	<l id="360">Je soutiendrai partout l'état qu'il fait de moi.</l>
+	<l id="361">Je vais donc disputer, sans que rien me retarde,</l>
+	<l id="362">Au marquis Dom Carlos cet anneau qu'il nous garde ;</l>
+	<l id="363">Et si sur sa valeur je le puis emporter,</l>
+	<l id="364">J'attendrai de vous deux qui voudra me l'ôter :</l>
+	<l id="365" part="i">Le champ vous sera libre.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="365" part="f">À la bonne heure, comte ;</l>
+	<l id="366">Nous vous irons alors le disputer sans honte :</l>
+	<l id="367">Nous ne dédaignons point un si digne rival ;</l>
+	<l id="368">Mais pour votre marquis, qu'il cherche son égal.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dona Isabelle, Blanche.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="369">Blanche, as-tu rien connu d'égal à ma misère ?</l>
+	<l id="370">Tu vois tous mes désirs condamnés à se taire,</l>
+	<l id="371">Mon coeur faire un beau choix sans l'oser accepter,</l>
+	<l id="372">Et nourrir un beau feu sans l'oser écouter.</l>
+	<l id="373">Vois par là ce que c'est, Blanche, que d'être reine :</l>
+	<l id="374">Comptable de moi-même au nom de souveraine,</l>
+	<l id="375">Et sujette à jamais du trône où je me vois,</l>
+	<l id="376">Je puis tout pour tout autre et ne puis rien pour moi.</l>
+	<l id="377">Ô sceptres ! S'il est vrai que tout vous soit possible,</l>
+	<l id="378">Pourquoi ne pouvez-vous rendre un coeur insensible ?</l>
+	<l id="379">Pourquoi permettez-vous qu'il soit d'autres appas,</l>
+	<l id="380">Ou que l'on ait des yeux pour ne les croire pas ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="381">Je présumais tantôt que vous les alliez croire :</l>
+	<l id="382">J'en ai plus d'une fois tremblé pour votre gloire.</l>
+	<l id="383">Ce qu'à vos trois amants vous avez fait jurer</l>
+	<l id="384">Au choix de Dom Carlos semblait tout préparer :</l>
+	<l id="385">Je le nommais pour vous. Mais enfin par l'issue</l>
+	<l id="386">Ma crainte s'est trouvée heureusement déçue ;</l>
+	<l id="387">L'effort de votre amour a su se modérer ;</l>
+	<l id="388">Vous l'avez honoré sans vous déshonorer,</l>
+	<l id="389">Et satisfait ensemble, en trompant mon attente,</l>
+	<l id="390">La grandeur d'une reine et l'ardeur d'une amante.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="391">Dis que pour honorer sa générosité,</l>
+	<l id="392">Mon amour s'est joué de mon autorité,</l>
+	<l id="393">Et qu'il a fait servir, en trompant ton attente,</l>
+	<l id="394">Le pouvoir de la reine au courroux de l'amante.</l>
+	<l id="395">D'abord par ce discours, qui t'a semblé suspect,</l>
+	<l id="396">Je voulais seulement essayer leur respect,</l>
+	<l id="397">Soutenir jusqu'au bout la dignité de reine ;</l>
+	<l id="398">Et comme enfin ce choix me donnait de la peine,</l>
+	<l id="399">Perdre quelques moments, choisir un peu plus tard :</l>
+	<l id="400">J'allais nommer pourtant, et nommer au hasard ;</l>
+	<l id="401">Mais tu sais quel orgueil ont lors montré les comtes,</l>
+	<l id="402">Combien d'affronts pour lui, combien pour moi de hontes.</l>
+	<l id="403">Certes, il est bien dur à qui se voit régner</l>
+	<l id="404">De montrer quelque estime, et la voir dédaigner.</l>
+	<l id="405">Sous ombre de venger sa grandeur méprisée,</l>
+	<l id="406">L'amour à la faveur trouve une pente aisée ;</l>
+	<l id="407">À l'intérêt du sceptre aussitôt attaché,</l>
+	<l id="408">Il agit d'autant plus qu'il se croit bien caché,</l>
+	<l id="409">Et s'ose imaginer qu'il ne fait rien paraître</l>
+	<l id="410">Que ce change de nom ne fasse méconnaître.</l>
+	<l id="411">J'ai fait Carlos marquis, et comte, et gouverneur ;</l>
+	<l id="412">Il doit à ses jaloux tous ces titres d'honneur :</l>
+	<l id="413">M'en voulant faire avare, ils m'en faisaient prodigue ;</l>
+	<l id="414">Ce torrent grossissait, rencontrant cette digue :</l>
+	<l id="415">C'était plus les punir que le favoriser.</l>
+	<l id="416">L'amour me parlait trop, j'ai voulu l'amuser ;</l>
+	<l id="417">Par ces profusions j'ai cru le satisfaire,</l>
+	<l id="418">Et l'ayant satisfait, l'obliger à se taire ;</l>
+	<l id="419">Mais, hélas ! En mon coeur il avait tant d'appui,</l>
+	<l id="420">Que je n'ai pu jamais prononcer contre lui,</l>
+	<l id="421">Et n'ai mis en ses mains ce Dom du diadème</l>
+	<l id="422">Qu'afin de l'obliger à s'exclure lui-même.</l>
+	<l id="423">Ainsi, pour apaiser les murmures du coeur,</l>
+	<l id="424">Mon refus a porté les marques de faveur ;</l>
+	<l id="425">Et revêtant de gloire un invisible outrage,</l>
+	<l id="426">De peur d'en faire un roi je l'ai fait davantage :</l>
+	<l id="427">Outre qu'indifférente aux voeux de tous les trois</l>
+	<l id="428">J'espérais que l'amour pourrait suivre son choix,</l>
+	<l id="429">Et que le moindre d'eux, de soi-même estimable,</l>
+	<l id="430">Recevrait de sa main la qualité d'aimable.</l>
+	<l id="431">Voilà, Blanche, où j'en suis ; voilà ce que j'ai fait ;</l>
+	<l id="432">Voilà les vrais motifs dont tu voyais l'effet ;</l>
+	<l id="433">Car mon âme pour lui, quoique ardemment pressée,</l>
+	<l id="434">Ne saurait se permettre une indigne pensée ;</l>
+	<l id="435">Et je mourrais encore avant que m'accorder</l>
+	<l id="436">Ce qu'en secret mon coeur ose me demander.</l>
+	<l id="437">Mais enfin je vois bien que je me suis trompée</l>
+	<l id="438">De m'en être remise à qui porte une épée,</l>
+	<l id="439">Et trouve occasion, dessous cette couleur,</l>
+	<l id="440">De venger le mépris qu'on fait de sa valeur.</l>
+	<l id="441">Je devais par mon choix étouffer cent querelles ;</l>
+	<l id="442">Et l'ordre que j'y tiens en forme de nouvelles,</l>
+	<l id="443">Et jette entre les grands, amoureux de mon rang,</l>
+	<l id="444">Une nécessité de répandre du sang.</l>
+	<l id="445" part="i">Mais j'y saurai pourvoir.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="445" part="f">C'est un pénible ouvrage</l>
+	<l id="446">D'arrêter un combat qu'autorise l'usage,</l>
+	<l id="447">Que les lois ont réglé, que les rois vos aïeux</l>
+	<l id="448">Daignaient assez souvent honorer de leurs yeux :</l>
+	<l id="449">On ne s'en dédit point sans quelque ignominie,</l>
+	<l id="450">Et l'honneur aux grands coeurs est plus cher que la vie.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="451">Je sais ce que tu dis, et n'irai pas de front</l>
+	<l id="452">faire un commandement qu'ils prendraient pour affront.</l>
+	<l id="453">Lorsque le déshonneur souille l'obéissance,</l>
+	<l id="454">Les rois peuvent douter de leur toute-puissance :</l>
+	<l id="455">Qui la hasarde alors n'en sait pas bien user,</l>
+	<l id="456">Et qui veut pouvoir tout ne doit pas tout oser.</l>
+	<l id="457">Je romprai ce combat feignant de le permettre,</l>
+	<l id="458">Et je le tiens rompu si je puis le remettre.</l>
+	<l id="459">Les reines d'Aragon pourront même m'aider.</l>
+	<l id="460">Voici déjà Carlos que je viens de mander :</l>
+	<l id="461">Demeure, et tu verras avec combien d'adresse</l>
+	<l id="462">Ma gloire de mon âme est toujours la maîtresse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dona Isabelle, Carlos, Blanche.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="463">Vous avez bien servi, marquis, et jusqu'ici</l>
+	<l id="464">Vos armes ont pour nous dignement réussi :</l>
+	<l id="465">Je pense avoir aussi bien payé vos services.</l>
+	<l id="466">Malgré vos envieux et leurs mauvais offices,</l>
+	<l id="467">J'ai fait beaucoup pour vous, et tout ce que j'ai fait</l>
+	<l id="468">Ne vous a pas coûté seulement un souhait.</l>
+	<l id="469">Si cette récompense est pourtant si petite</l>
+	<l id="470">Qu'elle ne puisse aller jusqu'à votre mérite,</l>
+	<l id="471">S'il vous en reste encore quelque autre à souhaiter,</l>
+	<l id="472">Parlez, et donnez-moi moyen de m'acquitter.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="473">Après tant de faveurs à pleines mains versées,</l>
+	<l id="474">Dont mon coeur n'eût osé concevoir les pensées,</l>
+	<l id="475">Surpris, troublé, confus, accablé de bienfaits,</l>
+	<l id="476">Que j'osasse former encore quelques souhaits !</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="477">Vous êtes donc content ; et j'ai lieu de me plaindre.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="478" part="i">De moi ?</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="478" part="f">De vous, marquis. Je vous parle sans feindre :</l>
+	<l id="479">écoutez. Votre bras a bien servi l'état,</l>
+	<l id="480">Tant que vous n'avez eu que le nom de soldat ;</l>
+	<l id="481">Dès que je vous fais grand, sitôt que je vous donne</l>
+	<l id="482">Le droit de disposer de ma propre personne,</l>
+	<l id="483">Ce même bras s'apprête à troubler son repos,</l>
+	<l id="484">Comme si le marquis cessait d'être Carlos,</l>
+	<l id="485">Ou que cette grandeur ne fût qu'un avantage</l>
+	<l id="486">Qui dût à sa ruine armer votre courage.</l>
+	<l id="487">Les trois comtes en sont les plus fermes soutiens :</l>
+	<l id="488">Vous attaquez en eux ses appuis et les miens ;</l>
+	<l id="489">C'est son sang le plus pur que vous voulez répandre ;</l>
+	<l id="490">Et vous pouvez juger l'honneur qu'on leur doit rendre,</l>
+	<l id="491">Puisque ce même état, me demandant un roi,</l>
+	<l id="492">Les a jugés eux trois les plus dignes de moi.</l>
+	<l id="493">Peut-être un peu d'orgueil vous a mis dans la tête</l>
+	<l id="494">Qu'à venger leur mépris ce prétexte est honnête :</l>
+	<l id="495">Vous en avez suivi la première chaleur ;</l>
+	<l id="496">Mais leur mépris va-t-il jusqu'à votre valeur ?</l>
+	<l id="497">N'en ont-ils pas rendu témoignage à ma vue ?</l>
+	<l id="498">Ils ont fait peu d'état d'une race inconnue,</l>
+	<l id="499">Ils ont douté d'un sort que vous voulez cacher :</l>
+	<l id="500">Quand un doute si juste aurait dû vous toucher,</l>
+	<l id="501">J'avais pris quelque soin de vous venger moi-même.</l>
+	<l id="502">Remettre entre vos mains le don du diadème,</l>
+	<l id="503">Ce n'était pas, marquis, vous venger à demi.</l>
+	<l id="504">Je vous ai fait leur juge, et non leur ennemi,</l>
+	<l id="505">Et si sous votre choix j'ai voulu les réduire,</l>
+	<l id="506">C'est pour vous faire honneur et non pour les détruire.</l>
+	<l id="507">C'est votre seul avis, non leur sang que je veux ;</l>
+	<l id="508">Et c'est m'entendre mal que vous armer contre eux.</l>
+	<l id="509">N'auriez-vous point pensé que si ce grand courage</l>
+	<l id="510">Vous pouvait sur tous trois donner quelque avantage,</l>
+	<l id="511">On dirait que l'état, me cherchant un époux,</l>
+	<l id="512">N'en aurait pu trouver de comparable à vous ?</l>
+	<l id="513">Ah ! Si je vous croyais si vain, si téméraire...</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="514">Madame, arrêtez là votre juste colère ;</l>
+	<l id="515">Je suis assez coupable, et n'ai que trop osé,</l>
+	<l id="516">Sans choisir pour me perdre un crime supposé.</l>
+	<l id="517">Je ne me défends point des sentiments d'estime</l>
+	<l id="518">Que vos moindres sujets auraient pour vous sans crime.</l>
+	<l id="519">Lorsque je vois en vous les célestes accords</l>
+	<l id="520">Des grâces de l'esprit et des beautés du corps,</l>
+	<l id="521">Je puis, de tant d'attraits l'âme toute ravie,</l>
+	<l id="522">Sur l'heur de votre époux jeter un oeil d'envie ;</l>
+	<l id="523">Je puis contre le ciel en secret murmurer</l>
+	<l id="524">De n'être pas né roi pour pouvoir espérer ;</l>
+	<l id="525">Et les yeux éblouis de cet éclat suprême,</l>
+	<l id="526">Baisser soudain la vue, et rentrer en moi-même ;</l>
+	<l id="527">Mais que je laisse aller d'ambitieux soupirs,</l>
+	<l id="528">Un ridicule espoir, de criminels désirs ! ...</l>
+	<l id="529">Je vous aime, madame, et vous estime en reine ;</l>
+	<l id="530">Et quand j'aurais des feux dignes de votre haine,</l>
+	<l id="531">Si votre âme, sensible à ces indignes feux,</l>
+	<l id="532">Se pouvait oublier jusqu'à souffrir mes voeux ;</l>
+	<l id="533">Si par quelque malheur que je ne puis comprendre,</l>
+	<l id="534">Du trône jusqu'à moi je la voyais descendre,</l>
+	<l id="535">Commençant aussitôt à vous moins estimer,</l>
+	<l id="536">Je cesserais sans doute aussi de vous aimer.</l>
+	<l id="537">L'amour que j'ai pour vous est tout à votre gloire :</l>
+	<l id="538">Je ne vous prétends point pour fruit de ma victoire ;</l>
+	<l id="539">Je combats vos amants, sans dessein d'acquérir</l>
+	<l id="540">Que l'heur d'en faire voir le plus digne, et mourir ;</l>
+	<l id="541">Et tiendrais mon destin assez digne d'envie,</l>
+	<l id="542">S'il le faisait connaître aux dépens de ma vie.</l>
+	<l id="543">Serait-ce à vos faveurs répondre pleinement</l>
+	<l id="544">Que hasarder ce choix à mon seul jugement ?</l>
+	<l id="545">Il vous doit un époux, à la Castille un maître :</l>
+	<l id="546">Je puis en mal juger, je puis les mal connaître.</l>
+	<l id="547">Je sais qu'ainsi que moi le démon des combats</l>
+	<l id="548">Peut donner au moins digne et vous et vos états ;</l>
+	<l id="549">Mais du moins, si le sort des armes journalières</l>
+	<l id="550">En laisse par ma mort de mauvaises lumières,</l>
+	<l id="551">Elle m'en ôtera la honte et le regret ;</l>
+	<l id="552">Et même si votre âme en aime un en secret,</l>
+	<l id="553">Et que ce triste choix rencontre mal le vôtre,</l>
+	<l id="554">Je ne vous verrai point, entre les bras d'un autre,</l>
+	<l id="555">Reprocher à Carlos par de muets soupirs</l>
+	<l id="556">Qu'il est l'unique auteur de tous vos déplaisirs.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="557">Ne cherchez point d'excuse à douter de ma flamme,</l>
+	<l id="558">Marquis ; je puis aimer, puisqu'enfin je suis femme ;</l>
+	<l id="559">Mais, si j'aime, c'est mal me faire votre cour</l>
+	<l id="560">Qu'exposer au trépas l'objet de mon amour ;</l>
+	<l id="561">Et toute votre ardeur se serait modérée</l>
+	<l id="562">À m'avoir dans ce doute assez considérée :</l>
+	<l id="563">Je le veux éclaircir, et vous mieux éclairer,</l>
+	<l id="564">Afin de vous apprendre à me considérer.</l>
+	<l id="565">Je ne le cèle point ; j'aime, Carlos, oui, j'aime ;</l>
+	<l id="566">Mais l'amour de l'état, plus fort que de moi-même,</l>
+	<l id="567">Cherche, au lieu de l'objet le plus doux à mes yeux,</l>
+	<l id="568">Le plus digne héros de régner en ces lieux ;</l>
+	<l id="569">Et craignant que mes feux osassent me séduire,</l>
+	<l id="570">J'ai voulu m'en remettre à vous pour m'en instruire.</l>
+	<l id="571">Mais je crois qu'il suffit que cet objet d'amour</l>
+	<l id="572">Perde le trône et moi sans perdre encore le jour ;</l>
+	<l id="573">Et mon coeur qu'on lui vole en souffre assez d'alarmes,</l>
+	<l id="574">Sans que sa mort pour moi me demande des larmes.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="575">Ah ! Si le ciel tantôt me daignait inspirer</l>
+	<l id="576">En quel heureux amant je vous dois révérer,</l>
+	<l id="577">Que par une facile et soudaine victoire...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="578">Ne pensez qu'à défendre et vous et votre gloire.</l>
+	<l id="579">Quel qu'il soit, les respects qui l'auraient épargné</l>
+	<l id="580">Lui donneraient un prix qu'il aurait mal gagné ;</l>
+	<l id="581">Et céder à mes feux plutôt qu'à son mérite</l>
+	<l id="582">Ne serait que me rendre au juge que j'évite.</l>
+	<l id="583">Je n'abuserai point du pouvoir absolu,</l>
+	<l id="584">Pour défendre un combat entre vous résolu ;</l>
+	<l id="585">Je blesserais par là l'honneur de tous les quatre :</l>
+	<l id="586">Les lois vous l'ont permis, je vous verrai combattre ;</l>
+	<l id="587">C'est à moi, comme reine, à nommer le vainqueur.</l>
+	<l id="588">Dites-moi, cependant, qui montre plus de coeur ?</l>
+	<l id="589">Qui des trois le premier éprouve la fortune ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="590" part="i">Don Alvar.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="590" part="m">Don Alvar !</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="590" part="f">Oui, Dom Alvar de Lune.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="591" part="i">On dit qu'il aime ailleurs.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="591" part="f">On le dit ; mais enfin</l>
+	<l id="592">Lui seul jusqu'ici tente un si noble destin.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="593">Je devine à peu près quel intérêt l'engage ;</l>
+	<l id="594">Et nous verrons demain quel sera son courage.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="595">Vous ne m'avez donné que ce jour pour ce choix.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="596">J'aime mieux au lieu d'un vous en accorder trois.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="597">Madame, son cartel marque cette journée.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="598">C'est peu que son cartel, si je ne l'ai donnée ;</l>
+	<l id="599">Qu'on le fasse venir pour la voir différer.</l>
+	<l id="600">Je vais pour vos combats faire tout préparer.</l>
+	<l id="601">Adieu : souvenez-vous surtout de ma défense ;</l>
+	<l id="602">Et vous aurez demain l'honneur de ma présence.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="603">Consens-tu qu'on diffère, honneur ? Le consens-tu ?</l>
+	<l id="604">Cet ordre n'a-t-il rien qui souille ma vertu ?</l>
+	<l id="605">N'ai-je point à rougir de cette déférence</l>
+	<l id="606">Que d'un combat illustre achète la licence ?</l>
+	<l id="607">Tu murmures, ce semble ? Achève ; explique-toi.</l>
+	<l id="608">La reine a-t-elle droit de te faire la loi ?</l>
+	<l id="609">Tu n'es point son sujet, l'Aragon m'a vu naître.</l>
+	<l id="610">Ô ciel ! Je m'en souviens, et j'ose encore paraître !</l>
+	<l id="611">Et je puis, sous les noms de comte et de marquis,</l>
+	<l id="612">D'un malheureux pêcheur reconnaître le fils !</l>
+	<l id="613">Honteuse obscurité, qui seule me fais craindre !</l>
+	<l id="614">Injurieux destin, qui seul me rends à plaindre !</l>
+	<l id="615">Plus on m'en fait sortir, plus je crains d'y rentrer,</l>
+	<l id="616">Et crois ne t'avoir fui que pour te rencontrer.</l>
+	<l id="617">Ton cruel souvenir sans fin me persécute ;</l>
+	<l id="618">Du rang où l'on m'élève il me montre la chute.</l>
+	<l id="619">Lasse-toi désormais de me faire trembler ;</l>
+	<l id="620">Je parle à mon honneur, ne viens point le troubler.</l>
+	<l id="621">Laisse-le sans remords m'approcher des couronnes,</l>
+	<l id="622">Et ne viens point m'ôter plus que tu ne me donnes.</l>
+	<l id="623">Je n'ai plus rien à toi : la guerre a consumé</l>
+	<l id="624">Tout cet indigne sang dont tu m'avais formé ;</l>
+	<l id="625">J'ai quitté jusqu'au nom que je tiens de ta haine,</l>
+	<l id="626">Et ne puis... Mais voici ma véritable reine.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dona Elvire, Carlos.</head>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="627">Ah ! Carlos, car j'ai peine à vous nommer marquis,</l>
+	<l id="628">Non qu'un titre si beau ne vous soit bien acquis,</l>
+	<l id="629">Non qu'avec justice il ne vous appartienne,</l>
+	<l id="630">Mais parce qu'il vous vient d'autre main que la mienne,</l>
+	<l id="631">Et que je présumais n'appartenir qu'à moi</l>
+	<l id="632">D'élever votre gloire au rang où je la vois.</l>
+	<l id="633">Je me consolerais toutefois avec joie</l>
+	<l id="634">Des faveurs que sans moi le ciel sur vous déploie,</l>
+	<l id="635">Et verrais sans envie agrandir un héros,</l>
+	<l id="636">Si le marquis tenait ce qu'a promis Carlos,</l>
+	<l id="637">S'il avait comme lui son bras à mon service.</l>
+	<l id="638">Je venais à la reine en demander justice ;</l>
+	<l id="639">Mais puisque je vous vois, vous m'en ferez raison.</l>
+	<l id="640">Je vous accuse donc, non pas de trahison,</l>
+	<l id="641">Pour un coeur généreux cette tache est trop noire,</l>
+	<l id="642">Mais d'un peu seulement de manque de mémoire.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="643" part="i">Moi, madame ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="643" part="f">écoutez mes plaintes en repos.</l>
+	<l id="644">Je me plains du marquis, et non pas de Carlos :</l>
+	<l id="645">Carlos de tout son coeur me tiendrait sa parole ;</l>
+	<l id="646">Mais ce qu'il m'a donné, le marquis me le vole :</l>
+	<l id="647">C'est lui seul qui dispose ainsi du bien d'autrui,</l>
+	<l id="648">Et prodigue son bras quand il n'est plus à lui.</l>
+	<l id="649">Carlos se souviendrait que sa haute vaillance</l>
+	<l id="650">Doit ranger Dom Garcie à mon obéissance,</l>
+	<l id="651">Qu'elle doit affermir mon sceptre dans ma main,</l>
+	<l id="652">Qu'il doit m'accompagner peut-être dès demain ;</l>
+	<l id="653">Mais ce Carlos n'est plus, le marquis lui succède,</l>
+	<l id="654">Qu'une autre soif de gloire, un autre objet possède,</l>
+	<l id="655">Et qui du même bras que m'engageait sa foi,</l>
+	<l id="656">Entreprend trois combats pour une autre que moi.</l>
+	<l id="657">Hélas ! Si ces honneurs dont vous comble la reine</l>
+	<l id="658">Réduisent mon espoir en une attente vaine ;</l>
+	<l id="659">Si les nouveaux desseins que vous en concevez</l>
+	<l id="660">Vous ont fait oublier ce que vous me devez,</l>
+	<l id="661">Rendez-lui ces honneurs qu'un tel oubli profane,</l>
+	<l id="662">Rendez-lui Pennafiel, Burgos, et Santillane ;</l>
+	<l id="663">L'Aragon a de quoi vous payer ces refus,</l>
+	<l id="664">Et vous donner encore quelque chose de plus.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="665">Et Carlos, et marquis, je suis à vous, madame :</l>
+	<l id="666">Le changement de rang ne change point mon âme ;</l>
+	<l id="667">Mais vous trouverez bon que par ces trois défis</l>
+	<l id="668">Carlos tâche à payer ce que doit le marquis.</l>
+	<l id="669">Vous réserver mon bras noirci d'une infamie,</l>
+	<l id="670">Attirerait sur vous la fortune ennemie,</l>
+	<l id="671">Et vous hasarderait, par cette lâcheté,</l>
+	<l id="672">Au juste châtiment qu'il aurait mérité.</l>
+	<l id="673">Quand deux occasions pressent un grand courage,</l>
+	<l id="674">L'honneur à la plus proche avidement l'engage,</l>
+	<l id="675">Et lui fait préférer, sans le rendre inconstant,</l>
+	<l id="676">Celle qui se présente à celle qui l'attend.</l>
+	<l id="677">Ce n'est pas, toutefois, madame, qu'il l'oublie,</l>
+	<l id="678">Mais bien que je vous doive immoler Dom Garcie,</l>
+	<l id="679">J'ai vu que vers la reine on perdait le respect,</l>
+	<l id="680">Que d'un indigne amour son coeur était suspect ;</l>
+	<l id="681">Pour m'avoir honoré je l'ai vue outragée,</l>
+	<l id="682">Et ne puis m'acquitter qu'après l'avoir vengée.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="683">C'est me faire une excuse où je ne comprends rien,</l>
+	<l id="684">Sinon que son service est préférable au mien,</l>
+	<l id="685">Qu'avant que de me suivre on doit mourir pour elle,</l>
+	<l id="686">Et qu'étant son sujet, il faut m'être infidèle.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="687">Ce n'est point en sujet que je cours au combat :</l>
+	<l id="688">Peut-être suis-je né dedans quelque autre état ;</l>
+	<l id="689">Mais par un zèle entier et pour l'une et pour l'autre,</l>
+	<l id="690">J'embrasse également son service et le vôtre,</l>
+	<l id="691">Et les plus grands périls n'ont rien de hasardeux</l>
+	<l id="692">Que j'ose refuser pour aucune des deux.</l>
+	<l id="693">Quoique engagé demain à combattre pour elle,</l>
+	<l id="694">S'il fallait aujourd'hui venger votre querelle,</l>
+	<l id="695">Tout ce que je lui dois ne m'empêcherait pas</l>
+	<l id="696">De m'exposer pour vous à plus de trois combats.</l>
+	<l id="697">Je voudrais toutes deux pouvoir vous satisfaire,</l>
+	<l id="698">Vous, sans manquer vers elle ; elle, sans vous déplaire :</l>
+	<l id="699">Cependant je ne puis servir elle ni vous</l>
+	<l id="700">Sans de l'une ou de l'autre allumer le courroux.</l>
+	<l id="701">Je plaindrais un amant qui souffrirait mes peines,</l>
+	<l id="702">Et tel pour deux beautés que je suis pour deux reines,</l>
+	<l id="703">Se verrait déchiré par un égal amour,</l>
+	<l id="704">Tel que sont mes respects dans l'une et l'autre cour :</l>
+	<l id="705">L'âme d'un tel amant, tristement balancée,</l>
+	<l id="706">Sur d'éternels soucis voit flotter sa pensée ;</l>
+	<l id="707">Et ne pouvant résoudre à quels voeux se borner,</l>
+	<l id="708">N'ose rien acquérir, ni rien abandonner :</l>
+	<l id="709">Il n'aime qu'avec trouble, il ne voit qu'avec crainte ;</l>
+	<l id="710">Tout ce qu'il entreprend donne sujet de plainte ;</l>
+	<l id="711">Ses hommages partout ont de fausses couleurs,</l>
+	<l id="712">Et son plus grand service est un grand crime ailleurs.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="713">Aussi sont-ce d'amour les premières maximes,</l>
+	<l id="714">Que partager son âme est le plus grand des crimes.</l>
+	<l id="715">Un coeur n'est à personne alors qu'il est à deux ;</l>
+	<l id="716">Aussitôt qu'il les offre il dérobe ses voeux ;</l>
+	<l id="717">Ce qu'il a de constance, à choisir trop timide,</l>
+	<l id="718">Le rend vers l'une ou l'autre incessamment perfide ;</l>
+	<l id="719">Et comme il n'est enfin ni rigueurs, ni mépris</l>
+	<l id="720">Qui d'un pareil amour ne soient un digne prix,</l>
+	<l id="721">Il ne peut mériter d'aucun oeil qui le charme,</l>
+	<l id="722">En servant, un regard ; en mourant, une larme.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="723">Vous seriez bien sévère envers un tel amant.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="724">Allons voir si la reine agirait autrement,</l>
+	<l id="725">S'il en devrait attendre un plus léger supplice.</l>
+	<l id="726">Cependant Dom Alvar le premier entre en lice ;</l>
+	<l id="727">Et vous savez l'amour qu'il m'a toujours fait voir.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="728">Je sais combien sur lui vous avez de pouvoir.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="729">Quand vous le combattrez, pensez à ce que j'aime,</l>
+	<l id="730">Et ménagez son sang comme le vôtre même.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="731">Quoi ? M'ordonneriez-vous qu'ici j'en fisse un roi ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="732">Je vous dis seulement que vous pensiez à moi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dona Elvire, Dom Alvar.</head>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="733">Vous pouvez donc m'aimer, et d'une âme bien saine</l>
+	<l id="734">Entreprendre un combat pour acquérir la reine !</l>
+	<l id="735">Quel astre agit sur vous avec tant de rigueur,</l>
+	<l id="736">Qu'il force votre bras à trahir votre coeur ?</l>
+	<l id="737">L'honneur, me dites-vous, vers l'amour vous excuse.</l>
+	<l id="738">Ou cet honneur se trompe, ou cet amour s'abuse ;</l>
+	<l id="739">Et je ne comprends point, dans un si mauvais tour,</l>
+	<l id="740">Ni quel est cet honneur, ni quel est cet amour.</l>
+	<l id="741">Tout l'honneur d'un amant, c'est d'être amant fidèle :</l>
+	<l id="742">Si vous m'aimez encore, que prétendez-vous d'elle ?</l>
+	<l id="743">Et si vous l'acquérez, que voulez-vous de moi ?</l>
+	<l id="744">Aurez-vous droit alors de lui manquer de foi ?</l>
+	<l id="745">La mépriserez-vous quand vous l'aurez acquise ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="746">Qu'étant né son sujet jamais je la méprise !</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="747">Que me voulez-vous donc ? Vaincu par Dom Carlos,</l>
+	<l id="748">Aurez-vous quelque grâce à troubler mon repos ?</l>
+	<l id="749">En serez-vous plus digne ? Et par cette victoire,</l>
+	<l id="750">Répandra-t-il sur vous un rayon de sa gloire ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="751">Que j'ose présenter ma défaite à vos yeux !</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="752">Que me veut donc enfin ce coeur ambitieux ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="753">Que vous preniez pitié de l'état déplorable</l>
+	<l id="754">Où votre long refus réduit un misérable.</l>
+	<l id="755">Mes voeux mieux écoutés, par un heureux effet,</l>
+	<l id="756">M'auraient su garantir de l'honneur qu'on m'a fait ;</l>
+	<l id="757">Et l'état par son choix ne m'eût pas mis en peine</l>
+	<l id="758">De manquer à ma gloire, ou d'acquérir ma reine.</l>
+	<l id="759">Votre refus m'expose à cette dure loi</l>
+	<l id="760">D'entreprendre un combat qui n'est que contre moi :</l>
+	<l id="761">J'en crains également l'une et l'autre fortune.</l>
+	<l id="762">Et le moyen aussi que j'en souhaite aucune ?</l>
+	<l id="763">Ni vaincu, ni vainqueur, je ne puis être à vous :</l>
+	<l id="764">Vaincu, j'en suis indigne, et vainqueur, son époux ;</l>
+	<l id="765">Et le destin m'y traite avec tant d'injustice,</l>
+	<l id="766">Que son plus beau succès me tient lieu de supplice.</l>
+	<l id="767">Aussi, quand mon devoir ose la disputer,</l>
+	<l id="768">Je ne veux l'acquérir que pour vous mériter,</l>
+	<l id="769">Que pour montrer qu'en vous j'adorais la personne,</l>
+	<l id="770">Et me pouvais ailleurs promettre une couronne.</l>
+	<l id="771">Fasse le juste ciel que j'y puisse, ou mourir,</l>
+	<l id="772">Ou ne la mériter que pour vous acquérir !</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="773">Ce sont voeux superflus de vouloir un miracle</l>
+	<l id="774">Où votre gloire oppose un invincible obstacle ;</l>
+	<l id="775">Et la reine pour moi vous saura bien payer</l>
+	<l id="776">Du temps qu'un peu d'amour vous fit mal employer.</l>
+	<l id="777">Ma couronne est douteuse, et la sienne affermie ;</l>
+	<l id="778">L'avantage du change en ôte l'infamie.</l>
+	<l id="779">Allez ; n'en perdez pas la digne occasion,</l>
+	<l id="780">Poursuivez-la sans honte et sans confusion.</l>
+	<l id="781">La légèreté même où tant d'honneur engage</l>
+	<l id="782">Est moins légèreté que grandeur de courage ;</l>
+	<l id="783">Mais gardez que Carlos ne me venge de vous.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="784">Ah ! Laissez-moi, madame, adorer ce courroux.</l>
+	<l id="785">J'avais cru jusqu'ici mon combat magnanime ;</l>
+	<l id="786">Mais je suis trop heureux s'il passe pour un crime,</l>
+	<l id="787">Et si, quand de vos lois l'honneur me fait sortir,</l>
+	<l id="788">Vous m'estimez assez pour vous en ressentir.</l>
+	<l id="789">De ce crime vers vous quels que soient les supplices,</l>
+	<l id="790">Du moins il m'a valu plus que tous mes services,</l>
+	<l id="791">Puisqu'il me fait connaître, alors qu'il vous déplaît,</l>
+	<l id="792">Que vous daignez en moi prendre quelque intérêt.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="793">Le crime, Dom Alvar, dont je semble irritée,</l>
+	<l id="794">C'est qu'on me persécute après m'avoir quittée ;</l>
+	<l id="795">Et pour vous dire encore quelque chose de plus,</l>
+	<l id="796">Je me fâche d'entendre accuser mes refus.</l>
+	<l id="797">Je suis reine sans sceptre, et n'en ai que le titre ;</l>
+	<l id="798">Le pouvoir m'en est dû, le temps en est l'arbitre.</l>
+	<l id="799">Si vous m'avez servie en généreux amant</l>
+	<l id="800">Quand j'ai reçu du ciel le plus dur traitement,</l>
+	<l id="801">J'ai tâché d'y répondre avec toute l'estime</l>
+	<l id="802">Que pouvait en attendre un coeur si magnanime.</l>
+	<l id="803">Pouvais-je en cet exil davantage sur moi ?</l>
+	<l id="804">Je ne veux point d'époux que je n'en fasse un roi ;</l>
+	<l id="805">Et je n'ai pas une âme assez basse et commune</l>
+	<l id="806">Pour en faire un appui de ma triste fortune.</l>
+	<l id="807">C'est chez moi, Dom Alvar, dans la pompe et l'éclat,</l>
+	<l id="808">Que me le doit choisir le bien de mon état.</l>
+	<l id="809">Il fallait arracher mon sceptre à mon rebelle,</l>
+	<l id="810">Le remettre en ma main pour le recevoir d'elle :</l>
+	<l id="811">Je vous aurais peut-être alors considéré</l>
+	<l id="812">Plus que ne m'a permis un sort si déploré ;</l>
+	<l id="813">Mais une occasion plus prompte et plus brillante</l>
+	<l id="814">A surpris cependant votre amour chancelante ;</l>
+	<l id="815">Et soit que votre coeur s'y trouvât disposé,</l>
+	<l id="816">Soit qu'un si long refus l'y laissât exposé,</l>
+	<l id="817">Je ne vous blâme point de l'avoir acceptée :</l>
+	<l id="818">De plus constants que vous l'auraient bien écouté.</l>
+	<l id="819">Quelle qu'en soit pourtant la cause ou la couleur,</l>
+	<l id="820">Vous pouviez l'embrasser avec moins de chaleur,</l>
+	<l id="821">Combattre le dernier, et par quelque apparence,</l>
+	<l id="822">Témoigner que l'honneur vous faisait violence :</l>
+	<l id="823">De cette illusion l'artifice secret</l>
+	<l id="824">M'eût forcée à vous plaindre et vous perdre à regret ;</l>
+	<l id="825">Mais courir au-devant, et vouloir bien qu'on voie</l>
+	<l id="826">Que vos voeux mal reçus m'échappent avec joie !</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="827">Vous auriez donc voulu que l'honneur d'un tel choix</l>
+	<l id="828">Eût montré votre amant le plus lâche des trois ?</l>
+	<l id="829">Que pour lui cette gloire eût eu trop peu d'amorces,</l>
+	<l id="830">Jusqu'à ce qu'un rival eût épuisé ses forces ?</l>
+	<l id="831" part="i">Que...</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="831" part="f">Vous achèverez au sortir du combat,</l>
+	<l id="832">Si toutefois Carlos vous en laisse en état.</l>
+	<l id="833">Voilà vos deux rivaux avec qui je vous laisse,</l>
+	<l id="834">Et vous dirai demain pour qui je m'intéresse.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="835">Hélas ! Pour le bien voir je n'ai que trop de jour.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dom Manrique, Dom Lope, Dom Alvar.</head>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="836">Qui vous traite le mieux, la fortune ou l'amour ?</l>
+	<l id="837">La reine charme-t-elle auprès de Dona Elvire ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="838">Si j'emporte la bague, il faudra vous le dire.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="839">Carlos vous nuit partout, du moins à ce qu'on croit.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="840">Il fait plus d'un jaloux, du moins à ce qu'on voit.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="841">Il devrait par pitié vous céder l'une ou l'autre.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="842">Plaignant mon intérêt, n'oubliez pas le vôtre.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="843">De vrai, la presse est grande à qui le fera roi.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="844">Je vous plains fort tous deux, s'il vient à bout de moi.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="845">Mais si vous le vainquez, serons-nous fort à plaindre ?</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="846">Quand je l'aurai vaincu, vous aurez fort à craindre.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="847">Oui, de vous voir longtemps hors de combat pour nous.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="848">Nous aurons essuyé les plus dangereux coups.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="849">L'heure nous tardera d'en voir l'expérience.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="850">On pourra vous guérir de cette impatience.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="851">De grâce, faites donc que ce soit promptement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dona Isabelle, Dom Manrique, Dom Lope, Dom Alvar.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="852">Laissez-moi, Dom Alvar, leur parler un moment :</l>
+	<l id="853">Je n'entreprendrai rien à votre préjudice ;</l>
+	<l id="854">Et mon dessein ne va qu'à vous faire justice,</l>
+	<l id="855">Qu'à vous favoriser plus que vous ne voulez.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="856">Je ne sais qu'obéir alors que vous parlez.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dona Isabelle, Dom Manrique, Dom Lope.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="857">Comtes, je ne veux plus donner lieu qu'on murmure</l>
+	<l id="858">Que choisir par autrui c'est me faire une injure ;</l>
+	<l id="859">Et puisque de ma main le choix sera plus beau,</l>
+	<l id="860">Je veux choisir moi-même, et reprendre l'anneau.</l>
+	<l id="861">Je ferai plus pour vous : des trois qu'on me propose,</l>
+	<l id="862">J'en exclus Dom Alvar ; vous en savez la cause :</l>
+	<l id="863">Je ne veux point gêner un coeur plein d'autres feux,</l>
+	<l id="864">Et vous ôte un rival pour le rendre à ses voeux.</l>
+	<l id="865">Qui n'aime que par force aime qu'on le néglige ;</l>
+	<l id="866">Et mon refus du moins autant que vous l'oblige.</l>
+	<l id="867">Vous êtes donc les seuls que je veux regarder ;</l>
+	<l id="868">Mais avant qu'à choisir j'ose me hasarder,</l>
+	<l id="869">Je voudrais voir en vous quelque preuve certaine</l>
+	<l id="870">Qu'en moi c'est moi qu'on aime, et non l'éclat de reine.</l>
+	<l id="871">L'amour n'est, ce dit-on, qu'une union d'esprits ;</l>
+	<l id="872">Et je tiendrais des deux celui-là mieux épris</l>
+	<l id="873">Qui favoriserait ce que je favorise,</l>
+	<l id="874">Et ne mépriserait que ce que je méprise,</l>
+	<l id="875">Qui prendrait en m'aimant même coeur, mêmes yeux :</l>
+	<l id="876">Si vous ne m'entendez, je vais m'expliquer mieux.</l>
+	<l id="877">Aux vertus de Carlos j'ai paru libérale :</l>
+	<l id="878">Je voudrais en tous deux voir une estime égale,</l>
+	<l id="879">Qu'il trouvât même honneur, même justice en vous,</l>
+	<l id="880">Car ne présumez pas que je prenne un époux</l>
+	<l id="881">Pour m'exposer moi-même à ce honteux outrage</l>
+	<l id="882">Qu'un roi fait de ma main détruise mon ouvrage ;</l>
+	<l id="883">N'y pensez l'un ni l'autre, à moins qu'un digne effet</l>
+	<l id="884">Suive de votre part ce que pour lui j'ai fait,</l>
+	<l id="885">Et que par cet aveu je demeure assurée</l>
+	<l id="886">Que tout ce qui m'a plu doit être de durée.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="887">Toujours Carlos, madame ! Et toujours son bonheur</l>
+	<l id="888">fait dépendre de lui le nôtre et votre coeur !</l>
+	<l id="889">Mais puisque c'est par là qu'il faut enfin vous plaire,</l>
+	<l id="890">Vous-même apprenez-nous ce que nous pouvons faire.</l>
+	<l id="891">Nous l'estimons tous deux un des braves guerriers</l>
+	<l id="892">À qui jamais la guerre ait donné des lauriers ;</l>
+	<l id="893">Notre liberté même est due à sa vaillance ;</l>
+	<l id="894">Et quoiqu'il ait tantôt montré quelque insolence,</l>
+	<l id="895">Dont nous a dû piquer l'honneur de notre rang,</l>
+	<l id="896">Vous avez suppléé l'obscurité du sang.</l>
+	<l id="897">Ce qu'il vous plaît qu'il soit, il est digne de l'être.</l>
+	<l id="898">Nous lui devons beaucoup, et l'allions reconnaître,</l>
+	<l id="899">L'honorer en soldat, et lui faire du bien ;</l>
+	<l id="900">Mais après vos faveurs nous ne pouvons plus rien :</l>
+	<l id="901">Qui pouvait pour Carlos ne peut rien pour un comte ;</l>
+	<l id="902">Il n'est rien en nos mains qu'il en reçût sans honte ;</l>
+	<l id="903">Et vous avez pris soin de le payer pour nous.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="904">Il en est en vos mains, des présents assez doux,</l>
+	<l id="905">Qui purgeraient vos noms de toute ingratitude,</l>
+	<l id="906">Et mon âme pour lui de toute inquiétude ;</l>
+	<l id="907">Il en est dont sans honte il serait possesseur :</l>
+	<l id="908">En un mot, vous avez l'un et l'autre une soeur ;</l>
+	<l id="909">Et je veux que le roi qu'il me plaira de faire</l>
+	<l id="910">En recevant ma main, le fasse son beau-frère ;</l>
+	<l id="911">Et que par cet hymen son destin affermi</l>
+	<l id="912">Ne puisse en mon époux trouver son ennemi.</l>
+	<l id="913">Ce n'est pas, après tout, que j'en craigne la haine ;</l>
+	<l id="914">Je sais qu'en cet état je serai toujours reine,</l>
+	<l id="915">Et qu'un tel roi jamais, quel que soit son projet,</l>
+	<l id="916">Ne sera sous ce nom que mon premier sujet ;</l>
+	<l id="917">Mais je ne me plais pas à contraindre personne,</l>
+	<l id="918">Et moins que tous un coeur à qui le mien se donne.</l>
+	<l id="919">Répondez donc tous deux : n'y consentez-vous pas ?</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="920">Oui, madame, aux plus longs et plus cruels trépas,</l>
+	<l id="921">Plutôt qu'à voir jamais de pareils hyménées</l>
+	<l id="922">Ternir en un moment l'éclat de mille années.</l>
+	<l id="923">Ne cherchez point par là cette union d'esprits :</l>
+	<l id="924">Votre sceptre, madame, est trop cher à ce prix ;</l>
+	<l id="925" part="i">Et jamais...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="925" part="f">Ainsi donc vous me faites connaître</l>
+	<l id="926">Que ce que je l'ai fait il est digne de l'être,</l>
+	<l id="927">Que je puis suppléer l'obscurité du sang ?</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="928">Oui, bien pour l'élever jusques à notre rang.</l>
+	<l id="929">Jamais un souverain ne doit compte à personne</l>
+	<l id="930">Des dignités qu'il fait, et des grandeurs qu'il donne :</l>
+	<l id="931">S'il est d'un sort indigne ou l'auteur ou l'appui,</l>
+	<l id="932">Comme il le fait lui seul, la honte est toute à lui.</l>
+	<l id="933">Mais disposer d'un sang que j'ai reçu sans tache !</l>
+	<l id="934">Avant que le souiller il faut qu'on me l'arrache :</l>
+	<l id="935">J'en dois compte aux aïeux dont il est hérité,</l>
+	<l id="936">À toute leur famille, à la postérité.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="937">Et moi, Manrique, et moi, qui n'en dois aucun conte,</l>
+	<l id="938">J'en disposerai seule, et j'en aurai la honte.</l>
+	<l id="939">Mais quelle extravagance a pu vous figurer</l>
+	<l id="940">Que je me donne à vous pour vous déshonorer,</l>
+	<l id="941">Que mon sceptre en vos mains porte quelque infamie ?</l>
+	<l id="942">Si je suis jusque-là de moi-même ennemie,</l>
+	<l id="943">En quelle qualité, de sujet, ou d'amant,</l>
+	<l id="944">M'osez-vous expliquer ce noble sentiment ?</l>
+	<l id="945">Ah ! Si vous n'apprenez à parler d'autre sorte...</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="946">Madame, pardonnez à l'ardeur qui l'emporte ;</l>
+	<l id="947">Il devait s'excuser avec plus de douceur.</l>
+	<l id="948">Nous avons, en effet, l'un et l'autre une soeur ;</l>
+	<l id="949">Mais, si j'ose en parler avec quelque franchise,</l>
+	<l id="950">À d'autres qu'au marquis l'une et l'autre est promise.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="951" part="i">À qui, Dom Lope ?</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="951" part="m">À moi, madame.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="951" part='M'>Et l'autre ?</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="951" part="f">À moi.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="952">J'ai donc tort parmi vous de vouloir faire un roi.</l>
+	<l id="953">Allez, heureux amants, allez voir vos maîtresses ;</l>
+	<l id="954">Et parmi les douceurs de vos dignes caresses,</l>
+	<l id="955">N'oubliez pas de dire à ces jeunes esprits</l>
+	<l id="956">Que vous faites du trône un généreux mépris.</l>
+	<l id="957">Je vous l'ai déjà dit, je ne force personne,</l>
+	<l id="958">Et rends grâce à l'état des amants qu'il me donne.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="959" part="i">écoutez-nous, de grâce.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="959" part="f">Et que me direz-vous ?</l>
+	<l id="960">Que la constance est belle au jugement de tous ?</l>
+	<l id="961">Qu'il n'est point de grandeurs qui la doivent séduire ?</l>
+	<l id="962">Quelques autres que vous m'en sauront mieux instruire ;</l>
+	<l id="963">Et si cette vertu ne se doit point forcer,</l>
+	<l id="964">Peut-être qu'à mon tour je saurai l'exercer.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="965">Exercez-la, madame, et souffrez qu'on s'explique.</l>
+	<l id="966">Vous connaîtrez du moins Dom Lope et Dom Manrique,</l>
+	<l id="967">Qu'un vertueux amour qu'ils ont tous deux pour vous,</l>
+	<l id="968">Ne pouvant rendre heureux sans en faire un jaloux,</l>
+	<l id="969">Porte à tarir ainsi la source des querelles</l>
+	<l id="970">Qu'entre les grands rivaux on voit si naturelles.</l>
+	<l id="971">Ils se sont l'un et l'autre attachés par ces noeuds</l>
+	<l id="972">Qui n'auront leur effet que pour le malheureux :</l>
+	<l id="973">Il me devra sa soeur, s'il faut qu'il vous obtienne ;</l>
+	<l id="974">Et si je suis à vous, je lui devrai la mienne.</l>
+	<l id="975">Celui qui doit vous perdre, ainsi, malgré son sort,</l>
+	<l id="976">À s'approcher de vous fait encore son effort ;</l>
+	<l id="977">Ainsi, pour consoler l'une et l'autre infortune,</l>
+	<l id="978">L'une et l'autre est promise, et nous n'en devons qu'une :</l>
+	<l id="979">Nous ignorons laquelle ; et vous la choisirez,</l>
+	<l id="980">Puisqu'enfin c'est la soeur du roi que vous ferez.</l>
+	<l id="981">Jugez donc si Carlos en peut être beau-frère,</l>
+	<l id="982">Et si vous devez rompre un noeud si salutaire,</l>
+	<l id="983">Hasarder un repos à votre état si doux,</l>
+	<l id="984">Qu'affermit sous vos lois la concorde entre nous.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="985">Et ne savez-vous point qu'étant ce que vous êtes,</l>
+	<l id="986">Vos soeurs, par conséquent, mes premières sujettes,</l>
+	<l id="987">Les donner sans mon ordre, et même malgré moi,</l>
+	<l id="988">C'est dans mon propre état m'oser faire la loi ?</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="989">Agissez donc enfin, madame, en souveraine,</l>
+	<l id="990">Et souffrez qu'on s'excuse, ou commandez en reine ;</l>
+	<l id="991">Nous vous obéirons, mais sans y consentir ;</l>
+	<l id="992">Et pour vous dire tout avant que de sortir,</l>
+	<l id="993">Carlos est généreux, il connaît sa naissance ;</l>
+	<l id="994">Qu'il se juge en secret sur cette connaissance ;</l>
+	<l id="995">Et s'il trouve son sang digne d'un tel honneur,</l>
+	<l id="996">Qu'il vienne, nous tiendrons l'alliance à bonheur ;</l>
+	<l id="997">Qu'il choisisse des deux, et l'épouse, s'il l'ose.</l>
+	<l id="998">Nous n'avons plus, madame, à vous dire autre chose :</l>
+	<l id="999">Mettre en un tel hasard le choix de leur époux,</l>
+	<l id="1000">C'est jusqu'où nous pouvons nous abaisser pour vous ;</l>
+	<l id="1001">Mais, encore une fois, que Carlos y regarde,</l>
+	<l id="1002">Et pense à quels périls cet hymen le hasarde.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1003">Vous-même gardez bien, pour le trop dédaigner,</l>
+	<l id="1004">Que je ne montre enfin comme je sais régner.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1005">Quel est ce mouvement qui tous deux les mutine,</l>
+	<l id="1006">Lorsque l'obéissance au trône les destine ?</l>
+	<l id="1007">Est-ce orgueil ? Est-ce envie ? Est-ce animosité,</l>
+	<l id="1008">Défiance, mépris, ou générosité ?</l>
+	<l id="1009">N'est-ce point que le ciel ne consent qu'avec peine</l>
+	<l id="1010">Cette triste union d'un sujet à sa reine,</l>
+	<l id="1011">Et jette un prompt obstacle aux plus aisés desseins</l>
+	<l id="1012">Qui laissent choir mon sceptre en leurs indignes mains ?</l>
+	<l id="1013">Mes yeux n'ont-ils horreur d'une telle bassesse</l>
+	<l id="1014">Que pour s'abaisser trop lorsque je les abaisse ?</l>
+	<l id="1015">Quel destin à ma gloire oppose mon ardeur ?</l>
+	<l id="1016">Quel destin à ma flamme oppose ma grandeur ?</l>
+	<l id="1017">Si ce n'est que par là que je m'en puis défendre,</l>
+	<l id="1018">Ciel, laisse-moi donner ce que je n'ose prendre ;</l>
+	<l id="1019">Et puisqu'enfin pour moi tu n'as point fait de rois,</l>
+	<l id="1020">Souffre de mes sujets le moins indigne choix.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dona Isabelle, Blanche.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1021" part="i">Blanche, j'ai perdu temps.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1021" part="f">Je l'ai perdu de même.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1022">Les comtes à ce prix fuient le diadème.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1023">Et Carlos ne veut point de fortune à ce prix.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1024">Rend-il haine pour haine, et mépris pour mépris ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1025">Non, madame ; au contraire, il estime ces dames</l>
+	<l id="1026">Dignes des plus grands coeurs et des plus belles flammes.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1027">Et qui l'empêche donc d'aimer et de choisir ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1028">Quelque secret obstacle arrête son désir.</l>
+	<l id="1029">Tout le bien qu'il en dit ne passe point l'estime ;</l>
+	<l id="1030">Charmantes qu'elles sont, les aimer c'est un crime.</l>
+	<l id="1031">Il ne s'excuse point sur l'inégalité ;</l>
+	<l id="1032">Il semble plutôt craindre une infidélité ;</l>
+	<l id="1033">Et ses discours obscurs, sous un confus mélange,</l>
+	<l id="1034">M'ont fait voir malgré lui comme une horreur du change,</l>
+	<l id="1035">Comme une aversion qui n'a pour fondement</l>
+	<l id="1036">Que les secrets liens d'un autre attachement.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1037" part="i">Il aimerait ailleurs !</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1037" part="f">Oui, si je ne m'abuse,</l>
+	<l id="1038">Il aime en lieu plus haut que n'est ce qu'il refuse ;</l>
+	<l id="1039">Et si je ne craignais votre juste courroux,</l>
+	<l id="1040">J'oserais deviner, madame, que c'est vous.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1041">Ah ! Ce n'est pas pour moi qu'il est si téméraire ;</l>
+	<l id="1042">Tantôt dans ses respects j'ai trop vu le contraire :</l>
+	<l id="1043">Si l'éclat de mon sceptre avait pu le charmer,</l>
+	<l id="1044">Il ne m'aurait jamais défendu de l'aimer.</l>
+	<l id="1045">S'il aime en lieu si haut, il aime Dona Elvire ;</l>
+	<l id="1046">Il doit l'accompagner jusque dans son empire,</l>
+	<l id="1047">Et fait à mes amants ces défis généreux,</l>
+	<l id="1048">Non pas pour m'acquérir, mais pour se venger d'eux.</l>
+	<l id="1049">Je l'ai donc agrandi pour le voir disparaître,</l>
+	<l id="1050">Et qu'une reine, ingrate à l'égal de ce traître,</l>
+	<l id="1051">M'enlève, après vingt ans de refuge en ces lieux,</l>
+	<l id="1052">Ce qu'avait mon état de plus doux à mes yeux !</l>
+	<l id="1053">Non, j'ai pris trop de soin de conserver sa vie.</l>
+	<l id="1054">Qu'il combatte, qu'il meure, et j'en serai ravie.</l>
+	<l id="1055">Je saurai par sa mort à quels voeux m'engager,</l>
+	<l id="1056">Et j'aimerai des trois qui m'en saura venger.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1057">Que vous peut offenser sa flamme ou sa retraite,</l>
+	<l id="1058">Puisque vous n'aspirez qu'à vous en voir défaite ?</l>
+	<l id="1059">Je ne sais pas s'il aime ou Dona Elvire ou vous,</l>
+	<l id="1060">Mais je ne comprends point ce mouvement jaloux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1061">Tu ne le comprends point ! Et c'est ce qui m'étonne :</l>
+	<l id="1062">Je veux donner son coeur, non que son coeur le donne ;</l>
+	<l id="1063">Je veux que son respect l'empêche de m'aimer,</l>
+	<l id="1064">Non des flammes qu'une autre a su mieux allumer ;</l>
+	<l id="1065">Je veux bien plus : qu'il m'aime, et qu'un juste silence</l>
+	<l id="1066">fasse à des feux pareils pareille violence ;</l>
+	<l id="1067">Que l'inégalité lui donne même ennui ;</l>
+	<l id="1068">Qu'il souffre autant pour moi que je souffre pour lui ;</l>
+	<l id="1069">Que par le seul dessein d'affermir sa fortune,</l>
+	<l id="1070">Et non point par amour, il se donne à quelqu'une ;</l>
+	<l id="1071">Que par mon ordre seul il s'y laisse obliger ;</l>
+	<l id="1072">Que ce soit m'obéir, et non me négliger ;</l>
+	<l id="1073">Et que voyant ma flamme à l'honorer trop prompte,</l>
+	<l id="1074">Il m'ôte de péril sans me faire de honte.</l>
+	<l id="1075">Car enfin il l'a vue, et la connaît trop bien ;</l>
+	<l id="1076">Mais il aspire au trône, et ce n'est pas au mien ;</l>
+	<l id="1077">Il me préfère une autre, et cette préférence</l>
+	<l id="1078">forme de son respect la trompeuse apparence :</l>
+	<l id="1079">faux respect qui me brave, et veut régner sans moi !</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1080">Pour aimer Dona Elvire, il n'est pas encore roi.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1081">Elle est reine, et peut tout sur l'esprit de sa mère.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1082">Si ce n'est un faux bruit, le ciel lui rend un frère.</l>
+	<l id="1083">Don Sanche n'est point mort, et vient ici, dit-on,</l>
+	<l id="1084">Avec les députés qu'on attend d'Aragon :</l>
+	<l id="1085">C'est ce qu'en arrivant leurs gens ont fait entendre.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1086">Blanche, s'il est ainsi, que d'heur j'en dois attendre !</l>
+	<l id="1087">L'injustice du ciel, faute d'autres objets,</l>
+	<l id="1088">Me forçait d'abaisser mes yeux sur mes sujets,</l>
+	<l id="1089">Ne voyant point de prince égal à ma naissance,</l>
+	<l id="1090">Qui ne fût sous l'hymen, ou More, ou dans l'enfance ;</l>
+	<l id="1091">Mais s'il lui rend un frère, il m'envoie un époux.</l>
+	<l id="1092">Comtes, je n'ai plus d'yeux pour Carlos ni pour vous ;</l>
+	<l id="1093">Et devenant par là reine de ma rivale,</l>
+	<l id="1094">J'aurai droit d'empêcher qu'elle ne se ravale,</l>
+	<l id="1095">Et ne souffrirai pas qu'elle ait plus de bonheur</l>
+	<l id="1096">Que ne m'en ont permis ces tristes lois d'honneur.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1097">La belle occasion que votre jalousie,</l>
+	<l id="1098">Douteuse encore qu'elle est, a promptement saisie !</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1099">Allons l'examiner, Blanche, et tâchons de voir</l>
+	<l id="1100">Quelle juste espérance on peut en concevoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dona Léonor, Dom Manrique, Dom Lope.</head>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="1101">Quoique l'espoir d'un trône et l'amour d'une reine</l>
+	<l id="1102">Soient des biens que jamais on ne céda sans peine,</l>
+	<l id="1103">Quoiqu'à l'un de nous deux elle ait promis sa foi,</l>
+	<l id="1104">Nous cessons de prétendre où nous voyons un roi.</l>
+	<l id="1105">Dans notre ambition nous savons nous connaître ;</l>
+	<l id="1106">Et bénissant le ciel qui nous donne un tel maître,</l>
+	<l id="1107">Ce prince qu'il vous rend après tant de travaux</l>
+	<l id="1108">Trouve en nous des sujets et non pas des rivaux :</l>
+	<l id="1109">Heureux si l'Aragon, joint avec la Castille,</l>
+	<l id="1110">Du sang de deux grands rois ne fait qu'une famille !</l>
+	<l id="1111">Nous vous en conjurons, loin d'en être jaloux,</l>
+	<l id="1112">Comme étant l'un et l'autre à l'état plus qu'à nous ;</l>
+	<l id="1113">Et tous impatients d'en voir la force unie</l>
+	<l id="1114">Des Mores, nos voisins, dompter la tyrannie,</l>
+	<l id="1115">Nous renonçons sans honte à ce choix glorieux,</l>
+	<l id="1116">Qui d'une grande reine abaissait trop les yeux.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1117">La générosité de votre déférence,</l>
+	<l id="1118">Comtes, flatte trop tôt ma nouvelle espérance :</l>
+	<l id="1119">D'un avis si douteux j'attends fort peu de fruit ;</l>
+	<l id="1120">Et ce grand bruit enfin peut-être n'est qu'un bruit.</l>
+	<l id="1121">Mais jugez-en tous deux, et me daignez apprendre</l>
+	<l id="1122">Ce qu'avec raison mon coeur en doit attendre.</l>
+	<l id="1123">Les troubles d'Aragon vous sont assez connus ;</l>
+	<l id="1124">Je vous en ai souvent tous deux entretenus,</l>
+	<l id="1125">Et ne vous redis point quelles longues misères</l>
+	<l id="1126">Chassèrent Dom Fernand du trône de ses pères.</l>
+	<l id="1127">Il y voyait déjà monter ses ennemis,</l>
+	<l id="1128">Ce prince malheureux, quand j'accouchai d'un fils :</l>
+	<l id="1129">On le nomma Dom Sanche ; et pour cacher sa vie</l>
+	<l id="1130">Aux barbares fureurs du traître Dom Garcie,</l>
+	<l id="1131">À peine eus-je loisir de lui dire un adieu,</l>
+	<l id="1132">Qu'il le fit enlever sans me dire en quel lieu ;</l>
+	<l id="1133">Et je n'en pus jamais savoir que quelques marques,</l>
+	<l id="1134">Pour reconnaître un jour le sang de nos monarques.</l>
+	<l id="1135">Trop inutiles soins contre un si mauvais sort !</l>
+	<l id="1136">Lui-même au bout d'un an m'apprit qu'il était mort.</l>
+	<l id="1137">Quatre ans après il meurt et me laisse une fille</l>
+	<l id="1138">Dont je vins par son ordre accoucher en Castille.</l>
+	<l id="1139">Il me souvient toujours de ses derniers propos ;</l>
+	<l id="1140">Il mourut en mes bras avec ces tristes mots :</l>
+	<l id="1141">"Je meurs, et je vous laisse en un sort déplorable :</l>
+	<l id="1142">Le ciel vous puisse un jour être plus favorable !</l>
+	<l id="1143">Don Raymond a pour vous des secrets importants,</l>
+	<l id="1144">Et vous les apprendra quand il en sera temps :</l>
+	<l id="1145">fuyez dans la Castille." À ces mots il expire,</l>
+	<l id="1146">Et jamais Dom Raymond ne me voulut rien dire.</l>
+	<l id="1147">Je partis sans lumière en ces obscurités :</l>
+	<l id="1148">Mais le voyant venir avec ces députés,</l>
+	<l id="1149">Et que c'est par leurs gens que ce grand bruit éclate</l>
+	<l id="1150">(voyez qu'en sa faveur aisément on se flatte ! ),</l>
+	<l id="1151">J'ai cru que du secret le temps était venu,</l>
+	<l id="1152">Et que Dom Sanche était ce mystère inconnu ;</l>
+	<l id="1153">Qu'il l'amenait ici reconnaître sa mère.</l>
+	<l id="1154">Hélas ! Que c'est en vain que mon amour l'espère !</l>
+	<l id="1155">À ma confusion ce bruit s'est éclairci ;</l>
+	<l id="1156">Bien loin de l'amener, ils le cherchent ici :</l>
+	<l id="1157">Voyez quelle apparence, et si cette province</l>
+	<l id="1158">A jamais su le nom de ce malheureux prince.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="1159">Si vous croyez au nom, vous croirez son trépas,</l>
+	<l id="1160">Et qu'on cherche Dom Sanche où Dom Sanche n'est pas ;</l>
+	<l id="1161">Mais si vous en voulez croire la voix publique,</l>
+	<l id="1162">Et que notre pensée avec elle s'explique,</l>
+	<l id="1163">Ou le ciel pour jamais a repris ce héros,</l>
+	<l id="1164">Ou cet illustre prince est le vaillant Carlos.</l>
+	<l id="1165">Nous le dirons tous deux, quoique suspects d'envie,</l>
+	<l id="1166">C'est un miracle pur que le cours de sa vie.</l>
+	<l id="1167">Cette haute vertu qui charme tant d'esprits,</l>
+	<l id="1168">Cette fière valeur qui brave nos mépris,</l>
+	<l id="1169">Ce port majestueux, qui tout inconnu même,</l>
+	<l id="1170">A plus d'accès que nous auprès du diadème ;</l>
+	<l id="1171">Deux reines qu'à l'envi nous voyons l'estimer,</l>
+	<l id="1172">Et qui peut-être ont peine à ne le pas aimer ;</l>
+	<l id="1173">Ce prompt consentement d'un peuple qui l'adore :</l>
+	<l id="1174">Madame, après cela j'ose le dire encore,</l>
+	<l id="1175">Ou le ciel pour jamais a repris ce héros,</l>
+	<l id="1176">Ou cet illustre prince est le vaillant Carlos.</l>
+	<l id="1177">Nous avons méprisé sa naissance inconnue ;</l>
+	<l id="1178">Mais à ce peu de jour nous recouvrons la vue,</l>
+	<l id="1179">Et verrions à regret qu'il fallût aujourd'hui</l>
+	<l id="1180">Céder notre espérance à tout autre qu'à lui.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1181">Il en a le mérite et non pas la naissance ;</l>
+	<l id="1182">Et lui-même il en donne assez de connaissance,</l>
+	<l id="1183">Abandonnant la reine à choisir parmi vous</l>
+	<l id="1184">Un roi pour la Castille, et pour elle un époux.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="1185">Et ne voyez-vous pas que sa valeur s'apprête</l>
+	<l id="1186">À faire sur tous trois cette illustre conquête ?</l>
+	<l id="1187">Oubliez-vous déjà qu'il a dit à vos yeux</l>
+	<l id="1188">Qu'il ne veut rien devoir au nom de ses aïeux ?</l>
+	<l id="1189">Son grand coeur se dérobe à ce haut avantage,</l>
+	<l id="1190">Pour devoir sa grandeur entière à son courage ;</l>
+	<l id="1191">Dans une cour si belle et si pleine d'appas,</l>
+	<l id="1192">Avez-vous remarqué qu'il aime en lieu plus bas ?</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1193">Le voici : nous saurons ce que lui-même en pense.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dona Léonor, Carlos, Dom Manrique, Dom Lope.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1194">Madame, sauvez-moi d'un honneur qui m'offense :</l>
+	<l id="1195">Un peuple opiniâtre à m'arracher mon nom</l>
+	<l id="1196">Veut que je sois Dom Sanche, et prince d'Aragon.</l>
+	<l id="1197">Puisque par sa présence il faut que ce bruit meure,</l>
+	<l id="1198">Dois-je être, en l'attendant, le fantôme d'une heure ?</l>
+	<l id="1199">Ou si c'est une erreur qui lui promet ce roi,</l>
+	<l id="1200">Souffrez-vous qu'elle abuse et de vous et de moi ?</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1201">Quoi que vous présumiez de la voix populaire,</l>
+	<l id="1202">Par de secrets rayons le ciel souvent l'éclaire :</l>
+	<l id="1203">Vous apprendrez par là du moins les voeux de tous,</l>
+	<l id="1204">Et quelle opinion les peuples ont de vous.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="1205">Prince, ne cachez plus ce que le ciel découvre ;</l>
+	<l id="1206">Ne fermez pas nos yeux quand sa main nous les ouvre.</l>
+	<l id="1207">Vous devez être las de nous faire faillir.</l>
+	<l id="1208">Nous ignorons quel fruit vous en vouliez cueillir,</l>
+	<l id="1209">Mais nous avions pour vous une estime assez haute</l>
+	<l id="1210">Pour n'être pas forcés à commettre une faute ;</l>
+	<l id="1211">Et notre honneur, au vôtre en aveugle opposé,</l>
+	<l id="1212">Méritait par pitié d'être désabusé.</l>
+	<l id="1213">Notre orgueil n'est pas tel qu'il s'attache aux personnes,</l>
+	<l id="1214">Ou qu'il ose oublier ce qu'il doit aux couronnes ;</l>
+	<l id="1215">Et s'il n'a pas eu d'yeux pour un roi déguisé,</l>
+	<l id="1216">Si l'inconnu Carlos s'en est vu méprisé,</l>
+	<l id="1217">Nous respectons Dom Sanche, et l'acceptons pour maître,</l>
+	<l id="1218">Sitôt qu'à notre reine il se fera connaître ;</l>
+	<l id="1219">Et sans doute son coeur nous en avouera bien.</l>
+	<l id="1220">Hâtez cette union de votre sceptre au sien,</l>
+	<l id="1221">Seigneur, et d'un soldat quittant la fausse image,</l>
+	<l id="1222">Recevez, comme roi, notre premier hommage.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1223">Comtes, ces faux respects dont je me vois surpris</l>
+	<l id="1224">Sont plus injurieux encore que vos mépris.</l>
+	<l id="1225">Je pense avoir rendu mon nom assez illustre</l>
+	<l id="1226">Pour n'avoir pas besoin qu'on lui donne un faux lustre.</l>
+	<l id="1227">Reprenez vos honneurs où je n'ai point de part.</l>
+	<l id="1228">J'imputais ce faux bruit aux fureurs du hasard,</l>
+	<l id="1229">Et doutais qu'il pût être une âme assez hardie</l>
+	<l id="1230">Pour ériger Carlos en roi de comédie ;</l>
+	<l id="1231">Mais puisque c'est un jeu de votre belle humeur,</l>
+	<l id="1232">Sachez que les vaillants honorent la valeur,</l>
+	<l id="1233">Et que tous vos pareils auraient quelque scrupule</l>
+	<l id="1234">À faire de la mienne un éclat ridicule.</l>
+	<l id="1235">Si c'est votre dessein d'en réjouir ces lieux,</l>
+	<l id="1236">Quand vous m'aurez vaincu vous me raillerez mieux :</l>
+	<l id="1237">La raillerie est belle après une victoire ;</l>
+	<l id="1238">On la fait avec grâce aussi bien qu'avec gloire.</l>
+	<l id="1239">Mais vous précipitez un peu trop ce dessein :</l>
+	<l id="1240">La bague de la reine est encore en ma main ;</l>
+	<l id="1241">Et l'inconnu Carlos, sans nommer sa famille,</l>
+	<l id="1242">Vous sert encore d'obstacle au trône de Castille.</l>
+	<l id="1243">Ce bras, qui vous sauva de la captivité,</l>
+	<l id="1244">Peut s'opposer encore à votre avidité.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="1245">Pour n'être que Carlos, vous parlez bien en maître,</l>
+	<l id="1246">Et tranchez bien du prince en déniant de l'être.</l>
+	<l id="1247">Si nous avons tantôt jusqu'au bout défendu</l>
+	<l id="1248">L'honneur qu'à notre rang nous voyions être dû,</l>
+	<l id="1249">Nous saurons bien encore jusqu'au bout le défendre ;</l>
+	<l id="1250">Mais ce que nous devons, nous aimons à le rendre.</l>
+	<l id="1251">Que vous soyez Dom Sanche, ou qu'un autre le soit,</l>
+	<l id="1252">L'un et l'autre de nous lui rendra ce qu'il doit.</l>
+	<l id="1253">Pour le nouveau marquis, quoique l'honneur l'irrite,</l>
+	<l id="1254">Qu'il sache qu'on l'honore autant qu'il le mérite ;</l>
+	<l id="1255">Mais que, pour nous combattre, il faut que le bon sang</l>
+	<l id="1256">Aide un peu sa valeur à soutenir ce rang.</l>
+	<l id="1257">Qu'il n'y prétende point, à moins qu'il se déclare ;</l>
+	<l id="1258">Non que nous demandions qu'il soit Guzman ou Lare :</l>
+	<l id="1259">Qu'il soit noble, il suffit pour nous traiter d'égal ;</l>
+	<l id="1260">Nous le verrons tous deux comme un digne rival ;</l>
+	<l id="1261">Et si Dom Sanche enfin n'est qu'une attente vaine,</l>
+	<l id="1262">Nous lui disputerons cet anneau de la reine.</l>
+	<l id="1263">Qu'il souffre cependant, quoique brave guerrier,</l>
+	<l id="1264">Que notre bras dédaigne un simple aventurier.</l>
+	<l id="1265">Nous vous laissons, madame, éclaircir ce mystère.</l>
+	<l id="1266">Le sang a des secrets qu'entend mieux une mère ;</l>
+	<l id="1267">Et dans les différends qu'avec lui nous avons,</l>
+	<l id="1268">Nous craignons d'oublier ce que nous vous devons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dona Léonor, Carlos.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1269">Madame, vous voyez comme l'orgueil me traite :</l>
+	<l id="1270">Pour me faire un honneur, on veut que je l'achète ;</l>
+	<l id="1271">Mais s'il faut qu'il m'en coûte un secret de vingt ans,</l>
+	<l id="1272">Cet anneau dans mes mains pourra briller longtemps.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1273">Laissons là ce combat, et parlons de Dom Sanche.</l>
+	<l id="1274">Ce bruit est grand pour vous, toute la cour y penche :</l>
+	<l id="1275">De grâce, dites-moi, vous connaissez-vous bien ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1276">Plût à Dieu qu'en mon sort je ne connusse rien !</l>
+	<l id="1277">Si j'étais quelque enfant épargné des tempêtes,</l>
+	<l id="1278">Livré dans un désert à la merci des bêtes,</l>
+	<l id="1279">Exposé par la crainte ou par l'inimitié,</l>
+	<l id="1280">Rencontré par hasard et nourri par pitié,</l>
+	<l id="1281">Mon orgueil à ce bruit prendrait quelque espérance</l>
+	<l id="1282">Sur votre incertitude et sur mon ignorance ;</l>
+	<l id="1283">Je me figurerais ces destins merveilleux,</l>
+	<l id="1284">Qui tiraient du néant les héros fabuleux,</l>
+	<l id="1285">Et me revêtirais des brillantes chimères</l>
+	<l id="1286">Qu'osa former pour eux le loisir de nos pères ;</l>
+	<l id="1287">Car enfin je suis vain, et mon ambition</l>
+	<l id="1288">Ne peut s'examiner sans indignation ;</l>
+	<l id="1289">Je ne puis regarder sceptre ni diadème,</l>
+	<l id="1290">Qu'ils n'emportent mon âme au delà d'elle-même :</l>
+	<l id="1291">Inutiles élans d'un vol impétueux</l>
+	<l id="1292">Que pousse vers le ciel un coeur présomptueux,</l>
+	<l id="1293">Que soutiennent en l'air quelques exploits de guerre,</l>
+	<l id="1294">Et qu'un coup d'oeil sur moi rabat soudain à terre !</l>
+	<l id="1295">Je ne suis point Dom Sanche, et connais mes parents ;</l>
+	<l id="1296">Ce bruit me donne en vain un nom que je vous rends ;</l>
+	<l id="1297">gardez-le pour ce prince : une heure ou deux peut-être</l>
+	<l id="1298">Avec vos députés vous le feront connaître.</l>
+	<l id="1299">Laissez-moi cependant à cette obscurité</l>
+	<l id="1300">Qui ne fait que justice à ma témérité.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1301">En vain donc je me flatte, et ce que j'aime à croire</l>
+	<l id="1302">N'est qu'une illusion que me fait votre gloire ?</l>
+	<l id="1303">Mon coeur vous en dédit : un secret mouvement,</l>
+	<l id="1304">Qui le penche vers vous, malgré moi vous dément ;</l>
+	<l id="1305">Mais je ne puis juger quelle source l'anime,</l>
+	<l id="1306">Si c'est l'ardeur du sang, ou l'effort de l'estime ;</l>
+	<l id="1307">Si la nature agit, ou si c'est le désir ;</l>
+	<l id="1308">Si c'est vous reconnaître, ou si c'est vous choisir.</l>
+	<l id="1309">Je veux bien toutefois étouffer ce murmure</l>
+	<l id="1310">Comme de vos vertus une aimable imposture,</l>
+	<l id="1311">Condamner, pour vous plaire, un bruit qui m'est si doux ;</l>
+	<l id="1312">Mais où sera mon fils s'il ne vit point en vous ?</l>
+	<l id="1313">On veut qu'il soit ici ; je n'en vois aucun signe :</l>
+	<l id="1314">On connaît, hormis vous, quiconque en serait digne ;</l>
+	<l id="1315">Et le vrai sang des rois, sous le sort abattu,</l>
+	<l id="1316">Peut cacher sa naissance et non pas sa vertu :</l>
+	<l id="1317">Il porte sur le front un luisant caractère</l>
+	<l id="1318">Qui parle malgré lui de tout ce qu'il veut taire ;</l>
+	<l id="1319">Et celui que le ciel sur le vôtre avait mis</l>
+	<l id="1320">Pouvait seul m'éblouir, si vous l'eussiez permis.</l>
+	<l id="1321">Vous ne l'êtes donc point, puisque vous me le dites ;</l>
+	<l id="1322">Mais vous êtes à craindre avec tant de mérites.</l>
+	<l id="1323">Souffrez que j'en demeure à cette obscurité.</l>
+	<l id="1324">Je ne condamne point votre témérité ;</l>
+	<l id="1325">Mon estime, au contraire, est pour vous si puissante,</l>
+	<l id="1326">Qu'il ne tiendra qu'à vous que mon coeur n'y consente :</l>
+	<l id="1327">Votre sang avec moi n'a qu'à se déclarer,</l>
+	<l id="1328">Et je vous donne après liberté d'espérer.</l>
+	<l id="1329">Que si même à ce prix vous cachez votre race,</l>
+	<l id="1330">Ne me refusez point du moins une autre grâce :</l>
+	<l id="1331">Ne vous préparez plus à nous accompagner ;</l>
+	<l id="1332">Nous n'avons plus besoin de secours pour régner.</l>
+	<l id="1333">La mort de Dom Garcie a puni tous ses crimes,</l>
+	<l id="1334">Et rendu l'Aragon à ses rois légitimes ;</l>
+	<l id="1335">N'en cherchez plus la gloire, et quels que soient vos voeux,</l>
+	<l id="1336">Ne me contraignez point à plus que je ne veux.</l>
+	<l id="1337">Le prix de la valeur doit avoir ses limites ;</l>
+	<l id="1338">Et je vous crains enfin avec tant de mérites.</l>
+	<l id="1339">C'est assez vous en dire. Adieu : pensez-y bien,</l>
+	<l id="1340">Et faites-vous connaître, ou n'aspirez à rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Carlos, Blanche.</head>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1341">Qui ne vous craindra point, si les reines vous craignent ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1342">Elles se font raison lorsqu'elles me dédaignent.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1343">Dédaigner un héros qu'on reconnaît pour roi !</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1344">N'aide point à l'envie à se jouer de moi,</l>
+	<l id="1345">Blanche, et si tu te plais à seconder sa haine,</l>
+	<l id="1346">Du moins respecte en moi l'ouvrage de ta reine.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1347">La reine même en vous ne voit plus aujourd'hui</l>
+	<l id="1348">Qu'un prince que le ciel nous montre malgré lui ;</l>
+	<l id="1349">Mais c'est trop la tenir dedans l'incertitude ;</l>
+	<l id="1350">Ce silence vers elle est une ingratitude :</l>
+	<l id="1351">Ce qu'a fait pour Carlos sa générosité</l>
+	<l id="1352">Méritait de Dom Sanche une civilité.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1353">Ah ! Nom fatal pour moi, que tu me persécutes,</l>
+	<l id="1354">Et prépares mon âme à d'effroyables chutes !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Donna Isabelle, Carlos, Blanche.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1355">Madame, commandez qu'on me laisse en repos,</l>
+	<l id="1356">Qu'on ne confonde plus Dom Sanche avec Carlos ;</l>
+	<l id="1357">C'est faire au nom d'un prince une trop longue injure :</l>
+	<l id="1358">Je ne veux que celui de votre créature ;</l>
+	<l id="1359">Et si le sort jaloux, qui semble me flatter,</l>
+	<l id="1360">Veut m'élever plus haut pour m'en précipiter,</l>
+	<l id="1361">Souffrez qu'en m'éloignant je dérobe ma tête</l>
+	<l id="1362">À l'indigne revers que sa fureur m'apprête.</l>
+	<l id="1363">Je le vois de trop loin pour l'attendre en ce lieu ;</l>
+	<l id="1364">Souffrez que je l'évite en vous disant adieu ;</l>
+	<l id="1365" part="i">Souffrez...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1365" part="f">Quoi ? Ce grand coeur redoute une couronne !</l>
+	<l id="1366">Quand on le croit monarque, il frémit, il s'étonne !</l>
+	<l id="1367">Il veut fuir cette gloire, et se laisse alarmer</l>
+	<l id="1368">De ce que sa vertu force d'en présumer !</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1369">Ah ! Vous ne voyez pas que cette erreur commune</l>
+	<l id="1370">N'est qu'une trahison de ma bonne fortune ;</l>
+	<l id="1371">Que déjà mes secrets sont à demi trahis.</l>
+	<l id="1372">Je lui cachais en vain ma race et mon pays ;</l>
+	<l id="1373">En vain sous un faux nom je me faisais connaître,</l>
+	<l id="1374">Pour lui faire oublier ce qu'elle m'a fait naître ;</l>
+	<l id="1375">Elle a déjà trouvé mon pays et mon nom.</l>
+	<l id="1376">Je suis Sanche, madame, et né dans l'Aragon ;</l>
+	<l id="1377">Et je crois déjà voir sa malice funeste</l>
+	<l id="1378">Détruire votre ouvrage en découvrant le reste,</l>
+	<l id="1379">Et faire voir ici, par un honteux effet,</l>
+	<l id="1380">Quel comte et quel marquis votre faveur a fait.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1381">Pourrais-je alors manquer de force ou de courage</l>
+	<l id="1382">Pour empêcher le sort d'abattre mon ouvrage ?</l>
+	<l id="1383">Ne me dérobez point ce qu'il ne peut ternir ;</l>
+	<l id="1384">Et la main qui l'a fait saura le soutenir.</l>
+	<l id="1385">Mais vous vous en formez une vaine menace</l>
+	<l id="1386">Pour faire un beau prétexte à l'amour qui vous chasse.</l>
+	<l id="1387">Je ne demande plus d'où partait ce dédain,</l>
+	<l id="1388">Quand j'ai voulu vous faire un hymen de ma main.</l>
+	<l id="1389">Allez dans l'Aragon suivre votre princesse,</l>
+	<l id="1390">Mais allez-y du moins sans feindre une faiblesse ;</l>
+	<l id="1391">Et puisque ce grand coeur s'attache à ses appas,</l>
+	<l id="1392">Montrez, en la suivant, que vous ne fuyez pas.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1393">Ah ! Madame, plutôt apprenez tous mes crimes ;</l>
+	<l id="1394">Ma tête est à vos pieds, s'il vous faut des victimes.</l>
+	<l id="1395">Tout chétif que je suis, je dois vous avouer</l>
+	<l id="1396">Qu'en me plaignant du sort j'ai de quoi m'en louer :</l>
+	<l id="1397">S'il m'a fait en naissant quelque désavantage,</l>
+	<l id="1398">Il m'a donné d'un roi le nom et le courage ;</l>
+	<l id="1399">Et depuis que mon coeur est capable d'aimer,</l>
+	<l id="1400">À moins que d'une reine, il n'a pu s'enflammer :</l>
+	<l id="1401">Voilà mon premier crime, et je ne puis vous dire</l>
+	<l id="1402">Qui m'a fait infidèle, ou vous, ou Dona Elvire ;</l>
+	<l id="1403">Mais je sais que ce coeur, des deux parts engagé,</l>
+	<l id="1404">Se donnant à vous deux, ne s'est point partagé,</l>
+	<l id="1405">Toujours prêt d'embrasser son service et le vôtre,</l>
+	<l id="1406">Toujours prêt à mourir et pour l'une et pour l'autre.</l>
+	<l id="1407">Pour n'en adorer qu'une, il eût fallu choisir ;</l>
+	<l id="1408">Et ce choix eût été du moins quelque désir,</l>
+	<l id="1409">Quelque espoir outrageux d'être mieux reçu d'elle,</l>
+	<l id="1410">Et j'ai cru moins de crime à paraître infidèle.</l>
+	<l id="1411">Qui n'a rien à prétendre en peut bien aimer deux,</l>
+	<l id="1412">Et perdre en plus d'un lieu des soupirs et des voeux :</l>
+	<l id="1413">Voilà mon second crime ; et quoique ma souffrance</l>
+	<l id="1414">Jamais à ce beau feu n'ait permis d'espérance,</l>
+	<l id="1415">Je ne puis, sans mourir d'un désespoir jaloux,</l>
+	<l id="1416">Voir dans les bras d'un autre, ou Dona Elvire, ou vous.</l>
+	<l id="1417">Voyant que votre choix m'apprêtait ce martyre,</l>
+	<l id="1418">Je voulais m'y soustraire en suivant Dona Elvire,</l>
+	<l id="1419">Et languir auprès d'elle, attendant que le sort</l>
+	<l id="1420">Par un semblable hymen m'eût envoyé la mort.</l>
+	<l id="1421">Depuis, l'occasion que vous-même avez faite,</l>
+	<l id="1422">M'a fait quitter le soin d'une telle retraite.</l>
+	<l id="1423">Ce trouble a quelque temps amusé ma douleur ;</l>
+	<l id="1424">J'ai cru par ces combats reculer mon malheur.</l>
+	<l id="1425">Le coup de votre perte est devenu moins rude,</l>
+	<l id="1426">Lorsque j'en ai vu l'heure en quelque incertitude,</l>
+	<l id="1427">Et que j'ai pu me faire une si douce loi</l>
+	<l id="1428">Que ma mort vous donnât un plus vaillant que moi.</l>
+	<l id="1429">Mais je n'ai plus, madame, aucun combat à faire.</l>
+	<l id="1430">Je vois pour vous Dom Sanche un époux nécessaire ;</l>
+	<l id="1431">Car ce n'est point l'amour qui fait l'hymen des rois :</l>
+	<l id="1432">Les raisons de l'état règlent toujours leur choix ;</l>
+	<l id="1433">Leur sévère grandeur jamais ne se ravale,</l>
+	<l id="1434">Ayant devant les yeux un prince qui l'égale ;</l>
+	<l id="1435">Et puisque le saint noeud qui le fait votre époux</l>
+	<l id="1436">Arrête comme soeur Dona Elvire avec vous,</l>
+	<l id="1437">Que je ne puis la voir sans voir ce qui me tue,</l>
+	<l id="1438">Permettez que j'évite une fatale vue,</l>
+	<l id="1439">Et que je porte ailleurs les criminels soupirs</l>
+	<l id="1440">D'un reste malheureux de tant de déplaisirs.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1441">Vous m'en dites assez pour mériter ma haine,</l>
+	<l id="1442">Si je laissais agir les sentiments de reine ;</l>
+	<l id="1443">Par un trouble secret je les sens confondus ;</l>
+	<l id="1444">Partez, je le consens, et ne les troublez plus.</l>
+	<l id="1445">Mais non : pour fuir Dom Sanche, attendez qu'on le voie ;</l>
+	<l id="1446">Ce bruit peut être faux, et me rendre ma joie.</l>
+	<l id="1447">Que dis-je ? Allez, marquis, j'y consens de nouveau ;</l>
+	<l id="1448">Mais avant que partir donnez-lui mon anneau ;</l>
+	<l id="1449">Si ce n'est toutefois une faveur trop grande</l>
+	<l id="1450">Que pour tant de faveurs une reine demande.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1451">Vous voulez que je meure, et je dois obéir,</l>
+	<l id="1452">Dût cette obéissance à mon sort me trahir :</l>
+	<l id="1453">Je recevrai pour grâce un si juste supplice,</l>
+	<l id="1454">S'il en rompt la menace et prévient la malice,</l>
+	<l id="1455">Et souffre que Carlos, en donnant cet anneau,</l>
+	<l id="1456">Emporte ce faux nom et sa gloire au tombeau.</l>
+	<l id="1457">C'est l'unique bonheur où ce coupable aspire.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1458">Que n'êtes-vous Dom Sanche ! Ah ciel ! Qu'osai-je dire ?</l>
+	<l id="1459">Adieu : ne croyez pas ce soupir indiscret.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1460">Il m'en a dit assez pour mourir sans regret.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dom Alvar, Dona Elvire.</head>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="1461">Enfin, après un sort à mes voeux si contraire,</l>
+	<l id="1462">Je dois bénir le ciel qui vous renvoie un frère ;</l>
+	<l id="1463">Puisque de notre reine il doit être l'époux,</l>
+	<l id="1464">Cette heureuse union me laisse tout à vous.</l>
+	<l id="1465">Je me vois affranchi d'un honneur tyrannique,</l>
+	<l id="1466">D'un joug que m'imposait cette faveur publique,</l>
+	<l id="1467">D'un choix qui me forçait à vouloir être roi :</l>
+	<l id="1468">Je n'ai plus de combat à faire contre moi,</l>
+	<l id="1469">Plus à craindre le prix d'une triste victoire ;</l>
+	<l id="1470">Et l'infidélité que vous faisait ma gloire</l>
+	<l id="1471">Consent que mon amour, de ses lois dégagé,</l>
+	<l id="1472">Vous rende un inconstant qui n'a jamais changé.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1473">Vous êtes généreux, mais votre impatience</l>
+	<l id="1474">Sur un bruit incertain prend trop de confiance ;</l>
+	<l id="1475">Et cette prompte ardeur de rentrer dans mes fers</l>
+	<l id="1476">Me console trop tôt d'un trône que je perds.</l>
+	<l id="1477">Ma perte n'est encore qu'une rumeur confuse</l>
+	<l id="1478">Qui du nom de Carlos, malgré Carlos, abuse ;</l>
+	<l id="1479">Et vous ne savez pas, à vous en bien parler,</l>
+	<l id="1480">Par quelle offre et quels voeux on m'en peut consoler.</l>
+	<l id="1481">Plus que vous ne pensez la couronne m'est chère ;</l>
+	<l id="1482">Je perds plus qu'on ne croit, si Carlos est mon frère.</l>
+	<l id="1483">Attendez les effets que produiront ces bruits ;</l>
+	<l id="1484">Attendez que je sache au vrai ce que je suis,</l>
+	<l id="1485">Si le ciel m'ôte ou laisse enfin le diadème,</l>
+	<l id="1486">S'il vous faut m'obtenir d'un frère ou de moi-même,</l>
+	<l id="1487">Si par l'ordre d'autrui je vous dois écouter,</l>
+	<l id="1488">Ou si j'ai seulement mon coeur à consulter.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="1489">Ah ! Ce n'est qu'à ce coeur que le mien vous demande,</l>
+	<l id="1490">Madame, c'est lui seul que je veux qui m'entende ;</l>
+	<l id="1491">Et mon propre bonheur m'accablerait d'ennui,</l>
+	<l id="1492">Si je n'étais à vous que par l'ordre d'autrui.</l>
+	<l id="1493">Pourrais-je de ce frère implorer la puissance,</l>
+	<l id="1494">Pour ne vous obtenir que par obéissance,</l>
+	<l id="1495">Et par un lâche abus de son autorité,</l>
+	<l id="1496">M'élever en tyran sur votre volonté ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1497">Avec peu de raison vous craignez qu'il arrive</l>
+	<l id="1498">Qu'il ait des sentiments que mon âme ne suive :</l>
+	<l id="1499">Le digne sang des rois n'a point d'yeux que leurs yeux,</l>
+	<l id="1500">Et leurs premiers sujets obéissent le mieux.</l>
+	<l id="1501">Mais vous êtes étrange avec vos déférences,</l>
+	<l id="1502">Dont les submissions cherchent des assurances.</l>
+	<l id="1503">Vous ne craignez d'agir contre ce que je veux,</l>
+	<l id="1504">Que pour tirer de moi que j'accepte vos voeux,</l>
+	<l id="1505">Et vous obstineriez dans ce respect extrême</l>
+	<l id="1506">Jusques à me forcer à dire : " je vous aime. "</l>
+	<l id="1507">Ce mot est un peu rude à prononcer pour nous ;</l>
+	<l id="1508">Souffrez qu'à m'expliquer j'en trouve de plus doux.</l>
+	<l id="1509">Je vous dirai beaucoup, sans pourtant vous rien dire.</l>
+	<l id="1510">Je sais depuis quel temps vous aimez Dona Elvire ;</l>
+	<l id="1511">Je sais ce que je dois, je sais ce que je puis ;</l>
+	<l id="1512">Mais, encore une fois, sachons ce que je suis ;</l>
+	<l id="1513">Et si vous n'aspirez qu'au bonheur de me plaire,</l>
+	<l id="1514">Tâchez d'approfondir ce dangereux mystère.</l>
+	<l id="1515">Carlos a tant de lieu de vous considérer,</l>
+	<l id="1516">Que s'il devient mon roi, vous devez espérer.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="1517" part="i">Madame...</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1517" part="f">En ma faveur donnez-vous cette peine,</l>
+	<l id="1518">Et me laissez, de grâce, entretenir la reine.</l>
+</sp>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="1519">J'obéis avec joie, et ferai mon pouvoir</l>
+	<l id="1520">À vous dire bientôt ce qui s'en peut savoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dona Léonor, Dona Elvire.</head>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1521" part="i">Don Alvar me fuit-il ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1521" part="f">Madame, à ma prière,</l>
+	<l id="1522">Il va dans tous ces bruits chercher quelque lumière.</l>
+	<l id="1523">J'ai craint, en vous voyant, un secours pour ses feux,</l>
+	<l id="1524">Et de défendre mal mon coeur contre vous deux.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1525">Ne pourra-t-il jamais gagner votre courage ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1526">Il peut tout obtenir, ayant votre suffrage.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1527">Je lui puis donc enfin promettre votre foi ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1528">Oui, si vous lui gagnez celui du nouveau roi.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1529">Et si ce bruit est faux ? Si vous demeurez reine ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1530">Que vous puis-je répondre, en étant incertaine ?</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1531">En cette incertitude on peut faire espérer.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1532">On peut attendre aussi pour en délibérer :</l>
+	<l id="1533">On agit autrement quand le pouvoir suprême...</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dona Isabelle, Dona Léonor, Dona Elvire.</head>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1534">J'interromps vos secrets, mais j'y prends part moi-même ;</l>
+	<l id="1535">Et j'ai tant d'intérêt de connaître ce fils,</l>
+	<l id="1536">Que j'ose demander ce qui s'en est appris.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1537">Vous ne m'en voyez point davantage éclaircie.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1538">Mais de qui tenez-vous la mort de Dom Garcie,</l>
+	<l id="1539">Vu que depuis un mois qu'il vient des députés,</l>
+	<l id="1540">On parlait seulement de peuples révoltés ?</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1541">Je vous puis sur ce point aisément satisfaire :</l>
+	<l id="1542">Leurs gens m'en ont donné la raison assez claire.</l>
+	<l id="1543">On assiégeait encore, alors qu'ils sont partis,</l>
+	<l id="1544">Dedans leur dernier fort Dom Garcie et son fils.</l>
+	<l id="1545">On l'a pris tôt après ; et soudain par sa prise</l>
+	<l id="1546">Don Raymond prisonnier recouvrant sa franchise,</l>
+	<l id="1547">Les voyant tous deux morts, publie à haute voix</l>
+	<l id="1548">Que nous avions un roi du vrai sang de nos rois,</l>
+	<l id="1549">Que Dom Sanche vivait, et part en diligence</l>
+	<l id="1550">Pour rendre à l'Aragon le bien de sa présence.</l>
+	<l id="1551">Il joint nos députés hier sur la fin du jour,</l>
+	<l id="1552">Et leur dit que ce prince était en votre cour.</l>
+	<l id="1553">C'est tout ce que j'ai pu tirer d'un domestique :</l>
+	<l id="1554">Outre qu'avec ces gens rarement on s'explique,</l>
+	<l id="1555">Comme ils entendent mal, leur rapport est confus ;</l>
+	<l id="1556">Mais bientôt Dom Raymond vous dira le surplus.</l>
+	<l id="1557">Que nous veut cependant Blanche toute étonnée ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dona Isabelle, Dona Léonor, Dona Elvire, Blanche.</head>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1558" part="i">Ah ! Madame !</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1558" part="m">Qu'as-tu ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1558" part="f">La funeste journée !</l>
+	<l id="1559" part="i">Votre Carlos...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1559" part="m">Eh bien ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1559" part="f">Son père est en ces lieux,</l>
+	<l id="1560" part="i">Et n'est...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1560" part="m">Quoi ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1560" part="m">Qu'un pêcheur.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1560" part="m">Qui te l'a dit ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1560" part="m">Mes yeux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1560" part="f">Tes yeux ?</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1561" part="i">Mes propres yeux.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1561" part="f">Que j'ai peine à les croire !</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1562">Voudriez-vous, madame, en apprendre l'histoire ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1563" part="i">Que le ciel est injuste !</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1563" part="f">Il l'est, et nous fait voir</l>
+	<l id="1564">Par cet injuste effet son absolu pouvoir,</l>
+	<l id="1565">Qui du sang le plus vil tire une âme si belle,</l>
+	<l id="1566">Et forme une vertu qui n'a lustre que d'elle.</l>
+	<l id="1567">Parle, Blanche, et dis-nous comme il voit ce malheur.</l>
+</sp>
+<sp who="BLANCHE"><speaker>BLANCHE.</speaker>
+	<l id="1568">Avec beaucoup de honte, et plus encore de coeur.</l>
+	<l id="1569">Du haut de l'escalier je le voyais descendre ;</l>
+	<l id="1570">En vain de ce faux bruit il se voulait défendre ;</l>
+	<l id="1571">Votre cour, obstinée à lui changer de nom,</l>
+	<l id="1572">Murmurait tout autour : « Dom Sanche d'Aragon ! »</l>
+	<l id="1573">Quand un chétif vieillard le saisit et l'embrasse.</l>
+	<l id="1574">Lui qui le reconnaît frémit de sa disgrâce ;</l>
+	<l id="1575">Puis laissant la nature à ses pleins mouvements,</l>
+	<l id="1576">Répond avec tendresse à ses embrassements.</l>
+	<l id="1577">Ses pleurs mêlent aux siens une fierté sincère ;</l>
+	<l id="1578">On n'entend que soupirs : « Ah ! Mon fils ! - Ah ! Mon père !</l>
+	<l id="1579">- Oh ! Jour trois fois heureux ! Moment trop attendu !</l>
+	<l id="1580">Tu m'as rendu la vie ! » et : « Vous m'avez perdu ! »</l>
+	<l id="1581">Chose étrange ! À ces cris de douleur et de joie,</l>
+	<l id="1582">Un grand peuple accouru ne veut pas qu'on les croie ;</l>
+	<l id="1583">Il s'aveugle soi-même ; et ce pauvre pêcheur,</l>
+	<l id="1584">En dépit de Carlos, passe pour imposteur.</l>
+	<l id="1585">Dans les bras de ce fils on lui fait mille hontes :</l>
+	<l id="1586">C'est un fourbe, un méchant suborné par les comtes.</l>
+	<l id="1587">Eux-mêmes (admirez leur générosité)</l>
+	<l id="1588">S'efforcent d'affermir cette incrédulité ;</l>
+	<l id="1589">Non qu'ils prennent sur eux de si lâches pratiques ;</l>
+	<l id="1590">Mais ils en font auteur un de leurs domestiques,</l>
+	<l id="1591">Qui pensant bien leur plaire, a si mal à propos</l>
+	<l id="1592">Instruit ce malheureux pour affronter Carlos.</l>
+	<l id="1593">Avec avidité cette histoire est reçue :</l>
+	<l id="1594">Chacun la tient trop vraie aussitôt qu'elle est sue ;</l>
+	<l id="1595">Et pour plus de croyance à cette trahison,</l>
+	<l id="1596">Les comtes font traîner ce bonhomme en prison.</l>
+	<l id="1597">Carlos rend témoignage en vain contre soi-même ;</l>
+	<l id="1598">Les vérités qu'il dit cèdent au stratagème,</l>
+	<l id="1599">Et dans le déshonneur qui l'accable aujourd'hui,</l>
+	<l id="1600">Ses plus grands envieux l'en sauvent malgré lui.</l>
+	<l id="1601">Il tempête, il menace, et bouillant de colère,</l>
+	<l id="1602">Il crie à pleine voix qu'on lui rende son père :</l>
+	<l id="1603">On tremble devant lui sans croire son courroux ;</l>
+	<l id="1604">Et rien... Mais le voici qui vient s'en plaindre à vous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dona Isabelle, Dona Léonor, Dona Elvire, Blanche, Carlos, Dom Manrique, Dom Lope.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1605">Eh bien ! Madame, enfin on connaît ma naissance :</l>
+	<l id="1606">Voilà le digne fruit de mon obéissance.</l>
+	<l id="1607">J'ai prévu ce malheur, et l'aurais évité,</l>
+	<l id="1608">Si vos commandements ne m'eussent arrêté.</l>
+	<l id="1609">Ils m'ont livré, madame, à ce moment funeste ;</l>
+	<l id="1610">Et l'on m'arrache encore le seul bien qui me reste !</l>
+	<l id="1611">On me vole mon père ! On le fait criminel !</l>
+	<l id="1612">On attache à son nom un opprobre éternel !</l>
+	<l id="1613">Je suis fils d'un pêcheur, mais non pas d'un infâme :</l>
+	<l id="1614">La bassesse du sang ne va point jusqu'à l'âme ;</l>
+	<l id="1615">Et je renonce aux noms de comte et de marquis</l>
+	<l id="1616">Avec bien plus d'honneur qu'aux sentiments de fils :</l>
+	<l id="1617">Rien n'en peut effacer le sacré caractère.</l>
+	<l id="1618">De grâce, commandez qu'on me rende mon père.</l>
+	<l id="1619">Ce doit leur être assez de savoir qui je suis,</l>
+	<l id="1620">Sans m'accabler encore par de nouveaux ennuis.</l>
+</sp>
+<sp who="MANRIQUE"><speaker>DOM MANRIQUE.</speaker>
+	<l id="1621">Forcez ce grand courage à conserver sa gloire,</l>
+	<l id="1622">Madame, et l'empêchez lui-même de se croire.</l>
+	<l id="1623">Nous n'avons pu souffrir qu'un bras qui tant de fois</l>
+	<l id="1624">A fait trembler le More et triompher nos rois,</l>
+	<l id="1625">Reçût de sa naissance une tache éternelle :</l>
+	<l id="1626">Tant de valeur mérite une source plus belle.</l>
+	<l id="1627">Aidez ainsi que nous ce peuple à s'abuser ;</l>
+	<l id="1628">Il aime son erreur, daignez l'autoriser :</l>
+	<l id="1629">À tant de beaux exploits rendez cette justice,</l>
+	<l id="1630">Et de notre pitié soutenez l'artifice.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1631">Je suis bien malheureux, si je vous fais pitié ;</l>
+	<l id="1632">Reprenez votre orgueil et votre inimitié.</l>
+	<l id="1633">Après que ma fortune a soûlé votre envie,</l>
+	<l id="1634">Vous plaignez aisément mon entrée à la vie ;</l>
+	<l id="1635">Et me croyant par elle à jamais abattu,</l>
+	<l id="1636">Vous exercez sans peine une haute vertu.</l>
+	<l id="1637">Peut-être elle ne fait qu'une embûche à la mienne.</l>
+	<l id="1638">La gloire de mon nom vaut bien qu'on la retienne ;</l>
+	<l id="1639">Mais son plus bel éclat serait trop acheté,</l>
+	<l id="1640">Si je le retenais par une lâcheté.</l>
+	<l id="1641">Si ma naissance est basse, elle est du moins sans tache :</l>
+	<l id="1642">Puisque vous la savez, je veux bien qu'on la sache.</l>
+	<l id="1643">Sanche, fils d'un pêcheur, et non d'un imposteur,</l>
+	<l id="1644">De deux comtes jadis fut le libérateur ;</l>
+	<l id="1645">Sanche, fils d'un pêcheur, mettait naguère en peine</l>
+	<l id="1646">Deux illustres rivaux sur le choix de leur reine ;</l>
+	<l id="1647">Sanche, fils d'un pêcheur, tient encore en sa main</l>
+	<l id="1648">De quoi faire bientôt tout l'heur d'un souverain ;</l>
+	<l id="1649">Sanche enfin, malgré lui, dedans cette province,</l>
+	<l id="1650">Quoique fils d'un pêcheur, a passé pour un prince.</l>
+	<l id="1651">Voilà ce qu'a pu faire et qu'a fait à vos yeux</l>
+	<l id="1652">Un coeur que ravalait le nom de ses aïeux.</l>
+	<l id="1653">La gloire qui m'en reste après cette disgrâce</l>
+	<l id="1654">éclate encore assez pour honorer ma race,</l>
+	<l id="1655">Et paraîtra plus grande à qui comprendra bien</l>
+	<l id="1656">Qu'à l'exemple du ciel j'ai fait beaucoup de rien.</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="1657">Cette noble fierté désavoue un tel père,</l>
+	<l id="1658">Et par un témoignage à soi-même contraire,</l>
+	<l id="1659">Obscurcit de nouveau ce qu'on voit éclairci.</l>
+	<l id="1660">Non, le fils d'un pêcheur ne parle point ainsi,</l>
+	<l id="1661">Et son âme paraît si dignement formée,</l>
+	<l id="1662">Que j'en crois plus que lui l'erreur que j'ai semée.</l>
+	<l id="1663">Je le soutiens, Carlos, vous n'êtes point son fils :</l>
+	<l id="1664">La justice du ciel ne peut l'avoir permis ;</l>
+	<l id="1665">Les tendresses du sang vous font une imposture,</l>
+	<l id="1666">Et je démens pour vous la voix de la nature.</l>
+	<l id="1667">Ne vous repentez point de tant de dignités</l>
+	<l id="1668">Dont il vous plut orner ses rares qualités :</l>
+	<l id="1669">Jamais plus digne main ne fit plus digne ouvrage,</l>
+	<l id="1670">Madame ; il les relève avec ce grand courage ;</l>
+	<l id="1671">Et vous ne leur pouviez trouver plus haut appui,</l>
+	<l id="1672">Puisque même le sort est au-dessous de lui.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1673">La générosité qu'en tous les trois j'admire</l>
+	<l id="1674">Me met en un état de n'avoir que leur dire,</l>
+	<l id="1675">Et dans la nouveauté de ces événements,</l>
+	<l id="1676">Par un illustre effort prévient mes sentiments.</l>
+	<l id="1677">Ils paraîtront en vain, comtes, s'ils vous excitent</l>
+	<l id="1678">À lui rendre l'honneur que ses hauts faits méritent,</l>
+	<l id="1679">Et ne dédaigner pas l'illustre et rare objet</l>
+	<l id="1680">D'une haute valeur qui part d'un sang abject :</l>
+	<l id="1681">Vous courez au-devant avec tant de franchise,</l>
+	<l id="1682">Qu'autant que du pêcheur je m'en trouve surprise.</l>
+	<l id="1683">Et vous, que par mon ordre ici j'ai retenu,</l>
+	<l id="1684">Sanche, puisqu'à ce nom vous êtes reconnu,</l>
+	<l id="1685">Miraculeux héros, dont la gloire refuse</l>
+	<l id="1686">L'avantageuse erreur d'un peuple qui s'abuse,</l>
+	<l id="1687">Parmi les déplaisirs que vous en recevez,</l>
+	<l id="1688">Puis-je vous consoler d'un sort que vous bravez ?</l>
+	<l id="1689">Puis-je vous demander ce que je vous vois faire ?</l>
+	<l id="1690">Je vous tiens malheureux d'être né d'un tel père ;</l>
+	<l id="1691">Mais je vous tiens ensemble heureux au dernier point</l>
+	<l id="1692">D'être né d'un tel père, et de n'en rougir point,</l>
+	<l id="1693">Et de ce qu'un grand coeur, mis dans l'autre balance,</l>
+	<l id="1694">Emporte encor si haut une telle naissance.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dona Isabelle, Dona Léonor, Dona Elvire, Carlos, Dom Manrique, Dom Lope, Dom Alvar, Blanche.</head>
+<sp who="ALVAR"><speaker>DOM ALVAR.</speaker>
+	<l id="1695">Princesses, admirez l'orgueil d'un prisonnier,</l>
+	<l id="1696">Qu'en faveur de son fils on veut calomnier.</l>
+	<l id="1697">Ce malheureux pêcheur, par promesse ni crainte,</l>
+	<l id="1698">Ne saurait se résoudre à souffrir une feinte.</l>
+	<l id="1699">J'ai voulu lui parler, et n'en fais que sortir ;</l>
+	<l id="1700">J'ai tâché, mais en vain, de lui faire sentir</l>
+	<l id="1701">Combien mal à propos sa présence importune</l>
+	<l id="1702">D'un fils si généreux renverse la fortune,</l>
+	<l id="1703">Et qu'il le perd d'honneur, à moins que d'avouer</l>
+	<l id="1704">Que c'est un lâche tour qu'on le force à jouer ;</l>
+	<l id="1705">J'ai même à ces raisons ajouté la menace :</l>
+	<l id="1706">Rien ne peut l'ébranler, Sanche est toujours sa race,</l>
+	<l id="1707">Et quant à ce qu'il perd de fortune et d'honneur,</l>
+	<l id="1708">Il dit qu'il a de quoi le faire grand seigneur,</l>
+	<l id="1709">Et que plus de cent fois il a su de sa femme</l>
+	<l id="1710">(Voyez qu'il est crédule et simple au fond de l'âme)</l>
+	<l id="1711">Que voyant ce présent, qu'en mes mains il a mis,</l>
+	<l id="1712">La reine d'Aragon agrandirait son fils.</l>
+<stage>À Dona Léonor.</stage>
+	<l id="1713">Si vous le recevez avec autant de joie,</l>
+	<l id="1714">Madame, que par moi ce vieillard vous l'envoie,</l>
+	<l id="1715">Vous donnerez sans doute à cet illustre fils</l>
+	<l id="1716">Un rang encore plus haut que celui de marquis.</l>
+	<l id="1717">Ce bonhomme en paraît l'âme toute comblée.</l>
+<stage>Dom Alvar présente à Dona Léonor un petit écrin qui s'ouvre sans clef, au moyen d'un ressort secret.</stage>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1718">Madame, à cet aspect vous paroissez troublée.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1719">J'ai bien sujet de l'être en recevant ce don,</l>
+	<l id="1720">Madame : j'en saurai si mon fils vit ou non ;</l>
+	<l id="1721">Et c'est où le feu roi, déguisant sa naissance,</l>
+	<l id="1722">D'un sort si précieux mit la reconnaissance.</l>
+	<l id="1723">Disons ce qu'il enferme avant que de l'ouvrir.</l>
+	<l id="1724">Ah ! Sanche, si par là je puis le découvrir,</l>
+	<l id="1725">Vous pouvez être sûr d'un entier avantage</l>
+	<l id="1726">Dans les lieux dont le ciel a fait notre partage ;</l>
+	<l id="1727">Et qu'après ce trésor que vous m'aurez rendu,</l>
+	<l id="1728">Vous recevrez le prix qui vous en sera dû.</l>
+	<l id="1729">Mais à ce doux transport c'est déjà trop permettre.</l>
+	<l id="1730">Trouvons notre bonheur avant que d'en promettre.</l>
+	<l id="1731">Ce présent donc enferme un tissu de cheveux</l>
+	<l id="1732">Que reçut Dom Fernand pour arrhes de mes voeux,</l>
+	<l id="1733">Son portrait et le mien, deux pierres les plus rares</l>
+	<l id="1734">Que forme le soleil sous les climats barbares,</l>
+	<l id="1735">Et pour un témoignage encore plus certain,</l>
+	<l id="1736">Un billet que lui-même écrivit de sa main.</l>
+</sp>
+<sp who="GARDE"><speaker>Un garde.</speaker>
+	<l id="1737">Madame, Dom Raymond vous demande audience.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1738">Qu'il entre. Pardonnez à mon impatience,</l>
+	<l id="1739">Si l'ardeur de le voir et de l'entretenir</l>
+	<l id="1740">Avant votre congé l'ose faire venir.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1741">Vous pouvez commander dans toute la Castille,</l>
+	<l id="1742">Et je ne vous vois plus qu'avec des yeux de fille.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Dona Isabelle, Dona Léonor, Dona Elvire, Carlos, Dom Manrique, Dom Lope, Dom Alvar, Blanche, Dom Raymond.</head>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1743">Laissez là, Dom Raymond, la mort de nos tyrans,</l>
+	<l id="1744">Et rendez seulement Dom Sanche à ses parents.</l>
+	<l id="1745">Vit-il ? Peut-il braver nos fières destinées ?</l>
+</sp>
+<sp who="RAYMOND"><speaker>DOM RAYMOND.</speaker>
+	<l id="1746">Sortant d'une prison de plus de six années,</l>
+	<l id="1747">Je l'ai cherché, madame, où pour les mieux braver,</l>
+	<l id="1748">Par l'ordre du feu roi je le fis élever,</l>
+	<l id="1749">Avec tant de secret, que même un second père,</l>
+	<l id="1750">Qui l'estime son fils, ignore ce mystère.</l>
+	<l id="1751">Ainsi qu'en votre cour Sanche y fut son vrai nom,</l>
+	<l id="1752">Et l'on n'en retrancha que cet illustre don.</l>
+	<l id="1753">Là j'ai su qu'à seize ans son généreux courage</l>
+	<l id="1754">S'indigna des emplois de ce faux parentage ;</l>
+	<l id="1755">Qu'impatient déjà d'être si mal tombé,</l>
+	<l id="1756">À sa fausse bassesse il s'était dérobé ;</l>
+	<l id="1757">Que déguisant son nom et cachant sa famille,</l>
+	<l id="1758">Il avait fait merveille aux guerres de Castille,</l>
+	<l id="1759">D'où quelque sien voisin, depuis peu de retour,</l>
+	<l id="1760">L'avait vu plein de gloire, et fort bien en la cour ;</l>
+	<l id="1761">Que du bruit de son nom elle était toute pleine,</l>
+	<l id="1762">Qu'il était connu même et chéri de la reine :</l>
+	<l id="1763">Si bien que ce pêcheur, d'aise tout transporté,</l>
+	<l id="1764">Avait couru chercher ce fils si fort vanté.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1765">Dom Raymond, si vos yeux pouvaient le reconnaître...</l>
+</sp>
+<sp who="RAYMOND"><speaker>DOM RAYMOND.</speaker>
+	<l id="1766">Oui, je le vois, madame. Ah ! Seigneur, ah ! Mon maître !</l>
+</sp>
+<sp who="LOPE"><speaker>DOM LOPE.</speaker>
+	<l id="1767">Nous l'avions bien jugé : grand prince, rendez-vous ;</l>
+	<l id="1768">La vérité paraît ; cédez aux voeux de tous.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR.</speaker>
+	<l id="1769">Dom Sanche, voulez-vous être seul incrédule ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1770">Je crains encore du sort un revers ridicule.</l>
+	<l id="1771">Mais, madame, voyez si le billet du roi</l>
+	<l id="1772">Accorde à Dom Raymond ce qu'il vous dit de moi.</l>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR, ouvre l'écrin, et ne tire un billet qu'elle lit.</speaker>
+	<l id="1773">Pour tromper un tyran je vous trompe vous-même.</l>
+	<l id="1774">Vous reverrez ce fils que je vous fais pleurer :</l>
+	<l id="1775">Cette erreur lui peut rendre un jour le diadème ;</l>
+	<l id="1776">Et je vous l'ai caché pour le mieux assurer.</l>
+	<l id="1777">Si ma feinte vers vous passe pour criminelle,</l>
+	<l id="1778">Pardonnez-moi les maux qu'elle vous fait souffrir,</l>
+	<l id="1779">De crainte que les soins de l'amour maternelle</l>
+	<l id="1780">Par leurs empressements le fissent découvrir.</l>
+	<l id="1781">Nugne, un pauvre pêcheur, s'en croit être le père ;</l>
+	<l id="1782">Sa femme en son absence accouchant d'un fils mort,</l>
+	<l id="1783">Elle reçut le vôtre, et sut si bien se taire,</l>
+	<l id="1784">Que le père et le fils en ignorent le sort.</l>
+	<l id="1785">Elle-même l'ignore ; et d'un si grand échange</l>
+	<l id="1786">Elle sait seulement qu'il n'est pas de son sang,</l>
+	<l id="1787">Et croit que ce présent, par un miracle étrange,</l>
+	<l id="1788">Doit un jour par vos mains lui rendre son vrai rang.</l>
+	<l id="1789">À ces marques, un jour, daignez le reconnaître ;</l>
+	<l id="1790">Et puisse l'Aragon, retournant sous vos lois,</l>
+	<l id="1791">Apprendre ainsi que vous, de moi qui l'ai vu naître,</l>
+	<l id="1792">Que Sanche, fils de Nugne, est le sang de ses rois !</l>
+  <p id="1">Don Fernand d'Aragon.</p>
+</sp>
+<sp who="LEONOR"><speaker>DONA LÉONOR, après l'avoir lu.</speaker>
+	<l id="1793">Ah ! Mon fils, s'il en faut encore davantage,</l>
+	<l id="1794">Croyez-en vos vertus et votre grand courage.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS, à dona Léonor.</speaker>
+	<l id="1795">Ce serait mal répondre à ce rare bonheur</l>
+	<l id="1796">Que vouloir me défendre encore d'un tel honneur.</l>
+	<l id="1797">Je reprends toutefois Nugne pour mon vrai père,</l>
+	<l id="1798">Si vous ne m'ordonnez, madame, que j'espère.</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1799">C'est trop peu d'espérer, quand tout vous est acquis.</l>
+	<l id="1800">Je vous avais fait tort en vous faisant marquis ;</l>
+	<l id="1801">Et vous n'aurez pas lieu désormais de vous plaindre</l>
+	<l id="1802">De ce retardement où j'ai su vous contraindre.</l>
+	<l id="1803">Et pour moi, que le ciel destinait pour un roi,</l>
+	<l id="1804">Digne de la Castille, et digne encore de moi,</l>
+	<l id="1805">J'avais mis cette bague en des mains assez bonnes</l>
+	<l id="1806">Pour la rendre à Dom Sanche, et joindre nos couronnes.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id="1807">Je ne m'étonne plus de l'orgueil de mes voeux,</l>
+	<l id="1808">Qui, sans le partager, donnaient mon coeur à deux :</l>
+	<l id="1809">Dans les obscurités d'une telle aventure,</l>
+	<l id="1810">L'amour se confondait avec la nature.</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1811">Le nôtre y répondait sans faire honte au rang,</l>
+	<l id="1812">Et le mien vous payait ce que devait le sang.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS, à Dona Elvire.</speaker>
+	<l id="1813">Si vous m'aimez encore, et m'honorez en frère,</l>
+	<l id="1814">Un époux de ma main pourrait-il vous déplaire ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>DONA ELVIRE.</speaker>
+	<l id="1815">Si Dom Alvar de Lune est cet illustre époux,</l>
+	<l id="1816">Il vaut bien à mes yeux tout ce qui n'est point vous.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS, à Dona Elvire.</speaker>
+	<l id="1817">Il honorait en moi la vertu toute nue.</l>
+<stage>À Dom Manrique et à Dom Lope.</stage>
+	<l id="1818">Et vous, qui dédaigniez ma naissance inconnue,</l>
+	<l id="1819">Comtes, et les premiers en cet événement</l>
+	<l id="1820">Jugiez en ma faveur si véritablement,</l>
+	<l id="1821">Votre dédain fut juste autant que son estime :</l>
+	<l id="1822">C'est la même vertu sous une autre maxime.</l>
+</sp>
+<sp who="RAYMOND"><speaker>DOM RAYMOND, à Dom Isabelle.</speaker>
+	<l id="1823">Souffrez qu'à l'Aragon il daigne se montrer.</l>
+	<l id="1824">Nos députés, madame, impatients d'entrer...</l>
+</sp>
+<sp who="ISABELLE"><speaker>DONA ISABELLE.</speaker>
+	<l id="1825">Il vaut mieux leur donner audience publique,</l>
+	<l id="1826">Afin qu'aux yeux de tous ce miracle s'explique.</l>
+	<l id="1827">Allons ; et cependant qu'on mette en liberté</l>
+	<l id="1828">Celui par qui tant d'heur nous vient d'être apporté ;</l>
+	<l id="1829">Et qu'on l'amène ici, plus heureux qu'il ne pense,</l>
+	<l id="1830">Recevoir de ses soins la digne récompense.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

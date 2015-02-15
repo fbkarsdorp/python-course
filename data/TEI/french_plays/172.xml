@@ -1,0 +1,7208 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<TEI.2>
+
+<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>LE GALANT DOUBLÉ, COMÉDIE. </title>
+
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+
+				<date>1659</date>
+
+			</titleStmt>
+
+			<publicationStmp>	
+
+				<p>publié par Paul FIEVRE, septembre 2009</p>
+
+			</publicationStmp>
+
+			<SourceDesc>
+
+				<genre>Comédie</genre>
+
+				<inspiration>moeurs espagnoles</inspiration>
+
+				<structure>Cinq actes</structure>
+
+				<type>vers</type>
+
+				<periode>1651-1660</periode>
+
+				<taille>1750-2000</taille>
+
+				<permalien></permalien>
+
+				<sources>
+
+					<source id='1'><author></author><text></text></source>
+
+				</sources>	
+
+			</SourceDesc>
+
+		</fileDesc>
+
+</teiHeader>
+
+<text>
+
+	<front>
+
+		<docTitle>
+
+			<titlePart type="main">LE GALANT DOUBLÉ</titlePart>
+
+			<titlePart type="sub">COMÉDIE</titlePart>
+
+		</docTitle> 
+
+		<docDate value='1659'>1659</docDate>
+
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+
+		<docImprint>
+
+			<privilege id=''></privilege>
+
+			<acheveImprime id=''></acheveImprime>
+
+		</docImprint>
+
+		<performance>
+
+			<premiere date='1659' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1659 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+
+		</performance>
+
+	<castList><head>ACTEURS</head>
+
+		<castItem><role id="DOM-DIEGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM DIÈGUE</role>, père de Léonor.</castItem>
+
+		<castItem><role id="DOM-FERNAND" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DOM FERNAND de Solis</role>, amant de Léonor.</castItem>
+
+		<castItem><role id="DOM-JUAN" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM JUAN de Torrès</role>, ami de Dom Fernand. </castItem>
+
+		<castItem><role id="LÉONOR" civil='F' type="H" statut='aristocrate' age='J' stat_amour='amoureux'>LÉONOR</role>, fille de Dom Diègue. </castItem>
+
+		<castItem><role id="ISABELLE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ISABELLE</role>, amie de Léonor. </castItem>
+
+		<castItem><role id="BEATRIX" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BÉATRIX</role>, suivante d'Isabelle. </castItem>
+
+		<castItem><role id="JACINTE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>JACINTE</role>, suivante de Léonor.</castItem>
+
+		<castItem><role id="L-EXEMPT" civil='M' type="H" statut='exempt' age='A' stat_amour='néant'>Un exempt.</role>.</castItem>
+
+		<castItem><role id="GUZMAN" civil='M' type="H" statut='valet' age='A' stat_amour='néant'>GUZMAN</role>, valet de Dom Fernand. </castItem>
+
+	</castList>
+
+	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>La scène est à Madrid.</set>
+
+</front>
+
+<body>
+
+<div1 type='acte' n='1'><head>ACTE I</head>
+
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Fernand, Gusman. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1' part='i'>Ah, Gusman  !</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1' part='m'>Ah, Monsieur  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1' part='f'>Je te vois à Madrid.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='2'>Ce voyage longtemps m'a chagriné l'esprit,</l>
+
+	<l id='3'>Et j'avais belle peur de ne le pouvoir faire.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='4'>Quoi, Guzman, tu doutais du crédit de mon père ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='5'>Je ne doutais de rien, mais dans la vérité</l>
+
+	<l id='6'>Dom César était mort, et j'étais arrêté.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='7'>Pour huit jours de prison tu t'en dus croire quitte.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='8'>La prison est toujours un malencontreux gîte,</l>
+
+	<l id='9'>Et m'y voyant entré, je m'étais attendu</l>
+
+	<l id='10'>À n'en sortir jamais que pour être pendu,</l>
+
+	<l id='11'>Dans ces occasions, pour chétif qu'il puisse être,</l>
+
+	<l id='12'>Un valet quelquefois peut payer pour son maître.</l>
+
+	<l id='13'>Comme après le coup fait vous étiez évadé,</l>
+
+	<l id='14'>On n'accusait que moi d'avoir homicidé.</l>
+
+	<l id='15'>J'étais là fortement demeuré pour les gages.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='16' part='i'>Enfin  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='16' part='f'>Enfin l'argent a de grands avantages,</l>
+
+	<l id='17'>Et c'est par sa vertu qu'on est tombé d'accord,</l>
+
+	<l id='18'>Que sans nuire aux vivants, le mort resterait mort ;</l>
+
+	<l id='19'>Mais depuis plus d'un mois que parti de Séville,</l>
+
+	<l id='20'>Vous avez ici dû prendre en propre une fille,</l>
+
+	<l id='21'>Tout étant entre vous par lettres concerté,</l>
+
+	<l id='22'>Puis-je vous demander où vous avez été  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='23'>Ici. Pourquoi douter d'une chose si claire ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='24'>Pour vous avoir en vain cherché chez le beau-père.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='25' part='i'>Chez Dom Diègue ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='25' part='f'>Oui, Monsieur.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='25' part='f'>Ah, Guzman, qu'as-tu fait ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='26'>Ma foi, c'est un brave homme, et j'en suis satisfait ;</l>
+
+	<l id='27'>La station est douce, on y boit d'importance.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='28' part='i'>Il m'attend comme gendre ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='28' part='f'>Avec impatience,</l>
+
+	<l id='29'>Et trouve tout en vous tellement à son gré,</l>
+
+	<l id='30'>Qu'il voudrait dès demain vous avoir engendré.</l>
+
+	<l id='31'>Votre retardement le tient bien en cervelle.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='32'>Par toi de mon départ il a su la nouvelle.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='33'>Il sait jusqu'au sujet qui vous l'a fait hâter.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='34'>Sa fille, tu l'as vue, il n'en faut point douter ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='35'>Arrivé d'hier au soir, je n'ai vu que le père,</l>
+
+	<l id='36'>Et ne sachant sans vous que résoudre ni faire,</l>
+
+	<l id='37'>Sorti sans en rien dire avant qu'il fut levé,</l>
+
+	<l id='38'>J'ai voulu voir la ville, et je vous ai trouvé.</l>
+
+	<l id='39'>Mais de grâce, Monsieur, quelle rare aventure</l>
+
+	<l id='40'>Vous fait fuir le beau-père et l'épouse future ?</l>
+
+<note type="L">Matrimonium : Terme de plaisanterie, qui est le latin matrimonium, écrit à la française, et signifie mariage. "Quelque autre, sous l'espoir du matrimonion, Aurait ouvert l'oreille à la tentation," ( Molière.- Le Dépit amoureux, Acte II, sc. IV). [L]</note>
+
+	<l id='41'>Vous sentez-vous impropre au matrimonium ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='42'>Guzman, je laisse agir mon inclination,</l>
+
+	<l id='43'>Et si de doux objets ont tenté ma franchise...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='44'>Prenez garde, Monsieur, à cette marchandise.</l>
+
+	<l id='45'>L'air de Cour rabat bien du haut prix qui s'y met,</l>
+
+	<l id='46'>On ne la livre pas telle qu'on l'y promet,</l>
+
+	<l id='47'>Et beaucoup attrapés par un maintien modeste,</l>
+
+	<l id='48'>Pensent prendre en plein drap, qui n'achètent qu'un reste.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='49'>Non, non, mon coeur n'est point novice dans ce choix,</l>
+
+	<l id='50'>Et pour deux aujourd'hui brûle tout à la fois.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='51' part='i'>Autres que Léonor votre épouse  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='51' part='f'>Autres qu'elle.</l>
+
+	<l id='52'>On me la fait aimable, on me dit qu'elle est belle ;</l>
+
+	<l id='53'>Mais son père et le mien en ont en vain ma foi,</l>
+
+	<l id='54'>Ils choisissaient pour eux, je veux choisir pour moi.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='55'>Bon, mais puisqu'à la fois deux ont l'air de vous plaire,</l>
+
+	<l id='56'>Et que la confrérie est un mal nécessaire,</l>
+
+	<l id='57'>Prenez-les toutes deux en qualité d'époux,</l>
+
+	<l id='58'>L'une pour vos amis, l'autre sera pour vous.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='59'>Au lieu de badiner, écoute. La poursuite</l>
+
+	<l id='60'>Dont pour César tué l'appréhendais la suite,</l>
+
+	<l id='61'>Ayant hâté d'un mois mon voyage à la Cour,</l>
+
+	<l id='62'>Me fit perdre d'abord tout souci de l'amour.</l>
+
+	<l id='63'>Ainsi jusqu'au succès que j'en devais attendre,</l>
+
+	<l id='64'>J'oubliai qu'à Madrid je venais comme gendre,</l>
+
+	<l id='65'>Et sans que chez Dom Diègue aucun l'ait pu savoir,</l>
+
+	<l id='66'>Dom Juan est celui qui m'a su recevoir.</l>
+
+	<l id='67'>Me logeant, il ne fait que me rendre en sa Ville</l>
+
+	<l id='68'>Ce que tu sais chez nous qu'il reçut à Séville,</l>
+
+	<l id='69'>Et j'ai l'heur qu'à Madrid n'étant jamais venu,</l>
+
+	<l id='70'>Il est le seul encor de qui j'y sois connu.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='71' part='i'>Vous l'êtes du beau-père.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='71' part='f'>Il a mauvaise vue,</l>
+
+	<l id='72'>Je l'ai déjà deux fois rencontré par la rue,</l>
+
+	<l id='73'>Mais comme j'y prends garde, et qu'il me croit fort loin,</l>
+
+	<l id='74'>Cet embarras à fuir me donne peu de soin.</l>
+
+	<l id='75'>Cependant, Dom Juan m'a fait voir une dame,</l>
+
+	<l id='76'>Pour qui mon coeur soudain s'est senti tout de flamme.</l>
+
+	<l id='77'>Jamais des traits plus vifs, jamais des yeux plus doux,</l>
+
+	<l id='78'>N'avaient porté sur lui de si dangereux coups.</l>
+
+	<l id='79' part='i'>L'air galant, enjoué...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='79' part='m'>Son nom est.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='79' part='f'>Isabelle.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='80'>Et vous avez sans doute un libre accès chez elle ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='81'>Jusque-là que tantôt encor elle m'attend.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='82' part='i'>Elle vous aime  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='82' part='f'>Assez pour en être content,</l>
+
+	<l id='83'>Et comme elle a du bien, et dépend d'elle-même,</l>
+
+	<l id='84'>Je l'aimerais autant peut-être qu'elle m'aime,</l>
+
+	<l id='85'>Si par un autre amour cet amour traversé</l>
+
+	<l id='86'>Pouvait continuer comme il a commencé.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='87'>Avouez à peu près que mon goût est le vôtre,</l>
+
+	<l id='88'>Tâter un peu de tout, hier l'une, aujourd'hui l'autre.</l>
+
+	<l id='89'>Cet amour est d'un genre assez adultérin.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='90'>Non, ces deux objets seuls ont droit sur mon destin,</l>
+
+	<l id='91'>Et toute autre beauté toucherait peu mon âme.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='92'>Quelle est cette seconde encor qui vous enflamme ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='93'>J'en ignore le nom comme la qualité.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='94'>Vous l'aimez seulement par curiosité ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='95'>Ce commerce où mon coeur va plus loin qu'il ne pense,</l>
+
+	<l id='96'>Est fondé de sa part sur la reconnaissance,</l>
+
+	<l id='97'>Aux lieux de promenade elle vient chaque jour</l>
+
+	<l id='98'>Recevoir les serments d'un réciproque amour,</l>
+
+	<l id='99' part='i'>Mais sans se découvrir.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='99' part='f'>Monsieur, c'est une gueuse</l>
+
+	<l id='100'>Qui gagne ses habits au métier de coureuse,</l>
+
+	<l id='101'>Et qui poussant le leurre autant qu'elle pourra,</l>
+
+	<l id='102'>Se titrera Marquise, et vous attrapera.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='103'>À la voir seulement tu jugerais mieux d'elle.</l>
+
+	<l id='104'>De tout ce qu'elle fait la grâce est naturelle,</l>
+
+	<l id='105'>Le port noble et touchant, rien de bas, d'affecté,</l>
+
+	<l id='106'>Un certain air modeste et plein de liberté,</l>
+
+	<l id='107'>Je ne sais quoi de doux, l'entretien agréable,</l>
+
+	<l id='108' part='i'>L'esprit vif, délicat, perçant...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='108' part='f'>C'est là le diable.</l>
+
+	<l id='109'>Ces gueuses pour piller la dupe qui leur rit,</l>
+
+	<l id='110'>Monsieur, vendant le corps, achètent de l'esprit.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='111'>Pour m'y voir attrapé je m'y sais trop connaître,</l>
+
+	<l id='112'>Et ce que tant d'appas dans mon coeur ont fait naître</l>
+
+	<l id='113'>Pourrait pour celle-ci gagner enfin ma voix,</l>
+
+<note type="L">Famille sue : comprendre "famille connue".</note>
+
+	<l id='114'>Si sa famille sue autorisait mon choix.</l>
+
+	<l id='115'>Au plus parfait amour je sens mon âme prête,</l>
+
+	<l id='116'>Mais j'ignore qui j'aime, et c'est ce qui m'arrête.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='117'>La fourbe est bien en règne, et s'en sauve qui peut.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Fernand, Jacinte, Guzman. </head>
+
+<sp who='JACINTE'><speaker>JACINTE, ayant la coiffe abattue. </speaker>
+
+	<l id='118' part='i'>St.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='118' part='f'>St. Bon jour. Monsieur, est-ce à vous qu'on en veut,</l>
+
+	<l id='119'>Ou si c'est moi déjà que la Donzelle tente  ?</l>
+
+	<l id='120' part='i'>Voyez.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='120' part='f'>À l'inconnue elle sert de suivante,</l>
+
+	<l id='121'>Tais-toi. Qu'heureusement je te rencontre ici  ?</l>
+
+	<l id='122' part='i'>Enfin...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='122' part='f'>Heureusement je vous rencontre aussi.</l>
+
+	<l id='123'>À la poste où pour nous vous laissez votre adresse,</l>
+
+	<l id='124' part='i'>Je portais ce billet.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='124' part='m'>De qui  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='124' part='f'>De ma maîtresse.</l>
+
+	<l id='125' part='i'>Lisez-le, Dom Fernand.</l>
+
+</sp>
+
+<sp who='GUZMAN'><speaker>GUZMAN, à Jacinte tandis que Dom Fernand lit.</speaker> 
+
+	<l id='125' part='m'>Ma chère...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='125' part='f'>Assurément.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='126'>Si le coeur t'en disait, je suis sans compliment.</l>
+
+	<l id='127'>Ces détours, ces douceurs, dont un galant s'enivre,</l>
+
+	<l id='128'>Autant de bien perdu pour ceux qui savent vivre.</l>
+
+	<l id='129'>Sans tant verbaliser l'amour veut de l'effet,</l>
+
+	<l id='130'>J'en ai toujours de prêt, si tu m'aimes, c'est fait.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='131'>Tu serais pris au mot, si tu n'y prends bien garde.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='132'>Ma foi, dans ce marché c'est moi seul qui hasarde.</l>
+
+	<l id='133'>Tu vois clair en m'aimant si nous en disputons,</l>
+
+	<l id='134'>Mais je suis obligé de t'aimer à tâtons ;</l>
+
+	<l id='135'>Avec ton nez bridé de ta coiffe importune,</l>
+
+<note type="L">Ténébrosité : Qualité de ce qui est ténébreux. [L] [l'exemple donnée est celui de l' "Amant doublé"]</note>
+
+<note type="L">Bailler d'une : On dit proverbialement, En bailler d'une, en bailler à garder, pour dire, En faire accroire à quelqu'un. On lui a baillé belle, pour dire, On lui a dit une bourde. [F]</note>
+
+	<l id='136'>Ta ténébrosité m'en pourrait bailler d'une,</l>
+
+	<l id='137'>Et ton minois, de coeurs modestement filou,</l>
+
+	<l id='138'>S'il n'est quelque peu singe, est peut-être hibou.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='139' part='i'>Il te les faut choisir.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, après avoir lu.</speaker>
+
+	<l id='139' part='f'>Ta maîtresse m'oblige,</l>
+
+	<l id='140'>Et ne peut me donner d'avis que je néglige.</l>
+
+	<l id='141'>Mais ne puis-je savoir où tu me dois mener  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='142'>Ne vous préparez point à me questionner.</l>
+
+	<l id='143'>Tantôt au lieu marqué prenez soin de vous rendre,</l>
+
+	<l id='144'>Suivant votre billet je vous y viendrai prendre,</l>
+
+	<l id='145' part='i'>N'attendez rien de plus.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='145' part='f'>Ôte-moi de souci,</l>
+
+	<l id='146' part='i'>De grâce...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='146' part='f'>Voulez-vous qu'on me surprenne ici  ?</l>
+
+	<l id='147'>Si quelqu'un m'y connaît, ma Maîtresse est perdue.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='148' part='i'>Mais fais-la moi connaître.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='148' part='f'>Enfin vous l'avez vue  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='149'>Oui, je sais bien qu'en elle éclatent mille appas.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='150' part='i'>En êtes-vous content  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='150' part='f'>Qui ne le serait pas  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='151'>Jugez par là du reste, et lui soyez fidèle.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='152' part='i'>Au moins dis moi son rang.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='152' part='f'>Tout est égal en elle,</l>
+
+	<l id='153'>La beauté, l'air, l'esprit, la qualité, le bien.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='154'>C'est-à-dire, Monsieur, que le tout n'y vaut rien.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='155' part='i'>Maraud...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='155' part='f'>Vous la croyez à son apprentissage  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='156' part='i'>Mais pourquoi se cacher  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='156' part='f'>C'est qu'elle est bonne et sage,</l>
+
+	<l id='157'>Et que l'on voit la fourbe un don si cavalier,</l>
+
+	<l id='158'>Qu'il faut vous bien connaître avant que de s'y fier.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='159'>Non, si ma passion ne va jusqu'à l'extrême,</l>
+
+	<l id='160' part='i'>Si mon coeur n'est atteint...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='160' part='f'>Chacun en dit de même</l>
+
+	<l id='161'>Pour faire croire un feu qu'ils affectent souvent,</l>
+
+	<l id='162'>Tous ont le même style, et la plupart, du vent.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='163'>Mais ta Maîtresse enfin, ou qui qu'elle puisse être,</l>
+
+	<l id='164'>Se trouvera forcée à se faire connaître ;</l>
+
+	<l id='165'>Il en faudra venir à l'aveu que j'attends.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='166'>Vous saurez le secret quand il en sera temps,</l>
+
+	<l id='167'>Et prétendez en vain me voir changer de note,</l>
+
+<note type="L">Tacet : terme de Musique, qui se dit de certaines parties qui se taisent, tandis que les autres chantent. On dit aussi d'un homme qui ne dit mot, qu'il tient le tacet. [F]</note>
+
+	<l id='168' part='i'>Je tiens bien le tacet.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='168' part='f'>La peste soit la sotte.</l>
+
+	<l id='169'>Quel que fût le secret qu'on m'eût pu confier</l>
+
+	<l id='170'>Je le dirais soudain de peur de l'oublier.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='171'>Tu n'oses donc encor m'éclaircir l'aventure  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='172'>Elle est faite, Monsieur, en dépit de Nature,</l>
+
+	<l id='173'>Et le Ciel se trompant sans doute à la façon,</l>
+
+	<l id='174'>Dans un moule de fille a cru faire un poisson.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='175' part='i'>Adieu, brave causeur.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='175' part='f'>Adieu, chère muette.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Fernand, Guzman. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='176'>Qui l'en croira, Monsieur, votre fortune est faite ;</l>
+
+	<l id='177'>Esprit, naissance, bien, attraits, le choix est doux.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='178'>Me voici cependant avec deux rendez-vous.</l>
+
+	<l id='179'>Isabelle tantôt m'attend à la même heure.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='180'>Des deux occasions choisissez la meilleure,</l>
+
+	<l id='181'>Allez où votre coeur est le plus attaché.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='182'>Pour la Dame Inconnue il se sent plus touché ;</l>
+
+	<l id='183'>Mais de peur de surprise, ignorant sa naissance,</l>
+
+	<l id='184'>Autant que je le puis je le tiens en balance,</l>
+
+	<l id='185'>Et comme je ne sais ce qui peut arriver,</l>
+
+	<l id='186'>Si celle-ci manquait, l'autre est à conserver.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='187'>Mais puisqu'elle vous tient ses affaires secrètes,</l>
+
+	<l id='188'>Lui deviez-vous sitôt découvrir qui vous êtes  ?</l>
+
+	<l id='189'>Sa Suivante a d'abord fait ouïr votre nom.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='190'>Qu'il soit connu de tous, qu'en devinera-t-on  ?</l>
+
+	<l id='191'>Il est mille Fernands dans une même ville.</l>
+
+	<l id='192'>Suffit que j'ai caché que je suis de Séville,</l>
+
+	<l id='193'>Et qu'enfin me disant de Grenade, j'ai pris</l>
+
+	<l id='194'>Le surnom d'Avalos pour celui de Solis.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='195'>Par ce nom trop tôt dit, autre embarras à craindre.</l>
+
+	<l id='196'>Vous aimez Isabelle, ou du moins l'osez feindre ;</l>
+
+	<l id='197'>Et si cette Inconnue apprend quelque beau jour</l>
+
+	<l id='198'>Qu'un Fernand Grenadin fasse en deux lieux sa cour  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='199'>César de ce péril par sa mort me délivre.</l>
+
+	<l id='200'>Craignant que jusqu'ici l'on ne me sût poursuivre</l>
+
+	<l id='201'>Je priai Dom Juan d'abuser ses amis,</l>
+
+	<l id='202'>Me nommant devant eux partout Dom Dionis.</l>
+
+	<l id='203'>Sous ce nom, d'Isabelle il m'assura la vue,</l>
+
+	<l id='204'>Et je suis Dom Fernand pour la seule Inconnue.</l>
+
+	<l id='205'>Mais de quelque message on m'en vient régaler,</l>
+
+	<l id='206'>Sa Suivante s'approche afin de me parler,</l>
+
+	<l id='207' part='i'>Je la vois qui sourit.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='207' part='f'>Quoi, celle d'Isabelle,</l>
+
+	<l id='208' part='i'>Votre première Amante  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='208' part='m'>Oui, Guzman.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='208' part='f'>Qu'elle est belle !</l>
+
+	<l id='209' part='i'>Monsieur, préférons-la.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='209' part='f'>Tu te trouves tenté ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='210'>J'ai de malins instants pour la fragilité,</l>
+
+	<l id='211'>Et par précaution j'essayerais du remède.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='4'><head>SCÈNE IV. Dom Fernand, Béatrix, Guzman. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='212'>Aujourd'hui, Béatrix, tout à mes voeux succède.</l>
+
+	<l id='213'>Ta rencontre est un bien qui doit m'être si doux...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='214'>Pas tant, si je vous viens ôter un rendez-vous.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='215' part='i'>Que dis-tu  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='215' part='f'>Que tantôt ma Maîtresse Isabelle</l>
+
+	<l id='216'>Ne peut, Dom Dionis, vous attendre chez elle ;</l>
+
+	<l id='217'>Voilà ce que j'allais vous dire de sa part.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='218'>J'attendrai son retour, et la verrai plus tard.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='219'>Non pas pour aujourd'hui, votre amour va trop vite.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='220'>Au moins à son défaut accepte ma visite,</l>
+
+	<l id='221'>Et si tantôt sans toi par hasard elle sort...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='222' part='i'>Il vous plaît de railler.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='222' part='f'>Ah, c'est me faire tort.</l>
+
+	<l id='223'>Non, à t'entretenir j'aurai la même joie,</l>
+
+	<l id='224'>Et je croirai la voir pourvu que je te voie.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='225'>Ma foi, je ne sais pas comme vous l'entendez,</l>
+
+	<l id='226'>Mais je pense valoir ce que vous demandez.</l>
+
+	<l id='227'>D'aussi bien faits que vous me verraient pour mon compte.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='228' part='i'>Qu'elle en sait  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='228' part='f'>Tout de bon, ton espoir me fait honte,</l>
+
+	<l id='229' part='i'>Et je t'en trouve tant...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='229' part='f'>Que vous le baillez doux  !</l>
+
+	<l id='230'>Trêve, Dom Dionis point de guerre entre nous,</l>
+
+	<l id='231'>J'ai peut-être de quoi vous donner votre reste.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='232'>Tu tournes tout en jeu, mais je te le proteste,</l>
+
+	<l id='233'>Que mon coeur sent pour toi certaine émotion...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='234'>De grâce, arrêtez-là la protestation,</l>
+
+	<l id='235'>Sans me charger encor d'un coeur comme le vôtre,</l>
+
+	<l id='236'>J'ai tant de Protestants qu'ils s'étouffent l'un l'autre,</l>
+
+	<l id='237'>Et dans les voeux divers qu'on me vient adresser,</l>
+
+	<l id='238'>Je ne sais tantôt plus où les pouvoir placer.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='239'>Ta beauté du plus fier te ferait un esclave.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='240'>Je sais ce que je puis, ne faites point le brave,</l>
+
+	<l id='241'>Et croyez seulement que l'ayant entrepris,</l>
+
+	<l id='242'>Vous seriez bien adroit si vous ne restiez pris.</l>
+
+	<l id='243'>Qu'on se défende ou non de chercher à me plaire,</l>
+
+	<l id='244'>Quand j'ai dessein de prendre, on ne m'échappe guère,</l>
+
+	<l id='245'>Et j'arrête si bien, qu'en ce droit absolu</l>
+
+	<l id='246'>Je n'ai perdu jamais que ce que j'ai voulu.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='247'>Qui ne t'en croirait pas  ? Tu vaux que l'on t'admire,</l>
+
+	<l id='248' part='i'>Tout est aimable en toi.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='248' part='f'>Vous pensez-vous en rire,</l>
+
+	<l id='249'>Mais après tout, peut-être à m'examiner bien,</l>
+
+	<l id='250'>À la qualité près, il ne me manque rien.</l>
+
+	<l id='251'>Quoi que montre d'appas ma Maîtresse et la vôtre,</l>
+
+	<l id='252'>Cette taille et ce port en valent bien quelque autre.</l>
+
+	<l id='253'>Si je n'ai point les traits si doux, si délicats,</l>
+
+	<l id='254'>J'ai des je ne sais quoi que la beauté n'a pas,</l>
+
+	<l id='255'>Le teint, je m'en rapporte, et pour de la jeunesse,</l>
+
+	<l id='256' part='i'>Je pense que me voir c'est tout.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='256' part='f'>La bonne pièce  !</l>
+
+	<l id='257' part='i'>Si quelqu'un m'entend mieux, je le quitte.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='257' part='f'>Jaseur,</l>
+
+	<l id='258'>C'est à toi de parler avec les gens d'honneur  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='259'>Si je puis librement dire ce qui m'en semble,</l>
+
+	<l id='260'>Ton honneur et le mien sont bons à mettre ensemble.</l>
+
+	<l id='261'>Et quiconque des deux pourrait n'en faire qu'un.</l>
+
+	<l id='262'>Ferait encor, je pense, un honneur bien commun.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='263' part='i'>Tu ne te tairas point, Maraud  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='263' part='f'>Sur ma parole,</l>
+
+	<l id='264'>La Matoise est, Monsieur, instruite en bonne école ;</l>
+
+	<l id='265'>Elle vous en dira de toutes les façons,</l>
+
+	<l id='266'>Et se peut aisément passer de nos leçons.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='267'>Oui, je m'abaisserai jusqu'à prendre les tiennes.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='268' part='i'>Ah  ! Mon Ange.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='268' part='f'>C'est là que je veux que tu viennes.</l>
+
+	<l id='269'>J'ai besoin des douceurs d'un Galant tel que toi  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='270'>Laisse-là ce badin, et ne songe qu'à moi.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='271'>Quoi, ne songer qu'à vous  ! Et que feraient mille autres</l>
+
+	<l id='272'>Dont les voeux acceptés ont précédé les vôtres  ?</l>
+
+	<l id='273'>Chaque moment du jour peut à peine fournir</l>
+
+	<l id='274'>À donner à chacun son rang de souvenir ;</l>
+
+	<l id='275'>Mais je perds trop de temps, adieu, je me retire.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='276' part='i'>Si tôt  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='276' part='f'>Achevez donc, qu'avez-vous à me dire  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='277' part='i'>Béatrix.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='277' part='f'>Est-ce tout  ? Vous me ferez gronder,</l>
+
+	<l id='278' part='i'>J'ai hâte.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='278' part='f'>Laisse-moi du moins te regarder,</l>
+
+	<l id='279'>À te voir seulement mon plaisir est extrême.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='280'>Vous ne m'étonnez point, j'y prends plaisir moi-même</l>
+
+	<l id='281'>Et dans plus d'un miroir on me voit chaque jour</l>
+
+	<l id='282'>Aller de temps en temps me faire un peu de cour.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='283'>Il est doux de s'y voir quand la copie agrée.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='284'>Je ne m'y trouve pas tout à fait déchirée,</l>
+
+	<l id='285'>Et j'en prends plus de droit d'aimer l'original.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Fernand, Dom Juan, Béatrix, Guzman. </head>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='286'>Seul avec Béatrix  ? C'est n'être pas trop mal.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='287'>Venez-vous m'envier le bien que je possède  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='288'>Brûlant pour sa Maîtresse, il faut qu'on me la cède.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='289'>Gardez qu'à l'obtenir vos efforts ne soient vains.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='290'>Hé, de grâce, pour moi n'en venez pas aux mains.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='291'>Tu n'as qu'à décider, je prétends, il s'oppose.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='292'>Je pense que pour vous je sens la même chose,</l>
+
+	<l id='293'>Et crains bien que restant dans cette égalité,</l>
+
+	<l id='294'>Aucun des deux jamais n'ait droit de primauté.</l>
+
+	<l id='295' part='i'>Adieu.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='295' part='m'>Bonsoir, la Belle.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Fernand, Dom Juan, Guzman. </head>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='295' part='f'>Et Guzman la cajole  ?</l>
+
+	<l id='296' part='i'>Déjà  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='296' part='f'>Non pas, Monsieur, c'est que je la console.</l>
+
+	<l id='297'>Ces belles ont toujours l'esprit déconcerté</l>
+
+	<l id='298'>Quand on leur dit adieu sans parler de beauté ;</l>
+
+	<l id='299'>Il se faut acquitter du moins de la grimace.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='300' part='i'>Où l'avez-vous trouvé  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='300' part='f'>Dans cette même place,</l>
+
+	<l id='301'>Où soudain il m'a vu changer de rendez-vous.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='302'>Aimant en deux endroits, ce changement est doux.</l>
+
+	<l id='303'>C'est recouvrer soudain une faveur perdue.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='304'>Je l'avais d'Isabelle, et l'ai de l'Inconnue.</l>
+
+	<l id='305'>L'une hors du logis doit passer jusqu'au soir,</l>
+
+	<l id='306'>Et sur quelques secrets l'autre cherche à me voir.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='307'>Vous brûlez d'éclaircir celui de l'aventure  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='308'>Cette assignation m'en donne bon augure.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='309'>Oui, mais je vous apporte un sujet de souci,</l>
+
+	<l id='310'>Votre Beau-père sait que vous êtes ici.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='311' part='i'>Que je suis arrivé, Dom Juan  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='311' part='f'>Que vous l'êtes.</l>
+
+	<l id='312'>En vain j'ai cru tenir toutes choses secrètes ;</l>
+
+	<l id='313'>Ayant été dès hier par Guzman averti</l>
+
+	<l id='314'>Du longtemps qu'il vous sait de Séville parti,</l>
+
+	<l id='315'>Et de notre amitié sachant l'étroite chaîne,</l>
+
+	<l id='316'>Il est venu chez moi me témoigner sa peine.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='317'>Vous n'avez point alors tâché de l'abuser  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='318'>Après ce qu'il savait, qu'avais-je à déguiser ?</l>
+
+	<l id='319'>Votre arrivée ici se pouvait-elle taire  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='320'>De mon secret sans doute il est fort en colère  ?</l>
+
+	<l id='321'>Qu'aura-t-il cru de moi de ne l'avoir point vu  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='322'>Que de votre combat c'est l'effet imprévu,</l>
+
+	<l id='323'>Et qu'avant que le voir vous jugiez nécessaire</l>
+
+	<l id='324'>D'attendre quelque temps le succès de l'affaire.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='325' part='i'>Quel malheur  !</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='325' part='f'>Cependant j'ai promis qu'aujourd'hui,</l>
+
+	<l id='326'>Puisque vous étiez libre, il vous verrait chez lui;</l>
+
+	<l id='327'>C'est à vous d'y songer, ma parole est donnée.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='328'>Quel prétexte choisir pour rompre l'hyménée ?</l>
+
+	<l id='329'>L'amour me cause ici d'étranges embarras.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='330'>Je n'entreprendrai point d'en combattre l'appas.</l>
+
+	<l id='331'>Mais voyez Léonor, elle est sage, elle est belle,</l>
+
+	<l id='332'>Et ce que vous aimez vaut peut-être moins qu'elle.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='333'>Ah, ne m'en parlez point, Léonor me déplaît.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='334'>Sans la voir, sur son nom vous en donnez l'arrêt  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='335' part='i'>Je ne la puis souffrir.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='335' part='f'>La pauvre délaissée  !</l>
+
+	<l id='336'>Monsieur, si par hasard elle était fort pressée,</l>
+
+	<l id='337'>Et qu'à vous en défaire on vous vît empêché,</l>
+
+	<l id='338'>Pour vous faire plaisir je prendrai le marché.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='339' part='i'>Guzman a le goût bon.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='339' part='f'>Il faut voir l'Inconnue ;</l>
+
+	<l id='340'>En l'état où je suis tout dépend de sa vue,</l>
+
+	<l id='341'>Son destin éclairci pourra régler le mien.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='342'>Voyez-là, mais enfin ne précipitez rien.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type='acte' n='2'><head>ACTE II</head>
+
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Diègue, Isabelle, Béatrix. </head>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE.</speaker>
+
+	<l id='343'>N'en soyez point surprise, ô charmante Isabelle,</l>
+
+	<l id='344'>D'un bruit sourd et confus j'en ai su la nouvelle,</l>
+
+	<l id='345'>Et comme rien pour moi ne peut être plus doux,</l>
+
+	<l id='346'>Je m'en suis cru devoir expliquer avec vous.</l>
+
+	<l id='347'>Excusez pour un fils ma tendresse de père,</l>
+
+	<l id='348'>Je sais que Dom Félix s'étudie à vous plaire,</l>
+
+	<l id='349'>Et j'aurai grande joie à le voir sous vos lois,</l>
+
+	<l id='350'>S'il a su mériter l'honneur de votre choix.</l>
+
+	<l id='351'>Vous connaissez mon bien, vous savez ma famille,</l>
+
+	<l id='352'>L'amitié semble étroite entre vous et ma fille,</l>
+
+	<l id='353'>Et pour elle et pour moi je le tiendrais heureux</l>
+
+	<l id='354'>Que l'alliance encore en redoublât les noeuds.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='355'>Cet hymen proposé me fait voir tant d'estime,</l>
+
+	<l id='356'>Que l'espoir m'en paraît à peine légitime.</l>
+
+	<l id='357'>Je ne cèlerai point que ce peu de beauté</l>
+
+	<l id='358'>M'acquiert de Dom Félix quelque civilité,</l>
+
+	<l id='359'>Mais, Monsieur, un dessein d'une telle importance,</l>
+
+	<l id='360'>Avant qu'aller plus loin, vaut bien que l'on y pense,</l>
+
+	<l id='361'>Et quoi qu'aucun n'ait droit de contraindre ma foi,</l>
+
+	<l id='362'>Je dois en consulter de plus sages que moi</l>
+
+	<l id='363'>Je sais de leur conseil ce que je puis attendre,</l>
+
+	<l id='364'>Et c'est de Léonor que je le voudrais prendre,</l>
+
+	<l id='365'>Si comme elle est sa soeur, les intérêts du sang</l>
+
+	<l id='366'>Auprès de l'amitié n'étaient d'un autre rang.</l>
+
+</sp>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE.</speaker>
+
+	<l id='367'>D'un si fâcheux délai quelle que soit la suite,</l>
+
+	<l id='368'>Je ne puis qu'admirer votre sage conduite,</l>
+
+	<l id='369'>Et si vos sentiments se déclarent pour nous,</l>
+
+	<l id='370'>J'emploierai Léonor à les savoir de vous,</l>
+
+	<l id='371'>L'Époux qu'elle attendait, arrivé de Séville,</l>
+
+	<l id='372'>Va déjà commencer la joie en ma famille,</l>
+
+	<l id='373'>Et comblant d'heur un fils qui se sent captiver,</l>
+
+	<l id='374'>C'est votre seul aveu qui la peut achever.</l>
+
+	<l id='375'>Le Ciel daigne en hâter l'heureuse certitude.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='2'><head>SCÈNE II. Isabelle, Béatrix. </head>
+
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='376'>Ce choix vous va causer un peu d'inquiétude ;</l>
+
+	<l id='377'>Si Dom Félix fait voir son amour par ses soins,</l>
+
+	<l id='378'>Dom Dionis pour vous n'en témoigne pas moins,</l>
+
+	<l id='379'>Votre coeur doit parler c'est à vous de l'entendre.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='380'>En se déférant trop, il craint de se méprendre</l>
+
+	<l id='381'>Ces Soupirants d'office, en tous lieux si chéris,</l>
+
+	<l id='382'>Sont d'aimables Amants, mais de fâcheux Maris ;</l>
+
+	<l id='383'>En vain la plus parfaite aura touché leur âme,</l>
+
+	<l id='384'>S'ils l'adorent Maîtresse, ils la méprisent Femme,</l>
+
+	<l id='385'>Et leurs voeux attachés à de nouveaux appas,</l>
+
+	<l id='386'>Dédaignent ce qu'ils ont pour tout ce qu'ils n'ont pas.</l>
+
+	<l id='387'>Voilà ce qui suspend tout ce que je propose.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='388'>De vrai, le mariage est une étrange chose,</l>
+
+	<l id='389'>Et qui s'en peut louer, pour en bien discourir,</l>
+
+	<l id='390'>Au métier de forçat n'aurait guère à souffrir.</l>
+
+	<l id='391'>La chaîne en est, dit-on, si rude et si pesante,</l>
+
+	<l id='392'>Que qui n'en gémit point a l'âme bien constante,</l>
+
+	<l id='393'>Et quand il faut choisir, jeune, galant, fleuri,</l>
+
+	<l id='394'>Adroit, aimable, beau, c'est toujours un Mari,</l>
+
+	<l id='395'>On est bien empêché comme on s'y doit conduire,</l>
+
+	<l id='396'>Trop de précaution souvent ne fait que nuire,</l>
+
+	<l id='397'>En vain pour mieux échoir on y fait cent façons,</l>
+
+	<l id='398'>Puisque enfin les meilleurs ne sont jamais trop bons.</l>
+
+	<l id='399'>Sans qu'un semblable choix nous chagrine d'avance,</l>
+
+	<l id='400'>Il faut jeter les dés au hasard de la chance,</l>
+
+	<l id='401'>Et dire en risquant tout, puisque enfin on le veut,</l>
+
+	<l id='402'>Dieu nous la donne bonne, et vienne ce qui peut.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='403' par='i'>C'est en dire un peu trop.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='403' part='f'>Ce n'est point là satire,</l>
+
+	<l id='404'>Madame ; croyez-moi, l'on n'en saurait trop dire.</l>
+
+	<l id='405'>Il est de ces rêveurs, il est de ces jaloux,</l>
+
+	<l id='406'>Qui se font plus de mal qu'ils n'en craignent de nous.</l>
+
+	<l id='407'>Qu'une Femme s'échappe à voir un peu le monde,</l>
+
+	<l id='408'>Leur chagrin en murmure, et leur dépit en gronde,</l>
+
+	<l id='409'>Et dans leur rêverie à rendre un esprit fou,</l>
+
+	<l id='410'>L'on n'est sage jamais si l'on n'est loup-garou.</l>
+
+	<l id='411'>Pour moi qui ne suis pas d'humeur trop endurante,</l>
+
+	<l id='412'>Si jamais un Mari l'assemblage me tente,</l>
+
+	<l id='413'>Le contrat d'union dans mon petit calcul</l>
+
+	<l id='414'>Aura plus d'une clause, ou demeurera nul.</l>
+
+	<l id='415'>Il me sera permis de danser et de rire,</l>
+
+	<l id='416'>Je verrai mes Amis sans qu'il y trouve à dire,</l>
+
+	<l id='417'>Et saurai le réduire à ne rien redouter</l>
+
+	<l id='418'>De toutes les douceurs qu'on me viendra conter.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='419' part='i'>Tu crois qu'il tiendra tout  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='419' part='f'>Et bien, quitte à se battre.</l>
+
+	<l id='420'>Si j'enrage une fois il enragera quatre,</l>
+
+	<l id='421'>Et me mettant au pis, je sais qu'il trouvera</l>
+
+	<l id='422'>Plus de fâcheux moments qu'il ne m'en donnera.</l>
+
+	<l id='423'>Après tout, le meilleur est de vivre sans Maître.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='424'>C'est un état heureux, et je le sais connaître ;</l>
+
+	<l id='425'>Mais de quelque douceur qu'il flatte nos esprits,</l>
+
+	<l id='426'>Le nom de vieille fille est un nom de mépris.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='427'>Aussi, ce qui doit bien refroidir notre envie,</l>
+
+	<l id='428'>Quand on est marié, c'est pour toute sa vie,</l>
+
+	<l id='429'>Et pour qui s'en repent, à vous parler sans fard,</l>
+
+	<l id='430'>L'espoir de se voir veuve est un triste hasard.</l>
+
+	<l id='431'>Cette faveur du Ciel est toujours trop tardive,</l>
+
+	<l id='432'>Nos beaux jours sont passés quand ce grand jour arrive,</l>
+
+	<l id='433'>Et le plus souvent même abusant nos souhaits,</l>
+
+	<l id='434'>Il nous rit, il nous flatte, et n'arrive jamais.</l>
+
+	<l id='435'>Mais pour vos deux Amants, quel dessein est le vôtre  ?</l>
+
+	<l id='436'>Vous sentez-vous égale, et pour l'un et pour l'autre  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='437'>Le choix, à dire vrai, n'est pas facile entre eux,</l>
+
+	<l id='438'>Je tiens l'un plus galant, l'autre plus amoureux.</l>
+
+	<l id='439'>D'abord Dom Dionis, en m'expliquant sa flamme,</l>
+
+	<l id='440'>Éblouit ma raison, charma toute mon âme ;</l>
+
+	<l id='441'>Mais si j'en juge bien, je lui vois chaque jour</l>
+
+	<l id='442'>Plus de galanterie avecque moins d'amour.</l>
+
+	<l id='443'>De cette passion il n'a que l'habitude,</l>
+
+	<l id='444'>Il en prends les dehors, soupire par étude,</l>
+
+	<l id='445'>Et je crois, quand il tâche à lui donner crédit,</l>
+
+	<l id='446'>Que son coeur ne sait rien de tout ce qu'il me dit.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='447'>Dom Félix pourra donc emporter la balance  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='448'>Si son feu brille moins, j'y crois plus de constance,</l>
+
+	<l id='449'>Et je tiens qu'à l'hymen un esprit arrêté</l>
+
+	<l id='450'>Doit moins chercher l'éclat que la solidité.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='451'>Pourquoi permettre donc que son Rival vous voie  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='452'>Pour juger mieux encor ce qu'il faut que j'en croie,</l>
+
+	<l id='453'>Et c'est pour me pouvoir expliquer avec lui,</l>
+
+	<l id='454'>Qu'il avait eu de moi rendez-vous aujourd'hui.</l>
+
+	<l id='455'>Tu sais que Léonor a rompu la partie.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='456'>Ma foi, je n'aurais point péché par modestie.</l>
+
+	<l id='457'>Sa visite à demain eût reçu le renvoi,</l>
+
+	<l id='458'>On doit à ses Amis quand on a fait pour soi.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='459'>Léonor seule ici me priant de l'attendre,</l>
+
+	<l id='460'>C'est le moins, Béatrix, que je pouvais lui rendre.</l>
+
+	<l id='461' part='i'>Mais je la vois entrer.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='3'><head>SCÈNE III. Léonor, Isabelle, Béatrix. </head>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='461' part='f'>J'en use librement.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='462'>Songez que l'amitié défend le compliment,</l>
+
+	<l id='463'>Et qu'enfin vous servir fait ma plus forte envie.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='464'>Je viens vous confier le secret de ma vie,</l>
+
+	<l id='465'>Et sais trop, que pour fuir le malheur que je crains</l>
+
+	<l id='466'>Je ne pourrais le mettre en de plus sûres mains.</l>
+
+	<l id='467'>Vous avez déjà su que mon père à Séville</l>
+
+	<l id='468'>Ne crut pas avoir fait un voyage inutile,</l>
+
+	<l id='469'>Puisque là pour époux à son retour j'appris</l>
+
+	<l id='470'>Qu'il m'avait su choisir Dom Fernand de Solis.</l>
+
+	<l id='471'>Ignorant jusque-là ce que c'est qu'être Amante,</l>
+
+	<l id='472'>Je tins cette nouvelle assez indifférente,</l>
+
+	<l id='473'>Et mon coeur libre encor n'étant point prévenu,</l>
+
+	<l id='474'>Souscrivit sans murmure au choix d'un Inconnu ;</l>
+
+	<l id='475'>Mais dans cet intervalle usant de sa puissance,</l>
+
+	<l id='476'>L'amour s'est bien vengé de mon indifférence.</l>
+
+	<l id='477'>Un autre Dom Fernand pour troubler mon repos...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='478' part='i'>Un autre  ? Dites-vous  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='478' part='f'>Dom Fernand d'Avalos.</l>
+
+	<l id='479'>Un procès qu'à la Cour il est venu poursuivre,</l>
+
+	<l id='480'>L'a tiré de Grenade où le Ciel le fait vivre,</l>
+
+	<l id='481'>Et mes sens en lui seul se sont sentis flattés</l>
+
+	<l id='482'>De tout ce qu'on peut voir d'aimables qualités.</l>
+
+	<l id='483'>Sans savoir ce qu'en moi sa rencontre fit naître,</l>
+
+	<l id='484'>Vous savez l'accident qui me le fit connaître,</l>
+
+	<l id='485'>Un jour qu'au bord du fleuve où j'osai m'engager,</l>
+
+	<l id='486'>Mes chevaux s'emportant m'eussent mise en danger,</l>
+
+	<l id='487'>Si soudain à leur fougue opposant son courage,</l>
+
+	<l id='488'>Il n'eût su m'épargner ce genre de naufrage.</l>
+
+	<l id='489'>Je ne vous ferai point de récits superflus,</l>
+
+	<l id='490'>Je le vis, il me plût ; il me vit, je lui plus.</l>
+
+	<l id='491'>Une pareille ardeur dans nos coeurs sembla naître ;</l>
+
+	<l id='492'>Mais quelque effort alors qu'il fît pour me connaître,</l>
+
+	<l id='493'>Malgré ce grand service il ne pût rien savoir,</l>
+
+	<l id='494'>Sinon qu'en ce lieu même il pourrait me revoir.</l>
+
+	<l id='495'>Ainsi dès ce moment contre toute apparence,</l>
+
+	<l id='496'>Mon amour commença par la reconnaissance,</l>
+
+	<l id='497'>Et sans cesse mon coeur par de secrets discours</l>
+
+	<l id='498'>S'entretint du péril pour songer au secours.</l>
+
+	<l id='499'>J'aimais à me tenir cette image présente,</l>
+
+	<l id='500'>J'évitais d'être ingrate, et me rendais amante,</l>
+
+	<l id='501'>Et pour me livrer mieux aux transports que je sens,</l>
+
+	<l id='502'>L'Amour se prévalait de l'erreur de mes sens.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='503'>Mais engagée enfin à l'hymen par un père,</l>
+
+	<l id='504'>Qu'est-ce dans cet amour que votre coeur espère  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='505'>Tout, si d'un beau feu l'impérieuse loi</l>
+
+	<l id='506'>Pour attendre de lui ce qu'elle obtient de moi.</l>
+
+	<l id='507'>C'est par ce seul motif qu'il m'a vue obstinée</l>
+
+	<l id='508'>À lui taire et mon nom et de qui je suis née,</l>
+
+	<l id='509'>Et qu'à le voir souvent ayant su m'obliger,</l>
+
+	<l id='510'>Avant qu'il me connût j'ai voulu l'engager.</l>
+
+	<l id='511'>L'Amour, dont on sait trop jusqu'où les droits s'étendent,</l>
+
+	<l id='512'>Est toujours favorable à deux coeurs qui s'entendent,</l>
+
+	<l id='513'>Et pour rompre un Hymen qui confond mon espoir,</l>
+
+	<l id='514'>Pourvu qu'on l'en consulte, il a trop de pouvoir.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='515'>Mais l'Époux arrive, que pouvez-vous prétendre ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='516'>C'est ce qu'à Dom Fernand j'ai résolu d'apprendre,</l>
+
+	<l id='517'>Et pour lui découvrir cet important souci,</l>
+
+	<l id='518'>Jacinte qui l'attend va l'amener ici.</l>
+
+	<l id='519'>Je m'en suis cru chez vous la liberté permise.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='520'>Il n'est rien qu'avec moi l'amitié n'autorise.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='521'>Le logis de derrière ouvre en un lieu désert,</l>
+
+	<l id='522'>Par où le faire entrer sans qu'il soit découvert ;</l>
+
+	<l id='523'>Jacinte en est instruite, et sait ce qu'il faut taire.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='524'>Cette précaution était peu nécessaire.</l>
+
+	<l id='525'>Qui vit comme je fais, sans détour, sans façon,</l>
+
+	<l id='526'>Brave la médisance, et craint peu le soupçon.</l>
+
+	<l id='527'>Mais enfin aujourd'hui vous lui voulez tout dire  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='528'>Non, mais ce seul hymen dont mon amour soupire,</l>
+
+	<l id='529'>Et par ses sentiments prendre droit de juger</l>
+
+	<l id='530'>Jusqu'où pour y répondre il me doit engager.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='531'>Souvent un beau dehors a l'art de nous séduire.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='532'>Aussi par vos conseils je cherche à me conduire,</l>
+
+	<l id='533'>Et ce qu'il veut savoir ne lui sera connu</l>
+
+	<l id='534'>Qu'après que vous l'aurez vous-même entretenu.</l>
+
+	<l id='535'>Vous sonderez son coeur, étudierez son âme,</l>
+
+	<l id='536'>Et j'éteindrai par vous, ou nourrirai ma flamme.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='4'><head>SCÈNE IV. Léonor, Isabelle, Jacinte, Béatrix. </head>
+
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='537' part='i'>Madame.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='537' part='m'>Et bien, Jacinthe  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='537' part='m'>Il attend pour entrer.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='537' part='f'>Qu'il vienne.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='538'>Il ne faut pas dès l'abord me montrer.</l>
+
+	<l id='539'>Dans l'aise qu'il aura du dessein que vous faites</l>
+
+	<l id='540'>Ses premières douceurs doivent être secrètes.</l>
+
+	<l id='541'>Quand à vous seconder vous aurez su le sien,</l>
+
+	<l id='542'>Je ne refuse pas d'être de l'entretien.</l>
+
+	<l id='543' part='i'>Viens Béatrix.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='543' part='f'>Enfin c'est en vous que j'espère.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='544'>Ma foi, pour un Amant voilà bien du mystère.</l>
+
+	<l id='545'>Je m'inquiète moins de m'en voir mille et plus,</l>
+
+	<l id='546'>J'en tiens papier exact, et je dors là-dessus.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='5'><head>SCÈNE V. Léonor, Dom Fernand, Jacinte. </head>
+
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='547' part='i'>Entrez, on vous attend.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='547' part='f'>Madame, quelle grâce,</l>
+
+	<l id='548'>Et pour la mériter que faut-il que je fasse  ?</l>
+
+	<l id='549'>Accorder tant de gloire à mon ardent amour  !</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='550'>Enfin à le prouver le Ciel vous offre jour.</l>
+
+	<l id='551'>S'il est tel que mes yeux semblent l'avoir fait naître,</l>
+
+	<l id='552'>C'est à vous, Dom Fernand, à le faire paraître.</l>
+
+	<l id='553'>Le temps presse, du Sort je crains les derniers coups,</l>
+
+	<l id='554'>Et si vous n'agissez, je ne puis être à vous.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='555'>Ah, si de ce malheur je puis rompre l'atteinte,</l>
+
+	<l id='556'>J'ai lieu de m'offenser de votre injuste crainte,</l>
+
+	<l id='557'>Et quand les coups du Sort peuvent être forcés,</l>
+
+	<l id='558'>Qui peut douter de moi ne peut m'aimer assez.</l>
+
+	<l id='559'>Que pour m'ôter à vous la terre conjurée</l>
+
+	<l id='560'>Tienne à mon coeur charmé la guerre déclarée,</l>
+
+	<l id='561'>Pour en favoriser les violents desseins</l>
+
+	<l id='562'>Le seul aveu du vôtre est tout ce que je crains.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='563'>On ne l'aura jamais, et quoi que je hasarde,</l>
+
+	<l id='564'>Les effets feront voir quelle foi je vous garde,</l>
+
+	<l id='565'>Et qu'il n'est rien pour vous que j'ose négliger</l>
+
+	<l id='566'>Quand sous les lois d'un autre on me veut engager.</l>
+
+	<l id='567'>Oui, pour vous découvrir ce que j'ai dû vous taire,</l>
+
+	<l id='568'>Apprenez, Dom Fernand, que je dépends d'un père,</l>
+
+	<l id='569'>Qui sans m'en consulter, de mon repos jaloux,</l>
+
+	<l id='570'>A voulu par ses yeux me choisir un Époux.</l>
+
+	<l id='571'>Cet hymen arrêté rend ma disgrâce extrême,</l>
+
+	<l id='572'>Mais je vous dois la vie enfin, et je vous aime,</l>
+
+	<l id='573'>Et vois avec plaisir que mon coeur en ce jour</l>
+
+	<l id='574'>Ne peut fuir d'être ingrat sans servir mon amour.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='575'>Frappé trop vivement de ce grand coup de foudre,</l>
+
+	<l id='576'>Le mien s'étonne, tremble, et ne sait que résoudre ;</l>
+
+	<l id='577'>Mais enfin je sais bien que mon cruel ennui</l>
+
+	<l id='578'>Ne redoublera point par le bonheur d'autrui.</l>
+
+	<l id='579'>Quelque Époux qu'à choisir le devoir vous convie,</l>
+
+	<l id='580'>Il n'aura point ce nom que je ne sois sans vie,</l>
+
+	<l id='581'>Et même avant ce coup, s'il me doit accabler,</l>
+
+	<l id='582'>Plus d'un Rival peut-être aura lieu de trembler.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='583'>Quoi qu'il nous faille ici conduire avec prudence,</l>
+
+	<l id='584'>J'aime dans votre amour un peu de violence,</l>
+
+	<l id='585'>Et si j'en dois calmer les transports furieux,</l>
+
+	<l id='586'>Je ne saurais haïr ce qui le prouve mieux.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='587'>Mais votre nom enfin  ? Faites que je le sache.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='588'>Quelque raison encor veut que je vous le cache.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='589'>La réserve en est vaine à qui doit présumer,</l>
+
+	<l id='590'>Que sachant son logis, je puis m'en informer.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='591'>Dans un logis d'Amie on a su vous conduire ;</l>
+
+	<l id='592'>De mon engagement j'ai cru devoir l'instruire,</l>
+
+	<l id='593'>Et si son avis est qu'on ne vous cache rien,</l>
+
+	<l id='594'>Peut-être dès ce soir vous me verrez au mien.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='595'>Ainsi donc mon bonheur ne dépend plus que d'elle  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='596' part='i'>Je l'en croirai.</l>
+
+<stage>À Jacinte. </stage>
+
+	<l id='596' part='f'>Va vite avertir Isabelle.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, bas.</speaker>
+
+	<l id='597'>Juste Ciel, Isabelle  ! Ai-je bien entendu  ?</l>
+
+	<l id='598'>Si c'est celle qui m'aime, enfin je suis perdu.</l>
+
+	<l id='599'>Ô d'un jaloux destin attaques imprévues  !</l>
+
+	<l id='600'>Sa maison peut répondre à deux diverses rues,</l>
+
+	<l id='601' part='i'>C'est ici son quartier.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='601' part='f'>Que dites-vous tout bas  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='602'>Je me plains d'un malheur que je n'attendais pas.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='603'>Votre amour y rencontre un péril dont je tremble.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='604'>Madame, il est encor plus grand qu'il ne vous semble.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='605'>Des conseils d'Isabelle espérons quelque fruit.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, bas.</speaker>
+
+	<l id='606'>C'est elle-même, elle entre, où me vois-je réduis  ?</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='6'><head>SCÈNE VI. Isabelle, Léonor, Dom Fernand, Béatrix, Jacinte. </head>
+
+<sp who='ISABELLE'><speaker>ISABELLE, à Béatrix.</speaker> 
+
+	<l id='607'>Nous le verrons, mais Dieux  ! Ma surprise est extrême,</l>
+
+	<l id='608' part='i'>Je vois Dom Dionis.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='608' part='f'>Madame, c'est lui-même.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='609'>Il aime Léonor, et m'ose cajoler  !</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='610' part='i'>Bons Dieux  ! Quel maître fourbe  !</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='610' part='f'>Il faut dissimuler.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR, à Isabelle.</speaker>
+
+	<l id='611'>Sachant quelle aventure à soupirer m'expose,</l>
+
+	<l id='612'>Voyez en Dom Fernand le sujet qui la cause.</l>
+
+	<l id='613'>Vos sentiments ont droit d'en régler seuls la fin.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Isabelle.</speaker>
+
+	<l id='614'>Je dois beaucoup, Madame, à mon heureux destin,</l>
+
+	<l id='615'>Qui me laissant toujours inconnu ce que j'aime,</l>
+
+	<l id='616'>Me fait connaître au moins comme une autre elle-même,</l>
+
+	<l id='617'>L'amitié qui vous joint m'en persuade assez.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='618'>Je ne m'étonne point si vous me connaissez.</l>
+
+	<l id='619'>Pour peu qu'avec un coeur l'on ait d'intelligence,</l>
+
+	<l id='620'>De tout ce qu'il chérit on a la connaissance,</l>
+
+	<l id='621'>Et l'amour qui du sien vous fait suivre la loi,</l>
+
+	<l id='622'>Doit faire autant pour vous que l'amitié pour moi.</l>
+
+	<l id='623'>J'en ai déjà tiré des lumières secrètes</l>
+
+	<l id='624'>Qui m'ont en un moment appris ce que vous êtes,</l>
+
+	<l id='625'>Je sais presque de vous tout ce qu'on peut savoir.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='626'>Un si brillant esprit ne se peut décevoir ;</l>
+
+	<l id='627'>Mais si vous vous rendez à de justes prières,</l>
+
+	<l id='628'>Madame, faites-m'en partager les lumières.</l>
+
+	<l id='629'>De ce charmant objet j'adore la beauté</l>
+
+	<l id='630'>Sans avoir pu tirer mon feu d'obscurité,</l>
+
+	<l id='631'>Son nom qu'elle me cache étonne ma constance.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='632'>Elle vous fait grand tort par cette défiance,</l>
+
+	<l id='633'>Et sur ce que de vous je puis justifier,</l>
+
+	<l id='634'>Elle verra bientôt comme on doit s'y fier.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='635'>Prendre déjà sa cause  ! À moins qu'il vous corrompe...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='636'>Vous me ferez reproche en cas que je vous trompe.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='637'>Il faut vous l'avouer, si Dom Fernand me plaît,</l>
+
+	<l id='638'>Dès l'abord comme vous je vis tout ce qu'il est,</l>
+
+	<l id='639'>Le coeur grand, l'âme belle, une entière franchise</l>
+
+	<l id='640'>Mais de ses sentiments je craignais la surprise,</l>
+
+	<l id='641'>Les plus prompts quelquefois ne sont pas les meilleurs.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='642'>À vous dire le vrai, je le connais d'ailleurs.</l>
+
+	<l id='643'>Un Ami qui d'erreur est assez incapable,</l>
+
+	<l id='644'>M'en avait fait une peinture aimable,</l>
+
+	<l id='645'>Dont les traits délicats ayant gagné ma foi,</l>
+
+	<l id='646'>Ne m'avaient rien caché de tout ce que j'y vois.</l>
+
+	<l id='647'>L'air, la mine, l'esprit, enfin tout se rapporte.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='648'>Je lui suis obligé d'une estime si forte.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='649'>Jamais d'un vrai mérite on ne fit plus de cas.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='650' part='i'>Et c'est  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='650' part='m'>Dom Dionis.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='650' part='f'>Je ne le connais pas.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='651'>Ne le connaître pas ! Certes cela m'étonne,</l>
+
+	<l id='652'>Vous est-il inconnu, s'il ne l'est à personne  ?</l>
+
+	<l id='653'>Un Cavalier civil, poli, galant, parfait,</l>
+
+	<l id='654'>Qui pensant ce qu'il dit, plaît dans tout ce qu'il fait,</l>
+
+	<l id='655'>Point fourbe, point trompeur, point de ces lâches âmes</l>
+
+	<l id='656'>Qui cherchent en tous lieux à promener leurs flammes,</l>
+
+	<l id='657'>Et d'ailleurs il se dit de vos meilleurs Amis.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='658'>L'erreur m'est favorable où quelque abus l'a mis.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='659'>Deux noms divers en lui pourraient causer le vôtre.</l>
+
+	<l id='660'>Qui m'est connu sous l'un, vous le sera sous l'autre.</l>
+
+	<l id='661'>Dom Dionis pourtant est le seul que je sais.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='662'>Quoi qu'il ait pu dire, il vous aura dit vrai,</l>
+
+	<l id='663'>S'il a su vous jurer que mon amour extrême</l>
+
+	<l id='664'>Engage tous mes voeux à la beauté que j'aime.</l>
+
+	<l id='665'>J'apprends qu'on la marie, et ce fatal revers</l>
+
+	<l id='666'>Accable un malheureux qui languit dans ses fers.</l>
+
+	<l id='667'>Ne pouvant m'éclaircir du père ni du gendre,</l>
+
+	<l id='668'>Je forme cent desseins sans savoir lequel prendre.</l>
+
+	<l id='669'>Dans ces obscurités daignez me secourir,</l>
+
+	<l id='670'>Vous voyez qu'à vous seule on me fait recourir.</l>
+
+	<l id='671'>Soulagez les ennuis dont mon âme est pressée.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='672'>Je ne vais pas si vite à dire ma pensée,</l>
+
+	<l id='673'>Et si de son aveu j'ose en prendre le droit,</l>
+
+	<l id='674'>Je crains de l'engager à plus qu'elle ne croit.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='675'>Non, à votre amitié tout mon coeur s'abandonne,</l>
+
+	<l id='676'>Il en croira soudain quoi que son zèle ordonne,</l>
+
+	<l id='677'>Et pour vous donner lieu d'en mieux délibérer,</l>
+
+	<l id='678'>Je vous laisse tous deux, et vais me retirer,</l>
+
+	<l id='679' part='i'>Adieu.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Léonor.</speaker>
+
+	<l id='679' part='f'>Souvenez-vous que mes peines cruelles</l>
+
+	<l id='680' part='i'>Ne peuvent...</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='680' part='f'>Vous aurez tantôt de mes nouvelles.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='681'>Madame, nous pouvons enfin le régaler.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='682'>Voyons son impudence avant que de parler.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='7'><head>SCÈNE VII. Dom Fernand, Isabelle, Béatrix. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='683'>À voir quelles bontés d'abord sans me connaître</l>
+
+	<l id='684'>Vous avez bien voulu me faire ici paraître,</l>
+
+	<l id='685'>J'ai lieu de présumer que la peine où je suis</l>
+
+	<l id='686'>Vous rendra favorable à finir mes ennuis.</l>
+
+	<l id='687'>C'était pour moi sans doute une disgrâce extrême</l>
+
+	<l id='688'>D'aimer avec excès, et d'ignorer qui j'aime,</l>
+
+	<l id='689'>Mais d'un plus rude sort j'ai tout à redouter,</l>
+
+	<l id='690'>Si par votre secours je ne puis l'éviter.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='691'>En vain à vous cacher votre esprit s'étudie.</l>
+
+	<l id='692'>De grâce, jouez-vous ici la Comédie,</l>
+
+	<l id='693'>Ou si vous prétendez que pour votre intérêt</l>
+
+	<l id='694'>Mon esprit soit brouillé comme le vôtre l'est  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='695'>Madame, où trouvez-vous que ce soit frénésies...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='696'>Oui, sans doute, il vous faut des douceurs mieux choisies,</l>
+
+	<l id='697'>Et la pauvre abusée à qui vous en contez,</l>
+
+	<l id='698'>Pour vous croire honnête homme, a de grandes clartés.</l>
+
+	<l id='699'>Certes, votre méthode est galante et nouvelle.</l>
+
+	<l id='700'>Pour moi Dom Dionis, et Dom Fernand pour elle  ?</l>
+
+	<l id='701'>Ce rare expédient à vous mettre en crédit,</l>
+
+	<l id='702'>D'aucun autre avant vous n'avait frappé l'esprit,</l>
+
+	<l id='703'>Et ce sont en amour de subtiles adresses,</l>
+
+	<l id='704'>Que prendre autant de noms que l'on fait de Maîtresses.</l>
+
+	<l id='705'>Un si beau stratagème en a-t-il bien dupé  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='706'>De quel étonnement mon esprit est frappé  !</l>
+
+	<l id='707'>M'amenait-on ici pour un pareil outrage  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='708'>Il fallait un peu plus vous sucrer le breuvage,</l>
+
+	<l id='709'>À vous, qui Dom Fernand quand vous vous avisez,</l>
+
+<note type="L">Endioniser : comprendre "vous vous transformez en Dom Dionis".</note>
+
+	<l id='710'>Chez nous effrontément vous endionisez ;</l>
+
+	<l id='711'>Ce sont là les moyens d'en attraper de belles.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='712'>Ces façons de traiter me sont assez nouvelles.</l>
+
+	<l id='713'>Madame, c'est ainsi que me jugeant discret,</l>
+
+	<l id='714'>D'une aimable Inconnue on m'apprend le secret  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='715'>Elle apprendra le vôtre, et saura qui vous êtes ;</l>
+
+	<l id='716'>Mais pour vous, croyez-moi, vos affaires sont faites,</l>
+
+	<l id='717'>Vous n'en saurez jamais ni le rang ni le nom.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='718'>Voyez le fourbe  ! Et puis, à qui se fiera-t-on  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='719'>Mais à ce changement quel motif vous engage  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='720'>C'est trop longtemps jouer le même personnage.</l>
+
+	<l id='721'>Enfin, Dom Dionis, mettons le masque bas.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='722' part='i'>Quel est ce Dionis  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='722' part='f'>Quoi, vous ne l'êtes pas  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='723'>Moi  ? Si ce jeu vous plaît, quel qu'en soit le mystère...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='724'>Payez son impudence, ou bien laissez-moi faire.</l>
+
+	<l id='725'>Voyez, il nous prendra pour ses dupes, ma foi.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='726'>Quelle est cette Beauté qui parle contre moi  ?</l>
+
+	<l id='727'>Madame, est-ce une Amie, ou bien quelque Parente  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='728'>Faites bien l'ignorant, je ne suis que Suivante,</l>
+
+	<l id='729'>Mais telle que je suis, vous ayant rencontré,</l>
+
+	<l id='730'>Vous me trouviez tantôt assez à votre gré.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='731' part='i'>Il t'en veut donc aussi  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='731' part='f'>Je ne l'ai jamais vue.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+<note type="L">Galantifier : il semble qu'il ne faille pas comprendre : "il m'a galantisée", c'est à dire "il a fait le galant avec moi", mais "il m'a rendue galante", au point que je l'aurais volontiers mis sur ma liste de galants.</note>
+
+	<l id='732'>Il m'a galantifiée au milieu de la rue,</l>
+
+	<l id='733'>Et son coeur, s'il m'eût fait en croire ses serments,</l>
+
+	<l id='734'>Se fût enregistré sur mon papier d'amant.</l>
+
+	<l id='735' part='i'>La chose n'est pas vraie  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='735' part='f'>Il est vrai qu'on me joue,</l>
+
+	<l id='736'>Et qu'on ne me dit rien que je ne désavoue.</l>
+
+	<l id='737'>À pas une des deux je n'ai fait les yeux doux.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='738'>Dom Juan de Torres n'est point connu de vous  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='739'>Je ne sais quel il est, et trêve d'incartade.</l>
+
+	<l id='740'>Mon nom est Dom Fernand ; et mon pays, Grenade ;</l>
+
+	<l id='741'>Et je viens d'un procès presser ici la fin.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+<note type="L">Grenadin : moquerie, indiquant venant de Grenade. Ce terme est phonétiquement proche de "gredin".</note>
+
+	<l id='742'>Gardez d'être frotté, Monsieur le Grenadin.</l>
+
+	<l id='743'>Quelque temps qu'à forger vous ait coûté l'histoire,</l>
+
+	<l id='744'>Vous le passeriez mal si l'on m'en voulait croire.</l>
+
+	<l id='745'>Entrant à l'aise ici, l'on ne vous hâtait pas,</l>
+
+	<l id='746'>Mais, ma foi, pour sortir vous doubleriez le pas,</l>
+
+	<l id='747'>Je vous remercierais de votre effronterie.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='748'>Enfin est-ce gageure, ou bien galanterie  ?</l>
+
+	<l id='749'>Prétend-on quelque chose affectant ce courroux  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='750'>Non, non, Dom Dionis, on ne veut rien de vous.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='751'>Mais ce Dom Dionis qu'en moi l'on veut connaître...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='752'>Il m'importe fort peu que vous le vouliez être,</l>
+
+	<l id='753'>Pourvu qu'en le voyant vous sachiez l'avertir,</l>
+
+	<l id='754'>Que je ne l'ai souffert que pour me divertir.</l>
+
+	<l id='755'>De ses fades douceurs, par coeur sans doute apprises,</l>
+
+	<l id='756'>Il m'a plu quelquefois d'écouter les sottises,</l>
+
+	<l id='757'>Mais loin qu'il pût avoir quelques charmes pour moi,</l>
+
+	<l id='758'>Mon choix à Dom Félix répondait de ma foi ;</l>
+
+<note type="L">Baye : plaisanterie qu'on fait aux dépens de quelqu'un, à qui on donne de grandes espérances, ou à qui on fait peur de quelque chose qui n'est pas vraie. [F]</note>
+
+	<l id='759'>À des Provinciaux j'aime à donner la baye.</l>
+
+	<l id='760' part='i'>Adieu, mon Cavalier.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='760' part='f'>Voilà comme on vous paye,</l>
+
+	<l id='761'>Messieurs, qui venez provincialement</l>
+
+	<l id='762'>Débiter la fleurette, et prêter le serment.</l>
+
+	<l id='763'>On vous fait bonne mine, on rit, on raille, on, cause,</l>
+
+	<l id='764'>Mais les amis du coeur, dame, c'est autre chose,</l>
+
+<note type="L">Tablature : terme de musique qui indique le registre. ici au sens figuré.</note>
+
+	<l id='765'>La tablature change, on parle sérieux.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='766'>C'est donc à qui de vous m'embarrasseras mieux  ?</l>
+
+	<l id='767'>Si c'est là votre but, la pièce est imparfaite.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='768'>C'est assez, il est temps que vous fassiez retraite.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, voulant sortir par où on l'avait fait entrer.</speaker>
+
+	<l id='769'>Adieu, ne croyez pas m'en avoir inquiété.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE, l'arrêtant.</speaker>
+
+	<l id='770'>Non, non, mon Cavalier, tournez de ce côté,</l>
+
+	<l id='771'>Sortez par l'autre porte, elle vous est connue.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='772' part='i'>Quoi  ? Vous continuez...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='772' part='f'>Gagnons vite la rue,</l>
+
+	<l id='773'>Le meilleur est pour vous de déloger sans bruit,</l>
+
+	<l id='774'>Je vous y conduirai ; bonsoir et bonne nuit.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type='acte' n='3'><head>ACTE III</head>
+
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Fernand, Guzman. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='775'>Quoi, quand vous prétendiez l'entretenir chez elle,</l>
+
+	<l id='776'>Le rendez-vous, Monsieur, était chez Isabelle  ?</l>
+
+	<l id='777'>C'est là que l'Inconnue avait su vous mander  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='778'>C'est là que de la fourbe il a fallu m'aider,</l>
+
+	<l id='779'>Et que le jeu pour moi passait la raillerie,</l>
+
+	<l id='780'>Si je n'eusse aussitôt payer d'effronterie.</l>
+
+	<l id='781'>Quelquefois au besoin ce vice est de saison.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='782'>Mais comment n'avoir pas reconnu la maison  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='783'>Comment l'aurais-je pu, si dans une autre rue</l>
+
+	<l id='784'>L'on me tenait ouverte une porte inconnue,</l>
+
+	<l id='785'>D'où, sans qu'on m'ait rien dit, je me suis rencontré</l>
+
+	<l id='786'>Dans un appartement où jamais je n'entrai  ?</l>
+
+	<l id='787'>Le plus fin en ma place eût donné dans le piège,</l>
+
+	<l id='788'>Mais le don d'impudence est un grand privilège,</l>
+
+	<l id='789'>Je l'ai mis en pratique, et je m'en suis tiré.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='790'>C'est un talent en vous de tout temps admiré ;</l>
+
+	<l id='791'>Mais l'abord d'une Femme est un péril honnête,</l>
+
+	<l id='792'>Lorsque prise pour dupe elle a martel en tête,</l>
+
+	<l id='793'>Et vous deviez trembler ainsi pris au filet,</l>
+
+	<l id='794'>D'en voir deux à la fois vous sauter au colet.</l>
+
+	<l id='795'>Qui lors par impudence évite qu'on l'échine,</l>
+
+	<l id='796'>En a provision, Monsieur, de la plus fine,</l>
+
+	<l id='797'>C'est un pas qu'à franchir peu de gens ont appris,</l>
+
+	<l id='798'>Et tout subtil qu'il est, le diable y serait pris.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='799'>Aussi, pour en sortir j'aurais eu plus d'obstacle,</l>
+
+	<l id='800'>Si le Ciel pour m'aider n'avait fait un miracle.</l>
+
+	<l id='801'>Contre l'ordre commun il a fait qu'en ce jour,</l>
+
+	<l id='802'>On avait vu la prudence accompagner l'amour,</l>
+
+	<l id='803'>Et que du rendez-vous Isabelle en colère,</l>
+
+	<l id='804'>Ait eu dans son dépit le pouvoir de se taire.</l>
+
+	<l id='805'>Ainsi pour moi le pas était moins hasardeux</l>
+
+	<l id='806'>Tant que j'ai pu me voir avec toutes les deux,</l>
+
+	<l id='807'>Pour quelques mots couverts je m'en suis trouvé quitte</l>
+
+	<l id='808'>Mais dès que l'Inconnue a fini sa visite,</l>
+
+	<l id='809'>Et qu'ayant malgré moi voulu se retirer,</l>
+
+	<l id='810'>Seul avec Isabelle on m'a fait demeurer,</l>
+
+	<l id='811'>En me traitant de fourbe, et Suivante et Maîtresse</l>
+
+	<l id='812'>M'ont pensé mettre alors au bout de mon adresse.</l>
+
+	<l id='813'>Dom Dionis en moi leur étant trop connu...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='814'>Je vous tiens fort heureux d'en être revenu.</l>
+
+	<l id='815'>Deux Femmes  ! Rendez grâce aux heureuses Planètes</l>
+
+	<l id='816'>Qui vous ont de leurs mains su tirer bragues nettes,</l>
+
+	<l id='817'>Car tout autre que vous, quoi qu'adroit à mentir,</l>
+
+	<l id='818'>Eût laissé la perruque avant que de sortir.</l>
+
+	<l id='819'>Mais de vos feux errants les voyant éclaircies,</l>
+
+	<l id='820'>Comment avez-vous pu vous les rendre adoucies,</l>
+
+	<l id='821'>Et quel charme assez fort apaisant leur courroux,</l>
+
+	<l id='822'>À détourner l'orage, et rabattu les coups  ?</l>
+
+	<l id='823'>Pour moi, j'aurais fort craint le saut par la fenêtre.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='824'>J'ai feint effrontément de ne les pas connaître,</l>
+
+	<l id='825'>Et comme l'Inconnue avait dit mon vrai nom,</l>
+
+	<l id='826'>Sur ce déguisement j'ai toujours tenu bon.</l>
+
+	<l id='827'>De leur Dom Dionis, qu'elles nommaient sans cesse,</l>
+
+	<l id='828'>Pour un jeu concerté j'ai fait passer l'adresse,</l>
+
+	<l id='829'>Et comme tout n'étant que pour m'embarrasser,</l>
+
+	<l id='830'>Niant jusques au bout, je me suis fait chasser.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='831'>Vous laisserez pester Isabelle à son aise  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='832'>Au contraire, Guzman, il faut que je l'apaise,</l>
+
+	<l id='833'>Et que je fasse effort à lui mettre en l'esprit,</l>
+
+	<l id='834'>Qu'elle croit trop l'erreur qui contre moi l'aigrit.</l>
+
+	<l id='835'>Ayant à soutenir ce second personnage,</l>
+
+	<l id='836'>Ici, pour le jouer, je l'attends au passage,</l>
+
+	<l id='837'>Et sur un autre ton ayant su m'accorder,</l>
+
+	<l id='838'>Comme Dom Dionis, je prétends l'aborder.</l>
+
+	<l id='839'>J'ai su par Dom Juan qu'elle est chez une Tante,</l>
+
+	<l id='840'>Et feignant tout le jour de l'avoir crue absente,</l>
+
+	<l id='841'>Privé d'un rendez-vous dont je devais jouir,</l>
+
+	<l id='842'>Je préviendrai sa plainte, et pourrai l'éblouir.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='843'>Et vous la voulez croire assez dupe et novice,</l>
+
+	<l id='844'>Pour ne pas découvrir le noeud de l'artifice  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='845'>Mais on a vu des gens se ressembler si bien,</l>
+
+	<l id='846'>Qu'à les voir séparés on n'y connaissait rien ;</l>
+
+	<l id='847'>Si la rencontre est rare, elle est du moins possible.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='848'>Monsieur, dans ce dessein votre honte est visible.</l>
+
+	<l id='849'>Si les traits du visage ont un rapport parfait,</l>
+
+	<l id='850'>Ou la taille, ou la voix en détruisent l'effet ;</l>
+
+	<l id='851'>Mais à moins que pour vous la foi n'entraîne l'âme...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='852'>Aussi je ne prétends abuser qu'une Femme,</l>
+
+	<l id='853'>Et je n'en sache point qu'on ne puisse obliger,</l>
+
+	<l id='854'>Quand on sait bien s'y prendre, à croire de léger.</l>
+
+	<l id='855'>Outre que Dom Juan secondant mon adresse,</l>
+
+	<l id='856'>Par de nouveaux détours fera valoir la pièce ;</l>
+
+	<l id='857'>Pour appuyer la fourbe il est de tout instruit.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='858'>S'il a quelque talent, il peut faire grand fruit ;</l>
+
+	<l id='859'>Qui prend de vos leçons a de hauts avantages.</l>
+
+	<l id='860'>Enfin pour l'Inconnue, elle est cassée aux gages,</l>
+
+	<l id='861'>Il ne s'en parle plus, c'est autant de vidé  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='862'>Mon coeur de ses attraits est toujours possédé,</l>
+
+	<l id='863'>Jamais un plus beau feu n'eut tant de violence.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='864'>Monsieur, ayez de grâce un peu de conscience,</l>
+
+	<l id='865'>Gardez-vous bien de suivre un conseil hasardeux,</l>
+
+	<l id='866'>Qui vous les vouloir faire épouser toutes deux.</l>
+
+	<l id='867'>Peut-être punit-on en matière pareille,</l>
+
+	<l id='868'>Et celui qui consent, et celui qui conseille,</l>
+
+	<l id='869'>Et je me trouverais assez peu soulagé,</l>
+
+	<l id='870'>Que l'on vous accourcît si j'étais allongé.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='871'>Tu vas un peu trop vite en faveur d'Isabelle,</l>
+
+	<l id='872'>Je la veux adoucir, non pas à cause d'elle,</l>
+
+	<l id='873'>Mais de peur que l'aigreur de son ressentiment</l>
+
+	<l id='874'>N'engage l'Inconnue à quelque changement.</l>
+
+	<l id='875'>Elle va de ma foi lui donner mille ombrages,</l>
+
+	<l id='876'>Si je ne sais jouer tous les deux personnages,</l>
+
+	<l id='877'>Et faire, dans l'état d'un noeud si surprenant,</l>
+
+	<l id='878'>Tantôt Dom Dionis, et tantôt Dom Fernand.</l>
+
+	<l id='879' part='i'>Voilà quel est mon but.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='879' part='m'>Tant pis.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='879' part='f'>Il te chagrine ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='880'>C'est qu'en mon coeur déjà l'amour prenait racine,</l>
+
+	<l id='881'>Et que pour Béatrix ravi de n'en bouger,</l>
+
+	<l id='882'>Si vous tournez casaque, il faut le déloger.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='883' part='i'>Donc Béatrix te plaît  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='883' part='f'>Monsieur par de là plaire.</l>
+
+	<l id='884'>Ce serait bien mon fait, si j'étais son affaire,</l>
+
+	<l id='885'>Et comme de tout temps les Belles m'ont tenté,</l>
+
+	<l id='886'>Je me hasarderais à l'incongruité.</l>
+
+	<l id='887'>Se charger d'une Femme en est une assez haute.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='888'>Vraiment, je suis fâché du repos qu'elle t'ôte ;</l>
+
+	<l id='889'>Mais crois-tu voir en elle assez pour t'engager  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='890'>J'y vois plus qu'il ne faut pour me faire enrager.</l>
+
+	<l id='891'>La Coquine a des yeux, dont la mutinerie</l>
+
+	<l id='892'>Passe le plus fripon de la friponnerie,</l>
+
+	<l id='893'>Et les malins regards qu'elle m'a su darder,</l>
+
+	<l id='894'>Navrant un pauvre coeur, prennent sans demander.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='895'>Avec toi pour l'hymen obtiens qu'elle s'engage.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='896'>J'y fais réflexion, trêve de Mariage.</l>
+
+	<l id='897'>Galante comme elle est, qui que vous épousiez,</l>
+
+	<l id='898'>Quand vous en seriez saoul, vous me l'emprunteriez ;</l>
+
+	<l id='899' part='i'>Mais je la vois venir, Monsieur.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='899' part='f'>C'est Isabelle.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='900'>Peste ! Encor une fois que la friponne est belle !</l>
+
+	<l id='901'>Mon coeur en tombe presque en suffocation.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='902'>C'est ici qu'il me faut pousser la passion.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Fernand, Isabelle, Béatrix, Guzman. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='903'>Madame, enfin le Ciel à mon amour propice,</l>
+
+	<l id='904'>N'a pu de vos desseins approuver l'injustice,</l>
+
+	<l id='905'>Ni souffrir plus longtemps qu'un ordre rigoureux</l>
+
+	<l id='906'>Privât de votre vue un Amant malheureux.</l>
+
+	<l id='907'>Il a fait naître exprès une telle rencontre,</l>
+
+	<l id='908'>Aujourd'hui malgré vous à mes yeux il vous montre,</l>
+
+	<l id='909'>Et m'offre la douceur dont un destin jaloux</l>
+
+	<l id='910'>M'a tantôt empêché d'aller jouir chez vous.</l>
+
+	<l id='911'>J'ose au moins me flatter de vous voir assez bonne,</l>
+
+	<l id='912'>Pour consentir au bien que le hasard me donne,</l>
+
+	<l id='913'>Et ne murmurer pas, que contre mon espoir</l>
+
+	<l id='914'>Il accorde à mes voeux le plaisir de vous voir.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='915'>Pour vous le faire croire, il suffit de vous dire</l>
+
+	<l id='916'>Que plus je vous connais, et plus je vous admire.</l>
+
+	<l id='917'>Les divertissements que vous vous choisissez</l>
+
+	<l id='918'>Ne trouveront jamais qui les estime assez,</l>
+
+	<l id='919'>Votre agréable humeur galamment les ordonne ;</l>
+
+	<l id='920'>Mais afin d'épargner votre double personne,</l>
+
+	<l id='921'>À qui d'elle avec vous parlai-je maintenant  ?</l>
+
+	<l id='922'>Est-ce à Dom Dionis, ou bien à Dom Fernand  ?</l>
+
+	<l id='923'>Êtes-vous de Grenade, ou venez-vous de Flandre  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='924'>De telles questions ont droit de me surprendre ;</l>
+
+	<l id='925'>Vous avez déjà su par d'autres que par moi,</l>
+
+	<l id='926'>Qu'en Flandre assez longtemps on m'a vu dans l'emploi,</l>
+
+	<l id='927'>Le désir du repos a causé ma retraite.</l>
+
+	<l id='928'>Cependant en ces lieux j'ai trouvé ma défaite,</l>
+
+	<l id='929'>Et mon coeur que l'amour n'avait pu surmonter,</l>
+
+	<l id='930'>Charmé de vos appas, n'a su leur résister ;</l>
+
+	<l id='931'>Vous le savez, mais las  ! Je crains bien que votre âme</l>
+
+	<l id='932'>Nr cède au repentir d'avoir souffert ma flamme,</l>
+
+	<l id='933'>Et que ce rendez-vous ôté cruellement,</l>
+
+	<l id='934'>Ne soit déjà l'arrêt de mon bannissement.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='935'>Prévenir les sujets que j'aurais de me plaindre,</l>
+
+	<l id='936'>C'est fort adroitement pratiquer l'art de feindre.</l>
+
+	<l id='937'>Si j'avais pu tantôt tomber dans le panneau,</l>
+
+	<l id='938'>Vous me feriez encor y donner de nouveau ;</l>
+
+	<l id='939'>Mais quoi que mon esprit n'ait pas tant de lumières,</l>
+
+	<l id='940'>Il faut pour l'éblouir des fourbes moins grossières,</l>
+
+	<l id='941'>Et celles que par là vous pourrez attraper,</l>
+
+	<l id='942'>Auront un grand talent à se laisser duper.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='943' part='i'>Quelle énigme est-ce ci  ? Madame...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='943' part='f'>Je vous prie,</l>
+
+	<l id='944'>Afin d'ennuyer moins, changez de batterie ;</l>
+
+	<l id='945'>C'est assez sur ce ton, vous ne m'y prendrez pas.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Béatrix.</speaker>
+
+	<l id='946'>Tout ici de mon trouble augmente l'embarras.</l>
+
+	<l id='947'>Tire-moi de la peine où tu vois qu'on me laisse ;</l>
+
+	<l id='948'>Quelqu'un m'a-t-il su nuire auprès de ta Maîtresse  ?</l>
+
+	<l id='949'>Béatrix, quelle erreur tient ses sens obsédés  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='950'>Ah, Monsieur Dom Fernand, vous vous dégrenadez  ?</l>
+
+	<l id='951'>Vous ne me prenez plus pour amie ou parente  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='952'>Enfin je n'ai point l'âme assez intelligente,</l>
+
+	<l id='953'>Il faut s'expliquer mieux. De quoi m'accuse-t-on  ?</l>
+
+	<l id='954' part='i'>Qu'ai-je dit  ? Qu'ai-je fait  ? Que croit-on de moi  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='954' part='f'>Bon.</l>
+
+	<l id='955'>Voilà vous parler ferme, avisez à répondre.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='956'>Quoi, ce que vous oyez est peu pour vous confondre  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='957'>Faute d'y rien comprendre, on m'en voit interdit.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='958'>Madame, il veut, je crois, nous renverser l'esprit.</l>
+
+	<l id='959'>Donc tantôt tout du long me traitant d'Inconnue,</l>
+
+	<l id='960'>Vous n'avez point nié de m'avoir jamais vue,</l>
+
+	<l id='961'>De vous être adouci pour m'en conter un peu  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='962'>Moi, je l'aurais nié  ? Pourquoi ce désaveu,</l>
+
+	<l id='963'>Si t'ayant malgré toi dans la rue arrêtée...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='964'>Avec combien de soin la pièce est concertée  !</l>
+
+	<l id='965'>Vous n'attraperez rien à prendre ce détour.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='966' part='i'>Guzman.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='966' part='f'>Ce sont, Monsieur, gentillesses de Cour.</l>
+
+	<l id='967'>Lorsque le jeu leur plaît, le plus fin n'y voit goutte.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='968'>Mais, Madame, de grâce, éclaircissez mon doute,</l>
+
+	<l id='969'>Ne puis-je au moins savoir de quoi vous vous plaignez  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='970'>De vous voir archi-fourbe, et des plus raffinés.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='971' part='i'>Moi  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='971' part='f'>Qui voudra l'ouïr, c'est la même innocence.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='972' part='i'>Mais enfin...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='972' part='f'>Mais enfin quelle est votre espérance ?</l>
+
+	<l id='973'>Si je sais qu'en secret d'une Inconnue épris,</l>
+
+	<l id='974'>Vous êtes Dom Fernand, et non Dom Dionis,</l>
+
+	<l id='975'>Pourquoi sous ce faux nom tâcher à me surprendre  ?</l>
+
+	<l id='976'>Arriver de Grenade, et me parler de Flandre,</l>
+
+	<l id='977'>Et de l'Armée enfin vous feignant de retour,</l>
+
+	<l id='978'>Me cacher qu'un procès vous amène à la Cour  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='979'>Ce conte pour me nuire est un froid stratagème.</l>
+
+	<l id='980' part='i'>Madame, qui le fait  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='980' part='f'>J'ai tout su de vous-même.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='981'>De moi  ? Sans être fou, pourrais-je à mes dépens...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='982'>Ma foi, vous n'aviez pas tantôt votre bon sens.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='983'>La rencontre chez moi vous était imprévue.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='984'>Quoi, Madame, aujourd'hui chez vous je vous ai vue  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='985'>Vous y veniez sans peine, attiré par l'amour.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='986'>Parle ; m'as-tu, Guzman, quitté de tout le jour  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='987' part='i'>Ah  !</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='987' part='f'>L'honnête garant que vous faites paraître  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='988' part='i'>Mais il vous peut...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='988' part='f'>Oui dea, je puis piéger mon maître,</l>
+
+	<l id='989'>Il est amant d'honneur si jamais il en fut.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='990'>De vos déguisements je découvre le but,</l>
+
+	<l id='991'>Pour conserver toujours quelque place en mon âme</l>
+
+	<l id='992'>Vous me voulez cacher votre nouvelle flamme,</l>
+
+	<l id='993'>Mais n'en croyez pas tant l'espoir que vous prenez,</l>
+
+	<l id='994'>L'un pour l'autre tous deux nous ne sommes point nés.</l>
+
+	<l id='995'>À la seule Inconnue adressez votre hommage.</l>
+
+	<l id='996'>Aussi bien ma parole à Dom Félix m'engage,</l>
+
+	<l id='997'>Et jamais à vous voir je n'ai su me forcer,</l>
+
+	<l id='998'>Qu'aux moments de chagrin que j'avais à passer.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='999'>Ce n'est pas sans raisons que de justes alarmes,</l>
+
+	<l id='1000'>Étonnant mon espoir, m'en défendaient les charmes,</l>
+
+	<l id='1001'>Sans chercher un prétexte aux mépris qu'on me rend.</l>
+
+	<l id='1002'>Le peu que je mérite en est un assez grand.</l>
+
+	<l id='1003'>Ne dites point qu'ailleurs je partage ma flamme,</l>
+
+	<l id='1004'>Mais dites qu'un Rival a su toucher votre âme,</l>
+
+	<l id='1005'>Et que sa passion engageant votre foi,</l>
+
+	<l id='1006'>Pour en remplir l'attente, il faut rompre avec moi.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1007'>Vous n'avez point d'intrigue avec une inconnue  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1008'>Pour vous seule d'amour mon âme est prévenue,</l>
+
+	<l id='1009' part='i'>Et cette ardeur est telle...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1009' part='f'>On en connaît le prix.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1010' part='i'>Madame...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1010' part='m'>Adieu, c'est trop.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1010' part='f'>Retiens-la, Béatrix,</l>
+
+	<l id='1011'>Aide-moi de mes feux à prouver l'innocence.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1012'>Je ne sais quasi plus ce qu'il faut que j'en pense.</l>
+
+	<l id='1013' part='i'>Madame, accordez-lui...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1013' part='f'>Quoi, tu peux l'écouter  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1014'>Mais ne trouveriez-vous aucun lieu de douter  ?</l>
+
+	<l id='1015'>S'il est Dom Fernand, comme il semble paraître,</l>
+
+	<l id='1016'>Pourquoi s'obstiner tant à ne vouloir pas l'être  ?</l>
+
+	<l id='1017'>Sur quel espoir si loin pousser la fiction  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1018'>Tu te laisses gagner à la compassion,</l>
+
+	<l id='1019'>Et crois que jusqu'au coeur son déplaisir arrive  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1020'>C'est mon plus grand défaut, je suis trop compassive,</l>
+
+	<l id='1021'>Et parmi mes galants d'amour et d'amitié,</l>
+
+	<l id='1022'>J'en sais sur mon papier plus de cent de pitié ;</l>
+
+	<l id='1023'>Il est des étourdis, que refuser d'entendre,</l>
+
+	<l id='1024'>C'est contraindre autant vaut sur l'heure à s'aller pendre,</l>
+
+	<l id='1025'>J'évite le désastre, et fais tout pour le mieux.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Juan, Dom Fernand, Isabelle, Béatrix, Guzman. </head>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN, contrefaisant l'étonné.</speaker>
+
+	<l id='1026'>Que vois-je  ? Juste Ciel  ! En croirai-je mes yeux  ?</l>
+
+	<l id='1027'>Vous êtes ici  ? Vous  ? Ma surprise est extrême.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1028' part='i'>Qui vous la peut causer  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1028' part='f'>Mais c'est vous-même  ?</l>
+
+	<l id='1029' part='i'>C'est vous  ? Dom Dionis  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1029' part='f'>Que veut-on que je sois  ?</l>
+
+	<l id='1030' part='i'>Parlez.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1030' part='f'>J'en crois à peine encor ce que je vois.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1031'>Mais qui de ce transport vous peut rendre capable  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1032'>Une aventure étrange, et qui semble une fable.</l>
+
+	<l id='1033'>Madame, à ce détour que je viens de quitter.</l>
+
+	<l id='1034'>Un Cavalier passant, j'ai voulu l'arrêter,</l>
+
+	<l id='1035'>Tel que Dom Dionis, mêmes traits de visage,</l>
+
+	<l id='1036'>Même voix, même port c'est la vivante image,</l>
+
+	<l id='1037'>Et beaucoup se vêtant de la même façon,</l>
+
+	<l id='1038'>Son habit a laissé mon erreur sans soupçon.</l>
+
+	<l id='1039'>Pour m'en faire sortir, quoi qu'il est pu me dire,</l>
+
+	<l id='1040'>J'ai pris tout pour adresse, et cru qu'il voulait rire.</l>
+
+	<l id='1041'>Et serais encor loin de m'en voir éclairci,</l>
+
+	<l id='1042'>Si je ne rencontrais Dom Dionis ici.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1043' part='i'>Son nom est Dom Fernand  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1043' part='f'>Je n'ai su rien apprendre,</l>
+
+	<l id='1044'>Sinon que pour quelque autre on me l'aurait fait prendre,</l>
+
+	<l id='1045'>Et sans plus m'écouter il a tiré chemin.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1046'>Madame, assurément c'est notre Grenadin.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1047' part='i'>Pauvre dupe  !</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1047' part='f'>Pas tant peut-être qu'il vous semble.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1048'>Mais si le Ciel permet qu'un autre me ressemble,</l>
+
+	<l id='1049'>Faut-il sous ce malheur que je sois accablé  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1050'>Monsieur, je suis perdu si vous êtes doublé.</l>
+
+	<l id='1051'>Ce second Dionis terriblement me choque,</l>
+
+	<l id='1052'>Aux dépens de mon dos j'en crains bien l'équivoque.</l>
+
+	<l id='1053'>Si l'abordant pour vous, il prend son sérieux  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1054'>Enfin jamais portrait ne ressemblera mieux.</l>
+
+	<l id='1055' part='i'>Tout autre y serait pris.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1055' part='f'>Il faut que je l'avoue,</l>
+
+	<l id='1056'>Chacun de vous fait bien dans le rôle qu'il joue,</l>
+
+	<l id='1057'>Le conte avec grand art est sans doute inventé.</l>
+
+	<l id='1058'>De grâce, Dom Juan, vous a-t-il bien coûté  ?</l>
+
+	<l id='1059'>Ce rare effort d'esprit vous comblera de gloire.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1060'>Je ne suis point surpris qu'on ait peine à me croire,</l>
+
+	<l id='1061'>Moi-même qui m'en trouve encor tout interdit,</l>
+
+	<l id='1062'>Je prendrais pour un conte un semblable récit ;</l>
+
+	<l id='1063' part='i'>Mais il n'est rien plus vrai.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1063' part='f'>Vous en doutez, Madame  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1064'>Qu'il est souvent aisé de tromper une Femme  !</l>
+
+	<l id='1065'>Simple, tu ne vois pas qu'ils s'entendent tous deux  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1066'>Doutez, puisqu'il vous plaît ; pour moi, je suis pour eux,</l>
+
+	<l id='1067'>Et j'ai vu tant de fois de telles ressemblances,</l>
+
+	<l id='1068'>Que je ne puis avoir toutes vos défiances.</l>
+
+	<l id='1069'>Pour s'être tenu prêt à fourber avec nous,</l>
+
+	<l id='1070'>Pouvait-il deviner qu'on le menait chez vous  ?</l>
+
+	<l id='1071'>Y serait-il venu sachant ce qu'il hasarde  ?</l>
+
+	<l id='1072'>Outre que si vous-même y voulez prendre garde,</l>
+
+	<l id='1073'>Quel que soit leur rapport de visage et de voix,</l>
+
+	<l id='1074'>L'autre semblait moins large, et plus grand de deux doigts.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1075'>Oui, je lui crois la taille un peu plus déchargée.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1076'>Non, non, c'est entre nous une histoire forgée,</l>
+
+	<l id='1077'>Madame en juge mieux, et me doit quereller,</l>
+
+	<l id='1078'>De peur que mon malheur ne m'oblige à parler.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1079'>Quels reproches de vous aurais-je lieu de craindre  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1080'>Celui de mal aimer, ou plutôt de trop feindre,</l>
+
+	<l id='1081'>Et de m'avoir caché qu'un plus heureux que moi</l>
+
+	<l id='1082'>Était maître du coeur où prétendait ma foi.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1083'>Si quelque autre a sur lui la victoire obtenue,</l>
+
+	<l id='1084'>Je pourrais opposer l'amour d'une Inconnue ;</l>
+
+	<l id='1085'>Mais quoi que vous fassiez j'y prends peu d'intérêt.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1086'>Pour l'Inconnue enfin je ne sais ce que c'est,</l>
+
+	<l id='1087'>Une telle aventure en vain pour moi s'applique,</l>
+
+	<l id='1088' part='i'>Je n'y prends point de part, mais...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1088' part='f'>Elle est hérétique,</l>
+
+	<l id='1089' part='i'>Monsieur, vous perdez temps.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1089' part='f'>Quel serait son dessein,</l>
+
+	<l id='1090' part='i'>Madame  ? Pensez-vous...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1090' part='f'>Tu me parles en vain.</l>
+
+	<l id='1091'>Je ne croirai jamais qu'un autre lui ressemble,</l>
+
+	<l id='1092'>Si tous deux aujourd'hui je ne les vois ensemble.</l>
+
+	<l id='1093'>Tantôt pour m'éclaircir il peut venir chez moi.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1094'>J'irai, mais Dom Fernand vous répond-il de soi ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1095'>Qu'un semblable souci n'ait rien qui vous tourmente.</l>
+
+	<l id='1096'>Depuis une heure au plus j'ai revu son Amante,</l>
+
+	<l id='1097'>Qui sans savoir encor ce que je crois de lui,</l>
+
+	<l id='1098'>Doit chez moi de nouveau l'envoyer aujourd'hui.</l>
+
+	<l id='1099'>L'un ou l'autre y manquant, je sais mon personnage,</l>
+
+	<l id='1100' part='i'>Adieu.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='4'><head>SCÈNE IV. Dom Juan, Dom Fernand, Guzman. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1100' part='f'>C'en est fait, Monsieur, il faut trousser bagage,</l>
+
+	<l id='1101'>À l'impossible enfin nul, dit-on, n'est tenu.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1102'>Va, mon talent encor ne t'est pas bien connu.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1103'>Quoi, vous croyez plus loin pousser l'effronterie  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1104'>Je prétends au besoin suppléer d'industrie.</l>
+
+	<l id='1105'>Pour rompre l'embarras où le hasard m'a mis,</l>
+
+	<l id='1106'>Il ne faut qu'un exempt qui soit de vos amis.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1107' part='i'>Je puis vous en fournir.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1107' part='f'>Voyons-en un de grâce,</l>
+
+	<l id='1108'>Et nous concerterons ce qu'il faudra qu'il fasse.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1109'>Ce que vous méditez voudra le jour entier ;</l>
+
+	<l id='1110'>Ainsi puisque avec vous je suis dans ce quartier,</l>
+
+	<l id='1111'>Dégagez ma parole avant que de rien faire.</l>
+
+	<l id='1112'>Par devoir tout au moins voyons votre Beau-père,</l>
+
+	<l id='1113'>Ce serait l'offenser que d'attendre à demain.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1114'>Je sais qu'il faut le voir, et j'en ai le dessein,</l>
+
+	<l id='1115'>Mais souffrez que sans vous je lui fasse visite,</l>
+
+	<l id='1116'>Allant seul, je pourrai plutôt en être quitte,</l>
+
+	<l id='1117'>Et s'il veut m'arrêter, je feindrai que ce soir</l>
+
+	<l id='1118'>Un succès important m'oblige à vous revoir.</l>
+
+	<l id='1119' part='i'>Tu connais sa maison, Guzman  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1119' part='f'>Voici sa porte.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1120'>Adieu donc, quittez-moi, je tremble qu'il ne sorte.</l>
+
+	<l id='1121'>Cependant vous savez ce que j'attends de vous.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1122' part='i'>Fiez-vous-en à moi.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Fernand, Guzman. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1122' part='f'>Vous l'allez bailler doux ?</l>
+
+	<l id='1123'>Faites bien le dolent d'avoir cru nécessaire</l>
+
+	<l id='1124'>Qu'il ne partageât pas l'ennui de votre affaire  ?</l>
+
+	<l id='1125'>Vos excuses sans doute auront ce fondement  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1126'>Je vais sur son accueil régler mon compliment.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1127'>Mais croyez-vous chez lui comme Gendre paraître,</l>
+
+	<l id='1128'>Sans que soudain ailleurs il vous fasse connaître  ?</l>
+
+	<l id='1129'>Si jusqu'à l'Inconnue on fait courir ce bruit,</l>
+
+	<l id='1130'>Au choix de Léonor vous vous verrez réduit.</l>
+
+	<l id='1131'>Isabelle de vous déjà se désabuse.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1132'>Il faut pour le beau-père inventer quelque ruse,</l>
+
+	<l id='1133'>Et la mener si bien, qu'après mon compliment</l>
+
+	<l id='1134'>Il me permette encor huit jours d'éloignement.</l>
+
+	<l id='1135'>Je puis chez Dom Juan d'une affaire secrète</l>
+
+	<l id='1136'>Pour un terme si court prétexter ma retraite,</l>
+
+	<l id='1137'>Pressez mon aventure, et pénétrer enfin</l>
+
+	<l id='1138'>Quel succès de mes feux doit régler mon destin.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1139'>Ce sont deux volatils dont je crains bien l'issue.</l>
+
+	<l id='1140'>Deux beautés à la fois vous ont frappé la vue,</l>
+
+	<l id='1141'>Et quittant Léonor sur l'appas d'un faux bien,</l>
+
+	<l id='1142'>Vous risquerez à tout, et n'attraperez rien</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1143'>Voyons-la, puisque au père il faut rendre visite,</l>
+
+	<l id='1144'>Entrons. Mais Dieux, Guzman, que j'ai l'âme interdite  !</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1145' part='i'>Qu'avez-vous  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1145' part='f'>Qui jamais vit un feu plus constant  ?</l>
+
+	<l id='1146'>Dans la cour de Dom Diègue on m'épie, on m'attend,</l>
+
+	<l id='1147'>J'y vois mon inconnue avecque sa Suivante.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1148'>N'en doutez point, Monsieur, la chose est évidente,</l>
+
+	<l id='1149'>Elle a su votre hymen, et voulant l'empêcher</l>
+
+	<l id='1150'>Ici chez le beau-père elle vient vous chercher.</l>
+
+	<l id='1151'>Voilà comme un secret ne se peut jamais taire.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Fernand, Léonor, Jacinte, Guzman. </head>
+
+<sp who='LÉONOR'><speaker>LÉONOR, à Jacinte.</speaker>
+
+	<l id='1152'>Que Dom Fernand s'expose à venir chez mon père  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1153'>Sa passion par là se croit justifier.</l>
+
+	<l id='1154'>Il avait su de vous qu'on veut vous marier,</l>
+
+	<l id='1155'>Et d'Isabelle ensuite ayant appris le reste,</l>
+
+	<l id='1156'>Il vient chercher à rompre un hymen si funeste.</l>
+
+	<l id='1157'>Madame, qui craint tout doit un peu hasarder.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1158'>Il m'en croit offensée, et n'ose m'aborder.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1159'>M'ayant vu prêt d'entrer, Guzman, que dira-t-elle  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR, à Dom Fernand.</speaker>
+
+	<l id='1160'>De votre amour pour moi cette épreuve est cruelle,</l>
+
+	<l id='1161'>Et je n'aurais pas cru qu'un mouvement jaloux</l>
+
+	<l id='1162'>Vous fît payer si mal ce que j'ai fait pour vous.</l>
+
+	<l id='1163'>Quoi que sur mon rapport vous ayez lieu de craindre</l>
+
+	<l id='1164'>Que mon père à l'hymen ne me veuille contraindre,</l>
+
+	<l id='1165'>Vous avez dû me croire assez de fermeté</l>
+
+	<l id='1166'>Pour n'en redouter pas toute l'autorité.</l>
+
+	<l id='1167'>Cependant c'est par vous que le sort m'assassine ;</l>
+
+	<l id='1168'>Vous venez chez Dom Diègue assurer ma ruine,</l>
+
+	<l id='1169'>Et ne voulez pas voir qu'en ce pressant ennui</l>
+
+	<l id='1170'>C'est me perdre en effet que paraître chez lui.</l>
+
+	<l id='1171'>Qu'y venez-vous chercher, sachant ce qui se passe  ?</l>
+
+	<l id='1172'>Laissez-moi les moyens d'éviter ma disgrâce,</l>
+
+	<l id='1173'>Et ne dédaignez pas, pour mériter ma foi,</l>
+
+	<l id='1174'>Quand j'ose tout pour vous, de faire un peu pour moi.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1175'>Si vous voulez, Madame, en croire l'apparence,</l>
+
+	<l id='1176'>Le sujet qui m'amène est pour vous une offense,</l>
+
+	<l id='1177'>Et par ce qui paraît, déclaré contre vous</l>
+
+	<l id='1178'>J'ai mérité l'aigreur de tout votre courroux.</l>
+
+	<l id='1179'>Je venais chez Dom Diègue, et vous pouvez me dire</l>
+
+	<l id='1180'>Qu'il semble contre soi que mon amour conspire,</l>
+
+	<l id='1181'>Puisque m'y hasardant, je ne pouvais douter</l>
+
+	<l id='1182'>Que le vôtre par là n'eût tout à redouter ;</l>
+
+	<l id='1183'>Mais j'atteste le Ciel qui voit toute mon âme,</l>
+
+	<l id='1184'>Qu'on ne brûla jamais d'une si pure flamme,</l>
+
+	<l id='1185'>Et que quoi qu'en ordonne un destin trop jaloux,</l>
+
+	<l id='1186'>Je périrai plutôt que n'être point à vous.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1187'>Un semblable serment a pour moi bien des charmes ;</l>
+
+	<l id='1188'>Mais daignez m'épargner de puissantes alarmes,</l>
+
+	<l id='1189'>Et pour ne me laisser aucun lieu de souci,</l>
+
+	<l id='1190'>Sans vouloir voir Dom Diègue éloignez-vous d'ici.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1191'>J'y consens, mais pour prix d'une amour si fidèle,</l>
+
+	<l id='1192' part='i'>Ne puis-je...</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1192' part='f'>De ma part allez voir Isabelle,</l>
+
+	<l id='1193'>Et suivez un espoir qui vous est confirmé,</l>
+
+	<l id='1194'>Si vous aimez autant que vous êtes aimé.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1195' part='i'>Ah  ! Si vous en doutez...</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1195' part='f'>Retirez-vous, de grâce,</l>
+
+	<l id='1196'>Mon amour vous l'ordonne, et ma crainte vous chasse ;</l>
+
+	<l id='1197'>Être ici plus longtemps ce serait me trahir.</l>
+
+	<l id='1198' part='i'>Adieu.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1198' part='f'>Vous le voulez, et je dois obéir.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='7'><head>SCÈNE VII. Léonor, Jacinte. </head>
+
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1199'>Madame, heureusement de la ville arrivées,</l>
+
+	<l id='1200'>Au besoin dans la cour nous nous sommes trouvées.</l>
+
+	<l id='1201'>Il eût vu votre père, et fait peut-être éclat.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1202'>J'ai souffert dans mon coeur un étrange combat,</l>
+
+	<l id='1203'>D'un si hardi dessein je voyais tout à craindre.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1204'>Mais puisqu'il vous connaît, il n'est plus temps de feindre,</l>
+
+	<l id='1205'>Il faut songer à rompre, ou recevoir sa foi.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1206'>Viens dans mon cabinet en résoudre avec moi.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type='acte' n='4'><head>ACTE IV</head>
+
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Béatrix, Guzman </head>
+
+<sp who='BEATRIX'><speaker>BÉATRIX, paraissant à la porte d'Isabelle 
+
+au même temps que Guzman se présente pour entrer.</speaker> 
+
+	<l id='1207'>Guzman vient seul ici  ! Qu'a-t-il fait de son Maître.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1208'>Je suis son Lieutenant quand il ne peut paraître,</l>
+
+	<l id='1209'>Avec un grand Parleur dans la rue arrêté,</l>
+
+	<l id='1210'>Il trouve à le quitter quelque difficulté,</l>
+
+	<l id='1211'>Et s'il tarde un peu trop, craignant qu'on ne l'accuse,</l>
+
+	<l id='1212'>Il m'envoie en tous cas en faire son excuse.</l>
+
+	<l id='1213'>Il saura trancher court, et peut-être il me suit.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1214'>Enfin on l'attendra plutôt jusqu'à la nuit.</l>
+
+	<l id='1215'>Mais pourquoi n'entrer pas  ? Qui t'arrête à la porte  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1216'>J'en avais à mon gré raison valable et forte ;</l>
+
+	<l id='1217'>Mais on ne saurait fuir ce qui doit arriver,</l>
+
+	<l id='1218'>Je craignais de te voir, et tu me viens trouver.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1219'>Quoi, pour te faire peur suis-je assez effroyable  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1220'>Non pas, mais je te crains pourtant comme le diable,</l>
+
+	<l id='1221'>Et choisirais plutôt, s'il dépendait de moi,</l>
+
+	<l id='1222'>D'être tenté par lui que de l'être par toi.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1223'>Ne t'épouvante point ; si ton coeur en soupire,</l>
+
+	<l id='1224' part='i'>Tu t'accoutumeras.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1224' part='f'>Il ne coûte qu'à dire ;</l>
+
+	<l id='1225'>Et quoi qu'un pauvre coeur soit tout percé de coups,</l>
+
+	<l id='1226'>Pourvu qu'on s'accoutume il doit être fort doux  ?</l>
+
+	<l id='1227'>Mais en m'accoutumant, comme j'ai l'âme prompte,</l>
+
+	<l id='1228'>Quand je n'en pourrai plus, ce sera pour mon compte.</l>
+
+	<l id='1229'>Cependant de ta part, loin de me soulager,</l>
+
+	<l id='1230'>Tu t'accoutumeras à me faire enrager.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1231'>Tu crois donc qu'à me voir ton repos se hasarde  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1232'>Je suis tout palpitant dès que je te regarde,</l>
+
+	<l id='1233'>Et de mes sens ravis en contemplation,</l>
+
+	<l id='1234'>Mes yeux seuls près de toi gardent leur fonction,</l>
+
+	<l id='1235'>Peu s'en faut que mon coeur n'en soit paralytique.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1236'>Pourrait-il craindre un mal que ta langue m'explique  ?</l>
+
+	<l id='1237'>Qui le connaît si bien n'est pas pour en mourir,</l>
+
+	<l id='1238'>Et si je t'ai blessé, je pourrai te guérir.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1239'>Si tu connais assez jusqu'où va ma blessure,</l>
+
+	<l id='1240'>Tu n'entreprendras pas une légère cure,</l>
+
+	<l id='1241'>Et je puis t'en promettre un honneur sans égal,</l>
+
+	<l id='1242'>La rechute, dit-on, est pire que le mal,</l>
+
+	<l id='1243'>Mais à guérir le mien s'il faut que tu consentes,</l>
+
+	<l id='1244'>Tiens mon coeur en état d'en avoir de fréquentes,</l>
+
+	<l id='1245'>Et songe qu'avec toi ravi de s'embourber,</l>
+
+	<l id='1246'>Il ne voudra guérir qu'afin de retomber.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1247'>Va, Guzman, j'aurai soin, de peur qu'il ne t'empire,</l>
+
+	<l id='1248'>D'avoir quelque douceur chaque jour à te dire,</l>
+
+	<l id='1249'>Ni langueurs ni soupirs ne te coûteront rien.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1250'>Je crois qu'aux délicats tout cela fait grand bien,</l>
+
+	<l id='1251'>Mais pour moi qui crains fort les crudités venteuses</l>
+
+	<l id='1252'>J'eus toujours l'estomac contraire aux viandes creuses,</l>
+
+	<l id='1253'>Et quand pour mes péchés il en est question,</l>
+
+	<l id='1254'>Je n'en tâte jamais sans indigestion.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1255'>Tu n'es donc point mon fait, ainsi que de tous âges.</l>
+
+	<l id='1256'>Parmi mes Soupirants j'en ai de tous étages.</l>
+
+	<l id='1257'>Je reçois compliment, soins, complaisance, voeux,</l>
+
+	<l id='1258'>Mais ce meuble d'amour est tout ce que j'en veux,</l>
+
+	<l id='1259'>Chacun me fait sans peine écouter son martyre,</l>
+
+	<l id='1260'>J'estime les polis, et les sots me font rire.</l>
+
+	<l id='1261'>C'est ainsi que l'amour dans mon coeur se nourrit.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1262'>Cet amour est bien jeune, on n'a guère d'esprit.</l>
+
+	<l id='1263'>Je sais bien qu'en effet, quand il commence à naître,</l>
+
+	<l id='1264'>Ce n'est que de douceurs qu'il aime à se repaître,</l>
+
+	<l id='1265'>Cet aliment alors sans peine le soutient,</l>
+
+	<l id='1266'>Mais je le crois léger quand l'appétit lui vient.</l>
+
+	<l id='1267'>S'en tenir toujours à tu m'aimes, et je t'aime,</l>
+
+	<l id='1268'>Si c'est faire enrager, c'est enrager soi-même,</l>
+
+	<l id='1269'>Et le simple art coquet, si des sottes l'ont eu,</l>
+
+	<l id='1270'>Sans de grands ragoûts n'est pas grande vertu.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1271'>Tu vas un peu trop loin ; encor sommes-nous faites</l>
+
+	<l id='1272'>Pour ouïr des douceurs, écouter des fleurettes ;</l>
+
+	<l id='1273'>C'est à quoi la plus prude aisément se résout,</l>
+
+	<l id='1274'>Mais il faut que toujours la vertu règle tout.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1275'>Tu me la bailles belle avec ta pruderie.</l>
+
+	<l id='1276'>Enfin qu'attrape-t-on par la coquetterie,</l>
+
+	<l id='1277'>Et que sert la vertu que tu me veux prêcher,</l>
+
+	<l id='1278'>Si sous l'habit du vice on aime à la cacher  ?</l>
+
+	<l id='1279'>C'est être sage en vain que ne la point paraître.</l>
+
+	<l id='1280'>Pour moi, je sui pécheur autant qu'il le faut être,</l>
+
+	<l id='1281'>Et je ne sache rien qui me choque l'esprit,</l>
+
+	<l id='1282'>Comme se vendre au Diable, et s'y vendre à crédit.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1283'>Je pense, pour t'avoir, qu'il lui doit coûter bonne.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1284'>Ce n'est pas trop gratis, et fol est qui s'y donne.</l>
+
+	<l id='1285'>Mais enfin, bien plutôt que je n'eusse espéré.</l>
+
+	<l id='1286'>D'avec son grand Parleur mon Maître s'est tiré.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Fernand, Guzman, Béatrix. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1287'>Monsieur, on vous attend, mais cependant j'enrage</l>
+
+	<l id='1288'>D'être avant vous ici venu faire message ;</l>
+
+	<l id='1289'>Avec la Béatrix pour avoir babillé,</l>
+
+	<l id='1290'>Jusques aux intestins je me trouve grillé.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, faisant semblant de ne pas connaître Guzman.</speaker>
+
+	<l id='1291' part='i'>Que veut dire ce fou  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1291' part='f'>Ben, et grand bien vous fasse ;</l>
+
+	<l id='1292'>Voyez s'il y fait chaud, je vous quitte la place,</l>
+
+	<l id='1293'>Pour m'ôter de péril vous venez bien à point.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, le repoussant.</speaker>
+
+	<l id='1294'>Ami, les froids railleurs ne divertissent point,</l>
+
+	<l id='1295' part='i'>Retire-toi.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1295' part='f'>Chasser un homme de ma sorte  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1296'>Voyez qu'exprès pour vous j'attendais à la porte ;</l>
+
+	<l id='1297'>Mais comme je n'ai pas le don de deviner,</l>
+
+	<l id='1298'>Apprenez-moi quel nom il me faut vous donner.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1299'>Le mien est Dom Fernand, est-ce que l'on en doute  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1300'>Si vous ne vous nommez, Monsieur, on n'y voit goutte,</l>
+
+	<l id='1301' part='i'>Et quand Dom Dionis...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1301' part='f'>Encor Dom Dionis  ?</l>
+
+	<l id='1302'>Ces divertissements devraient être finis.</l>
+
+	<l id='1303'>Cet Objet inconnu qui me tait sa naissance,</l>
+
+	<l id='1304'>Me fait de ta Maîtresse implorer l'assistance,</l>
+
+	<l id='1305'>Et pour m'en éclaircir je suis ici venu.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1306'>Ainsi donc ce valet ne vous est pas connu  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1307'>Je ne le vis jamais, bien loin de le connaître.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1308'>Quoi, vous ne seriez pas Dom Dionis mon Maître  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, lui donnant un soufflet.</speaker>
+
+	<l id='1309' part='i'>Maraud tu peux railler  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1309' part='f'>Monsieur vous êtes prompt.</l>
+
+	<l id='1310'>Ah, devant Béatrix m'avoir fait un affront  ?</l>
+
+	<l id='1311' part='i'>J'en ai la rage au coeur.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1311' part='f'>Vous avez été vite.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1312'>Il aurait vu sans toi comme je m'en acquitte,</l>
+
+	<l id='1313'>Et si Dom Dionis m'a jamais ressemblé.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1314'>Peste de la figure, et du Maître Doublé.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, tirant sa bourse de sa poche.</speaker>
+
+	<l id='1315'>Mais avant que d'entrer, prends, et daigne me dire</l>
+
+	<l id='1316'>Pour quel charmant Objet mon triste coeur soupire ;</l>
+
+	<l id='1317'>Je crains de ta Maîtresse encor quelques refus.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1318'>Vous me voulez en vain éprouver là-dessus,</l>
+
+	<l id='1319'>Cet essai n'est pour vous qu'une faible ressource.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1320' part='i'>Mais...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1320' part='f'>Mon coeur est fermé, n'ouvrez point votre bourse.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1321' part='i'>Au moins...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1321' part='f'>Encor un coup ; Monsieur, je ne prends rien,</l>
+
+	<l id='1322' part='i'>Vous me connaissez mal.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1322' part='f'>Ô la fille de bien  !</l>
+
+	<l id='1323' part='i'>Elle est incorruptible.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1323' part='f'>Un présent t'épouvante  !</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1324'>Pourquoi, s'il m'en revient plus de mille de rentes  ?</l>
+
+	<l id='1325'>Mais il faut, quels qu'ils soient, pour les voir sans mépris,</l>
+
+	<l id='1326'>Que la galanterie en fasse tout le prix.</l>
+
+	<l id='1327'>Je veux qu'avec tant d'art son adresse en ordonne,</l>
+
+	<l id='1328'>Qu'on me soit obligé de tout ce qu'on me donne,</l>
+
+	<l id='1329'>Et qu'on fasse si bien, que le don accepté,</l>
+
+	<l id='1330'>Je semble avoir encor moins reçu que prêté.</l>
+
+	<l id='1331'>C'est assez que mon coeur connaît ce que j'en pense.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1332'>Pour tes adorateurs c'est trop de récompense ;</l>
+
+	<l id='1333'>Mais en ayant grand nombre, il est bien malaisé</l>
+
+	<l id='1334'>Qu'ils touchent vivement un coeur si divisé.</l>
+
+	<l id='1335'>De l'un par l'autre ainsi tu confonds le service.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1336'>L'Alphabet que j'en tiens à chacun rend justice,</l>
+
+	<l id='1337'>Et selon les degrés du mérite qu'il a,</l>
+
+	<l id='1338'>Pour ne confondre rien, je lui fais un Nota.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1339'>Le secret est galant pour ne s'y méprendre.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1340'>Nous avons obligé ma Maîtresse à descendre ;</l>
+
+	<l id='1341' part='i'>La voici qui paraît.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Fernand, Isabelle, Béatrix, Guzman. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1341' part='f'>Dois-je encor redouter</l>
+
+	<l id='1342'>L'erreur qui contre moi vous a fait emporter  ?</l>
+
+	<l id='1343'>L'ordre d'une inconnue à qui mon coeur se donne,</l>
+
+	<l id='1344'>Veut qu'à vos volontés Dom Fernand s'abandonne,</l>
+
+	<l id='1345'>Et dans l'obscur succès dont je presse la fin,</l>
+
+	<l id='1346'>Ce que vous résoudrez réglera mon destin.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1347'>Vous serez Dom Fernand, si vous le voulez être,</l>
+
+	<l id='1348'>Lorsque Dom Dionis aura voulu paraître ;</l>
+
+	<l id='1349'>Vous êtes tous les deux tant qu'on ne le voit pas.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1350'>Ne doutez plus, Madame, il n'est qu'à trente pas;</l>
+
+	<l id='1351'>Son Valet qu'il envoie en ôte tout scrupule.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1352' part='i'>Il ne me l'ôte pas.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1352' part='f'>Je suis moins incrédule,</l>
+
+	<l id='1353'>Et me suis trop senti de la contrefaçon.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1354'>Mais, Madame, pourquoi cet outrageant soupçon  ?</l>
+
+	<l id='1355'>Que pourrais-je espérer d'une lâche imposture  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1356'>Sans aucun intérêt je vois cette aventure ;</l>
+
+	<l id='1357'>Dionis ou Fernand, tout est égal pour moi,</l>
+
+	<l id='1358'>Je vous l'ai déjà dit, Dom Félix a ma foi ;</l>
+
+	<l id='1359'>Mais la Dame Inconnue à qui vous voulez plaire,</l>
+
+	<l id='1360'>Par beaucoup de raisons me doit être bien chère,</l>
+
+	<l id='1361'>Et si vous la trompez, je ne puis refuser</l>
+
+	<l id='1362'>D'employer tous mes soins à la désabuser.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1363'>Jamais fidélité n'approcha de la mienne.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1364'>Entrons, en attendant que Dom Dionis vienne ;</l>
+
+	<l id='1365'>C'est l'unique moyen de vous justifier.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='4'><head>SCÈNE IV. Isabelle, Dom Fernand, Béatrix, Guzman, Un Exempt, Suite de L'Exempt.</head>
+
+<sp who='L-EXEMPT'><speaker>L'EXEMPT, saisissant l'épée de Dom Fernand</speaker> 
+
+	<l id='1366'>Monsieur, de par le Roi, je vous fais prisonnier.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1367' part='i'>Moi  ?</l>
+
+</sp>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+
+	<l id='1367' part='m'>Vous-même.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1367' part='f'>Voyez quelle erreur est la vôtre,</l>
+
+	<l id='1368'>Messieurs, vous me prenez sans doute pour un autre.</l>
+
+</sp>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+
+	<l id='1369'>Dom Fernand d'Avalos nous est assez connu.</l>
+
+	<l id='1370'>Vous verrez le Décret contre vous obtenu.</l>
+
+	<l id='1371'>Votre Partie enfin a fait voir qu'à Grenade</l>
+
+	<l id='1372'>Vous avez fait tuer D. Lope d'Alvarade,</l>
+
+	<l id='1373'>Qu'un autre en est pour vous faussement accusé.</l>
+
+</sp>
+
+<sp who='GUZMAN'><speaker>GUZMAN, bas.</speaker>
+
+	<l id='1374'>Voici pour les surprendre un trait assez rusé,</l>
+
+	<l id='1375' part='i'>Il faut aider la Pièce.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1375' part='f'>Ah  ! Messieurs, je proteste...</l>
+
+</sp>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+
+	<l id='1376'>C'est aux Juges demain que vous direz le reste,</l>
+
+	<l id='1377'>Ces éclaircissements passent ma fonction.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1378'>Mais ne pourrait-il pas vous donner caution  ?</l>
+
+</sp>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+
+	<l id='1379'>Madame, à ces rigueurs la Justice est contrainte.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1380'>Messieurs, pour un soufflet, je couche aussi ma plainte.</l>
+
+</sp>
+<sp who='L-EXEMPT'><speaker>L'EXEMPT</speaker> 
+
+	<l id='1381' part='i'>Marchons sans faire éclat.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1381' part='f'>Me voilà satisfait ;</l>
+
+	<l id='1382'>Ah  ! Monsieur Dom Fernand, vous payerez le soufflet.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Isabelle.</speaker>
+
+	<l id='1383'>Je puis fort aisément prouver mon innocence ;</l>
+
+	<l id='1384'>Mais en vous cependant je mets mon espérance,</l>
+
+	<l id='1385'>Rendez-vous favorable à seconder mes voeux.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1386' part='i'>Je le verrai loger.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='5'><head>SCÈNE V. Isabelle, Béatrix. </head>
+
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1386' part='f'>Vous vous défierez d'eux,</l>
+
+	<l id='1387'>Et voudrez croire encor que le tout soit adresse  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1388'>Nomme ma défiance injustice ou faiblesse,</l>
+
+	<l id='1389'>Condamne sur mes sens ce qu'elle a de pouvoir,</l>
+
+	<l id='1390'>Dans ces occasions on n'en peut trop avoir.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1391'>Quoi, vous la croiriez juste, après ce qui se passe  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1392'>Je plains de Dom Fernand la fâcheuse disgrâce ;</l>
+
+	<l id='1393'>Mais crois-moi, ses détours vont être superflus,</l>
+
+	<l id='1394'>Puisqu'il est arrêté, Dom Dionis n'est plus.</l>
+
+	<l id='1395'>Son valet qui le suit fait voir le stratagème.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1396'>J'en avais cru d'abord la ressemblance extrême,</l>
+
+	<l id='1397'>Mais ici tout à l'heure, à le voir de plus près,</l>
+
+	<l id='1398'>J'ai fort bien remarqué qu'ils n'ont pas les mêmes traits.</l>
+
+	<l id='1399'>Qui s'y veut attacher, en voit la différence.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1400'>Tu seras toujours folle avec ta ressemblance.</l>
+
+	<l id='1401'>Enfin c'est Dom Juan qui t'a gâté l'esprit.</l>
+
+	<l id='1402'>Il n'est rien de plus vrai que ce qu'il nous dit  ?</l>
+
+	<l id='1403'>Voilà comme tu crois si tôt que l'on t'en conte</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1404'>Bien d'autres là-dessus ont la croyance prompte,</l>
+
+	<l id='1405'>Et quand je m'examine, au moins vois-je de quoi</l>
+
+	<l id='1406'>Mériter les soupirs qui s'adressent à moi.</l>
+
+	<l id='1407'>Qu'on en vienne aux transports, qu'on se plaigne, languisse,</l>
+
+	<l id='1408'>Pourquoi ne croire pas que l'on me rend justice  ?</l>
+
+	<l id='1409'>La fausse modestie est des faibles d'esprits ;</l>
+
+	<l id='1410'>Après tout, il est bon de connaître son prix.</l>
+
+	<l id='1411'>Quelques voeux dont chacun à l'envi nous accable,</l>
+
+	<l id='1412'>Qui croit en être digne, en devient plus aimable.</l>
+
+	<l id='1413'>Pour moi, qui sur moi-même ouvre assez bien les yeux,</l>
+
+	<l id='1414'>Je sais ce que je vaux, et j'en crois valoir mieux ;</l>
+
+	<l id='1415'>J'en prends un droit d'empire, un air de confiance,</l>
+
+	<l id='1416'>Qui force les plus fiers, et prend les coeurs d'avance,</l>
+
+	<l id='1417'>Un peu d'orgueil sied bien pour en venir à bout,</l>
+
+	<l id='1418'>Et pour grossir la troupe on fait armes de tout.</l>
+
+	<l id='1419'>Vous savez qu'en Amants je ne hais pas la foule,</l>
+
+	<l id='1420'>La beauté se flétrit, la jeunesse s'écoule,</l>
+
+	<l id='1421'>Et je tiens qu'en notre âge il faut sans consulter</l>
+
+	<l id='1422'>Prendre tout, au hasard de ce qui doit rester.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1423'>Je te souffre l'erreur qui t'a toujours flattée ;</l>
+
+	<l id='1424'>Mais dans mon coeur enfin la chose est arrêtée,</l>
+
+	<l id='1425'>Et quand Dom Dionis serait tel que tu crois,</l>
+
+	<l id='1426'>J'ai su pour Dom Félix déterminer mon choix.</l>
+
+	<l id='1427'>Son retour à Madrid que dans peu l'on espère,</l>
+
+	<l id='1428'>S'il est toujours le même, achèvera l'affaire,</l>
+
+	<l id='1429'>Et si pour Léonor j'étais hors de souci...</l>
+
+	<l id='1430' part='i'>Mais je vois Dom Juan.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Juan, Isabelle, Béatrix. </head>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1430' part='f'>Qui vous fait rire ainsi  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1431'>Je ris de l'embarras où depuis plus d'une heure</l>
+
+	<l id='1432'>Avec un vieil ami Dom Dionis demeure.</l>
+
+	<l id='1433'>Jamais plus de grands mots n'avaient encor si bien</l>
+
+	<l id='1434'>Fait voir le haut talent de nos diseurs de rien.</l>
+
+	<l id='1435'>Quoi que l'on ait pu dire, quoi qu'on ait pu faire,</l>
+
+	<l id='1436'>Il a fallu l'entendre, enrager, et se taire.</l>
+
+	<l id='1437'>Je les viens de laisser aux compliments d'adieu.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1438'>Dom Dionis ne fait que sortir de ce lieu.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1439' part='i'>Dom Dionis  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1439' part='m'>Lui-même.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1439' part='f'>Oui, sans doute, Madame,</l>
+
+	<l id='1440'>Je viens tâcher encor à surprendre votre âme,</l>
+
+	<l id='1441'>Mais me donnant la main, pour vous éclaircir mieux,</l>
+
+	<l id='1442'>À trente pas d'ici vous en croirez vos yeux.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1443'>J'y vais pour vous, Madame, Et si votre assurance...</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1444'>Il n'en est pas besoin, le voici qui s'avance.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='7'><head>SCÈNE VII. Dom Fernand, Dom Juan, Isabelle, Béatrix. </head>
+
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1445'>Et bien, voyez un peu les yeux de celui-ci.</l>
+
+	<l id='1446'>Madame, tout de bon l'autre est-il fait ainsi,</l>
+
+	<l id='1447'>Et si quelque rapport à douter vous engage,</l>
+
+	<l id='1448'>Pourriez-vous lui trouver même tour de visage  ?</l>
+
+	<l id='1449'>Ce front vous semble-t-il également ouvert  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1450'>Tout augmente mon trouble, et mon esprit s'y perd ;</l>
+
+	<l id='1451'>Mais tu doutes en vain, Béatrix, c'est le même.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1452'>Madame, on craint toujours quand l'amour est extrême,</l>
+
+	<l id='1453'>Et je vous dois paraître encor inquiété</l>
+
+	<l id='1454'>D'un fâcheux embarras qui m'a trop arrêté.</l>
+
+	<l id='1455'>J'appréhendais chez vous de m'être fait attendre,</l>
+
+	<l id='1456'>Mais je me trouve encor le premier à m'y rendre,</l>
+
+	<l id='1457'>Et votre Dom Fernand qu'on y faisait venir,</l>
+
+	<l id='1458'>Du moins, s'il s'en souvient, s'est laissé prévenir.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1459'>Dom Fernand est venu dégager sa parole.</l>
+
+	<l id='1460'>Vous pouvez là-dessus poursuivre votre rôle,</l>
+
+	<l id='1461'>Il vous laisse en état de bien l'exécuter.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1462'>J'ai lieu d'être surpris qu'on ait pu l'arrêter.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1463'>Quoi, pour votre intérêt vous voulez qu'il s'arrête,</l>
+
+	<l id='1464'>Quand le pouvoir du Roi rend son excuse prête  ?</l>
+
+	<l id='1465'>C'est pour n'y pas céder une trop juste loi.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1466'>Que dites-vous, Madame ? Il est mandé du Roi ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1467'>Que vous êtes adroit à bien donner le change  !</l>
+
+	<l id='1468'>Mais rien de votre part ne doit sembler au étrange,</l>
+
+	<l id='1469'>Et la fourbe est pour vous un don si naturel...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1470'>M'en accusez encor  ! Ce reproche est cruel,</l>
+
+	<l id='1471'>Si votre injuste erreur vous est toujours si chère,</l>
+
+	<l id='1472'>Que rien sans Dom Fernand ne vous peut satisfaire,</l>
+
+	<l id='1473'>Quoi qu'il vous opposât, deviez-vous consentir,</l>
+
+	<l id='1474'>Puisqu'il était chez vous, à le laisser sortir  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1475'>Le trait est si subtil, qu'il faut que je confesse</l>
+
+	<l id='1476'>Qu'on ne peut rien conduire avec plus de justesse,</l>
+
+	<l id='1477'>Et comme de l'Exempt je connaissais le nom,</l>
+
+	<l id='1478'>J'ai cru, vous arrêtant, que c'était tout de bon.</l>
+
+	<l id='1479' part='i'>Où l'avez-vous laissé  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1479' part='m'>Qui, Madame  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1479' part='f'>Hé de grâce,</l>
+
+	<l id='1480'>Faites voir ailleurs vos tours de passe-passe.</l>
+
+	<l id='1481'>L'on me dupe d'abord, mais j'en reviens soudain.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1482' part='i'>Qu'est-ce ci  ?</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN à Dom Fernand. </speaker>
+
+	<l id='1482' part='f'>Remettez la partie à demain.</l>
+
+	<l id='1483'>Aussi bien pour guérir l'erreur qui la possède,</l>
+
+	<l id='1484'>Vous voir tous deux ensemble est l'unique remède.</l>
+
+	<l id='1485'>Sans une telle preuve elle n'a point de foi.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1486' part='i'>Béatrix...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1486' part='f'>Elle voit son erreur comme moi,</l>
+
+	<l id='1487'>Mais l'obstination d'une Femme à combattre,</l>
+
+	<l id='1488'>Est un petit Démon qui fait le diable à quatre,</l>
+
+	<l id='1489'>Son esprit de longtemps n'en sera délivré.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='8'><head>SCÈNE VIII. Dom Fernand, Dom Juan, Isabelle, Guzman, Béatrix. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1490'>Enfin je suis content, le galant est coffré,</l>
+
+	<l id='1491'>S'il m'a pu souffleter, il en payera l'amende.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1492' part='i'>Tu l'as suivi, Guzman  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1492' part='f'>Suivi ? Belle demande !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1493' part='i'>Qui ? Parle, explique-toi.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1493' part='f'>Vous en serez surpris,</l>
+
+	<l id='1494'>Monsieur, votre Figure est un sot mal appris,</l>
+
+	<l id='1495' part='i'>Mai réjouissez-vous.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1495' part='f'>Quel sujet m'y convie ?</l>
+
+	<l id='1496' part='i'>Dis.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1496' part='f'>Vous serez roué bientôt en effigie ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1497' part='i'>Maraud...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1497' part='f'>Votre portrait, ce Dom Fernand maudit,</l>
+
+	<l id='1498'>D'un saut qu'on lui prépare a lieu d'être contrit ;</l>
+
+	<l id='1499'>Pour vol, brûlement, meurtre, on l'a mis en clôture.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1500' part='i'>On l'a saisi  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1500' part='f'>Demain il aura la torture...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1501'>Quoi, ce même Fernand qu'on dit me ressembler  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1502'>Le traître d'un soufflet a pensé m'accabler,</l>
+
+	<l id='1503'>Sa main pesante et large a grande expérience ;</l>
+
+	<l id='1504'>Je l'eusse pris pour vous sans cette différence,</l>
+
+	<l id='1505'>Tant sur vous, aux mains près, il est bien copié.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1506' part='i'>Il t'a battu ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1506' part='f'>Monsieur, j'en suis estropié;</l>
+
+	<l id='1507'>Mais si pareils soufflets sont toujours dans sa manche,</l>
+
+	<l id='1508'>Je prétends en avoir bientôt bonne revanche,</l>
+
+	<l id='1509'>Et venir des premiers ouïr son compliment,</l>
+
+	<l id='1510'>Quand il haranguera patibulairement.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1511'>Madame, après cela seriez-vous si cruelle,</l>
+
+	<l id='1512' part='i'>Que de douter encor...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1512' part='f'>Il était avec elle,</l>
+
+	<l id='1513'>Monsieur, quand au collet on l'est venu gripper.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1514'>Certes, je vous devrais aider à me duper  ?</l>
+
+	<l id='1515'>Mais personne jamais n'eut moindre complaisance,</l>
+
+	<l id='1516' part='i'>Vous perdez votre temps.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1516' part='f'>L'étrange défiance  !</l>
+
+	<l id='1517'>Vous voyez, vous oyez, et vous ne croyez rien.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1518'>Je crois tout, mais enfin je vous connais trop bien.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1519'>Quoi, c'est moi qu'en prison Guzman a vu conduire  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1520'>Guzman mérite bien que vous daigniez l'instruire  ?</l>
+
+	<l id='1521'>Il fait de vos leçons un merveilleux emploi.</l>
+
+	<l id='1522' part='i'>Tu l'as donc vu, Guzman  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1522' part='f'>Tout comme je vous vois.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1523' part='i'>Où l'a-t-on fait entrer  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1523' part='f'>À deux détours de rue,</l>
+
+	<l id='1524'>Ici... Mais la prison vous doit être connue.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1525' part='i'>Madame...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1525' part='f'>C'est assez, nous nous verrons demain,</l>
+
+	<l id='1526' part='i'>Adieu ; viens, Béatrix.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1526' part='f'>Quel est votre dessein  ?</l>
+
+	<l id='1527'>Au moins de quelque espoir daignez flatter ma flamme.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1528'>Vous avez déjà su le secret de mon âme,</l>
+
+	<l id='1529'>Ma foi pour Dom Félix toujours se soutiendra ;</l>
+
+	<l id='1530'>Et pour vos intérêts, le temps en résoudra.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='9'><head>SCÈNE IX. Dom Juan, Dom Fernand, Guzman. </head>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1531'>Elle a tant de soupçon de votre stratagème,</l>
+
+	<l id='1532'>Qu'elle ne veut enfin en croire qu'elle-même,</l>
+
+	<l id='1533'>Et si j'en juge bien, elle va maintenant</l>
+
+	<l id='1534'>Jusque dans la prison demander Dom Fernand.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1535' part='i'>Je le crois comme vous.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1535' part='f'>Elle aura beau s'en plaindre,</l>
+
+	<l id='1536'>Le Concierge a le mot, vous n'avez rien à craindre.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1537'>Non, si mon Inconnue avecque moi d'accord</l>
+
+	<l id='1538'>M'avait pour assurance expliqué son vrai sort.</l>
+
+	<l id='1539'>Je ne sais que résoudre à moins de la connaître.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1540'>Que chez votre Beau-père elle ait osé paraître  !</l>
+
+	<l id='1541'>Cet effort part d'un coeur profondément atteint.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1542'>Il en faut voir la fin, et l'amour m'y contraint,</l>
+
+	<l id='1543'>Mais comme j'en attends toujours quelque message,</l>
+
+	<l id='1544'>En vain votre parole à Dom Diègue m'engage,</l>
+
+	<l id='1545'>Je ne puis aujourd'hui me résoudre à le voir.</l>
+
+	<l id='1546'>Inventez quelque excuse, allez chez lui ce soir ;</l>
+
+	<l id='1547'>Pour en manquer pour moi vous avez trop d'adresse.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1548' part='i'>Il faut vous satisfaire.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1548' part='f'>Adieu donc, je vous laisse,</l>
+
+	<l id='1549'>D'Isabelle en ce lieu j'attendrai le retour.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='10'><head>SCÈNE X. Dom Juan, Guzman. </head>
+
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1550'>Monsieur, vous faites rage en matière d'amour ;</l>
+
+	<l id='1551'>Mais quand pour Dom Fernand vous prenez la parole,</l>
+
+	<l id='1552'>Vous pourriez retrancher quelque peu de ce rôle,</l>
+
+	<l id='1553'>J'y trouve, en le jouant, un endroit superflu.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1554' part='i'>Quel  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1554' part='f'>Celui du soufflet qui m'a très fort déplu.</l>
+
+	<l id='1555'>J'ai pensé m'oublier, vous frappez comme un diable.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1556'>C'est pour mieux conserver partout le vraisemblable.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1557'>On s'y doit attacher, mais il est certain cas</l>
+
+	<l id='1558'>Où vraisemblablement il ne me plairait pas ;</l>
+
+	<l id='1559'>J'en ai la conséquence, et me connais à vivre.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='11'><head>SCÈNE XI. Dom Fernand, Jacinte, Guzman.</head>
+
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1560'>Monsieur, on vous attend, et vous pouvez me suivre.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1561'>Ah  ! C'est toi. Que de joie à mon coeur amoureux  !</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1562'>Ma Maîtresse m'envoie, et vous êtes heureux.</l>
+
+	<l id='1563' part='i'>Venez sans différer.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1563' part='f'>L'agréable nouvelle  !</l>
+
+	<l id='1564' part='i'>Mais où la dois-je voir  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1564' part='f'>Vous la verrez chez elle.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1565' part='i'>Et l'obstacle du père  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1565' part='f'>Il est grand, mais enfin</l>
+
+	<l id='1566'>On tient ouverte exprès la porte du jardin.</l>
+
+	<l id='1567'>Ainsi vous entrerez sans qu'il le puisse apprendre.</l>
+
+	<l id='1568' part='i'>Suivez de quelque pas.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Gusman.</speaker>
+
+	<l id='1568' part='f'>J'avais raison d'attendre ;</l>
+
+	<l id='1569'>Tu vois avec quel soin on cherche à me parler.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1570'>Garde aussi le Vieillard pour vous mieux régaler.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+<div1 type='acte' n='5'><head>ACTE V</head>
+
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Isabelle, Léonor, Béatrix. </head>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1571'>La visite où pour vous ici je me dispense,</l>
+
+	<l id='1572'>Peut-être choquera l'exacte bienséance,</l>
+
+	<l id='1573'>Et quand pour Dom Félix on presse mon aveu,</l>
+
+	<l id='1574'>Je n'entre point chez vous sans en rougir un peu.</l>
+
+	<l id='1575'>Aussi quoi qu'à vous voir l'amitié m'autorise,</l>
+
+	<l id='1576'>Je ne m'en croirais pas la liberté permise,</l>
+
+	<l id='1577'>Si le voyant absent, je ne venais sans peur</l>
+
+	<l id='1578'>De rencontrer le Frère où je cherche la soeur.</l>
+
+	<l id='1579'>Vous m'avez confié votre secrète flamme,</l>
+
+	<l id='1580'>Et sachant ce que peut Dom Fernand sue votre âme,</l>
+
+	<l id='1581'>Ce serait mal répondre à ce que je vous dois,</l>
+
+	<l id='1582'>Que de vous refuser mon avis sur ce choix.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1583'>En l'état déplorable où l'amour m'a réduite,</l>
+
+	<l id='1584'>J'ai bien besoin qu'on m'aide à régler ma conduite.</l>
+
+	<l id='1585'>Cet époux qu'à Séville un père m'a choisi,</l>
+
+	<l id='1586'>Fait le chagrin mortel dont mon coeur est saisi.</l>
+
+	<l id='1587'>De moment en moment il doit ici paraître,</l>
+
+	<l id='1588'>Et pleine du désordre où vous me voyez être,</l>
+
+	<l id='1589'>J'ai mandé Dom Fernand pour résoudre avec lui</l>
+
+	<l id='1590'>Ce que mon feu du sien peut attendre d'appui.</l>
+
+	<l id='1591'>Comme il sait qui je suis, je n'ai plus lieu de feindre.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1592'>Donc à vous déclarer il a su vous contraindre  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1593'>Quoi, ce n'est pas de vous qu'il tient tout mon secret  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1594'>Peut-être pour le taire est-il assez discret ;</l>
+
+	<l id='1595'>Mais s'il l'a su de moi, j'ai mauvaise mémoire.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1596'>Ce qu'il a fait tantôt m'obligeait à le croire.</l>
+
+	<l id='1597'>De l'hymen qui me perd désespéré, jaloux,</l>
+
+	<l id='1598'>Afin d'y mettre obstacle, il est venu chez nous.</l>
+
+	<l id='1599'>À peine ai-je obtenu qu'il n'ait pas vu mon père.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1600'>Cette chaleur d'amour ne doit pas vous déplaire,</l>
+
+	<l id='1601'>Mais si son coeur pour vous nourrit des feux constants,</l>
+
+	<l id='1602'>Vous êtes en danger de l'attendre longtemps.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1603'>Quoi, vous doutez qu'ici Jacinte ne l'amène  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1604'>Je crains qu'à le trouver elle n'ait quelque peine,</l>
+
+	<l id='1605'>Tout à l'heure, à mes yeux, on vient de l'arrêter.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1606'>Quel rude revers avais-je à redouter  ?</l>
+
+	<l id='1607' part='i'>Que le Sort m'est cruel  !</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1607' part='f'>J'ai pourtant un scrupule,</l>
+
+	<l id='1608'>Qui sur ce point encor me laisse peu crédule.</l>
+
+	<l id='1609'>Je viens de la prison, où de tout mon pouvoir</l>
+
+	<l id='1610'>J'ai tâché, mais en vain, d'obtenir de le voir ;</l>
+
+	<l id='1611'>Le concierge en oppose une étroite défense.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1612'>Quel sujet avez-vous par là de défiance  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1613'>C'est que j'en ai beaucoup de me persuader</l>
+
+	<l id='1614'>Que jamais de la fourbe on ne sut mieux s'aider.</l>
+
+	<l id='1615'>Ce même Dom Fernand qui vous voit, qui vous aime,</l>
+
+	<l id='1616'>Doit être un Dionis qui m'en conte à moi-même,</l>
+
+	<l id='1617'>Ou s'il ne l'était pas, le rapport est si grand,</l>
+
+	<l id='1618'>Qu'il confond en effet plutôt qu'il ne surprend.</l>
+
+	<l id='1619'>Béatrix n'y peut voir pour tant de ressemblance.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1620'>J'en vois autant qu'il faut, et dis ce que je pense ;</l>
+
+	<l id='1621'>Mais que ce soit le même, à quoi bon s'alarmer  ?</l>
+
+	<l id='1622'>Vous suffira-t-il pas qu'il sache bien aimer  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1623'>En conter en tous lieux n'en est pas un bon signe.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1624'>De votre amour par là vous le croiriez indigne ;</l>
+
+	<l id='1625'>Ma foi, si la maxime avait lieu contre nous,</l>
+
+	<l id='1626'>S'il est bien des galants, il serait peu d'Époux.</l>
+
+	<l id='1627'>Se trouve-t-il encor de ces sottes cruelles</l>
+
+	<l id='1628'>Qui se fâchent d'ouïr que l'on se meurt pour elles,</l>
+
+	<l id='1629'>Et parmi tous nos droits, n'est-ce pas le plus vieux</l>
+
+	<l id='1630'>D'ouvrir presque l'oreille aussitôt que les yeux  ?</l>
+
+	<l id='1631'>Il n'est pour un Amant fidélité qui tienne,</l>
+
+	<l id='1632'>Tout ce qui flatte plaît, de quelque part qu'il vienne,</l>
+
+	<l id='1633'>On écoute, et fît-on magasin de vertu,</l>
+
+	<l id='1634'>Jamais pour des douceurs galant ne fut battu.</l>
+
+	<l id='1635'>Qu'on y trouve à redire après tout, qu'on y glose,</l>
+
+	<l id='1636'>La faculté d'ouïr est une belle chose,</l>
+
+	<l id='1637'>Et qui jugera bien des malheurs les plus hauts,</l>
+
+	<l id='1638'>Trouvera qu'être sourde est le plus grand des maux.</l>
+
+	<l id='1639'>Pour moi, que la fleurette a toujours réjouie,</l>
+
+	<l id='1640'>Je n'entretiens mes jours qu'au moyen de l'ouïe,</l>
+
+	<l id='1641'>Et j'en aurais déjà vu le cours arrêté,</l>
+
+	<l id='1642'>S'il m'en était échu quatre de surdité.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1643'>L'humeur de Béatrix n'aura jamais d'égale.</l>
+
+	<l id='1644'>Malgré mon déplaisir j'écoute sa Morale ;</l>
+
+	<l id='1645'>Mais elle adoucit peu ce que ma flamme craint,</l>
+
+	<l id='1646'>S'il faut que Dom Fernand soit tel qu'on me le peint.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1647'>Il me semble pourtant, que sans trop de mystère</l>
+
+	<l id='1648'>De tout ce que je dis la conséquence est claire.</l>
+
+	<l id='1649'>De même qu'en tous lieux il nous plaît d'écouter,</l>
+
+	<l id='1650'>Les hommes de leur part prennent droit d'en conter ;</l>
+
+	<l id='1651'>Mais de tant de galants dont la fleurette roule,</l>
+
+	<l id='1652'>Il en est toujours un qu'on met hors de la foule.</l>
+
+	<l id='1653'>Le coeur, quoi qu'il le cache, a son choix favori,</l>
+
+	<l id='1654'>On préfère, et c'est là ce qui fait un Mari.</l>
+
+	<l id='1655'>C'est ainsi qu'un Amant jamais ne se partage,</l>
+
+	<l id='1656'>Que quelqu'une en secret n'ait toujours son hommage,</l>
+
+	<l id='1657'>Et que ce Dom Fernand qui vous fait les yeux doux,</l>
+
+	<l id='1658'>Peut protester à cent, et n'adorer que vous.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1659'>Enfin de sa prison, ou fausse, ou véritable,</l>
+
+	<l id='1660'>Dépend de ce qu'il est la preuve indubitable ;</l>
+
+	<l id='1661'>C'est à quoi je m'arrête, et vous devez juger</l>
+
+	<l id='1662'>Qu'ici votre intérêt me peut seul engager.</l>
+
+	<l id='1663'>Je dois un coeur fidèle aux voeux de votre Frère,</l>
+
+	<l id='1664'>Et quand à tous Objets son amour me préfère,</l>
+
+	<l id='1665'>Le mien de ce qu'il vaut par ses respects instruit...</l>
+
+	<l id='1666'>Mais, Dieux  ! Je vois Jacinte, et Dom Fernand la suit.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1667'>Que me disiez-vous donc, et quelles conjectures...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1668'>Sur ce que vous savez prenez bien vos mesures.</l>
+
+<stage>À Béatrix. </stage>
+
+	<l id='1669'>Et bien  ? Ce n'est pas fourbe encor que sa prison  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1670'>À la fin je crains bien que vous n'ayez raison.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='2'><head>SCÈNE II. Isabelle, Léonor, Dom Fernand, Guzman, Jacinte, Béatrix. </head>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Guzman.</speaker>
+
+	<l id='1671'>Que je trouve Isabelle avec mon Inconnue  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1672'>Nous avons tous notre heure, et la vôtre est venue,</l>
+
+	<l id='1673'>Monsieur, c'est sans remède, il faut passer le pas.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR, à Dom Fernand.</speaker>
+
+	<l id='1674'>Vous voir est un bonheur que je n'attendais pas.</l>
+
+	<l id='1675'>Sur un bruit, Dom Fernand, qui m'avait mise en peine,</l>
+
+	<l id='1676'>J'avais lieu de tenir cette espérance vaine ;</l>
+
+	<l id='1677'>On parlait de disgrâce, et d'emprisonnement.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, montrant Isabelle.</speaker>
+
+	<l id='1678'>J'étais avec Madame en ce fâcheux moment,</l>
+
+	<l id='1679'>Mais comme dans la Cour contre la violence</l>
+
+	<l id='1680'>J'ai des Amis puissants qui prennent ma défense,</l>
+
+	<l id='1681'>À peine ont-ils appris que j'étais arrêté,</l>
+
+	<l id='1682'>Qu'ils ont fait de leur rang agir l'autorité.</l>
+
+	<l id='1683'>Leur parole donnée a causé ma sortie.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1684'>C'est avoir promptement dressé votre partie.</l>
+
+	<l id='1685'>Leur envoyer l'avis, prendre leur caution,</l>
+
+	<l id='1686'>Trouver, suivre Jacinte à l'assignation,</l>
+
+	<l id='1687'>Le tout en moins d'une heure, et dans un temps si juste,</l>
+
+	<l id='1688'>Qu'il semble qu'à vos voeux chaque moment s'ajuste ;</l>
+
+	<l id='1689'>Qui pour aller si vite a des ressorts tout prêts,</l>
+
+	<l id='1690'>S'il n'est quelque peu fourbe, a d'étranges secrets.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1691'>L'amour est un grand maître, et tout le favorise.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1692'>Mais tout à l'heure encor ce qui fait ma surprise,</l>
+
+	<l id='1693'>Le Concierge semblait n'avoir pas le pouvoir</l>
+
+	<l id='1694'>De souffrir seulement qu'un Ami vous pût voir.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1695'>C'est à quoi ma Partie avait su le contraindre ;</l>
+
+	<l id='1696'>Mais il a vu bientôt qu'il n'avait rien à craindre,</l>
+
+	<l id='1697'>Et trop de gens de marque ont répondu de moi.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1698'>Cependant il s'agit de prouver votre foi,</l>
+
+	<l id='1699'>On me la rend suspecte, et si je l'en veux croire,</l>
+
+	<l id='1700'>Je ne m'y puis fier sans hasarder ma gloire,</l>
+
+	<l id='1701'>Il doit faire mal sûr recevoir vos serments.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1702'>Elle a conçu de moi d'étranges sentiments  !</l>
+
+	<l id='1703'>Mais hélas  ! Se peut-il, que les ayant su prendre,</l>
+
+	<l id='1704'>Vous doutiez d'un amour et si pur et si tendre,</l>
+
+	<l id='1705'>Et qu'un soupçon indigne et de vous et de moi,</l>
+
+	<l id='1706'>Déshonorant mes voeux, fasse outrage à ma foi  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1707'>Je tâcherais en vain, Dom Fernand, de vous taire,</l>
+
+	<l id='1708'>Qu'un mouvement secret m'en rendit l'offre chère,</l>
+
+	<l id='1709'>Et que rien à mon coeur ne peut être plus doux,</l>
+
+	<l id='1710'>Que vous voir mériter ce qu'il ressent pour vous ;</l>
+
+	<l id='1711'>Mais réduite à l'hymen qu'un père me prépare</l>
+
+	<l id='1712'>Si contre mon devoir mon coeur ne se déclare,</l>
+
+	<l id='1713'>Songez que cet effort ne se doit hasarder</l>
+
+	<l id='1714'>Que pour prix d'une foi qu'on veuille me garder.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1715'>Ah  ! Si brûler pour vous ne fait toute ma gloire...</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1716'>Dans ce qu'on vous impute ai-je lieu de le croire  ?</l>
+
+	<l id='1717'>Tout ce que Dom Fernand me conte de douceurs,</l>
+
+	<l id='1718'>Dom Dionis, dit-on, le sait conter ailleurs.</l>
+
+	<l id='1719'>C'est sous deux divers noms que son coeur se partage.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1720'>Madame a contre moi rendu ce témoignage,</l>
+
+	<l id='1721'>Je connais quelle erreur m'attire son courroux,</l>
+
+	<l id='1722'>Mais je suis Dom Fernand, et je n'aime que vous.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1723'>Enfin de vos talents elle est bien informée.</l>
+
+	<l id='1724'>Qu'elle aime là-dessus, qu'elle se croie aimée,</l>
+
+	<l id='1725'>J'ai pour ses intérêts agi comme j'ai dû.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1726'>Et d'un soupçon si bas rien ne m'a défendu  ?</l>
+
+	<l id='1727'>Vous n'en voulez juger qu'à mon désavantage  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1728'>Mais de Dom Dionis connaissant le visage,</l>
+
+	<l id='1729'>Croirai-je qu'en effet elle ait pu s'abuser  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1730'>Elle est du moins trop prompte à vouloir m'accuser.</l>
+
+	<l id='1731'>Si l'on en croit le bruit dot elle a connaissance,</l>
+
+	<l id='1732'>Avec ce Dom Dionis j'ai quelque ressemblance,</l>
+
+	<l id='1733'>Et ce rapport de traits, sans doute surprenant,</l>
+
+	<l id='1734'>M'ôte dans son esprit le nom de Dom Fernand.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1735'>Un rapport si fidèle a grand lieu de surprendre.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1736'>Mais peut-il être tel, qu'on s'y puisse méprendre,</l>
+
+	<l id='1737'>Et que dans cet abus, la taille ni la voix...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1738'>L'autre, dit-on, Madame, est plus haut de deux doigts.</l>
+
+	<l id='1739'>Aucun ne nous a vus, qui dans la ressemblance</l>
+
+	<l id='1740'>N'ait marqué soudain beaucoup de différence,</l>
+
+	<l id='1741'>Et de la vérité soutenant l'intérêt,</l>
+
+	<l id='1742' part='i'>Béatrix vous dira que...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1742' part='f'>Non pas, s'il vous plaît.</l>
+
+	<l id='1743'>Avec tous vos détours vous m'aviez attrapé,</l>
+
+	<l id='1744'>Mais j'en vois l'artifice, et je suis dédupée.</l>
+
+	<l id='1745'>Vous savez donc ainsi vous faire prisonnier  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1746' part='i'>Quoi, pour me perdre mieux, veux-tu...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1746' part='f'>Point de quartier,</l>
+
+	<l id='1747'>Je connais ma sottise, elle en vaut bien une autre,</l>
+
+	<l id='1748'>Je le sais, mais ma foi, vous avouerez la vôtre,</l>
+
+	<l id='1749'>Et nous éclaircirons votre genre douteux.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1750'>Ce procédé pour vous n'a rien que de honteux.</l>
+
+	<l id='1751'>Partout, sous divers noms, faire intrigues nouvelles  ?</l>
+
+</sp>
+
+<sp who='GUZMAN'><speaker>GUZMAN, bas.</speaker> 
+
+	<l id='1752'>Le voilà justement le cul entre deux selles ;</l>
+
+	<l id='1753'>Pour en embrasser trop, il l'a bien mérité.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1754'>Ce reproche est sensible à ma fidélité ;</l>
+
+	<l id='1755'>Mais si quelques soupçons vous tiennent en balance,</l>
+
+	<l id='1756'>Le temps de mon amour prouvera la constance,</l>
+
+	<l id='1757'>Et des soins si pressants la feront éclater,</l>
+
+	<l id='1758'>Que vous n'aurez enfin aucun lieu d'en douter.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1759'>En vain cette assurance à mes soupçons s'oppose.</l>
+
+	<l id='1760'>Dom Dionis ailleurs promet la même chose,</l>
+
+	<l id='1761'>D'autres en ont ouï ce qu'il dit maintenant.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1762'>Laissez Dom Dionis, et croyez D .Fernand ;</l>
+
+	<l id='1763'>Je le suis, et ma foi vous en devrait répondre.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1764'>Mon doute me déplaît, je cherche à le confondre ;</l>
+
+	<l id='1765'>Mais peut-on refuser de croire ce qu'on voit  ?</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1766'>Puisqu'il veut l'être enfin consentez qu'il le soit,</l>
+
+	<l id='1767'>Madame, et seulement tâchons de savoir comme</l>
+
+	<l id='1768'>Il nous amène ici ce brave gentilhomme.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1769'>Je suis laquais d'honneur, et tu me fais grand tort.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1770' part='i'>C'est que m'ayant trouvé...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1770' part='f'>Parlez pour lui d'abord  !</l>
+
+	<l id='1771'>Vous viendrez au secours, s'il sait mal vous connaître.</l>
+
+	<l id='1772' part='i'>Parle, à qui donc es-tu  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1772' part='f'>Moi  ? Je suis à mon Maître.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1773' part='i'>Et c'est Dom Dionis, que ce Maître  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1773' part='f'>Il est vrai.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1774' part='i'>Est-ce lui que tu vois  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1774' part='f'>Si c'est lui  ? Je ne sais.</l>
+
+	<l id='1775'>Puis-je le démêler d'avecque sa figure  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1776'>Ce que j'ai dit, Madame, est la vérité pure ;</l>
+
+	<l id='1777'>Dom Dionis sans doute est un autre que moi.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1778'>Mais nous l'avons laissé tantôt avecque toi.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1779'>L'ayant quitté depuis, je ne sais plus qu'en dire,</l>
+
+	<l id='1780'>On me l'a pu changer, et j'en aurais le pire.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1781'>Mais tu l'aurais connu quand tu l'as abordé  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1782'>Je m'avançais vers lui quand je l'ai vu mandé.</l>
+
+	<l id='1783'>Ainsi j'ai cru devoir le suivre à l'aventure,</l>
+
+	<l id='1784'>Dom Dionis, tant mieux ; Dom Fernand, je l'abjure.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1785'>Pour les pouvoir surprendre, ils s'entendent trop bien.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1786'>Tous leurs déguisements ne vont servir de rien.</l>
+
+	<l id='1787'>Quand la coiffe abaissée, allant en Inconnue,</l>
+
+	<l id='1788'>J'ai trouvé ce matin Dom Fernand dans la rue ;</l>
+
+	<l id='1789'>Et que de ma Maîtresse il a lu le billet,</l>
+
+	<l id='1790'>Tu m'as complimentée, en fidèle Valet ;</l>
+
+	<l id='1791'>Tu disais ton avis, c'était alors ton Maître  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1792'>J'étais avecque lui  ? Moi  ? Cela ne peut-être,</l>
+
+	<l id='1793'>À moins que le doublant comme il paraît ici,</l>
+
+	<l id='1794'>Le Diable eût pris plaisir à me doubler aussi.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1795'>Quel impudent valet  ! Madame, je proteste...</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1796'>Enfin il faut ici jouer de votre reste.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Léonor.</speaker>
+
+	<l id='1797'>Tout semble avoir juré ma perte auprès de vous ;</l>
+
+	<l id='1798'>Mais je veux que du Ciel m'accable le courroux,</l>
+
+	<l id='1799' part='i'>Si je ne suis...</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1799' part='f'>Soyez tout ce qu'il vous plaît d'être,</l>
+
+	<l id='1800'>Loin de prendre intérêt encor à vous connaître,</l>
+
+	<l id='1801'>C'est un surcroît sensible à mes tristes ennuis,</l>
+
+	<l id='1802'>Qu'on vous ait malgré moi découvert qui je suis.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1803'>Moi, je le sais, Madame, et vous êtes capable</l>
+
+	<l id='1804'>De vouloir insulter au sort d'un misérable,</l>
+
+	<l id='1805'>Qui du plus pur amour se sentant consumer,</l>
+
+	<l id='1806'>Ignore en vous aimant qui le force d'aimer  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1807'>Quoi, jaloux d'un hymen que je n'ai pu vous taire,</l>
+
+	<l id='1808'>Vous n'êtes point venu pour parler à mon père,</l>
+
+	<l id='1809' part='i'>Lui proposer de rompre  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1809' part='f'>Où prendre sa maison  ?</l>
+
+	<l id='1810'>Où le chercher enfin si j'ignore son nom  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1811'>Ah  ! C'est trop soutenir un lâche stratagème.</l>
+
+	<l id='1812'>Nier obstinément ce que j'ai vu moi-même,</l>
+
+	<l id='1813'>Et de l'art de fourber se tenant glorieux,</l>
+
+	<l id='1814'>Démentir à la fois mon oreille et mes yeux  !</l>
+
+	<l id='1815'>Je n'en demande point une preuve plus forte,</l>
+
+	<l id='1816'>Adieu. Va du Jardin le remettre à la porte,</l>
+
+	<l id='1817'>Jacinte, je rougis de l'avoir écouté.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1818'>Je n'avouerai jamais ce qui m'est imputé ;</l>
+
+	<l id='1819'>Mais pour vous témoigner que ma flamme est sincère,</l>
+
+	<l id='1820'>Faites-moi tout à l'heure entretenir ce père,</l>
+
+	<l id='1821'>Qu'instruit de la naissance, il puisse examiner</l>
+
+	<l id='1822'>Si je vous ai rien dit qu'on doive soupçonner.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1823'>Enfin je ne veux point m'éclaircir davantage.</l>
+
+	<l id='1824'>Pour un autre à l'hymen sa parole m'engage,</l>
+
+	<l id='1825'>Il le veut, il l'ordonne, et je dois obéir.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1826'>Ô Ciel  ! Pour mon rival chercher à me trahir  !</l>
+
+	<l id='1827' part='i'>Madame, songez mieux...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1827' part='f'>Parlez bas, je vous prie ;</l>
+
+	<l id='1828'>Madame, le bonhomme est dans la galerie,</l>
+
+	<l id='1829' part='i'>Je crois qu'il vient ici.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1829' part='f'>Monsieur, tout est perdu.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1830'>Après ce que j'ai fait ce malheur m'est bien dû.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1831'>Songez à les cacher ; s'il faut qu'il les surprenne...</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1832' part='i'>Entrez ici...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1832' part='f'>Non, non, la prévoyance est vaine,</l>
+
+	<l id='1833'>En l'état où je suis il faut tout hasarder.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1834' part='i'>N'espérez pas...</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1834' part='f'>L'amour saura me seconder.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1835'>Donc à ne craindre rien le péril vous anime  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1836'>Bon pour lui, mais pour moi, qui suis pusillanime,</l>
+
+	<l id='1837'>Mesdames, n'est-il point dans ce mortel danger</l>
+
+	<l id='1838'>Quelque endroit charitable où me pouvoir loger  ?</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1839'>Je l'entends à sa toux, vous l'aller voir paraître,</l>
+
+	<l id='1840' part='i'>Entrez vite...</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1840' part='m'>Eh, Monsieur  !</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+<note type="C">"Paraître" rime avec "Croître" cr il s'orthographiait "Paroître".</note>
+
+	<l id='1840' part='f'>Mon malheur ne peut croître,</l>
+
+	<l id='1841'>Il faut avec éclat justifier ma foi.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1842' part='i'>Mais cet éclat me perd.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1842' part='f'>Dieux  ! Qu'est-ce que je vois  ?</l>
+
+	<l id='1843' part='i'>N'est-ce pas Dom Juan  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1843' part='f'>Et de plus le Beau-père.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1844' part='i'>Où suis-je, et que croirai-je  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1844' part='f'>Hélas  ! Que dois-je faire  ?</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1845'>Préparez quelque excuse, et je vous aiderai.</l>
+
+</sp>
+
+</div2>
+
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Diègue, Dom Juan, Isabelle, Léonor, Dom Fernand, Béatrix, Jacinte, Guzman. </head>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE, à Dom Diègue.</speaker>
+
+	<l id='1846'>D'où naît ce changement, si vous m'avez dit vrai  ?</l>
+
+	<l id='1847' part='i'>J'aperçois Dom Fernand.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND, à Dom Diègue.</speaker>
+
+	<l id='1847' part='m'>Ah : Monsieur.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1847' part='f'>Ah  ! Mon père,</l>
+
+	<l id='1848'>De ma témérité vous serez en colère ;</l>
+
+	<l id='1849' part='i'>Mais quand vous apprendrez...</l>
+
+</sp>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE.</speaker>
+
+	<l id='1849' part='f'>Je vois que tu rougis,</l>
+
+	<l id='1850'>D'avoir reçu sans moi Dom Fernand de Solis ;</l>
+
+	<l id='1851'>Mais le titre Époux qu'il a droit de prétendre,</l>
+
+	<l id='1852'>Souffre la liberté que nous te voyons prendre.</l>
+
+	<l id='1853'>Sans doute qu'à tes voeux mon choix a répondu  ?</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR, à Jacinte.</speaker>
+
+	<l id='1854'>Dom Fernand de Solis  ! Ai-je bien entendu  ?</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1855'>L'Inconnue est sa fille  ! Ah  ! Guzman, quelle gloire  !</l>
+
+</sp>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE.</speaker>
+
+	<l id='1856'>Si ton bonheur est tel que j'ai lieu de le croire,</l>
+
+	<l id='1857'>Il faut que je te loue au moins d'avoir eu soin</l>
+
+	<l id='1858'>Que l'aimable Isabelle en pût être témoin.</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1859'>Comme pour Léonor une forte tendresse</l>
+
+	<l id='1860'>Toujours dans son destin veut que je m'intéresse,</l>
+
+	<l id='1861'>Le choix de Dom Fernand ne peut m'être que cher,</l>
+
+	<l id='1862'>S'il est digne du coeur qu'il tâche de toucher.</l>
+
+</sp>
+
+<sp who='DOM-FERNAND'><speaker>DOM FERNAND.</speaker>
+
+	<l id='1863'>C'est dont je n'ose encor me souffrir l'espérance,</l>
+
+	<l id='1864'>Et ce doute cruel me réduit au silence.</l>
+
+	<l id='1865'>Madame, quoi qu'un ppère autorise mes voeux,</l>
+
+	<l id='1866'>Son aveu sans le vôtre en vain me rend heureux ;</l>
+
+	<l id='1867'>Mon coeur ne reconnaît que votre seul empire.</l>
+
+	<l id='1868' part='i'>Parlez expliquez-vous.</l>
+
+</sp>
+
+<sp who='LÉONOR'><speaker>LÉONOR.</speaker>
+
+	<l id='1868' part='f'>Je l'ai déjà su dire,</l>
+
+	<l id='1869'>Mon père ayant des droits que je ne puis trahir,</l>
+
+	<l id='1870'>S'il a choisi pour moi, je ne sais qu'obéir.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1871'>Ainsi par cet aveu votre soupçon s'efface.</l>
+
+	<l id='1872'>Mais de Dom Dionis obtiendrons-nous la grâce  ?</l>
+
+	<l id='1873' part='i'>Madame...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1873' part='f'>C'est assez, votre jeu concerté</l>
+
+	<l id='1874'>N'a pas surpris en moi trop de crédulité.</l>
+
+</sp>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE, à Isabelle.</speaker>
+
+	<l id='1875'>Enfin dans le bonheur qu'ici le Ciel m'envoie,</l>
+
+	<l id='1876'>Un mot de votre bouche achèverait ma joie.</l>
+
+	<l id='1877'>Madame, Dom Félix, dont j'attends le retour...</l>
+
+</sp>
+
+<sp who='ISABELLE'><speaker>ISABELLE.</speaker>
+
+	<l id='1878'>Vous m'avez pour répondre accordé plus d'un jour,</l>
+
+	<l id='1879'>Suffit que je l'estime, et que je ne puis taire</l>
+
+	<l id='1880'>Que la soeur près de moi peut beaucoup pour le Frère.</l>
+
+</sp>
+
+<sp who='DOM-DIEGUE'><speaker>DOM DIÈGUE.</speaker>
+
+	<l id='1881'>Je ne demande rien après ce doux espoir.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1882'>Il ne nous reste plus que Guzman à pourvoir ;</l>
+
+	<l id='1883'>C'est à lui de choisir entre les deux Suivantes.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1884' part='i'>Ah  ! Béatrix.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1884' part='m'>Et bien, est-ce fait  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1884' part='f'>Tu me tentes,</l>
+
+	<l id='1885'>Et si je m'arrêtais à jeter l'oeil sur toi,</l>
+
+	<l id='1886'>Le Diable pourrait bien être plus fin que moi.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1887' part='i'>Quoi, tu doutes  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1887' part='f'>Vois-tu  ? L'hymen dont tu me pries</l>
+
+	<l id='1888'>Doit durer un peu plus que tes friponneries.</l>
+
+	<l id='1889'>Pour un bail de six mois je pourrais hasarder,</l>
+
+	<l id='1890'>Mais ma foi, pour toujours, Dieu m'en veuille garder.</l>
+
+	<l id='1891'>Tous ces friands attraits qui parent ton visage,</l>
+
+	<l id='1892'>Sont meubles de haut prix mal propres au ménage,</l>
+
+	<l id='1893'>Et je tiendrais heureux qui les doit posséder,</l>
+
+	<l id='1894'>S'il ne fallait toujours que voir et regarder.</l>
+
+	<l id='1895'>Mais, chère Béatrix, qui sous l'hymen se range,</l>
+
+	<l id='1896'>Fait tout comme un autre homme, il boit encor et mange.</l>
+
+	<l id='1897' part='i'>Partant, Jacinte, tiens.</l>
+
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker> 
+
+	<l id='1897' part='f'>Tu la quittes pour moi  ?</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1898' part='i'>Va, touche.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1898' part='f'>Pauvre fou  ! J'aurais voulu de toi  ?</l>
+
+	<l id='1899'>Dans quelle folle erreur ton esprit s'enveloppe  !</l>
+
+	<l id='1900'>Sais-tu que j'ai fait tirer ton horoscope,</l>
+
+	<l id='1901'>Et que le moindre honneur qui me puisse être acquis</l>
+
+	<l id='1902'>C'est avant qu'il soit peu d'épouser un Marquis  ?</l>
+
+	<l id='1903' part='i'>Peut-être même un Duc, ou plus.</l>
+
+</sp>
+<sp who='GUZMAN'><speaker>GUZMAN.</speaker> 
+
+	<l id='1903' part='f'>Le doux augure  !</l>
+
+	<l id='1904'>Bonsoir, belle Marquise, ou Duchesse future.</l>
+
+	<l id='1905' part='i'>Le Ciel...</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1905' part='f'>Va, Béatrix, n'écoute plus ce fat,</l>
+
+	<l id='1906'>Je vais faire ériger ma terre en Marquisat,</l>
+
+	<l id='1907'>Et si dans ce temps-là ta foi n'est point promise,</l>
+
+	<l id='1908'>Prends-en la mienne ici, je te ferai Marquise.</l>
+
+	<l id='1909'>Comme en toi je choisis l'objet le plus parfait,</l>
+
+	<l id='1910'>J'en sais qui m'ont trouvé peut-être assez bien fait,</l>
+
+	<l id='1911'>Je plais où je veux plaire, et suis assez de mise.</l>
+
+</sp>
+<sp who='BEATRIX'><speaker>BÉATRIX.</speaker> 
+
+	<l id='1912'>Nous n'avons pas besoin tous deux qu'on nous le dise,</l>
+
+	<l id='1913'>Et si je crois valoir qu'on ait des yeux pour moi</l>
+
+	<l id='1914'>Vous avez pour vous-même autant de bonne foi.</l>
+
+	<l id='1915'>Mais, à bien prendre tout, quoi qu'un peu plus grand' Dame,</l>
+
+	<l id='1916'>Je n'en serais pas mieux pour être votre Femme,</l>
+
+	<l id='1917'>Et nous n'irions pas loin ensemble à communs frais,</l>
+
+	<l id='1918'>Qu'il ne fût question de venir au rabais.</l>
+
+	<l id='1919'>De l'humeur dont je suis, de l'humeur dont vous êtes,</l>
+
+	<l id='1920'>Je crois qu'assez souvent nous ferions bourses nettes.</l>
+
+	<l id='1921'>Nous sommes en défauts opposés tant soit peu,</l>
+
+	<l id='1922'>J'aime fort la dépense, et vous aimez le jeu.</l>
+
+	<l id='1923'>L'un de l'autre par là nous nous verrions les dupes ;</l>
+
+	<l id='1924'>Je voudrais de l'argent pour acheter des jupes,</l>
+
+	<l id='1925'>Et loin de m'en fournir comme j'aurais pensé,</l>
+
+	<l id='1926'>Peut-être ce jour-là vous auriez tout massé ;</l>
+
+	<l id='1927'>Un point, ou de Venise, ou de quelque autre mode,</l>
+
+<note type="L">Tope et tingue : terme de jeu de dés venant de l'espagnol "toppo et tinguo".</note>
+
+	<l id='1928'>Serait d'un tope et tingue une suite incommode,</l>
+
+	<l id='1929'>Et vous enrageriez cent fois tout votre saoul,</l>
+
+	<l id='1930'>Quand vous me verriez brave, et n'auriez pas le sou.</l>
+
+	<l id='1931'>Si la nécessité se trouvait trop pressante,</l>
+
+	<l id='1932'>On prendrait au besoin un peu d'argent en rente,</l>
+
+	<l id='1933'>La somme doublerait, elle ferait éclat,</l>
+
+	<l id='1934'>Et la terre saisie, adieu le Marquisat.</l>
+
+	<l id='1935'>Voilà comme le tout s'en irait en fumée.</l>
+
+</sp>
+
+<sp who='DOM-JUAN'><speaker>DOM JUAN.</speaker>
+
+	<l id='1936'>Je n'ai pas avec toi méchante renommée.</l>
+
+	<l id='1937'>Puisque tu me connais, n'allons pas plus avant,</l>
+
+	<l id='1938'>Aussi bien nous pourrions nous quereller souvent,</l>
+
+	<l id='1939'>Au lieu que demeurant aux termes où nous sommes,</l>
+
+	<l id='1940'>Tu verras que je suis le plus ardent des hommes,</l>
+
+	<l id='1941'>Et que tant que le jeu me laissera de quoi,</l>
+
+	<l id='1942'>Si tu prends à crédit, j'irai payer pour toi.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

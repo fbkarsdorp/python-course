@@ -1,0 +1,3529 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA SUITE DU MENTEUR, COMÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1645</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA SUITE DU MENTEUR</titlePart>
+			<titlePart type="sub">COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1645'>1645</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Pierre Corneille</docAuthor>
+		<docImprint>
+			<privilege id='166*-**-**'></privilege>
+			<acheveImprime id='166*-**-**'></acheveImprime>
+			<printer id='*'></printer>
+		</docImprint>
+		<performance>	
+			<premiere date='1644' location='Théâtre du Marais'>Première représentation en 1644 au Théâtre du Marais.</premiere>
+		</performance>
+		<castList>
+			<head>ACTEURS</head>
+			<castItem><role id="DORANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DORANTE</role>.</castItem>
+			<castItem><role id="CLITON" civil="M" type="H" statut='valet' age='A' stat_amour='néant'>CLITON</role>, valet de Dorante.</castItem>
+			<castItem><role id="CLÉANDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, gentilhomme de Lyon.</castItem>
+			<castItem><role id="MÉLISSE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉLISSE</role>, soeur de Cléandre.</castItem>
+			<castItem><role id="PHILISTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILISTE</role>, ami de Dorante et amoureux de Mélisse.</castItem>
+			<castItem><role id="LYSE" civil="F" type="H" statut='femme de chambre' age='A' stat_amour='néant'>LYSE</role>, femme de chambre de Mélisse.</castItem>
+			<castItem><role id="PREVOT" civil="M" type="H" statut='prévôt' age='A' stat_amour='néant'>UN PRÉVÔT</role>.</castItem>
+		</castList>
+		<set location='Lyon' country='France' periode='XVIIème' link=''>La scène est à Lyon.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dorante, Cliton.</head>
+<stage>Dorante paraît écrivant dans une prison et le geôlier ouvrant la porte à Cliton et le lui montrant.</stage>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1" part="i">Ah ! Monsieur, c'est donc vous ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1" part="f">Cliton, je te revois !</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="2">Je vous trouve, monsieur, dans la maison du roi !</l>
+	<l id="3">Quel charme, quel désordre, ou quelle raillerie,</l>
+	<l id="4">Des prisons de Lyon fait votre hôtellerie ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="5">Tu le sauras tantôt. Mais qui t'amène ici ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="6" part="i">Les soins de vous chercher.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="6" part="f">Tu prends trop de souci ;</l>
+	<l id="7">Et bien qu'après deux ans ton devoir s'en avise,</l>
+	<l id="8">Ta rencontre me plaît, j'en aime la surprise :</l>
+	<l id="9">Ce devoir, quoique tard, enfin s'est éveillé.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="10">Et qui savait, monsieur, où vous étiez allé ?</l>
+	<l id="11">Vous ne nous témoigniez qu'ardeur et qu'allégresse,</l>
+	<l id="12">Qu'impatients désirs de posséder Lucrèce ;</l>
+	<l id="13">L'argent était touché, les accords publiés,</l>
+	<l id="14">Le festin commandé, les parents conviés,</l>
+	<l id="15">Les violons choisis, ainsi que la journée :</l>
+	<l id="16">Rien ne semblait plus sûr qu'un si proche hyménée ;</l>
+	<l id="17">Et parmi ces apprêts, la nuit d'auparavant,</l>
+	<l id="18">Vous sûtes faire gille, et fendîtes le vent.</l>
+	<l id="19">Comme il ne fut jamais d'éclipse plus obscure,</l>
+	<l id="20">Chacun sur ce départ forma sa conjecture :</l>
+	<l id="21">Tous s'entre-regardaient, étonnés, ébahis ;</l>
+	<l id="22">L'un disait : "Il est jeune, il veut voir le pays ; "</l>
+	<l id="23">L'autre : "Il s'est allé battre, il a quelque querelle ; "</l>
+	<l id="24">L'autre d'une autre idée embrouillait sa cervelle ;</l>
+	<l id="25">Et tel vous soupçonnait de quelque guérison</l>
+	<l id="26">D'un mal privilégié dont je tairai le nom.</l>
+	<l id="27">Pour moi, j'écoutais tout, et mis dans mon caprice</l>
+	<l id="28">Qu'on ne devinait rien que par votre artifice.</l>
+	<l id="29">Ainsi ce qui chez eux prenait plus de crédit</l>
+	<l id="30">M'était aussi suspect que si vous l'eussiez dit ;</l>
+	<l id="31">Et tout simple et doucet, sans chercher de finesse,</l>
+	<l id="32">Attendant le boiteux, je consolais Lucrèce.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="33">Je l'aimais, je te jure ; et pour la posséder,</l>
+	<l id="34">Mon amour mille fois voulut tout hasarder ;</l>
+	<l id="35">Mais quand j'eus bien pensé que j'allais à mon âge</l>
+	<l id="36">Au sortir de Poitiers entrer au mariage,</l>
+	<l id="37">Que j'eus considéré ses chaînes de plus près,</l>
+	<l id="38">Son visage à ce prix n'eut plus pour moi d'attraits :</l>
+	<l id="39">L'horreur d'un tel lien m'en fit de la maîtresse ;</l>
+	<l id="40">Je crus qu'il fallait mieux employer ma jeunesse,</l>
+	<l id="41">Et que quelques appas qui pussent me ravir,</l>
+	<l id="42">C'était mal en user que sitôt m'asservir.</l>
+	<l id="43">Je combats toutefois ; mais le temps qui s'avance</l>
+	<l id="44">Me fait précipiter en cette extravagance ;</l>
+	<l id="45">Et la tentation de tant d'argent touché</l>
+	<l id="46">M'achève de pousser où j'étais trop penché.</l>
+	<l id="47">Que l'argent est commode à faire une folie !</l>
+	<l id="48">L'argent me fait résoudre à courir l'Italie.</l>
+	<l id="49">Je pars de nuit en poste, et d'un soin diligent</l>
+	<l id="50">Je quitte la maîtresse, et j'emporte l'argent.</l>
+	<l id="51">Mais, dis-moi, que fit-elle, et que dit lors son père ?</l>
+	<l id="52">Le mien, ou je me trompe, était fort en colère ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="53">D'abord de part et d'autre on vous attend sans bruit ;</l>
+	<l id="54">Un jour se passe, deux, trois, quatre, cinq, six, huit ;</l>
+	<l id="55">Enfin, n'espérant plus, on éclate, on foudroie.</l>
+	<l id="56">Lucrèce par dépit témoigne de la joie,</l>
+	<l id="57">Chante, danse, discourt, rit ; mais, sur mon honneur !</l>
+	<l id="58">Elle enrageait, monsieur, dans l'âme, et de bon coeur.</l>
+	<l id="59">Ce grand bruit s'accommode, et pour plâtrer l'affaire,</l>
+	<l id="60">La pauvre délaissée épouse votre père,</l>
+	<l id="61">Et rongeant dans son coeur son déplaisir secret,</l>
+	<l id="62">D'un visage content prend le change à regret.</l>
+	<l id="63">L'éclat d'un tel affront l'ayant trop décriée</l>
+	<l id="64">Il n'est à son avis que d'être mariée ;</l>
+	<l id="65">Et comme en un naufrage on se prend où l'on peut,</l>
+	<l id="66">En fille obéissante elle veut ce qu'on veut.</l>
+	<l id="67">Voilà donc le bonhomme enfin à sa seconde,</l>
+	<l id="68">C'est-à-dire qu'il prend la poste à l'autre monde ;</l>
+	<l id="69">Un peu moins de deux mois le met dans le cercueil.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="70">J'ai su sa mort à Rome, où j'en ai pris le deuil.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="71">Elle a laissé chez vous un diable de ménage :</l>
+	<l id="72">Ville prise d'assaut n'est pas mieux au pillage ;</l>
+	<l id="73">La veuve et les cousins, chacun y fait pour soi,</l>
+	<l id="74">Comme fait un traitant pour les deniers du roi :</l>
+	<l id="75">Où qu'ils jettent la main ils font rafles entières ;</l>
+	<l id="76">Ils ne pardonnent pas même au plomb des gouttières ;</l>
+	<l id="77">Et ce sera beaucoup si vous trouvez chez vous,</l>
+	<l id="78">Quand vous y rentrerez, deux gonds et quatre clous.</l>
+	<l id="79">J'apprends qu'on vous a vu cependant à Florence.</l>
+	<l id="80">Pour vous donner avis je pars en diligence ;</l>
+	<l id="81">Et je suis étonné qu'en entrant dans Lyon</l>
+	<l id="82">Je vois courir du peuple avec émotion.</l>
+	<l id="83">Je veux voir ce que c'est ; et je vois, ce me semble,</l>
+	<l id="84">Pousser dans la prison quelqu'un qui vous ressemble,</l>
+	<l id="85">On m'y permet l'entrée ; et vous trouvant ici,</l>
+	<l id="86">Je trouve en même temps mon voyage accourci.</l>
+	<l id="87">Voilà mon aventure, apprenez-moi la vôtre.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="88">La mienne est bien étrange, on me prend pour un autre.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="89">J'eusse osé le gager. Est-ce meurtre ou larcin ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="90">Suis-je fait en voleur ou bien en assassin ?</l>
+	<l id="91">Traître, en ai-je l'habit, ou la mine, ou la taille ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="92">Connaît-on à l'habit aujourd'hui la canaille,</l>
+	<l id="93">Et n'est-il point, monsieur, à Paris de filous</l>
+	<l id="94">Et de taille et de mine aussi bonnes que vous ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="95">Tu dis vrai, mais écoute. Après une querelle</l>
+	<l id="96">Qu'à Florence un jaloux me fit pour quelque belle,</l>
+	<l id="97">J'eus avis que ma vie y courait du danger :</l>
+	<l id="98">Ainsi donc sans trompette il fallut déloger.</l>
+	<l id="99">Je pars seul et de nuit, et prends ma route en France,</l>
+	<l id="100">Où, sitôt que je suis en pays d'assurance,</l>
+	<l id="101">Comme d'avoir couru je me sens un peu las,</l>
+	<l id="102">J'abandonne la poste, et viens au petit pas.</l>
+	<l id="103">Approchant de Lyon, je vois dans la campagne...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="104">N'aurons-nous point ici de guerres d'Allemagne ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="105" part="i">Que dis-tu ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="105" part="f">Rien, monsieur, je gronde entre mes dents</l>
+	<l id="106">Du malheur qui suivra ces rares incidents ;</l>
+	<l id="107">J'en ai l'âme déjà toute préoccupée.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="108">Donc à deux cavaliers je vois tirer l'épée ;</l>
+	<l id="109">Et pour en empêcher l'événement fatal,</l>
+	<l id="110">J'y cours la mienne au poing, et descends de cheval.</l>
+	<l id="111">L'un et l'autre, voyant à quoi je me prépare,</l>
+	<l id="112">Se hâte d'achever avant qu'on les sépare,</l>
+	<l id="113">Presse sans perdre temps, si bien qu'à mon abord</l>
+	<l id="114">D'un coup que l'un allonge, il blesse l'autre à mort</l>
+	<l id="115">Je me jette au blessé, je l'embrasse, et j'essaie</l>
+	<l id="116">Pour arrêter son sang de lui bander sa plaie ;</l>
+	<l id="117">L'autre, sans perdre temps en cet événement,</l>
+	<l id="118">Saute sur mon cheval, le presse vivement,</l>
+	<l id="119">Disparaît, et mettant à couvert le coupable,</l>
+	<l id="120">Me laisse auprès du mort faire le charitable.</l>
+	<l id="121">Ce fut en cet état, les doigts de sang souillés,</l>
+	<l id="122">Qu'au bruit de ce duel trois sergents éveillés,</l>
+	<l id="123">Tous gonflés de l'espoir d'une bonne lippée,</l>
+	<l id="124">Me découvrirent seul, et la main à l'épée.</l>
+	<l id="125">Lors, suivant du métier le serment solennel,</l>
+	<l id="126">Mon argent fut pour eux le premier criminel ;</l>
+	<l id="127">Et s'en étant saisis aux premières approches,</l>
+	<l id="128">Ces messieurs pour prison lui donnèrent leurs poches,</l>
+	<l id="129">Et moi, non sans couleur, encore qu'injustement,</l>
+	<l id="130">Je fus conduit par eux en cet appartement.</l>
+	<l id="131">Qui te fait ainsi rire, et qu'est-ce que tu penses ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="132">Je trouve ici, monsieur, beaucoup de circonstances :</l>
+	<l id="133">Vous en avez sans doute un trésor infini ?</l>
+	<l id="134">Votre hymen de Poitiers n'en fut pas mieux fourni ;</l>
+	<l id="135">Et le cheval surtout vaut, en cette rencontre,</l>
+	<l id="136">Le pistolet ensemble, et l'épée, et la montre.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="137">Je me suis bien défait de ces traits d'écolier</l>
+	<l id="138">Dont l'usage autrefois m'était si familier ;</l>
+	<l id="139">Et maintenant, Cliton, je vis en honnête homme.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="140">Vous êtes amendé du voyage de Rome ;</l>
+	<l id="141">Et votre âme en ce lieu, réduite au repentir,</l>
+	<l id="142">Fait mentir le proverbe en cessant de mentir.</l>
+	<l id="143" part="i">Ah ! J'aurais plutôt cru...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="143" part="f">Le temps m'a fait connaître</l>
+	<l id="144">Quelle indignité c'est, et quel mal en peut naître.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="145">Quoi ! Ce duel, ces coups si justement portés,</l>
+	<l id="146" part="i">Ce cheval, ces sergents...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="146" part="f">Autant de vérités.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="147">J'en suis fâché pour vous, monsieur, et surtout d'une,</l>
+	<l id="148">Que je ne compte pas à petite infortune :</l>
+	<l id="149">Vous êtes prisonnier, et n'avez point d'argent ;</l>
+	<l id="150" part="i">Vous serez criminel.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="150" part="f">Je suis trop innocent.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="151">Ah ! Monsieur, sans argent est-il de l'innocence ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="152">Fort peu ; mais dans ces murs Philiste a pris naissance,</l>
+	<l id="153">Et comme il est parent des premiers magistrats,</l>
+	<l id="154">Soit d'argent, soit d'amis, nous n'en manquerons pas.</l>
+	<l id="155">J'ai su qu'il est en ville, et lui venais d'écrire</l>
+	<l id="156">Lorsqu'ici le concierge est venu t'introduire.</l>
+	<l id="157" part="i">Va lui porter ma lettre.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="157" part="f">Avec un tel secours</l>
+	<l id="158">Vous serez innocent avant qu'il soit deux jours.</l>
+	<l id="159">Mais je ne comprends rien à ces nouveaux mystères :</l>
+	<l id="160">Les filles doivent être ici fort volontaires ;</l>
+	<l id="161">Jusque dans la prison elles cherchent les gens.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dorante, Cliton, Lyse.</head>
+<sp who="CLITON"><speaker>CLITON à Lyse.</speaker>
+	<l id="162">Il ne fait que sortir des mains de trois sergents ;</l>
+	<l id="163">Je t'en veux avertir : un fol espoir te trouble ;</l>
+	<l id="164">Il cajole des mieux, mais il n'a pas le double.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="165" part="i">J'en apporte pour lui.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="165" part="f">Pour lui ! Tu m'as dupé ;</l>
+	<l id="166">Et je doute sans toi si nous aurions soupé.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="167">Avec ce passe-port suis-je la bienvenue ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="168">Tu nous vas à tous deux donner dedans la vue.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="169" part="i">Ai-je bien pris mon temps ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="169" part="f">Le mieux qu'il se pouvait.</l>
+	<l id="170">C'est une honnête fille, et Dieu nous la devait :</l>
+	<l id="171" part="i">Monsieur, écoutez-la.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="171" part="m">Que veut-elle ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="171" part="f">Une dame</l>
+	<l id="172">Vous offre en cette lettre un coeur tout plein de flamme.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="173" part="i">Une dame ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="173" part="f">Lisez sans faire de façons :</l>
+	<l id="174">Dieu nous aime, monsieur, comme nous sommes bons ;</l>
+	<l id="175">Et ce n'est pas là tout, l'amour ouvre son coffre,</l>
+	<l id="176">Et l'argent qu'elle tient vaut bien le coeur qu'elle offre.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, lit.</speaker>
+	<p id="1">Au bruit du monde qui vous conduisait prisonnier, j'ai
+mis les yeux à la fenêtre, et vous ai trouvé de si bonne
+mine, que mon coeur est allé dans la même prison que
+vous, et n'en veut point sortir tant que vous y serez. Je
+ferai mon possible pour vous en tirer au plus tôt. Cependant
+obligez-moi de vous servir de ces cent pistoles que
+je vous envoie : vous en pouvez avoir besoin en l'état où
+vous êtes, et il m'en demeure assez d'autres à votre service.</p>
+	<l id="177" part="i">Cette lettre est sans nom.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="177" part="f">Les mots en sont français.</l>
+<stage>À Lyse.</stage>
+	<l id="178">Dis-moi, sont-ce louis, ou pistoles de poids ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="179" part="i">Tais-toi.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="179" part="f">Pour ma maîtresse il est de conséquence</l>
+	<l id="180">De vous taire deux jours son nom et sa naissance :</l>
+	<l id="181">Ce secret trop tôt su peut la perdre d'honneur.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="182">Je serai cependant aveugle en mon bonheur ?</l>
+	<l id="183">Et d'un si grand bienfait j'ignorerai la source ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, à Dorante.</speaker>
+	<l id="184">Curiosité bas, prenons toujours la bourse :</l>
+	<l id="185">Souvent c'est perdre tout que vouloir tout savoir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE, à Dorante.</speaker>
+	<l id="186" part="i">Puis-je la lui donner ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, à Lyse.</speaker>
+	<l id="186" part="f">Donne, j'ai tout pouvoir,</l>
+	<l id="187">Quand même ce serait le trésor de Venise.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="188" part="i">Tout beau, tout beau, Cliton, il nous faut...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="188" part="f">Lâcher prise ?</l>
+	<l id="189" part="i">Quoi ? C'est ainsi, monsieur...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="189" part="f">Parleras-tu toujours ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="190">Et voulez-vous du ciel renvoyer le secours ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="191">Accepter de l'argent porte en soi quelque honte.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="192">Je m'en charge pour vous, et la prends pour mon conte.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, à Lyse.</speaker>
+	<l id="193" part="i">Écoute un mot.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="193" part="f">Je tremble, il va la refuser.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="194" part="i">Ta maîtresse m'oblige.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="194" part="f">Il en veut mieux user.</l>
+	<l id="195" part="i">Oyons.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="195" part="f">Sa courtoisie est extrême et m'étonne ;</l>
+	<l id="196" part="i">Mais...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="196" part="m">Le diable de mais !</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="196" part="f">Mais qu'elle me pardonne...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="197" part="i">Je me meurs, je suis mort.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="197" part="f">Si j'en change l'effet,</l>
+	<l id="198">Et reçois comme un prêt le don qu'elle me fait.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="199">Je suis ressuscité ; prêt ou don, ne m'importe.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, à Cliton, et puis Lyse.</speaker>
+	<l id="200">Prends. Je le lui rendrai même avant que je sorte.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, à Lyse.</speaker>
+	<l id="201">Écoute un mot : tu peux t'en aller à l'instant,</l>
+	<l id="202">Et revenir demain avec encore autant ;</l>
+	<l id="203">Et vous, monsieur, songez à changer de demeure :</l>
+	<l id="204">Vous serez innocent avant qu'il soit une heure.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="205">Ne me romps plus la tête ; et toi, tarde un moment :</l>
+	<l id="206">J'écris à ta maîtresse un mot de compliment.</l>
+<stage>Dorante va écrire sur la table.</stage>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="207">Dirons-nous cependant deux mots de guerre ensemble ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="208" part="i">Disons.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="208" part="m">Contemple-moi.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="208" part="m">Toi ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="208" part="f">Oui, moi. Que t'en semble ?</l>
+	<l id="209" part="i">Dis.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="209" part="f">Que tout vert et rouge, ainsi qu'un perroquet,</l>
+<note type="L">Caquet : Abondance de paroles inutiles qui n'ont point de solidité. [F] </note>
+	<l id="210">Tu n'es que bien en cage, et n'as que du caquet.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="211" part="i">Tu ris. Cette action, qu'est-elle ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="211" part="f">Ridicule.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="212" part="i">Et cette main ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="212" part="f">De taille à bien ferrer la mule.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="213" part="i">Cette jambe, ce pied ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="213" part="f">Si tu sors des prisons,</l>
+<note>Petites-maisons : on dit aussi qu'il mettre un homme aux petites-maisons quand il est fou ou quand il faut des extravagances.[F]</note>
+	<l id="214">Dignes de t'installer aux Petites-Maisons.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="215" part="i">Ce front ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="215" part="m">Est un peu creux.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="215" part="m">Cette tête ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="215" part="f">Un peu folle.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="216">Ce ton de voix enfin avec cette parole ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="217">Ah ! C'est là que mes sens demeurent étonnés :</l>
+	<l id="218">Le ton de voix est rare, aussi bien que le nez.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="219">Je meure, ton humeur me semble si jolie,</l>
+	<l id="220">Que tu me vas résoudre à faire une folie.</l>
+	<l id="221">Touche, je veux t'aimer, tu seras mon souci :</l>
+	<l id="222">Nos maîtres font l'amour, nous le ferons aussi.</l>
+	<l id="223">J'aurai mille beaux mots tous les jours à te dire ;</l>
+	<l id="224">Je coucherai de feux, de sanglots, de martyre ;</l>
+	<l id="225">Je te dirai : "Je meurs, je suis dans les abois,</l>
+	<l id="226" part="i">Je brûle... "</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="226" part="f">Et tout cela de ce beau ton de voix ?</l>
+	<l id="227">Ah ! Si tu m'entreprends deux jours de cette sorte,</l>
+	<l id="228">Mon coeur est déconfit, et je me tiens pour morte ;</l>
+	<l id="229">Si tu me veux en vie, affaiblis ces attraits,</l>
+	<l id="230">Et retiens pour le moins la moitié de leurs traits.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="231">Tu sais même charmer alors que tu te moques.</l>
+	<l id="232">Gouverne doucement l'âme que tu m'escroques.</l>
+	<l id="233">On a traité mon maître avec moins de rigueur :</l>
+	<l id="234">On n'a pris que sa bourse, et tu prends jusqu'au coeur.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="235" part="i">Il est riche, ton maître ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="235" part="m">Assez.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="235" part="f">Et gentilhomme ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="236" part="i">Il le dit.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="236" part="m">Il demeure ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="236" part="m">À Paris.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="236" part="f">Et se nomme ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, fouillant dans la bourse.</speaker>
+	<l id="237" part="i">Porte-lui cette lettre, et reçois...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, lui retenant le bras.</speaker>
+	<l id="237" part="f">Sans compter ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="238">Cette part de l'argent que tu viens d'apporter.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="239">Elle n'en prendra pas, monsieur, je vous proteste.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="240">Celle qui vous l'envoie en a pour moi de reste.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="241">Je vous le disais bien, elle a le coeur trop bon.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="242">Lui pourrai-je, monsieur, apprendre votre nom ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="243">Il est dans mon billet. Mais prends, je t'en conjure.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="244">Vous faut-il dire encore que c'est lui faire injure ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="245">Vous perdez temps, monsieur, je sais trop mon devoir.</l>
+	<l id="246">Adieu : dans peu de temps je viendrai vous revoir,</l>
+	<l id="247">Et porte tant de joie à celle qui vous aime,</l>
+	<l id="248">Qu'elle rapportera la réponse elle-même.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="249" part="i">Adieu, belle railleuse.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="249" part="f">Adieu, cher babillard.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="250">Cette fille est jolie, elle a l'esprit gaillard.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="251">J'en estime l'humeur, j'en aime le visage ;</l>
+	<l id="252">Mais plus que tous les deux j'adore son message.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="253">C'est celle dont il vient qu'il en faut estimer ;</l>
+	<l id="254">C'est elle qui me charme et que je veux aimer.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="255">Quoi ! Vous voulez, monsieur, aimer cette inconnue ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="256" part="i">Oui, je la veux aimer, Cliton.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="256" part="f">Sans l'avoir vue ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="257">Un si rare bienfait en un besoin pressant</l>
+	<l id="258">S'empare puissamment d'un coeur reconnaissant ;</l>
+	<l id="259">Et comme de soi-même il marque un grand mérite,</l>
+	<l id="260">Dessous cette couleur il parle, il sollicite,</l>
+	<l id="261">Peint l'objet aussi beau qu'on le voit généreux,</l>
+	<l id="262">Et si l'on n'est ingrat, il faut être amoureux.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="263">Votre amour va toujours d'un étrange caprice :</l>
+	<l id="264">Dès l'abord autrefois vous aimâtes Clarice ;</l>
+	<l id="265">Celle-ci, sans la voir. Mais, monsieur, votre nom,</l>
+	<l id="266" part="i">Lui deviez-vous l'apprendre, et sitôt ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="266" part="f">Pourquoi non ?</l>
+	<l id="267">J'ai cru le devoir faire, et l'ai fait avec joie.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="268">Il est plus décrié que la fausse monnaie.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="269" part="i">Mon nom ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="269" part="f">Oui, dans Paris, en langage commun,</l>
+	<l id="270">Dorante et le menteur à présent ce n'est qu'un,</l>
+	<l id="271">Et vous y possédez ce haut degré de gloire</l>
+	<l id="272">Qu'en une comédie on a mis votre histoire.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="273" part="i">En une comédie ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="273" part="f">Et si naïvement,</l>
+	<l id="274">Que j'ai cru, la voyant, voir un enchantement.</l>
+	<l id="275">On y voit un Dorante avec votre visage ;</l>
+	<l id="276">On le prendrait pour vous : il a votre air, votre âge,</l>
+	<l id="277">Vos yeux, votre action, votre maigre embonpoint,</l>
+	<l id="278">Et paraît, comme vous, adroit au dernier point.</l>
+	<l id="279">Comme à l'événement j'ai part à la peinture :</l>
+	<l id="280">Après votre portrait on produit ma figure.</l>
+	<l id="281">Le héros de la farce, un certain Jodelet,</l>
+	<l id="282">Fait marcher après vous votre digne valet ;</l>
+	<l id="283">Il a jusqu'à mon nez et jusqu'à ma parole,</l>
+	<l id="284">Et nous avons tous deux appris en même école :</l>
+	<l id="285">C'est l'original même, il vaut ce que je vaux ;</l>
+	<l id="286">Si quelque autre s'en mêle, on peut s'inscrire en faux ;</l>
+	<l id="287">Et tout autre que lui, dans cette comédie,</l>
+	<l id="288">N'en fera jamais voir qu'une fausse copie.</l>
+	<l id="289">Pour Clarice et Lucrèce, elles en ont quelque air ;</l>
+	<l id="290">Philiste avec Alcippe y vient vous accorder ;</l>
+	<l id="291">Votre feu père même est joué sous le masque.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="292">Cette pièce doit être et plaisante et fantasque.</l>
+	<l id="293" part="i">Mais son nom ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="293" part="f">Votre nom de guerre, le menteur.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="294">Les vers en sont-ils bons ? Fait-on cas de l'auteur ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="295">La pièce a réussi, quoique faible de style,</l>
+	<l id="296">Et d'un nouveau proverbe elle enrichit la ville ;</l>
+	<l id="297">De sorte qu'aujourd'hui presque en tous les quartiers</l>
+	<l id="298">On dit, quand quelqu'un ment, qu'il revient de Poitiers.</l>
+	<l id="299">Et pour moi, c'est bien pis, je n'ose plus paraître.</l>
+	<l id="300">Ce maraud de farceur m'a fait si bien connaître,</l>
+	<l id="301">Que les petits enfants, sitôt qu'on m'aperçoit,</l>
+	<l id="302">Me courent dans la rue et me montrent au doigt ;</l>
+	<l id="303">Et chacun rit de voir les courtauds de boutique,</l>
+	<l id="304">Grossissant à l'envi leur chienne de musique,</l>
+	<l id="305">Se rompre le gosier, dans cette belle humeur,</l>
+	<l id="306">À crier après moi : "Le valet du menteur ! "</l>
+	<l id="307" part="i">Vous en riez vous-même !</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="307" part="f">Il faut bien que j'en rie.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="308">Je n'y trouve que rire, et cela vous décrie,</l>
+	<l id="309">Mais si bien, qu'à présent, voulant vous marier,</l>
+	<l id="310">Vous ne trouveriez pas la fille d'un huissier,</l>
+	<l id="311">Pas celle d'un recors, pas d'un cabaret même.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="312">Il faut donc avancer près de celle qui m'aime.</l>
+	<l id="313">Comme Paris est loin, si je ne suis déçu,</l>
+	<l id="314">Nous pourrons réussir avant qu'elle ait rien su.</l>
+	<l id="315">Mais quelqu'un vient à nous, et j'entends du murmure.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Le Prévôt, Cléandre, Dorante, Cliton.</head>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, au prévôt.</speaker>
+	<l id="316">Ah ! Je suis innocent ; vous me faites injure.</l>
+</sp>
+<sp who="PREVOT"><speaker>LE PRÉVÔT, à Cléandre.</speaker>
+	<l id="317">Si vous l'êtes, monsieur, ne craignez aucun mal ;</l>
+	<l id="318">Mais comme enfin le mort était votre rival,</l>
+	<l id="319">Et que le prisonnier proteste d'innocence,</l>
+	<l id="320">Je dois sur ce soupçon vous mettre en sa présence.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, au prévôt.</speaker>
+	<l id="321">Et si pour s'affranchir il ose me charger ?</l>
+</sp>
+<sp who="PREVOT"><speaker>LE PRÉVÔT, à Cléandre.</speaker>
+	<l id="322">La justice entre vous en saura bien juger.</l>
+	<l id="323">Souffrez paisiblement que l'ordre s'exécute.</l>
+<stage>À Dorante.</stage>
+	<l id="324">Vous avez vu, Monsieur, le coup qu'on vous impute.</l>
+	<l id="325">Voyez ce cavalier ; en serait-il l'auteur ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, bas.</speaker>
+	<l id="326">Il va me reconnaître. Ah, Dieu ! Je meurs de peur.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, au prévôt.</speaker>
+	<l id="327">Souffrez que j'examine à loisir son visage.</l>
+<stage>Bas.</stage>
+	<l id="328">C'est lui, mais il n'a fait qu'en homme de courage ;</l>
+	<l id="329">Ce serait lâcheté, quoi qu'il puisse arriver,</l>
+	<l id="330">De perdre un si grand coeur quand je puis le sauver.</l>
+	<l id="331" part="i">Ne le découvrons point.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, bas.</speaker>
+	<l id="331" part="f">Il me connaît, je tremble.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, au prévôt.</speaker>
+	<l id="332">Ce cavalier, Monsieur, n'a rien qui lui ressemble ;</l>
+<stage>Bas.</stage>
+	<l id="333">L'autre est de moindre taille, il a le poil plus blond,</l>
+	<l id="334">Le teint plus coloré, le visage plus rond,</l>
+	<l id="335">Et je le connais moins, tant plus je le contemple.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, bas.</speaker>
+	<l id="336">Oh ! Générosité qui n'eut jamais d'exemple !</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="337" part="i">L'habit même est tout autre.</l>
+</sp>
+<sp who="PREVOT"><speaker>LE PRÉVÔT.</speaker>
+	<l id="337" part="f">Enfin ce n'est pas lui ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="338">Non, il n'a point de part au duel d'aujourd'hui.</l>
+</sp>
+<sp who="PREVOT"><speaker>LE PRÉVÔT, à Cléandre.</speaker>
+	<l id="339">Je suis ravi, monsieur, de voir votre innocence</l>
+	<l id="340">Assurée à présent par sa reconnaissance ;</l>
+	<l id="341">Sortez quand vous voudrez, vous avez tout pouvoir.</l>
+	<l id="342">Excusez la rigueur qu'a voulu mon devoir.</l>
+	<l id="343" part="i">Adieu.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE, au prévôt.</speaker>
+	<l id="343" part="f">Vous avez fait le dû de votre office.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dorante, Cléandre, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE, à Cléandre.</speaker>
+	<l id="344">Mon cavalier, pour vous je me fais injustice ;</l>
+	<l id="345">Je vous tiens pour brave homme, et vous reconnais bien ;</l>
+	<l id="346">Faites votre devoir comme j'ai fait le mien.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="347" part="i">Monsieur...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="347" part="f">Point de réplique, on pourrait nous entendre.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="348">Sachez donc seulement qu'on m'appelle Cléandre,</l>
+	<l id="349">Que je sais mon devoir, que j'en prendrai souci,</l>
+	<l id="350">Et que je périrai pour vous tirer d'ici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="351">N'est-il pas vrai, Cliton, que c'eût été dommage</l>
+	<l id="352">De livrer au malheur ce généreux courage ?</l>
+	<l id="353">J'avais entre mes mains et sa vie et sa mort,</l>
+	<l id="354">Et je me viens de voir arbitre de son sort.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="355" part="i">Quoi ? C'est là donc, monsieur...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="355" part="f">Oui, c'est là le coupable.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="356" part="i">L'homme à votre cheval ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="356" part="f">Rien n'est si véritable.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="357">Je ne sais où j'en suis, et deviens tout confus :</l>
+	<l id="358">Ne m'aviez-vous pas dit que vous ne mentiez plus ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="359">J'ai vu sur son visage un noble caractère,</l>
+	<l id="360">Qui me parlant pour lui, m'a forcé de me taire,</l>
+	<l id="361">Et d'une voix connue entre les gens de coeur</l>
+	<l id="362">M'a dit qu'en le perdant je me perdrais d'honneur :</l>
+	<l id="363">J'ai cru devoir mentir pour sauver un brave homme.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="364">Et c'est ainsi, monsieur, que l'on s'amende à Rome ?</l>
+	<l id="365">Je me tiens au proverbe : oui, courez, voyagez ;</l>
+	<l id="366">Je veux être guenon si jamais vous changez :</l>
+	<l id="367">Vous mentirez toujours, monsieur, sur ma parole.</l>
+	<l id="368">Croyez-moi que Poitiers est une bonne école ;</l>
+	<l id="369">Pour le bien du public je veux le publier ;</l>
+	<l id="370">Les leçons qu'on y prend ne peuvent s'oublier.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="371">Je ne mens plus, Cliton, je t'en donne assurance ;</l>
+	<l id="372">Mais en un tel sujet l'occasion dispense.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="373">Vous en prendrez autant comme vous en verrez.</l>
+	<l id="374">Menteur vous voulez vivre, et menteur vous mourrez ;</l>
+	<l id="375">Et l'on dira de vous pour oraison funèbre :</l>
+	<l id="376">"C'était en menterie un auteur très célèbre,</l>
+	<l id="377">Qui sut y raffiner de si digne façon,</l>
+	<l id="378">Qu'aux maîtres du métier il en eût fait leçon ;</l>
+	<l id="379">Et qui tant qu'il vécut, sans craindre aucune risque,</l>
+	<l id="380">Aux plus forts d'après lui put donner quinze et bisque. "</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="381">Je n'ai plus qu'à mourir, mon épitaphe est fait,</l>
+	<l id="382">Et tu m'érigeras en cavalier parfait :</l>
+	<l id="383">Tu ferais violence à l'humeur la plus triste.</l>
+	<l id="384">Mais sans plus badiner, va-t'en chercher Philiste ;</l>
+	<l id="385">Donne-lui cette lettre ; et moi, sans plus mentir,</l>
+	<l id="386">Avec les prisonniers j'irai me divertir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mélisse, Lyse.</head>
+<sp who="MÉLISSE"><speaker>MÉLISSE, tenant une lettre ouverte en sa main.</speaker>
+	<l id="387">Certes, il écrit bien : sa lettre est excellente.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="388">Madame, sa personne est encor plus galante :</l>
+	<l id="389">Tout est charmant en lui, sa grâce, son maintien...</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="390">Il semble que déjà tu lui veuilles du bien ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="391">J'en trouve, à dire vrai, la rencontre si belle,</l>
+	<l id="392">Que je voudrais l'aimer si j'étais demoiselle.</l>
+	<l id="393">Il est riche, et de plus il demeure à Paris,</l>
+	<l id="394">Où des dames, dit-on, est le vrai paradis ;</l>
+	<l id="395">Et ce qui vaut bien mieux que toutes ces richesses,</l>
+	<l id="396">Les maris y sont bons, et les femmes maîtresses.</l>
+	<l id="397">Je vous le dis encore, je m'y passerais bien ;</l>
+	<l id="398">Et si j'étais son fait, il serait fort le mien.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="399">Tu n'es pas dégoûtée. Enfin, Lyse, sans rire,</l>
+	<l id="400" part="i">C'est un homme bien fait ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="400" part="f">Plus que je ne puis dire.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="401">À sa lettre il paraît qu'il a beaucoup d'esprit ;</l>
+	<l id="402">Mais, dis-moi, parle-t-il aussi bien qu'il écrit ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="403">Pour lui faire en discours montrer son éloquence,</l>
+	<l id="404">Il lui faudrait des gens de plus de conséquence :</l>
+	<l id="405">C'est à vous d'éprouver ce que vous demandez.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="406" part="i">Et que croit-il de moi ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="406" part="f">Ce que vous lui mandez :</l>
+	<l id="407">Que vous l'avez tantôt vu par votre fenêtre ;</l>
+	<l id="408" part="i">Que vous l'aimez déjà.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="408" part="f">Cela pourrait bien être.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="409" part="i">Sans l'avoir jamais vu ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="409" part="f">J'écris bien sans le voir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="410">Mais vous suivez d'un frère un absolu pouvoir,</l>
+	<l id="411">Qui vous ayant conté par quel bonheur étrange</l>
+	<l id="412">Il s'est mis à couvert de la mort de Florange,</l>
+	<l id="413">Se sert de cette feinte, en cachant votre nom,</l>
+	<l id="414">Pour lui donner secours dedans cette prison.</l>
+	<l id="415">L'y voyant en sa place, il fait ce qu'il doit faire.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="416">Je n'écrivais tantôt qu'à dessein de lui plaire ;</l>
+	<l id="417">Mais, Lyse, maintenant j'ai pitié de l'ennui</l>
+	<l id="418">D'un homme si bien fait qui souffre pour autrui ;</l>
+	<l id="419">Et par quelques motifs que je vienne d'écrire,</l>
+	<l id="420">Il est de mon honneur de ne m'en pas dédire.</l>
+	<l id="421">La lettre est de ma main, elle parle d'amour :</l>
+	<l id="422">S'il ne sait qui je suis, il peut l'apprendre un jour.</l>
+	<l id="423">Un tel gage m'oblige à lui tenir parole :</l>
+	<l id="424">Ce qu'on met par écrit passe une amour frivole.</l>
+	<l id="425">Puisqu'il a du mérite, on ne m'en peut blâmer ;</l>
+	<l id="426">Et je lui dois mon coeur, s'il daigne l'estimer.</l>
+	<l id="427">Je m'en forme en idée une image si rare,</l>
+	<l id="428">Qu'elle pourrait gagner l'âme la plus barbare ;</l>
+	<l id="429">L'amour en est le peintre, et ton rapport flatteur</l>
+	<l id="430">En fournit les couleurs à ce doux enchanteur.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="431">Tout comme vous l'aimez vous verrez qu'il vous aime.</l>
+	<l id="432">Si vous vous engagez, il s'engage de même,</l>
+	<l id="433">Et se forme de vous un tableau si parfait,</l>
+	<l id="434">Que c'est lettre pour lettre et portrait pour portrait.</l>
+	<l id="435">Il faut que votre amour plaisamment s'entretienne :</l>
+	<l id="436">Il sera votre idée, et vous serez la sienne.</l>
+	<l id="437">L'alliance est mignarde, et cette nouveauté,</l>
+	<l id="438">Surtout dans une lettre, aura grande beauté,</l>
+	<l id="439">Quand vous y souscrirez pour Dorante ou Mélisse :</l>
+	<l id="440">" Votre très humble idée à vous rendre service. "</l>
+	<l id="441">Vous vous moquez, madame ; et loin d'y consentir,</l>
+	<l id="442">Vous n'en parlez ainsi que pour vous divertir.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="443" part="i">Je ne me moque point.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="443" part="f">Et que fera, madame,</l>
+	<l id="444">Cet autre cavalier dont vous possédez l'âme,</l>
+	<l id="445" part="i">Votre amant ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="445" part="m">Qui ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="445" part="m">Philiste.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="445" part="f">Ah ! Ne présume pas</l>
+	<l id="446">Que son coeur soit sensible au peu que j'ai d'appas :</l>
+	<l id="447">Il fait mine d'aimer, mais sa galanterie</l>
+	<l id="448">N'est qu'un amusement et qu'une raillerie.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="449">Il est riche, et parent des premiers de Lyon.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="450">Et c'est ce qui le porte à plus d'ambition.</l>
+	<l id="451">S'il me voit quelquefois, c'est comme par surprise ;</l>
+	<l id="452">Dans ses civilités on dirait qu'il méprise,</l>
+	<l id="453">Qu'un seul mot de sa bouche est un rare bonheur,</l>
+	<l id="454">Et qu'un de ses regards est un excès d'honneur.</l>
+	<l id="455">L'amour même d'un roi me serait importune,</l>
+	<l id="456">S'il fallait la tenir à si haute fortune.</l>
+	<l id="457">La sienne est un trésor qu'il fait bien d'épargner :</l>
+	<l id="458">L'avantage est trop grand, j'y pourrais trop gagner.</l>
+	<l id="459">Il n'entre point chez nous ; et quand il me rencontre,</l>
+	<l id="460">Il semble qu'avec peine à mes yeux il se montre,</l>
+	<l id="461">Et prend l'occasion avec une froideur</l>
+	<l id="462">Qui craint en me parlant d'abaisser sa grandeur.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="463">Peut-être il est timide et n'ose davantage.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="464">S'il craint, c'est que l'amour trop avant ne l'engage.</l>
+	<l id="465">Il voit souvent mon frère, et ne parle de rien.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="466">Mais vous le recevez, ce me semble, assez bien ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="467">Comme je ne suis pas en amour des plus fines,</l>
+	<l id="468">Faute d'autre j'en souffre, et je lui rends ses mines ;</l>
+	<l id="469">Mais je commence à voir que de tels cajoleurs</l>
+	<l id="470">Ne font qu'effaroucher les partis les meilleurs,</l>
+	<l id="471">Et ne dois plus souffrir qu'avec cette grimace</l>
+	<l id="472">D'un véritable amant il occupe la place.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="473">Je l'ai vu pour vous voir faire beaucoup de tours.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="474">Qui l'empêche d'entrer, et me voir tous les jours ?</l>
+	<l id="475">Cette façon d'agir est-elle plus polie ?</l>
+	<l id="476" part="i">Croit-il...</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="476" part="f">Les amoureux ont chacun leur folie :</l>
+	<l id="477">La sienne est de vous voir avec tant de respect,</l>
+	<l id="478">Qu'il passe pour superbe, et vous devient suspect ;</l>
+	<l id="479">Et la vôtre, un dégoût de cette retenue,</l>
+	<l id="480">Qui vous fait mépriser la personne connue,</l>
+	<l id="481">Pour donner votre estime, et chercher avec soin</l>
+	<l id="482">L'amour d'un inconnu, parce qu'il est de loin.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléandre, Mélisse, Lyse.</head>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="483">Envers ce prisonnier as-tu fait cette feinte,</l>
+	<l id="484" part="i">Ma soeur ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="484" part="f">Sans me connaître, il me croit l'âme atteinte,</l>
+	<l id="485">Que je l'ai vu conduire en ce triste séjour,</l>
+	<l id="486">Que ma lettre et l'argent sont des effets d'amour ;</l>
+	<l id="487">Et Lyse, qui l'a vu, m'en dit tant de merveilles,</l>
+	<l id="488">Qu'elle fait presque entrer l'amour par les oreilles.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="489" part="i">Ah ! Si tu savais tout !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="489" part="f">Elle ne laisse rien ;</l>
+	<l id="490">Elle en vante l'esprit, la taille, le maintien,</l>
+	<l id="491">Le visage attrayant et la façon modeste.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="492">Ah ! Que c'est peu de chose au prix de ce qui reste !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="493">Que reste-t-il à dire ? Un courage invaincu ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="494">C'est le plus généreux qui jamais ait vécu ;</l>
+	<l id="495">C'est le coeur le plus noble, et l'âme la plus haute...</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="496">Quoi ? Vous voulez, mon frère, ajouter à sa faute,</l>
+	<l id="497">Percer avec ces traits un coeur qu'il a blessé,</l>
+	<l id="498">Et vous-même achever ce qu'elle a commencé ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="499">Ma soeur, à peine sais-je encore comme il se nomme,</l>
+	<l id="500">Et je sais qu'on n'a vu jamais plus honnête homme,</l>
+	<l id="501">Et que ton frère enfin périrait aujourd'hui,</l>
+	<l id="502">Si nous avions affaire à tout autre qu'à lui.</l>
+	<l id="503">Quoique notre partie aie été si secrète</l>
+	<l id="504">Que j'en dusse espérer une sûre retraite,</l>
+	<l id="505">Et que Florange et moi, comme je t'ai conté,</l>
+	<l id="506">Afin que ce duel ne pût être éventé,</l>
+	<l id="507">Sans prendre de seconds, l'eussions faite de sorte</l>
+	<l id="508">Que chacun pour sortir choisît diverse porte,</l>
+	<l id="509">Que nous n'eussions ensemble été vus de huit jours,</l>
+	<l id="510">Que presque tout le monde ignorât nos amours,</l>
+	<l id="511">Et que l'occasion me fût si favorable</l>
+	<l id="512">Que je vis l'innocent saisi pour le coupable</l>
+	<l id="513">(je crois te l'avoir dit, qu'il nous vint séparer,</l>
+	<l id="514">Et que sur son cheval je sus me retirer) ;</l>
+	<l id="515">Comme je me montrais, afin que ma présence</l>
+	<l id="516">Donnât lieu d'en juger une entière innocence,</l>
+	<l id="517">Sur un bruit épandu que le défunt et moi</l>
+	<l id="518">D'une même beauté nous adorions la loi,</l>
+	<l id="519">Un prévôt soupçonneux me saisit dans la rue,</l>
+	<l id="520">Me mène au prisonnier, et m'expose à sa vue.</l>
+	<l id="521">Juge quel trouble j'eus de me voir en ces lieux :</l>
+	<l id="522">Ce cavalier me voit, m'examine des yeux,</l>
+	<l id="523">Me reconnaît, je tremble encore à te le dire ;</l>
+	<l id="524">Mais apprends sa vertu, chère soeur, et l'admire.</l>
+	<l id="525">Ce grand coeur, se voyant mon destin en la main,</l>
+	<l id="526">Devient pour me sauver à soi-même inhumain ;</l>
+	<l id="527">Lui qui souffre pour moi sait mon crime et le nie,</l>
+	<l id="528">Dit que ce qu'on m'impute est une calomnie,</l>
+	<l id="529">Dépeint le criminel de toute autre façon,</l>
+	<l id="530">Oblige le prévôt à sortir sans soupçon,</l>
+	<l id="531">Me promet amitié, m'assure de se taire :</l>
+	<l id="532">Voilà ce qu'il a fait ; vois ce que je dois faire.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="533">L'aimer, le secourir, et tous deux avouer</l>
+	<l id="534">Qu'une telle vertu ne se peut trop louer.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="535">Si je l'ai plaint tantôt de souffrir pour mon crime,</l>
+	<l id="536">Cette pitié, ma soeur, était bien légitime ;</l>
+	<l id="537">Mais ce n'est plus pitié, c'est obligation,</l>
+	<l id="538">Et le devoir succède à la compassion.</l>
+	<l id="539">Nos plus puissants secours ne sont qu'ingratitude ;</l>
+	<l id="540">Mets à les redoubler ton soin et ton étude ;</l>
+	<l id="541">Sous ce même prétexte et ces déguisements,</l>
+	<l id="542">Ajoute à ton argent perles et diamants ;</l>
+	<l id="543">Qu'il ne manque de rien ; et pour sa délivrance</l>
+	<l id="544">Je vais de mes amis faire agir la puissance.</l>
+	<l id="545">Que si tous leurs efforts ne peuvent le tirer,</l>
+	<l id="546">Pour m'acquitter vers lui j'irai me déclarer.</l>
+	<l id="547">Adieu : de ton côté prends souci de me plaire,</l>
+	<l id="548">Et vois ce que tu dois à qui te sauve un frère.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="549">Je vous obéirai très ponctuellement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Mélisse, Lyse.</head>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="550">Vous pouviez dire encore très volontairement ;</l>
+	<l id="551">Et la faveur du ciel vous a bien conservée,</l>
+	<l id="552">Si ces derniers discours ne vous ont achevée.</l>
+	<l id="553">Le parti de Philiste a de quoi s'appuyer ;</l>
+	<l id="554">Je n'en suis plus, madame : il n'est bon qu'à noyer ;</l>
+	<l id="555">Il ne valut jamais un cheveu de Dorante.</l>
+	<l id="556">Je puis vers la prison apprendre une courante ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="557">Oui, tu peux te résoudre encore à te crotter.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="558">Quels de vos diamants me faut-il lui porter ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="559">Mon frère va trop vite ; et sa chaleur l'emporte</l>
+	<l id="560">Jusqu'à connaître mal des gens de cette sorte.</l>
+	<l id="561">Aussi, comme son but est différent du mien,</l>
+	<l id="562">Je dois prendre un chemin fort éloigné du sien.</l>
+	<l id="563">Il est reconnaissant, et je suis amoureuse ;</l>
+	<l id="564">Il a peur d'être ingrat, et je veux être heureuse.</l>
+	<l id="565">À force de présents il se croit acquitter ;</l>
+	<l id="566">Mais le redoublement ne fait que rebuter.</l>
+	<l id="567">Si le premier oblige un homme de mérite,</l>
+	<l id="568">Le second l'importune, et le reste l'irrite,</l>
+	<l id="569">Et passé le besoin, quoi qu'on lui puisse offrir,</l>
+	<l id="570">C'est un accablement qu'il ne saurait souffrir.</l>
+	<l id="571">L'amour est libéral, mais c'est avec adresse :</l>
+	<l id="572">Le prix de ses présents est en leur gentillesse ;</l>
+	<l id="573">Et celui qu'à Dorante exprès tu vas porter,</l>
+	<l id="574">Je veux qu'il le dérobe au lieu de l'accepter.</l>
+	<l id="575">Écoute une pratique assez ingénieuse.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="576">Elle doit être belle et fort mystérieuse.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="577">Au lieu des diamants dont tu viens de parler,</l>
+	<l id="578">Avec quelques douceurs il faut le régaler,</l>
+	<l id="579">Entrer sous ce prétexte, et trouver quelque voie</l>
+	<l id="580">Par où, sans que j'y sois, tu fasses qu'il me voie :</l>
+	<l id="581">Porte-lui mon portrait, et comme sans dessein</l>
+	<l id="582">Fais qu'il puisse aisément le surprendre en ton sein ;</l>
+	<l id="583">Feins lors pour le ravoir un déplaisir extrême :</l>
+	<l id="584">S'il le rend, c'en est fait ; s'il le retient, il m'aime.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="585">À vous dire le vrai, vous en savez beaucoup.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="586">L'amour est un grand maître : il instruit tout d'un coup.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="587">Il vient de vous donner de belles tablatures.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="588">Viens querir mon portrait avec des confitures :</l>
+	<l id="589">Comme pourra Dorante en user bien ou mal,</l>
+	<l id="590">Nous résoudrons après touchant l'original.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Philiste, Dorante, Cliton, dans la prison.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="591">Voilà, mon cher ami, la véritable histoire</l>
+	<l id="592">D'une aventure étrange et difficile à croire ;</l>
+	<l id="593">Mais puisque je vous vois, mon sort est assez doux.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="594">L'aventure est étrange, et bien digne de vous ;</l>
+	<l id="595">Et si je n'en voyois la fin trop véritable,</l>
+	<l id="596">J'aurois bien de la peine à la trouver croyable :</l>
+	<l id="597">Vous me seriez suspect, si vous étiez ailleurs.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="598">Ayez pour lui, monsieur, des sentiments meilleurs :</l>
+	<l id="599">Il s'est bien converti dans un si long voyage ;</l>
+	<l id="600">C'est tout un autre esprit sous le même visage ;</l>
+	<l id="601">Et tout ce qu'il débite est pure vérité,</l>
+	<l id="602">S'il ne ment quelquefois par générosité.</l>
+	<l id="603">C'est le même qui prit Clarice pour Lucrèce,</l>
+	<l id="604">Qui fit jaloux Alcippe avec sa noble adresse ;</l>
+	<l id="605">Et malgré tout cela, le même toutefois,</l>
+	<l id="606">Depuis qu'il est ici, n'a menti qu'une fois.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="607" part="i">En voudrois-tu jurer ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="607" part="f">Oui, monsieur, et j'en jure</l>
+	<l id="608">Par le dieu des menteurs, dont il est créature,</l>
+	<l id="609">Et s'il vous faut encore un serment plus nouveau,</l>
+	<l id="610">Par l'hymen de Poitiers et le festin sur l'eau.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="611">Laissant là ce badin, ami, je vous confesse</l>
+	<l id="612">Qu'il me souvient toujours de vos traits de jeunesse.</l>
+	<l id="613">Cent fois en cette ville aux meilleures maisons</l>
+	<l id="614">J'en ai fait un bon conte en déguisant les noms ;</l>
+	<l id="615">J'en ai ri de bon coeur, et j'en ai bien fait rire ;</l>
+	<l id="616">Et quoi que maintenant je vous entende dire,</l>
+	<l id="617">Ma mémoire toujours me les vient présenter,</l>
+	<l id="618">Et m'en fait un rapport qui m'invite à douter.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="619">Formez en ma faveur de plus saines pensées :</l>
+	<l id="620">Ces petites humeurs sont aussitôt passées ;</l>
+	<l id="621">Et l'air du monde change en bonnes qualités</l>
+	<l id="622">Ces teintures qu'on prend aux universités.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="623">Dès lors, à cela près, vous étiez en estime</l>
+	<l id="624">D'avoir une âme noble, et grande, et magnanime.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="625">Je le disais dès lors : sans cette qualité,</l>
+	<l id="626">Vous n'eussiez pu jamais le payer de bonté.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="627" part="i">Ne te tairas-tu point ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="627" part="f">Dis-je rien qu'il ne sache,</l>
+	<l id="628">Et fais-je à votre nom quelque nouvelle tache ?</l>
+	<l id="629">N'était-il pas, monsieur, avec Alcippe et vous,</l>
+	<l id="630">Quand ce festin en l'air le rendit si jaloux ?</l>
+	<l id="631">Lui qui fut le témoin du conte que vous fîtes,</l>
+	<l id="632">Lui qui vous sépara lorsque vous vous battîtes,</l>
+	<l id="633">Ne sait-il pas encore les plus rusés détours</l>
+	<l id="634">Dont votre esprit adroit bricola vos amours ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="635">Ami, ce flux de langue est trop grand pour se taire ;</l>
+	<l id="636">Mais sans plus l'écouter, parlons de votre affaire.</l>
+	<l id="637">Elle me semble aisée, et j'ose me vanter</l>
+	<l id="638">Qu'assez facilement je pourrai l'emporter :</l>
+	<l id="639">Ceux dont elle dépend sont de ma connaissance,</l>
+	<l id="640">Et même à la plupart je touche de naissance ;</l>
+	<l id="641">Le mort était d'ailleurs fort peu considéré,</l>
+	<l id="642">Et chez les gens d'honneur on ne l'a point pleuré.</l>
+	<l id="643">Sans perdre plus de temps, souffrez que j'aille apprendre</l>
+	<l id="644">Pour en venir à bout quel chemin il faut prendre.</l>
+	<l id="645">Ne vous attristez point cependant en prison ;</l>
+	<l id="646">On aura soin de vous comme en votre maison :</l>
+	<l id="647">Le concierge en a l'ordre, il tient de moi sa place,</l>
+	<l id="648">Et sitôt que je parle il n'est rien qu'il ne fasse.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="649">Ma joie est de vous voir, vous me l'allez ravir.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="650">Je prends congé de vous pour vous aller servir.</l>
+	<l id="651">Cliton divertira votre mélancolie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dorante, Cliton.</head>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="652">Comment va maintenant l'amour ou la folie ?</l>
+	<l id="653">Cette dame obligeante au visage inconnu,</l>
+	<l id="654">Qui s'empare des coeurs avec son revenu,</l>
+	<l id="655">Est-elle encore aimable ? A-t-elle encore des charmes ?</l>
+	<l id="656">Par générosité lui rendons-nous les armes ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="657">Cliton, je la tiens belle, et m'ose figurer</l>
+	<l id="658">Qu'elle n'a rien en soi qu'on ne puisse adorer.</l>
+	<l id="659" part="i">Qu'en imagines-tu ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="659" part="f">J'en fais des conjectures</l>
+	<l id="660">Qui s'accordent fort mal avec vos figures.</l>
+	<l id="661">Vous payer par avance, et vous cacher son nom,</l>
+	<l id="662">Quoi que vous présumiez, ne marque rien de bon.</l>
+	<l id="663">À voir ce qu'elle a fait, et comme elle procède,</l>
+	<l id="664">Je jurerais, monsieur, qu'elle est ou vieille ou laide,</l>
+	<l id="665">Peut-être l'une et l'autre, et vous a regardé</l>
+	<l id="666">Comme un galant commode, et fort incommodé.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="667" part="i">Tu parles en brutal.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="667" part="f">Vous, en visionnaire.</l>
+	<l id="668">Mais si je disais vrai, que prétendez-vous faire ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="669">Envoyer et la dame et les amours au vent.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="670">Mais vous avez reçu : quiconque prend se vend.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="671">Quitte pour lui jeter son argent à la tête.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="672">Le compliment est doux et la défaite honnête.</l>
+	<l id="673">Tout de bon à ce coup vous êtes converti :</l>
+	<l id="674">Je le soutiens, monsieur, le proverbe a menti.</l>
+	<l id="675">Sans scrupule autrefois, témoin votre Lucrèce,</l>
+	<l id="676">Vous emportiez l'argent, et quittiez la maîtresse ;</l>
+	<l id="677">Mais Rome vous a fait si grand homme de bien,</l>
+	<l id="678">Qu'à présent vous voulez rendre à chacun le sien :</l>
+	<l id="679">Vous vous êtes instruit des cas de conscience.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="680">Tu m'embrouilles l'esprit faute de patience.</l>
+	<l id="681">Deux ou trois jours peut-être, un peu plus, un peu moins,</l>
+	<l id="682">Éclairciront ce trouble, et purgeront ces soins.</l>
+	<l id="683">Tu sais qu'on m'a promis que la beauté qui m'aime</l>
+	<l id="684">Viendra me rapporter sa réponse elle-même ;</l>
+	<l id="685" part="i">Vois déjà sa servante, elle revient.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="685" part="f">Tant pis :</l>
+	<l id="686">Dussiez-vous enrager, c'est ce que je vous dis.</l>
+	<l id="687">Si fréquente ambassade, et maîtresse invisible,</l>
+	<l id="688">Sont de ma conjecture une preuve infaillible.</l>
+	<l id="689">Voyons ce qu'elle veut, et si son passe-port</l>
+	<l id="690">Est aussi bien fourni comme au premier abord.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="691">Veux-tu qu'à tous moments il pleuve des pistoles ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="692">Qu'avons-nous sans cela besoin de ses paroles ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dorante, Lyse, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE, à Lyse.</speaker>
+	<l id="693">Je ne t'espérais pas si soudain de retour.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="694">Vous jugerez par là d'un coeur qui meurt d'amour.</l>
+	<l id="695">De vos civilités ma maîtresse est ravie :</l>
+	<l id="696">Elle serait venue, elle en brûle d'envie ;</l>
+	<l id="697">Mais une compagnie au logis la retient :</l>
+	<l id="698">Elle viendra bientôt, et peut-être elle vient ;</l>
+	<l id="699">Et je me connais mal à l'ardeur qui l'emporte,</l>
+	<l id="700">Si vous ne la voyez même avant que je sorte.</l>
+	<l id="701">Acceptez cependant quelque peu de douceurs</l>
+	<l id="702">Fort propres en ces lieux à conforter les coeurs :</l>
+	<l id="703">Les sèches sont dessous, celles-ci sont liquides.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="704">Les amours de tantôt me semblaient plus solides.</l>
+	<l id="705">Si tu n'as autre chose, épargne mieux tes pas :</l>
+	<l id="706">Cette inégalité ne me satisfait pas.</l>
+	<l id="707">Nous avons le coeur bon, et dans nos aventures</l>
+	<l id="708">Nous ne fûmes jamais hommes à confitures.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="709">Badin, qui te demande ici ton sentiment ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="710">Ah ! Tu me fais l'amour un peu bien rudement.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="711">Est-ce à toi de parler ? Que n'attends-tu ton heure ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="712">Saurons-nous cette fois son nom, ou sa demeure ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="713" part="i">Non pas encore sitôt.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="713" part="f">Mais te vaut-elle bien ?</l>
+	<l id="714">Parle-moi franchement, et ne déguise rien.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="715">À ce compte, monsieur, vous me trouvez passable ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="716">Je te trouve de taille et d'esprit agréable,</l>
+	<l id="717">Tant de grâce en l'humeur, et tant d'attrait aux yeux,</l>
+	<l id="718">Qu'à te dire le vrai, je ne voudrais pas mieux :</l>
+	<l id="719">Elle me charmera ; pourvu qu'elle te vaille.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="720">Ma maîtresse n'est pas tout à fait de ma taille,</l>
+	<l id="721">Mais elle me surpasse en esprit, en beauté,</l>
+	<l id="722">Autant et plus encore, monsieur, qu'en qualité.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="723">Tu sais adroitement couler ta flatterie.</l>
+	<l id="724">Que ce bout de ruban a de galanterie !</l>
+	<l id="725">Je le veux dérober. Mais qu'est-ce qui le suit ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="726">Rendez-le-moi, monsieur ; j'ai hâte, il s'en va nuit.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="727" part="i">Je verrai ce que c'est.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="727" part="f">C'est une mignature.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="728">Oh ! Le charmant portrait ! L'adorable peinture !</l>
+	<l id="729" part="i">Elle est faite à plaisir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="729" part="f">Après le naturel.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="730">Je ne crois pas jamais avoir rien vu de tel.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="731">Ces quatre diamants dont elle est enrichie</l>
+	<l id="732">Ont sous eux quelque feuille, ou mal nette, ou blanchie,</l>
+	<l id="733">Et je cours de ce pas y faire regarder.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="734" part="i">Et quel est ce portrait ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="734" part="f">Le faut-il demander ?</l>
+	<l id="735">Et doutez-vous si c'est ma maîtresse elle-même ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="736" part="i">Quoi ? Celle qui m'écrit ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="736" part="f">Oui, celle qui vous aime ;</l>
+	<l id="737">À l'aimer tant soit peu vous l'auriez deviné.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="738">Un si rare bonheur ne m'est pas destiné ;</l>
+	<l id="739">Et tu me veux flatter par cette fausse joie.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="740">Quand je dis vrai, monsieur, je prétends qu'on me croie.</l>
+	<l id="741">Mais je m'amuse trop, l'orfèvre est loin d'ici ;</l>
+	<l id="742" part="i">Donnez-moi, je perds temps.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="742" part="f">Laisse-moi ce souci :</l>
+	<l id="743">Nous avons un orfèvre arrêté pour ses dettes,</l>
+	<l id="744">Qui saura tout remettre au point que tu souhaites.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="745" part="i">Vous m'en donnez, monsieur.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="745" part="f">Je te le ferai voir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="746" part="i">A-t-il la main fort bonne ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="746" part="f">Autant qu'on peut l'avoir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="747" part="i">Sans mentir ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="747" part="m">Sans mentir.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="747" part="f">Il est trop jeune, il n'ose.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="748">Je voudrais bien pour vous faire ici quelque chose ;</l>
+	<l id="749" part="i">Mais vous le montrerez.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="749" part="f">Non, à qui que ce soit.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="750">Vous me ferez chasser si quelque autre le voit.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="751" part="i">Va, dors en sûreté.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="751" part="f">Mais enfin à quand rendre ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="752" part="i">Dès demain.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="752" part="f">Demain donc je viendrai le reprendre :</l>
+	<l id="753">Je ne puis me résoudre à vous désobliger.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, à Dorante, puis à Lyse.</speaker>
+	<l id="754">Elle se met pour vous en un très grand danger.</l>
+	<l id="755" part="i">Dirons-nous rien nous deux ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="755" part="m">Non.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="755" part="f">Comme tu méprises !</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="756">Je n'ai pas le loisir d'entendre tes sottises.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="757">Avec cette rigueur tu me feras mourir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="758">Peut-être à mon retour je saurai te guérir ;</l>
+	<l id="759" part="i">Je ne puis mieux pour l'heure : adieu.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="759" part="f">Tout me succède.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="760">Viens, Cliton, et regarde. Est-elle vieille ou laide ?</l>
+	<l id="761">Voit-on des yeux plus vifs ? Voit-on des traits plus doux ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="762">Je suis un peu moins dupe, et plus futé que vous.</l>
+	<l id="763">C'est un leurre, monsieur, la chose est toute claire :</l>
+	<l id="764">Elle a fait tout du long les mines qu'il faut faire.</l>
+	<l id="765">On amorce le monde avec de tels portraits :</l>
+	<l id="766">Pour les faire surprendre on les apporte exprès ;</l>
+	<l id="767">On s'en fâche, on fait bruit, on vous les redemande ;</l>
+	<l id="768">Mais on tremble toujours de crainte qu'on les rende ;</l>
+	<l id="769">Et pour dernière adresse, une telle beauté</l>
+	<l id="770">Ne se voit que de nuit et dans l'obscurité,</l>
+	<l id="771">De peur qu'en un moment l'amour ne s'estropie</l>
+	<l id="772">À voir l'original si loin de sa copie.</l>
+	<l id="773">Mais laissons ce discours, qui peut vous ennuyer.</l>
+	<l id="774">Vous ferai-je venir l'orfèvre prisonnier ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="775">Simple, n'as-tu point vu que c'était une feinte,</l>
+	<l id="776">Un effet de l'amour dont mon âme est atteinte ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="777">Bon : en voici déjà de deux en même jour,</l>
+	<l id="778">Par devoir d'honnête homme, et par effet d'amour.</l>
+	<l id="779">Avec un peu de temps nous en verrons bien d'autres ;</l>
+	<l id="780">Chacun a ses talents, et ce sont là les vôtres.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="781">Tais-toi, tu m'étourdis de tes sottes raisons.</l>
+	<l id="782">Allons prendre un peu l'air dans la cour des prisons.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cléandre, Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="783">Je vous en prie encor, discourons d'autre chose,</l>
+	<l id="784">Et sur un tel sujet ayons la bouche close :</l>
+	<l id="785">On peut nous écouter, et vous surprendre ici ;</l>
+	<l id="786">Et si vous vous perdez, vous me perdez aussi.</l>
+	<l id="787">La parfaite amitié que pour vous j'ai conçue,</l>
+	<l id="788">Quoiqu'elle soit l'effet d'une première vue,</l>
+	<l id="789">Joint mon péril au vôtre, et les unit si bien</l>
+	<l id="790">Qu'au cours de votre sort elle attache le mien.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="791">N'ayez aucune peur, et sortez d'un tel doute.</l>
+	<l id="792">J'ai des gens là dehors qui gardent qu'on écoute ;</l>
+	<l id="793">Et je puis vous parler en toute sûreté</l>
+	<l id="794">De ce que mon malheur doit à votre bonté.</l>
+	<l id="795">Si d'un bienfait si grand qu'on reçoit sans mérite</l>
+	<l id="796">Qui s'avoue insolvable aucunement s'acquitte,</l>
+	<l id="797">Pour m'acquitter vers vous autant que je le puis,</l>
+	<l id="798">J'avoue, et hautement, monsieur, que je le suis ;</l>
+	<l id="799">Mais si cette amitié par l'amitié se paie,</l>
+	<l id="800">Ce coeur qui vous doit tout vous en rend une vraie.</l>
+	<l id="801">La vôtre la devance à peine d'un moment ;</l>
+	<l id="802">Elle attache mon sort au vôtre également ;</l>
+	<l id="803">Et l'on n'y trouvera que cette différence,</l>
+	<l id="804">Qu'en vous elle est faveur, en moi reconnaissance.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="805">N'appelez point faveur ce qui fut un devoir :</l>
+	<l id="806">Entre les gens de coeur il suffit de se voir.</l>
+	<l id="807">Par un effort secret de quelque sympathie</l>
+	<l id="808">L'un à l'autre aussitôt un certain noeud les lie :</l>
+	<l id="809">Chacun d'eux sur son front porte écrit ce qu'il est,</l>
+	<l id="810">Et quand on lui ressemble, on prend son intérêt.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="811">Par exemple, voyez, aux traits de ce visage</l>
+	<l id="812">Mille dames m'ont pris pour homme de courage,</l>
+	<l id="813">Et sitôt que je parle, on devine à demi</l>
+	<l id="814">Que le sexe jamais ne fut mon ennemi.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="815" part="i">Cet homme a de l'humeur.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="815" part="f">C'est un vieux domestique,</l>
+	<l id="816">Qui, comme vous voyez, n'est pas mélancolique.</l>
+	<l id="817">À cause de son âge il se croit tout permis ;</l>
+	<l id="818">Il se rend familier avec tous mes amis,</l>
+	<l id="819">Mêle partout son mot, et jamais, quoi qu'on die,</l>
+	<l id="820">Pour donner son avis il n'attend qu'on l'en prie.</l>
+	<l id="821">Souvent il importune, et quelquefois il plaît.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="822">J'en voudrais connaître un de l'humeur dont il est.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="823">Croyez qu'à le trouver vous auriez de la peine :</l>
+	<l id="824">Le monde n'en voit pas quatorze à la douzaine ;</l>
+	<l id="825">Et je jurerais bien, monsieur, en bonne foi,</l>
+	<l id="826">Qu'en France il n'en est point que Jodelet et moi.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="827">Voilà de ses bons mots les galantes surprises ;</l>
+	<l id="828">Mais qui parle beaucoup dit beaucoup de sottises ;</l>
+	<l id="829">Et quand il a dessein de se mettre en crédit,</l>
+	<l id="830">Plus il y fait d'effort, moins il sait ce qu'il dit.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="831">On appelle cela des vers à ma louange.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="832">Presque insensiblement nous avons pris le change.</l>
+	<l id="833">Mais revenons, monsieur, à ce que je vous dois.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="834">Nous en pourrons parler encore quelque autre fois :</l>
+	<l id="835" part="i">Il suffit pour ce coup.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="835" part="f">Je ne saurais vous taire</l>
+	<l id="836">En quel heureux état se trouve votre affaire.</l>
+	<l id="837">Vous sortirez bientôt, et peut-être demain ;</l>
+	<l id="838">Mais un si prompt secours ne vient pas de ma main :</l>
+	<l id="839">Les amis de Philiste en ont trouvé la voie ;</l>
+	<l id="840">J'en dois rougir de honte au milieu de ma joie ;</l>
+	<l id="841">Et je ne saurais voir sans être un peu jaloux</l>
+	<l id="842">Qu'il m'ôte les moyens de m'employer pour vous.</l>
+	<l id="843">Je cède avec regret à cet ami fidèle :</l>
+	<l id="844">S'il a plus de pouvoir, il n'a pas plus de zèle ;</l>
+	<l id="845">Et vous m'obligerez, au sortir de prison,</l>
+	<l id="846">De me faire l'honneur de prendre ma maison.</l>
+	<l id="847">Je n'attends point le temps de votre délivrance,</l>
+	<l id="848">De peur qu'encore un coup Philiste me devance ;</l>
+	<l id="849">Comme il m'ôte aujourd'hui l'espoir de vous servir,</l>
+	<l id="850">Vous loger est un bien que je lui veux ravir.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="851">C'est un excès d'honneur que vous me voulez rendre ;</l>
+	<l id="852">Et je croirais faillir de m'en vouloir défendre.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="853">Je vous en reprierai quand vous pourrez sortir ;</l>
+	<l id="854">Et lors nous tâcherons à vous bien divertir,</l>
+	<l id="855">Et vous faire oublier l'ennui que je vous cause.</l>
+	<l id="856">Auriez-vous cependant besoin de quelque chose ?</l>
+	<l id="857">Vous êtes voyageur, et pris par des sergents ;</l>
+	<l id="858">Et quoique ces messieurs soient fort honnêtes gens,</l>
+	<l id="859" part="i">Il en est quelques-uns...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="859" part="f">Les siens en sont du nombre :</l>
+	<l id="860">Ils ont en le prenant pillé jusqu'à son ombre ;</l>
+	<l id="861">Et n'était que le ciel a su le soulager,</l>
+	<l id="862">Vous le verriez encore fort net et fort léger ;</l>
+	<l id="863">Mais comme je pleurais ses tristes aventures,</l>
+	<l id="864">Nous avons reçu lettre, argent et confitures.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="865" part="i">Et de qui ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="865" part="f">Pour le dire, il faudrait deviner.</l>
+	<l id="866">Jugez ce qu'en ma place on peut s'imaginer.</l>
+	<l id="867">Une dame m'écrit, me flatte, me régale,</l>
+	<l id="868">Me promet une amour qui n'eut jamais d'égale,</l>
+	<l id="869" part="i">Me fait force présents...</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="869" part="m">Et vous visite ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="869" part="f">Non.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="870" part="i">Vous savez son logis ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="870" part="f">Non, pas même son nom.</l>
+	<l id="871">Ne soupçonnez-vous point ce que ce pourrait être ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="872">À moins que de la voir je ne la puis connaître.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="873">Pour un si bon ami je n'ai point de secret.</l>
+	<l id="874">Voyez, connaissez-vous les traits de ce portrait ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="875">Elle semble éveillée, et passablement belle ;</l>
+	<l id="876">Mais je ne vous en puis dire aucune nouvelle,</l>
+	<l id="877">Et je ne connais rien à ces traits que je vois.</l>
+	<l id="878">Je vais vous préparer une chambre chez moi.</l>
+	<l id="879" part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="879" part="f">Ce brusque adieu marque un trouble dans l'âme :</l>
+	<l id="880" part="i">Sans doute il la connaît.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="880" part="f">C'est peut-être sa femme ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="881" part="i">Sa femme ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="881" part="f">Oui, c'est sans doute elle qui vous écrit ;</l>
+	<l id="882">Et vous venez de faire un coup de grand esprit.</l>
+	<l id="883">Voilà de vos secrets et de vos confidences.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="884">Nomme-les par leur nom, dis de mes imprudences.</l>
+	<l id="885">Mais serait-ce en effet celle que tu me dis ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="886">Envoyez vos portraits à de tels étourdis :</l>
+	<l id="887">Ils gardent un secret avec extrême adresse.</l>
+	<l id="888">C'est sa femme, vous dis-je, ou du moins sa maîtresse :</l>
+	<l id="889">Ne l'avez-vous pas vu tout changé de couleur ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="890">Je l'ai vu, comme atteint d'une vive douleur,</l>
+	<l id="891">Faire de vains efforts pour cacher sa surprise.</l>
+	<l id="892">Son désordre, Cliton, montre ce qu'il déguise :</l>
+	<l id="893">Il a pris un prétexte à sortir promptement,</l>
+	<l id="894">Sans se donner loisir d'un mot de compliment.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="895">Qu'il fera dangereux rencontrer sa colère !</l>
+	<l id="896">Il va tout renverser si l'on le laisse faire,</l>
+	<l id="897">Et je vous tiens pour mort si sa fureur se croit ;</l>
+	<l id="898">Mais surtout ses valets peuvent bien marcher droit :</l>
+	<l id="899">Malheureux le premier qui fâchera son maître !</l>
+	<l id="900">Pour autres cent louis je ne voudrais pas l'être.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="901">La chose est sans remède ; en soit ce qui pourra :</l>
+	<l id="902">S'il fait tant le mauvais, peut-être on le verra.</l>
+	<l id="903">Ce n'est pas qu'après tout, Cliton, si c'est sa femme,</l>
+	<l id="904">Je ne sache étouffer cette naissante flamme :</l>
+	<l id="905">Ce serait lui prêter un fort mauvais secours</l>
+	<l id="906">Que lui ravir l'honneur en conservant ses jours ;</l>
+	<l id="907">D'une belle action j'en ferais une noire.</l>
+	<l id="908">J'en ai fait mon ami, je prends part à sa gloire ;</l>
+	<l id="909">Et je ne voudrais pas qu'on pût me reprocher</l>
+	<l id="910">De servir un brave homme au prix d'un bien si cher.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="911" part="i">Et s'il est son amant ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="911" part="f">Puisqu'elle me préfère,</l>
+	<l id="912">Ce que j'ai fait pour lui vaut bien qu'il me défère ;</l>
+	<l id="913">Sinon, il a du coeur, il en sait bien les lois,</l>
+	<l id="914">Et je suis résolu de défendre son choix.</l>
+	<l id="915">Tandis, pour un moment trêve de raillerie,</l>
+	<l id="916">Je veux entretenir un peu ma rêverie.</l>
+<stage>Il prend le portrait de Mélisse.</stage>
+	<l id="917">Merveille qui m'as enchanté,</l>
+	<l id="918">Portrait à qui je rends les armes,</l>
+	<l id="919">As-tu bien autant de bonté</l>
+	<l id="920">Comme tu me fais voir de charmes ?</l>
+	<l id="921">Hélas ! Au lieu de l'espérer,</l>
+	<l id="922">Je ne fais que me figurer</l>
+	<l id="923">Que tu te plains à cette belle,</l>
+	<l id="924">Que tu lui dis mon procédé,</l>
+	<l id="925">Et que je te fus infidèle</l>
+	<l id="926">Sitôt que je t'eus possédé.</l>
+	<l id="927">Garde mieux le secret que moi,</l>
+	<l id="928">Daigne en ma faveur te contraindre :</l>
+	<l id="929">Si j'ai pu te manquer de foi,</l>
+	<l id="930">C'est m'imiter que de t'en plaindre.</l>
+	<l id="931">Ta colère en me punissant</l>
+	<l id="932">Te fait criminel d'innocent ;</l>
+	<l id="933">Sur toi retombent les vengeances...</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, lui ôtant le portrait.</speaker>
+	<l id="934">Vous ne dites, monsieur, que des extravagances,</l>
+	<l id="935">Et parlez justement le langage des fous.</l>
+	<l id="936">Donnez, j'entretiendrai ce portrait mieux que vous ;</l>
+	<l id="937">Je veux vous en montrer de meilleures méthodes,</l>
+	<l id="938">Et lui faire des voeux plus courts et plus commodes.</l>
+	<l id="939">Adorable et riche beauté,</l>
+	<l id="940">Qui joins les effets aux paroles,</l>
+	<l id="941">Merveille qui m'as enchanté</l>
+	<l id="942">Par tes douceurs et tes pistoles,</l>
+	<l id="943">Sache un peu mieux les partager ;</l>
+	<l id="944">Et si tu nous veux obliger</l>
+	<l id="945">À dépeindre aux races futures</l>
+	<l id="946">L'éclat de tes faits inouïs,</l>
+	<l id="947">Garde pour toi les confitures,</l>
+	<l id="948">Et nous accable de louis.</l>
+	<l id="949" part="i">Voilà parler en homme.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="949" part="f">Arrête tes saillies,</l>
+	<l id="950">Ou va du moins ailleurs débiter tes folies.</l>
+	<l id="951">Je ne suis pas toujours d'humeur à t'écouter.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="952">Et je ne suis jamais d'humeur à vous flatter ;</l>
+	<l id="953">Je ne vous puis souffrir de dire une sottise.</l>
+	<l id="954">Par un double intérêt je prends cette franchise :</l>
+	<l id="955">L'un, vous êtes mon maître, et j'en rougis pour vous ;</l>
+	<l id="956">L'autre, c'est mon talent, et j'en deviens jaloux.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="957">Si c'est là ton talent, ma faute est sans exemple.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="958">Ne me l'enviez point, le vôtre est assez ample ;</l>
+	<l id="959">Et puisque enfin le ciel m'a voulu départir</l>
+	<l id="960">Le don d'extravaguer, comme à vous de mentir,</l>
+	<l id="961">Comme je ne mens point devant votre excellence,</l>
+	<l id="962">Ne dites à mes yeux aucune extravagance ;</l>
+	<l id="963">N'entreprenez sur moi, non plus que moi sur vous.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="964">Tais-toi ; le ciel m'envoie un entretien plus doux :</l>
+	<l id="965" part="i">L'ambassade revient.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="965" part="f">Que nous apporte-t-elle ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="966">Maraud, veux-tu toujours quelque douceur nouvelle ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="967">Non pas, mais le passé m'a rendu curieux ;</l>
+	<l id="968">Je lui regarde aux mains un peu plutôt qu'aux yeux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dorante, Mélisse, déguisée en servante, cachant son visage sous une coiffe ; Cliton, Lyse.</head>
+<sp who="CLITON"><speaker>CLITON, à Lyse.</speaker>
+	<l id="969">Montre ton passe-port. Quoi ? Tu viens les mains vides ?</l>
+	<l id="970">Ainsi détruit le temps les biens les plus solides ;</l>
+	<l id="971">Et moins d'un jour réduit tout votre heur et le mien,</l>
+	<l id="972">Des louis aux douceurs, et des douceurs à rien.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="973">Si j'apportai tantôt, à présent je demande.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="974" part="i">Que veux-tu ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="974" part="f">Ce portrait, que je veux qu'on me rende.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="975">As-tu pris du secours pour faire plus de bruit ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="976">J'amène ici ma soeur, parce qu'il s'en va nuit ;</l>
+	<l id="977">Mais vous pensez en vain chercher une défaite :</l>
+	<l id="978">Demandez-lui, monsieur, quelle vie on m'a faite.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="979">Quoi ? Ta maîtresse sait que tu me l'as laissé ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="980">Elle s'en est doutée, et je l'ai confessé.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="981" part="i">Elle s'en est donc mise en colère ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="981" part="f">Et si forte,</l>
+	<l id="982">Que je n'ose rentrer si je ne le rapporte :</l>
+	<l id="983">Si vous vous obstinez à me le retenir,</l>
+	<l id="984">Je ne sais dès ce soir, monsieur, que devenir ;</l>
+	<l id="985">Ma fortune est perdue, et dix ans de service.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="986">Écoute, il n'est pour toi chose que je ne fisse.</l>
+	<l id="987">Si je te nuis ici, c'est avec grand regret ;</l>
+	<l id="988">Mais on aura mon coeur avant que ce portrait.</l>
+	<l id="989">Va dire de ma part à celle qui t'envoie</l>
+	<l id="990">Qu'il fait tout mon bonheur, qu'il fait toute ma joie ;</l>
+	<l id="991">Que rien n'approcherait de mon ravissement,</l>
+	<l id="992">Si je le possédais de son consentement ;</l>
+	<l id="993">Qu'il est l'unique bien où mon espoir se fonde,</l>
+	<l id="994">Qu'il est le seul trésor qui me soit cher au monde.</l>
+	<l id="995">Et quant à ta fortune, il est en mon pouvoir</l>
+	<l id="996">De la faire monter par delà ton espoir.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="997">Je ne veux point de vous, ni de vos récompenses.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="998" part="i">Tu me dédaignes trop.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="998" part="m">Je le dois.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="998" part="f">Tu l'offenses.</l>
+	<l id="999">Mais voulez-vous, monsieur, me croire et vous venger ?</l>
+	<l id="1000">Rendez-lui son portrait pour la faire enrager.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1001">Oh ! Le grand habile homme ! Il y connaît finesse.</l>
+	<l id="1002">C'est donc ainsi, monsieur, que vous tenez promesse ?</l>
+	<l id="1003">Mais puisque auprès de vous j'ai si peu de crédit,</l>
+	<l id="1004">Demandez à ma soeur ce qu'elle m'en a dit,</l>
+	<l id="1005">Et si c'est sans raison que j'ai tant l'épouvante.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1006">Tu verras que ta soeur sera plus obligeante ;</l>
+	<l id="1007">Mais si ce grand courroux lui donne autant d'effroi,</l>
+	<l id="1008">Je ferai tout autant pour elle que pour toi.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1009">N'importe, parlez-lui : du moins vous saurez d'elle</l>
+	<l id="1010">Avec quelle chaleur j'ai pris votre querelle.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, à Mélisse.</speaker>
+	<l id="1011" part="i">Son ordre est-il si rude ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1011" part="f">Il est assez exprès ;</l>
+	<l id="1012">Mais sans mentir, ma soeur vous presse un peu de près :</l>
+	<l id="1013">Quoi qu'elle ait commandé, la chose a deux visages.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1014">Comme toutes les deux jouënt leurs personnages !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1015">Souvent tout cet effort à ravoir un portrait</l>
+	<l id="1016">N'est que pour voir l'amour par l'état qu'on en fait.</l>
+	<l id="1017">C'est peut-être après tout le dessein de madame :</l>
+	<l id="1018">Ma soeur, non plus que moi, ne lit pas dans son âme.</l>
+	<l id="1019">En ces occasions il fait bon hasarder,</l>
+	<l id="1020">Et de force ou de gré je saurais le garder.</l>
+	<l id="1021">Si vous l'aimez, monsieur, croyez qu'en son courage</l>
+	<l id="1022">Elle vous aime assez pour vous laisser ce gage :</l>
+	<l id="1023">Ce serait vous traiter avec trop de rigueur,</l>
+	<l id="1024">Puisque avant ce portrait on aura votre coeur ;</l>
+	<l id="1025">Et je la trouverais d'une humeur bien étrange,</l>
+	<l id="1026">Si je ne lui faisais accepter cette échange.</l>
+	<l id="1027">Je l'entreprends pour vous, et vous répondrai bien</l>
+	<l id="1028">Qu'elle aimera ce gage autant comme le sien.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1029">Ô ciel ! Et de quel nom faut-il que je te nomme ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1030">Ainsi font deux soldats qui sont chez le bonhomme :</l>
+	<l id="1031">Quand l'un veut tout tuer, l'autre rabat les coups ;</l>
+	<l id="1032">L'un jure comme un diable, et l'autre file doux.</l>
+	<l id="1033">Les belles, n'en déplaise à tout votre grimoire !</l>
+	<l id="1034">Vous vous entr'entendez comme larrons en foire.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1035" part="i">Que dit cet insolent ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1035" part="f">C'est un fou qui me sert.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1036" part="i">Vous dites que...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, à Cliton.</speaker>
+	<l id="1036" part="f">Tais-toi, ta sottise me perd.</l>
+<stage>À Mélisse.</stage>
+	<l id="1037">Je suivrai ton conseil, il m'a rendu la vie.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1038">Avec sa complaisance à flatter votre envie,</l>
+	<l id="1039">Dans le coeur de madame elle croit pénétrer ;</l>
+	<l id="1040">Mais son front en rougit, et n'ose se montrer.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1041">Mon front n'en rougit point, et je veux bien qu'il voie</l>
+	<l id="1042">D'où lui vient ce conseil qui lui rend tant de joie.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1043">Mes yeux, que vois-je ? Où suis-je ? êtes-vous des flatteurs ?</l>
+	<l id="1044">Si le portrait dit vrai, les habits sont menteurs.</l>
+	<l id="1045">Madame, c'est ainsi que vous savez surprendre !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1046">C'est ainsi que je tâche à ne me point méprendre,</l>
+	<l id="1047">À voir si vous m'aimez, et savez mériter</l>
+	<l id="1048">Cette parfaite amour que je vous veux porter.</l>
+	<l id="1049">Ce portrait est à vous, vous l'avez su défendre,</l>
+	<l id="1050">Et de plus sur mon coeur vous pouvez tout prétendre ;</l>
+	<l id="1051">Mais par quelque motif que vous l'eussiez rendu,</l>
+	<l id="1052">L'un et l'autre à jamais était pour vous perdu.</l>
+	<l id="1053">Je retirais le coeur en retirant ce gage,</l>
+	<l id="1054">Et vous n'eussiez de moi jamais vu que l'image.</l>
+	<l id="1055">Voilà le vrai sujet de mon déguisement.</l>
+	<l id="1056">Pour ne rien hasarder, j'ai pris ce vêtement,</l>
+	<l id="1057">Pour entrer sans soupçon, pour en sortir de même,</l>
+	<l id="1058">Et ne me point montrer qu'ayant vu si l'on m'aime.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1059">Je demeure immobile, et pour vous répliquer</l>
+	<l id="1060">Je perds la liberté même de m'expliquer.</l>
+	<l id="1061">Surpris, charmé, confus d'une telle merveille,</l>
+	<l id="1062">Je ne sais si je dors, je ne sais si je veille,</l>
+	<l id="1063">Je ne sais si je vis ; et je sais toutefois</l>
+	<l id="1064">Que ma vie est trop peu pour ce que je vous dois ;</l>
+	<l id="1065">Que tous mes jours usés à vous rendre service,</l>
+	<l id="1066">Que tout mon sang pour vous offert en sacrifice,</l>
+	<l id="1067">Que tout mon coeur brûlé d'amour pour vos appas,</l>
+	<l id="1068">Envers votre beauté ne m'acquitteraient pas.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1069">Sachez, pour arrêter ce discours qui me flatte,</l>
+	<l id="1070">Que je n'ai pu moins faire, à moins que d'être ingrate.</l>
+	<l id="1071">Vous avez fait pour moi plus que vous ne savez,</l>
+	<l id="1072">Et je vous dois bien plus que vous ne me devez.</l>
+	<l id="1073">Vous m'entendrez un jour ; à présent je vous quitte,</l>
+	<l id="1074">Et malgré mon amour, je romps cette visite.</l>
+	<l id="1075">Le soin de mon honneur veut que j'en use ainsi :</l>
+	<l id="1076">Je crains à tous moments qu'on me surprenne ici ;</l>
+	<l id="1077">Encore que déguisée, on pourrait me connaître.</l>
+	<l id="1078">Je vous puis cette nuit parler par ma fenêtre,</l>
+	<l id="1079">Du moins si le concierge est homme à consentir,</l>
+	<l id="1080">À force de présents, que vous puissiez sortir.</l>
+	<l id="1081">Un peu d'argent fait tout chez les gens de sa sorte.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1082">Mais après que les dons m'auront ouvert la porte,</l>
+	<l id="1083" part="i">Où dois-je vous chercher ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1083" part="f">Ayant su la maison,</l>
+	<l id="1084">Vous pourriez aisément vous informer du nom :</l>
+	<l id="1085">Encore un jour ou deux il me faut vous le taire ;</l>
+	<l id="1086">Mais vous n'êtes pas homme à me vouloir déplaire.</l>
+	<l id="1087">Je loge en Bellecour, environ au milieu,</l>
+	<l id="1088">Dans un grand pavillon. N'y manquez pas. Adieu.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1089">Donnez quelque signal pour plus certaine adresse.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1090">Un linge servira de marque plus expresse ;</l>
+	<l id="1091" part="i">J'en prendrai soin.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1091" part="f">On ouvre et quelqu'un vous vient voir.</l>
+	<l id="1092" part="i">Si vous m'aimez, Monsieur...</l>
+<stage>Elles abaissent toutes deux leurs coiffes.</stage>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1092" part="f">Je sais bien mon devoir ;</l>
+	<l id="1093">Sur ma discrétion prenez toute assurance.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Philiste, Dorante, Cliton.</head>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1094">Ami, notre bonheur passe notre espérance.</l>
+	<l id="1095">Vous avez compagnie ! Ah ! Voyons, s'il vous plaît.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1096">Laissez-les s'échapper, je vous dirai qui c'est.</l>
+	<l id="1097">Ce n'est qu'une lingère : allant en Italie,</l>
+	<l id="1098">Je la vis en passant, et la trouvai jolie ;</l>
+	<l id="1099">Nous fîmes connaissance ; et me sachant ici,</l>
+	<l id="1100">Comme vous le voyez, elle en a pris souci.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1101">Vous trouvez en tous lieux d'assez bonnes fortunes.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1102">Celle-ci pour le moins n'est pas des plus communes.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1103" part="i">Elle vous semble belle, à ce compte ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1103" part="f">À ravir.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1104" part="i">Je n'en suis point jaloux.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1104" part="f">M'y voulez-vous servir ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1105">Je suis trop maladroit pour un si noble rôle.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1106">Vous n'avez seulement qu'à dire une parole.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1107" part="i">Qu'une ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1107" part="f">Non. Cette nuit j'ai promis de la voir,</l>
+	<l id="1108">Sûr que vous obtiendrez mon congé pour ce soir.</l>
+	<l id="1109" part="i">Le concierge est à vous.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1109" part="f">C'est une affaire faite.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1110">Quoi ! Vous me refusez un mot que je souhaite ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1111">L'ordre, tout au contraire, en est déjà donné,</l>
+	<l id="1112">Et votre esprit trop prompt n'a pas bien deviné.</l>
+	<l id="1113">Comme je vous quittais avec peine à vous croire,</l>
+	<l id="1114">Quatre de mes amis m'ont conté votre histoire.</l>
+	<l id="1115">Ils marchaient après vous deux ou trois mille pas ;</l>
+	<l id="1116">Ils vous ont vu courir, tomber le mort à bas,</l>
+	<l id="1117">L'autre vous démonter, et fuir en diligence :</l>
+	<l id="1118">Ils ont vu tout cela de sur une éminence,</l>
+	<l id="1119">Et n'ont connu personne, étant trop éloignés.</l>
+	<l id="1120">Voilà, quoi qu'il en soit, tous nos procès gagnés,</l>
+	<l id="1121">Et plus tôt de beaucoup que je n'osais prétendre.</l>
+	<l id="1122">Je n'ai point perdu temps, et les ai fait entendre ;</l>
+	<l id="1123">Si bien que sans chercher d'autre éclaircissement,</l>
+	<l id="1124">Vos juges m'ont promis votre élargissement.</l>
+	<l id="1125">Mais quoiqu'il soit constant qu'on vous prend pour un autre,</l>
+	<l id="1126">Il faudra caution, et je serai la vôtre :</l>
+	<l id="1127">Ce sont formalités que pour vous dégager</l>
+	<l id="1128">Les juges, disent-ils, sont tenus d'exiger ;</l>
+	<l id="1129">Mais sans doute ils en font ainsi que bon leur semble.</l>
+	<l id="1130">Tandis, ce soir chez moi nous souperons ensemble ;</l>
+	<l id="1131">Dans un moment ou deux vous y pourrez venir ;</l>
+	<l id="1132">Nous aurons tout loisir de nous entretenir,</l>
+	<l id="1133">Et vous prendrez le temps de voir votre lingère.</l>
+	<l id="1134">Ils m'ont dit toutefois qu'il seroit nécessaire</l>
+	<l id="1135">De coucher pour la forme un moment en prison,</l>
+	<l id="1136">Et m'en ont sur-le-champ rendu quelque raison ;</l>
+	<l id="1137">Mais c'est si peu mon jeu que de telles matières,</l>
+	<l id="1138">Que j'en perds aussitôt les plus belles lumières.</l>
+	<l id="1139">Vous sortirez demain, il n'est rien de plus vrai :</l>
+	<l id="1140">C'est tout ce que j'en aime, et tout ce que j'en sai.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1141">Que ne vous dois-je point pour de si bons offices !</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1142">Ami, ce ne sont là que de petits services ;</l>
+	<l id="1143">Je voudrais pouvoir mieux, tout me serait fort doux.</l>
+	<l id="1144">Je vais chercher du monde à souper avec vous.</l>
+	<l id="1145">Adieu : je vous attends au plus tard dans une heure.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1146" part="i">Tu ne dis mot, Cliton.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1146" part="f">Elle est belle, ou je meure !</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1147" part="i">Elle te semble belle ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1147" part="f">Et si parfaitement</l>
+	<l id="1148">Que j'en suis même encore dans le ravissement.</l>
+	<l id="1149">Encore dans mon esprit je la vois et l'admire,</l>
+	<l id="1150">Et je n'ai su depuis trouver le mot à dire.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1151">Je suis ravi de voir que mon élection</l>
+	<l id="1152">Ait enfin mérité ton approbation.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1153">Ah ! Plût à Dieu, monsieur, que ce fût la servante !</l>
+	<l id="1154">Vous verriez comme quoi je la trouve charmante,</l>
+	<l id="1155">Et comme pour l'aimer je ferais le mutin.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1156">Admire en cet amour la force du destin.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1157">J'admire bien plutôt votre adresse ordinaire,</l>
+	<l id="1158">Qui change en un moment cette dame en lingère.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1159">C'était nécessité dans cette occasion,</l>
+	<l id="1160">De crainte que Philiste eût quelque vision,</l>
+	<l id="1161">S'en formât quelque idée, et la pût reconnaître.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1162">Cette métamorphose est de vos coups de maître ;</l>
+	<l id="1163">Je n'en parlerai plus, monsieur, que cette fois ;</l>
+	<l id="1164">Mais en un demi-jour comptez déjà pour trois.</l>
+	<l id="1165">Un coupable honnête homme, un portrait, une dame,</l>
+	<l id="1166">À son premier métier rendent soudain votre âme ;</l>
+	<l id="1167">Et vous savez mentir par générosité,</l>
+	<l id="1168">Par adresse d'amour, et par nécessité.</l>
+	<l id="1169" part="i">Quelle conversion !</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1169" part="f">Tu fais bien le sévère.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1170">Non, non, à l'avenir je fais voeu de m'en taire :</l>
+	<l id="1171" part="i">J'aurais trop à compter.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1171" part="f">Conserver un secret,</l>
+	<l id="1172">Ce n'est pas tant mentir qu'être amoureux discret ;</l>
+	<l id="1173">L'honneur d'une maîtresse aisément y dispose.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1174">Ce n'est qu'autre prétexte et non pas autre chose.</l>
+	<l id="1175">Croyez-moi, vous mourrez, monsieur, dans votre peau,</l>
+	<l id="1176">Et vous mériterez cet illustre tombeau,</l>
+	<l id="1177">Cette digne oraison que naguère j'ai faite :</l>
+	<l id="1178">Vous vous en souvenez, sans que je la répète.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1179">Pour de pareils secrets peut-on s'en garantir ?</l>
+	<l id="1180">Et toi-même, à ton tour, ne crois-tu point mentir ?</l>
+	<l id="1181">L'occasion convie, aide, engage, dispense ;</l>
+	<l id="1182">Et pour servir un autre on ment sans qu'on y pense.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1183">Si vous m'y surprenez, étrillez-y-moi bien.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1184">Allons trouver Philiste, et ne jurons de rien.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mélisse, Lyse.</head>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1185">J'en tremble encor de peur, et n'en suis pas remise.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1186">Aussi bien comme vous je pensais être prise.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1187">Non, Philiste n'est fait que pour m'incommoder.</l>
+	<l id="1188">Voyez ce qu'en ces lieux il venait demander,</l>
+	<l id="1189">S'il est heure si tard de faire une visite.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1190">Un ami véritable à toute heure s'acquitte ;</l>
+	<l id="1191">Mais un amant fâcheux, soit de jour, soit de nuit,</l>
+	<l id="1192">Toujours à contre-temps à nos yeux se produit ;</l>
+	<l id="1193">Et depuis qu'une fois il commence à déplaire,</l>
+	<l id="1194">Il ne manque jamais d'occasion contraire :</l>
+	<l id="1195">Tant son mauvais destin semble prendre de soins</l>
+	<l id="1196">À mêler sa présence où l'on la veut le moins !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1197">Quel désordre eût-ce été, Lyse, s'il m'eût connue !</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1198">Il vous aurait donné fort avant dans la vue.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1199">Quel bruit et quel éclat n'eût point fait son courroux !</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1200">Il eût été peut-être aussi honteux que vous.</l>
+	<l id="1201">Un homme un peu content et qui s'en fait accroire,</l>
+	<l id="1202">Se voyant méprisé, rabat bien de sa gloire,</l>
+	<l id="1203">Et surpris qu'il en est en telle occasion,</l>
+	<l id="1204">Toute sa vanité tourne en confusion.</l>
+	<l id="1205">Quand il a de l'esprit, il sait rendre le change ;</l>
+	<l id="1206">Loin de s'en émouvoir, en raillant il se venge,</l>
+	<l id="1207">Affecte des mépris, comme pour reprocher</l>
+	<l id="1208">Que la perte qu'il fait ne vaut pas s'en fâcher ;</l>
+	<l id="1209">Tant qu'il peut, il témoigne une âme indifférente.</l>
+	<l id="1210">Quoi qu'il en soit enfin, vous avez vu Dorante,</l>
+	<l id="1211">Et fort adroitement je vous ai mise en jeu.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1212">Et fort adroitement tu m'as fait voir son feu.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1213">Eh bien ! Mais que vous semble encore du personnage ?</l>
+	<l id="1214" part="i">Vous en ai-je trop dit ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1214" part="f">J'en ai vu davantage.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1215">Avez-vous du regret d'avoir trop hasardé ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1216">Je n'ai qu'un déplaisir, d'avoir si peu tardé.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1217" part="i">Vous l'aimez ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1217" part="m">Je l'adore.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1217" part="f">Et croyez qu'il vous aime ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1218">Qu'il m'aime, et d'une amour, comme la mienne, extrême.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1219">Une première vue, un moment d'entretien,</l>
+	<l id="1220">Vous fait ainsi tout croire et ne douter de rien !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1221">Quand les ordres du ciel nous ont faits l'un pour l'autre,</l>
+	<l id="1222">Lyse, c'est un accord bientôt fait que le nôtre :</l>
+	<l id="1223">Sa main entre les coeurs, par un secret pouvoir,</l>
+	<l id="1224">Sème l'intelligence avant que de se voir ;</l>
+	<l id="1225">Il prépare si bien l'amant et la maîtresse,</l>
+	<l id="1226">Que leur âme au seul nom s'émeut et s'intéresse.</l>
+	<l id="1227">On s'estime, on se cherche, on s'aime en un moment :</l>
+	<l id="1228">Tout ce qu'on s'entre-dit persuade aisément ;</l>
+	<l id="1229">Et sans s'inquiéter d'aucunes peurs frivoles,</l>
+	<l id="1230">La foi semble courir au-devant des paroles :</l>
+	<l id="1231">La langue en peu de mots en explique beaucoup ;</l>
+	<l id="1232">Les yeux, plus éloquents, font tout voir tout d'un coup ;</l>
+	<l id="1233">Et de quoi qu'à l'envi tous les deux nous instruisent,</l>
+	<l id="1234">Le coeur en entend plus que tous les deux n'en disent.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1235">Si, comme dit Sylvandre, une âme en se formant,</l>
+	<l id="1236">Ou descendant du ciel, prend d'une autre l'aimant,</l>
+	<l id="1237">La sienne a pris le vôtre, et vous a rencontrée.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1238" part="i">Quoi ? Tu lis les romans ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1238" part="f">Je puis bien lire Astrée ;</l>
+	<l id="1239">Je suis de son village, et j'ai de bons garants</l>
+	<l id="1240">Qu'elle et son Céladon étaient de nos parents.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1241" part="i">Quelle preuve en as-tu ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1241" part="f">Ce vieux saule, madame,</l>
+	<l id="1242">Où chacun d'eux cachait ses lettres et sa flamme,</l>
+	<l id="1243">Quand le jaloux Sémire en fit un faux témoin ;</l>
+	<l id="1244">Du pré de mon grand-père il fait encore le coin,</l>
+	<l id="1245">Et l'on m'a dit que c'est un infaillible signe</l>
+	<l id="1246">Que d'un si rare hymen je viens en droite ligne.</l>
+	<l id="1247" part="i">Vous ne m'en croyez pas ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1247" part="f">De vrai, c'est un grand point.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1248">Aurais-je tant d'esprit, si cela n'était point ?</l>
+	<l id="1249">D'où viendrait cette adresse à faire vos messages,</l>
+	<l id="1250">À jouer avec vous de si bons personnages,</l>
+	<l id="1251">Ce trésor de lumière et de vivacité,</l>
+	<l id="1252">Que d'un sang amoureux que j'ai d'eux hérité ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1253">Tu le disais tantôt, chacun a sa folie :</l>
+	<l id="1254">Les uns l'ont importune, et la tienne est jolie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléandre, Mélisse, Lyse.</head>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1255">Je viens d'avoir querelle avec ce prisonnier,</l>
+	<l id="1256" part="i">Ma soeur...</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1256" part="f">Avec Dorante ? Avec ce cavalier</l>
+	<l id="1257">Dont vous tenez l'honneur, dont vous tenez la vie ?</l>
+	<l id="1258" part="i">Qu'avez-vous fait ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1258" part="f">Un coup dont tu seras ravie.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1259">Qu'à cette lâcheté je puisse consentir !</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1260">Bien plus, tu m'aideras à le faire mentir.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1261">Ne le présumez pas, quelque espoir qui vous flatte :</l>
+	<l id="1262">Si vous êtes ingrat, je ne puis être ingrate.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1263" part="i">Tu sembles t'en fâcher ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1263" part="f">Je m'en fâche pour vous :</l>
+	<l id="1264">D'un mot il peut vous perdre, et je crains son courroux.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1265">Il est trop généreux ; et d'ailleurs la querelle,</l>
+	<l id="1266">Dans les termes qu'elle est, n'est pas si criminelle.</l>
+	<l id="1267">Écoute. Nous parlions des dames de Lyon ;</l>
+	<l id="1268">Elles sont assez mal en son opinion :</l>
+	<l id="1269">Il confesse de vrai qu'il a peu vu la ville ;</l>
+	<l id="1270">Mais il se l'imagine en beautés fort stérile,</l>
+	<l id="1271">Et ne peut se résoudre à croire qu'en ces lieux</l>
+	<l id="1272">La plus belle ait de quoi captiver de bons yeux.</l>
+	<l id="1273">Pour l'honneur du pays j'en nomme trois ou quatre ;</l>
+	<l id="1274">Mais à moins que de voir, il n'en veut rien rabattre ;</l>
+	<l id="1275">Et comme il ne le peut étant dans la prison,</l>
+	<l id="1276">J'ai cru par un portrait le mettre à la raison ;</l>
+	<l id="1277">Et sans chercher plus loin ces beautés qu'on admire,</l>
+	<l id="1278">Je ne veux que le tien pour le faire dédire :</l>
+	<l id="1279">Me le dénieras-tu, ma soeur, pour un moment ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1280">Vous me jouez, mon frère, assez accortement :</l>
+	<l id="1281">La querelle est adroite et bien imaginée.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1282">Non, je m'en suis vanté, ma parole est donnée.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1283">S'il faut ruser ici, j'en sais autant que vous,</l>
+	<l id="1284">Et vous serez bien fin si je ne romps vos coups.</l>
+	<l id="1285">Vous pensez me surprendre, et je n'en fais que rire :</l>
+	<l id="1286">Dites donc tout d'un coup ce que vous voulez dire.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1287">Eh bien ! Je viens de voir ton portrait en ses mains.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1288" part="i">Et c'est ce qui vous fâche ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1288" part="f">Et c'est dont je me plains.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1289">J'ai cru vous obliger, et l'ai fait pour vous plaire :</l>
+	<l id="1290" part="i">Votre ordre était exprès.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1290" part="f">Quoi ? Je te l'ai fait faire ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1291">Ne m'avez-vous pas dit : " sous ces déguisements</l>
+	<l id="1292">Ajoute à ton argent perles et diamants ? "</l>
+	<l id="1293">Ce sont vos propres mots, et vous en êtes cause.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1294">Eh quoi ! De ce portrait disent-ils quelque chose ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1295">Puisqu'il est enrichi de quatre diamants,</l>
+	<l id="1296">N'est-ce pas obéir à vos commandements ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1297">C'est fort bien expliquer le sens de mes prières.</l>
+	<l id="1298">Mais, ma soeur, ces faveurs sont un peu singulières :</l>
+	<l id="1299">Qui donne le portrait promet l'original.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1300">C'est encore votre ordre, ou je m'y connais mal.</l>
+	<l id="1301">Ne m'avez-vous pas dit : "Prends souci de me plaire,</l>
+	<l id="1302">Et vois ce que tu dois à qui te sauve un frère ? "</l>
+	<l id="1303">Puisque vous lui devez et la vie et l'honneur,</l>
+	<l id="1304">Pour vous en revancher dois-je moins que mon coeur ?</l>
+	<l id="1305">Et doutez-vous encore à quel point je vous aime,</l>
+	<l id="1306">Quand pour vous acquitter je me donne moi-même ?</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1307">Certes, pour m'obéir avec plus de chaleur,</l>
+	<l id="1308">Vous donnez à mon ordre une étrange couleur,</l>
+	<l id="1309">Et prenez un grand soin de bien payer mes dettes :</l>
+	<l id="1310">Non que mes volontés en soient mal satisfaites ;</l>
+	<l id="1311">Loin d'éteindre ce feu, je voudrais l'allumer,</l>
+	<l id="1312">Qu'il eût de quoi vous plaire, et voulût vous aimer.</l>
+	<l id="1313">Je tiendrais à bonheur de l'avoir pour beau-frère :</l>
+	<l id="1314">J'en cherche les moyens, j'y fais ce qu'on peut faire ;</l>
+	<l id="1315">Et c'est à ce dessein qu'au sortir de prison</l>
+	<l id="1316">Je viens de l'obliger à prendre la maison,</l>
+	<l id="1317">Afin que l'entretien produise quelques flammes</l>
+	<l id="1318">Qui forment doucement l'union de vos âmes.</l>
+	<l id="1319">Mais vous savez trouver des chemins plus aisés :</l>
+	<l id="1320">Sans savoir s'il vous plaît, ni si vous lui plaisez,</l>
+	<l id="1321">Vous pensez l'engager en lui donnant ces gages,</l>
+	<l id="1322">Et lui donnez sur vous de trop grands avantages.</l>
+	<l id="1323">Que sera-ce, ma soeur, si quand vous le verrez,</l>
+	<l id="1324">Vous n'y rencontrez pas ce que vous espérez,</l>
+	<l id="1325">Si quelque aversion vous prend pour son visage,</l>
+	<l id="1326">Si le vôtre le choque ou qu'un autre l'engage,</l>
+	<l id="1327">Et que de ce portrait, donné légèrement,</l>
+	<l id="1328">Il érige un trophée à quelque objet charmant ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1329">Sans jamais l'avoir vu, je connais son courage :</l>
+	<l id="1330">Qu'importe après cela quel en soit le visage ?</l>
+	<l id="1331">Tout le reste m'en plaît ; si le coeur en est haut,</l>
+	<l id="1332">Et si l'âme est parfaite, il n'a point de défaut.</l>
+	<l id="1333">Ajoutez que vous-même, après votre aventure,</l>
+	<l id="1334">Ne m'en avez pas fait une laide peinture ;</l>
+	<l id="1335">Et comme vous devez vous y connaître mieux,</l>
+	<l id="1336">Je m'en rapporte à vous, et choisis par vos yeux.</l>
+	<l id="1337">N'en doutez nullement, je l'aimerai, mon frère ;</l>
+	<l id="1338">Et si ces faibles traits n'ont point de quoi lui plaire,</l>
+	<l id="1339">S'il aime en autre lieu, n'en appréhendez rien :</l>
+	<l id="1340">Puisqu'il est généreux, il en usera bien.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1341">Quoi qu'il en soit, ma soeur, soyez plus retenue</l>
+	<l id="1342">Alors qu'à tous moments vous serez à sa vue.</l>
+	<l id="1343">Votre amour me ravit, je veux le couronner ;</l>
+	<l id="1344">Mais souffrez qu'il se donne avant que vous donner.</l>
+	<l id="1345">Il sortira demain, n'en soyez point en peine.</l>
+	<l id="1346">Adieu : je vais une heure entretenir Climène.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Mélisse, Lyse.</head>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1347">Vous en voilà défaite et quitte à bon marché.</l>
+	<l id="1348">Encore est-il traitable alors qu'il est fâché.</l>
+	<l id="1349">Sa colère a pour vous une douce méthode,</l>
+	<l id="1350">Et sur la remontrance il n'est pas incommode.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1351">Aussi qu'ai-je commis pour en donner sujet ?</l>
+	<l id="1352">Me ranger à son choix sans savoir son projet,</l>
+	<l id="1353">Deviner sa pensée, obéir par avance,</l>
+	<l id="1354">Sont-ce, Lyse, envers lui des crimes d'importance ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1355">Obéir par avance est un jeu délicat,</l>
+	<l id="1356">Dont tout autre que lui ferait un mauvais plat.</l>
+	<l id="1357">Mais ce nouvel amant dont vous faites votre âme</l>
+	<l id="1358">Avec un grand secret ménage votre flamme :</l>
+	<l id="1359">Devait-il exposer ce portrait à ses yeux ?</l>
+	<l id="1360" part="i">Je le tiens indiscret.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1360" part="f">Il n'est que curieux,</l>
+	<l id="1361">Et ne montrerait pas si grande impatience,</l>
+	<l id="1362">S'il me considérait avec indifférence ;</l>
+	<l id="1363">Outre qu'un tel secret peut souffrir un ami.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1364">Mais un homme qu'à peine il connaît à demi !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1365">Mon frère lui doit tant, qu'il a lieu d'en attendre</l>
+	<l id="1366">Tout ce que d'un ami tout autre peut prétendre.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1367">L'amour excuse tout dans un coeur enflammé,</l>
+	<l id="1368">Et tout crime est léger dont l'auteur est aimé.</l>
+	<l id="1369">Je serais plus sévère, et tiens qu'à juste titre</l>
+	<l id="1370">Vous lui pouvez tantôt en faire un bon chapitre.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1371">Ne querellons personne, et puisque tout va bien,</l>
+	<l id="1372">De crainte d'avoir pis, ne nous plaignons de rien.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1373">Que vous avez de peur que le marché n'échappe !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1374">Avec tant de façons que veux-tu que j'attrape ?</l>
+	<l id="1375">Je possède son coeur, je ne veux rien de plus,</l>
+	<l id="1376">Et je perdrais le temps en débats superflus.</l>
+	<l id="1377">Quelquefois en amour trop de finesse abuse.</l>
+	<l id="1378">S'excusera-t-il mieux que mon feu ne l'excuse ?</l>
+	<l id="1379">Allons, allons l'attendre, et sans en murmurer,</l>
+	<l id="1380">Ne pensons qu'aux moyens de nous en assurer.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1381" part="i">Vous ferez-vous connaître ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1381" part="f">Oui, s'il sait de mon frère</l>
+	<l id="1382">Ce que jusqu'à présent j'avais voulu lui taire :</l>
+	<l id="1383">Sinon, quand il viendra prendre son logement,</l>
+	<l id="1384">Il se verra surpris plus agréablement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dorante, Philiste, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1385">Me reconduire encore ! Cette cérémonie</l>
+	<l id="1386">D'entre les vrais amis devrait être bannie.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1387">Jusques en Bellecour je vous ai reconduit,</l>
+	<l id="1388">Pour voir une maîtresse en faveur de la nuit.</l>
+	<l id="1389">Le temps est assez doux, et je la vois paroître</l>
+	<l id="1390">En de semblables nuits souvent à la fenêtre :</l>
+	<l id="1391">J'attendrai le hasard un moment en ce lieu,</l>
+	<l id="1392">Et vous laisse aller voir votre lingère. Adieu.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1393">Que je vous laisse ici, de nuit, sans compagnie ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1394">C'est faire à votre tour trop de cérémonie.</l>
+	<l id="1395">Peut-être qu'à Paris j'aurais besoin de vous ;</l>
+	<l id="1396">Mais je ne crains ici ni rivaux, ni filous.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1397">Ami, pour des rivaux, chaque jour en fait naître ;</l>
+	<l id="1398">Vous en pouvez avoir, et ne les pas connaître :</l>
+	<l id="1399">Ce n'est pas que je veuille entrer dans vos secrets ;</l>
+	<l id="1400">Mais nous nous tiendrons loin en confidents discrets.</l>
+	<l id="1401" part="i">J'ai du loisir assez.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1401" part="f">Si l'heure ne vous presse,</l>
+	<l id="1402">Vous saurez mon secret touchant cette maîtresse :</l>
+	<l id="1403">Elle demeure, ami, dans ce grand pavillon.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, bas.</speaker>
+	<l id="1404">Tout se prépare mal à cet échantillon.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1405">Est-ce où je pense voir un linge qui voltige ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1406" part="i">Justement.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1406" part="m">Elle est belle ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1406" part="m">Assez.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1406" part="f">Et vous oblige ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1407">Je ne saurais encore, s'il faut tout avouer,</l>
+	<l id="1408">Ni m'en plaindre beaucoup, ni beaucoup m'en louer ;</l>
+	<l id="1409">Son accueil n'est pour moi ni trop doux ni trop rude :</l>
+	<l id="1410">Il est et sans faveur et sans ingratitude,</l>
+	<l id="1411">Et je la vois toujours dedans un certain point</l>
+	<l id="1412">Qui ne me chasse pas et ne l'engage point.</l>
+	<l id="1413">Mais je me trompe fort, ou sa fenêtre s'ouvre.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1414">Je me trompe moi-même, ou quelqu'un s'y découvre.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1415">J'avance ; approchez-vous, mais sans suivre mes pas,</l>
+	<l id="1416">Et prenez un détour qui ne vous montre pas :</l>
+	<l id="1417">Vous jugerez quel fruit je puis espérer d'elle</l>
+	<l id="1418">Pour Cliton, il peut faire ici la sentinelle.</l>
+</sp>
+<sp who="DORANTE"><speaker>Dorante, parlant à Cliton, avant que Philiste s'est éloigné.</speaker>
+	<l id="1419">Que me vient-il de dire ? Et qu'est-ce que je vois ?</l>
+	<l id="1420">Cliton, sans doute il aime en même lieu que moi.</l>
+	<l id="1421">Ô ciel ! Que mon bonheur est de peu de durée !</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1422">S'il prend l'occasion qui vous est préparée,</l>
+	<l id="1423">Vous pouvez disputer avec votre valet</l>
+	<l id="1424">À qui mieux de vous deux gardera le mulet.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE, parlant à Cliton, après que Philiste s'est éloigné.</speaker>
+	<l id="1425">Que de confusion et de trouble en mon âme !</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1426">Allez prêter l'oreille aux discours de la dame ;</l>
+	<l id="1427">Au bruit que je ferai prenez bien votre temps,</l>
+	<l id="1428">Et nous lui donnerons de jolis passe-temps.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Mélisse, Lyse à la fenêtre, Philiste, Dorante, Cliton.</head>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1429" part="i">Est-ce vous ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1429" part="m">Oui, madame.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1429" part="f">Ah ! Que j'en suis ravie !</l>
+	<l id="1430">Que mon sort cette nuit devient digne d'envie !</l>
+	<l id="1431">Certes, je n'osais plus espérer ce bonheur.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1432">Manquerois-je à venir où j'ai laissé mon coeur ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1433">Qu'ainsi je sois aimée, et que de vous j'obtienne</l>
+	<l id="1434">Une amour si parfaite et pareille à la mienne !</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1435">Ah ! S'il en est besoin, j'en jure, et par vos yeux.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1436">Vous revoir en ce lieu m'en persuade mieux ;</l>
+	<l id="1437">Et sans autre serment, cette seule visite</l>
+	<l id="1438">M'assure d'un bonheur qui passe mon mérite.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1439" part="i">À l'aide !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1439" part="m">J'oy du bruit.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1439" part="f">À la force ! Au secours !</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1440">C'est quelqu'un qu'on maltraite : excusez si j'y cours ;</l>
+	<l id="1441" part="i">Madame, je reviens.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, s'éloignant toujours derrière le théâtre.</speaker>
+	<l id="1441" part="f">On m'égorge, on me tue.</l>
+	<l id="1442" part="i">Au meurtre !</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1442" part="f">Il est déjà dans la prochaine rue.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1443">C'est Cliton : retournez, il suffira de moi.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1444" part="i">Je ne vous quitte point : allons.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1444" part="f">Je meurs d'effroi.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, derrière le théâtre.</speaker>
+	<l id="1445" part="i">Je suis mort.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1445" part="f">Un rival lui fait cette surprise.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1446">C'est plutôt quelque ivrogne, ou quelque autre sottise</l>
+	<l id="1447">Qui ne méritoit pas rompre votre entretien.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1448" part="i">Tu flattes mes desirs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dorante, Mélisse, Lyse.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1448" part="f">Madame, ce n'est rien :</l>
+	<l id="1449">Des marauds, dont le vin embrouillait la cervelle,</l>
+	<l id="1450">Vidoient à coups de poing une vieille querelle :</l>
+	<l id="1451">Ils étoient trois contre un, et le pauvre battu</l>
+	<l id="1452">À crier de la sorte exerçait sa vertu.</l>
+	<l id="1453">Si Cliton m'entendoit, il compterait pour quatre.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1454">Vous n'avez donc point eu d'ennemis à combattre ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1455">Un coup de plat d'épée a tout fait écouler.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1456">Je mourois de frayeur, vous y voyant aller.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1457">Que Philiste est heureux ! Qu'il doit aimer la vie !</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1458">Vous n'avez pas sujet de lui porter envie.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1459">Vous lui parliez naguère en termes assez doux.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1460">Je pense d'aujourd'hui n'avoir parlé qu'à vous.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1461">Vous ne lui parliez pas avant tout ce vacarme ?</l>
+	<l id="1462">Vous ne lui disiez pas que son amour vous charme,</l>
+	<l id="1463">Qu'aucuns feux à vos feux ne peuvent s'égaler ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1464">J'ai tenu ce discours, mais j'ai cru vous parler.</l>
+	<l id="1465" part="i">N'êtes-vous pas Dorante ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1465" part="f">Oui, je le suis, madame,</l>
+	<l id="1466">Le malheureux témoin de votre peu de flamme.</l>
+	<l id="1467">Ce qu'un moment fit naître, un autre l'a détruit ;</l>
+	<l id="1468">Et l'ouvrage d'un jour se perd en une nuit.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1469">L'erreur n'est pas un crime ; et votre aimable idée,</l>
+	<l id="1470">Régnant sur mon esprit, m'a si bien possédée,</l>
+	<l id="1471">Que dans ce cher objet le sien s'est confondu,</l>
+	<l id="1472">Et lorsqu'il m'a parlé je vous ai répondu ;</l>
+	<l id="1473">En sa place tout autre eût passé pour vous-même :</l>
+	<l id="1474">Vous verrez par la suite à quel point je vous aime.</l>
+	<l id="1475">Pardonnez cependant à mes esprits déçus ;</l>
+	<l id="1476">Daignez prendre pour vous les voeux qu'il a reçus ;</l>
+	<l id="1477">Ou si, manque d'amour, votre soupçon persiste...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1478">N'en parlons plus, de grâce, et parlons de Philiste :</l>
+	<l id="1479">Il vous sert, et la nuit me l'a trop découvert.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1480">Dites qu'il m'importune, et non pas qu'il me sert ;</l>
+	<l id="1481">N'en craignez rien. Adieu : j'ai peur qu'il ne revienne.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1482">Où voulez-vous demain que je vous entretienne ?</l>
+	<l id="1483" part="i">Je dois être élargi.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1483" part="f">Je vous ferai savoir</l>
+	<l id="1484">Dès demain chez Cléandre où vous me pourrez voir.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1485">Et qui vous peut sitôt apprendre ces nouvelles ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1486">Et ne savez-vous pas que l'amour a des ailes ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1487">Vous avez habitude avec ce cavalier ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1488">Non, je sais tout cela d'un esprit familier.</l>
+	<l id="1489">Soyez moins curieux, plus secret, plus modeste,</l>
+	<l id="1490">Sans ombrage, et demain nous parlerons du reste.</l>
+</sp>
+<sp who="DORANTE"><speaker>Dorante, seul.</speaker>
+	<l id="1491">Comme elle est ma maîtresse, elle m'a fait leçon,</l>
+	<l id="1492">Et d'un soupçon je tombe en un autre soupçon.</l>
+	<l id="1493">Lorsque je crains Cléandre, un ami me traverse ;</l>
+	<l id="1494">Mais nous avons bien fait de rompre le commerce :</l>
+	<l id="1495" part="i">Je crois l'entendre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Dorante, Philiste, Cliton.</head>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1495" part="f">Ami, vous m'avez tôt quitté.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1496">Sachant fort peu la ville, et dans l'obscurité,</l>
+	<l id="1497">En moins de quatre pas j'ai tout perdu de vue ;</l>
+	<l id="1498">Et m'étant égaré dès la première rue,</l>
+	<l id="1499">Comme je sais un peu ce que c'est que l'amour,</l>
+	<l id="1500">J'ai cru qu'il vous fallait attendre en Bellecour ;</l>
+	<l id="1501">Mais je n'ai plus trouvé personne à la fenêtre.</l>
+	<l id="1502">Dites-moi, cependant qui massacrait ce traître ?</l>
+	<l id="1503" part="i">Qui le faisait crier ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1503" part="f">À quelques mille pas,</l>
+	<l id="1504">Je l'ai rencontré seul tombé sur des plâtras.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1505">Maraud, ne criois-tu que pour nous mettre en peine ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1506">Souffrez encore un peu que je reprenne haleine.</l>
+	<l id="1507">Comme à Lyon le peuple aime fort les laquais,</l>
+	<l id="1508">Et leur donne souvent de dangereux paquets,</l>
+	<l id="1509">Deux coquins, me trouvant tantôt en sentinelle,</l>
+	<l id="1510">Ont laissé choir sur moi leur haine naturelle ;</l>
+	<l id="1511">Et sitôt qu'ils ont vu mon habit rouge et vert...</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1512">Quand il est nuit sans lune, et qu'il fait temps couvert,</l>
+	<l id="1513">Connoît-on les couleurs ? Tu donnes une bourde.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1514">Ils portaient sous le bras une lanterne sourde.</l>
+	<l id="1515">C'était fait de ma vie, ils me traînaient à l'eau ;</l>
+	<l id="1516">Mais sentant du secours, ils ont craint pour leur peau,</l>
+	<l id="1517">Et jouant des talons tous deux en gens habiles,</l>
+	<l id="1518">Ils m'ont fait trébucher sur un monceau de tuiles,</l>
+	<l id="1519">Chargé de tant de coups et de poing et de pied,</l>
+	<l id="1520">Que je crois tout au moins en être estropié.</l>
+	<l id="1521">Puissé-je voir bientôt la canaille noyée !</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1522">Si j'eusse pu les joindre, ils me l'eussent payée,</l>
+	<l id="1523">L'heureuse occasion dont je n'ai pu jouir,</l>
+	<l id="1524">Et que cette sottise a fait évanouir.</l>
+	<l id="1525">Vous en êtes témoin, cette belle adorable</l>
+	<l id="1526">Ne me pourrait jamais être plus favorable :</l>
+	<l id="1527">Jamais je n'en reçus d'accueil si gracieux ;</l>
+	<l id="1528">Mais j'ai bientôt perdu ces moments précieux.</l>
+	<l id="1529">Adieu : je prendrai soin demain de votre affaire.</l>
+	<l id="1530">Il est saison pour vous de voir votre lingère.</l>
+	<l id="1531">Puissiez-vous recevoir dans ce doux entretien</l>
+	<l id="1532">Un plaisir plus solide et plus long que le mien !</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Dorante, Cliton.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1533">Cliton, si tu le peux, regarde-moi sans rire.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1534">J'entends à demi-mot, et ne m'en puis dédire :</l>
+	<l id="1535" part="i">J'ai gagné votre mal.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1535" part="f">Eh bien ! L'occasion ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1536">Elle fait le menteur, ainsi que le larron.</l>
+	<l id="1537">Mais si j'en ai donné, c'est pour votre service.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1538">Tu l'as bien fait courir avec cet artifice.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1539">Si je ne fusse chu, je l'eusse mené loin ;</l>
+	<l id="1540">Mais surtout j'ai trouvé la lanterne au besoin ;</l>
+	<l id="1541">Et sans ce prompt secours, votre feinte importune</l>
+	<l id="1542">M'eût bien embarrassé de votre nuit sans lune.</l>
+	<l id="1543">Sachez une autre fois que ces difficultés</l>
+	<l id="1544">Ne se proposent point qu'entre gens concertés.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1545">Pour le mieux éblouir, je faisais le sévère.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1546">C'étoit un jeu tout propre à gâter le mystère.</l>
+	<l id="1547">Dites-moi cependant, êtes-vous satisfait ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1548" part="i">Autant comme on peut l'être.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1548" part="m">En effet ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1548" part="f">En effet.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1549" part="i">Et Philiste ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1549" part="f">Il se tient comblé d'heur et de gloire ;</l>
+	<l id="1550">Mais on l'a pris pour moi dans une nuit si noire :</l>
+	<l id="1551">On s'excuse du moins avec cette couleur.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1552">Ces fenêtres toujours vous ont porté malheur :</l>
+	<l id="1553">Vous y prîtes jadis Clarice pour Lucrèce ;</l>
+	<l id="1554">Aujourd'hui même erreur trompe cette maîtresse ;</l>
+	<l id="1555">Et vous n'avez point eu de pareils rendez-vous</l>
+	<l id="1556">Sans faire une jalouse ou devenir jaloux.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1557">Je n'ai pas lieu de l'être, et n'en sors pas fort triste.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1558">Vous pourrez maintenant savoir tout de Philiste.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1559">Cliton, tout au contraire, il me faut l'éviter :</l>
+	<l id="1560">Tout est perdu pour moi, s'il me va tout conter.</l>
+	<l id="1561">De quel front oserais-je, après sa confidence,</l>
+	<l id="1562">Souffrir que mon amour se mît en évidence ?</l>
+	<l id="1563">Après les soins qu'il prend de rompre ma prison,</l>
+	<l id="1564">Aimer en même lieu semble une trahison.</l>
+	<l id="1565">Voyant cette chaleur qui pour moi l'intéresse,</l>
+	<l id="1566">Je rougis en secret de servir sa maîtresse,</l>
+	<l id="1567">Et crois devoir du moins ignorer son amour</l>
+	<l id="1568">Jusqu'à ce que le mien ait pu paroître au jour.</l>
+	<l id="1569">Déclaré le premier, je l'oblige à se taire ;</l>
+	<l id="1570">Ou si de cette flamme il ne se peut défaire,</l>
+	<l id="1571">Il ne peut refuser de s'en remettre au choix</l>
+	<l id="1572">De celle dont tous deux nous adorons les lois.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1573">Quand il vous préviendra, vous pouvez le défendre</l>
+	<l id="1574">Aussi bien contre lui comme contre Cléandre.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1575">Contre Cléandre et lui je n'ai pas même droit :</l>
+	<l id="1576">Je dois autant à l'un comme l'autre me doit ;</l>
+	<l id="1577">Et tout homme d'honneur n'est qu'en inquiétude,</l>
+	<l id="1578">Pouvant être suspect de quelque ingratitude.</l>
+	<l id="1579">Allons nous reposer : la nuit et le sommeil</l>
+	<l id="1580">Nous pourront inspirer quelque meilleur conseil.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Lyse, Cliton.</head>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1581">Nous voici bien logés, Lyse, et sans raillerie,</l>
+	<l id="1582">Je ne souhaitais pas meilleure hôtellerie.</l>
+	<l id="1583">Enfin nous voyons clair à ce que nous faisons,</l>
+	<l id="1584">Et je puis à loisir te conter mes raisons.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1585">Tes raisons, c'est-à-dire autant d'extravagances.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1586" part="i">Tu me connais déjà !</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1586" part="f">Bien mieux que tu ne penses.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1587" part="i">J'en débite beaucoup.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1587" part="f">Tu sais les prodiguer.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1588">Mais sais-tu que l'amour me fait extravaguer ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1589" part="i">En tiens-tu donc pour moi ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1589" part="f">J'en tiens, je le confesse.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1590">Autant comme ton maître en tient pour ma maîtresse ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1591">Non pas encore si fort, mais dès ce même instant</l>
+	<l id="1592">Il ne tiendra qu'à toi que je n'en tienne autant :</l>
+	<l id="1593">Tu n'as qu'à l'imiter pour être autant aimée.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1594">Si son âme est en feu, la mienne est enflammée ;</l>
+	<l id="1595">Et je crois jusqu'ici ne l'imiter pas mal.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1596">Tu manques, à vrai dire, encore au principal.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1597" part="i">Ton secret est obscur.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1597" part="f">Tu ne veux pas l'entendre ;</l>
+	<l id="1598">Vois quelle est sa méthode, et tâche de la prendre.</l>
+	<l id="1599">Ses attraits tout-puissants ont des avant-coureurs</l>
+	<l id="1600">Encore plus souverains à lui gagner les coeurs :</l>
+	<l id="1601">Mon maître se rendit à ton premier message.</l>
+	<l id="1602">Ce n'est pas qu'en effet je n'aime ton visage ;</l>
+	<l id="1603">Mais l'amour aujourd'hui dans les coeurs les plus vains</l>
+	<l id="1604">Entre moins par les yeux qu'il ne fait par les mains ;</l>
+	<l id="1605">Et quand l'objet aimé voit les siennes garnies,</l>
+	<l id="1606">Il voit en l'autre objet des grâces infinies.</l>
+	<l id="1607">Pourrais-tu te résoudre à m'attaquer ainsi ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1608">J'en voudrais être quitte à moins d'un grand merci.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1609">Écoute : je n'ai pas une âme intéressée,</l>
+	<l id="1610">Et je te veux ouvrir le fond de ma pensée.</l>
+	<l id="1611">Aimons-nous but à but, sans soupçon, sans rigueur :</l>
+	<l id="1612">Donnons âme pour âme et rendons coeur pour coeur.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1613" part="i">J'en veux bien à ce prix.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1613" part="f">Donc, sans plus de langage,</l>
+	<l id="1614">Tu veux bien m'en donner quelques baisers pour gage ?</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1615">Pour l'âme et pour le coeur, tant que tu les voudras ;</l>
+	<l id="1616">Mais pour le bout du doigt, ne le demande pas :</l>
+	<l id="1617">Un amour délicat hait ces faveurs grossières,</l>
+	<l id="1618">Et je t'ai bien donné des preuves plus entières.</l>
+	<l id="1619">Pourquoi me demander des gages superflus ?</l>
+	<l id="1620">Ayant l'âme et le coeur, que te faut-il de plus ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1621">J'ai le goût fort grossier en matière de flamme :</l>
+	<l id="1622">Je sais que c'est beaucoup qu'avoir le coeur et l'âme ;</l>
+	<l id="1623">Mais je ne sais pas moins qu'on a fort peu de fruit</l>
+	<l id="1624">Et de l'âme et du coeur, si le reste ne suit.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1625">Eh quoi ! Pauvre ignorant, ne sais-tu pas encore</l>
+	<l id="1626">Qu'il faut suivre l'humeur de celle qu'on adore,</l>
+	<l id="1627">Se rendre complaisant, vouloir ce qu'elle veut ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1628">Si tu n'en veux changer, c'est ce qui ne se peut.</l>
+	<l id="1629">De quoi me guériraient ces gages invisibles ?</l>
+	<l id="1630">Comme j'ai l'esprit lourd, je les veux plus sensibles :</l>
+	<l id="1631" part="i">Autrement, marché nul.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1631" part="f">Ne désespère point :</l>
+	<l id="1632">Chaque chose a son ordre, et tout vient à son point ;</l>
+	<l id="1633">Peut-être avec le temps nous pourrons-nous connaître.</l>
+	<l id="1634">Apprends-moi cependant qu'est devenu ton maître.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1635">Il est avec Philiste allé remercier</l>
+	<l id="1636">Ceux que pour son affaire il a voulu prier.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1637">Je crois qu'il est ravi de voir que sa maîtresse</l>
+	<l id="1638">Est la soeur de Cléandre et devient son hôtesse ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1639">Il a raison de l'être et de tout espérer.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1640">Avec toute assurance il peut se déclarer :</l>
+	<l id="1641">Autant comme la soeur le frère le souhaite ;</l>
+	<l id="1642">Et s'il l'aime en effet, je tiens la chose faite.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1643">Ne doute point s'il l'aime après qu'il meurt d'amour.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1644">Il semble toutefois fort triste à son retour.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dorante, Cliton, Lyse.</head>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1645">Tout est perdu, Cliton, il faut ployer bagage.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1646">Je fais ici, monsieur, l'amour de bon courage ;</l>
+	<l id="1647">Au lieu de m'y troubler, allez en faire autant.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1648" part="i">N'en parlons plus.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1648" part="f">Entrez, vous dis-je, on vous attend.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1649" part="i">Que m'importe ?</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1649" part="m">On vous aime.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1649" part="m">Hélas !</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1649" part="f">On vous adore.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1650" part="i">Je le sais.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1650" part="f">D'où vient donc l'ennui qui vous dévore ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1651" part="i">Que je te trouve heureux !</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1651" part="f">Le destin m'est si doux</l>
+	<l id="1652">Que vous avez sujet d'en être fort jaloux :</l>
+	<l id="1653">Alors qu'on vous caresse à grands coups de pistoles,</l>
+	<l id="1654">J'obtiens tout doucement paroles pour paroles.</l>
+	<l id="1655">L'avantage est fort rare et me rend fort heureux.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1656" part="i">Il faut partir, te dis-je.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON.</speaker>
+	<l id="1656" part="f">Oui, dans un an ou deux.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1657" part="i">Sans tarder un moment.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1657" part="f">L'amour trouve des charmes</l>
+	<l id="1658">À donner quelquefois de pareilles alarmes.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1659" part="i">Lyse, c'est tout de bon.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1659" part="f">Vous n'en avez pas lieu.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1660">Ta maîtresse survient, il faut lui dire adieu</l>
+	<l id="1661">Puisse en ses belles mains ma douleur immortelle</l>
+	<l id="1662">Laisser toute mon âme en prenant congé d'elle !</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dorante, Mélisse, Lyse, Cliton.</head>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1663">Au bruit de vos soupirs, tremblante et sans couleur,</l>
+	<l id="1664">Je viens savoir de vous mon crime ou mon malheur ;</l>
+	<l id="1665">Si j'en suis le sujet, si j'en suis le remède,</l>
+	<l id="1666">Si je puis le guérir, ou s'il faut que j'y cède ;</l>
+	<l id="1667">Si je dois ou vous plaindre ou me justifier,</l>
+	<l id="1668">Et de quels ennemis il faut me défier.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1669">De mon mauvais destin, qui seul me persécute.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1670">À ses injustes lois que faut-il que j'impute ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1671">Le coup le plus mortel dont il m'eût pu frapper.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1672">Est-ce un mal que mes yeux ne puissent dissiper ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1673">Votre amour le fait naître, et vos yeux le redoublent.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1674">Si je ne puis calmer les soucis qui vous troublent,</l>
+	<l id="1675">Mon amour avec vous saura les partager.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1676">Ah ! Vous les aigrissez, les voulant soulager</l>
+	<l id="1677">Puis-je voir tant d'amour avec tant de mérite,</l>
+	<l id="1678">Et dire sans mourir qu'il faut que je vous quitte ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1679">Vous me quittez ! Ô ciel ! Mais, Lyse, soutenez :</l>
+	<l id="1680">Je sens manquer la force à mes sens étonnés.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1681">Ne croissez point ma plaie, elle est assez ouverte :</l>
+	<l id="1682">Vous me montrez en vain la grandeur de ma perte.</l>
+	<l id="1683">Ce grand excès d'amour que font voir vos douleurs</l>
+	<l id="1684">Triomphe de mon coeur sans vaincre mes malheurs.</l>
+	<l id="1685">On ne m'arrête pas pour redoubler mes chaînes,</l>
+	<l id="1686">On redouble ma flamme, on redouble mes peines ;</l>
+	<l id="1687">Mais tous ces nouveaux feux qui viennent m'embraser</l>
+	<l id="1688">Me donnent seulement plus de fers à briser.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1689">Donc à m'abandonner votre âme est résolue ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1690">Je cède à la rigueur d'une force absolue.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1691">Votre manque d'amour vous y fait consentir.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1692">Traitez-moi de volage, et me laissez partir :</l>
+	<l id="1693">Vous me serez plus douce en m'étant plus cruelle.</l>
+	<l id="1694">Je ne pars toutefois que pour être fidèle ;</l>
+	<l id="1695">À quelques lois par là qu'il me faille obéir,</l>
+	<l id="1696">Je m'en révolterais, si je pouvais trahir.</l>
+	<l id="1697">Sachez-en le sujet ; et peut-être, madame,</l>
+	<l id="1698">Que vous-même avouerez, en lisant dans mon âme,</l>
+	<l id="1699">Qu'il faut plaindre Dorante, au lieu de l'accuser ;</l>
+	<l id="1700">Que plus il quitte en vous, plus il est à priser,</l>
+	<l id="1701">Et que tant de faveurs dessus lui répandues</l>
+	<l id="1702">Sur un indigne objet ne sont pas descendues.</l>
+	<l id="1703">Je ne vous redis point combien il m'était doux</l>
+	<l id="1704">De vous connaître enfin et de loger chez vous,</l>
+	<l id="1705">Ni comme avec transport je vous ai rencontrée :</l>
+	<l id="1706">Par cette porte, hélas ! Mes maux ont pris entrée,</l>
+	<l id="1707">Par ce dernier bonheur mon bonheur s'est détruit ;</l>
+	<l id="1708">Ce funeste départ en est l'unique fruit,</l>
+	<l id="1709">Et ma bonne fortune, à moi-même contraire,</l>
+	<l id="1710">Me fait perdre la soeur par la faveur du frère.</l>
+	<l id="1711">Le coeur enflé d'amour et de ravissement,</l>
+	<l id="1712">J'allais rendre à Philiste un mot de compliment ;</l>
+	<l id="1713">Mais lui tout aussitôt, sans le vouloir entendre :</l>
+	<l id="1714">" cher ami, m'a-t-il dit, vous logez chez Cléandre,</l>
+	<l id="1715">Vous aurez vu sa soeur : je l'aime, et vous pouvez</l>
+	<l id="1716">Me rendre beaucoup plus que vous ne me devez :</l>
+	<l id="1717">En faveur de mes feux parlez à cette belle ;</l>
+	<l id="1718">Et comme mon amour a peu d'accès chez elle,</l>
+	<l id="1719">Faites l'occasion quand je vous irai voir. "</l>
+	<l id="1720">À ces mots j'ai frémi sous l'horreur du devoir.</l>
+	<l id="1721">Par ce que je lui dois jugez de ma misère :</l>
+	<l id="1722">Voyez ce que je puis et ce que je dois faire.</l>
+	<l id="1723">Ce coeur qui le trahit, s'il vous aime aujourd'hui,</l>
+	<l id="1724">Ne vous trahit pas moins s'il vous parle pour lui.</l>
+	<l id="1725">Ainsi, pour n'offenser son amour ni le vôtre,</l>
+	<l id="1726">Ainsi, pour n'être ingrat ni vers l'un ni vers l'autre,</l>
+	<l id="1727">J'ôte de votre vue un amant malheureux,</l>
+	<l id="1728">Qui ne peut plus vous voir sans vous trahir tous deux :</l>
+	<l id="1729">Lui, puisqu'à son amour j'oppose ma présence ;</l>
+	<l id="1730">Vous, puisqu'en sa faveur je m'impose silence.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1731">C'est à Philiste donc que vous m'abandonnez ?</l>
+	<l id="1732">Ou plutôt c'est Philiste à qui vous me donnez ?</l>
+	<l id="1733">Votre amitié trop ferme, ou votre amour trop lâche,</l>
+	<l id="1734">M'ôtant ce qui me plaît, me rend ce qui me fâche ?</l>
+	<l id="1735">Que c'est à contre-temps faire l'amant discret,</l>
+	<l id="1736">Qu'en ces occasions conserver un secret !</l>
+	<l id="1737">Il fallait découvrir... Mais simple ! Je m'abuse :</l>
+	<l id="1738">Un amour si léger eût mal servi d'excuse ;</l>
+	<l id="1739">Un bien acquis sans peine est un trésor en l'air ;</l>
+	<l id="1740">Ce qui coûte si peu ne vaut pas en parler :</l>
+	<l id="1741">La garde en importune et la perte en console,</l>
+	<l id="1742">Et pour le retenir, c'est trop qu'une parole.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1743">Quelle excuse, madame, et quel remerciement !</l>
+	<l id="1744">Et quel compte eût-il fait d'un amour d'un moment,</l>
+	<l id="1745">Allumé d'un coup d'oeil ? Car lui dire autre chose,</l>
+	<l id="1746">Lui conter de vos feux la véritable cause,</l>
+	<l id="1747">Que je vous sauve un frère et qu'il me doit le jour,</l>
+	<l id="1748">Que la reconnaissance a produit votre amour,</l>
+	<l id="1749">C'était mettre en sa main le destin de Cléandre,</l>
+	<l id="1750">C'était trahir ce frère en voulant vous défendre,</l>
+	<l id="1751">C'était me repentir de l'avoir conservé,</l>
+	<l id="1752">C'était l'assassiner après l'avoir sauvé,</l>
+	<l id="1753">C'était désavouer ce généreux silence</l>
+	<l id="1754">Qu'au péril de mon sang garda mon innocence,</l>
+	<l id="1755">Et perdre, en vous forçant à ne plus m'estimer,</l>
+	<l id="1756">Toutes les qualités qui vous firent m'aimer.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1757">Hélas ! Tout ce discours ne sert qu'à me confondre.</l>
+	<l id="1758">Je n'y puis consentir, et ne sais qu'y répondre.</l>
+	<l id="1759">Mais je découvre enfin l'adresse de vos coups :</l>
+	<l id="1760">Vous parlez pour Philiste, et vous faites pour vous ;</l>
+	<l id="1761">Vos dames de Paris vous rappellent vers elles ;</l>
+	<l id="1762">Nos provinces pour vous n'en ont point d'assez belles.</l>
+	<l id="1763">Si dans votre prison vous avez fait l'amant,</l>
+	<l id="1764">Je ne vous y servais que d'un amusement.</l>
+	<l id="1765">À peine en sortez-vous que vous changez de style :</l>
+	<l id="1766">Pour quitter la maîtresse il faut quitter la ville.</l>
+	<l id="1767" part="i">Je ne vous retiens plus, allez.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1767" part="f">Puisse à vos yeux</l>
+	<l id="1768">M'écraser à l'instant la colère des cieux,</l>
+	<l id="1769">Si j'adore autre objet que celui de Mélisse,</l>
+	<l id="1770">Si je conçois des voeux que pour votre service,</l>
+	<l id="1771">Et si pour d'autres yeux on m'entend soupirer,</l>
+	<l id="1772">Tant que je pourrai voir quelque lieu d'espérer !</l>
+	<l id="1773">Oui, madame, souffrez que cette amour persiste</l>
+	<l id="1774">Tant que l'hymen engage ou Mélisse ou Philiste.</l>
+	<l id="1775">Jusque-là les douceurs de votre souvenir</l>
+	<l id="1776">Avec un peu d'espoir sauront m'entretenir :</l>
+	<l id="1777">J'en jure par vous-même, et ne suis pas capable</l>
+	<l id="1778">D'un serment ni plus saint ni plus inviolable.</l>
+	<l id="1779">Mais j'offense Philiste avec un tel serment ;</l>
+	<l id="1780">Pour guérir vos soupçons je nuis à votre amant.</l>
+	<l id="1781">J'effacerai ce crime avec cette prière :</l>
+	<l id="1782">Si vous devez le coeur à qui vous sauve un frère,</l>
+	<l id="1783">Vous ne devez pas moins au généreux secours</l>
+	<l id="1784">Dont tient le jour celui qui conserva ses jours.</l>
+	<l id="1785">Aimez en ma faveur un ami qui vous aime,</l>
+	<l id="1786">Et possédez Dorante en un autre lui-même.</l>
+	<l id="1787">Adieu : contre vos yeux c'est assez combattu ;</l>
+	<l id="1788">Je sens à leurs regards chanceler ma vertu ;</l>
+	<l id="1789">Et dans le triste état où mon âme est réduite,</l>
+	<l id="1790">Pour sauver mon honneur, je n'ai plus que la fuite.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dorante, Philiste, Mélisse, Lyse, Cltion.</head>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1791">Ami, je vous rencontre assez heureusement.</l>
+	<l id="1792" part="i">Vous sortiez ?</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1792" part="f">Oui, je sors, ami, pour un moment.</l>
+	<l id="1793">Entrez, Mélisse est seule, et je pourrais vous nuire.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1794">Ne m'échappez donc point avant que m'introduire ;</l>
+	<l id="1795">Après, sur le discours vous prendrez votre temps ;</l>
+	<l id="1796">Et nous serons ainsi l'un et l'autre contents.</l>
+	<l id="1797" part="i">Vous me semblez troublé.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1797" part="f">J'ai bien raison de l'être.</l>
+	<l id="1798" part="i">Adieu.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1798" part="f">Vous soupirez, et voulez disparaître !</l>
+	<l id="1799">De Mélisse ou de vous je saurai vos malheurs.</l>
+	<l id="1800">Madame, puis-je... ô ciel ! Elle-même est en pleurs !</l>
+	<l id="1801">Je ne vois des deux parts que des sujets d'alarmes !</l>
+	<l id="1802">D'où viennent ses soupirs ? Et d'où naissent vos larmes ?</l>
+	<l id="1803">Quel accident vous fâche, et le fait retirer ?</l>
+	<l id="1804">Qu'ai-je à craindre pour vous, ou qu'ai-je à déplorer ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1805">Philiste, il est tout vrai... Mais retenez Dorante :</l>
+	<l id="1806">Sa présence au secret est la plus importante.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1807" part="i">Vous me perdez, madame.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1807" part="f">Il faut tout hasarder</l>
+	<l id="1808">Pour un bien qu'autrement je ne puis plus garder.</l>
+</sp>
+<sp who="LYSE"><speaker>LYSE.</speaker>
+	<l id="1809" part="i">Cléandre entre.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1809" part="f">Le ciel à propos nous l'envoie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dorante, Philiste, Cléandre, Mélisse, Lyse, Cliton.</head>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1810">Ma soeur, auriez-vous cru ? ... Vous montrez peu de joie !</l>
+	<l id="1811">En si bon entretien qui vous peut attrister ?</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE, à Cléandre.</speaker>
+	<l id="1812">J'en contais le sujet, vous pouvez l'écouter.</l>
+<stage>À Philiste.</stage>
+	<l id="1813">Vous m'aimez, je l'ai su de votre propre bouche,</l>
+	<l id="1814">Je l'ai su de Dorante, et votre amour me touche,</l>
+	<l id="1815">Si trop peu pour vous rendre un amour tout pareil,</l>
+	<l id="1816">Assez pour vous donner un fidèle conseil.</l>
+	<l id="1817">Ne vous obstinez plus à chérir une ingrate :</l>
+	<l id="1818">J'aime ailleurs ; c'est en vain qu'un faux espoir vous flatte.</l>
+	<l id="1819">J'aime, et je suis aimée, et mon frère y consent ;</l>
+	<l id="1820">Mon choix est aussi beau que mon amour puissant ;</l>
+	<l id="1821">Vous l'auriez fait pour moi, si vous étiez mon frère :</l>
+	<l id="1822">C'est Dorante, en un mot, qui seul a pu me plaire.</l>
+	<l id="1823">Ne me demandez point ni quelle occasion,</l>
+	<l id="1824">Ni quel temps entre nous a fait cette union ;</l>
+	<l id="1825">S'il la faut appeler ou surprise, ou constance :</l>
+	<l id="1826">Je ne vous en puis dire aucune circonstance ;</l>
+	<l id="1827">Contentez-vous de voir que mon frère aujourd'hui</l>
+	<l id="1828">L'estime et l'aime assez pour le loger chez lui,</l>
+	<l id="1829">Et d'apprendre de moi que mon coeur se propose</l>
+	<l id="1830">Le change et le tombeau pour une même chose.</l>
+	<l id="1831">Lorsque notre destin nous semblait le plus doux,</l>
+	<l id="1832">Vous l'avez obligé de me parler pour vous ;</l>
+	<l id="1833">Il l'a fait, et s'en va pour vous quitter la place :</l>
+	<l id="1834">Jugez par ce discours quel malheur nous menace.</l>
+	<l id="1835">Voilà cet accident qui le fait retirer ;</l>
+	<l id="1836">Voilà ce qui le trouble, et qui me fait pleurer ;</l>
+	<l id="1837">Voilà ce que je crains ; et voilà les alarmes</l>
+	<l id="1838">D'où viennent ses soupirs, et d'où naissent mes larmes.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1839">Ce n'est pas là, Dorante, agir en cavalier.</l>
+	<l id="1840">Sur ma parole encore vos êtes prisonnier ;</l>
+	<l id="1841">Votre liberté n'est qu'une prison plus large ;</l>
+	<l id="1842">Et je réponds de vous s'il survient quelque charge.</l>
+	<l id="1843">Vous partez cependant, et sans m'en avertir !</l>
+	<l id="1844">Rentrez dans la prison dont vous vouliez sortir.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1845">Allons, je suis tout prêt d'y laisser une vie</l>
+	<l id="1846">Plus digne de pitié qu'elle n'était d'envie ;</l>
+	<l id="1847">Mais après le bonheur que je vous ai cédé,</l>
+	<l id="1848">Je méritais peut-être un plus doux procédé.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1849">Un ami tel que vous n'en mérite point d'autre :</l>
+	<l id="1850">Je vous dis mon secret, vous me cachez le vôtre,</l>
+	<l id="1851">Et vous ne craignez point d'irriter mon courroux,</l>
+	<l id="1852">Lorsque vous me jugez moins généreux que vous !</l>
+	<l id="1853">Vous pouvez me céder un objet qui vous aime ;</l>
+	<l id="1854">Et j'ai le coeur trop bas pour vous traiter de même,</l>
+	<l id="1855">Pour vous en céder un à qui l'amour me rend,</l>
+	<l id="1856">Sinon trop mal voulu, du moins indifférent.</l>
+	<l id="1857">Si vous avez pu naître et noble et magnanime,</l>
+	<l id="1858">Vous ne me deviez pas tenir en moindre estime ;</l>
+	<l id="1859">Malgré notre amitié, je m'en dois ressentir :</l>
+	<l id="1860">Rentrez dans la prison dont vous vouliez sortir.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1861">Vous prenez pour mépris son trop de déférence,</l>
+	<l id="1862">Dont il ne faut tirer qu'une pleine assurance</l>
+	<l id="1863">Qu'un ami si parfait, que vous osez blâmer,</l>
+	<l id="1864">Vous aime plus que lui, sans vous moins estimer.</l>
+	<l id="1865">Si pour lui votre foi sert aux juges d'otage,</l>
+	<l id="1866">Permettez qu'auprès d'eux la mienne la dégage,</l>
+	<l id="1867">Et sortant du péril d'en être inquiété,</l>
+	<l id="1868">Remettez-lui, monsieur, toute sa liberté ;</l>
+	<l id="1869">Ou si mon mauvais sort vous rend inexorable,</l>
+	<l id="1870">Au lieu de l'innocent arrêtez le coupable :</l>
+	<l id="1871">C'est moi qui me sus hier sauver sur son cheval,</l>
+	<l id="1872">Après avoir donné la mort à mon rival.</l>
+	<l id="1873">Ce duel fut l'effet de l'amour de Climène,</l>
+	<l id="1874">Et Dorante sans vous se fût tiré de peine,</l>
+	<l id="1875">Si devant le prévôt son coeur trop généreux</l>
+	<l id="1876">N'eût voulu méconnaître un homme malheureux.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1877">Je ne demande plus quel secret a pu faire</l>
+	<l id="1878">Et l'amour de la soeur et l'amitié du frère :</l>
+	<l id="1879">Ce qu'il a fait pour vous est digne de vos soins.</l>
+	<l id="1880">Vous lui devez beaucoup, vous ne rendez pas moins :</l>
+	<l id="1881">D'un plus haut sentiment la vertu n'est capable,</l>
+	<l id="1882">Et puisque ce duel vous avait fait coupable,</l>
+	<l id="1883">Vous ne pouviez jamais envers un innocent</l>
+	<l id="1884">Être plus obligé ni plus reconnaissant.</l>
+	<l id="1885">Je ne m'oppose point à votre gratitude ;</l>
+	<l id="1886">Et si je vous ai mis en quelque inquiétude,</l>
+	<l id="1887">Si d'un si prompt départ j'ai paru me piquer,</l>
+	<l id="1888">Vous ne m'entendiez pas, et je vais m'expliquer.</l>
+	<l id="1889">On nomme une prison le noeud de l'hyménée ;</l>
+	<l id="1890">L'amour même a des fers dont l'âme est enchaînée ;</l>
+	<l id="1891">Vous les rompiez pour moi, je n'y puis consentir :</l>
+	<l id="1892">Rentrez dans la prison dont vous vouliez sortir.</l>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker>
+	<l id="1893">Ami, c'est là le but qu'avait votre colère ?</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE.</speaker>
+	<l id="1894">Ami, je fais bien moins que vous ne vouliez faire.</l>
+</sp>
+<sp who="CLÉANDRE"><speaker>CLÉANDRE.</speaker>
+	<l id="1895">Comme à lui je vous dois et la vie et l'honneur.</l>
+</sp>
+<sp who="MÉLISSE"><speaker>MÉLISSE.</speaker>
+	<l id="1896">Vous m'avez fait trembler pour croître mon bonheur.</l>
+</sp>
+<sp who="PHILISTE"><speaker>PHILISTE, à Mélisse.</speaker>
+	<l id="1897">J'ai voulu voir vos pleurs pour mieux voir votre flamme,</l>
+	<l id="1898">Et la crainte a trahi les secrets de votre âme.</l>
+	<l id="1899">Mais quittons désormais des compliments si vains.</l>
+<stage>À Cléandre.</stage>
+	<l id="1900">Votre secret, monsieur, est sûr entre mes mains ;</l>
+	<l id="1901">Recevez-moi pour tiers d'une amitié si belle,</l>
+	<l id="1902">Et croyez qu'à l'envi je vous serai fidèle.</l>
+</sp>
+<sp who="CLITON"><speaker>CLITON, seul.</speaker>
+	<l id="1903">Ceux qui sont las debout se peuvent aller seoir,</l>
+	<l id="1904">Je vous donne en passant cet avis, et bonsoir.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

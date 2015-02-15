@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>PERTHARITE ROI DES LOMBARDS, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1653</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire médiévale</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1651-1660</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k703994</permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PERTHARITE</titlePart>
+			<titlePart type="sub">ROI DES LOMBARDS</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1653">M. DC. LIII. AVEC PRIVILEGE DU ROI.</docDate>
+		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>Pierre Corneille</docAuthor>
+		<docImprint>
+			<privilege id="164*-**-**"><head>Extrait du Privilège du Roi</head>
+<p>Par Grace et privilège du Roi, donné à Paris le 24 décembre 1651,. Signé par le Roi en son conseil, MARTIN, ils est permis au sieur CORNEILLE avocat en notre cour de parlement de Rouen, de faire imprimer qu'il voudra choisir trois pièces de théâtre, intitulées, Pertharite roi des Lombards, Don Bertran de Cigarral, L'Amour à la mode, pendant le temps et espace de neuf ans, à compter du jour qu'elles seront achevées d'imprimer ; défendant, très expressément  à toutes personnes de quelque qualité et condition qu'elles puissent être, d'imprimer ou contrefaire les dites trois pièces de théâtre, à peine aux contrevenants de deux mille livres d'amende, dépens, dommages et intérêts, et confiscation des exemplaires qui se trouveront d'autre impression que ce qu'il aura fait faire, ainsi qu'il est plus long porté par lesdites lettres.</p>
+<p>Et le dit Sieur Corneille a cédé et transporté le privilège ci-dessus, à Guillaume de Lyunes marchand libraire à Paris, suivant l'accord fait entre eux.</p></privilege>
+			<acheveImprime id="1653-04-16">Achevé d'imprimer le 30 avril 1653.</acheveImprime>
+			<printer id="MAURRY">À ROUEN, chez Laurent MAURRY, près le Palais. Et se vend à Paris Chez GUILLAUME DE LUYES, au Palais, sous la montée de la Cour des Aides.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1651" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1651 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="PERTHARITE" civil="M" type="H" statut="roi" age="A" stat_amour='néant'>PERTHARITE</role>, roi des Lombards.</castItem>
+		<castItem><role id="GRIMOALD" civil="M" type="H" statut="comte" age="A" stat_amour='néant'>GRIMOALD</role>, Comte de Bénévent, ayant conquis le royaume des Lombards.</castItem>
+		<castItem><role id="GARIBALDE" civil="M" type="H" statut="duc" age="A" stat_amour='néant'>GARIBALDE</role>, duc de Turin.</castItem>
+		<castItem><role id="UNULPHE" civil="M" type="H" statut="aristocrate" age="A" stat_amour='néant'>UNULPHE</role>, seigneur Lombard.</castItem>
+		<castItem><role id="RODELINDE" civil="F" type="H" statut="roi" age="A" stat_amour='néant'>RODELINDE</role>, femme de Pertharite.</castItem>
+		<castItem><role id="EDVIGE" civil="F" type="H" statut="prince" age="A" stat_amour='néant'>ÉDVIGE</role>, soeur de Pertharite.</castItem>
+		<castItem><role id="SOLDATS" civil="G" type="H" statut="soldat" age="A" stat_amour='néant'>Soldats</role>.</castItem>
+	</castList>
+	<set location='Milan' country='Italie' periode='VIIème' link=''>La scène est à Milan.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Rodelinde, Unulphe.</head>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1">Oui, l'honneur qu'il me rend ne fait que m'outrager ;</l>
+	<l id="2">Je vous le dis encore, rien ne peut me changer :</l>
+	<l id="3">Ses conquêtes pour moi sont des objets de haine ;</l>
+	<l id="4">L'hommage qu'il m'en fait renouvelle ma peine,</l>
+	<l id="5">Et comme son amour redouble mon tourment,</l>
+	<l id="6">Si je le hais vainqueur, je le déteste amant.</l>
+	<l id="7">Voilà quelle je suis, et quelle je veux être,</l>
+	<l id="8">Et ce que vous direz au comte votre maître.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="9" part="i">Dites au roi, madame.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="9" part="f">Ah ! Je ne pense pas</l>
+	<l id="10">Que de moi Grimoald exige un coeur si bas :</l>
+	<l id="11">S'il m'aime, il doit aimer cette digne arrogance</l>
+	<l id="12">Qui brave ma fortune et remplit ma naissance.</l>
+	<l id="13">Si d'un roi malheureux et la fuite et la mort</l>
+	<l id="14">L'assurent dans son trône à titre du plus fort,</l>
+	<l id="15">Ce n'est point à sa veuve à traiter de monarque</l>
+	<l id="16">Un prince qui ne l'est qu'à cette triste marque.</l>
+	<l id="17">Qu'il ne se flatte point d'un espoir décevant :</l>
+	<l id="18">Il est toujours pour moi comte de Bénévent,</l>
+	<l id="19">Toujours l'usurpateur du sceptre de nos pères,</l>
+	<l id="20">Et toujours, en un mot, l'auteur de mes misères.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="21">C'est ne connaître pas la source de vos maux,</l>
+	<l id="22">Que de les imputer à ses nobles travaux.</l>
+	<l id="23">Laissez à sa vertu le prix qu'elle mérite,</l>
+	<l id="24">Et n'en accusez plus que votre Pertharite :</l>
+	<l id="25" part="i">Son ambition seule...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="25" part="f">Unulphe, oubliez-vous</l>
+	<l id="26">Que vous parlez à moi, qu'il était mon époux ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="27">Non ; mais vous oubliez que bien que la naissance</l>
+	<l id="28">Donnât à son aîné la suprême puissance,</l>
+	<l id="29">Il osa toutefois partager avec lui</l>
+	<l id="30">Un sceptre dont son bras devait être l'appui ;</l>
+	<l id="31">Qu'on vit alors deux rois en votre Lombardie,</l>
+	<l id="32">Pertharite à Milan, Gundebert à Pavie,</l>
+	<l id="33">Dont ce dernier, piqué par un tel attentat,</l>
+	<l id="34">Voulut entre ses mains réunir son état,</l>
+	<l id="35">Et ne put voir longtemps en celles de son frère...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="36">Dites qu'il fut rebelle aux ordres de son père.</l>
+	<l id="37">Le roi, qui connaissait ce qu'ils valaient tous deux,</l>
+	<l id="38">Mourant entre leurs bras, fit ce partage entre eux :</l>
+	<l id="39">Il vit en Pertharite une âme trop royale</l>
+	<l id="40">Pour ne lui pas laisser une fortune égale ;</l>
+	<l id="41">Et vit en Gundebert un coeur assez abject</l>
+	<l id="42">Pour ne mériter pas son frère pour sujet.</l>
+	<l id="43">Ce n'est pas attenter aux droits d'une couronne</l>
+	<l id="44">Qu'en conserver la part qu'un père nous en donne ;</l>
+	<l id="45">De son dernier vouloir c'est se faire des lois,</l>
+	<l id="46">Honorer sa mémoire, et défendre son choix.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="47">Puisque vous le voulez, j'excuse son courage ;</l>
+	<l id="48">Mais condamnez du moins l'auteur de ce partage,</l>
+	<l id="49">Dont l'amour indiscret pour des fils généreux,</l>
+	<l id="50">Les faisant tous deux rois, les a perdus tous deux.</l>
+	<l id="51">Ce mauvais politique avait dû reconnaître</l>
+	<l id="52">Que le plus grand état ne peut souffrir qu'un maître,</l>
+	<l id="53">Que les rois n'ont qu'un trône et qu'une majesté,</l>
+	<l id="54">Que leurs enfants entre eux n'ont point d'égalité,</l>
+	<l id="55">Et qu'enfin la naissance a son ordre infaillible,</l>
+	<l id="56">Qui fait de leur couronne un point indivisible.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="57">Et toutefois le ciel par les événements</l>
+	<l id="58">Fit voir qu'il approuvait ses justes sentiments.</l>
+	<l id="59">Du jaloux Gundebert l'ambitieuse haine</l>
+	<l id="60">Fondant sur Pertharite, y trouva tôt sa peine.</l>
+	<l id="61">Une bataille entre eux vidait leur différend ;</l>
+	<l id="62">Il en sortit défait, il en sortit mourant :</l>
+	<l id="63">Son trépas nous laissait toute la Lombardie,</l>
+	<l id="64">Dont il nous enviait une faible partie ;</l>
+	<l id="65">Et j'ai versé des pleurs qui n'auraient pas coulé,</l>
+	<l id="66">Si votre Grimoald ne s'en fût point mêlé.</l>
+	<l id="67">Il lui promit vengeance, et sa main plus vaillante</l>
+	<l id="68">Rendit après sa mort sa haine triomphante :</l>
+	<l id="69">Quand nous croyions le sceptre en la nôtre affermi,</l>
+	<l id="70">Nous changeâmes de sort en changeant d'ennemi ;</l>
+	<l id="71">Et le voyant régner où régnaient les deux frères,</l>
+	<l id="72">Jugez à qui je puis imputer nos misères.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="73">Excusez un amour que vos yeux ont éteint :</l>
+	<l id="74">Son coeur pour Édwige en était lors atteint ;</l>
+	<l id="75">Et pour gagner la soeur à ses désirs trop chère,</l>
+	<l id="76">Il fallut épouser les passions du frère.</l>
+	<l id="77">Il arma ses sujets, plus pour la conquérir</l>
+	<l id="78">Qu'à dessein de vous nuire ou de le secourir.</l>
+	<l id="79">Alors qu'il arriva, Gundebert rendait l'âme,</l>
+	<l id="80">Et sut en ce moment abuser de sa flamme.</l>
+	<l id="81">" bien, dit-il, que je touche à la fin de mes jours,</l>
+	<l id="82">Vous n'avez pas en vain amené du secours ;</l>
+	<l id="83">Ma mort vous va laisser ma soeur et ma querelle :</l>
+	<l id="84">Si vous l'osez aimer, vous combattrez pour elle. "</l>
+	<l id="85">Il la proclame reine ; et sans retardement</l>
+	<l id="86">Les chefs et les soldats ayant prêté serment,</l>
+	<l id="87">Il en prend d'elle un autre, et de mon prince même :</l>
+	<l id="88">" pour montrer à tous deux à quel point je vous aime,</l>
+	<l id="89">Je vous donne, dit-il, Grimoald pour époux,</l>
+	<l id="90">Mais à condition qu'il soit digne de vous ;</l>
+	<l id="91">Et vous ne croirez point, ma soeur, qu'il vous mérite,</l>
+	<l id="92">Qu'il n'ait vengé ma mort et détruit Pertharite,</l>
+	<l id="93">Qu'il n'ait conquis Milan, qu'il n'y donne la loi.</l>
+	<l id="94">À la main d'une reine il faut celle d'un roi. "</l>
+	<l id="95">Voilà ce qu'il voulut, voilà ce qu'ils jurèrent,</l>
+	<l id="96">Voilà sur quoi tous deux contre vous s'animèrent.</l>
+	<l id="97">Non que souvent mon prince, impatient amant,</l>
+	<l id="98">N'ait voulu prévenir l'effet de son serment ;</l>
+	<l id="99">Mais contre son amour la princesse obstinée</l>
+	<l id="100">A toujours opposé la parole donnée ;</l>
+	<l id="101">Si bien que ne voyant autre espoir de guérir,</l>
+	<l id="102">Il a fallu sans cesse et vaincre et conquérir.</l>
+	<l id="103">Enfin, après deux ans, Milan par sa conquête</l>
+	<l id="104">Lui donnait Édwige en couronnant sa tête,</l>
+	<l id="105">Si ce même Milan dont elle était le prix</l>
+	<l id="106">N'eût fait perdre à ses yeux ce qu'ils avaient conquis.</l>
+	<l id="107">Avec un autre sort il prit un coeur tout autre :</l>
+	<l id="108">Vous fûtes sa captive, et le fîtes le vôtre ;</l>
+	<l id="109">Et la princesse alors par un bizarre effet,</l>
+	<l id="110">Pour l'avoir voulu roi, le perdit tout à fait.</l>
+	<l id="111">Nous le vîmes quitter ses premières pensées,</l>
+	<l id="112">N'avoir plus pour l'hymen ces ardeurs empressées,</l>
+	<l id="113">éviter Édwige, à peine lui parler,</l>
+	<l id="114">Et sous divers prétexte à son tour reculer.</l>
+	<l id="115">Ce n'est pas que longtemps il n'ait tâché d'éteindre</l>
+	<l id="116">Un feu dont vos vertus avaient lieu de se plaindre ;</l>
+	<l id="117">Et tant que dans sa fuite a vécu votre époux,</l>
+	<l id="118">N'étant plus à sa soeur, il n'osait être à vous ;</l>
+	<l id="119">Mais sitôt que sa mort eut rendu légitime</l>
+	<l id="120">Cette ardeur qui n'était jusque-là qu'un doux crime...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Rodelinde, Édwige.</head>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="121">Madame, si j'étais d'un naturel jaloux,</l>
+	<l id="122">Je m'inquiéterais de le voir avec vous,</l>
+	<l id="123">Je m'imaginerais, ce qui pourrait bien être,</l>
+	<l id="124">Que ce fidèle agent vous parle pour son maître ;</l>
+	<l id="125">Mais comme mon esprit n'est pas si peu discret</l>
+	<l id="126">Qu'il vous veuille envier la douceur du secret,</l>
+	<l id="127">De cette opinion j'aime mieux me défendre,</l>
+	<l id="128">Pour mettre en votre choix celle que je dois prendre,</l>
+	<l id="129">La régler par votre ordre, et croire avec respect</l>
+	<l id="130">Tout ce qu'il vous plaira d'un entretien suspect.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="131">Le secret n'est pas grand qu'aisément on devine,</l>
+	<l id="132">Et l'on peut croire alors tout ce qu'on s'imagine.</l>
+	<l id="133">Oui, madame, son maître a de fort mauvais yeux ;</l>
+	<l id="134">Et s'il m'en pouvait croire, il en userait mieux.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="135">Il a beau s'éblouir alors qu'il vous regarde,</l>
+	<l id="136">Il vous échappera si vous n'y prenez garde.</l>
+	<l id="137">Il lui faut obéir, tout amoureux qu'il est,</l>
+	<l id="138">Et vouloir ce qu'il veut, quand et comme il lui plaît.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="139">Avez-vous reconnu par votre expérience</l>
+	<l id="140">Qu'il faille déférer à son impatience ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="141">Vous ne savez que trop ce que c'est que sa foi.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="142">Autre est celle d'un comte, autre celle d'un roi ;</l>
+	<l id="143">Et comme un nouveau rang forme une âme nouvelle,</l>
+	<l id="144">D'un comte déloyal il fait un roi fidèle.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="145">Mais quelquefois, madame, avec facilité</l>
+	<l id="146">On croit des maris morts qui sont pleins de santé ;</l>
+	<l id="147">Et lorsqu'on se prépare aux seconds hyménées,</l>
+	<l id="148">On voit par leur retour des veuves étonnées.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="149">Qu'avez-vous vu, madame, ou que vous a-t-on dit ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="150">Ce mot un peu trop tôt vous alarme l'esprit.</l>
+	<l id="151">Je ne vous parle pas de votre Pertharite ;</l>
+	<l id="152">Mais il se pourra faire enfin qu'il ressuscite,</l>
+	<l id="153">Qu'il rende à vos désirs leur juste possesseur ;</l>
+	<l id="154">Et c'est dont je vous donne avis en bonne soeur.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="155">N'abusez point d'un nom que votre orgueil rejette.</l>
+	<l id="156">Si vous étiez ma soeur, vous seriez ma sujette ;</l>
+	<l id="157">Mais un sceptre vaut mieux que les titres du sang,</l>
+	<l id="158">Et la nature cède à la splendeur du rang.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="159">La nouvelle vous fâche, et du moins importune</l>
+	<l id="160">L'espoir déjà formé d'une bonne fortune.</l>
+	<l id="161">Consolez-vous, madame : il peut n'en être rien ;</l>
+	<l id="162">Et souvent on nous dit ce qu'on ne sait pas bien.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="163">Il sait mal ce qu'il dit, quiconque vous fait croire</l>
+	<l id="164">Qu'aux feux de Grimoald je trouve quelque gloire.</l>
+	<l id="165">Il est vaillant, il règne, et comme il faut régner ;</l>
+	<l id="166">Mais toutes ses vertus me le font dédaigner.</l>
+	<l id="167">Je hais dans sa valeur l'effort qui le couronne ;</l>
+	<l id="168">Je hais dans sa bonté les coeurs qu'elle lui donne ;</l>
+	<l id="169">Je hais dans sa prudence un grand peuple charmé ;</l>
+	<l id="170">Je hais dans sa justice un tyran trop aimé ;</l>
+	<l id="171">Je hais ce grand secret d'assurer sa conquête,</l>
+	<l id="172">D'attacher fortement ma couronne à sa tête ;</l>
+	<l id="173">Et le hais d'autant plus que je vois moins de jour</l>
+	<l id="174">À déduire un vainqueur qui règne avec amour.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="175">Cette haine qu'en vous sa vertu même excite</l>
+	<l id="176">Est fort ingénieuse à voir tout son mérite ;</l>
+	<l id="177">Et qui nous parle ainsi d'un objet odieux</l>
+	<l id="178">En dirait bien du mal s'il plaisait à ses yeux.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="179">Qui hait brutalement permet tout à sa haine :</l>
+	<l id="180">Il s'emporte, il se jette où sa fureur l'entraîne,</l>
+	<l id="181">Il ne veut avoir d'yeux que pour ses faux portraits ;</l>
+	<l id="182">Mais qui hait par devoir ne s'aveugle jamais :</l>
+	<l id="183">C'est sa raison qui hait, qui toujours équitable,</l>
+	<l id="184">Voit en l'objet haï ce qu'il a d'estimable,</l>
+	<l id="185">Et verrait en l'aimé ce qu'il y faut blâmer,</l>
+	<l id="186">Si ce même devoir lui commandait d'aimer.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="187" part="i">Vous en savez beaucoup.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="187" part="f">Je sais comme il faut vivre.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="188">Vous êtes donc, madame, un grand exemple à suivre.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="189">Pour vivre l'âme saine, on n'a qu'à m'imiter.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="190">Et qui veut vivre aimé n'a qu'à vous en conter ?</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="191">J'aime en vous un soupçon qui vous sert de supplice :</l>
+	<l id="192">S'il me fait quelque outrage, il m'en fait bien justice.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="193">Quoi ? Vous refuseriez Grimoald pour époux ?</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="194">Si je veux l'accepter, m'en empêcherez-vous ?</l>
+	<l id="195">Ce qui jusqu'à présent vous donne tant d'alarmes,</l>
+	<l id="196">Sitôt qu'il me plaira, vous coûtera des larmes ;</l>
+	<l id="197">Et quelque grand pouvoir que vous preniez sur moi,</l>
+	<l id="198">Je n'ai qu'à dire un mot pour vous faire la loi.</l>
+	<l id="199">N'aspirez point, madame, où je voudrai prétendre :</l>
+	<l id="200">Tout son coeur est à moi, si je daigne le prendre.</l>
+	<l id="201">Consolez-vous pourtant : il m'en fait l'offre en vain ;</l>
+	<l id="202">Je veux bien sa couronne, et ne veux point sa main.</l>
+	<l id="203">Faites, si vous pouvez, revivre Pertharite,</l>
+	<l id="204">Pour l'opposer aux feux dont votre amour s'irrite.</l>
+	<l id="205">Produisez un fantôme, ou semez un faux bruit,</l>
+	<l id="206">Pour remettre en vos fers un prince qui vous fuit ;</l>
+	<l id="207">J'aiderai votre feinte, et ferai mon possible</l>
+	<l id="208">Pour tromper avec vous ce monarque invincible,</l>
+	<l id="209">Pour renvoyer chez vous les voeux qu'on vient m'offrir,</l>
+	<l id="210">Et n'avoir plus chez moi d'importuns à souffrir.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="211">Qui croit déjà ce bruit un tour de mon adresse,</l>
+	<l id="212">De son effet sans doute aurait peu d'allégresse,</l>
+	<l id="213">Et loin d'aider la feinte avec sincérité,</l>
+	<l id="214">Pourrait fermer les yeux même à la vérité.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="215">Après m'avoir fait perdre époux et diadème,</l>
+	<l id="216">C'est trop que d'attenter jusqu'à ma gloire même,</l>
+	<l id="217">Qu'ajouter l'infamie à de si rudes coups.</l>
+	<l id="218">Connaissez-moi, madame, et désabusez-vous.</l>
+	<l id="219">Je ne vous cèle point qu'ayant l'âme royale,</l>
+	<l id="220">L'amour du sceptre encore me fait votre rivale,</l>
+	<l id="221">Et que je ne puis voir d'un coeur lâche et soumis</l>
+	<l id="222">La soeur de mon époux déshériter mon fils ;</l>
+	<l id="223">Mais que dans mes malheurs jamais je me dispose</l>
+	<l id="224">À les vouloir finir m'unissant à leur cause,</l>
+	<l id="225">À remonter au trône, où vont tous mes désirs,</l>
+	<l id="226">En épousant l'auteur de tous mes déplaisirs !</l>
+	<l id="227">Non, non, vous présumez en vain que je m'apprête</l>
+	<l id="228">À faire de ma main sa dernière conquête :</l>
+	<l id="229">Unulphe peut vous dire en fidèle témoin</l>
+	<l id="230">Combien à me gagner il perd d'art et de soin.</l>
+	<l id="231">Si malgré la parole et donnée et reçue,</l>
+	<l id="232">Il cessa d'être à vous au moment qu'il m'eut vue,</l>
+	<l id="233">Aux cendres d'un mari tous mes feux réservés</l>
+	<l id="234">Lui rendent les mépris que vous en recevez.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCENE III. Grimoald, Rodelinde, Édwige, Garibald, Unulphe.</head>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="235">Approche, Grimoald, et dis à ta jalouse,</l>
+	<l id="236">À qui du moins ta foi doit le titre d'épouse,</l>
+	<l id="237">Si depuis que pour moi je t'ai vu soupirer,</l>
+	<l id="238">Jamais d'un seul coup d'oeil je t'ai fait espérer ;</l>
+	<l id="239">Ou si tu veux laisser pour éternelle gêne</l>
+	<l id="240">À cette ambitieuse une frayeur si vaine,</l>
+	<l id="241">Dis-moi de mon époux le déplorable sort :</l>
+	<l id="242">Il vit, il vit encore, si j'en crois son rapport ;</l>
+	<l id="243">De ses derniers honneurs les magnifiques pompes</l>
+	<l id="244">Ne sont qu'illusions avec quoi tu me trompes ;</l>
+	<l id="245">Et ce riche tombeau que lui fait son vainqueur</l>
+	<l id="246">N'est qu'un appas superbe à surprendre mon coeur.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="247">Madame, vous savez ce qu'on m'est venu dire,</l>
+	<l id="248">Qu'allant de ville en ville et d'empire en empire</l>
+	<l id="249">Contre Édwige et moi mendier du secours,</l>
+	<l id="250">Auprès du roi des Huns il a fini ses jours ;</l>
+	<l id="251">Et si depuis sa mort j'ai tâché de vous rendre...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="252">Qu'elle soit vraie ou non, tu n'en dois rien attendre.</l>
+	<l id="253">Je dois à sa mémoire, à moi-même, à son fils,</l>
+	<l id="254">Ce que je dus aux noeuds qui nous avaient unis.</l>
+	<l id="255">Ce n'est qu'à le venger que tout mon coeur s'applique ;</l>
+	<l id="256">Et puisqu'il faut enfin que tout ce coeur s'explique,</l>
+	<l id="257">Si je puis une fois échapper de tes mains,</l>
+	<l id="258">J'irai porter partout de si justes desseins :</l>
+	<l id="259">J'irai dessus ses pas aux deux bouts de la terre</l>
+	<l id="260">Chercher des ennemis à te faire la guerre ;</l>
+	<l id="261">Ou s'il me faut languir prisonnière en ces lieux,</l>
+	<l id="262">Mes voeux demanderont cette vengeance aux cieux,</l>
+	<l id="263">Et ne cesseront point jusqu'à ce que leur foudre</l>
+	<l id="264">Sur mon trône usurpé brise ta tête en poudre.</l>
+	<l id="265">Madame, vous voyez avec quels sentiments</l>
+	<l id="266">Je mets ce grand obstacle à vos contentements.</l>
+	<l id="267">Adieu : si vous pouvez, conservez ma couronne,</l>
+	<l id="268">Et regagnez un coeur que je vous abandonne.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Grimoald, Édwige, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="269">Qu'avez-vous dit, madame, et que supposez-vous</l>
+	<l id="270">Pour la faire douter du sort de son époux ?</l>
+	<l id="271">Depuis quand et de qui savez-vous qu'il respire ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="272">Ce confident si cher pourra vous le redire.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="273">M'auriez-vous accusé d'avoir feint son trépas ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="274">Ne vous alarmez point, elle ne m'en croit pas.</l>
+	<l id="275">Son destin est plus doux veuve que mariée,</l>
+	<l id="276">Et de croire sa mort vous l'avez trop priée.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="277" part="i">Mais enfin ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="277" part="f">Mais enfin, chacun sait ce qu'il sait ;</l>
+	<l id="278">Et quand il sera temps nous en verrons l'effet.</l>
+	<l id="279">épouse-la, parjure, et fais-en une infâme :</l>
+	<l id="280">Qui ravit un état peut ravir une femme ;</l>
+	<l id="281">L'adultère et le rapt sont du droit des tyrans.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="282">Vous me donniez jadis des titres différents.</l>
+	<l id="283">Quand pour vous acquérir je gagnais des batailles,</l>
+	<l id="284">Que mon bras de Milan foudroyait les murailles,</l>
+	<l id="285">Que je semais partout la terreur et l'effroi,</l>
+	<l id="286">J'étais un grand héros, j'étais un digne roi ;</l>
+	<l id="287">Mais depuis que je règne en prince magnanime,</l>
+	<l id="288">Qui chérit la vertu, qui sait punir le crime,</l>
+	<l id="289">Que le peuple sous moi voit ses destins meilleurs,</l>
+	<l id="290">Je ne suis qu'un tyran, parce que j'aime ailleurs.</l>
+	<l id="291">Ce n'est plus la valeur, ce n'est plus la naissance</l>
+	<l id="292">Qui donne quelque droit à la toute-puissance :</l>
+	<l id="293">C'est votre amour lui seul qui fait des conquérants,</l>
+	<l id="294">Suivant qu'ils sont à vous, des rois ou des tyrans.</l>
+	<l id="295">Si ce titre odieux s'acquiert à vous déplaire,</l>
+	<l id="296">Je n'ai qu'à vous aimer, si je veux m'en défaire ;</l>
+	<l id="297">Et ce même moment, de lâche usurpateur,</l>
+	<l id="298">Me fera vrai monarque en vous rendant mon coeur.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="299">Ne prétends plus au mien après ta perfidie.</l>
+	<l id="300">J'ai mis entre tes mains toute la Lombardie ;</l>
+	<l id="301">Mais ne t'aveugle point dans ton nouveau souci :</l>
+	<l id="302">Ce n'est que sous mon nom que tu règnes ici,</l>
+	<l id="303">Et le peuple bientôt montrera par sa haine</l>
+	<l id="304">Qu'il n'adorait en toi que l'amant de sa reine,</l>
+	<l id="305">Qu'il ne respectait qu'elle, et ne veut point d'un roi</l>
+	<l id="306">Qui commence par elle à violer sa foi.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="307">Si vous étiez, madame, au milieu de Pavie,</l>
+	<l id="308">Dont vous fit reine un frère en sortant de la vie,</l>
+	<l id="309">Ce discours, quoique même un peu hors de saison,</l>
+	<l id="310">Pourrait avoir du moins quelque ombre de raison.</l>
+	<l id="311">Mais ici, dans Milan, dont j'ai fait ma conquête,</l>
+	<l id="312">Où ma seule valeur a couronné ma tête,</l>
+	<l id="313">Au milieu d'un état où tout le peuple à moi</l>
+	<l id="314">Ne saurait craindre en vous que l'amour de son roi,</l>
+	<l id="315">La menace impuissante est de mauvaise grâce :</l>
+	<l id="316">Avec tant de faiblesse il faut la voix plus basse.</l>
+	<l id="317">J'y règne, et régnerai malgré votre courroux ;</l>
+	<l id="318">J'y fais à tous justice, et commence par vous.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="319" part="i">Par moi ?</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="319" part="m">Par vous, madame.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="319" part="f">Après la foi reçue !</l>
+	<l id="320">Après deux ans d'amour si lâchement déçue !</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="321">Dites après deux ans de haine et de mépris,</l>
+	<l id="322">Qui de toute ma flamme ont été le seul prix.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="323">Appelles-tu mépris une amitié sincère ?</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="324">Une amitié fidèle à la haine d'un frère,</l>
+	<l id="325">Un long orgueil armé d'un frivole serment,</l>
+	<l id="326">Pour s'opposer sans cesse au bonheur d'un amant.</l>
+	<l id="327">Si vous m'aviez aimé, vous n'auriez pas eu honte</l>
+	<l id="328">D'attacher votre sort à la valeur d'un comte.</l>
+	<l id="329">Jusqu'à ce qu'il fût roi vous plaire à le gêner,</l>
+	<l id="330">C'était vouloir vous vendre, et non pas vous donner.</l>
+	<l id="331">Je me suis donc fait roi pour plaire à votre envie :</l>
+	<l id="332">J'ai conquis votre coeur au péril de ma vie ;</l>
+	<l id="333">Mais alors qu'il m'est dû, je suis en liberté</l>
+	<l id="334">De vous laisser un bien que j'ai trop acheté,</l>
+	<l id="335">Et votre ambition est justement punie</l>
+	<l id="336">Quand j'affranchis un roi de votre tyrannie.</l>
+	<l id="337">Un roi doit pouvoir tout ; et je ne suis pas roi,</l>
+	<l id="338">S'il ne m'est pas permis de disposer de moi.</l>
+	<l id="339">C'est quitter, c'est trahir les droits du diadème,</l>
+	<l id="340">Que sur le haut d'un trône être esclave moi-même ;</l>
+	<l id="341">Et dans ce même trône où vous m'avez voulu,</l>
+	<l id="342">Sur moi comme sur tous je dois être absolu :</l>
+	<l id="343">C'est le prix de mon sang ; souffrez que j'en dispose,</l>
+	<l id="344">Et n'accusez que vous du mal que je vous cause.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="345">Pour un grand conquérant que tu te défends mal !</l>
+	<l id="346">Et quel étrange roi tu fais de Grimoald !</l>
+	<l id="347">Ne dis plus que ce rang veut que tu m'abandonnes,</l>
+	<l id="348">Et que la trahison est un droit des couronnes ;</l>
+	<l id="349">Mais si tu veux trahir, trouve du moins, ingrat,</l>
+	<l id="350">De plus belles couleurs dans les raisons d'état.</l>
+	<l id="351">Dis qu'un usurpateur doit amuser la haine</l>
+	<l id="352">Des peuples mal domptés, en épousant leur reine ;</l>
+	<l id="353">Leur faire présumer qu'il veut rendre à son fils</l>
+	<l id="354">Un sceptre sur le père injustement conquis ;</l>
+	<l id="355">Qu'il ne veut gouverner que durant son enfance,</l>
+	<l id="356">Qu'il ne veut qu'en dépôt la suprême puissance,</l>
+	<l id="357">Qu'il ne veut autre titre en leur donnant la loi,</l>
+	<l id="358">Que d'époux de la reine et de tuteur du roi ;</l>
+	<l id="359">Dis que sans cet hymen ta puissance t'échappe,</l>
+	<l id="360">Qu'un vieil amour des rois la détruit et la sape ;</l>
+	<l id="361">Dis qu'un tyran qui règne en pays ennemi</l>
+	<l id="362">N'y saurait voir son trône autrement affermi.</l>
+	<l id="363">De cette illusion l'apparence plausible</l>
+	<l id="364">Rendrait ta lâcheté peut-être moins visible ;</l>
+	<l id="365">Et l'on pourrait donner à la nécessité</l>
+	<l id="366">Ce qui n'est qu'un effet de ta légèreté.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="367">J'embrasse un bon avis, de quelque part qu'il vienne.</l>
+	<l id="368">Unulphe, allez trouver la reine, de la mienne,</l>
+	<l id="369">Et tâchez par cette offre à vaincre sa rigueur.</l>
+	<l id="370">Madame, c'est à vous que je devrai son coeur ;</l>
+	<l id="371">Et pour m'en revancher, je prendrai soin moi-même</l>
+	<l id="372">De faire choix pour vous d'un mari qui vous aime,</l>
+	<l id="373">Qui soit digne de vous, et puisse mériter</l>
+	<l id="374">L'amour que, malgré moi, vous voulez me porter.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="375">Traître, je n'en veux point que ta mort ne me donne,</l>
+	<l id="376">Point qui n'ait par ton sang affermi ma couronne.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="377">Vous pourrez à ce prix en trouver aisément.</l>
+	<l id="378">Remettez la princesse à son appartement,</l>
+	<l id="379">Duc ; et tâchez à rompre un dessein sur ma vie</l>
+	<l id="380">Qui me ferait trembler si j'étais à Pavie.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="381">Crains-moi, crains-moi partout : et Pavie, et Milan,</l>
+	<l id="382">Tout lieu, tout bras est propre à punir un tyran ;</l>
+	<l id="383">Et tu n'as point de forts où vivre en assurance,</l>
+	<l id="384">Si de ton sang versé je suis la récompense.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="385">Dissimulez du moins ce violent courroux :</l>
+	<l id="386">Je deviendrais tyran, mais ce serait pour vous.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="387">Va, je n'ai point le coeur assez lâche pour feindre.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="388">Allez donc ; et craignez, si vous me faites craindre.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Édwige, Garibalde.</head>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="389">Je l'ai dit à mon traître, et je vous le redis :</l>
+	<l id="390">Je me dois cette joie après de tels mépris ;</l>
+	<l id="391">Et mes ardents souhaits de voir punir son change</l>
+	<l id="392">Assurent ma conquête à quiconque me venge.</l>
+	<l id="393">Suivez le mouvement d'un si juste courroux,</l>
+	<l id="394">Et sans perdre de voeux obtenez-moi de vous.</l>
+	<l id="395">Pour gagner mon amour il faut servir ma haine :</l>
+	<l id="396">À ce prix est le sceptre, à ce prix une reine ;</l>
+	<l id="397">Et Grimoald puni rendra digne de moi</l>
+	<l id="398">Quiconque ose m'aimer, ou se veut faire roi.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="399">Mettre à ce prix vos feux et votre diadème,</l>
+	<l id="400">C'est ne connaître pas votre haine et vous-même ;</l>
+	<l id="401">Et qui, sous cet espoir, voudrait vous obéir,</l>
+	<l id="402">Chercherait les moyens de se faire haïr.</l>
+	<l id="403">Grimoald inconstant n'a plus pour vous de charmes,</l>
+	<l id="404">Mais Grimoald puni vous coûterait des larmes.</l>
+	<l id="405">À cet objet sanglant, l'effort de la pitié</l>
+	<l id="406">Reprendrait tous les droits d'une vieille amitié</l>
+	<l id="407">Et son crime en son sang éteint avec sa vie</l>
+	<l id="408">Passerait en celui qui vous aurait servie.</l>
+	<l id="409">Quels que soient ses mépris, peignez-vous bien sa mort,</l>
+	<l id="410">Madame, et votre coeur n'en sera pas d'accord.</l>
+	<l id="411">Quoi qu'un amant volage excite de colère,</l>
+	<l id="412">Son change est odieux, mais sa personne est chère ;</l>
+	<l id="413">Et ce qu'a joint l'amour a beau se désunir,</l>
+	<l id="414">Pour le rejoindre mieux il ne faut qu'un soupir.</l>
+	<l id="415">Ainsi n'espérez pas que jamais on s'assure</l>
+	<l id="416">Sur les bouillants transports qu'arrache son parjure.</l>
+	<l id="417">Si le ressentiment de sa légèreté</l>
+	<l id="418">Aspire à la vengeance avec sincérité,</l>
+	<l id="419">En quelques dignes mains qu'il veuille la remettre,</l>
+	<l id="420">Il vous faut vous donner, et non pas vous promettre,</l>
+	<l id="421">Attacher votre sort, avec le nom d'époux,</l>
+	<l id="422">À la valeur du bras qui s'armera pour vous.</l>
+	<l id="423">Tant qu'on verra ce prix en quelque incertitude,</l>
+	<l id="424">L'oserait-on punir de son ingratitude ?</l>
+	<l id="425">Votre haine tremblante est un mauvais appui</l>
+	<l id="426">À quiconque pour vous entreprendrait sur lui ;</l>
+	<l id="427">Et quelque doux espoir qu'offre cette colère,</l>
+	<l id="428">Une plus forte haine en serait le salaire.</l>
+	<l id="429">Donnez-vous donc, madame, et faites qu'un vengeur</l>
+	<l id="430">N'ait plus à redouter le désaveu du coeur.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="431">Que vous m'êtes cruel en faveur d'un infâme,</l>
+	<l id="432">De vouloir, malgré moi, lire au fond de mon âme,</l>
+	<l id="433">Où mon amour trahi, que j'éteins à regret,</l>
+	<l id="434">Lui fait contre ma haine un partisan secret !</l>
+	<l id="435">Quelques justes arrêts que ma bouche prononce,</l>
+	<l id="436">Ce sont de vains efforts où tout mon coeur renonce.</l>
+	<l id="437">Ce lâche malgré moi l'ose encore protéger,</l>
+	<l id="438">Et veut mourir du coup qui m'en pourrait venger.</l>
+	<l id="439">Vengez-moi toutefois, mais d'une autre manière :</l>
+	<l id="440">Pour conserver mes jours, laissez-lui la lumière.</l>
+	<l id="441">Quelque mort que je doive à son manque de foi,</l>
+	<l id="442">Ôtez-lui Rodelinde, et c'est assez pour moi ;</l>
+	<l id="443">Faites qu'elle aime ailleurs, et punissez son crime</l>
+	<l id="444">Par ce désespoir même où son change m'abîme.</l>
+	<l id="445">Faites plus : s'il est vrai que je puis tout sur vous,</l>
+	<l id="446">Ramenez cet ingrat tremblant à mes genoux,</l>
+	<l id="447">Le repentir au coeur, les pleurs sur le visage,</l>
+	<l id="448">De tant de lâchetés me faire un plein hommage,</l>
+	<l id="449">Implorer le pardon qu'il ne mérite pas,</l>
+	<l id="450">Et remettre en mes mains sa vie et son trépas.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="451">Ajoutez-y, madame, encore qu'à vos yeux même</l>
+	<l id="452">Cette odieuse main perce un coeur qui vous aime,</l>
+	<l id="453">Et que l'amant fidèle, au volage immolé,</l>
+	<l id="454">Expie au lieu de lui ce qu'il a violé.</l>
+	<l id="455">L'ordre en sera moins rude, et moindre le supplice,</l>
+	<l id="456">Que celui qu'à mes feux prescrit votre injustice :</l>
+	<l id="457">Et le trépas en soi n'a rien de rigoureux</l>
+	<l id="458">À l'égal de vous rendre un rival plus heureux.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="459">Duc, vous vous alarmez faute de me connaître :</l>
+	<l id="460">Mon coeur n'est pas si bas qu'il puisse aimer un traître.</l>
+	<l id="461">Je veux qu'il se repente, et se repente en vain,</l>
+	<l id="462">Rendre haine pour haine, et dédain pour dédain ;</l>
+	<l id="463">Je veux qu'en vain son âme, esclave de la mienne,</l>
+	<l id="464">Me demande sa grâce, et jamais ne l'obtienne,</l>
+	<l id="465">Qu'il soupire sans fruit ; et pour le punir mieux,</l>
+	<l id="466">Je veux même à mon tour vous aimer à ses yeux.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="467">Le pourrez-vous, madame, et savez-vous vos forces ?</l>
+	<l id="468">Savez-vous de l'amour quelles sont les amorces ?</l>
+	<l id="469">Savez-vous ce qu'il peut, et qu'un visage aimé</l>
+	<l id="470">Est toujours trop aimable à ce qu'il a charmé ?</l>
+	<l id="471">Si vous ne m'abusez, votre coeur vous abuse.</l>
+	<l id="472">L'inconstance jamais n'a de mauvaise excuse ;</l>
+	<l id="473">Et comme l'amour seul fait le ressentiment,</l>
+	<l id="474">Le moindre repentir obtient grâce à l'amant.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="475">Quoi qu'il puisse arriver, donnez-vous cette gloire</l>
+	<l id="476">D'avoir sur cet ingrat rétabli ma victoire ;</l>
+	<l id="477">Sans songer qu'à me plaire exécutez mes lois,</l>
+	<l id="478">Et pour l'événement laissez tout à mon choix :</l>
+	<l id="479">Souffrez qu'en liberté je l'aime ou le néglige.</l>
+	<l id="480">L'amant est trop payé quand son service oblige ;</l>
+	<l id="481">Et quiconque en aimant aspire à d'autres prix</l>
+	<l id="482">N'a qu'un amour servile et digne de mépris.</l>
+	<l id="483">Le véritable amour jamais n'est mercenaire,</l>
+	<l id="484">Il n'est jamais souillé de l'espoir du salaire,</l>
+	<l id="485">Il ne veut que servir, et n'a point d'intérêt</l>
+	<l id="486">Qu'il n'immole à celui de l'objet qui lui plaît.</l>
+	<l id="487">Voyez donc Grimoald, tâchez à le réduire :</l>
+	<l id="488">Faites-moi triompher au hasard de vous nuire ;</l>
+	<l id="489">Et si je prends pour lui des sentiments plus doux,</l>
+	<l id="490">Vous m'aurez faite heureuse, et c'est assez pour vous.</l>
+	<l id="491">Je verrai par l'effort de votre obéissance</l>
+	<l id="492">Où doit aller celui de ma reconnaissance.</l>
+	<l id="493">Cependant, s'il est vrai que j'ai pu vous charmer,</l>
+	<l id="494">Aimez-moi plus que vous, ou cessez de m'aimer :</l>
+	<l id="495">C'est par là seulement qu'on mérite Édwige.</l>
+	<l id="496">Je veux bien qu'on espère, et non pas qu'on exige.</l>
+	<l id="497">Je ne veux rien devoir ; mais lorsqu'on me sert bien,</l>
+	<l id="498">On peut attendre tout de qui ne promet rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="499">Quelle confusion ! Et quelle tyrannie</l>
+	<l id="500">M'ordonne d'espérer ce qu'elle me dénie !</l>
+	<l id="501">Et de quelle façon est-ce écouter des voeux,</l>
+	<l id="502">Qu'obliger un amant à travailler contre eux ?</l>
+	<l id="503">Simple, ne prétends pas, sur cet espoir frivole,</l>
+	<l id="504">Que je tâche à te rendre un coeur que je te vole.</l>
+	<l id="505">Je t'aime, mais enfin je m'aime plus que toi.</l>
+	<l id="506">C'est moi seul qui le porte à ce manque de foi ;</l>
+	<l id="507">Auprès d'un autre objet c'est moi seul qui l'engage :</l>
+	<l id="508">Je ne détruirai pas moi-même mon ouvrage.</l>
+	<l id="509">Il m'a choisi pour toi, de peur qu'un autre époux</l>
+	<l id="510">Avec trop de chaleur n'embrasse ton courroux ;</l>
+	<l id="511">Mais lui-même il se trompe en l'amant qu'il te donne.</l>
+	<l id="512">Je t'aime, et puissamment, mais moins que la couronne ;</l>
+	<l id="513">Et mon ambition, qui tâche à te gagner,</l>
+	<l id="514">Ne cherche en ton hymen que le droit de régner.</l>
+	<l id="515">De tes ressentiments s'il faut que je l'obtienne,</l>
+	<l id="516">Je saurai joindre encore cent haines à la tienne,</l>
+	<l id="517">L'ériger en tyran par mes propres conseils,</l>
+	<l id="518">De sa perte par lui dresser les appareils,</l>
+	<l id="519">Mêler si bien l'adresse avec un peu d'audace,</l>
+	<l id="520">Qu'il ne faille qu'oser pour me mettre en sa place ;</l>
+	<l id="521">Et comme en t'épousant j'en aurai droit de toi,</l>
+	<l id="522">Je t'épouserai lors, mais pour me faire roi.</l>
+	<l id="523" part="i">Mais voici Grimoald.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCENE III. Grimoald, Garibalde.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="523" part="f">Eh bien ! Quelle espérance,</l>
+	<l id="524">Duc ? Et qu'obtiendrons-nous de ta persévérance ?</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="525">Ne me commandez plus, seigneur, de l'adorer,</l>
+	<l id="526">Ou ne lui laissez plus aucun lieu d'espérer.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="527">Quoi ? De tout mon pouvoir je l'avais irritée</l>
+	<l id="528">Pour faire que ta flamme en fût mieux écoutée,</l>
+	<l id="529">Qu'un dépit redoublé, la pressant contre moi,</l>
+	<l id="530">La rendît plus facile à recevoir ta foi,</l>
+	<l id="531">Et fît tomber ainsi par ses ardeurs nouvelles</l>
+	<l id="532">Le dépôt de sa haine en des mains si fidèles :</l>
+	<l id="533">Cependant son espoir à mon trône attaché</l>
+	<l id="534">Par aucun de nos soins n'en peut être arraché !</l>
+	<l id="535">Mais as-tu bien promis ma tête à sa vengeance ?</l>
+	<l id="536">Ne l'as-tu point offerte avec négligence,</l>
+	<l id="537">Avec quelque froideur qui l'ait fait soupçonner</l>
+	<l id="538">Que tu la promettais sans la vouloir donner ?</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="539">Je n'ai rien oublié de ce qui peut séduire</l>
+	<l id="540">Un vrai ressentiment qui voudrait vous détruire ;</l>
+	<l id="541">Mais son feu mal éteint ne se peut déguiser :</l>
+	<l id="542">Son plus ardent courroux brûle de s'apaiser ;</l>
+	<l id="543">Et je n'obtiendrai point, seigneur, qu'elle m'écoute,</l>
+	<l id="544">Jusqu'à ce qu'elle ait vu votre hymen hors de doute,</l>
+	<l id="545">Et que de Rodelinde étant l'illustre époux,</l>
+	<l id="546">Vous chassiez de son coeur tout espoir d'être à vous.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="547">Hélas ! Je mets en vain toute chose en usage :</l>
+	<l id="548">Ni prières ni voeux n'ébranlent son courage.</l>
+	<l id="549">Malgré tous mes respects, je vois de jour en jour</l>
+	<l id="550">Croître sa résistance autant que mon amour ;</l>
+	<l id="551">Et si l'offre d'Unulphe à présent ne la touche,</l>
+	<l id="552">Si l'intérêt d'un fils ne la rend moins farouche,</l>
+	<l id="553">Désormais je renonce à l'espoir d'amollir</l>
+	<l id="554">Un coeur que tant d'efforts ne font qu'enorgueillir.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="555">Non, non, seigneur, il faut que cet orgueil vous cède ;</l>
+	<l id="556">Mais un mal violent veut un pareil remède.</l>
+	<l id="557">Montrez-vous tout ensemble amant et souverain,</l>
+	<l id="558">Et sachez commander, si vous priez en vain.</l>
+	<l id="559">Que sert ce grand pouvoir qui suit le diadème,</l>
+	<l id="560">Si l'amant couronné n'en use pour soi-même ?</l>
+	<l id="561">Un roi n'est pas moins roi pour se laisser charmer,</l>
+	<l id="562">Et doit faire obéir qui ne veut pas aimer.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="563">Porte, porte aux tyrans tes damnables maximes :</l>
+	<l id="564">Je hais l'art de régner qui se permet des crimes.</l>
+	<l id="565">De quel front donnerais-je un exemple aujourd'hui</l>
+	<l id="566">Que mes lois dès demain puniraient en autrui ?</l>
+	<l id="567">Le pouvoir absolu n'a rien de redoutable</l>
+	<l id="568">Dont à sa conscience un roi ne soit comptable.</l>
+	<l id="569">L'amour l'excuse mal, s'il règne injustement,</l>
+	<l id="570">Et l'amant couronné doit n'agir qu'en amant.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="571">Si vous n'osez forcer, du moins faites-vous craindre :</l>
+	<l id="572">Daignez, pour être heureux, un moment vous contraindre ;</l>
+	<l id="573">Et si l'offre d'Unulphe en reçoit des mépris,</l>
+	<l id="574">Menacez hautement de la mort de son fils.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="575">Que par ces lâchetés j'ose me satisfaire !</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="576">Si vous n'osez parler, du moins laissez-nous faire :</l>
+	<l id="577">Nous saurons vous servir, seigneur, et malgré vous.</l>
+	<l id="578">Prêtez-nous seulement un moment de courroux,</l>
+	<l id="579">Et permettez après qu'on l'explique et qu'on feigne</l>
+	<l id="580">Ce que vous n'osez dire, et qu'il faut qu'elle craigne.</l>
+	<l id="581">Vous désavouerez tout. Après de tels projets,</l>
+	<l id="582">Les rois impunément dédisent leurs sujets.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="583">Sachons ce qu'il a fait avant que de résoudre</l>
+	<l id="584">Si je dois en tes mains laisser gronder ce foudre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Grimoald, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="585">Que faut-il faire, Unulphe ? Est-il temps de mourir ?</l>
+	<l id="586">N'as-tu vu pour ton roi nul espoir de guérir ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="587">Rodelinde, seigneur, enfin plus raisonnable,</l>
+	<l id="588">Semble avoir dépouillé cet orgueil indomptable :</l>
+	<l id="589">Elle a reçu votre offre avec tant de douceur...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="590">Mais l'a-t-elle acceptée ? As-tu touché son coeur ?</l>
+	<l id="591">A-t-elle montré joie ? En paraît-elle émue ?</l>
+	<l id="592">Peut-elle s'abaisser jusqu'à souffrir ma vue ?</l>
+	<l id="593" part="i">Qu'a-t-elle dit enfin ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="593" part="f">Beaucoup, sans dire rien :</l>
+	<l id="594">Elle a paisiblement souffert mon entretien ;</l>
+	<l id="595">Son âme à mes discours surprise, mais tranquille...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="596">Ah ! C'est m'assassiner d'un discours inutile :</l>
+	<l id="597">Je ne veux rien savoir de sa tranquillité ;</l>
+	<l id="598">Dis seulement un mot de sa facilité.</l>
+	<l id="599">Quand veut-elle à son fils donner mon diadème ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="600">Elle en veut apporter la réponse elle-même.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="601">Quoi ? Tu n'as su pour moi plus avant l'engager ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="602">Seigneur, c'est assez dire à qui veut bien juger :</l>
+	<l id="603">Vous n'en sauriez avoir une preuve plus claire.</l>
+	<l id="604">Qui demande à vous voir ne veut pas vous déplaire ;</l>
+	<l id="605">Ses refus se seraient expliqués avec moi,</l>
+	<l id="606">Sans chercher la présence et le courroux d'un roi.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="607">Mais touchant cet époux qu'Édwige ranime ?...</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="608">De ce discours en l'air elle fait peu d'estime :</l>
+	<l id="609">L'artifice est si lourd, qu'il ne peut l'émouvoir,</l>
+	<l id="610">Et d'une main suspecte il n'a point de pouvoir.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="611">Édwige elle-même est mal persuadée</l>
+	<l id="612">D'un retour dont elle aime à vous donner l'idée ;</l>
+	<l id="613">Et ce n'est qu'un faux jour qu'elle a voulu jeter</l>
+	<l id="614">Pour lui troubler la vue et vous inquiéter.</l>
+	<l id="615">Mais déjà Rodelinde apporte sa réponse.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="616">Ah ! J'entends mon arrêt sans qu'on me le prononce :</l>
+	<l id="617">Je vais mourir, Unulphe, et ton zèle pour moi</l>
+	<l id="618">T'abuse le premier, et m'abuse après toi.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="619" part="i">Espérez mieux, seigneur.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="619" part="f">Tu le veux, et j'espère.</l>
+	<l id="620">Mais que cette douceur va devenir amère !</l>
+	<l id="621">Et que ce peu d'espoir où tu me viens forcer</l>
+	<l id="622">Rendra rudes les coups dont on va me percer !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Grimoald, Rodelinde, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="623">Madame, il est donc vrai que votre âme sensible</l>
+	<l id="624">À la compassion s'est rendue accessible ;</l>
+	<l id="625">Qu'elle fait succéder dans ce coeur plus humain</l>
+	<l id="626">La douceur à la haine et l'estime au dédain,</l>
+	<l id="627">Et que laissant agir une bonté cachée,</l>
+	<l id="628">À de si longs mépris elle s'est arrachée ?</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="629">Ce coeur dont tu te plains, de ta plainte est surpris :</l>
+	<l id="630">Comte, je n'eus pour toi jamais aucun mépris ;</l>
+	<l id="631">Et ma haine elle-même aurait cru faire un crime</l>
+	<l id="632">De t'avoir dérobé ce qu'on te doit d'estime.</l>
+	<l id="633">Quand je vois ta conduite en mes propres états</l>
+	<l id="634">Achever sur les coeurs l'ouvrage de ton bras,</l>
+	<l id="635">Avec ces mêmes coeurs qu'un si grand art te donne</l>
+	<l id="636">Je dis que la vertu règne dans ta personne ;</l>
+	<l id="637">Avec eux je te loue, et je doute avec eux</l>
+	<l id="638">Si sous leur vrai monarque ils seraient plus heureux :</l>
+	<l id="639">Tant ces hautes vertus qui fondent ta puissance</l>
+	<l id="640">Réparent ce qui manque à l'heur de ta naissance !</l>
+	<l id="641">Mais quoi qu'on en ait vu d'admirable et de grand,</l>
+	<l id="642">Ce que m'en dit Unulphe aujourd'hui me surprend.</l>
+	<l id="643">Un vainqueur dans le trône, un conquérant qu'on aime,</l>
+	<l id="644">Faisant justice à tous, se la fait à soi-même !</l>
+	<l id="645">Se croit usurpateur sur ce trône conquis !</l>
+	<l id="646">Et ce qu'il ôte au père, il veut le rendre au fils !</l>
+	<l id="647">Comte, c'est un effort à dissiper la gloire</l>
+	<l id="648">Des noms les plus fameux dont se pare l'histoire,</l>
+	<l id="649">Et que le grand Auguste ayant osé tenter,</l>
+	<l id="650">N'osa prendre du coeur jusqu'à l'exécuter.</l>
+	<l id="651">Je viens donc y répondre, et de toute mon âme</l>
+	<l id="652" part="i">Te rendre pour mon fils...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="652" part="f">Ah ! C'en est trop, madame ;</l>
+	<l id="653">Ne vous abaissez point à des remerciements :</l>
+	<l id="654">C'est moi qui vous dois tout ; et si mes sentiments...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="655">Souffre les miens, de grâce, et permets que je mette</l>
+	<l id="656">Cet effort merveilleux en sa gloire parfaite,</l>
+	<l id="657">Et que ma propre main tâche d'en arracher</l>
+	<l id="658">Tout ce mélange impur dont tu le veux tacher ;</l>
+	<l id="659">Car enfin cet effort est de telle nature,</l>
+	<l id="660">Que la source en doit être à nos yeux toute pure :</l>
+	<l id="661">La vertu doit régner dans un si grand projet,</l>
+	<l id="662">En être seule cause, et l'honneur seul objet ;</l>
+	<l id="663">Et depuis qu'on le souille ou d'espoir de salaire,</l>
+	<l id="664">Ou de chagrin d'amour, ou de souci de plaire,</l>
+	<l id="665">Il part indignement d'un courage abattu</l>
+	<l id="666">Où la passion règne, et non pas la vertu.</l>
+	<l id="667">Comte, penses-y bien ; et pour m'avoir aimée,</l>
+	<l id="668">N'imprime point de tache à tant de renommée ;</l>
+	<l id="669">Ne crois que ta vertu : laisse-la seule agir,</l>
+	<l id="670">De peur qu'un tel effort ne te donne à rougir.</l>
+	<l id="671">On publierait de toi que les yeux d'une femme</l>
+	<l id="672">Plus que ta propre gloire auraient touché ton âme ;</l>
+	<l id="673">On dirait qu'un héros si grand, si renommé,</l>
+	<l id="674">Ne serait qu'un tyran s'il n'avait point aimé.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="675">Donnez-moi cette honte, et je la tiens à gloire :</l>
+	<l id="676">Faites de vos mépris ma dernière victoire,</l>
+	<l id="677">Et souffrez qu'on impute à ce bras trop heureux</l>
+	<l id="678">Que votre seul amour l'a rendu généreux.</l>
+	<l id="679">Souffrez que cet amour, par un effort si juste,</l>
+	<l id="680">Ternisse le grand nom et les hauts faits d'Auguste,</l>
+	<l id="681">Qu'il ait plus de pouvoir que ses vertus n'ont eu.</l>
+	<l id="682">Qui n'adore que vous n'aime que la vertu.</l>
+	<l id="683">Cet effort merveilleux est de telle nature,</l>
+	<l id="684">Qu'il ne saurait partir d'une source plus pure ;</l>
+	<l id="685">Et la plus noble enfin des belles passions</l>
+	<l id="686">Ne peut faire de tache aux grandes actions.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="687">Comte, ce qu'elle jette à tes yeux de poussière</l>
+	<l id="688">Pour voir ce que tu fais les laisse sans lumière.</l>
+	<l id="689">À ces conditions rendre un sceptre conquis,</l>
+	<l id="690">C'est asservir la mère en couronnant le fils ;</l>
+	<l id="691">Et pour en bien parler, ce n'est pas tant le rendre,</l>
+	<l id="692">Qu'au prix de mon honneur indignement le vendre.</l>
+	<l id="693">Ta gloire en pourrait croître, et tu le veux ainsi ;</l>
+	<l id="694">Mais l'éclat de la mienne en serait obscurci.</l>
+	<l id="695">Quel que soit ton amour, quel que soit ton mérite,</l>
+	<l id="696">La défaite et la mort de mon cher Pertharite,</l>
+	<l id="697">D'un sanglant caractère ébauchant tes hauts faits,</l>
+	<l id="698">Les peignent à mes yeux comme autant de forfaits ;</l>
+	<l id="699">Et ne pouvant les voir que d'un oeil d'ennemie,</l>
+	<l id="700">Je n'y puis prendre part sans entière infamie.</l>
+	<l id="701">Ce sont des sentiments que je ne puis trahir :</l>
+	<l id="702">Je te dois estimer, mais je te dois haïr ;</l>
+	<l id="703">Je dois agir en veuve autant qu'en magnanime,</l>
+	<l id="704">Et porter cette haine aussi loin que l'estime.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="705">Ah ! Forcez-vous, de grâce, à des termes plus doux</l>
+	<l id="706">Pour des crimes qui seuls m'ont fait digne de vous :</l>
+	<l id="707">Par eux seuls ma valeur en tête d'une armée</l>
+	<l id="708">A des plus grands héros atteint la renommée ;</l>
+	<l id="709">Par eux seuls j'ai vaincu, par eux seuls j'ai régné,</l>
+	<l id="710">Par eux seuls ma justice a tant de coeurs gagné,</l>
+	<l id="711">Par eux seuls j'ai paru digne du diadème,</l>
+	<l id="712">Par eux seuls je vous vois, par eux seuls je vous aime,</l>
+	<l id="713">Et par eux seuls enfin mon amour tout parfait</l>
+	<l id="714">Ose faire pour vous ce qu'on n'a jamais fait.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="715">Tu ne fais que pour toi, s'il t'en faut récompense ;</l>
+	<l id="716">Et je te dis encore que toute ta vaillance,</l>
+	<l id="717">T'ayant fait vers moi seule à jamais criminel,</l>
+	<l id="718">A mis entre nous deux un obstacle éternel.</l>
+	<l id="719">Garde donc ta conquête, et me laisse ma gloire ;</l>
+	<l id="720">Respecte d'un époux et l'ombre et la mémoire :</l>
+	<l id="721">Tu l'as chassé du trône et non pas de mon coeur.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="722">Unulphe, c'est donc là toute cette douceur !</l>
+	<l id="723">C'est là comme son âme, enfin plus raisonnable,</l>
+	<l id="724">Semble avoir dépouillé cet orgueil indomptable !</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="725">Seigneur, souvenez-vous qu'il est temps de parler.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="726">Oui, l'affront est trop grand pour le dissimuler :</l>
+	<l id="727">Elle en sera punie, et puisqu'on me méprise,</l>
+	<l id="728">Je deviendrai tyran de qui me tyrannise,</l>
+	<l id="729">Et ne souffrirai plus qu'une indigne fierté</l>
+	<l id="730">Se joue impunément de mon trop de bonté.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="731">Eh bien ! Deviens tyran : renonce à ton estime ;</l>
+	<l id="732">Renonce au nom de juste, au nom de magnanime...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="733">La vengeance est plus douce enfin que ces vains noms ;</l>
+	<l id="734">S'ils me font malheureux, à quoi me sont-ils bons ?</l>
+	<l id="735">Je me ferai justice en domptant qui me brave.</l>
+	<l id="736">Qui ne veut point régner mérite d'être esclave.</l>
+	<l id="737">Allez, sans irriter plus longtemps mon courroux,</l>
+	<l id="738">Attendre ce qu'un maître ordonnera de vous.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="739">Qui ne craint point la mort craint peu quoi qu'il ordonne.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="740">Vous la craindrez peut-être en quelque autre personne.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="741" part="i">Quoi ? Tu voudrais...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="741" part="f">Allez, et ne me pressez point ;</l>
+	<l id="742">On vous pourra trop tôt éclaircir sur ce point.</l>
+	<l id="743">Voilà tous les efforts qu'enfin j'ai pu me faire.</l>
+	<l id="744">Toute ingrate qu'elle est, je tremble à lui déplaire ;</l>
+	<l id="745">Et ce peu que j'ai fait, suivi d'un désaveu,</l>
+	<l id="746">Gêne autant ma vertu comme il trahit mon feu.</l>
+	<l id="747">Achève, Garibalde : Unulphe est trop crédule,</l>
+	<l id="748">Il prend trop aisément un espoir ridicule ;</l>
+	<l id="749">Menace, puisqu'enfin c'est perdre temps qu'offrir.</l>
+	<l id="750">Toi qui m'as trop flatté, viens m'aider à souffrir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="1"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Garibalde, Rodelinde.</head>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="751">Ce n'est plus seulement l'offre d'un diadème</l>
+	<l id="752">Que vous fait pour un fils un prince qui vous aime,</l>
+	<l id="753">Et de qui le refus ne puisse être imputé</l>
+	<l id="754">Qu'à fermeté de haine ou magnanimité :</l>
+	<l id="755">Il y va de sa vie, et la juste colère</l>
+	<l id="756">Où jettent cet amant les mépris de la mère,</l>
+	<l id="757">Veut punir sur le sang de ce fils innocent</l>
+	<l id="758">La dureté d'un coeur si peu reconnaissant.</l>
+	<l id="759">C'est à vous d'y penser : tout le choix qu'on vous donne,</l>
+	<l id="760">C'est d'accepter pour lui la mort ou la couronne.</l>
+	<l id="761">Son sort est en vos mains : aimer ou dédaigner</l>
+	<l id="762">Le va faire périr ou le faire régner.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="763">S'il me faut faire un choix d'une telle importance,</l>
+	<l id="764">On me donnera bien le loisir que j'y pense.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="765">Pour en délibérer vous n'avez qu'un moment :</l>
+	<l id="766">J'en ai l'ordre pressant ; et sans retardement,</l>
+	<l id="767">Madame, il faut résoudre, et s'expliquer sur l'heure :</l>
+	<l id="768">Un mot est bientôt dit. Si vous voulez qu'il meure,</l>
+	<l id="769">Prononcez-en l'arrêt, et j'en prendrai la loi</l>
+	<l id="770">Pour faire exécuter les volontés du roi.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="771">Un mot est bientôt dit ; mais dans un tel martyre</l>
+	<l id="772">On n'a pas bientôt vu quel mot c'est qu'il faut dire ;</l>
+	<l id="773">Et le choix qu'on m'ordonne est pour moi si fatal,</l>
+	<l id="774">Qu'à mes yeux des deux parts le supplice est égal.</l>
+	<l id="775">Puisqu'il faut obéir, fais-moi venir ton maître.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="776" part="i">Quel choix avez-vous fait ?</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="776" part="f">Je lui ferai connaître</l>
+	<l id="777" part="i">Que si...</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="777" part="f">C'est avec moi qu'il vous faut achever :</l>
+	<l id="778">Il est las désormais de s'entendre braver ;</l>
+	<l id="779">Et si je ne lui porte une entière assurance</l>
+	<l id="780">Que vos désirs enfin suivent son espérance,</l>
+	<l id="781">Sa vue est un honneur qui vous est défendu.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="782">Que me dis-tu, perfide ? Ai-je bien entendu ?</l>
+	<l id="783">Tu crains donc qu'une femme, à force de se plaindre,</l>
+	<l id="784">Ne sauve une vertu que tu tâches d'éteindre,</l>
+	<l id="785">Ne remette un héros au rang de ses pareils,</l>
+	<l id="786">Dont tu veux l'arracher par tes lâches conseils ?</l>
+	<l id="787">Oui, je l'épouserai, ce trop aveugle maître,</l>
+	<l id="788">Tout cruel, tout tyran que tu le forces d'être :</l>
+	<l id="789">Va, cours l'en assurer ; mais penses-y deux fois.</l>
+	<l id="790">Crains-moi, crains son amour, s'il accepte mon choix.</l>
+	<l id="791">Je puis beaucoup sur lui ; j'y pourrai davantage,</l>
+	<l id="792">Et régnerai peut-être après cet esclavage.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="793">Vous régnerez, madame, et je serai ravi</l>
+	<l id="794">De mourir glorieux pour l'avoir bien servi.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="795">Va, je lui ferai voir que de pareils services</l>
+	<l id="796">Sont dignes seulement des plus cruels supplices,</l>
+	<l id="797">Et que de tous les maux dont les rois sont auteurs,</l>
+	<l id="798">Ils s'en doivent venger sur de tels serviteurs.</l>
+	<l id="799">Tu peux en attendant lui donner cette joie,</l>
+	<l id="800">Que pour gagner mon coeur il a trouvé la voie,</l>
+	<l id="801">Que ton zèle insolent et ton mauvais destin</l>
+	<l id="802">À son amour barbare en ouvrent le chemin.</l>
+	<l id="803">Dis-lui, puisqu'il le faut, qu'à l'hymen je m'apprête ;</l>
+	<l id="804">Mais fuis-nous, s'il s'achève, et tremble pour ta tête.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="805">Je veux bien à ce prix vous donner un grand roi.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="806">Qu'à ce prix donc il vienne, et m'apporte sa foi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Rodelinde, Édwige.</head>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="807">Votre félicité sera mal assurée</l>
+	<l id="808">Dessus un fondement de si peu de durée.</l>
+	<l id="809">Vous avez toutefois de si puissants appas...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="810">Je sais quelques secrets que vous ne savez pas ;</l>
+	<l id="811">Et si j'ai moins que vous d'attraits et de mérite,</l>
+	<l id="812">J'ai des moyens plus sûrs d'empêcher qu'on me quitte.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="813" part="i">Mon exemple...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="813" part="f">Souffrez que je n'en craigne rien,</l>
+	<l id="814">Et par votre malheur ne jugez pas du mien.</l>
+	<l id="815">Chacun à ses périls peut suivre sa fortune,</l>
+	<l id="816">Et j'ai quelques soucis que l'exemple importune.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="817">Ce n'est pas mon dessein de vous importuner.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="818">Ce n'est pas mon dessein aussi de vous gêner ;</l>
+	<l id="819">Mais votre jalousie un peu trop inquiète</l>
+	<l id="820">Se donne malgré moi cette gêne secrète.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="821">Je ne suis point jalouse, et l'infidélité...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="822">Eh bien ! Soit jalousie ou curiosité,</l>
+	<l id="823">Depuis quand sommes-nous en telle intelligence</l>
+	<l id="824">Que tout mon coeur vous doive entière confidence ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="825">Je n'en prétends aucune, et c'est assez pour moi</l>
+	<l id="826">D'avoir bien entendu comme il accepte un roi.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="827">On n'entend pas toujours ce qu'on croit bien entendre.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="828">De vrai, dans un discours difficile à comprendre,</l>
+	<l id="829">Je ne devine point, et n'en ai pas l'esprit ;</l>
+	<l id="830">Mais l'esprit n'a que faire où l'oreille suffit.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="831">Il faudrait que l'oreille entendît la pensée.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="832">J'entends assez la vôtre : on vous aura forcée ;</l>
+	<l id="833">On vous aura fait peur, ou de la mort d'un fils,</l>
+	<l id="834">Ou de ce qu'un tyran se croit être permis,</l>
+	<l id="835">Et l'on fera courir quelque mauvaise excuse</l>
+	<l id="836">Dont la cour s'éblouisse et le peuple s'abuse.</l>
+	<l id="837">Mais cependant ce coeur que vous m'abandonniez...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="838">Il n'est pas temps encore que vous vous en plaigniez :</l>
+	<l id="839">Comme il m'a fait des lois, j'ai des lois à lui faire.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="840">Il les acceptera pour ne vous pas déplaire ;</l>
+	<l id="841">Prenez-en sa parole, il sait bien la garder.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="842">Pour remonter au trône on peut tout hasarder.</l>
+	<l id="843">Laissez-m'en, quoi qu'il fasse, ou la gloire ou la honte,</l>
+	<l id="844">Puisque ce n'est qu'à moi que j'en dois rendre conte.</l>
+	<l id="845">Si votre coeur souffrait ce que souffre le mien,</l>
+	<l id="846">Vous ne vous plairiez pas en un tel entretien ;</l>
+	<l id="847">Et votre âme à ce prix voyant un diadème,</l>
+	<l id="848">Voudrait en liberté se consulter soi-même.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="849">Je demande pardon si je vous fais souffrir,</l>
+	<l id="850">Et vais me retirer pour ne vous plus aigrir.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="851">Allez, et demeurez dans cette erreur confuse :</l>
+	<l id="852">Vous ne méritez pas que je vous désabuse.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="853">Ce cher amant sans moi vous entretiendra mieux,</l>
+	<l id="854">Et je n'ai plus besoin de rapport de mes yeux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Grimoald, Rodelinde, Garibalde, Unulphe.</head>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="855">Je me rends, Grimoald, mais non pas à la force :</l>
+	<l id="856">Le titre que tu prends m'est une douce amorce,</l>
+	<l id="857">Et s'empare si bien de mon affection,</l>
+	<l id="858">Qu'elle ne veut de toi qu'une condition :</l>
+	<l id="859">Si je n'ai pu t'aimer et juste et magnanime,</l>
+	<l id="860">Quand tu deviens tyran je t'aime dans le crime ;</l>
+	<l id="861">Et pour moi ton hymen est un souverain bien,</l>
+	<l id="862">S'il rend ton nom infâme aussi bien que le mien.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="863">Que j'aimerai, madame, une telle infamie</l>
+	<l id="864">Qui vous fera cesser d'être mon ennemie !</l>
+	<l id="865">Achevez, achevez, et sachons à quel prix</l>
+	<l id="866">Je puis mettre une borne à de si longs mépris :</l>
+	<l id="867">Je ne veux qu'une grâce, et disposez du reste.</l>
+	<l id="868">Je crains pour Garibalde une haine funeste,</l>
+	<l id="869">Je la crains pour Unulphe : à cela près, parlez.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="870">Va, porte cette crainte à des coeurs ravalés ;</l>
+	<l id="871">Je ne m'abaisse point aux faiblesses des femmes</l>
+	<l id="872">Jusques à me venger de ces petites âmes.</l>
+	<l id="873">Si leurs mauvais conseils me forcent de régner,</l>
+	<l id="874">Je les en dois haïr, et sais les dédaigner.</l>
+	<l id="875">Le ciel, qui punit tout, choisira pour leur peine</l>
+	<l id="876">Quelques moyens plus bas que cette illustre haine.</l>
+	<l id="877">Qu'ils vivent cependant, et que leur lâcheté</l>
+	<l id="878">À l'ombre d'un tyran trouve sa sûreté.</l>
+	<l id="879">Ce que je veux de toi porte le caractère</l>
+	<l id="880">D'une vertu plus haute et digne de te plaire.</l>
+	<l id="881">Tes offres n'ont point eu d'exemples jusqu'ici,</l>
+	<l id="882">Et ce que je demande est sans exemple aussi ;</l>
+	<l id="883">Mais je veux qu'il te donne une marque infaillible</l>
+	<l id="884">Que l'intérêt d'un fils ne me rend point sensible,</l>
+	<l id="885">Que je veux être à toi sans le considérer,</l>
+	<l id="886">Sans regarder en lui que craindre ou qu'espérer.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="887">Madame, achevez donc de m'accabler de joie.</l>
+	<l id="888">Par quels heureux moyens faut-il que je vous croie ?</l>
+	<l id="889">Expliquez-vous, de grâce, et j'atteste les cieux</l>
+	<l id="890">Que tout suivra sur l'heure un bien si précieux.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="891">Après un tel serment j'obéis et m'explique.</l>
+	<l id="892">Je veux donc d'un tyran un acte tyrannique :</l>
+	<l id="893">Puisqu'il en veut le nom, qu'il le soit tout à fait ;</l>
+	<l id="894">Que toute sa vertu meure en un grand forfait,</l>
+	<l id="895">Qu'il renonce à jamais aux glorieuses marques</l>
+	<l id="896">Qui le mettaient au rang des plus dignes monarques ;</l>
+	<l id="897">Et pour le voir méchant, lâche, impie, inhumain,</l>
+	<l id="898">Je veux voir ce fils même immolé de sa main.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="899" part="i">Juste ciel !</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="899" part="f">Que veux-tu pour marque plus certaine</l>
+	<l id="900">Que l'intérêt d'un fils n'amollit point ma haine,</l>
+	<l id="901">Que je me donne à toi sans le considérer,</l>
+	<l id="902">Sans regarder en lui que craindre ou qu'espérer ?</l>
+	<l id="903">Tu trembles, tu pâlis, il semble que tu n'oses</l>
+	<l id="904">Toi-même exécuter ce que tu me proposes !</l>
+	<l id="905">S'il te faut du secours, je n'y recule pas,</l>
+	<l id="906">Et veux bien te prêter l'exemple de mon bras.</l>
+	<l id="907">Fais, fais venir ce fils, qu'avec toi je l'immole.</l>
+	<l id="908">Dégage ton serment, je tiendrai ma parole.</l>
+	<l id="909">Il faut bien que le crime unisse à l'avenir</l>
+	<l id="910">Ce que trop de vertus empêchait de s'unir.</l>
+	<l id="911">Qui tranche du tyran doit se résoudre à l'être.</l>
+	<l id="912">Pour remplir ce grand nom as-tu besoin d'un maître,</l>
+	<l id="913">Et faut-il qu'une mère, aux dépens de son sang,</l>
+	<l id="914">T'apprenne à mériter cet effroyable rang ?</l>
+	<l id="915">N'en souffre pas la honte, et prends toute la gloire</l>
+	<l id="916">Que cet illustre effort attache à ta mémoire.</l>
+	<l id="917">Fais voir à tes flatteurs, qui te font trop oser,</l>
+	<l id="918">Que tu sais mieux que moi l'art de tyranniser ;</l>
+	<l id="919">Et par une action aux seuls tyrans permise,</l>
+	<l id="920">Deviens le vrai tyran de qui te tyrannise.</l>
+	<l id="921">À ce prix je me donne, à ce prix je me rends ;</l>
+	<l id="922">Ou si tu l'aimes mieux, à ce prix je me vends,</l>
+	<l id="923">Et consens à ce prix que ton amour m'obtienne,</l>
+	<l id="924">Puisqu'il souille ta gloire aussi bien que la mienne.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="925">Garibalde, est-ce là ce que tu m'avais dit ?</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="926">Avec votre jalouse elle a changé d'esprit ;</l>
+	<l id="927">Et je l'avais laissée à l'hymen toute prête,</l>
+	<l id="928">Sans que son déplaisir menaçât que ma tête.</l>
+	<l id="929">Mais ces fureurs enfin ne sont qu'illusion,</l>
+	<l id="930">Pour vous donner, seigneur, quelque confusion ;</l>
+	<l id="931">Ne vous étonnez point, vous l'en verrez dédire.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="932">Vous l'ordonnez, madame, et je dois y souscrire :</l>
+	<l id="933">J'en ferai ma victime, et ne suis point jaloux</l>
+	<l id="934">De vous voir sur ce fils porter les premiers coups.</l>
+	<l id="935">Quelque honneur qui par là s'attache à ma mémoire,</l>
+	<l id="936">Je veux bien avec vous en partager la gloire,</l>
+	<l id="937">Et que tout l'avenir ait de quoi m'accuser</l>
+	<l id="938">D'avoir appris de vous l'art de tyranniser.</l>
+	<l id="939">Vous devriez pourtant régler mieux ce courage,</l>
+	<l id="940">N'en pousser point l'effort jusqu'aux bords de la rage,</l>
+	<l id="941">Ne lui permettre rien qui sentît la fureur,</l>
+	<l id="942">Et le faire admirer sans en donner d'horreur.</l>
+	<l id="943">Faire la furieuse et la désespérée,</l>
+	<l id="944">Paraître avec éclat mère dénaturée,</l>
+	<l id="945">Sortir hors de vous-même, et montrer à grand bruit</l>
+	<l id="946">À quelle extrémité mon amour vous réduit,</l>
+	<l id="947">C'est mettre avec trop d'art la douleur en parade ;</l>
+	<l id="948">Qui fait le plus de bruit n'est pas le plus malade :</l>
+	<l id="949">Les plus grands déplaisirs sont les moins éclatants ;</l>
+	<l id="950">Et l'on sait qu'un grand coeur se possède en tout temps.</l>
+	<l id="951">Vous le savez, madame, et que les grandes âmes</l>
+	<l id="952">Ne s'abaissent jamais aux faiblesses des femmes,</l>
+	<l id="953">Ne s'aveuglent jamais ainsi hors de saison ;</l>
+	<l id="954">Que leur désespoir même agit avec raison,</l>
+	<l id="955" part="i">Et que...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="955" part="f">C'en est assez : sois-moi juge équitable,</l>
+	<l id="956">Et dis-moi si le mien agit en raisonnable,</l>
+	<l id="957">Si je parle en aveugle, ou si j'ai de bons yeux.</l>
+	<l id="958">Tu veux rendre à mon fils le bien de ses aïeux,</l>
+	<l id="959">Et toute ta vertu jusque-là t'abandonne,</l>
+	<l id="960">Que tu mets en mon choix sa mort ou ta couronne !</l>
+	<l id="961">Quand j'aurai satisfait tes voeux désespérés,</l>
+	<l id="962">Dois-je croire ses jours beaucoup plus assurés ?</l>
+	<l id="963">Cet offre, ou, si tu veux, ce don du diadème</l>
+	<l id="964">N'est, à le bien nommer, qu'un faible stratagème.</l>
+	<l id="965">Faire un roi d'un enfant pour être son tuteur,</l>
+	<l id="966">C'est quitter pour ce nom celui d'usurpateur ;</l>
+	<l id="967">C'est choisir pour régner un favorable titre ;</l>
+	<l id="968">C'est du sceptre et de lui te faire seul arbitre,</l>
+	<l id="969">Et mettre sur le trône un fantôme pour roi</l>
+	<l id="970">Jusques au premier fils qui te naîtra de moi,</l>
+	<l id="971">Jusqu'à ce qu'on nous craigne, et que le temps arrive</l>
+	<l id="972">De remettre en ses mains la puissance effective.</l>
+	<l id="973">Qui veut bien l'immoler à son affection</l>
+	<l id="974">L'immolerait sans peine à son ambition.</l>
+	<l id="975">On se lasse bientôt de l'amour d'une femme ;</l>
+	<l id="976">Mais la soif de régner règne toujours sur l'âme ;</l>
+	<l id="977">Et comme la grandeur a d'éternels appas,</l>
+	<l id="978">L'Italie est sujette à de soudains trépas.</l>
+	<l id="979">Il est des moyens sourds pour lever un obstacle,</l>
+	<l id="980">Et faire un nouveau roi sans bruit et sans miracle ;</l>
+	<l id="981">Quitte pour te forcer à deux ou trois soupirs,</l>
+	<l id="982">Et peindre alors ton front d'un peu de déplaisirs.</l>
+	<l id="983">La porte à ma vengeance en serait moins ouverte :</l>
+	<l id="984">Je perdrais avec lui tout le fruit de sa perte.</l>
+	<l id="985">Puisqu'il faut qu'il périsse, il vaut mieux tôt que tard ;</l>
+	<l id="986">Que sa mort soit un crime, et non pas un hasard ;</l>
+	<l id="987">Que cette ombre innocente à toute heure m'anime,</l>
+	<l id="988">Me demande à toute heure une grande victime ;</l>
+	<l id="989">Que ce jeune monarque, immolé de ta main,</l>
+	<l id="990">Te rende abominable à tout le genre humain ;</l>
+	<l id="991">Qu'il t'excite partout des haines immortelles ;</l>
+	<l id="992">Que de tous tes sujets il fasse des rebelles.</l>
+	<l id="993">Je t'épouserai lors, et m'y viens d'obliger,</l>
+	<l id="994">Pour mieux servir ma haine, et pour mieux me venger,</l>
+	<l id="995">Pour moins perdre de voeux contre ta barbarie,</l>
+	<l id="996">Pour être à tous moments maîtresse de ta vie,</l>
+	<l id="997">Pour avoir l'accès libre à pousser ma fureur,</l>
+	<l id="998">Et mieux choisir la place à te percer le coeur.</l>
+	<l id="999">Voilà mon désespoir, voilà ses justes causes :</l>
+	<l id="1000">À ces conditions prends ma main, si tu l'oses.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1001">Oui, je la prends, madame, et veux auparavant...</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Pertharite, Grimoald, Rodelinde, Garibalde, Unulphe.</head>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1002">Que faites-vous, seigneur ? Pertharite est vivant :</l>
+	<l id="1003">Ce n'est plus un bruit sourd, le voilà qu'on amène ;</l>
+	<l id="1004">Des chasseurs l'ont surpris dans la forêt prochaine,</l>
+	<l id="1005">Où, caché dans un fort, il attendait la nuit.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1006">Je vois trop clairement quelle main le produit.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1007">Est-ce donc vous, seigneur ? Et les bruits infidèles</l>
+	<l id="1008">N'ont-ils semé de vous que de fausses nouvelles ?</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1009">Qui, cet époux si cher à vos chastes désirs,</l>
+	<l id="1010">Qui vous a tant coûté de pleurs et de soupirs...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1011">Va, fantôme insolent, retrouver qui t'envoie,</l>
+	<l id="1012">Et ne te mêle point d'attenter à ma joie.</l>
+	<l id="1013">Il est encore ici des supplices pour toi,</l>
+	<l id="1014">Si tu viens y montrer la vaine ombre d'un roi.</l>
+	<l id="1015" part="i">Pertharite n'est plus.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1015" part="f">Pertharite respire,</l>
+	<l id="1016">Il te parle, il te voit régner dans son empire.</l>
+	<l id="1017">Que ton ambition ne s'effarouche pas</l>
+	<l id="1018">Jusqu'à me supposer toi-même un faux trépas :</l>
+	<l id="1019">Il est honteux de feindre où l'on peut toutes choses.</l>
+	<l id="1020">Je suis mort, si tu veux ; je suis mort, si tu l'oses,</l>
+	<l id="1021">Si toute ta vertu peut demeurer d'accord</l>
+	<l id="1022">Que le droit de régner me rend digne de mort.</l>
+	<l id="1023">Je ne viens point ici par de noirs artifices</l>
+	<l id="1024">De mon cruel destin forcer les injustices,</l>
+	<l id="1025">Pousser des assassins contre tant de valeur,</l>
+	<l id="1026">Et t'immoler en lâche à mon trop de malheur.</l>
+	<l id="1027">Puisque le sort trahit ce droit de ma naissance,</l>
+	<l id="1028">Jusqu'à te faire un don de ma toute-puissance,</l>
+	<l id="1029">Règne sur mes états que le ciel t'a soumis ;</l>
+	<l id="1030">Peut-être un autre temps me rendra des amis.</l>
+	<l id="1031">Use mieux cependant de la faveur céleste :</l>
+	<l id="1032">Ne me dérobe pas le seul bien qui me reste,</l>
+	<l id="1033">Un bien où je te suis un obstacle éternel,</l>
+	<l id="1034">Et dont le seul désir est pour toi criminel.</l>
+	<l id="1035">Rodelinde n'est pas du droit de ta conquête :</l>
+	<l id="1036">Il faut, pour être à toi, qu'il m'en coûte la tête ;</l>
+	<l id="1037">Puisqu'on m'a découvert, elle dépend de toi ;</l>
+	<l id="1038">Prends-la comme tyran, ou l'attaque en vrai roi.</l>
+	<l id="1039">J'en garde hors du trône encore les caractères,</l>
+	<l id="1040">Et ton bras t'a saisi de celui de mes pères.</l>
+	<l id="1041">Je veux bien qu'il supplée au défaut de ton sang,</l>
+	<l id="1042">Pour mettre entre nous deux égalité de rang.</l>
+	<l id="1043">Si Rodelinde enfin tient ton âme charmée,</l>
+	<l id="1044">Pour voir qui la mérite il ne faut point d'armée.</l>
+	<l id="1045">Je suis roi, je suis seul, j'en suis maître, et tu peux</l>
+	<l id="1046">Par un illustre effort faire place à tes voeux.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1047">L'artifice grossier n'a rien qui m'épouvante.</l>
+	<l id="1048">Édwige à fourber n'est pas assez savante ;</l>
+	<l id="1049">Quelque adresse qu'elle aie, elle t'a mal instruit,</l>
+	<l id="1050">Et d'un si haut dessein elle a fait trop de bruit.</l>
+	<l id="1051">Elle en fait avorter l'effet par la menace,</l>
+	<l id="1052">Et ne te produit plus que de mauvaise grâce.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1053">Quoi ? Je passe à tes yeux pour un homme attitré ?</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1054">Tu l'avoueras toi-même ou de force ou de gré.</l>
+	<l id="1055">Il faut plus de secret alors qu'on veut surprendre,</l>
+	<l id="1056">Et l'on ne surprend point quand on se fait attendre.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1057">Parlez, parlez, madame, et faites voir à tous</l>
+	<l id="1058">Que vous avez des yeux pour connaître un époux.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1059">Tu veux qu'en ta faveur j'écoute ta complice !</l>
+	<l id="1060">Eh bien ! Parlez, madame ; achevez l'artifice.</l>
+	<l id="1061" part="i">Est-ce là votre époux ?</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1061" part="f">Toi qui veux en douter,</l>
+	<l id="1062">Par quelle illusion m'oses-tu consulter ?</l>
+	<l id="1063">Si tu démens tes yeux, croiras-tu mon suffrage ?</l>
+	<l id="1064">Et ne peux-tu sans moi connaître son visage ?</l>
+	<l id="1065">Tu l'as vu tant de fois, au milieu des combats,</l>
+	<l id="1066">Montrer, à tes périls, ce que pesait son bras,</l>
+	<l id="1067">Et l'épée à la main, disputer en personne,</l>
+	<l id="1068">Contre tout ton bonheur, sa vie et sa couronne.</l>
+	<l id="1069">Si tu cherches une aide à traiter d'imposteur</l>
+	<l id="1070">Un roi qui t'a fermé la porte de mon coeur,</l>
+	<l id="1071">Consulte Garibalde, il tremble à voir son maître :</l>
+	<l id="1072">Qui l'osa bien trahir l'osera méconnaître ;</l>
+	<l id="1073">Et tu peux recevoir de son mortel effroi</l>
+	<l id="1074">L'assurance qu'enfin tu n'attends pas de moi.</l>
+	<l id="1075">Un service si haut veut une âme plus basse ;</l>
+	<l id="1076" part="i">Et tu sais...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1076" part="f">Oui, je sais jusqu'où va votre audace.</l>
+	<l id="1077">Sous l'espoir de jouir de ma perplexité,</l>
+	<l id="1078">Vous cherchez à me voir l'esprit inquiété ;</l>
+	<l id="1079">Et ces discours en l'air que l'orgueil vous inspire</l>
+	<l id="1080">Veulent persuader ce que vous n'osez dire,</l>
+	<l id="1081">Brouiller la populace, et lui faire après vous</l>
+	<l id="1082">En un fourbe impudent respecter votre époux.</l>
+	<l id="1083">Poussez donc jusqu'au bout, devenez plus hardie :</l>
+	<l id="1084" part="i">Dites-nous hautement...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1084" part="f">Que veux-tu que je die ?</l>
+	<l id="1085">Il ne peut être ici que ce que tu voudras :</l>
+	<l id="1086">Tes flatteurs en croiront ce que tu résoudras.</l>
+	<l id="1087">Je n'ai pas pour t'instruire assez de complaisance ;</l>
+	<l id="1088">Et puisque son malheur l'a mis en ta puissance,</l>
+	<l id="1089">Je sais ce que je dois, si tu ne me le rends.</l>
+	<l id="1090">Achève de te mettre au rang des vrais tyrans.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Grimoald, Pertharite, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1091">Que cet événement de nouveau m'embarrasse !</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1092">Pour un fourbe chez vous la pitié trouve place !</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1093">Non, l'échafaud bientôt m'en fera la raison.</l>
+	<l id="1094">Que ton appartement lui serve de prison ;</l>
+	<l id="1095" part="i">Je te le donne en garde, Unulphe.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1095" part="f">Prince, écoute :</l>
+	<l id="1096">Mille et mille témoins te mettront hors de doute ;</l>
+	<l id="1097" part="i">Tout Milan, tout Pavie...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1097" part="f">Allez, sans contester :</l>
+	<l id="1098">Vous aurez tout loisir de vous faire écouter.</l>
+	<l id="1099">Toi, va voir Édwige, et jette dans son âme</l>
+	<l id="1100">Un si flatteur espoir du retour de ma flamme,</l>
+	<l id="1101">Qu'elle-même, déjà s'assurant de ma foi,</l>
+	<l id="1102">Te nomme l'imposteur qu'elle déguise en roi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1103">Quel revers imprévu ! Quel éclat de tonnerre</l>
+	<l id="1104">Jette en moins d'un moment tout mon espoir par terre !</l>
+	<l id="1105">Ce funeste retour, malgré tout mon projet,</l>
+	<l id="1106">Va rendre Grimoald à son premier objet ;</l>
+	<l id="1107">Et s'il traite ce prince en héros magnanime,</l>
+	<l id="1108">N'ayant plus de tyran, je n'ai plus de victime :</l>
+	<l id="1109">Je n'ai rien à venger, et ne puis le trahir,</l>
+	<l id="1110">S'il m'ôte les moyens de le faire haïr.</l>
+	<l id="1111">N'importe toutefois, ne perdons pas courage ;</l>
+	<l id="1112">Forçons notre fortune à changer de visage ;</l>
+	<l id="1113">Obstinons Grimoald, par maxime d'état,</l>
+	<l id="1114">À le croire imposteur, ou craindre un attentat ;</l>
+	<l id="1115">Accablons son esprit de terreurs chimériques,</l>
+	<l id="1116">Pour lui faire embrasser des conseils tyranniques ;</l>
+	<l id="1117">De son trop de vertu sachons le dégager,</l>
+	<l id="1118">Et perdons Pertharite afin de le venger.</l>
+	<l id="1119">Peut-être qu'Édwige, à regret plus sévère,</l>
+	<l id="1120">N'osera l'accepter teint du sang de son frère,</l>
+	<l id="1121">Et que l'effet suivra notre prétention</l>
+	<l id="1122">Du côté de l'amour et de l'ambition.</l>
+	<l id="1123">Tâchons, quoi qu'il en soit, d'en achever l'ouvrage ;</l>
+	<l id="1124">Et pour régner un jour mettons tout en usage.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Grimoald, Garibalde.</head>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1125">Je ne m'en dédis point, seigneur ; ce prompt retour</l>
+	<l id="1126">N'est qu'une illusion qu'on fait à votre amour.</l>
+	<l id="1127">Je ne l'ai vu que trop aux discours d'Édwige :</l>
+	<l id="1128">Comme sensiblement votre change l'afflige,</l>
+	<l id="1129">Et qu'avec le feu roi ce fourbe a du rapport,</l>
+	<l id="1130">Sa flamme au désespoir fait ce dernier effort.</l>
+	<l id="1131">Rodelinde, comme elle, aime à vous mettre en peine :</l>
+	<l id="1132">L'une sert son amour et l'autre sert sa haine ;</l>
+	<l id="1133">Ce que l'une produit, l'autre ose l'avouer,</l>
+	<l id="1134">Et leur inimitié s'accorde à vous jouer.</l>
+	<l id="1135">L'imposteur cependant, quoi qu'on lui donne à feindre,</l>
+	<l id="1136">Le soutient d'autant mieux qu'il ne voit rien à craindre ;</l>
+	<l id="1137">Car soit que ses discours puissent vous émouvoir</l>
+	<l id="1138">Jusqu'à rendre Édwige à son premier pouvoir ;</l>
+	<l id="1139">Soit que malgré sa fourbe et vaine et languissante,</l>
+	<l id="1140">Rodelinde sur vous reste toute-puissante,</l>
+	<l id="1141">À l'une ou l'autre enfin votre âme à l'abandon</l>
+	<l id="1142">Ne lui pourra jamais refuser ce pardon.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1143">Tu dis vrai, Garibalde, et déjà je le donne</l>
+	<l id="1144">À qui voudra des deux partager ma couronne :</l>
+	<l id="1145">Non que j'espère encore amollir ce rocher,</l>
+	<l id="1146">Que ni respects ni voeux n'ont jamais su toucher.</l>
+	<l id="1147">Si j'aimai Rodelinde, et si pour n'aimer qu'elle,</l>
+	<l id="1148">Mon âme à qui m'aimait s'est rendue infidèle ;</l>
+	<l id="1149">Si d'éternels dédains, si d'éternels ennuis,</l>
+	<l id="1150">Les bravades, la haine, et le trouble où je suis,</l>
+	<l id="1151">Ont été jusqu'ici toute la récompense</l>
+	<l id="1152">De cet amour parjure où mon coeur se dispense,</l>
+	<l id="1153">Il est temps désormais que par un juste effort</l>
+	<l id="1154">J'affranchisse mon coeur de cet indigne sort.</l>
+	<l id="1155">Prenons l'occasion que nous fait Édwige :</l>
+	<l id="1156">Aimons cette imposture où son amour l'oblige.</l>
+	<l id="1157">Elle plaint un ingrat de tant de maux soufferts,</l>
+	<l id="1158">Et lui prête la main pour le tirer des fers.</l>
+	<l id="1159">Aimons, encore un coup, aimons son artifice,</l>
+	<l id="1160">Aimons-en le secours, et rendons-lui justice.</l>
+	<l id="1161">Soit qu'elle en veuille au trône ou n'en veuille qu'à moi,</l>
+	<l id="1162">Qu'elle aime Grimoald ou qu'elle aime le roi,</l>
+	<l id="1163">Qu'elle ait beaucoup d'amour ou beaucoup de courage,</l>
+	<l id="1164">Je dois tout à la main qui rompt mon esclavage.</l>
+	<l id="1165">Toi qui ne la servais qu'afin de m'obéir,</l>
+	<l id="1166">Qui tâchais par mon ordre à m'en faire haïr,</l>
+	<l id="1167">Duc, ne t'y force plus, et rends-moi ma parole :</l>
+	<l id="1168">Que je rende à ses feux tout ce que je leur vole,</l>
+	<l id="1169">Et que je puisse ainsi d'une même action</l>
+	<l id="1170">Récompenser sa flamme ou son ambition.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1171">Je vous la rends, seigneur ; mais enfin prenez garde</l>
+	<l id="1172">À quels nouveaux périls cet effort vous hasarde,</l>
+	<l id="1173">Et si ce n'est point croire un peu trop promptement</l>
+	<l id="1174">L'impétueux transport d'un premier mouvement.</l>
+	<l id="1175">L'imposteur impuni passera pour monarque :</l>
+	<l id="1176">Tout le peuple en prendra votre bonté pour marque ;</l>
+	<l id="1177">Et comme il est ardent après la nouveauté,</l>
+	<l id="1178">Il s'imaginera son rang seul respecté.</l>
+	<l id="1179">Je sais bien qu'aussitôt votre haute vaillance</l>
+	<l id="1180">De ce peuple mutin domptera l'insolence ;</l>
+	<l id="1181">Mais tenez-vous fort sûr ce que vous prétendez</l>
+	<l id="1182">Du côté d'Édwige, à qui vous vous rendez ?</l>
+	<l id="1183">J'ai pénétré, seigneur, jusqu'au fond de son âme,</l>
+	<l id="1184">Où je n'ai vu pour vous aucun reste de flamme :</l>
+	<l id="1185">Sa haine seule agit, et cherche à vous ôter</l>
+	<l id="1186">Ce que tous vos désirs s'efforcent d'emporter.</l>
+	<l id="1187">Elle veut, il est vrai, vous rappeler vers elle ;</l>
+	<l id="1188">Mais pour faire à son tour l'ingrate et la cruelle,</l>
+	<l id="1189">Pour vous traiter de lâche, et vous rendre soudain</l>
+	<l id="1190">Parjure pour parjure et dédain pour dédain.</l>
+	<l id="1191">Elle veut que votre âme, esclave de la sienne,</l>
+	<l id="1192">Lui demande sa grâce, et jamais ne l'obtienne :</l>
+	<l id="1193">Ce sont ses mots exprès ; et pour vous punir mieux,</l>
+	<l id="1194">Elle me veut aimer, et m'aimer à vos yeux :</l>
+	<l id="1195" part="i">Elle me l'a promis.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Grimoald, Garibalde, Édwige.</head>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1195" part="f">Je te l'ai promis, traître !</l>
+	<l id="1196">Oui, je te l'ai promis, et l'aurais fait peut-être,</l>
+	<l id="1197">Si ton âme, attachée à mes commandements,</l>
+	<l id="1198">Eût pu dans ton amour suivre mes sentiments.</l>
+	<l id="1199">J'avais mis mes secrets en bonne confidence !</l>
+	<l id="1200">Vois par là, Grimoald, quelle est ton imprudence,</l>
+	<l id="1201">Et juge, par les miens lâchement déclarés,</l>
+	<l id="1202">Comme les tiens sur lui peuvent être assurés.</l>
+	<l id="1203">Qui trahit sa maîtresse aisément fait connaître</l>
+	<l id="1204">Que sans aucun scrupule il trahirait son maître,</l>
+	<l id="1205">Et que des deux côtés laissant flotter sa foi,</l>
+	<l id="1206">Son coeur n'aime en effet ni son maître ni moi.</l>
+	<l id="1207">Il a son but à part, Grimoald, prends-y garde :</l>
+	<l id="1208">Quelque dessein qu'il ait, c'est toi seul qu'il regarde.</l>
+	<l id="1209">Examine ce coeur, juges-en comme il faut.</l>
+	<l id="1210">Qui m'aime et me trahit aspire encore plus haut.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1211">Vous le voyez, seigneur, avec quelle injustice</l>
+	<l id="1212">On me fait criminel quand je vous rends service.</l>
+	<l id="1213">Mais de quoi n'est capable un malheureux amant</l>
+	<l id="1214">Que la peur de vous perdre agite incessamment,</l>
+	<l id="1215">Madame ? Vous voulez que le roi vous adore,</l>
+	<l id="1216">Et pour l'en empêcher je ferais plus encore :</l>
+	<l id="1217">Je ne m'en défends point, et mon esprit jaloux</l>
+	<l id="1218">Cherche tous les moyens de l'éloigner de vous.</l>
+	<l id="1219">Je ne vous saurais voir entre les bras d'un autre ;</l>
+	<l id="1220">Mon amour, si c'est crime, a l'exemple du vôtre.</l>
+	<l id="1221">Que ne faites-vous point pour obliger le roi</l>
+	<l id="1222">À quitter Rodelinde, et vous rendre sa foi ?</l>
+	<l id="1223">Est-il rien en ces lieux que n'ait mis en usage</l>
+	<l id="1224">L'excès de votre ardeur ou de votre courage ?</l>
+	<l id="1225">Pour être tout à vous, j'ai fait tous mes efforts ;</l>
+	<l id="1226">Mais je n'ai point encore fait revivre les morts.</l>
+	<l id="1227">J'ai dit des vérités dont votre coeur murmure ;</l>
+	<l id="1228">Mais je n'ai point été jusques à l'imposture,</l>
+	<l id="1229">Et je n'ai point poussé des sentiments si beaux</l>
+	<l id="1230">Jusqu'à faire sortir les ombres des tombeaux.</l>
+	<l id="1231">Ce n'est point mon amour qui produit Pertharite :</l>
+	<l id="1232">Ma flamme ignore encore cet art qui ressuscite ;</l>
+	<l id="1233">Et je ne vois en elle enfin rien à blâmer,</l>
+	<l id="1234">Sinon que je trahis, si c'est trahir qu'aimer.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1235">De quel front et de quoi cet insolent m'accuse ?</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1236">D'un mauvais artifice et d'une faible ruse.</l>
+	<l id="1237">Votre dessein, madame, était mal concerté :</l>
+	<l id="1238">On ne m'a point surpris quand on s'est présenté.</l>
+	<l id="1239">Vous m'aviez préparé vous-même à m'en défendre,</l>
+	<l id="1240">Et me l'ayant promis, j'avais lieu de l'attendre.</l>
+	<l id="1241">Consolez-vous pourtant, il a fait son effet :</l>
+	<l id="1242">Je suis à vous, madame, et j'y suis tout à fait.</l>
+	<l id="1243">Si je vous ai trahie, et si mon coeur volage</l>
+	<l id="1244">Vous a volé longtemps un légitime hommage,</l>
+	<l id="1245">Si pour un autre objet le vôtre en fut banni,</l>
+	<l id="1246">Les maux que j'ai soufferts m'en ont assez puni.</l>
+	<l id="1247">Je recouvre la vue, et reconnais mon crime :</l>
+	<l id="1248">À mes feux rallumés ce coeur s'offre en victime ;</l>
+	<l id="1249">Oui, princesse, et pour être à vous jusqu'au trépas,</l>
+	<l id="1250">Il demande un pardon qu'il ne mérite pas.</l>
+	<l id="1251">Votre propre bonté qui vous en sollicite</l>
+	<l id="1252">Obtient déjà celui de ce faux Pertharite.</l>
+	<l id="1253">Un si grand attentat blesse la majesté ;</l>
+	<l id="1254">Mais s'il est criminel, je l'ai moi-même été.</l>
+	<l id="1255">Faites grâce, et j'en fais ; oubliez, et j'oublie.</l>
+	<l id="1256">Il reste seulement que lui-même il publie,</l>
+	<l id="1257">Par un aveu sincère, et sans rien déguiser,</l>
+	<l id="1258">Que pour me rendre à vous il voulait m'abuser,</l>
+	<l id="1259">Qu'il n'empruntait ce nom que par votre ordre même.</l>
+	<l id="1260">Madame, assurez-vous par là mon diadème,</l>
+	<l id="1261">Et ne permettez pas que cette illusion</l>
+	<l id="1262">Aux mutins contre nous prête d'occasion.</l>
+	<l id="1263">Faites donc qu'il l'avoue, et que ma grâce offerte,</l>
+	<l id="1264">Tout imposteur qu'il est, le dérobe à sa perte ;</l>
+	<l id="1265">Et délivrez par là de ces troubles soudains</l>
+	<l id="1266">Le sceptre qu'avec moi je remets en vos mains.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1267">J'avais eu jusqu'ici ce respect pour ta gloire,</l>
+	<l id="1268">Qu'en te nommant tyran, j'avais peine à me croire :</l>
+	<l id="1269">Je me tenais suspecte, et sentais que mon feu</l>
+	<l id="1270">Faisait de ce reproche un secret désaveu ;</l>
+	<l id="1271">Mais tu lèves le masque, et m'ôtes de scrupule.</l>
+	<l id="1272">Je ne puis plus garder ce respect ridicule ;</l>
+	<l id="1273">Et je vois clairement, le masque étant levé,</l>
+	<l id="1274">Que jamais on n'a vu tyran plus achevé.</l>
+	<l id="1275">Tu fais adroitement le doux et le sévère,</l>
+	<l id="1276">Afin que la soeur t'aide à massacrer le frère :</l>
+	<l id="1277">Tu fais plus, et tu veux qu'en trahissant son sort,</l>
+	<l id="1278">Lui-même il se condamne et se livre à la mort,</l>
+	<l id="1279">Comme s'il pouvait être amoureux de la vie</l>
+	<l id="1280">Jusqu'à la racheter par une ignominie,</l>
+	<l id="1281">Ou qu'un frivole espoir de te revoir à moi</l>
+	<l id="1282">Me pût rendre perfide et lâche comme toi.</l>
+	<l id="1283">Aime-moi, si tu veux, déloyal ; mais n'espère</l>
+	<l id="1284">Aucun secours de moi pour t'immoler mon frère.</l>
+	<l id="1285">Si je te menaçais tantôt de son retour,</l>
+	<l id="1286">Si j'en donnais l'alarme à ton nouvel amour,</l>
+	<l id="1287">C'étaient discours en l'air inventés par ma flamme,</l>
+	<l id="1288">Pour brouiller ton esprit et celui de sa femme.</l>
+	<l id="1289">J'avais peine à te perdre, et parlais au hasard,</l>
+	<l id="1290">Pour te perdre du moins quelques moments plus tard ;</l>
+	<l id="1291">Et quand par ce retour il a su nous surprendre,</l>
+	<l id="1292">Le ciel m'a plus rendu que je n'osais attendre.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1293" part="i">Madame...</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1293" part="f">Tu perds temps ; je n'écoute plus rien,</l>
+	<l id="1294">Et j'attends ton arrêt pour résoudre le mien.</l>
+	<l id="1295">Agis, si tu le veux, en vainqueur magnanime ;</l>
+	<l id="1296">Agis comme tyran, et prends cette victime :</l>
+	<l id="1297">Je suivrai ton exemple, et sur tes actions</l>
+	<l id="1298">Je réglerai ma haine ou mes affections.</l>
+	<l id="1299">Il suffit à présent que je te désabuse,</l>
+	<l id="1300">Pour payer ton amour ou pour punir ta ruse.</l>
+	<l id="1301" part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Grimoald, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1301" part="m">Que veut Unulphe ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1301" part="f">Il est de mon devoir</l>
+	<l id="1302">De vous dire, seigneur, que chacun le vient voir.</l>
+	<l id="1303">J'ai permis à fort peu de lui rendre visite ;</l>
+	<l id="1304">Mais tous l'ont reconnu pour le vrai Pertharite.</l>
+	<l id="1305">Le peuple même parle, et déjà sourdement</l>
+	<l id="1306">On entend des discours semés confusément...</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1307">Voyez en quels périls vous jette l'imposture :</l>
+	<l id="1308">Le peuple déjà parle, et sourdement murmure.</l>
+	<l id="1309">Le feu va s'allumer, si vous ne l'éteignez.</l>
+	<l id="1310">Pour perdre un imposteur, qu'est-ce que vous craignez ?</l>
+	<l id="1311">La haine d'Édwige, elle qui ne prépare</l>
+	<l id="1312">À vos submissions qu'une fierté barbare ?</l>
+	<l id="1313">Elle que vos mépris ayant mise en fureur,</l>
+	<l id="1314">Rendent opiniâtre à vous mettre en erreur ?</l>
+	<l id="1315">Elle qui n'a plus soif que de votre ruine ?</l>
+	<l id="1316">Elle dont la main seule en conduit la machine ?</l>
+	<l id="1317">De semblables malheurs se doivent dédaigner,</l>
+	<l id="1318">Et la vertu timide est mal propre à régner.</l>
+	<l id="1319">épousez Rodelinde, et malgré son fantôme,</l>
+	<l id="1320">Assurez-vous l'état, et calmez le royaume ;</l>
+	<l id="1321">Et livrant l'imposteur à ses mauvais destins,</l>
+	<l id="1322">Ôtez dès aujourd'hui tout prétexte aux mutins</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1323">Oui, je te croirai, duc ; et dès demain sa tête,</l>
+	<l id="1324">Abattue à mes pieds, calmera la tempête.</l>
+	<l id="1325">Qu'on le fasse venir, et qu'on mande avec lui</l>
+	<l id="1326">Celle qui de sa fourbe est le second appui,</l>
+	<l id="1327">La reine qui me brave et qui par grandeur d'âme</l>
+	<l id="1328">Semble avoir quelque gêne à se nommer sa femme.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1329" part="i">Ses pleurs vous toucheront.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1329" part="f">Je suis armé contre eux.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1330" part="i">L'amour vous séduira.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1330" part="f">Je n'en crains point les feux ;</l>
+	<l id="1331">Ils ont peu de pouvoir quand l'âme est résolue.</l>
+</sp>
+<sp who="GARIBALDE"><speaker>GARIBALDE.</speaker>
+	<l id="1332">Agissez donc, seigneur, de puissance absolue :</l>
+	<l id="1333">Soutenez votre sceptre avec l'autorité</l>
+	<l id="1334">Qu'imprime au front des rois leur propre majesté.</l>
+	<l id="1335">Un roi doit pouvoir tout, et ne sait pas bien l'être</l>
+	<l id="1336">Quand au fond de son coeur il souffre un autre maître.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Grimoald, Pertharite, Rodelinde, Garibalde, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1337">Viens, fourbe, viens, méchant, éprouver ma bonté,</l>
+	<l id="1338">Et ne la réduis pas à la sévérité.</l>
+	<l id="1339">Je veux te faire grâce : avoue et me confesse</l>
+	<l id="1340">D'un si hardi dessein qui t'a fourni l'adresse,</l>
+	<l id="1341">Qui des deux l'a formé, qui t'a le mieux instruit :</l>
+	<l id="1342">Tu m'entends ; et surtout fais cesser ce faux bruit ;</l>
+	<l id="1343">Détrompe mes sujets, ta prison est ouverte ;</l>
+	<l id="1344">Sinon, prépare-toi dès demain à ta perte ;</l>
+	<l id="1345">N'y force pas ton prince ; et sans plus t'obstiner,</l>
+	<l id="1346">Mérite le pardon qu'il cherche à te donner.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1347">Que tu perds lâchement de ruse et d'artifice,</l>
+	<l id="1348">Pour trouver à me perdre une ombre de justice,</l>
+	<l id="1349">Et sauver les dehors d'une adroite vertu</l>
+	<l id="1350">Dont aux yeux éblouis tu parois revêtu !</l>
+	<l id="1351">Le ciel te livre exprès une grande victime,</l>
+	<l id="1352">Pour voir si tu peux être et juste et magnanime ;</l>
+	<l id="1353">Mais il ne t'abandonne après tout que son sang :</l>
+	<l id="1354">Tu ne lui peux ôter ni son nom ni son rang.</l>
+	<l id="1355">Je mourrai comme roi né pour le diadème ;</l>
+	<l id="1356">Et bientôt mes sujets, détrompés par toi-même,</l>
+	<l id="1357">Connaîtront par ma mort qu'ils n'adorent en toi</l>
+	<l id="1358">Que de fausses couleurs qui te peignent en roi.</l>
+	<l id="1359">Hâte donc cette mort, elle t'est nécessaire ;</l>
+	<l id="1360">Car puisqu'enfin tu veux la vérité sincère,</l>
+	<l id="1361">Tout ce qu'entre tes mains je forme de souhaits,</l>
+	<l id="1362">C'est d'affranchir bientôt ces malheureux sujets.</l>
+	<l id="1363">Crains-moi, si je t'échappe ; et sois sûr de ta perte,</l>
+	<l id="1364">Si par ton mauvais sort la prison m'est ouverte.</l>
+	<l id="1365">Mon peuple aura des yeux pour connaître son roi,</l>
+	<l id="1366">Et mettra différence entre un tyran et moi :</l>
+	<l id="1367">Il n'a point de fureur que soudain je n'excite.</l>
+	<l id="1368">Voilà, dedans tes fers, l'espoir de Pertharite ;</l>
+	<l id="1369">Voilà des vérités qu'il ne peut déguiser,</l>
+	<l id="1370">Et l'aveu qu'il te faut pour te désabuser.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1371">Veux-tu pour t'éclaircir de plus illustres marques ?</l>
+	<l id="1372">Veux-tu mieux voir le sang de nos premiers monarques ?</l>
+	<l id="1373" part="i">Ce grand coeur...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1373" part="f">Oui, madame, il est fort bien instruit</l>
+	<l id="1374">À montrer de l'orgueil et fourber à grand bruit.</l>
+	<l id="1375">Mais si par son aveu la fourbe reconnue</l>
+	<l id="1376">Ne détrompe aujourd'hui la populace émue,</l>
+	<l id="1377">Qu'il prépare sa tête, et vous-même en ce lieu</l>
+	<l id="1378">Ne pensez qu'à lui dire un éternel adieu.</l>
+	<l id="1379">Laissons-les seuls, Unulphe, et demeure à la porte ;</l>
+	<l id="1380">Qu'avant que je l'ordonne aucun n'entre ni sorte.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Pertharite, Rodelinde.</head>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1381">Madame, vous voyez où l'amour m'a conduit.</l>
+	<l id="1382">J'ai su que de ma mort il courait un faux bruit,</l>
+	<l id="1383">Des désirs du tyran j'ai su la violence ;</l>
+	<l id="1384">J'en ai craint sur ce bruit la dernière insolence,</l>
+	<l id="1385">Et n'ai pu faire moins que de tout exposer,</l>
+	<l id="1386">Pour vous revoir encore et vous désabuser.</l>
+	<l id="1387">J'ai laissé hasarder à cette digne envie</l>
+	<l id="1388">Les restes languissants d'une importune vie,</l>
+	<l id="1389">À qui l'ennui mortel d'être éloigné de vous</l>
+	<l id="1390">Semblait à tous moments porter les derniers coups ;</l>
+	<l id="1391">Car, je vous l'avouerai, dans l'état déplorable</l>
+	<l id="1392">Où m'abîme du sort la haine impitoyable,</l>
+	<l id="1393">Où tous mes alliés me refusent leurs bras,</l>
+	<l id="1394">Mon plus cuisant chagrin est de ne vous voir pas.</l>
+	<l id="1395">Je bénis mon destin, quelques maux qu'il m'envoie,</l>
+	<l id="1396">Puisqu'il peut consentir à ce moment de joie ;</l>
+	<l id="1397">Et bien qu'il ose encore de nouveau me trahir,</l>
+	<l id="1398">En un moment si doux je ne le puis haïr.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1399">C'était donc peu, seigneur, pour mon âme affligée,</l>
+	<l id="1400">De toute la misère où je me vois plongée ;</l>
+	<l id="1401">C'était peu des rigueurs de ma captivité,</l>
+	<l id="1402">Sans celle où votre amour vous a précipité ;</l>
+	<l id="1403">Et pour dernier outrage où son excès m'expose,</l>
+	<l id="1404">Il faut vous voir mourir et m'en savoir la cause !</l>
+	<l id="1405">Je ne vous dirai point que ce moment m'est doux.</l>
+	<l id="1406">Il met à trop haut prix ce qu'il me rend de vous ;</l>
+	<l id="1407">Et votre souvenir m'aurait bien su défendre</l>
+	<l id="1408">De tout ce qu'un tyran aurait osé prétendre.</l>
+	<l id="1409">N'attendez point de moi de soupirs ni de pleurs :</l>
+	<l id="1410">Ce sont amusements de légères douleurs.</l>
+	<l id="1411">L'amour que j'ai pour vous hait ces molles bassesses</l>
+	<l id="1412">Où d'un sexe craintif descendent les faiblesses ;</l>
+	<l id="1413">Et contre vos malheurs j'ai trop su m'affermir,</l>
+	<l id="1414">Pour ne dédaigner pas l'usage de gémir.</l>
+	<l id="1415">D'un déplaisir si grand la noble violence</l>
+	<l id="1416">Se résout toute entière en ardeur de vengeance,</l>
+	<l id="1417">Et méprisant l'éclat, porte tout son effort</l>
+	<l id="1418">À sauver votre vie, ou venger votre mort.</l>
+	<l id="1419">Je ferai l'un ou l'autre, ou périrai moi-même.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1420">Aimez plutôt, madame, un vainqueur qui vous aime.</l>
+	<l id="1421">Vous avez assez fait pour moi, pour votre honneur ;</l>
+	<l id="1422">Il est temps de tourner du côté du bonheur,</l>
+	<l id="1423">De ne plus embrasser des destins trop sévères,</l>
+	<l id="1424">Et de laisser finir mes jours et vos misères.</l>
+	<l id="1425">Le ciel, qui vous destine à régner en ces lieux,</l>
+	<l id="1426">M'accorde au moins le bien de mourir à vos yeux.</l>
+	<l id="1427">J'aime à lui voir briser une importune chaîne</l>
+	<l id="1428">De qui les noeuds rompus vous font heureuse reine ;</l>
+	<l id="1429">Et sous votre destin je veux bien succomber,</l>
+	<l id="1430">Pour remettre en vos mains ce que j'en fis tomber.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1431">Est-ce là donc, seigneur, la digne récompense</l>
+	<l id="1432">De ce que pour votre ombre on m'a vu de constance ?</l>
+	<l id="1433">Quand je vous ai cru mort, et qu'un si grand vainqueur,</l>
+	<l id="1434">Sa conquête à mes pieds, m'a demandé mon coeur,</l>
+	<l id="1435">Quand toute autre en ma place eût peut-être fait gloire</l>
+	<l id="1436">De cet hommage entier de toute sa victoire...</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1437">Je sais que vous avez dignement combattu :</l>
+	<l id="1438">Le ciel va couronner aussi votre vertu ;</l>
+	<l id="1439">Il va vous affranchir de cette inquiétude</l>
+	<l id="1440">Que pouvait de ma mort former l'incertitude,</l>
+	<l id="1441">Et vous mettre sans trouble en pleine liberté</l>
+	<l id="1442">De monter au plus haut de la félicité.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1443" part="i">Que dis-tu, cher époux ?</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1443" part="f">Que je vois sans murmure</l>
+	<l id="1444">Naître votre bonheur de ma triste aventure.</l>
+	<l id="1445">L'amour me ramenait, sans pouvoir rien pour vous,</l>
+	<l id="1446">Que vous envelopper dans l'exil d'un époux,</l>
+	<l id="1447">Vous dérober sans bruit à cette ardeur infâme</l>
+	<l id="1448">Où s'opposent ma vie et le nom de ma femme.</l>
+	<l id="1449">Pour changer avec gloire, il vous faut mon trépas ;</l>
+	<l id="1450">Et s'il vous fait régner, je ne le perdrai pas.</l>
+	<l id="1451">Après tant de malheurs que mon amour vous cause,</l>
+	<l id="1452">Il est temps que ma mort vous serve à quelque chose,</l>
+	<l id="1453">Et qu'un victorieux à vos pieds abattu</l>
+	<l id="1454">Cesse de renoncer à toute sa vertu.</l>
+	<l id="1455">D'un conquérant si grand et d'un héros si rare</l>
+	<l id="1456">Vous faites trop longtemps un tyran, un barbare ;</l>
+	<l id="1457">Il l'est, mais seulement pour vaincre vos refus.</l>
+	<l id="1458">Soyez à lui, madame, il ne le sera plus ;</l>
+	<l id="1459">Et je tiendrai ma vie heureusement perdue,</l>
+	<l id="1460" part="i">Puisque...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1460" part="f">N'achève point un discours qui me tue,</l>
+	<l id="1461">Et ne me force point à mourir de douleur,</l>
+	<l id="1462">Avant qu'avoir pu rompre ou venger ton malheur.</l>
+	<l id="1463">Moi qui l'ai dédaigné dans son char de victoire,</l>
+	<l id="1464">Couronné de vertus encore plus que de gloire,</l>
+	<l id="1465">Magnanime, vaillant, juste, bon, généreux,</l>
+	<l id="1466">Pour m'attacher à l'ombre, au nom d'un malheureux,</l>
+	<l id="1467">Je pourrais à ta vue, aux dépens de ta vie,</l>
+	<l id="1468">épouser d'un tyran l'horreur et l'infamie,</l>
+	<l id="1469">Et trahir mon honneur, ma naissance, mon rang,</l>
+	<l id="1470">Pour baiser une main fumante de ton sang !</l>
+	<l id="1471" part="i">Ah ! Tu me connais mieux, cher époux.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1471" part="f">Non, madame,</l>
+	<l id="1472">Il ne faut point souffrir ce scrupule en votre âme.</l>
+	<l id="1473">Quand ces devoirs communs ont d'importunes lois,</l>
+	<l id="1474">La majesté du trône en dispense les rois :</l>
+	<l id="1475">Leur gloire est au-dessus des règles ordinaires,</l>
+	<l id="1476">Et cet honneur n'est beau que pour les coeurs vulgaires.</l>
+	<l id="1477">Sitôt qu'un roi vaincu tombe aux mains du vainqueur,</l>
+	<l id="1478">Il a trop mérité la dernière rigueur.</l>
+	<l id="1479">Ma mort pour Grimoald ne peut avoir de crime :</l>
+	<l id="1480">Le soin de s'affermir lui rend tout légitime.</l>
+	<l id="1481">Quand j'aurai dans ses fers cessé de respirer,</l>
+	<l id="1482">Donnez-lui votre main, sans rien considérer :</l>
+	<l id="1483">épargnez les efforts d'une impuissante haine,</l>
+	<l id="1484">Et permettez au ciel de vous faire encore reine.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1485">épargnez-moi, seigneur, ce cruel sentiment.</l>
+	<l id="1486" part="i">Vous qui savez...</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Pertharite, Rodelinde, Unulphe.</head>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1486" part="f">Madame, achevez promptement :</l>
+	<l id="1487">Le roi, de plus en plus se rendant intraitable,</l>
+	<l id="1488">Mande vers lui ce prince, ou faux, ou véritable.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1489">Adieu, puisqu'il le faut ; et croyez qu'un époux</l>
+	<l id="1490">A tous les sentiments qu'il doit avoir de vous.</l>
+	<l id="1491">Il voit tout votre amour et tout votre mérite ;</l>
+	<l id="1492">Et mourant sans regret, à regret il vous quitte.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1493">Adieu, puisqu'on m'y force ; et recevez ma foi</l>
+	<l id="1494">Que l'on me verra digne et de vous et de moi.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1495">Ne vous exposez point au même précipice.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1496">Le ciel hait les tyrans, et nous fera justice.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1497">Hélas ! S'il était juste, il vous aurait donné</l>
+	<l id="1498">Un plus puissant monarque, ou moins infortuné.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Unulphe, Édwige.</head>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1499">Quoi ? Grimoald s'obstine à perdre ainsi mon frère !</l>
+	<l id="1500">D'imposture et de fourbe il traite sa misère !</l>
+	<l id="1501">Et feignant de me rendre et son coeur et sa foi,</l>
+	<l id="1502">Il n'a point d'yeux pour lui ni d'oreilles pour moi !</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1503">Madame, n'accusez que le duc qui l'obsède :</l>
+	<l id="1504">Le mal, s'il en est cru, deviendra sans remède ;</l>
+	<l id="1505">Et si le roi suivait ses conseils violents,</l>
+	<l id="1506">Vous n'en verriez déjà que des effets sanglants.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1507">Jadis pour Grimoald il quitta Pertharite ;</l>
+	<l id="1508">Et s'il le laisse vivre, il craint ce qu'il mérite.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1509">Ajoutez qu'il vous aime, et veut par tous moyens</l>
+	<l id="1510">Rattacher ce vainqueur à ses derniers liens ;</l>
+	<l id="1511">Que Rodelinde à lui, par amour ou par force,</l>
+	<l id="1512">Assure entre vous deux un éternel divorce ;</l>
+	<l id="1513">Et s'il peut une fois jusque-là l'irriter,</l>
+	<l id="1514">Par force ou par amour il croit vous emporter.</l>
+	<l id="1515">Mais vous n'avez, madame, aucun sujet de crainte ;</l>
+	<l id="1516">Ce héros est à vous sans réserve et sans feinte,</l>
+	<l id="1517" part="i">Et...</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1517" part="f">S'il quitte sans feinte un objet si chéri,</l>
+	<l id="1518">Sans doute au fond de l'âme il connaît son mari.</l>
+	<l id="1519">Mais s'il le connaissait, en dépit de ce traître,</l>
+	<l id="1520">Qui pourroait l'empêcher de le faire paraître ?</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1521">Sur le trône conquis il craint quelque attentat,</l>
+	<l id="1522">Et ne le méconnaît que par raison d'état.</l>
+	<l id="1523">C'est un aveuglement qu'il a cru nécessaire ;</l>
+	<l id="1524">Et comme Garibalde animait sa colère,</l>
+	<l id="1525">De ses mauvais conseils sans cesse combattu,</l>
+	<l id="1526">Il donnait lieu de craindre enfin pour sa vertu.</l>
+	<l id="1527">Mais, madame, il n'est plus en état de le croire.</l>
+	<l id="1528">Je n'ai pu voir longtemps ce péril pour sa gloire.</l>
+	<l id="1529">Quelque fruit que le duc espère en recueillir,</l>
+	<l id="1530">Je viens d'ôter au roi les moyens de faillir.</l>
+	<l id="1531">Pertharite, en un mot, n'est plus en sa puissance.</l>
+	<l id="1532">Mais ne présumez pas que j'aie eu l'imprudence</l>
+	<l id="1533">De laisser à sa fuite un libre et plein pouvoir</l>
+	<l id="1534">De se montrer au peuple et d'oser l'émouvoir.</l>
+	<l id="1535">Pour fuir en sûreté, je lui prête main-forte,</l>
+	<l id="1536">Ou plutôt je lui donne une fidèle escorte,</l>
+	<l id="1537">Qui sous cette couleur de lui servir d'appui,</l>
+	<l id="1538">Le met hors du royaume, et me répond de lui.</l>
+	<l id="1539">J'empêche ainsi le duc d'achever son ouvrage,</l>
+	<l id="1540">Et j'en donne à mon roi ma tête pour otage.</l>
+	<l id="1541">Votre bonté, madame, en prendra quelque soin.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1542">Oui, je serai pour toi criminelle au besoin :</l>
+	<l id="1543">Je prendrai, s'il le faut, sur moi toute la faute.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1544">Ou je connais fort mal une vertu si haute,</l>
+	<l id="1545">Ou s'il revient à soi, lui-même tout ravi</l>
+	<l id="1546">M'avouera le premier que je l'ai bien servi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE II. Grimoald, Édwige, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1547">Que voulez-vous enfin, madame, que j'espère ?</l>
+	<l id="1548" part="i">Qu'ordonnez-vous de moi ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1548" part="f">Que fais-tu de mon frère ?</l>
+	<l id="1549">Qu'ordonnes-tu de lui ? Prononce ton arrêt.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1550">Toujours d'un imposteur prendrez-vous l'intérêt ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1551">Veux-tu suivre toujours le conseil tyrannique</l>
+	<l id="1552">D'un traître qui te livre à la haine publique ?</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1553">Qu'en faveur de ce fourbe à tort vous m'accusez !</l>
+	<l id="1554">Je vous offre sa grâce, et vous la refusez.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1555">Cette offre est un supplice aux princes qu'on opprime :</l>
+	<l id="1556">Il ne faut point de grâce à qui se voit sans crime ;</l>
+	<l id="1557">Et tes yeux, malgré toi, ne te font que trop voir</l>
+	<l id="1558">Que c'est à lui d'en faire, et non d'en recevoir.</l>
+	<l id="1559">Ne t'obstine donc plus à t'aveugler toi-même :</l>
+	<l id="1560">Soit tel que je t'aimais, si tu veux que je t'aime ;</l>
+	<l id="1561">Sois tel que tu parus quand tu conquis Milan :</l>
+	<l id="1562">J'aime encore son vainqueur, mais non pas son tyran.</l>
+	<l id="1563">Rends-toi cette vertu pleine, haute, sincère,</l>
+	<l id="1564">Qui t'affermit si bien au trône de mon frère ;</l>
+	<l id="1565">Rends-lui du moins son nom, si tu me rends ton coeur.</l>
+	<l id="1566">Qui peut feindre pour lui peut feindre pour la soeur ;</l>
+	<l id="1567">Et tu ne vois en moi qu'une amante incrédule,</l>
+	<l id="1568">Quand je vois qu'avec lui ton âme dissimule.</l>
+	<l id="1569">Quitte, quitte en vrai roi les vertus des tyrans,</l>
+	<l id="1570">Et ne me cache plus un coeur que tu me rends.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1571">Lisez-y donc vous-même : il est à vous, madame ;</l>
+	<l id="1572">Vous en voyez le trouble aussi bien que la flamme.</l>
+	<l id="1573">Sans plus me demander ce que vous connaissez,</l>
+	<l id="1574">De grâce, croyez-en tout ce que vous pensez.</l>
+	<l id="1575">C'est redoubler ensemble et mes maux et ma honte</l>
+	<l id="1576">Que de forcer ma bouche à vous en rendre conte.</l>
+	<l id="1577">Quand je n'aurais point d'yeux, chacun en a pour moi.</l>
+	<l id="1578">Garibalde lui seul a méconnu son roi ;</l>
+	<l id="1579">Et par un intérêt qu'aisément je devine,</l>
+	<l id="1580">Ce lâche, tant qu'il peut, par ma main l'assassine.</l>
+	<l id="1581">Mais que plutôt le ciel me foudroie à vos yeux,</l>
+	<l id="1582">Que je songe à répandre un sang si précieux !</l>
+	<l id="1583">Madame, cependant mettez-vous en ma place :</l>
+	<l id="1584">Si je le reconnais, que faut-il que j'en fasse ?</l>
+	<l id="1585">Le tenir dans les fers avec le nom de roi,</l>
+	<l id="1586">C'est soulever pour lui ses peuples contre moi.</l>
+	<l id="1587">Le mettre en liberté, c'est le mettre à leur tête,</l>
+	<l id="1588">Et moi-même hâter l'orage qui s'apprête.</l>
+	<l id="1589">Puis-je m'assurer d'eux et souffrir son retour ?</l>
+	<l id="1590">Puis-je occuper son trône et le voir dans ma cour ?</l>
+	<l id="1591">Un roi, quoique vaincu, garde son caractère :</l>
+	<l id="1592">Aux fidèles sujets sa vue est toujours chère ;</l>
+	<l id="1593">Au moment qu'il paraît, les plus grands conquérants,</l>
+	<l id="1594">Pour vertueux qu'ils soient, ne sont que des tyrans ;</l>
+	<l id="1595">Et dans le fond des coeurs sa présence fait naître</l>
+	<l id="1596">Un mouvement secret qui les rend à leur maître.</l>
+	<l id="1597">Ainsi mon mauvais sort a de quoi me punir</l>
+	<l id="1598">Et de le délivrer et de le retenir.</l>
+	<l id="1599">Je vois dans mes prisons sa personne enfermée</l>
+	<l id="1600">Plus à craindre pour moi qu'en tête d'une armée.</l>
+	<l id="1601">Là mon bras animé de toute ma valeur</l>
+	<l id="1602">Chercherait avec gloire à lui percer le coeur ;</l>
+	<l id="1603">Mais ici, sans défense, hélas ! Qu'en puis-je faire ?</l>
+	<l id="1604">Si je pense régner, sa mort m'est nécessaire ;</l>
+	<l id="1605">Mais soudain ma vertu s'arme si bien pour lui,</l>
+	<l id="1606">Qu'en mille bataillons il aurait moins d'appui.</l>
+	<l id="1607">Pour conserver sa vie et m'assurer l'empire,</l>
+	<l id="1608">Je fais ce que je puis à le faire dédire :</l>
+	<l id="1609">Des plus cruels tyrans j'emprunte le courroux,</l>
+	<l id="1610">Pour tirer cet aveu de la reine ou de vous ;</l>
+	<l id="1611">Mais partout je perds temps, partout même constance</l>
+	<l id="1612">Rend à tous mes efforts pareille résistance.</l>
+	<l id="1613">Encore s'il ne fallait qu'éteindre ou dédaigner</l>
+	<l id="1614">En des troubles si grands la douceur de régner,</l>
+	<l id="1615">Et que pour vous aimer et ne vous point déplaire</l>
+	<l id="1616">Ce grand titre de roi ne fût pas nécessaire,</l>
+	<l id="1617">Je me vaincrais moi-même, et lui rendant l'état,</l>
+	<l id="1618">Je mettrais ma vertu dans son plus haut éclat.</l>
+	<l id="1619">Mais je vous perds, madame, en quittant la couronne ;</l>
+	<l id="1620">Puisqu'il vous faut un roi, c'est vous que j'abandonne ;</l>
+	<l id="1621">Et dans ce coeur à vous par vos yeux combattu</l>
+	<l id="1622">Tout mon amour s'oppose à toute ma vertu.</l>
+	<l id="1623">Vous pour qui je m'aveugle avec tant de lumières,</l>
+	<l id="1624">Si vous êtes sensible encore à mes prières,</l>
+	<l id="1625">Daignez servir de guide à mon aveuglement,</l>
+	<l id="1626">Et faites le destin d'un frère et d'un amant.</l>
+	<l id="1627">Mon amour de tous deux vous fait la souveraine :</l>
+	<l id="1628">Ordonnez-en vous-même, et prononcez en reine.</l>
+	<l id="1629">Je périrai content, et tout me sera doux,</l>
+	<l id="1630">Pourvu que vous croyiez que je suis tout à vous.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1631">Que tu me connais mal, si tu connais mon frère !</l>
+	<l id="1632">Tu crois donc qu'à ce point la couronne m'est chère,</l>
+	<l id="1633">Que j'ose mépriser un comte généreux</l>
+	<l id="1634">Pour m'attacher au sort d'un tyran trop heureux ?</l>
+	<l id="1635">Aime-moi si tu veux, mais crois-moi magnanime :</l>
+	<l id="1636">Avec tout cet amour garde-moi ton estime ;</l>
+	<l id="1637">Crois-moi quelque tendresse encore pour mon vrai sang,</l>
+	<l id="1638">Qu'une haute vertu me plaît mieux qu'un haut rang,</l>
+	<l id="1639">Et que vers Gundebert je crois ton serment quitte,</l>
+	<l id="1640">Quand tu n'aurais qu'un jour régné pour Pertharite.</l>
+	<l id="1641">Milan, qui l'a vu fuir, et t'a nommé son roi,</l>
+	<l id="1642">De la haine d'un mort a dégagé ma foi.</l>
+	<l id="1643">À présent je suis libre, et comme vraie amante</l>
+	<l id="1644">Je secours malgré toi ta vertu chancelante,</l>
+	<l id="1645">Et dérobe mon frère à ta soif de régner,</l>
+	<l id="1646">Avant que tout ton coeur s'en soit laissé gagner.</l>
+	<l id="1647">Oui, j'ai brisé ses fers, j'ai corrompu ses gardes,</l>
+	<l id="1648">J'ai mis en sûreté tout ce que tu hasardes.</l>
+	<l id="1649">Il fuit, et tu n'as plus à traiter d'imposteur</l>
+	<l id="1650">De tes troubles secrets le redoutable auteur.</l>
+	<l id="1651">Il fuit, et tu n'as plus à craindre de tempête.</l>
+	<l id="1652">Secourant ta vertu, j'assure ta conquête ;</l>
+	<l id="1653">Et les soins que j'ai pris... Mais la reine survient.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Grimoald, Rodelinde, Édwige, Unulphe.</head>
+<sp who="GRIMOALD"><speaker>Grimoald, à Rodelinde.</speaker>
+	<l id="1654">Que tardez-vous, madame, et quel soin vous retient ?</l>
+	<l id="1655">Suivez de votre époux le nom, l'image, ou l'ombre ;</l>
+	<l id="1656">De ceux qui m'ont trahi croissez l'indigne nombre,</l>
+	<l id="1657">Et délivrez mes yeux, trop aisés à charmer,</l>
+	<l id="1658">Du péril de vous voir et de vous trop aimer.</l>
+	<l id="1659">Suivez : votre captif ne vous tient plus captive.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1660">Rends-le moi donc, tyran, afin que je le suive.</l>
+	<l id="1661">À quelle indigne feinte oses-tu recourir,</l>
+	<l id="1662">De m'ouvrir sa prison quand tu l'as fait mourir !</l>
+	<l id="1663">Lâche, présumes-tu qu'un faux bruit de sa fuite</l>
+	<l id="1664">Cache de tes fureurs la barbare conduite ?</l>
+	<l id="1665">Crois-tu qu'on n'ait point d'yeux pour voir ce que tu fais,</l>
+	<l id="1666">Et jusque dans ton coeur découvrir tes forfaits ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1667" part="i">Madame...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1667" part="f">Eh bien ! Madame, êtes-vous sa complice ?</l>
+	<l id="1668">Vous chargez-vous pour lui de toute l'injustice ?</l>
+	<l id="1669">Et sa main qu'il vous tend vous plaît-elle à ce prix ?</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1670">Vous la vouliez tantôt teinte du sang d'un fils,</l>
+	<l id="1671">Et je puis l'accepter teinte du sang d'un frère,</l>
+	<l id="1672">Si je veux être soeur comme vous étiez mère.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1673">Ne me reprochez point une juste fureur</l>
+	<l id="1674">Où des feux d'un tyran me réduisait l'horreur ;</l>
+	<l id="1675">Et puisque de sa foi vous êtes ressaisie,</l>
+	<l id="1676">Faites cesser l'aigreur de votre jalousie.</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1677">Ne me reprochez point des sentiments jaloux,</l>
+	<l id="1678">Quand je hais les tyrans autant ou plus que vous.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1679">Vous pouvez les haïr quand Grimoald vous aime !</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1680">J'aime en lui sa vertu plus que son diadème ;</l>
+	<l id="1681">Et voyant quels motifs le font encore agir,</l>
+	<l id="1682">Je ne vois rien en lui qui me fasse rougir.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1683">Rougis-en donc toi seul, toi qui caches ton crime,</l>
+	<l id="1684">Qui t'immolant un roi, dérobes ta victime,</l>
+	<l id="1685">Et d'un grand ennemi déguisant tout le sort,</l>
+	<l id="1686">Le fais fourbe en sa vie et fuir après sa mort.</l>
+	<l id="1687">De tes fausses vertus les brillantes pratiques</l>
+	<l id="1688">N'élevaient que pour toi ces tombeaux magnifiques :</l>
+	<l id="1689">C'étaient de vains éclats de générosité,</l>
+	<l id="1690">Pour rehausser ta gloire avec impunité.</l>
+	<l id="1691">Tu n'accablais son nom de tant d'honneurs funèbres</l>
+	<l id="1692">Que pour ensevelir sa mort dans les ténèbres,</l>
+	<l id="1693">Et lui tendre avec pompe un piège illustre et beau,</l>
+	<l id="1694">Pour le priver un jour des honneurs du tombeau.</l>
+	<l id="1695">Soûle-toi de son sang ; mais rends-moi ce qui reste,</l>
+	<l id="1696">Attendant ma vengeance, ou le courroux céleste,</l>
+	<l id="1697" part="i">Que je puisse...</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1697" part="f">Ah ! Madame, où me réduisez-vous</l>
+	<l id="1698">Pour un fourbe qu'elle aime à nommer son époux ?</l>
+	<l id="1699">Votre pitié ne sert qu'à me couvrir de honte,</l>
+	<l id="1700">Si quand vous me l'ôtez, il m'en faut rendre conte,</l>
+	<l id="1701">Et si la cruauté de mon triste destin</l>
+	<l id="1702">De ce que vous sauvez me nomme l'assassin.</l>
+</sp>
+<sp who="UNULPHE"><speaker>UNULPHE.</speaker>
+	<l id="1703">Seigneur, je crois savoir la route qu'il a prise ;</l>
+	<l id="1704">Et si sa majesté veut que je l'y conduise,</l>
+	<l id="1705">Au péril de ma tête, en moins d'une heure ou deux,</l>
+	<l id="1706">Je m'offre de la rendre à l'objet de ses voeux.</l>
+	<l id="1707">Allons, allons, madame, et souffrez que je tâche...</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1708">Ô d'un lâche tyran ministre encore plus lâche,</l>
+	<l id="1709">Qui sous un faux semblant d'un peu d'humanité</l>
+	<l id="1710">Penses contre mes pleurs faire sa sûreté !</l>
+	<l id="1711">Que ne dis-tu plutôt que ses justes alarmes</l>
+	<l id="1712">Aux yeux des bons sujets veulent cacher mes larmes,</l>
+	<l id="1713">Qu'il lui faut me bannir, de crainte que mes cris</l>
+	<l id="1714">Du peuple et de la cour n'émeuvent les esprits ?</l>
+	<l id="1715">Traître, si tu n'étais de son intelligence,</l>
+	<l id="1716">Pourrait-il refuser ta tête à sa vengeance ?</l>
+	<l id="1717">Que devient, Grimoald, que devient ton courroux ?</l>
+	<l id="1718">Tes ordres en sa garde avaient mis mon époux.</l>
+	<l id="1719">Il a brisé ses fers, il sait où va sa fuite ;</l>
+	<l id="1720">Si je le veux rejoindre, il s'offre à ma conduite ;</l>
+	<l id="1721">Et quand son sang devrait te répondre du sien,</l>
+	<l id="1722">Il te voit, il te parle, et n'appréhende rien !</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1723">Quand ce qu'il fait pour vous hasarderait ma vie,</l>
+	<l id="1724">Je ne puis le punir de vous avoir servie.</l>
+	<l id="1725">Si j'avais cependant quelque peur que vos cris</l>
+	<l id="1726">De la cour et du peuple émussent les esprits,</l>
+	<l id="1727">Sans vous prier de fuir pour finir mes alarmes,</l>
+	<l id="1728">J'aurais trop de moyens de leur cacher vos larmes.</l>
+	<l id="1729">Mais vous êtes, madame, en pleine liberté ;</l>
+	<l id="1730">Vous pouvez faire agir toute votre fierté,</l>
+	<l id="1731">Porter dans tous les coeurs ce qui règne en votre âme :</l>
+	<l id="1732">Le vainqueur du mari ne peut craindre la femme.</l>
+	<l id="1733" part="i">Mais que veut ce soldat ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Grimoald, Pertharite, Rodelinde, Édwige, Unulphe, Soldats.</head>
+<sp who="SOLDAT"><speaker>SOLDAT, à Grimoald.</speaker>
+	<l id="1733" part="f">Vous avertir, Seigneur,</l>
+	<l id="1734">D'un grand malheur ensemble et d'un rare bonheur.</l>
+	<l id="1735">Garibalde n'est plus, et l'imposteur infâme</l>
+	<l id="1736">Qui tranche ici du roi lui vient d'arracher l'âme ;</l>
+	<l id="1737">Mais ce même imposteur est en votre pouvoir.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1738" part="i">Que dis-tu, malheureux ?</l>
+</sp>
+<sp who="SOLDAT"><speaker>Soldat.</speaker>
+	<l id="1738" part="f">Ce que vous allez voir.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1739">Ô ciel ! En quel état ma fortune est réduite,</l>
+	<l id="1740">S'il ne m'est pas permis de jouir de sa fuite !</l>
+	<l id="1741">Faut-il que de nouveau mon coeur embarrassé</l>
+	<l id="1742">Ne puisse... Mais dis-nous comment tout s'est passé.</l>
+</sp>
+<sp who="SOLDAT"><speaker>Soldat.</speaker>
+	<l id="1743">Le duc, ayant appris quelles intelligences</l>
+	<l id="1744">Dérobaient un tel fourbe à vos justes vengeances,</l>
+	<l id="1745">L'attendait à main-forte, et lui fermant le pas :</l>
+	<l id="1746">" à lui seul, nous dit-il ; mais ne le blessons pas.</l>
+	<l id="1747">Réservons tout son sang aux rigueurs des supplices,</l>
+	<l id="1748">Et laissons par pitié fuir ses lâches complices. "</l>
+	<l id="1749">Ceux qui le conduisaient, du grand nombre étonnés,</l>
+	<l id="1750">Et par mes compagnons soudain environnés,</l>
+	<l id="1751">Acceptent la plupart ce qu'on leur facilite,</l>
+	<l id="1752">Et s'écartent sans bruit de ce faux Pertharite.</l>
+	<l id="1753">Lui, que l'ordre reçu nous forçait d'épargner</l>
+	<l id="1754">Jusqu'à baisser l'épée et le trop dédaigner,</l>
+	<l id="1755">S'ouvre en son désespoir parmi nous un passage,</l>
+	<l id="1756">Jusque sur notre chef pousse toute sa rage,</l>
+	<l id="1757">Et lui plonge trois fois un poignard dans le sein,</l>
+	<l id="1758">Avant qu'aucun de nous ait pu voir son dessein.</l>
+	<l id="1759">Nos bras étaient levés pour l'en punir sur l'heure ;</l>
+	<l id="1760">Mais le duc par nos mains ne consent pas qu'il meure,</l>
+	<l id="1761">Et son dernier soupir est un ordre nouveau</l>
+	<l id="1762">De garder tout son sang à celle d'un bourreau.</l>
+	<l id="1763">Ainsi ce fugitif retombe dans sa chaîne,</l>
+	<l id="1764">Et vous pouvez, seigneur, ordonner de sa peine :</l>
+	<l id="1765" part="i">Le voici.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1765" part="f">Quel combat pour la seconde fois !</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Grimoald, Pertharite, Édwige, Rodelinde.</head>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1766">Tu me revois, tyran qui méconnais les rois ;</l>
+	<l id="1767">Et j'ai payé pour toi d'un si rare service</l>
+	<l id="1768">Celui qui rend ma tête à ta fausse justice.</l>
+	<l id="1769">Pleure, pleure ce bras qui t'a si bien servi ;</l>
+	<l id="1770">Pleure ce bon sujet que le mien t'a ravi.</l>
+	<l id="1771">Hâte-toi de venger ce ministre fidèle :</l>
+	<l id="1772">C'est toi qu'à sa vengeance en mourant il appelle.</l>
+	<l id="1773">Signale ton amour, et parois aujourd'hui,</l>
+	<l id="1774">S'il fut digne de toi, plus digne encore de lui.</l>
+	<l id="1775">Mais cesse désormais de traiter d'imposture</l>
+	<l id="1776">Les traits que sur mon front imprime la nature.</l>
+	<l id="1777">Milan m'a vu passer, et partout en passant</l>
+	<l id="1778">J'ai vu couler ses pleurs pour son prince impuissant ;</l>
+	<l id="1779">Tu lui déguiserais en vain ta tyrannie :</l>
+	<l id="1780">Pousses-en jusqu'au bout l'insolente manie ;</l>
+	<l id="1781">Et quoi que ta fureur te prescrive pour moi,</l>
+	<l id="1782">Ordonne de mes jours comme de ceux d'un roi.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1783">Oui, tu l'es en effet, et j'ai su te connaître,</l>
+	<l id="1784">Dès le premier moment que je t'ai vu paraître.</l>
+	<l id="1785">Si j'ai fermé les yeux, si j'ai voulu gauchir,</l>
+	<l id="1786">Des maximes d'état j'ai voulu t'affranchir,</l>
+	<l id="1787">Et ne voir pas ma gloire indignement trahie</l>
+	<l id="1788">Par la nécessité de m'immoler ta vie.</l>
+	<l id="1789">De cet aveuglement les soins mystérieux</l>
+	<l id="1790">Empruntaient les dehors d'un tyran furieux,</l>
+	<l id="1791">Et forçaient ma vertu d'en souffrir l'artifice,</l>
+	<l id="1792">Pour t'arracher ton nom par l'effroi du supplice.</l>
+	<l id="1793">Mais mon dessein n'était que de t'intimider,</l>
+	<l id="1794">Ou d'obliger quelqu'un à te faire évader.</l>
+	<l id="1795">Unulphe a bien compris, en serviteur fidèle,</l>
+	<l id="1796">Ce que ma violence attendait de son zèle ;</l>
+	<l id="1797">Mais un traître pressé par d'autres intérêts</l>
+	<l id="1798">A rompu tout l'effet de mes désirs secrets.</l>
+	<l id="1799">Ta main, grâces au ciel, nous en a fait justice.</l>
+	<l id="1800">Cependant ton retour m'est un nouveau supplice ;</l>
+	<l id="1801">Car enfin que veux-tu que je fasse de toi ?</l>
+	<l id="1802">Puis-je porter ton sceptre et te traiter de roi ?</l>
+	<l id="1803">Ton peuple qui t'aimait pourra-t-il te connaître,</l>
+	<l id="1804">Et souffrir à tes yeux les lois d'un autre maître ?</l>
+	<l id="1805">Toi-même pourras-tu, sans entreprendre rien,</l>
+	<l id="1806">Me voir jusqu'au trépas possesseur de ton bien ?</l>
+	<l id="1807">Pourras-tu négliger l'occasion offerte,</l>
+	<l id="1808">Et refuser ta main ou ton ordre à ma perte ?</l>
+	<l id="1809">Si tu n'étais qu'un lâche, on aurait quelque espoir</l>
+	<l id="1810">Qu'enfin tu pourrais vivre, et ne rien émouvoir ;</l>
+	<l id="1811">Mais qui me croit tyran, et hautement me brave,</l>
+	<l id="1812">Quelque faible qu'il soit, n'a point le coeur d'esclave,</l>
+	<l id="1813">Et montre une grande âme au-dessus du malheur,</l>
+	<l id="1814">Qui manque de fortune, et non pas de valeur.</l>
+	<l id="1815">Je vois donc malgré moi ma victoire asservie</l>
+	<l id="1816">À te rendre le sceptre, ou prendre encore ta vie ;</l>
+	<l id="1817">Et plus l'ambition trouble ce grand effort,</l>
+	<l id="1818">Plus ceux de ma vertu me refusent ta mort.</l>
+	<l id="1819">Mais c'est trop retenir ma vertu prisonnière :</l>
+	<l id="1820">Je lui dois comme à toi liberté toute entière ;</l>
+	<l id="1821">Et mon ambition a beau s'en indigner,</l>
+	<l id="1822">Cette vertu triomphe, et tu t'en vas régner.</l>
+	<l id="1823">Milan, revois ton prince, et reprends ton vrai maître,</l>
+	<l id="1824">Qu'en vain pour t'aveugler j'ai voulu méconnaître ;</l>
+	<l id="1825">Et vous que d'imposteur à regret j'ai traité...</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1826">Ah ! C'est porter trop loin la générosité.</l>
+	<l id="1827">Rendez-moi Rodelinde, et gardez ma couronne,</l>
+	<l id="1828">Que pour sa liberté sans regret j'abandonne :</l>
+	<l id="1829">Avec ce cher objet tout destin m'est trop doux.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1830">Rodelinde et Milan et mon coeur sont à vous ;</l>
+	<l id="1831">Et je vous remettrais toute la Lombardie,</l>
+	<l id="1832">Si comme dans Milan je régnais dans Pavie.</l>
+	<l id="1833">Mais vous n'ignorez pas, seigneur, que le feu roi</l>
+	<l id="1834">En fit reine Édwige ; et lui donnant ma foi,</l>
+	<l id="1835" part="i">Je promis...</l>
+</sp>
+<sp who="ÉDWIGE"><speaker>ÉDWIGE.</speaker>
+	<l id="1835" part="f">Si ta foi t'oblige à la défendre,</l>
+	<l id="1836">Ton exemple m'oblige encore plus à la rendre ;</l>
+	<l id="1837">Et je mériterais un nouveau changement,</l>
+	<l id="1838">Si mon coeur n'égalait celui de mon amant.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1839">Son exemple, ma soeur, en vain vous y convie.</l>
+	<l id="1840">Avec ce grand héros je vous laisse Pavie,</l>
+	<l id="1841">Et me croirais moi-même aujourd'hui malheureux,</l>
+	<l id="1842">Si je voyais sans sceptre un bras si généreux.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1843">Pardonnez si ma haine a trop cru l'apparence :</l>
+	<l id="1844">Je présumais beaucoup de votre violence ;</l>
+	<l id="1845">Mais je n'aurais osé, seigneur, en présumer</l>
+	<l id="1846">Que vous m'eussiez forcée enfin à vous aimer.</l>
+</sp>
+<sp who="GRIMOALD"><speaker>GRIMOALD.</speaker>
+	<l id="1847">Vous m'avez outragé sans me faire injustice.</l>
+</sp>
+<sp who="RODELINDE"><speaker>RODELINDE.</speaker>
+	<l id="1848">Qu'une amitié si ferme aujourd'hui nous unisse,</l>
+	<l id="1849">Que l'un et l'autre état en admire les noeuds,</l>
+	<l id="1850">Et doute avec raison qui règne de vous deux.</l>
+</sp>
+<sp who="PERTHARITE"><speaker>PERTHARITE.</speaker>
+	<l id="1851">Pour en faire admirer la chaîne fortunée,</l>
+	<l id="1852">Allons mettre en éclat cette grande journée,</l>
+	<l id="1853">Et montrer à ce peuple, heureusement surpris,</l>
+	<l id="1854">Que des hautes vertus la gloire est le seul prix.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

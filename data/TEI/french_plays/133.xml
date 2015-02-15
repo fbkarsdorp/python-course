@@ -1,0 +1,2784 @@
+<?xml version="1.0" encoding='iso-8859-1'?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>HÉRACLIUS, EMPEREUR D'ORIENT, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark :/12148/bpt6k703963</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">HÉRACLIUS, EMPEREUR D'ORIENT</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1647'>M. DC. XLVII. AVEC PRIVILÈGE DU ROI</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'></docAuthor>
+		<docImprint>
+			<privilege id='1647-04-17'><head>PRIVILÈGE DU ROI.</head>
+			<p>Louis par la grâce de Dieu Roi de France et de Navarre : à nos amés et féaux conseillers les gens tenants nos cours de parlement, maîtres de requêtes ordinaires de notre hôtel, prévôts de Paris, baillifs, sénéchaux, leurs lieutenants, et autres justiciers et officiers qu'il appartiendra, Salut. Notre bien amé, Toussaint Quinet, marchand libraire en notre ville de Paris, nous a fait remontrer qu'il désirerait faire imprimer Héraclius Tragédie du Sieur Corneille ; ce qu'il ne peut sans notre permission, très humblement requérant nos lettres. À CES CAUSES désirant favorablement traiter l'exposant, nous lui avons permis et octroyé, permettons et octroyons par ces présentes d'imprimer ou faire imprimer le dit livre, en tel volume, marges, caractères, et autant de fois que bon lui semblera, icelui vendre et distribuer par tout notre Royaume pendant le temps de cinq années consécutives, à commencer du jour qu'il sera achever : pendant lequel temps nous faisons très expresses défenses à tous libraires et imprimeurs, et autres personnes de quelque qualité et condition qu'ils soient, d'imprimer ou faire imprimer ladite tragédie, icelle vendre, et distribuer sans le consentement dudit exposant, ou ses ayants cause, sous prétexte d'augmentation, correction, changement de titre, volume, caractère, ou autrement, sur peine de confiscation des exemplaires contrefaits, amende arbitraire, dépens, dommages et intérêts. À La charge d'en mettre deux exemplaires en notre bibliothèque, et une en celle de notre très cher féal le sieur Séguier, Chevalier, Chancellier de France, à peine de  nullité des présentes ; du contenu desquelles nous mandons, et à chacun de vous enjoignons faire jouir l'exposant, et ses ayants cause, pleinement et paisiblement, cessant et faisant cesser tous troubles et empêchements au contraire : Voulons aussi qu'en mettant au commencement ou à la fin de la dite pièce, l'extrait des présentes, elles soient retenues pour dûment signifiées, et qu'aux copies collationnées par l'un de nos amés et féaux conseillers et secrétaires, foi y soit ajoutée comme à l'original : CAR tel est notre bon plaisir. DONNÉ à Paris le dix septième jour d'avril 1647. Et de notre règne le quatrième. Signé, par le roi en son conseil, LE BRUN.</p>
+			<p>Et le dit Quinet a associé avec lui au dit privilège, Antoine de Sommaville et Augustin Courbé aussi Marchands Libraires, suivant l'accord fait entre eux.</p>
+			</privilege>
+			<acheveImprime id='1647-08-28'>Achevé d'imprimer le 28 de juin 1647. Les exemplaires ont été fournis.</acheveImprime>
+			<printer id='SOMMAVILLE'>Imprimé à Rouen et se vend à Paris, Chez Antoine de SOMMAVILLLE, au Palais, en la Galerie des Merciers, à l'Écu de France.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1646' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1646 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+<dedicace>
+<adresse>À Monseigneur SÉGUIER, Chancelier de France</adresse>
+<head>MONSEIGNEUR,</head>
+		<p>Je sais que cette tragédie n'est pas d'un genre assez relevé pour espérer légitimement que vous y daigniez jeter les yeux et que, pour offrir quelque chose à Votre Grandeur qui n'en fût pas entièrement indigne, j'aurais eu besoin d'une parfaite peinture de toute la vertu d'un Caton ou d'un Sénèque; mais comme je tâchais d'amasser des forces pour ce grand dessein, les nouvelles faveurs que j'ai reçues de vous m'ont donné une juste impatience de les publier, et les applaudissements qui ont suivi les représentations de ce poème m'ont fait présumer que sa bonne fortune pourrait suppléer à son peu de mérite. La curiosité que son récit a laissé dans les esprits pour sa lecture m'a flatté aisément, jusques à me persuader que je ne pouvais prendre une plus heureuse occasion de leur faire savoir combien je vous suis redevable, et j'ai précipité ma reconnaissance quand j'ai considéré qu'autant que je la différerais pour m'en acquitter plus dignement, autant je demeurerais dans les apparences d'une ingratitude inexcusable envers vous. Mais quand même les dernières obligations que je vous ai ne m'auraient pas fait cette glorieuse violence, il faut que je vous avoue ingénument que les intérêts de ma propre réputation m'en imposaient une très pressante nécessité. Le bonheur de mes ouvrages ne la porte en aucun lieu où elle ne demeure fort douteuse et où l'on ne se défie, avec raison, de ce qu'en dit la voix publique, parce qu'aucun d'eux n'y fait connaître l'honneur que j'ai d'être connu de vous. Cependant on sait par toute l'Europe l'accueil favorable que Votre Grandeur fait aux gens de lettres; que l'accès auprès de vous est ouvert et libre à tous ceux que les sciences ou les talents de l'esprit élèvent au-dessus du commun; que les caresses dont vous les honorez sont les marques les plus indubitables et les plus solides de ce qu'ils valent et qu'enfin nos plus belles muses, que feu Monseigneur le cardinal de Richelieu avait choisies de sa main pour en composer un corps tout d'esprits, seraient encore inconsolables de sa perte, si elles n'avaient trouvé chez Votre Grandeur la même protection qu'elles rencontraient chez son Éminence. Quelle apparence donc qu'en quelque climat où notre langue puisse avoir entrée, on puisse croire qu'un homme mérite quelque véritable estime, si ses travaux n'y portent les assurances de l'état que vous en faites dans les hommages qu'il vous en doit ? Trouvez bon, MONSEIGNEUR, que celui-ci, plus heureux que le reste des miens, affranchisse mon nom de la honte de ne vous en avoir point encore rendu, et que, pour affermir ce peu de réputation qu'ils m'ont acquis, il tire mes lecteurs d'un doute si légitime, en leur apprenant non seulement que je ne vous suis pas tout à fait inconnu, mais aussi même que votre bonté ne dédaigne pas de répandre sur moi votre bienveillance et vos grâces, de sorte que, quand votre vertu ne me donnerait pas toutes les passions imaginables pour votre service, je serais le plus ingrat de tous les hommes, si je n'étais toute ma vie très véritablement, </p>
+		<p>MONSEIGNEUR, Votre très humble, très obéissant et très fidèle serviteur, </p>
+		<signature>CORNEILLE. </signature>
+		</dedicace>
+		<preface><head>AU LECTEUR.</head>
+		<p>Voici une hardie entreprise sur l'histoire, dont vous ne reconnaîtrez aucune chose dans cette tragédie que l'ordre de la succession des empereurs Tibère, Maurice, Phocas, et Héraclius. J'ai falsifié la naissance de ce dernier, mais ce n'a été qu'en sa faveur et pour lui en donner une plus illustre, le faisant fils de l'empereur Maurice, bien qu'il ne le fût que d'un préteur d'Afrique de même nom que lui. J'ai prolongé la durée de l'empire de son prédécesseur de douze années et lui ai donné un fils, quoique l'histoire n'en parle point, mais seulement d'une fille nommée Domitia, qu'il maria à un Priscus ou Crispus. J'ai prolongé de même la vie de l'impératrice Constantine et, comme j'ai fait régner ce tyran vingt ans au lieu de huit, je n'ai fait mourir cette princesse que dans la quinzième année de sa tyrannie, quoiqu'il l'eût sacrifiée à sa sûreté avec ses filles dès la cinquième. Je ne me mettrai pas en peine de justifier cette licence que j'ai prise: l'événement l'a assez justifiée et les exemples des anciens que j'ai rapportés sur Rodogune semblent l'autoriser suffisamment; mais, à parler sans fard, je ne voudrais pas conseiller à personne de la tirer en exemple. C'est beaucoup hasarder, et l'on n'est pas toujours heureux; et, dans un dessein de cette nature, ce qu'un bon succès fait passer pour une ingénieuse hardiesse, un mauvais le fait prendre pour une témérité ridicule.</p>
+<p>Baronius, parlant de la mort de l'empereur Maurice et de celle de ses fils, que Phocas faisait immoler à sa vue, rapporte une circonstance très rare, dont j'ai pris l'occasion de former le nœud de cette tragédie, à qui elle sert de fondement. Cette nourrice eut tant de zèle pour ce malheureux prince, qu'elle exposa son propre fils au supplice, au lieu d'un des siens qu'on lui avait donné à nourrir. Maurice reconnut l'échange et l'empêcha par une considération pieuse que cette extermination de toute sa famille était un juste jugement de Dieu, auquel il n'eût pas cru satisfaire s'il eût souffert que le sang d'un autre eût payé pour celui d'un de ses fils. Mais, quant à ce qui était de la mère, elle avait surmonté l'affection maternelle en faveur de son prince, et l'on peut dire que son enfant était mort pour son regard. Comme j'ai cru que cette action était assez généreuse pour mériter une personne plus illustre à la produire, j'ai fait de cette nourrice une gouvernante. J'ai supposé que l'échange avait eu son effet, et de cet enfant sauvé par la supposition d'un autre, j'en ai fait Héraclius, le successeur de Phocas. Bien plus, j'ai feint que cette Léontine, ne croyant pas pouvoir cacher longtemps cet enfant que Maurice avait commis à sa fidélité, vu la recherche exacte que Phocas en faisait faire, et se voyant même déjà soupçonnée et prête à être découverte, se voulut mettre dans les bonnes grâces de ce tyran en lui allant offrir ce petit prince dont il était en peine, au lieu duquel elle lui livra son propre fils Léonce. J'ai ajouté que par cette action Phocas fut tellement gagné qu'il crut ne pouvoir remettre son fils Martian aux mains d'une personne qui lui fût plus acquise, d'autant que ce qu'elle venait de faire l'avait jetée, à ce qu'il croyait, dans une haine irréconciliable avec les amis de Maurice, qu'il avait seuls à craindre. Cette faveur où je la mets auprès de lui donne lieu à un second échange d'Héraclius, qu'elle nourrissait comme son fils sous le nom de Léonce, avec Martian, que Phocas lui avait confié. Je lui fais prendre l'occasion de l'éloignement de ce tyran, que j'arrête trois ans, sans revenir, à la guerre contre les Perses et, à son retour, je fais qu'elle lui donne Héraclius pour son fils, qui est dorénavant élevé auprès de lui sous le nom de Martian, pendant qu'elle retient le vrai Martian auprès d'elle et le nourrit sous le nom de Léonce, qu'elle avait exposé pour l'autre. Comme ces deux princes sont grands et que Phocas, abusé par ce dernier échange, presse Héraclius d'épouser Pulchérie, fille de Maurice, qu'il avait réservée exprès seule de toute sa famille, afin qu'elle portât par ce mariage le droit et les titres de l'empire dans sa maison, Léontine, pour empêcher cette alliance incestueuse du frère et de la sœur, avertit Héraclius de sa naissance. Je serais trop long si je voulais ici toucher le reste des incidents d'un poème si embarrassé, et me contenterai de vous avoir donné ces lumières afin que vous en puissiez commencer la lecture avec moins d'obscurité. Vous vous souviendrez seulement qu'Héraclius passe pour Martian, fils de Phocas, et Martian pour Léonce, fils de Léontine, et qu'Héraclius sait qui il est, et qui est ce faux Léonce, mais que le vrai Martian, Phocas, ni Pulchérie, n'en savent rien, non plus que le reste des acteurs, hormis Léontine et sa fille Eudoxe.</p>
+<p>On m'a fait quelque scrupule de ce qu'il n'est pas vraisemblable qu'une mère expose son fils à la mort pour en préserver un autre; à quoi j'ai deux réponses à faire: la première que notre unique docteur Aristote nous permet de mettre quelquefois des choses qui même soient contre la raison et l'apparence, pourvu que ce soit hors de l'action, ou, pour me servir des termes latins de ses interprètes, extra fabulam, comme est ici cette supposition d'enfant, et nous donne pour exemple Oedipe, qui ayant tué un roi de Thèbes, l'ignore encore vingt ans après; l'autre, que l'action étant vraie du côté de la mère, comme je l'ai remarqué tantôt, il ne faut plus s'informer si elle est vraisemblable, étant certain que toutes les vérités sont recevables dans la poésie, quoiqu'elle ne soit pas obligée à les suivre. La liberté qu'elle a de s'en écarter n'est pas une nécessité, et la vraisemblance n'est qu'une condition nécessaire à la disposition, et non pas au choix du sujet ni des incidents qui sont appuyés de l'histoire. Tout ce qui entre dans le poème doit être croyable et il l'est, selon Aristote, par l'un de ces trois moyens: la vérité, la vraisemblance, ou l'opinion commune. J'irai plus outre, et quoique peut-être on voudra prendre cette proposition pour un paradoxe, je ne craindrai point d'avancer que le sujet d'une belle tragédie doit n'être pas vraisemblable. La preuve en est aisée par le même Aristote, qui ne veut pas qu'on en compose une d'un ennemi qui tue son ennemi, parce que, bien que cela soit fort vraisemblable, il n'excite dans l'âme des spectateurs ni pitié ni crainte, qui sont les deux passions de la tragédie: mais il nous renvoie la choisir dans les événements extraordinaires qui se passent entre personnes proches comme d'un père qui tue son fils, une femme son mari, un frère sa sœur, ce qui, n'étant jamais vraisemblable, doit avoir l'autorité de l'histoire ou de l'opinion commune pour être cru, si bien qu'il n'est pas permis d'inventer un sujet de cette nature. C'est la raison qu'il donne de ce que les anciens traitaient presque mêmes sujets, d'autant qu'ils rencontraient peu de familles où fussent arrivés de pareils désordres, qui font les belles et puissantes oppositions du devoir et de la passion.</p>
+<p>Ce n'est pas ici le lieu de m'étendre plus au long sur cette matière; j'en ai dit ces deux mots en passant, par une nécessité de me défendre d'une objection qui détruirait tout mon ouvrage puisqu'elle va en saper le fondement, et non par ambition d'étaler mes maximes, qui peut-être ne sont pas généralement avouées des savants. Aussi ne donné-je ici mes opinions qu'à la mode de M. de Montaigne, non pour bonnes, mais pour miennes. Je m'en suis bien trouvé jusqu'à présent mais je ne tiens pas impossible qu'on réussisse mieux en suivant les contraires.</p>
+</preface>
+<preface><head>EXAMEN 1660.</head>
+<p>Cette tragédie a encore plus d'effort d'invention que celle de Rodogune et je puis dire que c'est un heureux original dont il s'est fait beaucoup de belles copies sitôt qu'il a paru: Sa conduite diffère de celle-là, en ce que les narrations qui lui donnent jour sont pratiquées par occasion en divers lieux avec adresse, et toujours dites et écoutées avec intérêt, sans qu'il y en ait pas une de sang-froid, comme celle de Laonice. Elles sont éparses ici dans tout le poème, et ne font connaître à la fois que ce qu'il est besoin qu'on sache pour l'intelligence de la scène qui suit. Ainsi, dès la première, Phocas, alarmé du bruit qui court qu'Héraclius est vivant, récite les particularités de sa mort pour montrer la fausseté de ce bruit, et Crispe, son gendre, en lui proposant un remède aux troubles qu'il appréhende, fait connaître comme, en perdant toute la famille de Maurice, il a réservé Pulchérie pour la faire épouser à son fils Martian, et le pousse d'autant plus à presser ce mariage, que ce prince court chaque jour de grands périls à la guerre, et que sans Léonce il fût demeuré au dernier combat. C'est par là qu'il instruit les auditeurs de l'obligation qu'a le vrai Héraclius, qui passe pour Martian, au vrai Martian, qui passe pour Léonce; et cela sert de fondement à l'offre volontaire qu'il fait de sa vie au quatrième acte, pour le sauver du péril où l'expose cette erreur des noms. Sur cette proposition, Phocas, se plaignant de l'aversion que les deux parties témoignent à ce mariage, impute celle de Pulchérie à l'instruction qu'elle a reçue de sa mère, et apprend ainsi aux spectateurs, comme en passant, qu'il l'a laissée trop vivre après la mort de l'empereur Maurice, son mari. Il fallait tout cela pour faire entendre la scène qui suit entre Pulchérie et lui, mais je n'ai pu avoir assez d'adresse pour faire entendre les équivoques ingénieux dont est rempli tout ce que dit Héraclius à la fin de ce premier acte, et on ne les peut comprendre que par une réflexion après que la pièce est finie, et qu'il est entièrement reconnu, ou dans une seconde représentation.</p>
+<p>Surtout, la manière dont Eudoxe fait connaître, au second acte, le double échange que sa mère a fait des deux princes, est une des choses les plus spirituelles qui soient sorties de ma plume. Léontine l'accuse d'avoir révélé le secret d'Héraclius et d'être cause du bruit qui court qui le met en péril de sa vie; pour s'en justifier, elle explique tout ce qu'elle en sait, et conclut que, puisqu'on n'en publie pas tant, il faut que ce bruit ait pour auteur quelqu'un qui n'en sache pas tant qu'elle. Il est vrai que cette narration est si courte qu'elle laisserait beaucoup d'obscurité si Héraclius ne l'expliquait plus au long, au quatrième acte, quand il est besoin que cette vérité fasse son plein effet, mais elle n'en pouvait pas dire davantage à une personne qui savait cette histoire mieux qu'elle, et ce peu qu'elle en dit suffit à jeter une lumière parfaite de ces échanges, qu'il n'est pas besoin alors d'éclaircir plus entièrement.</p>
+<p>L'artifice de la dernière scène de ce quatrième acte passe encore celui-ci: Exupère y fait connaître tout son dessein à Léontine, mais d'une façon qui n'empêche point cette femme avisée de le soupçonner de fourberie et de n'avoir autre dessein que de tirer d'elle le secret d'Héraclius pour le perdre. L'auditeur lui-même en demeure dans la défiance, et ne sait qu'en juger, mais, après que la conspiration a eu son effet par la mort de Phocas, cette confidence anticipée exempte Exupère de se purger de tous les justes soupçons qu'on avait eus de lui, et délivre l'auditeur d'un récit qui lui aurait été fort ennuyeux après le denouement de la pièce, où toute la patience que peut avoir sa curiosité se borne à savoir qui est le vrai Héraclius des deux qui prétendent l'être.</p>
+<p>Le stratagème d'Exupère, avec toute son industrie, a quelque chose un peu délicat, et d'une nature à ne se faire qu'au théâtre, où l'auteur est maître des événements qu'il tient dans sa main, et non pas dans la vie civile, où les hommes en disposent selon leurs intérêts et leur pouvoir. Quand il découvre Héraclius à Phocas et le fait arrêter prisonnier, son intention est fort bonne, et lui réussit, mais il n'y avait que moi qui lui pût répondre du succès. Il acquiert la confiance du tyran par là, et se fait remettre entre les mains la garde d'Héraclius et sa conduite au supplice, mais le contraire pouvait arriver, et Phocas, au lieu de déférer à ses avis qui le résolvent à faire couper la tête à ce prince en la place publique, pouvait s'en défaire sur l'heure et se défier de lui et de ses amis comme de gens qu'il avait offensés et dont il ne devait jamais espérer un zèle bien sincère à le servir. La mutinerie qu'il excite, dont il lui amène les chefs comme prisonniers pour le poignarder, est imaginée avec justesse; mais jusque-là toute sa conduite est de ces choses qu'il faut souffrir au théâtre, parce qu'elles ont un éclat dont la surprise éblouit et qu'il ne ferait pas bon tirer en exemple pour conduire une action véritable sur leur plan.</p>
+<p>Je ne sais si on voudra me pardonner d'avoir fait une pièce d'invention sous des noms véritables, mais je ne crois pas qu'Aristote le défende, et j'en trouve assez d'exemples chez les anciens. Les deux Électre de Sophocle et d'Euripide aboutissent à la même action par des moyens si divers qu'il faut de nécessité que l'une des deux soit entièrement inventée; l'Iphigénie in Tauris a la mine d'être de même nature, et l'Hélène, où Euripide suppose qu'elle n'a jamais été à Troie, et que Pâris n'y a enlevé qu'un fantôme qui lui ressemblait, ne peut avoir aucune action épisodique ni principale qui ne parte de la seule imagination de son auteur.</p>
+<p>Je n'ai conservé ici, pour toute vérité historique, que l'ordre de la succession des empereurs Tibère, Maurice, Phocas et Héraclius; j'ai falsifié la naissance de ce dernier pour lui en donner une plus illustre, en le faisant fils de Maurice bien qu'il ne le fût que d'un prêteur d'Afrique, qui portait même nom que lui. J'ai prolongé de douze ans la durée de l'empire de Phocas et lui ai donné Martian pour fils, quoique l'histoire ne parle que d'une fille, nommée Domitia, qu'il maria à Crispe, dont je fais un de mes personnages. Ce fils et Héraclius, qui sont confondus l'un avec l'autre par les échanges de Léontine, n'auraient pas été en état d'agir si je ne l'eusse fait régner que les huit ans qu'il régna, puisque, pour faire ces échanges, il fallait qu'ils fussent tous deux au berceau quand il commença de régner. C'est par cette même raison que j'ai prolongé la vie de l'impératrice Constantine, que je n'ai fait mourir qu'en la quinzième année de sa tyrannie, bien qu'il l'eût immolée à sa sûreté dès la cinquième, et je l'ai fait afin qu'elle pût avoir une fille capable de recevoir ses instructions en mourant, et d'un âge proportionné à celui du prince qu'on lui voulait faire épouser. </p>
+<p>La supposition que fait Léontine d'un de ses fils pour mourir au lieu d'Héraclius n'est point vraisemblable, mais elle est historique, et n'a point besoin de vraisemblance, puisqu'elle a l'appui de la vérité qui la rend croyable, quelque répugnance qu'y veuillent apporter les difficiles. Baronius attribue cette action à une nourrice, et je l'ai trouvée assez généreuse pour la faire produire à une personne plus illustre, et qui soutient mieux la dignité du théâtre. L'empereur Maurice reconnut cette supposition et l'empêcha d'avoir son effet, pour ne s'opposer pas au juste jugement de Dieu, qui voulait exterminer toute sa famille; mais, quant à ce qui est de la mère, elle avait surmonté l'affection maternelle en faveur de son prince, et comme on pouvait dire que son fils était mort pour son regard, je me suis cru assez autorisé par ce qu'elle avait voulu faire à rendre cet échange effectif, et à le faire servir de fondement aux nouveautés surprenantes de ce sujet. </p>
+<p>Il lui faut la même indulgence pour l'unité de lieu qu'à Rodogune. La plupart des poèmes qui suivent en ont besoin, et je me dispenserai de le répéter en les examinant. L'unité de jour n'a rien de violenté, et l'action se pourrait passer en cinq ou six heures, mais le poème est si embarrassé qu'il demande une merveilleuse attention. J'ai vu de fort bons esprits et des personnes des plus qualifiées de la cour se plaindre de ce que sa représentation fatiguait autant l'esprit qu'une étude sérieuse. Elle n'a pas laissé de plaire, mais je crois qu'il l'a fallu voir plus d'une fois pour en remporter une entière intelligence.</p>
+</preface>
+			
+		<castList><head>ACTEURS.</head>
+			<castItem><role id='PHOCAS' civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>PHOCAS</role>, empereur d'Orient.</castItem>
+			<castItem><role id="HÉRACLIUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>HÉRACLIUS</role>, fils de l'empereur Maurice, cru Martian fils de Phocas, amant d'Eudoxe.</castItem>
+			<castItem><role id="MARTIAN" civil='M' type="H" statut='prince' age='A' stat_amour='Pulchérie'>MARTIAN</role>, fils de Phocas, cru Léonce fils de Léontine, amant de Pulchérie.</castItem>
+			<castItem><role id="PULCHÉRIE" civil='F' type="H" statut='prince' age='A' stat_amour='Martian'>PULCHÉRIE</role>, fille de l'empereur Maurice, maîtresse de Martian.</castItem>
+			<castItem><role id="LÉONTINE" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>LÉONTINE</role>, dame de Constantinople, autrefois gouvernante d'Héraclius et de Martian.</castItem>
+			<castItem><role id="EUDOXE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='Héraclius'>EUDOXE</role>, fille de Léontine et maîtresse d'Héraclius.</castItem>
+			<castItem><role id="CRISPE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CRISPE</role>, gendre de Phocas.</castItem>
+			<castItem><role id="EXUPÈRE" civil='M' type="H" statut='praticien' age='A' stat_amour='néant'>EXUPÈRE</role>, patricien de Constantinople.</castItem>
+			<castItem><role id="AMYNTAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>AMYNTAS</role>, ami d'Exupère.</castItem>
+			<castItem><role id="PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>UN PAGE</role> de Léontine.</castItem>
+		</castList>
+		<set location='Constantinople' country='Turquie' periode='VIIème' link=''>La scène est à Constantinople.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Phocas, Crispe.</head>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='1'>Crispe, il n'est que trop vrai, la plus belle couronne</l>
+	<l id='2'>N'a que de faux brillants dont l'éclat l'environne,</l>
+	<l id='3'>Et celui dont le ciel pour un sceptre fait choix,</l>
+	<l id='4'>Jusqu'à ce qu'il le porte, en ignore le poids.</l>
+	<l id='5'>Mille et mille douceurs y semblent attachées,</l>
+	<l id='6'>Qui ne sont qu'un amas d'amertumes cachées.</l>
+	<l id='7'>Qui croit les posséder les sent s'évanouir</l>
+	<l id='8'>Et la peur de les perdre empêche d'en jouir ;</l>
+	<l id='9'>Surtout, qui, comme moi, d'une obscure naissance</l>
+	<l id='10'>Monte par la révolte à la toute-puissance,</l>
+	<l id='11'>Qui, de simple soldat à l'empire élevé,</l>
+	<l id='12'>Ne l'a que par le crime acquis et conservé ;</l>
+	<l id='13'>Autant que sa fureur s'est immolé de têtes,</l>
+	<l id='14'>Autant dessus la sienne il croit voir de tempêtes,</l>
+	<l id='15'>Et comme il n'a semé qu'épouvante et qu'horreur,</l>
+	<l id='16'>Il n'en recueille enfin que trouble et que terreur</l>
+	<l id='17'>J'en ai semé beaucoup, et depuis quatre lustres</l>
+	<l id='18'>Mon trône n'est fondé que sur des morts illustres,</l>
+	<l id='19'>Et j'ai mis au tombeau, pour régner sans effroi,</l>
+	<l id='20'>Tout ce que j'en ai vu de plus digne que moi.</l>
+	<l id='21'>Mais le sang répandu de l'empereur Maurice,</l>
+	<l id='22'>Ses cinq fils, à ses yeux envoyés au supplice,</l>
+	<l id='23'>En vain en ont été les premiers fondements,</l>
+	<l id='24'>Si pour m'ôter ce trône ils servent d'instruments :</l>
+	<l id='25'>On en fait revivre un au bout de vingt années ;</l>
+	<l id='26'>Byzance ouvre, dis-tu, l'oreille à ces menées,</l>
+	<l id='27'>Et le peuple, amoureux de tout ce qui me nuit,</l>
+	<l id='28'>D'une croyance avide embrasse ce faux bruit,</l>
+	<l id='29'>Impatient déjà de se laisser séduire</l>
+	<l id='30'>Au premier imposteur armé pour me détruire,</l>
+	<l id='31'>Qui, s'osant revêtir de ce fantôme aimé,</l>
+	<l id='32'>Voudra servir d'idole à son zèle charmé.</l>
+	<l id='33'>Mais sais-tu sous quel nom ce fâcheux bruit s'excite ?</l>
+</sp>
+<sp who="CRISPE"><speaker>CRISPE.</speaker>
+	<l id='34'>Il nomme Héraclius celui qu'il ressuscite.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='35'>Quiconque en est l'auteur devait mieux l'inventer.</l>
+	<l id='36'>Le nom d'Héraclius doit peu m'épouvanter ;</l>
+	<l id='37'>Sa mort est trop certaine, et fut trop remarquable</l>
+	<l id='38'>Pour craindre un grand effet d'une si vaine fable ;</l>
+	<l id='39'>Il n'avait que six mois, et, lui perçant le flanc,</l>
+	<l id='40'>On en fit dégoutter plus de lait que de sang.</l>
+	<l id='41'>Et ce prodige affreux, dont je tremblai dans l'âme,</l>
+	<l id='42'>Fut aussitôt suivi de la mort de ma femme.</l>
+	<l id='43'>Il me souvient encor qu'il fut deux jours caché</l>
+	<l id='44'>Et que sans Léontine on l'eût longtemps cherché :</l>
+	<l id='45'>Il fut livré par elle, à qui, pour récompense,</l>
+	<l id='46'>Je donnai de mon fils à gouverner l'enfance</l>
+	<l id='47'>Du jeune Martian, qui, d'âge presque égal,</l>
+	<l id='48'>Était resté sans mère en ce moment fatal.</l>
+	<l id='49'>Juge par là combien ce conte est ridicule.</l>
+</sp>
+<sp who="CRISPE"><speaker>CRISPE.</speaker>
+	<l id='50'>Tout ridicule, il plaît, et le peuple est crédule.</l>
+	<l id='51'>Mais avant qu'à ce conte il se laisse emporter,</l>
+	<l id='52'>Il vous est trop aisé de le faire avorter :</l>
+	<l id='53'>Quand vous fîtes périr Maurice et sa famille,</l>
+	<l id='54'>Il vous en plut, seigneur, réserver une fille,</l>
+	<l id='55'>Et résoudre dès lors qu'elle aurait pour époux</l>
+	<l id='56'>Ce prince destiné pour régner après vous.</l>
+	<l id='57'>Le peuple en sa personne aime encore et révère</l>
+<note>Maurice : empereur d'Orient de 582 à 602. </note>
+<note>Tibère Constantin II : fis de Justin II, empereur d'Orient de 578 à 582 précéda Maurice.</note>
+	<l id='58'>Et son père Maurice et son aïeul Tibère,</l>
+	<l id='59'>Et vous verra sans trouble en occuper le rang</l>
+	<l id='60'>S'il voit tomber leur sceptre au reste de leur sang.</l>
+	<l id='61'>Non, il ne courra plus après l'ombre du frère</l>
+	<l id='62'>S'il voit monter la sœur sur le trône du père.</l>
+	<l id='63'>Mais pressez cet hymen : le prince aux champs de Mars,</l>
+	<l id='64'>Chaque jour, chaque instant, s'offre à mille hasards,</l>
+	<l id='65'>Et n'eût été Léonce, en la dernière guerre,</l>
+	<l id='66'>Ce dessein avec lui serait tombé par terre,</l>
+	<l id='67'>Puisque, sans la valeur de ce jeune guerrier,</l>
+	<l id='68'>Martian demeurait ou mort ou prisonnier.</l>
+	<l id='69'>Avant que d'y périr, s'il faut qu'il y périsse,</l>
+	<l id='70'>Qu'il vous laisse un neveu qui le soit de Maurice,</l>
+	<l id='71'>Et qui, réunissant l'une et l'autre maison,</l>
+	<l id='72'>Tire chez vous l'amour qu'on garde pour son nom.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='73'>Hélas ! De quoi me sert ce dessein salutaire,</l>
+	<l id='74'>Si pour en voir l'effet tout me devient contraire ?</l>
+	<l id='75'>Pulchérie et mon fils ne se montrent d'accord</l>
+	<l id='76'>Qu'à fuir cet hyménée à l'égal de la mort,</l>
+	<l id='77'>Et les aversions entre eux deux mutuelles</l>
+	<l id='78'>Les font d'intelligence à se montrer rebelles.</l>
+	<l id='79'>La princesse surtout frémit à mon aspect,</l>
+	<l id='80'>Et, quoiqu'elle étudie un peu de faux respect,</l>
+	<l id='81'>Le souvenir des siens, l'orgueil de sa naissance,</l>
+	<l id='82'>L'emporte à tous moments à braver ma puissance.</l>
+	<l id='83'>Sa mère, que longtemps je voulus épargner,</l>
+	<l id='84'>Et qu'en vain par douceur j'espérai de gagner,</l>
+	<l id='85'>L'a de la sorte instruite ; et ce que je vois suivre</l>
+	<l id='86'>Me punit bien du trop que je la laissai vivre.</l>
+</sp>
+<sp who="CRISPE"><speaker>CRISPE.</speaker>
+	<l id='87'>Il faut agir de force avec de tels esprits,</l>
+	<l id='88'>Seigneur, et qui les flatte endurcit leurs mépris ;</l>
+	<l id='89'>La violence est juste où la douceur est vaine.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='90'>C'est par là qu'aujourd'hui je veux dompter sa haine.</l>
+	<l id='91'>Je l'ai mandée exprès, non plus pour la flatter,</l>
+	<l id='92'>Mais pour prendre mon ordre et pour l'exécuter.</l>
+</sp>
+<sp who="CRISPE"><speaker>CRISPE.</speaker>
+	<l id='93' part='i'>Elle entre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Phocas, Pulchérie, Crispe.</head>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='93' part='f'>Enfin, Madame, il est temps de vous rendre.</l>
+	<l id='94'>Le besoin de l'État défend de plus attendre ;</l>
+	<l id='95'>Il lui faut des Césars, et je me suis promis</l>
+	<l id='96'>D'en voir naître bientôt de vous et de mon fils.</l>
+	<l id='97'>Ce n'est pas exiger grande reconnaissance</l>
+	<l id='98'>Des soins que mes bontés ont pris de votre enfance,</l>
+	<l id='99'>De vouloir qu'aujourd'hui, pour prix de mes bienfaits,</l>
+	<l id='100'>Vous daigniez accepter les dons que je vous fais.</l>
+	<l id='101'>Ils ne font point de honte au rang le plus sublime ;</l>
+	<l id='102'>Ma couronne et mon fils valent bien quelque estime.</l>
+	<l id='103'>Je vous les offre encore après tant de refus,</l>
+	<l id='104'>Mais apprenez aussi que je n'en souffre plus,</l>
+	<l id='105'>Que, de force ou de gré, je me veux satisfaire,</l>
+	<l id='106'>Qu'il me faut craindre en maître ou me chérir en père,</l>
+	<l id='107'>Et que, si votre orgueil s'obstine à me haïr,</l>
+	<l id='108'>Qui ne peut être aimé se peut faire obéir.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='109'>J'ai rendu jusqu'ici cette reconnaissance</l>
+	<l id='110'>À ces soins tant vantés d'élever mon enfance,</l>
+	<l id='111'>Que tant qu'on m'a laissée en quelque liberté,</l>
+	<l id='112'>J'ai voulu me défendre avec civilité,</l>
+	<l id='113'>Mais, puisqu'on use enfin d'un pouvoir tyrannique</l>
+	<l id='114'>Je vois bien qu'à mon tour il faut que je m'explique,</l>
+	<l id='115'>Que je me montre entière à l'injuste fureur,</l>
+	<l id='116'>Et parle à mon tyran en fille d'empereur.</l>
+	<l id='117'>Il fallait me cacher avec quelque artifice</l>
+	<l id='118'>Que j'étais Pulchérie et fille de Maurice</l>
+	<l id='119'>Si tu faisais dessein de m'éblouir les yeux</l>
+	<l id='120'>Jusqu'à prendre tes dons pour des dons précieux.</l>
+	<l id='121'>Vois quels sont ces présents dont le refus t'étonne :</l>
+	<l id='122'>Tu me donnes, dis-tu, ton fils et ta couronne,</l>
+	<l id='123'>Mais que me donnes-tu, puisque l'une est à moi</l>
+	<l id='124'>Et l'autre en est indigne, étant sorti de toi ?</l>
+	<l id='125'>Ta libéralité me fait peine à comprendre :</l>
+	<l id='126'>Tu parles de donner, quand tu ne fais que rendre,</l>
+	<l id='127'>Et puisque avecque moi tu veux le couronner,</l>
+	<l id='128'>Tu ne me rends mon bien que pour te le donner.</l>
+	<l id='129'>Tu veux que cet hymen, que tu m'oses prescrire,</l>
+	<l id='130'>Porte dans ta maison les titres de l'empire,</l>
+	<l id='131'>Et de cruel tyran, d'infâme ravisseur,</l>
+	<l id='132'>Te fasse vrai monarque, et juste possesseur.</l>
+	<l id='133'>Ne reproche donc plus à mon âme indignée</l>
+	<l id='134'>Qu'en perdant tous les miens tu m'as seule épargnée :</l>
+	<l id='135'>Cette feinte douceur, cette ombre d'amitié,</l>
+	<l id='136'>Vint de ta politique, et non de ta pitié ;</l>
+	<l id='137'>Ton intérêt dès lors fit seul cette réserve ;</l>
+	<l id='138'>Tu m'as laissé la vie afin qu'elle te serve,</l>
+	<l id='139'>Et, mal sûr dans un trône où tu crains l'avenir,</l>
+	<l id='140'>Tu ne m'y veux placer que pour t'y maintenir ;</l>
+	<l id='141'>Tu ne m'y fais monter que de peur d'en descendre.</l>
+	<l id='142'>Mais connais Pulchérie, et cesse de prétendre :</l>
+	<l id='143'>Je sais qu'il m'appartient, ce trône où tu te sieds,</l>
+	<l id='144'>Que c'est à moi d'y voir tout le monde à mes pieds ;</l>
+	<l id='145'>Mais comme il est encor teint du sang de mon père,</l>
+	<l id='146'>S'il n'est lavé du tien, il ne saurait me plaire ;</l>
+	<l id='147'>Et ta mort, que mes vœux s'efforcent de hâter,</l>
+	<l id='148'>Est l'unique degré par où j'y veux monter.</l>
+	<l id='149'>Voilà quelle je suis, et quelle je veux être.</l>
+	<l id='150'>Qu'un autre t'aime en père ou te redoute en maître,</l>
+	<l id='151'>Le cœur de Pulchérie est trop haut et trop franc</l>
+	<l id='152'>Pour craindre ou pour flatter le bourreau de son sang.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='153'>J'ai forcé ma colère à te prêter silence</l>
+	<l id='154'>Pour voir à quel excès irait ton insolence.</l>
+	<l id='155'>J'ai vu ce qui t'abuse, et me fait mépriser,</l>
+	<l id='156'>Et t'aime encore assez pour te désabuser.</l>
+	<l id='157'>N'estime plus mon sceptre usurpé sur ton père,</l>
+	<l id='158'>Ni que pour l'appuyer ta main soit nécessaire :</l>
+	<l id='159'>Depuis vingt ans je règne, et je règne sans toi,</l>
+	<l id='160'>Et j'en eus tout le droit du choix qu'on fit de moi.</l>
+	<l id='161'>Le trône où je me sieds n'est pas un bien de race :</l>
+	<l id='162'>L'armée a ses raisons pour remplir cette place ;</l>
+	<l id='163'>Son choix en est le titre ; et tel est notre sort,</l>
+	<l id='164'>Qu'une autre élection nous condamne à la mort.</l>
+	<l id='165'>Celle qu'on fit de moi fut l'arrêt de Maurice ;</l>
+	<l id='166'>J'en vis avec regret le triste sacrifice ;</l>
+	<l id='167'>Au repos de l'Etat il fallut l'accorder ;</l>
+	<l id='168'>Mon cœur, qui résistait, fut contraint de céder.</l>
+	<l id='169'>Mais pour remettre un jour l'empire en sa famille</l>
+	<l id='170'>Je fis ce que je pus : je conservai sa fille,</l>
+	<l id='171'>Et, sans avoir besoin de titre ni d'appui,</l>
+	<l id='172'>Je te fais part d'un bien qui n'était plus à lui.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+<note type="L">Mysie : Région du nord ouest d'Asie Mineure faisant face à la Thrace dans le mer de Marmara (Propontide). </note>
+	<l id='173'>Un chétif centenier des troupes de Mysie,</l>
+	<l id='174'>Qu'un gros de mutinés élut par fantaisie,</l>
+	<l id='175'>Oser arrogamment se vanter à mes yeux</l>
+	<l id='176'>D'être juste seigneur du bien de mes aïeux !</l>
+	<l id='177'>Lui qui n'a pour l'empire autre droit que ses crimes,</l>
+	<l id='178'>Lui qui de tous les miens fit autant de victimes,</l>
+	<l id='179'>Croire s'être lavé d'un si noir attentat</l>
+	<l id='180'>En imputant leur perte au repos de l'Etat !</l>
+	<l id='181'>Il fait plus, il me croit digne de cette excuse !</l>
+	<l id='182'>Souffre, souffre à ton tour que je te désabuse,</l>
+	<l id='183'>Apprends que si jadis quelques séditions</l>
+	<l id='184'>Usurpèrent le droit de ces élections,</l>
+	<l id='185'>L'empire était chez nous un bien héréditaire :</l>
+	<l id='186'>Maurice ne l'obtint qu'en gendre de Tibère,</l>
+	<l id='187'>Et l'on voit depuis lui remonter mon destin</l>
+	<l id='188'>Jusqu'au grand Théodose, et jusqu'à Constantin,</l>
+	<l id='189'>Et je pourrais avoir l'âme assez abattue...</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='190'>Eh bien, si tu le veux, je te le restitue,</l>
+	<l id='191'>Cet empire, et consens encor que ta fierté</l>
+	<l id='192'>Impute à mes remords l'effet de ma bonté :</l>
+	<l id='193'>Dis que je te le rends, et te fais des caresses</l>
+	<l id='194'>Pour apaiser des tiens les ombres vengeresses,</l>
+	<l id='195'>Et tout ce qui pourra, sous quelque autre couleur,</l>
+	<l id='196'>Autoriser ta haine et flatter ta douleur.</l>
+	<l id='197'>Par un dernier effort je veux souffrir la rage</l>
+	<l id='198'>Qu'allume dans ton cœur cette sanglante image.</l>
+	<l id='199'>Mais que t'a fait mon fils ? Était-il, au berceau,</l>
+	<l id='200'>Des tiens que je perdis le juge ou le bourreau ?</l>
+	<l id='201'>Tant de vertus qu'en lui le monde entier admire</l>
+	<l id='202'>Ne l'ont-elles pas fait trop digne de l'empire ?</l>
+	<l id='203'>En ai-je eu quelque espoir qu'il n'ait assez rempli ?</l>
+	<l id='204'>Et voit-on sous le ciel prince plus accompli ?</l>
+	<l id='205'>Un cœur comme le tien, si grand, si magnanime...</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='206'>Va, je ne confonds point ses vertus et ton crime.</l>
+	<l id='207'>Comme ma haine est juste et ne m'aveugle pas,</l>
+	<l id='208'>J'en vois assez en lui pour les plus grands États ;</l>
+	<l id='209'>J'admire chaque jour les preuves qu'il en donne ;</l>
+	<l id='210'>J'honore sa valeur, j'estime sa personne,</l>
+	<l id='211'>Et penche d'autant plus à lui vouloir du bien</l>
+	<l id='212'>Que, s'en voyant indigne, il ne demande rien,</l>
+	<l id='213'>Que ses longues froideurs témoignent qu'il s'irrite</l>
+	<l id='214'>De ce qu'on veut de moi par delà son mérite,</l>
+	<l id='215'>Et que de tes projets son cœur triste et confus</l>
+	<l id='216'>Pour m'en faire justice approuve mes refus.</l>
+	<l id='217'>Ce fils si vertueux d'un père si coupable,</l>
+	<l id='218'>S'il ne devait régner, me pourrait être aimable,</l>
+	<l id='219'>Et cette grandeur même où tu veux le porter</l>
+	<l id='220'>Est l'unique motif qui m'y fait résister.</l>
+	<l id='221'>Après l'assassinat de ma famille entière,</l>
+	<l id='222'>Quand tu ne m'as laissé père, mère, ni frère,</l>
+	<l id='223'>Que j'en fasse ton fils légitime héritier !</l>
+	<l id='224'>Que j'assure par là leur trône au meurtrier !</l>
+	<l id='225'>Non, non. Si tu me crois le cœur si magnanime</l>
+	<l id='226'>Qu'il ose séparer ses vertus de ton crime,</l>
+	<l id='227'>Sépare tes parents, et ne m'offre aujourd'hui</l>
+	<l id='228'>Que ton fils sans le sceptre, ou le sceptre sans lui.</l>
+	<l id='229'>Avise, et si tu crains qu'il te fût trop infâme</l>
+	<l id='230'>De remettre l'empire en la main d'une femme,</l>
+	<l id='231'>Tu peux dès aujourd'hui le voir mieux occupé.</l>
+	<l id='232'>Le ciel me rend un frère à ta rage échappé ;</l>
+	<l id='233'>On dit qu'Héraclius est tout prêt de paraître.</l>
+	<l id='234'>Tyran, descends du trône, et fais place à ton maître.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='235'>À ce compte, arrogante, un fantôme nouveau</l>
+	<l id='236'>Qu'un murmure confus fait sortir du tombeau,</l>
+	<l id='237'>Te donne cette audace et cette confiance !</l>
+	<l id='238'>Ce bruit s'est fait déjà digne de ta croyance.</l>
+	<l id='239' part='i'>Mais...</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='239' part='f'>Je sais qu'il est faux : pour t'assurer ce rang</l>
+	<l id='240'>Ta rage eut trop de soin de verser tout mon sang.</l>
+	<l id='241'>Mais la soif de ta perte, en cette conjoncture,</l>
+	<l id='242'>Me fait aimer l'auteur d'une belle imposture :</l>
+	<l id='243'>Au seul nom de Maurice il te fera trembler ;</l>
+	<l id='244'>Puisqu'il se dit son fils, il veut lui ressembler,</l>
+	<l id='245'>Et cette ressemblance où son courage aspire</l>
+	<l id='246'>Mérite mieux que toi de gouverner l'empire.</l>
+	<l id='247'>J'irai par mon suffrage affermir cette erreur,</l>
+	<l id='248'>L'avouer pour mon frère et pour mon empereur,</l>
+	<l id='249'>Et dedans son parti jeter tout l'avantage</l>
+	<l id='250'>Du peuple convaincu par mon premier hommage.</l>
+	<l id='251'>Toi, si quelque remords te donne un juste effroi,</l>
+	<l id='252'>Sors du trône, et te laisse abuser comme moi.</l>
+	<l id='253'>Prends cette occasion de te faire justice.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='254'>Oui, je me la ferai bientôt par ton supplice.</l>
+	<l id='255'>Ma bonté ne peut plus arrêter mon devoir :</l>
+	<l id='256'>Ma patience a fait par delà son pouvoir.</l>
+	<l id='257'>Qui se laisse outrager mérite qu'on l'outrage,</l>
+	<l id='258'>Et l'audace impunie enfle trop un courage.</l>
+	<l id='259'>Tonne, menace, brave, espère en de faux bruits,</l>
+	<l id='260'>Fortifie, affermis ceux qu'ils auront séduits,</l>
+	<l id='261'>Dans ton âme à ton gré change ma destinée,</l>
+	<l id='262'>Mais choisis pour demain la mort ou l'hyménée.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='263'>Il n'est pas pour ce choix besoin d'un grand effort</l>
+	<l id='264'>À qui hait l'hyménée et ne craint point la mort.</l>
+<stage>Dans les deux scènes suivantes, Héraclius passe pour Martian, et Martian pour Léonce. Héraclius se connaît, mais Martian ne se connaît pas. </stage>
+</sp></div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Phocas, Pulchérie, Héraclius, Crispe.</head>
+<sp who="PHOCAS"><speaker>PHOCAS, à Pulchérie.</speaker>
+	<l id='265'>Dis, si tu veux, encor que ton cœur la souhaite.</l>
+<stage>À Héraclius.</stage>
+	<l id='266'>Approche, Martian, que je te le répète :</l>
+	<l id='267'>Cette ingrate furie, après tant de mépris,</l>
+	<l id='268'>Conspire encore la perte et du père et du fils ;</l>
+	<l id='269'>Elle-même a semé cette erreur populaire</l>
+	<l id='270'>D'un faux Héraclius qu'elle accepte pour frère,</l>
+	<l id='271'>Mais quoi qu'à ces mutins elle puisse imposer,</l>
+	<l id='272'>Demain ils la verront mourir ou t'épouser.</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='273' part='i'>Seigneur...</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='273' part='f'>Garde sur toi d'attirer ma colère.</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='274'>Dussé-je mal user de cet amour de père,</l>
+	<l id='275'>Étant ce que je suis, je me dois quelque effort</l>
+	<l id='276'>Pour vous dire, Seigneur, que c'est vous faire tort,</l>
+	<l id='277'>Et que c'est trop montrer d'injuste défiance</l>
+	<l id='278'>De ne pouvoir régner que par son alliance</l>
+	<l id='279'>Sans prendre un nouveau droit du nom de son époux,</l>
+	<l id='280'>Ma naissance suffit pour régner après vous :</l>
+	<l id='281'>J'ai du cœur, et tiendrais l'empire même infâme</l>
+	<l id='282'>S'il fallait le tenir de la main d'une femme.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='283'>Eh bien ! Elle mourra, tu n'en as pas besoin.</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='284'>De vous-même, Seigneur, daignez mieux prendre soin.</l>
+	<l id='285'>Le peuple aime Maurice : en perdre ce qui reste</l>
+	<l id='286'>Nous rendrait ce tumulte au dernier point funeste ;</l>
+	<l id='287'>Au nom d'Héraclius à demi soulevé,</l>
+	<l id='288'>Vous verriez par sa mort le désordre achevé.</l>
+	<l id='289'>Il vaut mieux la priver du rang qu'elle rejette,</l>
+	<l id='290'>Faire régner une autre, et la laisser sujette,</l>
+	<l id='291'>Et d'un parti plus bas punissant son orgueil...</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='292'>Quand Maurice peut tout du creux de son cercueil,</l>
+	<l id='293'>À ce fils supposé, dont il me faut défendre,</l>
+	<l id='294'>Tu parles d'ajouter un véritable gendre !</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='295'>Seigneur, j'ai des amis chez qui cette moitié...</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='296'>À l'épreuve d'un sceptre il n'est point d'amitié,</l>
+	<l id='297'>Point qui ne s'éblouisse à l'éclat de sa pompe,</l>
+	<l id='298'>Point qu'après son hymen sa haine ne corrompe.</l>
+	<l id='299' part='i'>Elle mourra, te dis-je.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE, à Héraclius.</speaker>
+	<l id='299' part='f'>Ah ! ne m'empêchez pas</l>
+	<l id='300'>De rejoindre les miens par un heureux trépas !</l>
+	<l id='301'>La vapeur de mon sang ira grossir la foudre</l>
+	<l id='302'>Que Dieu tient déjà prête à le réduire en poudre ;</l>
+	<l id='303'>Et ma mort, en servant de comble à tant d'horreurs...</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='304'>Par ses remerciements juge de ses fureurs.</l>
+	<l id='305'>J'ai prononcé l'arrêt, il faut que l'effet suive.</l>
+	<l id='306'>Résous-la de t'aimer, si tu veux qu'elle vive ;</l>
+	<l id='307'>Sinon, j'en jure encore et ne t'écoute plus,</l>
+	<l id='308'>Son trépas dès demain punira ses refus.</l>
+</sp></div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Pulchérie, Héraclius, Martian.</head>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='309'>En vain il se promet que, sous cette menace,</l>
+	<l id='310'>J'espère en votre cœur surprendre quelque place :</l>
+	<l id='311'>Votre refus est juste et j'en sais les raisons.</l>
+	<l id='312'>Ce n'est pas à nous deux d'unir les deux maisons ;</l>
+	<l id='313'>D'autres destins, Madame, attendent l'un et l'autre ;</l>
+	<l id='314'>Ma foi m'engage ailleurs aussi bien que la vôtre.</l>
+	<l id='315'>Vous aurez en Léonce un digne possesseur ;</l>
+	<l id='316'>Je serai trop heureux d'en posséder la sœur.</l>
+	<l id='317'>Ce guerrier vous adore, et vous l'aimez de même ;</l>
+	<l id='318'>Je suis aimé d'Eudoxe autant comme je l'aime.</l>
+	<l id='319'>Léontine, leur mère, est propice à nos vœux ;</l>
+	<l id='320'>Et quelque effort qu'on fasse à rompre ces beaux nœuds,</l>
+	<l id='321'>D'un amour si parfait les chaînes sont si belles</l>
+	<l id='322'>Que nos captivités doivent être éternelles.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='323'>Seigneur, vous connaissez ce cœur infortuné :</l>
+	<l id='324'>Léonce y peut beaucoup ; vous me l'avez donné,</l>
+	<l id='325'>Et votre main illustre augmente le mérite</l>
+	<l id='326'>Des vertus dont l'éclat pour lui me sollicite.</l>
+ <note type="L">Penser : nom masculin au XVIIème pour « pensée ».</note>
+	<l id='327'>Mais à d'autres pensers il me faut recourir :</l>
+	<l id='328'>Il n'est plus temps d'aimer alors qu'il faut mourir,</l>
+	<l id='329'>Et quand à ce départ une âme se prépare...</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='330'>Redoutez un peu moins les rigueurs d'un barbare.</l>
+	<l id='331'>Pardonnez-moi ce mot : pour vous servir d'appui</l>
+	<l id='332'>J'ai peine à reconnaître encore un père en lui.</l>
+	<l id='333'>Résolu de périr pour vous sauver la vie,</l>
+	<l id='334'>Je sens tous mes respects céder à cette envie ;</l>
+	<l id='335'>Je ne suis plus son fils s'il en veut à vos jours,</l>
+	<l id='336'>Et mon cœur tout entier vole à votre secours.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='337'>C'est donc avec raison que je commence à craindre,</l>
+	<l id='338'>Non la mort, non l'hymen où l'on me veut contraindre,</l>
+	<l id='339'>Mais ce péril extrême où, pour me secourir,</l>
+	<l id='340'>Je vois votre grand cœur aveuglément courir.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='341'>Ah, mon prince ! Ah, Madame ! Il vaut mieux vous résoudre,</l>
+	<l id='342'>Par un heureux hymen, à dissiper ce foudre.</l>
+	<l id='343'>Au nom de votre amour et de votre amitié,</l>
+	<l id='344'>Prenez de votre sort tous deux quelque pitié.</l>
+	<l id='345'>Que la vertu du fils, si pleine et si sincère,</l>
+	<l id='346'>Vainque la juste horreur que vous avez du père,</l>
+	<l id='347'>Et, pour mon intérêt, n'exposez pas tous deux...</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='348'>Que me dis-tu, Léonce ? Et qu'est-ce que tu veux ?</l>
+	<l id='349'>Tu m'as sauvé la vie, et, pour reconnaissance,</l>
+	<l id='350'>Je voudrais à tes feux ôter leur récompense,</l>
+	<l id='351'>Et, ministre insolent d'un prince furieux,</l>
+	<l id='352'>Couvrir de cette honte un nom si glorieux,</l>
+	<l id='353'>Ingrat à mon ami, perfide à ce que j'aime,</l>
+	<l id='354'>Cruel à la princesse, odieux à moi-même !</l>
+	<l id='355'>Je te connais, Léonce, et mieux que tu ne crois ;</l>
+	<l id='356'>Je sais ce que tu vaux, et ce que je te dois.</l>
+	<l id='357'>Son bonheur est le mien, Madame, et je vous donne</l>
+	<l id='358'>Léonce et Martian en la même personne ;</l>
+	<l id='359'>C'est Martian en lui que vous favorisez.</l>
+	<l id='360'>Opposons la constance aux périls opposés.</l>
+	<l id='361'>Je vais près de Phocas essayer la prière,</l>
+	<l id='362'>Et, si je n'en obtiens la grâce tout entière,</l>
+	<l id='363'>Malgré le nom de père, et le titre de fils,</l>
+	<l id='364'>Je deviens le plus grand de tous ses ennemis.</l>
+	<l id='365'>Oui, si sa cruauté s'obstine à votre perte,</l>
+	<l id='366'>J'irai pour l'empêcher jusqu'à la force ouverte ;</l>
+	<l id='367'>Et puisse, si le ciel m'y voit rien épargner,</l>
+	<l id='368'>Un faux Héraclius en ma place régner !</l>
+	<l id='369' part='i'>Adieu, Madame.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='369' part='f'>Adieu, Prince trop magnanime.</l>
+<stage>Héraclius s'en va, et Pulchérie continue.</stage>
+	<l id='370'>Prince digne en effet d'un trône acquis sans crime,</l>
+	<l id='371'>Digne d'un autre père. Ah ! Phocas ! Ah ! Tyran !</l>
+	<l id='372'>Se peut-il que ton sang ait formé Martian ?</l>
+	<l id='373'>Mais allons, cher Léonce, admirant son courage,</l>
+	<l id='374'>Tâcher de notre part à repousser l'orage :</l>
+	<l id='375'>Tu t'es fait des amis, je sais des mécontents,</l>
+	<l id='376'>Le peuple est ébranlé, ne perdons point de temps.</l>
+	<l id='377'>L'honneur te le commande et l'amour t'y convie.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='378'>Pour otage en ses mains ce tigre a votre vie</l>
+	<l id='379'>Et je n'oserai rien qu'avec un juste effroi</l>
+	<l id='380'>Qu'il ne venge sur vous ce qu'il craindra de moi.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='381'>N'importe. A tout oser le péril doit contraindre.</l>
+	<l id='382'>Il ne faut craindre rien quand on a tout à craindre.</l>
+	<l id='383'>Allons examiner pour ce coup généreux</l>
+	<l id='384'>Les moyens les plus prompts et les moins dangereux.</l>
+</sp></div2></div1>
+<div1 type="acte" n="2"><head>ACTE II.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Léontine, Eudoxe.</head>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='385'>Voilà ce que j'ai craint de son âme enflammée.</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='386'>S'il m'eût caché son sort, il m'aurait mal aimée.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='387'>Avec trop d'imprudence il vous l'a révélé.</l>
+	<l id='388'>Vous êtes fille, Eudoxe, et vous avez parlé ;</l>
+	<l id='389'>Vous n'avez pu savoir cette grande nouvelle</l>
+	<l id='390'>Sans la dire à l'oreille à quelque âme infidèle,</l>
+	<l id='391'>À quelque esprit léger, ou de votre heur jaloux,</l>
+	<l id='392'>À qui ce grand secret a pesé comme à vous.</l>
+	<l id='393'>C'est par là qu'il est su, c'est par là qu'on publie</l>
+	<l id='394'>Ce prodige étonnant d'Héraclius en vie ;</l>
+	<l id='395'>C'est par là qu'un tyran, plus instruit que troublé</l>
+	<l id='396'>De l'ennemi secret qui l'aurait accablé,</l>
+	<l id='397'>Ajoutera bientôt sa mort à tant de crimes,</l>
+	<l id='398'>Et se sacrifiera pour nouvelles victimes</l>
+	<l id='399'>Ce prince dans son sein pour son fils élevé,</l>
+	<l id='400'>Vous qu'adore son âme, et moi qui l'ai sauvé.</l>
+	<l id='401'>Voyez combien de maux pour n'avoir su vous taire !</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='402'>Madame, mon respect souffre tout d'une mère,</l>
+	<l id='403'>Qui, pour peu qu'elle veuille écouter la raison,</l>
+	<l id='404'>Ne m'accusera plus de cette trahison ;</l>
+	<l id='405'>Car c'en est une enfin bien digne de supplice</l>
+	<l id='406'>Qu'avoir d'un tel secret donné le moindre indice.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='407'>Et qui donc aujourd'hui le fait connaître à tous ?</l>
+	<l id='408' part='i'>Est-ce le prince, ou moi ?</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='408' part='f'>Ni le prince, ni vous.</l>
+	<l id='409'>De grâce, examinez ce bruit qui vous alarme.</l>
+	<l id='410'>On dit qu'il est en vie, et son nom seul les charme ;</l>
+	<l id='411'>On ne dit point comment vous trompâtes Phocas,</l>
+	<l id='412'>Livrant un de vos fils pour ce prince au trépas,</l>
+	<l id='413'>Ni comme après, du sien étant la gouvernante,</l>
+	<l id='414'>Par une tromperie encor plus importante,</l>
+	<l id='415'>Vous en fîtes l'échange, et, prenant Martian,</l>
+	<l id='416'>Vous laissâtes pour fils ce prince à son tyran.</l>
+	<l id='417'>En sorte que le sien passe ici pour mon frère,</l>
+	<l id='418'>Cependant que de l'autre il croit être le père,</l>
+	<l id='419'>Et voit en Martian Léonce qui n'est plus,</l>
+	<l id='420'>Tandis que sous ce nom il aime Héraclius.</l>
+	<l id='421'>On dirait tout cela si, par quelque imprudence,</l>
+	<l id='422'>Il m'était échappé d'en faire confidence.</l>
+	<l id='423'>Mais pour toute nouvelle on dit qu'il est vivant :</l>
+	<l id='424'>Aucun n'ose pousser l'histoire plus avant.</l>
+	<l id='425'>Comme ce sont pour tous des routes inconnues,</l>
+	<l id='426'>Il semble à quelques-uns qu'il doit tomber des nues,</l>
+	<l id='427'>Et j'en sais tel qui croit, dans sa simplicité,</l>
+	<l id='428'>Que pour punir Phocas, Dieu l'a ressuscité.</l>
+	<l id='429' part='i'>Mais le voici.</l>
+</sp></div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Héraclius, Léontine, Eudoxe.</head>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='429' part='f'>Madame, il n'est plus temps de taire</l>
+	<l id='430'>D'un si profond secret le dangereux mystère.</l>
+	<l id='431'>Le tyran, alarmé du bruit qui le surprend,</l>
+	<l id='432'>Rend ma crainte trop juste, et le péril trop grand ;</l>
+	<l id='433'>Non que de ma naissance il fasse conjecture,</l>
+	<l id='434'>Au contraire, il prend tout pour grossière imposture,</l>
+	<l id='435'>Et me connaît si peu, que, pour la renverser,</l>
+	<l id='436'>À l'hymen qu'il souhaite il prétend me forcer.</l>
+	<l id='437'>Il m'oppose à mon nom qui le vient de surprendre :</l>
+	<l id='438'>Je suis fils de Maurice, il m'en veut faire gendre,</l>
+	<l id='439'>Et s'acquérir les droits d'un prince si chéri</l>
+	<l id='440'>En me donnant moi-même à ma sœur pour mari !</l>
+	<l id='441'>En vain nous résistons à son impatience,</l>
+	<l id='442'>Elle par haine aveugle, et moi par connaissance ;</l>
+	<l id='443'>Lui, qui ne conçoit rien de l'obstacle éternel</l>
+	<l id='444'>Qu'oppose la nature à ce nœud criminel,</l>
+	<l id='445'>Menace Pulchérie, au refus obstinée,</l>
+	<l id='446'>Lui propose à demain la mort ou l'hyménée.</l>
+	<l id='447'>J'ai fait pour le fléchir un inutile effort :</l>
+	<l id='448'>Pour éviter l'inceste, elle n'a que la mort.</l>
+	<l id='449'>Jugez s'il n'est pas temps de montrer qui nous sommes,</l>
+	<l id='450'>De cesser d'être fils du plus méchant des hommes,</l>
+	<l id='451'>D'immoler mon tyran aux périls de ma sœur,</l>
+	<l id='452'>Et de rendre à mon père un juste successeur.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='453'>Puisque vous ne craignez que sa mort ou l'inceste,</l>
+	<l id='454'>Je rends grâce, Seigneur, à la bonté céleste</l>
+	<l id='455'>De ce qu'en ce grand bruit le sort nous est si doux</l>
+	<l id='456'>Que nous n'avons encor rien à craindre pour vous.</l>
+	<l id='457'>Votre courage seul nous donne lieu de craindre :</l>
+	<l id='458'>Modérez-en l'ardeur, daignez vous y contraindre,</l>
+	<l id='459'>Et puisqu'aucun soupçon ne dit rien à Phocas,</l>
+	<l id='460'>Soyez encor son fils, et ne vous montrez pas.</l>
+	<l id='461'>De quoi que ce tyran menace Pulchérie,</l>
+	<l id='462'>J'aurai trop de moyens d'arrêter sa furie,</l>
+	<l id='463'>De rompre cet hymen ou de le retarder,</l>
+	<l id='464'>Pourvu que vous veuillez ne vous point hasarder.</l>
+	<l id='465'>Répondez-moi de vous et je vous réponds d'elle.</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='466'>Jamais l'occasion ne s'offrira si belle.</l>
+	<l id='467'>Vous voyez un grand peuple à demi révolté,</l>
+	<l id='468'>Sans qu'on sache l'auteur de cette nouveauté.</l>
+	<l id='469'>Il semble que de Dieu la main appesantie,</l>
+	<l id='470'>Se faisant du tyran l'effroyable partie,</l>
+	<l id='471'>Veuille avancer par là son juste châtiment ;</l>
+	<l id='472'>Que, par un si grand bruit, semé confusément,</l>
+	<l id='473'>Il dispose les cœurs à prendre un nouveau maître,</l>
+	<l id='474'>Et presse Héraclius de se faire connaître.</l>
+	<l id='475'>C'est à nous de répondre à ce qu'il en prétend :</l>
+	<l id='476'>Montrons Héraclius au peuple qui l'attend,</l>
+	<l id='477'>Évitons le hasard qu'un imposteur l'abuse,</l>
+	<l id='478'>Et qu'après s'être armé d'un nom que je refuse,</l>
+	<l id='479'>De mon trône, à Phocas sous ce titre arraché,</l>
+	<l id='480'>Il puisse me punir de m'être trop caché.</l>
+	<l id='481'>Il ne sera pas temps, Madame, de lui dire</l>
+	<l id='482'>Qu'il me rende mon nom, ma naissance et l'empire,</l>
+	<l id='483'>Quand il se prévaudra de ce nom déjà pris</l>
+	<l id='484'>Pour me joindre au tyran dont je passe pour fils.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='485'>Sans vous donner pour chef à cette populace,</l>
+	<l id='486'>Je romprai bien encor ce coup, s'il vous menace.</l>
+	<l id='487'>Mais gardons jusqu'au bout ce secret important ;</l>
+	<l id='488'>Fiez-vous plus à moi qu'à ce peuple inconstant :</l>
+	<l id='489'>Ce que j'ai fait pour vous depuis votre naissance</l>
+	<l id='490'>Semble digne, Seigneur, de cette confiance.</l>
+	<l id='491'>Je ne laisserai point mon ouvrage imparfait,</l>
+	<l id='492'>Et bientôt mes desseins auront leur plein effet.</l>
+	<l id='493'>Je punirai Phocas, je vengerai Maurice,</l>
+	<l id='494'>Mais aucun n'aura part à ce grand sacrifice :</l>
+	<l id='495'>J'en veux toute la gloire, et vous me la devez ;</l>
+	<l id='496'>Vous régnerez par moi, si par moi vous vivez.</l>
+	<l id='497'>Laissez entre mes mains mûrir vos destinées,</l>
+	<l id='498'>Et ne hasardez point le fruit de vingt années.</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='499'>Seigneur, si votre amour peut écouter mes pleurs,</l>
+	<l id='500'>Ne vous exposez point au dernier des malheurs.</l>
+	<l id='501'>La mort de ce tyran, quoique trop légitime,</l>
+	<l id='502'>Aura dedans vos mains l'image d'un grand crime :</l>
+	<l id='503'>Le peuple pour miracle osera maintenir</l>
+	<l id='504'>Que le ciel par son fils l'aura voulu punir,</l>
+	<l id='505'>Et sa haine obstinée après cette chimère</l>
+	<l id='506'>Vous croira parricide en vengeant votre père ;</l>
+	<l id='507'>La vérité n'aura ni le nom ni l'effet</l>
+	<l id='508'>Que d'un adroit mensonge à couvrir ce forfait,</l>
+	<l id='509'>Et d'une telle erreur l'ombre sera trop noire</l>
+	<l id='510'>Pour ne pas obscurcir l'éclat de votre gloire.</l>
+	<l id='511'>Je sais bien que l'ardeur de venger vos parents...</l>
+</sp>
+<sp who="HÉRACLIUS"><speaker>HÉRACLIUS.</speaker>
+	<l id='512'>Vous en êtes aussi, Madame, et je me rends.</l>
+	<l id='513'>Je n'examine rien, et n'ai pas la puissance</l>
+	<l id='514'>De combattre l'amour et la reconnaissance.</l>
+	<l id='515'>Le secret est à vous, et je serais ingrat</l>
+	<l id='516'>Si, sans votre congé, j'osais en faire éclat,</l>
+	<l id='517'>Puisque, sans votre aveu, toute mon aventure</l>
+	<l id='518'>Passerait pour un songe ou pour une imposture.</l>
+	<l id='519'>Je dirai plus : l'empire est plus à vous qu'à moi,</l>
+	<l id='520'>Puisqu'à Léonce mort tout entier je le dois.</l>
+	<l id='521'>C'est le prix de son sang, c'est pour y satisfaire</l>
+	<l id='522'>Que je rends à la sœur ce que je tiens du frère.</l>
+	<l id='523'>Non que, pour m'acquitter par cette élection,</l>
+	<l id='524'>Mon devoir ait forcé mon inclination :</l>
+	<l id='525'>Il présenta mon cœur aux yeux qui le charmèrent,</l>
+	<l id='526'>Il prépara mon âme aux feux qu'ils allumèrent,</l>
+	<l id='527'>Et ces yeux tout divins, par un soudain pouvoir,</l>
+	<l id='528'>Achevèrent sur moi l'effet de ce devoir.</l>
+	<l id='529'>Oui, mon cœur, chère Eudoxe, à ce trône n'aspire</l>
+	<l id='530'>Que pour vous voir bientôt maîtresse de l'empire.</l>
+	<l id='531'>Je ne me suis voulu jeter dans le hasard</l>
+	<l id='532'>Que par la seule soif de vous en faire part :</l>
+	<l id='533'>C'était là tout mon but. Pour éviter l'inceste,</l>
+	<l id='534'>Je n'ai qu'à m'éloigner de ce climat funeste,</l>
+	<l id='535'>Mais si je me dérobe au rang qui vous est dû,</l>
+	<l id='536'>Ce sera par moi seul que vous l'aurez perdu ;</l>
+	<l id='537'>Seul je vous ôterai ce que je vous dois rendre.</l>
+	<l id='538'>Disposez des moyens et du temps de le prendre.</l>
+	<l id='539'>Quand vous voudrez régner, faites-m'en possesseur,</l>
+	<l id='540'>Mais, comme enfin j'ai lieu de craindre pour ma sœur,</l>
+	<l id='541'>Tirez-la dans ce jour de ce péril extrême,</l>
+	<l id='542'>Ou demain je ne prends conseil que de moi-même.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='543'>Reposez-vous sur moi, Seigneur, de tout son sort,</l>
+	<l id='544'>Et n'en appréhendez ni l'hymen ni la mort.</l>
+</sp></div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Léontine, Eudoxe.</head>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='545'>Ce n'est plus avec vous qu'il faut que je déguise :</l>
+	<l id='546'>À ne vous rien cacher son amour m'autorise.</l>
+	<l id='547'>Vous saurez les desseins de tout ce que j'ai fait,</l>
+	<l id='548'>Et pourrez me servir à presser leur effet.</l>
+	<l id='549'>Notre vrai Martian adore la princesse ;</l>
+	<l id='550'>Animons toutes deux l'amant pour la maîtresse,</l>
+	<l id='551'>Faisons que son amour nous venge de Phocas,</l>
+	<l id='552'>Et de son propre fils arme pour nous le bras.</l>
+	<l id='553'>Si j'ai pris soin de lui, si je l'ai laissé vivre,</l>
+	<l id='554'>Si je perdis Léonce et ne le fis pas suivre,</l>
+	<l id='555'>Ce fut sur l'espoir seul qu'un jour, pour s'agrandir,</l>
+	<l id='556'>À ma pleine vengeance il pourrait s'enhardir.</l>
+	<l id='557'>Je ne l'ai conservé que pour ce parricide.</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='558' part='i'>Ah ! Madame.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='558' part='f'>Ce mot déjà vous intimide !</l>
+	<l id='559'>C'est à de telles mains qu'il nous faut recourir,</l>
+	<l id='560'>C'est par là qu'un tyran est digne de périr,</l>
+	<l id='561'>Et le courroux du ciel, pour en purger la terre,</l>
+	<l id='562'>Nous doit un parricide au refus du tonnerre.</l>
+	<l id='563'>C'est à nous qu'il remet de l'y précipiter.</l>
+	<l id='564'>Phocas le commettra s'il le peut éviter,</l>
+	<l id='565'>Et nous immolerons au sang de votre frère</l>
+	<l id='566'>Le père par le fils, ou le fils par le père.</l>
+	<l id='567'>L'ordre est digne de nous, le crime est digne d'eux ;</l>
+	<l id='568'>Sauvons Héraclius au péril de tous deux.</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='569'>Je sais qu'un parricide est digne d'un tel père,</l>
+	<l id='570'>Mais faut-il qu'un tel fils soit en péril d'en faire ?</l>
+	<l id='571'>Et, sachant sa vertu, pouvez-vous justement</l>
+	<l id='572'>Abuser jusque-là de son aveuglement ?</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='573'>Dans le fils d'un tyran l'odieuse naissance</l>
+	<l id='574'>Mérite que l'erreur arrache l'innocence,</l>
+	<l id='575'>Et que, de quelque éclat qu'il se soit revêtu,</l>
+	<l id='576'>Un crime qu'il ignore en souille la vertu.</l>
+</sp>
+<sp who="PAGE"><speaker>Le Page.</speaker>
+	<l id='577'>Exupère, Madame, est là qui vous demande.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='578'>Exupère ! À ce nom que ma surprise est grande !</l>
+	<l id='579'>Qu'il entre ! À quel dessein vient-il parler à moi,</l>
+<note>v. 580, la rime oiginale est "connoi".</note>
+	<l id='580'>Lui que je ne vois point, qu'à peine je connais ?</l>
+	<l id='581'>Dans l'âme il hait Phocas, qui s'immola son père,</l>
+	<l id='582'>Et sa venue ici cache quelque mystère.</l>
+	<l id='583'>Je vous l'ai déjà dit, votre langue nous perd.</l>
+</sp></div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Exupère, Léontine, Eudoxe.</head>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='584'>Madame, Héraclius vient d'être découvert.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='585' part='i'>Eh bien ?</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='585' part='m'>Si...</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE, à Eudoxe.</speaker>
+	<l id='585' part='m'>Taisez-vous.</l>
+<stage>À Exupère.</stage>
+	<l id='585' part='m'>Depuis quand ?</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='585' part='f'>Tout à l'heure.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='586'>Et déjà l'empereur a commandé qu'il meure ?</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='587'>Le tyran est bien loin de s'en voir éclairci.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='588' part='i'>Comment ?</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='588' part='f'>Ne craignez rien, Madame, le voici.</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='589' part='i'>Je ne vois que Léonce.</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='589' part='f'>Ah ! Quittez l'artifice.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Martian, Léontine, Exupère, Eudoxe.</head>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='590'>Madame, dois-je croire un billet de Maurice ?</l>
+	<l id='591'>Voyez si c'est sa main, ou s'il est contrefait,</l>
+	<l id='592'>Dites s'il me détrompe, ou m'abuse en effet,</l>
+	<l id='593'>Si je suis votre fils, ou s'il était mon père ;</l>
+	<l id='594'>Vous en devez connaître encor le caractère.</l>
+<stage>Léontine, lit le billet. </stage>
+	<stage>Billet de Maurice</stage>
+	<l id='595'>« Léontine a trompé Phocas,</l>
+	<l id='596'>Et, livrant pour mon fils un des siens au trépas,</l>
+	<l id='597'>Dérobe à sa fureur l'héritier de l'empire.</l>
+	<l id='598'>Ô vous qui me restez de fidèles sujets,</l>
+	<l id='599'>Honorez son grand zèle, appuyez ses projets !</l>
+	<l id='600'>Sous le nom de Léonce Héraclius respire. »</l>
+	<stage>MAURICE.</stage>
+<stage>Elle rend le billet à Exupère, qui le lui a donné, et continue. </stage>
+	<l id='601'>Seigneur, il vous dit vrai : vous étiez en mes mains</l>
+	<l id='602'>Quand on ouvrit Byzance au pire des humains.</l>
+	<l id='603'>Maurice m'honora de cette confiance ;</l>
+	<l id='604'>Mon zèle y répondit par delà sa croyance.</l>
+	<l id='605'>Le voyant prisonnier, et ses quatre autres fils,</l>
+	<l id='606'>Je cachai quelques jours ce qu'il m'avait commis,</l>
+	<l id='607'>Mais enfin, toute prête à me voir découverte,</l>
+	<l id='608'>Ce zèle sur mon sang détourna votre perte :</l>
+	<l id='609'>J'allai, pour vous sauver, vous offrir à Phocas,</l>
+	<l id='610'>Mais j'offris votre nom, et ne vous donnai pas ;</l>
+	<l id='611'>La généreuse ardeur de sujette fidèle</l>
+	<l id='612'>Me rendit pour mon prince à moi-même cruelle ;</l>
+	<l id='613'>Mon fils fut, pour mourir, le fils de l'empereur.</l>
+	<l id='614'>J'éblouis le tyran, je trompai sa fureur :</l>
+	<l id='615'>Léonce, au lieu de vous, lui servit de victime.</l>
+<stage>Elle fait un soupir. </stage>
+	<l id='616'>Ah ! Pardonnez, de grâce : il m'échappe sans crime.</l>
+	<l id='617'>J'ai pris pour vous sa vie, et lui rends un soupir ;</l>
+	<l id='618'>Ce n'est pas trop, Seigneur, pour un tel souvenir.</l>
+	<l id='619'>À cet illustre effort, par mon devoir réduite,</l>
+	<l id='620'>J'ai dompté la nature, et ne l'ai pas détruite.</l>
+	<l id='621'>Phocas, ravi de joie à cette illusion,</l>
+	<l id='622'>Me combla de faveurs avec profusion</l>
+	<l id='623'>Et nous fit de sa main cette haute fortune</l>
+	<l id='624'>Dont il n'est pas besoin que je vous importune.</l>
+	<l id='625'>Voilà ce que mes soins vous laissaient ignorer,</l>
+	<l id='626'>Et j'attendais, Seigneur, à vous le déclarer,</l>
+	<l id='627'>Que, par vos grands exploits, votre rare vaillance</l>
+	<l id='628'>Pût faire à l'univers croire votre naissance,</l>
+	<l id='629'>Et qu'une occasion pareille à ce grand bruit</l>
+	<l id='630'>Nous pût de son aveu promettre quelque fruit,</l>
+	<l id='631'>Car, comme j'ignorais que notre grand monarque</l>
+	<l id='632'>En eût pu rien savoir, ou laisser quelque marque,</l>
+	<l id='633'>Je doutai qu'un secret, n'étant su que de moi,</l>
+	<l id='634'>Sous un tyran si craint pût trouver quelque foi.</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='635'>Comme sa cruauté, pour mieux gêner Maurice,</l>
+	<l id='636'>Le forçait de ses fils à voir le sacrifice,</l>
+	<l id='637'>Ce prince vit l'échange, et l'allait empêcher.</l>
+	<l id='638'>Mais l'acier des bourreaux fut plus prompt à trancher :</l>
+	<l id='639'>La mort de votre fils arrêta cette envie,</l>
+	<l id='640'>Et prévint d'un moment le refus de sa vie.</l>
+	<l id='641'>Maurice, à quelque espoir se laissant lors flatter,</l>
+	<l id='642'>S'en ouvrit à Félix, qui vint le visiter,</l>
+	<l id='643'>Et trouva les moyens de lui donner ce gage</l>
+	<l id='644'>Qui vous en pût un jour rendre un plein témoignage.</l>
+	<l id='645'>Félix est mort, Madame, et naguère en mourant</l>
+	<l id='646'>Il remit ce dépôt à son plus cher parent,</l>
+	<l id='647'>Et, m'ayant tout conté : « Tiens, dit-il, Exupère,</l>
+	<l id='648'>Sers ton prince, et venge ton père. »</l>
+	<l id='649'>Armé d'un tel secret, Seigneur, j'ai voulu voir</l>
+	<l id='650'>Combien parmi le peuple il aurait de pouvoir :</l>
+	<l id='651'>J'ai fait semer ce bruit sans vous faire connaître,</l>
+	<l id='652'>Et, voyant tous les cœurs vous souhaiter pour maître,</l>
+	<l id='653'>J'ai ligué du tyran les secrets ennemis,</l>
+	<l id='654'>Mais sans leur découvrir plus qu'il ne m'est permis.</l>
+	<l id='655'>Ils aiment votre nom, sans savoir davantage,</l>
+	<l id='656'>Et cette seule joie anime leur courage,</l>
+	<l id='657'>Sans qu'autres que les deux qui vous parlaient là-bas</l>
+	<l id='658'>De tout ce qu'elle a fait sachent plus que Phocas.</l>
+	<l id='659'>Vous venez de savoir ce que vous vouliez d'elle ;</l>
+	<l id='660'>C'est à vous de répondre à son généreux zèle.</l>
+	<l id='661'>Le peuple est mutiné, nos amis assemblés,</l>
+	<l id='662'>Le tyran effrayé, ses confidents troublés.</l>
+	<l id='663'>Donnez l'aveu au prince à sa mort qu'on apprête,</l>
+	<l id='664'>Et ne dédaignez pas d'ordonner de sa tête.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='665'>Surpris des nouveautés d'un tel événement,</l>
+	<l id='666'>Je demeure à vos yeux muet d'étonnement.</l>
+	<l id='667'>Je sais ce que je dois, Madame, au grand service</l>
+	<l id='668'>Dont vous avez sauvé l'héritier de Maurice.</l>
+	<l id='669'>Je croyais comme fils devoir tout à vos soins,</l>
+	<l id='670'>Et je vous dois bien plus lorsque je vous suis moins,</l>
+	<l id='671'>Mais, pour vous expliquer toute ma gratitude,</l>
+	<l id='672'>Mon âme a trop de trouble et trop d'inquiétude.</l>
+	<l id='673'>J'aimais, vous le savez, et mon cœur enflammé</l>
+	<l id='674'>Trouve enfin une sœur dedans l'objet aimé.</l>
+	<l id='675'>Je perds une maîtresse en gagnant un empire ;</l>
+	<l id='676'>Mon amour en murmure, et mon cœur en soupire,</l>
+	<l id='677'>Et de mille pensers mon esprit agité</l>
+	<l id='678'>Paraît enseveli dans la stupidité.</l>
+	<l id='679'>Il est temps d'en sortir, l'honneur nous le commande,</l>
+	<l id='680'>Il faut donner un chef à votre illustre bande ;</l>
+	<l id='681'>Allez, brave Exupère, allez, je vous rejoins.</l>
+	<l id='682'>Souffrez que je lui parle un moment sans témoins.</l>
+	<l id='683'>Disposez cependant vos amis à bien faire ;</l>
+	<l id='684'>Surtout sauvons le fils en immolant le père ;</l>
+	<l id='685'>Il n'eut rien du tyran qu'un peu de mauvais sang,</l>
+	<l id='686'>Dont la dernière guerre a trop purgé son flanc.</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='687'>Nous vous rendons, Seigneur, entière obéissance,</l>
+	<l id='688'>Et vous allons attendre avec impatience.</l>
+</sp></div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Martian, Léontine, Eudoxe.</head>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='689'>Madame, pour laisser toute sa dignité</l>
+	<l id='690'>À ce dernier effort de générosité,</l>
+	<l id='691'>Je crois que les raisons que vous m'avez données</l>
+	<l id='692'>M'en ont seules caché le secret tant d'années.</l>
+	<l id='693'>D'autres soupçonneraient qu'un peu d'ambition,</l>
+	<l id='694'>Du prince Martian voyant la passion,</l>
+	<l id='695'>Pour lui voir sur le trône élever votre fille,</l>
+	<l id='696'>Aurait voulu laisser l'empire en sa famille,</l>
+	<l id='697'>Et me faire trouver un tel destin bien doux</l>
+	<l id='698'>Dans l'éternelle erreur d'être sorti de vous,</l>
+	<l id='699'>Mais je tiendrais à crime d'une telle pensée.</l>
+	<l id='700'>Je me plains seulement d'une ardeur insensée,</l>
+	<l id='701'>D'un détestable amour que pour ma propre sœur</l>
+	<l id='702'>Vous-même vous avez allumé dans mon cœur.</l>
+	<l id='703'>Quel dessein faisiez-vous sur cet aveugle inceste ?</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='704'>Je vous aurais tout dit avant ce nœud funeste,</l>
+	<l id='705'>Et je le craignais peu, trop sûre que Phocas,</l>
+	<l id='706'>Ayant d'autres desseins, ne le souffrirait pas.</l>
+	<l id='707'>Je voulais donc, Seigneur, qu'une flamme si belle</l>
+	<l id='708'>Portât votre courage aux vertus dignes d'elle,</l>
+	<l id='709'>Et que, votre valeur l'ayant sur mériter,</l>
+	<l id='710'>Le refus du tyran vous pût mieux irriter.</l>
+	<l id='711'>Vous n'avez pas rendu mon espérance vaine,</l>
+	<l id='712'>J'ai vu dans votre amour une source de haine,</l>
+	<l id='713'>Et j'ose dire encor qu'un bras si renommé</l>
+	<l id='714'>Peut-être aurait moins fait si le cœur n'eût aimé.</l>
+	<l id='715'>Achevez donc, Seigneur ; et puisque Pulchérie</l>
+	<l id='716'>Doit craindre l'attentat d'une aveugle furie...</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='717'>Peut-être il vaudrait mieux moi-même la porter</l>
+	<l id='718'>À ce que le tyran témoigne en souhaiter.</l>
+	<l id='719'>Son amour, qui pour moi résiste à sa colère,</l>
+	<l id='720'>N'y résistera plus quand je serai son frère.</l>
+	<l id='721'>Pourrais-je lui trouver un plus illustre époux ?</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='722'>Seigneur, qu'allez-vous faire ? Et que me dites-vous ?</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='723'>Que peut-être, pour rompre un si digne hyménée,</l>
+	<l id='724'>J'expose à tort sa tête avec ma destinée,</l>
+	<l id='725'>Et fais d'Héraclius un chef de conjurés</l>
+	<l id='726'>Dont je vois les complots encor mal assurés.</l>
+	<l id='727'>Aucun d'eux du tyran n'approche la personne,</l>
+	<l id='728'>Et quand même l'issue en pourrait être bonne,</l>
+	<l id='729'>Peut-être il m'est honteux de reprendre l'Etat</l>
+	<l id='730'>Par l'infâme succès d'un lâche assassinat ;</l>
+	<l id='731'>Peut-être il vaudrait mieux, en tête d'une armée,</l>
+	<l id='732'>Faire parler pour moi toute ma renommée,</l>
+	<l id='733'>Et trouver à l'empire un chemin glorieux</l>
+	<l id='734'>Pour venger mes parents d'un bras victorieux.</l>
+	<l id='735'>C'est dont je vais résoudre avec cette princesse,</l>
+	<l id='736'>Pour qui non plus l'amour, mais le sang m'intéresse.</l>
+	<l id='737' part='i'>Vous, avec votre Eudoxe...</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='737' part='f'>Ah ! Seigneur, écoutez.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='738'>J'ai besoin de conseils dans ces difficultés.</l>
+	<l id='739'>Mais, à parler sans fard, pour écouter les vôtres,</l>
+	<l id='740'>Outre mes intérêts, vous en avez trop d'autres.</l>
+	<l id='741'>Je ne soupçonne point vos vœux ni votre foi,</l>
+	<l id='742'>Mais je ne veux d'avis que d'un cœur tout à moi.</l>
+	<l id='743' part='i'>Adieu.</l>
+</sp></div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Léontine, Eudoxe.</head>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='743' part='f'>Tout me confond, tout me devient contraire.</l>
+	<l id='744'>Je ne fais rien du tout, quand je pense tout faire,</l>
+	<l id='745'>Et, lorsque le hasard me flatte avec excès,</l>
+	<l id='746'>Tout mon dessein avorte au milieu du succès.</l>
+	<l id='747'>Il semble qu'un démon funeste à sa conduite</l>
+	<l id='748'>Des beaux commencements empoisonne la suite.</l>
+	<l id='749'>Ce billet, dont je vois Martian abusé,</l>
+	<l id='750'>Fait plus en ma faveur que je n'aurais osé :</l>
+	<l id='751'>Il arme puissamment le fils contre le père ;</l>
+	<l id='752'>Mais, comme il a levé le bras en qui j'espère,</l>
+	<l id='753'>Sur le point de frapper, je vois avec regret</l>
+	<l id='754'>Que la nature y forme un obstacle secret.</l>
+	<l id='755'>La vérité le trompe, et ne peut le séduire ;</l>
+	<l id='756'>Il sauve, en reculant, ce qu'il croit mieux détruire ;</l>
+	<l id='757'>Il doute, et, du côté que je le vois pencher,</l>
+	<l id='758'>Il va presser l'inceste au lieu de l'empêcher.</l>
+</sp>
+<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+	<l id='759'>Madame, pour le moins vous avez connaissance</l>
+	<l id='760'>De l'auteur de ce bruit, et de mon innocence.</l>
+	<l id='761'>Mais je m'étonne fort de voir à l'abandon</l>
+	<l id='762'>Du prince Héraclius les droits avec le nom.</l>
+	<l id='763'>Ce billet, confirmé par votre témoignage,</l>
+	<l id='764'>Pour monter dans le trône est un grand avantage.</l>
+	<l id='765'>Si Martian le peut sous ce titre occuper,</l>
+	<l id='766'>Pensez-vous qu'il se laisse aisément détromper,</l>
+	<l id='767'>Et qu'au premier moment qu'il vous verra dédire</l>
+	<l id='768'>Aux mains de son vrai maître il remette l'Empire ?</l>
+</sp>
+<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+	<l id='769'>Vous êtes curieuse, et voulez trop savoir.</l>
+	<l id='770'>N'ai-je pas déjà dit que j'y saurai pourvoir ?</l>
+	<l id='771'>Tâchons, sans plus tarder, à revoir Exupère,</l>
+	<l id='772'>Pour prendre en ce désordre un conseil salutaire.</l>
+</sp></div2></div1>
+<div1 type="acte" n="3"><head>ACTE III.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Martian, Pulchérie.</head>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='773'>Je veux bien l'avouer, Madame, car mon cœur</l>
+	<l id='774'>A de la peine encore à vous nommer ma sœur,</l>
+	<l id='775'>Quand, malgré ma fortune à vos pieds abaissée,</l>
+	<l id='776'>J'osais jusques à vous élever ma pensée,</l>
+	<l id='777'>Plus plein d'étonnement que de timidité,</l>
+	<l id='778'>J'interrogeais ce cœur sur sa témérité,</l>
+	<l id='779'>Et dans ses mouvements, pour secrète réponse,</l>
+	<l id='780'>Je sentais quelque chose au-dessus de Léonce,</l>
+	<l id='781'>Dont, malgré ma raison, l'impérieux effort</l>
+	<l id='782'>Emportait mes désirs au-delà de mon sort.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='783'>Moi-même assez souvent j'ai senti dans mon âme</l>
+	<l id='784'>Ma naissance en secret me reprocher ma flamme.</l>
+	<l id='785'>Mais quoi ! L'impératrice, à qui je dois le jour,</l>
+	<l id='786'>Avait innocemment fait naître cet amour :</l>
+	<l id='787'>J'approchais de quinze ans, alors qu'empoisonnée</l>
+	<l id='788'>Pour avoir contredit mon indigne hyménée,</l>
+	<l id='789'>Elle mêla ces mots à ses derniers soupirs :</l>
+	<l id='790'>"Le tyran veut surprendre ou forcer vos désirs,</l>
+	<l id='791'>Ma fille, et sa fureur à son fils vous destine,</l>
+	<l id='792'>Mais prenez un époux des mains de Léontine ;</l>
+	<l id='793'>Elle garde un trésor qui vous sera bien cher."</l>
+	<l id='794'>Cet ordre en sa faveur me sut si bien toucher</l>
+	<l id='795'>Qu'au lieu de la haïr d'avoir livré mon frère,</l>
+	<l id='796'>J'en tins le bruit pour faux, elle me devint chère,</l>
+	<l id='797'>Et confondant ces mots de trésor et d'époux,</l>
+	<l id='798'>Je crus les bien entendre, expliquant tout de vous.</l>
+	<l id='799'>J'opposais de la sorte à ma fière naissance</l>
+	<l id='800'>Les favorables lois de mon obéissance,</l>
+	<l id='801'>Et je m'imputais même à trop de vanité</l>
+	<l id='802'>De trouver entre nous quelque inégalité.</l>
+	<l id='803'>La race de Léonce étant patricienne,</l>
+	<l id='804'>L'éclat de vos vertus l'égalait à la mienne,</l>
+	<l id='805'>Et je me laissais dire en mes douces erreurs :</l>
+	<l id='806'>« C'est de pareils héros qu'on fait les empereurs ;</l>
+	<l id='807'>Tu peux bien sans rougir aimer un grand courage</l>
+	<l id='808'>À qui le monde entier peut rendre un juste hommage. »</l>
+	<l id='809'>J'écoutais sans dédain ce qui m'autorisait :</l>
+	<l id='810'>L'amour pensait le dire, et le sang le disait,</l>
+	<l id='811'>Et de ma passion la flatteuse imposture</l>
+	<l id='812'>S'emparait dans mon cœur des droits de la nature.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='813'>Ah ! Ma sœur, puisque enfin mon destin éclairci</l>
+	<l id='814'>Veut que je m'accoutume à vous nommer ainsi,</l>
+	<l id='815'>Qu'aisément l'amitié jusqu'à l'amour nous mène !</l>
+	<l id='816'>C'est un penchant si doux qu'on y tombe sans peine,</l>
+	<l id='817'>Mais quand il faut changer l'amour en amitié,</l>
+	<l id='818'>Que l'âme qui s'y force est digne de pitié,</l>
+	<l id='819'>Et qu'on doit plaindre un cœur qui, n'osant s'en défendre,</l>
+	<l id='820'>Se laisse déchirer avant que de se rendre !</l>
+	<l id='821'>Ainsi donc la nature à l'espoir le plus doux</l>
+	<l id='822'>Fait succéder l'horreur, et l'horreur d'être à vous !</l>
+	<l id='823'>Ce que je suis m'arrache à ce que j'aimais d'être !</l>
+	<l id='824'>Ah ! S'il m'était permis de ne pas me connaître,</l>
+	<l id='825'>Qu'un si charmant abus serait à préférer</l>
+	<l id='826'>À l'âpre vérité qui vient de m'éclairer !</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='827'>J'eus pour vous trop d'amour pour ignorer ses forces.</l>
+	<l id='828'>Je sais quelle amertume aigrit de tels divorces,</l>
+	<l id='829'>Et la haine à mon gré les fait plus doucement</l>
+	<l id='830'>Que quand il faut aimer, mais aimer autrement.</l>
+	<l id='831'>J'ai senti comme vous une douleur bien vive</l>
+	<l id='832'>En brisant les beaux fers qui me tenaient captive,</l>
+	<l id='833'>Mais j'en condamnerais le plus doux souvenir,</l>
+	<l id='834'>S'il avait à mon cœur coûté plus d'un soupir.</l>
+	<l id='835'>Ce grand coup m'a surprise, et ne m'a point troublée :</l>
+	<l id='836'>Mon âme l'a reçu sans être accablée,</l>
+	<l id='837'>Et comme tous mes feux n'avaient rien que de saint,</l>
+	<l id='838'>L'honneur les alluma, le devoir les éteint ;</l>
+	<l id='839'>Je ne vois plus d'amant où je rencontre un frère ;</l>
+	<l id='840'>L'un ne peut me toucher, ni l'autre me déplaire ;</l>
+	<l id='841'>Et je tiendrai toujours mon bonheur infini,</l>
+	<l id='842'>Si les miens sont vengés, et le tyran puni.</l>
+	<l id='843'>Vous, que va sur le trône élever la naissance,</l>
+	<l id='844'>Régnez sur votre cœur avant que sur Byzance,</l>
+	<l id='845'>Et, domptant comme moi ce dangereux mutin,</l>
+	<l id='846'>Commencez à répondre à ce noble destin.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='847'>Ah ! Vous fûtes toujours l'illustre Pulchérie,</l>
+	<l id='848'>En fille d'empereur dès le berceau nourrie,</l>
+	<l id='849'>Et ce grand nom sans peine a pu vous enseigner</l>
+	<l id='850'>Comment dessus vous-même il vous fallait régner,</l>
+	<l id='851'>Mais pour moi, qui, caché sous une autre aventure,</l>
+	<l id='852'>D'une âme plus commune ai pris quelque teinture,</l>
+	<l id='853'>Il n'est pas merveilleux si ce que je me crus</l>
+	<l id='854'>Mêle un peu de Léonce au cœur d'Héraclius.</l>
+	<l id='855'>À mes confus regrets soyez donc moins sévère :</l>
+	<l id='856'>C'est Léonce qui parle, et non pas votre frère ;</l>
+	<l id='857'>Mais si l'un parle mal, l'autre va bien agir,</l>
+	<l id='858'>Et l'un ni l'autre enfin ne vous fera rougir.</l>
+	<l id='859'>Je vais des conjurés embrasser l'entreprise,</l>
+	<l id='860'>Puisqu'une âme si haute à frapper m'autorise,</l>
+	<l id='861'>Et tiens que, pour répandre un si coupable sang,</l>
+	<l id='862'>L'assassinat est noble et digne de mon rang.</l>
+	<l id='863'>Pourrai-je cependant vous faire une prière ?</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='864'>Prenez sur Pulchérie une puissance entière.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='865'>Puisqu'un amant si cher ne peut plus être à vous,</l>
+	<l id='866'>Ni vous mettre l'empire en la main d'un époux,</l>
+	<l id='867'>Épousez Martian comme un autre moi-même :</l>
+	<l id='868'>Ne pouvant être à moi, soyez à ce que j'aime.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='869'>Ne pouvant être à vous, je pourrais justement</l>
+	<l id='870'>Vouloir n'être à personne, et fuir tout autre amant,</l>
+	<l id='871'>Mais on pourrait nommer cette fermeté d'âme</l>
+	<l id='872'>Un reste mal éteint d'incestueuse flamme.</l>
+	<l id='873'>Afin donc qu'à ce choix j'ose toute accorder,</l>
+	<l id='874'>Soyez mon empereur pour me le commander.</l>
+	<l id='875'>Martian vaut beaucoup, sa personne m'est chère,</l>
+	<l id='876'>Mais purgez sa vertu des crimes de son père,</l>
+	<l id='877'>Et donnez à mes feux pour légitime objet</l>
+	<l id='878'>Dans le fils du tyran votre premier sujet.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='879'>Vous le voyez, j'y cours. Mais enfin s'il arrive</l>
+	<l id='880'>Que l'issue en devienne ou funeste ou tardive,</l>
+	<l id='881'>Votre perte est jurée, et d'ailleurs nos amis</l>
+	<l id='882'>Au tyran immolé voudront joindre ce fils.</l>
+	<l id='883'>Sauvez d'un tel péril et sa vie et la vôtre ;</l>
+	<l id='884'>Par cet heureux hymen conservez l'un et l'autre,</l>
+	<l id='885'>Garantissez ma sœur des fureurs de Phocas,</l>
+	<l id='886'>Et mon ami de suivre un tel père au trépas.</l>
+	<l id='887'>Faites qu'en ce grand jour la troupe d'Exupère</l>
+	<l id='888'>Dans un sang odieux respecte mon beau-frère,</l>
+	<l id='889'>Et donnez au tyran, qui n'en pourra jouir,</l>
+	<l id='890'>Quelques moments de joie afin de l'éblouir.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='891'>Mais durant ces moments, unie à sa famille,</l>
+	<l id='892'>Il deviendra mon père, et je serai sa fille,</l>
+	<l id='893'>Je lui devrai respect, amour, fidélité,</l>
+	<l id='894'>Ma haine n'aura plus d'impétuosité,</l>
+	<l id='895'>Et tous mes vœux pour vous seront mols et timides</l>
+	<l id='896'>Quand mes vœux contre lui seront des parricides.</l>
+	<l id='897'>Outre que le succès est encore à douter,</l>
+	<l id='898'>Que l'on peut vous trahir, qu'il peut vous résister,</l>
+	<l id='899'>Si vous y succombez, pourrai-je me dédire</l>
+	<l id='900'>D'avoir porté chez lui les titres de l'empire ?</l>
+	<l id='901'>Ah ! Combien ces moments, de quoi vous me flattez,</l>
+	<l id='902'>Alors pour mon supplice auraient d'éternités !</l>
+	<l id='903'>Votre haine voit peu l'erreur de sa tendresse :</l>
+	<l id='904'>Comme elle vient de naître, elle n'est que faiblesse ;</l>
+	<l id='905'>La mienne a plus de force, et les yeux mieux ouverts,</l>
+	<l id='906'>Et, se dût avec moi perdre tout l'univers,</l>
+	<l id='907'>Jamais un seul moment, quoi que l'on puisse faire,</l>
+	<l id='908'>Le tyran n'aura droit de me traiter de père.</l>
+	<l id='909'>Je ne refuse au fils ni mon cœur ni ma foi :</l>
+	<l id='910'>Vous l'aimez, je l'estime, il est digne de moi ;</l>
+	<l id='911'>Tout son crime est un père à qui le sang l'attache ;</l>
+	<l id='912'>Quand il n'en aura plus, il n'aura plus de tache,</l>
+	<l id='913'>Et cette mort, propice à former ces beaux nœuds,</l>
+	<l id='914'>Purifiant l'objet, justifiera mes feux.</l>
+	<l id='915'>Allez donc préparer cette heureuse journée,</l>
+	<l id='916'>Et du sang du tyran signez cet hyménée.</l>
+	<l id='917'>Mais quel mauvais démon devers nous le conduit ?</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='918'>Je suis trahi, Madame, Exupère le suit.</l>
+</sp></div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Phocas, Exupère, Amyntas, Martian, Pulchérie, Crispe.</head>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='919'>Quel est votre entretien avec cette princesse ?</l>
+	<l id='920' part='i'>Des noces que je veux ?</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='920' part='f'>C'est de quoi je la presse.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='921'>Et vous l'avez gagnée en faveur de mon fils ?</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='922'>Il sera son époux, elle me l'a promis.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='923'>C'est beaucoup obtenir d'une âme si rebelle.</l>
+	<l id='924' part='i'>Mais quand ?</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='924' part='f'>C'est un secret que je n'ai pas su d'elle.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='925'>Vous pouvez m'en dire un dont je suis plus jaloux.</l>
+	<l id='926'>On dit qu'Héraclius est fort connu de vous ;</l>
+	<l id='927'>Si vous aimez mon fils, faites-le moi connaître.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='928'>Vous le connaissez trop, puisque je vois ce traître.</l>
+</sp>
+<sp who="EXUPÈRE"><speaker>EXUPÈRE.</speaker>
+	<l id='929'>Je sers mon empereur, et je sais mon devoir.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='930'>Chacun te l'avouera ; tu le fais assez voir.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='931'>De grâce, éclaircissez ce que je vous propose.</l>
+	<l id='932'>Ce billet à demi m'en dit bien quelque chose ;</l>
+	<l id='933'>Mais, Léonce, c'est peu si vous ne l'achevez.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='934'>Nommez-moi par mon nom, puisque vous le savez.</l>
+	<l id='935'>Dites Héraclius : il n'est plus de Léonce,</l>
+	<l id='936'>Et j'entends mon arrêt sans qu'on me le prononce.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='937'>Tu peux bien t'y résoudre après ton vain effort</l>
+	<l id='938'>Pour m'arracher le sceptre et conspirer ma mort.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='939'>J'ai fait ce que j'ai dû. Vivre sous ta puissance,</l>
+	<l id='940'>C'eût été démentir mon nom et ma naissance,</l>
+	<l id='941'>Et ne point écouter le sang de mes parents,</l>
+	<l id='942'>Qui ne crie en mon cœur que la mort des tyrans.</l>
+	<l id='943'>Quiconque pour l'empire eut la gloire de naître</l>
+	<l id='944'>Renonce à cet honneur s'il peut souffrir un maître :</l>
+	<l id='945'>Hors le trône ou la mort, il doit tout dédaigner ;</l>
+	<l id='946'>C'est un lâche, s'il n'ose ou se perdre ou régner.</l>
+	<l id='947'>J'entends donc mon arrêt sans qu'on me le prononce.</l>
+	<l id='948'>Héraclius mourra comme a vécu Léonce,</l>
+	<l id='949'>Bon sujet, meilleur prince, et ma vie et ma mort</l>
+	<l id='950'>Rempliront dignement et l'un et l'autre sort.</l>
+	<l id='951'>La mort n'a rien d'affreux pour une âme bien née ;</l>
+	<l id='952'>À mes côtés pour toi je l'ai cent fois traînée,</l>
+	<l id='953'>Et mon dernier exploit contre tes ennemis</l>
+	<l id='954'>Fut d'arrêter son bras qui tombait sur ton fils.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='955'>Tu prends pour me toucher un mauvais artifice ;</l>
+	<l id='956'>Héraclius n'eut point de part à ce service ;</l>
+	<l id='957'>J'en ai payé Léonce, à qui seul était dû</l>
+	<l id='958'>L'inestimable honneur de me l'avoir rendu.</l>
+	<l id='959'>Mais, sous des noms divers à soi-même contraire,</l>
+	<l id='960'>Qui conserva le fils attente sur le père,</l>
+	<l id='961'>Et se désavouant d'un aveugle secours,</l>
+	<l id='962'>Sitôt qu'il se connaît il en veut à mes jours.</l>
+	<l id='963'>Je te devais sa vie, et je me dois justice.</l>
+	<l id='964'>Léonce est effacé par le fils de Maurice.</l>
+	<l id='965'>Contre un tel attentat, rien n'est à balancer,</l>
+	<l id='966'>Et je saurai punir comme récompenser.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+	<l id='967'>Je sais trop qu'un tyran est sans reconnaissance</l>
+	<l id='968'>Pour en avoir conçu la honteuse espérance,</l>
+	<l id='969'>Et suis trop au-dessus de cette indignité</l>
+	<l id='970'>Pour te vouloir piquer de générosité.</l>
+	<l id='971'>Que ferais-tu pour moi de me laisser la vie,</l>
+	<l id='972'>Si pour moi sans le trône elle n'est qu'infâmie ?</l>
+	<l id='973'>Héraclius vivrait pour te faire la cour ?</l>
+	<l id='974'>Rends-lui, rends-lui son sceptre, ou prive-le du jour.</l>
+	<l id='975'>Pour ton propre intérêt sois juge incorruptible :</l>
+	<l id='976'>Ta vie avec la sienne est trop incompatible ;</l>
+	<l id='977'>Un si grand ennemi ne peut être gagné,</l>
+	<l id='978'>Et je te punirais de m'avoir épargné.</l>
+	<l id='979'>Si de ton fils sauvé j'ai rappelé l'image.</l>
+	<l id='980'>J'ai voulu de Léonce étaler le courage,</l>
+	<l id='981'>Afin qu'en le voyant tu ne doutasses plus</l>
+	<l id='982'>Jusques où doit aller celui d'Héraclius.</l>
+	<l id='983'>Je me tiens plus heureux de périr en monarque</l>
+	<l id='984'>Que de vivre en éclat sans en porter la marque,</l>
+	<l id='985'>Et puisque, pour jouir d'un si glorieux sort,</l>
+	<l id='986'>Je n'ai que ce moment qu'on destine à la mort,</l>
+	<l id='987'>Je la rendrai si belle et si digne d'envie</l>
+	<l id='988'>Que ce moment vaudra la plus illustre vie.</l>
+	<l id='989'>M'y faisant donc conduire, assure ton pouvoir</l>
+	<l id='990'>Et délivre mes yeux de l'horreur de te voir.</l>
+</sp>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='991'>Nous verrons la vertu de cette âme hautaine.</l>
+	<l id='992'>Faites-le retirer en la chambre prochaine,</l>
+	<l id='993'>Crispe, et qu'on me l'y garde, attendant que mon choix</l>
+	<l id='994'>Pour punir son forfait vous donne d'autres lois.</l>
+</sp>
+<sp who="MARTIAN"><speaker>MARTIAN, à Pulcherie.</speaker>
+	<l id='995'>Adieu, Madame, adieu, je n'ai pu davantage.</l>
+	<l id='996'>Ma mort vous va laisser encor dans l'esclavage ;</l>
+	<l id='997'>Le ciel par d'autres mains vous en daigne affranchir !</l>
+</sp></div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Phocas, Pulchérie, Exupère, Amyntas.</head>
+<sp who="PHOCAS"><speaker>PHOCAS.</speaker>
+	<l id='998'>Et toi, n'espère pas désormais me fléchir :</l>
+	<l id='999'>Je tiens Héraclius, et n'ai plus rien à craindre,</l>
+	<l id='1000'>Plus lieu de te flatter, plus lieu de me contraindre ;</l>
+	<l id='1001'>Ce frère et ton espoir vont entrer au cercueil,</l>
+	<l id='1002'>Et j'abattrai d'un coup sa tête et ton orgueil.</l>
+	<l id='1003'>Mais ne te contrains point dans ces rudes alarmes :</l>
+	<l id='1004'>Laisse aller tes soupirs, laisse couler tes larmes.</l>
+</sp>
+<sp who="PULCHÉRIE"><speaker>PULCHÉRIE.</speaker>
+	<l id='1005'>Moi, pleurer ! Moi, gémir, tyran ! J'aurais pleuré</l>
+	<l id='1006'>Si quelques lâchetés l'avaient déshonoré,</l>
+	<l id='1007'>S'il n'eût pas emporté sa gloire tout entière,</l>
+	<l id='1008'>S'il m'avait fait rougir par la moindre prière,</l>
+	<l id='1009'>Si quelque infâme espoir qu'on lui dût pardonner</l>
+	<l id='1010'>Eût mérité la mort que tu lui vas donner.</l>
+	<l id='1011'>Sa vertu jusqu'au bout ne s'est point démentie ;</l>
+	<l id='1012'>Il n'a point pris le ciel ni le sort à partie,</l>
+	<l id='1013'>Point querellé le bras qui fait ces lâches coups,</l>
+	<l id='1014'>Point daigné contre lui perdre un juste courroux.</l>
+	<l id='1015'>Sans te nommer ingrat, sans trop le nommer traître,</l>
+	<l id='1016'>De tous deux, de soi-même il s'est montré le maître,</l>
+	<l id='1017'>Et dans cette surprise il a bien su courir</l>
+	<l id='1018'>À la nécessité qu'il voyait de mourir.</l>
+	<l id='1019'>Je goûtais cette joie en un sort si contraire.</l>
+	<l id='1020'>Je l'aimai comme amant, je l'aime comme frère ;</l>
+	<l id='1021'>Et dans ce grand revers je l'ai vu hautement</l>
+	<l id='1022'>Digne d'être mon frère, et d'être mon amant.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1023'>Explique, explique mieux le fond de ta pensée,</l>
+	<l id='1024'>Et, sans plus te parer d'une vertu forcée,</l>
+	<l id='1025'>Pour apaiser le père, offre le cœur au fils,</l>
+	<l id='1026'>Et tâche à racheter ce cher frère à ce prix.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1027'>Crois-tu que sur la foi de tes fausses promesses</l>
+	<l id='1028'>Mon âme ose descendre à de telles bassesses ?</l>
+	<l id='1029'>Prends mon sang pour le sien, mais, s'il y faut mon cœur,</l>
+	<l id='1030'>Périsse Héraclius avec sa triste sœur !</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1031'>Eh bien, il va périr ; ta haine en est complice.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1032'>Et je verrai du ciel bientôt choir ton supplice :</l>
+	<l id='1033'>Dieu, pour le réserver à ses puissantes mains,</l>
+	<l id='1034'>Fait avorter exprès tous les moyens humains ;</l>
+	<l id='1035'>Il veut frapper le coup sans notre ministère ;</l>
+	<l id='1036'>Si l'on t'a bien donné Léonce pour mon frère,</l>
+	<l id='1037'>Les quatre autres peut-être, à tes yeux abusés,</l>
+	<l id='1038'>Ont été comme lui des Césars supposés.</l>
+	<l id='1039'>L'Etat, qui, dans leur mort, voyait trop sa ruine,</l>
+	<l id='1040'>Avait des généreux autres que Léontine ;</l>
+	<l id='1041'>Ils trompaient d'un barbare aisément la fureur,</l>
+	<l id='1042'>Qui n'avait jamais vu la cour ni l'empereur.</l>
+	<l id='1043'>Crains, tyran, crains encor : tous les quatre peut-être</l>
+	<l id='1044'>L'un après l'autre enfin se vont faire paraître,</l>
+	<l id='1045'>Et malgré tous tes soins, malgré tout ton effort,</l>
+	<l id='1046'>Tu ne les connaîtras qu'en recevant la mort.</l>
+	<l id='1047'>Moi-même, à leur défaut, je serai la conquête</l>
+	<l id='1048'>De quiconque à mes pieds apportera ta tête ;</l>
+	<l id='1049'>L'esclave le plus vil qu'on puisse imaginer</l>
+	<l id='1050'>Sera digne de moi, s'il peut t'assassiner.</l>
+	<l id='1051'>Va perdre Héraclius et quitte la pensée</l>
+	<l id='1052'>Que je me pare ici d'une vertu forcée,</l>
+	<l id='1053'>Et, sans m'importuner de répondre à tes vœux,</l>
+	<l id='1054'>Si tu prétends régner, défais-toi de tous deux.</l>
+</sp></div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Phocas, Exupère, Amyntas.</head>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1055'>J'écoute avec plaisir ces menaces frivoles ;</l>
+	<l id='1056'>Je ris d'un désespoir qui n'a que des paroles,</l>
+	<l id='1057'>Et, de quelque façon qu'elle m'ose outrager,</l>
+	<l id='1058'>Le sang d'Héraclius m'en doit assez venger.</l>
+	<l id='1059'>Vous donc, mes vrais amis, qui me tirez de peine,</l>
+	<l id='1060'>Vous, dont je vois l'amour quand j'en craignais la haine,</l>
+	<l id='1061'>Vous, qui m'avez livré mon secret ennemi,</l>
+	<l id='1062'>Ne soyez point vers moi fidèles à demi,</l>
+	<l id='1063'>Résolvez avec moi des moyens de sa perte :</l>
+	<l id='1064'>La ferons-nous secrète ou bien à force ouverte ?</l>
+	<l id='1065'>Prendrons-nous le plus sûr ou le plus glorieux ?</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1066'>Seigneur, n'en doutez point, le plus sûr vaut le mieux,</l>
+	<l id='1067'>Mais le plus sûr pour vous est que sa mort éclate,</l>
+	<l id='1068'>De peur qu'en l'ignorant le peuple ne se flatte,</l>
+	<l id='1069'>N'attende encor ce prince, et n'ai quelque raison</l>
+	<l id='1070'>De courir en aveugle à qui prendra son nom.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1071'>Donc, pour ôter tout doute à cette populace,</l>
+	<l id='1072'>Nous enverrons sa tête au milieu de la place.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1073'>Mais si vous la coupez dedans votre palais,</l>
+	<l id='1074'>Ces obstinés mutins ne le croiront jamais,</l>
+	<l id='1075'>Et, sans que pas un d'eux à son erreur renonce,</l>
+	<l id='1076'>Ils diront qu'on impute un faux nom à Léonce,</l>
+	<l id='1077'>Qu'on en fait un fantôme afin de les tromper,</l>
+	<l id='1078'>Prêts à suivre toujours qui voudra l'usurper.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1079'>Lors nous leur ferons voir ce billet de Maurice.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1080'>Ils le tiendront pour faux, et pour un artifice.</l>
+	<l id='1081'>Seigneur, après vingt ans vous espérez en vain</l>
+	<l id='1082'>Que ce peuple ait des yeux pour connaître sa main.</l>
+	<l id='1083'>Si vous voulez calmer toute cette tempête,</l>
+	<l id='1084'>Il faut en pleine place abattre cette tête,</l>
+	<l id='1085'>Et qu'il dise, en mourant, à ce peuple confus :</l>
+	<l id='1086'>« Peuple, n'en doute point, je suis Héraclius. »</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1087'>Il le faut, je l'avoue  ; et déjà je destine</l>
+	<l id='1088'>À ce même échafaud l'infâme Léontine.</l>
+	<l id='1089'>Mais si ces insolents l'arrachent de nos mains ?</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1090' part='i'>Qui l'osera, Seigneur ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1090' part='f'>Ce peuple que je crains.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1091'>Ah ! Souvenez-vous mieux des désordres qu'enfante</l>
+	<l id='1092'>Dans un peuple sans chef la première épouvante.</l>
+	<l id='1093'>Le seul bruit de ce prince au palais arrêté</l>
+	<l id='1094'>Dispersera soudain chacun de son côté ;</l>
+	<l id='1095'>Les plus audacieux craindront votre justice,</l>
+	<l id='1096'>Et le reste en tremblant ira voir son supplice.</l>
+	<l id='1097'>Mais ne leur donnez pas, tardant trop à punir,</l>
+	<l id='1098'>Le temps de se remettre et de se réunir,</l>
+	<l id='1099'>Envoyez des soldats à chaque coin des rues,</l>
+	<l id='1100'>Saisissez l'Hippodrome avec ses avenues,</l>
+	<l id='1101'>Dans tous les lieux publics rendez-vous le plus fort.</l>
+	<l id='1102'>Pour nous, qu'un tel indice intéresse à sa mort,</l>
+	<l id='1103'>De peur que d'autres mains ne se laissent séduire,</l>
+	<l id='1104'>Jusques à l'échafaud laissez-nous le conduire.</l>
+	<l id='1105'>Nous aurons trop d'amis pour en venir à bout ;</l>
+	<l id='1106'>J'en réponds sur ma tête, et j'aurai l'œil à tout.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1107'>C'en est trop, Exupère. Allez, je m'abandonne</l>
+	<l id='1108'>Aux fidèles conseils que votre ardeur me donne.</l>
+	<l id='1109'>C'est l'unique moyen de dompter nos mutins</l>
+	<l id='1110'>Et d'éteindre à jamais ces troubles intestins.</l>
+	<l id='1111'>Je vais sans différer, pour cette grande affaire,</l>
+	<l id='1112'>Donner à tous mes chefs un ordre nécessaire.</l>
+	<l id='1113'>Vous, pour répondre aux soins que vous m'avez promis,</l>
+	<l id='1114'>Allez de votre part assembler vos amis,</l>
+	<l id='1115'>Et croyez qu'après moi, jusqu'à ce que j'expire,</l>
+	<l id='1116'>Ils seront, eux et vous, les maîtres de l'empire.</l>
+</sp></div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Exupère, Amyntas.</head>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1117'>Nous sommes en faveur, ami, tout est à nous.</l>
+	<l id='1118'>L'heur de notre destin va faire des jaloux.</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1119'>Quelque allégresse ici que vous fassiez paraître,</l>
+	<l id='1120'>Trouvez-vous doux les noms de perfide et de traître ?</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1121'>Je sais qu'aux généreux ils doivent faire horreur ;</l>
+	<l id='1122'>Ils m'ont frappé l'oreille, ils m'ont blessé le cœur,</l>
+	<l id='1123'>Mais bientôt, par l'effet que nous devons attendre,</l>
+	<l id='1124'>Nous serons en état de ne les plus entendre.</l>
+	<l id='1125'>Allons : pour un moment qu'il faut les endurer,</l>
+	<l id='1126'>Ne fuyons pas les biens qu'ils nous font espérer.</l>
+</sp></div2></div1>
+<div1 type="acte" n='4'><head>ACTE IV.</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Héraclius, Eudoxe.</head>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1127'>Vous avez grand sujet d'appréhender pour elle :</l>
+	<l id='1128'>Phocas au dernier point la tiendra criminelle,</l>
+	<l id='1129'>Et je le connais mal, ou, s'il la peut trouver,</l>
+	<l id='1130'>Il n'est moyen humain qui puisse la sauver.</l>
+	<l id='1131'>Je vous plains, chère Eudoxe, et non pas votre mère :</l>
+	<l id='1132'>Elle a bien mérité ce qu'a fait Exupère ;</l>
+	<l id='1133'>Il trahit justement qui voulait me trahir.</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE.</speaker>
+	<l id='1134'>Vous croyez qu'à ce point elle ait pu vous haïr,</l>
+	<l id='1135'>Vous pour qui son amour a forcé la nature ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1136'>Comment voulez-vous donc nommer son imposture ?</l>
+	<l id='1137'>M'empêcher d'entreprendre et, par un faux rapport,</l>
+	<l id='1138'>Confondre en Martian et mon nom et mon sort,</l>
+	<l id='1139'>Abuser d'un billet que le hasard lui donne,</l>
+	<l id='1140'>Attacher de sa main mes droits à sa personne,</l>
+	<l id='1141'>Et le mettre en état, dessous sa bonne foi,</l>
+	<l id='1142'>De régner en ma place, ou de périr pour moi,</l>
+	<l id='1143'>Madame, est-ce en effet me rendre un grand service ?</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE.</speaker>
+	<l id='1144'>Eût-elle démenti ce billet de Maurice ?</l>
+	<l id='1145'>Et l'eût-elle pu faire, à moins que révéler</l>
+	<l id='1146'>Ce que surtout alors il lui fallait celer ?</l>
+	<l id='1147'>Quand Martian par là n'eût pas connu son père,</l>
+	<l id='1148'>C'était vous hasarder sur la foi d'Exupère.</l>
+	<l id='1149'>Elle en doutait, Seigneur, et, par l'événement,</l>
+	<l id='1150'>Vous voyez que son zèle en doutait justement.</l>
+	<l id='1151'>Sûre en soi des moyens de vous rendre l'empire,</l>
+	<l id='1152'>Qu'à vous-même jamais elle n'a voulu dire,</l>
+	<l id='1153'>Elle a sur Martian tourné le coup fatal</l>
+	<l id='1154'>De l'épreuve d'un cœur qu'elle connaissait mal.</l>
+	<l id='1155'>Seigneur, où seriez-vous sans ce nouveau service ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1156'>Qu'importe qui des deux on destine au supplice ?</l>
+	<l id='1157'>Qu'importe, Martian, vu ce que je te dois,</l>
+	<l id='1158'>Qui trahisse mon sort, d'Exupère ou de moi ?</l>
+	<l id='1159'>Si l'on ne me découvre, il faut que je m'expose ;</l>
+	<l id='1160'>Et l'un et l'autre enfin ne sont que même chose,</l>
+	<l id='1161'>Sinon qu'étant trahi je mourrais malheureux,</l>
+	<l id='1162'>Et que, m'offrant pour toi, je mourrai généreux.</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE.</speaker>
+	<l id='1163'>Quoi ! pour désabuser une aveugle furie,</l>
+	<l id='1164'>Rompre votre destin, et donner votre vie !</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1165'>Vous êtes plus aveugle encore en votre amour.</l>
+	<l id='1166'>Périra-t-il pour moi quand je lui dois le jour ?</l>
+	<l id='1167'>Et lorsque sous mon nom il se livre à sa perte,</l>
+	<l id='1168'>Tiendrai-je sous le sien ma fortune couverte ?</l>
+	<l id='1169'>S'il s'agissait ici de le faire empereur,</l>
+	<l id='1170'>Je pourrais lui laisser mon nom et son erreur ;</l>
+<note type="L">Conniver : Négliger de punir les fautes de ceux sur qui nous avons l'inspection, l'autorité ; ou le souffrir, et ne faire pas semblant de les voir [F]</note>
+	<l id='1171'>Mais conniver en lâche à ce nom qu'on me vole,</l>
+	<l id='1172'>Quand son père à mes yeux au lieu de moi l'immole !</l>
+	<l id='1173'>Souffrir qu'il se trahisse aux rigueurs de mon sort !</l>
+	<l id='1174'>Vivre par son supplice, et régner par sa mort !</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE.</speaker>
+	<l id='1175'>Ah ! ce n'est pas, Seigneur, ce que je vous demande :</l>
+	<l id='1176'>De cette lâcheté l'infamie est trop grande.</l>
+	<l id='1177'>Montrez-vous pour sauver ce héros du trépas,</l>
+	<l id='1178'>Mais montrez-vous en maître, et ne vous perdez pas ;</l>
+	<l id='1179'>Rallumez cette ardeur où s'opposait ma mère,</l>
+	<l id='1180'>Garantissez le fils par la perte du père ;</l>
+	<l id='1181'>Et, prenant à l'empire un chemin éclatant,</l>
+	<l id='1182'>Montrez Héraclius au peuple qui l'attend.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1183'>Il n'est plus temps, Madame, un autre a pris ma place.</l>
+	<l id='1184'>Sa prison a rendu le peuple tout de glace.</l>
+	<l id='1185'>Déjà préoccupé d'un autre Héraclius,</l>
+	<l id='1186'>Dans l'effroi qui le trouble il ne me croira plus,</l>
+	<l id='1187'>Et ne me regardant que comme un fils perfide,</l>
+	<l id='1188'>Il aura de l'horreur de suivre un parricide.</l>
+	<l id='1189'>Mais quand même il voudrait seconder mes desseins,</l>
+	<l id='1190'>Le tyran tient déjà Martian en ses mains :</l>
+	<l id='1191'>S'il voit qu'en sa faveur je marche à force ouverte,</l>
+	<l id='1192'>Piqué de ma révolte, il hâtera sa perte,</l>
+	<l id='1193'>Et croira qu'en m'ôtant l'espoir de le sauver</l>
+	<l id='1194'>Il m'ôtera l'ardeur qui me fait soulever.</l>
+	<l id='1195'>N'en parlons plus. En vain votre amour me retarde :</l>
+	<l id='1196'>Le sort d'Héraclius tout entier me regarde ;</l>
+	<l id='1197'>Soit qu'il faille régner, soit qu'il faille périr,</l>
+	<l id='1198'>Au tombeau comme au trône on me verra courir.</l>
+	<l id='1199'>Mais voici le tyran, et son traître Exupère.</l>
+</sp></div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Phocas, Héraclius, Exupère, Eudoxe, Troupe de gardes.</head>
+<sp who='PHOCAS'><speaker>PHOCAS, montrant Eudoxe à ses gardes.</speaker>
+	<l id='1200'>Qu'on la tienne en lieu sûr en attendant sa mère.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1201' part='i'>A-t-elle quelque part... ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1201' part='f'>Nous verrons à loisir ;</l>
+	<l id='1202'>Il est bon cependant de la faire saisir.</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE, s'en allant.</speaker>
+	<l id='1203'>Seigneur, ne croyez rien de ce qu'il vous va dire.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS, à Eudoxe.</speaker>
+	<l id='1204'>Je croirai ce qu'il faut pour le bien de l'empire.</l>
+<stage>À Héraclius.</stage>
+	<l id='1205'>Ses pleurs pour ce coupable imploraient ta pitié ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1206' part='i'>Seigneur...</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1206' part='f'>Je sais pour lui quelle est ton amitié,</l>
+	<l id='1207'>Mais je veux que toi-même, ayant bien vu son crime,</l>
+	<l id='1208'>Tiennes ton zèle injuste, et sa mort légitime.</l>
+	<l id='1209'>Qu'on le fasse venir. Pour en tirer l'aveu,</l>
+	<l id='1210'>Il ne sera besoin ni du fer ni du feu :</l>
+	<l id='1211'>Loin de s'en repentir, l'orgueilleux en fait gloire.</l>
+	<l id='1212'>Mais que me diras-tu qu'il ne me faut pas croire ?</l>
+	<l id='1213'>Eudoxe m'en conjure, et l'avis me surprend.</l>
+	<l id='1214'>Aurais-tu découvert quelque crime plus grand ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1215'>Oui, sa mère a plus fait contre votre service</l>
+	<l id='1216'>Que ne sait Exupère, et que n'a vu Maurice.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1217'>La perfide ! Ce jour lui sera le dernier.</l>
+	<l id='1218' part='i'>Parle.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1218' part='f'>J'achèverai devant le prisonnier.</l>
+	<l id='1219'>Trouvez bon qu'un secret d'une telle importance,</l>
+	<l id='1220'>Puisque vous le mandez, s'explique en sa présence.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1221'>Le voici. Mais surtout ne me dis rien pour lui.</l>
+</sp></div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Phocas, Héraclius, Martian, Exupère, Troupe de gardes.</head>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1222'>Je sais qu'en ma prière il aurait peu d'appui,</l>
+	<l id='1223'>Et, loin de me donner une inutile peine,</l>
+	<l id='1224'>Tout ce que je demande à votre juste haine,</l>
+	<l id='1225'>C'est que de tels forfaits ne soient pas impunis :</l>
+	<l id='1226'>Perdez Héraclius, et sauvez votre fils.</l>
+	<l id='1227'>Voilà tout mon souhait et toute ma prière.</l>
+	<l id='1228' part='i'>M'en refuserez-vous ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1228' part='f'>Tu l'obtiendras entière ;</l>
+	<l id='1229'>Ton salut en effet est douteux sans sa mort.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1230'>Ah, Prince ! J'y courais sans me plaindre du sort.</l>
+	<l id='1231'>Son indigne rigueur n'est pas ce qui me touche ;</l>
+	<l id='1232'>Mais en ouïr l'arrêt sortir de votre bouche !</l>
+	<l id='1233'>Je vous ai mal connu jusques à mon trépas.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1234'>Et même en ce moment tu ne me connais pas.</l>
+	<l id='1235'>Écoute, père aveugle, et toi, prince crédule,</l>
+	<l id='1236'>Ce que l'honneur défend que plus je dissimule.</l>
+	<l id='1237'>Phocas, connais ton sang et tes vrais ennemis :</l>
+	<l id='1238'>Je suis Héraclius, et Léonce est ton fils.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1239' part='i'>Seigneur, que dites-vous ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1239' part='f'>Que je ne puis plus taire</l>
+	<l id='1240'>Que deux fois Léontine osa tromper ton père,</l>
+	<l id='1241'>Et semant de nos noms un insensible abus,</l>
+	<l id='1242'>Fit un faux Martian du jeune Héraclius.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1243'>Maurice te dément, lâche ! Tu n'as qu'à lire :</l>
+	<l id='1244'>« Sous le nom de Léonce Héraclius respire » ;</l>
+	<l id='1245'>Tu fais après cela des contes superflus.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1246'>Si ce billet fut vrai, Seigneur, il ne l'est plus :</l>
+	<l id='1247'>J'étais Léonce alors, et j'ai cessé de l'être</l>
+	<l id='1248'>Quand Maurice immolé n'en a pu rien connaître.</l>
+	<l id='1249'>S'il laissa par écrit ce qu'il avait pu voir,</l>
+	<l id='1250'>Ce qui suivit sa mort fut hors de son pouvoir.</l>
+	<l id='1251'>Vous portâtes soudain la guerre dans la Perse,</l>
+	<l id='1252'>Où vous eûtes trois ans la fortune diverse ;</l>
+	<l id='1253'>Cependant Léontine, étant dans le château</l>
+	<l id='1254'>Reine de nos destins et de notre berceau,</l>
+	<l id='1255'>Pour me rendre le rang qu'occupait votre race,</l>
+	<l id='1256'>Prit Martian pour elle, et me mit en sa place ;</l>
+	<l id='1257'>Ce zèle en ma faveur lui succéda si bien,</l>
+	<l id='1258'>Que vous-même au retour vous n'en connûtes rien,</l>
+	<l id='1259'>Et ces informes traits qu'à six mois a l'enfance</l>
+	<l id='1260'>Ayant mis entre nous fort peu de différence,</l>
+	<l id='1261'>Le faible souvenir en trois ans s'en perdit.</l>
+	<l id='1262'>Vous prîtes aisément ce qu'elle vous rendit ;</l>
+	<l id='1263'>Vous vécûmes tous deux sous le nom l'un de l'autre,</l>
+	<l id='1264'>Il passa pour son fils, je passai pour le vôtre,</l>
+	<l id='1265'>Et je ne jugeais pas ce chemin criminel</l>
+	<l id='1266'>Pour remonter sans meurtre au trône paternel.</l>
+	<l id='1267'>Mais voyant cette erreur fatale à cette vie</l>
+	<l id='1268'>Sans qui déjà la mienne aurait été ravie,</l>
+	<l id='1269'>Je me croirais, Seigneur, coupable infiniment,</l>
+	<l id='1270'>Si je souffrais encore un tel aveuglement :</l>
+	<l id='1271'>Je viens reprendre un nom qui seul a fait son crime ;</l>
+	<l id='1272'>Conservez votre haine, et changez de victime.</l>
+	<l id='1273'>Je ne demande rien que ce qui m'est promis :</l>
+	<l id='1274'>Perdez Héraclius, et sauvez votre fils.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1275'>Admire de quel fils le ciel t'a fait le père,</l>
+	<l id='1276'>Admire quel effort sa vertu vient de faire,</l>
+	<l id='1277'>Tyran, et ne prends pas pour une vérité</l>
+	<l id='1278'>Ce qu'invente pour moi sa générosité.</l>
+<stage>À Héraclius.</stage>
+	<l id='1279'>C'est trop, Prince, c'est trop pour ce petit service</l>
+	<l id='1280'>Dont honora mon bras ma fortune propice :</l>
+	<l id='1281'>Je vous sauvai la vie, et ne la perdis pas,</l>
+	<l id='1282'>Et pour moi vous cherchez un assuré trépas !</l>
+	<l id='1283'>Ah ! Si vous m'en devez quelque reconnaissance,</l>
+	<l id='1284'>Prince, ne m'ôtez pas l'honneur de ma naissance ;</l>
+	<l id='1285'>Avoir tant de pitié d'un sort si glorieux,</l>
+	<l id='1286'>De crainte d'être ingrat, c'est m'être injurieux.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1287'>En quelque trouble me jette une telle dispute !</l>
+	<l id='1288'>À quels nouveaux malheurs m'expose-t-elle en butte !</l>
+	<l id='1289'>Lequel croire, Exupère, et lequel démentir ?</l>
+	<l id='1290'>Tombé-je dans l'erreur, ou si j'en vais sortir ?</l>
+	<l id='1291'>Si ce billet est vrai, le reste est vraisemblable.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1292'>Mais qui sait si ce reste est faux ou véritable ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1293'>Léontine deux fois a pu tromper Phocas.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1294'>Elle a pu les changer, et ne les changer pas.</l>
+	<l id='1295'>Et plus que vous, Seigneur, dedans l'inquiétude,</l>
+	<l id='1296'>Je ne vois que du trouble et de l'incertitude.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1297'>Ce n'est pas d'aujourd'hui que je sais qui je suis ;</l>
+	<l id='1298'>Vous voyez quels effets en ont été produits :</l>
+	<l id='1299'>Depuis plus de quatre ans vous voyez quelle adresse</l>
+	<l id='1300'>J'apporte à rejeter l'hymen de la princesse,</l>
+	<l id='1301'>Où sans doute aisément mon cœur eût consenti</l>
+	<l id='1302'>Si Léontine alors ne m'en eût averti.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1303' part='i'>Léontine ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1303' part='m'>Elle-même.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1303' part='f'>Ah ! Ciel ! Quelle est sa ruse !</l>
+	<l id='1304'>Martian aime Eudoxe, et sa mère l'abuse</l>
+	<l id='1305'>Par l'horreur d'un hymen qu'il croit incestueux.</l>
+	<l id='1306'>De ce prince à sa fille elle assure les vœux,</l>
+	<l id='1307'>Et son ambition, adroite à le séduire,</l>
+	<l id='1308'>Le plonge en une erreur dont elle attend l'empire.</l>
+	<l id='1309'>Ce n'est que d'aujourd'hui que je sais qui je suis,</l>
+	<l id='1310'>Mais de mon ignorance elle espérait ces fruits,</l>
+	<l id='1311'>Et me tiendrait encor la vérité cachée,</l>
+	<l id='1312'>Si tantôt ce billet ne l'en eût arrachée.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1313'>La méchante l'abuse aussi bien que Phocas.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1314'>Elle a pu l'abuser, et ne l'abuser pas.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1315'>Tu vois comme la fille a part au stratagème.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1316'>Et que la mère a pu l'abuser elle-même.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1317'>Que de pensers divers ! Que de soucis flottants !</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1318'>Je vous en tirerai, Seigneur, dans peu de temps.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1319'>Dis-moi, tout est-il prêt pour ce juste supplice ?</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1320'>Oui, si nous connaissions le vrai fils de Maurice.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1321'>Pouvez-vous en douter après ce que j'ai dit ?</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1322'>Donnez-vous à l'erreur encor quelque crédit ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1323'>Ami, rends-moi mon nom : la faveur n'est pas grande ;</l>
+	<l id='1324'>Ce n'est que pour mourir que je te le demande.</l>
+	<l id='1325'>Reprends ce triste jour que tu m'as racheté,</l>
+	<l id='1326'>Ou rends-moi cet honneur que tu m'as presque ôté.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1327'>Pourquoi, de mon tyran volontaire victime,</l>
+	<l id='1328'>Précipiter vos jours pour me noircir d'un crime ?</l>
+	<l id='1329'>Prince, qui que je sois, j'ai conspiré sa mort,</l>
+	<l id='1330'>Et nos noms au dessein donnent un divers sort ;</l>
+	<l id='1331'>Dedans Héraclius il a gloire solide,</l>
+	<l id='1332'>Et dedans Martian il devient parricide.</l>
+	<l id='1333'>Puisqu'il faut que je meure illustre, ou criminel,</l>
+	<l id='1334'>Couvert ou de louange, ou d'opprobre éternel,</l>
+	<l id='1335'>Ne souillez point ma mort, et ne veuillez pas faire</l>
+	<l id='1336'>Du vengeur de l'empire un assassin d'un père.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1337'>Mon nom seul est coupable, et, sans plus disputer,</l>
+	<l id='1338'>Pour te faire innocent tu n'as qu'à le quitter ;</l>
+	<l id='1339'>Il conspira lui seul, tu n'en es point complice.</l>
+	<l id='1340'>Ce n'est qu'Héraclius qu'on envoie au supplice.</l>
+	<l id='1341' part='i'>Sois son fils, tu vivras.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1341' part='f'>Si je l'avais été,</l>
+	<l id='1342'>Seigneur, ce traître en vain m'aurait sollicité,</l>
+	<l id='1343'>Et, lorsque contre vous il m'a fait entreprendre,</l>
+	<l id='1344'>La nature en secret aurait su m'en défendre.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1345'>Apprends donc qu'en secret mon cœur t'a prévenu.</l>
+	<l id='1346'>J'ai voulu conspirer, mais on m'a retenu ;</l>
+	<l id='1347'>Et dedans mon péril Léontine timide...</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1348'>N'a pu voir Martian commettre un parricide.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1349'>Toi que de Pulchérie elle a fait amoureux,</l>
+	<l id='1350'>Juge sous les deux noms ton dessein et tes feux.</l>
+	<l id='1351'>Elle a rendu pour toi l'un et l'autre funeste,</l>
+	<l id='1352'>Martian parricide, Héraclius inceste,</l>
+	<l id='1353'>Et n'eût pas eu pour moi d'horreur d'un grand forfait,</l>
+	<l id='1354'>Puisque dans ta personne elle en pressait l'effet.</l>
+	<l id='1355'>Mais elle m'empêchait de hasarder ma tête,</l>
+	<l id='1356'>Espérant par ton bras me livrer ma conquête.</l>
+	<l id='1357'>Ce favorable aveu, dont elle t'a séduit,</l>
+	<l id='1358'>T'exposait aux périls pour m'en donner le fruit,</l>
+	<l id='1359'>Et c'était ton succès qu'attendait sa prudence,</l>
+	<l id='1360'>Pour découvrir au peuple ou cacher ma naissance.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1361'>Hélas ! Je ne puis voir qui des deux est mon fils,</l>
+	<l id='1362'>Et je vois que tous deux ils sont mes ennemis.</l>
+	<l id='1363'>En ce piteux état, quel conseil dois-je suivre ?</l>
+	<l id='1364'>J'ai craint un ennemi, mon bonheur me le livre ;</l>
+	<l id='1365'>Je sais que de mes mains il ne se peut sauver,</l>
+	<l id='1366'>Je sais que je le vois, et ne puis le trouver.</l>
+	<l id='1367'>La nature tremblante, incertaine, étonnée,</l>
+	<l id='1368'>D'un nuage confus couvre sa destinée.</l>
+	<l id='1369'>L'assassin sous cette ombre échappe à ma rigueur,</l>
+	<l id='1370'>Et, présent à mes yeux, il se cache en mon cœur.</l>
+	<l id='1371'>Martian ! À ce nom aucun ne veut répondre,</l>
+	<l id='1372'>Et l'amour paternel ne sert qu'à me confondre.</l>
+	<l id='1373'>Trop d'un Héraclius en mes mains est remis ;</l>
+	<l id='1374'>Je tiens mon ennemi, mais je n'ai plus de fils.</l>
+	<l id='1375'>Que veux-tu donc, nature, et que prétends-tu faire ?</l>
+	<l id='1376'>Si je n'ai plus de fils, puis-je encore être père ?</l>
+	<l id='1377'>De quoi parle à mon cœur ton murmure imparfait ?</l>
+	<l id='1378'>Ne me dis rien du tout, ou parle tout à fait.</l>
+	<l id='1379'>Qui que ce soit des deux que mon sang ait fait naître,</l>
+	<l id='1380'>Ou laisse-moi le perdre, ou fais-le-moi connaître.</l>
+	<l id='1381'>Ô toi, qui que tu sois, enfant dénaturé,</l>
+	<l id='1382'>Et trop digne du sort que tu t'es procuré,</l>
+	<l id='1383'>Mon trône est-il pour toi plus honteux qu'un supplice ?</l>
+	<l id='1384'>Ô malheureux Phocas ! Ô trop heureux Maurice !</l>
+	<l id='1385'>Tu recouvres deux fils pour mourir après toi,</l>
+	<l id='1386'>Et je n'en puis trouver pour régner après moi !</l>
+	<l id='1387'>Qu'aux honneurs de ta mort je dois porter envie,</l>
+	<l id='1388'>Puisque mon propre fils les préfère à sa vie !</l>
+</sp></div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Phocas, Héraclius, Martian, Crispe, Exupère, Léontine.</head>
+<sp who='CRISPE'><speaker>CRISPE, Phocas.</speaker>
+	<l id='1389'>Seigneur, ma diligence enfin a réussi :</l>
+	<l id='1390'>J'ai trouvé Léontine et je l'amène ici.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS, à Léontine.</speaker>
+	<l id='1391' part='i'>Approche malheureuse.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Léontine.</speaker>
+	<l id='1391' part='f'>Avouez tout, Madame.</l>
+	<l id='1392' part='i'>J'ai tout dit.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE, à Héraclius.</speaker>
+	<l id='1392' part='m'>Quoi, Seigneur ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1392' part='f'>Tu l'ignores, infâme !</l>
+	<l id='1393' part='i'>Qui des deux est mon fils ?</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1393' part='f'>Qui vous en fait douter ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Léontine.</speaker>
+	<l id='1394'>Le nom d'Héraclius que son fils veut porter :</l>
+	<l id='1395'>Il en croit ce billet et votre témoignage.</l>
+	<l id='1396'>Mais ne le laissez pas dans l'erreur davantage.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1397'>N'attends pas les tourments, ne me déguise rien.</l>
+	<l id='1398'>M'as-tu livré ton fils ? As-tu changé le mien ?</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1399'>Je t'ai livré mon fils, et j'en aime la gloire.</l>
+	<l id='1400'>Si je parle du reste, oseras-tu m'en croire ?</l>
+	<l id='1401'>Et qui t'assurera que pour Héraclius,</l>
+	<l id='1402'>Moi qui t'ai tant trompé, je ne te trompe plus ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1403'>N'importe. Fais-nous voir quelle haute prudence</l>
+	<l id='1404'>En des temps si divers leur en fait confidence,</l>
+	<l id='1405'>À l'un depuis quatre ans, à l'autre d'aujourd'hui.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1406'>Le secret n'en est su ni de lui, ni de lui.</l>
+	<l id='1407'>Tu n'en sauras non plus les véritables causes ;</l>
+	<l id='1408'>Devine, si tu peux, et choisis, si tu l'oses.</l>
+	<l id='1409'>L'un des deux est ton fils, l'autre est ton empereur.</l>
+	<l id='1410'>Tremble dans ton amour, tremble dans ta fureur.</l>
+	<l id='1411'>Je te veux toujours voir, quoi que ta rage fasse,</l>
+	<l id='1412'>Craindre ton ennemi dedans ta propre race,</l>
+	<l id='1413'>Toujours aimer ton fils dedans ton ennemi,</l>
+	<l id='1414'>Sans être ni tyran, ni père qu'à demi.</l>
+	<l id='1415'>Tandis qu'autour des deux tu perdras ton étude,</l>
+	<l id='1416'>Mon âme jouira de ton inquiétude,</l>
+	<l id='1417'>Je rirai de ta peine, ou, si tu m'en punis,</l>
+	<l id='1418'>Tu perdras avec moi le secret de ton fils.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1419'>Et si je les punis tous deux sans les connaître,</l>
+	<l id='1420'>L'un comme Héraclius, l'autre pour vouloir l'être ?</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1421'>Je m'en consolerai quand je verrai Phocas</l>
+	<l id='1422'>Croire affermir son sceptre en se coupant le bras</l>
+	<l id='1423'>Et de la même main son ordre tyrannique</l>
+	<l id='1424'>Venger Héraclius dessus son fils unique.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1425'>Quelle reconnaissance, ingrate, tu me rends</l>
+	<l id='1426'>Des bienfaits répandus sur toi, sur tes parents,</l>
+	<l id='1427'>De t'avoir confié ce fils que tu me caches,</l>
+	<l id='1428'>D'avoir mis en tes mains ce cœur que tu m'arraches,</l>
+	<l id='1429'>D'avoir mis à tes pieds ma cour qui t'adorait !</l>
+	<l id='1430' part='i'>Rends-moi mon fils ingrate.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1430' part='f'>Il m'en désavouerait,</l>
+	<l id='1431'>Et ce fils, quel qu'il soit, que tu ne peux connaître,</l>
+	<l id='1432'>A le cœur assez bon pour ne vouloir pas l'être.</l>
+	<l id='1433'>Admire sa vertu qui trouble ton repos.</l>
+	<l id='1434'>C'est du fils du tyran que j'ai fait ce héros,</l>
+	<l id='1435'>Tant ce qu'il a reçu d'heureuse nourriture,</l>
+	<l id='1436'>Dompte ce mauvais sang qu'il eut de la nature !</l>
+	<l id='1437'>C'est assez dignement répondre à tes bienfaits</l>
+	<l id='1438'>Que d'avoir dégagé ton fils de tes forfaits.</l>
+	<l id='1439'>Séduit par ton exemple et par sa complaisance,</l>
+	<l id='1440'>Il t'aurait ressemblé, s'il eût su sa naissance,</l>
+	<l id='1441'>Il serait lâche, impie, inhumain comme toi</l>
+	<l id='1442'>Et tu me dois ainsi plus que je ne te dois.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1443'>L'impudence et l'orgueil suivent les impostures.</l>
+	<l id='1444'>Ne vous exposez plus à ce torrent d'injures,</l>
+	<l id='1445'>Qui, ne faisant qu'aigrir votre ressentiment,</l>
+	<l id='1446'>Vous donne peu de jour pour ce discernement.</l>
+	<l id='1447'>Laissez-la-moi, Seigneur, quelques moments en garde.</l>
+	<l id='1448'>Puisque j'ai commencé, le reste me regarde ;</l>
+	<l id='1449'>Malgré l'obscurité de son illusion,</l>
+	<l id='1450'>J'espère démêler cette confusion.</l>
+	<l id='1451'>Vous savez à quel point l'affaire m'intéresse.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1452'>Achève, si tu peux, par force ou par adresse,</l>
+	<l id='1453'>Exupère, et sois sûr que je te devrai tout,</l>
+	<l id='1454'>Si l'ardeur de ton zèle en peut venir à bout.</l>
+	<l id='1455'>Je saurai cependant prendre à part l'un et l'autre,</l>
+	<l id='1456'>Et peut-être qu'enfin nous trouverons le nôtre.</l>
+	<l id='1457'>Agis de ton côté, je la laisse avec toi ;</l>
+	<l id='1458'>Gêne, flatte, surprends. Vous autres, suivez-moi.</l>
+</sp></div2>
+<div2 type ='scene' n='5'><head>SCÈNE V. Exupère, Léontine.</head>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1459'>On ne peut nous entendre. Il est juste, Madame,</l>
+	<l id='1460'>Que je vous ouvre enfin jusqu'au fond de mon âme :</l>
+	<l id='1461'>C'est passer trop longtemps pour traître auprès de vous.</l>
+	<l id='1462'>Vous haïssez Phocas, nous le haïssons tous...</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1463'>Oui, c'est bien lui montrer ta haine et ta colère,</l>
+	<l id='1464'>Que lui vendre ton prince et le sang de ton père.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1465'>L'apparence vous trompe, et je suis en effet...</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1466'>L'homme le plus méchant que la nature ait fait.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1467'>Ce qui passe à vos yeux pour une perfidie...</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1468'>Cache une intention fort noble et fort hardie !</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1469'>Pouvez-vous en juger, puisque vous l'ignorez ?</l>
+	<l id='1470'>Considérez l'état de tous nos conjurés :</l>
+	<l id='1471'>Il n'est aucun de nous à qui sa violence</l>
+	<l id='1472'>N'ait donné trop de lieu d'une juste vengeance,</l>
+	<l id='1473'>Et nous en croyant tous dans notre âme indignés,</l>
+	<l id='1474'>Le tyran du palais nous a éloignés.</l>
+	<l id='1475'>Il y fallait rentrer par quelque grand service.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1476'>Et tu crois m'éblouir avec cet artifice ?</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1477'>Madame, apprenez tout. Je n'ai rien hasardé.</l>
+	<l id='1478'>Vous savez de quel nombre il est toujours gardé ;</l>
+	<l id='1479'>Pouvions-nous le surprendre, ou forcer les cohortes</l>
+	<l id='1480'>Qui de jour et de nuit tiennent toutes ses portes ?</l>
+	<l id='1481'>Pouvions-nous mieux sans bruit nous approcher de lui ?</l>
+	<l id='1482'>Vous voyez la posture où j'y suis aujourd'hui :</l>
+	<l id='1483'>Il me parle, il m'écoute, il me croit, et lui-même</l>
+	<l id='1484'>Se livre entre mes mains, aide à mon stratagème.</l>
+	<l id='1485'>C'est par mes seuls conseils qu'il veut publiquement</l>
+	<l id='1486'>Du prince Héraclius faire le châtiment,</l>
+	<l id='1487'>Que sa milice, éparse à chaque coin des rues,</l>
+	<l id='1488'>A laissé du palais les portes presque nues ;</l>
+	<l id='1489'>Je puis en un moment m'y rendre le plus fort ;</l>
+	<l id='1490'>Mes amis sont tout prêts ; c'en est fait, il est mort,</l>
+	<l id='1491'>Et j'userai si bien de l'accès qu'il me donne</l>
+	<l id='1492'>Qu'aux pieds d'Héraclius je mettrai sa couronne.</l>
+	<l id='1493'>Mais après mes desseins pleinement découverts,</l>
+	<l id='1494'>De grâce, faites-moi connaître qui je sers,</l>
+	<l id='1495'>Et ne le cachez plus à ce cœur qui n'aspire</l>
+	<l id='1496'>Qu'à le rendre aujourd'hui maître de tout l'empire.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1497'>Esprit lâche et grossier, quelle brutalité</l>
+	<l id='1498'>Te fait juger en moi tant de crédulité ?</l>
+	<l id='1499'>Va, d'un piège si lourd l'appât est inutile,</l>
+	<l id='1500'>Traître, et si tu n'as point de ruse plus subtile...</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1501'>Je vous dis vrai, Madame, et vous dirai de plus...</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1502'>Ne me fais point ici de contes superflus ;</l>
+	<l id='1503'>L'effet à tes discours ôte toute croyance.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE.</speaker>
+	<l id='1504'>Eh bien ! Demeurez donc dans votre défiance :</l>
+	<l id='1505'>Je ne demande plus, et ne vous dis plus rien ;</l>
+	<l id='1506'>Gardez votre secret, je garderai le mien ;</l>
+	<l id='1507'>Puisque je passe encor pour homme à vous séduire,</l>
+	<l id='1508'>Venez dans la prison où je vais vous conduire.</l>
+	<l id='1509'>Si vous ne me croyez, craignez ce que je puis.</l>
+	<l id='1510'>Avant la fin du jour vous saurez qui je suis.</l>
+</sp></div2></div1>
+<div1 type="acte" n='5'><head>ACTE V.</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE.</head>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+<poem type="stances">
+<lg n="1">
+	<l id='1511'>Quelle confusion étrange</l>
+	<l id='1512'>De deux princes fait un mélange</l>
+	<l id='1513'>Qui met en discord deux amis !</l>
+	<l id='1514'>Un père ne sait où se prendre,</l>
+	<l id='1515'>Et plus tous deux s'osent défendre</l>
+	<l id='1516'>Du titre infâme de son fils,</l>
+	<l id='1517'>Plus eux-mêmes cessent d'entendre</l>
+	<l id='1518'>Les secrets qu'on leur a commis.</l>
+</lg>
+<lg n="2">
+	<l id='1519'>Léontine avec tant de ruse</l>
+	<l id='1520'>Ou me favorise ou m'abuse,</l>
+	<l id='1521'>Qu'elle brouille tout notre sort ;</l>
+	<l id='1522'>Ce que j'en eus de connaissance</l>
+	<l id='1523'>Brave une orgueilleuse puissance</l>
+	<l id='1524'>Qui n'en croit pas mon vain effort,</l>
+	<l id='1525'>Et je doute de ma naissance</l>
+	<l id='1526'>Quand on me refuse la mort.</l>
+</lg>
+<lg n="3">
+	<l id='1527'>Ce fier tyran qui me caresse</l>
+	<l id='1528'>Montre pour moi tant de tendresse</l>
+	<l id='1529'>Que mon cœur s'en laisse alarmer ;</l>
+	<l id='1530'>Lorsqu'il me prie et me conjure,</l>
+	<l id='1531'>Son amitié paraît si pure,</l>
+	<l id='1532'>Que je ne saurais présumer</l>
+	<l id='1533'>Si c'est par instinct de nature,</l>
+	<l id='1534'>Ou par coutume de m'aimer.</l>
+</lg>
+<lg n="4">
+	<l id='1535'>Dans cette croyance incertaine,</l>
+	<l id='1536'>J'ai pour lui des transports de haine</l>
+	<l id='1537'>Que je ne conserve pas bien ;</l>
+	<l id='1538'>Cette grâce qu'il veut me faire</l>
+	<l id='1539'>Étonne et trouble ma colère,</l>
+	<l id='1540'>Et je n'ose résoudre rien,</l>
+	<l id='1541'>Quand je trouve un amour de père</l>
+	<l id='1542'>En celui qui m'ôta le mien.</l>
+</lg>
+<lg n="5">
+	<l id='1543'>Retiens, grande ombre de Maurice,</l>
+	<l id='1544'>Mon âme au bord du précipice</l>
+	<l id='1545'>Que cette obscurité lui fait,</l>
+	<l id='1546'>Et m'aide à faire mieux connaître</l>
+	<l id='1547'>Qu'en ton fils Dieu n'a pas fait naître</l>
+	<l id='1548'>Un prince à ce point imparfait,</l>
+	<l id='1549'>Ou que je méritais de l'être,</l>
+	<l id='1550'>Si je ne le suis en effet.</l>
+</lg>
+<lg n="6">
+	<l id='1551'>Soutiens ma haine qui chancelle,</l>
+	<l id='1552'>Et redoublant pour ta querelle</l>
+	<l id='1553'>Cette noble ardeur de mourir,</l>
+</lg>
+</poem>
+	<l id='1554'>Fais voir... Mais il m'exauce, on vient me secourir.</l>
+</sp></div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Héraclius, Pulchérie.</head>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1555'>Ô ciel ! Quel bon démon devers moi vous envoie,</l>
+	<l id='1556' part='i'>Madame ?</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1556' part='f'>Le tyran, qui veut que je vous voie,</l>
+	<l id='1557'>Et met tout en usage afin de s'éclaircir.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1558'>Par vous-même en ce trouble il pense réussir !</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1559'>Il le pense, Seigneur, et ce brutal espère</l>
+	<l id='1560'>Mieux qu'il ne trouve un fils que je découvre un frère ;</l>
+	<l id='1561'>Comme si j'étais fille à ne lui rien celer</l>
+	<l id='1562'>De tout ce que le sang pourrait me révéler !</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1563'>Puisse-t-il par un trait de lumière fidèle</l>
+	<l id='1564'>Vous le mieux révéler qu'il ne me le révèle !</l>
+	<l id='1565'>Aidez-moi cependant, Madame, à repousser</l>
+	<l id='1566'>Les indignes frayeurs dont je me sens presser...</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1567'>Ah ! Prince, il ne faut point d'assurance plus claire :</l>
+	<l id='1568'>Si vous craignez la mort, vous n'êtes point mon frère ;</l>
+	<l id='1569'>Ces indignes frayeurs vous ont trop découvert.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1570'>Moi, la craindre, Madame ? Ah ! je m'y suis offert !</l>
+	<l id='1571'>Qu'il me traite en tyran, qu'il m'envoie au supplice,</l>
+	<l id='1572'>Je suis Héraclius, je suis fils de Maurice,</l>
+	<l id='1573'>Sous ces noms précieux je cours m'ensevelir,</l>
+	<l id='1574'>Et m'étonne si peu que je l'en fais pâlir.</l>
+	<l id='1575'>Mais il me traite en père, il me flatte, il m'embrasse,</l>
+	<l id='1576'>Je n'en puis arracher une seule menace,</l>
+	<l id='1577'>J'ai beau faire et beau dire afin de l'irriter,</l>
+	<l id='1578'>Il m'écoute si peu qu'il me force à douter.</l>
+	<l id='1579'>Malgré moi comme fils toujours il me regarde :</l>
+	<l id='1580'>Au lieu d'être en prison, je n'ai pas même un garde ;</l>
+	<l id='1581'>Je ne sais qui je suis, et crains de le savoir ;</l>
+	<l id='1582'>Je veux ce que je dois, et cherche mon devoir ;</l>
+	<l id='1583'>Je crains de le haïr, si j'en tiens la naissance ;</l>
+	<l id='1584'>Je le plains de m'aimer, si je m'en dois vengeance,</l>
+	<l id='1585'>Et mon cœur, indigné d'une telle amitié,</l>
+	<l id='1586'>En frémit de colère, et tremble de pitié.</l>
+	<l id='1587'>De tous ses mouvements mon esprit se défie :</l>
+	<l id='1588'>Il condamne aussitôt tout ce qu'il justifie.</l>
+	<l id='1589'>La colère, l'amour, la haine et le respect,</l>
+	<l id='1590'>Ne me présentent rien qui ne me soit suspect ;</l>
+	<l id='1591'>Je crains tout, je fuis tout, et, dans cette aventure,</l>
+	<l id='1592'>Des deux côtés en vain j'écoute la nature.</l>
+	<l id='1593'>Secourez donc un frère en ces perplexités.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1594'>Ah ! Vous ne l'êtes point, puisque vous en doutez.</l>
+	<l id='1595'>Celui qui, comme vous, prétend à cette gloire,</l>
+	<l id='1596'>D'un courage plus ferme en croit ce qu'il doit croire.</l>
+	<l id='1597'>Comme vous on le flatte : il y sait résister ;</l>
+	<l id='1598'>Rien ne le touche assez pour le faire douter,</l>
+	<l id='1599'>Et le sang, par un double et secret artifice,</l>
+	<l id='1600'>Parle en vous pour Phocas, comme en lui pour Maurice.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1601'>À ces marques en lui connaissez Martian :</l>
+	<l id='1602'>Il a le cœur plus dur étant fils d'un tyran.</l>
+	<l id='1603'>La générosité suit la belle naissance,</l>
+	<l id='1604'>La pitié l'accompagne et la reconnaissance.</l>
+	<l id='1605'>Dans cette grandeur d'âme un vrai prince affermi</l>
+	<l id='1606'>Est sensible aux malheurs même d'un ennemi ;</l>
+	<l id='1607'>La haine qu'il lui doit ne saurait le défendre,</l>
+	<l id='1608'>Quand il s'en voit aimé, de s'en laisser surprendre,</l>
+	<l id='1609'>Et trouve assez souvent son devoir arrêté</l>
+	<l id='1610'>Par l'effort naturel de sa propre bonté.</l>
+	<l id='1611'>Cette digne vertu de l'âme la mieux née,</l>
+	<l id='1612'>Madame, ne doit pas souiller ma destinée.</l>
+	<l id='1613'>Je doute ; et si ce doute a quelque crime en soi,</l>
+	<l id='1614'>C'est assez m'en punir que douter comme moi,</l>
+	<l id='1615'>Et mon cœur, qui sans cesse en sa faveur se flatte,</l>
+	<l id='1616'>Cherche qui le soutienne, et non pas qui l'abatte ;</l>
+	<l id='1617'>Il demande secours pour mes sens étonnés,</l>
+	<l id='1618'>Et non le coup mortel dont vous m'assassinez.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1619'>L'œil le mieux éclairé sur de telles manières</l>
+	<l id='1620'>Peut prendre de faux jours pour de vives lumières,</l>
+	<l id='1621'>Et comme notre sexe ose assez promptement</l>
+	<l id='1622'>Suivre l'impression d'un premier mouvement,</l>
+	<l id='1623'>Peut-être qu'en faveur de ma première idée</l>
+	<l id='1624'>Ma haine pour Phocas m'a trop persuadée.</l>
+	<l id='1625'>Son amour est pour vous un poison dangereux,</l>
+	<l id='1626'>Et quoique la pitié montre un cœur généreux,</l>
+	<l id='1627'>Celle qu'on a pour lui de ce rang dégénère.</l>
+	<l id='1628'>Vous le devez haïr, et fût-il votre père,</l>
+	<l id='1629'>Si ce titre est douteux, son crime ne l'est pas.</l>
+	<l id='1630'>Qu'il vous offre sa grâce, ou vous livre au trépas,</l>
+	<l id='1631'>Il n'est pas moins tyran quand il vous favorise,</l>
+	<l id='1632'>Puisque c'est ce cœur même alors qu'il tyrannise,</l>
+	<l id='1633'>Et que votre devoir, par là mieux combattu,</l>
+	<l id='1634'>Prince, met en péril jusqu'à votre vertu.</l>
+	<l id='1635'>Doutez, mais haïssez ; et, quoi qu'il exécute,</l>
+	<l id='1636'>Je douterai d'un nom qu'un autre vous dispute.</l>
+	<l id='1637'>En douter lorsqu'en moi vous cherchez quelque appui,</l>
+	<l id='1638'>Si c'est trop peu pour vous, c'est assez contre lui.</l>
+	<l id='1639'>L'un de vous est mon frère, et l'autre y peut prétendre.</l>
+	<l id='1640'>Entre tant de vertus mon choix se peut méprendre,</l>
+	<l id='1641'>Mais je ne puis faillir, dans votre sort douteux,</l>
+	<l id='1642'>À chérir l'un et l'autre, et vous plaindre tous deux.</l>
+	<l id='1643'>J'espère encor pourtant : on murmure, on menace ;</l>
+	<l id='1644'>Un tumulte, dit-on, s'élève dans la place ;</l>
+	<l id='1645'>Exupère est allé fondre sur ces mutins,</l>
+	<l id='1646'>Et peut-être de là dépendent nos destins.</l>
+	<l id='1647' part='i'>Mais Phocas entre.</l>
+</sp></div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Phocas, Héraclius, Martian, Pulchérie, Gardes.</head> 
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1647' part='f'>Eh bien ! Se rendra-t-il, Madame ?</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1648'>Quelque effort que je fasse à lire dans son âme,</l>
+	<l id='1649'>Je n'en vois que l'effet que je m'étais promis :</l>
+	<l id='1650'>Je trouve trop d'un frère, et vous trop peu d'un fils.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1651'>Ainsi le ciel vous veut enrichir de ma perte.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1652'>Il tient en ma faveur leur naissance couverte ;</l>
+	<l id='1653'>Ce frère qu'il me rend serait déjà perdu,</l>
+	<l id='1654'>Si dedans votre sang il ne l'eût confondu.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS, à Pulchérie.</speaker>
+	<l id='1655'>Cette confusion peut perdre l'un et l'autre :</l>
+	<l id='1656'>En faveur de mon sang je ferai grâce au vôtre,</l>
+	<l id='1657'>Mais je veux le connaître, et ce n'est qu'à ce prix</l>
+	<l id='1658'>Qu'en lui donnant la vie il me rendra mon fils.</l>
+<stage>À Héraclius.</stage>
+	<l id='1659'>Pour la dernière fois, ingrat, je t'en conjure,</l>
+	<l id='1660'>Car enfin c'est vers toi que penche la nature</l>
+	<l id='1661'>Et je n'ai point pour lui ces doux empressements</l>
+	<l id='1662'>Qui d'un cœur paternel font les vrais mouvements.</l>
+	<l id='1663'>Ce cœur s'attache à toi par d'invincibles charmes.</l>
+	<l id='1664'>En crois-tu mes soupirs ? En croiras-tu mes larmes ?</l>
+	<l id='1665'>Songe avec quel amour mes soins t'ont élevé,</l>
+	<l id='1666'>Avec quelle valeur son bras t'a conservé ;</l>
+	<l id='1667' part='i'>Tu nous dois à tous deux.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1667' part='f'>Et pour reconnaissance</l>
+	<l id='1668'>Je vous rends votre fils, je lui rends sa naissance.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1669'>Tu me l'ôtes, cruel, et le laisses mourir.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1670'>Je meurs pour vous le rendre, et pour le secourir.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1671'>C'est me l'ôter assez que ne vouloir plus l'être.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1672'>C'est vous le rendre assez que le faire connaître.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1673'>C'est me l'ôter assez que me le supposer.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1674'>C'est vous le rendre assez que vous désabuser.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1675'>Laisse-moi mon erreur, puisqu'elle m'est si chère.</l>
+	<l id='1676'>Je t'adopte pour fils, accepte-moi pour père,</l>
+	<l id='1677'>Fais vivre Héraclius sous l'un ou l'autre sort ;</l>
+	<l id='1678'>Pour moi, pour toi, pour lui, fais-toi ce peu d'effort.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1679'>Ah ! C'en est trop enfin, et ma gloire blessée</l>
+	<l id='1680'>Dépouille un vieux respect où je l'avais forcée.</l>
+	<l id='1681'>De quelle ignominie osez-vous me flatter ?</l>
+	<l id='1682'>Toutes les fois, tyran, qu'on se laisse adopter,</l>
+	<l id='1683'>On veut une maison illustre autant qu'amie,</l>
+	<l id='1684'>On cherche de la gloire, et non de l'infamie,</l>
+	<l id='1685'>Et ce serait un monstre horrible à vos États</l>
+	<l id='1686'>Que le fils de Maurice adopté par Phocas.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1687'>Va, cesse d'espérer la mort que tu mérites :</l>
+	<l id='1688'>Ce n'est que contre lui, lâche, que tu m'irrites ;</l>
+	<l id='1689'>Tu te veux rendre en vain indigne de ce rang ;</l>
+	<l id='1690'>Je m'en prends à la cause, et j'épargne mon sang.</l>
+	<l id='1691'>Puisque ton amitié de ma foi se défie</l>
+	<l id='1692'>Jusqu'à prendre son nom pour lui sauver la vie,</l>
+	<l id='1693'>Soldats, sans plus tarder, qu'on l'immole à ses yeux.</l>
+	<l id='1694'>Et sois après sa mort mon fils, si tu le veux.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1695' part='i'>Perfides, arrêtez !</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1695' part='f'>Ah ! que voulez-vous faire,</l>
+	<l id='1696' part='i'>Prince ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1696' part='f'>Sauver le fils de la fureur du père.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1697'>Conservez-lui ce fils qu'il ne cherche qu'en vous,</l>
+	<l id='1698'>Ne troublez point un sort qui lui semble si doux.</l>
+	<l id='1699'>C'est avec assez d'heur qu'Héraclius expire,</l>
+	<l id='1700'>Puisque c'est en vos mains que tombe son empire.</l>
+	<l id='1701'>Le ciel daigne bénit votre sceptre et vos jours !</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1702'>C'est trop perdre de temps à souffrir ces discours.</l>
+	<l id='1703' part='i'>Dépêche, Octavian.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1703' part='f'>N'attente rien, barbare !</l>
+	<l id='1704' part='i'>Je suis...</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1704' part='m'>Avoue enfin.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1704' part='f'>Je tremble, je m'égare,</l>
+	<l id='1705' part='i'>Et mon cœur...</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS, à Héraclius.</speaker>
+	<l id='1705' part='f'>Tu pourras à loisir y penser.</l>
+<stage>À Octavian.</stage>
+	<l id='1706' part='i'>Frappe.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1706' part='f'>Arrête : je suis... Puis-je le prononcer ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1707' part='i'>Achève, ou ...</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1707' part='f'>Je suis donc, s'il faut que le die,</l>
+	<l id='1708'>Ce qu'il faut que je sois pour lui sauver la vie.</l>
+	<l id='1709'>Oui, je lui dois assez, Seigneur, quoi qu'il en soit,</l>
+	<l id='1710'>Pour vous payer pour lui de l'amour qu'il vous doit,</l>
+	<l id='1711'>Et je vous le promets entier, ferme, sincère,</l>
+	<l id='1712'>Et tel qu'Héraclius l'aurait pour son vrai père.</l>
+	<l id='1713'>J'accepte en sa faveur ses parents pour les miens.</l>
+	<l id='1714'>Mais sachez que vos jours me répondront des siens :</l>
+	<l id='1715'>Vous me serez garant des hasards de la guerre,</l>
+	<l id='1716'>Des ennemis secrets, de l'éclat du tonnerre,</l>
+	<l id='1717'>Et de quelque façon que le courroux des cieux</l>
+	<l id='1718'>Me prive d'un ami qui m'est si précieux,</l>
+	<l id='1719'>Je vengerai sur vous, et fussiez-vous mon père,</l>
+	<l id='1720'>Ce qu'aura fait sur lui leur injuste colère.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1721'>Ne crains rien : de tous deux je ferai mon appui ;</l>
+	<l id='1722'>L'amour qu'il a pour toi m'assure trop de lui ;</l>
+	<l id='1723'>Mon cœur pâme de joie, et mon âme n'aspire</l>
+	<l id='1724'>Qu'à vous associer l'un à l'autre l'empire.</l>
+	<l id='1725'>J'ai retrouvé mon fils ! Mais sois-le tout à fait,</l>
+	<l id='1726'>Et donne-m'en pour marque un véritable effet ;</l>
+	<l id='1727'>Ne laisse plus de place à la supercherie :</l>
+	<l id='1728'>Pour achever ma joie, épouse Pulchérie.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1729' part='i'>Seigneur, elle est ma sœur.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1729' part='f'>Tu n'es donc point mon fils,</l>
+	<l id='1730'>Puisque si lâchement déjà tu t'en dédis ?</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1731'>Qui te donne, tyran, une attente si vaine ?</l>
+	<l id='1732'>Quoi ! Son consentement étoufferait ma haine !</l>
+	<l id='1733'>Pour l'avoir étonné tu m'aurais fait changer !</l>
+	<l id='1734'>J'aurai pour cette honte un cœur assez léger !</l>
+	<l id='1735'>Je pourrai épouser ou ton fils ou mon frère !</l>
+</sp></div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Phocas, Héraclius, Pulchérie, Martian, Crispe, Gardes.</head> 
+<sp who='CRISPE'><speaker>CRISPE.</speaker>
+	<l id='1736'>Seigneur, vous devez tout au grand cœur d'Exupère ;</l>
+	<l id='1737'>Il est l'unique auteur de nos meilleurs destins ;</l>
+	<l id='1738'>Lui seul et ses amis ont dompté vos mutins ;</l>
+	<l id='1739'>Il a fait prisonnier leurs chefs qu'il vous amène.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1740'>Dis-lui qu'il me les garde en la salle prochaine ;</l>
+	<l id='1741'>Je vais de leurs complots m'éclaircir avec eux.</l>
+<stage>Crispe s'en va, et Phocas parle à Héraclius.</stage>
+	<l id='1742'>Toi, cependant, ingrat, sois mon fils si tu veux.</l>
+	<l id='1743'>En l'état où je suis, je n'ai plus lieu de feindre :</l>
+	<l id='1744'>Les mutins sont domptés, et je cesse de craindre.</l>
+	<l id='1745' part='i'>Je vous laisse tous trois.</l>
+<stage>À Pulchérie.</stage>
+	<l id='1745' part='f'>Use bien du moment</l>
+	<l id='1746'>Que je prends pour en faire un juste châtiment,</l>
+	<l id='1747'>Et, si tu m'aimes mieux que l'un et l'autre meure,</l>
+	<l id='1748'>Trouve, ou choisis mon fils, et l'épouse sur l'heure ;</l>
+	<l id='1749'>Autrement, si leur sort demeure encor douteux,</l>
+	<l id='1750'>Je jure à mon retour qu'ils périront tous deux :</l>
+	<l id='1751'>Je ne veux point d'un fils dont l'implacable haine</l>
+	<l id='1752'>Prend ce nom pour affront, et mon amour pour gêne.</l>
+	<l id='1753' part='i'>Toi...</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1753' part='f'>Ne menace point : je suis prête à mourir.</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1754'>À mourir ! Jusque-là je pourrai te chérir !</l>
+	<l id='1755'>N'espère pas de moi cette faveur suprême ;</l>
+	<l id='1756' part='i'>Et pense...</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1756' part='m'>À quoi, tyran ?</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1756' part='f'>À m'épouser moi-même</l>
+	<l id='1757'>Au milieu de leur sang à tes pieds répandu.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1758' part='i'>Quel supplice !</l>
+</sp>
+<sp who='PHOCAS'><speaker>PHOCAS.</speaker>
+	<l id='1758' part='f'>Il est grand pour toi, mais il t'est dû  :</l>
+	<l id='1759'>Tes mépris de la mort bravaient trop ma colère.</l>
+	<l id='1760'>Il est en toi de perdre ou de sauver ton frère ;</l>
+	<l id='1761'>Et du moins, quelque erreur qui puisse me troubler,</l>
+	<l id='1762'>J'ai trouvé les moyens de te faire trembler.</l>
+</sp></div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Héraclius, Martian, Pulchérie.</head>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1763'>Le lâche, il vous flattait lorsqu'il tremblait dans l'âme !</l>
+	<l id='1764'>Mais tel est d'un tyran le naturel infâme :</l>
+	<l id='1765'>Sa douceur n'a jamais qu'un mouvement contraint.</l>
+	<l id='1766'>S'il ne craint, il opprime, et s'il n'opprime, il craint ;</l>
+	<l id='1767'>L'une et l'autre fortune en montre la faiblesse :</l>
+	<l id='1768'>L'une n'est qu'insolence, et l'autre que bassesse.</l>
+	<l id='1769'>À peine est-il sorti de ces lâches terreurs</l>
+	<l id='1770'>Qu'il a trouvé pour moi le comble des horreurs.</l>
+	<l id='1771'>Mes frères, puisque enfin vous voulez tous deux l'être,</l>
+	<l id='1772'>Si vous m'aimez en sœur, faites-le-moi paraître.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1773'>Que pouvons-nous tous deux, lorsqu'on tranche nos jours ?</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1774'>Un généreux conseil est un puissant secours.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1775'>Il n'est point de conseil qui vous soit salutaire</l>
+	<l id='1776'>Que d'épouser le fils pour éviter le père :</l>
+	<l id='1777'>L'horreur d'un mal plus grand vous y doit disposer.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1778'>Qui me le montrera, si je veux l'épouser ?</l>
+	<l id='1779'>Et dans cet hyménée, à ma gloire funeste,</l>
+	<l id='1780'>Qui me garantira des périls de l'inceste ?</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1781'>Je le vois trop à craindre et pour vous et pour nous.</l>
+	<l id='1782'>Mais, Madame ; on peut prendre un vain titre d'époux,</l>
+	<l id='1783'>Abuser du tyran la rage forcenée,</l>
+	<l id='1784'>Et vivre en frère et sœur sous un feint hyménée.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1785'>Feindre et nous abaisser à cette lâcheté !</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1786'>Pour tromper un tyran, c'est générosité,</l>
+	<l id='1787'>Et c'est mettre, en faveur d'un frère qu'il vous donne,</l>
+	<l id='1788'>Deux ennemis secrets auprès de sa personne,</l>
+	<l id='1789'>Qui, dans leur juste haine animés et constants,</l>
+	<l id='1790'>Sur l'ennemi commun sauront prendre leur temps,</l>
+	<l id='1791'>Et terminer bientôt la feinte avec sa vie.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1792'>Pour conserver vos jours et fuir mon infamie,</l>
+	<l id='1793'>Feignons, vous le voulez, et j'y résiste en vain.</l>
+	<l id='1794'>Sus donc, qui de vous deux me prêtera la main ?</l>
+	<l id='1795'>Qui veut feindre avec moi ? Qui sera mon complice ?</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1796'>Vous, Prince, à qui le ciel inspire l'artifice.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1797'>Vous, que veut le tyran pour fils obstinément.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1798'>Vous, qui depuis quatre ans la servez en amant.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1799'>Vous saurez mieux que moi surprendre sa tendresse.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1800'>Vous saurez mieux que moi la traiter de maîtresse.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1801'>Vous aviez commencé tantôt d'y consentir.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1802'>Ah ! Princes, votre cœur ne peut se démentir,</l>
+	<l id='1803'>Et vous l'avez tous deux trop grand, trop magnanime,</l>
+	<l id='1804'>Pour souffrir sans horreur l'ombre même d'un crime.</l>
+	<l id='1805'>Je vous connaissais trop pour juger autrement</l>
+	<l id='1806'>Et de votre conseil, et de l'événement,</l>
+	<l id='1807'>Et je n'y déférais que pour vous voir dédire.</l>
+	<l id='1808'>Toute fourbe est honteuse aux cœurs nés pour l'empire :</l>
+	<l id='1809'>Princes, attendons tout, sans consentir à rien.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1810'>Admirez cependant quel malheur est le mien :</l>
+	<l id='1811'>L'obscure vérité que de mon sang je signe,</l>
+	<l id='1812'>Du grand nom qui me perd ne peut me rendre digne ;</l>
+	<l id='1813'>On n'en croit pas ma mort, et je perds mon trépas,</l>
+	<l id='1814'>Puisque mourant pour lui je ne le sauve pas.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1815'>Voyez d'autre côté quelle est ma destinée,</l>
+	<l id='1816'>Madame : dans le cours d'une seule journée,</l>
+	<l id='1817'>Je suis Héraclius, Léonce et Martian,</l>
+	<l id='1818'>Je sors d'un empereur, d'un tribun, d'un tyran.</l>
+	<l id='1819'>De tous trois ce désordre en un jour me fait naître,</l>
+	<l id='1820'>Pour me faire mourir enfin sans me connaître.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1821'>Cédez, cédez tous deux aux rigueurs de mon sort :</l>
+	<l id='1822'>Il a fait contre vous un violent effort,</l>
+	<l id='1823'>Votre malheur est grand, mais, quoi qu'il en succède,</l>
+	<l id='1824'>La mort qu'on me refuse en sera le remède ;</l>
+	<l id='1825' part='i'>Et moi... Mais que nous veut ce perfide ?</l>
+</sp></div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Héraclius, Pulchérie, Martian, Amyntas.</head>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1825' part='f'>Mon bras</l>
+	<l id='1826'>Vient de laver ce nom dans le sang de Phocas.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1827' part='i'>Que nous dis-tu ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1827' part='f'>Qu'à tort vous nous prenez pour traîtres,</l>
+	<l id='1828'>Qu'il n'est plus de tyran, que vous êtes les maîtres.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1829' part='i'>De quoi ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1829' part='m'>De tout l'empire.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1829' part='m'>Et par toi ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1829' part='f'>Non, Seigneur !</l>
+	<l id='1830'>Un autre en a la gloire, et j'ai part à l'honneur.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1831'>Et quelle heureuse main finit notre misère ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1832'>Princes, l'auriez-vous cru ? C'est la main d'Exupère.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1833' part='i'>Lui qui me trahissait ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1833' part='f'>C'est de quoi s'étonner  :</l>
+	<l id='1834'>Il ne vous trahissait que pour vous couronner.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1835'>N'a-t-il pas des mutins dissipé la furie ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1836'>Son ordre excitait seul cette mutinerie.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1837' part='i'>Il en a pris les chefs, toutefois ?</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1837' part='f'>Admirez</l>
+	<l id='1838'>Que ces prisonniers même avec les conjurés</l>
+	<l id='1839'>Sous cette illusion couraient à leur vengeance :</l>
+	<l id='1840'>Tous contre ce barbare étant d'intelligence,</l>
+	<l id='1841'>Suivis d'un gros d'amis, nous passons librement</l>
+	<l id='1842'>Au travers du palais à son appartement.</l>
+	<l id='1843'>La garde y restait faible et, sans aucun ombrage,</l>
+	<l id='1844'>Crispe même à Phocas porte notre message ;</l>
+	<l id='1845'>Il vient ; à ses genoux on met les prisonniers,</l>
+	<l id='1846'>Qui tirent pour signal leurs poignards les premiers.</l>
+	<l id='1847'>Le reste, impatient dans sa noble colère,</l>
+	<l id='1848'>Enferme la victime, et soudain Exupère :</l>
+	<l id='1849'>« Qu'on arrête, dit-il, le premier coup m'est dû :</l>
+	<l id='1850'>C'est lui qui me rendra l'honneur presque perdu. »</l>
+	<l id='1851'>Il frappe, et le tyran tombe aussitôt sans vie</l>
+	<l id='1852'>Tant de nos mains la sienne est promptement suivie.</l>
+	<l id='1853'>Il s'élève un grand bruit, et mille cris confus</l>
+	<l id='1854'>Ne laissent discerner que « Vive Héraclius ! »</l>
+	<l id='1855'>Nous saisissons la porte, et les gardes se rendent.</l>
+	<l id='1856'>Mêmes cris aussitôt de tous côtés s'entendent,</l>
+	<l id='1857'>Et de tant de soldats qui lui servaient d'appui,</l>
+	<l id='1858'>Phocas, après sa mort, n'en a pas un pour lui.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1859'>Quel chemin Exupère a pris pour sa ruine !</l>
+</sp>
+<sp who='AMYNTAS'><speaker>AMYNTAS.</speaker>
+	<l id='1860'>Le voici qui s'avance avecque Léontine.</l>
+</sp></div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Héraclius, Martian, Léontine, Pulchérie, Eudoxe, Exupère, Amyntas, Troupe.</head> 
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Léontine.</speaker>
+	<l id='1861'>Est-il donc vrai, Madame, et changeons-nous de sort ?</l>
+	<l id='1862'>Amyntas nous fait-il un fidèle rapport ?</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1863'>Seigneur, un tel succès à peine est concevable,</l>
+	<l id='1864'>Et d'un si grand dessein la conduite admirable...</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Exupère.</speaker>
+	<l id='1865'>Perfide généreux, hâte-toi d'embrasser</l>
+	<l id='1866'>Deux princes impuissants à te récompenser.</l>
+</sp>
+<sp who='EXUPÈRE'><speaker>EXUPÈRE, à Héraclius..</speaker>
+	<l id='1867'>Seigneur, il me faut grâce ou de l'un ou de l'autre :</l>
+	<l id='1868'>J'ai répandu son sang, si j'ai vengé le vôtre.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1869'>Qui que ce soit des deux, il doit se consoler</l>
+	<l id='1870'>De la mort d'un tyran qui voulait l'immoler ;</l>
+	<l id='1871'>Je ne sais quoi pourtant dans mon cœur en murmure.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1872'>Peut-être en vous par là s'explique la nature,</l>
+	<l id='1873'>Mais, Prince, votre sort n'en sera pas moins doux.</l>
+	<l id='1874'>Si l'empire est à moi, Pulchérie est à vous.</l>
+	<l id='1875'>Puisque le père est mort, le fils est digne d'elle.</l>
+<stage>À Léontine.</stage>
+	<l id='1876'>Terminez donc, Madame, enfin notre querelle.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1877'>Mon témoignage seul peut-il en décider ?</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1878'>Quelle autre sûreté pourrions-nous demander ?</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1879'>Je vous puis être encor suspecte d'artifice.</l>
+	<l id='1880'>Non, ne m'en croyez pas : croyez l'impératrice.</l>
+<stage>À Pulchérie, lui donnant un billet.</stage>
+	<l id='1881'>Vous connaissez sa main, Madame, et c'est à vous</l>
+	<l id='1882'>Que je remets le sort d'un frère et d'un époux.</l>
+	<l id='1883'>Voyez ce qu'en mourant me laissa votre mère.</l>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE.</speaker>
+	<l id='1884'>J'en baise en soupirant le sacré caractère.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE.</speaker>
+	<l id='1885'>Apprenez d'elle enfin quel sang vous a produits,</l>
+	<l id='1886' part='i'>Princes.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1886' part='f'>Qui que je sois, c'est à vous que je suis.</l>
+<stage>Pulchérie, lit.</stage>
+<stage>Billet de Constantine.</stage>
+	<l id='1887'>« Parmi tant de malheurs mon bonheur est étrange :</l>
+	<l id='1888'>Après avoir donné son fils au lieu du mien ;</l>
+	<l id='1889'>Léontine à mes yeux, par un second échange,</l>
+	<l id='1890'>Donne encore à Phocas mon fils au lieu du sien.</l>
+	<l id='1891'>Vous qui pourrez douter d'un si rare service,</l>
+	<l id='1892'>Sachez qu'elle a deux fois trompé notre tyran :</l>
+	<l id='1893'>Celui qu'on croit Léonce est le vrai Martian,</l>
+	<l id='1894'>Et le faux Martian est vrai fils de Maurice. »</l>
+<stage>CONSTANTINE.</stage>
+</sp>
+<sp who='PULCHÉRIE'><speaker>PULCHÉRIE, à Héraclius.</speaker>
+	<l id='1895' part='i'>Ah ! Vous êtes mon frère !</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Pulchérie.</speaker>
+	<l id='1895' part='f'>Et c'est heureusement</l>
+	<l id='1896'>Que le trouble éclairci vous rend à votre amant.</l>
+</sp>
+<sp who='LÉONTINE'><speaker>LÉONTINE, à Héraclius.</speaker>
+	<l id='1897'>Vous en saviez assez pour éviter l'inceste,</l>
+	<l id='1898'>Et non pas pour vous rendre un tel secret funeste.</l>
+<stage>À Martian.</stage>
+	<l id='1899'>Mais pardonnez, Seigneur, à mon zèle parfait,</l>
+	<l id='1900'>Ce que j'ai voulu faire, et ce qu'un autre a fait.</l>
+</sp>
+<sp who='MARTIAN'><speaker>MARTIAN.</speaker>
+	<l id='1901'>Je ne m'oppose point à la commune joie,</l>
+	<l id='1902'>Mais souffrez des soupirs que la nature envoie :</l>
+	<l id='1903'>Quoique jamais Phocas n'ait mérité d'amour,</l>
+	<l id='1904'>Un fils ne peut moins rendre à qui l'a mis au jour ;</l>
+	<l id='1905'>Ce n'est pas tout d'un coup qu'à ce titre on renonce.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS.</speaker>
+	<l id='1906'>Donc, pour mieux l'oublier, soyez encor Léonce :</l>
+	<l id='1907'>Sous ce nom glorieux aimez ses ennemis,</l>
+	<l id='1908'>Et meure du tyran jusqu'au nom de son fils.</l>
+<stage>À Eudoxe.</stage>
+	<l id='1909'>Vous, Madame, acceptez et ma main et l'empire</l>
+	<l id='1910'>En échange d'un cœur pour qui le mien soupire.</l>
+</sp>
+<sp who='EUDOXE'><speaker>EUDOXE, à Héraclius.</speaker>
+	<l id='1911'>Seigneur, vous agissez en prince généreux.</l>
+</sp>
+<sp who='HÉRACLIUS'><speaker>HÉRACLIUS, à Exupère et Amyntas.</speaker>
+	<l id='1912'>Et vous dont la vertu me rend ce trouble heureux,</l>
+	<l id='1913'>Attendant les effets de ma reconnaissance,</l>
+	<l id='1914'>Reconnaissons, amis, la céleste puissance.</l>
+	<l id='1915'>Allons lui rendre hommage, et, d'un esprit content,</l>
+	<l id='1916'>Montrer Héraclius au peuple qui l'attend.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

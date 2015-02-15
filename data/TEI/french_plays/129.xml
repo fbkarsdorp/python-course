@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding='iso-8859-1'?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>CINNA ou LA CLÉMENCE D'AUGUSTE, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE, Mai 2006, revu décembre 2014.</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70140x</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">CINNA</titlePart>
+			<titlePart type="sub">ou la CLÉMENCE D'AUGUSTE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1643'>M. DC. XLIII. AVEC PRIVILÈGE DU ROI</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'></docAuthor>
+		<docImprint>
+			<privilege id='1642-08-01'><head>Extrait du Privilège du Roi.</head>
+			<p>Il est permis à notre amé et féal PIERRE CORNEILLE, notre Conseiller et Avocat Général à la Table de marbre des Eaux et Forêts de Rouen, de faire imprimer une tragédie de sa composition intitulée CINNA? ou la Clémence d'Auguste, durant le temps de vingt ans, à compter du jour que ladite pièce sera achevée d'imprimer. Et défenses sont faites à tous les imprimeurs et Libraires d'en imprimer, vendre et débiter d'autre impression que celle qu'aura fait faire ledit CORNEILLE, ou ses ayant cause, sur peine de quinze cent livres d'amende, confiscation des exemplaires, et de tous dépens, dommages et intérêts, ainsi qu'il est porté par les lettres de Privilège. Donné à Fontainebleau le premier août 1642. Signé CLIER. Et scellé du grand sceau de cire jaune.</p>
+			<p>Et le dit CORNEILLE a cédé et transporté tous les droits dudit privilège par lui obtenu du présent livre à TOUSSAINT QUINET Marchand Libraire, pour jouir du contenu en icelui, ainsi qu'il a été accordé entre eux.</p>
+			</privilege>
+			<acheveImprime id='1643-01-18'>Achevé d'imprimer pour le première fois le 18 janvier 1643</acheveImprime>
+			<printer id='QUINET'>Imprimé à Rouen aux dépens de l'auteur et se vendent. À PARIS, Chez Toussaint Quinet, au Palais, sous la montée de la cour des Aides.</printer>
+		</docImprint>
+		<dedicace><adresse>À MONSIEUR DE MONTORON.</adresse>
+			<head>Monsieur,</head>
+			<p>Je vous présente un tableau d'une des plus belles actions d'Auguste. Ce monarque était tout généreux, et sa générosité n'a jamais paru avec tant d'éclat que dans les effets de sa clémence et de sa libéralité. Ces deux rares vertus lui étaient si naturelles et si inséparables en lui, qu'il semble qu'en cette histoire que j'ai mise sur notre théâtre, elles se soient tour à tour entre-produites dans son âme. Il avait été si libéral avec Cinna, que sa conjuration ayant fait voir une ingratitude extraordinaire, il eut besoin d'une extraordinaire effort de clémence pour lui pardonner, et le pardon qu'il lui donna fut la source des nouveaux bienfaits dont il lui fut prodigue, pour vaincre tout à fait cet esprit qui n'avait peut être gagné par les premiers ; de sorte qu'il est vrai de dire, qu'il eut été moins clément envers lui s'il eut été moins libéral, et qu'il eut été moins libéral s'il eut été moins clément. Cela étant, à qu pourrais-je plus justement donner le portrait d'une l'une de ses héroïques vertus qu'à celui qui possède l'autre en un si haut degré, puisque dans cette action ce grand Prince les a si bien attachées, et comme unis l'une à l'autre, qu'elles ont été tout ensemble et la cause et l'effet l'une de l'autre ? Vous avez des richesses, mais vous savez jouir, et vous en jouissez d'une façon si noble, si relevée, et tellement illustre, que vous forcés la voix publique d'avouer que la fortune a consulté la raison quand elle a répandu ses faveurs sur vous, et qu'on a plus de sujet de vous en souhaiter le redoublement, que de vous envier l'abondance. J'ai vécu si éloigné de la flatterie que je pense être ne possession de me faire croire quand je dis du bine de quelqu'un, et lorsque je donne des louanges, ce qui m'arrive assez rarement, c'est avec tant de retenue, que je supprime toujours quantité de glorieuses vérités pour ne me rendre pas suspect d'étaler de ces mensonges obligeants, que beaucoup de nos modernes savent débiter de si bonne grâce. Aussi je ne dirai rien des avantages de votre naissance, ni de votre courage, qu'il a si dignement soutenu dans le profession des armes à qui vous avez donné vos premières années, ce sont des choses connues de tout le monde : je ne dirai rien de ce prompt et puissant secours que reçoivent chaque jour de votre main tant de bonnes familles ruinées par les désordres de nos guerres, ce sont des choses que vous voulez tenir cachées : je dirai seulement un mot de ce que vous avez particulièrement de commun avec Auguste. C'est que cette générosité qui compose la meilleure partie de votre âme, et règne sur l'autre, et qu'à juste titre on peut nommer l'âme de votre âme, puisqu'elle en fait mouvoir toutes les puissances, c'est dis-je que cette générosité à l'exemple de ce grand Empereur prend plaisir à s'étendre sur les gens de lettres en un temps où beaucoup pensent avoir trop récompensé leurs travaux quand ils les ont honorés d'une louange stérile. Et certes, vous avez traité quelques unes de nos Muses avec tant de magnanimité, qu'en elles vous avez obligé toutes les autres, et qu'il n'en est point qui ne vous en doive un remerciement. Trouvez donc bon, MONSIEUR, que je m'acquitte de celui que je reconnais vous en devoir, par le présent que je vous fait de ce poème; que 'ai choisi comme le plus durable des miens, pour apprendre plus longtemps à ceux qui le liront, que le généreux Monsieur de Montoron par une libéralité inouïe en ce siècle s'est rendu toutes les Muses redevables et je prends tant de part aux bienfaits dont vous avez surpris quelques unes d'elles, que je m'en dirai toute ma vie, </p>
+			<p> MONSIEUR,</p>
+			<p>Votre très humble et très obligé serviteur.</p>
+			<p>CORNEILLE.</p>
+		</dedicace>
+		<preface><head>Seneca Lib. I, De Clementia, chapitre IX.</head>
+		<p>Divus Augustus mitis fuit Princeps, si quis illum a Principatu suo aestimare incipiat : In communi quidem Republica, duodevicesimum egressus annum, jam pugiones in sinu amicorum absconderat, jam insidiis M. Antonii consulis latus petierat, jam fuerat Collega proscriptionis ; sed quum annum quadragesimum transisset, et in Gallia moraretur, delatum est ad eum indicium, L. Cinnam, stolidi ingenii virum, insidias ei struere. Dictum est et ubi, et quando, et quemadmodum aggredi vellet. Unus ex consciis deferebat ; statuit se ab eo vindicare. Consilium amicorum advocari jussit. Nox illi inquieta erat, quum cogitatet adolescentem nobilem, hoc detracto integrum, Cn. Pempeii nepotem damnandum. Jam unum hominem occidere non poterat, quum M. Antonio proscriptionis edictum inter coenam dictarat. Gemens subinde voces varias emittebat et inter se contrarias : Quid ergo ? Ego percussorem meum securum ambulare patiar, me sollicito ? Ergo non dabit poenas, qui tot civilibus bellis frustra petitum caput, tot navalibus, tot pedestribus proeliis incolume, postquam terra marique pax parta est, non occidere constituat, sed immolare ? Nam sacrificantem placuerat adoriri. Rursus silentio interposito, majore multo voce sibi quam Cinnae irascebatur : Quid vivis, si perire te tam multorum interest ? Quis finis erit suppliciorum ? Quis sanguinis ? Ego sum nobilibus adolescentulis expositum caput, in quod mucrones acuant. Non est tanti vita, si, ut ego non peream, tam multa perdenta sunt. Interpellavit tandem illum Livia uxor, et : Admittis, inquit, muliebre consilium ? Fac quod medici solent ; ubi usitata remedia non procedunt, tentant contraria. Severitate nihil adhuc profecisti : Salvidienum Lepidus secutus est, Lepidum Muraena, Muraenam, Caepio, Caepionem Egnatius, ut alios taceam quos tantum ausos pudet ; nunc tenta quomodo tibi cedat clementia. Ignlosce L. Cinnae ; deprehensus est ; jam nocere tibi non potest, prodesse famae tuae potest. Gavisus sibi quod advocatum invenerat, uxori quidem gratias egit ; renuntiari autem extemplo amicis quos in consilium rogaverat imperavit, et Cinnam unum ad se accersit, dimissisque omnibus e cubiculo, quum alteram poni Cinnae cathedram jussisset : Hoc, inquit, Primum a te peto, ne me loquentem interpelles, ne medio sermone meo proclames ; dabitur tibi loquendi liberum tempus. Ego te, Cinna, quum in hostium castris invenissem, non factum tantum mihi inimicum, sed natum, servavi ; patrimonium tibi omne concessi ; hodie tam felix es et tam dives, ut victo victores invideant : sacerdotium tibi petenti, praeteritis, compluribus quorum parentes mecum militaverant, dedi. Quum sic de te meruerim, occidere me constituisti. Quum ad hanc vocem exclamasset Cinna, procul hanc ab se abesse dementiam : Non praestas, inquit, fidem, Cinna ; convenerat ne interloquereris. Occidere, inquam, me paras." Adjecit locum, socios, diem, ordinem insidiarum, cui commissum esset ferrum ; et quum defixum videret, nec ex conventione jam, sed ex conscientia tacentem : Quo, inquit, hoc animo facis ? Ut ipse sis princeps ? Male, mehercule, cum republica agitur, si tibi ad imperandum nihil praeter me obstat. Domum tuam tueri non potes ; nuper libertini hominis gratia in privato judicio superatus es. Adeo nihil facilius putas quam contra Caesasem advocare ? Cedo, si spes tuas solus impedio, Paulusne te et Fabius Maximus et Cossi et Servilii ferent, tantumque agmen nobilium, non inania nomina praeferentium, sed eorum qui imaginibus suis decori sunt ? Ne totam ejus orationem repetendo magnam partem voluminis occupem, diutius enim quam duabus horis locutum esse constat, quum hanc poenam qua sola erat contentus futurus, extenderet : Vitam tibi, inquit, Cinna, iterum do, prius hosti, nunc insidiatori ac parricidae. Ex hodierno die inter nos amicitia incipiat. Contendamus utrum ego meliore fide vitam tibi dederim, an tu debeas. Post haec detulit ultro consulatum, questus quod non auderet petere ; amicissimum, fidelissimumque habuit ; haeres solus fuit illi ; nullis amplius insidiis ab ullo petitus est.</p>
+	</preface>
+	<preface><head>Livre I de ses Essais, chapitre XXIII.</head>
+		<p>L'empereur Auguste, étant en la Gaule, reçut certain avertissement d'une conJuration que lui brassait L. Cinna : il délibéra de s'en venger, et manda pour cet effet au lendemain le conseil de ses amis. Mais la nuit d'entre deux, il la passa avecques grande inquiétude, considérant qu'il avait à faire mourir un jeune homme de bonne maison et neveu du grand Pompeius, et produisait en se plaignant plusieurs divers discours : « Quoi doncques, disait il, sera il vrai que je demeurerai en crainte et en alarme, et que je laisserai mon meurtrier se promener cependant à son aise ? S'en ira il quitte, ayant assailli ma tête, que j'ai sauvée de tant de guerres civiles, de tant de batailles par mer et par terre, et après avoir établi la paix universelle du monde ? Sera il absout, ayant délibéré non de me meurtrir seulement, mais de me sacrifier ? » car la conjuration était faite de le tuer comme il ferait quelque sacrifice. Après cela, s'étant tenu coi quelque espace de temps, il recommençait d'une voix plus forte, et s'en prenait à soi-même : « Pourquoi vis tu, s'il importe à tant de gens que tu meures ? N'y aura il point de fin à tes vengeances et à tes cruautés ? Ta vie vaut elle que tant de dommage se fasse pour la conserver ? » Livia, sa femme, le sentant en ces angoisses : « Et les conseils des femmes y seront ils reçus ? lui dit elle : fais ce que font les médecins ; quand les recettes accoutumées ne peuvent servir, ils en essayent de contraires. Par sévérité, tu n'a jusques à cette heure rien profité : Lepidus a suyvi Salvidienus ; Murena, Lepidus ; Caepio, Murena ; Egnatius, Caepio : commence à expérimenter comment te succéderont la douceur et la clémence. Cinna est convaincu, pardonne-lui ; de te nuire désormais, il ne pourra, et profitera à ta gloire. » Auguste fut bien aise d'avoir trouvé un avocat de son humeur, et ayant remercié sa femme, et contremandé ses amis qu'il avait assignés au conseil, commanda qu'on fit venir à lui Cinna tout seul ; et ayant fait sortir tout le monde de sa chambre, et fait donner un siège à Cinna, il lui parla en cette manière : « En premier lieu, je te demande, Cinna, paisible audience ; n'interromps pas mon parler : je te donnerai temps et loisir d'y répondre. Tu sais, Cinna, que t'ayant pris au camp de mes ennemis, non seulement t'étant fait mon ennemi, mais étant né tel, je te sauvai, je te mis entre mains tous tes biens, et t'ai enfin rendu si accommodé et si aisé, que les victorieux sont envieux de la condition du vaincu : l'office du sacerdoce que tu me demandas, je te l'octroyai, l'ayant refusé à d'autres, desquels les pères avaient toujours combattu avecques moi. T'ayant si fort obligé, tu as entrepris de me tuer. » À quoi Cinna s'étant écrié qu'il était bien éloigné d'une si méchante pensée : « Tu ne me tiens pas, Cinna, ce que tu m'avais promis, suivit Auguste ; tu m'avais assuré que je ne serai pas interrompu. Oui, tu as entrepris de me tuer en tel lieu, tel jour, en tel compagnie, et de telle façon. » Et le voyant transi de ces nouvelles, et en silence, non plus pour tenir le marché de se taire, mais de la presse de sa conscience : « Pourquoi, ajouta il, le fais-tu ? Est ce pour être Empereur ? Vraiment il va bien mal à la chose publique, s'il n'y a que moi qui t'empêche d'arriver à l'Empire. Tu ne peux pas seulement défendre ta maison, et perdis dernièrement un procès par la faveur d'un simple libertin. Quoi ! N'as tu pas moyen ni pouvoir en autre chose qu'à entreprendre César ? Je le quitte, s'il n'y a que moi qui empêche tes espérances. Penses-tu que Paulus, que Fabius, que les Cosseens et Serviliens te souffrent, et une si grande troupe de nobles, non seulement nobles de nom, mais qui par leur vertu honorent leur noblesse ? » Après plusieurs autres propos (car il parla à lui plus de deux heures entières) : « Or va, lui dit il, je te donne, Cinna, la vie à traître et à parricide, que je te donnai autrefois à ennemi ; que l'amitié commence de ce jourd'hui entre nous ; essayons qui de nous deux de meilleure foi, moi t'aie donné ta vie, ou tu l'aies reçue. » Et se départit d'avecques lui en cette manière. Quelque temps après, il lui donna le consulat, se plaignant de quoi il ne lui avait osé demander. Il l'eut depuis pour fort ami, et fut seul fait par lui héritier de ses biens. Or depuis cet accident, qui advint à Auguste au quarantième an de son âge, il n'y eut jamais de conjuration ni d'entreprise contre lui, et reçut une juste récompense de cette sienne clémence.</p>
+	</preface>
+		<performance>
+			<premiere date='1639' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1639 à l'Hôtel de Bourgogne.</premiere>
+		</performance>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="OCTAVE" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>OCTAVE-CÉSAR AUGUSTE</role>, empereur de Rome.</castItem>
+			<castItem><role id="LIVIE" civil='F' type="H" statut='empereur' age='A' stat_amour='néant'>LIVIE</role>, impératrice.</castItem>
+			<castItem><role id="CINNA" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CINNA</role>, fils d'une fille de Pompée, chef de la conjuration contre Auguste.</castItem>
+			<castItem><role id="MAXIME" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>MAXIME</role>, autre chef de la conjuration.</castItem>
+			<castItem><role id="ÉMILIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ÉMILIE</role>, fille de C. Toranius, tuteur d'Auguste, et proscrit par lui durant le triumvirat.</castItem>
+			<castItem><role id="FULVIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>FULVIE</role>, confidente d'Émilie.</castItem>
+			<castItem><role id="POLYCLETE" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>POLYCLÈTE</role>, affranchi d'Auguste.</castItem>
+			<castItem><role id="EVANDRE" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>ÉVANDRE</role>, affranchi de Cinna.</castItem>
+			<castItem><role id="EUPHORBE" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>EUPHORBE</role>, affranchi de Maxime.</castItem>
+		</castList>
+		<set location='Rome' country='Italie' periode='Ier avant JC' link=''>La scène est à Rome.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1'>Impatients désirs d'une illustre vengeance</l>
+	<l id='2'>Dont la mort de mon père a formé la naissance,</l>
+	<l id='3'>Enfants impétueux de mon ressentiment,</l>
+	<l id='4'>Que ma douleur séduite embrasse aveuglément,</l>
+	<l id='5'>Vous prenez sur mon âme un trop puissant empire ;</l>
+	<l id='6'>Durant quelques moments souffrez que je respire,</l>
+	<l id='7'>Et que je considère, en l'état où je suis,</l>
+	<l id='8'>Et ce que je hasarde, et ce que je poursuis.</l>
+	<l id='9'>Quand je regarde Auguste au milieu de sa gloire,</l>
+	<l id='10'>Et que vous reprochez à ma triste mémoire</l>
+	<l id='11'>Que par sa propre main mon père massacré</l>
+	<l id='12'>Du trône où je le vois fait le premier degré ;</l>
+	<l id='13'>Quand vous me présentez cette sanglante image,</l>
+	<l id='14'>La cause de ma haine, et l'effet de sa rage,</l>
+	<l id='15'>Je m'abandonne toute à vos ardents transports,</l>
+	<l id='16'>Et crois, pour une mort, lui devoir mille morts.</l>
+	<l id='17'>Au milieu toutefois d'une fureur si juste,</l>
+	<l id='18'>J'aime encor plus Cinna que je ne hais Auguste,</l>
+	<l id='19'>Et je sens refroidir ce bouillant mouvement</l>
+	<l id='20'>Quand il faut, pour le suivre, exposer mon amant.</l>
+	<l id='21'>Oui, Cinna, contre moi, moi-même je m'irrite</l>
+	<l id='22'>Quand je songe aux dangers où je te précipite.</l>
+	<l id='23'>Quoique pour me servir tu n'appréhendes rien,</l>
+	<l id='24'>Te demander du sang, c'est exposer le tien :</l>
+	<l id='25'>D'une si haute place on n'abat point de têtes</l>
+	<l id='26'>Sans attirer sur soi mille et mille tempêtes ;</l>
+	<l id='27'>L'issue en est douteuse, et le péril certain :</l>
+	<l id='28'>Un ami déloyal peut trahir ton dessein ;</l>
+	<l id='29'>L'ordre mal concerté, l'occasion mal prise,</l>
+	<l id='30'>Peuvent sur son auteur renverser l'entreprise,</l>
+	<l id='31'>Tourner sur toi les coups dont tu le veux frapper ;</l>
+	<l id='32'>Dans sa ruine même il peut t'envelopper ;</l>
+	<l id='33'>Et quoi qu'en ma faveur ton amour exécute,</l>
+	<l id='34'>Il te peut, en tombant, écraser sous sa chute.</l>
+	<l id='35'>Ah ! Cesse de courir à ce mortel danger ;</l>
+	<l id='36'>Te perdre en me vengeant, ce n'est pas me venger.</l>
+	<l id='37'>Un cœur est trop cruel quand il trouve des charmes</l>
+	<l id='38'>Aux douceurs que corrompt l'amertume des larmes ;</l>
+	<l id='39'>Et l'on doit mettre au rang des plus cuisants malheurs</l>
+	<l id='40'>La mort d'un ennemi qui coûte tant de pleurs.</l>
+	<l id='41'>Mais peut-on en verser alors qu'on venge un père ?</l>
+	<l id='42'>Est-il perte à ce prix qui ne semble légère ?</l>
+	<l id='43'>Et quand son assassin tombe sous notre effort,</l>
+	<l id='44'>Doit-on considérer ce que coûte sa mort ?</l>
+	<l id='45'>Cessez, vaines frayeurs, cessez, lâches tendresses,</l>
+	<l id='46'>De jeter dans mon cœur vos indignes faiblesses ;</l>
+	<l id='47'>Et toi qui les produis par tes soins superflus,</l>
+	<l id='48'>Amour, sers mon devoir, et ne le combats plus :</l>
+	<l id='49'>Lui céder, c'est ta gloire, et le vaincre, ta honte :</l>
+	<l id='50'>Montre-toi généreux, souffrant qu'il te surmonte ;</l>
+	<l id='51'>Plus tu lui donneras, plus il te va donner,</l>
+	<l id='52'>Et ne triomphera que pour te couronner.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Émilie, Fulvie.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='53'>Je l'ai juré, Fulvie, et je le jure encore,</l>
+	<l id='54'>Quoique j'aime Cinna, quoique mon cœur l'adore,</l>
+	<l id='55'>S'il me veut posséder, Auguste doit périr :</l>
+	<l id='56'>Sa tête est le seul prix dont il peut m'acquérir.</l>
+	<l id='57'>Je lui prescris la loi que mon devoir m'impose.</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='58'>Elle a pour la blâmer une trop juste cause :</l>
+	<l id='59'>Par un si grand dessein vous vous faites juger</l>
+	<l id='60'>Digne sang de celui que vous voulez venger ;</l>
+	<l id='61'>Mais encore une fois souffrez que je vous die</l>
+	<l id='62'>Qu'une si juste ardeur devrait être attiédie.</l>
+	<l id='63'>Auguste chaque jour, à force de bienfaits,</l>
+	<l id='64'>Semble assez réparer les maux qu'il vous a faits ;</l>
+	<l id='65'>Sa faveur envers vous paraît si déclarée,</l>
+	<l id='66'>Que vous êtes chez lui la plus considérée ;</l>
+	<l id='67'>Et de ses courtisans souvent les plus heureux</l>
+	<l id='68'>Vous pressent à genoux de lui parler pour eux.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='69'>Toute cette faveur ne me rend pas mon père ;</l>
+	<l id='70'>Et de quelque façon que l'on me considère,</l>
+	<l id='71'>Abondante en richesse, ou puissante en crédit,</l>
+	<l id='72'>Je demeure toujours la fille d'un proscrit.</l>
+	<l id='73'>Les bienfaits ne font pas toujours ce que tu penses ;</l>
+	<l id='74'>D'une main odieuse ils tiennent lieu d'offenses :</l>
+	<l id='75'>Plus nous en prodiguons à qui nous peut haïr,</l>
+	<l id='76'>Plus d'armes nous donnons à qui nous veut trahir.</l>
+	<l id='77'>Il m'en fait chaque jour sans changer mon courage ;</l>
+	<l id='78'>Je suis ce que j'étais, et je puis davantage,</l>
+	<l id='79'>Et des mêmes présents qu'il verse dans mes mains</l>
+	<l id='80'>J'achète contre lui les esprits des Romains ;</l>
+	<l id='81'>Je recevrais de lui la place de Livie</l>
+	<l id='82'>Comme un moyen plus sûr d'attenter à sa vie.</l>
+	<l id='83'>Pour qui venge son père il n'est point de forfaits,</l>
+	<l id='84'>Et c'est vendre son sang que se rendre aux bienfaits.</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='85'>Quel besoin toutefois de passer pour ingrate ?</l>
+	<l id='86'>Ne pouvez-vous haïr sans que la haine éclate ?</l>
+	<l id='87'>Assez d'autres sans vous n'ont pas mis en oubli</l>
+	<l id='88'>Par quelles cruautés son trône est établi :</l>
+	<l id='89'>Tant de braves Romains, tant d'illustres victimes,</l>
+	<l id='90'>Qu'à son ambition ont immolé ses crimes,</l>
+	<l id='91'>Laissent à leurs enfants d'assez vives douleurs</l>
+	<l id='92'>Pour venger votre perte en vengeant leurs malheurs.</l>
+	<l id='93'>Beaucoup l'ont entrepris, mille autres vont les suivre :</l>
+	<l id='94'>Qui vit haï de tous ne saurait longtemps vivre :</l>
+	<l id='95'>Remettez à leurs bras les communs intérêts,</l>
+	<l id='96'>Et n'aidez leurs desseins que par des vœux secrets.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='97'>Quoi ? je le haïrai sans tâcher de lui nuire ?</l>
+	<l id='98'>J'attendrai du hasard qu'il ose le détruire ?</l>
+	<l id='99'>Et je satisferai des devoirs si pressants</l>
+	<l id='100'>Par une haine obscure et des vœux impuissants ?</l>
+	<l id='101'>Sa perte, que je veux, me deviendrait amère,</l>
+	<l id='102'>Si quelqu'un l'immolait à d'autres qu'à mon père ;</l>
+	<l id='103'>Et tu verrais mes pleurs couler pour son trépas,</l>
+	<l id='104'>Qui, le faisant périr, ne me vengerait pas.</l>
+	<l id='105'>C'est une lâcheté que de remettre à d'autres</l>
+	<l id='106'>Les intérêts publics qui s'attachent aux nôtres.</l>
+	<l id='107'>Joignons à la douceur de venger nos parents</l>
+	<l id='108'>La gloire qu'on remporte à punir les tyrans,</l>
+	<l id='109'>Et faisons publier par toute l'Italie :</l>
+	<l id='110'>« La liberté de Rome est l'œuvre d'Émilie ;</l>
+	<l id='111'>On a touché son âme, et son cœur s'est épris ;</l>
+	<l id='112'>Mais elle n'a donné son amour qu'à ce prix. »</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='113'>Votre amour à ce prix n'est qu'un présent funeste</l>
+	<l id='114'>Qui porte à votre amant sa perte manifeste.</l>
+	<l id='115'>Pensez mieux, Émilie, à quoi vous l'exposez,</l>
+	<l id='116'>Combien à cet écueil se sont déjà brisés ;</l>
+	<l id='117'>Ne vous aveuglez point quand sa mort est visible.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='118'>Ah ! tu sais me frapper par où je suis sensible.</l>
+	<l id='119'>Quand je songe aux dangers que je lui fais courir,</l>
+	<l id='120'>La crainte de sa mort me fait déjà mourir ;</l>
+	<l id='121'>Mon esprit en désordre à soi-même s'oppose :</l>
+	<l id='122'>Je veux et ne veux pas, je m'emporte et je n'ose ;</l>
+	<l id='123'>Et mon devoir confus, languissant, étonné,</l>
+	<l id='124'>Cède aux rébellions de mon cœur mutiné.</l>
+	<l id='125'>Tout beau, ma passion, deviens un peu moins forte ;</l>
+	<l id='126'>Tu vois bien des hasards, ils sont grands, mais n'importe :</l>
+	<l id='127'>Cinna n'est pas perdu pour être hasardé.</l>
+	<l id='128'>De quelques légions qu'Auguste soit gardé,</l>
+	<l id='129'>Quelque soin qu'il se donne et quelque ordre qu'il tienne,</l>
+	<l id='130'>Qui méprise sa vie est maître de la sienne.</l>
+	<l id='131'>Plus le péril est grand, plus doux en est le fruit ;</l>
+	<l id='132'>La vertu nous y jette, et la gloire le suit.</l>
+	<l id='133'>Quoi qu'il en soit, qu'Auguste ou que Cinna périsse,</l>
+	<l id='134'>Aux mânes paternels je dois ce sacrifice ;</l>
+	<l id='135'>Cinna me l'a promis en recevant ma foi ;</l>
+	<l id='136'>Et ce coup seul aussi le rend digne de moi.</l>
+	<l id='137'>Il est tard, après tout, de m'en vouloir dédire.</l>
+	<l id='138'>Aujourd'hui l'on s'assemble, aujourd'hui l'on conspire,</l>
+	<l id='139'>L'heure, le lieu, le bras se choisit aujourd'hui ;</l>
+	<l id='140'>Et c'est à faire enfin à mourir après lui.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Cinna, Émilie, Fulvie.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='141'>Mais le voici qui vient. Cinna, votre assemblée</l>
+	<l id='142'>Par l'effroi du péril n'est-elle point troublée ?</l>
+	<l id='143'>Et reconnaissez-vous au front de vos amis</l>
+	<l id='144'>Qu'ils soient prêts à tenir ce qu'ils vous ont promis ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='145'>Jamais contre un tyran entreprise conçue</l>
+	<l id='146'>Ne permit d'espérer une si belle issue ;</l>
+	<l id='147'>Jamais de telle ardeur on n'en jura la mort,</l>
+	<l id='148'>Et jamais conjurés ne furent mieux d'accord ;</l>
+	<l id='149'>Tous s'y montrent portés avec tant d'allégresse,</l>
+	<l id='150'>Qu'ils semblent, comme moi, servir une maîtresse ;</l>
+	<l id='151'>Et tous font éclater un si puissant courroux,</l>
+	<l id='152'>Qu'ils semblent tous venger un père comme vous.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='153'>Je l'avais bien prévu, que, pour un tel ouvrage,</l>
+	<l id='154'>Cinna saurait choisir des hommes de courage,</l>
+	<l id='155'>Et ne remettrait pas en de mauvaises mains</l>
+	<l id='156'>L'intérêt d'Émilie et celui des Romains.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='157'>Plût aux dieux que vous-même eussiez vu de quel zèle</l>
+	<l id='158'>Cette troupe entreprend une action si belle ! </l>
+	<l id='159'>Au seul nom de César, d'Auguste, et d'empereur,</l>
+	<l id='160'>Vous eussiez vu leurs yeux s'enflammer de fureur,</l>
+	<l id='161'>Et dans un même instant, par un effet contraire,</l>
+	<l id='162'>Leur front pâlir d'horreur et rougir de colère.</l>
+	<l id='163'>"Amis, leur ai-je dit, voici le jour heureux</l>
+	<l id='164'>Qui doit conclure enfin nos desseins généreux ;</l>
+	<l id='165'>Le ciel entre nos mains a mis le sort de Rome,</l>
+	<l id='166'>Et son salut dépend de la perte d'un homme,</l>
+	<l id='167'>Si l'on doit le nom d'homme à qui n'a rien d'humain,</l>
+	<l id='168'>A ce tigre altéré de tout le sang romain.</l>
+	<l id='169'>Combien pour le répandre a-t-il formé de brigues ! </l>
+	<l id='170'>Combien de fois changé de partis et de ligues,</l>
+	<l id='171'>Tantôt ami d'Antoine, et tantôt ennemi,</l>
+	<l id='172'>Et jamais insolent ni cruel à demi ! "</l>
+	<l id='173'>Là, par un long récit de toutes les misères</l>
+	<l id='174'>Que durant notre enfance ont enduré nos pères,</l>
+	<l id='175'>Renouvelant leur haine avec leur souvenir,</l>
+	<l id='176'>Je redouble en leurs cœurs l'ardeur de le punir.</l>
+	<l id='177'>Je leur fais des tableaux de ces tristes batailles</l>
+	<l id='178'>Où Rome par ses mains déchirait ses entrailles,</l>
+	<l id='179'>Où l'aigle abattait l'aigle, et de chaque côté</l>
+	<l id='180'>Nos légions s'armaient contre leur liberté ;</l>
+	<l id='181'>Où les meilleurs soldats et les chefs les plus braves</l>
+	<l id='182'>Mettaient toute leur gloire à devenir esclaves ;</l>
+	<l id='183'>Où, pour mieux assurer la honte de leurs fers,</l>
+	<l id='184'>Tous voulaient à leur chaîne attacher l'univers ;</l>
+	<l id='185'>Et l'exécrable honneur de lui donner un maître</l>
+	<l id='186'>Faisant aimer à tous l'infâme nom de traître,</l>
+	<l id='187'>Romains contre Romains, parents contre parents,</l>
+	<l id='188'>Combattaient seulement pour le choix des tyrans.</l>
+	<l id='189'>J'ajoute à ces tableaux la peinture effroyable</l>
+	<l id='190'>De leur concorde impie, affreuse, inexorable,</l>
+	<l id='191'>Funeste aux gens de bien, aux riches, au sénat,</l>
+	<l id='192'>Et pour tout dire enfin, de leur triumvirat ;</l>
+	<l id='193'>Mais je ne trouve point de couleurs assez noires</l>
+	<l id='194'>Pour en représenter les tragiques histoires.</l>
+	<l id='195'>Je les peins dans le meurtre à l'envi triomphants,</l>
+	<l id='196'>Rome entière noyée au sang de ses enfants :</l>
+	<l id='197'>Les uns assassinés dans les places publiques,</l>
+	<l id='198'>Les autres dans le sein de leurs dieux domestiques ;</l>
+	<l id='199'>Le méchant par le prix au crime encouragé,</l>
+	<l id='200'>Le mari par sa femme en son lit égorgé ;</l>
+	<l id='201'>Le fils tout dégouttant du meurtre de son père,</l>
+	<l id='202'>Et sa tête à la main demandant son salaire,</l>
+	<l id='203'>Sans pouvoir exprimer par tant d'horribles traits</l>
+	<l id='204'>Qu'un crayon imparfait de leur sanglante paix.</l>
+	<l id='205'>Vous dirai-je les noms de ces grands personnages</l>
+	<l id='206'>Dont j'ai dépeint les morts pour aigrir les courages,</l>
+	<l id='207'>De ces fameux proscrits, ces demi-dieux mortels,</l>
+	<l id='208'>Qu'on a sacrifiés jusque sur les autels ?</l>
+	<l id='209'>Mais pourrais-je vous dire à quelle impatience,</l>
+	<l id='210'>À quels frémissements, à quelle violence,</l>
+	<l id='211'>Ces indignes trépas, quoique mal figurés,</l>
+	<l id='212'>Ont porté les esprits de tous nos conjurés ?</l>
+	<l id='213'>Je n'ai point perdu temps, et voyant leur colère</l>
+	<l id='214'>Au point de ne rien craindre, en état de tout faire,</l>
+	<l id='215'>J'ajoute en peu de mots : "Toutes ces cruautés,</l>
+	<l id='216'>La perte de nos biens et de nos libertés,</l>
+	<l id='217'>Le ravage des champs, le pillage des villes,</l>
+	<l id='218'>Et les proscriptions, et les guerres civiles,</l>
+	<l id='219'>Sont les degrés sanglants dont Auguste a fait choix</l>
+	<l id='220'>Pour monter sur le trône et nous donner des lois.</l>
+	<l id='221'>Mais nous pouvons changer un destin si funeste,</l>
+	<l id='222'>Puisque de trois tyrans, c'est le seul qui nous reste,</l>
+	<l id='223'>Et que, juste une fois, il s'est privé d'appui,</l>
+	<l id='224'>Perdant, pour régner seul, deux méchants comme lui.</l>
+	<l id='225'>Lui mort, nous n'avons point de vengeur ni de maître ;</l>
+	<l id='226'>Avec la liberté Rome s'en va renaître ;</l>
+	<l id='227'>Et nous mériterons le nom de vrais Romains,</l>
+	<l id='228'>Si le joug qui l'accable est brisé par nos mains.</l>
+	<l id='229'>Prenons l'occasion tandis qu'elle est propice :</l>
+	<l id='230'>Demain au Capitole il fait un sacrifice ;</l>
+	<l id='231'>Qu'il en soit la victime, et faisons en ces lieux</l>
+	<l id='232'>Justice à tout le monde, à la face des dieux :</l>
+	<l id='233'>Là presque pour sa suite il n'a que notre troupe ;</l>
+	<l id='234'>C'est de ma main qu'il prend et l'encens et la coupe ;</l>
+	<l id='235'>Et je veux pour signal que cette même main</l>
+	<l id='236'>Lui donne, au lieu d'encens, d'un poignard dans le sein.</l>
+	<l id='237'>Ainsi d'un coup mortel la victime frappée</l>
+	<l id='238'>Fera voir si je suis du sang du grand Pompée ;</l>
+	<l id='239'>Faites voir, après moi, si vous vous souvenez</l>
+	<l id='240'>Des illustres aïeux de qui vous êtes nés."</l>
+	<l id='241'>A peine ai-je achevé, que chacun renouvelle,</l>
+	<l id='242'>Par un noble serment, le vœu d'être fidèle :</l>
+	<l id='243'>L'occasion leur plaît ; mais chacun veut pour soi</l>
+	<l id='244'>L'honneur du premier coup que j'ai choisi pour moi.</l>
+	<l id='245'>La raison règle enfin l'ardeur qui les emporte :</l>
+	<l id='246'>Maxime et la moitié s'assurent de la porte ;</l>
+	<l id='247'>L'autre moitié me suit, et doit l'environner,</l>
+	<l id='248'>Prête au moindre signal que je voudrai donner.</l>
+	<l id='249'>Voilà, belle Émilie, à quel point nous en sommes.</l>
+	<l id='250'>Demain j'attends la haine ou la faveur des hommes,</l>
+	<l id='251'>Le nom de parricide, ou de libérateur,</l>
+	<l id='252'>César celui de prince, ou d'un usurpateur.</l>
+	<l id='253'>Du succès qu'on obtient contre la tyrannie</l>
+	<l id='254'>Dépend ou notre gloire, ou notre ignominie ;</l>
+	<l id='255'>Et le peuple, inégal à l'endroit des tyrans,</l>
+	<l id='256'>S'il les déteste morts, les adore vivants.</l>
+	<l id='257'>Pour moi, soit que le ciel me soit dur ou propice,</l>
+	<l id='258'>Qu'il m'élève à la gloire, ou me livre au supplice,</l>
+	<l id='259'>Que Rome se déclare ou pour ou contre nous,</l>
+	<l id='260'>Mourant pour vous servir tout me semblera doux.</l>
+	<l id='261'>Ne crains point de succès qui souille ta mémoire :</l>
+	<l id='262'>Le bon et le mauvais sont égaux pour ta gloire ;</l>
+	<l id='263'>Et, dans un tel dessein, le manque de bonheur</l>
+	<l id='264'>Met en péril ta vie, et non pas ton honneur.</l>
+	<l id='265'>Regarde le malheur de Brute et de Cassie ;</l>
+	<l id='266'>La splendeur de leurs noms en est-elle obscurcie ?</l>
+	<l id='267'>Sont-ils morts tous entiers avec leurs grands desseins ?</l>
+	<l id='268'>Ne les compte-t-on plus pour les derniers Romains ?</l>
+	<l id='269'>Leur mémoire dans Rome est encor précieuse,</l>
+	<l id='270'>Autant que de César la vie est odieuse ;</l>
+	<l id='271'>Si leur vainqueur y règne, ils y sont regrettés,</l>
+	<l id='272'>Et par les vœux de tous leurs pareils souhaités.</l>
+	<l id='273'>Va marcher sur leurs pas où l'honneur te convie :</l>
+	<l id='274'>Mais ne perds pas le soin de conserver ta vie ;</l>
+	<l id='275'>Souviens-toi du beau feu dont nous sommes épris,</l>
+	<l id='276'>Qu'aussi bien que la gloire Émilie est ton prix ;</l>
+	<l id='277'>Que tu me dois ton cœur, que mes faveurs t'attendent,</l>
+	<l id='278'>Que tes jours me sont chers, que les miens en dépendent.</l>
+	<l id='279'>Mais quelle occasion mène Évandre vers nous ?</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Cinna, Émilie, Évandre, Fulvie.</head>
+<sp who='EVANDRE'><speaker>ÉVANDRE</speaker>
+	<l id='280'>Seigneur, César vous mande, et Maxime avec vous.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='281'>Et Maxime avec moi ! Le sais-tu bien, Évandre ?</l>
+</sp>
+<sp who='EVANDRE'><speaker>ÉVANDRE</speaker>
+	<l id='282'>Polyclète est encor chez vous à vous attendre,</l>
+	<l id='283'>Et fût venu lui-même avec moi vous chercher,</l>
+	<l id='284'>Si ma dextérité n'eût su l'en empêcher ;</l>
+	<l id='285'>Je vous en donne avis de peur d'une surprise.</l>
+	<l id='286' part='i'>Il presse fort.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='286' part='f'>Mander les chefs de l'entreprise ! </l>
+	<l id='287'>Tous deux ! en même temps ! Vous êtes découverts.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='288' part='i'>Espérons mieux, de grâce.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='288' part='f'>Ah ! Cinna ! je te perds ! </l>
+	<l id='289'>Et les dieux, obstinés à nous donner un maître,</l>
+	<l id='290'>Parmi tes vrais amis ont mêlé quelque traître.</l>
+	<l id='291'>Il n'en faut point douter, Auguste a tout appris.</l>
+	<l id='292'>Quoi, tous deux ! et sitôt que le conseil est pris ! </l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='293'>Je ne vous puis celer que son ordre m'étonne ;</l>
+	<l id='294'>Mais souvent il m'appelle auprès de sa personne,</l>
+	<l id='295'>Maxime est comme moi de ses plus confidents,</l>
+	<l id='296'>Et nous nous alarmons peut-être en imprudents.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='297'>Sois moins ingénieux à te tromper toi-même,</l>
+	<l id='298'>Cinna ; ne porte point mes maux jusqu'à l'extrême ;</l>
+	<l id='299'>Et, puisque désormais tu ne peux me venger,</l>
+	<l id='300'>Dérobe au moins ta tête à ce mortel danger ;</l>
+	<l id='301'>Fuis d'Auguste irrité l'implacable colère.</l>
+	<l id='302'>Je verse assez de pleurs pour la mort de mon père ;</l>
+	<l id='303'>N'aigris point ma douleur par un nouveau tourment ;</l>
+	<l id='304'>Et ne me réduis point à pleurer mon amant.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='305'>Quoi ! sur l'illusion d'une terreur panique,</l>
+	<l id='306'>Trahir vos intérêts et la cause publique ! </l>
+	<l id='307'>Par cette lâcheté moi-même m'accuser,</l>
+	<l id='308'>Et tout abandonner quand il faut tout oser ! </l>
+	<l id='309'>Que feront nos amis, si vous êtes déçue ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='310'>Mais que deviendras-tu, si l'entreprise est sue ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='311'>S'il est pour me trahir des esprits assez bas,</l>
+	<l id='312'>Ma vertu pour le moins ne me trahira pas :</l>
+	<l id='313'>Vous la verrez, brillante au bord des précipices,</l>
+	<l id='314'>Se couronner de gloire en bravant les supplices,</l>
+	<l id='315'>Rendre Auguste jaloux du sang qu'il répandra,</l>
+	<l id='316'>Et le faire trembler alors qu'il me perdra.</l>
+	<l id='317'>Je deviendrais suspect à tarder davantage.</l>
+	<l id='318'>Adieu. Raffermissez ce généreux courage.</l>
+	<l id='319'>S'il faut subir le coup d'un destin rigoureux,</l>
+	<l id='320'>Je mourrai tout ensemble heureux et malheureux :</l>
+	<l id='321'>Heureux pour vous servir de perdre ainsi la vie,</l>
+	<l id='322'>Malheureux de mourir sans vous avoir servie.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='323'>Oui, va, n'écoute plus ma voix qui te retient ;</l>
+	<l id='324'>Mon trouble se dissipe, et ma raison revient.</l>
+	<l id='325'>Pardonne à mon amour cette indigne faiblesse.</l>
+	<l id='326'>Tu voudrais fuir en vain, Cinna, je le confesse,</l>
+	<l id='327'>Si tout est découvert, Auguste a su pourvoir</l>
+	<l id='328'>A ne te laisser pas ta fuite en ton pouvoir.</l>
+	<l id='329'>Porte, porte chez lui cette mâle assurance,</l>
+	<l id='330'>Digne de notre amour, digne de ta naissance ;</l>
+	<l id='331'>Meurs, s'il y faut mourir, en citoyen romain,</l>
+	<l id='332'>Et par un beau trépas couronne un beau dessein.</l>
+	<l id='333'>Ne crains pas qu'après toi rien ici me retienne :</l>
+	<l id='334'>Ta mort emportera mon âme vers la tienne ;</l>
+	<l id='335'>Et mon cœur aussitôt, percé des mêmes coups...</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='336'>Ah ! souffrez que tout mort je vive encore en vous ;</l>
+	<l id='337'>Et du moins en mourant permettez que j'espère</l>
+	<l id='338'>Que vous saurez venger l'amant avec le père.</l>
+	<l id='339'>Rien n'est pour vous à craindre ; aucun de nos amis</l>
+	<l id='340'>Ne sait ni vos desseins, ni ce qui m'est promis ;</l>
+	<l id='341'>Et, leur parlant tantôt des misères romaines,</l>
+	<l id='342'>Je leur ai tu la mort qui fait naître nos haines,</l>
+	<l id='343'>De peur que mon ardeur, touchant vos intérêts,</l>
+	<l id='344'>D'un si parfait amour ne trahît les secrets ;</l>
+	<l id='345'>Il n'est su que d'Évandre et de votre Fulvie.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='346'>Avec moins de frayeur, je vais donc chez Livie,</l>
+	<l id='347'>Puisque dans ton péril il me reste un moyen</l>
+	<l id='348'>De faire agir pour toi son crédit et le mien :</l>
+	<l id='349'>Mais si mon amitié par là ne te délivre,</l>
+	<l id='350'>N'espère pas qu'enfin je veuille te survivre.</l>
+	<l id='351'>Je fais de ton destin des règles à mon sort,</l>
+	<l id='352'>Et j'obtiendrai ta vie, ou je suivrai ta mort.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='353'>Soyez en ma faveur moins cruelle à vous-même.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='354'>Va-t'en, et souviens-toi seulement que je t'aime.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Auguste, Cinna, Maxime, troupe de courtisans.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='355'>Que chacun se retire, et qu'aucun n'entre ici.</l>
+	<l id='356'>Vous, Cinna, demeurez, et vous, Maxime, aussi.</l>
+<stage>Tous se retirent, à la réserve de Cinna et de Maxime.</stage>
+	<l id='357'>Cet empire absolu sur la terre et sur l'onde,</l>
+	<l id='358'>Ce pouvoir souverain que j'ai sur tout le monde,</l>
+	<l id='359'>Cette grandeur sans borne et cet illustre rang,</l>
+	<l id='360'>Qui m'a jadis coûté tant de peine et de sang,</l>
+	<l id='361'>Enfin tout ce qu'adore en ma haute fortune</l>
+	<l id='362'>D'un courtisan flatteur la présence importune,</l>
+	<l id='363'>N'est que de ces beautés dont l'éclat éblouit,</l>
+	<l id='364'>Et qu'on cesse d'aimer sitôt qu'on en jouit.</l>
+	<l id='365'>L'ambition déplaît quand elle est assouvie,</l>
+	<l id='366'>D'une contraire ardeur son ardeur est suivie ;</l>
+	<l id='367'>Et comme notre esprit, jusqu'au dernier soupir,</l>
+	<l id='368'>Toujours vers quelque objet pousse quelque désir,</l>
+	<l id='369'>Il se ramène en soi, n'ayant plus où se prendre,</l>
+	<l id='370'>Et, monté sur le faîte, il aspire à descendre.</l>
+	<l id='371'>J'ai souhaité l'empire, et j'y suis parvenu ;</l>
+	<l id='372'>Mais, en le souhaitant, je ne l'ai pas connu :</l>
+	<l id='373'>Dans sa possession, j'ai trouvé pour tous charmes</l>
+	<l id='374'>D'effroyables soucis, d'éternelles alarmes,</l>
+	<l id='375'>Mille ennemis secrets, la mort à tous propos,</l>
+	<l id='376'>Point de plaisir sans trouble, et jamais de repos.</l>
+	<l id='377'>Sylla m'a précédé dans ce pouvoir suprême ;</l>
+	<l id='378'>Le grand César mon père en a joui de même :</l>
+	<l id='379'>D'un oeil si différent tous deux l'ont regardé,</l>
+	<l id='380'>Que l'un s'en est démis, et l'autre l'a gardé :</l>
+	<l id='381'>Mais l'un, cruel, barbare, est mort aimé, tranquille,</l>
+	<l id='382'>Comme un bon citoyen dans le sein de sa ville ;</l>
+	<l id='383'>L'autre, tout débonnaire, au milieu du sénat,</l>
+	<l id='384'>A vu trancher ses jours par un assassinat.</l>
+	<l id='385'>Ces exemples récents suffiraient pour m'instruire,</l>
+	<l id='386'>Si par l'exemple seul on se devait conduire :</l>
+	<l id='387'>L'un m'invite à le suivre, et l'autre me fait peur ;</l>
+	<l id='388'>Mais l'exemple souvent n'est qu'un miroir trompeur ;</l>
+	<l id='389'>Et l'ordre du destin qui gêne nos pensées</l>
+	<l id='390'>N'est pas toujours écrit dans les choses passées :</l>
+	<l id='391'>Quelquefois l'un se brise où l'autre s'est sauvé,</l>
+	<l id='392'>Et par où l'un périt, un autre est conservé.</l>
+	<l id='393'>Voilà, mes chers amis, ce qui me met en peine.</l>
+	<l id='394'>Vous, qui me tenez lieu d'Agrippe et de Mécène,</l>
+	<l id='395'>Pour résoudre ce point avec eux débattu,</l>
+	<l id='396'>Prenez sur mon esprit le pouvoir qu'ils ont eu :</l>
+	<l id='397'>Ne considérez point cette grandeur suprême,</l>
+	<l id='398'>Odieuse aux Romains, et pesante à moi-même ;</l>
+	<l id='399'>Traitez-moi comme ami, non comme souverain ;</l>
+	<l id='400'>Rome, Auguste, l'État, tout est en votre main :</l>
+	<l id='401'>Vous mettrez et l'Europe, et l'Asie, et l'Afrique,</l>
+	<l id='402'>Sous les lois d'un monarque, ou d'une république ;</l>
+	<l id='403'>Votre avis est ma règle, et par ce seul moyen</l>
+	<l id='404'>Je veux être empereur, ou simple citoyen.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='405'>Malgré notre surprise, et mon insuffisance,</l>
+	<l id='406'>Je vous obéirai, seigneur, sans complaisance,</l>
+	<l id='407'>Et mets bas le respect qui pourrait m'empêcher</l>
+	<l id='408'>De combattre un avis où vous semblez pencher :</l>
+	<l id='409'>Souffrez-le d'un esprit jaloux de votre gloire,</l>
+	<l id='410'>Que vous allez souiller d'une tache trop noire,</l>
+	<l id='411'>Si vous ouvrez votre âme à ces impressions</l>
+	<l id='412'>Jusques à condamner toutes vos actions.</l>
+	<l id='413'>On ne renonce point aux grandeurs légitimes ;</l>
+	<l id='414'>On garde sans remords ce qu'on acquiert sans crimes ;</l>
+	<l id='415'>Et plus le bien qu'on quitte est noble, grand, exquis,</l>
+	<l id='416'>Plus qui l'ose quitter le juge mal acquis.</l>
+	<l id='417'>N'imprimez pas, Seigneur, cette honteuse marque</l>
+	<l id='418'>A ces rares vertus qui vous ont fait monarque ;</l>
+	<l id='419'>Vous l'êtes justement, et c'est sans attentat</l>
+	<l id='420'>Que vous avez changé la forme de l'État.</l>
+	<l id='421'>Rome est dessous vos lois par le droit de la guerre</l>
+	<l id='422'>Qui sous les lois de Rome a mis toute la terre ;</l>
+	<l id='423'>Vos armes l'ont conquise, et tous les conquérants</l>
+	<l id='424'>Pour être usurpateurs ne sont pas des tyrans ;</l>
+	<l id='425'>Quand ils ont sous leurs lois asservi des provinces,</l>
+	<l id='426'>Gouvernant justement, ils s'en font justes princes :</l>
+	<l id='427'>C'est ce que fit César ; il vous faut aujourd'hui</l>
+	<l id='428'>Condamner sa mémoire, ou faire comme lui.</l>
+	<l id='429'>Si le pouvoir suprême est blâmé par Auguste,</l>
+	<l id='430'>César fut un tyran, et son trépas fut juste,</l>
+	<l id='431'>Et vous devez aux dieux compte de tout le sang</l>
+	<l id='432'>Dont vous l'avez vengé pour monter à son rang.</l>
+	<l id='433'>N'en craignez point, seigneur, les tristes destinées ;</l>
+	<l id='434'>Un plus puissant démon veille sur vos années :</l>
+	<l id='435'>On a dix fois sur vous attenté sans effet,</l>
+	<l id='436'>Et qui l'a voulu perdre au même instant l'a fait.</l>
+	<l id='437'>On entreprend assez, mais aucun n'exécute ;</l>
+	<l id='438'>Il est des assassins, mais il n'est plus de Brute :</l>
+	<l id='439'>Enfin, s'il faut attendre un semblable revers,</l>
+	<l id='440'>Il est beau de mourir maître de l'univers.</l>
+	<l id='441'>C'est ce qu'en peu de mots j'ose dire ; et j'estime</l>
+	<l id='442'>Que ce peu que j'ai dit est l'avis de Maxime.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='443'>Oui, j'accorde qu'Auguste a droit de conserver</l>
+	<l id='444'>L'empire où sa vertu l'a fait seule arriver,</l>
+	<l id='445'>Et qu'au prix de son sang, au péril de sa tête,</l>
+	<l id='446'>Il a fait de l'État une juste conquête ;</l>
+	<l id='447'>Mais que, sans se noircir, il ne puisse quitter</l>
+	<l id='448'>Le fardeau que sa main est lasse de porter,</l>
+	<l id='449'>Qu'il accuse par là César de tyrannie,</l>
+	<l id='450'>Qu'il approuve sa mort, c'est ce que je dénie.</l>
+	<l id='451'>Rome est à vous, seigneur, l'empire est votre bien.</l>
+	<l id='452'>Chacun en liberté peut disposer du sien ;</l>
+	<l id='453'>Il le peut à son choix garder, ou s'en défaire :</l>
+	<l id='454'>Vous seul ne pourriez pas ce que peut le vulgaire,</l>
+	<l id='455'>Et seriez devenu, pour avoir tout dompté,</l>
+	<l id='456'>Esclave des grandeurs où vous êtes monté ! </l>
+	<l id='457'>Possédez-les, seigneur, sans qu'elles vous possèdent.</l>
+	<l id='458'>Loin de vous captiver, souffrez qu'elles vous cèdent ;</l>
+	<l id='459'>Et faites hautement connaître enfin à tous</l>
+	<l id='460'>Que tout ce qu'elles ont est au-dessous de vous.</l>
+	<l id='461'>Votre Rome autrefois vous donna la naissance ;</l>
+	<l id='462'>Vous lui voulez donner votre toute-puissance ;</l>
+	<l id='463'>Et Cinna vous impute à crime capital</l>
+	<l id='464'>La libéralité vers le pays natal ! </l>
+	<l id='465'>Il appelle remords l'amour de la patrie ! </l>
+	<l id='466'>Par la haute vertu la gloire est donc flétrie,</l>
+	<l id='467'>Et ce n'est qu'un objet digne de nos mépris,</l>
+	<l id='468'>Si de ses pleins effets l'infamie est le prix ! </l>
+	<l id='469'>Je veux bien avouer qu'une action si belle</l>
+	<l id='470'>Donne à Rome bien plus que vous ne tenez d'elle ;</l>
+	<l id='471'>Mais commet-on un crime indigne de pardon,</l>
+	<l id='472'>Quand la reconnaissance est au-dessus du don ?</l>
+	<l id='473'>Suivez, suivez, seigneur, le ciel qui vous inspire :</l>
+	<l id='474'>Votre gloire redouble à mépriser l'empire</l>
+	<l id='475'>Et vous serez fameux chez la postérité,</l>
+	<l id='476'>Moins pour l'avoir conquis que pour l'avoir quitté.</l>
+	<l id='477'>Le bonheur peut conduire à la grandeur suprême,</l>
+	<l id='478'>Mais pour y renoncer il faut la vertu même ;</l>
+	<l id='479'>Et peu de généreux vont jusqu'à dédaigner,</l>
+	<l id='480'>Après un sceptre acquis, la douceur de régner.</l>
+	<l id='481'>Considérez d'ailleurs que vous régnez dans Rome,</l>
+	<l id='482'>Où, de quelque façon que votre cour vous nomme,</l>
+	<l id='483'>On hait la monarchie ; et le nom d'empereur,</l>
+	<l id='484'>Cachant celui de roi, ne fait pas moins d'horreur.</l>
+	<l id='485'>Ils passent pour tyran quiconque s'y fait maître,</l>
+	<l id='486'>Qui le sert, pour esclave, et qui l'aime, pour traître ;</l>
+	<l id='487'>Qui le souffre a le cœur lâche, mol, abattu,</l>
+	<l id='488'>Et pour s'en affranchir tout s'appelle vertu.</l>
+	<l id='489'>Vous en avez, seigneur, des preuves trop certaines :</l>
+	<l id='490'>On a fait contre vous dix entreprises vaines ;</l>
+	<l id='491'>Peut-être que l'onzième est prête d'éclater,</l>
+	<l id='492'>Et que ce mouvement qui vous vient agiter</l>
+	<l id='493'>N'est qu'un avis secret que le ciel vous envoie,</l>
+	<l id='494'>Qui pour vous conserver n'a plus que cette voie.</l>
+	<l id='495'>Ne vous exposez plus à ces fameux revers :</l>
+	<l id='496'>Il est beau de mourir maître de l'univers ;</l>
+	<l id='497'>Mais la plus belle mort souille notre mémoire,</l>
+	<l id='498'>Quand nous avons pu vivre et croître notre gloire.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='499'>Si l'amour du pays doit ici prévaloir,</l>
+	<l id='500'>C'est son bien seulement que vous devez vouloir ;</l>
+	<l id='501'>Et cette liberté, qui lui semble si chère,</l>
+	<l id='502'>N'est pour Rome, seigneur, qu'un bien imaginaire,</l>
+	<l id='503'>Plus nuisible qu'utile, et qui n'approche pas</l>
+	<l id='504'>De celui qu'un bon prince apporte à ses États.</l>
+	<l id='505'>Avec ordre et raison les honneurs il dispense,</l>
+	<l id='506'>Avec discernement punit et récompense,</l>
+	<l id='507'>Et dispose de tout en juste possesseur,</l>
+	<l id='508'>Sans rien précipiter, de peur d'un successeur.</l>
+	<l id='509'>Mais quand le peuple est maître, on n'agit qu'en tumulte :</l>
+	<l id='510'>La voix de la raison jamais ne se consulte ;</l>
+	<l id='511'>Les honneurs sont vendus aux plus ambitieux,</l>
+	<l id='512'>L'autorité livrée aux plus séditieux.</l>
+	<l id='513'>Ces petits souverains qu'il fait pour une année,</l>
+	<l id='514'>Voyant d'un temps si court leur puissance bornée,</l>
+	<l id='515'>Des plus heureux desseins font avorter le fruit,</l>
+	<l id='516'>De peur de le laisser à celui qui les suit ;</l>
+	<l id='517'>Comme ils ont peu de part au bien dont ils ordonnent,</l>
+	<l id='518'>Dans le champ du public largement ils moissonnent,</l>
+	<l id='519'>Assurés que chacun leur pardonne aisément,</l>
+	<l id='520'>Espérant à son tour un pareil traitement :</l>
+	<l id='521'>Le pire des États, c'est l'État populaire.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='522'>Et toutefois le seul qui dans Rome peut plaire.</l>
+	<l id='523'>Cette haine des rois que depuis cinq cents ans</l>
+	<l id='524'>Avec le premier lait sucent tous ses enfants,</l>
+	<l id='525'>Pour l'arracher des cœurs, est trop enracinée.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='526'>Oui, seigneur, dans son mal Rome est trop obstinée ;</l>
+	<l id='527'>Son peuple, qui s'y plaît, en fuit la guérison :</l>
+	<l id='528'>Sa coutume l'emporte, et non pas la raison ;</l>
+	<l id='529'>Et cette vieille erreur, que Cinna veut abattre,</l>
+	<l id='530'>Est une heureuse erreur dont il est idolâtre,</l>
+	<l id='531'>Par qui le monde entier, asservi sous ses lois,</l>
+	<l id='532'>L'a vu cent fois marcher sur la tête des rois,</l>
+	<l id='533'>Son épargne s'enfler du sac de leurs provinces.</l>
+	<l id='534'>Que lui pouvaient de plus donner les meilleurs princes ?</l>
+	<l id='535'>J'ose dire, seigneur, que par tous les climats</l>
+	<l id='536'>Ne sont pas bien reçus toutes sortes d'États ;</l>
+	<l id='537'>Chaque peuple a le sien conforme à sa nature,</l>
+	<l id='538'>Qu'on ne saurait changer sans lui faire une injure :</l>
+	<l id='539'>Telle est la loi du ciel, dont la sage équité</l>
+	<l id='540'>Sème dans l'univers cette diversité.</l>
+	<l id='541'>Les Macédoniens aiment le monarchique,</l>
+	<l id='542'>Et le reste des Grecs la liberté publique :</l>
+<note type="L">Perthes : Peuple dont le nom veut dire bannis en langue Scythe, et qu'on suppose composé d'exilés de la Scythie. (...) Les Parthes étaient renommés comme cavalierset comme archers. [B]</note>
+	<l id='543'>Les Parthes, les Persans veulent des souverains ;</l>
+	<l id='544'>Et le seul consulat est bon pour les Romains.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='545'>Il est vrai que du ciel la prudence infinie</l>
+	<l id='546'>Départ à chaque peuple un différent génie ;</l>
+	<l id='547'>Mais il n'est pas moins vrai que cet ordre des cieux</l>
+	<l id='548'>Change selon les temps comme selon les lieux.</l>
+	<l id='549'>Rome a reçu des rois ses murs et sa naissance ;</l>
+	<l id='550'>Elle tient des consuls sa gloire et sa puissance,</l>
+	<l id='551'>Et reçoit maintenant de vos rares bontés</l>
+	<l id='552'>Le comble souverain de ses prospérités.</l>
+	<l id='553'>Sous vous, l'État n'est plus en pillage aux armées ;</l>
+	<l id='554'>Les portes de Janus par vos mains sont fermées,</l>
+	<l id='555'>Ce que sous ses consuls on n'a vu qu'une fois,</l>
+	<l id='556'>Et qu'a fait voir comme eux le second de ses rois.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='557'>Les changements d'État que fait l'ordre céleste</l>
+	<l id='558'>Ne coûtent point de sang, n'ont rien qui soit funeste.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='559'>C'est un ordre des dieux qui jamais ne se rompt,</l>
+	<l id='560'>De nous vendre un peu cher les grands biens qu'ils nous font.</l>
+	<l id='561'>L'exil des Tarquins même ensanglanta nos terres,</l>
+	<l id='562'>Et nos premiers consuls nous ont coûté des guerres.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='563'>Donc votre aïeul Pompée au ciel a résisté</l>
+	<l id='564'>Quand il a combattu pour notre liberté ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='565'>Si le ciel n'eût voulu que Rome l'eût perdue</l>
+	<l id='566'>Par les mains de Pompée il l'aurait défendue :</l>
+	<l id='567'>Il a choisi sa mort pour servir dignement</l>
+	<l id='568'>D'une marque éternelle à ce grand changement,</l>
+	<l id='569'>Et devait cette gloire aux mânes d'un tel homme,</l>
+	<l id='570'>D'emporter avec eux la liberté de Rome.</l>
+	<l id='571'>Ce nom depuis longtemps ne sert qu'à l'éblouir,</l>
+	<l id='572'>Et sa propre grandeur l'empêche d'en jouir.</l>
+	<l id='573'>Depuis qu'elle se voit la maîtresse du monde,</l>
+	<l id='574'>Depuis que la richesse entre ses murs abonde,</l>
+	<l id='575'>Et que son sein, fécond en glorieux exploits,</l>
+	<l id='576'>Produit des citoyens plus puissants que des rois,</l>
+	<l id='577'>Les grands, pour s'affermir achetant les suffrages,</l>
+	<l id='578'>Tiennent pompeusement leurs maîtres à leurs gages,</l>
+	<l id='579'>Qui, par des fers dorés se laissant enchaîner,</l>
+	<l id='580'>Reçoivent d'eux les lois qu'ils pensent leur donner.</l>
+	<l id='581'>Envieux l'un de l'autre, ils mènent tout par brigues,</l>
+	<l id='582'>Que leur ambition tourne en sanglantes ligues.</l>
+	<l id='583'>Ainsi de Marius Sylla devint jaloux ;</l>
+	<l id='584'>César, de mon aïeul ; Marc-Antoine, de vous :</l>
+	<l id='585'>Ainsi la liberté ne peut plus être utile</l>
+	<l id='586'>Qu'à former les fureurs d'une guerre civile,</l>
+	<l id='587'>Lorsque, par un désordre à l'univers fatal,</l>
+	<l id='588'>L'un ne veut point de maître, et l'autre point d'égal.</l>
+	<l id='589'>Seigneur, pour sauver Rome, il faut qu'elle s'unisse</l>
+	<l id='590'>En la main d'un bon chef à qui tout obéisse.</l>
+	<l id='591'>Si vous aimez encore à la favoriser,</l>
+	<l id='592'>Otez-lui les moyens de se plus diviser.</l>
+	<l id='593'>Sylla, quittant la place enfin bien usurpée,</l>
+	<l id='594'>N'a fait qu'ouvrir le champ à César et Pompée,</l>
+	<l id='595'>Que le malheur des temps ne nous eût pas fait voir,</l>
+	<l id='596'>S'il eût dans sa famille assuré son pouvoir.</l>
+	<l id='597'>Qu'a fait du grand César le cruel parricide,</l>
+	<l id='598'>Qu'élever contre vous Antoine avec Lépide,</l>
+	<l id='599'>Qui n'eussent pas détruit Rome par les Romains,</l>
+	<l id='600'>Si César eût laissé l'empire entre vos mains ?</l>
+	<l id='601'>Vous la replongerez, en quittant cet empire,</l>
+	<l id='602'>Dans les maux dont à peine encore elle respire,</l>
+	<l id='603'>Et de ce peu, seigneur, qui lui reste de sang,</l>
+	<l id='604'>Une guerre nouvelle épuisera son flanc.</l>
+	<l id='605'>Que l'amour du pays, que la pitié vous touche ;</l>
+	<l id='606'>Votre Rome à genoux vous parle par ma bouche.</l>
+	<l id='607'>Considérez le prix que vous avez coûté ;</l>
+	<l id='608'>Non pas qu'elle vous croie avoir trop acheté ;</l>
+	<l id='609'>Des maux qu'elle a soufferts elle est trop bien payée ;</l>
+	<l id='610'>Mais une juste peur tient son âme effrayée :</l>
+	<l id='611'>Si, jaloux de son heur, et las de commander,</l>
+	<l id='612'>Vous lui rendez un bien qu'elle ne peut garder,</l>
+	<l id='613'>S'il lui faut à ce prix en acheter un autre,</l>
+	<l id='614'>Si vous ne préférez son intérêt au vôtre,</l>
+	<l id='615'>Si ce funeste don la met au désespoir,</l>
+	<l id='616'>Je n'ose dire ici ce que j'ose prévoir.</l>
+	<l id='617'>Conservez-vous, seigneur, en lui laissant un maître</l>
+	<l id='618'>Sous qui son vrai bonheur commence de renaître ;</l>
+	<l id='619'>Et pour mieux assurer le bien commun de tous,</l>
+	<l id='620'>Donnez un successeur qui soit digne de vous.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='621'>N'en délibérons plus, cette pitié l'emporte.</l>
+	<l id='622'>Mon repos m'est bien cher, mais Rome est la plus forte ;</l>
+	<l id='623'>Et, quelque grand malheur qui m'en puisse arriver,</l>
+	<l id='624'>Je consens à me perdre afin de la sauver.</l>
+	<l id='625'>Pour ma tranquillité mon cœur en vain soupire :</l>
+	<l id='626'>Cinna, par vos conseils je retiendrai l'empire ;</l>
+	<l id='627'>Mais je le retiendrai pour vous en faire part.</l>
+	<l id='628'>Je vois trop que vos cœurs n'ont point pour moi de fard,</l>
+	<l id='629'>Et que chacun de vous, dans l'avis qu'il me donne,</l>
+	<l id='630'>Regarde seulement l'État et ma personne :</l>
+	<l id='631'>Votre amour en tous deux fait ce combat d'esprits,</l>
+	<l id='632'>Et vous allez tous deux en recevoir le prix.</l>
+	<l id='633'>Maxime, je vous fais gouverneur de Sicile ;</l>
+	<l id='634'>Allez donner mes lois à ce terroir fertile ;</l>
+	<l id='635'>Songez que c'est pour moi que vous gouvernerez,</l>
+	<l id='636'>Et que je répondrai de ce que vous ferez.</l>
+	<l id='637'>Pour épouse, Cinna, je vous donne Émilie ;</l>
+	<l id='638'>Vous savez qu'elle tient la place de Julie,</l>
+	<l id='639'>Et que si nos malheurs et la nécessité</l>
+	<l id='640'>M'ont fait traiter son père avec sévérité,</l>
+	<l id='641'>Mon épargne depuis en sa faveur ouverte</l>
+	<l id='642'>Doit avoir adouci l'aigreur de cette perte.</l>
+	<l id='643'>Voyez-la de ma part, tâchez de la gagner :</l>
+	<l id='644'>Vous n'êtes point pour elle un homme à dédaigner ;</l>
+	<l id='645'>De l'offre de vos vœux elle sera ravie.</l>
+	<l id='646'>Adieu : j'en veux porter la nouvelle à Livie.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Cinna, Maxime.</head>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='647'>Quel est votre dessein après ces beaux discours ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='648'>Le même que j'avais, et que j'aurai toujours.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='649'>Un chef de conjurés flatte la tyrannie ! </l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='650'>Un chef de conjurés la veut voir impunie ! </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='651' part='i'>Je veux voir Rome libre.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='651' part='f'>Et vous pouvez juger</l>
+	<l id='652'>Que je veux l'affranchir ensemble et la venger.</l>
+	<l id='653'>Octave aura donc vu ses fureurs assouvies,</l>
+	<l id='654'>Pillé jusqu'aux autels, sacrifié nos vies,</l>
+	<l id='655'>Rempli les champs d'horreur, comblé Rome de morts,</l>
+	<l id='656'>Et sera quitte après pour l'effet d'un remords ! </l>
+	<l id='657'>Quand le ciel par nos mains à le punir s'apprête,</l>
+	<l id='658'>Un lâche repentir garantira sa tête ! </l>
+	<l id='659'>C'est trop semer d'appas, et c'est trop inviter</l>
+	<l id='660'>Par son impunité quelque autre à l'imiter.</l>
+	<l id='661'>Vengeons nos citoyens, et que sa peine étonne</l>
+	<l id='662'>Quiconque après sa mort aspire à la couronne.</l>
+	<l id='663'>Que le peuple aux tyrans ne soit plus exposé :</l>
+	<l id='664'>S'il eût puni Sylla, César eût moins osé</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='665'>Mais la mort de César, que vous trouvez si juste,</l>
+	<l id='666'>A servi de prétexte aux cruautés d'Auguste.</l>
+	<l id='667'>Voulant nous affranchir, Brute s'est abusé :</l>
+	<l id='668'>S'il n'eût puni César, Auguste eût moins osé.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='669'>La faute de Cassie, et ses terreurs paniques,</l>
+	<l id='670'>Ont fait rentrer l'État sous des lois tyranniques ;</l>
+	<l id='671'>Mais nous ne verrons point de pareils accidents,</l>
+	<l id='672'>Lorsque Rome suivra des chefs moins imprudents.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='673'>Nous sommes encor loin de mettre en évidence</l>
+	<l id='674'>Si nous nous conduisons avec plus de prudence ;</l>
+	<l id='675'>Cependant c'en est peu que de n'accepter pas</l>
+	<l id='676'>Le bonheur qu'on recherche au péril du trépas.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='677'>C'en est encor bien moins, alors qu'on s'imagine</l>
+	<l id='678'>Guérir un mal si grand sans couper la racine ;</l>
+	<l id='679'>Employer la douceur à cette guérison,</l>
+	<l id='680'>C'est, en fermant la plaie, y verser du poison.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='681'>Vous la voulez sanglante, et la rendez douteuse.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='682'>Vous la voulez sans peine, et la rendez honteuse.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='683'>Pour sortir de ses fers jamais on ne rougit.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='684'>On en sort lâchement si la vertu n'agit.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='685'>Jamais la liberté ne cesse d'être aimable ;</l>
+	<l id='686'>Et c'est toujours pour Rome un bien inestimable.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='687'>Ce ne peut être un bien qu'elle daigne estimer,</l>
+	<l id='688'>Quand il vient d'une main lasse de l'opprimer :</l>
+	<l id='689'>Elle a le cœur trop bon pour se voir avec joie</l>
+	<l id='690'>Le rebut du tyran dont elle fut la proie ;</l>
+	<l id='691'>Et tout ce que la gloire a de vrais partisans</l>
+	<l id='692'>Le hait trop puissamment pour aimer ses présents.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='693'>Donc pour vous Émilie est un objet de haine ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='694'>La recevoir de lui me serait une gêne ;</l>
+	<l id='695'>Mais quand j'aurai vengé Rome des maux soufferts,</l>
+	<l id='696'>Je saurai le braver jusque dans les enfers.</l>
+	<l id='697'>Oui, quand par son trépas je l'aurai méritée,</l>
+	<l id='698'>Je veux joindre à sa main ma main ensanglantée,</l>
+	<l id='699'>L'épouser sur sa cendre, et qu'après notre effort</l>
+	<l id='700'>Les présents du tyran soient le prix de sa mort.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='701'>Mais l'apparence, ami, que vous puissiez lui plaire,</l>
+	<l id='702'>Teint du sang de celui qu'elle aime comme un père ?</l>
+	<l id='703'>Car vous n'êtes pas homme à la violenter.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='704'>Ami, dans ce palais on peut nous écouter,</l>
+	<l id='705'>Et nous parlons peut-être avec trop d'imprudence</l>
+	<l id='706'>Dans un lieu si mal propre à notre confidence :</l>
+	<l id='707'>Sortons ; qu'en sûreté j'examine avec vous,</l>
+	<l id='708'>Pour en venir à bout, les moyens les plus doux.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Maxime, Euphorbe.</head>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='709'>Lui-même il m'a tout dit : leur flamme est mutuelle ;</l>
+	<l id='710'>Il adore Émilie, il est adoré d'elle ;</l>
+	<l id='711'>Mais sans venger son père il n'y peut aspirer,</l>
+	<l id='712'>Et c'est pour l'acquérir qu'il nous fait conspirer.</l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='713'>Je ne m'étonne plus de cette violence</l>
+	<l id='714'>Dont il contraint Auguste à garder sa puissance :</l>
+	<l id='715'>La ligue se romprait, s'il s'en était démis,</l>
+	<l id='716'>Et tous vos conjurés deviendraient ses amis.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='717'>Ils servent à l'envi la passion d'un homme</l>
+	<l id='718'>Qui n'agit que pour soi, feignant d'agir pour Rome,</l>
+	<l id='719'>Et moi, par un malheur qui n'eût jamais d'égal,</l>
+	<l id='720'>Je pense servir Rome, et je sers mon rival ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='721' part='i'>Vous êtes son rival ?</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='721' part='f'>Oui, j'aime sa maîtresse,</l>
+	<l id='722'>Et l'ai caché toujours avec assez d'adresse ;</l>
+	<l id='723'>Mon ardeur inconnue, avant que d'éclater,</l>
+	<l id='724'>Par quelque grand exploit la voulait mériter :</l>
+	<l id='725'>Cependant par mes mains je vois qu'il me l'enlève ;</l>
+	<l id='726'>Son dessein fait ma perte, et c'est moi qui l'achève ;</l>
+	<l id='727'>J'avance des succès dont j'attends le trépas,</l>
+	<l id='728'>Et pour m'assassiner je lui prête mon bras.</l>
+	<l id='729'>Que l'amitié me plonge en un malheur extrême ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='730'>L'issue en est aisée ; agissez pour vous-même ;</l>
+	<l id='731'>D'un dessein qui vous perd rompez le coup fatal ;</l>
+	<l id='732'>Gagnez une maîtresse, accusant un rival.</l>
+	<l id='733'>Auguste, à qui par là vous sauverez la vie,</l>
+	<l id='734'>Ne vous pourra jamais refuser Émilie.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='735' part='i'>Quoi ! trahir mon ami ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='735' part='f'>L'amour rend tout permis ;</l>
+	<l id='736'>Un véritable amant ne connaît point d'amis,</l>
+	<l id='737'>Et même avec justice on peut trahir un traître,</l>
+	<l id='738'>Qui pour une maîtresse ose trahir son maître.</l>
+	<l id='739'>Oubliez l'amitié, comme lui les bienfaits.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='740'>C'est un exemple à fuir que celui des forfaits.</l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='741'>Contre un si noir dessein tout devient légitime ;</l>
+	<l id='742'>On n'est point criminel quand on punit un crime.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='743'>Un crime par qui Rome obtient sa liberté ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='744'>Craignez tout d'un esprit si plein de lâcheté.</l>
+	<l id='745'>L'intérêt du pays n'est point ce qui l'engage ;</l>
+	<l id='746'>Le sien, et non la gloire anime son courage.</l>
+	<l id='747'>Il aimerait César, s'il n'était amoureux,</l>
+	<l id='748'>Et n'est enfin qu'ingrat, et non pas généreux.</l>
+	<l id='749'>Pensez-vous avoir lu jusqu'au fond de son âme ?</l>
+	<l id='750'>Sous la cause publique il vous cachait sa flamme,</l>
+	<l id='751'>Et peut cacher encor sous cette passion</l>
+	<l id='752'>Les détestables feux de son ambition.</l>
+	<l id='753'>Peut-être qu'il prétend, après la mort d'Octave,</l>
+	<l id='754'>Au lieu d'affranchir Rome, en faire son esclave,</l>
+	<l id='755'>Qu'il vous compte déjà pour un de ses sujets,</l>
+	<l id='756'>Ou que sur votre perte il fonde ses projets.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='757'>Mais comment l'accuser sans nommer tout le reste ?</l>
+	<l id='758'>A tous nos conjurés l'avis serait funeste,</l>
+	<l id='759'>Et par là, nous verrions indignement trahis</l>
+	<l id='760'>Ceux qu'engage avec nous le seul bien du pays.</l>
+	<l id='761'>D'un si lâche dessein mon âme est incapable ;</l>
+	<l id='762'>Il perd trop d'innocents pour punir un coupable.</l>
+	<l id='763'>J'ose tout contre lui, mais je crains tout pour eux.</l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='764'>Auguste s'est lassé d'être si rigoureux ;</l>
+	<l id='765'>En ces occasions, ennuyé de supplices,</l>
+	<l id='766'>Ayant puni les chefs, il pardonne aux complices.</l>
+	<l id='767'>Si toutefois pour eux vous craignez son courroux,</l>
+	<l id='768'>Quand vous lui parlerez, parlez au nom de tous.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='769'>Nous disputons en vain, et ce n'est que folie</l>
+	<l id='770'>De vouloir par sa perte acquérir Émilie :</l>
+	<l id='771'>Ce n'est pas le moyen de plaire à ses beaux yeux</l>
+	<l id='772'>Que de priver du jour ce qu'elle aime le mieux.</l>
+	<l id='773'>Pour moi j'estime peu qu'Auguste me la donne ;</l>
+	<l id='774'>Je veux gagner son cœur plutôt que sa personne,</l>
+	<l id='775'>Et ne fais point d'état de sa possession,</l>
+	<l id='776'>Si je n'ai point de part à son affection.</l>
+	<l id='777'>Puis-je la mériter par une triple offense ?</l>
+	<l id='778'>Je trahis son amant, je détruis sa vengeance,</l>
+	<l id='779'>Je conserve le sang qu'elle veut voir périr ;</l>
+	<l id='780'>Et j'aurais quelque espoir qu'elle me pût chérir ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='781'>C'est ce qu'à dire vrai je vois fort difficile.</l>
+	<l id='782'>L'artifice pourtant vous y peut être utile ;</l>
+	<l id='783'>Il en faut trouver un qui la puisse abuser,</l>
+	<l id='784'>Et du reste le temps en pourra disposer.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='785'>Mais si pour s'excuser il nomme sa complice,</l>
+	<l id='786'>S'il arrive qu'Auguste avec lui la punisse,</l>
+	<l id='787'>Puis-je lui demander, pour prix de mon rapport,</l>
+	<l id='788'>Celle qui nous oblige à conspirer sa mort ?</l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='789'>Vous pourriez m'opposer tant et de tels obstacles,</l>
+	<l id='790'>Que pour les surmonter il faudrait des miracles ;</l>
+	<l id='791'>J'espère, toutefois, qu'à force d'y rêver...</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='792'>Éloigne-toi ; dans peu j'irai te retrouver :</l>
+	<l id='793'>Cinna vient, et je veux en tirer quelque chose,</l>
+	<l id='794'>Pour mieux résoudre après ce que je me propose.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Cinna, Maxime.</head>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='795' part='i'>Vous me semblez pensif.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='795' part='f'>Ce n'est pas sans sujet.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='796'>Puis-je d'un tel chagrin savoir quel est l'objet ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='797'>Émilie et César, l'un et l'autre me gêne :</l>
+	<l id='798'>L'un me semble trop bon, l'autre trop inhumaine.</l>
+	<l id='799'>Plût aux dieux que César employât mieux ses soins,</l>
+	<l id='800'>Et s'en fît plus aimer, ou m'aimât un peu moins ;</l>
+	<l id='801'>Que sa bonté touchât la beauté qui me charme,</l>
+	<l id='802'>Et la pût adoucir comme elle me désarme ! </l>
+	<l id='803'>Je sens au fond du cœur mille remords cuisants</l>
+	<l id='804'>Qui rendent à mes yeux tous ses bienfaits présents ;</l>
+	<l id='805'>Cette faveur si pleine, et si mal reconnue,</l>
+	<l id='806'>Par un mortel reproche à tous moments me tue.</l>
+	<l id='807'>Il me semble surtout incessamment le voir</l>
+	<l id='808'>Déposer en nos mains son absolu pouvoir,</l>
+	<l id='809'>Écouter nos avis, m'applaudir et me dire :</l>
+	<l id='810'>« Cinna, par vos conseils, je retiendrai l'empire,</l>
+	<l id='811'>Mais je le retiendrai pour vous en faire part. »</l>
+	<l id='812'>Et je puis dans son sein enfoncer un poignard ! </l>
+	<l id='813'>Ah ! Plutôt... Mais, hélas ! J'idolâtre Émilie ;</l>
+	<l id='814'>Un serment exécrable à sa haine me lie ;</l>
+	<l id='815'>L'horreur qu'elle a de lui me le rend odieux :</l>
+	<l id='816'>Des deux côtés j'offense et ma gloire et les dieux ;</l>
+	<l id='817'>Je deviens sacrilège, ou je suis parricide,</l>
+	<l id='818'>Et vers l'un ou vers l'autre il faut être perfide.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='819'>Vous n'aviez point tantôt ces agitations ;</l>
+	<l id='820'>Vous paraissiez plus ferme en vos intentions ;</l>
+	<l id='821'>Vous ne sentiez au cœur ni remords, ni reproche.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='822'>On ne les sent aussi que quand le coup approche,</l>
+	<l id='823'>Et l'on ne reconnaît de semblables forfaits</l>
+	<l id='824'>Que quand la main s'apprête à venir aux effets.</l>
+	<l id='825'>L'âme, de son dessein jusque-là possédée,</l>
+	<l id='826'>S'attache aveuglément à sa première idée ;</l>
+	<l id='827'>Mais alors quel esprit n'en devient point troublé ?</l>
+	<l id='828'>Ou plutôt quel esprit n'en est point accablé ?</l>
+	<l id='829'>Je crois que Brute même, à tel point qu'on le prise,</l>
+	<l id='830'>Voulut plus d'une fois rompre son entreprise,</l>
+	<l id='831'>Qu'avant que de frapper elle lui fit sentir</l>
+	<l id='832'>Plus d'un remords en l'âme, et plus d'un repentir.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='833'>Il eut trop de vertu pour tant d'inquiétude,</l>
+	<l id='834'>Il ne soupçonna point sa main d'ingratitude,</l>
+	<l id='835'>Et fut contre un tyran d'autant plus animé</l>
+	<l id='836'>Qu'il en reçut de biens et qu'il s'en vit aimé.</l>
+	<l id='837'>Comme vous l'imitez, faites la même chose,</l>
+	<l id='838'>Et formez vos remords d'une plus juste cause,</l>
+	<l id='839'>De vos lâches conseils, qui seuls ont arrêté</l>
+	<l id='840'>Le bonheur renaissant de notre liberté.</l>
+	<l id='841'>C'est vous seul aujourd'hui qui nous l'avez ôtée ;</l>
+	<l id='842'>De la main de César Brute l'eût acceptée,</l>
+	<l id='843'>Et n'eût jamais souffert qu'un intérêt léger</l>
+	<l id='844'>De vengeance ou d'amour l'eût remise en danger.</l>
+	<l id='845'>N'écoutez plus la voix d'un tyran qui vous aime,</l>
+	<l id='846'>Et vous veut faire part de son pouvoir suprême ;</l>
+	<l id='847'>Mais entendez crier Rome à votre côté :</l>
+	<l id='848'>« Rends-moi, rends-moi, Cinna, ce que tu m'as ôté ;</l>
+	<l id='849'>Et, si tu m'as tantôt préféré ta maîtresse,</l>
+	<l id='850'>Ne me préfère pas le tyran qui m'oppresse. »</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='851'>Ami, n'accable plus un esprit malheureux</l>
+	<l id='852'>Qui ne forme qu'en lâche un dessein généreux.</l>
+	<l id='853'>Envers nos citoyens je sais quelle est ma faute,</l>
+	<l id='854'>Et leur rendrai bientôt tout ce que je leur ôte ;</l>
+	<l id='855'>Mais pardonne aux abois d'une vieille amitié</l>
+	<l id='856'>Qui ne peut expirer sans me faire pitié,</l>
+	<l id='857'>Et laisse-moi, de grâce, attendant Émilie,</l>
+	<l id='858'>Donner un libre cours à ma mélancolie :</l>
+	<l id='859'>Mon chagrin t'importune, et le trouble où je suis</l>
+	<l id='860'>Veut de la solitude à calmer tant d'ennuis.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='861'>Vous voulez rendre compte à l'objet qui vous blesse</l>
+	<l id='862'>De la bonté d'Octave et de votre faiblesse ;</l>
+	<l id='863'>L'entretien des amants veut un entier secret.</l>
+	<l id='864'>Adieu. Je me retire en confident discret.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III.</head>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='865'>Donne un plus digne nom au glorieux empire</l>
+	<l id='866'>Du noble sentiment que la vertu m'inspire,</l>
+	<l id='867'>Et que l'honneur oppose au coup précipité</l>
+	<l id='868'>De mon ingratitude et de ma lâcheté ;</l>
+	<l id='869'>Mais plutôt continue à le nommer faiblesse,</l>
+	<l id='870'>Puisqu'il devient si faible auprès d'une maîtresse,</l>
+	<l id='871'>Qu'il respecte un amour qu'il devrait étouffer,</l>
+	<l id='872'>Ou que, s'il le combat, il n'ose en triompher.</l>
+	<l id='873'>En ces extrémités quel conseil dois-je prendre ?</l>
+	<l id='874'>De quel côté pencher ? à quel parti me rendre ?</l>
+	<l id='875'>Qu'une âme généreuse a de peine à faillir ! </l>
+	<l id='876'>Quelque fruit que par là j'espère de cueillir,</l>
+	<l id='877'>Les douceurs de l'amour, celles de la vengeance,</l>
+	<l id='878'>La gloire d'affranchir le lieu de ma naissance,</l>
+	<l id='879'>N'ont point assez d'appas pour flatter ma raison,</l>
+	<l id='880'>S'il les faut acquérir par une trahison,</l>
+	<l id='881'>S'il faut percer le flanc d'un prince magnanime</l>
+	<l id='882'>Qui du peu que je suis fait une telle estime,</l>
+	<l id='883'>Qui me comble d'honneurs, qui m'accable de biens,</l>
+	<l id='884'>Qui ne prend pour régner de conseils que les miens.</l>
+	<l id='885'>Ô coup ! ô trahison trop indigne d'un homme ! </l>
+	<l id='886'>Dure, dure à jamais l'esclavage de Rome ! </l>
+	<l id='887'>Périsse mon amour, périsse mon espoir,</l>
+	<l id='888'>Plutôt que de ma main parte un crime si noir ! </l>
+	<l id='889'>Quoi ! ne m'offre-t-il pas tout ce que je souhaite,</l>
+	<l id='890'>Et qu'au prix de son sang ma passion achète ?</l>
+	<l id='891'>Pour jouir de ses dons faut-il l'assassiner ?</l>
+	<l id='892'>Et faut-il lui ravir ce qu'il me veut donner ?</l>
+	<l id='893'>Mais je dépends de vous, ô serment téméraire ! </l>
+	<l id='894'>Ô haine d'Émilie ! Ô souvenir d'un père ! </l>
+	<l id='895'>Ma foi, mon cœur, mon bras, tout vous est engagé,</l>
+	<l id='896'>Et je ne puis plus rien que par votre congé :</l>
+	<l id='897'>C'est à vous à régler ce qu'il faut que je fasse ;</l>
+	<l id='898'>C'est à vous, Émilie, à lui donner sa grâce ;</l>
+	<l id='899'>Vos seules volontés président à son sort,</l>
+	<l id='900'>Et tiennent en mes mains et sa vie et sa mort.</l>
+	<l id='901'>Ô dieux, qui comme vous la rendez adorable,</l>
+	<l id='902'>Rendez-la, comme vous, à mes vœux exorable ;</l>
+	<l id='903'>Et, puisque de ses lois je ne puis m'affranchir,</l>
+	<l id='904'>Faites qu'à mes désirs je la puisse fléchir.</l>
+	<l id='905'>Mais voici de retour cette aimable inhumaine.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Émilie, Cinna, Fulvie.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='906'>Grâces aux dieux, Cinna, ma frayeur était vaine ;</l>
+	<l id='907'>Aucun de tes amis ne t'a manqué de foi,</l>
+	<l id='908'>Et je n'ai point eu lieu de m'employer pour toi</l>
+	<l id='909'>Octave en ma présence a tout dit à Livie,</l>
+	<l id='910'>Et par cette nouvelle il m'a rendu la vie.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='911'>Le désavouerez-vous ? et du don qu'il me fait</l>
+	<l id='912'>Voudrez-vous retarder le bienheureux effet ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='913' part='i'>L'effet est en ta main.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='913' part='f'>Mais plutôt en la vôtre.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='914'>Je suis toujours moi-même, et mon cœur n'est point autre :</l>
+	<l id='915'>Me donner à Cinna, c'est ne lui donner rien,</l>
+	<l id='916'>C'est seulement lui faire un présent de son bien.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='917'>Vous pouvez toutefois... ô ciel ! l'osé-je dire ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='918' part='i'>Que puis-je ? et que crains-tu ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='918' part='f'>Je tremble, je soupire,</l>
+	<l id='919'>Et vois que si nos cœurs avaient mêmes désirs,</l>
+	<l id='920'>Je n'aurais pas besoin d'expliquer mes soupirs.</l>
+	<l id='921'>Ainsi je suis trop sûr que je vais vous déplaire ;</l>
+	<l id='922'>Mais je n'ose parler, et je ne puis me taire.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='923' part='i'>C'est trop me gêner, parle.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='923' part='f'>Il faut vous obéir.</l>
+	<l id='924'>Je vais donc vous déplaire, et vous m'allez haïr.</l>
+	<l id='925'>Je vous aime, Émilie, et le ciel me foudroie</l>
+	<l id='926'>Si cette passion ne fait toute ma joie,</l>
+	<l id='927'>Et si je ne vous aime avec toute l'ardeur</l>
+	<l id='928'>Que peut un digne objet attendre d'un grand cœur ! </l>
+	<l id='929'>Mais voyez à quel prix vous me donnez votre âme :</l>
+	<l id='930'>En me rendant heureux vous me rendez infâme ;</l>
+	<l id='931' part='i'>Cette bonté d'Auguste...</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='931' part='f'>Il suffit, je t'entends,</l>
+	<l id='932'>Je vois ton repentir et tes vœux inconstants :</l>
+	<l id='933'>Les faveurs du tyran emportent tes promesses ;</l>
+	<l id='934'>Tes feux et tes serments cèdent à ses caresses ;</l>
+	<l id='935'>Et ton esprit crédule ose s'imaginer</l>
+	<l id='936'>Qu'Auguste, pouvant tout, peut aussi me donner ;</l>
+	<l id='937'>Tu me veux de sa main plutôt que de la mienne,</l>
+	<l id='938'>Mais ne crois pas qu'ainsi jamais je t'appartienne :</l>
+	<l id='939'>Il peut faire trembler la terre sous ses pas,</l>
+	<l id='940'>Mettre un roi hors du trône, et donner ses États,</l>
+	<l id='941'>De ses proscriptions rougir la terre et l'onde,</l>
+	<l id='942'>Et changer à son gré l'ordre de tout le monde ;</l>
+	<l id='943'>Mais le cœur d'Émilie est hors de son pouvoir.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='944'>Aussi n'est-ce qu'à vous que je veux le devoir.</l>
+	<l id='945'>Je suis toujours moi-même, et ma foi toujours pure :</l>
+	<l id='946'>La pitié que je sens ne me rend point parjure ;</l>
+	<l id='947'>J'obéis sans réserve à tous vos sentiments,</l>
+	<l id='948'>Et prends vos intérêts par-delà mes serments.</l>
+	<l id='949'>J'ai pu, vous le savez, sans parjure et sans crime,</l>
+	<l id='950'>Vous laisser échapper cette illustre victime.</l>
+	<l id='951'>César se dépouillant du pouvoir souverain</l>
+	<l id='952'>Nous ôtait tout prétexte à lui percer le sein ! </l>
+	<l id='953'>La conjuration s'en allait dissipée,</l>
+	<l id='954'>Vos desseins avortés, votre haine trompée ;</l>
+	<l id='955'>Moi seul j'ai raffermi son esprit étonné,</l>
+	<l id='956'>Et pour vous l'immoler ma main l'a couronné.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='957'>Pour me l'immoler, traître ! et tu veux que moi-même,</l>
+	<l id='958'>Je retienne ta main ! qu'il vive, et que je l'aime ! </l>
+	<l id='959'>Que je sois le butin de qui l'ose épargner,</l>
+	<l id='960'>Et le prix du conseil qui le force à régner ! </l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='961'>Ne me condamnez point quand je vous ai servie ;</l>
+	<l id='962'>Sans moi, vous n'auriez plus de pouvoir sur sa vie ;</l>
+	<l id='963'>Et, malgré ses bienfaits, je rends tout à l'amour,</l>
+	<l id='964'>Quand je veux qu'il périsse ou vous doive le jour.</l>
+	<l id='965'>Avec les premiers vœux de mon obéissance</l>
+	<l id='966'>Souffrez ce faible effort de ma reconnaissance,</l>
+	<l id='967'>Que je tâche de vaincre un indigne courroux,</l>
+	<l id='968'>Et vous donner pour lui l'amour qu'il a pour vous.</l>
+	<l id='969'>Une âme généreuse, et que la vertu guide,</l>
+	<l id='970'>Fuit la honte des noms d'ingrate et de perfide ;</l>
+	<l id='971'>Elle en hait l'infamie attachée au bonheur,</l>
+	<l id='972'>Et n'accepte aucun bien aux dépens de l'honneur.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='973'>Je fais gloire, pour moi, de cette ignominie :</l>
+	<l id='974'>La perfidie est noble envers la tyrannie ;</l>
+	<l id='975'>Et quand on rompt le cours d'un sort si malheureux,</l>
+	<l id='976'>Les cœurs les plus ingrats sont les plus généreux.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='977'>Vous faites des vertus au gré de votre haine.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='978'>Je me fais des vertus dignes d'une Romaine.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='979' part='i'>Un cœur vraiment romain...</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='979' part='f'>Ose tout pour ravir</l>
+	<l id='980'>Une odieuse vie à qui le fait servir ;</l>
+	<l id='981'>Il fuit plus que la mort la honte d'être esclave.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='982'>C'est l'être avec honneur que de l'être d'Octave ;</l>
+	<l id='983'>Et nous voyons souvent des rois à nos genoux</l>
+	<l id='984'>Demander pour appui tels esclaves que nous ;</l>
+	<l id='985'>Il abaisse à nos pieds l'orgueil des diadèmes,</l>
+	<l id='986'>Il nous fait souverains sur leurs grandeurs suprêmes ;</l>
+	<l id='987'>Il prend d'eux les tributs dont il nous enrichit,</l>
+	<l id='988'>Et leur impose un joug dont il nous affranchit.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='989'>L'indigne ambition que ton cœur se propose ! </l>
+	<l id='990'>Pour être plus qu'un roi, tu te crois quelque chose ! </l>
+	<l id='991'>Aux deux bouts de la terre en est-il un si vain</l>
+	<l id='992'>Qu'il prétende égaler un citoyen romain ?</l>
+	<l id='993'>Antoine sur sa tête attira notre haine</l>
+	<l id='994'>En se déshonorant par l'amour d'une reine ;</l>
+	<l id='995'>Attale, ce grand roi, dans la pourpre blanchi,</l>
+	<l id='996'>Qui du peuple romain se nommait l'affranchi,</l>
+	<l id='997'>Quand de toute l'Asie il se fût vu l'arbitre,</l>
+	<l id='998'>Eût encor moins prisé son trône que ce titre.</l>
+	<l id='999'>Souviens-toi de ton nom, soutiens sa dignité ;</l>
+	<l id='1000'>Et prenant d'un Romain la générosité,</l>
+	<l id='1001'>Sache qu'il n'en est point que le ciel n'ait fait naître</l>
+	<l id='1002'>Pour commander aux rois, et pour vivre sans maître.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1003'>Le ciel a trop fait voir en de tels attentats</l>
+	<l id='1004'>Qu'il hait les assassins et punit les ingrats ;</l>
+	<l id='1005'>Et quoi qu'on entreprenne, et quoi qu'on exécute,</l>
+	<l id='1006'>Quand il élève un trône, il en venge la chute ;</l>
+	<l id='1007'>Il se met du parti de ceux qu'il fait régner ;</l>
+	<l id='1008'>Le coup dont on les tue est longtemps à saigner ;</l>
+	<l id='1009'>Et quand à les punir il a pu se résoudre,</l>
+	<l id='1010'>De pareils châtiments n'appartiennent qu'au foudre.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1011'>Dis que de leur parti toi-même tu te rends,</l>
+	<l id='1012'>De te remettre au foudre à punir les tyrans.</l>
+	<l id='1013'>Je ne t'en parle plus, va, sers la tyrannie ;</l>
+	<l id='1014'>Abandonne ton âme à son lâche génie ;</l>
+	<l id='1015'>Et pour rendre le calme à ton esprit flottant,</l>
+	<l id='1016'>Oublie et ta naissance et le prix qui t'attend.</l>
+	<l id='1017'>Sans emprunter ta main pour servir ma colère,</l>
+	<l id='1018'>Je saurai bien venger mon pays et mon père.</l>
+	<l id='1019'>J'aurais déjà l'honneur d'un si fameux trépas,</l>
+	<l id='1020'>Si l'amour jusqu'ici n'eût arrêté mon bras ;</l>
+	<l id='1021'>C'est lui qui, sous tes lois me tenant asservie,</l>
+	<l id='1022'>M'a fait en ta faveur prendre soin de ma vie :</l>
+	<l id='1023'>Seule contre un tyran, en le faisant périr,</l>
+	<l id='1024'>Par les mains de sa garde il me fallait mourir.</l>
+	<l id='1025'>Je t'eusse par ma mort dérobé ta captive ;</l>
+	<l id='1026'>Et comme pour toi seul l'amour veut que je vive,</l>
+	<l id='1027'>J'ai voulu, mais en vain, me conserver pour toi,</l>
+	<l id='1028'>Et te donner moyen d'être digne de moi.</l>
+	<l id='1029'>Pardonnez-moi, grands dieux, si je me suis trompée</l>
+	<l id='1030'>Quand j'ai pensé chérir un neveu de Pompée,</l>
+	<l id='1031'>Et si d'un faux-semblant mon esprit abusé</l>
+	<l id='1032'>A fait choix d'un esclave en son lieu supposé.</l>
+	<l id='1033'>Je t'aime toutefois, quel que tu puisses être ;</l>
+	<l id='1034'>Et si pour me gagner il faut trahir ton maître,</l>
+	<l id='1035'>Mille autres à l'envi recevraient cette loi,</l>
+	<l id='1036'>S'ils pouvaient m'acquérir à même prix que toi.</l>
+	<l id='1037'>Mais n'appréhende pas qu'un autre ainsi m'obtienne.</l>
+	<l id='1038'>Vis pour ton cher tyran, tandis que je meurs tienne :</l>
+	<l id='1039'>Mes jours avec les siens se vont précipiter,</l>
+	<l id='1040'>Puisque ta lâcheté n'ose me mériter,</l>
+	<l id='1041'>Viens me voir, dans son sang et dans le mien baignée,</l>
+	<l id='1042'>De ma seule vertu mourir accompagnée</l>
+	<l id='1043'>Et te dire en mourant d'un esprit satisfait :</l>
+	<l id='1044'>"N'accuse point mon sort, c'est toi seul qui l'as fait.</l>
+	<l id='1045'>Je descends dans la tombe où tu m'as condamnée,</l>
+	<l id='1046'>Où la gloire me suit qui t'était destinée :</l>
+	<l id='1047'>Je meurs en détruisant un pouvoir absolu ;</l>
+	<l id='1048'>Mais je vivrais à toi si tu l'avais voulu."</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1049'>Eh bien ! vous le voulez, il faut vous satisfaire,</l>
+	<l id='1050'>Il faut affranchir Rome, il faut venger un père,</l>
+	<l id='1051'>Il faut sur un tyran porter de justes coups ;</l>
+	<l id='1052'>Mais apprenez qu'Auguste est moins tyran que vous.</l>
+	<l id='1053'>S'ils nous ôte à son gré nos biens, nos jours, nos femmes,</l>
+	<l id='1054'>Il n'a point jusqu'ici tyrannisé nos âmes ;</l>
+	<l id='1055'>Mais l'empire inhumain qu'exercent vos beautés</l>
+	<l id='1056'>Force jusqu'aux esprits et jusqu'aux volontés.</l>
+	<l id='1057'>Vous me faites priser ce qui me déshonore ;</l>
+	<l id='1058'>Vous me faites haïr ce que mon âme adore ;</l>
+	<l id='1059'>Vous me faites répandre un sang pour qui je dois</l>
+	<l id='1060'>Exposer tout le mien et mille et mille fois :</l>
+	<l id='1061'>Vous le voulez, j'y cours, ma parole est donnée ;</l>
+	<l id='1062'>Mais ma main, aussitôt contre mon sein tournée,</l>
+	<l id='1063'>Aux mânes d'un tel prince immolant votre amant,</l>
+	<l id='1064'>A mon crime forcé joindra mon châtiment,</l>
+	<l id='1065'>Et par cette action dans l'autre confondue,</l>
+	<l id='1066'>Recouvrera ma gloire aussitôt que perdue.</l>
+	<l id='1067' part='i'>Adieu.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='5'><head>SCÈNE V. Émilie, Fulvie.</head>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='1067' part='f'>Vous avez mis son âme au désespoir.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1068'>Qu'il cesse de m'aimer, ou suive son devoir.</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='1069'>Il va vous obéir aux dépens de sa vie :</l>
+	<l id='1070' part='i'>Vous en pleurez ! </l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1070' part='f'>Hélas ! Cours après lui, Fulvie,</l>
+	<l id='1071'>Et si ton amitié daigne me secourir,</l>
+	<l id='1072'>Arrache-lui du cœur ce dessein de mourir ;</l>
+	<l id='1073' part='i'>Dis-lui...</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='1073' part='f'>Qu'en sa faveur vous laissez vivre Auguste ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1074'>Ah ! c'est faire à ma haine une loi trop injuste.</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='1075' part='i'>Et quoi donc ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1075' part='f'>Qu'il achève, et dégage sa foi,</l>
+	<l id='1076'>Et qu'il choisisse après de la mort ou de moi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Auguste, Euphorbe, Polyclète, gardes.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1077'>Tout ce que tu me dis, Euphorbe, est incroyable.</l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='1078'>Seigneur, le récit même en paraît effroyable :</l>
+	<l id='1079'>On ne conçoit qu'à peine une telle fureur,</l>
+	<l id='1080'>Et la seule pensée en fait frémir d'horreur.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1081'>Quoi ! Mes plus chers amis ! Quoi ! Cinna ! Quoi ! Maxime ! </l>
+	<l id='1082'>Les deux que j'honorais d'une si haute estime,</l>
+	<l id='1083'>À qui j'ouvrais mon cœur, et dont j'avais fait choix</l>
+	<l id='1084'>Pour les plus importants et plus nobles emplois ! </l>
+	<l id='1085'>Après qu'entre leurs mains j'ai remis mon empire,</l>
+	<l id='1086'>Pour m'arracher le jour l'un et l'autre conspire ! </l>
+	<l id='1087'>Maxime a vu sa faute, il m'en fait avertir,</l>
+	<l id='1088'>Et montre un cœur touché d'un juste repentir ;</l>
+	<l id='1089' part='i'>Mais Cinna ! </l>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='1089' part='f'>Cinna seul dans sa rage s'obstine,</l>
+	<l id='1090'>Et contre vos bontés d'autant plus se mutine ;</l>
+	<l id='1091'>Lui seul combat encor les vertueux efforts</l>
+	<l id='1092'>Que sur les conjurés fait ce juste remords,</l>
+	<l id='1093'>Et malgré les frayeurs à leurs regrets mêlées,</l>
+	<l id='1094'>Il tâche à raffermir leurs âmes ébranlées.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1095'>Lui seul les encourage, et lui seul les séduit ! </l>
+	<l id='1096'>Ô le plus déloyal que la terre ait produit ! </l>
+	<l id='1097'>Ô trahison conçue au sein d'une furie ! </l>
+	<l id='1098'>Ô trop sensible coup d'une main si chérie ! </l>
+	<l id='1099'>Cinna, tu me trahis ! Polyclète, écoutez.</l>
+<stage>Il lui parle à l'oreille.</stage>
+</sp>
+<sp who='POLYCLETE'><speaker>POLYCLETE</speaker>
+	<l id='1100'>Tous vos ordres, seigneur, seront exécutés.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1101'>Qu'Eraste en même temps aille dire à Maxime</l>
+	<l id='1102'>Qu'il vienne recevoir le pardon de son crime.</l>
+<stage>Polyclète rentre.</stage>
+</sp>
+<sp who='EUPHORBE'><speaker>EUPHORBE</speaker>
+	<l id='1103'>Il l'a trop jugé grand pour ne pas s'en punir.</l>
+	<l id='1104'>A peine du palais il a pu revenir,</l>
+	<l id='1105'>Que, les yeux égarés, et le regard farouche,</l>
+	<l id='1106'>Le cœur gros de soupirs, les sanglots à la bouche,</l>
+	<l id='1107'>Il déteste sa vie et ce complot maudit,</l>
+	<l id='1108'>M'en apprend l'ordre entier tel que je vous l'ai dit ;</l>
+	<l id='1109'>Et m'ayant commandé que je vous avertisse,</l>
+	<l id='1110'>Il ajoute : "Dis-lui que je me fais justice,</l>
+	<l id='1111'>Que je n'ignore point ce que j'ai mérité."</l>
+	<l id='1112'>Puis soudain dans le Tibre il s'est précipité ;</l>
+	<l id='1113'>Et l'eau grosse et rapide, et la nuit assez noire,</l>
+	<l id='1114'>M'ont dérobé la fin de sa tragique histoire.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1115'>Sous ce pressant remords il a trop succombé,</l>
+	<l id='1116'>Et s'est à mes bontés lui-même dérobé ;</l>
+	<l id='1117'>Il n'est crime envers moi qu'un repentir n'efface :</l>
+	<l id='1118'>Mais puisqu'il a voulu renoncer à ma grâce,</l>
+	<l id='1119'>Allez pourvoir au reste, et faites qu'on ait soin</l>
+	<l id='1120'>De tenir en lieu sûr ce fidèle témoin.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1121'>Ciel, à qui voulez-vous désormais que je fie</l>
+	<l id='1122'>Les secrets de mon âme et le soin de ma vie ?</l>
+	<l id='1123'>Reprenez le pouvoir que vous m'avez commis,</l>
+	<l id='1124'>Si donnant des sujets il ôte les amis,</l>
+	<l id='1125'>Si tel est le destin des grandeurs souveraines</l>
+	<l id='1126'>Que leurs plus grands bienfaits n'attirent que des haines,</l>
+	<l id='1127'>Et si votre rigueur les condamne à chérir</l>
+	<l id='1128'>Ceux que vous animez à les faire périr.</l>
+	<l id='1129'>Pour elles rien n'est sûr ; qui peut tout doit tout craindre.</l>
+	<l id='1130'>Rentre en toi-même, Octave, et cesse de te plaindre.</l>
+	<l id='1131'>Quoi ! tu veux qu'on t'épargne, et n'as rien épargné ! </l>
+	<l id='1132'>Songe aux fleuves de sang où ton bras s'est baigné,</l>
+	<l id='1133'>De combien ont rougi les champs de Macédoine,</l>
+	<l id='1134'>Combien en a versé la défaite d'Antoine,</l>
+	<l id='1135'>Combien celle de Sexte, et revois tout d'un temps</l>
+	<l id='1136'>Pérouse au sien noyée, et tous ses habitants.</l>
+	<l id='1137'>Remets dans ton esprit, après tant de carnages,</l>
+	<l id='1138'>De tes proscriptions les sanglantes images,</l>
+	<l id='1139'>Où toi-même, des tiens devenu le bourreau,</l>
+	<l id='1140'>Au sein de ton tuteur enfonças le couteau :</l>
+	<l id='1141'>Et puis ose accuser le destin d'injustice</l>
+	<l id='1142'>Quand tu vois que les tiens s'arment pour ton supplice,</l>
+	<l id='1143'>Et que, par ton exemple à ta perte guidés,</l>
+	<l id='1144'>Ils violent des droits que tu n'as pas gardés ! </l>
+	<l id='1145'>Leur trahison est juste, et le ciel l'autorise :</l>
+	<l id='1146'>Quitte ta dignité comme tu l'as acquise ;</l>
+	<l id='1147'>Rends un sang infidèle à l'infidélité,</l>
+	<l id='1148'>Et souffre des ingrats après l'avoir été.</l>
+	<l id='1149'>Mais que mon jugement au besoin m'abandonne ! </l>
+	<l id='1150'>Quelle fureur, Cinna, m'accuse et te pardonne,</l>
+	<l id='1151'>Toi, dont la trahison me force à retenir</l>
+	<l id='1152'>Ce pouvoir souverain dont tu me veux punir,</l>
+	<l id='1153'>Me traite en criminel, et fait seule mon crime,</l>
+	<l id='1154'>Relève pour l'abattre un trône illégitime,</l>
+	<l id='1155'>Et, d'un zèle effronté couvrant son attentat,</l>
+	<l id='1156'>S'oppose, pour me perdre, au bonheur de l'Etat ?</l>
+	<l id='1157'>Donc jusqu'à l'oublier je pourrais me contraindre ! </l>
+	<l id='1158'>Tu vivrais en repos après m'avoir fait craindre ! </l>
+	<l id='1159'>Non, non, je me trahis moi-même d'y penser :</l>
+	<l id='1160'>Qui pardonne aisément invite à l'offenser ;</l>
+	<l id='1161'>Punissons l'assassin, proscrivons les complices.</l>
+	<l id='1162'>Mais quoi ! toujours du sang, et toujours des supplices ! </l>
+	<l id='1163'>Ma cruauté se lasse et ne peut s'arrêter ;</l>
+	<l id='1164'>Je veux me faire craindre et ne fais qu'irriter.</l>
+	<l id='1165'>Rome a pour ma ruine une hydre trop fertile :</l>
+	<l id='1166'>Une tête coupée en fait renaître mille,</l>
+	<l id='1167'>Et le sang répandu de mille conjurés</l>
+	<l id='1168'>Rend mes jours plus maudits, et non plus assurés.</l>
+	<l id='1169'>Octave, n'attends plus le coup d'un nouveau Brute ;</l>
+	<l id='1170'>Meurs, et dérobe-lui la gloire de ta chute ;</l>
+	<l id='1171'>Meurs ; tu ferais pour vivre un lâche et vain effort,</l>
+	<l id='1172'>Si tant de gens de cœur font des vœux pour ta mort,</l>
+	<l id='1173'>Et si tout ce que Rome a d'illustre jeunesse</l>
+	<l id='1174'>Pour te faire périr tour à tour s'intéresse ;</l>
+	<l id='1175'>Meurs, puisque c'est un mal que tu ne peux guérir ;</l>
+	<l id='1176'>Meurs enfin, puisqu'il faut ou tout perdre, ou mourir.</l>
+	<l id='1177'>La vie est peu de chose, et le peu qui t'en reste</l>
+	<l id='1178'>Ne vaut pas l'acheter par un prix si funeste.</l>
+	<l id='1179'>Meurs, mais quitte du moins la vie avec éclat,</l>
+	<l id='1180'>Éteins-en le flambeau dans le sang de l'ingrat,</l>
+	<l id='1181'>A toi-même en mourant immole ce perfide ;</l>
+	<l id='1182'>Contentant ses désirs, punis son parricide ;</l>
+	<l id='1183'>Fais un tourment pour lui de ton propre trépas,</l>
+	<l id='1184'>En faisant qu'il le voie et n'en jouisse pas :</l>
+	<l id='1185'>Mais jouissons plutôt nous-mêmes de sa peine ;</l>
+	<l id='1186'>Et si Rome nous hait triomphons de sa haine.</l>
+	<l id='1187'>Ô Romains ! Ô vengeance ! Ô pouvoir absolu ! </l>
+	<l id='1188'>Ô rigoureux combat d'un cœur irrésolu</l>
+	<l id='1189'>Qui fuit en même temps tout ce qu'il se propose ! </l>
+	<l id='1190'>D'un prince malheureux ordonnez quelque chose.</l>
+	<l id='1191'>Qui des deux dois-je suivre, et duquel m'éloigner ?</l>
+	<l id='1192'>Ou laissez-moi périr, ou laissez-moi régner.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Auguste, Livie.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1193'>Madame, on me trahit, et la main qui me tue</l>
+	<l id='1194'>Rend sous mes déplaisirs ma constance abattue.</l>
+	<l id='1195' part='i'>Cinna, Cinna, le traître...</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1195' part='f'>Euphorbe m'a tout dit,</l>
+	<l id='1196'>Seigneur, et j'ai pâli cent fois à ce récit.</l>
+	<l id='1197'>Mais écouteriez-vous les conseils d'une femme ?</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1198'>Hélas ! de quel conseil est capable mon âme ?</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1199'>Votre sévérité, sans produire aucun fruit,</l>
+	<l id='1200'>Seigneur, jusqu'à présent a fait beaucoup de bruit ;</l>
+	<l id='1201'>Par les peines d'un autre aucun ne s'intimide :</l>
+	<l id='1202'>Salvidien à bas a soulevé Lépide ;</l>
+	<l id='1203'>Murène a succédé, Cépion l'a suivi :</l>
+	<l id='1204'>Le jour à tous les deux dans les tourments ravi</l>
+	<l id='1205'>N'a point mêlé de crainte à la fureur d'Egnace,</l>
+	<l id='1206'>Dont Cinna maintenant ose prendre la place ;</l>
+	<l id='1207'>Et dans les plus bas rangs les noms les plus abjects</l>
+	<l id='1208'>Ont voulu s'ennoblir par de si hauts projets.</l>
+	<l id='1209'>Après avoir en vain puni leur insolence,</l>
+	<l id='1210'>Essayez sur Cinna ce que peut la clémence ;</l>
+	<l id='1211'>Faites son châtiment de sa confusion,</l>
+	<l id='1212'>Cherchez le plus utile en cette occasion :</l>
+	<l id='1213'>Sa peine peut aigrir une ville animée,</l>
+	<l id='1214'>Son pardon peut servir à votre renommée ;</l>
+	<l id='1215'>Et ceux que vos rigueurs ne font qu'effaroucher</l>
+	<l id='1216'>Peut-être à vos bontés se laisseront toucher.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1217'>Gagnons-les tout à fait en quittant cet empire</l>
+	<l id='1218'>Qui nous rend odieux, contre qui l'on conspire.</l>
+	<l id='1219'>J'ai trop par vos avis consulté là-dessus ;</l>
+	<l id='1220'>Ne m'en parlez jamais, je ne consulte plus.</l>
+	<l id='1221'>Cesse de soupirer, Rome, pour ta franchise :</l>
+	<l id='1222'>Si je t'ai mise aux fers, moi-même je les brise,</l>
+	<l id='1223'>Et te rends ton État, après l'avoir conquis,</l>
+	<l id='1224'>Plus paisible et plus grand que je ne te l'ai pris :</l>
+	<l id='1225'>Si tu me veux haïr, hais-moi sans plus rien feindre ;</l>
+	<l id='1226'>Si tu me veux aimer, aime-moi sans me craindre :</l>
+	<l id='1227'>De tout ce qu'eut Sylla de puissance et d'honneur,</l>
+	<l id='1228'>Lassé comme il en fut, j'aspire à son bonheur.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1229'>Assez et trop longtemps son exemple vous flatte ;</l>
+	<l id='1230'>Mais gardez que sur vous le contraire n'éclate :</l>
+	<l id='1231'>Ce bonheur sans pareil qui conserva ses jours</l>
+	<l id='1232'>Ne serait pas bonheur, s'il arrivait toujours.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1233'>Eh bien ! s'il est trop grand, si j'ai tort d'y prétendre,</l>
+	<l id='1234'>J'abandonne mon sang à qui voudra l'épandre.</l>
+	<l id='1235'>Après un long orage il faut trouver un port ;</l>
+	<l id='1236'>Et je n'en vois que deux, le repos, ou la mort.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1237'>Quoi ! vous voulez quitter le fruit de tant de peines ?</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1238'>Quoi ! vous voulez garder l'objet de tant de haines ?</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1239'>Seigneur, vous emporter à cette extrémité,</l>
+	<l id='1240'>C'est plutôt désespoir que générosité.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1241'>Régner et caresser une main si traîtresse,</l>
+	<l id='1242'>Au lieu de sa vertu, c'est montrer sa faiblesse.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1243'>C'est régner sur vous-même, et, par un noble choix,</l>
+	<l id='1244'>Pratiquer la vertu la plus digne des rois.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1245'>Vous m'aviez bien promis des conseils d'une femme ;</l>
+	<l id='1246'>Vous me tenez parole, et c'en sont là, madame.</l>
+	<l id='1247'>Après tant d'ennemis à mes pieds abattus,</l>
+	<l id='1248'>Depuis vingt ans je règne, et j'en sais les vertus ;</l>
+	<l id='1249'>Je sais leur divers ordre, et de quelle nature</l>
+	<l id='1250'>Sont les devoirs d'un prince en cette conjoncture :</l>
+	<l id='1251'>Tout son peuple est blessé par un tel attentat,</l>
+	<l id='1252'>Et la seule pensée est un crime d'État,</l>
+	<l id='1253'>Une offense qu'on fait à toute sa province,</l>
+	<l id='1254'>Dont il faut qu'il la venge, ou cesse d'être prince.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1255'>Donnez moins de croyance à votre passion.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1256'>Ayez moins de faiblesse, ou moins d'ambition.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1257'>Ne traitez plus si mal un conseil salutaire.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1258'>Le ciel m'inspirera ce qu'ici je dois faire.</l>
+	<l id='1259' part='i'>Adieu : nous perdons temps.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1259' part='f'>Je ne vous quitte point,</l>
+	<l id='1260'>Seigneur, que mon amour n'ait obtenu ce point.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1261'>C'est l'amour des grandeurs qui vous rend importune.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1262'>J'aime votre personne, et non votre fortune.</l>
+<stage>Elle est seule.</stage>
+	<l id='1263'>Il m'échappe : suivons, et forçons-le de voir</l>
+	<l id='1264'>Qu'il peut, en faisant grâce, affermir son pouvoir,</l>
+	<l id='1265'>Et qu'enfin la clémence est la plus belle marque</l>
+	<l id='1266'>Qui fasse à l'univers connaître un vrai monarque.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Émilie, Fulvie.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1267'>D'où me vient cette joie, et que mal à propos</l>
+	<l id='1268'>Mon esprit malgré moi goûte un entier repos ! </l>
+	<l id='1269'>César mande Cinna sans me donner d'alarmes ! </l>
+	<l id='1270'>Mon cœur est sans soupirs, mes yeux n'ont point de larmes :</l>
+	<l id='1271'>Comme si j'apprenais d'un secret mouvement</l>
+	<l id='1272'>Que tout doit succéder à mon contentement ! </l>
+	<l id='1273'>Ai-je bien entendu ? me l'as-tu dit, Fulvie ?</l>
+</sp>
+<sp who='FULVIE'><speaker>FULVIE</speaker>
+	<l id='1274'>J'avais gagné sur lui qu'il aimerait la vie,</l>
+	<l id='1275'>Et je vous l'amenais, plus traitable et plus doux,</l>
+	<l id='1276'>Faire un second effort contre votre courroux ;</l>
+	<l id='1277'>Je m'en applaudissais, quand soudain Polyclète,</l>
+	<l id='1278'>Des volontés d'Auguste ordinaire interprète</l>
+	<l id='1279'>Est venu l'aborder et sans suite et sans bruit,</l>
+	<l id='1280'>Et de sa part sur l'heure au palais l'a conduit.</l>
+	<l id='1281'>Auguste est fort troublé, l'on ignore la cause ;</l>
+	<l id='1282'>Chacun diversement soupçonne quelque chose ;</l>
+	<l id='1283'>Tous présument qu'il ait un grand sujet d'ennui,</l>
+	<l id='1284'>Et qu'il mande Cinna pour prendre avis de lui.</l>
+	<l id='1285'>Mais ce qui m'embarrasse, et que je viens d'apprendre,</l>
+	<l id='1286'>C'est que deux inconnus se sont saisis d'Évandre,</l>
+	<l id='1287'>Qu'Euphorbe est arrêté sans qu'on sache pourquoi,</l>
+	<l id='1288'>Que même de son maître on dit je ne sais quoi :</l>
+	<l id='1289'>On lui veut imputer un désespoir funeste ;</l>
+	<l id='1290'>On parle d'eaux, de Tibre, et l'on se tait du reste.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1291'>Que de sujets de craindre et de désespérer,</l>
+	<l id='1292'>Sans que mon triste cœur en daigne murmurer ! </l>
+	<l id='1293'>À chaque occasion le ciel y fait descendre</l>
+	<l id='1294'>Un sentiment contraire à celui qu'il doit prendre :</l>
+	<l id='1295'>Une vaine frayeur tantôt m'a pu troubler,</l>
+	<l id='1296'>Et je suis insensible alors qu'il faut trembler.</l>
+	<l id='1297'>Je vous entends, grands dieux ! vos bontés que j'adore</l>
+	<l id='1298'>Ne peuvent consentir que je me déshonore ;</l>
+	<l id='1299'>Et ne me permettant soupirs, sanglots, ni pleurs,</l>
+	<l id='1300'>Soutiennent ma vertu contre de tels malheurs.</l>
+	<l id='1301'>Vous voulez que je meure avec ce grand courage</l>
+	<l id='1302'>Qui m'a fait entreprendre un si fameux ouvrage ;</l>
+	<l id='1303'>Et je veux bien périr comme vous l'ordonnez,</l>
+	<l id='1304'>Et dans la même assiette où vous me retenez.</l>
+	<l id='1305'>Ô liberté de Rome ! Ô mânes de mon père ! </l>
+	<l id='1306'>J'ai fait de mon côté tout ce que j'ai pu faire :</l>
+	<l id='1307'>Contre votre tyran j'ai ligué ses amis,</l>
+	<l id='1308'>Et plus osé pour vous qu'il ne m'était permis.</l>
+	<l id='1309'>Si l'effet a manqué, ma gloire n'est pas moindre ;</l>
+	<l id='1310'>N'ayant pu vous venger, je vous irai rejoindre,</l>
+	<l id='1311'>Mais si fumante encor d'un généreux courroux,</l>
+	<l id='1312'>Par un trépas si noble et si digne de vous,</l>
+	<l id='1313'>Qu'il vous fera sur l'heure aisément reconnaître</l>
+	<l id='1314'>Le sang des grands héros dont vous m'avez fait naître.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='5'><head>SCÈNE V. Maxime, Émilie, Fulvie.</head>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1315'>Mais je vous vois, Maxime, et l'on vous faisait mort ! </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1316'>Euphorbe trompe Auguste avec ce faux rapport ;</l>
+	<l id='1317'>Se voyant arrêté, la trame découverte,</l>
+	<l id='1318'>Il a feint ce trépas pour empêcher ma perte.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1319' part='i'>Que dit-on de Cinna ?</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1319' part='f'>Que son plus grand regret,</l>
+	<l id='1320'>C'est de voir que César sait tout votre secret ;</l>
+	<l id='1321'>En vain il le dénie et le veut méconnaître,</l>
+	<l id='1322'>Évandre a tout conté pour excuser son maître,</l>
+	<l id='1323'>Et par ordre d'Auguste on vient vous arrêter.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1324'>Celui qui l'a reçu tarde à l'exécuter ;</l>
+	<l id='1325'>Je suis prête à le suivre et lasse de l'attendre.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1326' part='i'>Il vous attend chez moi.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1326' part='m'>Chez vous ! </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1326' part='f'>C'est vous surprendre :</l>
+	<l id='1327'>Mais apprenez le soin que le ciel a de vous :</l>
+	<l id='1328'>C'est un des conjurés qui va fuir avec nous.</l>
+	<l id='1329'>Prenons notre avantage avant qu'on nous poursuive ;</l>
+	<l id='1330'>Nous avons pour partir un vaisseau sur la rive.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1331'>Me connais-tu, Maxime, et sais-tu qui je suis ?</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1332'>En faveur de Cinna je fais ce que je puis,</l>
+	<l id='1333'>Et tâche à garantir de ce malheur extrême</l>
+	<l id='1334'>La plus belle moitié qui reste de lui-même.</l>
+	<l id='1335'>Sauvons-nous, Émilie, et conservons le jour</l>
+	<l id='1336'>Afin de le venger par un heureux retour.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1337'>Cinna dans son malheur est de ceux qu'il faut suivre,</l>
+	<l id='1338'>Qu'il ne faut pas venger, de peur de leur survivre ;</l>
+	<l id='1339'>Quiconque après sa perte aspire à se sauver</l>
+	<l id='1340'>Est indigne du jour qu'il tâche à conserver.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1341'>Quel désespoir aveugle à ces fureurs vous porte ?</l>
+	<l id='1342'>Ô dieux ! que de faiblesse en une âme si forte ! </l>
+	<l id='1343'>Ce cœur si généreux rend si peu de combat,</l>
+	<l id='1344'>Et du premier revers la fortune l'abat ! </l>
+	<l id='1345'>Rappelez, rappelez cette vertu sublime,</l>
+	<l id='1346'>Ouvrez enfin les yeux, et connaissez Maxime :</l>
+	<l id='1347'>C'est un autre Cinna qu'en lui vous regardez ;</l>
+	<l id='1348'>Le ciel vous rend en lui l'amant que vous perdez ;</l>
+	<l id='1349'>Et puisque l'amitié n'en faisait plus qu'une âme,</l>
+	<l id='1350'>Aimez en cet ami l'objet de votre flamme ;</l>
+	<l id='1351'>Avec la même ardeur il saura vous chérir,</l>
+	<l id='1352' part='i'>Que...</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1352' part='f'>Tu m'oses aimer, et tu n'oses mourir ! </l>
+	<l id='1353'>Tu prétends un peu trop ; mais quoi que tu prétendes,</l>
+	<l id='1354'>Rends-toi digne du moins de ce que tu demandes ;</l>
+	<l id='1355'>Cesse de fuir en lâche un glorieux trépas,</l>
+	<l id='1356'>Ou de m'offrir un cœur que tu fais voir si bas ;</l>
+	<l id='1357'>Fais que je porte envie à ta vertu parfaite ;</l>
+	<l id='1358'>Ne te pouvant aimer, fais que je te regrette ;</l>
+	<l id='1359'>Montre d'un vrai Romain la dernière vigueur,</l>
+	<l id='1360'>Et mérite mes pleurs au défaut de mon cœur.</l>
+	<l id='1361'>Quoi ! si ton amitié pour Cinna s'intéresse,</l>
+	<l id='1362'>Crois-tu qu'elle consiste à flatter sa maîtresse ?</l>
+	<l id='1363'>Apprends, apprends de moi quel en est le devoir,</l>
+	<l id='1364'>Et donne-m'en l'exemple, ou viens le recevoir.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1365'>Votre juste douleur est trop impétueuse.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1366'>La tienne en ta faveur est trop ingénieuse.</l>
+	<l id='1367'>Tu me parles déjà d'un bienheureux retour,</l>
+	<l id='1368'>Et dans tes déplaisirs tu conçois de l'amour ! </l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1369'>Cet amour en naissant est toutefois extrême ;</l>
+	<l id='1370'>C'est votre amant en vous, c'est mon ami que j'aime.</l>
+	<l id='1371'>Et des mêmes ardeurs dont il fut embrasé...</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1372'>Maxime, en voilà trop pour un homme avisé.</l>
+	<l id='1373'>Ma perte m'a surprise, et ne m'a point troublée :</l>
+	<l id='1374'>Mon noble désespoir ne m'a point aveuglée ;</l>
+	<l id='1375'>Ma vertu tout entière agit sans s'émouvoir,</l>
+	<l id='1376'>Et je vois malgré moi plus que je ne veux voir.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1377'>Quoi ? vous suis-je suspect de quelque perfidie ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1378'>Oui, tu l'es, puisqu'enfin tu veux que je le die ;</l>
+	<l id='1379'>L'ordre de notre fuite est trop bien concerté</l>
+	<l id='1380'>Pour ne te soupçonner d'aucune lâcheté :</l>
+	<l id='1381'>Les dieux seraient pour nous prodigues en miracles,</l>
+	<l id='1382'>S'ils en avaient sans toi levé tous les obstacles.</l>
+	<l id='1383'>Fuis sans moi, tes amours sont ici superflus.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1384' part='i'>Ah ! vous m'en dites trop.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1384' part='f'>J'en présume encor plus.</l>
+	<l id='1385'>Ne crains pas toutefois que j'éclate en injures ;</l>
+	<l id='1386'>Mais n'espère non plus m'éblouir de parjures.</l>
+	<l id='1387'>Si c'est te faire tort que de m'en défier,</l>
+	<l id='1388'>Viens mourir avec moi pour te justifier.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1389'>Vivez, belle Émilie, et souffrez qu'un esclave...</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1390'>Je ne t'écoute plus qu'en présence d'Octave.</l>
+	<l id='1391' part='i'>Allons, Fulvie, allons.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='6'><head>SCÈNE VI.</head>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1391' part='f'>Désespéré, confus,</l>
+	<l id='1392'>Et digne, s'il se peut, d'un plus cruel refus,</l>
+	<l id='1393'>Que résous-tu, Maxime ? et quel est le supplice</l>
+	<l id='1394'>Que ta vertu prépare à ton vain artifice ?</l>
+	<l id='1395'>Aucune illusion ne te doit plus flatter :</l>
+	<l id='1396'>Émilie en mourant va tout faire éclater ;</l>
+	<l id='1397'>Sur un même échafaud la perte de sa vie</l>
+	<l id='1398'>Étalera sa gloire et ton ignominie</l>
+	<l id='1399'>Et sa mort va laisser à la postérité</l>
+	<l id='1400'>L'infâme souvenir de ta déloyauté.</l>
+	<l id='1401'>Un même jour t'a vu, par une fausse adresse,</l>
+	<l id='1402'>Trahir ton souverain, ton ami, ta maîtresse,</l>
+	<l id='1403'>Sans que de tant de droits en un jour violés,</l>
+	<l id='1404'>Sans que de deux amants au tyran immolés,</l>
+	<l id='1405'>Il te reste aucun fruit que la honte et la rage</l>
+	<l id='1406'>Qu'un remords inutile allume en ton courage.</l>
+	<l id='1407'>Euphorbe, c'est l'effet de tes lâches conseils ;</l>
+	<l id='1408'>Mais que peut-on attendre enfin de tes pareils ?</l>
+	<l id='1409'>Jamais un affranchi n'est qu'un esclave infâme ;</l>
+	<l id='1410'>Bien qu'il change d'état, il ne change point d'âme ;</l>
+	<l id='1411'>La tienne, encor servile, avec la liberté</l>
+	<l id='1412'>N'a pu prendre un rayon de générosité :</l>
+	<l id='1413'>Tu m'as fait relever une injuste puissance ;</l>
+	<l id='1414'>Tu m'as fait démentir l'honneur de ma naissance ;</l>
+	<l id='1415'>Mon cœur te résistait, et tu l'as combattu</l>
+	<l id='1416'>Jusqu'à ce que ta fourbe ait souillé sa vertu.</l>
+	<l id='1417'>Il m'en coûte la vie, il m'en coûte la gloire,</l>
+	<l id='1418'>Et j'ai tout mérité pour t'avoir voulu croire ;</l>
+	<l id='1419'>Mais les dieux permettront à mes ressentiments</l>
+	<l id='1420'>De te sacrifier aux yeux des deux amants,</l>
+	<l id='1421'>Et j'ose m'assurer qu'en dépit de mon crime</l>
+	<l id='1422'>Mon sang leur servira d'assez pure victime,</l>
+	<l id='1423'>Si dans le tien mon bras, justement irrité</l>
+	<l id='1424'>Peut laver le forfait de t'avoir écouté.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Auguste, Cinna.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1425'>Prends un siège, Cinna, prends, et sur toute chose</l>
+	<l id='1426'>Observe exactement la loi que je t'impose :</l>
+	<l id='1427'>Prête, sans me troubler, l'oreille à mes discours ;</l>
+	<l id='1428'>D'aucun mot, d'aucun cri, n'en interromps le cours ;</l>
+	<l id='1429'>Tiens ta langue captive ; et si ce grand silence</l>
+	<l id='1430'>À ton émotion fait quelque violence,</l>
+	<l id='1431'>Tu pourras me répondre après tout à loisir :</l>
+	<l id='1432'>Sur ce point seulement contente mon désir.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1433' part='i'>Je vous obéirai, Seigneur.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1433' part='f'>Qu'il te souvienne</l>
+	<l id='1434'>De garder ta parole, et je tiendrai la mienne.</l>
+	<l id='1435'>Tu vois le jour, Cinna ; mais ceux dont tu le tiens</l>
+	<l id='1436'>Furent les ennemis de mon père, et les miens :</l>
+	<l id='1437'>Au milieu de leur camp tu reçus la naissance ;</l>
+	<l id='1438'>Et lorsqu'après leur mort tu vins en ma puissance,</l>
+	<l id='1439'>Leur haine enracinée au milieu de ton sein</l>
+	<l id='1440'>T'avait mis contre moi les armes à la main ;</l>
+	<l id='1441'>Tu fus mon ennemi même avant que de naître,</l>
+	<l id='1442'>Et tu le fus encor quand tu me pus connaître,</l>
+	<l id='1443'>Et l'inclination jamais n'a démenti</l>
+	<l id='1444'>Ce sang qui t'avait fait du contraire parti :</l>
+	<l id='1445'>Autant que tu l'as pu, les effets l'ont suivie ;</l>
+	<l id='1446'>Je ne m'en suis vengé qu'en te donnant la vie ;</l>
+	<l id='1447'>Je te fis prisonnier pour te combler de biens ;</l>
+	<l id='1448'>Ma cour fut ta prison, mes faveurs tes liens :</l>
+	<l id='1449'>Je te restituai d'abord ton patrimoine ;</l>
+	<l id='1450'>Je t'enrichis après des dépouilles d'Antoine,</l>
+	<l id='1451'>Et tu sais que depuis, à chaque occasion,</l>
+	<l id='1452'>Je suis tombé pour toi dans la profusion ;</l>
+	<l id='1453'>Toutes les dignités que tu m'as demandées,</l>
+	<l id='1454'>Je te les ai sur l'heure et sans peine accordées ;</l>
+	<l id='1455'>Je t'ai préféré même à ceux dont les parents</l>
+	<l id='1456'>Ont jadis dans mon camp tenu les premiers rangs,</l>
+	<l id='1457'>A ceux qui de leur sang m'ont acheté l'empire,</l>
+	<l id='1458'>Et qui m'ont conservé le jour que je respire ;</l>
+	<l id='1459'>De la façon enfin qu'avec toi j'ai vécu,</l>
+	<l id='1460'>Les vainqueurs sont jaloux du bonheur du vaincu.</l>
+	<l id='1461'>Quand le ciel me voulut, en rappelant Mécène,</l>
+	<l id='1462'>Après tant de faveur montrer un peu de haine,</l>
+	<l id='1463'>Je te donnai sa place en ce triste accident,</l>
+	<l id='1464'>Et te fis, après lui, mon plus cher confident ;</l>
+	<l id='1465'>Aujourd'hui même encor, mon âme irrésolue</l>
+	<l id='1466'>Me pressant de quitter ma puissance absolue,</l>
+	<l id='1467'>De Maxime et de toi j'ai pris les seuls avis,</l>
+	<l id='1468'>Et ce sont, malgré lui, les tiens que j'ai suivis ;</l>
+	<l id='1469'>Bien plus, ce même jour je te donne Émilie,</l>
+	<l id='1470'>Le digne objet des vœux de toute l'Italie,</l>
+	<l id='1471'>Et qu'ont mise si haut mon amour et mes soins,</l>
+	<l id='1472'>Qu'en te couronnant roi je t'aurais donné moins.</l>
+	<l id='1473'>Tu t'en souviens, Cinna, tant d'heur et tant de gloire</l>
+	<l id='1474'>Ne peuvent pas sitôt sortir de ta mémoire ;</l>
+	<l id='1475'>Mais ce qu'on ne pourrait jamais s'imaginer,</l>
+	<l id='1476'>Cinna, tu t'en souviens, et veux m'assassiner.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1477'>Moi, seigneur ! moi, que j'eusse une âme si traîtresse ! </l>
+	<l id='1478' part='i'>Qu'un si lâche dessein...</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1478' part='f'>Tu tiens mal ta promesse :</l>
+	<l id='1479'>Sieds-toi, je n'ai pas dit encor ce que je veux ;</l>
+	<l id='1480'>Tu te justifieras après, si tu le peux.</l>
+	<l id='1481'>Écoute cependant, et tiens mieux ta parole.</l>
+	<l id='1482'>Tu veux m'assassiner demain, au Capitole,</l>
+	<l id='1483'>Pendant le sacrifice, et ta main pour signal</l>
+	<l id='1484'>Me doit, au lieu d'encens, donner le coup fatal ;</l>
+	<l id='1485'>La moitié de tes gens doit occuper la porte,</l>
+	<l id='1486'>L'autre moitié te suivre et te prêter main-forte.</l>
+	<l id='1487'>Ai-je de bons avis, ou de mauvais soupçons ?</l>
+	<l id='1488'>De tous ces meurtriers te dirai-je les noms ?</l>
+	<l id='1489'>Procule, Glabrion, Virginian, Rutile,</l>
+	<l id='1490'>Marcel, Plaute, Lénas, Pompone, Albin, Icile,</l>
+	<l id='1491'>Maxime, qu'après toi j'avais le plus aimé :</l>
+	<l id='1492'>Le reste ne vaut pas l'honneur d'être nommé ;</l>
+	<l id='1493'>Un tas d'hommes perdus de dettes et de crimes,</l>
+	<l id='1494'>Que pressent de mes lois les ordres légitimes,</l>
+	<l id='1495'>Et qui, désespérant de les plus éviter,</l>
+	<l id='1496'>Si tout n'est renversé, ne sauraient subsister.</l>
+	<l id='1497'>Tu te tais maintenant, et gardes le silence,</l>
+	<l id='1498'>Plus par confusion que par obéissance.</l>
+	<l id='1499'>Quel était ton dessein, et que prétendais-tu</l>
+	<l id='1500'>Après m'avoir au temple à tes pieds abattu ?</l>
+	<l id='1501'>Affranchir ton pays d'un pouvoir monarchique ?</l>
+	<l id='1502'>Si j'ai bien entendu tantôt ta politique,</l>
+	<l id='1503'>Son salut désormais dépend d'un souverain,</l>
+	<l id='1504'>Qui pour tout conserver tienne tout en sa main ;</l>
+	<l id='1505'>Et si sa liberté te faisait entreprendre,</l>
+	<l id='1506'>Tu ne m'eusses jamais empêché de la rendre ;</l>
+	<l id='1507'>Tu l'aurais acceptée au nom de tout l'Etat,</l>
+	<l id='1508'>Sans vouloir l'acquérir par un assassinat.</l>
+	<l id='1509'>Quel était donc ton but ? d'y régner en ma place ?</l>
+	<l id='1510'>D'un étrange malheur son destin le menace,</l>
+	<l id='1511'>Si pour monter au trône et lui donner la loi</l>
+	<l id='1512'>Tu ne trouves dans Rome autre obstacle que moi,</l>
+	<l id='1513'>Si jusques à ce point son sort est déplorable,</l>
+	<l id='1514'>Que tu sois après moi le plus considérable,</l>
+	<l id='1515'>Et que ce grand fardeau de l'empire romain</l>
+	<l id='1516'>Ne puisse après ma mort tomber mieux qu'en ta main.</l>
+	<l id='1517'>Apprends à te connaître, et descends en toi-même :</l>
+	<l id='1518'>On t'honore dans Rome, on te courtise, on t'aime,</l>
+	<l id='1519'>Chacun tremble sous toi, chacun t'offre des vœux,</l>
+	<l id='1520'>Ta fortune est bien haut, tu peux ce que tu veux ;</l>
+	<l id='1521'>Mais tu ferais pitié même à ceux qu'elle irrite,</l>
+	<l id='1522'>Si je t'abandonnais à ton peu de mérite.</l>
+	<l id='1523'>Ose me démentir, dis-moi ce que tu vaux,</l>
+	<l id='1524'>Conte-moi tes vertus, tes glorieux travaux,</l>
+	<l id='1525'>Les rares qualités par où tu m'as dû plaire,</l>
+	<l id='1526'>Et tout ce qui t'élève au-dessus du vulgaire.</l>
+	<l id='1527'>Ma faveur fait ta gloire, et ton pouvoir en vient ;</l>
+	<l id='1528'>Elle seule t'élève, et seule te soutient ;</l>
+	<l id='1529'>C'est elle qu'on adore, et non pas ta personne :</l>
+	<l id='1530'>Tu n'as crédit ni rang, qu'autant qu'elle t'en donne ;</l>
+	<l id='1531'>Et pour te faire choir je n'aurais aujourd'hui</l>
+	<l id='1532'>Qu'à retirer la main qui seule est ton appui.</l>
+	<l id='1533'>J'aime mieux toutefois céder à ton envie :</l>
+	<l id='1534'>Règne, si tu le peux, aux dépens de ma vie ;</l>
+	<l id='1535'>Mais oses-tu penser que les Serviliens,</l>
+	<l id='1536'>Les Cosses, les Métels, les Pauls, les Fabiens,</l>
+	<l id='1537'>Et tant d'autres enfin de qui les grands courages</l>
+	<l id='1538'>Des héros de leur sang sont les vives images,</l>
+	<l id='1539'>Quittent le noble orgueil d'un sang si généreux</l>
+	<l id='1540'>Jusqu'à pouvoir souffrir que tu règnes sur eux ?</l>
+	<l id='1541' part='i'>Parle, parle, il est temps.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1541' part='f'>Je demeure stupide ;</l>
+	<l id='1542'>Non que votre colère ou la mort m'intimide :</l>
+	<l id='1543'>Je vois qu'on m'a trahi, vous m'y voyez rêver,</l>
+	<l id='1544'>Et j'en cherche l'auteur sans le pouvoir trouver.</l>
+	<l id='1545'>Mais c'est trop y tenir toute l'âme occupée :</l>
+	<l id='1546'>Seigneur, je suis Romain, et du sang de Pompée.</l>
+	<l id='1547'>Le père et les deux fils, lâchement égorgés,</l>
+	<l id='1548'>Par la mort de César étaient trop peu vengés ;</l>
+	<l id='1549'>C'est là d'un beau dessein l'illustre et seule cause :</l>
+	<l id='1550'>Et puisqu'à vos rigueurs la trahison m'expose,</l>
+	<l id='1551'>N'attendez point de moi d'infâmes repentirs,</l>
+	<l id='1552'>D'inutiles regrets, ni de honteux soupirs.</l>
+	<l id='1553'>Le sort vous est propice autant qu'il m'est contraire ;</l>
+	<l id='1554'>Je sais ce que j'ai fait, et ce qu'il vous faut faire :</l>
+	<l id='1555'>Vous devez un exemple à la postérité,</l>
+	<l id='1556'>Et mon trépas importe à votre sûreté.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1557'>Tu me braves, Cinna, tu fais le magnanime,</l>
+	<l id='1558'>Et, loin de t'excuser, tu couronnes ton crime.</l>
+	<l id='1559'>Voyons si ta constance ira jusques au bout.</l>
+	<l id='1560'>Tu sais ce qui t'est dû, tu vois que je sais tout,</l>
+	<l id='1561'>Fais ton arrêt toi-même, et choisis tes supplices.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Auguste, Livie, Cinna, Émilie, Fulvie.</head>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1562'>Vous ne connaissez pas encor tous les complices ;</l>
+	<l id='1563'>Votre Émilie en est, seigneur, et la voici.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1564' part='i'>C'est elle-même, ô dieux ! </l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1564' part='f'>Et toi, ma fille, aussi ! </l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1565'>Oui, tout ce qu'il a fait, il l'a fait pour me plaire,</l>
+	<l id='1566'>Et j'en étais, seigneur, la cause et le salaire.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1567'>Quoi ? l'amour qu'en ton cœur j'ai fait naître aujourd'hui</l>
+	<l id='1568'>T'emporte-t-il déjà jusqu'à mourir pour lui ?</l>
+	<l id='1569'>Ton âme à ces transports un peu trop s'abandonne,</l>
+	<l id='1570'>Et c'est trop tôt aimer l'amant que je te donne.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1571'>Cet amour qui m'expose à vos ressentiments</l>
+	<l id='1572'>N'est point le prompt effet de vos commandements ;</l>
+	<l id='1573'>Ces flammes dans nos cœurs sans votre ordre étaient nées,</l>
+	<l id='1574'>Et ce sont des secrets de plus de quatre années ;</l>
+	<l id='1575'>Mais, quoique je l'aimasse et qu'il brûlât pour moi,</l>
+	<l id='1576'>Une haine plus forte à tous deux fit la loi ;</l>
+	<l id='1577'>Je ne voulus jamais lui donner d'espérance,</l>
+	<l id='1578'>Qu'il ne m'eût de mon père assuré la vengeance ;</l>
+	<l id='1579'>Je la lui fis jurer ; il chercha des amis :</l>
+	<l id='1580'>Le ciel rompt le succès que je m'étais promis,</l>
+	<l id='1581'>Et je vous viens, seigneur, offrir une victime,</l>
+	<l id='1582'>Non pour sauver sa vie en me chargeant du crime :</l>
+	<l id='1583'>Son trépas est trop juste après son attentat,</l>
+	<l id='1584'>Et toute excuse est vaine en un crime d'État :</l>
+	<l id='1585'>Mourir en sa présence, et rejoindre mon père,</l>
+	<l id='1586'>C'est tout ce qui m'amène, et tout ce que j'espère.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1587'>Jusques à quand, ô ciel, et par quelle raison</l>
+	<l id='1588'>Prendrez-vous contre moi des traits dans ma maison ?</l>
+	<l id='1589'>Pour ses débordements j'en ai chassé Julie,</l>
+	<l id='1590'>Mon amour en sa place a fait choix d'Émilie,</l>
+	<l id='1591'>Et je la vois comme elle indigne de ce rang.</l>
+	<l id='1592'>L'une m'ôtait l'honneur, l'autre a soif de mon sang ;</l>
+	<l id='1593'>Et prenant toutes deux leur passion pour guide,</l>
+	<l id='1594'>L'une fut impudique et l'autre est parricide.</l>
+	<l id='1595'>Ô ma fille ! Est-ce là le prix de mes bienfaits ?</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1596'>Ceux de mon père en vous firent mêmes effets.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1597'>Songe avec quel amour j'élevai ta jeunesse.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1598'>Il éleva la vôtre avec même tendresse ;</l>
+	<l id='1599'>Il fut votre tuteur, et vous son assassin ;</l>
+	<l id='1600'>Et vous m'avez au crime enseigné le chemin :</l>
+	<l id='1601'>Le mien d'avec le vôtre en ce point seul diffère,</l>
+	<l id='1602'>Que votre ambition s'est immolé mon père,</l>
+	<l id='1603'>Et qu'un juste courroux dont je me sens brûler</l>
+	<l id='1604'>A son sang innocent voulait vous immoler.</l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1605'>C'en est trop, Émilie ; arrête, et considère</l>
+	<l id='1606'>Qu'il t'a trop bien payé les bienfaits de ton père :</l>
+	<l id='1607'>Sa mort, dont la mémoire allume ta fureur,</l>
+	<l id='1608'>Fut un crime d'Octave et non de l'empereur.</l>
+	<l id='1609'>Tous ces crimes d'État qu'on fait pour la couronne,</l>
+	<l id='1610'>Le ciel nous en absout alors qu'il nous la donne,</l>
+	<l id='1611'>Et dans le sacré rang où sa faveur l'a mis,</l>
+	<l id='1612'>Le passé devient juste et l'avenir permis.</l>
+	<l id='1613'>Qui peut y parvenir ne peut être coupable ;</l>
+	<l id='1614'>Quoi qu'il ait fait ou fasse, il est inviolable :</l>
+	<l id='1615'>Nous lui devons nos biens, nos jours sont en sa main,</l>
+	<l id='1616'>Et jamais on n'a droit sur ceux du souverain.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1617'>Aussi, dans le discours que vous venez d'entendre,</l>
+	<l id='1618'>Je parlais pour l'aigrir, et non pour me défendre.</l>
+	<l id='1619'>Punissez donc, seigneur, ces criminels appas</l>
+	<l id='1620'>Qui de vos favoris font d'illustres ingrats ;</l>
+	<l id='1621'>Tranchez mes tristes jours pour assurer les vôtres.</l>
+	<l id='1622'>Si j'ai séduit Cinna, j'en séduirai bien d'autres ;</l>
+	<l id='1623'>Et je suis plus à craindre, et vous plus en danger,</l>
+	<l id='1624'>Si j'ai l'amour ensemble et le sang à venger.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1625'>Que vous m'ayez séduit, et que je souffre encore</l>
+	<l id='1626'>D'être déshonoré par celle que j'adore ! </l>
+	<l id='1627'>Seigneur, la vérité doit ici s'exprimer :</l>
+	<l id='1628'>J'avais fait ce dessein avant que de l'aimer ;</l>
+	<l id='1629'>A mes plus saints désirs la trouvant inflexible,</l>
+	<l id='1630'>Je crus qu'à d'autres soins elle serait sensible ;</l>
+	<l id='1631'>Je parlai de son père et de votre rigueur,</l>
+	<l id='1632'>Et l'offre de mon bras suivit celle du cœur.</l>
+	<l id='1633'>Que la vengeance est douce à l'esprit d'une femme ! </l>
+	<l id='1634'>Je l'attaquai par là, par là je pris son âme ;</l>
+	<l id='1635'>Dans mon peu de mérite elle me négligeait,</l>
+	<l id='1636'>Et ne put négliger le bras qui la vengeait :</l>
+	<l id='1637'>Elle n'a conspiré que par mon artifice ;</l>
+	<l id='1638'>J'en suis le seul auteur, elle n'est que complice.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1639'>Cinna, qu'oses-tu dire ? Est-ce là me chérir,</l>
+	<l id='1640'>Que de m'ôter l'honneur quand il me faut mourir ?</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1641'>Mourez, mais en mourant ne souillez point ma gloire.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1642'>La mienne se flétrit, si César te veut croire.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1643'>Et la mienne se perd, si vous tirez à vous</l>
+	<l id='1644'>Toute celle qui suit de si généreux coups.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1645'>Eh bien ! Prends-en ta part, et me laisse la mienne ;</l>
+	<l id='1646'>Ce serait l'affaiblir que d'affaiblir la tienne :</l>
+	<l id='1647'>La gloire et le plaisir, la honte et les tourments,</l>
+	<l id='1648'>Tout doit être commun entre de vrais amants.</l>
+	<l id='1649'>Nos deux âmes, seigneur, sont deux âmes romaines ;</l>
+	<l id='1650'>Unissant nos désirs, nous unîmes nos haines ;</l>
+	<l id='1651'>De nos parents perdus le vif ressentiment</l>
+	<l id='1652'>Nous apprit nos devoirs en un même moment ;</l>
+	<l id='1653'>En ce noble dessein nos cœurs se rencontrèrent ;</l>
+	<l id='1654'>Nos esprits généreux ensemble le formèrent ;</l>
+	<l id='1655'>Ensemble nous cherchons l'honneur d'un beau trépas :</l>
+	<l id='1656'>Vous vouliez nous unir, ne nous séparez pas.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1657'>Oui, je vous unirai, couple ingrat et perfide,</l>
+	<l id='1658'>Et plus mon ennemi qu'Antoine ni Lépide :</l>
+	<l id='1659'>Oui, je vous unirai, puisque vous le voulez :</l>
+	<l id='1660'>Il faut bien satisfaire aux feux dont vous brûlez ;</l>
+	<l id='1661'>Et que tout l'univers, sachant ce qui m'anime,</l>
+	<l id='1662'>S'étonne du supplice aussi bien que du crime.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Auguste, Livie, Cinna, Maxime, Émilie, Fulvie.</head>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1663'>Mais enfin le ciel m'aime, et ses bienfaits nouveaux</l>
+	<l id='1664'>Ont enlevé Maxime à la fureur des eaux.</l>
+	<l id='1665'>Approche, seul ami que j'éprouve fidèle.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1666'>Honorez moins, seigneur, une âme criminelle.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1667'>Ne parlons plus de crime après ton repentir,</l>
+	<l id='1668'>Après que du péril tu m'as su garantir ;</l>
+	<l id='1669'>C'est à toi que je dois et le jour et l'empire.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1670'>De tous vos ennemis connaissez mieux le pire :</l>
+	<l id='1671'>Si vous régnez encor, seigneur, si vous vivez,</l>
+	<l id='1672'>C'est ma jalouse rage à qui vous le devez.</l>
+	<l id='1673'>Un vertueux remords n'a point touché mon âme ;</l>
+	<l id='1674'>Pour perdre mon rival, j'ai découvert sa trame ;</l>
+	<l id='1675'>Euphorbe vous a feint que je m'étais noyé</l>
+	<l id='1676'>De crainte qu'après moi vous n'eussiez envoyé :</l>
+	<l id='1677'>Je voulais avoir lieu d'abuser Émilie,</l>
+	<l id='1678'>Effrayer son esprit, la tirer d'Italie,</l>
+	<l id='1679'>Et pensais la résoudre à cet enlèvement</l>
+	<l id='1680'>Sous l'espoir du retour pour venger son amant ;</l>
+	<l id='1681'>Mais au lieu de goûter ces grossières amorces,</l>
+	<l id='1682'>Sa vertu combattue a redoublé ses forces,</l>
+	<l id='1683'>Elle a lu dans mon cœur ; vous savez le surplus,</l>
+	<l id='1684'>Et je vous en ferais des récits superflus.</l>
+	<l id='1685'>Vous voyez le succès de mon lâche artifice.</l>
+	<l id='1686'>Si pourtant quelque grâce est due à mon indice,</l>
+	<l id='1687'>Faites périr Euphorbe au milieu des tourments,</l>
+	<l id='1688'>Et souffrez que je meure aux yeux de ces amants.</l>
+	<l id='1689'>J'ai trahi mon ami, ma maîtresse, mon maître,</l>
+	<l id='1690'>Ma gloire, mon pays, par l'avis de ce traître ;</l>
+	<l id='1691'>Et croirai toutefois mon bonheur infini,</l>
+	<l id='1692'>Si je puis m'en punir après l'avoir puni.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1693'>En est-ce assez, ô ciel ! et le sort, pour me nuire,</l>
+	<l id='1694'>A-t-il quelqu'un des miens qu'il veuille encor séduire ?</l>
+	<l id='1695'>Qu'il joigne à ses efforts le secours des enfers ;</l>
+	<l id='1696'>Je suis maître de moi comme de l'univers ;</l>
+	<l id='1697'>Je le suis, je veux l'être. Ô siècles, ô mémoire ! </l>
+	<l id='1698'>Conservez à jamais ma dernière victoire ! </l>
+	<l id='1699'>Je triomphe aujourd'hui du plus juste courroux</l>
+	<l id='1700'>De qui le souvenir puisse aller jusqu'à vous.</l>
+	<l id='1701'>Soyons amis, Cinna, c'est moi qui t'en convie :</l>
+	<l id='1702'>Comme à mon ennemi je t'ai donné la vie,</l>
+	<l id='1703'>Et, malgré la fureur de ton lâche destin,</l>
+	<l id='1704'>Je te la donne encor comme à mon assassin.</l>
+	<l id='1705'>Commençons un combat qui montre par l'issue</l>
+	<l id='1706'>Qui l'aura mieux de nous ou donnée ou reçue.</l>
+	<l id='1707'>Tu trahis mes bienfaits, je les veux redoubler ;</l>
+	<l id='1708'>Je t'en avais comblé, je t'en veux accabler :</l>
+	<l id='1709'>Avec cette beauté que je t'avais donnée,</l>
+	<l id='1710'>Reçois le consulat pour la prochaine année.</l>
+	<l id='1711'>Aime Cinna, ma fille, en cet illustre rang,</l>
+	<l id='1712'>Préfères-en la pourpre à celle de mon sang ;</l>
+	<l id='1713'>Apprends sur mon exemple à vaincre ta colère :</l>
+	<l id='1714'>Te rendant un époux, je te rends plus qu'un père.</l>
+</sp>
+<sp who='ÉMILIE'><speaker>ÉMILIE</speaker>
+	<l id='1715'>Et je me rends, seigneur, à ces hautes bontés ;</l>
+	<l id='1716'>Je recouvre la vue auprès de leurs clartés :</l>
+	<l id='1717'>Je connais mon forfait qui me semblait justice ;</l>
+	<l id='1718'>Et (ce que n'avait pu la terreur du supplice)</l>
+	<l id='1719'>Je sens naître en mon âme un repentir puissant,</l>
+	<l id='1720'>Et mon cœur en secret me dit qu'il y consent.</l>
+	<l id='1721'>Le ciel a résolu votre grandeur suprême ;</l>
+	<l id='1722'>Et pour preuve, seigneur, je n'en veux que moi-même :</l>
+	<l id='1723'>J'ose avec vanité me donner cet éclat,</l>
+	<l id='1724'>Puisqu'il change mon cœur, qu'il veut changer l'État.</l>
+	<l id='1725'>Ma haine va mourir, que j'ai crue immortelle ;</l>
+	<l id='1726'>Elle est morte, et ce cœur devient sujet fidèle ;</l>
+	<l id='1727'>Et prenant désormais cette haine en horreur,</l>
+	<l id='1728'>L'ardeur de vous servir succède à sa fureur.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1729'>Seigneur, que vous dirai-je après que nos offenses</l>
+	<l id='1730'>Au lieu de châtiments trouvent des récompenses ?</l>
+	<l id='1731'>Ô vertu sans exemple ! Ô clémence, qui rend</l>
+	<l id='1732'>Votre pouvoir plus juste, et mon crime plus grand ! </l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1733'>Cesse d'en retarder un oubli magnanime ;</l>
+	<l id='1734'>Et tous deux avec moi faites grâce à Maxime :</l>
+	<l id='1735'>Il nous a trahis tous ; mais ce qu'il a commis</l>
+	<l id='1736'>Vous conserve innocents, et me rend mes amis.</l>
+<stage>À Maxime.</stage>
+	<l id='1737'>Reprends auprès de moi ta place accoutumée ;</l>
+	<l id='1738'>Rentre dans ton crédit et dans ta renommée ;</l>
+	<l id='1739'>Qu'Euphorbe de tous trois ait sa grâce à son tour ;</l>
+	<l id='1740'>Et que demain l'hymen couronne leur amour.</l>
+	<l id='1741'>Si tu l'aimes encor, ce sera ton supplice.</l>
+</sp>
+<sp who='MAXIME'><speaker>MAXIME</speaker>
+	<l id='1742'>Je n'en murmure point, il a trop de justice ;</l>
+	<l id='1743'>Et je suis plus confus, seigneur, de vos bontés</l>
+	<l id='1744'>Que je ne suis jaloux du bien que vous m'ôtez.</l>
+</sp>
+<sp who='CINNA'><speaker>CINNA</speaker>
+	<l id='1745'>Souffrez que ma vertu dans mon cœur rappelée</l>
+	<l id='1746'>Vous consacre une foi lâchement violée,</l>
+	<l id='1747'>Mais si ferme à présent, si loin de chanceler,</l>
+	<l id='1748'>Que la chute du ciel ne pourrait l'ébranler.</l>
+	<l id='1749'>Puisse le grand moteur des belles destinées,</l>
+	<l id='1750'>Pour prolonger vos jours, retrancher nos années ;</l>
+	<l id='1751'>Et moi, par un bonheur dont chacun soit jaloux,</l>
+	<l id='1752'>Perdre pour vous cent fois ce que je tiens de vous ! </l>
+</sp>
+<sp who='LIVIE'><speaker>LIVIE</speaker>
+	<l id='1753'>Ce n'est pas tout, seigneur ; une céleste flamme</l>
+	<l id='1754'>D'un rayon prophétique illumine mon âme.</l>
+	<l id='1755'>Oyez ce que les dieux vous font savoir par moi ;</l>
+	<l id='1756'>De votre heureux destin c'est l'immuable loi.</l>
+	<l id='1757'>Après cette action vous n'avez rien à craindre,</l>
+	<l id='1758'>On portera le joug désormais sans se plaindre ;</l>
+	<l id='1759'>Et les plus indomptés, renversant leurs projets,</l>
+	<l id='1760'>Mettront toute leur gloire à mourir vos sujets ;</l>
+	<l id='1761'>Aucun lâche dessein, aucune ingrate envie</l>
+	<l id='1762'>N'attaquera le cours d'une si belle vie ;</l>
+	<l id='1763'>Jamais plus d'assassins, ni de conspirateurs :</l>
+	<l id='1764'>Vous avez trouvé l'art d'être maître des cœurs.</l>
+	<l id='1765'>Rome, avec une joie et sensible et profonde,</l>
+	<l id='1766'>Se démet en vos mains de l'empire du monde ;</l>
+	<l id='1767'>Vos royales vertus lui vont trop enseigner</l>
+	<l id='1768'>Que son bonheur consiste à vous faire régner :</l>
+	<l id='1769'>D'une si longue erreur pleinement affranchie,</l>
+	<l id='1770'>Elle n'a plus de vœux que pour la monarchie,</l>
+	<l id='1771'>Vous prépare déjà des temples, des autels,</l>
+	<l id='1772'>Et le ciel une place entre les immortels ;</l>
+	<l id='1773'>Et la postérité, dans toutes les provinces,</l>
+	<l id='1774'>Donnera votre exemple aux plus généreux princes.</l>
+</sp>
+<sp who='AUGUSTE'><speaker>AUGUSTE</speaker>
+	<l id='1775'>J'en accepte l'augure, et j'ose l'espérer :</l>
+	<l id='1776'>Ainsi toujours les dieux vous daignent inspirer ! </l>
+	<l id='1777'>Qu'on redouble demain les heureux sacrifices</l>
+	<l id='1778'>Que nous leur offrirons sous de meilleurs auspices,</l>
+	<l id='1779'>Et que vos conjurés entendent publier</l>
+	<l id='1780'>Qu'Auguste a tout appris, et veut tout oublier.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

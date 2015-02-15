@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>RODOGUNE, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1644</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72708k</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">RODOGUNE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1644'>M. DC. XLVII. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'></docAuthor>
+		<docImprint>
+			<privilege id='1646-04-17'><head>Extrait du privilège du Roi</head>
+			<p>Par grâce et privilège du Roi, donné à Paris le 17ème jour d'avril 1646 signé par le Roi en son conseil, DENIS : Il est permis à Toussaint Quinet, Marchand libraire à Paris, d'imprimer ou faire imprimer, vendre et distribuer une pièce de théâtre intitulée Rodogune, Tragédie, de Monsieur Corneille, et ce durant la temps et l'espace de cinq ans, à compter du jour qu'elle sera achevée d'imprimer : et défenses sont faites à tous imprimeurs, et autres, de contrefaire la dite pièce, ni même en vendre ou exposer en vente, sas le consentement du dit Quinet, ou de ceux qui auront droit de lui, à peine de trois mille livres d'amende, et de tous dépens, dommages et intérêts, ainsi qu'il est plus amplement porté par lesdites lettres, qui sont en vertu du présent extrait tenues pour bien et dûment signifiées, à ce qu'aucun ne peut n'en prétende cause d'ignorance. </p>
+			<p>Et le dit Quinet a associé avec lui Antoine de Sommaville et  Augustin Courbé aussi marchands libraires à Paris, pour jouir avec eux du dit privilège, suivant l'accord fait entre-eux.</p>
+			<p>Les exemplaires ont été fournis.</p></privilege>
+			<acheveImprime id='1647-01-31'>Achevé d'imprimer pour la première fois, le dernier jour de janvier 1647.</acheveImprime>
+			<printer id='COURBE'>Imprimé à Rouen, et se vend à Paris, Chez AUGUSTIN COURBÉ, au Palais, en la Galerie des Merciers, à la Palme.</printer>
+		</docImprint>
+		<dedicace><adresse>À MONSIEUR LE PRINCE DE CONDÉ.</adresse>
+		<head>Monseigneur,</head>
+		<p>Rodogune se présente à Votre Altesse avec quelque sorte de confiance, et ne peut croire qu'après avoir fait sa bonne fortune, vous dédaigniez de la prendre en votre protection. Elle a trop grande connaissance de votre bonté, pour craindre que vous veuilliez laisser votre ouvrage imparfait, et ui dénier la continuation des grâces dont vous lui avez été si prodigue. C'est à votre Illustre suffrage qu'elle est obligée de tout ce qu'elle a reçu d'applaudissements, et les favorables regards dont il vous plt fortifier le faiblesse de sa naissance, lui donnèrent tant d'éclat et de vigueur, qu'il semblait que vous eussiez pris plaisir à répandre sur elle un rayon de cette gloire qui vous environne, et à lui faire part de cette facilité de vaincre qui vous suit partout.  </p>
+		<p>Après cela, MONSEIGNEUR, quels hommages peut-elle rendre à Votre Altesse qui ne soient au dessous de ce qu'il lui doit ? Si elle tâche à lui témoigner quelque reconnaissance par l'admiration de ses vertus, où trouverez-t-elle des éloges dignes de cette main qui fait trembler tous nos ennemis, et dont les coups d'essai furent signalés par la défaites des premiers capitaines de l'Europe ? Votre Altesse sut vaincre avant qu'ils se pussent imaginer qu'elle sut combattre, et ce grand courage qui n'avait encore vu la guerre que dans les livres, effaça tout ce qu'il y avait lu des Alexandres et des Césars, sitôt qu'il parut à la tête d'une armée. La générale consternation où la perte de notre grand Monarque nous avait plongés, enflait l'orgueil de nos adversaires en un tel point, qu'ils osaient se persuader que du siège de Rocroy dépendait la prise de Paris, et l'avidité de leur ambition dévorait déjà le coeur d'un Royaume, dont ils pensaient avoir surpris les frontières. Cependant les premiers miracles de votre valeur renversèrent si pleinement toutes leurs espérances, que ceux-là mêmes qui s'étaient promis tant de conquêtes sur nous, virent terminer la campagne de cette même année par celle que vous fîtes sur eux. Ce fut par là, Monseigneur, que vous commençâtes ces grandes victoires que vous avez toujours si bien choisies, qu'elle ont été honoré deux règnes tout à la fois, comme si c'eût été trop peu pour V.A. d'étendre les bornes de l'État sous celui-ci; si elle n'eût en même temps effacé quelques uns des malheurs qui s'étaient mêlés aux longues prospérités de l'autre. Thionville, Philisbourg et Norlinghen étaient des lieux funestes pour le France ; elle 'en pouvait entendre les noms sans gémir ; elle ne pouvait y porter sa pensée sans soupirer ; et ces mêmes lieux, dont le souvenir lui arrachait des soupirs et des gémissements, sont devenus les éclatantes marques de sa nouvelle félicité, les dignes occasions de ses feux de joie, et les glorieux sujets des actions de grâce qu'elle a rendues au Ciel pour les Triomphes que votre courage invincible en a obtenus. Dispensez-moi, MONSEIGNEUR, de vous parler de Dunkerque : j'épuise toutes les forces de mon imagination, et ne conçois rien qui puisse répondre à la dignité de ce grand ouvrage, qui nous vient d'assurer l'océan par la prise de cette fameuse retraite des Corsaires. Tous nos Havres en étaient comme assiégés, il n'en pouvaient échapper un vaisseau qu'à la merci de leurs brigandages, et nous en avons vu souvent de pillés à la vue des mêmes ports dont ils venaient de faire voile : et maintenant par la conquête d'une seule ville, je vois d'un côté nos mers libres, nos côtes affranchies, notre commerce rétabli, la racine de nos maux publics coupée ; d'autres côté la Flandre ouverte, l'embouchure de ses rivières captives, la porte de son secours fermée, la force de son abondance en notre pouvoir, et ce que je vois n'est rien encore au prix de ce que je prévois, sitôt que Votre Altesse y reportera la terreur se ses armes. Dispensez-moi donc, MONSEIGNEUR, de profaner des effets si merveilleux, et des attentes si hautes, par la bassesse de mes idées, et par l'impuissance de mes expressions, et trouvez bon que demeurant dans un respectueux silence, je n'ajoute rien ici qu'une protestation très inviolable d'être toute ma vie, MONSEIGNIEUR, DE VOTRE ALTESSE, le très humble et très obéissant, et très passionné serviteur, CORNEILLE.</p>
+		</dedicace>
+		<preface><head>APPIAN ALEXANDRIN</head>
+		<p>Au livre des guerres de Syrie, sur la fin. </p>
+		<p>Démetrius surnommé Nicanor, roi de Syrie, entreprit le guerre contre les Parthes, et étant devenu leur prisonnier vécut dans le Cour de leur Roi Phraates, dont il épousa la soeur nommé Rodogune. Cependant Diodotus, domestique des rois précédents, s'empara du trône de Syrie, et y fit asseoir un Alexandre encore enfant, fils d'Alexandre le bâtard, et d'une fille de Ptolémée. Ayant gouverné quelques temps comme sont tuteur, il se défit de ce malheureux pupille, et eut l'insolence de prendre lui-même la couronne, sous un nouveau nom de Tryphon qu'il se donna. Mais Antiochus frère du roi prisonnier, ayant apprit à Rhodes sa captivité et les troubles qui l'avaient suivi, revint dans ce pays, où ayant défait Tryphon avec beaucoup de peine, il le fit mourir : de là il porta les armes contre Phraates, lui redemandant son frère, et vaincu dans un une bataille il se tua lui-même. Demétrius retourné en son royaume fut tué par sa femme Cléopâtre, qui lui dressa des embûches en haine de cette seconde femme Rodogune qu'il avait épousée, dont elle avait conçu une telle indignation, que pour s'en venger elle avait épousé ce même Antiochus frère de son mari. Elle avait deux fils de Démétrius, l'un nommé Seleucus et l'autre Antiochus, dont elle tua le premier d'un coup de flèche sitôt qu'il eut prit le diadème après la mort de son père, soit qu'elle craignit qu'il ne la voulut venger, soit que l'impétuosité de la même fureur la portât à ce nouveau parricide. Antiochus lui succéda, qui contraignit cette mauvaise mère de boire la poisons qu'elle lui avait préparé. C'est ainsi qu'elle en fut enfin puni.</p>
+		<p>Voilà ce que m'a prêté l'Histoire, où j'ai changé les circonstances de quelques incidents, pour leur donner plus de bienséance. Je me suis servi du nom de Nicanor plutôt que celui de Demetrius, à cause que le vers souffrait plus aisément l'un que l'autre. J'ai supposé qu'il n'avait pas encore épousé Rodogune, afin que ses deux fils pussent avoir de l'amour pour elle, sans choquer le spectateurs, qui eussent trouvé étrange cette passion pour le veuve de leur père, si j'eusse suivi l'Histoire. L'ordre de leur naissance est incertain, Rodogune prisonnière quoiqu'elle ne vint jamais en Syrie, la haine de Cléopâtre pour elle, la proposition sanglante qu'elle fait à ses fils, celle que cette Princesse est obligée de leur faire pour sa garantir, l'inclinaison qu'elle a pour Antiochus, et la jalouse fureur de cette mère qui se résout plutôt à perdre ses fils qu'à se voir sujette de sa rivale , ne sont que les embellissements de l'invention, et des acheminements vraisemblables à l'effet dénaturé que me présentait l'Histoire, et que les lois du poème ne me permettaient pas de changer. Je l'ai même adouci tant que j'ai pu en Antiochus que j'avais fait trop honnête homme dans le reste de l'ouvrage, pour forcer à la fin sa mère à s'empoisonner soi-même.</p>
+		<p>On s'étonnera peut-être de ce que j'ai donné à cette tragédie le nom de Rodogune ; plutôt que celui de Cléopâtre sur qui tombe toute l'action tragique ; et même on pourra douter si la liberté de la poésie peut s'étendre jusqu'à feindre un sujet entier sous des nom véritables, comme j'ai fait ici, où depuis la narration du premier acte qui sert de fondement au reste, jusques aux effets qui paraissent dans le cinquième, il n'y a rien que l'Histoire avoue.</p>
+		<p>Pour le premier, je confesse ingénument que ce poème devait plutôt porter le nom de Cléopâtre, que de Rodogune mais ce qui m'a fait user ainsi, a été la peur que 'ai eue qu'à ce nom le peuple ne se laissât préoccuper des idées et cette fameuse et dernière reine d'Égypte, et ne confondit cette reine de Syrie avec elle, s'il l'entendait prononcer. C'est pour cette même raison que j'ai ensuite évité de le mêler dans mes vers, n'ayant jamais fit parler de cette seconde Médée que sous celui de la Reine ; et je me suis enhardi à cette licence d'autant plus librement que j'ai remarqué que nos anciens maîtres, qu'ils se sont peu mis en peine de donner leurs poèmes le nom des héros qu'ils y faisaient paraître, et leur ont souvent fait porter celui des choeurs, qui ont encore bine moins de pat dans l'action que les personnages épisodiques comme Rodogune, témoin les Trachiniennes de Sophocle, que nous n'aurions jamais voulu nommer autrement que la Mort d'Hercule.</p>
+		<p>Pour le second point je le tiens un pue plus à résoudre, et n'en voudrais pas donner mon opinion pour bonne, j'ai cru que pourvu que nous conservassions les effets de l'Histoire, toutes les circonstances, ou comme je viens de le nommer, les acheminements, étaient en notre pouvoir, au moins je ne pense pas avoir vu de règle qui restreigne cette liberté que j'ai prise. je m'en suis assez bine trouvé en cette tragédie, mais comme je l'ai poussée encore plus loin dans Héraclius qu je viens de mettre sur le théâtre, ce sera en le donnant au public que j tâcherai de la justifier si je vois que les savants s'en offensent, ou que le peuple en murmure. Cependant ceux qui en auront quelque scrupule m'obligeront de considérer les deux Electres de Sophocle et d'Euripide, qui conservant le même effet, y parviennent par des voies si différentes, qu'il faut nécessairement conclure que l'une des deux est tout à fait de l'invention de son auteur. Ils pourront encore jeter l'oeil sur l'Iphigénie in Tauris, vu qu'elle n'est fondée que sur cette feinte que Diane enleva Iphigénie du sacrifice dans une nuée, et supposa un biche en sa place. Enfin, ils pourront garde à l'Hélène d'Euripide, ou la principale action et les épisodes, le noeud et le dénouement sont entièrement inventés sous des noms véritables.</p>
+		<p>Au reste, si quelqu'un a la curiosité de voir cette Histoire plus au long, qu'il prenne la peine de lire Justin qui la commence au trente-sixième livre, et l'ayant quitté la reprend sur le fin du trente-huitième, et l'achève au trente-neuvième, il la rapporte un peu autrement, et ne dit pas que Cléopâtre tua son mari, mais qu'elle l'abandonna, et qu'il fut tué par le commandement d'un des capitaines d'un Alexandre qu'il lui oppose. Il varie aussi beaucoup sur ce qui regarde Triphon et on pupille, qu'il nomme Antiochus, et ne s'accorde avec Appian que sur ce qui se passa entre la mère et les deux fils.</p>
+		<p>Le premier livre de Machabées, au chapitres 11, 13, 14 et 15 parle de ces guerres de Tryphon et de la prison de Demetrius chez les Parthes, mais il nomme ce pupille Antiochus ainsi que Justin, et attribue la défaite de Tryphon à Antiochus fils de Demetrius, et non pas à son frère comme fait Appian que j'ai suivi, et ne dit rien du reste.</p>
+		<p>Josephe au 13ème livre des antiquités judaïques, nomme encore ce pupille de Tryphon Antiochus, fait marier Cléopâtre à Antiochus frère de Demetrius durant la captivité de ce premier mari chez les Parthes, luis attribue la défaite et la mort de Tryphon, s'accorde avec Justin touchant la mort de Demetrius abandonné et non pas tué par sa femme, et ne parle point de ce qu'Appian et lui rapporte d'elle et de ses deux fils, dont j'ai fait cette tragédie.</p>
+		
+		</preface>
+		<performance>
+			<premiere date='1644' location='Théâtre du Marais'>Représenté pour la première fois en 1644 au Théâtre du Marais.</premiere>
+		</performance>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="CLÉOPÂTRE" civil='F'>CLÉOPÂTRE</role>, reine de Syrie, veuve de Démétrius Nicanor.</castItem>
+			<castItem><role id="SELEUCUS" civil='M'>SÉLEUCUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
+			<castItem><role id="ANTIOCHUS" civil='M'>ANTIOCHUS</role>, fils de Démétrius et de Cléopâtre.</castItem>
+			<castItem><role id="RODOGUNE" civil='F'>RODOGUNE</role>, soeur de Phaartes, roi des Parthes.</castItem>
+			<castItem><role id="TIMAGÈNE" civil='M'>TIMAGÈNE</role>, gouverneur des deux princes.</castItem>
+			<castItem><role id="ORONTE" civil='M'>ORONTE</role>, ambassadeur de Phaartes.</castItem>
+			<castItem><role id="LAONICE" civil='F'>LAONICE</role>, soeur de Timagène, confidente de Cléopâtre.</castItem>
+	</castList>
+	<set location='Séleucie de Piérie' country='Syrie' periode='IIème avant JC'>La scène est à Séleucie, dans le Palais-Royal.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Léonice, Timagène.</head>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="1">Enfin ce jour pompeux, cet heureux jour nous luit,</l>
+	<l id="2">Qui d'un trouble si long doit dissiper la nuit,</l>
+	<l id="3">Ce grand jour où l'hymen, étouffant la vengeance,</l>
+	<l id="4">Entre le Parthe et nous remet l'intelligence,</l>
+	<l id="5">Affranchit sa princesse, et nous fait pour jamais</l>
+	<l id="6">Du motif de la guerre un lien de la paix ;</l>
+	<l id="7">Ce grand jour est venu, mon frère, où notre reine,</l>
+	<l id="8">Cessant de plus tenir la couronne incertaine,</l>
+	<l id="9">Doit rompre aux yeux de tous son silence obstiné,</l>
+	<l id="10">De deux princes gémeaux nous déclarer l'aîné ;</l>
+	<l id="11">Et l'avantage seul d'un moment de naissance,</l>
+	<l id="12">Dont elle a jusqu'ici caché la connaissance,</l>
+	<l id="13">Mettant au plus heureux le sceptre dans la main,</l>
+	<l id="14">Va faire l'un sujet, et l'autre souverain.</l>
+	<l id="15">Mais n'admirez-vous point que cette même reine</l>
+	<l id="16">Le donne pour époux à l'objet de sa haine,</l>
+	<l id="17">Et n'en doit faire un roi qu'afin de couronner</l>
+	<l id="18">Celle que dans les fers elle aimait à gêner ?</l>
+	<l id="19">Rodogune, par elle en esclave traitée,</l>
+	<l id="20">Par elle se va voir sur le trône montée,</l>
+	<l id="21">Puisque celui des deux qu'elle nommera roi</l>
+	<l id="22">Lui doit donner la main et recevoir sa foi.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="23">Pour le mieux admirer, trouvez bon, je vous prie,</l>
+	<l id="24">Que j'apprenne de vous les troubles de Syrie.</l>
+	<l id="25">J'en ai vu les premiers, et me souviens encore</l>
+	<l id="26">Des malheureux succès du grand roi Nicanor,</l>
+	<l id="27">Quand des Parthes vaincus pressant l'adroite fuite,</l>
+	<l id="28">Il tomba dans leurs fers au bout de sa poursuite.</l>
+	<l id="29">Je n'ai pas oublié que cet événement</l>
+	<l id="30">Du perfide Tryphon fit le soulèvement.</l>
+	<l id="31">Voyant le roi captif, la reine désolée,</l>
+	<l id="32">Il crut pouvoir saisir la couronne ébranlée ;</l>
+	<l id="33">Et le sort, favorable à son lâche attentat,</l>
+	<l id="34">Mit d'abord sous ses lois la moitié de l'état.</l>
+	<l id="35">La reine, craignant tout de ces nouveaux orages,</l>
+	<l id="36">En sut mettre à l'abri ses plus précieux gages ;</l>
+	<l id="37">Et pour n'exposer pas l'enfance de ses fils,</l>
+	<l id="38">Me les fit chez son frère enlever à Memphis.</l>
+	<l id="39">Là, nous n'avons rien su que de la renommée,</l>
+	<l id="40">Qui par un bruit confus diversement semée,</l>
+	<l id="41">N'a porté jusqu'à nous ces grands renversements</l>
+	<l id="42">Que sous l'obscurité de cent déguisements.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="43">Sachez donc que Tryphon, après quatre batailles,</l>
+	<l id="44">Ayant su nous réduire à ces seules murailles,</l>
+	<l id="45">En forma tôt le siège ; et pour comble d'effroi,</l>
+	<l id="46">Un faux bruit s'y coula touchant la mort du roi.</l>
+	<l id="47">Le peuple épouvanté, qui déjà dans son âme</l>
+	<l id="48">Ne suivait qu'à regret les ordres d'une femme,</l>
+	<l id="49">Voulut forcer la reine à choisir un époux.</l>
+	<l id="50">Que pouvait-elle faire et seule et contre tous ?</l>
+	<l id="51">Croyant son mari mort, elle épousa son frère.</l>
+	<l id="52">L'effet montra soudain ce conseil salutaire.</l>
+	<l id="53">Le prince Antiochus, devenu nouveau roi,</l>
+	<l id="54">Sembla de tous côtés traîner l'heur avec soi :</l>
+	<l id="55">La victoire attachée au progrès de ses armes</l>
+	<l id="56">Sur nos fiers ennemis rejeta nos alarmes ;</l>
+	<l id="57">Et la mort de Tryphon dans un dernier combat,</l>
+	<l id="58">Changeant tout notre sort, lui rendit tout l'état.</l>
+	<l id="59">Quelque promesse alors qu'il eût faite à la mère</l>
+	<l id="60">De remettre ses fils au trône de leur père,</l>
+	<l id="61">Il témoigna si peu de la vouloir tenir,</l>
+	<l id="62">Qu'elle n'osa jamais les faire revenir.</l>
+	<l id="63">Ayant régné sept ans, son ardeur militaire</l>
+	<l id="64">Ralluma cette guerre où succomba son frère :</l>
+	<l id="65">Il attaqua le Parthe, et se crut assez fort</l>
+	<l id="66">Pour en venger sur lui la prison et la mort.</l>
+	<l id="67">Jusque dans ses états il lui porta la guerre ;</l>
+	<l id="68">Il s'y fit partout craindre à l'égal du tonnerre ;</l>
+	<l id="69">Il lui donna bataille, où mille beaux exploits...</l>
+	<l id="70">Je vous achèverai le reste une autre fois,</l>
+	<l id="71" part="i">Un des princes survient.</l>
+<stage>Elle veut se retirer.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Antiochus, Timagène, Laonice.</head>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="71" part="f">Demeurez, Laonice :</l>
+	<l id="72">Vous pouvez, comme lui, me rendre un bon office.</l>
+	<l id="73">Dans l'état où je suis, triste et plein de souci,</l>
+	<l id="74">Si j'espère beaucoup, je crains beaucoup aussi.</l>
+	<l id="75">Un seul mot aujourd'hui, maître de ma fortune,</l>
+	<l id="76">M'ôte ou donne à jamais le sceptre et Rodogune ;</l>
+	<l id="77">Et de tous les mortels ce secret révélé</l>
+	<l id="78">Me rend le plus content ou le plus désolé.</l>
+	<l id="79">Je vois dans le hasard tous les biens que j'espère,</l>
+	<l id="80">Et ne puis être heureux sans le malheur d'un frère ;</l>
+	<l id="81">Mais d'un frère si cher, qu'une sainte amitié</l>
+	<l id="82">Fait sur moi de ses maux rejaillir la moitié.</l>
+	<l id="83">Donc, pour moins hasarder, j'aime mieux moins prétendre ;</l>
+	<l id="84">Et pour rompre le coup que mon coeur n'ose attendre,</l>
+	<l id="85">Lui cédant de deux biens le plus brillant aux yeux,</l>
+	<l id="86">M'assurer de celui qui m'est plus précieux.</l>
+	<l id="87">Heureux si, sans attendre un fâcheux droit d'aînesse,</l>
+	<l id="88">Pour un trône incertain j'en obtiens la princesse,</l>
+	<l id="89">Et puis par ce partage épargner les soupirs</l>
+	<l id="90">Qui naîtraient de ma peine ou de ses déplaisirs !</l>
+	<l id="91">Va le voir de ma part, Timagène, et lui dire</l>
+	<l id="92">Que pour cette beauté je lui cède l'empire ;</l>
+	<l id="93">Mais porte-lui si haut la douceur de régner,</l>
+	<l id="94">Qu'à cet éclat du trône il se laisse gagner ;</l>
+	<l id="95">Qu'il s'en laisse éblouir jusqu'à ne pas connaître</l>
+	<l id="96">À quel prix je consens de l'accepter pour maître.</l>
+	<l id="97">Et vous, en ma faveur voyez ce cher objet,</l>
+	<l id="98">Et tâchez d'abaisser ses yeux sur un sujet</l>
+	<l id="99">Qui peut-être aujourd'hui porterait la couronne,</l>
+	<l id="100">S'il n'attachait les siens à sa seule personne,</l>
+	<l id="101">Et ne la préférait à cet illustre rang</l>
+	<l id="102">Pour qui les plus grands coeurs prodiguent tout leur sang.</l>
+<stage>Timagène rentre sur le théâtre.</stage>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="103">Seigneur, le prince vient, et votre amour lui-même</l>
+	<l id="104">Lui peut sans interprète offrir le diadème.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="105">Ah ! Je tremble, et la peur d'un trop juste refus</l>
+	<l id="106">Rend ma langue muette et mon esprit confus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Séleucus, Antiochus, Timagène, Laonice.</head>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="107">Vous puis-je en confiance expliquer ma pensée ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="108">Parlez : notre amitié par ce doute est blessée.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="109">Hélas ! C'est le malheur que je crains aujourd'hui.</l>
+	<l id="110">L'égalité, mon frère, en est le ferme appui ;</l>
+	<l id="111">C'en est le fondement, la liaison, le gage ;</l>
+	<l id="112">Et voyant d'un côté tomber tout l'avantage,</l>
+	<l id="113">Avec juste raison je crains qu'entre nous deux</l>
+	<l id="114">L'égalité rompue en rompe les doux noeuds,</l>
+	<l id="115">Et que ce jour, fatal à l'heur de notre vie,</l>
+	<l id="116">Jette sur l'un de nous trop de honte ou d'envie.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="117">Comme nous n'avons eu jamais qu'un sentiment,</l>
+	<l id="118">Cette peur me touchait, mon frère, également ;</l>
+	<l id="119">Mais si vous le voulez, j'en sais bien le remède.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="120">Si je le veux ! Bien plus, je l'apporte, et vous cède</l>
+	<l id="121">Tout ce que la couronne a de charmant en soi.</l>
+	<l id="122">Oui, seigneur, car je parle à présent à mon roi,</l>
+	<l id="123">Pour le trône cédé, cédez-moi Rodogune,</l>
+	<l id="124">Et je n'envierai point votre haute fortune.</l>
+	<l id="125">Ainsi notre destin n'aura rien de honteux,</l>
+	<l id="126">Ainsi notre bonheur n'aura rien de douteux ;</l>
+	<l id="127">Et nous mépriserons ce faible droit d'aînesse,</l>
+	<l id="128">Vous, satisfait du trône, et moi de la princesse.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="129" part="i">Hélas !</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="129" part="f">Recevez-vous l'offre avec déplaisir ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="130">Pouvez-vous nommer offre une ardeur de choisir,</l>
+	<l id="131">Qui de la même main qui me cède un empire,</l>
+	<l id="132">M'arrache un bien plus grand, et le seul où j'aspire ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="133" part="i">Rodogune ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="133" part="f">Elle-même ; ils en sont les témoins.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="134" part="i">Quoi ? L'estimez-vous tant ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="134" part="f">Quoi ? L'estimez-vous moins ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="135">Elle vaut bien un trône, il faut que je le die.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="136">Elle vaut à mes yeux tout ce qu'en a l'Asie.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="137" part="i">Vous l'aimez donc, mon frère ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="137" part="f">Et vous l'aimez aussi :</l>
+	<l id="138">C'est là tout mon malheur, c'est là tout mon souci.</l>
+	<l id="139">J'espérais que l'éclat dont le trône se pare</l>
+	<l id="140">Toucherait vos désirs plus qu'un objet si rare ;</l>
+	<l id="141">Mais aussi bien qu'à moi son prix vous est connu,</l>
+	<l id="142">Et dans ce juste choix vous m'avez prévenu.</l>
+	<l id="143" part="i">Ah, déplorable prince !</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="143" part="f">Ah, destin trop contraire !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="144">Que ne ferais-je point contre un autre qu'un frère ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="145">Ô mon cher frère ! Ô nom pour un rival trop doux !</l>
+	<l id="146">Que ne ferais-je point contre un autre que vous ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="147">Où nous vas-tu réduire, amitié fraternelle ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="148">Amour, qui doit ici vaincre de vous ou d'elle ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="149">L'amour, l'amour doit vaincre, et la triste amitié</l>
+	<l id="150">Ne doit être à tous deux qu'un objet de pitié.</l>
+	<l id="151">Un grand coeur cède un trône, et le cède avec gloire :</l>
+	<l id="152">Cet effort de vertu couronne sa mémoire ;</l>
+	<l id="153">Mais lorsqu'un digne objet a pu nous enflammer,</l>
+	<l id="154">Qui le cède est un lâche et ne sait pas aimer.</l>
+	<l id="155">De tous deux Rodogune a charmé le courage ;</l>
+	<l id="156">Cessons par trop d'amour de lui faire un outrage :</l>
+	<l id="157">Elle doit épouser, non pas vous, non pas moi,</l>
+	<l id="158">Mais de moi, mais de vous, quiconque sera roi.</l>
+	<l id="159">La couronne entre nous flotte encore incertaine ;</l>
+	<l id="160">Mais sans incertitude elle doit être reine.</l>
+	<l id="161">Cependant, aveuglés dans notre vain projet,</l>
+	<l id="162">Nous la faisions tous deux la femme d'un sujet !</l>
+	<l id="163">Régnons : l'ambition ne peut être que belle,</l>
+	<l id="164">Et pour elle quittée, et reprise pour elle ;</l>
+	<l id="165">Et ce trône où tous deux nous osions renoncer,</l>
+	<l id="166">Souhaitons-le tous deux, afin de l'y placer :</l>
+	<l id="167">C'est dans notre destin le seul conseil à prendre ;</l>
+	<l id="168">Nous pouvons nous en plaindre, et nous devons l'attendre.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="169">Il faut encore plus faire : il faut qu'en ce grand jour</l>
+	<l id="170">Notre amitié triomphe aussi bien que l'amour.</l>
+	<l id="171">Ces deux sièges fameux de Thèbes et de Troie,</l>
+	<l id="172">Qui mirent l'une en sang, l'autre aux flammes en proie,</l>
+	<l id="173">N'eurent pour fondements à leurs maux infinis</l>
+	<l id="174">Que ceux que contre nous le sort a réunis.</l>
+	<l id="175">Il sème entre nous deux toute la jalousie</l>
+	<l id="176">Qui dépeupla la Grèce et saccagea l'Asie :</l>
+	<l id="177">Un même espoir du sceptre est permis à tous deux ;</l>
+	<l id="178">Pour la même beauté nous faisons mêmes voeux.</l>
+	<l id="179">Thèbes périt pour l'un, Troie a brûlé pour l'autre.</l>
+	<l id="180">Tout va choir en ma main ou tomber en la vôtre.</l>
+	<l id="181">En vain notre amitié tâchait à partager ;</l>
+	<l id="182">Et si j'ose tout dire, un titre assez léger,</l>
+	<l id="183">Un droit d'aînesse obscur, sur la foi d'une mère,</l>
+	<l id="184">Va combler l'un de gloire et l'autre de misère.</l>
+	<l id="185">Que de sujets de plainte en ce double intérêt</l>
+	<l id="186">Aura le malheureux contre un si faible arrêt !</l>
+	<l id="187">Que de sources de haine ! Hélas ! Jugez le reste :</l>
+	<l id="188">Craignez-en avec moi l'événement funeste,</l>
+	<l id="189">Ou plutôt avec moi faites un digne effort</l>
+	<l id="190">Pour armer votre coeur contre un si triste sort.</l>
+	<l id="191">Malgré l'éclat du trône et l'amour d'une femme,</l>
+	<l id="192">Faisons si bien régner l'amitié sur notre âme,</l>
+	<l id="193">Qu'étouffant dans leur perte un regret suborneur,</l>
+	<l id="194">Dans le bonheur d'un frère on trouve son bonheur.</l>
+	<l id="195">Ainsi ce qui jadis perdit Thèbes et Troie</l>
+	<l id="196">Dans nos coeurs mieux unis ne versera que joie ;</l>
+	<l id="197">Ainsi notre amitié, triomphante à son tour,</l>
+	<l id="198">Vaincra la jalousie en cédant à l'amour,</l>
+	<l id="199">Et de notre destin bravant l'ordre barbare,</l>
+	<l id="200">Trouvera des douceurs aux maux qu'il nous prépare.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="201" part="i">Le pourrez-vous, mon frère ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="201" part="f">Ah ! Que vous me pressez !</l>
+	<l id="202">Je le voudrai du moins, mon frère, et c'est assez ;</l>
+	<l id="203">Et ma raison sur moi gardera tant d'empire,</l>
+	<l id="204">Que je désavouerai mon coeur s'il en soupire.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="205">J'embrasse comme vous ces nobles sentiments ;</l>
+	<l id="206">Mais allons leur donner le secours des serments,</l>
+	<l id="207">Afin qu'étant témoins de l'amitié jurée,</l>
+	<l id="208">Les dieux contre un tel coup assurent sa durée.</l>
+</sp>0
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="209">Allons, allons l'étreindre au pied de leurs autels</l>
+	<l id="210">Par des liens sacrés et des noeuds immortels.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Laonice, Timagène.</head>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="211">Peut-on plus dignement mériter la couronne ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="212">Je ne suis point surpris de ce qui vous étonne :</l>
+	<l id="213">Confident de tous deux, prévoyant leur douleur,</l>
+	<l id="214">J'ai prévu leur constance, et j'ai plaint leur malheur ;</l>
+	<l id="215">Mais, de grâce, achevez l'histoire commencée.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="216">Pour la reprendre donc où nous l'avons laissée,</l>
+	<l id="217">Les Parthes, au combat par les nôtres forcés,</l>
+	<l id="218">Tantôt presque vainqueurs, tantôt presque enfoncés,</l>
+	<l id="219">Sur l'une et l'autre armée, également heureuse,</l>
+	<l id="220">Virent longtemps voler la victoire douteuse ;</l>
+	<l id="221">Mais la fortune enfin se tourna contre nous,</l>
+	<l id="222">Si bien qu'Antiochus, percé de mille coups,</l>
+	<l id="223">Près de tomber aux mains d'une troupe ennemie,</l>
+	<l id="224">Lui voulut dérober les restes de sa vie,</l>
+	<l id="225">Et préférant aux fers la gloire de périr,</l>
+	<l id="226">Lui-même par sa main acheva de mourir.</l>
+	<l id="227">La reine ayant appris cette triste nouvelle,</l>
+	<l id="228">En reçut tôt après une autre plus cruelle :</l>
+	<l id="229">Que Nicanor vivait ; que sur un faux rapport,</l>
+	<l id="230">De ce premier époux elle avait cru la mort ;</l>
+	<l id="231">Que piqué jusqu'au vif contre son hyménée,</l>
+	<l id="232">Son âme à l'imiter s'était déterminée,</l>
+	<l id="233">Et que pour s'affranchir des fers de son vainqueur,</l>
+	<l id="234">Il allait épouser la princesse sa soeur.</l>
+	<l id="235">C'est cette Rodogune, où l'un et l'autre frère</l>
+	<l id="236">Trouve encore les appas qu'avait trouvés leur père.</l>
+	<l id="237">La reine envoie en vain pour se justifier :</l>
+	<l id="238">On a beau la défendre, on a beau le prier,</l>
+	<l id="239">On ne rencontre en lui qu'un juge inexorable ;</l>
+	<l id="240">Et son amour nouveau la veut croire coupable :</l>
+	<l id="241">Son erreur est un crime, et pour l'en punir mieux,</l>
+	<l id="242">Il veut même épouser Rodogune à ses yeux,</l>
+	<l id="243">Arracher de son front le sacré diadème,</l>
+	<l id="244">Pour ceindre une autre tête en sa présence même ;</l>
+	<l id="245">Soit qu'ainsi sa vengeance eût plus d'indignité,</l>
+	<l id="246">Soit qu'ainsi cet hymen eût plus d'autorité,</l>
+	<l id="247">Et qu'il assurât mieux par cette barbarie</l>
+	<l id="248">Aux enfants qui naîtraient le trône de Syrie.</l>
+	<l id="249">Mais tandis qu'animé de colère et d'amour,</l>
+	<l id="250">Il vient déshériter ses fils par son retour,</l>
+	<l id="251">Et qu'un gros escadron de Parthes pleins de joie</l>
+	<l id="252">Conduit ces deux amants et court comme à la proie,</l>
+	<l id="253">La reine, au désespoir de n'en rien obtenir,</l>
+	<l id="254">Se résout de se perdre ou de le prévenir.</l>
+	<l id="255">Elle oublie un mari qui veut cesser de l'être,</l>
+	<l id="256">Qui ne veut plus la voir qu'en implacable maître,</l>
+	<l id="257">Et changeant à regret son amour en horreur,</l>
+	<l id="258">Elle abandonne tout à sa juste fureur.</l>
+	<l id="259">Elle-même leur dresse une embûche au passage,</l>
+	<l id="260">Se mêle dans les coups, porte partout sa rage,</l>
+	<l id="261">En pousse jusqu'au bout les furieux effets.</l>
+	<l id="262">Que vous dirai-je enfin ? Les Parthes sont défaits ;</l>
+	<l id="263">Le roi meurt, et, dit-on, par la main de la reine ;</l>
+	<l id="264">Rodogune captive est livrée à sa haine.</l>
+	<l id="265">Tous les maux qu'un esclave endure dans les fers,</l>
+	<l id="266">Alors sans moi, mon frère, elle les eût soufferts.</l>
+	<l id="267">La reine, à la gêner prenant mille délices,</l>
+	<l id="268">Ne commettait qu'à moi l'ordre de ses supplices ;</l>
+	<l id="269">Mais quoi que m'ordonnât cette âme toute en feu,</l>
+	<l id="270">Je promettais beaucoup et j'exécutais peu.</l>
+	<l id="271">Le Parthe cependant en jure la vengeance :</l>
+	<l id="272">Sur nous à main armée il fond en diligence,</l>
+	<l id="273">Nous surprend, nous assiège, et fait un tel effort,</l>
+	<l id="274">Que la ville aux abois, on lui parle d'accord.</l>
+	<l id="275">Il veut fermer l'oreille, enflé de l'avantage ;</l>
+	<l id="276">Mais voyant parmi nous Rodogune en otage,</l>
+	<l id="277">Enfin il craint pour elle et nous daigne écouter ;</l>
+	<l id="278">Et c'est ce qu'aujourd'hui l'on doit exécuter.</l>
+	<l id="279">La reine de l'Égypte a rappelé nos princes</l>
+	<l id="280">Pour remettre à l'aîné son trône et ses provinces.</l>
+	<l id="281">Rodogune a paru, sortant de sa prison,</l>
+	<l id="282">Comme un soleil levant dessus notre horizon.</l>
+	<l id="283">Le Parthe a décampé, pressé par d'autres guerres</l>
+	<l id="284">Contre l'Arménien qui ravage ses terres ;</l>
+	<l id="285">D'un ennemi cruel il s'est fait notre appui :</l>
+	<l id="286">La paix finit la haine, et pour comble aujourd'hui,</l>
+	<l id="287">Dois-je dire de bonne ou mauvaise fortune ?</l>
+	<l id="288">Nos deux princes tous deux adorent Rodogune.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="289">Sitôt qu'ils ont paru tous deux en cette cour,</l>
+	<l id="290">Ils ont vu Rodogune, et j'ai vu leur amour ;</l>
+	<l id="291">Mais comme étant rivaux nous les trouvons à plaindre,</l>
+	<l id="292">Connaissant leur vertu, je n'en vois rien à craindre.</l>
+	<l id="293">Pour vous qui gouvernez cet objet de leurs voeux...</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="294">Et n'ai point encore vu qu'elle aime aucun des deux...</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="295">Vous me trouvez mal propre à cette confidence,</l>
+	<l id="296">Et peut-être à dessein je la vois qui s'avance.</l>
+	<l id="297">Adieu : je dois au rang qu'elle est prête à tenir</l>
+	<l id="298">Du moins la liberté de vous entretenir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Rodogune, Laonice.</head>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="299">Je ne sais quel malheur aujourd'hui me menace,</l>
+	<l id="300">Et coule dans ma joie une secrète glace :</l>
+	<l id="301">Je tremble, Laonice, et te voulais parler,</l>
+	<l id="302">Ou pour chasser ma crainte ou pour m'en consoler.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="303">Quoi ? Madame, en ce jour pour vous si plein de gloire ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="304">Ce jour m'en promet tant que j'ai peine à tout croire :</l>
+	<l id="305">La fortune me traite avec trop de respect,</l>
+	<l id="306">Et le trône et l'hymen, tout me devient suspect.</l>
+	<l id="307">L'hymen semble à mes yeux cacher quelque supplice,</l>
+	<l id="308">Le trône sous mes pas creuser un précipice ;</l>
+	<l id="309">Je vois de nouveaux fers après les miens brisés,</l>
+	<l id="310">Et je prends tous ces biens pour des maux déguisés :</l>
+	<l id="311">En un mot, je crains tout de l'esprit de la reine.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="312">La paix qu'elle a jurée en a calmé la haine.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="313">La haine entre les grands se calme rarement :</l>
+	<l id="314">La paix souvent n'y sert que d'un amusement ;</l>
+	<l id="315">Et dans l'état où j'entre, à te parler sans feinte,</l>
+	<l id="316">Elle a lieu de me craindre, et je crains cette crainte.</l>
+	<l id="317">Non qu'enfin je ne donne au bien des deux états</l>
+	<l id="318">Ce que j'ai dû de haine à de tels attentats :</l>
+	<l id="319">J'oublie, et pleinement, toute mon aventure ;</l>
+	<l id="320">Mais une grande offense est de cette nature,</l>
+	<l id="321">Que toujours son auteur impute à l'offensé</l>
+	<l id="322">Un vif ressentiment dont il le croit blessé ;</l>
+	<l id="323">Et quoiqu'en apparence on les réconcilie,</l>
+	<l id="324">Il le craint, il le hait, et jamais ne s'y fie ;</l>
+	<l id="325">Et toujours alarmé de cette illusion,</l>
+	<l id="326">Sitôt qu'il peut le perdre, il prend l'occasion :</l>
+	<l id="327" part="i">Telle est pour moi la reine.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="327" part="f">Ah ! Madame, je jure</l>
+	<l id="328">Que par ce faux soupçon vous lui faites injure :</l>
+	<l id="329">Vous devez oublier un désespoir jaloux</l>
+	<l id="330">Où força son courage un infidèle époux.</l>
+	<l id="331">Si teinte de son sang et toute furieuse</l>
+	<l id="332">Elle vous traita lors en rivale odieuse,</l>
+	<l id="333">L'impétuosité d'un premier mouvement</l>
+	<l id="334">Engageait sa vengeance à ce dur traitement ;</l>
+	<l id="335">Il fallait un prétexte à vaincre sa colère,</l>
+	<l id="336">Il y fallait du temps ; et pour ne vous rien taire,</l>
+	<l id="337">Quand je me dispensais à lui mal obéir,</l>
+	<l id="338">Quand en votre faveur je semblais la trahir,</l>
+	<l id="339">Peut-être qu'en son coeur plus douce et repentie</l>
+	<l id="340">Elle en dissimulait la meilleure partie ;</l>
+	<l id="341">Que se voyant tromper elle fermait les yeux,</l>
+	<l id="342">Et qu'un peu de pitié la satisfaisait mieux.</l>
+	<l id="343">À présent que l'amour succède à la colère,</l>
+	<l id="344">Elle ne vous voit plus qu'avec des yeux de mère ;</l>
+	<l id="345">Et si de cet amour je la voyais sortir,</l>
+	<l id="346">Je jure de nouveau de vous en avertir :</l>
+	<l id="347">Vous savez comme quoi je vous suis toute acquise.</l>
+	<l id="348">Le roi souffrirait-il d'ailleurs quelque surprise ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="349">Qui que ce soit des deux qu'on couronne aujourd'hui,</l>
+	<l id="350">Elle sera sa mère, et pourra tout sur lui.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="351">Qui que ce soit des deux, je sais qu'il vous adore :</l>
+	<l id="352">Connaissant leur amour, pouvez-vous craindre encore ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="353">Oui, je crains leur hymen, et d'être à l'un des deux.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="354">Quoi ? Sont-ils des sujets indignes de vos feux ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="355">Comme ils ont même sang avec pareil mérite,</l>
+	<l id="356">Un avantage égal pour eux me sollicite ;</l>
+	<l id="357">Mais il est malaisé, dans cette égalité,</l>
+	<l id="358">Qu'un esprit combattu ne penche d'un côté.</l>
+	<l id="359">Il est des noeuds secrets, il est des sympathies</l>
+	<l id="360">Dont par le doux rapport les âmes assorties</l>
+	<l id="361">S'attachent l'une à l'autre et se laissent piquer</l>
+	<l id="362">Par ces je ne sais quoi qu'on ne peut expliquer.</l>
+	<l id="363">C'est par là que l'un d'eux obtient la préférence :</l>
+	<l id="364">Je crois voir l'autre encore avec indifférence ;</l>
+	<l id="365">Mais cette indifférence est une aversion</l>
+	<l id="366">Lorsque je la compare avec ma passion.</l>
+	<l id="367">étrange effet d'amour ! Incroyable chimère !</l>
+	<l id="368">Je voudrais être à lui si je n'aimais son frère ;</l>
+	<l id="369">Et le plus grand des maux toutefois que je crains,</l>
+	<l id="370">C'est que mon triste sort me livre entre ses mains.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="371">Ne pourrai-je servir une si belle flamme ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="372">Ne crois pas en tirer le secret de mon âme :</l>
+	<l id="373">Quelque époux que le ciel veuille me destiner,</l>
+	<l id="374">C'est à lui pleinement que je veux me donner.</l>
+	<l id="375">De celui que je crains si je suis le partage,</l>
+	<l id="376">Je saurai l'accepter avec même visage ;</l>
+	<l id="377">L'hymen me le rendra précieux à son tour,</l>
+	<l id="378">Et le devoir fera ce qu'aurait fait l'amour,</l>
+	<l id="379">Sans crainte qu'on reproche à mon humeur forcée</l>
+	<l id="380">Qu'un autre qu'un mari règne sur ma pensée.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="381">Vous craignez que ma foi vous l'ose reprocher ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="382">Que ne puis-je à moi-même aussi bien le cacher !</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="383">Quoi que vous me cachiez, aisément je devine ;</l>
+	<l id="384">Et pour vous dire enfin ce que je m'imagine,</l>
+	<l id="385" part="i">Le prince...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="385" part="f">Garde-toi de nommer mon vainqueur :</l>
+	<l id="386">Ma rougeur trahirait les secrets de mon coeur,</l>
+	<l id="387">Et je te voudrais mal de cette violence</l>
+	<l id="388">Que ta dextérité ferait à mon silence ;</l>
+	<l id="389">Même de peur qu'un mot par hasard échappé</l>
+	<l id="390">Te fasse voir ce coeur et quels traits l'ont frappé,</l>
+	<l id="391">Je romps un entretien dont la suite me blesse.</l>
+	<l id="392">Adieu ; mais souviens-toi que c'est sur ta promesse</l>
+	<l id="393">Que mon esprit reprend quelque tranquillité.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="394">Madame, assurez-vous sur ma fidélité.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="395">Serments fallacieux, salutaire contrainte,</l>
+	<l id="396">Que m'imposa la force et qu'accepta ma crainte,</l>
+	<l id="397">Heureux déguisements d'un immortel courroux,</l>
+	<l id="398">Vains fantômes d'état, évanouissez-vous !</l>
+	<l id="399">Si d'un péril pressant la terreur vous fit naître,</l>
+	<l id="400">Avec ce péril même il vous faut disparaître,</l>
+	<l id="401">Semblables à ces voeux dans l'orage formés,</l>
+	<l id="402">Qu'efface un prompt oubli quand les flots sont calmés.</l>
+	<l id="403">Et vous, qu'avec tant d'art cette feinte a voilée,</l>
+	<l id="404">Recours des impuissants, haine dissimulée,</l>
+	<l id="405">Digne vertu des rois, noble secret de cour,</l>
+	<l id="406">éclatez, il est temps, et voici notre jour.</l>
+	<l id="407">Montrons-nous toutes deux, non plus comme sujettes,</l>
+	<l id="408">Mais telle que je suis et telle que vous êtes.</l>
+	<l id="409">Le Parthe est éloigné, nous pouvons tout oser :</l>
+	<l id="410">Nous n'avons rien à craindre et rien à déguiser ;</l>
+	<l id="411">Je hais, je règne encore. Laissons d'illustres marques</l>
+	<l id="412">En quittant, s'il le faut, ce haut rang des monarques :</l>
+	<l id="413">Faisons-en avec gloire un départ éclatant,</l>
+	<l id="414">Et rendons-le funeste à celle qui l'attend.</l>
+	<l id="415">C'est encore, c'est encore cette même ennemie</l>
+	<l id="416">Qui cherchait ses honneurs dedans mon infamie,</l>
+	<l id="417">Dont la haine à son tour croit me faire la loi,</l>
+	<l id="418">Et régner par mon ordre et sur vous et sur moi.</l>
+	<l id="419">Tu m'estimes bien lâche, imprudente rivale,</l>
+	<l id="420">Si tu crois que mon coeur jusque-là se ravale,</l>
+	<l id="421">Qu'il souffre qu'un hymen qu'on t'a promis en vain</l>
+	<l id="422">Te mette ta vengeance et mon sceptre à la main.</l>
+	<l id="423">Vois jusqu'où m'emporta l'amour du diadème ;</l>
+	<l id="424">Vois quel sang il me coûte, et tremble pour toi-même :</l>
+	<l id="425">Tremble, te dis-je ; et songe, en dépit du traité,</l>
+	<l id="426">Que pour t'en faire un don je l'ai trop acheté.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléopâtre, Laonice.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="427">Laonice, vois-tu que le peuple s'apprête</l>
+	<l id="428">Au pompeux appareil de cette grande fête ?</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="429">La joie en est publique, et les princes tous deux</l>
+	<l id="430">Des Syriens ravis emportent tous les voeux :</l>
+	<l id="431">L'un et l'autre fait voir un mérite si rare,</l>
+	<l id="432">Que le souhait confus entre les deux s'égare ;</l>
+	<l id="433">Et ce qu'en quelques-uns on voit d'attachement</l>
+	<l id="434">N'est qu'un faible ascendant d'un premier mouvement.</l>
+	<l id="435">Ils penchent d'un côté, prêts à tomber de l'autre :</l>
+	<l id="436">Leur choix pour s'affermir attend encore le vôtre ;</l>
+	<l id="437">Et de celui qu'ils font ils sont si peu jaloux,</l>
+	<l id="438">Que votre secret su les réunira tous.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="439">Sais-tu que mon secret n'est pas ce que l'on pense ?</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="440">J'attends avec eux tous celui de leur naissance.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="441">Pour un esprit de cour, et nourri chez les grands,</l>
+	<l id="442">Tes yeux dans leurs secrets sont bien peu pénétrants.</l>
+	<l id="443">Apprends, ma confidente, apprends à me connaître.</l>
+	<l id="444">Si je cache en quel rang le ciel les a fait naître,</l>
+	<l id="445">Vois, vois que tant que l'ordre en demeure douteux,</l>
+	<l id="446">Aucun des deux ne règne, et je règne pour eux :</l>
+	<l id="447">Quoique ce soit un bien que l'un et l'autre attende,</l>
+	<l id="448">De crainte de le perdre aucun ne le demande ;</l>
+	<l id="449">Cependant je possède, et leur droit incertain</l>
+	<l id="450">Me laisse avec leur sort leur sceptre dans la main :</l>
+	<l id="451">Voilà mon grand secret. Sais-tu par quel mystère</l>
+	<l id="452">Je les laissais tous deux en dépôt chez mon frère ?</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="453">J'ai cru qu'Antiochus les tenait éloignés</l>
+	<l id="454">Pour jouir des états qu'il avait regagnés.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="455">Il occupait leur trône et craignait leur présence,</l>
+	<l id="456">Et cette juste crainte assurait ma puissance.</l>
+	<l id="457">Mes ordres en étaient de point en point suivis,</l>
+	<l id="458">Quand je le menaçais du retour de mes fils :</l>
+	<l id="459">Voyant ce foudre prêt à suivre ma colère,</l>
+	<l id="460">Quoi qu'il me plût oser, il n'osait me déplaire ;</l>
+	<l id="461">Et content malgré lui du vain titre de roi,</l>
+	<l id="462">S'il régnait au lieu d'eux, ce n'était que sous moi.</l>
+	<l id="463">Je te dirai bien plus : sans violence aucune</l>
+	<l id="464">J'aurais vu Nicanor épouser Rodogune,</l>
+	<l id="465">Si content de lui plaire et de me dédaigner,</l>
+	<l id="466">Il eût vécu chez elle en me laissant régner.</l>
+	<l id="467">Son retour me fâchait plus que son hyménée,</l>
+	<l id="468">Et j'aurais pu l'aimer, s'il ne l'eût couronnée.</l>
+	<l id="469">Tu vis comme il y fit des efforts superflus :</l>
+	<l id="470">Je fis beaucoup alors, et ferais encore plus</l>
+	<l id="471">S'il était quelque voie, infâme ou légitime,</l>
+	<l id="472">Que m'enseignât la gloire, ou que m'ouvrît le crime,</l>
+	<l id="473">Qui me pût conserver un bien que j'ai chéri</l>
+	<l id="474">Jusqu'à verser pour lui tout le sang d'un mari.</l>
+	<l id="475">Dans l'état pitoyable où m'en réduit la suite,</l>
+	<l id="476">Délices de mon coeur, il faut que je te quitte :</l>
+	<l id="477">On m'y force, il le faut ; mais on verra quel fruit</l>
+	<l id="478">En recevra bientôt celle qui m'y réduit.</l>
+	<l id="479">L'amour que j'ai pour toi tourne en haine pour elle :</l>
+	<l id="480">Autant que l'un fut grand, l'autre sera cruelle ;</l>
+	<l id="481">Et puisqu'en te perdant j'ai sur qui m'en venger,</l>
+	<l id="482">Ma perte est supportable, et mon mal est léger.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="483">Quoi ? Vous parlez encore de vengeance et de haine</l>
+	<l id="484">Pour celle dont vous-même allez faire une reine !</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="485">Quoi ? Je ferais un roi pour être son époux,</l>
+	<l id="486">Et m'exposer aux traits de son juste courroux !</l>
+	<l id="487">N'apprendras-tu jamais, âme basse et grossière,</l>
+	<l id="488">À voir par d'autres yeux que les yeux du vulgaire ?</l>
+	<l id="489">Toi qui connais ce peuple, et sais qu'aux champs de Mars</l>
+	<l id="490">Lâchement d'une femme il suit les étendards ;</l>
+	<l id="491">Que sans Antiochus Tryphon m'eût dépouillée ;</l>
+	<l id="492">Que sous lui son ardeur fut soudain réveillée ;</l>
+	<l id="493">Ne saurais-tu juger que si je nomme un roi,</l>
+	<l id="494">C'est pour le commander, et combattre pour moi ?</l>
+	<l id="495">J'en ai le choix en main avec le droit d'aînesse ;</l>
+	<l id="496">Et puisqu'il en faut faire une aide à ma faiblesse,</l>
+	<l id="497">Que la guerre sans lui ne peut se rallumer,</l>
+	<l id="498">J'userai bien du droit que j'ai de le nommer.</l>
+	<l id="499">On ne montera point au rang dont je dévale,</l>
+	<l id="500">Qu'en épousant ma haine au lieu de ma rivale :</l>
+	<l id="501">Ce n'est qu'en me vengeant qu'on me le peut ravir,</l>
+	<l id="502">Et je ferai régner qui me voudra servir.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="503" part="i">Je vous connaissais mal.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="503" part="f">Connais-moi toute entière.</l>
+	<l id="504">Quand je mis Rodogune en tes mains prisonnière,</l>
+	<l id="505">Ce ne fut ni pitié ni respect de son rang</l>
+	<l id="506">Qui m'arrêta le bras et conserva son sang.</l>
+	<l id="507">La mort d'Antiochus me laissait sans armée,</l>
+	<l id="508">Et d'une troupe en hâte à me suivre animée</l>
+	<l id="509">Beaucoup dans ma vengeance ayant fini leurs jours</l>
+	<l id="510">M'exposaient à son frère et faible et sans secours.</l>
+	<l id="511">Je me voyais perdue, à moins d'un tel otage :</l>
+	<l id="512">Il vint, et sa fureur craignit pour ce cher gage ;</l>
+	<l id="513">Il m'imposa des lois, exigea des serments,</l>
+	<l id="514">Et moi, j'accordai tout pour obtenir du temps.</l>
+	<l id="515">Le temps est un trésor plus grand qu'on ne peut croire :</l>
+	<l id="516">J'en obtins, et je crus obtenir la victoire.</l>
+	<l id="517">J'ai pu reprendre haleine, et sous de faux apprêts...</l>
+	<l id="518">Mais voici mes deux fils, que j'ai mandés exprès :</l>
+	<l id="519">écoute, et tu verras quel est cet hyménée</l>
+	<l id="520">Où se doit terminer cette illustre journée.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Cléopâtre, Antiochus, Séleucus, Laonice.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="521">Mes enfants, prenez place. Enfin voici le jour</l>
+	<l id="522">Si doux à mes souhaits, si cher à mon amour,</l>
+	<l id="523">Où je puis voir briller sur une de vos têtes</l>
+	<l id="524">Ce que j'ai conservé parmi tant de tempêtes,</l>
+	<l id="525">Et vous remettre un bien, après tant de malheurs,</l>
+	<l id="526">Qui m'a coûté pour vous tant de soins et de pleurs.</l>
+	<l id="527">Il peut vous souvenir quelles furent mes larmes</l>
+	<l id="528">Quand Tryphon me donna de si rudes alarmes,</l>
+	<l id="529">Que pour ne vous pas voir exposés à ses coups,</l>
+	<l id="530">Il fallut me résoudre à me priver de vous.</l>
+	<l id="531">Quelles peines depuis, grands dieux, n'ai-je souffertes !</l>
+	<l id="532">Chaque jour redoubla mes douleurs et mes pertes</l>
+	<l id="533">Je vis votre royaume entre ces murs réduit ;</l>
+	<l id="534">Je crus mort votre père ; et sur un si faux bruit</l>
+	<l id="535">Le peuple mutiné voulut avoir un maître.</l>
+	<l id="536">J'eus beau le nommer lâche, ingrat, parjure, traître,</l>
+	<l id="537">Il fallut satisfaire à son brutal désir,</l>
+	<l id="538">Et de peur qu'il en prît, il m'en fallut choisir.</l>
+	<l id="539">Pour vous sauver l'état que n'eussai-je pu faire ?</l>
+	<l id="540">Je choisis un époux avec des yeux de mère,</l>
+	<l id="541">Votre oncle Antiochus, et j'espérai qu'en lui</l>
+	<l id="542">Votre trône tombant trouverait un appui ;</l>
+	<l id="543">Mais à peine son bras en relève la chute,</l>
+	<l id="544">Que par lui de nouveau le sort me persécute :</l>
+	<l id="545">Maître de votre état par sa valeur sauvé,</l>
+	<l id="546">Il s'obstine à remplir ce trône relevé ;</l>
+	<l id="547">Qui lui parle de vous attire sa menace.</l>
+	<l id="548">Il n'a défait Tryphon que pour prendre sa place ;</l>
+	<l id="549">Et de dépositaire et de libérateur,</l>
+	<l id="550">Il s'érige en tyran et lâche usurpateur.</l>
+	<l id="551">Sa main l'en a puni : pardonnons à son ombre ;</l>
+	<l id="552">Aussi bien en un seul voici des maux sans nombre.</l>
+	<l id="553">Nicanor votre père et mon premier époux...</l>
+	<l id="554">Mais pourquoi lui donner encore des noms si doux,</l>
+	<l id="555">Puisque l'ayant cru mort, il sembla ne revivre</l>
+	<l id="556">Que pour s'en dépouiller afin de nous poursuivre ?</l>
+	<l id="557">Passons ; je ne me puis souvenir sans trembler</l>
+	<l id="558">Du coup dont j'empêchai qu'il nous pût accabler :</l>
+	<l id="559">Je ne sais s'il est digne ou d'horreur ou d'estime,</l>
+	<l id="560">S'il plut aux dieux ou non, s'il fut justice ou crime ;</l>
+	<l id="561">Mais soit crime ou justice, il est certain, mes fils,</l>
+	<l id="562">Que mon amour pour vous fit tout ce que je fis :</l>
+	<l id="563">Ni celui des grandeurs ni celui de la vie</l>
+	<l id="564">Ne jeta dans mon coeur cette aveugle furie.</l>
+	<l id="565">J'étais lasse d'un trône où d'éternels malheurs</l>
+	<l id="566">Me comblaient chaque jour de nouvelles douleurs.</l>
+	<l id="567">Ma vie est presque usée, et ce reste inutile</l>
+	<l id="568">Chez mon frère avec vous trouvait un sûr asile ;</l>
+	<l id="569">Mais voir, après douze ans et de soins et de maux,</l>
+	<l id="570">Un père vous ôter le fruit de mes travaux ;</l>
+	<l id="571">Mais voir votre couronne après lui destinée</l>
+	<l id="572">Aux enfants qui naîtraient d'un second hyménée !</l>
+	<l id="573">À cette indignité je ne connus plus rien :</l>
+	<l id="574">Je me crus tout permis pour garder votre bien.</l>
+	<l id="575">Recevez donc, mes fils, de la main d'une mère</l>
+	<l id="576">Un trône racheté par le malheur d'un père.</l>
+	<l id="577">Je crus qu'il fit lui-même un crime en vous l'ôtant,</l>
+	<l id="578">Et si j'en ai fait un en vous le rachetant,</l>
+	<l id="579">Daigne du juste ciel la bonté souveraine,</l>
+	<l id="580">Vous en laissant le fruit, m'en réserver la peine,</l>
+	<l id="581">Ne lancer que sur moi les foudres mérités,</l>
+	<l id="582">Et n'épandre sur vous que des prospérités !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="583">Jusques ici, madame, aucun ne met en doute</l>
+	<l id="584">Les longs et grands travaux que notre amour vous coûte,</l>
+	<l id="585">Et nous croyons tenir des soins de cette amour</l>
+	<l id="586">Ce doux espoir du trône aussi bien que le jour :</l>
+	<l id="587">Le récit nous en charme, et nous fait mieux comprendre</l>
+	<l id="588">Quelles grâces tous deux nous vous en devons rendre ;</l>
+	<l id="589">Mais afin qu'à jamais nous les puissions bénir,</l>
+	<l id="590">épargnez le dernier à notre souvenir :</l>
+	<l id="591">Ce sont fatalités dont l'âme embarrassée</l>
+	<l id="592">À plus qu'elle ne veut se voit souvent forcée.</l>
+	<l id="593">Sur les noires couleurs d'un si triste tableau</l>
+	<l id="594">Il faut passer l'éponge ou tirer le rideau :</l>
+	<l id="595">Un fils est criminel quand il les examine ;</l>
+	<l id="596">Et quelque suite enfin que le ciel y destine,</l>
+	<l id="597">J'en rejette l'idée, et crois qu'en ces malheurs</l>
+	<l id="598">Le silence ou l'oubli nous sied mieux que les pleurs.</l>
+	<l id="599">Nous attendons le sceptre avec même espérance ;</l>
+	<l id="600">Mais si nous l'attendons, c'est sans impatience.</l>
+	<l id="601">Nous pouvons sans régner vivre tous deux contents :</l>
+	<l id="602">C'est le fruit de vos soins, jouissez-en longtemps ;</l>
+	<l id="603">Il tombera sur nous quand vous en serez lasse :</l>
+	<l id="604">Nous le recevrons lors de bien meilleure grâce ;</l>
+	<l id="605">Et l'accepter sitôt semble nous reprocher</l>
+	<l id="606">De n'être revenus que pour vous l'arracher.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="607">J'ajouterai, madame, à ce qu'a dit mon frère,</l>
+	<l id="608">Que bien qu'avec plaisir et l'un et l'autre espère,</l>
+	<l id="609">L'ambition n'est pas notre plus grand désir.</l>
+	<l id="610">Régnez, nous le verrons tous deux avec plaisir ;</l>
+	<l id="611">Et c'est bien la raison que pour tant de puissance</l>
+	<l id="612">Nous vous rendions du moins un peu d'obéissance,</l>
+	<l id="613">Et que celui de nous dont le ciel a fait choix</l>
+	<l id="614">Sous votre illustre exemple apprenne l'art des rois.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="615">Dites tout, mes enfants : vous fuyez la couronne,</l>
+	<l id="616">Non que son trop d'éclat ou son poids vous étonne :</l>
+	<l id="617">L'unique fondement de cette aversion,</l>
+	<l id="618">C'est la honte attachée à sa possession.</l>
+	<l id="619">Elle passe à vos yeux pour la même infamie,</l>
+	<l id="620">S'il faut la partager avec notre ennemie,</l>
+	<l id="621">Et qu'un indigne hymen la fasse retomber</l>
+	<l id="622">Sur celle qui venait pour vous la dérober.</l>
+	<l id="623">Ô nobles sentiments d'une âme généreuse !</l>
+	<l id="624">Ô fils vraiment mes fils ! ô mère trop heureuse !</l>
+	<l id="625">Le sort de votre père enfin est éclairci :</l>
+	<l id="626">Il était innocent, et je puis l'être aussi ;</l>
+	<l id="627">Il vous aima toujours, et ne fut mauvais père</l>
+	<l id="628">Que charmé par la soeur, ou forcé par le frère ;</l>
+	<l id="629">Et dans cette embuscade où son effort fut vain,</l>
+	<l id="630">Rodogune, mes fils, le tua par ma main.</l>
+	<l id="631">Ainsi de cet amour la fatale puissance</l>
+	<l id="632">Vous coûte votre père, à moi mon innocence ;</l>
+	<l id="633">Et si ma main pour vous n'avait tout attenté,</l>
+	<l id="634">L'effet de cet amour vous aurait tout coûté.</l>
+	<l id="635">Ainsi vous me rendrez l'innocence et l'estime,</l>
+	<l id="636">Lorsque vous punirez la cause de mon crime.</l>
+	<l id="637">De cette même main qui vous a tout sauvé,</l>
+	<l id="638">Dans son sang odieux je l'aurais bien lavé ;</l>
+	<l id="639">Mais comme vous aviez votre part aux offenses,</l>
+	<l id="640">Je vous ai réservé votre part aux vengeances ;</l>
+	<l id="641">Et pour ne tenir plus en suspens vos esprits,</l>
+	<l id="642">Si vous voulez régner, le trône est à ce prix.</l>
+	<l id="643">Entre deux fils que j'aime avec même tendresse,</l>
+	<l id="644">Embrasser ma querelle est le seul droit d'aînesse :</l>
+	<l id="645">La mort de Rodogune en nommera l'aîné.</l>
+	<l id="646">Quoi ? Vous montrez tous deux un visage étonné !</l>
+	<l id="647">Redoutez-vous son frère ? Après la paix infâme</l>
+	<l id="648">Que même en la jurant je détestais dans l'âme,</l>
+	<l id="649">J'ai fait lever des gens par des ordres secrets,</l>
+	<l id="650">Qu'à vous suivre en tous lieux vous trouverez tous prêts ;</l>
+	<l id="651">Et tandis qu'il fait tête aux princes d'Arménie,</l>
+	<l id="652">Nous pouvons sans péril briser sa tyrannie.</l>
+	<l id="653">Qui vous fait donc pâlir à cette juste loi ?</l>
+	<l id="654">Est-ce pitié pour elle ? Est-ce haine pour moi ?</l>
+	<l id="655">Voulez-vous l'épouser afin qu'elle me brave,</l>
+	<l id="656">Et mettre mon destin aux mains de mon esclave ?</l>
+	<l id="657">Vous ne répondez point ! Allez, enfants ingrats,</l>
+	<l id="658">Pour qui je crus en vain conserver ces états :</l>
+	<l id="659">J'ai fait votre oncle roi, j'en ferai bien un autre ;</l>
+	<l id="660">Et mon nom peut encore ici plus que le vôtre.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="661">Mais, madame, voyez que pour premier exploit...</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="662">Mais que chacun de vous pense à ce qu'il me doit.</l>
+	<l id="663">Je sais bien que le sang qu'à vos mains je demande</l>
+	<l id="664">N'est pas le digne essai d'une valeur bien grande ;</l>
+	<l id="665">Mais si vous me devez et le sceptre et le jour,</l>
+	<l id="666">Ce doit être envers moi le sceau de votre amour :</l>
+	<l id="667">Sans ce gage ma haine à jamais s'en défie ;</l>
+	<l id="668">Ce n'est qu'en m'imitant que l'on me justifie.</l>
+	<l id="669">Rien ne vous sert ici de faire les surpris :</l>
+	<l id="670">Je vous le dis encore, le trône est à ce prix ;</l>
+	<l id="671">Je puis en disposer comme de ma conquête :</l>
+	<l id="672">Point d'aîné, point de roi, qu'en m'apportant sa tête ;</l>
+	<l id="673">Et puisque mon seul choix vous y peut élever,</l>
+	<l id="674">Pour jouir de mon crime il le faut achever.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Séleucus, Antiochus.</head>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="675">Est-il une constance à l'épreuve du foudre</l>
+	<l id="676">Dont ce cruel arrêt met notre espoir en poudre ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="677">Est-il un coup de foudre à comparer aux coups</l>
+	<l id="678">Que ce cruel arrêt vient de lancer sur nous ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="679">Ô haines, ô fureurs dignes d'une mégère !</l>
+	<l id="680">Ô femme, que je n'ose appeler encore mère !</l>
+	<l id="681">Après que tes forfaits ont régné pleinement,</l>
+	<l id="682">Ne saurais-tu souffrir qu'on règne innocemment ?</l>
+	<l id="683">Quels attraits penses-tu qu'ait pour nous la couronne,</l>
+	<l id="684">S'il faut qu'un crime égal par ta main nous la donne ?</l>
+	<l id="685">Et de quelles horreurs nous doit-elle combler,</l>
+	<l id="686">Si pour monter au trône il faut te ressembler ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="687">Gardons plus de respect aux droits de la nature,</l>
+	<l id="688">Et n'imputons qu'au sort notre triste aventure :</l>
+	<l id="689">Nous le nommions cruel, mais il nous était doux</l>
+	<l id="690">Quand il ne nous donnait à combattre que nous.</l>
+	<l id="691">Confidents tout ensemble et rivaux l'un de l'autre,</l>
+	<l id="692">Nous ne concevions point de mal pareil au nôtre ;</l>
+	<l id="693">Cependant à nous voir l'un de l'autre rivaux,</l>
+	<l id="694">Nous ne concevions pas la moitié de nos maux.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="695">Une douleur si sage et si respectueuse,</l>
+	<l id="696">Ou n'est guère sensible ou guère impétueuse ;</l>
+	<l id="697">Et c'est en de tels maux avoir l'esprit bien fort</l>
+	<l id="698">D'en connaître la cause et l'imputer au sort.</l>
+	<l id="699">Pour moi, je sens les miens avec plus de faiblesse :</l>
+	<l id="700">Plus leur cause m'est chère, et plus l'effet m'en blesse ;</l>
+	<l id="701">Non que pour m'en venger j'ose entreprendre rien :</l>
+	<l id="702">Je donnerais encore tout mon sang pour le sien.</l>
+	<l id="703">Je sais ce que je dois ; mais dans cette contrainte,</l>
+	<l id="704">Si je retiens mon bras, je laisse aller ma plainte ;</l>
+	<l id="705">Et j'estime qu'au point qu'elle nous a blessés,</l>
+	<l id="706">Qui ne fait que s'en plaindre a du respect assez.</l>
+	<l id="707">Voyez-vous bien quel est le ministère infâme</l>
+	<l id="708">Qu'ose exiger de nous la haine d'une femme ?</l>
+	<l id="709">Voyez-vous qu'aspirant à des crimes nouveaux,</l>
+	<l id="710">De deux princes ses fils elle fait ses bourreaux ?</l>
+	<l id="711">Si vous pouvez le voir, pouvez-vous vous en taire ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="712">Je vois bien plus encor : je vois qu'elle est ma mère ;</l>
+	<l id="713">Et plus je vois son crime indigne de ce rang,</l>
+	<l id="714">Plus je lui vois souiller la source de mon sang.</l>
+	<l id="715">J'en sens de ma douleur croître la violence ;</l>
+	<l id="716">Mais ma confusion m'impose le silence,</l>
+	<l id="717">Lorsque dans ses forfaits sur nos fronts imprimés</l>
+	<l id="718">Je vois les traits honteux dont nous sommes formés.</l>
+	<l id="719">Je tâche à cet objet d'être aveugle ou stupide :</l>
+	<l id="720">J'ose me déguiser jusqu'à son parricide ;</l>
+	<l id="721">Je me cache à moi-même un excès de malheur</l>
+	<l id="722">Où notre ignominie égale ma douleur ;</l>
+	<l id="723">Et détournant les yeux d'une mère cruelle,</l>
+	<l id="724">J'impute tout au sort qui m'a fait naître d'elle.</l>
+	<l id="725">Je conserve pourtant encore un peu d'espoir :</l>
+	<l id="726">Elle est mère, et le sang a beaucoup de pouvoir ;</l>
+	<l id="727">Et le sort l'eût-il faite encore plus inhumaine,</l>
+	<l id="728">Une larme d'un fils peut amollir sa haine.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="729">Ah ! Mon frère, l'amour n'est guère véhément</l>
+	<l id="730">Pour des fils élevés dans un bannissement,</l>
+	<l id="731">Et qu'ayant fait nourrir presque dans l'esclavage</l>
+	<l id="732">Elle n'a rappelés que pour servir sa rage.</l>
+	<l id="733">De ses pleurs tant vantés je découvre le fard :</l>
+	<l id="734">Nous avons en son coeur vous et moi peu de part ;</l>
+	<l id="735">Elle fait bien sonner ce grand amour de mère,</l>
+	<l id="736">Mais elle seule enfin s'aime et se considère ;</l>
+	<l id="737">Et quoi que nous étale un langage si doux,</l>
+	<l id="738">Elle a tout fait pour elle, et n'a rien fait pour nous.</l>
+	<l id="739">Ce n'est qu'un faux amour que la haine domine :</l>
+	<l id="740">Nous ayant embrassés, elle nous assassine,</l>
+	<l id="741">En veut au cher objet dont nous sommes épris,</l>
+	<l id="742">Nous demande son sang, met le trône à ce prix.</l>
+	<l id="743">Ce n'est plus de sa main qu'il nous le faut attendre :</l>
+	<l id="744">Il est, il est à nous, si nous osons le prendre.</l>
+	<l id="745">Notre révolte ici n'a rien que d'innocent :</l>
+	<l id="746">Il est à l'un de nous, si l'autre le consent ;</l>
+	<l id="747">Régnons, et son courroux ne sera que faiblesse :</l>
+	<l id="748">C'est l'unique moyen de sauver la princesse.</l>
+	<l id="749">Allons la voir, mon frère, et demeurons unis :</l>
+	<l id="750">C'est l'unique moyen de voir nos maux finis.</l>
+	<l id="751">Je forme un beau dessein, que son amour m'inspire ;</l>
+	<l id="752">Mais il faut qu'avec lui notre union conspire :</l>
+	<l id="753">Notre amour, aujourd'hui si digne de pitié,</l>
+	<l id="754">Ne saurait triompher que par notre amitié.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="755">Cet avertissement marque une défiance</l>
+	<l id="756">Que la mienne pour vous souffre avec patience.</l>
+	<l id="757">Allons, et soyez sûr que même le trépas</l>
+	<l id="758">Ne peut rompre des noeuds que l'amour ne rompt pas.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Rodogune, Oronte, Laonice.</head>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="759">Voilà comme l'amour succède à la colère,</l>
+	<l id="760">Comme elle ne me voit qu'avec des yeux de mère,</l>
+	<l id="761">Comme elle aime la paix, comme elle fait un roi,</l>
+	<l id="762">Et comme elle use enfin de ses fils et de moi.</l>
+	<l id="763">Et tantôt mes soupçons lui faisaient une offense ?</l>
+	<l id="764">Elle n'avait rien fait qu'en sa juste défense ?</l>
+	<l id="765">Lorsque tu la trompais elle fermait les yeux ?</l>
+	<l id="766">Ah ! Que ma défiance en jugeait beaucoup mieux !</l>
+	<l id="767" part="i">Tu le vois, Laonice.</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="767" part="f">Et vous voyez, madame,</l>
+	<l id="768">Quelle fidélité vous conserve mon âme,</l>
+	<l id="769">Et qu'ayant reconnu sa haine et mon erreur,</l>
+	<l id="770">Le coeur gros de soupirs et frémissant d'horreur,</l>
+	<l id="771">Je romps une foi due aux secrets de ma reine,</l>
+	<l id="772">Et vous viens découvrir mon erreur et sa haine.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="773">Cet avis salutaire est l'unique secours</l>
+	<l id="774">À qui je crois devoir le reste de mes jours ;</l>
+	<l id="775">Mais ce n'est pas assez de m'avoir avertie :</l>
+	<l id="776">Il faut de ces périls m'aplanir la sortie ;</l>
+	<l id="777">Il faut que tes conseils m'aident à repousser...</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="778">Madame, au nom des dieux, veuillez m'en dispenser :</l>
+	<l id="779">C'est assez que pour vous je lui sois infidèle,</l>
+	<l id="780">Sans m'engager encore à des conseils contre elle.</l>
+	<l id="781">Oronte est avec vous, qui, comme ambassadeur,</l>
+	<l id="782">Devait de cet hymen honorer la splendeur ;</l>
+	<l id="783">Comme c'est en ses mains que le roi votre frère</l>
+	<l id="784">A déposé le soin d'une tête si chère,</l>
+	<l id="785">Je vous laisse avec lui pour en délibérer :</l>
+	<l id="786">Quoi que vous résolviez, laissez-moi l'ignorer.</l>
+	<l id="787">Au reste, assurez-vous de l'amour des deux princes :</l>
+	<l id="788">Plutôt que de vous perdre ils perdront leurs provinces ;</l>
+	<l id="789">Mais je ne réponds pas que ce coeur inhumain</l>
+	<l id="790">Ne veuille à leur refus s'armer d'une autre main.</l>
+	<l id="791">Je vous parle en tremblant : si j'étais ici vue,</l>
+	<l id="792">Votre péril croîtrait, et je serais perdue.</l>
+	<l id="793">Fuyez, grande princesse, et souffrez cet adieu.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="794">Va, je reconnaîtrai ce service en son lieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Rodogune, Oronte.</head>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="795">Que ferons-nous, Oronte, en ce péril extrême,</l>
+	<l id="796">Où l'on fait de mon sang le prix d'un diadème ?</l>
+	<l id="797">Fuirons-nous chez mon frère ? Attendrons-nous la mort,</l>
+	<l id="798">Ou ferons-nous contre elle un généreux effort ?</l>
+</sp>
+<sp who="ORONTE"><speaker>ORONTE</speaker>
+	<l id="799">Notre fuite, madame, est assez difficile :</l>
+	<l id="800">J'ai vu des gens de guerre épandus par la ville.</l>
+	<l id="801">Si l'on veut votre perte, on vous fait observer ;</l>
+	<l id="802">Ou s'il vous est permis encore de vous sauver,</l>
+	<l id="803">L'avis de Laonice est sans doute une adresse :</l>
+	<l id="804">Feignant de vous servir elle sert sa maîtresse.</l>
+	<l id="805">La reine, qui surtout craint de vous voir régner,</l>
+	<l id="806">Vous donne ces terreurs pour vous faire éloigner ;</l>
+	<l id="807">Et pour rompre un hymen qu'avec peine elle endure,</l>
+	<l id="808">Elle en veut à vous-même imputer la rupture.</l>
+	<l id="809">Elle obtiendra par vous le but de ses souhaits,</l>
+	<l id="810">Et vous accusera de violer la paix ;</l>
+	<l id="811">Et le roi, plus piqué contre vous que contre elle,</l>
+	<l id="812">Vous voyant lui porter une guerre nouvelle,</l>
+	<l id="813">Blâmera vos frayeurs et nos légèretés,</l>
+	<l id="814">D'avoir osé douter de la foi des traités ;</l>
+	<l id="815">Et peut-être, pressé des guerres d'Arménie,</l>
+	<l id="816">Vous laissera moquée, et la reine impunie.</l>
+	<l id="817">À ces honteux moyens gardez de recourir :</l>
+	<l id="818">C'est ici qu'il vous faut ou régner ou périr.</l>
+	<l id="819">Le ciel pour vous ailleurs n'a point fait de couronne,</l>
+	<l id="820">Et l'on s'en rend indigne alors qu'on l'abandonne.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="821">Ah ! Que de vos conseils j'aimerais la vigueur,</l>
+	<l id="822">Si nous avions la force égale à ce grand coeur !</l>
+	<l id="823">Mais pourrons-nous braver une reine en colère</l>
+	<l id="824">Avec ce peu de gens que m'a laissés mon frère ?</l>
+</sp>
+<sp who="ORONTE"><speaker>ORONTE</speaker>
+	<l id="825">J'aurais perdu l'esprit si j'osais me vanter</l>
+	<l id="826">Qu'avec ce peu de gens nous pussions résister :</l>
+	<l id="827">Nous mourrons à vos pieds ; c'est toute l'assistance</l>
+	<l id="828">Que vous peut en ces lieux offrir notre impuissance ;</l>
+	<l id="829">Mais pouvez-vous trembler quand dans ces mêmes lieux</l>
+	<l id="830">Vous portez le grand maître et des rois et des dieux ?</l>
+	<l id="831">L'amour fera lui seul tout ce qu'il vous faut faire.</l>
+	<l id="832">Faites-vous un rempart des fils contre la mère ;</l>
+	<l id="833">Ménagez bien leur flamme, ils voudront tout pour vous ;</l>
+	<l id="834">Et ces astres naissants sont adorés de tous.</l>
+	<l id="835">Quoi que puisse en ces lieux une reine cruelle,</l>
+	<l id="836">Pouvant tout sur ses fils, vous y pouvez plus qu'elle.</l>
+	<l id="837">Cependant trouvez bon qu'en ces extrémités</l>
+	<l id="838">Je tâche à rassembler nos Parthes écartés :</l>
+	<l id="839">Ils sont peu, mais vaillants, et peuvent de sa rage</l>
+	<l id="840">Empêcher la surprise et le premier outrage.</l>
+	<l id="841">Craignez moins, et surtout, madame, en ce grand jour,</l>
+	<l id="842">Si vous voulez régner, faites régner l'amour.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="843">Quoi ? Je pourrais descendre à ce lâche artifice</l>
+	<l id="844">D'aller de mes amants mendier le service,</l>
+	<l id="845">Et sous l'indigne appas d'un coup d'oeil affété,</l>
+	<l id="846">J'irais jusqu'en leurs coeurs chercher ma sûreté !</l>
+	<l id="847">Celles de ma naissance ont horreur des bassesses :</l>
+	<l id="848">Leur sang tout généreux hait ces molles adresses.</l>
+	<l id="849">Quel que soit le secours qu'ils me puissent offrir,</l>
+	<l id="850">Je croirai faire assez de le daigner souffrir :</l>
+	<l id="851">Je verrai leur amour, j'éprouverai sa force,</l>
+	<l id="852">Sans flatter leurs désirs, sans leur jeter d'amorce ;</l>
+	<l id="853">Et s'il est assez fort pour me servir d'appui,</l>
+	<l id="854">Je le ferai régner, mais en régnant sur lui.</l>
+	<l id="855">Sentiments étouffés de colère et de haine,</l>
+	<l id="856">Rallumez vos flambeaux à celles de la reine,</l>
+	<l id="857">Et d'un oubli contraint rompez la dure loi,</l>
+	<l id="858">Pour rendre enfin justice aux mânes d'un grand roi ;</l>
+	<l id="859">Rapportez à mes yeux son image sanglante,</l>
+	<l id="860">D'amour et de fureur encore étincelante,</l>
+	<l id="861">Telle que je le vis, quand tout percé de coups</l>
+	<l id="862">Il me cria : "Vengeance ! Adieu : je meurs pour vous !"</l>
+	<l id="863">Chère ombre, hélas ! Bien loin de l'avoir poursuivie,</l>
+	<l id="864">J'allais baiser la main qui t'arracha la vie,</l>
+	<l id="865">Rendre un respect de fille à qui versa ton sang ;</l>
+	<l id="866">Mais pardonne aux devoirs que m'impose mon rang :</l>
+	<l id="867">Plus la haute naissance approche des couronnes,</l>
+	<l id="868">Plus cette grandeur même asservit nos personnes ;</l>
+	<l id="869">Nous n'avons point de coeur pour aimer ni haïr :</l>
+	<l id="870">Toutes nos passions ne savent qu'obéir.</l>
+	<l id="871">Après avoir armé pour venger cet outrage,</l>
+	<l id="872">D'une paix mal conçue on m'a faite le gage ;</l>
+	<l id="873">Et moi, fermant les yeux sur ce noir attentat,</l>
+	<l id="874">Je suivais mon destin en victime d'état.</l>
+	<l id="875">Mais aujourd'hui qu'on voit cette main parricide,</l>
+	<l id="876">Des restes de ta vie insolemment avide,</l>
+	<l id="877">Vouloir encore percer ce sein infortuné,</l>
+	<l id="878">Pour y chercher le coeur que tu m'avais donné,</l>
+	<l id="879">De la paix qu'elle rompt je ne suis plus le gage :</l>
+	<l id="880">Je brise avec honneur mon illustre esclavage ;</l>
+	<l id="881">J'ose reprendre un coeur pour aimer et haïr,</l>
+	<l id="882">Et ce n'est plus qu'à toi que je veux obéir.</l>
+	<l id="883">Le consentiras-tu, cet effort sur ma flamme,</l>
+	<l id="884">Toi, son vivant portrait, que j'adore dans l'âme,</l>
+	<l id="885">Cher prince, dont je n'ose en mes plus doux souhaits</l>
+	<l id="886">Fier encore le nom aux murs de ce palais ?</l>
+	<l id="887">Je sais quelles seront tes douleurs et tes craintes :</l>
+	<l id="888">Je vois déjà tes maux, j'entends déjà tes plaintes ;</l>
+	<l id="889">Mais pardonne aux devoirs qu'exige enfin un roi</l>
+	<l id="890">À qui tu dois le jour qu'il a perdu pour moi.</l>
+	<l id="891">J'aurai mêmes douleurs, j'aurai mêmes alarmes ;</l>
+	<l id="892">S'il t'en coûte un soupir, j'en verserai des larmes.</l>
+	<l id="893">Mais, dieux ! Que je me trouble en les voyant tous deux !</l>
+	<l id="894">Amour, qui me confonds, cache du moins tes feux ;</l>
+	<l id="895">Et content de mon coeur dont je te fais le maître,</l>
+	<l id="896">Dans mes regards surpris garde-toi de paraître.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Antiochus, Séleucus, Rodogune.</head>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="897">Ne vous offensez pas, princesse, de nous voir</l>
+	<l id="898">De vos yeux à vous-même expliquer le pouvoir.</l>
+	<l id="899">Ce n'est pas d'aujourd'hui que nos coeurs en soupirent :</l>
+	<l id="900">À vos premiers regards tous deux ils se rendirent ;</l>
+	<l id="901">Mais un profond respect nous fit taire et brûler,</l>
+	<l id="902">Et ce même respect nous force de parler.</l>
+	<l id="903">L'heureux moment approche où votre destinée</l>
+	<l id="904">Semble être aucunement à la nôtre enchaînée,</l>
+	<l id="905">Puisque d'un droit d'aînesse incertain parmi nous</l>
+	<l id="906">La nôtre attend un sceptre et la vôtre un époux.</l>
+	<l id="907">C'est trop d'indignité que notre souveraine</l>
+	<l id="908">De l'un de ses captifs tienne le nom de reine :</l>
+	<l id="909">Notre amour s'en offense, et changeant cette loi,</l>
+	<l id="910">Remet à notre reine à nous choisir un roi.</l>
+	<l id="911">Ne vous abaissez plus à suivre la couronne :</l>
+	<l id="912">Donnez-la, sans souffrir qu'avec elle on vous donne ;</l>
+	<l id="913">Réglez notre destin, qu'ont mal réglé les dieux :</l>
+	<l id="914">Notre seul droit d'aînesse est de plaire à vos yeux ;</l>
+	<l id="915">L'ardeur qu'allume en nous une flamme si pure</l>
+	<l id="916">Préfère votre choix au choix de la nature,</l>
+	<l id="917">Et vient sacrifier à votre élection</l>
+	<l id="918">Toute notre espérance et notre ambition.</l>
+	<l id="919">Prononcez donc, madame, et faites un monarque :</l>
+	<l id="920">Nous céderons sans honte à cette illustre marque ;</l>
+	<l id="921">Et celui qui perdra votre divin objet</l>
+	<l id="922">Demeurera du moins votre premier sujet :</l>
+	<l id="923">Son amour immortel saura toujours lui dire</l>
+	<l id="924">Que ce rang près de vous vaut ailleurs un empire ;</l>
+	<l id="925">Il y mettra sa gloire, et dans un tel malheur,</l>
+	<l id="926">L'heur de vous obéir flattera sa douleur.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="927">Prince, je dois beaucoup à cette déférence</l>
+	<l id="928">De votre ambition et de votre espérance ;</l>
+	<l id="929">Et j'en recevrais l'offre avec quelque plaisir,</l>
+	<l id="930">Si celles de mon rang avaient droit de choisir.</l>
+	<l id="931">Comme sans leur avis les rois disposent d'elles</l>
+	<l id="932">Pour affermir leur trône ou finir leurs querelles,</l>
+	<l id="933">Le destin des états est arbitre du leur,</l>
+	<l id="934">Et l'ordre des traités règle tout dans leur coeur.</l>
+	<l id="935">C'est lui que suit le mien, et non pas la couronne :</l>
+	<l id="936">J'aimerai l'un de vous, parce qu'il me l'ordonne ;</l>
+	<l id="937">Du secret révélé j'en prendrai le pouvoir,</l>
+	<l id="938">Et mon amour pour naître attendra mon devoir.</l>
+	<l id="939">N'attendez rien de plus, ou votre attente est vaine.</l>
+	<l id="940">Le choix que vous m'offrez appartient à la reine ;</l>
+	<l id="941">J'entreprendrais sur elle à l'accepter de vous.</l>
+	<l id="942">Peut-être on vous a tu jusqu'où va son courroux ;</l>
+	<l id="943">Mais je dois par épreuve assez bien le connaître</l>
+	<l id="944">Pour fuir l'occasion de le faire renaître.</l>
+	<l id="945">Que n'en ai-je souffert, et que n'a-t-elle osé ?</l>
+	<l id="946">Je veux croire avec vous que tout est apaisé ;</l>
+	<l id="947">Mais craignez avec moi que ce choix ne ranime</l>
+	<l id="948">Cette haine mourante à quelque nouveau crime :</l>
+	<l id="949">Pardonnez-moi ce mot qui viole un oubli</l>
+	<l id="950">Que la paix entre nous doit avoir établi.</l>
+	<l id="951">Le feu qui semble éteint souvent dort sous la cendre :</l>
+	<l id="952">Qui l'ose réveiller peut s'en laisser surprendre ;</l>
+	<l id="953">Et je mériterais qu'il me pût consumer,</l>
+	<l id="954">Si je lui fournissais de quoi se rallumer.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="955">Pouvez-vous redouter sa haine renaissante,</l>
+	<l id="956">S'il est en votre main de la rendre impuissante ?</l>
+	<l id="957">Faites un roi, madame, et régnez avec lui :</l>
+	<l id="958">Son courroux désarmé demeure sans appui,</l>
+	<l id="959">Et toutes ses fureurs sans effet rallumées</l>
+	<l id="960">Ne pousseront en l'air que de vaines fumées.</l>
+	<l id="961">Mais a-t-elle intérêt au choix que vous ferez,</l>
+	<l id="962">Pour en craindre les maux que vous vous figurez ?</l>
+	<l id="963">La couronne est à nous ; et sans lui faire injure,</l>
+	<l id="964">Sans manquer de respect aux droits de la nature,</l>
+	<l id="965">Chacun de nous à l'autre en peut céder sa part,</l>
+	<l id="966">Et rendre à votre choix ce qu'il doit au hasard.</l>
+	<l id="967">Qu'un si faible scrupule en notre faveur cesse :</l>
+	<l id="968">Votre inclination vaut bien un droit d'aînesse,</l>
+	<l id="969">Dont vous seriez traitée avec trop de rigueur,</l>
+	<l id="970">S'il se trouvait contraire aux voeux de votre coeur.</l>
+	<l id="971">On vous applaudirait quand vous seriez à plaindre ;</l>
+	<l id="972">Pour vous faire régner ce serait vous contraindre,</l>
+	<l id="973">Vous donner la couronne en vous tyrannisant,</l>
+	<l id="974">Et verser du poison sur ce noble présent.</l>
+	<l id="975">Au nom de ce beau feu qui tous deux nous consume,</l>
+	<l id="976">Princesse, à notre espoir ôtez cette amertume ;</l>
+	<l id="977">Et permettez que l'heur qui suivra votre époux</l>
+	<l id="978">Se puisse redoubler à le tenir de vous.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="979">Ce beau feu vous aveugle autant comme il vous brûle ;</l>
+	<l id="980">Et tâchant d'avancer, son effort vous recule.</l>
+	<l id="981">Vous croyez que ce choix que l'un et l'autre attend</l>
+	<l id="982">Pourra faire un heureux sans faire un mécontent ;</l>
+	<l id="983">Et moi, quelque vertu que votre coeur prépare,</l>
+	<l id="984">Je crains d'en faire deux si le mien se déclare ;</l>
+	<l id="985">Non que de l'un et l'autre il dédaigne les voeux :</l>
+	<l id="986">Je tiendrais à bonheur d'être à l'un de vous deux ;</l>
+	<l id="987">Mais souffrez que je suive enfin ce qu'on m'ordonne :</l>
+	<l id="988">Je me mettrai trop haut s'il faut que je me donne ;</l>
+	<l id="989">Quoique aisément je cède aux ordres de mon roi,</l>
+	<l id="990">Il n'est pas bien aisé de m'obtenir de moi.</l>
+	<l id="991">Savez-vous quels devoirs, quels travaux, quels services</l>
+	<l id="992">Voudront de mon orgueil exiger les caprices ?</l>
+	<l id="993">Par quels degrés de gloire on me peut mériter ?</l>
+	<l id="994">En quels affreux périls il faudra vous jeter ?</l>
+	<l id="995">Ce coeur vous est acquis après le diadème,</l>
+	<l id="996">Princes ; mais gardez-vous de le rendre à lui-même.</l>
+	<l id="997">Vous y renoncerez peut-être pour jamais,</l>
+	<l id="998">Quand je vous aurai dit à quel prix je le mets.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="999">Quels seront les devoirs, quels travaux, quels services</l>
+	<l id="1000">Dont nous ne vous fassions d'amoureux sacrifices ?</l>
+	<l id="1001">Et quels affreux périls pourrons-nous redouter,</l>
+	<l id="1002">Si c'est par ces degrés qu'on peut vous mériter ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1003">Princesse, ouvrez ce coeur, et jugez mieux du nôtre ;</l>
+	<l id="1004">Jugez mieux du beau feu qui brûle l'un et l'autre,</l>
+	<l id="1005">Et dites hautement à quel prix votre choix</l>
+	<l id="1006">Veut faire l'un de nous le plus heureux des rois.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1007" part="i">Prince, le voulez-vous ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1007" part="f">C'est notre unique envie.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1008">Je verrai cette ardeur d'un repentir suivie.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1009">Avant ce repentir tous deux nous périrons.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1010" part="i">Enfin vous le voulez ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1010" part="f">Nous vous en conjurons.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1011">Eh bien donc ! Il est temps de me faire connaître.</l>
+	<l id="1012">J'obéis à mon roi, puisqu'un de vous doit l'être ;</l>
+	<l id="1013">Mais quand j'aurai parlé, si vous vous en plaignez,</l>
+	<l id="1014">J'atteste tous les dieux que vous m'y contraignez,</l>
+	<l id="1015">Et que c'est malgré moi qu'à moi-même rendue</l>
+	<l id="1016">J'écoute une chaleur qui m'était défendue ;</l>
+	<l id="1017">Qu'un devoir rappelé me rend un souvenir</l>
+	<l id="1018">Que la foi des traités ne doit plus retenir.</l>
+	<l id="1019">Tremblez, princes, tremblez au nom de votre père :</l>
+	<l id="1020">Il est mort, et pour moi, par les mains d'une mère.</l>
+	<l id="1021">Je l'avais oublié, sujette à d'autres lois ;</l>
+	<l id="1022">Mais libre, je lui rends enfin ce que je dois.</l>
+	<l id="1023">C'est à vous de choisir mon amour ou ma haine.</l>
+	<l id="1024">J'aime les fils du roi, je hais ceux de la reine :</l>
+	<l id="1025">Réglez-vous là-dessus ; et sans plus me presser,</l>
+	<l id="1026">Voyez auquel des deux vous voulez renoncer.</l>
+	<l id="1027">Il faut prendre parti, mon choix suivra le vôtre :</l>
+	<l id="1028">Je respecte autant l'un que je déteste l'autre ;</l>
+	<l id="1029">Mais ce que j'aime en vous du sang de ce grand roi,</l>
+	<l id="1030">S'il n'est digne de lui, n'est pas digne de moi.</l>
+	<l id="1031">Ce sang que vous portez, ce trône qu'il vous laisse,</l>
+	<l id="1032">Valent bien que pour lui votre coeur s'intéresse :</l>
+	<l id="1033">Votre gloire le veut, l'amour vous le prescrit.</l>
+	<l id="1034">Qui peut contre elle et lui soulever votre esprit ?</l>
+	<l id="1035">Si vous leur préférez une mère cruelle,</l>
+	<l id="1036">Soyez cruels, ingrats, parricides comme elle.</l>
+	<l id="1037">Vous devez la punir, si vous la condamnez ;</l>
+	<l id="1038">Vous devez l'imiter, si vous la soutenez.</l>
+	<l id="1039">Quoi ? Cette ardeur s'éteint ! L'un et l'autre soupire !</l>
+	<l id="1040">J'avais su le prévoir, j'avais su le prédire...</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1041" part="i">Princesse...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1041" part="f">Il n'est plus temps, le mot en est lâché.</l>
+	<l id="1042">Quand j'ai voulu me taire, en vain je l'ai tâché.</l>
+	<l id="1043">Appelez ce devoir haine, rigueur, colère :</l>
+	<l id="1044">Pour gagner Rodogune il faut venger un père ;</l>
+	<l id="1045">Je me donne à ce prix : osez me mériter,</l>
+	<l id="1046">Et voyez qui de vous daignera m'accepter.</l>
+	<l id="1047" part="i">Adieu, princes.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Antiochus, Séleucus.</head>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1047" part="f">Hélas ! C'est donc ainsi qu'on traite</l>
+	<l id="1048">Les plus profonds respects d'une amour si parfaite !</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1049">Elle nous fuit, mon frère, après cette rigueur.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1050">Elle fuit, mais en Parthe, en nous perçant le coeur.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1051">Que le ciel est injuste ! Une âme si cruelle</l>
+	<l id="1052">Méritait notre mère, et devait naître d'elle.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1053" part="i">Plaignons-nous sans blasphème.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1053" part="f">Ah ! Que vous me gênez</l>
+	<l id="1054">Par cette retenue où vous vous obstinez !</l>
+	<l id="1055">Faut-il encore régner ? Faut-il l'aimer encore ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1056">Il faut plus de respect pour celle qu'on adore.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1057">C'est ou d'elle ou du trône être ardemment épris,</l>
+	<l id="1058">Que vouloir ou l'aimer ou régner à ce prix.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1059">C'est et d'elle et de lui tenir bien peu de compte,</l>
+	<l id="1060">Que faire une révolte et si pleine et si prompte.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1061">Lorsque l'obéissance a tant d'impiété,</l>
+	<l id="1062">La révolte devient une nécessité.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1063">La révolte, mon frère, est bien précipitée,</l>
+	<l id="1064">Quand la loi qu'elle rompt peut être rétractée ;</l>
+	<l id="1065">Et c'est à nos désirs trop de témérité</l>
+	<l id="1066">De vouloir de tels biens avec facilité :</l>
+	<l id="1067">Le ciel par les travaux veut qu'on monte à la gloire ;</l>
+	<l id="1068">Pour gagner un triomphe il faut une victoire.</l>
+	<l id="1069">Mais que je tâche en vain de flatter nos tourments !</l>
+	<l id="1070">Nos malheurs sont plus forts que ces déguisements.</l>
+	<l id="1071">Leur excès à mes yeux paraît un noir abîme</l>
+	<l id="1072">Où la haine s'apprête à couronner le crime,</l>
+	<l id="1073">Où la gloire est sans nom, la vertu sans honneur,</l>
+	<l id="1074">Où sans un parricide il n'est point de bonheur ;</l>
+	<l id="1075">Et voyant de ces maux l'épouvantable image,</l>
+	<l id="1076">Je me sens affaiblir quand je vous encourage :</l>
+	<l id="1077">Je frémis, je chancelle, et mon coeur abattu</l>
+	<l id="1078">Suit tantôt sa douleur, et tantôt sa vertu.</l>
+	<l id="1079">Mon frère, pardonnez à des discours sans suite,</l>
+	<l id="1080">Qui font trop voir le trouble où mon âme est réduite.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1081">J'en ferais comme vous, si mon esprit troublé</l>
+	<l id="1082">Ne secouait le joug dont il est accablé.</l>
+	<l id="1083">Dans mon ambition, dans l'ardeur de ma flamme,</l>
+	<l id="1084">Je vois ce qu'est un trône, et ce qu'est une femme ;</l>
+	<l id="1085">Et jugeant par leur prix de leur possession,</l>
+	<l id="1086">J'éteins enfin ma flamme et mon ambition ;</l>
+	<l id="1087">Et je vous céderais l'un et l'autre avec joie,</l>
+	<l id="1088">Si dans la liberté que le ciel me renvoie,</l>
+	<l id="1089">La crainte de vous faire un funeste présent</l>
+	<l id="1090">Ne me jetait dans l'âme un remords trop cuisant.</l>
+	<l id="1091">Dérobons-nous, mon frère, à ces âmes cruelles,</l>
+	<l id="1092">Et laissons-les sans nous achever leurs querelles.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1093">Comme j'aime beaucoup, j'espère encore un peu :</l>
+	<l id="1094">L'espoir ne peut s'éteindre où brûle tant de feu ;</l>
+	<l id="1095">Et son reste confus me rend quelques lumières</l>
+	<l id="1096">Pour juger mieux que vous de ces âmes si fières.</l>
+	<l id="1097">Croyez-moi, l'une et l'autre a redouté nos pleurs :</l>
+	<l id="1098">Leur fuite à nos soupirs a dérobé leurs coeurs ;</l>
+	<l id="1099">Et si tantôt leur haine eût attendu nos larmes,</l>
+	<l id="1100">Leur haine à nos douleurs aurait rendu les armes.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1101">Pleurez donc à leurs yeux, gémissez, soupirez,</l>
+	<l id="1102">Et je craindrai pour vous ce que vous espérez.</l>
+	<l id="1103">Quoi qu'en votre faveur vos pleurs obtiennent d'elles,</l>
+	<l id="1104">Il vous faudra parer leurs haines mutuelles ;</l>
+	<l id="1105">Sauver l'une de l'autre ; et peut-être leurs coups,</l>
+	<l id="1106">Vous trouvant au milieu, ne perceront que vous :</l>
+	<l id="1107">C'est ce qu'il faut pleurer. Ni maîtresse ni mère</l>
+	<l id="1108">N'ont plus de choix ici ni de lois à nous faire :</l>
+	<l id="1109">Quoi que leur rage exige ou de vous ou de moi,</l>
+	<l id="1110">Rodogune est à vous, puisque je vous fais roi.</l>
+	<l id="1111">Épargnez vos soupirs près de l'une et de l'autre.</l>
+	<l id="1112">J'ai trouvé mon bonheur, saisissez-vous du vôtre :</l>
+	<l id="1113">Je n'en suis point jaloux ; et ma triste amitié</l>
+	<l id="1114">Ne le verra jamais que d'un oeil de pitié.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1115">Que je serais heureux si je n'aimais un frère !</l>
+	<l id="1116">Lorsqu'il ne veut pas voir le mal qu'il se veut faire,</l>
+	<l id="1117">Mon amitié s'oppose à son aveuglement :</l>
+	<l id="1118">Elle agira pour vous, mon frère, également,</l>
+	<l id="1119">Et n'abusera point de cette violence</l>
+	<l id="1120">Que l'indignation fait à votre espérance.</l>
+	<l id="1121">La pesanteur du coup souvent nous étourdit :</l>
+	<l id="1122">On le croit repoussé quand il s'approfondit ;</l>
+	<l id="1123">Et quoi qu'un juste orgueil sur l'heure persuade,</l>
+	<l id="1124">Qui ne sent point son mal est d'autant plus malade :</l>
+	<l id="1125">Ces ombres de santé cachent mille poisons,</l>
+	<l id="1126">Et la mort suit de près ces fausses guérisons.</l>
+	<l id="1127">Daignent les justes dieux rendre vain ce présage !</l>
+	<l id="1128">Cependant allons voir si nous vaincrons l'orage,</l>
+	<l id="1129">Et si contre l'effort d'un si puissant courroux</l>
+	<l id="1130">La nature et l'amour voudront parler pour nous.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Antiochus, Rodogune.</head>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1131">Prince, qu'ai-je entendu ? Parce que je soupire,</l>
+	<l id="1132">Vous présumez que j'aime, et vous m'osez le dire !</l>
+	<l id="1133">Est-ce un frère, est-ce vous dont la témérité</l>
+	<l id="1134" part="i">S'imagine...</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1134" part="f">Apaisez ce courage irrité,</l>
+	<l id="1135">Princesse ; aucun de nous ne serait téméraire</l>
+	<l id="1136">Jusqu'à s'imaginer qu'il eût l'heur de vous plaire :</l>
+	<l id="1137">Je vois votre mérite et le peu que je vaux,</l>
+	<l id="1138">Et ce rival si cher connaît mieux ses défauts.</l>
+	<l id="1139">Mais si tantôt ce coeur parlait par votre bouche,</l>
+	<l id="1140">Il veut que nous croyions qu'un peu d'amour le touche,</l>
+	<l id="1141">Et qu'il daigne écouter quelques-uns de nos voeux,</l>
+	<l id="1142">Puisqu'il tient à bonheur d'être à l'un de nous deux.</l>
+	<l id="1143">Si c'est présomption de croire ce miracle,</l>
+	<l id="1144">C'est une impiété de douter de l'oracle,</l>
+	<l id="1145">Et mériter les maux où vous nous condamnez,</l>
+	<l id="1146">Qu'éteindre un bel espoir que vous nous ordonnez.</l>
+	<l id="1147">Princesse, au nom des dieux, au nom de cette flamme...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1148">Un mot ne fait pas voir jusques au fond d'une âme ;</l>
+	<l id="1149">Et votre espoir trop prompt prend trop de vanité</l>
+	<l id="1150">Des termes obligeants de ma civilité.</l>
+	<l id="1151">Je l'ai dit, il est vrai ; mais quoi qu'il en puisse être,</l>
+	<l id="1152">Méritez cet amour que vous voulez connaître.</l>
+	<l id="1153">Lorsque j'ai soupiré, ce n'était pas pour vous ;</l>
+	<l id="1154">J'ai donné ces soupirs aux mânes d'un époux ;</l>
+	<l id="1155">Et ce sont les effets du souvenir fidèle</l>
+	<l id="1156">Que sa mort à toute heure en mon âme rappelle.</l>
+	<l id="1157">Princes, soyez ses fils, et prenez son parti.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1158">Recevez donc son coeur en nous deux réparti ;</l>
+	<l id="1159">Ce coeur qu'un saint amour rangea sous votre empire,</l>
+	<l id="1160">Ce coeur pour qui le vôtre à tous moments soupire,</l>
+	<l id="1161">Ce coeur, en vous aimant indignement percé,</l>
+	<l id="1162">Reprend pour vous aimer le sang qu'il a versé ;</l>
+	<l id="1163">Il le reprend en nous, il revit, il vous aime,</l>
+	<l id="1164">Et montre, en vous aimant, qu'il est encore le même.</l>
+	<l id="1165">Ah ! Princesse, en l'état où le sort nous a mis,</l>
+	<l id="1166">Pouvons-nous mieux montrer que nous sommes ses fils ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1167">Si c'est son coeur en vous qui revit et qui m'aime,</l>
+	<l id="1168">Faites ce qu'il ferait s'il vivait en lui-même ;</l>
+	<l id="1169">À ce coeur qu'il vous laisse osez prêter un bras :</l>
+	<l id="1170">Pouvez-vous le porter et ne l'écouter pas ?</l>
+	<l id="1171">S'il vous explique mal ce qu'il en doit attendre,</l>
+	<l id="1172">Il emprunte ma voix pour se mieux faire entendre.</l>
+	<l id="1173">Une seconde fois il vous le dit par moi :</l>
+	<l id="1174" part="i">Prince, il faut le venger.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1174" part="f">J'accepte cette loi.</l>
+	<l id="1175" part="i">Nommez les assassins, et j'y cours.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1175" part="f">Quel mystère</l>
+	<l id="1176">Vous fait, en l'acceptant, méconnaître une mère ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1177">Ah ! Si vous ne voulez voir finir nos destins,</l>
+	<l id="1178">Nommez d'autres vengeurs ou d'autres assassins.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1179">Ah ! Je vois trop régner son parti dans votre âme :</l>
+	<l id="1180" part="i">Prince, vous le prenez.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1180" part="f">Oui, je le prends, madame ;</l>
+	<l id="1181">Et j'apporte à vos pieds le plus pur de son sang,</l>
+	<l id="1182">Que la nature enferme en ce malheureux flanc.</l>
+	<l id="1183">Satisfaites vous-mêmes à cette voix secrète</l>
+	<l id="1184">Dont la vôtre envers nous daigne être l'interprète :</l>
+	<l id="1185">Exécutez son ordre, et hâtez-vous sur moi</l>
+	<l id="1186">De punir une reine et de venger un roi ;</l>
+	<l id="1187">Mais quitte par ma mort d'un devoir si sévère,</l>
+	<l id="1188">écoutez-en un autre en faveur de mon frère.</l>
+	<l id="1189">De deux princes unis à soupirer pour vous</l>
+	<l id="1190">Prenez l'un pour victime et l'autre pour époux ;</l>
+	<l id="1191">Punissez un des fils des crimes de la mère,</l>
+	<l id="1192">Mais payez l'autre aussi des services du père,</l>
+	<l id="1193">Et laissez un exemple à la postérité</l>
+	<l id="1194">Et de rigueur entière et d'entière équité.</l>
+	<l id="1195">Quoi ? N'écouterez-vous ni l'amour ni la haine ?</l>
+	<l id="1196">Ne pourrai-je obtenir ni salaire ni peine ?</l>
+	<l id="1197">Ce coeur qui vous adore et que vous dédaignez...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1198" part="i">Hélas ! Prince.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1198" part="f">Est-ce encor le roi que vous plaignez ?</l>
+	<l id="1199">Ce soupir ne va-t-il que vers l'ombre d'un père ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1200">Allez, ou pour le moins rappelez votre frère :</l>
+	<l id="1201">Le combat pour mon âme était moins dangereux</l>
+	<l id="1202">Lorsque je vous avais à combattre tous deux :</l>
+	<l id="1203">Vous êtes plus fort seul que vous n'étiez ensemble ;</l>
+	<l id="1204">Je vous bravais tantôt, et maintenant je tremble.</l>
+	<l id="1205">J'aime ; n'abusez pas, prince, de mon secret :</l>
+	<l id="1206">Au milieu de ma haine il m'échappe à regret ;</l>
+	<l id="1207">Mais enfin il m'échappe, et cette retenue</l>
+	<l id="1208">Ne peut plus soutenir l'effort de votre vue :</l>
+	<l id="1209">Oui, j'aime un de vous deux malgré ce grand courroux,</l>
+	<l id="1210">Et ce dernier soupir dit assez que c'est vous.</l>
+	<l id="1211">Un rigoureux devoir à cet amour s'oppose :</l>
+	<l id="1212">Ne m'en accusez point, vous en êtes la cause ;</l>
+	<l id="1213">Vous l'avez fait renaître en me pressant d'un choix</l>
+	<l id="1214">Qui rompt de vos traités les favorables lois.</l>
+	<l id="1215">D'un père mort pour moi voyez le sort étrange :</l>
+	<l id="1216">Si vous me laissez libre, il faut que je le venge ;</l>
+	<l id="1217">Et mes feux dans mon âme ont beau s'en mutiner,</l>
+	<l id="1218">Ce n'est qu'à ce prix seul que je puis me donner ;</l>
+	<l id="1219">Mais ce n'est pas de vous qu'il faut que je l'attende ;</l>
+	<l id="1220">Votre refus est juste autant que ma demande :</l>
+	<l id="1221">À force de respect votre amour s'est trahi.</l>
+	<l id="1222">Je voudrais vous haïr s'il m'avait obéi ;</l>
+	<l id="1223">Et je n'estime pas l'honneur d'une vengeance</l>
+	<l id="1224">Jusqu'à vouloir d'un crime être la récompense.</l>
+	<l id="1225">Rentrons donc sous les lois que m'impose la paix,</l>
+	<l id="1226">Puisque m'en affranchir c'est vous perdre à jamais.</l>
+	<l id="1227">Prince, en votre faveur je ne puis davantage :</l>
+	<l id="1228">L'orgueil de ma naissance enfle encore mon courage,</l>
+	<l id="1229">Et quelque grand pouvoir que l'amour ait sur moi,</l>
+	<l id="1230">Je n'oublierai jamais que je me dois un roi.</l>
+	<l id="1231">Oui, malgré mon amour, j'attendrai d'une mère</l>
+	<l id="1232">Que le trône me donne ou vous ou votre frère.</l>
+	<l id="1233">Attendant son secret vous aurez mes désirs,</l>
+	<l id="1234">Et s'il le fait régner, vous aurez mes soupirs :</l>
+	<l id="1235">C'est tout ce qu'à mes feux ma gloire peut permettre,</l>
+	<l id="1236">Et tout ce qu'à vos feux les miens osent promettre.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1237">Que voudrais-je de plus ? Son bonheur est le mien.</l>
+	<l id="1238">Rendez heureux ce frère, et je ne perdrai rien :</l>
+	<l id="1239">L'amitié le consent, si l'amour l'appréhende ;</l>
+	<l id="1240">Je bénirai le ciel d'une perte si grande ;</l>
+	<l id="1241">Et quittant les douceurs de cet espoir flottant,</l>
+	<l id="1242">Je mourrai de douleur, mais je mourrai content.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1243">Et moi, si mon destin entre ses mains me livre,</l>
+	<l id="1244">Pour un autre que vous s'il m'ordonne de vivre,</l>
+	<l id="1245">Mon amour... Mais adieu : mon esprit se confond.</l>
+	<l id="1246">Prince, si votre flamme à la mienne répond,</l>
+	<l id="1247">Si vous n'êtes ingrat à ce coeur qui vous aime,</l>
+	<l id="1248">Ne me revoyez point qu'avec le diadème.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1249">Les plus doux de mes voeux enfin sont exaucés :</l>
+	<l id="1250">Tu viens de vaincre, amour ; mais ce n'est pas assez.</l>
+	<l id="1251">Si tu veux triompher en cette conjoncture,</l>
+	<l id="1252">Après avoir vaincu, fais vaincre la nature ;</l>
+	<l id="1253">Et prête-lui pour nous ces tendres sentiments</l>
+	<l id="1254">Que ton ardeur inspire aux coeurs des vrais amants,</l>
+	<l id="1255">Cette pitié qui force, et ces dignes faiblesses</l>
+	<l id="1256">Dont la vigueur détruit les fureurs vengeresses.</l>
+	<l id="1257">Voici la reine. Amour, nature, justes dieux,</l>
+	<l id="1258">Faites-la-moi fléchir ou mourir à ses yeux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Cléopâtre, Antiochus, Laonice.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1259">Eh bien ! Antiochus, vous dois-je la couronne ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1260">Madame, vous savez si le ciel me la donne.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1261">Vous savez mieux que moi si vous la méritez.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1262">Je sais que je péris si vous ne m'écoutez.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1263">Un peu trop lent peut-être à servir ma colère,</l>
+	<l id="1264">Vous vous êtes laissé prévenir par un frère ?</l>
+	<l id="1265">Il a su me venger quand vous délibériez,</l>
+	<l id="1266">Et je dois à son bras ce que vous espériez ?</l>
+	<l id="1267">Je vous en plains, mon fils, ce malheur est extrême :</l>
+	<l id="1268">C'est périr en effet que perdre un diadème.</l>
+	<l id="1269">Je n'y sais qu'un remède ; encore est-il fâcheux,</l>
+	<l id="1270">étonnant, incertain, et triste pour tous deux ;</l>
+	<l id="1271">Je périrai moi-même avant que de le dire ;</l>
+	<l id="1272">Mais enfin on perd tout quand on perd un empire.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1273">Le remède à nos maux est tout en votre main,</l>
+	<l id="1274">Et n'a rien de fâcheux, d'étonnant, d'incertain ;</l>
+	<l id="1275">Votre seule colère a fait notre infortune.</l>
+	<l id="1276">Nous perdons tout, madame, en perdant Rodogune :</l>
+	<l id="1277">Nous l'adorons tous deux ; jugez en quels tourments</l>
+	<l id="1278">Nous jette la rigueur de vos commandements.</l>
+	<l id="1279">L'aveu de cet amour sans doute vous offense ;</l>
+	<l id="1280">Mais enfin nos malheurs croissent par le silence,</l>
+	<l id="1281">Et votre coeur, qu'aveugle un peu d'inimitié,</l>
+	<l id="1282">S'il ignore nos maux, n'en peut prendre pitié :</l>
+	<l id="1283">Au point où je les vois, c'en est le seul remède.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1284">Quelle aveugle fureur vous-même vous possède ?</l>
+	<l id="1285">Avez-vous oublié que vous parlez à moi ?</l>
+	<l id="1286">Ou si vous présumez être déjà mon roi ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1287">Je tâche avec respect à vous faire connaître</l>
+	<l id="1288">Les forces d'un amour que vous avez fait naître.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1289">Moi, j'aurais allumé cet insolent amour ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1290">Et quel autre prétexte a fait notre retour ?</l>
+	<l id="1291">Nous avez-vous mandés qu'afin qu'un droit d'aînesse</l>
+	<l id="1292">Donnât à l'un de nous le trône et la princesse ?</l>
+	<l id="1293">Vous avez bien fait plus, vous nous l'avez fait voir,</l>
+	<l id="1294">Et c'était par vos mains nous mettre en son pouvoir.</l>
+	<l id="1295">Qui de nous deux, madame, eût osé s'en défendre,</l>
+	<l id="1296">Quand vous nous ordonniez à tous deux d'y prétendre ?</l>
+	<l id="1297">Si sa beauté dès lors n'eût allumé nos feux,</l>
+	<l id="1298">Le devoir auprès d'elle eût attaché nos voeux ;</l>
+	<l id="1299">Le désir de régner eût fait la même chose ;</l>
+	<l id="1300">Et dans l'ordre des lois que la paix nous impose,</l>
+	<l id="1301">Nous devions aspirer à sa possession</l>
+	<l id="1302">Par amour, par devoir, ou par ambition.</l>
+	<l id="1303">Nous avons donc aimé, nous avons cru vous plaire :</l>
+	<l id="1304">Chacun de nous n'a craint que le bonheur d'un frère ;</l>
+	<l id="1305">Et cette crainte enfin cédant à l'amitié,</l>
+	<l id="1306">J'implore pour tous deux un moment de pitié.</l>
+	<l id="1307">Avons-nous dû prévoir cette haine cachée,</l>
+	<l id="1308">Que la foi des traités n'avait point arrachée ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1309">Non ; mais vous avez dû garder le souvenir</l>
+	<l id="1310">Des hontes que pour vous j'avais su prévenir,</l>
+	<l id="1311">Et de l'indigne état où votre Rodogune,</l>
+	<l id="1312">Sans moi, sans mon courage, eût mis votre fortune.</l>
+	<l id="1313">Je croyais que vos coeurs, sensibles à ces coups,</l>
+	<l id="1314">En sauraient conserver un généreux courroux ;</l>
+	<l id="1315">Et je le retenais avec ma douceur feinte,</l>
+	<l id="1316">Afin que grossissant sous un peu de contrainte,</l>
+	<l id="1317">Ce torrent de colère et de ressentiment</l>
+	<l id="1318">Fût plus impétueux en son débordement.</l>
+	<l id="1319">Je fais plus maintenant : je presse, sollicite,</l>
+	<l id="1320">Je commande, menace, et rien ne vous irrite.</l>
+	<l id="1321">Le sceptre, dont ma main vous doit récompenser,</l>
+	<l id="1322">N'a point de quoi vous faire un moment balancer :</l>
+	<l id="1323">Vous ne considérez ni lui ni mon injure ;</l>
+	<l id="1324">L'amour étouffe en vous la voix de la nature :</l>
+	<l id="1325">Et je pourrais aimer des fils dénaturés !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1326">La nature et l'amour ont leurs droits séparés ;</l>
+	<l id="1327">L'un n'ôte point à l'autre une âme qu'il possède.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1328">Non, non, où l'amour règne il faut que l'autre cède.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1329">Leurs charmes à nos coeurs sont également doux.</l>
+	<l id="1330">Nous périrons tous deux s'il faut périr pour vous ;</l>
+	<l id="1331" part="i">Mais aussi...</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1331" part="f">Poursuivez, fils ingrat et rebelle.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1332">Nous périrons tous deux s'il faut périr pour elle.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1333">Périssez, périssez : votre rébellion</l>
+	<l id="1334">Mérite plus d'horreur que de compassion.</l>
+	<l id="1335">Mes yeux sauront le voir sans verser une larme,</l>
+	<l id="1336">Sans regarder en vous que l'objet qui vous charme ;</l>
+	<l id="1337">Et je triompherai, voyant périr mes fils,</l>
+	<l id="1338">De ses adorateurs et de mes ennemis.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1339">Eh bien ! Triomphez-en, que rien ne vous retienne :</l>
+	<l id="1340">Votre main tremble-t-elle ? Y voulez-vous la mienne ?</l>
+	<l id="1341">Madame, commandez, je suis prêt d'obéir :</l>
+	<l id="1342">Je percerai ce coeur qui vous ose trahir ;</l>
+	<l id="1343">Heureux si par ma mort je puis vous satisfaire,</l>
+	<l id="1344">Et noyer dans mon sang toute votre colère !</l>
+	<l id="1345">Mais si la dureté de votre aversion</l>
+	<l id="1346">Nomme encore notre amour une rébellion,</l>
+	<l id="1347">Du moins souvenez-vous qu'elle n'a pris pour armes</l>
+	<l id="1348">Que de faibles soupirs et d'impuissantes larmes.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1349">Ah ! Que n'a-t-elle pris et la flamme et le fer !</l>
+	<l id="1350">Que bien plus aisément j'en saurais triompher !</l>
+	<l id="1351">Vos larmes dans mon coeur ont trop d'intelligence ;</l>
+	<l id="1352">Elles ont presque éteint cette ardeur de vengeance.</l>
+	<l id="1353">Je ne puis refuser des soupirs à vos pleurs ;</l>
+	<l id="1354">Je sens que je suis mère auprès de vos douleurs.</l>
+	<l id="1355">C'en est fait, je me rends, et ma colère expire :</l>
+	<l id="1356">Rodogune est à vous aussi bien que l'empire.</l>
+	<l id="1357">Rendez grâces aux dieux qui vous ont fait l'aîné :</l>
+	<l id="1358" part="i">Possédez-la, régnez.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1358" part="f">Oh ! Moment fortuné !</l>
+	<l id="1359">Oh ! Trop heureuse fin de l'excès de ma peine !</l>
+	<l id="1360">Je rends grâces aux dieux qui calment votre haine ;</l>
+	<l id="1361" part="i">Madame, est-il possible ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1361" part="f">En vain j'ai résisté,</l>
+	<l id="1362">La nature est trop forte, et mon coeur s'est dompté.</l>
+	<l id="1363">Je ne vous dis plus rien, vous aimez votre mère,</l>
+	<l id="1364">Et votre amour pour moi taira ce qu'il faut taire.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1365">Quoi ? Je triomphe donc sur le point de périr !</l>
+	<l id="1366">La main qui me blessait a daigné me guérir !</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1367">Oui, je veux couronner une flamme si belle.</l>
+	<l id="1368">Allez à la princesse en porter la nouvelle ;</l>
+	<l id="1369">Son coeur, comme le vôtre, en deviendra charmé :</l>
+	<l id="1370">Vous n'aimeriez pas tant si vous n'étiez aimé.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1371">Heureux Antiochus ! Heureuse Rodogune !</l>
+	<l id="1372">Oui, madame, entre nous la joie en est commune.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1373">Allez donc ; ce qu'ici vous perdez de moments</l>
+	<l id="1374">Sont autant de larcins à vos contentements</l>
+	<l id="1375">Et ce soir, destiné pour la cérémonie,</l>
+	<l id="1376">Fera voir pleinement si ma haine est finie.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1377">Et nous vous ferons voir tous nos désirs bornés</l>
+	<l id="1378">À vous donner en nous des sujets couronnés.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Cléopâtre, Laonice.</head>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="1379">Enfin ce grand courage a vaincu sa colère.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1380">Que ne peut point un fils sur le coeur d'une mère ?</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="1381">Vos pleurs coulent encore, et ce coeur adouci...</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1382">Envoyez-moi son frère, et nous laissez ici.</l>
+	<l id="1383">Sa douleur sera grande, à ce que je présume ;</l>
+	<l id="1384">Mais j'en saurai sur l'heure adoucir l'amertume.</l>
+	<l id="1385">Ne lui témoignez rien : il lui sera plus doux</l>
+	<l id="1386">D'apprendre tout de moi, qu'il ne serait de vous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1387">Que tu pénètres mal le fond de mon courage !</l>
+	<l id="1388">Si je verse des pleurs, ce sont des pleurs de rage ;</l>
+	<l id="1389">Et ma haine, qu'en vain tu crois s'évanouir,</l>
+	<l id="1390">Ne les a fait couler qu'afin de t'éblouir.</l>
+	<l id="1391">Je ne veux plus que moi dedans ma confidence.</l>
+	<l id="1392">Et toi, crédule amant, que charme l'apparence,</l>
+	<l id="1393">Et dont l'esprit léger s'attache avidement</l>
+	<l id="1394">Aux attraits captieux de mon déguisement,</l>
+	<l id="1395">Va, triomphe en idée avec ta Rodogune,</l>
+	<l id="1396">Au sort des immortels préfère ta fortune,</l>
+	<l id="1397">Tandis que mieux instruite en l'art de me venger,</l>
+	<l id="1398">En de nouveaux malheurs je saurai te plonger.</l>
+	<l id="1399">Ce n'est pas tout d'un coup que tant d'orgueil trébuche :</l>
+	<l id="1400">De qui se rend trop tôt on doit craindre une embûche ;</l>
+	<l id="1401">Et c'est mal démêler le coeur d'avec le front,</l>
+	<l id="1402">Que prendre pour sincère un changement si prompt.</l>
+	<l id="1403">L'effet te fera voir comme je suis changée.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Cléopâtre, Séleucus.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1404">Savez-vous, Séleucus, que je me suis vengée ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1405" part="i">Pauvre princesse, hélas !</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1405" part="f">Vous déplorez son sort !</l>
+	<l id="1406" part="i">Quoi ? L'aimiez-vous ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1406" part="f">Assez pour regretter sa mort.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1407">Vous lui pouvez servir encore d'amant fidèle ;</l>
+	<l id="1408">Si j'ai su me venger, ce n'a pas été d'elle.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1409" part="i">Oh ciel ! Et de qui donc, madame ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1409" part="f">C'est de vous,</l>
+	<l id="1410">Ingrat, qui n'aspirez qu'à vous voir son époux ;</l>
+	<l id="1411">De vous, qui l'adorez en dépit d'une mère ;</l>
+	<l id="1412">De vous, qui dédaignez de servir ma colère ;</l>
+	<l id="1413">De vous, de qui l'amour, rebelle à mes désirs,</l>
+	<l id="1414">S'oppose à ma vengeance, et détruit mes plaisirs.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1415" part="i">De moi !</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1415" part="f">De toi, perfide ! Ignore, dissimule</l>
+	<l id="1416">Le mal que tu dois craindre et le feu qui te brûle ;</l>
+	<l id="1417">Et si pour l'ignorer tu crois t'en garantir,</l>
+	<l id="1418">Du moins en l'apprenant commence à le sentir.</l>
+	<l id="1419">Le trône était à toi par le droit de naissance ;</l>
+	<l id="1420">Rodogune avec lui tombait en ta puissance ;</l>
+	<l id="1421">Tu devais l'épouser, tu devais être roi !</l>
+	<l id="1422">Mais comme ce secret n'est connu que de moi,</l>
+	<l id="1423">Je puis, comme je veux, tourner le droit d'aînesse,</l>
+	<l id="1424">Et donne à ton rival ton sceptre et ta maîtresse.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1425" part="i">À mon frère ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1425" part="f">C'est lui que j'ai nommé l'aîné.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1426">Vous ne m'affligez point de l'avoir couronné ;</l>
+	<l id="1427">Et par une raison qui vous est inconnue,</l>
+	<l id="1428">Mes propres sentiments vous avaient prévenue :</l>
+	<l id="1429">Les biens que vous m'ôtez n'ont point d'attraits si doux</l>
+	<l id="1430">Que mon coeur n'ait donnés à ce frère avant vous ;</l>
+	<l id="1431">Et si vous bornez là toute votre vengeance,</l>
+	<l id="1432">Vos désirs et les miens seront d'intelligence.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1433">C'est ainsi qu'on déguise un violent dépit ;</l>
+	<l id="1434">C'est ainsi qu'une feinte au dehors l'assoupit,</l>
+	<l id="1435">Et qu'on croit amuser de fausses patiences</l>
+	<l id="1436">Ceux dont en l'âme on craint les justes défiances.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1437">Quoi ? Je conserverais quelque courroux secret !</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1438">Quoi ? Lâche, tu pourrais la perdre sans regret ?</l>
+	<l id="1439">Elle de qui les dieux te donnaient l'hyménée ?</l>
+	<l id="1440">Elle dont tu plaignais la perte imaginée ?</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1441">Considérer sa perte avec compassion,</l>
+	<l id="1442">Ce n'est pas aspirer à sa possession.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1443">Que la mort la ravisse, ou qu'un rival l'emporte,</l>
+	<l id="1444">La douleur d'un amant est également forte ;</l>
+	<l id="1445">Et tel qui se console après l'instant fatal,</l>
+	<l id="1446">Ne saurait voir son bien aux mains de son rival :</l>
+	<l id="1447">Piqué jusques au vif, il tâche à le reprendre ;</l>
+	<l id="1448">Il fait de l'insensible, afin de mieux surprendre ;</l>
+	<l id="1449">D'autant plus animé, que ce qu'il a perdu</l>
+	<l id="1450">Par rang ou par mérite à sa flamme était dû.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1451">Peut-être ; mais enfin par quel amour de mère</l>
+	<l id="1452">Pressez-vous tellement ma douleur contre un frère ?</l>
+	<l id="1453">Prenez-vous intérêt à la faire éclater ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1454">J'en prends à la connaître, et la faire avorter ;</l>
+	<l id="1455">J'en prends à conserver malgré toi mon ouvrage</l>
+	<l id="1456">Des jaloux attentats de ta secrète rage.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1457">Je le veux croire ainsi ; mais quel autre intérêt</l>
+	<l id="1458">Nous fait tous deux aînés quand et comme il vous plaît ?</l>
+	<l id="1459">Qui des deux vous doit croire, et par quelle justice</l>
+	<l id="1460">Faut-il que sur moi seul tombe tout le supplice,</l>
+	<l id="1461">Et que du même amour dont nous sommes blessés</l>
+	<l id="1462">Il soit récompensé, quand vous m'en punissez ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1463">Comme reine, à mon choix je fais justice ou grâce,</l>
+	<l id="1464">Et je m'étonne fort d'où vous vient cette audace,</l>
+	<l id="1465">D'où vient qu'un fils, vers moi noirci de trahison,</l>
+	<l id="1466">Ose de mes faveurs me demander raison.</l>
+</sp>
+<sp who="SELEUCUS"><speaker>SÉLEUCUS</speaker>
+	<l id="1467">Vous pardonnerez donc ces chaleurs indiscrètes :</l>
+	<l id="1468">Je ne suis point jaloux du bien que vous lui faites ;</l>
+	<l id="1469">Et je vois quel amour vous avez pour tous deux,</l>
+	<l id="1470">Plus que vous ne pensez et plus que je ne veux :</l>
+	<l id="1471">Le respect me défend d'en dire davantage.</l>
+	<l id="1472">Je n'ai ni faute d'yeux ni faute de courage,</l>
+	<l id="1473">Madame ; mais enfin n'espérez voir en moi</l>
+	<l id="1474">Qu'amitié pour mon frère, et zèle pour mon roi.</l>
+	<l id="1475" part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1475" part="f">De quel malheur suis-je encore capable ?</l>
+	<l id="1476">Leur amour m'offensait, leur amitié m'accable ;</l>
+	<l id="1477">Et contre mes fureurs je trouve en mes deux fils</l>
+	<l id="1478">Deux enfants révoltés et deux rivaux unis.</l>
+	<l id="1479">Quoi ? Sans émotion perdre trône et maîtresse !</l>
+	<l id="1480">Quel est ici ton charme, odieuse princesse ?</l>
+	<l id="1481">Et par quel privilège, allumant de tels feux,</l>
+	<l id="1482">Peux-tu n'en prendre qu'un et m'ôter tous les deux ?</l>
+	<l id="1483">N'espère pas pourtant triompher de ma haine :</l>
+	<l id="1484">Pour régner sur deux coeurs, tu n'es pas encore reine.</l>
+	<l id="1485">Je sais bien qu'en l'état où tous deux je les voi,</l>
+	<l id="1486">Il me les faut percer pour aller jusqu'à toi ;</l>
+	<l id="1487">Mais n'importe : mes mains sur le père enhardies</l>
+	<l id="1488">Pour un bras refusé sauront prendre deux vies ;</l>
+	<l id="1489">Leurs jours également sont pour moi dangereux :</l>
+	<l id="1490">J'ai commencé par lui, j'achèverai par eux.</l>
+	<l id="1491">Sors de mon coeur, nature, ou fais qu'ils m'obéissent :</l>
+	<l id="1492">Fais-les servir ma haine, ou consens qu'ils périssent.</l>
+	<l id="1493">Mais déjà l'un a vu que je les veux punir :</l>
+	<l id="1494">Souvent qui tarde trop se laisse prévenir.</l>
+	<l id="1495">Allons chercher le temps d'immoler mes victimes,</l>
+	<l id="1496">Et de me rendre heureuse à force de grands crimes.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1497">Enfin, grâces aux dieux, j'ai moins d'un ennemi :</l>
+	<l id="1498">La mort de Séleucus m'a vengée à demi.</l>
+	<l id="1499">Son ombre, en attendant Rodogune et son frère,</l>
+	<l id="1500">Peut déjà de ma part les promettre à son père :</l>
+	<l id="1501">Ils le suivront de près, et j'ai tout préparé</l>
+	<l id="1502">Pour réunir bientôt ce que j'ai séparé.</l>
+	<l id="1503">Ô toi, qui n'attends plus que la cérémonie</l>
+	<l id="1504">Pour jeter à mes pieds ma rivale punie,</l>
+	<l id="1505">Et par qui deux amants vont d'un seul coup du sort</l>
+	<l id="1506">Recevoir l'hyménée, et le trône, et la mort,</l>
+	<l id="1507">Poison, me sauras-tu rendre mon diadème ?</l>
+	<l id="1508">Le fer m'a bien servie, en feras-tu de même ?</l>
+	<l id="1509">Me seras-tu fidèle ? Et toi, que me veux-tu,</l>
+	<l id="1510">Ridicule retour d'une sotte vertu,</l>
+	<l id="1511">Tendresse dangereuse autant comme importune ?</l>
+	<l id="1512">Je ne veux point pour fils l'époux de Rodogune,</l>
+	<l id="1513">Et ne vois plus en lui les restes de mon sang,</l>
+	<l id="1514">S'il m'arrache du trône et la met en mon rang.</l>
+	<l id="1515">Reste du sang ingrat d'un époux infidèle,</l>
+	<l id="1516">Héritier d'une flamme envers moi criminelle,</l>
+	<l id="1517">Aime mon ennemie, et péris comme lui.</l>
+	<l id="1518">Pour la faire tomber j'abattrai son appui :</l>
+	<l id="1519">Aussi bien sous mes pas c'est creuser un abîme,</l>
+	<l id="1520">Que retenir ma main sur la moitié du crime ;</l>
+	<l id="1521">Et te faisant mon roi, c'est trop me négliger,</l>
+	<l id="1522">Que te laisser sur moi père et frère à venger.</l>
+	<l id="1523">Qui se venge à demi court lui-même à sa peine :</l>
+	<l id="1524">Il faut ou condamner ou couronner sa haine.</l>
+	<l id="1525">Dût le peuple en fureur pour ses maîtres nouveaux</l>
+	<l id="1526">De mon sang odieux arroser leurs tombeaux,</l>
+	<l id="1527">Dût le Parthe vengeur me trouver sans défense,</l>
+	<l id="1528">Dût le ciel égaler le supplice à l'offense,</l>
+	<l id="1529">Trône, à t'abandonner je ne puis consentir :</l>
+	<l id="1530">Par un coup de tonnerre il vaut mieux en sortir ;</l>
+	<l id="1531">Il vaut mieux mériter le sort le plus étrange.</l>
+	<l id="1532">Tombe sur moi le ciel, pourvu que je me venge !</l>
+	<l id="1533">J'en recevrai le coup d'un visage remis :</l>
+	<l id="1534">Il est doux de périr après ses ennemis ;</l>
+	<l id="1535">Et de quelque rigueur que le destin me traite,</l>
+	<l id="1536">Je perds moins à mourir qu'à vivre leur sujette.</l>
+	<l id="1537">Mais voici Laonice : il faut dissimuler</l>
+	<l id="1538">Ce que le seul effet doit bientôt révéler.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléopâtre, Laonice.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1539" part="i">Viennent-ils, nos amants ?</l>
+</sp>
+<sp who="LAONICE"><speaker>LAONICE</speaker>
+	<l id="1539" part="f">Ils approchent, madame :</l>
+	<l id="1540">On lit dessus leur front l'allégresse de l'âme ;</l>
+	<l id="1541">L'amour s'y fait paraître avec la majesté ;</l>
+	<l id="1542">Et suivant le vieil ordre en Syrie usité,</l>
+	<l id="1543">D'une grâce en tous deux toute auguste et royale</l>
+	<l id="1544">Ils viennent prendre ici la coupe nuptiale,</l>
+	<l id="1545">Pour s'en aller au temple, au sortir du palais,</l>
+	<l id="1546">Par les mains du grand prêtre être unis à jamais :</l>
+	<l id="1547">C'est là qu'il les attend pour bénir l'alliance.</l>
+	<l id="1548">Le peuple tout ravi par ses voeux le devance,</l>
+	<l id="1549">Et pour eux à grands cris demande aux immortels</l>
+	<l id="1550">Tout ce qu'on leur souhaite au pied de leurs autels,</l>
+	<l id="1551">Impatient pour eux que la cérémonie</l>
+	<l id="1552">Ne commence bientôt, ne soit bientôt finie.</l>
+	<l id="1553">Les Parthes à la foule aux Syriens mêlés,</l>
+	<l id="1554">Tous nos vieux différends de leur âme exilés,</l>
+	<l id="1555">Font leur suite assez grosse, et d'une voix commune</l>
+	<l id="1556">Bénissent à l'envi le prince et Rodogune.</l>
+	<l id="1557">Mais je les vois déjà, madame : c'est à vous</l>
+	<l id="1558">À commencer ici des spectacles si doux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Cléopâtre, Antiochus, Rodogune, Oronte, Laonice, troupe de Parthes et de Syriens.</head>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1559">Approchez, mes enfants, car l'amour maternelle,</l>
+	<l id="1560">Madame, dans mon coeur, vous tient déjà pour telle ;</l>
+	<l id="1561">Et je crois que ce nom ne vous déplaira pas.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1562">Je le chérirai même au delà du trépas.</l>
+	<l id="1563">Il m'est trop doux, madame ; et tout l'heur que j'espère,</l>
+	<l id="1564">C'est de vous obéir et respecter en mère.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1565">Aimez-moi seulement : vous allez être rois,</l>
+	<l id="1566">Et s'il faut du respect, c'est moi qui vous le dois.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1567">Ah ! Si nous recevons la suprême puissance,</l>
+	<l id="1568">Ce n'est pas pour sortir de votre obéissance :</l>
+	<l id="1569">Vous régnerez ici quand nous y régnerons,</l>
+	<l id="1570">Et ce seront vos lois que nous y donnerons.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1571">J'ose le croire ainsi ; mais prenez votre place :</l>
+	<l id="1572">Il est temps d'avancer ce qu'il faut que je fasse.</l>
+<stage>ici Antiochus s'assied dans un fauteuil, Rodogune à sa gauche, en même rang, et Cléopâtre à sa droite, mais en rang inférieur, et qui marque quelque inégalité. Oronte s'assied aussi à la gauche de Rodogune, avec la même différence ; et Cléopâtre, cependant qu'ils prennent leurs prennent, parle à l'oreille de Léonice, qui s'en va quérir une coupe pleine de vin empoisonné. Après qu'elle est partie, Cléopâtre continue.</stage>
+	<l id="1573">Peuple qui m'écoutez, Parthes et Syriens,</l>
+	<l id="1574">Sujets du roi son frère, ou qui fûtes les miens,</l>
+	<l id="1575">Voici de mes deux fils celui qu'un droit d'aînesse</l>
+	<l id="1576">élève dans le trône, et donne à la princesse.</l>
+	<l id="1577">Je lui rends cet état que j'ai sauvé pour lui :</l>
+	<l id="1578">Je cesse de régner, il commence aujourd'hui.</l>
+	<l id="1579">Qu'on ne me traite plus ici de souveraine :</l>
+	<l id="1580">Voici votre roi, peuple, et voilà votre reine.</l>
+	<l id="1581">Vivez pour les servir, respectez-les tous deux,</l>
+	<l id="1582">Aimez-les, et mourez, s'il est besoin, pour eux.</l>
+	<l id="1583">Oronte, vous voyez avec quelle franchise</l>
+	<l id="1584">Je leur rends ce pouvoir dont je me suis démise :</l>
+	<l id="1585">Prêtez les yeux au reste, et voyez les effets</l>
+	<l id="1586">Suivre de point en point les traités de la paix.</l>
+<stage>Léonice revient avec une coupe à la main.</stage>
+</sp>
+<sp who="ORONTE"><speaker>ORONTE</speaker>
+	<l id="1587">Votre sincérité s'y fait assez paraître,</l>
+	<l id="1588">Madame, et j'en ferai récit au roi mon maître.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1589">L'hymen est maintenant notre plus cher souci.</l>
+	<l id="1590">L'usage veut, mon fils, qu'on le commence ici :</l>
+	<l id="1591">Recevez de ma main la coupe nuptiale,</l>
+	<l id="1592">Pour être après unis sous la foi conjugale ;</l>
+	<l id="1593">Puisse-t-elle être un gage, envers votre moitié,</l>
+	<l id="1594">De votre amour ensemble et de mon amitié !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS, prenant la coupe.</speaker>
+	<l id="1595">Ciel ! Que ne dois-je point aux bontés d'une mère ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1596">Le temps presse, et votre heur d'autant plus se diffère.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1597">Madame, hâtons donc ces glorieux moments :</l>
+	<l id="1598">Voici l'heureux essai de nos contentements.</l>
+	<l id="1599">Mais si mon frère était le témoin de ma joie...</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1600">C'est être trop cruel de vouloir qu'il la voie :</l>
+	<l id="1601">Ce sont des déplaisirs qu'il fait bien d'épargner ;</l>
+	<l id="1602">Et sa douleur secrète a droit de l'éloigner.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1603">Il m'avait assuré qu'il la verrait sans peine.</l>
+	<l id="1604" part="i">Mais n'importe, achevons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Cléopâtre, Antiochus, Rodogune, Oronte, Timagène, Léonice, troupe.</head>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1604" part="I">Ah ! Seigneur.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1604" part="f">Timagène,</l>
+	<l id="1605" part="i">Quelle est votre insolence ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1605" part="m">Ah ! Madame.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1605" part="f">Parlez.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1606">Souffrez pour un moment que mes sens rappelés...</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1607" part="i">Qu'est-il donc arrivé ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1607" part="f">Le prince votre frère...</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1608">Quoi ? Se voudrait-il rendre à mon bonheur contraire ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1609">L'ayant cherché longtemps afin de divertir</l>
+	<l id="1610">L'ennui que de sa perte il pouvait ressentir,</l>
+	<l id="1611">Je l'ai trouvé, seigneur, au bout de cette allée,</l>
+	<l id="1612">Où la clarté du ciel semble toujours voilée.</l>
+	<l id="1613">Sur un lit de gazon, de faiblesse étendu,</l>
+	<l id="1614">Il semblait déplorer ce qu'il avait perdu :</l>
+	<l id="1615">Son âme à ce penser paraissait attachée ;</l>
+	<l id="1616">Sa tête sur un bras languissamment penchée,</l>
+	<l id="1617">Immobile et rêveur, en malheureux amant...</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1618">Enfin, que faisait-il ? Achevez promptement.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1619">D'une profonde plaie en l'estomac ouverte,</l>
+	<l id="1620">Son sang à gros bouillons sur cette couche verte...</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1621" part="i">Il est mort ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1621" part="m">Oui, madame.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1621" part="f">Ah ! Destins ennemis,</l>
+	<l id="1622">Qui m'enviez le bien que je m'étais promis,</l>
+	<l id="1623">Voilà le coup fatal que je craignais dans l'âme,</l>
+	<l id="1624">Voilà le désespoir où l'a réduit sa flamme.</l>
+	<l id="1625">Pour vivre en vous perdant il avait trop d'amour,</l>
+	<l id="1626">Madame, et de sa main il s'est privé du jour.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE, à Cléopâtre.</speaker>
+	<l id="1627">Madame, il a parlé : sa main est innocente.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE, à Timagène.</speaker>
+	<l id="1628">La tienne est donc coupable, et ta rage insolente,</l>
+	<l id="1629">Par une lâcheté qu'on ne peut égaler,</l>
+	<l id="1630">L'ayant assassiné, le fait encore parler !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1631">Timagène, souffrez la douleur d'une mère,</l>
+	<l id="1632">Et les premiers soupçons d'une aveugle colère.</l>
+	<l id="1633">Comme ce coup fatal n'a point d'autres témoins,</l>
+	<l id="1634">J'en ferais autant qu'elle, à vous connaître moins.</l>
+	<l id="1635">Mais que vous a-t-il dit ? Achevez, je vous prie.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1636">Surpris d'un tel spectacle, à l'instant je m'écrie ;</l>
+	<l id="1637">Et soudain à mes cris, ce prince, en soupirant,</l>
+	<l id="1638">Avec assez de peine entrouvre un oeil mourant ;</l>
+	<l id="1639">Et ce reste égaré de lumière incertaine</l>
+	<l id="1640">Lui peignant son cher frère au lieu de Timagène,</l>
+	<l id="1641">Rempli de votre idée, il m'adresse pour vous</l>
+	<l id="1642">Ces mots où l'amitié règne sur le courroux :</l>
+	<l id="1643">"Une main qui nous fut bien chère</l>
+	<l id="1644">Venge ainsi le refus d'un coup trop inhumain.</l>
+	<l id="1645">Régnez ; et surtout, mon cher frère,</l>
+	<l id="1646">Gardez-vous de la même main.</l>
+	<l id="1647">C'est... " la Parque à ce mot lui coupe la parole ;</l>
+	<l id="1648">Sa lumière s'éteint, et son âme s'envole ;</l>
+	<l id="1649">Et moi, tout effrayé d'un si tragique sort,</l>
+	<l id="1650">J'accours pour vous en faire un funeste rapport.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1651">Rapport vraiment funeste, et sort vraiment tragique,</l>
+	<l id="1652">Qui va changer en pleurs l'allégresse publique.</l>
+	<l id="1653">Ô frère, plus aimé que la clarté du jour,</l>
+	<l id="1654">Ô rival, aussi cher que m'était mon amour,</l>
+	<l id="1655">Je te perds, et je trouve en ma douleur extrême</l>
+	<l id="1656">Un malheur dans ta mort plus grand que ta mort même.</l>
+	<l id="1657">Oh ! De ses derniers mots fatale obscurité !</l>
+	<l id="1658">En quel gouffre d'horreurs m'as-tu précipité ?</l>
+	<l id="1659">Quand j'y pense chercher la main qui l'assassine,</l>
+	<l id="1660">Je m'impute à forfait tout ce que j'imagine ;</l>
+	<l id="1661">Mais aux marques enfin que tu m'en viens donner,</l>
+	<l id="1662">Fatale obscurité, qui dois-je en soupçonner ?</l>
+	<l id="1663"> « Une main qui nous fut bien chère ! » </l>
+	<l id="1664">Madame, est-ce la vôtre, ou celle de ma mère ?</l>
+	<l id="1665">Vous vouliez toutes deux un coup trop inhumain ;</l>
+	<l id="1666">Nous vous avons tous deux refusé notre main :</l>
+	<l id="1667">Qui de vous s'est vengée ? Est-ce l'une, est-ce l'autre</l>
+	<l id="1668">Qui fait agir la sienne au refus de la nôtre ?</l>
+	<l id="1669">Est-ce vous qu'en coupable il me faut regarder ?</l>
+	<l id="1670">Est-ce vous désormais dont je me dois garder ?</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1671" part="i">Quoi ? Vous me soupçonnez ?</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1671" part="f">Quoi ? Je vous suis suspecte ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1672">Je suis amant et fils, je vous aime et respecte ;</l>
+	<l id="1673">Mais quoi que sur mon coeur puissent des noms si doux,</l>
+	<l id="1674">À ces marques enfin je ne connais que vous.</l>
+	<l id="1675">As-tu bien entendu ? Dis-tu vrai, Timagène ?</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1676">Avant qu'en soupçonner la princesse ou la reine,</l>
+	<l id="1677">Je mourrais mille fois ; mais enfin mon récit</l>
+	<l id="1678">Contient, sans rien de plus, ce que le prince a dit.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1679">D'un et d'autre côté l'action est si noire,</l>
+	<l id="1680">Que n'en pouvant douter, je n'ose encor la croire.</l>
+	<l id="1681">Ô quiconque des deux avez versé son sang,</l>
+	<l id="1682">Ne vous préparez plus à me percer le flanc !</l>
+	<l id="1683">Nous avons mal servi vos haines mutuelles,</l>
+	<l id="1684">Aux jours l'une de l'autre également cruelles ;</l>
+	<l id="1685">Mais si j'ai refusé ce détestable emploi,</l>
+	<l id="1686">Je veux bien vous servir toutes deux contre moi :</l>
+	<l id="1687">Qui que vous soyez donc, recevez une vie</l>
+	<l id="1688">Que déjà vos fureurs m'ont à demi ravie.</l>
+<stage>Il tire son épée, et veut se tuer.</stage>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1689" part="i">Ah ! Seigneur, arrêtez.</l>
+</sp>
+<sp who="TIMAGENE"><speaker>TIMAGÈNE</speaker>
+	<l id="1689" part="f">Seigneur, que faites-vous ?</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1690">Je sers ou l'une ou l'autre, et je préviens ses coups.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1691" part="i">Vivez, régnez heureux.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1691" part="f">Ôtez-moi donc de doute,</l>
+	<l id="1692">Et montrez-moi la main qu'il faut que je redoute,</l>
+	<l id="1693">Qui pour m'assassiner ose me secourir,</l>
+	<l id="1694">Et me sauve de moi pour me faire périr.</l>
+	<l id="1695">Puis-je vivre et traîner cette gêne éternelle,</l>
+	<l id="1696">Confondre l'innocente avec la criminelle,</l>
+	<l id="1697">Vivre et ne pouvoir plus vous voir sans m'alarmer,</l>
+	<l id="1698">Vous craindre toutes deux, toutes deux vous aimer ?</l>
+	<l id="1699">Vivre avec ce tourment, c'est mourir à toute heure.</l>
+	<l id="1700">Tirez-moi de ce trouble, ou souffrez que je meure,</l>
+	<l id="1701">Et que mon déplaisir, par un coup généreux,</l>
+	<l id="1702">épargne un parricide à l'une de vous deux.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1703">Puisque le même jour que ma main vous couronne</l>
+	<l id="1704">Je perds un de mes fils, et l'autre me soupçonne ;</l>
+	<l id="1705">Qu'au milieu de mes pleurs, qu'il devrait essuyer,</l>
+	<l id="1706">Son peu d'amour me force à me justifier ;</l>
+	<l id="1707">Si vous n'en pouvez mieux consoler une mère</l>
+	<l id="1708">Qu'en la traitant d'égal avec une étrangère,</l>
+	<l id="1709">Je vous dirai, seigneur (car ce n'est plus à moi</l>
+	<l id="1710">À nommer autrement et mon juge et mon roi),</l>
+	<l id="1711">Que vous voyez l'effet de cette vieille haine</l>
+	<l id="1712">Qu'en dépit de la paix me garde l'inhumaine,</l>
+	<l id="1713">Qu'en son coeur du passé soutient le souvenir,</l>
+	<l id="1714">Et que j'avais raison de vouloir prévenir.</l>
+	<l id="1715">Elle a soif de mon sang, elle a voulu l'épandre :</l>
+<stage>À Rodogune.</stage>
+	<l id="1716">J'ai prévu d'assez loin ce que j'en viens d'apprendre ;</l>
+	<l id="1717">Mais je vous ai laissé désarmer mon courroux.</l>
+	<l id="1718">Sur la foi de ses pleurs je n'ai rien craint de vous,</l>
+	<l id="1719">Madame ; mais, ô dieux ! Quelle rage est la vôtre !</l>
+	<l id="1720">Quand je vous donne un fils, vous assassinez l'autre,</l>
+	<l id="1721">Et m'enviez soudain l'unique et faible appui</l>
+	<l id="1722">Qu'une mère opprimée eût pu trouver en lui !</l>
+	<l id="1723">Quand vous m'accablerez, où sera mon refuge ?</l>
+	<l id="1724">Si je m'en plains au roi, vous possédez mon juge ;</l>
+	<l id="1725">Et s'il m'ose écouter, peut-être, hélas ! En vain</l>
+	<l id="1726">Il voudra se garder de cette même main.</l>
+	<l id="1727">Enfin je suis leur mère, et vous leur ennemie ;</l>
+	<l id="1728">J'ai recherché leur gloire, et vous leur infamie ;</l>
+	<l id="1729">Et si je n'eusse aimé ces fils que vous m'ôtez,</l>
+	<l id="1730">Votre abord en ces lieux les eût déshérités.</l>
+	<l id="1731">C'est à lui maintenant, en cette concurrence,</l>
+	<l id="1732">À régler ses soupçons sur cette différence,</l>
+	<l id="1733">À voir de qui des deux il doit se défier,</l>
+	<l id="1734">Si vous n'avez un charme à vous justifier.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1735">Je me défendrai mal : l'innocence étonnée</l>
+	<l id="1736">Ne peut s'imaginer qu'elle soit soupçonnée ;</l>
+	<l id="1737">Et n'ayant rien prévu d'un attentat si grand,</l>
+	<l id="1738">Qui l'en veut accuser sans peine la surprend.</l>
+	<l id="1739">Je ne m'étonne point de voir que votre haine</l>
+	<l id="1740">Pour me faire coupable a quitté Timagène.</l>
+	<l id="1741">Au moindre jour ouvert de tout jeter sur moi,</l>
+	<l id="1742">Son récit s'est trouvé digne de votre foi.</l>
+	<l id="1743">Vous l'accusiez pourtant, quand votre âme alarmée</l>
+	<l id="1744">Craignait qu'en expirant ce fils vous eût nommée ;</l>
+	<l id="1745">Mais de ses derniers mots voyant le sens douteux,</l>
+	<l id="1746">Vous avez pris soudain le crime entre nous deux.</l>
+	<l id="1747">Certes, si vous voulez passer pour véritable</l>
+	<l id="1748">Que l'une de nous deux de sa mort soit coupable,</l>
+	<l id="1749">Je veux bien par respect ne vous imputer rien ;</l>
+	<l id="1750">Mais votre bras au crime est plus fait que le mien ;</l>
+	<l id="1751">Et qui sur un époux fit son apprentissage</l>
+	<l id="1752">A bien pu sur un fils achever son ouvrage.</l>
+	<l id="1753">Je ne dénierai point, puisque vous les savez,</l>
+	<l id="1754">De justes sentiments dans mon âme élevés :</l>
+	<l id="1755">Vous demandiez mon sang ; j'ai demandé le vôtre :</l>
+	<l id="1756">Le roi sait quels motifs ont poussé l'une et l'autre ;</l>
+	<l id="1757">Comme par sa prudence il a tout adouci,</l>
+	<l id="1758">Il vous connaît peut-être, et me connaît aussi.</l>
+<stage>À Antiochus.</stage>
+	<l id="1759">Seigneur, c'est un moyen de vous être bien chère</l>
+	<l id="1760">Que pour don nuptial vous immoler un frère :</l>
+	<l id="1761">On fait plus ; on m'impute un coup si plein d'horreur,</l>
+	<l id="1762">Pour me faire un passage à vous percer le coeur.</l>
+<stage>À Cléopâtre.</stage>
+	<l id="1763">Où fuirais-je de vous après tant de furie,</l>
+	<l id="1764">Madame, et que ferait toute votre Syrie,</l>
+	<l id="1765">Où seule, et sans appui contre mes attentats,</l>
+	<l id="1766">Je verrais... ? Mais, seigneur, vous ne m'écoutez pas.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1767">Non, je n'écoute rien ; et dans la mort d'un frère</l>
+	<l id="1768">Je ne veux point juger entre vous et ma mère :</l>
+	<l id="1769">Assassinez un fils, massacrez un époux,</l>
+	<l id="1770">Je ne veux me garder ni d'elle, ni de vous.</l>
+	<l id="1771">Suivons aveuglément ma triste destinée ;</l>
+	<l id="1772">Pour m'exposer à tout achevons l'hyménée.</l>
+	<l id="1773">Cher frère, c'est pour moi le chemin du trépas :</l>
+	<l id="1774">La main qui t'a percé ne m'épargnera pas ;</l>
+	<l id="1775">Je cherche à te rejoindre, et non à m'en défendre,</l>
+	<l id="1776">Et lui veux bien donner tout lieu de me surprendre :</l>
+	<l id="1777">Heureux si sa fureur, qui me prive de toi,</l>
+	<l id="1778">Se fait bientôt connaître en achevant sur moi,</l>
+	<l id="1779">Et si du ciel, trop lent à la réduire en poudre,</l>
+	<l id="1780">Son crime redoublé peut arracher la foudre !</l>
+	<l id="1781" part="i">Donnez-moi...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE, l'empêchant de prendre la coupe.</speaker>
+	<l id="1781" part="m">Quoi ? Seigneur.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1781" part="f">Vous m'arrêtez en vain :</l>
+	<l id="1782" part="i">Donnez.</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1782" part="f">Ah ! Gardez-vous de l'une et l'autre main.</l>
+	<l id="1783">Cette coupe est suspecte, elle vient de la reine ;</l>
+	<l id="1784">Craignez de toutes deux quelque secrète haine.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1785">Qui m'épargnait tantôt ose enfin m'accuser !</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1786">De toutes deux, madame, il doit tout refuser.</l>
+	<l id="1787">Je n'accuse personne, et vous tiens innocente ;</l>
+	<l id="1788">Mais il en faut sur l'heure une preuve évidente :</l>
+	<l id="1789">Je veux bien à mon tour subir les mêmes lois.</l>
+	<l id="1790">On ne peut craindre trop pour le salut des rois.</l>
+	<l id="1791">Donnez donc cette preuve ; et pour toute réplique,</l>
+	<l id="1792">Faites faire un essai par quelque domestique.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE, prenant le coupe.</speaker>
+	<l id="1793">Je le ferai moi-même. Eh bien ! Redoutez-vous</l>
+	<l id="1794">Quelque sinistre effet encore de mon courroux ?</l>
+	<l id="1795">J'ai souffert cet outrage avec patience.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS, prenant le coupe des mains de Cléopâtre, après qu'elle a bu.</speaker>
+	<l id="1796">Pardonnez-lui, madame, un peu de défiance :</l>
+	<l id="1797">Comme vous l'accusez, elle fait son effort</l>
+	<l id="1798">À rejeter sur vous l'horreur de cette mort ;</l>
+	<l id="1799">Et soit amour pour moi, soit adresse pour elle,</l>
+	<l id="1800">Ce soin la fait paraître un peu moins criminelle.</l>
+	<l id="1801">Pour moi, qui ne vois rien, dans le trouble où je suis,</l>
+	<l id="1802">Qu'un gouffre de malheurs, qu'un abîme d'ennuis,</l>
+	<l id="1803">Attendant qu'en plein jour ces vérités paraissent,</l>
+	<l id="1804">J'en laisse la vengeance aux dieux qui les connaissent,</l>
+	<l id="1805" part="i">Et vais sans plus tarder...</l>
+</sp>
+<sp who="RODOGUNE"><speaker>RODOGUNE</speaker>
+	<l id="1805" part="f">Seigneur, voyez ses yeux</l>
+	<l id="1806">Déjà tous égarés, troubles et furieux,</l>
+	<l id="1807">Cette affreuse sueur qui court sur son visage,</l>
+	<l id="1808">Cette gorge qui s'enfle. Ah, bons dieux ! Quelle rage !</l>
+	<l id="1809">Pour vous perdre après elle, elle a voulu périr.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS, rendant le coupe à Laonice ou à quelque autre.</speaker>
+	<l id="1810">N'importe : elle est ma mère, il faut la secourir.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1811">Va, tu me veux en vain rappeler à la vie ;</l>
+	<l id="1812">Ma haine est trop fidèle, et m'a trop bien servie :</l>
+	<l id="1813">Elle a paru trop tôt pour te perdre avec moi ;</l>
+	<l id="1814">C'est le seul déplaisir qu'en mourant je reçois ;</l>
+	<l id="1815">Mais j'ai cette douceur dedans cette disgrâce</l>
+	<l id="1816">De ne voir point régner ma rivale en ma place.</l>
+	<l id="1817">Règne : de crime en crime enfin te voilà roi.</l>
+	<l id="1818">Je t'ai défait d'un père, et d'un frère, et de moi :</l>
+	<l id="1819">Puisse le ciel tous deux vous prendre pour victimes,</l>
+	<l id="1820">Et laisser choir sur vous les peines de mes crimes !</l>
+	<l id="1821">Puissiez-vous ne trouver dedans votre union</l>
+	<l id="1822">Qu'horreur, que jalousie, et que confusion !</l>
+	<l id="1823">Et pour vous souhaiter tous les malheurs ensemble,</l>
+	<l id="1824">Puisse naître de vous un fils qui me ressemble !</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1825">Ah ! Vivez pour changer cette haine en amour.</l>
+</sp>
+<sp who="CLÉOPÂTRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1826">Je maudirais les dieux s'ils me rendaient le jour.</l>
+	<l id="1827">Qu'on m'emporte d'ici : je me meurs, Laonice.</l>
+	<l id="1828">Si tu veux m'obliger par un dernier service,</l>
+	<l id="1829">Après les vains efforts de mes inimitiés,</l>
+	<l id="1830">Sauve-moi de l'affront de tomber à leurs pieds.</l>
+<stage>Elle s'en va, et Laonice lui aide à marcher.</stage>
+</sp>
+<sp who="ORONTE"><speaker>ORONTE</speaker>
+	<l id="1831">Dans les justes rigueurs d'un sort si déplorable,</l>
+	<l id="1832">Seigneur, le juste ciel vous est bien favorable :</l>
+	<l id="1833">Il vous a préservé, sur le point de périr,</l>
+	<l id="1834">Du danger le plus grand que vous pussiez courir ;</l>
+	<l id="1835">Et par un digne effet de ses faveurs puissantes,</l>
+	<l id="1836">La coupable est punie et vos mains innocentes.</l>
+</sp>
+<sp who="ANTIOCHUS"><speaker>ANTIOCHUS</speaker>
+	<l id="1837">Oronte, je ne sais, dans son funeste sort,</l>
+	<l id="1838">Qui m'afflige le plus, ou sa vie, ou sa mort ;</l>
+	<l id="1839">L'une et l'autre a pour moi des malheurs sans exemple :</l>
+	<l id="1840">Plaignez mon infortune. Et vous, allez au temple</l>
+	<l id="1841">Y changer l'allégresse en un deuil sans pareil,</l>
+	<l id="1842">La pompe nuptiale en funèbre appareil ;</l>
+	<l id="1843">Et nous verrons après, par d'autres sacrifices,</l>
+	<l id="1844">Si les dieux voudront être à nos voeux plus propices.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

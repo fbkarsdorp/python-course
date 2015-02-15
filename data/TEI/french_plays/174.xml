@@ -1,0 +1,3530 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES ILLUSTRES ENNEMIS, COMÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1657</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE, Août 2008</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs espagnoles</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1651-1660</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES ILLUSTRES ENNEMIS</titlePart>
+			<titlePart type="sub">COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1657">M. DC. LVII. AVEC PRIVILEGE DU ROY.</docDate>
+		<docAuthor id="CORNEILLE, Thomas" bio='corneillet'>par Monsieur Thomas Corneille</docAuthor>
+	<docImprint>
+		<privilege>
+			<head>Extrait du Privilège du Roy.</head>
+			<p>Par grâce et Privilège du Roy, donné à Paris le 3 Avril 1656, il est permis à Guillaume de Luyne Marchand Libraire à Paris, d'imprimer une pièce de Théâtre, de la composition du Sieur Corneille, intitulée Les Illustres Ennemis : et défenses sont faites à tous autres de l'imprimer, vendre, ni débiter d'autre impression que celle dudit Exposant, à peine de deux mil livres d'amende, confiscation des exemplaires, et de tous dépens, dommages et intérêts, comme il est plus amplement porté par lesdites Lettres. Et ledit de Luyne a associé audit privilège Augustin Courbé Marchand Libraire à Paris, pour en jouir suivant l'accord fait entre eux.</p>
+			<p>Les Exemplaires ont été fournis.</p>
+			<p>Registré sur le Livre de la Communauté le 15 Avril 1656, suivant l'arrêt du Parlement du 9 Avril 1653.</p>
+		</privilege>
+
+		<acheveImprime id="1656-11-30">Achevé d'imprimer le 30 Novembre 1656, à Rouen, par LAURENS MAURRY.</acheveImprime>
+		<printer id="Maurry, Courbé">Imprimé à ROUEN, par L. MAURRY, Pour AUGUSTIN COURBE Marchand Libraire, à PARIS,  au Palais, dans la petite Salle des Merciers, à la Palme.</printer>
+	</docImprint>
+<dedicace>
+<adresse>À MADAME LA COMTESSE DE FIESQUE.</adresse>
+<head>MADAME,</head>
+<p>L'approbation dont il vous a plu vous montrer si libérale envers ce poème, m'est trop glorieuse pour la tenir plus longtemps secrète, et j'ose rendre public le remerciement que je vous en dois, afin d'apprendre au public que vous me l'avez donnée. Ainsi je satisfais tout ensemble mon devoir et ma vanité, et je souhaiterais pouvoir faire connaître à toute la terre combien je vous suis redevable, afin que toute la terre connut combien vous m'avez estimé. Cet effet de l'amour propre ne vous surprendra pas, vous savez trop qu'il est naturel à tous ceux qui se mêlent d'écrire, je tâche à me purger du reste de leurs défauts, mais je ne saurais me défendre de celui-ci, ni m'empêcher de vous dire que j'ai toujours dans l'esprit les douces idées de l'heureuse représentation de cet ouvrage qui fut faite il y a quelque temps en votre présence, que je revois à tous moments cette obligeante attention que vous lui prêtâtes, et que je prends plaisir sans cesse à me souvenir des applaudissements dont vous daignâtes l'honorer, et des témoignages avantageux que vous lui rendîtes. Après cela, MADAME, je ne puis que je n'aie quelque bonne opinion de moi-même ; y résister opiniâtrement, ce serait vous accuser d'injustice, et c'est ce que toute la France n'oserait faire, puis qu'il est certain que votre suffrage y sert de règle à celui des plus honnêtes gens de la Cour, que c'est trouver le bel art de leur plaire que de vous avoir plu, et que l'envie n'ayant osé jusqu'ici vous disputer le privilège de prononcer souverainement sur les plus belles choses, la moindre répugnance à s'attacher au jugement que vous en faites, passe auprès d'eux pour une marque infaillible d'une connaissance mal éclairée.</p>
+<p>Celui que vous avez rendu depuis peu en ma faveur, a sans doute été au de-là de mes plus flatteuses espérances ; et toutefois, MADAME, il faut que j'avoue qu'il ne suffit point à cette insatiable soif de gloire où vous m'avez enhardi. Ce n'est pas que je n'envoie ces ILLUSTRES ENNEMIS vous faire hommage jusques dans votre cabinet, qu'afin qu'ils reçoivent de vous à la lecture, ce qu'ils en ont déjà reçu durant le récit. Je n'ose douter que je n'obtienne aisément cette demande, puisque c'est vous demander seulement que vous soyez toujours vous-même. Je dois savoir que le faux éclat de la représentation n'a point encore eu le pouvoir de vous éblouir, et que comme parmi toute sa pompe, les véritables défauts de nos plus brillantes productions n'échappent jamais aux lumières pénétrantes de votre discernement, leurs véritables beautés ne perdent rien auprès de vous pour être dénuées de ce dehors fastueux dont les revêtent nos théâtres. Je ne parle point de tant d'autres belles qualités, qu'il semble que le Ciel se soit plu assembler en votre personne, il me suffit d'en admirer la merveilleuse union, et d'être assuré que l'on imputera plutôt mon silence à mon respect, qu'à la crainte de me faire soupçonner de ces déguisements artificieux, qui pour élever trop haut ceux que l'on entreprend de louer, les font souvent perdre de vue, et qui les cachent si bien sous les apparences trompeuses de quelques vertus empruntées, qu'il est presque impossible de les reconnaître. Ce genre de flatterie, dont la plus vaste ambition se laisse quelquefois chatouiller, n'aura jamais de part aux éloges que vous avez droit de prétendre ; pour rien appréhender de ses industrieux mensonges, vous donnez matière à trop de glorieuses vérités, et il sera toujours plus difficile d'exprimer parfaitement tout ce que vous êtes, que de faire paraître avec adresse ce que les autres ne sont pas. Aussi, MADAME, n'ai-je pas la témérité de m'engager à une entreprise où les plus délicates plumes auraient peine à réussir, elle vous serait trop injurieuse, et je croirais me rendre peu digne de la protection dont je prends la liberté de vous importuner pour ce poème que je vous présente. Vous avez toujours témoigné tant de bonté pour moi, que j'ose me promettre que vous ne la lui refuserez pas, et que vous souffrirez qu'en vous présentant, je prenne l'occasion de vous rendre de très humbles grâces, non seulement pour les faveurs que vous lui avez prodiguées, mais pour celles que vous avez répandues sur ceux de ma façon qui l'ont précédé. Comme les sentiments d'estime que vous en avez laissé paraître en ont fait tout le succès, il y aurait de l'ingratitude à ne pas confesser que je vous en dois toute la gloire, et que l'ambitieuse ardeur de les mériter a plus contribué à donner de nouvelles forces à mon faible génie, que n'auraient fait les soins assidus de l'étude la plus sérieuse. Cette obligation que je vous ai, me paraît trop pressante pour différer davantage l'aveu public que je vous en fais.</p>
+<p>Daignez l'agréer pour reconnaissance d'une partie de ce que je tiens de vous ; et puisque je ne suis pas assez considérable pour oser espérer de m'en pouvoir acquitter entièrement par mes services, soyez assez généreuse pour vous contenter de la respectueuse protestation que je fais d'être toute ma vie,</p>
+<p>Madame, Votre très humble et très obéissant serviteur,</p>
+<signature>T. CORNEILLE.</signature>
+</dedicace>
+		<performance>
+			<premiere date="1655" location='Hôtel de Bourgogne'>Représenté pour la première fois en 1655 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="DOM-LOPE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DOM LOPE de Guzman</role>, amant de Jacinte.</castItem>
+			<castItem><role id="ENRIQUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ENRIQUE</role>, frère de Dom Lope.</castItem>
+			<castItem><role id="ALONSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ALONSE DE ROXAS</role>, ami de Dom Lope et d'Enrique.</castItem>
+			<castItem><role id="DOM SANCHE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM SANCHE</role>, père de Dom Alvar et de Jacinte.</castItem>
+			<castItem><role id="DOM ALVAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DOM ALVAR</role>, amant de Cassandre.</castItem>
+			<castItem><role id="DOM RAMIRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM RAMIRE</role>, ami de Dom Sanche.</castItem>
+			<castItem><role id="DOM LOUIS" civil='M' type="H" statut='prévôt' age='A' stat_amour='néant'>DOM LOUIS</role>, Prévost.</castItem>
+			<castItem><role id="CASSANDRE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CASSANDRE</role>, soeur de Dom Lope.</castItem>
+			<castItem><role id="JACINTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>JACINTE</role>, fille de Dom Sanche.</castItem>
+			<castItem><role id="BLANCHE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>BLANCHE</role>, suivante de Jacinte.</castItem>
+			<castItem><role id="FLORE" civil='F' type="H" statut='suivante' age='A' stat_amour='néant'>FLORE</role>, suivante de Cassandre.</castItem>
+	</castList>
+	<set location='Madrid' country='Espagne' periode='XVIIème' link=''>La scène est à Madrid.</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Alonse, Enrique.</head>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1'>Quoi, sans aucun respect, pour un léger outrage</l>
+	<l id='2'>Accabler d'infamie un homme de son âge,</l>
+	<l id='3'>Et démentant par là le sang dont vous sortez,</l>
+	<l id='4'>L'avoir fait maltraiter par des gens apostez !</l>
+	<l id='5'>Quel fruit espérez-vous de cette violence ?</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='6'>Quoi ! J'aurais plus longtemps souffert son insolence,</l>
+	<l id='7'>Et qu'au sang des Guzmans on osât reprocher</l>
+	<l id='8'>Qu'un murmure honteux n'aurait pu les toucher !</l>
+	<l id='9'>Il publie en tous lieux, ce Vieillard téméraire,</l>
+	<l id='10'>Que l'artifice seul nous acquiert un beau-frère,</l>
+	<l id='11'>Que l'hymen de Fernand est un hymen contraint,</l>
+	<l id='12'>Qu'il n'épouse ma soeur que parce qu'il nous craint,</l>
+	<l id='13'>Et qu'avec tant de bien il est hors d'apparence</l>
+	<l id='14'>Qu'un tel choix eût enfin borné son espérance.</l>
+	<l id='15'>Le Ciel ne souffre point de noeuds mal assortis,</l>
+	<l id='16'>Et s'il pouvait prétendre aux plus riches partis,</l>
+	<l id='17'>Au moins de notre sang la gloire est peu commune,</l>
+	<l id='18'>Et vaut bien aujourd'hui la plus haute fortune.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='19'>Si la chose est ainsi, j'avouerai qu'il eut tort,</l>
+	<l id='20'>Mais on vous aura fait peut-être un faux rapport,</l>
+	<l id='21'>Et de vos sens fougueux croire le fier tumulte...</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='22'>Dans ces occasions le lâche seul consulte,</l>
+	<l id='23'>Reculer sa vengeance, est trahir son honneur,</l>
+	<l id='24'>Et le plus prompt remède est toujours le meilleur.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='25'>Mais souvent à leur gré les violents courages,</l>
+	<l id='26'>Pour se croire un peu trop, se forment des outrages,</l>
+	<l id='27'>En vain la raison parle, ils ne l'écoutent plus,</l>
+	<l id='28'>Et vengent des affronts qu'ils n'ont jamais reçus.</l>
+	<l id='29'>Enfin d'un vain discours dont votre honneur s'offense,</l>
+	<l id='30'>Au moins Dom Lope eut dû partager la vengeance,</l>
+	<l id='31' part='i'>Mais au déçu d'un frère...</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='31' part='f'>Ah ! Ne me blâmez point,</l>
+	<l id='32'>Je sais que son honneur à mon honneur est joint,</l>
+	<l id='33'>Mais quel que soit l'affront qu'en reçoit sa famille,</l>
+	<l id='34'>Pour se venger du père, il aime trop la fille,</l>
+	<l id='35'>Et quand de cet amour j'aurais lieu de douter,</l>
+	<l id='36'>Quoi qu'il me plaise faire, ai-je à l'en consulter ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='37'>Vous emporter ainsi dans ce qui l'intéresse,</l>
+	<l id='38'>C'est avec trop d'empire user du droit d'aînesse,</l>
+	<l id='39'>Jacinte est fille unique, et l'éclat de ses biens</l>
+	<l id='40'>Pour arrêter un coeur a de puissants liens,</l>
+	<l id='41'>Deviez-vous ruiner sa plus douce espérance ?</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='42'>Elle est basse, elle est vaine, et c'est dont je m'offense.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='43'>Si le nom de Guzman marque un illustre sang,</l>
+	<l id='44'>Dom Sanche est estimé, Dom Sanche a quelque rang,</l>
+	<l id='45'>Et sans se faire tort, sans trahir sa famille,</l>
+	<l id='46'>Dom Lope aux yeux de tous peut épouser sa fille.</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='47'>Quoi, les Lares déjà, les Mendoces confus,</l>
+	<l id='48'>De ce Vieillard avare ont souffert des refus,</l>
+	<l id='49'>Et Dom Lope cédant à l'ardeur qui le dompte,</l>
+	<l id='50'>Osera s'exposer à cette même honte ?</l>
+	<l id='51'>Non, j'imagine encor un moyen plus certain</l>
+	<l id='52'>D'empêcher un amour aussi lâche que vain.</l>
+	<l id='53'>Un de ceux dont l'audace a servi ma colère</l>
+	<l id='54'>S'ira dire à Dom Sanche employé par mon frère,</l>
+	<l id='55'>Afin que par lui seul se croyant affronté,</l>
+	<l id='56'>Il détruise un espoir trop longtemps écouté.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='57' part='i'>Mais il aime sa fille ?</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='57' part='f'>Oui, je sais qu'il l'adore,</l>
+	<l id='58'>Mais je l'ai déjà dit, et vous le dis encore,</l>
+	<l id='59'>À quoi que cet amour pût enfin l'obliger</l>
+	<l id='60'>Ce sera le servir que de l'en dégager.</l>
+	<l id='61'>Un refus en serait l'indigne récompense.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='62'>Pesez mieux un dessein d'une telle importance,</l>
+	<l id='63'>Car comment s'assurer sur ces lâches esprits</l>
+	<l id='64'>Qui mettent et leur vie et leur honneur à prix ?</l>
+	<l id='65'>Leur commerce honteux, quoi que vous veuillez croire,</l>
+	<l id='66'>Déjà d'un noir reproche a souillé votre gloire,</l>
+	<l id='67'>Et vos emportements qu'on leur oyt approuver,</l>
+	<l id='68'>Me font craindre pour vous ce qui peut arriver.</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='69'>Et moi, quoi qu'on murmure et quoi qu'il en puisse être,</l>
+	<l id='70'>Seul de mes actions je veux être le maître,</l>
+	<l id='71'>Mais puisque leur appui vous semble hasardeux,</l>
+	<l id='72'>Faites ici pour moi ce que j'obtiendrais d'eux.</l>
+	<l id='73'>Dom Sanche vous estime, il vous croit, et j'espère...</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='74'>Que me proposez-vous ? Moi, trahir votre frère ?</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='75'>Ce murmure insolent au mépris des Guzmans</l>
+	<l id='76'>De ce Vieillard pour lui fait voir les sentiments,</l>
+	<l id='77'>Et quoi que son amour ait pu lui faire croire,</l>
+	<l id='78'>Le rendre sans espoir, c'est assurer sa gloire.</l>
+	<l id='79'>Enfin vous le pouvez, c'est par vous que j'attends</l>
+	<l id='80'>L'infaillible succès de ce que je prétends,</l>
+	<l id='81'>Et si votre amitié s'obstine à s'en défendre,</l>
+	<l id='82'>D'autres que vous peut-être oseront l'entreprendre.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='83'>Non, j'ai pu balancer, mais puisque je connais</l>
+	<l id='84'>Qu'à Dom Lope par là je signale ma foi,</l>
+	<l id='85'>Pour abuser Dom Sanche employer l'artifice,</l>
+	<l id='86'>N'est pas, à mon avis, une grande injustice.</l>
+	<l id='87'>C'est ici qu'il demeure, et je vais de ce pas</l>
+	<l id='88'>Lui tendre un piège adroit qu'il n'évitera pas,</l>
+	<l id='89'>Adieu, laissez-moi seul, je vois sa porte ouverte.</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='90'>Allez, ne perdons point l'occasion offerte,</l>
+	<l id='91'>Rendez suspect mon frère, et s'il en est besoin</l>
+	<l id='92'>Faites-moi de l'outrage et complice et témoin.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE, seul.</speaker>
+	<l id='93'>Oui, lâche et faux ami, j'accuserai ton frère,</l>
+	<l id='94'>Mais plus pour le servir, que pour te satisfaire,</l>
+	<l id='95'>Et tu verras bientôt par quel heureux détour</l>
+	<l id='96'>Sur tes propres conseils j'appuierai son amour.</l>
+	<l id='97'>Feignant de t'applaudir, j'empêcherai peut-être...</l>
+	<l id='98' part='i'>Mais je vois Blanche.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Alonse, Blanche.</head>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='98' part='f'>Et bien, Blanche, que fait ton maître ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='99'>Vous l'eussiez rencontré quelques moments plutôt,</l>
+	<l id='100' part='i'>Tout à l'heure...</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='100' part='f'>Il suffit, je le verrai tantôt.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Jacinte, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='101' part='i'>Qui parlait avec vous, Blanche ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='101' part='f'>Pour quelque affaire</l>
+	<l id='102'>Alonse de Roxas demandait votre père.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='103'>Je ne m'étonne point qu'en cette occasion</l>
+	<l id='104'>Ses amis prennent part à sa confusion,</l>
+	<l id='105'>Alonse, dont chacun estime le courage,</l>
+	<l id='106'>Venait s'offrir sans doute à venger son outrage,</l>
+	<l id='107'>Et contre un ennemi dont le coeur est si bas...</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='108' part='i'>Madame, vous pleurez ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='108' part='f'>Qui ne pleurerait pas ?</l>
+	<l id='109'>Souffre à mon déplaisir dans d'inutiles larmes</l>
+	<l id='110'>La funeste douceur de chercher quelques charmes,</l>
+	<l id='111'>Et qu'au défaut du sang qu'exigent nos malheurs,</l>
+	<l id='112'>À mes tristes ennuis mes yeux donnent des pleurs.</l>
+	<l id='113'>Mais si je pleure, hélas ! C'est le désavantage</l>
+	<l id='114'>Que reçoit en naissant notre sexe en partage.</l>
+	<l id='115'>Il semble qu'en effet la nature en courroux,</l>
+	<l id='116'>Mère par tout ailleurs, est marâtre pour nous,</l>
+	<l id='117'>Les plus riches présents que nous obtenions d'elle,</l>
+	<l id='118'>Sont de faibles appuis sur qui l'honneur chancelle,</l>
+	<l id='119'>On flatte nos beautés, nous croyons ce qu'on dit,</l>
+	<l id='120'>Et notre front alors n'est pas seul qui rougit,</l>
+	<l id='121'>Nous en voyons la preuve, et tous les jours infâme</l>
+	<l id='122'>Un père par sa fille, un mari par sa femme.</l>
+	<l id='123'>Défaut honteux pour nous, pour eux injurieux !</l>
+	<l id='124'>L'honneur de tous les biens est le plus précieux,</l>
+	<l id='125'>Et par un vieil abus difficile à comprendre,</l>
+	<l id='126'>Nous le pouvons ôter, et ne saurions le rendre.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='127'>Tout le monde vous plaint, et blâme hautement</l>
+	<l id='128'>D'un ennemi caché le vil ressentiment,</l>
+	<l id='129'>On en parle par tout ; mais je vois qu'on ignore,</l>
+	<l id='130'>Par ces gens apostez, quel bras vous déshonore,</l>
+	<l id='131'>On en cherche l'auteur, sans le pouvoir trouver.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='132'>Et c'est moi-même à quoi je ne fais que rêver ;</l>
+	<l id='133'>Mais quoi que sur ce point mon esprit se figure,</l>
+	<l id='134'>Il dément aussitôt  sa propre conjecture ;</l>
+	<l id='135'>Non qu'il ne soit trop vrai que mon père en ces lieux,</l>
+	<l id='136'>S'il n'a des ennemis, a beaucoup d'envieux.</l>
+	<l id='137'>Ce grand amas de biens qui regarde sa fille</l>
+	<l id='138'>Dont un oncle en mourant enrichit sa famille...</l>
+	<l id='139'>Hélas ! Ce souvenir réveille mes douleurs,</l>
+	<l id='140'>Au sort de Dom Alvar donnons ici des pleurs.</l>
+	<l id='141'>Aux Indes vers cet oncle allant faire voyage,</l>
+	<l id='142'>Ce frère infortuné périt par un naufrage,</l>
+	<l id='143'>Et ces riches trésors à lui seul destinez</l>
+	<l id='144'>Soudain à mon espoir furent abandonnez.</l>
+	<l id='145'>Incommodes faveurs d'une fortune ingrate</l>
+	<l id='146'>Qui m'est le plus contraire alors qu'elle me flatte,</l>
+	<l id='147'>Et m'élevant trop haut s'oppose au plus beau feu</l>
+	<l id='148'>Dont la vertu jamais autorisa l'aveu !</l>
+	<l id='149'>Tu sais, Blanche, tu sais si Dom Lope en fut digne.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='150'>Ainsi que son amour son respect est insigne,</l>
+	<l id='151'>Et certes vous devez d'autant plus l'estimer,</l>
+	<l id='152'>Qu'avant tant de fortune il daigna vous aimer,</l>
+	<l id='153'>Que votre vertu seule est ce qui sut lui plaire.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='154'>Hélas, cette raison l'est-elle pour un père</l>
+	<l id='155'>Qui de ces nouveaux biens goûtant l'indigne appas,</l>
+	<l id='156'>Ne voit presque pour moi que des partis trop bas ?</l>
+	<l id='157'>Ainsi d'un noble sang quel que soit l'avantage,</l>
+	<l id='158'>Lui proposant Dom Lope on lui ferait outrage.</l>
+	<l id='159'>D'un amour si secret ne t'étonne donc plus,</l>
+	<l id='160'>Il tâche à s'épargner la honte d'un refus,</l>
+	<l id='161'>Et son feu que soutient un rayon d'espérance,</l>
+	<l id='162'>Attendant tout du temps se contraint au silence,</l>
+	<l id='163'>Mais cessons d'y penser ; aussi bien aujourd'hui</l>
+	<l id='164'>Mon coeur, ce triste coeur n'est plus digne de lui,</l>
+	<l id='165'>Pour m'aimer dans la honte il aime trop la gloire,</l>
+	<l id='166'>Et l'affront... Mais que vois-je ! Ô Dieux ! Le puis-je croire ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Dom Lope, Jacinte, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='167'>Quoi Dom Lope, est-ce vous dont l'abord indiscret,</l>
+	<l id='168'>D'un amour si caché vient rompre le secret ?</l>
+	<l id='169'>Entrer ainsi chez moi sans crainte de mon père !</l>
+	<l id='170'>Sont-ce là ces serments d'aimer et de se taire ?</l>
+	<l id='171'>Sont-ce là ces respects ? Est-ce là cette foi ?</l>
+	<l id='172'>Enfin Dom Lope, enfin est-ce vous que je vois ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='173'>Oui, Madame, et chez vous si j'ose ainsi paraître,</l>
+	<l id='174'>Ne me soupçonnez point d'être parjure ou traître.</l>
+	<l id='175'>Toujours ce grand mérite est l'objet de mes feux,</l>
+	<l id='176'>Toujours mêmes respects accompagnent mes voeux,</l>
+	<l id='177'>Et s'il m'était permis lors que j'ai tout à craindre...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='178'>Parlez, parlez, Dom Lope, et sans plus vous contraindre,</l>
+	<l id='179'>Aussi bien ces respects sont pour moi superflus,</l>
+	<l id='180'>Et qui n'a plus d'honneur ne les mérite plus.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='181'>Je vous entends, Madame, et le sort qui m'accable</l>
+	<l id='182'>Cherche dans vos malheurs à me rendre coupable,</l>
+	<l id='183'>Un vif ressentiment vous fait déjà penser,</l>
+	<l id='184'>Que qui sait votre honte aurait dû l'effacer,</l>
+	<l id='185'>Et ce n'est pas pour plaire à votre âme affligée</l>
+	<l id='186'>Que m'offrir à vos yeux sans vous avoir vengée.</l>
+	<l id='187'>Mais sur un bruit confus qui m'apprend vos ennuis,</l>
+	<l id='188'>Jugez ce que j'ai pu, jugez ce que je puis,</l>
+	<l id='189'>Car enfin si ce bruit, si ce confus murmure</l>
+	<l id='190'>M'eut appris l'ennemi comme il a fait l'injure,</l>
+	<l id='191'>Son trépas ou le mien vous eut déjà fait voir</l>
+	<l id='192'>Que Dom Lope vous aime et qu'il sait son devoir.</l>
+	<l id='193'>Mais ne pouvant d'ailleurs en tirer de lumière,</l>
+	<l id='194'>C'est, Madame, de vous que j'attends grâce entière,</l>
+	<l id='195'>Et qu'acceptant mon bras pour finir vos malheurs,</l>
+	<l id='196'>Vous m'apprendrez quel sang doit essuyer vos pleurs.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='197'>Et ne voyez-vous pas qu'en une telle offense</l>
+	<l id='198'>Vous feriez peu pour nous d'en prendre la vengeance,</l>
+	<l id='199'>Et qu'oser s'y servir d'un secours étranger,</l>
+	<l id='200'>C'est en punir l'auteur et non pas se venger.</l>
+	<l id='201'>Ce sang de l'offenseur qu'un tel affront demande</l>
+	<l id='202'>Il faut que l'offensé lui-même le répande,</l>
+	<l id='203'>Que le sien tout émeu d'un spectacle si doux</l>
+	<l id='204'>En le voyant couler bouillonne de courroux,</l>
+	<l id='205'>Et qu'un tel mouvement dans sa source agitée,</l>
+	<l id='206'>Purge l'indignité qu'il avait contractée.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='207' part='i'>Mais quand l'âge s'oppose...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='207' part='f'>Ah, cessez d'y songer,</l>
+	<l id='208'>Pour venger une injure il faut la partager,</l>
+	<l id='209'>Et l'on voit rarement qu'un vieillard qu'on affronte</l>
+	<l id='210'>Sur un autre qu'un fils puisse épandre sa honte.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='211'>Comme un fils la partage, un fils peut l'effacer ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='212'>Sans doute qu'il le peut, mais que sert s'y penser,</l>
+	<l id='213' part='i'>Dom Alvar n'étant plus...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='213' part='f'>Ah ! Permettez de grâce</l>
+	<l id='214'>Que de ce frère mort j'aille tenir la place,</l>
+	<l id='215'>Et que m'offrant pour fils à Dom Sanche outragé,</l>
+	<l id='216'>Je tâche à rendre ainsi son malheur partagé.</l>
+	<l id='217'>Il demande du sang, et brûlant d'en répandre</l>
+	<l id='218'>J'en acquerrai le droit si je deviens son gendre,</l>
+	<l id='219'>Et le mien par l'hymen dans le sien confondu</l>
+	<l id='220'>Devra celui d'un lâche à son honneur perdu.</l>
+	<l id='221'>Voila ce que pour vous l'amour me porte à faire,</l>
+	<l id='222'>Et si jusques ici ma flamme a dû se taire,</l>
+	<l id='223'>Je crains peu qu'un refus fasse rougir mon front</l>
+	<l id='224'>Quand je lui veux pour dot demander son affront.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='225'>Si de ces sentiments votre âme est prévenue,</l>
+	<l id='226'>Apprenez qu'en m'aimant vous m'avez mal connue,</l>
+	<l id='227'>Et que je porte un coeur assez fier, assez haut,</l>
+	<l id='228'>Pour se dérober même à l'ombre d'un défaut.</l>
+	<l id='229'>Je vous aime, il est vrai, mais l'auriez vous pu croire,</l>
+	<l id='230'>Sans croire en même temps que j'aime votre gloire,</l>
+	<l id='231'>Et que de son éclat je suis jalouse au point</l>
+	<l id='232'>De vivre sans bonheur pour n'en triompher point.</l>
+	<l id='233'>Ne vous flattez donc plus d'une vaine espérance</l>
+	<l id='234'>Qui blesse votre honneur, dont ma vertu s'offense.</l>
+	<l id='235'>Si j'eusse hier estimé le bonheur d'être à vous,</l>
+	<l id='236'>Je vous dois aujourd'hui refuser pour époux,</l>
+	<l id='237'>Et ne pas m'exposer à ce reproche infâme,</l>
+	<l id='238'>Que le manque d'honneur me rendit votre femme.</l>
+	<l id='239'>Non, aucun n'aura droit de publier un jour</l>
+	<l id='240'>Que Dom Lope à ce prix acheta mon amour,</l>
+	<l id='241'>Que bien qu'elle fut due à son mérite insigne</l>
+	<l id='242'>Je ne pus être à lui que quand j'en fus indigne,</l>
+	<l id='243'>Et qu'enfin il fallut pour mériter sa foi</l>
+	<l id='244'>Qu'il trouvât quelque chose à suppléer en moi.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='245'>Quoi, vous refuseriez un coeur qui vous adore ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='246'>Quoi, je pourrais souffrir ce qui me déshonore ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='247'>J'assure votre honneur, et c'est là vous aimer.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='248'>Je conserve le vôtre, et c'est vous estimer.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='249'>Hélas ! Que cette estime est contraire à ma flamme !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='250'>Accusez-en le Ciel sans m'en donner le blâme.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='251'>Que vous secondez bien sa funeste rigueur !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='252'>Assez mal, et sans doute aux dépens de mon coeur,</l>
+	<l id='253'>Mais ma raison s'égare, et ce coeur trop sincère...</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='254' part='i'>Madame.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='254' part='f'>Qu'est-ce Blanche ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='255' part='i'>Alonse et votre père...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='255' part='f'>Entrons ici de grâce, et surtout gardez bien</l>
+	<l id='256'>Que de cette entrevue on ne soupçonne rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Sanche, Alonse.</head>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='257'>Quel funeste conseil vous voulez que j'embrasse !</l>
+	<l id='258'>Consentir qu'il me voit, et qu'il me satisfasse !</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='259'>Mais enfin cent raisons vous y doivent porter,</l>
+	<l id='260'>Que servirait encor de vous les répéter ?</l>
+	<l id='261'>Outre que son pouvoir égale sa noblesse...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='262'>Endurer qu'il triomphe ainsi de ma faiblesse !</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='263'>Je vous l'ai déjà dit, il est au désespoir</l>
+	<l id='264'>Que par de faux rapports on l'ait pu décevoir.</l>
+	<l id='265'>D'une indigne vengeance il dût prévoir l'issue,</l>
+	<l id='266'>Il dût moins s'emporter, mais l'offense est reçue.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='267' part='i'>Et de grâce, son nom ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='267' part='f'>Quand vous m'aurez promis</l>
+	<l id='268'>D'accepter un accord qui vous doit rendre amis.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='269'>Quoi, mon lâche ennemi lors même qu'il s'accuse</l>
+	<l id='270'>En serait quitte ainsi pour quelque vaine excuse,</l>
+	<l id='271'>Et tant que je vivrai l'on verrait sur mon front,</l>
+	<l id='272'>Les traits mal effacez d'un si sanglant affront ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='273'>Donc s'il pouvait s'offrir une voie assez prompte</l>
+	<l id='274'>Par où de votre injure il partageât la honte,</l>
+	<l id='275'>Et qu'attirant sur lui l'affront qu'il vous a fait,</l>
+	<l id='276'>De cette violence il démentit l'effet ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='277'>Comment la démentir, si loin de s'en défendre...</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='278'>Ne le pourrait-il pas se faisant votre gendre ?</l>
+	<l id='279'>Lors avec votre honneur dans le sien intéressé,</l>
+	<l id='280'>Confondant l'offenseur avecque l'offensé,</l>
+	<l id='281'>L'hymen ayant uni son sang avec le vôtre,</l>
+	<l id='282'>La pureté de l'un rendrait l'éclat à l'autre,</l>
+	<l id='283'>Puisqu'on ne vit jamais dans un même sujet</l>
+	<l id='284'>Subsister d'un affront et l'auteur et l'objet.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='285'>Ah ! Si par cette voie un sang impur se change,</l>
+	<l id='286'>Il vaut bien mieux choisir un gendre qui me venge.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='287'>Ne pouvant le choisir que sous de rudes lois,</l>
+	<l id='288'>À moins que de descendre, êtes vous sûr du choix ?</l>
+	<l id='289'>D'ailleurs cet ennemi que vous voulez connaître,</l>
+	<l id='290'>Est d'un rang qu'on respecte et qu'on craindra peut-être,</l>
+	<l id='291'>Et ce rang dans la Cour lui donne un tel appui,</l>
+	<l id='292'>Que peu voudront pour vous s'engager contre lui.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='293'>Quoi donc, c'est seulement en lui donnant ma fille</l>
+	<l id='294'>Que je puis rétablir l'honneur de ma famille ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='295'>Y croyez-vous trouver un remède plus doux ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='296'>Il est mon ennemi, j'en ferais son époux !</l>
+	<l id='297'>Ce remède est pour moi pire que le mal même.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='298'>Il le faut violent quand le mal est extrême.</l>
+	<l id='299'>Mais enfin résolvez, si je n'obtiens ce point,</l>
+	<l id='300'>Son nom est un secret que vous ne saurez point.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='301'>À quelle indignité me voulez-vous contraindre ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='302'>Je sais ce que je fais, cessez de vous en plaindre.</l>
+	<l id='303'>Mais ne m'en croyez pas, et d'un esprit remis</l>
+	<l id='304'>Allez sur cet accord consulter vos amis.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='305'>Je veux que leur aveu réponde à votre attente ;</l>
+	<l id='306'>Mais qui m'assurera que ma fille y consente,</l>
+	<l id='307'>Que son esprit soumis cède sans résister ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Sanche, Alonse, Jacinte.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='308'>Moi-même, puisqu'enfin vous en pouvez douter.</l>
+	<l id='309'>Si du Ciel en naissant je reçus quelque outrage,</l>
+	<l id='310'>Au dessus de mon sexe il m'enfla le courage,</l>
+	<l id='311'>Et ce doit être un charme à mes tristes ennuis</l>
+	<l id='312'>De vous venger du moins autant que je le puis.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='313'>Quoi, sans connaître à qui cet hymen te destine...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='314'>Ah ! Jugez mieux d'une âme où la vertu domine.</l>
+	<l id='315'>M'informez de son nom ce serait balancer</l>
+	<l id='316'>Sur ce grand sacrifice où je dois me forcer,</l>
+	<l id='317'>Ce serait à mon coeur par cette connaissance,</l>
+	<l id='318'>Mendier lâchement un peu de complaisance</l>
+	<l id='319'>Et souffrir qu'on doutât si m'aimant plus que vous</l>
+	<l id='320'>Je satisfais un père, ou choisis un époux ;</l>
+	<l id='321'>Non non, et quel qu'il soit, je n'en suis point en peine,</l>
+	<l id='322'>Je ne puis voir en lui que l'objet de ma haine,</l>
+	<l id='323'>Et de tous les tourments le plus affreux pour moi,</l>
+	<l id='324'>C'est sans doute celui de recevoir sa foi,</l>
+	<l id='325'>Mais vous devant le jour et le sang qui m'anime,</l>
+	<l id='326'>Je dois à votre honneur une grande victime,</l>
+	<l id='327'>Et crois ne pouvoir mieux en rétablir le cours</l>
+	<l id='328'>Qu'en lui sacrifiant le bonheur de mes jours.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='329'>C'est trop, et je m'oppose à ce devoir sévère</l>
+	<l id='330'>Qui n'arrête tes yeux que sur l'affront d'un père,</l>
+	<l id='331'>Vois ce gouffre de maux où tu veux t'exposer,</l>
+	<l id='332'>Soupire en le voyant, et crains de trop oser.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='333'>Je vois tout ce que j'ose, et ma vertu se fâche</l>
+	<l id='334'>Qu'en moi vous soupçonniez rien de bas ni de lâche,</l>
+	<l id='335'>L'ardeur de vous venger remplit trop mes désirs,</l>
+	<l id='336'>Pour abaisser mon âme à de honteux soupirs.</l>
+	<l id='337'>Si mon sexe aujourd'hui m'avait permis les armes,</l>
+	<l id='338'>Vous auriez vu du sang où vous craignez des larmes,</l>
+	<l id='339'>Mais je ferai du moins tout ce qu'il peut souffrir,</l>
+	<l id='340'>Et ne pouvant tuer, je saurai bien mourir.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='341'>Ta vertu me ravit, viens, viens, que je t'embrasse.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='342'>Croyez-vous que par là notre honte s'efface ?</l>
+	<l id='343' part='i'>Ne perdez point de temps.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='343' part='f'>Allons voir nos amis,</l>
+	<l id='344'>Et sachons quel accord me peut être permis.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Dom Lope, Jacinte, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='345'>Prenez ce temps, Dom Lope, et de peur qu'on me blâme,</l>
+	<l id='346' part='i'>Si son retour trop prompt...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='346' part='f'>Je le prendrai, Madame,</l>
+	<l id='347'>Adieu, mais prenez garde au serment que je fais,</l>
+	<l id='348'>Je vous quitte aujourd'hui pour ne vous voir jamais.</l>
+	<l id='349'>Vous engagez ailleurs la foi qui m'est promise,</l>
+	<l id='350'>On conspire ma mort, votre aveu l'autorise,</l>
+	<l id='351'>J'en viens d'ouir l'arrêt, et n'ai point éclaté,</l>
+	<l id='352'>Non qu'un reste d'amour m'en ait sollicité,</l>
+	<l id='353'>Non que de mes respects  je garde la mémoire,</l>
+	<l id='354'>Mais parce que j'ai dû cet effort à ma gloire,</l>
+	<l id='355'>Et que j'eusse rougi qu'un mouvement jaloux</l>
+	<l id='356'>Eût convaincu mon coeur d'avoir brûlé pour vous.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='357'>Ah ! ne vous plaignez point où je suis seule à plaindre,</l>
+	<l id='358'>L'effort est grand sans doute où j'ai su me contraindre,</l>
+	<l id='359'>Mais je n'ai pas jugé qu'un plus bas sentiment</l>
+	<l id='360'>Méritât d'avoir eu Dom Lope pour amant,</l>
+	<l id='361'>Et comme vos vertus par leur éclat sublime</l>
+	<l id='362'>Pour gagner mon amour s'acquirent mon estime,</l>
+	<l id='363'>C'est par là seulement que j'espère à mon tour</l>
+	<l id='364'>M'acquérir votre estime, en perdant votre amour.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='365'>Vous l'acquerrez, Madame, et vous le devez croire,</l>
+	<l id='366'>Si l'infidélité mérite quelque gloire.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='367'>Si mes feux aujourd'hui vous semblent inconstants,</l>
+	<l id='368'>Suspendez votre plainte, et laissez faire au temps.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='369'>Le temps n'adoucit point des malheurs de la sorte.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='370'>Le temps vous fera voir que votre amour s'emporte,</l>
+	<l id='371'>Et qu'enfin quel que soit le dessein qu'on ait fait,</l>
+	<l id='372'>Pour en blâmer la cause, il en faut voir l'effet.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='373'>Hélas ! Et quel effet dois-je attendre du vôtre,</l>
+	<l id='374'>Quand de ce qui m'est dû l'on enrichit un autre ?</l>
+	<l id='375'>Oui, mon rival triomphe, et mon espoir est vain,</l>
+	<l id='376'>N'avez vous pas promis de lui donner la main ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='377' part='i'>Je le ferai sans doute.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='377' part='f'>Et vous serez sa femme ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='378'>Moi ! Cette lâcheté pourrait m'entrer dans l'âme ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='379'>Que m'avez vous donc dit, ou qu'est-ce que j'apprends ?</l>
+	<l id='380'>Et comment accorder deux points si différents ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='381'>Si pour les accorder vous manquez de lumière,</l>
+	<l id='382'>Connaissez aujourd'hui mon âme toute entière,</l>
+	<l id='383'>Et de l'heur d'un rival cessant d'être jaloux,</l>
+	<l id='384'>Confessez que mon coeur était digne de vous.</l>
+	<l id='385'>L'espoir de mon hymen n'est qu'une attente vaine,</l>
+	<l id='386'>Sous ce trompeur aveu je le livre à ma haine,</l>
+	<l id='387'>Et lui donnant la main, je sème un faux appas,</l>
+	<l id='388'>Qui sans aucun soupçon l'attire dans mes bras,</l>
+	<l id='389'>Où ma main dans son sang, au gré de mon envie,</l>
+	<l id='390'>Venge avec mon honneur le repos de ma vie.</l>
+	<l id='391' part='i'>Êtes-vous satisfait ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='391' part='f'>Hélas ! si je le suis,</l>
+	<l id='392'>Vous même jugez-en, jugez si je le puis.</l>
+	<l id='393'>Par lui seul votre honneur à l'outrage est en bute,</l>
+	<l id='394'>Et quoi que contre lui votre haine exécute,</l>
+	<l id='395'>Après le noir effet de son lâche dessein</l>
+	<l id='396'>Il mourra glorieux, s'il meurt de votre main.</l>
+	<l id='397'>Non, il faut que par moi sa mort vous satisfasse,</l>
+	<l id='398'>Qu'elle soit un supplice et non pas une grâce.</l>
+	<l id='399'>Le plus rude trépas lui deviendrait trop doux</l>
+	<l id='400'>S'il avait pu se dire un moment votre époux :</l>
+	<l id='401'>Au nom de cette amour ferme, pure, sincère...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='402'>Brisons-là, je crains trop le retour de mon père,</l>
+	<l id='403'>Éloignez-vous, de grâce, et recevez ma foi</l>
+	<l id='404'>Que je me souviendrai de ce que je vous dois.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='405' part='i'>Ah, Madame, ajoutez...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='405' part='f'>Je n'ai plus rien à dire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='406' part='i'>Que mon rival...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='406' part='f'>Sortez, ou bien je me retire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='407'>Rigoureuse vertu que l'on doit admirer !</l>
+	<l id='408'>Hélas ! À quels tourments me viens-tu préparer !</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Lope, Cassandre, Flore.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='409'>C'était peu que toujours son devoir trop fidèle</l>
+	<l id='410'>Contre ma passion eût combattu pour elle,</l>
+	<l id='411'>Quand pour la mériter je crois voir quelque jour,</l>
+	<l id='412'>Un fier motif d'honneur s'oppose à mon amour,</l>
+	<l id='413'>Et quoi qu'à mes soupirs son coeur soit favorable,</l>
+	<l id='414'>Cet honneur, ce devoir, tout est inexorable.</l>
+	<l id='415'>Dures extrémités ! Qui le croirait, ma soeur,</l>
+	<l id='416'>Que le Ciel me traitât avec autant de rigueur,</l>
+	<l id='417'>Que pouvant espérer d'avoir pour moi le père,</l>
+	<l id='418'>La vertu de la fille à mes voeux fut contraire,</l>
+	<l id='419'>Et seule mit obstacle au plus charmant espoir</l>
+	<l id='420'>Que jamais un amant eut droit de concevoir ?</l>
+	<l id='421'>Je la perds, mais hélas ! Perdant tout avec elle,</l>
+	<l id='422'>La façon de la perdre est pour moi si cruelle,</l>
+	<l id='423'>Que toute ma constance et frémit et s'abat</l>
+	<l id='424'>Aux menaces d'un coup dont elle craint l'éclat.</l>
+	<l id='425'>Ce n'est point un rival dont l'amour préférée</l>
+	<l id='426'>Me dérobe une foi si saintement jurée,</l>
+	<l id='427'>Ce n'est point un vieillard dont l'ordre impérieux</l>
+	<l id='428'>Arrache à mon espoir un bien si précieux.</l>
+	<l id='429'>Sans qu'un Rival l'y porte, ou qu'un père l'ordonne,</l>
+	<l id='430'>Elle même s'engage, elle même se donne,</l>
+	<l id='431'>Et par ce sacrifice, à son honneur offert,</l>
+	<l id='432'>Veut être digne au moins de l'amant qu'elle perd.</l>
+	<l id='433'>Rigoureuse faveur ! Tyrannique maxime !</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='434'>Sa résolution mérite qu'on l'estime,</l>
+	<l id='435'>Et son coeur par l'amour vainement combattu</l>
+	<l id='436'>M'oblige en vous plaignant d'admirer sa vertu.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='437'>Vous devez davantage aux troubles de mon âme.</l>
+	<l id='438'>Votre amitié, ma soeur, a fait naître ma flamme,</l>
+	<l id='439'>Et je n'ai pu la voir si souvent avec vous,</l>
+	<l id='440'>Sans voir, sans découvrir cet éclat vif et doux,</l>
+	<l id='441'>Cette vertu modeste, et ce rare mérite</l>
+	<l id='442'>Dont le charme à l'amour secrètement invite,</l>
+	<l id='443'>Et de tant de beautés voyant l'illustre appas,</l>
+	<l id='444'>Puisque j'avais un coeur, pouvais-je n'aimer pas ?</l>
+	<l id='445'>Ainsi quelques ennuis où cet amour m'expose,</l>
+	<l id='446'>M'ayant laissé la voir, vous en êtes la cause,</l>
+	<l id='447'>Et pour moi vos bontés agiraient lâchement,</l>
+	<l id='448'>De plaindre en moi le frère, et négliger l'amant.</l>
+	<l id='449'>Voyez-la donc, ma soeur, cette fille adorable,</l>
+	<l id='450'>Montrez-lui ce respect toujours inébranlable,</l>
+	<l id='451'>Ce feu tenu secret avecque tant de soin,</l>
+	<l id='452'>Qu'il n'a souffert que vous jusqu'ici de témoin ;</l>
+	<l id='453'>Mais c'est ce qui me perd, sans ce fâcheux silence</l>
+	<l id='454'>Alonse en eut reçu l'entière confidence,</l>
+	<l id='455'>Et ne m'eût pas réduit par ces cruels avis</l>
+	<l id='456'>À mourir de douleur si je les vois suivis.</l>
+	<l id='457'>C'est lui, ma soeur, c'est lui qui propose à Dom Sanche</l>
+	<l id='458'>Cet odieux hymen où l'un et l'autre penche :</l>
+	<l id='459'>Mais si mon désespoir doit enfin éclater,</l>
+	<l id='460'>Pour mon Rival peut-être il est à redouter.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='461'>Quoi que de ses avis vous ayez à vous plaindre,</l>
+	<l id='462'>Voyez-le, cet Alonse, avant que d'en rien craindre,</l>
+	<l id='463'>Il vous cherche par tout avec empressement.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='464'>C'est à votre prière ? Avoués franchement.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='465'>Vous pourrez de lui-même apprendre le contraire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='466'>Votre hymen prés de lui me rend injuste frère,</l>
+	<l id='467'>Et les biens de Fernand n'ayant pu vous charmer,</l>
+	<l id='468'>C'est moi qui vous contraints, c'est moi qu'il faut blâmer ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='469'>S'il vous peint mon malheur comme un malheur extrême,</l>
+	<l id='470'>C'est sur ce que Fernand en dit tout haut lui-même,</l>
+	<l id='471'>Qui tenant et l'amour et l'hymen à mépris,</l>
+	<l id='472'>N'eut jamais rien conclu s'il n'eût été surpris.</l>
+	<l id='473'>Encor tout de nouveau j'apprends qu'il s'ose plaindre</l>
+	<l id='474'>Qu'Enrique à cet hymen lui seul l'a su contraindre,</l>
+	<l id='475'>Et que sa violence et son emportement</l>
+	<l id='476'>L'ont forcé par surprise à cet engagement.</l>
+	<l id='477'>Il le fait bien paraître, on a pris la journée</l>
+	<l id='478'>Qui doit hâter ma mort par ce triste hyménée,</l>
+	<l id='479'>Dans deux jours mon malheur sous ses lois me réduit,</l>
+	<l id='480'>Et bien loin de me voir, il semble qu'il me fuit.</l>
+	<l id='481'>Si pour une maîtresse il porte un coeur sans flamme,</l>
+	<l id='482'>Quel amour espérer quand je serai sa femme ?</l>
+	<l id='483'>N'importe, c'en est fait, ayant reçu sa foi</l>
+	<l id='484'>Un lâche repentir est indigne de moi,</l>
+	<l id='485'>Et de tous les malheurs, un coeur qui se possède</l>
+	<l id='486'>Dans sa propre vertu voit toujours le remède.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='487'>Ce sentiment, ma soeur, est bien digne de vous,</l>
+	<l id='488'>Je sais que de tout temps vous fuyez un époux,</l>
+	<l id='489'>Et votre aversion nous a trop fait paraître</l>
+	<l id='490'>Que vous craignez en lui de ne trouver qu'un maître.</l>
+	<l id='491'>J'ai parlé pour Fernand, mais sachez aujourd'hui</l>
+	<l id='492'>Que votre intérêt seul m'a fait parler pour lui.</l>
+	<l id='493'>Enrique est violent, et voyant qu'il vous traite,</l>
+	<l id='494'>Malgré tous mes avis, moins en soeur qu'en sujette,</l>
+	<l id='495'>Appuyant un hymen qu'on l'a vu rechercher,</l>
+	<l id='496'>Au pouvoir d'un tyran j'ai crû vous arracher,</l>
+	<l id='497'>Et qu'enfin dans le choix d'un sort toujours contraire</l>
+	<l id='498'>Vous souffririez plutôt d'un époux que d'un frère.</l>
+	<l id='499'>Je vous ai donc pressée, et je vois à regret</l>
+	<l id='500'>Que j'ai lieu de m'en faire un reproche secret.</l>
+	<l id='501'>La froideur de Fernand me surprend et m'afflige,</l>
+	<l id='502'>Mais à quoi que pour vous la Nature m'oblige,</l>
+	<l id='503'>Lui faire proposer de rompre cet accord</l>
+	<l id='504'>Serait porter Enrique à conspirer sa mort.</l>
+	<l id='505'>Mais Dieux, vois-je Jacinte, ou si mon oeil s'abuse ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='506'>Les différents sont doux qui font naître une excuse.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Lope, Cassandre, Jacinte, Blanche, Flore.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='507'>Madame, quel dessein en ce lieu vous conduit ?</l>
+	<l id='508'>Venez-vous voir l'état où m'avez réduit,</l>
+	<l id='509'>Et de mon désespoir jouissant sans obstacle</l>
+	<l id='510'>Saouler votre vertu d'un si triste spectacle ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE, à Jacinte.</speaker>
+	<l id='511'>Vous voyez les transports d'un coeur vraiment atteint,</l>
+	<l id='512'>Il n'espère qu'en trouble et croit tout ce qu'il craint.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='513'>J'avais fait un dessein dont sans doute il soupire,</l>
+	<l id='514'>Mais il était injuste, et je viens m'en dédire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='515'>Quoi ! Se pourrait-il bien qu'après tant de rigueur,</l>
+	<l id='516'>Un reste de tendresse eut ému votre coeur,</l>
+	<l id='517'>Que vous eussiez connu qu'une injustice extrême</l>
+	<l id='518'>Vous portait à me perdre en vous perdant vous même,</l>
+	<l id='519'>Et que l'amour enfin vous eut fait souvenir</l>
+	<l id='520'>Qu'il faut venger un père, et non-pas vous punir ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='521'>Je sais ce que je dois aux intérêts d'un père,</l>
+	<l id='522'>Pour l'oublier jamais sa gloire m'est trop chère,</l>
+	<l id='523'>Mais au nom de l'époux qu'il m'avait destiné,</l>
+	<l id='524'>Contre moi tout à coup mon coeur s'est mutiné,</l>
+	<l id='525'>Et soudain condamnant ma première entreprise,</l>
+	<l id='526'>À sa rébellion ma raison s'est soumise.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='527'>Elle a dû s'y soumettre, et son aveuglement</l>
+	<l id='528'>Avec trop d'injustice immolait votre amant,</l>
+	<l id='529'>Le Ciel qui l'a connue y daigne mettre obstacle,</l>
+	<l id='530'>Et mon amour confus attendait ce miracle.</l>
+	<l id='531'>Mais puis-je demander quel était cet époux ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='532' part='i'>Le voulez-vous savoir ? Vous, Dom Lope.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='532' part='m'>Moi ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='532' part='f'>Vous.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='533'>Hélas ! À ce discours que faut-il que je pense ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='534'>Que mon père vous croit l'auteur de son offense.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='535'>Que le perfide Alonse ait osé m'accuser</l>
+	<l id='536'>Du crime le plus noir qu'on me pût imposer !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='537'>Sur vous d'un coup si lâche il fait tomber le blâme,</l>
+	<l id='538' part='i'>Et par votre ordre seul...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='538' part='f'>Le croyez-vous, Madame ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='539'>Vous voir et vous parler sans faire agir mon bras,</l>
+	<l id='540'>C'est vous montrer assez que je ne le crois pas.</l>
+	<l id='541'>De quoi que vous accuse un indigne murmure,</l>
+	<l id='542'>L'amour que j'ai pour vous en convainc l'imposture,</l>
+	<l id='543'>Et répond hautement à mon coeur abattu</l>
+	<l id='544'>Et de votre innocence et de votre vertu.</l>
+	<l id='545'>Cette amour dans son choix ne s'est point emportée,</l>
+	<l id='546'>Ayant pu l'acquérir, vous l'avez méritée,</l>
+	<l id='547'>Et l'ayant méritée, il est à présumer  ; c</l>
+	<l id='548'>Qu'une vertu sublime en vous me sut charmer,</l>
+	<l id='549'>Que la mienne jamais ne peut m'avoir trahie,</l>
+	<l id='550'>Que de fausses clartés ne m'ont point éblouie,</l>
+	<l id='551'>Et qu'enfin j'ai dû voir dedans un coeur constant</l>
+	<l id='552'>Tout ce qu'un vrai mérite a de plus éclatant.</l>
+	<l id='553'>Voila sur quels appuis mon amour osa naître,</l>
+	<l id='554'>Et si vous n'étiez pas ce que je vous crois être,</l>
+	<l id='555'>Si de bas sentiments vous tenaient partagé</l>
+	<l id='556'>Je me voudrais punir d'en avoir mal jugé.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='557'>Pour bien juger de moi, jugez-en par vous même,</l>
+	<l id='558'>Ou pour dire encor plus, par ce coeur qui vous aime,</l>
+	<l id='559'>Puisqu'on ne vit jamais les belles passions</l>
+	<l id='560'>Sur des courages bas former d'impressions.</l>
+	<l id='561'>Mais si votre vertu jugeant mon innocence,</l>
+	<l id='562'>Contre la calomnie entreprend ma défense,</l>
+	<l id='563'>Daignez ne pas laisser votre ouvrage imparfait,</l>
+	<l id='564'>Et de l'erreur d'un père accordez-moi l'effet.</l>
+	<l id='565'>Voyez de votre hymen ce qu'on lui fait prétendre ;</l>
+	<l id='566'>Pour effacer sa honte il vous demande un gendre,</l>
+	<l id='567'>Et puisque son honneur vous doit seul engager,</l>
+	<l id='568'>Faites tomber sur moi le droit de le venger.</l>
+	<l id='569'>Prenez l'occasion que le Ciel vous présente</l>
+	<l id='570'>De remplir les devoirs et de fille et d'amante,</l>
+	<l id='571'>Et ne me perdez pas quand il vous donne jour</l>
+	<l id='572'>À satisfaire ensemble et l'honneur et l'amour.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='573'>Dom Lope, qu'est-ceci ? vous oubliez sans doute</l>
+	<l id='574'>Que c'est vous qui parlez, et moi qui vous écoute ?</l>
+	<l id='575'>Ou voulant que j'embrasse un projet si honteux,</l>
+	<l id='576'>La gloire vous déplaît pour objet de nos feux ?</l>
+	<l id='577'>Ainsi donc ma vertu doublement infidèle,</l>
+	<l id='578'>Répondra lâchement à ce qu'on attend d'elle,</l>
+	<l id='579'>Et je pourrai souffrir qu'on me reproche un jour</l>
+	<l id='580'>Que l'honneur me servit de prétexte à l'amour,</l>
+	<l id='581'>Qu'abusant de l'erreur qui pût surprendre un père,</l>
+	<l id='582'>Je ne le satisfis que pour me satisfaire,</l>
+	<l id='583'>Et que ma passion couvrit sa lâcheté</l>
+	<l id='584'>D'un vain et faux éclat de générosité !</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='585'>Comme toujours ma flamme a demeuré secrète,</l>
+	<l id='586'>La peur d'un tel reproche en vain vous inquiète,</l>
+	<l id='587'>On ne soupçonne rien de cette noble ardeur</l>
+	<l id='588'>Qui m'acquit votre estime en vous donnant mon coeur,</l>
+	<l id='589'>Et chacun vous croyant dans cet hymen surprise,</l>
+	<l id='590'>Personne ne saura que l'amour l'autorise,</l>
+	<l id='591'>Qu'à des motifs d'honneur il mêle son appas.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='592'>Et moi, Dom Lope, et moi ne le saurai-je pas ?</l>
+	<l id='593'>Quoi ! dans ce haut dessein où la vertu m'engage,</l>
+	<l id='594'>Estimez-vous si peu mon propre témoignage,</l>
+	<l id='595'>Et ne suffit-il pas pour m'en faire une loi</l>
+	<l id='596'>Que mon coeur en secret dépose contre moi ?</l>
+	<l id='597'>Quoi qu'on cherche l'estime avec des soins extrêmes,</l>
+	<l id='598'>Des belles actions le prix est en nous mêmes,</l>
+	<l id='599'>Ce charme intérieur qui nous sait émouvoir,</l>
+	<l id='600'>Est le plus doux encens qu'on puisse recevoir.</l>
+	<l id='601'>Sans que nous dépendions de ce qu'on ose croire,</l>
+	<l id='602'>C'est par nous que s'achève ou détruit notre gloire,</l>
+	<l id='603'>Et l'éclat du dehors a peine à l'agrandir</l>
+	<l id='604'>Alors que le dedans refuse d'applaudir.</l>
+	<l id='605'>Un coeur qui d'un grand coeur aspire à l'avantage,</l>
+	<l id='606'>Doit s'oser dire tel par son propre suffrage,</l>
+	<l id='607'>S'en répondre à soi-même, et sur un tel appui</l>
+	<l id='608'>S'abandonner sans crainte à ce qu'on croit de lui.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='609'>Où me vas-tu réduire, ô vertu trop austère ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='610'>Mais vous êtes encor l'ennemi de mon père,</l>
+	<l id='611'>On vous accuse enfin, convainquez l'imposteur,</l>
+	<l id='612'>Et de notre disgrâce allez chercher l'auteur,</l>
+	<l id='613'>Montrez-vous innocent en le faisant connaître.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='614'>Quoi, c'est aussi par moi que son bonheur doit naître,</l>
+	<l id='615'>Par moi, qui découvrant son crime aux yeux de tous,</l>
+	<l id='616'>Lui cède mon espoir, et le fais votre époux,</l>
+	<l id='617'>Et vous m'osez charger de cet emploi funeste ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='618'>Faisons notre devoir, le Ciel fera le reste.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='619'>Il faut vous obéir, mais souvenez-vous bien</l>
+	<l id='620'>Que ce lâche connu, je ne connais plus rien,</l>
+	<l id='621'>Et qu'à quoi que pour vous le respect me convie,</l>
+	<l id='622'>Son bonheur est mal sûr s'il me laisse la vie.</l>
+	<l id='623' part='i'>Adieu.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Jacinte, Cassandre, Flore, Blanche.</head>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='623' part='f'>C'est vous servir avec trop de rigueur</l>
+	<l id='624'>Du pouvoir que l'amour vous donne sur son coeur.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='625'>C'est montrer que l'amour n'est vertueux ou lâche,</l>
+	<l id='626'>Que selon les objets où sa flamme s'attache,</l>
+	<l id='627'>Et que si rarement un courage abattu</l>
+	<l id='628'>De cette passion se fait une vertu,</l>
+	<l id='629'>Jamais une grande âme où la gloire préside,</l>
+	<l id='630'>N'en prend dans ses desseins l'aveuglement pour guide.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='631'>Ainsi ce grand pouvoir que vous gardez sur vous,</l>
+	<l id='632'>Des plus âpres malheurs vous fait braver les coups.</l>
+	<l id='633'>Que vous êtes heureuse, et que je suis à plaindre !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='634'>Pouvant tout espérer, vous n'avez rien à craindre,</l>
+	<l id='635'>Mais si votre malheur était égal au mien,</l>
+	<l id='636'>Vous auriez tout à craindre, et n'espéreriez rien.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='637'>En l'état où je suis, que faut-il que j'espère ?</l>
+	<l id='638'>L'hymen rend dans deux jours mon amour nécessaire,</l>
+	<l id='639'>Je le dois à Fernand, et presque au désespoir,</l>
+	<l id='640'>Tout mon coeur se refuse à ce triste devoir.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='641'>Au moins ce grand malheur qui cause votre plainte,</l>
+	<l id='642'>Peut être surmonté par un peu de contrainte,</l>
+	<l id='643'>Et quelque aversion qu'on ait au nom d'époux,</l>
+	<l id='644'>C'est n'en haïr aucun, que de les haïr tous.</l>
+	<l id='645'>Mais d'un revers si dur ma disgrâce est suivie,</l>
+	<l id='646'>Qu'écoutant le projet où l'honneur me convie,</l>
+	<l id='647'>Il me faut étouffer les plus beaux sentiments</l>
+	<l id='648'>Que la gloire jamais permit aux vrais amants.</l>
+	<l id='649'>Car enfin c'est en vain que je le voudrais taire,</l>
+	<l id='650'>Dom Lope a des vertus dont l'éclat m'a su plaire,</l>
+	<l id='651'>Et je ne puis songer sans trouble et sans ennui</l>
+	<l id='652'>Que qui n'ose le perdre est indigne de lui.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='653'>Après un tel aveu vous oserai-je dire...</l>
+	<l id='654'>Mais que ne dit-on point lors que le coeur soupire,</l>
+	<l id='655'>Et que dans ses soupirs, interdit et confus,</l>
+	<l id='656'>Il parle, il s'embarrasse, et ne se comprend plus ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='657'>Il n'est pas mal-aisé d'entendre ce langage,</l>
+	<l id='658'>Je vois contre l'hymen quel motif vous engage,</l>
+	<l id='659'>Qu'on n'éteint pas sans peine un feu bien allumé,</l>
+	<l id='660'>Et que vous aimeriez, si vous n'aviez aimé.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='661'>Je l'avoue, et jamais une plus belle flamme</l>
+	<l id='662'>Pour un plus digne objet ne régna dans une âme,</l>
+	<l id='663'>Mais las ! Que la Fortune, au moins jusqu'à ce jour,</l>
+	<l id='664'>Respecte rarement un vertueux amour !</l>
+<stage>Flore et Blanche rentrent.</stage>
+	<l id='665'>Ici dedans Madrid, sous les lois d'une tante,</l>
+	<l id='666'>Je menais une vie et paisible et contente,</l>
+	<l id='667'>Et mes frères en Flandre, en de nobles emplois,</l>
+	<l id='668'>Laissaient à mes désirs la liberté du choix,</l>
+	<l id='669'>Alors qu'un Cavalier dans un péril extrême</l>
+	<l id='670'>Osa m'en dégager en s'y jetant lui-même,</l>
+	<l id='671'>Et par ce grand service engagea ma raison</l>
+	<l id='672'>À souffrir de mon coeur l'aimable trahison,</l>
+	<l id='673'>Il me vit, je le vis, et trop reconnaissante,</l>
+	<l id='674'>Pensant n'être rien plus, je me sentis amante.</l>
+	<l id='675'>Je ne vous dirai point par quels soins, par quels voeux</l>
+	<l id='676'>Il disposa mon âme à répondre à ses feux,</l>
+	<l id='677'>Ni quel rapport d'humeurs l'une à l'autre assorties,</l>
+	<l id='678'>Forma de nos esprits les douces sympathies,</l>
+	<l id='679'>Ce serait retracer dedans mon souvenir</l>
+	<l id='680'>Des traits mal effacez qu'il tâche de bannir, </l>
+	<l id='681'>Vous saurez seulement que quoi que je supprime,</l>
+	<l id='682'>Rien de honteux pour moi ne m'acquit son estime,</l>
+	<l id='683'>Et que l'ayant connu généreux et discret,</l>
+	<l id='684'>Je ne pus refuser de le voir en secret.</l>
+	<l id='685'>Mais quoi qu'il me jurât entière obéissance,</l>
+	<l id='686'>Il sut avec tant d'art me cacher sa naissance,</l>
+	<l id='687'>Que m'opposant toujours quelque obligeant refus,</l>
+	<l id='688'>M'ayant appris son nom, je ne sus rien de plus,</l>
+	<l id='689'>Si ce n'est que pour vaincre un destin trop contraire,</l>
+	<l id='690'>Un voyage d'un an se trouvait nécessaire,</l>
+	<l id='691'>Et qu'alors plus heureux et plus digne de moi,</l>
+	<l id='692'>Il se ferait connaître aussi bien que sa foi.</l>
+	<l id='693'>Que vous dirai-je enfin ? Sans savoir davantage</l>
+	<l id='694'>Il fallut consentir à ce triste voyage,</l>
+	<l id='695'>Et sur un élément le plus traître de tous,</l>
+	<l id='696'>Abandonner aux vents mon espoir le plus doux.</l>
+	<l id='697'>Il partit, et le ciel pour comble de misères</l>
+	<l id='698'>Fit suivre son départ du retour de mes frères,</l>
+	<l id='699' part='i'>Ah !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='699' part='m'>Si par ce récit...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='699' part='f'>Achevons, ce n'est rien.</l>
+	<l id='700'>Jugez par ce retour quel malheur fut le mien.</l>
+	<l id='701'>À me tyranniser leur amitié consiste,</l>
+	<l id='702'>Un parti se présente, ils pressent, je résiste,</l>
+	<l id='703'>Ils parlent pour un autre, et par trop de rigueur</l>
+	<l id='704'>Leur gloire s'intéresse à garder une soeur.</l>
+	<l id='705'>Je recule toujours, tandis le temps se passe,</l>
+	<l id='706'>Déjà mon triste coeur frémit de sa disgrâce,</l>
+	<l id='707'>Et dans le sort douteux d'un amant qu'il attend,</l>
+	<l id='708'>Met son moindre supplice à le croire inconstant,</l>
+	<l id='709'>Quand sur moi la Fortune achevant son ouvrage,</l>
+	<l id='710'>Par celui d'un parent on m'apprend son naufrage,</l>
+	<l id='711'>Ils s'étaient embarquez dans le même vaisseau,</l>
+	<l id='712'>Et la mer de tous deux fut l'injuste tombeau.</l>
+	<l id='713' part='i'>Ah Dieux !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='713' part='f'>Votre douleur semble toujours s'accroître.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='714'>Hélas ! À tous moments je crois le voir paraître,</l>
+	<l id='715'>Je l'entends qui se plaint d'avoir été trahi,</l>
+	<l id='716'>Que quoi qu'après deux ans j'ai trop tôt obéi,</l>
+	<l id='717'>Que Fernand... Juste ciel ! Pardonnez ma faiblesse,</l>
+	<l id='718'>À ce funeste nom ma constance me laisse,</l>
+	<l id='719'>Approchez-moi d'un siège, et souffrez qu'aux abois</l>
+	<l id='720' part='i'>Ma flamme...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='720' part='f'>La douleur lui suffoque la voix,</l>
+	<l id='721'>Flore vient de sortir, quel conseil dois-je prendre ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Jacinte, Cassandre, Flore, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='722' part='i'>Flore, et vite.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE, comme en pâmoison.</speaker>
+	<l id='722' part='m'>Ah ! Pardon, chère ombre.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='722' part='f'>Vois, Cassandre...</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='723' part='i'>Ah ! Madame.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='723' part='m'>Qu'as-tu ?</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='723' part='m'>Son amant...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='723' part='f'>Qui ? Fernand ?</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='724'>Non, mais par un destin tout à fait surprenant,</l>
+	<l id='725' part='i'>Celui qu'elle croit mort...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='725' part='m'>Et bien ?</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='725' part='f'>Est là, qui presse...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='726' part='i'>Que dis-tu ?</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='726' part='f'>Qu'il demande à revoir sa maîtresse,</l>
+	<l id='727' part='i'>Mais le voici lui-même, il entre.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='727' part='f'>Ah, justes Dieux !</l>
+	<l id='728' part='i'>C'est mon frère.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Alvar, Jacinte, Cassandre, Flore, Blanche.</head>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='728' part='f'>Ah, ma soeur, qui vous met en ces lieux ?</l>
+	<l id='729'>Vous trouver à Madrid, et vous croire à Tolède !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='730'>Donc après avoir crû nos malheurs sans remède...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='731'>Je cherche ici Cassandre, excusez mon transport.</l>
+	<l id='732'>Mais fuit-elle ma vue, ou si c'est qu'elle dort ?</l>
+	<l id='733'>Madame, c'est donc là cette innocente joie,</l>
+	<l id='734'>Qu'au retour d'un amant une amante déploie ?</l>
+	<l id='735'>Faut-il qu'après deux ans et d'absence et de maux...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE, comme en pâmoison.</speaker>
+	<l id='736'>Laisse-moi, Dom Alvar, un moment de repos.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='737'>Hélas, de cet accueil que faut-il que j'augure ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='738'>C'est un léger accès, ne craignez pas qu'il dure,</l>
+	<l id='739'>Il va donner relâche à ses sens assoupis.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='740'>Ouvrez les yeux, Madame, et voyez que je vis.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE, comme en pâmoison.</speaker>
+	<l id='741'>Songes-tu que deux ans m'ont trop justifiée,</l>
+	<l id='742'>Et que veuve de toi je me suis mariée ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='743' part='i'>Que dit-elle, ma soeur ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='743' part='f'>Elle revient à soi.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='744'>Jacinte, hélas ! Où suis-je, et qu'est-ce que je vois ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='745' part='i'>Reprenez vos esprits.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='745' part='f'>Et les puis-je reprendre</l>
+	<l id='746'>Si je vois ce qu'enfin je ne saurais comprendre ?</l>
+	<l id='747' part='i'>Dom Alvar vivrait-il ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='747' part='f'>Apprenez-moi son sort,</l>
+	<l id='748'>Vous le savez vous seule, est-il vivant ou mort ?</l>
+	<l id='749'>Je sais que sur un banc échappé du naufrage,</l>
+	<l id='750'>Échappé des rigueurs d'un étroit esclavage,</l>
+	<l id='751'>Le Ciel qui l'en sauva le renvoyait au jour,</l>
+	<l id='752'>Mais vivrait il encor s'il n'a plus votre amour ?</l>
+	<l id='753' part='i'>Parlez, Madame.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='753' part='m'>Hélas !</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='753' part='f'>Soupirer et se taire ?</l>
+	<l id='754' part='i'>Ah ! Ma soeur.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='754' part='f'>Que dit-il ? Dom Alvar votre frère ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='755' part='i'>Oui, vous voyez ce frère...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='755' part='f'>Ah ! c'est trop me gêner,</l>
+	<l id='756'>Dites-moi ce qu'enfin je n'ose deviner.</l>
+	<l id='757'>J'eus tort de vous quitter, vous seriez-vous vengée,</l>
+	<l id='758'>Un autre est-il heureux, êtes vous engagée ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='759'>Vous vivant, dites-moi comment je l'avouerai ?</l>
+	<l id='760'>Mais le puis-je nier s'il n'est rien de plus vrai ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='761' part='i'>Quoi, plus d'espoir pour moi ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='761' part='f'>La parole est donnée,</l>
+	<l id='762'>Et ma main dans deux jours achève l'hyménée.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='763'>Ce terme peut encor rétablir mon bonheur.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='764'>Ce terme est peu de chose à qui chérit l'honneur.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='765' part='i'>Et vous m'avez aimé ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='765' part='f'>Mon heur serait extrême</l>
+	<l id='766'>D'oser dire, j'aimai, sans pouvoir dire, j'aime.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='767' part='i'>Ah, s'il vous reste encor...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='767' part='f'>Ne me demandez rien,</l>
+	<l id='768'>Je sais ce que se doit un coeur comme le mien.</l>
+	<l id='769'>Tant que votre retour flatta mon espérance,</l>
+	<l id='770'>En vain l'on essaya d'ébranler ma constance.</l>
+	<l id='771'>Le bruit de votre mort a dégagé ma foi,</l>
+	<l id='772'>Il vous perd, il me perd, plaignez vous, plaignez moi,</l>
+	<l id='773'>Ou plutôt pour sauver l'éclat de votre gloire,</l>
+	<l id='774'>Achetez par l'absence une illustre victoire.</l>
+	<l id='775'>D'un feu jadis si beau perdez le souvenir,</l>
+	<l id='776'>Et fuyez un objet qui peut l'entretenir.</l>
+	<l id='777'>Adieu, vous me perdez si mes frères surviennent.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='778'>Que ne rompez-vous donc les noeuds qui me retiennent ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='779'>Je les crois toujours voir,  tirez-moi de souci.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='780'>Et bien, si vous craignez de me parlez ici,</l>
+	<l id='781'>Au moins faites qu'ailleurs je puisse vous apprendre...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='782'>Ne pouvant rien pour vous, je ne dois rien entendre,</l>
+	<l id='783' part='i'>Je ne vous verrai plus.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='783' part='f'>Comment donc vous quitter ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='784'>Le péril croît toujours, c'est trop vous écouter,</l>
+	<l id='785' part='i'>Je me retire.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='785' part='f'>Hélas ! ma soeur, quelle injustice !</l>
+	<l id='786'>C'est donc ainsi qu'au port il faut que je périsse.</l>
+	<l id='787'>Ah, que ne suis-je mort, ou pourquoi l'a-t-on crû ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='788'>Ce faux bruit en deux ans ne s'est que trop accru,</l>
+	<l id='789'>Aussi me destinant le grand bien qu'il possède,</l>
+	<l id='790'>Mon père sur ce bruit voulut quitter Tolède,</l>
+	<l id='791' part='i'>Espérant qu'à Madrid...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='791' part='f'>Ah, puisqu'il me croit mort,</l>
+	<l id='792'>Promettez-moi, ma soeur, de lui cacher mon sort ;</l>
+	<l id='793'>Car enfin si le Ciel s'obstine à me poursuivre,</l>
+	<l id='794'>Mon espoir étant mort je ne veux point revivre.</l>
+	<l id='795'>Adieu, vous seule ici me pouvez secourir,</l>
+	<l id='796'>Touchez pour moi Cassandre, ou me laissez mourir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Sanche, Dom Ramire.</head>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='797'>Enfin instruit d'un nom que vous brûliez d'apprendre,</l>
+	<l id='798'>D'un ennemi secret vous allez faire un gendre ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='799'>Au moins suis-je ravi que contre mon espoir</l>
+	<l id='800'>Vos fidèles conseils m'en donnent le pouvoir.</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='801'>Le conseil est fâcheux, et j'ai vu l'assemblée,</l>
+	<l id='802'>Sans pouvoir que résoudre, également troublée,</l>
+	<l id='803'>Mais quoi qu'avec des yeux de juges rigoureux,</l>
+	<l id='804'>Ne regardant en vous qu'un vieillard malheureux,</l>
+	<l id='805'>Que la fuite de l'âge a mis dans l'impuissance</l>
+	<l id='806'>D'effacer par le sang la honte d'une offense,</l>
+	<l id='807'>Voyant d'ailleurs Alonse à se taire obstiné</l>
+	<l id='808'>À moins qu'à cet accord on vous eût condamné,</l>
+	<l id='809'>Et vous même surtout témoigner de vous rendre...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='810'>Je n'en usais ainsi que pour mieux le surprendre,</l>
+	<l id='811'>Sachant qu'à ne me voir ébranlé qu'à demi,</l>
+	<l id='812'>Il m'eût toujours caché quel est mon ennemi.</l>
+	<l id='813'>Il me l'a donc nommé devant ma fille même,</l>
+	<l id='814'>Et pour mieux déguiser encor le stratagème,</l>
+	<l id='815'>J'ai voulu devant lui ne lui donner qu'un jour</l>
+	<l id='816'>À disposer son âme à ce funeste amour,</l>
+	<l id='817'>Lui-même il l'en a vue et surprise et confuse,</l>
+	<l id='818'>Mais il est juste enfin que je la désabuse,</l>
+	<l id='819'>Et qu'elle sache au moins que mon juste courroux</l>
+	<l id='820'>Dedans mon ennemi ne peut voir son époux.</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='821'>Quoi, votre procédé n'était qu'un artifice ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='822'>J'ai fait ce que sans doute il fallait que je fisse.</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='823'>Si toujours la vengeance occupe vos esprits,</l>
+	<l id='824'>Le Ciel plus à propos n'eût pu vous rendre un fils,</l>
+	<l id='825' part='i'>Dom Alvar est vivant.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='825' part='f'>Quoi, mon fils, Dom Ramire,</l>
+	<l id='826' part='i'>Mon fils serait vivant ?</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='826' part='f'>Oui, Dom Alvar respire,</l>
+	<l id='827'>À deux cents pas d'ici je viens de le quitter.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='828'>Un plus faible rapport m'en laisserait douter.</l>
+	<l id='829'>Mais qui l'empêche donc à mes yeux de paraître ?</l>
+	<l id='830'>Est-ce qu'en ma disgrâce il me veut méconnaître,</l>
+	<l id='831'>Que mon honneur blessé touche peu son esprit,</l>
+	<l id='832'>Ou qu'il ignore encor mon séjour à Madrid ?</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='833'>Il l'ignore sans doute, et j'allais l'en instruire,</l>
+	<l id='834'>Quand surpris tout à coup au nom de Dom Ramire,</l>
+	<l id='835'>Sans me laisser parler, se tirant de mes bras :</l>
+	<l id='836'>Ah ! si l'on me croit mort, on ne s'abuse pas,</l>
+	<l id='837'>M'a-t-il dit, et la mer ne m'a laissé la vie,</l>
+	<l id='838'>Qu'afin que par l'amour elle me fut ravie ,</l>
+	<l id='839'>Il a donné l'arrêt, il faut l'exécuter.</l>
+	<l id='840'>À ces mots s'échappant, sans vouloir m'écouter,</l>
+	<l id='841'>Son pas précipité, le détour d'une rue,</l>
+	<l id='842'>L'ont su presque aussitôt  dérober à ma vue.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='843'>Quoi, le croyant revoir, il m'est encor ravi !</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='844'>Ne vous alarmez point, un des miens l'a suivi,</l>
+	<l id='845'>Mais l'ayant retrouvé, que lui pourrai-je apprendre ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='846'>Ce malheur dont le bruit a pu sitôt s'épandre.</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='847' part='i'>Mais ignorant l'auteur...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='847' part='f'>Il l'apprendra de moi</l>
+	<l id='848'>Quand sur un tel secret j'aurai reçu sa foi.</l>
+	<l id='849'>Car enfin pour punir une action si noire,</l>
+	<l id='850'>Si j'employais un fils, je trahirais sa gloire,</l>
+	<l id='851'>Mon mal veut un remède et violent et prompt,</l>
+	<l id='852'>Et je dois mesurer la vengeance à l'affront.</l>
+</sp>
+<sp who='DOM-RAMIRE'><speaker>DOM RAMIRE.</speaker>
+	<l id='853'>Ne pouvant avec lui m'expliquer davantage,</l>
+	<l id='854'>Il vaut mieux par vous seul qu'il apprenne l'outrage,</l>
+	<l id='855'>Ainsi par un billet que je ferai tenir,</l>
+	<l id='856'>Sur un affront reçu, pressez-le de venir.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='857'>Et bien, sans perdre temps, allons chez moi l'écrire,</l>
+	<l id='858' part='i'>Ce billet...</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Sanche, Dom Ramire, Jacinte, Blanche.</head>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='858' part='f'>Ah ! ma fille, à la fin je respire,</l>
+	<l id='859'>Et dans l'heureux succès qui flatte mes désirs,</l>
+	<l id='860'>Tu peux donner relâche à tes tristes soupirs.</l>
+	<l id='861'>Ta vertu s'est montrée entière, pure, pleine,</l>
+	<l id='862'>Jouis de son éclat sans en craindre la peine,</l>
+	<l id='863'>Enfin ne songe plus à l'hymen proposé,</l>
+	<l id='864'>Je le pressais moi-même, on m'avait abusé,</l>
+	<l id='865'>J'avais prêté les yeux à de fausses lumières,</l>
+	<l id='866'>À des illusions sans doute trop grossières,</l>
+	<l id='867'>Mais sans qu'il soit besoin de trahir ton bonheur,</l>
+	<l id='868'>Le Ciel m'offre un moyen d'assurer mon honneur,</l>
+	<l id='869'>Il m'est plus glorieux, et pour toi moins funeste,</l>
+	<l id='870'>Adieu, le temps saura te découvrir le reste.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Jacinte, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='871'>Que veut-il dire, Blanche, et que m'imaginer</l>
+	<l id='872'>De ce confus avis qu'il vient de me donner ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='873'>S'il vous parait confus, au moins j'en conjecture</l>
+	<l id='874'>Qu'il ne croit plus Dom Lope auteur de son injure,</l>
+	<l id='875'>Il doit connaître au vrai quel est son ennemi.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='876'>Mais par où son honneur peut-il être affermi ?</l>
+	<l id='877'>Quel sera ce moyen que le temps doit m'apprendre ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='878'>C'est ce qui comme à vous me fait peine à comprendre,</l>
+	<l id='879'>Si ce n'est qu'à la Cour son malheur étant su,</l>
+	<l id='880'>On y doive étouffer l'affront qu'il a reçu,</l>
+	<l id='881'>Et par son ennemi le faisant satisfaire,</l>
+	<l id='882'>Forcer et sa vengeance et l'envie à se taire.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='883'>Quelque espoir que mon coeur me presse d'en former,</l>
+	<l id='884'>Une obscure frayeur vient toujours m'alarmer.</l>
+	<l id='885'>Du sort de Dom Alvar ayant eu connaissance,</l>
+	<l id='886'>Peut-être il se tient sûr par lui de sa vengeance,</l>
+	<l id='887'>Et que contre Dom Lope animant sa fureur...</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='888'>Pourquoi contre Dom Lope ? il est sorti d'erreur,</l>
+	<l id='889'>Par ce qu'il vous a dit, il vous l'a fait connaître.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='890'>Que n'est-ce un faux soupçon que l'amour fasse naître ?</l>
+	<l id='891'>Mais Cassandre paraît, et s'avance vers nous.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Cassandre, Jacinte, Blanche, Flore.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='892'>Et bien, qu'a su Dom Lope, et que m'apprendrez-vous ?</l>
+	<l id='893'>Pourra-t-il obliger Alonse à se dédire ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='894'>Ne l'ayant pu trouver, il se plaint, il soupire,</l>
+	<l id='895'>Et croit que de lui-même il peut se défier</l>
+	<l id='896'>Si son meilleur ami l'ose calomnier.</l>
+	<l id='897'>Cependant pour lui plaire il faut que je vous voie,</l>
+	<l id='898'>Il m'est aisé, dit-il, de rétablir sa joie,</l>
+	<l id='899'>Et de vous détourner de cet hymen fatal</l>
+	<l id='900'>Qui tous deux vous immole au bonheur d'un rival.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='901'>Si de ce seul malheur la crainte l'inquiète,</l>
+	<l id='902'>Qu'il se mette en repos, il a ce qu'il souhaite.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='903'>Dom Sanche à cet hymen n'a donc pu consentir ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='904'>Tout à l'heure en passant il m'en vient d'avertir,</l>
+	<l id='905'>Et si j'ai bien compris ce qu'il m'a fait entendre,</l>
+	<l id='906'>Il sait que pour Dom Lope on l'a voulu surprendre.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='907'>J'admire en sa fortune un si prompt changement.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='908'>J'ai su cette nouvelle assez confusément.</l>
+	<l id='909'>Avec lui Dom Ramire étant en conférence,</l>
+	<l id='910'>Lui qui de ses secrets reçoit la confidence,</l>
+	<l id='911'>J'ai dû me contenter de ce qu'il m'en a dit ;</l>
+	<l id='912'>Mais je sais comme il faut ménager son esprit,</l>
+	<l id='913'>Et mettant le détour et l'adresse en pratique</l>
+	<l id='914'>Je n'aurai pas de peine à faire qu'il s'explique.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='915'>Allez donc, les effets nous ont souvent fait voir</l>
+	<l id='916'>Qu'un secret su trop tard ruine un bel espoir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Cassandre, Flore.</head>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='917'>Ainsi tout se prépare au bonheur de mon frère.</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='918'>Ainsi, si vous cessiez de vous être contraire,</l>
+	<l id='919' part='i'>Vous n'auriez pas à craindre...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='919' part='f'>Ah Flore, que dis-tu ?</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='920'>Que tout votre heur dépend d'un peu moins de vertu.</l>
+	<l id='921'>Des mépris de Fernand la preuve est trop certaine,</l>
+	<l id='922'>Si proche de l'hymen il ne vous voit qu'à peine,</l>
+	<l id='923'>Et vous faites encor un scrupule si grand</l>
+	<l id='924'>De reprendre une foi que sa froideur vous rend ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='925'>Quand de ce changement j'aurais été capable,</l>
+	<l id='926'>Sachant ce que je sais, serait-il excusable ?</l>
+	<l id='927'>Il l'eut été peut-être, et du moins bien plus beau</l>
+	<l id='928'>Avant que Dom Alvar fut sorti du tombeau,</l>
+	<l id='929'>Mais aujourd'hui qu'il vit, donner lieu qu'on soupçonne,</l>
+	<l id='930'>Qu'aux dépens de ma foi mon lâche coeur se donne,</l>
+	<l id='931' part='i'>Que je romps...</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='931' part='f'>Le voici, souffrez-lui quelque espoir.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='932'>Non, Flore, éloignons-nous, je ne veux point le voir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Alvar, Cassandre, Flore.</head>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='933'>Me fuyez-vous, Madame, et portez-vous envie</l>
+	<l id='934'>À ce faible bonheur, le dernier de ma vie ?</l>
+	<l id='935'>Dans ce qu'il fait pour moi n'ayant aucune part,</l>
+	<l id='936'>Pourquoi vous opposer aux faveurs du hasard ?</l>
+	<l id='937'>Est-ce qu'en votre coeur l'excès de ma disgrâce</l>
+	<l id='938'>Fait succéder la haine à l'amour qu'elle en chasse,</l>
+	<l id='939'>Ou que ce même coeur pour moi trop rigoureux,</l>
+	<l id='940'>Croit que s'il n'est cruel il n'est point généreux ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='941'>Mon coeur n'est point cruel, et ce n'est pas sans peine</l>
+	<l id='942'>Qu'il vous entend parler et d'amour et de haine,</l>
+	<l id='943'>Car enfin quelques maux qu'il puisse ressentir,</l>
+	<l id='944'>L'une n'y peut entrer, mais l'autre en doit sortir.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='945'>C'est donc ce qu'à mes feux, après deux ans d'absence</l>
+	<l id='946'>Vous réserviez pour prix de ma persévérance ?</l>
+	<l id='947'>Encor si votre coeur moins sensible à ces feux</l>
+	<l id='948'>Par quelque aversion échappait à mes voeux,</l>
+	<l id='949'>Si la haine m'otait ce qu'il faut que je quitte,</l>
+	<l id='950'>Je n'en accuserais que mon peu de mérite,</l>
+	<l id='951'>Et sur mes seuls défauts jetant un oeil jaloux,</l>
+	<l id='952'>Je me plaindrais du Ciel sans me plaindre de vous :</l>
+	<l id='953'>Mais par une rigueur qu'on aura peine à croire,</l>
+	<l id='954'>M'arracher de ce coeur fait toute votre gloire,</l>
+	<l id='955'>Et ces traits que l'amour lui-même y sut tracer,</l>
+	<l id='956'>C'est en les déchirant qu'il les faut effacer.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='957'>Dans le triste revers dont je souffre l'atteinte,</l>
+	<l id='958'>Si ma juste conduite attire votre plainte,</l>
+	<l id='959'>Songez qu'il est bien dur de la voir condamner</l>
+	<l id='960'>À qui ne peut avoir d'excuse à vous donner.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='961'>Quoi, votre fier devoir jusques-là vous abuse,</l>
+	<l id='962'>Que vous me refusiez la douceur d'une excuse ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='963'>C'est ce que votre amour ne doit point exiger.</l>
+	<l id='964'>Qu'aurait-elle aussi bien qui le put soulager,</l>
+	<l id='965'>Qui put donner relâche au trouble qui l'agite,</l>
+	<l id='966'>Puisque je n'en ai qu'une, et que je vous l'ai dite ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='967'>Ah, si cette raison vous la fait supprimer,</l>
+	<l id='968'>Que vous connaissez peu ce que c'est que d'aimer !</l>
+	<l id='969'>Jamais, jamais l'amour n'eut d'excuse frivole,</l>
+	<l id='970'>Il sait charmer cent fois par la même parole,</l>
+	<l id='971'>On a beau la redire et beau la répéter,</l>
+	<l id='972'>De nouvelles douceurs s'y font toujours goûter,</l>
+	<l id='973'>L'appas en est secret et le pouvoir extrême,</l>
+	<l id='974'>Et si pour qui la dit elle est toujours la même,</l>
+	<l id='975'>Bien qu'elle semble l'être, il est certain pourtant</l>
+	<l id='976'>Qu'elle n'est pas la même à celui qui l'entend.</l>
+	<l id='977'>Dites-la donc encor cette excuse charmante,</l>
+	<l id='978'>Qui soulage mes maux quand elle les augmente,</l>
+	<l id='979'>Et mêlant vos regrets à mes vives douleurs,</l>
+	<l id='980'>Presse mon désespoir de finir mes malheurs.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='981'>Et vous pourriez souffrir qu'aux dépens de ma gloire</l>
+	<l id='982'>J'écoutasse une amour que je ne dois plus croire ?</l>
+	<l id='983'>Quand d'abord votre vue a troublé mes esprits,</l>
+	<l id='984'>L'âme toute en désordre et les sens interdits,</l>
+	<l id='985'>J'ai pu m'abandonner dans ma surprise extrême</l>
+	<l id='986'>À ce que pense un coeur quand il perd ce qu'il aime,</l>
+	<l id='987'>Et que prêt de subir un redoutable sort</l>
+	<l id='988'>Il regrette vivant ce qu'il a pleuré mort.</l>
+	<l id='989'>Mais enfin à présent qu'un peu mieux éclairée,</l>
+	<l id='990'>Ma raison sert de guide à mon âme égarée,</l>
+	<l id='991'>Et que mon coeur honteux de se voir abattu</l>
+	<l id='992'>Avec plus de vigueur rappelle sa vertu,</l>
+	<l id='993'>Loin de suivre l'erreur qui m'avait abusée,</l>
+	<l id='994'>Si je dois m'excuser, c'est de m'être excusée,</l>
+	<l id='995'>Et d'avoir fait paraître avec quel désespoir</l>
+	<l id='996'>L'amour que j'eus pour vous s'immole à mon devoir.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='997'>Ainsi vous détrompant du bruit de mon naufrage,</l>
+	<l id='998'>Confessez qu'à mes feux j'ôte un grand avantage,</l>
+	<l id='999'>Et qu'il vaudrait bien mieux qu'ainsi qu'auparavant,</l>
+	<l id='1000'>Vous m'estimassiez mort que de me voir vivant.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1001'>Au moins pourrais-je encor me dispenser sans honte</l>
+	<l id='1002'>À pousser des soupirs pour une mort trop prompte,</l>
+	<l id='1003'>Et sans examiner si dans de tel malheurs</l>
+	<l id='1004'>L'amour ou la pitié ferait couler mes pleurs,</l>
+	<l id='1005'>Pour flatter mon ennui je trouverais des charmes</l>
+	<l id='1006'>À me croire permis de répandre des larmes ;</l>
+	<l id='1007'>Mais lors que vous vivez, des sentiments si doux</l>
+	<l id='1008'>Sont trop pour mon devoir s'ils sont trop peu pour vous,</l>
+	<l id='1009'>C'est à les étouffer qu'il faut que je m'applique,</l>
+	<l id='1010'>Et comme votre vue en est l'obstacle unique,</l>
+	<l id='1011'>Je fuis un ennemi qu'en mon ennui secret</l>
+	<l id='1012'>Je combats avec peine et ne vaincs qu'à regret.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1013' part='i'>Vous me quittez, Madame ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1013' part='f'>Il y va de ma gloire.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1014'>Et d'un amour si pur vous perdrez la mémoire ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1015' part='i'>J'y ferai mon pouvoir.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1015' part='f'>Oyez donc jusqu'au bout,</l>
+	<l id='1016' part='i'>À quel point ...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1016' part='m'>Non, c'est trop.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1016' part='f'>Je vous suivrai partout,</l>
+	<l id='1017'>Et si vous me quittez, il n'est respect ni crainte</l>
+	<l id='1018'>Qui m'empêche chez vous d'aller porter ma plainte.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1019'>Si je dois l'écouter, sachez auparavant</l>
+	<l id='1020'>Ce que s'en doit promettre un espoir décevant.</l>
+	<l id='1021'>Quand celui d'être à vous autorisa ma flamme</l>
+	<l id='1022'>Je ne vous cachai point les secrets de mon âme,</l>
+	<l id='1023'>Et vos feux n'ayant rien qui blessât mon devoir,</l>
+	<l id='1024'>Je vous aimai sans doute et vous le pûtes voir.</l>
+	<l id='1025'>Par un funeste bruit ma fortune changée</l>
+	<l id='1026'>Ayant crû votre mort je me suis engagée,</l>
+	<l id='1027'>Ce bruit m'a fait ailleurs disposer de ma foi,</l>
+	<l id='1028'>Vous savez qui je suis et ce que je me dois,</l>
+	<l id='1029'>Que l'honneur a ses lois que l'on ne peut enfreindre ;</l>
+	<l id='1030'>Plaignez-vous là dessus, si vous osez vous plaindre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1031'>Oui, je l'ose, Madame, et si vous n'espérez...</l>
+	<l id='1032'>Mais las ! Que puis-je dire alors que vous pleurez ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1033'>Si mes yeux par des pleurs attentent sur ma gloire,</l>
+	<l id='1034'>Ce sont des imposteurs que l'on doit point croire.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1035'>Quoi donc, vos passions sont tellement à vous</l>
+	<l id='1036'>Qu'un moment peut changer la tendresse en courroux ?</l>
+	<l id='1037'>Est-il possible, hélas ! Qu'avec si peu de peine</l>
+	<l id='1038'>Vous réduisiez l'amour aux effets de la haine,</l>
+	<l id='1039'>Et qu'exposée aux coups des plus rudes combats</l>
+	<l id='1040'>Vous puissiez soupirer et ne soupirer pas ?</l>
+	<l id='1041'>Ah, si jamais pour vous ma flamme eut quelques charmes,</l>
+	<l id='1042'>Enseignez-moi comment vous vous servez des larmes,</l>
+	<l id='1043'>De ces larmes toujours si prêtes d'obéir,</l>
+	<l id='1044'>Qui prennent loi de vous, qui n'osent vous trahir,</l>
+	<l id='1045'>Et que par un pouvoir que je ne puis comprendre</l>
+	<l id='1046'>Je vous vois essuyer aussitôt  que répandre.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1047'>Quand de ce que je fus j'ose me souvenir,</l>
+	<l id='1048'>Mon coeur comme en tribut s'apprête à m'en fournir,</l>
+	<l id='1049'>Quand par ce que je suis il connaît qu'il s'abuse,</l>
+	<l id='1050'>Mon coeur ce même coeur soudain me les refuse,</l>
+	<l id='1051'>Et par ces sentiments l'un à l'autre opposez</l>
+	<l id='1052'>Deux partis se formant dans mes sens divisez,</l>
+	<l id='1053'>Sans permettre aucun calme à mon âme inquiète,</l>
+	<l id='1054'>La douleur les attire et l'honneur les arrête,</l>
+	<l id='1055'>Ne pouvant consentir qu'en un sort si nouveau</l>
+	<l id='1056'>Le plus bas sentiment triomphe du plus beau.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1057'>Enfin c'est à regret qu'entre les bras d'un autre...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1058'>Si l'aveu de mon mal peut adoucir le vôtre,</l>
+	<l id='1059'>Oui, je souffre à vous perdre, et mon coeur alarmé</l>
+	<l id='1060'>Ne se souvient que trop de vous avoir aimé,</l>
+	<l id='1061'>En vain pour l'oublier il se fait violence.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1062' part='i'>Donc je puis...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1062' part='f'>N'en tirez aucune conséquence.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1063' part='i'>Espérer que peut-être...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1063' part='f'>Injuste et vain espoir !</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1064' part='i'>Mon amour...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1064' part='f'>Ne pourra corrompre mon devoir,</l>
+	<l id='1065' part='i'>Et plutôt que...</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE montrant ENRIQUE qui paraît.</speaker>
+	<l id='1065' part='m'>Madame.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1065' part='f'>Ô disgrâce imprévue !</l>
+	<l id='1066'>Empêchez qu'on me suive, ou bien je suis perdue.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Enrique, Dom Alvar, Cassandre, Flore.</head>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='1067'>Ne vois-je pas ma soeur ? Elle me fuit en vain</l>
+	<l id='1068' part='i'>Si...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVARcoupant chemin à ENRIQUE qu'il voit se pr"parer à suivre Cassandre.</speaker>
+	<l id='1068' part='f'>Vous m'obligerez de changer de dessein,</l>
+	<l id='1069' part='i'>Cette Dame me touche.</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE.</speaker>
+	<l id='1069' part='f'>Et plus que vous peut-être</l>
+	<l id='1070'>Moi-même elle me touche, et je la veux connaître.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1071' part='i'>J'y pourrai mettre obstacle.</l>
+</sp>
+<sp who='ENRIQUE'><speaker>ENRIQUE, mettant l'épée à la main.</speaker>
+	<l id='1071' part='f'>Ah Dieu, me menacer !</l>
+	<l id='1072'>Voici, voici par où je le saurai forcer.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1073' part='i'>Vous reculez pourtant.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE,  paraissant après que Dom ALVAR a fait reculer ENRIQUE hors du Théâtre.</speaker>
+	<l id='1073' part='f'>Hélas ! Que dois-je faire ?</l>
+	<l id='1074'>Quel funeste combat d'un amant et d'un frère !</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='1075'>On les séparera, ne craignez rien pour eux.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1076'>Ce quartier est désert, Dom Alvar malheureux,</l>
+	<l id='1077' part='i'>Et la nuit qui survient...</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='1077' part='f'>Retirons nous, Madame.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1078'>Que de troubles divers s'élèvent dans mon âme !</l>
+	<l id='1079'>Encor si nous pouvions trouver quelque secours.</l>
+</sp>
+<sp who='FLORE'><speaker>FLORE.</speaker>
+	<l id='1080'>Nous ne les voyons plus, ils s'éloignent toujours,</l>
+	<l id='1081' part='i'>Mais Dom Lope...</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Dom Lope, Cassandre, Flore.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1081' part='f'>Ah, ma soeur, la funeste nouvelle !</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1082' part='i'>Qu'est-ce, mon frère ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1082' part='f'>Alonse est un ami fidèle,</l>
+	<l id='1083'>Et cette trahison dont j'osais murmurer,</l>
+	<l id='1084'>M'assurait le seul bien que je puis espérer ;</l>
+	<l id='1085'>Mais jugez quel espoir me doit rester encore</l>
+	<l id='1086'>Quand Enrique me perd, quand il me déshonore,</l>
+	<l id='1087'>Et qu'auteur d'un affront que je croyais venger,</l>
+	<l id='1088'>Malgré moi dans son crime il a su m'engager.</l>
+	<l id='1089'>Mais qui vous trouble ainsi ? vous semblez toute émue.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1090'>Un bruit d'armes ouï dans la prochaine rue,</l>
+	<l id='1091'>D'un effroi si subit vient de saisir mon coeur...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1092'>Je l'entends en effet, éloignez-vous, ma soeur.</l>
+	<l id='1093' part='i'>Je verrai ce que c'est.</l>
+</sp>
+</div2>
+<div2 type='scene' n='9'><head>SCÈNE IX. Dom Lope, Dom Alvar, Trois Braves le poursuivant.</head>
+<sp who='1er-BRAVE'><speaker>1er BRAVE.</speaker>
+	<l id='1093' part='f'>Ta mort suivra la sienne.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1094'>Que ne l'empêchiez-vous, comme je fais la mienne,</l>
+	<l id='1095' part='i'>Lâches ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1095' part='f'>Quoi, trois contre un ! donnons, je suis à vous,</l>
+	<l id='1096' part='i'>Mon cavalier, courage.</l>
+</sp>
+<sp who='2ème-BRAVE'><speaker>2ème BRAVE.</speaker>
+	<l id='1096' part='f'>Ô Dieu, les rudes coups !</l>
+</sp>
+<sp who='3ème-BRAVE'><speaker>3ème BRAVE.</speaker>
+	<l id='1097' part='i'>Ah ! Dom Lope...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1097' part='f'>Mon nom dans la bouche d'un lâche ?</l>
+</sp>
+<sp who='3ème-BRAVE'><speaker>3ème BRAVE.</speaker>
+	<l id='1098' part='i'>Sachez...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1098' part='f'>J'ai déjà su ce qu'il faut que je sache.</l>
+</sp>
+<sp who='2ème-BRAVE'><speaker>2ème BRAVE.</speaker>
+	<l id='1099'>Craignant quelque disgrâce, évitons sa fureur.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1100'>Vous fuyez, assassins, ce secours vous fait peur.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1101'>Laissons-les s'échapper, quoi qu'indignes de vivre,</l>
+	<l id='1102'>Ils ne méritent pas qu'on daigne les poursuivre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1103'>Cependant je dois tout à ce bras généreux,</l>
+	<l id='1104'>Sans vous ma résistance était vaine contre eux,</l>
+	<l id='1105' part='i'>Vous seul par un secours...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1105' part='f'>Épargnez-moi, de grâce,</l>
+	<l id='1106'>J'ai fait ce que vous même eussiez fait en ma place.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1107'>Au moins j'aurais montré que je sais mon devoir,</l>
+	<l id='1108'>Mais enfin où vous puis-je entretenir ce soir ?</l>
+	<l id='1109'>Il faut que je vous quitte, et ma disgrâce est telle</l>
+	<l id='1110'>Qu'ayant tué d'abord l'auteur de la querelle,</l>
+	<l id='1111'>Quoi que sa mort soit juste après sa lâcheté,</l>
+	<l id='1112'>Je serais criminel si j'étais arrêté.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1113'>Je ne laisserai pas mon secours inutile,</l>
+	<l id='1114'>Ne craignez rien, chez moi je vous offre un asile,</l>
+	<l id='1115'>Allons, et soyez sûr qu'au besoin contre tous</l>
+	<l id='1116'>Je saurai vous défendre, ou périr avec vous.</l>
+	<l id='1117' part='i'>Mais sans doute on vous cherche.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1117' part='f'>Ô malheur redoutable !</l>
+</sp>
+</div2>
+<div2 type='scene' n='10'><head>SCÈNE X. Dom Lope, Dom Alvar, Dom Louis, Suite d'Archers.</head>
+<sp who='DOM-LOUIS'><speaker>DOM LOUIS.</speaker>
+	<l id='1118'>Voyez nos soins, Dom Lope, à trouver un coupable,</l>
+	<l id='1119' part='i'>Enrique, hélas !</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1119' part='m'>Et bien ?</l>
+</sp>
+<sp who='DOM-LOUIS'><speaker>DOM LOUIS.</speaker>
+	<l id='1119' part='f'>Vient d'être assassiné.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1120' part='i'>Enrique !</l>
+</sp>
+<sp who='DOM-LOUIS'><speaker>DOM LOUIS.</speaker>
+	<l id='1120' part='f'>Et l'assassin par ici détourné,</l>
+	<l id='1121'>Tâchant de garantir sa teste par sa fuite,</l>
+	<l id='1122'>Attire sur ses pas notre juste poursuite,</l>
+	<l id='1123'>On l'a vu reculer les armes à la main.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1124'>Par votre diligence empêchez son dessein,</l>
+	<l id='1125' part='i'>Je vais pourvoir au reste.</l>
+</sp>
+</div2>
+<div2 type='scene' n='11'><head>SCÈNE XI. Dom Lope, Dom Alvar.</head>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1125' part='f'>Et vous devant la vie,</l>
+	<l id='1126' part='i'>Ce n'était pas assez...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1126' part='f'>Brisons-là, je vous prie.</l>
+	<l id='1127' part='i'>Savez-vous qui je suis ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1127' part='f'>C'était pour le savoir</l>
+	<l id='1128'>Que je vous demandais à vous parler ce soir.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1129'>Savez-vous contre qui je viens de vous défendre ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1130' part='i'>Non.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1130' part='f'>Savez-vous quel sang vous avez su répandre ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1131'>Aussi peu, seulement vous répondrai-je bien</l>
+	<l id='1132'>Que mon coeur sur ce point ne se reproche rien,</l>
+	<l id='1133'>Mais ne me cachez plus un secret qui m'importe.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1134'>Dom Lope de Guzman est le nom que je porte.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1135'>Je connais ce grand nom, et le malheur m'est doux</l>
+	<l id='1136'>Par qui je tiens le jour d'un homme tel que vous.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1137'>Gardez bientôt de prendre un sentiment contraire.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1138' part='i'>Pourquoi ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1138' part='f'>Si je vous dis que le mort est mon frère ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1139' part='i'>Votre frère !</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1139' part='f'>Oui, mon frère, et vous pouvez juger</l>
+	<l id='1140'>Si je puis vous défendre ayant à le venger.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1141' part='i'>Mais vous m'avez promis...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1141' part='f'>La promesse est frivole,</l>
+	<l id='1142'>Jamais contre soi-même on ne donne parole.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1143' part='i'>Que prétendez-vous donc ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1143' part='f'>Montrer par votre mort</l>
+	<l id='1144'>Que le devoir du sang est toujours le plus fort.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1145'>Et bien, me voici prêt à vous rendre une vie...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1146'>Non, je sais mieux à quoi la gloire me convie,</l>
+	<l id='1147'>Et ce n'est pas ici qu'au milieu du secours</l>
+	<l id='1148'>J'aspire sans péril à terminer vos jours.</l>
+	<l id='1149'>Adieu, retirez-vous, j'ai peur qu'on vous arrête,</l>
+	<l id='1150'>Allez en sûreté chercher une retraite,</l>
+	<l id='1151'>J'ai soin de votre vie et l'ose conserver,</l>
+	<l id='1152'>Mais sachez qu'en effet c'est me la réserver,</l>
+	<l id='1153'>Et qu'il n'est point de lieu, quoi que vous puissiez faire,</l>
+	<l id='1154'>Où sur vous mon devoir n'aille venger un frère.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1155'>Croyez-vous que son sang qu'a répandu ma main</l>
+	<l id='1156'>Soit l'effet criminel d'un injuste dessein ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1157'>Par soi-même un grand coeur juge toujours d'un autre,</l>
+	<l id='1158'>Mais c'est le sang d'un frère et je lui dois le vôtre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1159'>Me soupçonneriez-vous le courage assez bas</l>
+	<l id='1160'>Pour n'oser en tous lieux affronter le trépas ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1161'>Je vous ai vu combattre, et j'avouerai sans feindre</l>
+	<l id='1162'>Que je ne puis avoir d'ennemi plus à craindre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1163'>Donc sans plus balancer c'est ici que je dois</l>
+	<l id='1164'>Me montrer tel pour vous que vous êtes pour moi.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1165'>Que pensez-vous résoudre, et quelle est votre envie ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1166'>De fuir un ennemi qui m'a sauvé la vie,</l>
+	<l id='1167'>Et faire voir qu'au moins, si le Ciel l'eût permis,</l>
+	<l id='1168'>Nous n'étions pas peut-être indignes d'être amis.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1169'>C'est ce qui ne se peut après la mort d'un frère.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1170'>Aussi l'éloignement est pour moi nécessaire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1171' part='i'>Quoi, vous pourriez me fuir ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1171' part='f'>Je fuis avec éclat,</l>
+	<l id='1172'>Quand j'évite en fuyant le péril d'être ingrat.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1173'>Vous me verrez pousser ma vengeance à l'extrême,</l>
+	<l id='1174' part='i'>Je vous suivrai partout.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1174' part='f'>Je vous fuirai de même.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1175' part='i'>Je saurai vous chercher.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1175' part='f'>Et moi vous éviter.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1176'>Quoi, je ne tâche ici que de vous irriter,</l>
+	<l id='1177'>Et je ne puis enfin forcer votre colère</l>
+	<l id='1178'>D'accepter un combat qui me doit satisfaire ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1179'>C'est que songeant à fuir si vous me poursuivez,</l>
+	<l id='1180'>Je fais ce que je dois, vous, ce que vous devez.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1181'>Contentez ce devoir qui presse ma vengeance.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1182'>Il vous porte à combattre, et le mien m'en dispense.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1183'>Vous m'avez offensé, je dois vous en punir.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1184'>Vous m'avez obligé, je dois m'en souvenir.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1185' part='i'>Nous nous verrons pourtant.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1185' part='m'>Jamais.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1185' part='f'>Et ma poursuite ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1186'>Ne m'en mettrai-je pas à couvert par la fuite ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1187'>Peut-être, mais enfin si nous nous rencontrons</l>
+	<l id='1188' part='i'>Il faudra lors combattre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1188' part='f'>Et bien nous combattrons.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Alonse, Dom Lope.</head>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1189'>Je l'avais bien prévu, que tant de violence</l>
+	<l id='1190'>Pourrait enfin du Ciel lasser la patience,</l>
+	<l id='1191'>Et qu'à suivre toujours son seul emportement,</l>
+	<l id='1192'>Enrique par ses mains creusait son monument.</l>
+	<l id='1193'>Toutefois il respire, et son reste de vie</l>
+	<l id='1194'>Rend de quelque douceur sa disgrâce suivie,</l>
+	<l id='1195'>Puisqu'il nous laisse lieu d'espérer qu'au besoin</l>
+	<l id='1196'>Lui-même contre lui servira de témoin.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1197'>Ah, sans me déguiser ce qu'on ne me peut taire,</l>
+	<l id='1198'>Dites qu'on doit rougir d'avouer un tel frère,</l>
+	<l id='1199'>Et que sa lâcheté dans ce dernier combat</l>
+	<l id='1200'>N'a fait aux yeux de tous qu'un trop honteux éclat.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1201'>Il est vrai qu'on le blâme, et qu'un noble courage</l>
+	<l id='1202'>Du nombre contre un seul dédaigne l'avantage,</l>
+	<l id='1203'>Cependant chacun sait pour ménager ses jours</l>
+	<l id='1204'>Qu'il a pu s'abaisser à souffrir du secours.</l>
+	<l id='1205'>C'est au milieu de trois qui lui prêtaient main forte</l>
+	<l id='1206'>Que ce jeune inconnu l'a blessé de la sorte,</l>
+	<l id='1207'>Il est tombé mourant, et de sa fausse mort</l>
+	<l id='1208'>Tout le peuple amassé me faisait le rapport,</l>
+	<l id='1209'>Quand lui voyant encor quelques signes de vie</l>
+	<l id='1210'>À ne le point quitter l'amitié de convie,</l>
+	<l id='1211'>On arrête son sang, il revient lors à soi,</l>
+	<l id='1212'>Étant déjà tout proche on le porte chez moi,</l>
+	<l id='1213'>Où vous même avez vu dans l'ennui qui l'accable</l>
+	<l id='1214'>Que de tout son malheur il se tient seul coupable.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1215'>Hélas ! et plût au Ciel qu'en déplorant le sien</l>
+	<l id='1216'>Je n'eusse pas sujet de l'accuser du mien,</l>
+	<l id='1217'>Car enfin dans la loi que la fille m'impose,</l>
+	<l id='1218'>La promesse d'un père est pour moi peu de chose,</l>
+	<l id='1219'>Et je n'ai plus sans doute à songer qu'à mourir,</l>
+	<l id='1220'>Puisque votre amitié n'a pu me secourir.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1221'>J'avais crû jusqu'ici qu'il était impossible</l>
+	<l id='1222'>Qu'avec tant de vertu l'amour fut compatible,</l>
+	<l id='1223'>Et vous sachant aimé j'appréhendais fort peu</l>
+	<l id='1224'>Que Jacinte nous pût refuser son aveu.</l>
+	<l id='1225'>Mais s'il faut que ma crainte avec vous s'éclaircisse,</l>
+	<l id='1226'>Dom Sanche m'est suspect lui-même d'artifice,</l>
+	<l id='1227'>Je l'ai revu tantôt, et connu malgré lui</l>
+	<l id='1228'>Que l'accord accepté redouble son ennui.</l>
+	<l id='1229'>Lui parlant de vous voir, il n'a pu si bien faire</l>
+	<l id='1230'>Qu'un mouvement d'aigreur n'ait trahi sa colère,</l>
+	<l id='1231'>Elle a paru couverte et m'a trop fait juger</l>
+	<l id='1232'>Que rien n'éteint en lui l'ardeur de se venger.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1233'>Qu'il se venge ; aussi bien, quoi que j'ose entreprendre,</l>
+	<l id='1234'>Après ce que je sais je n'ai rien à prétendre,</l>
+	<l id='1235'>Pour paraître innocent mon effort serait vain ;</l>
+	<l id='1236'>Si c'est le même sang, qu'importe quelle main ?</l>
+	<l id='1237'>C'est ce malheur du sang dont je suis responsable,</l>
+	<l id='1238'>Qui me rendra toujours également coupable,</l>
+	<l id='1239'>Puisqu'ayant à combattre un destin rigoureux,</l>
+	<l id='1240'>C'est être criminel que d'être malheureux.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1241'>La vertu de la fille à nos desseins contraire,</l>
+	<l id='1242'>Semble avoir commencé la vengeance du père,</l>
+	<l id='1243'>Et ce trouble confus qu'il m'a fait remarquer,</l>
+	<l id='1244'>Me fait craindre pour vous à l'oser expliquer ;</l>
+	<l id='1245'>Mais le meilleur remède en ce malheur extrême,</l>
+	<l id='1246'>C'est de porter Enrique à s'accuser lui-même,</l>
+	<l id='1247'>À demander Dom Sanche, et ne lui point cacher</l>
+	<l id='1248'>Ce que je sais déjà qu'il s'ose reprocher.</l>
+	<l id='1249'>Pour peu qu'on soit sensible, il n'est rien qu'on refuse</l>
+	<l id='1250'>Au triste repentir d'un mourant qui s'accuse,</l>
+	<l id='1251'>Et quoi qu'ait résolu ce vieillard outragé,</l>
+	<l id='1252'>Par le malheur d'Enrique il se tiendra vengé,</l>
+	<l id='1253'>Il croira que le Ciel, à ses voeux favorable,</l>
+	<l id='1254'>Aura pris soin pour lui de punir un coupable,</l>
+	<l id='1255'>Et j'ose m'assurer du succès de vos feux</l>
+	<l id='1256'>Quand cet hymen pour lui n'aura rien de honteux.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1257'>Qu'Enrique obtint sur lui cette haute victoire ?</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1258'>Il l'obtiendra sans doute, et j'ai lieu de le croire,</l>
+	<l id='1259'>Puisqu'au nom de Fernand par hasard prononcé,</l>
+	<l id='1260'>Si Cassandre se plaint de son hymen forcé,</l>
+	<l id='1261'>(M'a-t-il dit d'une voix et languide et mourante,)</l>
+	<l id='1262'>Je ne l'oblige à rien, qu'elle vive contente.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1263'>Ah, si son repentir s'étendait jusqu'à moi.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1264'>Vous en verrez l'effet tel que je le prévois.</l>
+	<l id='1265'>Adieu, pour vous servir je vais mettre en usage</l>
+	<l id='1266'>Tout ce qui peut abattre un orgueilleux courage.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1267'>Cependant dans l'espoir de quelque mot d'avis,</l>
+	<l id='1268'>Je vais rêver une heure autour de ce logis,</l>
+	<l id='1269'>Si je suis aperçu, Blanche pourra paraître.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1270'>Et si quelqu'autre aussi vous allait reconnaître,</l>
+	<l id='1271'>Et que la force en main le vieillard averti,</l>
+	<l id='1272'>Malgré tout notre accord vous fît mauvais parti ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1273'>Vous parlez d'un péril que mon amour méprise.</l>
+</sp>
+<sp who='ALONSE'><speaker>ALONSE.</speaker>
+	<l id='1274'>Ce n'est pas sans sujet que j'en crains la surprise.</l>
+	<l id='1275'>Voyez, la Lune brille avec tant de clarté,</l>
+	<l id='1276'>Que la nuit n'eut jamais si peu d'obscurité.</l>
+	<l id='1277'>Ne vous exposez point si vous m'en voulez croire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1278'>J'aurai soin de ma vie, ayez soin de ma gloire,</l>
+	<l id='1279'>Et puis qu'un fier destin s'oppose à mon bonheur,</l>
+	<l id='1280'>Par l'aveu du coupable assurez mon honneur.</l>
+<stage>Seul.</stage>
+	<l id='1281'>Enfin, Fortune, enfin quoi que ta rage ordonne,</l>
+	<l id='1282'>Mon coeur à ton caprice aujourd'hui s'abandonne,</l>
+	<l id='1283'>Et de son désespoir il tire au moins ce bien,</l>
+	<l id='1284'>Qu'il se trouve en état de ne craindre plus rien.</l>
+	<l id='1285'>Mais si dans sa clarté la Lune m'est fidèle,</l>
+	<l id='1286'>Je vois cet inconnu contre qui j'ai querelle,</l>
+	<l id='1287'>C'est lui-même, parlons, puisqu'il s'ose approcher.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Lope, Dom Alvar.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1288' part='i'>Me reconnaissez-vous ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1288' part='f'>Je vous allais chercher,</l>
+	<l id='1289'>Et quelque rigoureux que mon destin se montre,</l>
+	<l id='1290'>Je lui suis obligé d'une telle rencontre.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1291'>Quoi, croyez-vous ainsi pouvoir impunément</l>
+	<l id='1292'>Braver et ma colère, et mon ressentiment ?</l>
+	<l id='1293'>Il ne vous souvient plus que l'honneur vous convie</l>
+	<l id='1294'>De fuir un ennemi dont vous tenez la vie ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1295'>Cette obligation est dans mon souvenir,</l>
+	<l id='1296'>J'en ai donné parole, et saurai la tenir.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1297'>Me chercher n'en est pas une preuve trop forte.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1298'>C'est pour mieux l'observer que j'agis de la sorte.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1299'>Mais vous n'ignorez pas qu'un devoir assez fort</l>
+	<l id='1300'>M'oblige sans réserve à vouloir votre mort ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1301'>Je connais ce devoir, mais qu'ai-je lieu d'en craindre</l>
+	<l id='1302'>Quand je viens le suspendre et non pas le contraindre,</l>
+	<l id='1303'>Et qu'à votre courroux j'épargne en ce projet</l>
+	<l id='1304'>La honte d'éclater contre un indigne objet ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1305' part='i'>Ce discours est obscur.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1305' part='f'>Pour vous le faire entendre</l>
+	<l id='1306'>Oyez par un billet ce que je viens d'apprendre.</l>
+	<l id='1307'>Un injuste ennemi par un noir attentat,</l>
+	<l id='1308'>Envieux de ma gloire, en a terni l'éclat,</l>
+	<l id='1309'>L'outrage par le sang ne s'efface qu'à peine,</l>
+	<l id='1310'>On m'en donne l'avis, voila ce qui m'amène.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1311' part='i'>Et que pensez-vous faire ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1311' part='f'>En pouvez-vous douter,</l>
+	<l id='1312'>Et dans de tels malheurs a-t-on à consulter ?</l>
+	<l id='1313'>Je ne balance point, quelle que soit l'offense,</l>
+	<l id='1314'>Tout mon sang indigné m'en demande vengeance,</l>
+	<l id='1315'>Mais ce bien le plus grand qu'on puisse concevoir,</l>
+	<l id='1316'>Dom Lope, c'est à vous que je le veux devoir.</l>
+	<l id='1317'>Quoi que mon ennemi, j'ai peu de peine à croire</l>
+	<l id='1318'>Que l'appui de mes jours le sera de ma gloire,</l>
+	<l id='1319'>Et le moyen aussi de juger d'un grand coeur</l>
+	<l id='1320'>Qu'il fît tout pour ma vie, et rien pour mon honneur ?</l>
+	<l id='1321'>J'ose donc vous revoir sans qu'un respect frivole</l>
+	<l id='1322'>Me fasse appréhender de manquer de parole,</l>
+	<l id='1323'>Puisque loin de braver votre juste courroux</l>
+	<l id='1324'>J'en recule l'effet moins pour moi que pour vous.</l>
+	<l id='1325'>J'ai promis de vous fuir, mais je veux que ma fuite</l>
+	<l id='1326'>D'un si grand ennemi mérite la poursuite,</l>
+	<l id='1327'>Et n'auriez-vous pas lieu si je fuyais ainsi,</l>
+	<l id='1328'>De dédaigner un sang par un autre noirci ?</l>
+	<l id='1329'>On m'a fait un affront, j'ai tué votre frère,</l>
+	<l id='1330'>La vengeance à tous deux aujourd'hui nous est chère,</l>
+	<l id='1331'>Mais quoi qu'en ce rencontre elle ait pour vous d'appas,</l>
+	<l id='1332'>Si vous la différez, vous ne la perdez pas.</l>
+	<l id='1333'>Devenons donc amis tant que le sang d'un lâche</l>
+	<l id='1334'>De ma gloire obscurcie ait effacé la tache,</l>
+	<l id='1335'>Et que par son trépas mon honneur affermi,</l>
+	<l id='1336'>Je puisse mériter d'être votre ennemi ;</l>
+	<l id='1337'>Car enfin j'ai pour vous une trop pure estime</l>
+	<l id='1338'>Pour vouloir abuser d'un coeur si magnanime,</l>
+	<l id='1339'>Ma vengeance est la vôtre, et je n'en suis jaloux</l>
+	<l id='1340'>Que pour rendre mon sang moins indigne de vous.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1341'>Je ne sais que répondre, et c'est par mon silence</l>
+	<l id='1342'>Que vous laissant juger de tout ce que je pense,</l>
+	<l id='1343'>Je crois mieux expliquer dans mon sort rigoureux</l>
+	<l id='1344'>Ce que peut la vertu sur un coeur généreux.</l>
+	<l id='1345'>Mais où cette vertu me va-t-elle réduire ?</l>
+	<l id='1346'>Vous savez m'obliger quand je cherche à vous nuire,</l>
+	<l id='1347'>Et pressé d'un devoir que je n'ose trahir,</l>
+	<l id='1348'>Je vois que vous m'ôtez le droit de vous haïr.</l>
+	<l id='1349'>Ce devoir toutefois que presse la Nature</l>
+	<l id='1350'>Se trahirait soi-même à souffrir votre injure,</l>
+	<l id='1351'>Il y prend intérêt, et dans votre ennemi</l>
+	<l id='1352'>Par un dessein bizarre il vous donne un ami.</l>
+	<l id='1353'>Je le suis, j'en fais gloire, et d'un aveugle zèle</l>
+	<l id='1354'>En tous lieux, contre tous, je prends votre querelle,</l>
+	<l id='1355'>À venger votre affront servez-vous de mon bras,</l>
+	<l id='1356'>Un ami tel que moi ne vous manquera pas ;</l>
+	<l id='1357'>Mais cet affront vengé, mon coeur quoi qu'avec peine</l>
+	<l id='1358'>Dépouille l'amitié pour reprendre la haine,</l>
+	<l id='1359'>Et l'intérêt d'un frère est un respect trop fort,</l>
+	<l id='1360'>Pour oser voir en vous que l'auteur de sa mort.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1361'>Au moins dans cet instant, que l'amitié reçue</l>
+	<l id='1362'>Tient pour moi dans ce coeur la haine suspendue,</l>
+	<l id='1363'>Souffrez qu'impatient de m'acquitter vers vous,</l>
+	<l id='1364'>D'un ami si parfait j'embrasse les genoux.</l>
+	<l id='1365'>Rendrais-je un moindre hommage à qui je dois la vie ?</l>
+	<l id='1366'>Mais on veut vous parler, ou bien l'on nous épie.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Lope, Dom Alavar, Blanche.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1367' part='i'>Ah ! Blanche.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1367' part='f'>Qu'à propos je vous ai reconnu !</l>
+	<l id='1368' part='i'>L'on m'envoyait chez vous.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1368' part='f'>Quoi, qu'est-il survenu ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1369' part='i'>Venez, on vous attend.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1369' part='m'>Moi, Blanche ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1369' part='f'>Oui, ma maîtresse</l>
+	<l id='1370'>Veut résoudre avec vous une affaire qui presse.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1371' part='i'>Que je crains...</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1371' part='f'>Craignez tout d'un courroux déguisé.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1372'>Sans doute le vieillard n'est point désabusé,</l>
+	<l id='1373' part='i'>C'est ce qu'on veut m'apprendre ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1373' part='f'>Il est vrai qu'il s'emporte.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1374'>C'est assez, je te suis, va m'attendre à la porte.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Dom Lope, Dom Alvar.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1375'>Voyez que l'amitié se croit beaucoup permis.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1376'>Souffre-t-on la contrainte entre les vrais amis,</l>
+	<l id='1377'>Vous m'avez obligé, mais quel est ce message ?</l>
+	<l id='1378'>D'autre que d'une fille il m'aurait fait ombrage,</l>
+	<l id='1379' part='i'>Vous êtes tout rêveur.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1379' part='f'>Peut-être en ai-je lieu,</l>
+	<l id='1380'>Mais enfin il est temps que je vous dise adieu.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1381'>Quoi, sans me découvrir ce qui vous inquiète ?</l>
+	<l id='1382'>Dom Lope, c'est donc là cette amitié parfaite,</l>
+	<l id='1383'>Je me découvre à vous, vous vous cachez de moi.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1384'>Avec peu de raison vous soupçonnez ma foi,</l>
+	<l id='1385'>Et s'il faut éclaircir le sujet de ma peine</l>
+	<l id='1386'>J'ai reçu rendez-vous, et c'est ce qui me gêne.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1387' part='i'>La faveur vous déplaît ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1387' part='f'>J'aime et je suis aimé,</l>
+	<l id='1388'>Mais un père fâcheux tient mon coeur alarmé,</l>
+	<l id='1389'>Et contre mon espoir cette faveur offerte</l>
+	<l id='1390'>Est moins faveur pour moi que l'arrêt de ma perte :</l>
+	<l id='1391'>Il me hait, et la fille attendant son aveu</l>
+	<l id='1392'>D'une vertu si fière accompagne son feu,</l>
+	<l id='1393'>Que je n'en dois prévoir qu'une atteinte mortelle</l>
+	<l id='1394'>Puisqu'elle se dispense à m'appeler chez elle.</l>
+	<l id='1395'>Ainsi de ce vieillard redoutant le courroux</l>
+	<l id='1396'>J'accepte avec chagrin un pareil rendez-vous,</l>
+	<l id='1397'>Non, parce qu'au malheur dont ma flamme est suivie,</l>
+	<l id='1398'>Si je suis découvert, il y va de ma vie,</l>
+	<l id='1399'>Mais parce que surpris dedans son entretien</l>
+	<l id='1400'>Tout mon sang exposé n'assure pas le sien</l>
+	<l id='1401'>Mais je vous quitte enfin, c'est trop la faire attendre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1402' part='i'>Je vous escorterai.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1402' part='m'>Vous ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1402' part='f'>Quoi, vous en défendre !</l>
+	<l id='1403'>Craignez-vous que ce bras ne vous manque au besoin ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1404'>Un amour si secret fuit un nouveau témoin,</l>
+	<l id='1405'>Et je dois ce respect à l'objet de ma flamme,</l>
+	<l id='1406' part='i'>De...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1406' part='f'>Vous abandonner c'est me couvrir de blâme,</l>
+	<l id='1407'>Et mon coeur est pour vous injuste au dernier point</l>
+	<l id='1408'>S'il vous souffre un péril qu'il ne partage point.</l>
+	<l id='1409' part='i'>Non, non, je vous suivrai.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1409' part='f'>Vous ne prenez pas garde</l>
+	<l id='1410'>À ce qu'en ce projet votre amitié hasarde,</l>
+	<l id='1411'>Et que dans ma disgrâce oser vous engager,</l>
+	<l id='1412'>C'est vous mettre en état de ne vous point venger,</l>
+	<l id='1413'>Que devient cette ardeur d'effacer votre injure ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1414'>Sur l'occasion seule un grand coeur se mesure.</l>
+	<l id='1415' part='i'>Allons, nous perdons temps.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1415' part='m'>Mais...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1415' part='f'>C'est trop contester,</l>
+	<l id='1416'>Sachant ce que je sais je ne puis vous quitter.</l>
+	<l id='1417' part='i'>Sur tout, je suis discret.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1417' part='f'>Je n'ai plus rien à dire,</l>
+	<l id='1418'>Mais je vous devrai trop, et mon coeur en soupire,</l>
+	<l id='1419'>Puisqu'après cet accord que l'honneur rend permis,</l>
+	<l id='1420'>Ce même honneur nous force à cesser d'être amis.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1421'>Ne songeons maintenant qu'à ce qui vous importe.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1422'>Nous n'irons pas bien loin, voyez d'ici la porte,</l>
+	<l id='1423' part='i'>J'y dois être attendu.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Lope, Dom Alvar, Blanche.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1423' part='m'>Blanche.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1423' part='f'>Entrez et sans bruit,</l>
+	<l id='1424' part='i'>De peur que... Mais que vois-je?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1424' part='f'>Un ami qui me suit,</l>
+	<l id='1425'>Ne crains rien, sa vertu dans mon sort l'intéresse.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1426'>Vous me perdez, Monsieur, que dira ma maîtresse ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1427'>Va, je t'excuserai, n'en sois point en souci.</l>
+	<l id='1428'>Ami, j'en use mal de vous laisser ici,</l>
+	<l id='1429' part='i'>Seul, de nuit, sans clarté, mais...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1429' part='f'>Cette excuse est vaine,</l>
+	<l id='1430'>Un désir curieux n'est pas ce qui m'amène,</l>
+	<l id='1431'>Je vous attends, allez, et ne m'oubliez pas</l>
+	<l id='1432'>Si vous avez besoin du secours de mon bras.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1433'>La chambre où je vous mène ayant double sortie,</l>
+	<l id='1434'>Contre toute surprise assure la partie,</l>
+	<l id='1435'>D'ailleurs l'appartement est assez reculé.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR, seul.</speaker>
+	<l id='1436'>De quel sort plus étrange a-t-on jamais parlé ?</l>
+	<l id='1437'>Quand un père offensé dont j'ignore l'outrage,</l>
+	<l id='1438'>Au soutien de sa gloire appelle mon courage,</l>
+	<l id='1439'>Pour ne me pas montrer généreux à demi</l>
+	<l id='1440'>Il faut que je m'engage avec mon ennemi,</l>
+	<l id='1441'>Et dans cet ennemi que mon malheur me laisse</l>
+	<l id='1442'>Je trouve à respecter le sang d'une maîtresse.</l>
+	<l id='1443'>Ô haine, amour, vengeance, ô doux et puissants noeuds,</l>
+	<l id='1444'>Qui déchirez mon âme et confondez mes voeux,</l>
+	<l id='1445'>Finissez un combat qui me rend trop à plaindre,</l>
+	<l id='1446'>Ou cachez-moi les maux que vous me faites craindre.</l>
+	<l id='1447'>Mais j'ois marcher quelqu'un, ne sachant où je suis,</l>
+	<l id='1448'>Songer à la défense est tout ce que je puis,</l>
+	<l id='1449'>Ne nous découvrons point si l'on ne nous découvre.</l>
+	<l id='1450'>Mais Dieux ! N'entends-je pas une porte qui s'ouvre ?</l>
+	<l id='1451'>La lumière paraît, enfin tout est perdu,</l>
+	<l id='1452' part='i'>Que ferai-je ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Sanche, Dom Alvar.</head>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1452' part='f'>Un bruit sourd vers la porte entendu,</l>
+	<l id='1453'>Dans l'attente d'un fils à mes souhaits si chère...</l>
+	<l id='1454'>Mais ne le vois-je pas ? Ah, mon fils !</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1455' part='i'>Ah, mon père.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1455' part='m'>Je puis donc te revoir ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1455' part='f'>C'est donc vous que je vois ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1456'>Ah, qu'avecque raison tu doutes si c'est moi !</l>
+	<l id='1457'>Dans l'affront que je pleure et qui me désespère,</l>
+	<l id='1458'>Tu peux, tu peux, mon fils, méconnaître ton père.</l>
+	<l id='1459'>La rougeur de mon front t'empêche d'y trouver</l>
+	<l id='1460'>Ces traits que la Nature y sut jadis graver,</l>
+	<l id='1461'>Tu les cherches en vain, mais sûr de ma vengeance,</l>
+	<l id='1462'>Si je dois aujourd'hui t'expliquer mon offense,</l>
+	<l id='1463'>J'ai l'avantage au moins qu'en ton ressentiment</l>
+	<l id='1464'>Tu n'auras de ma honte à rougir qu'un moment.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1465'>Ce moment est trop long, hâtez-vous de m'apprendre</l>
+	<l id='1466'>Quel sang pour l'effacer il faut aller répandre.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1467'>Te dirai-je, mon fils, que l'affront est si bas,</l>
+	<l id='1468'>Qu'il serait trop vengé, s'il l'était par ton bras ?</l>
+	<l id='1469'>Pour un lâche ennemi capable de surprise</l>
+	<l id='1470'>La générosité n'est pas même permise,</l>
+	<l id='1471'>Ne t'inquiète point de mon honneur perdu,</l>
+	<l id='1472'>S'il lui faut une vie, on m'en a répondu,</l>
+	<l id='1473' part='i'>Il périra, le traître.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1473' part='f'>Ah, que voulez-vous faire ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1474'>Te remettre en état de m'avouer pour père.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1475'>Me réserveriez-vous à cette lâcheté,</l>
+	<l id='1476' part='i'>De souffrir...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1476' part='f'>Il aura ce qu'il a mérité.</l>
+	<l id='1477'>Où l'offense est indigne et basse et lâche et noire</l>
+	<l id='1478'>Tout ce qui la répare est toujours plein de gloire,</l>
+	<l id='1479'>Fer, poison, tout est beau, quand il n'est point douteux,</l>
+	<l id='1480'>Et pourvu qu'on se venge il n'est rien de honteux.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1481'>Expliquez-vous enfin, et sachons cette offense.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1482'>Elle est...Ah, tout mon sang en frémit quand j'y pense,</l>
+	<l id='1483'>Il se trouble, il s'indigne au nom de l'offenseur,</l>
+	<l id='1484'>Si tu le veux savoir, apprends-le de ta soeur.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1485' part='i'>Où courez vous, mon père ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1485' part='f'>Il faut que je l'appelle.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1486' part='i'>Pensez vous...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1486' part='f'>Oui, mon fils, tu sauras mieux tout d'elle.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1487' part='i'>Peut-être...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1487' part='f'>Je l'amène ici dans un moment.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR, seul.</speaker>
+	<l id='1488'>Puis-je encor me connaître en cet évènement ?</l>
+	<l id='1489'>Dom Lope aime ma soeur, et moi-même à ma honte</l>
+	<l id='1490'>J'assure un rendez-vous au feu qui le surmonte.</l>
+	<l id='1491'>Ah, suivons...mais hélas ! ne précipitons rien,</l>
+	<l id='1492'>S'il offense mon sang, j'ai répandu le sien,</l>
+	<l id='1493'>Et lors qu'avecque lui ma parole m'engage,</l>
+	<l id='1494'>Consentir à sa perte est manquer de courage ;</l>
+	<l id='1495'>Et puis, si ce point seul nous rendait ennemis,</l>
+	<l id='1496'>Que lui puis-je imputer que je n'ai point commis ?</l>
+	<l id='1497'>Il brûle pour Jacinte, et j'adore Cassandre.</l>
+	<l id='1498'>Mais qu'il tarde à venir ! L'aurait-on pu surprendre ?</l>
+	<l id='1499'>Si j'ai bien entendu d'un et d'autre côté</l>
+	<l id='1500'>Une porte au besoin le met en sûreté.</l>
+	<l id='1501'>Puisqu'il peut s'échapper, quel obstacle l'arrête ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Dom Lope, Dom Alvar, Blanche.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1502'>Ami, notre vieillard m'oblige à la retraite,</l>
+	<l id='1503' part='i'>Sortons, et vous saurez...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1503' part='f'>Ami, je le connais ;</l>
+	<l id='1504'>Je viens de lui parler, ne craignez rien pour moi.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1505' part='i'>Vous ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1505' part='f'>M'en voyant surpris j'ai feint sur quelque affaire</l>
+	<l id='1506'>Qu'une lettre de lui m'était fort nécessaire,</l>
+	<l id='1507'>Il est allé l'écrire, et dans cet embarras</l>
+	<l id='1508'>Je me rendrais suspect à ne l'attendre pas.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1509' part='i'>Mais...</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1509' part='f'>Je l'entends déjà, le rendez vous funeste !</l>
+	<l id='1510' part='i'>Sortez vite.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1510' part='f'>Demain je vous dirai le reste.</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Dom Sanche, Dom Alvar, Jacinte, Blanche.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1511'>Quoi, sans savoir pourquoi je dois tant me hâter ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1512'>En croiras-tu tes yeux ? tu les peux consulter,</l>
+	<l id='1513'>Reconnais-tu ce fils que le Ciel me renvoie ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1514'>Juste Ciel, se peut-il qu'enfin je le revoie ?</l>
+	<l id='1515' part='i'>Ah, mon frère, est-ce vous ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1515' part='f'>Mon déplaisir, ma soeur,</l>
+	<l id='1516'>Me laisse de ce nom mal goûter la douceur.</l>
+	<l id='1517' part='i'>Quand un père offensé...</l>
+<stage>Blanche revient.</stage>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1517' part='f'>Dis-lui, dis-lui, ma fille,</l>
+	<l id='1518'>Cet affront si honteux à toute ma famille,</l>
+	<l id='1519'>Et si dans mes ennuis tu veux me soulager,</l>
+	<l id='1520'>Nomme-lui l'ennemi dont je dois me venger.</l>
+	<l id='1521'>Quand l'outrage est mortel, qu'il va jusqu'à l'extrême,</l>
+	<l id='1522'>C'est s'en faire un nouveau que l'expliquer soi-même.</l>
+	<l id='1523'>Par ces tristes soupirs l'un par l'autre pressez,</l>
+	<l id='1524'>Épargne cette honte à qui rougit assez.</l>
+	<l id='1525'>Tu te tais ; oui ma fille, à conter mon injure</l>
+	<l id='1526'>Ton sang pourrait du mien contracter la souillure,</l>
+	<l id='1527'>Il est encor sans tache, et ton père affronté</l>
+	<l id='1528'>N'en corrompt pas sitôt toute la pureté.</l>
+	<l id='1529'>Défends-toi, j'y consens, d'un récit qui t'outrage,</l>
+	<l id='1530'>Si ton refus me gêne, il montre ton courage,</l>
+	<l id='1531'>Tu ne peux t'abaisser à parler d'un affront</l>
+	<l id='1532'>Dont par moi l'infamie éclate sur ton front,</l>
+	<l id='1533'>Mais s'il faut que moi-même enfin je le déclare,</l>
+	<l id='1534'>Mon fils, souffre un moment que mon coeur s'y prépare.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1535' part='i'>Son fils, Madame ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1535' part='m'>Oui, Blanche.</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1535' part='f'>Ô Dieu que ferons-nous !</l>
+	<l id='1536'>Il escortait Dom Lope, il sait le rendez-vous.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1537'>Que dis-tu ? C'était lui qui lui servait d'escorte ?</l>
+</sp>
+<sp who='BLANCHE'><speaker>BLANCHE.</speaker>
+	<l id='1538' part='i'>Lui même.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1538' part='f'>Enfin je cède au soupçon qui m'emporte,</l>
+	<l id='1539' part='i'>Parlez, ou je croirai...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1539' part='f'>Crois tout ce que tu peux,</l>
+	<l id='1540'>L'affront dont je rougis est encor plus honteux.</l>
+	<l id='1541' part='i'>Connais-tu les Guzmans ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1541' part='f'>Oui, ce nom est illustre.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1542'>L'un d'eux par mon offense en a terni le lustre,</l>
+	<l id='1543'>Dom Lope... Enfin c'est fait, j'ai nommé l'offenseur.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1544' part='i'>Quoi, Dom Lope...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1544' part='f'>Ah! Mon fils, daigne épargner ta soeur.</l>
+	<l id='1545'>Vois comme trop sensible à l'outrage d'un père,</l>
+	<l id='1546'>Le nom d'un ennemi l'enflamme de colère.</l>
+	<l id='1547'>Vois de quels mouvements son coeur est combattu,</l>
+	<l id='1548'>Et plaignant ma disgrâce, admire sa vertu.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1549'>J'en suis surpris sans doute encor plus que vous n'êtes.</l>
+	<l id='1550' part='i'>Dom Lope...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1550' part='f'>Vois son trouble au nom que tu répètes,</l>
+	<l id='1551'>Et juge à ces effets de haine et de courroux</l>
+	<l id='1552'>Si j'ai dû consentir d'en faire son époux,</l>
+	<l id='1553' part='i'>On me l'a fait promettre, et j'ai feint...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1553' part='f'>Ah ! Mon père.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1554'>Non, quand ce seul moyen me pourrait satisfaire,</l>
+	<l id='1555'>Ne crois pas, quelque éclat que mon malheur ait eu,</l>
+	<l id='1556'>Que j'abuse jamais de ton trop de vertu.</l>
+	<l id='1557'>Je sais que tu le hais, je sais que la vengeance</l>
+	<l id='1558'>T'ayant mis dans le coeur toute sa violence,</l>
+	<l id='1559'>Tu souffrirais bien plus à lui donner la main,</l>
+	<l id='1560'>Qu'à lui plonger toi-même un poignard dans le sein.</l>
+	<l id='1561'>À ces grands mouvements abandonne ton âme,</l>
+	<l id='1562'>Donne-toi toute entière à l'ardeur qui l'enflamme,</l>
+	<l id='1563' part='i'>Et s'il faut...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1563' part='f'>Cet avis ne nous rend pas l'honneur,</l>
+	<l id='1564'>Mon père, et vous gênez la vertu de ma soeur.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1565'>Ah ! si tu connaissais quel noble sacrifice...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1566'>Elle sait de nous deux qui lui rend mieux justice.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1567'>L'apparence, mon frère, est trop à soupçonner...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1568'>Il n'est pas temps, ma soeur, de rien examiner.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1569'>Oui, c'est trop en effet lui dérober la joie</l>
+	<l id='1570'>Que lui permet le Ciel au bonheur qu'il m'envoie,</l>
+	<l id='1571'>Étouffe ce chagrin où ton coeur s'est plongé,</l>
+	<l id='1572'>Encor un peu, ma fille, et ton père est vengé.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1573' part='i'>Vous, mon père, et de qui ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1573' part='f'>De cet ennemi même</l>
+	<l id='1574'>Dont pour toi le seul nom est un supplice extrême.</l>
+	<l id='1575'>Crois-le déjà sans vie, et par un doux transport</l>
+	<l id='1576'>Tâche de t'avancer le plaisir de sa mort.</l>
+	<l id='1577'>Peints-le toi tout sanglant, blessure sur blessure</l>
+	<l id='1578'>Par son dernier soupir expier notre injure,</l>
+	<l id='1579' part='i'>Repais de cette image...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1579' part='f'>Elle a beaucoup d'appas,</l>
+	<l id='1580'>Mais il périt en vain s'il ne vous venge pas.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1581'>S'il ne me venge pas ? Apprends, apprends l'offense,</l>
+	<l id='1582'>Et sache que lui même a réglé ma vengeance,</l>
+	<l id='1583'>Si je ne la veux perdre, il le faut imiter.</l>
+	<l id='1584'>Par des gens apostez il m'a fait affronter,</l>
+	<l id='1585'>Et lors que pour ma gloire il doit cesser de vivre,</l>
+	<l id='1586'>Son exemple est pour moi le seul exemple à suivre.</l>
+	<l id='1587'>J'ai préparé le piège, et c'est dans cette nuit</l>
+	<l id='1588' part='i'>Que des Braves...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1588' part='f'>Ô Ciel, où me vois-je réduit ?</l>
+	<l id='1589' part='i'>Et je m'arrête encor, c'est trop.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1589' part='f'>Que vas-tu faire ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1590'>Défendre un ennemi pour mieux venger un père.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1591' part='i'>Quoi ? Tu peux condamner...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1591' part='f'>Vous m'arrêtez en vain,</l>
+	<l id='1592'>Son sang est mal versé si ce n'est par ma main.</l>
+<stage>Il sort.</stage>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1593'>Ô l'indigne scrupule où son coeur s'abandonne !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1594' part='i'>Hélas !</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1594' part='f'>Ainsi que moi sa faiblesse t'étonne,</l>
+	<l id='1595'>Mais quoi qu'il ose enfin, cesse d'en soupirer,</l>
+	<l id='1596'>Ma partie est bien faite, et tu peux espérer.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1597'>Dans un pareil malheur que veut-on que j'espère ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1598'>Que peut-être déjà l'on a vengé ton père.</l>
+	<l id='1599'>Viens, suis-moi, quelques maux que je puisse prévoir,</l>
+	<l id='1600'>Mon plus grand déplaisir se console à te voir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Dom Lope, Cassandre.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1601'>C'était pour m'en donner la funeste nouvelle</l>
+	<l id='1602'>Que Jacinte hier au soir m'osa mander chez elle,</l>
+	<l id='1603'>Il n'en faut point douter ; son trouble à mon abord,</l>
+	<l id='1604'>Ce discours préparé des caprices du Sort,</l>
+	<l id='1605'>Ces serments exigez d'obéir sans murmure,</l>
+	<l id='1606'>Étaient de ma disgrâce une marque trop sûre,</l>
+	<l id='1607'>Et quoi que du vieillard presque aussitôt  surpris,</l>
+	<l id='1608'>J'eusse dû la quitter sans avoir rien appris,</l>
+	<l id='1609'>Au désordre confus qu'elle me fit paraître</l>
+	<l id='1610'>Devinant aisément ce qui le faisait naître,</l>
+	<l id='1611'>J'eusse pu me soustraire à ce noir attentat</l>
+	<l id='1612'>Si pour prévoir l'orage on en fuyait l'éclat.</l>
+	<l id='1613'>Mais de tant d'assassins la troupe découverte,</l>
+	<l id='1614'>Prêt de rentrer chez moi marquait déjà ma perte,</l>
+	<l id='1615'>Et je ne combattais, assuré de périr,</l>
+	<l id='1616'>Que pour venger ma mort avant que de mourir,</l>
+	<l id='1617'>Quand une voix de loin à ce bruit de nos armes</l>
+	<l id='1618'>Me remplissant d'espoir et nos traîtres d'alarmes,</l>
+	<l id='1619'>Prends courage, Dom Lope, à moi lâches, à moi,</l>
+	<l id='1620'>Nous dit-on, et ces mots redoublent leur effroi.</l>
+	<l id='1621'>Me voyant secondé, la victoire en balance,</l>
+	<l id='1622'>Ces braves attaquants demeurent sans défence,</l>
+	<l id='1623'>Et leur fuite aussitôt  dans ce manque de coeur</l>
+	<l id='1624'>Me laisse rendre grâce à mon libérateur.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1625'>Certes, je tremble encor à vous ouïr redire</l>
+	<l id='1626'>Avec quelle fureur contre vous on conspire ;</l>
+	<l id='1627'>Croyant vous avancer, Alonse vous a nui,</l>
+	<l id='1628'>Et sa feinte à vos feux prête un mauvais appui.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1629'>C'est ainsi que le sort par un dernier outrage,</l>
+	<l id='1630'>Dans un calme apparent me fait faire naufrage,</l>
+	<l id='1631'>Et trompant d'un ami le zèle officieux</l>
+	<l id='1632'>N'élève mon espoir que pour l'abattre mieux.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1633'>C'est le dernier des biens dont sa rigueur nous prive.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1634'>Vous en jugez, ma soeur, par ce qui vous arrive,</l>
+	<l id='1635'>Et d'un fâcheux hymen qui faisait votre mort,</l>
+	<l id='1636'>Enrique avec Fernand ayant rompu l'accord,</l>
+	<l id='1637'>D'un si prompt changement le revers favorable</l>
+	<l id='1638'>Vous en fait pour ma flamme espérer un semblable.</l>
+	<l id='1639'>Mais qu'en vain jusques-là je voudrais me flatter !</l>
+	<l id='1640'>Dom Sanche veut ma mort, je ne puis l'éviter,</l>
+	<l id='1641'>Et quoi qu'on fasse enfin, je n'ai point à prétendre</l>
+	<l id='1642'>Qu'après l'avoir jurée il m'accepte pour gendre.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1643' part='i'>Mais il vous croit coupable.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1643' part='f'>Il le croira toujours.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1644'>La vérité connue est un puissant secours,</l>
+	<l id='1645'>Vous n'êtes criminel que pour la vouloir taire.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1646'>Chercher mon innocence en accusant un frère,</l>
+	<l id='1647'>Un frère, dont l'état trop digne de pitié,</l>
+	<l id='1648'>Me ferait soupçonner d'un secours mendié !</l>
+	<l id='1649'>D'un si lâche dessein je me sens incapable,</l>
+	<l id='1650'>Et puisque son aveu ne le rend point coupable,</l>
+	<l id='1651'>Qu'à s'accuser soi-même il n'a pu consentir,</l>
+	<l id='1652'>Je ne publierai point ce qu'il peut démentir.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1653'>Espérez tout d'Alonse, il l'observe sans cesse,</l>
+	<l id='1654'>Et dans la juste ardeur qui pour vous l'intéresse,</l>
+	<l id='1655'>Sans doute il tentera cent moyens superflus,</l>
+	<l id='1656'>Ou trouvera celui de vaincre ses refus.</l>
+	<l id='1657'>S'il a pu l'obliger touchant mon hyménée</l>
+	<l id='1658'>À reprendre pour moi la parole donnée...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1659'>Ah, le faible motif pour prétendre à mon tour,</l>
+	<l id='1660'>Qu'avec même succès il serve mon amour !</l>
+	<l id='1661'>Que dans vos intérêts Enrique ait pu le croire,</l>
+	<l id='1662'>Cet effort ne va point jusqu'à trahir sa gloire,</l>
+	<l id='1663'>Dégageant une soeur il oblige un ami,</l>
+	<l id='1664'>Mais s'avouer coupable à son propre ennemi,</l>
+	<l id='1665'>S'exposer à rougir du plus honteux reproche</l>
+	<l id='1666' part='i'>Que...</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1666' part='f'>Vous ne voyez pas Jacinte qui s'approche.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Dom Lope, Jacinte, Cassandre.</head>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1667'>Après le dur revers qui détruit mon espoir,</l>
+	<l id='1668'>Pouvais-je encor prétendre au bonheur de vous voir,</l>
+	<l id='1669'>Madame ? Vos bontés par un effort insigne</l>
+	<l id='1670'>Semblent croître pour moi plus on m'en croit indigne,</l>
+	<l id='1671'>Et j'aimerai le sort le plus injurieux,</l>
+	<l id='1672'>Puisqu'il peut m'acquérir un bien si précieux.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1673'>Je hasarde beaucoup, mais je n'ai pu moins faire</l>
+	<l id='1674'>Pour me justifier du procédé d'un père,</l>
+	<l id='1675'>Qui se consultant seul, séduit par son erreur,</l>
+	<l id='1676'>N'écoute contre vous qu'une aveugle fureur,</l>
+	<l id='1677'>Mais le Ciel qui toujours veille pour l'innocence,</l>
+	<l id='1678'>Pour la faire avorter prit hier votre défense,</l>
+	<l id='1679'>Et monstre sa justice à qui sait par quel bras</l>
+	<l id='1680'>Il sut vous garantir d'un attentat si bas.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1681'>Je sais qu'aucun jamais ne lui fut redevable</l>
+	<l id='1682'>D'un secours ni plus prompt ni plus considérable,</l>
+	<l id='1683'>Mais si j'en tiens le jour qu'on me voulait ravir,</l>
+	<l id='1684'>J'ignore de quel bras il daigna s'y servir.</l>
+	<l id='1685'>Ce vaillant inconnu, quelque effort que je fisse,</l>
+	<l id='1686'>Me refusa son nom après ce grand service,</l>
+	<l id='1687'>Et ce n'est qu'aujourd'hui que je le dois savoir.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1688'>Pouvez-vous l'ignorer si vous le pûtes voir ?</l>
+	<l id='1689' part='i'>La nuit n'était pas sombre.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1689' part='f'>Elle était assez claire</l>
+	<l id='1690'>Pour voir ce même ami qui trompa votre père,</l>
+	<l id='1691'>Qui m'escortant chez vous, n'en sortit qu'après moi,</l>
+	<l id='1692'>Mais son visage seul est ce que j'en connais.</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1693'>Et bien, quel qu'il puisse être, obtiendrai-je une grâce ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1694' part='i'>Madame...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1694' part='f'>À l'expliquer mon esprit s'embarrasse,</l>
+	<l id='1695'>Mais c'est ce qui m'amène, et ce fut hier au soir</l>
+	<l id='1696'>Ce qui me fit encor souhaiter de vous voir.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1697'>Parlez, et puisqu'enfin il s'agit de vous plaire,</l>
+	<l id='1698'>Fallut-il me soumettre à la fureur d'un père,</l>
+	<l id='1699' part='i'>Et perdre...</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1699' part='f'>Ah, jugez mieux d'un coeur qui tout à vous</l>
+	<l id='1700'>Déteste les effets d'un injuste courroux.</l>
+	<l id='1701'>Vous voir reconnaissant est toute mon envie,</l>
+	<l id='1702'>Un inconnu pour vous a prodigué sa vie,</l>
+	<l id='1703'>Et ce qu'à votre amour je demande aujourd'hui,</l>
+	<l id='1704'>C'est que jamais ce bras ne s'arme contre lui.</l>
+	<l id='1705' part='i'>Me le promettez-vous ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1705' part='f'>Je puis vous le promettre,</l>
+	<l id='1706'>Puisque l'honneur enfin semble me le permettre,</l>
+	<l id='1707'>Et que sans lâcheté je ne puis à mon tour</l>
+	<l id='1708'>Combattre un ennemi par qui je vois le jour.</l>
+	<l id='1709'>Mais qui vous peut sitôt avoir dit la nouvelle</l>
+	<l id='1710'>D'une si surprenante et secrète querelle,</l>
+	<l id='1711'>Et qu'un frère mourant, pour venger son trépas</l>
+	<l id='1712'>Contre cet inconnu sollicite mon bras ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1713'>C'est ce que j'ignorais dans le malheur d'Enrique.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1714'>Pourquoi donc cette alarme et vaine et chimérique,</l>
+	<l id='1715'>Et par quel mouvement vous croyez-vous permis</l>
+	<l id='1716'>De craindre quelque jour de nous voir ennemis ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1717'>Comme l'honneur peut tout et sur l'un et sur l'autre,</l>
+	<l id='1718'>Si vous n'êtes le sien il peut être le vôtre,</l>
+	<l id='1719'>Et par ce que j'ai su je prévois à regret...</l>
+	<l id='1720'>Mais je le vois qui vient vous dire son secret,</l>
+	<l id='1721'>Me tiendrez-vous parole et puis-je le prétendre ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1722' part='i'>Doutez-vous de mon coeur ?</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1722' part='f'>Laissons-les seuls, Cassandre,</l>
+	<l id='1723'>Et quoi qu'ici pour nous tout soit à redouter,</l>
+	<l id='1724'>Sachons leurs sentiments avant que d'éclater.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Dom Lope, Dom Alvar.</head>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1725'>Je me rendrai suspect sans doute de faiblesse</l>
+	<l id='1726'>D'avouer qu'à regret je vous tiens ma promesse,</l>
+	<l id='1727'>Et que s'il se pouvait il me serait plus doux ;</l>
+	<l id='1728'>De me faire connaître à tout autre qu'à vous.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1729'>Il en est peu pourtant qu'avec plus d'assurance</l>
+	<l id='1730'>Vous pussiez honorer de cette confidence,</l>
+	<l id='1731'>Avant que j'en abuse on me verra périr.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1732'>Enfin sommes-nous seuls, puis-je me découvrir ?</l>
+	<l id='1733' part='i'>Je crains d'être écouté.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1733' part='f'>Parlez sans vous contraindre,</l>
+	<l id='1734'>Quel que soit ce secret, vous n'avez rien à craindre.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1735'>Après les différents survenus entre nous,</l>
+	<l id='1736'>En quelle qualité me considérez-vous ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1737'>D'ami, pour un grand coeur ce doute est un peu rude,</l>
+	<l id='1738'>Si mon devoir m'est cher je hais l'ingratitude,</l>
+	<l id='1739'>Je l'avouerai partout, sans vous j'étais perdu.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1740'>Ce que je vous devais, vous l'ai-je assez rendu ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1741'>Le Ciel vous est propice autant qu'il m'est contraire,</l>
+	<l id='1742'>Je méditais sur vous la vengeance d'un frère,</l>
+	<l id='1743'>Et de son sang versé je vois qu'il vous absout.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1744' part='i'>Suis-je quitte envers vous ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1744' part='f'>C'est moi qui vous dois tout.</l>
+	<l id='1745'>Mais de ce procédé mon amitié s'offense,</l>
+	<l id='1746'>Est-ce que vous doutez de ma reconnaissance ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1747'>Non, mais aucun malheur n'approcherait du mien,</l>
+	<l id='1748'>Si vous ne m'avouiez que je ne vous dois rien.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1749'>Qu'a cet aveu de propre à flatter votre envie ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1750'>Tout, puisqu'il faut qu'enfin j'attaque votre vie,</l>
+	<l id='1751'>Et qu'un coeur généreux doit être au désespoir,</l>
+	<l id='1752'>Quand le moindre scrupule étonne son devoir.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1753'>Tout mon sang malgré moi se trouble à vous entendre,</l>
+	<l id='1754'>Qui le défendit hier veut aujourd'hui l'épandre,</l>
+	<l id='1755'>Et m'enviant des jours par lui seul conservez...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1756'>Vous savez encor peu ce que vous me devez,</l>
+	<l id='1757'>Et comme un tel secret n'a plus rien qui m'importe,</l>
+	<l id='1758'>Chez qui croyez-vous hier que je vous fis escorte ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1759'>Je n'ai pas oublié sitôt qu'avec le jour</l>
+	<l id='1760'>Je dois à vos bontés l'appui de mon amour,</l>
+	<l id='1761'>Je craignais pour Jacinte, et votre grand courage</l>
+	<l id='1762'>Voulut ou dissiper ou partager l'orage.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1763'>Vous trouvant attaqué quand vous fûtes sorti,</l>
+	<l id='1764'>Savez-vous contre qui je pris votre parti ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1765'>Contre des assassins employez par son père.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1766'>C'est ce que je voudrais qu'ils eussent pu vous taire,</l>
+	<l id='1767'>Puisque n'ayant plus lieu de vous déguiser rien,</l>
+	<l id='1768'>Je dois vous avouer que son père est le mien.</l>
+	<l id='1769'> Et m'enviant des jours : et désirant me reprendre des jours.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1770' part='i'>Quoi, Jacinte...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1770' part='f'>Est ma soeur, et c'est assez vous dire</l>
+	<l id='1771'>Quel devoir veut par moi que notre trêve expire...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1772'>Oui, c'est me dire assez qu'une injuste rigueur</l>
+	<l id='1773'>Fait un crime pour moi de l'amour d'une soeur,</l>
+	<l id='1774'>Mais j'atteste le Ciel ennemi du parjure,</l>
+	<l id='1775'>Que je brûle d'un feu dont l'ardeur est si pure,</l>
+	<l id='1776' part='i'>Que si...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1776' part='f'>Vous jugez mal de mon ressentiment</l>
+	<l id='1777'>D'en croire cet amour l'unique fondement.</l>
+	<l id='1778'>Je ne condamne point une ardeur légitime,</l>
+	<l id='1779'>Et comme je connais qu'on peut aimer sans crime,</l>
+	<l id='1780'>Jacinte étant ma soeur, j'ai lieu de présumer</l>
+	<l id='1781'>Que sans blesser sa gloire elle a pu vous aimer,</l>
+	<l id='1782'>Que cet amour n'a rien dont sa vertu rougisse.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1783'>C'est m'obliger ensemble et lui rendre justice,</l>
+	<l id='1784'>Mais si ma passion n'arme point votre bras,</l>
+	<l id='1785'>Quelle offense inconnue expierait mon trépas ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1786'>Ce long déguisement redouble ma colère,</l>
+	<l id='1787'>Ne vous ai-je pas dit que Dom Sanche est mon père,</l>
+	<l id='1788'>Et par ce seul aveu n'avez-vous pas appris</l>
+	<l id='1789'>Que je dois le venger puisque je suis son fils ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1790'>Son malheur est de ceux dont la surprise accable.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1791'>Quoi, ne savez-vous pas qu'il vous en croit coupable ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1792'>Oui, je sais qu'il le croit, mais aussi je sais bien,</l>
+	<l id='1793'>Quoi qu'il vous en ait dit, que vous n'en croyez rien.</l>
+	<l id='1794'>Votre sang cette nuit exposé pour ma vie</l>
+	<l id='1795'>M'a trop justifié de cette calomnie,</l>
+	<l id='1796'>Et sachant son affront, loin de me secourir,</l>
+	<l id='1797'>Qui m'en eût crû l'auteur m'aurait laissé périr.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1798'>Je l'eusse fait sans doute, et j'aurais dû le faire,</l>
+	<l id='1799'>Puisqu'enfin je souscris aux sentiments d'un père,</l>
+	<l id='1800'>Apporter quelque obstacle à ce qu'il a tenté,</l>
+	<l id='1801'>C'est l'accuser d'erreur et non de lâcheté.</l>
+	<l id='1802'>Il faut, quoi que d'abord un grand coeur s'en offense,</l>
+	<l id='1803'>Pour le dernier affront la dernière vengeance,</l>
+	<l id='1804'>L'assassinat est juste où l'outrage est sanglant,</l>
+	<l id='1805'>Et le meilleur remède est le plus violent.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1806'>Puisque votre suffrage en ma faveur s'explique,</l>
+	<l id='1807' part='i'>Quel crime est donc le mien ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1807' part='f'>L'opinion publique.</l>
+	<l id='1808'>C'est peu pour négliger un devoir si pressant</l>
+	<l id='1809'>Que mon coeur en secret vous déclare innocent,</l>
+	<l id='1810'>À l'erreur du public c'est peu qu'il se refuse,</l>
+	<l id='1811'>Vous êtes criminel tant que l'on vous accuse,</l>
+	<l id='1812'>Et mon honneur blessé sait trop ce qu'il se doit</l>
+	<l id='1813'>Pour ne vous pas punir de ce que l'on en croit.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1814' part='i'>Quoi, sur un bruit si faux...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1814' part='f'>Vous m'en devez répondre,</l>
+	<l id='1815'>Avant que vous revoir j'ai voulu le confondre ;</l>
+	<l id='1816'>Mais en vain en tous lieux je me suis informé,</l>
+	<l id='1817'>On ne nomme personne, ou vous êtes nommé.</l>
+	<l id='1818'>J'affoiblis ma vangeance à la voir differée,</l>
+	<l id='1819' part='i'>Sortons.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1819' part='f'>Et l'amitié que vous m'aviez jurée ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1820'>Telle est de mon honneur l'impitoyable loi,</l>
+	<l id='1821'>Loin qu'un ami l'arrête, il n'a d'yeux que pour soi,</l>
+	<l id='1822'>Et dans ses intérêts toujours inexorable</l>
+	<l id='1823'>Veut le sang le plus cher au défaut du coupable.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1824'>S'il faut donner le mien, changez au moins l'arrêt,</l>
+	<l id='1825'>Qu'aimer soit tout mon crime, et le voici tout prêt :</l>
+	<l id='1826'>Oui, punissez en moi ce respect téméraire</l>
+	<l id='1827'>Qui poussé par l'amour ose paraître et plaire,</l>
+	<l id='1828'>Et donnant sans regret ce qu'il faut m'arracher...</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1829'>Ah, que je punirais un crime qui m'est cher !</l>
+	<l id='1830'>Vous l'avouerai-je enfin ? j'aime, hélas ! Et nos âmes</l>
+	<l id='1831'>Avec même secret brûlent des mêmes flammes.</l>
+	<l id='1832'>Même objet asservit et l'un et l'autre coeur,</l>
+	<l id='1833'>Si vous aimez ma soeur, j'adore votre soeur...</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Dom Lope, Dom Alvar, Cassandre.</head>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1834'>Et bien, cruel amant, découvre mes faiblesses,</l>
+	<l id='1835'>Je viens les avouer puisque tu les confesses,</l>
+	<l id='1836'>Mais je demande aussi que de justes effets</l>
+	<l id='1837'>Montrent ton coeur d'accord de l'aveu que tu fais.</l>
+	<l id='1838'>Ce beau feu dont l'ardeur dût être si certaine</l>
+	<l id='1839'>Ne s'explique pas bien par des marques de haine,</l>
+	<l id='1840'>Et poursuivre le frère avec tant de rigueur</l>
+	<l id='1841'>C'est prouver assez mal ton amour pour la soeur.</l>
+	<l id='1842'>Respecte en lui mon sang si j'ai droit d'y prétendre,</l>
+	<l id='1843'>Ou dis que tu me hais si tu le veux répandre,</l>
+	<l id='1844'>Et dans tes sentiments un peu mieux affermi,</l>
+	<l id='1845'>Sois amant tout à fait, ou bien tout ennemi.</l>
+	<l id='1846'> D'accord de : préposition acceptée à l'époque.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1847'>Dom Lope, c'est ainsi qu'avec toute assurance</l>
+	<l id='1848'>J'ai pu de mon secret vous faire confidence ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1849'>Ne me reprochez rien quand mon coeur abattu</l>
+	<l id='1850'>Soupire du long temps que vous me l'avez tu.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1851'>Quoi, ta haine est pour lui déjà si violente</l>
+	<l id='1852'>Qu'elle a peine à souffrir l'obstacle d'une amante,</l>
+	<l id='1853'>Et quand elle s'apprête à lui ravir le jour,</l>
+	<l id='1854'>Pour la faire trembler c'est trop peu que l'amour ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1855'>Hélas ! Et plut au Ciel qu'une si belle flamme</l>
+	<l id='1856'>Vous éclairât assez pour lire dans mon âme.</l>
+	<l id='1857'>Vous m'y verriez encor préférer hautement</l>
+	<l id='1858'>Au titre d'ennemi la qualité d'amant,</l>
+	<l id='1859'>Détester autant l'un que je respecte l'autre,</l>
+	<l id='1860'>Mais enfin ma vertu se règle sur la vôtre ;</l>
+	<l id='1861'>Malgré tout mon amour son ordre impérieux</l>
+	<l id='1862'>Sur mon affreux destin vous fait fermer les yeux,</l>
+	<l id='1863'>Et cette ombre de gloire a pour vous tant de charmes</l>
+	<l id='1864'>Que ma mort vous arrache à peine quelques larmes,</l>
+	<l id='1865'>Je n'en murmure point, et pour votre intérêt</l>
+	<l id='1866'>Sans rien tenter pour moi j'en accepte l'arrêt.</l>
+	<l id='1867'>Contre vous pour le mien faites la même chose,</l>
+	<l id='1868'>Et sans vous opposer à ce qu'il faut que j'ose,</l>
+	<l id='1869'>Souffrez à mes désirs le pitoyable espoir</l>
+	<l id='1870'>D'expirer sans remords sous l'horreur du devoir.</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1871'>Cruel, et si le mien t'a paru trop sévère,</l>
+	<l id='1872'>Devrais-tu te venger de la Soeur sur le frère,</l>
+	<l id='1873'>Et prendre avidement une fausse couleur</l>
+	<l id='1874'>Pour le faire garant de ton propre malheur ?</l>
+	<l id='1875'>Car enfin je vois trop quelle offense t'anime,</l>
+	<l id='1876'>C'est ma seule vertu qui fait ici son crime,</l>
+	<l id='1877'>Tu te le peins coupable afin d'armer ton bras,</l>
+	<l id='1878'>Mais si j'avais pu l'être, il ne le serait pas.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1879'>Ah, si vous pouviez voir avec quelle contrainte</l>
+	<l id='1880'>De mon honneur blessé j'ose écouter la plainte,</l>
+	<l id='1881'>Vous n'en trouveriez pas le tourment si léger,</l>
+	<l id='1882'>Qu'il vous dût être encor permis de m'outrager.</l>
+	<l id='1883'>Non, je ne poursuis point Dom Lope en téméraire,</l>
+	<l id='1884'>Je me regarde amant pour le voir votre frère,</l>
+	<l id='1885'>Et m'accusant pour lui de sentiments ingrats,</l>
+	<l id='1886'>Je lui prête mon coeur pour désarmer mon bras.</l>
+	<l id='1887'>Mais, hélas ! c'est en vain que je le justifie</l>
+	<l id='1888'>Quand je viens à revoir toute notre infamie,</l>
+	<l id='1889'>Contraint à cet objet de me désabuser</l>
+	<l id='1890'>Je vois que c'est lui seul que j'entends accuser,</l>
+	<l id='1891'>Et qu'en l'obscurité d'un sort si déplorable</l>
+	<l id='1892'>Il me doit, ou son sang, ou le nom du coupable.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1893'>Que je le sache ou non, je connais mon devoir,</l>
+	<l id='1894'>Et si par moi quelqu'un avait dû le savoir...</l>
+	<l id='1895'>Mais, ô Dieu, c'est ici que l'espoir et la crainte...</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Dom Sanche, Dom Lope, Dom Alvar, Cassandre.</head>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1896' part='i'>Ah ! mon fils.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1896' part='f'>Suspendez de grâce votre plainte,</l>
+	<l id='1897'>Vous venez condamner ce coeur trop partagé,</l>
+	<l id='1898'>Mais je mourrai, mon père, ou vous serez vengé.</l>
+	<l id='1899' part='i'>Nous pourrons nous revoir, adieu Dom Lope.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1899' part='f'>Arrête,</l>
+	<l id='1900'>Et vois le précipice où ton erreur te jette,</l>
+	<l id='1901' part='i'>Dom Lope est innocent.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1901' part='f'>Pour en avoir douté</l>
+	<l id='1902'>Le procédé d'un traître a trop de lâcheté.</l>
+	<l id='1903'>Mais enfin avec vous ayant part à l'outrage,</l>
+	<l id='1904' part='i'>Si je n'en sais l'auteur...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1904' part='f'>Tu sauras davantage,</l>
+	<l id='1905'>Puisque le Ciel propice à mon ressentiment,</l>
+	<l id='1906'>Au crime qui le cause a joint le châtiment,</l>
+	<l id='1907' part='i'>On m'a déjà vengé.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1907' part='f'>Quel bras l'aurait pû faire ?</l>
+	<l id='1908'>Jamais autre qu'un fils ne venge bien un père.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1909'>Non, mais quand vous saurez qui l'avait outragé,</l>
+	<l id='1910'>Peut-être avouerez-vous qu'il est assez vengé.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1911'>Oui, mon coeur de vengeance assez insatiable,</l>
+	<l id='1912'>La trouve toute entière au remords du coupable,</l>
+	<l id='1913'>Qui blessé par rencontre, et craignant de mourir,</l>
+	<l id='1914'>Chez Alonse à moi-même a pu se découvrir.</l>
+	<l id='1915'>Qui l'aurait jamais crû, que cette âme si fière</l>
+	<l id='1916'>Eût pu jusqu'au pardon abaisser sa prière,</l>
+	<l id='1917' part='i'>Que l'orgueilleux Enrique...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1917' part='f'>Après l'avoir nommé,</l>
+	<l id='1918'>Quelque juste sujet qui vous tienne animé,</l>
+	<l id='1919'>Songez qu'il est mon frère et m'épargnez la honte.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1920'>Quoi, votre frère ! Ô Ciel, que ta justice est prompte !</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1921' part='i'>Il nous la montre en lui.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1921' part='f'>Mais vous ne savez pas</l>
+	<l id='1922'>Que le voulant punir il l'a fait par mon bras.</l>
+	<l id='1923'>Sans savoir votre affront j'en ai tiré vengeance.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1924'>Quoi, mon fils aurait pu réparer mon offense ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1925'>Dom Lope en est témoin, lui dont l'heureux secours</l>
+	<l id='1926'>S'employa pour ma gloire et conserva mes jours.</l>
+	<l id='1927'>Ah, si vous connaissiez sa vertu toute entière !</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1928'>Elle offre à votre estime une faible matière.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1929'>De ce qui s'est passé j'ai su tout le secret,</l>
+	<l id='1930'>Et de cette vertu pleinement satisfait,</l>
+	<l id='1931'>Ravi qu'à ma vengeance un fils ait mis obstacle,</l>
+	<l id='1932'>Confus de mon erreur, surpris de ce miracle,</l>
+	<l id='1933'>Je venais l'assurer qu'un regret éternel...</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1934'>Pourquoi tant d'indulgence envers un criminel ?</l>
+	<l id='1935'>Puisque vous savez tout, il n'est plus temps de taire,</l>
+	<l id='1936'>Et que j'aime Jacinte, et que j'ai su lui plaire,</l>
+	<l id='1937'>Et quoi que la vertu soutienne un si beau feu,</l>
+	<l id='1938'>Il est à condamner n'ayant pas votre aveu.</l>
+	<l id='1939'>Ce m'est beaucoup pourtant que vous puissiez connaître</l>
+	<l id='1940'>Que sur cet appui seul la raison le fit naître,</l>
+	<l id='1941'>Et que mon coeur s'offrant à de si doux liens,</l>
+	<l id='1942'>N'y fût point engagé par l'éclat de vos biens,</l>
+	<l id='1943'>C'est à quoi rarement un grand courage cède,</l>
+	<l id='1944'>Le Ciel vous rend un fils, que ce fils les possède,</l>
+	<l id='1945'>Aussi charmé que vous de son heureux retour,</l>
+	<l id='1946'>Un coeur me suffira pour payer mon amour.</l>
+	<l id='1947'>Si je demande trop, punissez mon audace,</l>
+	<l id='1948'>La mort sans un tel prix me tiendra lieu de grâce,</l>
+	<l id='1949'>Et purgé d'un soupçon qui m'eût peu diffamer,</l>
+	<l id='1950'>Je mourrai satisfait si je meurs pour aimer.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1951'>C'est trop, pour couronner une flamme si pure,</l>
+	<l id='1952'>Mon père, attendez-vous qu'un fils vous en conjure ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1953'>Non, de ce feu secret si j'ai blâmé l'ardeur,</l>
+	<l id='1954'>Alonse en a déjà justifié ta soeur.</l>
+	<l id='1955'>Surprise et par mon ordre et par son stratagème,</l>
+	<l id='1956'>Je sais ce qu'elle a fait contre Dom Lope même,</l>
+	<l id='1957'>Et pour ce grand effort le moins que je lui dois,</l>
+	<l id='1958'>C'est d'oublier sa faute et d'approuver son choix.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Dom Sanche, Dom Alvar, Dom Lope, Jacinte, Cassandre.</head>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1959'>Puisque par le succès cette faute s'efface,</l>
+	<l id='1960'>J'en viens bénir le Ciel, et recevoir ma grâce.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1961' part='i'>Quoi, voir ici ma fille !</l>
+</sp>
+<sp who='JACINTE'><speaker>JACINTE.</speaker>
+	<l id='1961' part='f'>Avant que m'accuser,</l>
+	<l id='1962'>Songez à quoi pour vous j'ai pu me disposer,</l>
+	<l id='1963'>Ne soupçonnez point ni crime ni faiblesse,</l>
+	<l id='1964'>Dans une passion dont je suis la maîtresse.</l>
+	<l id='1965'>C'est votre intérêt seul qui plus fort que le mien...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1966'>Va, je te ferais tort si j'examinais rien,</l>
+	<l id='1967'>Ta vertu me répond de l'amour qui t'engage.</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1968'>Dieux, que le calme est doux qui succède à l'orage !</l>
+	<l id='1969'> Rien a ici le sens de quelque chose.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1970'>Il est bien doux, hélas ! à qui peut espérer.</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1971'>Quoi, chacun est content et tu peux soupirer ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1972'>Ah, soupirs indiscrets d'avoir osé paraître !</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1973'>Puisque j'ai su par vous que ma soeur les fait naître,</l>
+	<l id='1974'>Pour les faire cesser, voulez-vous bien par moi</l>
+	<l id='1975'>Recevoir tout ensemble et son coeur et sa foi ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1976'>Une foi qu'à Fernand vous-même avez promise ?</l>
+</sp>
+<sp who='DOM-LOPE'><speaker>DOM LOPE.</speaker>
+	<l id='1977'>Je ne m'engage à rien que Fernand n'autorise.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1978' part='i'>Ô Dieux, se pourrait-il ?</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1978' part='f'>Tu l'aimes donc, mon fils ?</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1979'>Dans mon ravissement je doute si je vis.</l>
+	<l id='1980' part='i'>Mon père...</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1980' part='f'>Je t'entends, obtiens-là d'elle-même.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR, à Cassandre.</speaker>
+	<l id='1981'>Consentez-vous, Madame, à mon bonheur extrême ?</l>
+</sp>
+<sp who='CASSANDRE'><speaker>CASSANDRE.</speaker>
+	<l id='1982'>Voir vos voeux tout à coup par un frère exaucés,</l>
+	<l id='1983'>Et n'y résister point, c'est m'expliquer assez.</l>
+</sp>
+<sp who='DOM-ALVAR'><speaker>DOM ALVAR.</speaker>
+	<l id='1984' part='i'>Ô favorable arrêt !</l>
+</sp>
+<sp who='DOM-SANCHE'><speaker>DOM SANCHE.</speaker>
+	<l id='1984' part='f'>C'est le Ciel qui le donne,</l>
+	<l id='1985'>L'ordre de ses décrets n'est connu de personne,</l>
+	<l id='1986'>Et souvent de ses soins l'infaillible ressort</l>
+	<l id='1987'>Se plaît par le naufrage à nous conduire au port.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

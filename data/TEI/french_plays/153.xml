@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>TITE ET BÉRÉNICE, COMÉDIE HEROÏQUE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie héroïque</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1500-1750</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k704057</permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">TITE ET BÉRÉNICE</titlePart>
+			<titlePart type="sub">COMÉDIE HEROÏQUE</titlePart>
+		</docTitle> 
+		<docDate value="1671">M. DC. LXXI. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>Par P. CORNEILLE</docAuthor>
+		<docImprint>
+			<privilege id="1671-01-24"><head>PRIVILEGE DU ROI</head>
+			<p>Louis par la grâce de Dieu, Roi de France et de Navarre : à nos amés et féaux consiellers, les gens tenants nos Cours de Parlement, maîtres de requêtes ordinaires de notre Hôtel, Baillifs, sénéchaux, prévôts, leurs lieutenants, et autres nos officiers et justiciers qu'il appartiendra ; SALUT. Notre bien aimé PIERRE CORNEILLE, nous a fait remonter qu'il aurait composé une comédie héroïque, intitulée Tite et Bérénice, et une traduction en vers français de la Thébaïde de Sace, qu'il sésirerait faire imprimer ; ce qu'il ne peut faire si nous ne lui accordons nos Lettres à ce nécessaires, humblement requérant icelles. À CES CAUSES, Nous avons permis et permettons par ces présentes à L'exposant, de faire imprimer lesdites comédie et traduction, en tels volumes, marges te caractères qu'il avisera bon être, et par tel imprimeur réservé et libraire que bon lui semblera : icelle vendre et débiter par tout notre royaume, pays et terres de notre obéissance, pendant le temps de neuf ans, à commencer du jour que la dite impression sera parachevée : durant lequel temps, nous faisons très expresses inhibitions et défenses, à tous imprimeurs et libraires, et autres personnes de quelque qualité et condition qu'elles soient, d'imprimer, vendre ni débiter  lesdites oeuvres sous quelque prétexte que ce soit, si ce n'est du consentement de l'exposant, ou de ceux qui auront droit de lui ; sur peine de confiscation des exemplaires, et de quinze cent livres d'amende, applicable un tiers à Nous, un tiers à l'Hôpital général, et l'autre tiers au profit de l'exposant, et de tous dépens, dommages et intérêts. À la charge qu'il en sera mis deux exemplaires desdites oeuvres en notre bibliothèque publique, un en notre cabinet de notre château du Louvre, et un en celle de notre cher et féal chevalier Chancelier de France le Sieur Séguier, avant que de les exposer en vente, à peine de nullité des présentes, lesquelles seront enregistrées sur le livre du Syndic des Marchands libraires de notre dite Ville de Paris. Voulant qu'en mettant au commencement ou à la fin des dites oeuvres un extrait des présentes, elles soient tenues pour bien et duement signifiées : et que foi soit ajoutée aux copies d'icelles collationnées par l'un de nos amés et féaux conseillers et secrétaires, comme à l'original. Si mandons à chacun de vous, ainsi qu'il appartiendra, que du contenu en icelle vous fassiez jouir et user l'exposant et ceux qui auront droit de lui, pleinment et paisiblement, faisant cesser tout trouble et empêchements au contraire. Mandons en outre au premier huissier ou sergent sur ce requis, faire pour l'exécution des présentes tous actes nécessaires, sans demander autre permission : car tel est notre plasir : nonobstant oppositions ou appelations quelqconques, Clameur du Haro, Charte Normande, et autres Lettre à ce contraire. Donné à Paris le dernier jour de décembre, l'an grâce mille six cent soixante dix : et de notre règne le vingt-huitième.</p>
+			<p>Signé par le Roi en son conseil, BAUDOUIN, et scéllé du grand sceau de cire jaune.</p>
+			<p>Et ledit sieur Corneille a cédé son droit de privilège à Thomas Jolly, Guillaume de Luynes, et Louis Billaine, pour la comédie de Tite et Bérénice seulement, suivant l'accord fait entre eux.</p>
+			<p>Registré sur le livre de la communauté des Imprimeurs et Marchands Libraires de Paris, suivant et conformément à l'Arrêt du parlement du 8 avril 1653. Aux charges et conditions portées es présentes lettres, le 24 janvier 1671.</p>
+			<p>Signé LOUIS SEVESTRE Syndic.</p>
+			
+			</privilege>
+			<acheveImprime id="1671-02-03">Achevé d'imprimer pour la première fois le 3 de Février 1671.</acheveImprime>
+			<printer id="BILLAINE">À PARIS, Chez Louis BILLAINE, au Palais au second pilier de la Grand Salle, à la Palme, au Grand César.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1670-11-28" location='Théâtre du Palais-Royal'>Représenté pour la première fois le 28 novembre 1670 au Théâtre du Palais-Royal.</premiere>
+		</performance>
+		<preface><head>XIPHILINUS EN DIONE IN VESPASIANO</head>
+		<p>Guillelmo Blanco Interprete.</p>
+		<p>Vespasianus à Senatu Absens imperator creatur, Titusque et Domitianus Cesares designantur.</p>
+		<p>Domitianus animum ad amorem Domitiae filiae Corbulonis applicaverat, camque à Lucio Lamio AEmiliano viro ejus abductam Secum habebat in numero amicarum, eamdemque postea uxorem duxit.</p>
+		<p>Per id tempus Berenic maxime florebat, ob eamque causam cum Agrippa fratre Rosam venit. Is Prétoriis honribus auctus est, ipsa habitavit in Palatio, coapitque cum Tito coire : Spes erat eam Tito nuptem iri, jam enim omnia, ut si effet uxor, gerebat. Sed Titus cum intelligeret populum Romanum id moleste ferre, eam repudiavit, praesertim quòd de iis  rebud magni rumores perferrentur.</p>
+		</preface>
+		<preface><head>IN TITO.</head>
+		<p>Titus, ex quo tempore principatum solus obtinuit, nec caedes fecit, nec amoribus inservivit, sed omnis quamvis insidiis peteretur, et continens, Berenice licet in urbem reversa, fuit.</p>
+		<p>Titus moriens se unius tantum rei poenitére dixit, id autem quid esset non apervit, nec quisquam certo novit, aliud aliis conjicientibus. Constans Fama fuit, ut nonnulli tradunt, quod Domitian uxorem fratris habuisset : alii putant quibus ego assentior, quod Domitianum à quo certò sciebat sibi isidias parari, non interfecisset, sed id abeo pati maluisset, et quod traderet Imperium Romanum tali viro.</p>
+		<p></p>
+		</preface>
+		
+		<castList>
+		<head>ACTEURS</head>
+			<castItem><role id="TITE" civil='M' type="H" statut="empereur" age="A" stat_amour='amoureux'>TITE</role>, Empereur de Rome et amant de Bérénice.</castItem>
+			<castItem><role id="DOMITIAN" civil='M' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>DOMITIAN</role>, frère de Tite et anamant de Domitie.</castItem>
+			<castItem><role id="BERENICE" civil='F' type="H" statut="roi" age="A" stat_amour='amoureux'>BÉRÉNICE</role>, reine d'une partie de la Judée.</castItem>
+			<castItem><role id="DOMITIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>DOMITIE</role>, fille de Corbulon.</castItem>
+			<castItem><role id="PLAUTINE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>PLAUTINE</role>, confidente de Domitie.</castItem>
+			<castItem><role id="FLAVIAN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>FLAVIAN</role>, confident de Tite.</castItem>
+			<castItem><role id="ALBIN" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>ALBIN</role>, confident de Domitian.</castItem>
+			<castItem><role id="PHILON" civil='M' type="H" statut="ministre" age="A" stat_amour='néant'>PHILON</role>, Ministre d'État, confident de Bérénice.</castItem>
+		</castList>
+		<set location='Rome' country='Italie' periode='Ier' link=''>La scène est à Rome dans le palais impérial.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Domitie, Plautine.</head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1">Laisse-moi mon chagrin, tout injuste qu'il est ;</l>
+	<l id="2">Je le chasse, il revient, je l'étouffe, il renaît,</l>
+	<l id="3">Et plus nous approchons de ce grand hyménée,</l>
+	<l id="4">Plus en dépit de moi je m'en trouve gênée,</l>
+	<l id="5">Il fait toute ma gloire, il fait tous mes désirs,</l>
+	<l id="6">Ne devrait-il pas faire aussi tous mes plaisirs ?</l>
+	<l id="7">Depuis plus de six mois la pompe s'en apprête,</l>
+	<l id="8">Rome s'en fait d'avance en l'esprit une fête,</l>
+	<l id="9">Et tandis qu'à l'envi tout l'Empire l'attend,</l>
+	<l id="10">Mon coeur dans tout l'Empire est le seul mécontent.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="11">Que trouvez-vous, Madame, ou d'amer, ou de rude,</l>
+	<l id="12">À voir qu'un tel bonheur n'ait plus d'incertitude,</l>
+	<l id="13">Et quand dans quatre jours vous devez y monter,</l>
+	<l id="14">Quel importun chagrin pouvez-vous écouter ?</l>
+	<l id="15">Si vous n'en êtes pas tout à fait la maîtresse,</l>
+	<l id="16">Du moins à l'Empereur cachez cette tristesse,</l>
+	<l id="17">Le dangereux soupçon de n'être pas aimé</l>
+	<l id="18">Peut le rendre à l'objet dont il fut trop charmé :</l>
+	<l id="19">Avant qu'il vous aimât il aimait Bérénice,</l>
+	<l id="20">Et s'il n'en put alors faire une impératrice,</l>
+	<l id="21">À présent il est maître, et son père au tombeau</l>
+	<l id="22">Ne peut plus le forcer d'éteindre un feu si beau.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="23">C'est là ce qui me gêne, et l'image importune</l>
+	<l id="24">Qui trouble les douceurs de toute ma fortune :</l>
+	<l id="25">J'ambitionne et crains l'hymen d'un empereur</l>
+	<l id="26">Dont j'ai lieu de douter si j'aurai tout le coeur. </l>
+	<l id="27">Ce pompeux appareil où sans cesse il ajoute,</l>
+	<l id="28">Recule chaque jour un noeud qui le dégoûte,</l>
+	<l id="29">Il souffre chaque jour que le gouvernement</l>
+	<l id="30">Vole ce qu'à me plaire il doit d'attachement,</l>
+	<l id="31">Et ce qu'il en étale agit d'une manière</l>
+	<l id="32">Qui ne m'assure point d'une âme tout entière.</l>
+	<l id="33">Souvent même au milieu des offres de sa foi</l>
+	<l id="34">Il semble tout à coup qu'il n'est pas avec moi,</l>
+	<l id="35">Qu'il a quelque plus douce ou noble inquiétude ;</l>
+	<l id="36">Son feu de sa raison est l'effet et l'étude,</l>
+	<l id="37">Il s'en fait un plaisir bien moins qu'un embarras,</l>
+	<l id="38">Et s'efforce à m'aimer, mais il ne m'aime pas.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="39">À cet effort pour vous qui pourrait le contraindre ?</l>
+	<l id="40">Maître de l'univers, a-t-il un maître à craindre ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="41">J'ai quelques droits, Plautine, à l'empire romain, </l>
+	<l id="42">Que le choix d'un époux peut mettre en bonne main :</l>
+	<l id="43">Mon père avant le sien élu pour cet Empire</l>
+	<l id="44">Préféra... Tu le sais, et c'est assez t'en dire :</l>
+	<l id="45">C'est par cet intérêt qu'il m'apporte sa foi, </l>
+	<l id="46">Mais pour le coeur, te dis-je, il n'est pas tout à moi.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="47">La chose est bien égale, il n'a pas tout le vôtre,</l>
+	<l id="48">S'il aime un autre objet, vous en aimez un autre,</l>
+	<l id="49">Et comme sa raison vous donne tous ses voeux,</l>
+	<l id="50">Votre ardeur pour son sang fait pour lui tous vos feux.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="51">Ne dis point qu'entre nous la chose soit égale :</l>
+	<l id="52">Un divorce avec moi n'a rien qui le ravale,</l>
+	<l id="53">Sans avilir son sort il me renvoie au mien,</l>
+	<l id="54">Et du rang qui lui reste, il ne me reste rien.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="55">Que ce que vous avez d'ambitieux caprice</l>
+	<l id="56">Pardonnez-moi ce mot, vous fait un dur supplice !</l>
+	<l id="57">Le coeur rempli d'amour, vous prenez un époux,</l>
+	<l id="58">Sans en avoir pour lui, sans qu'il en ait pour vous !</l>
+	<l id="59">Aimez pour être aimée, et montrez-lui vous-même,</l>
+	<l id="60">En l'aimant comme il faut, comme il faut qu'il vous aime,</l>
+	<l id="61">Et si vous vous aimez, gagnez sur vous ce point</l>
+	<l id="62">De vous donner entière, ou ne vous donnez point.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="63">Si l'amour quelquefois souffre qu'on le contraigne,</l>
+	<l id="64">Il souffre rarement qu'une autre ardeur l'éteigne,</l>
+	<l id="65">Et quand l'ambition en met l'empire à bas,</l>
+	<l id="66">Elle en fait son esclave, et ne l'étouffe pas.</l>
+	<l id="67">Mais un si fier esclave ennemi de sa chaîne</l>
+	<l id="68">La secoue à toute heure, et la porte avec gêne,</l>
+	<l id="69">Et maître de nos sens qu'il appelle au secours,</l>
+	<l id="70">Il échappe souvent, et murmure toujours.</l>
+	<l id="71">Veux-tu que je te fasse un aveu tout sincère ?</l>
+	<l id="72">Je ne puis aimer Tite, ou n'aimer pas son frère,</l>
+	<l id="73">Et malgré cet amour je ne puis m'arrêter</l>
+	<l id="74">Qu'au degré le plus haut où je puisse monter.</l>
+	<l id="75">Laisse-moi retracer ma vie en ta mémoire ;</l>
+	<l id="76">Tu me connais assez pour en savoir l'histoire,</l>
+	<l id="77">Mais tu n'as pu connaître, à chaque événement</l>
+	<l id="78">De mon illustre orgueil quel fut le sentiment.</l>
+	<l id="79">En naissant, je trouvai l'empire en ma famille,</l>
+	<l id="80">Néron m'eut pour parente et Corbulon pour fille,</l>
+	<l id="81">Et le bruit qu'en tous lieux fit sa haute valeur</l>
+	<l id="82">Autant que ma naissance enfla mon jeune coeur.</l>
+	<l id="83">De l'éclat des grandeurs par là préoccupée</l>
+	<l id="84">Je vis d'un ?il jaloux Octavie et Poppée,</l>
+	<l id="85">Et Néron, des mortels et l'horreur et l'effroi,</l>
+	<l id="86">M'eut paru grand héros s'il m'eut offert sa foi.</l>
+	<l id="87">Après tant de forfaits et de morts entassées,</l>
+	<l id="88">Les troupes du Levant d'un tel monstre lassées</l>
+	<l id="89">Pour César en sa place élurent Corbulon :</l>
+	<l id="90">Son austère vertu rejeta ce grand nom,</l>
+	<l id="91">Un lâche assassinat en fut le prompt salaire,</l>
+	<l id="92">Mais mon orgueil sensible à ces honneurs d'un père</l>
+	<l id="93">Prit de tout autre rang une assez forte horreur,</l>
+	<l id="94">Pour me traiter dans l'âme en fille d'empereur.</l>
+	<l id="95">Néron périt enfin. Trois empereurs de suite</l>
+	<l id="96">Virent de leur fortune une assez prompte fuite ;</l>
+	<l id="97">L'Orient de leurs noms fut à peine averti,</l>
+	<l id="98">Qu'il fit Vespasian chef d'un plus fort parti.</l>
+	<l id="99">Le ciel l'en avoua : ce guerrier magnanime</l>
+	<l id="100">Par Tite son aîné fit assiéger Solyme,</l>
+	<l id="101">Et tandis qu'en égypte il prit d'autres emplois,</l>
+	<l id="102">Domitian ici vint dispenser ses lois.</l>
+	<l id="103">Je le vis et l'aimai : ne blâme point ma flamme,</l>
+	<l id="104">Rien de plus grand que lui n'éblouissait mon âme,</l>
+	<l id="105">Je ne voyais point Tite, un hymen me l'ôtait,</l>
+	<l id="106">Mille soupirs aidaient au rang qui me flattait,</l>
+	<l id="107">Pour remplir tous nos voeux nous n'attendions qu'un père :</l>
+	<l id="108">Il vint, mais d'un esprit à nos voeux si contraire,</l>
+	<l id="109">Que quoi qu'on lui pût dire, on n'en put arracher</l>
+	<l id="110">Ce qu'attendait un feu qui nous était si cher.</l>
+	<l id="111">On n'en sut point la cause, et divers bruits coururent,</l>
+	<l id="112">Qui tous à notre amour également déplurent ;</l>
+	<l id="113">J'en eus un long chagrin. Tite fit tôt après</l>
+	<l id="114">De Bérénice à Rome admirer les attraits,</l>
+	<l id="115">Pour elle avec Martie il avait fait divorce,</l>
+	<l id="116">Et cette belle Reine eut sur lui tant de force,</l>
+	<l id="117">Que pour montrer à tous sa flamme, et hautement,</l>
+	<l id="118">Il lui fit au palais prendre un appartement.</l>
+	<l id="119">L'Empereur, bien qu'en l'âme il prévit quelle haine</l>
+	<l id="120">Concevrait tout l'état pour l'époux d'une reine,</l>
+	<l id="121">Sembla voir cet amour d'un ?il indifférent,</l>
+	<l id="122">Et laisser un cours libre aux flots de ce torrent :</l>
+	<l id="123">Mais sous les vains dehors de cette complaisance</l>
+	<l id="124">On ménagea ce Prince avec tant de prudence,</l>
+	<l id="125">Qu'en dépit de son coeur que charmaient tant d'appas,</l>
+	<l id="126">Il l'obligea lui-même à revoir ses états. </l>
+	<l id="127">À peine je le vis sans maîtresse et sans femme,</l>
+	<l id="128">Que mon orgueil vers lui tourna toute mon âme,</l>
+	<l id="129">Et s'étant emparé du plus doux de mes soins,</l>
+	<l id="130">Son frère commença de me plaire un peu moins.</l>
+	<l id="131">Non qu'il ne fut toujours maître de ma tendresse,</l>
+	<l id="132">Mais je la regardais ainsi qu'une faiblesse, </l>
+	<l id="133">Comme un honteux effet d'un amour éperdu,</l>
+	<l id="134">Qui me volait un rang que je me croyais dû.</l>
+	<l id="135">Tite à peine sur moi jetait alors la vue,</l>
+	<l id="136">Cent fois avec douleur je m'en suis aperçue ;</l>
+	<l id="137">Mais ce qui consolait ce juste et long ennui,</l>
+	<l id="138">C'est que Vespasian me regardait pour lui.</l>
+	<l id="139">Je commençais pourtant à n'en plus rien attendre,</l>
+	<l id="140">Quand je vis en ses yeux quelque chose de tendre,</l>
+	<l id="141">Il me rendit visite, et fit tout ce qu'on fait </l>
+	<l id="142">Alors qu'on veut aimer, ou qu'on aime en effet </l>
+	<l id="143">Je veux bien t'avouer que j'y crus du mystère,</l>
+	<l id="144">Qu'il ne me disait rien que par l'ordre d'un père ;</l>
+	<l id="145">Mais qui ne pencherait à s'en désabuser, </l>
+	<l id="146">Lorsque ce père mort il songe à m'épouser ?</l>
+	<l id="147">Toi qui vois tout mon coeur, juge de son martyre.</l>
+	<l id="148">L'ambition l'entraîne, et l'amour le déchire,</l>
+	<l id="149">Quand je crois m'être mise au-dessus de l'amour, </l>
+	<l id="150">L'amour vers son objet me ramène à son tour.</l>
+	<l id="151">Je veux régner, et tremble à quitter ce que j'aime,</l>
+	<l id="152">Et ne me saurais voir d'accord avec moi-même.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="153">Ah, si Domitian devenait Empereur, </l>
+	<l id="154">Que vous auriez bientôt calmé tout ce grand coeur !</l>
+	<l id="155">Que bientôt, mais il vient. Ce grand coeur en soupire !</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="156">Hélas ! Plus je le vois, moins je sais que lui dire. </l>
+	<l id="157">Je l'aime et le dédaigne, et n'osant m'attendrir, </l>
+	<l id="158">Je me veux mal des maux que je lui fais souffrir.  </l>
+   </sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Domitian, Domitia, Albin, Plautine.</head>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="159">Faut-il mourir, Madame, et si proche du terme</l>
+	<l id="160">Votre illustre inconstance est-elle encor si ferme,</l>
+	<l id="161">Que les restes d'un feu que j'avais cru si fort</l>
+	<l id="162">Puissent dans quatre jours se promettre ma mort ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="163">Ce qu'on m'offre, Seigneur, me ferait peu d'envie, </l>
+	<l id="164">S'il en coûtait à Rome une si belle vie, </l>
+	<l id="165">Et ce n'est pas un mal qui vaille en soupirer </l>
+	<l id="166">Que de faire une perte aisée à réparer.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="167">Aisée à réparer ! Un choix qui m'a su plaire, </l>
+	<l id="168">Et qui ne plaît pas moins à l'empereur mon frère,</l>
+	<l id="169">Charme-t-il l'un et l'autre avec si peu d'appas,</l>
+	<l id="170">Que vous sachiez leur prix, et le mettiez si bas ? </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="171">Quoi qu'on ait pour soi-même ou d'amour, ou d'estime,</l>
+	<l id="172">Ne s'en croire pas trop n'est pas faire un grand crime.</l>
+	<l id="173">Mais n'examinons point en cet excès d'honneurs</l>
+	<l id="174">Si j'ai quelque mérite, ou n'ai que du bonheur ;</l>
+	<l id="175">Telle que je puis être, obtenez-moi d'un frère.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="176">Hélas, si je n'ai pu vous obtenir d'un père,</l>
+	<l id="177">Si même je ne puis vous obtenir de vous,</l>
+	<l id="178">Qu'obtiendrai-je d'un frère amoureux et jaloux ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="179">Et moi, résisterai-je à sa toute puissance,</l>
+	<l id="180">Quand vous n'y répondez qu'avec obéissance ?</l>
+	<l id="181">Moi qui n'ai sous les cieux que vous seul pour soutien,</l>
+	<l id="182">Que puis-je contre lui quand vous n'y pouvez rien ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="183">Je ne puis rien sans vous, et pourrais tout, Madame,</l>
+	<l id="184">Si je pouvais encor m'assurer de votre âme.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="185">Pouvez-vous en douter, après deux ans de pleurs</l>
+	<l id="186">Qu'à vos yeux j'ai donnés à nos communs malheurs ?</l>
+	<l id="187">Durant un déplaisir si long et si sensible</l>
+	<l id="188">De voir toujours un père à nos voeux inflexible,</l>
+	<l id="189">Ai-je écouté quelqu'un de tant de soupirants</l>
+	<l id="190">Qui m'accablaient partout de leurs regards mourants ?</l>
+	<l id="191">Quel que fût leur amour, quel que fût leur mérite ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="192">Oui, vous m'avez aimé jusqu'à l'amour de Tite.</l>
+	<l id="193">Mais de ces soupirants qui vous offraient leur foi</l>
+	<l id="194">Aucun ne vous eût mise alors si haut que moi.</l>
+	<l id="195">Votre âme ambitieuse à mon rang attachée</l>
+	<l id="196">N'en voyait point en eux dont elle fut touchée,</l>
+	<l id="197">Ainsi de ces rivaux aucun n'a réussi,</l>
+	<l id="198">Mais les temps sont changés, Madame, et vous aussi.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="199">Non, Seigneur, je vous aime, et garde au fonds de l'âme</l>
+	<l id="200">Tout ce que j'eus pour vous de tendresse et de flamme,</l>
+	<l id="201">L'effort que je me fais me tue autant que vous,</l>
+	<l id="202">Mais enfin l'Empereur veut être mon époux.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="203">Ah si vous n'acceptez sa main qu'avec contrainte,</l>
+	<l id="204">Venez, venez, Madame, autoriser ma plainte :</l>
+	<l id="205">L'empereur m'aime assez pour quittez vos liens,</l>
+	<l id="206">Quand je lui porterai vos voeux avec les miens.</l>
+	<l id="207">Dites que vous m'aimez, et que tout son empire...</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="208">C'est ce qu'à dire vrai j'aurai peine à lui dire,</l>
+	<l id="209">Seigneur, et le respect qui n'y eut consentir...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="210">Non, votre ambition ne se peut démentir,</l>
+	<l id="211">Ne la déguisez plus, montrez-la toute entière,</l>
+	<l id="212">Cette âme que le trône a su rendre si fière,</l>
+	<l id="213">Cette âme dont j'ai fait les plaisirs les plus doux,</l>
+	<l id="214" part="i">Cette âme...</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="214" part="f">Voyez-la, cette âme toute à vous,</l>
+	<l id="215">Voyez-y tout ce feu que vous y fîtes naître,</l>
+	<l id="216">Et soyez satisfait, si vous le pouvez être.</l>
+	<l id="217">Je ne veux point, Seigneur, vous le dissimuler,</l>
+	<l id="218">Mon coeur va tout à vous quand je le laisse aller ;</l>
+	<l id="219">Mais sans dissimuler j'ose aussi vous le dire,</l>
+	<l id="220">Ce n'est pas mon dessein qu'il m'en coûte l'empire,</l>
+	<l id="221">Et je n'ai point une âme à se laisser charmer</l>
+	<l id="222">Du ridicule honneur de savoir bien aimer.</l>
+	<l id="223">La passion du trône et seule toujours belle,</l>
+	<l id="224">Seule à qui l'âme doive une ardeur immortelle ;</l>
+	<l id="225">J'ignorais de l'amour quel est le doux poison,</l>
+	<l id="226">Quand elle s'empara de toute ma raison.</l>
+	<l id="227">Comme elle est la première, elle est la dominante ;</l>
+	<l id="228">Non qu'à trahir l'amour je ne me violente,</l>
+	<l id="229">Mais il est juste enfin que des soupirs secrets</l>
+	<l id="230">Me punissent d'aimer contre mes intérêts.</l>
+	<l id="231">Daignez donc voir, Seigneur, quelle route il faut prendre,</l>
+	<l id="232">Pour ne point m'imposer le honte de descendre,</l>
+	<l id="233">Tout mon coeur vous préfère à cet heureux rival,</l>
+	<l id="234">Pour m'avoir toute à vous, devenez son égal,</l>
+	<l id="235">Vous dites qu'il vous aime, et je ne puis le croire,</l>
+	<l id="236">Si je ne vois sur vous un rayon de sa gloire.</l>
+	<l id="237">On vous a vus tous deux sortir d'un même flanc,</l>
+	<l id="238">Ayez mêmes honneurs ainsi que même sang,</l>
+	<l id="239">Dites-lui que le droit qu'a ce sang à l'empire...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="240">C'est là qu'à son tour j'aurais peine à lui dire,</l>
+	<l id="241">Madame, et le devoir qui n'y peut consentir...</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="242">À mes vives douleurs daignez donc compatir,</l>
+	<l id="243">Seigneur, j'achète assez le rang d'impératrice,</l>
+	<l id="244">Sans qu'un reproche injuste augmente mon supplice.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="245">Et bien dans cet hymen qui n'en a que pour moi,</l>
+	<l id="246">J'applaudirai moi-même à votre peu de foi,</l>
+	<l id="247">Je dirai que le ciel doit à votre mérite...</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="248">Non, Seigneur, faites mieux, et quittez qui vous quitte.</l>
+	<l id="249">Rome a mille beautés dignes de votre coeur,</l>
+	<l id="250">Mais dans toute la terre il n'est qu'un empereur.</l>
+	<l id="251">Si mon père avait eu les sentiments du vôtre,</l>
+	<l id="252">Je vous aurais donné ce que j'attends d'un autre,</l>
+	<l id="253">Et ma flamme en vos mains eût mis sans balancer</l>
+	<l id="254">Le sceptre qu'en la mienne il aurait dû laisser.</l>
+	<l id="255">Laissez à son défaut suppléer la fortune,</l>
+	<l id="256">Et n'ayez pas une âme assez basse et commune,</l>
+	<l id="257">Pour s'opposer au ciel qui me rend par autrui</l>
+	<l id="258">Ce que trop de vertu me fit perdre par lui :</l>
+	<l id="259">Pour peu que vous m'aimiez , aimez mes avantages ;</l>
+	<l id="260">Il n'est point d'autre amour digne des grands courages.</l>
+	<l id="261">Voilà toute mon âme. Après cela, Seigneur, </l>
+	<l id="262">Laissez-moi m'épargner les troubles de mon coeur ;</l>
+	<l id="263">Un plus long entretien ne pourrait rien produire,</l>
+	<l id="264">Qui ne pût malgré moi vous déplaire ou me nuire.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Domitian, Albin.</head>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="265">Elle se défend bien, Seigneur, et dans la cour...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="266">Aucun n'a plus d'esprit, Albin, et moins d'amour.</l>
+	<l id="267">J'admire ainsi que toi dans ce qu'elle m'oppose</l>
+	<l id="268">Son adresse à défendre une mauvaise cause,</l>
+	<l id="269">Et si pour m'assurer que son coeur n'est qu'à moi</l>
+	<l id="270">Tant d'esprit agissait en faveur de sa foi,</l>
+	<l id="271">Si sa flamme au secours appliquait cette adresse,</l>
+	<l id="272">L'Empereur convaincu me rendrait ma maîtresse.</l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="273">Cependant n'est-ce rien que ce coeur soit à vous ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="274">D'un bonheur si mal sûr je ne suis point jaloux, </l>
+	<l id="275">Et trouve peu de jour à croire qu'elle m'aime, </l>
+	<l id="276">Quand elle ne regarde et n'aime que soi-même. </l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="277">Seigneur, s'il m'est permis de parler librement, </l>
+	<l id="278">Dans toute la nature aime-t-on autrement ?</l>
+	<l id="279">L'amour propre est la source en nous de tous les autres,</l>
+	<l id="280">C'en est le sentiment qui forme tous les nôtres,</l>
+	<l id="281">Lui seul allume, éteint, ou change nos désirs,</l>
+	<l id="282">Les objets de nos voeux le sont de nos plaisirs :</l>
+	<l id="283">Vous-même qui brûlez d'une ardeur si fidèle, </l>
+	<l id="284">Aimez-vous Domitie, ou vos plaisirs en elle ?</l>
+	<l id="285">Et quand vous aspirez à des liens si doux, </l>
+	<l id="286">Est-ce pour l'amour d'elle, ou pour l'amour de vous? </l>
+	<l id="287">De sa possession l'aimable et chère idée,</l>
+	<l id="288">Tient vos sens enchantés et votre âme obsédée, </l>
+	<l id="289">Mais si vous conceviez quelques destins meilleurs, </l>
+	<l id="290">Vous porteriez bientôt toute cette âme ailleurs. </l>
+	<l id="291">Sa conquête est pour vous le comble des délices, </l>
+	<l id="292">Vous ne vous figurez ailleurs que des supplices, </l>
+	<l id="293">C'est par là qu'elle seule a droit de vous charmer, </l>
+	<l id="294">Et vous n'aimez que vous quand vous croyez l'aimer. </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="295">En l'état où je suis les maux dont je soupire</l>
+	<l id="296">M'ôtent la liberté de te rien contredire :</l>
+	<l id="297">Cherchons-en le remède, au lieu de raisonner</l>
+	<l id="298">Sur l'amour où le ciel se plaît à m'obstiner.</l>
+	<l id="299">N'est-il point de secret ? N'est-il point d'artifice...</l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="300">Oui, Seigneur, il en est, rappelons Bérénice, </l>
+	<l id="301">Sous le nom de César pratiquons son retour, </l>
+	<l id="302">Qui retarde l'hymen, et suspende l'amour. </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="303">Que je verrais, Albin, ma volage punie, </l>
+	<l id="304">Si de ces grands apprêts pour la cérémonie, </l>
+	<l id="305">Que depuis si longtemps on dresse à si grand bruit, </l>
+	<l id="306">Elle n'avait que l'ombre, et qu'une autre eût le fruit !</l>
+	<l id="307">Qu'elle serait confuse, et que j'aurais de joie !</l>
+	<l id="308">Mais il faut que le ciel lui-même la renvoie, </l>
+	<l id="309">Cette belle rivale, et tout notre discours </l>
+	<l id="310">Ne la saurait ici rendre dans quatre jours.</l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="311">N'importe, en l'attendant préparons sa victoire, </l>
+	<l id="312">Dans l'esprit d'un rival ranimons sa mémoire, </l>
+	<l id="313">Retraçons à ses yeux l'image du passé, </l>
+	<l id="314">Et profitons par là du cour embarrassé. </l>
+	<l id="315">N'y perdez point de temps, allez sans plus rien taire</l>
+	<l id="316">Tâter jusqu'en ce coeur les tendresses de frère.</l>
+	<l id="317">Si vous ne l'emportez, il pourra s'ébranler,</l>
+	<l id="318">S'il ne rompt cet hymen, il pourra reculer, </l>
+	<l id="319">Je me trompe, ou son âme y penche d'elle-même :</l>
+	<l id="320">S'il s'émeut, redoublez, dites que l'on vous aime, </l>
+	<l id="321">Dites qu'un pur respect contraint avec ennui </l>
+	<l id="322">Une âme toute à vous à se donner à lui :</l>
+	<l id="323">S'il se trouble, achevez, parlez de Bérénice, </l>
+	<l id="324">De tant d'amour qu'il traite avec tant d'injustice :</l>
+	<l id="325">Pour lui donner le temps de venir au secours</l>
+	<l id="326">Nous aurons quatre mois au lieu de quatre jours.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="327">Mais j'aime Domitie, et lui parler contre elle, </l>
+	<l id="328">C'est me mettre au hasard d'irriter l'infidèle. </l>
+	<l id="329">Ne me condamne point, Albin, à la trahir, </l>
+	<l id="330">À joindre à ses mépris le droit de me haïr :</l>
+	<l id="331">En vain je veux contre elle écouter ma colère, </l>
+	<l id="332">Tout ingrate qu'elle est, je tremble à lui déplaire. </l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="333">Seigneur, quelle mesure avez-vous à garder ? </l>
+	<l id="334">Quand on voit tout perdu, craint-on de hasarder ?</l>
+	<l id="335">Et si l'ambition vers un autre l'entraîne, </l>
+	<l id="336">Que vous peut importer son amour, ou sa haine ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="337">Qu'un salutaire avis fait une douce loi </l>
+	<l id="338">À qui peut avoir l'âme aussi libre que toi ! </l>
+	<l id="339">Mais celle d'un amant n'est pas comme une autre âme,</l>
+	<l id="340">Il ne voit, il n'entend, il ne croit que sa flamme, </l>
+	<l id="341">Du plus puissant remède il se fait un poison, </l>
+	<l id="342">Et la raison pour lui n'est pas toujours raison. </l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="343">Et si je vous disais que déjà Bérénice </l>
+	<l id="344">Est dans Rome, inconnue, et par mon artifice ?</l>
+	<l id="345">Qu'elle surprendra Tite, et qu'elle y vient exprès </l>
+	<l id="346">Pour de ce grand hymen renverser les apprêts ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="347" part="i">Albin, serait-il vrai ? </l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="347" part="f">La nouvelle vous flatte ;</l>
+	<l id="348">Peut-être est-elle fausse, attendez qu'elle éclate :</l>
+	<l id="349">Surtout à l'Empereur déguisez-la si bien... </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="350">Va, je lui parlerai comme n'en sachant rien. </l>
+   </sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE. Tite, Flavian.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="351">Quoi, des ambassadeurs que Bérénice envoie</l>
+	<l id="352">Viennent ici, dis-tu, me témoigner sa joie,</l>
+	<l id="353">M'apporter son hommage, et me féliciter,</l>
+	<l id="354">Sur ce comble de gloire où je viens de monter ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="355">En attendant votre ordre ils sont au port d'Ostie.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="356">Ainsi, grâces aux Dieux, sa flamme est amortie,</l>
+	<l id="357">Et de pareils devoirs sont pour moi des froideurs,</l>
+	<l id="358">Puisqu'elle s'en rapporte à ses ambassadeurs,</l>
+	<l id="359">Jusqu'après mon hymen remettons leur venue,</l>
+	<l id="360">J'aurais trop à rougir si j'y souffrais leur vue,</l>
+	<l id="361">Et recevais les yeux de ses propres sujets</l>
+	<l id="362">Pour envieux témoins du vol que je lui fais.</l>
+	<l id="363">Car mon coeur fut son bien, à cette belle Reine,</l>
+	<l id="364">Et pourrait l'être encore malgré Rome, et sa haine,</l>
+	<l id="365">Si ce divin objet qui fut tout mon désir</l>
+	<l id="366">Par quelque doux regard s'en venait ressaisir.</l>
+	<l id="367">Mais du haut de son trône elle aime mieux me rendre</l>
+	<l id="368">Ces froideurs que pour elle on me força de prendre,</l>
+	<l id="369">Peut-être en ce moment que toute ma raison</l>
+	<l id="370">Ne saurait sans désordre entendre son beau nom, </l>
+	<l id="371">Entre les bras d'un autre un autre amour la livre,</l>
+	<l id="372">Elle suit mon exemple, et se plaît à le suivre,</l>
+	<l id="373">Et ne m'envoie ici traiter de souverain,</l>
+	<l id="374">Que pour braver l'amant qu'elle charmait en vain. </l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="375">Si vous la revoyiez, je plaindrais Domitie.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="376">Contre tous ses attraits ma raison endurcie </l>
+	<l id="377">Ferait de Domitie encor la sûreté,</l>
+	<l id="378">Mais mon coeur aurait peu de cette dureté. </l>
+	<l id="379">N'aurais-tu point appris qu'elle fût infidèle, </l>
+	<l id="380">Qu'elle écoutât les rois qui soupirent pour elle ?</l>
+	<l id="381">Dis-moi que Polémon règne dans son esprit,</l>
+	<l id="382">J'en aurai du chagrin, j'en aurai du dépit,</l>
+	<l id="383">D'une vive douleur j'en aurai l'âme atteinte, </l>
+	<l id="384">Mais j'épouserai l'autre avec moins de contrainte.</l>
+	<l id="385">Car enfin elle est belle, et digne de ma foi,</l>
+	<l id="386">Elle aurait tout mon coeur, s'il était tout à moi,</l>
+	<l id="387">La noblesse du sang, la grandeur de courage,</l>
+	<l id="388">Font avec son mérite un illustre assemblage. </l>
+	<l id="389">C'est le choix de mon père, et je connais trop bien </l>
+	<l id="390">Qu'à choisir en César ce doit être le mien.</l> 
+	<l id="391">Mais tout mon coeur renonce à lui faire justice</l>
+	<l id="392">Dès que mon souvenir lui rend sa Bérénice. </l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="393">Si de tels souvenirs vous sont encor si doux, </l>
+	<l id="394">L'hyménée a, Seigneur, peu de charmes pour vous. </l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="395">Si de tels souvenirs ne me faisaient la guerre, </l>
+	<l id="396">Serait-il potentat plus heureux sur la terre ?</l>
+	<l id="397">Mon nom par la victoire est si bien affermi, </l>
+	<l id="398">Qu'on me croit dans la paix un lion endormi :</l>
+	<l id="399">Mon réveil incertain du monde fait l'étude, </l>
+	<l id="400">Mon repos en tous lieux jette l'inquiétude, </l>
+	<l id="401">Et tandis qu'en ma cour les aimables loisirs</l>
+	<l id="402">Ménagent l'heureux choix des jeux et des plaisirs, </l>
+	<l id="403">Pour envoyer l'effroi sous l'un et l'autre pôle, </l>
+	<l id="404">Je n'ai qu'à faire un pas, et hausser la parole.</l>
+	<l id="405">Que de félicité, si mes voeux imprudents </l>
+	<l id="406">N'étaient de mon pouvoir les seuls indépendants !</l>
+	<l id="407">Maître de l'univers, sans l'être de moi-même, </l>
+	<l id="408">Je suis le seul rebelle à ce pouvoir suprême,</l>
+	<l id="409">D'un feu que je combats je me laisse charmer, </l>
+	<l id="410">Et n'aime qu'à regret ce que je veux aimer.</l>
+	<l id="411">En vain de mon hymen Rome presse la pompe, </l>
+	<l id="412">J'y veux de la lenteur, j'aime qu'on l'interrompe, </l>
+	<l id="413">Et n'ose résister aux dangereux souhaits </l>
+	<l id="414">De préparer toujours et n'achever jamais.</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="415">Si ce dégoût, Seigneur, va jusqu'à la rupture, </l>
+	<l id="416">Domitie aura peine à souffrir cette injure. </l>
+	<l id="417">Ce jeune esprit qu'entête, et le sang de Néron,</l>
+	<l id="418">Et le choix qu'en Syrie on fit de Corbulon,</l>
+	<l id="419">S'attribue à l'empire un droit imaginaire, </l>
+	<l id="420">Et s'en fait comme vous un rang héréditaire. </l>
+	<l id="421">Si de votre parole un manque surprenant </l>
+	<l id="422">La jette entre les bras d'un homme entreprenant, </l>
+	<l id="423">S'il l'unit à quelque âme assez fière et hautaine </l>
+	<l id="424">Pour servir son orgueil et seconder sa haine, </l>
+	<l id="425">Un vif ressentiment lui fera tout oser,</l>
+	<l id="426">En un mot il vous faut la perdre, ou l'épouser. </l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="427">J'en sais la politique, et cette loi cruelle </l>
+	<l id="428">À presque fait l'amour qu'il m'a fallu pour elle. </l>
+	<l id="429">Réduit au triste choix dont tu viens de parler</l>
+	<l id="430">J'aime mieux, Flavian, l'aimer, que l'immoler, </l>
+	<l id="431">Et ne puis démentir cette horreur magnanime </l>
+	<l id="432">Qu'en recevant le jour je conçus pour le crime. </l>
+	<l id="433">Moi qui seul des césars me vois en ce haut rang,</l>
+	<l id="434">Sans qu'il en coûte à Rome une goutte de sang,</l> 
+	<l id="435">Moi que du genre humain on nomme les délices, </l>
+	<l id="436">Moi qui ne puis souffrir les plus justes supplices, </l>
+	<l id="437">Pourrais-je autoriser une injuste rigueur </l>
+	<l id="438">À perdre une héroïne à qui je dois mon coeur ?</l>
+	<l id="439">Non, malgré les attraits de sa belle rivale, </l>
+	<l id="440">Malgré les voeux flottants de mon âme inégale, </l>
+	<l id="441">Je veux l'aimer, je l'aime, et sa seule beauté </l>
+	<l id="442">Pouvait me consoler de ce que j'ai quitté ;</l>
+	<l id="443">Elle seule en ses yeux porte de quoi contraindre </l>
+	<l id="444">Mes feux à s'assoupir, s'ils ne peuvent s'éteindre, </l>
+	<l id="445">De quoi flatter mon âme, et forcer mes douleurs </l>
+	<l id="446">À souhaiter du moins de n'aimer plus ailleurs. </l>
+	<l id="447">Mais je ne vois pas bien que j'en sois encor maître ;</l>
+	<l id="448">Dès que ma flamme expire un mot la fait renaître, </l>
+	<l id="449">Et mon coeur malgré moi rappelle un souvenir </l>
+	<l id="450">Que je n'ose écouter, et ne saurais bannir. </l>
+	<l id="451">Ma raison s'en veut faire en vain un sacrifice, </l>
+	<l id="452">Tout me ramène ici, tout m'offre Bérénice, </l>
+	<l id="453">Et même je ne sais par quel pressentiment </l>
+	<l id="454">Je n'ai souffert personne en son appartement,</l>
+	<l id="455">Mais depuis cet adieu si cruel et si tendre,</l>
+	<l id="456">Il est demeuré vide, et semble encor l'attendre. </l>
+	<l id="457">Va, fais porter mon ordre à ses ambassadeurs, </l>
+	<l id="458">C'est trop entretenir d'inutiles ardeurs, </l>
+	<l id="459">Il est temps de chercher qui m'en puisse distraire,</l>
+	<l id="460">Et le ciel à propos envoie ici mon frère. </l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="461" part="i">Irez-vous au sénat ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="461" part="f">Non, il peut s'assembler </l>
+	<l id="462">Sur ce déluge ardent qui nous a fait trembler, </l>
+	<l id="463">Et pourvoir sous mon ordre aux affreuses ruines </l>
+	<l id="464">Dont ses feux ont couvert les campagnes voisines.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Tite, Domitian, Albin.</head>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="465">Puis-je parler, Seigneur, et de votre amitié</l>
+	<l id="466">Espérer une grâce à force de pitié ?</l>
+	<l id="467">Je me suis jusqu'ici fait trop de violence,</l>
+	<l id="468">Pour augmenter encor mes maux par mon silence,</l>
+	<l id="469">Ce que je vais vous dire est digne du trépas,</l>
+	<l id="470">Mais aussi j'en mourrai si je ne le dis pas :</l>
+	<l id="471">Apprenez donc mon crime, et voyez s'il faut faire</l>
+	<l id="472">Justice d'un coupable, ou grâce aux voeux d'un frère.</l>
+	<l id="473">J'ai vu ce que j'aimais choisi pour être à vous,</l>
+	<l id="474">Et je l'ai vu longtemps sans en être jaloux,</l>
+	<l id="475">Vous n'aimiez Domitie alors que par contrainte,</l>
+	<l id="476">Vous vous faisiez effort, j'imitais votre feinte,</l>
+	<l id="477">Et comme aux lois d'un père il fallait obéir,</l>
+	<l id="478">Je feignais d'oublier, vous de ne point haïr.</l>
+	<l id="479">Le ciel qui dans vos mains met sa toute-puissance</l>
+	<l id="480">Ne met-il point de borne à cette obéissance ?</l>
+	<l id="481">La faut-il à son ombre, et que ce même effort</l>
+	<l id="482">Vous déchire encor l'âme, et me donne la mort ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="483">Souffrez sur cet effort que je vous désabuse.</l>
+	<l id="484">Il fut grand, et de ceux que tout le coeur refuse,</l>
+	<l id="485">Pour en sauver le mien je fis ce que je pus,</l>
+	<l id="486">Mais ce qui fut effort à présent ne l'est plus.</l>
+	<l id="487">Sachez-en la raison. Sous l'empire d'un père</l>
+	<l id="488">Je murmurai toujours d'un ordre si sévère,</l>
+	<l id="489">Et cherchai les moyens de tirer en longueur</l>
+	<l id="490">Cet hymen qui vous gêne et m'arrachait le coeur.</l>
+	<l id="491">Son trépas a changé toutes choses de face.</l>
+	<l id="492">J'ai pris ses sentiments lorsque j'ai pris sa place,</l>
+	<l id="493">Je m'impose à mon tour les lois qu'il m'imposait,</l>
+	<l id="494">Et me dis après lui tout ce qu'il me disait.</l>
+	<l id="495">J'ai des yeux d'empereur, et n'ai plus ceux de Tite,</l>
+	<l id="496">Je vois en Domitie un tout autre mérite,</l>
+	<l id="497">J'écoute la raison, j'en goûte les conseils,</l>
+	<l id="498">Et j'aime comme il faut qu'aiment tous mes pareils.</l>
+	<l id="499">Si dans les premiers jours que vous m'avez vu maître</l>
+	<l id="500">Votre feu mal éteint avait voulu paraître,</l>
+	<l id="501">J'aurais pu me combattre et me vaincre pour vous :</l>
+	<l id="502">Mais si près d'un hymen si souhaité de tous,</l>
+	<l id="503">Quand Domitie a droit de s'en croire assurée,</l>
+	<l id="504">Que le jour en est pris, la fête préparée,</l>
+	<l id="505">Je l'aime et lui dois trop, pour jeter sur son front</l>
+	<l id="506">L'éternelle rougeur d'un si mortel affront.</l>
+	<l id="507">Rome entière, et ma foi l'appellent à l'empire,</l>
+	<l id="508">Voyez mieux de quel ?il on m'en verrait dédire,</l>
+	<l id="509">Ce qu'ose se permettre une femme en fureur,</l>
+	<l id="510">Et combien Rome entière aurait pour moi d'horreur.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="511">Elle n'en aurait point de vous voir pour un frère </l>
+	<l id="512">Faire autant que pour elle il vous a plu de faire.</l>
+	<l id="513">Seigneur, à vos bontés laissez un libre cours,</l>
+	<l id="514">Qui se vainc une fois peut se vaincre toujours,</l>
+	<l id="515">Ce n'est pas un effort que votre âme redoute.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="516">Qui se vainc une fois sait bien ce qu'il en coûte, </l>
+	<l id="517">L'effort est assez grand pour en craindre un second. </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="518">Ah, si votre grande âme à peine s'en répond, </l>
+	<l id="519">La mienne qui n'est pas d'une trempe si belle, </l>
+	<l id="520">Réduite au même effort, Seigneur, que fera-t-elle ? </l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="521" part="i">Ce que je fais, mon frère, aimez ailleurs. </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="521" part="f">Hélas,</l>
+	<l id="522">Ce qui vous fut aisé, Seigneur, ne me l'est pas. </l>
+	<l id="523">Quand vous avez changé, voyiez-vous Bérénice ? </l>
+	<l id="524">De votre changement son départ fut complice,</l>
+	<l id="525">Vous l'aviez éloignée, et j'ai devant les yeux,</l>
+	<l id="526">Je vois presque en vos bras ce que j'aime le mieux. </l>
+	<l id="527">Jugez de ma douleur par l'excès de la vôtre, </l>
+	<l id="528">Si vous voyiez la Reine entre les bras d'un autre :</l>
+	<l id="529">Contre un rival heureux épargneriez-vous rien, </l>
+	<l id="530">À moins que d'un respect aussi grand que le mien ? </l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="531">Vengez-vous, j'y consens, que rien ne vous retienne,</l>
+	<l id="532">Je prends votre maîtresse, allez, prenez la mienne,</l>
+	<l id="533" part="i">Épousez Bérénice, et...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="533" part="f">Vous n'achevez point,</l>
+	<l id="534">Seigneur, me pourriez-vous aimer jusqu'à ce point ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="535">Oui, si je ne craignais pour vous l'injuste haine </l>
+	<l id="536">Que Rome concevrait pour l'époux d'une Reine.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="537">Dites, dites, Seigneur, qu'il est bien malaisé</l>
+	<l id="538">De céder ce qu'adore un coeur bien embrasé. </l>
+	<l id="539">Ne vous contraignez plus, ne gênez plus votre âme, </l>
+	<l id="540">Satisfaites en maître une si belle flamme,</l>
+	<l id="541">Quand vous aurez su dire une fois : " Je le veux ", </l>
+	<l id="542">D'un seul mot prononcé vous ferez quatre heureux.</l> 
+	<l id="543">Bérénice est toujours digne de votre couche,</l>
+	<l id="544">Et Domitie enfin vous parle par ma bouche ; </l>
+	<l id="545">Car je ne saurais plus vous le taire. Oui, Seigneur, </l>
+	<l id="546">Vous en voulez la main, et j'en ai tout le coeur,</l>
+	<l id="547">Elle m'en fit le don dès la première vue, </l>
+	<l id="548">Et ce don fut l'effet d'une force imprévue, </l>
+	<l id="549">De cet ordre du ciel qui verse en nos esprits</l>
+	<l id="550">Les principes secrets de prendre et d'être pris : </l>
+	<l id="551">Je vous dirais, Seigneur, quelle en est la puissance, </l>
+	<l id="552">Si vous ne le saviez par votre expérience. </l>
+	<l id="553">Ne rompez pas des noeuds, et si forts, et si doux,</l>
+	<l id="554">Rien ne les peut briser que le trépas ou vous.</l>
+	<l id="555">Et c'est un triste honneur pour une si grande âme, </l>
+	<l id="556">Que d'accabler un frère, et contraindre une femme. </l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="557">Je ne contrains personne et de sa propre voix</l>
+	<l id="558">Nous allons vous et moi savoir quel est son choix.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Tita, Domitian, Domitie, Albin, Plautine.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="559">Parlez, parlez, Madame, et daignez nous apprendre</l> 
+	<l id="560">Où porte votre coeur, ce qu'il sent de plus tendre, </l>
+	<l id="561">Qui le possède entier de mon frère ou de moi ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="562">En doutez-vous, Seigneur, quand vous avez ma foi ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="563">J'aime à n'en point douter, mais on veut que j'en doute,</l>
+	<l id="564">On dit que cette foi ne vous donne pas toute,</l>
+	<l id="565">Que ce coeur reste ailleurs. Parlez en liberté,</l>
+	<l id="566">Et n'en consultez point cette noble fierté,</l>
+	<l id="567">Ce digne orgueil du sang que mon rang sollicite</l>
+	<l id="568">De tout ce que je suis ne regardez que Tite,</l>
+	<l id="569">Et pour mieux écouter vos désirs les plus doux,</l>
+	<l id="570">Entre le Prince et moi ne regardez que vous.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="571" part="i">Qu'avez-vous dit de moi, Prince ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="571" part="f">Que dans votre âme </l>
+	<l id="572">Vous laissez vivre encor notre première flamme, </l>
+	<l id="573">Et qu'en faveur du rang si vous m'osez trahir, </l>
+	<l id="574">Ce n'est pas tant aimer, Madame, qu'obéir. </l>
+	<l id="575">C'est en dire un peu plus que vous n'aviez envie, </l>
+	<l id="576">Mais il y va de vous, il y va de ma vie, </l>
+	<l id="577">Et qui se voit si près de perdre tout son bien</l>
+	<l id="578">Se fait armes de tout, et ne ménage rien.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="579">Je ne sais de vous deux, Seigneur, à ne rien feindre</l>
+	<l id="580">Duquel je dois le plus me louer, ou me plaindre. </l>
+	<l id="581">C'est aimer assez mal que remettre tous deux </l>
+	<l id="582">Au choix de mes désirs le succès de vos voeux, </l>
+	<l id="583">Et cette liberté par tous les deux offerte </l>
+	<l id="584">Montre que tous les deux peuvent souffrir ma perte, </l>
+	<l id="585">Et que tout leur amour est prêt à consentir</l> 
+	<l id="586">Que mon coeur ou ma foi veuille se démentir. </l>
+	<l id="587">Je me plains de tous deux, et vous plains l'un et l'autre, </l>
+	<l id="588">Si pour voir tout ce coeur vous m'ouvrez tout le vôtre. </l>
+	<l id="589">Le Prince n'agit pas en amant fort discret ;</l>
+	<l id="590">S'il ne m'impose rien, il trahit mon secret, </l>
+	<l id="591">Tout ce qu'il vous en dit m'offense, ou vous abuse, </l>
+	<l id="592">Mais ce que fait l'amour, l'amour aussi l'excuse. </l>
+	<l id="593">Vous, Seigneur, je croyais que vous m'aimiez assez </l>
+	<l id="594">Pour m'épargner le trouble où vous m'embarrassez, </l>
+	<l id="595">Et laisser pour couleur à mon peu de constance </l>
+	<l id="596">La gloire d'obéir à la toute-puissance : </l>
+	<l id="597">Vous m'ôtez cette excuse, et me voulez charger </l>
+	<l id="598">De ce qu'a d'odieux la honte de changer : </l>
+	<l id="599">Si le Prince en mon coeur garde encor même place, </l>
+	<l id="600">C'est manquer de respect que vous le dire en face, </l>
+	<l id="601">Et si mon choix pour vous n'est point violenté, </l>
+	<l id="602">C'est trop d'ambition et d'infidélité.</l>
+	<l id="603">Ainsi des deux côtés tout sert à me confondre,</l>
+	<l id="604">J'ai cent choses à dire, et rien à vous répondre,</l> 
+	<l id="605">Et ne voulant déplaire à pas un de vous deux, </l>
+	<l id="606">Je veux, ainsi que vous douter où vont mes voeux. </l>
+	<l id="607">Ce qui le plus m'étonne en cette déférence</l>
+	<l id="608">Qui veut du coeur entier une entière assurance, </l>
+	<l id="609">C'est que dans ce haut rang vous ne vouliez pas voir </l>
+	<l id="610">Qu'il n'importe du coeur quand on sait son devoir, </l>
+	<l id="611">Et que de vos pareils les hautes destinées </l>
+	<l id="612">Ne le consultent point sur ces grands hyménées. </l>
+   </sp>
+    <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="613">Si le vôtre, Madame, était de moindre prix... </l>
+	<l id="614" part="i">Mais que veut Flavian ? </l>
+   </sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Tite, Domitian, Domitie, Plautine, Flavian, Alban.</head>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="614" part="f">Vous en serez surpris,</l>
+	<l id="615">Seigneur, je vous apporte une grande nouvelle,</l>
+	<l id="616" part="i">La Reine Bérénice...</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="616" part="f">Eh bien ? Est infidèle ?</l>
+	<l id="617">Et son esprit charmé par un plus doux souci...</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="618">Elle est dans ce palais, Seigneur, et la voici.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Tite, Domitian, Bérénice, Domitie, Flavian, Albin, Philon, Plautin.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="619">Ô Dieux ! Est-ce, Madame, aux reines de surprendre ?</l>
+	<l id="620">Quel accueil, quels honneurs peuvent-elles attendre,</l>
+	<l id="621">Quand leur surprise envie au souverain pouvoir</l>
+	<l id="622">Celui de donner ordre à les bien recevoir ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="623">Pardonnez-le, Seigneur, à mon impatience.</l>
+	<l id="624">J'ai fait sous d'autres noms demander audience,</l>
+	<l id="625">Vous la donniez trop tard à mes ambassadeurs ;</l>
+	<l id="626">Je n'ai pu tant attendre à voir tant de grandeurs,</l>
+	<l id="627">Et quoique par vous-même autrefois exilée,</l>
+	<l id="628">Sans ordre et sans aveu je me suis rappelée,</l>
+	<l id="629">Pour être la première à mettre à vos genoux</l>
+	<l id="630">Le sceptre qu'à présent je ne tiens que de vous,</l>
+	<l id="631">Et prendre sur les rois cet illustre avantage</l>
+	<l id="632">De leur donner l'exemple à vous en faire hommage.</l>
+	<l id="633">Je ne vous dirai point avec quelles langueurs</l>
+	<l id="634">D'un si cruel exil j'ai souffert les longueurs,</l>
+	<l id="635" part="i">Vous savez trop...</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="635" part="f">Je sais votre zèle, et l'admire,</l>
+	<l id="636">Madame, et pour me voir possesseur de l'empire,</l>
+	<l id="637">Pour me rendre vos soins, je ne méritais pas</l>
+	<l id="638">Que rien vous pût résoudre à quitter vos états</l>
+	<l id="639">Qu'une si grande reine en formât la pensée.</l>
+	<l id="640">Un voyage si long vous doit avoir lassée.</l>
+	<l id="641">Conduisez-la, mon frère, en son appartement.</l>
+	<l id="642">Vous, faites-l'y servir aussi pompeusement,</l>
+	<l id="643">Avec le même éclat qu'elle s'y vit servie,</l>
+	<l id="644">Alors qu'elle faisait le bonheur de ma vie.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Tite, Domitie, Plautine, Philon.</head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="645">Seigneur, faut-il ici vous rendre votre foi ?</l>
+	<l id="646">Ne regardez que vous entre la reine et moi,</l>
+	<l id="647">Parlez sans vous contraindre, et me daignez apprendre</l>
+	<l id="648">Où porte votre coeur ce qu'il sent de plus tendre.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="649">Adieu, Madame, adieu, dans le trouble où je suis</l>
+	<l id="650">Me taire et vous quitter c'est tout ce que je puis.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. DOMITIE, PLAUTINE.</head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="651">Se taire et me quitter ! Après cette retraite,</l>
+	<l id="652">Crois-tu qu'un tel arrêt ait besoin d'interprète ?</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="653">Oui, Madame, et ce n'est que dérober au jour, </l>
+	<l id="654">Que vous cacher le trouble où le met ce retour. </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="655">Non, non, tu l'as voulu, Plautine, que je vinsse</l>
+	<l id="656">Désavouer ici les vanités du prince,</l>
+	<l id="657">Empêcher qu'un amant dont je n'ai pas le coeur</l>
+	<l id="658">Ne cédât ma conquête à mon premier vainqueur :</l>
+	<l id="659">Vois la honte qu'ainsi je me suis attirée.</l>
+	<l id="660">Quand sa Reine a paru m'a-t-il considérée ?</l>
+	<l id="661">A-t-il jeté les yeux sur moi qu'en me quittant ?</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="662">Pensez-vous que sa Reine ait l'esprit plus content ?</l>
+	<l id="663">Avant que vous quitter lui-même il l'a bannie.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="664">Oui, mais avec respect, avec cérémonie,</l>
+	<l id="665">Avec des yeux enfin qui l'éloignant des miens</l>
+	<l id="666">Lui promettaient assez de plus doux entretiens.</l>
+	<l id="667">Tu me diras encor que la chose est égale,</l>
+	<l id="668">Que s'il m'ose quitter il chasse ma rivale.</l>
+	<l id="669">Mais pour peu qu'il m'aimât, du moins il m'aurait dit</l>
+	<l id="670">Que je garde en son âme encor même crédit,</l>
+	<l id="671">Il m'en aurait donné des sûretés nouvelles,</l>
+	<l id="672">Il m'en aurait laissé quelques marques fidèles.</l>
+	<l id="673">S'il me voulait cacher le trouble ou je le vois,</l>
+	<l id="674">La plus mauvaise excuse était bonne pour moi :</l>
+	<l id="675">Mais pour toute réponse, il se tait et me quitte,</l>
+	<l id="676">Et tu ne peux souffrir que mon coeur s'en irrite !</l>
+	<l id="677">Tu veux, lorsque lui-même ose se déclarer,</l>
+	<l id="678">Que je me flatte encore assez pour espérer !</l>
+	<l id="679">C'est avec le perfide être d'intelligence,</l>
+	<l id="680">Sans me flatter en vain courons à la vengeance,</l>
+	<l id="681">Faisons voir ce qu'en moi peut le sang de Néron,</l>
+	<l id="682">Et que je suis de plus fille de Corbulon.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="683">Vous l'êtes, mais enfin c'est n'être qu'une fille, </l>
+	<l id="684">Que le reste impuissant d'une illustre famille. </l>
+	<l id="685">Contre un tel empereur où prendrez-vous des bras ? </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="686">Contre un tel empereur nous n'en manquerons pas.</l>
+	<l id="687">S'il épouse sa Reine, il est l'horreur de Rome,</l>
+	<l id="688">Trouvons alors, trouvons un grand coeur, un grand homme,</l>
+	<l id="689">Un Romain qui réponde au sang de mes aïeux,</l>
+	<l id="690">Et pour le révolter, laisse faire à mes yeux.</l>
+	<l id="691">Juge par le pouvoir de ceux de Bérénice,</l>
+	<l id="692">Si les miens auront peine à s'en faire justice. </l>
+	<l id="693">Si ceux-là forcent Tite à me manquer de foi, </l>
+	<l id="694">Ceux-ci feront briser le joug d'un nouveau roi,</l>
+	<l id="695">Et si de l'univers les siens charment le maître, </l>
+	<l id="696">Les miens charmeront ceux qui méritent de l'être. </l>
+	<l id="697">Dis-le-moi, tu l'as vue, ai-je peu de raison</l>
+	<l id="698">Quand de mes yeux aux siens je fais comparaison ?</l>
+	<l id="699">Est-elle plus charmante ? Ai-je moins de mérite ?</l>
+	<l id="700">Suis-je moins digne qu'elle enfin du coeur de Tite ?</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="701" part="i">Madame...</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="701" part="f">Je m'emporte, et mes sens interdits </l>
+	<l id="702">Impriment leur désordre en tout ce que je dis. </l>
+	<l id="703">Comment saurais-je aussi ce que je te dois dire, </l>
+	<l id="704">Si je ne sais pas même à quoi mon âme aspire ? </l>
+	<l id="705">Mon aveugle fureur s'égare à tout propos :</l>
+	<l id="706">Allons penser à tout avec plus de repos.</l>
+   </sp>
+   <sp who="PLAUTINE"><speaker>PLAUTINE.</speaker>
+	<l id="707">Vous pourriez hasarder un moment de visite</l>
+	<l id="708">Pour voir si ce retour est sans l'aveu de Tite, </l>
+	<l id="709">Ou si c'est de concert qu'il a fait le surpris.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="710">Oui, mais auparavant remettons nos esprits.</l>
+   </sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Domitian, Bérénice, Philon.</head>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="711">Je vous l'ai dit, Madame, et j'aime à le redire. </l>
+	<l id="712">Qu'il est beau qu'à vous plaire un empereur aspire !</l>
+	<l id="713">Qu'il lui doit être doux qu'un véritable feu </l>
+	<l id="714">Par de justes soupirs mérite votre aveu !</l>
+	<l id="715">Serait-ce un crime à moins ? Serait-ce vous déplaire</l>
+	<l id="716">Après un empereur de vous offrir son frère ?</l>
+	<l id="717">Et voudriez-vous croire en faveur de ma foi</l>
+	<l id="718">Qu'un frère d'empereur pourrait valoir un roi ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="719">Si votre âme, Seigneur, en veut être éclaircie,</l>
+	<l id="720">Vous pouvez le savoir de votre Domitie.</l>
+	<l id="721">De tous les deux aimée, et douce à tous les deux, </l>
+	<l id="722">Elle sait mieux que moi comme on change de voeux,</l>
+	<l id="723">Et sait peut-être mal la route qu'il faut prendre</l>
+	<l id="724">Pour trouver le secret de les faire descendre,</l>
+	<l id="725">Quelque facilité qu'elle ait eue à trouver, </l>
+	<l id="726">Malgré sa flamme et vous, l'art de les élever. </l>
+	<l id="727">Pour moi qui n'eus jamais l'honneur d'être romaine, </l>
+	<l id="728">Et qu'un destin jaloux n'a fait naître que reine, </l>
+	<l id="729">Sans qu'un de vous descende au rang que je remplis,</l>
+	<l id="730">Ce me doit être assez d'un de vos affranchis,</l>
+	<l id="731">Et si votre empereur suit les traces des autres, </l>
+	<l id="732">Il suffit d'un tel sort pour relever les nôtres. </l>
+	<l id="733">Mais changeons de discours, et me dites, Seigneur, </l>
+	<l id="734">Par quel ordre aujourd'hui vous m'offrez votre coeur. </l>
+	<l id="735">Est-ce pour obliger ou Domitie, ou Tite ?</l>
+	<l id="736">N'ose-t-il me quitter à moins que je le quitte ?</l>
+	<l id="737">Et peut-il à son rang si peu se confier</l>
+	<l id="738">Qu'il veuille mon exemple à se justifier ? </l>
+	<l id="739">Me donne-t-il à vous, alors qu'il m'abandonne ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="740">Il vous respecte trop, c'est à vous qu'il me donne,</l>
+	<l id="741">Et me fait la justice, en m'enlevant mon bien,</l>
+	<l id="742">De vouloir que je tâche à m'enrichir du sien :</l>
+	<l id="743">Mais à peine il le veut, qu'il craint pour moi la haine</l>
+	<l id="744">Que Rome concevrait pour l'époux d'une reine.</l>
+	<l id="745">C'est à vous de juger d'où part ce sentiment :</l>
+	<l id="746">En vain, par politique il fait ailleurs l'amant,</l>
+	<l id="747">Il s'y réduit en vain par grandeur de courage ;</l>
+	<l id="748">À ces fausses clartés opposez quelque ombrage, </l>
+	<l id="749">Et je renonce au jour, s'il ne revient à vous, </l>
+	<l id="750">Pour peu que vous penchiez à le rendre jaloux. </l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="751">Peut-être, mais, Seigneur, croyez-vous Bérénice ?</l>
+	<l id="752">D'un coeur à s'abaisser jusqu'à cet artifice, </l>
+	<l id="753">Jusques à mendier lâchement le retour </l>
+	<l id="754">De ce qu'un grand service a mérité d'amour ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="755">Madame, sur ce point je n'ai rien à vous dire. </l>
+	<l id="756">Mais savez ce que vaut l'empereur et l'empire,</l>
+	<l id="757">Et si vous consentez qu'on vous manque de foi, </l>
+	<l id="758">Vous pouvez remarquer si je vaux bien un roi. </l>
+	<l id="759">J'aperçois Domitie, et lui cède la place. </l>
+   </sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Domitie, Bérénice, Domitian, Philon. </head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="760">Je vais me retirer, Seigneur, si je vous chasse, </l>
+	<l id="761">Et j'ai des intérêts que vous servez trop bien </l>
+	<l id="762">Pour arrêter le cours d'un si long entretien. </l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="763">Je faisais à la reine une offre de service </l>
+	<l id="764">Qui peut vous assurer le rang d'impératrice, </l>
+	<l id="765">Madame, et si j'en suis accepté pour époux, </l>
+	<l id="766">Tite n'aura plus d'yeux pour d'autres que pour vous. </l>
+	<l id="767" part="i">Est-ce vous mal servir ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="767" part="f">Quoi, Madame, il vous aime ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="768" part="i">Non, mais il me le dit, Madame. </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="768" part="m">Lui ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="768" part="f">Lui-même. </l>
+	<l id="769">Est-ce vous offenser que m'offrir vos refus, </l>
+	<l id="770">Et vous doit-il un coeur dont vous ne voulez plus ? </l>
+  </sp>
+  <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="771">Je ne sais si je puis vous dire s'il m'offense,</l>
+	<l id="772">Quand vous vous préparez à prendre sa défense.</l>
+  </sp>
+  <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="773">Et moi, je ne sais pas s'il a droit de changer,</l>
+	<l id="774">Mais je sais que l'amour ne peut désobliger.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="775">Du moins ce nouveau feu rend justice au mérite.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="776">Vous m'avez commandé de quitter qui me quitte,</l>
+	<l id="777">Vous le savez, Madame, et si c'est vous trahir,</l>
+	<l id="778">Vous m'avouerez aussi que c'est vous obéir. </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="779">S'il échappe à l'amour un mot qui le trahisse,</l>
+	<l id="780">À l'effort qu'il se fait veut-il qu'on obéisse ? </l>
+	<l id="781">Il cherche une révolte et s'en laisse charmer,</l>
+	<l id="782">Vous le sauriez, ingrat, si vous saviez aimer,</l>
+	<l id="783">Et ne vous feriez pas l'indigne violence</l>
+	<l id="784">De vous offrir ailleurs, et même en ma présence.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN, à Bérénice.</speaker>
+	<l id="785">Madame, vous voyez ce que je vous ai dit,</l>
+	<l id="786">La preuve est convaincante, et l'exemple suffit.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="787">Il suffit pour vous croire, et non pas pour le suivre.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="788">Allez, sous quelques lois qu'il vous plaise de vivre,</l>
+	<l id="789">Vivez-y, j'y consens, mais vous pouviez, Seigneur,</l>
+	<l id="790">Vous hâter un peu moins de m'ôter votre coeur,</l>
+	<l id="791">Attendre que l'honneur de ce grand hyménée</l>
+	<l id="792">Vous renvoyât la foi que vous m'avez donnée :</l>
+	<l id="793">Si vous vouliez passer pour véritable amant,</l>
+	<l id="794">Il fallait espérer jusqu'au dernier moment,</l>
+	<l id="795" part="i">Il vous fallait...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="795" part="f">Eh bien, puisqu'il faut que j'espère, </l>
+	<l id="796">Madame, faites grâce à l'empereur mon frère, </l>
+	<l id="797">À la reine, à vous-même enfin, si vous m'aimez </l>
+	<l id="798">Autant qu'il le parait à vos yeux alarmés. </l>
+	<l id="799">Les scrupules d'état qu'il fallait mieux combattre</l>
+	<l id="800">Assez et trop longtemps nous ont gênés tous quatre ;</l>
+	<l id="801">Réunissez des coeurs de qui rompt l'union,</l>
+	<l id="802">Cette chimère en Tite, en vous l'ambition.</l>
+	<l id="803">Vous trouverez au mien encor les mêmes flammes</l>
+	<l id="804">Qui, dès que je vous vis charmèrent nos deux âmes ;</l>
+	<l id="805">Dès ce premier moment j'adorai vos appas,</l>
+	<l id="806">Dès ce premier moment je ne vous déplus pas,</l>
+	<l id="807">Ai-je épargné depuis aucuns soins pour vous plaire ?</l>
+	<l id="808">Est-ce un crime pour moi que l'aînesse d'un frère,</l>
+	<l id="809">Et faut-il m'accabler d'un éternel ennui,</l>
+	<l id="810">Pour avoir vu le jour deux lustres après lui,</l>
+	<l id="811">Comme si de mon choix il dépendait de naître</l>
+	<l id="812">Dans le temps qu'il fallait pour devenir son maître ?</l>
+<stage>À Bérénice.</stage>
+	<l id="813">Au nom de votre amour, et de ce digne amant,</l>
+	<l id="814">Madame, qui vous aime encor si chèrement,</l>
+	<l id="815">Prenez quelque pitié d'un amant déplorable,</l>
+	<l id="816">Faites-la partager à cette inexorable,</l>
+	<l id="817">Dissipez la fierté d'une injuste rigueur,</l>
+	<l id="818">Pour juge entre elle et moi je ne veux que son coeur.</l>
+	<l id="819">Je vous laisse avec elle arbitre de ma vie.</l>
+<stage>À Domitie.</stage>
+	<l id="820">Adieu, Madame. Adieu, trop aimable ennemie.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Bérénice, Domitie, Philon.</head>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="821">Les intérêts du prince avancent trop le mien,</l>
+	<l id="822">Pour vous oser, Madame, importuner de rien,</l>
+	<l id="823">Et l'incivilité de la moindre prière</l>
+	<l id="824">Semblerait vous presser de me rendre son frère.</l>
+	<l id="825">Tout ce qu'en sa faveur je crois m'être permis,</l>
+	<l id="826">Après qu'à votre coeur lui-même il s'est remis,</l>
+	<l id="827">C'est de vous faire voir ce que hasarde une âme</l>
+	<l id="828">Qui sacrifie au rang les douceurs de sa flamme,</l>
+	<l id="829">Et quel long repentir suit ces nobles ardeurs</l>
+	<l id="830">Qui soumettent l'amour à l'éclat des grandeurs.</l>
+    </sp>
+    <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="831">Quand les choses, Madame, auront changé de face,</l>
+	<l id="832">Je reviendrai savoir ce qu'il faut que je fasse,</l>
+	<l id="833">Et demander votre ordre avec empressement</l>
+	<l id="834">Sur le choix, ou du Prince, ou de quelque autre amant.</l>
+	<l id="835">Agréez cependant un respect qui m'amène</l>
+	<l id="836">Vous rendre mes devoirs comme à ma souveraine, </l>
+	<l id="837">Car je n'ose douter que déjà l'empereur</l>
+	<l id="838">Ne vous ait redonné bonne part en son coeur.</l>
+	<l id="839">Vous avez sur vos rois pris ce digne avantage,</l>
+	<l id="840">D'être ici la première à rendre un juste hommage,</l>
+	<l id="841">Et pour vous imiter, je veux avoir le bien</l>
+	<l id="842">D'être aussi la première à vous offrir le mien.</l>
+	<l id="843">Cet exemple qu'aux rois vous donnez pour un homme,</l>
+	<l id="844">J'aime pour une Reine à le donner à Rome,</l>
+	<l id="845">Et plus il est nouveau, plus j'ai lieu d'espérer</l>
+	<l id="846">Que de quelques bontés vous voudrez m'honorer.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="847">À vous dire le vrai, sa nouveauté m'étonne,</l>
+	<l id="848">J'aurais eu quelque peine à vous croire si bonne, </l>
+	<l id="849">Et je recevrais l'offre avec confusion,</l>
+	<l id="850">Si je n'y soupçonnais un peu d'illusion. </l>
+	<l id="851">Quoi qu'il en soit, Madame, en cette incertitude</l>
+	<l id="852">Qui nous met l'une et l'autre en quelque inquiétude,</l>
+	<l id="853">Ce que je puis répondre à vos civilités,</l>
+	<l id="854">C'est de vous demander pour moi mêmes bontés,</l>
+	<l id="855">Et que celle des deux qui sera satisfaite</l>
+	<l id="856">Traite l'autre de l'air qu'elle veut qu'on la traite.</l>
+	<l id="857">J'ai vu Tite se rendre au peu que j'ai d'appas,</l>
+	<l id="858">Je ne l'espère plus, et n'y renonce pas.</l>
+	<l id="859">Il peut se souvenir dans ce grade sublime</l>
+	<l id="860">Qu'il soumit votre Rome en détruisant Solyme,</l>
+	<l id="861">Qu'en ce siège pour lui je hasardai mon rang,</l>
+	<l id="862">Prodiguai mes trésors, et mes peuples leur sang,</l>
+	<l id="863">Et que s'il me fait part de sa toute-puissance,</l>
+	<l id="864">Ce sera moins un don qu'une reconnaissance.</l>
+   </sp>
+    <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="865">Ce sont là de grands droits, et si l'amour s'y joint,</l>
+	<l id="866">Je dois craindre une chute à n'en relever point.</l>
+	<l id="867">Tite y peut ajouter que je n'ai point la gloire</l>
+	<l id="868">D'avoir sur ma patrie étendu sa victoire,</l>
+	<l id="869">De l'avoir saccagée et détruite à l'envi,</l>
+	<l id="870">Et renversé l'autel du dieu que j'ai servi.</l>
+	<l id="871">C'est par là qu'il vous doit cette haute fortune,</l>
+	<l id="872">Mais je commence à voir que je vous importune.</l>
+	<l id="873">Adieu, quelque autre fois nous suivrons ce discours.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="874">Je suis venue ici trop tôt de quatre jours,</l>
+	<l id="875">J'en suis au désespoir et vous en fais excuse. </l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="876">Dans quatre jours, Madame, on verra qui s'abuse.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Bérénice, Philon.</head>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="877">Quel caprice, Philon, l'amène jusqu'ici</l>
+	<l id="878">M'expliquer elle-même un si cuisant souci ?</l>
+	<l id="879">Tite après mon départ l'aurait-il maltraitée ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="880">Après votre départ il l'a soudain quittée,</l>
+	<l id="881">Madame, et s'est défait de cet esprit jaloux</l>
+	<l id="882">Avec un compliment encor plus court qu'à vous.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="883">Ainsi tout est égal, s'il me chasse, il la quitte,</l>
+	<l id="884">Mais ce peu qu'il m'a dit ne peut qu'il ne m'irrite,</l>
+	<l id="885">Il marque trop pour moi son infidélité,</l>
+	<l id="886">Vois de ses derniers mots quelle est la dureté :</l>
+	<l id="887">" Qu'on la serve, a-t-il dit, comme elle fut servie </l>
+	<l id="888">Alors qu'elle faisait le bonheur de ma vie. "</l>
+	<l id="889">Je ne le fais donc plus ! Voilà ce que j'ai craint :</l>
+	<l id="890">Il fait en liberté, ce qu'il faisait contraint,</l>
+	<l id="891">Cet ordre de sortir si prompt et si sévère, </l>
+	<l id="892">N'a plus pour s'excuser l'autorité d'un père,</l>
+	<l id="893">Il est libre, il est maître, il veut tout ce qu'il fait. </l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="894">Du peu qu'il vous a dit j'attends un autre effet. </l>
+	<l id="895">Le trouble de vous voir auprès d'une rivale </l>
+	<l id="896">Voulait pour se remettre un moment d'intervalle, </l>
+	<l id="897">Et quand il a rompu sitôt vos entretiens, </l>
+	<l id="898">Je lisais dans ses yeux qu'il évitait les siens, </l>
+	<l id="899">Qu'il fuyait l'embarras d'une telle présence. </l>
+	<l id="900">Mais il vient à son tour prendre son audience, </l>
+	<l id="901">Madame, et vous voyez si j'en sais bien juger. </l>
+	<l id="902">Songez de quelle sorte il faut le ménager. </l>
+   </sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Tite, Bérénice, Flavian, Philon.</head>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="903">Me cherchez-vous, Seigneur, après m'avoir chassée ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="904">Vous avez su mieux lire au fond de ma pensée,</l>
+	<l id="905">Madame, et votre coeur connaît assez le mien,</l>
+	<l id="906">Pour me justifier sans que j'explique rien.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="907">Mais justifiera-t-il le don qu'il vous plaît faire</l>
+	<l id="908">De ma propre personne au prince votre frère ?</l>
+	<l id="909">Et n'est-ce point assez de me manquer de foi</l>
+	<l id="910">Sans prendre encor le droit de disposer de moi ?</l>
+	<l id="911">Pouvez-vous jusque-là me bannir de votre âme,</l>
+	<l id="912" part="i">Le pouvez-vous, Seigneur ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="912" part="f">Le croyez-vous, Madame ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="913">Hélas, que j'ai de peur de vous dire que non !</l>
+	<l id="914">J'ai voulu vous haïr dès que j'ai su ce don,</l>
+	<l id="915">Mais à de tels courroux l'âme en vain se confie,</l>
+	<l id="916">À peine je vous vois que je vous justifie.</l>
+	<l id="917">Vous me manquez de foi, vous me donnez, chassez,</l>
+	<l id="918">Que de crimes ! Un mot les a tous effacés.</l>
+	<l id="919">Faut-il, Seigneur, faut-il que je ne vous accuse</l>
+	<l id="920">Que pour dire aussitôt que c'est moi qui m'abuse,</l>
+	<l id="921">Que pour me voir forcée à répondre pour vous ?</l>
+	<l id="922">Épargnez cette honte à mon esprit jaloux,</l>
+	<l id="923">Sauvez-moi du désordre où ma bonté m'expose,</l>
+	<l id="924">Et du moins par pitié dites-moi quelque chose :</l>
+	<l id="925">Accusez-moi plutôt, Seigneur, à votre tour,</l>
+	<l id="926">Et m'imputez pour crime un trop parfait amour.</l>
+	<l id="927">Vos chimères d'état, vos indignes scrupules</l>
+	<l id="928">Ne pourront-ils jamais passer pour ridicules ?</l>
+	<l id="929">En souffrez-vous encor la tyrannique loi ?</l>
+	<l id="930">Ont-ils encor sur vous plus de pouvoir que moi ?</l>
+	<l id="931">Du bonheur de vous voir j'ai l'âme si ravie,</l>
+	<l id="932">Que pour peu qu'il durât j'oublierais Domitie.</l>
+	<l id="933">Pourrez-vous l'épouser dans quatre jours ? Ô cieux !</l>
+	<l id="934">Dans quatre jours ! Seigneur, y voudrez-vous mes yeux</l>
+	<l id="935">Vous plairez-vous à voir qu'en triomphe menée</l>
+	<l id="936">Je serve de victime à de grand hyménée,</l>
+	<l id="937">Que traînée avec pompe aux marches de l'autel</l>
+	<l id="938">J'aille de votre main attendre un coup mortel ?</l>
+	<l id="939">M'y verrez-vous mourir sans verser une larme ?</l>
+	<l id="940">Vous y préparez-vous sans trouble et sans alarme ?</l>
+	<l id="941">Et si vous concevez l'excès de ma douleur,</l>
+	<l id="942">N'en rejaillit rien jusque dans votre coeur ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="943">Hélas, Madame, hélas, pourquoi vous ai-je vue,</l>
+	<l id="944">Et dans quel contretemps êtes-vous revenue ?</l>
+	<l id="945">Ce qu'on fit d'njustice à ce si chers appas</l>
+	<l id="946">M'avait assez coûté pour ne l'enviez pas,</l>
+	<l id="947">Votre absence et le temps m'avaient fait quelque grâce,</l>
+	<l id="948">J'en craignais un peu moins les malheurs où je passe,</l>
+	<l id="949">Je souffrais Domitie, et d'assidus efforts</l>
+	<l id="950">M'avaient malgré l'amour fait maître du dehors,</l>
+	<l id="951">La contrainte semblait tourner en habitude,</l>
+	<l id="952">Le joug que je prenais m'en paraissait moins rude,</l>
+	<l id="953">Et j'allais  être heureux, du moins aux yeux de tous,</l>
+	<l id="954">Autant qu'on le peut être en n'étant point à vous,</l>
+	<l id="955" part="i">J'allais...</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="955" part="f">N'achevez point, c'est là ce qui me tue,</l>
+	<l id="956">Et je pourrais souffrir votre hymen à ma vue,</l>
+	<l id="957">Si vous aviez choisi quelque objet sans éclat</l>
+	<l id="958">Qui ne put être à vous que par raison d'état,</l>
+	<l id="959">Qui de ses grands aïeux n'eut reçu rien d'aimable,</l>
+	<l id="960">Qui n'en eut que le nom qui fut considérable.</l>
+	<l id="961">"Il s'est assez puni de son manque de foi,</l>
+	<l id="962">Me dirais-je, et son coeur n'en est pas moins à moi."</l>
+	<l id="963">Mais Domitie est belle, elle a tout l'avantage</l>
+	<l id="964">Qu'ajoute un vrai mérite à l'éclat du visage,</l>
+	<l id="965">Et pour vous épargner les discours superflus,</l>
+	<l id="966">Elle est digne de vous si vous en m'aimez plus.</l>
+	<l id="967">Elle a toujours charmé le prince votre frère,</l>
+	<l id="968">Elle a gagné sur vous de ne vous plus déplaire,</l>
+	<l id="969">L'hymen achèvera de me faire oublier,</l>
+	<l id="970">Elle aura votre coeur et l'aura tout entier.</l>
+	<l id="971">Seigneur, faites-moi grâce, épousez Sulpicie,</l>
+	<l id="972">Ou Camille, ou Sabine, et non pas Domitie,</l>
+	<l id="973">Choisissez en quelqu'une enfin dont le bonheur</l>
+	<l id="974">Ne m'ôte que la main, et me laisse le coeur.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="975">Domitie aisément souffrirait ce partage,</l>
+	<l id="976">Ma main satisferait l'orgueil de son courage,</l>
+	<l id="977">Et pour le coeur, à peine il vous sait en ces lieux,</l>
+	<l id="978">Qu'il revient tout entier faire hommage à vos yeux.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="979">N'importe, ayez pitié, Seigneur, de ma faiblesse,</l>
+	<l id="980">Vous avez un coeur à changer de maîtresse,</l>
+	<l id="981">Vous ne savez que trop l'art de manquer de foi,</l>
+	<l id="982">Ne l'exercerez-vous jamais que contre moi ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="983">Domitie est la choix de Rome et de mon père.</l>
+	<l id="984">Il crurent à propos de l'ôter à mon frère,</l>
+	<l id="985">De crainte que ce coeur jeune et présomptueux</l>
+	<l id="986">Ne rendit téméraire un prince impétueux.</l>
+	<l id="987">Si pour vous obéir je lui suis infidèle,</l>
+	<l id="988">Rome qui l'a choisie y consentira-t-elle ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="989">Quoi, Rome ne veut pas, quand vous avez voulu ?</l>
+	<l id="990">Que faites-vous, Seigneur du pouvoir absolu ?</l>
+	<l id="991">N'êtes-vous pas dans ce trône où tant de monde aspire</l>
+	<l id="992">Que pour assujettir l'empereur à l'empire ?</l>
+	<l id="993">Sur ses plus hauts degrés Rome vous fait la loi !</l>
+	<l id="994">Elle affermit ou rompt le don de sa foi !</l>
+	<l id="995">Ah ! Si j'en puis juger sur ce qu'on voit paraître,</l>
+	<l id="996">Vous en êtes l'esclave encor plus que le maître.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="997">Tel est le triste sort de ce rang souverain,</l>
+	<l id="998">Qui ne dispense pas d'avoir un coeur romain ;</l>
+	<l id="999">Ou plutôt des romains tel est le dur caprice</l>
+	<l id="1000">À suivre obstinément une aveugle injustice,</l>
+	<l id="1001">Qui rejetant d'un roi le nom plus que les lois,</l>
+	<l id="1002">Accepte un empereur plus puissant que cent rois.</l>
+	<l id="1003">C'est ce nom seul qui donne à leurs farouches haines</l>
+	<l id="1004">Cette invincible horreur qui passe jusqu'aux reines,</l>
+	<l id="1005">Jusques à leurs époux, et vos yeux adorés</l>
+	<l id="1006">Verraient de notre hymen naître cent conjurés.</l>
+	<l id="1007">Encor s'il n'y fallait hasarder que ma vie,</l>
+	<l id="1008">Si ma perte aussitôt de la votre suivie...</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1009">Non, Seigneur, ce n'est pas aux reines comme moi</l>
+	<l id="1010">À hasarder leurs jours pour signaler leur foi.</l>
+	<l id="1011">Le plus illustre ardeur de périr l'un pour l'autre</l>
+	<l id="1012">N'a rien de glorieux pour mon rang et le vôtre,</l>
+	<l id="1013">L'amour de nos pareils la traite de fureur,</l>
+	<l id="1014">Et ces vertus d'amant ne font pas d'empereur.</l>
+	<l id="1015">Mes secours en Judée achevèrent l'ouvrage</l>
+	<l id="1016">Qu'avait des légions ébauché le suffrage :</l>
+	<l id="1017">Il m'est trop précieux pour le mettre au hasard</l>
+	<l id="1018">Et j'y pouvais, Seigneur, mériter quelque part,</l>
+	<l id="1019">N'était qu'affermissant votre heureuse fortune</l>
+	<l id="1020">Je n'ai fait qu'empêcher qu'elle nous fut commune.</l>
+	<l id="1021">Si j'eusse au moins pour elle ou de zèle ou de foi,</l>
+	<l id="1022">Vous seriez moins puissant, mais vous seriez à moi,</l>
+	<l id="1023">Vous n'auriez que le nom de général d'armée,</l>
+	<l id="1024">Mais j'aurais pour époux l'amant qui m'a charmée,</l>
+	<l id="1025">Et je posséderais dans ma cour en repos,</l>
+	<l id="1026">Au lieu d'un Empereur, le plus grand des héros.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1027">Et bien, Madame, il faut renoncer à ce titre </l>
+	<l id="1028">Qui de toute la terre en vain me fait l'arbitre ;</l>
+	<l id="1029">Allons dans vos états m'en donner un plus doux,</l>
+	<l id="1030">Ma gloire la plus haute est celle d'être à vous.</l>
+	<l id="1031">Allons où je n'aurai que vous pour souveraine,</l>
+	<l id="1032">Où vos bras amoureux seront ma seule chaîne,</l>
+	<l id="1033">Ou l'hymen en triomphe à jamais l'étreindra,</l>
+	<l id="1034">Et soit de Rome esclave et maître qui voudra.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1035">Il n'est plus temps, ce nom si sujet à l'envie</l>
+	<l id="1036">Ne se quitte jamais, Seigneur, qu'avec la vie,</l>
+	<l id="1037">Et des nouveaux césars la tremblante fierté</l>
+	<l id="1038">N'ose faire de grâce à ceux qui l'ont porté.</l>
+	<l id="1039">Qui la pris une fois est toujours punissable.</l>
+	<l id="1040">Ce fut par là qu'Othon se traita de coupable,</l>
+	<l id="1041">Par là Vitellius mérita le trépas,</l>
+	<l id="1042">Et vous n'auriez partout qu'assassins sur vos pas.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1043" part="i">Que faire donc, Madame ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1043" part="f">Assurer votre vie,</l>
+	<l id="1044">Et s'il faut enfin la main de Domitie...</l>
+	<l id="1045">Mais, Adieu, sur ce point si vous pouvez douter,</l>
+	<l id="1046">Ce n'est pas moi, Seigneur qu'il en faut consulter.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE, à Bérénice qui se retire.</speaker>
+	<l id="1047">Non, Madame, et dut-il m'en coûter trône et vie,</l>
+	<l id="1048">Vous ne me verrez point épouser Domitie</l>
+	<l id="1049">Ciel, si vous ne voulez pas qu'elle règne en ces lieux .</l>
+	<l id="1050">Que vous m'êtes cruel de la rendre à mes yeux ?</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Bérénice, Philon.</head>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1051">Avez-vous su Philon, quel bruit et quel murmure</l>
+	<l id="1052">Fait mon retour à Rome en cette conjoncture ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="1053">Oui, Madame, j'ai vu presque tous vos amis,</l>
+	<l id="1054">Et su d'eux quel espoir peut vous être permis !</l>
+	<l id="1055">Il est peu de romains qui penchent la balance</l>
+	<l id="1056">Vers l'extrême hauteur ou l'extrême indulgence ;</l>
+	<l id="1057">La plupart d'eux embrasse un avis modéré,</l>
+	<l id="1058">Par qui votre retour n'est pas déshonoré,</l>
+	<l id="1059">Mais à l'hymen de Tite il vous ferme la porte.</l>
+	<l id="1060">La fière Domitie est partout la plus forte,</l>
+	<l id="1061">La vertu de son père, et son illustre sang</l>
+	<l id="1062">À son ambition assure ce haut rang,</l>
+	<l id="1063">Il est peu sur ce point de voix qui se divisent,</l>
+	<l id="1064">Madame, et quant à vous, voici ce qu'ils en disent.</l>
+	<l id="1065">Elle a bien servi Rome, il le faut avouer,</l>
+	<l id="1066">L'empereur et l'empire ont lieu de s'en louer,</l>
+	<l id="1067">On lui doit des honneurs, des titres sans exemples :</l>
+	<l id="1068">Mais enfin elle est reine, elle abhorre nos temple,</l>
+	<l id="1069">Et sert un dieu jaloux qui ne peut endurer</l>
+	<l id="1070">Qu'aucun autre que lui se fasse révérer,</l>
+	<l id="1071">Elle traite à nos yeux les nôtres de fantômes.</l>
+	<l id="1072">On peut lui prodiguer des villes, des royaumes,</l>
+	<l id="1073">Il est des rois pour elle, et déjà Polémon</l>
+	<l id="1074">De ce dieu qu'elle adore invoque le seul nom,</l>
+	<l id="1075">Des nôtres pour lui plaire il dédaigne le culte,</l>
+	<l id="1076">Qu'elle règne avec lui sans nous faire d'insulte.</l>
+	<l id="1077">Si ce trône et le sien ne lui suffisent pas,</l>
+	<l id="1078">Rome est prête d'y joindre encor d'autres états,</l>
+	<l id="1079">Et de faire éclater avec magnificence </l>
+	<l id="1080">Un juste et plein effet de la reconnaissance.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1081">Qu'elle répande ailleurs ses effets éclatants,</l>
+	<l id="1082">Et ne m'enlève point le seul où je prétends.</l>
+	<l id="1083">Elle n'a point de part en ce que je mérite,</l>
+	<l id="1084">Elle ne me doit rien, je n'ai servi que Tite :</l>
+	<l id="1085">Si j'ai vu sans douleur mon pays désolé,</l>
+	<l id="1086">C'est à Tite, à lui seul que j'ai tout immolé.</l>
+	<l id="1087">Sans lui, sans l'espérance à mon amour offerte,</l>
+	<l id="1088">J'aurais servi Solyme, ou péri dans sa perte,</l>
+	<l id="1089">Et quand Rome s'efforce à m'arracher son coeur,</l>
+	<l id="1090">Elle sert le courroux d'un dieu juste vengeur.</l>
+	<l id="1091">Mais achevez, Philon, ne dit-on autre chose ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="1092">On parle des périls où votre âme l'expose.</l>
+	<l id="1093">De cet hymen, dit-on, les noeuds désirez</l>
+	<l id="1094">Serviront de prétexte à mille conjurés,</l>
+	<l id="1095">Ils pourront soulever jusqu'à son propre frère,</l>
+	<l id="1096">Il se voulut jadis cantonner contre un père,</l>
+	<l id="1097">N'eut été Mucian qui le tint dans Lyon</l>
+	<l id="1098">Il se faisait le chef de la rébellion,</l>
+	<l id="1099">Avouait Civilis, appuyait ses Bataves,</l>
+	<l id="1100">Des gaulois belliqueux soulevait les plus braves,</l>
+	<l id="1101">Et les deux bords du Rhin l'auraient pour Empereur,</l>
+	<l id="1102">Pour peu qu'eut Céréal écouté sa fureur.</l>
+	<l id="1103">Il aime Domitie, et règne dans son âme,</l>
+	<l id="1104">Si Tite ne l'épouse, il en fera sa femme,</l>
+	<l id="1105">Vous savez de tous deux qu'elle est l'ambition,</l>
+	<l id="1106">Jugez ce qui peut suivre d'une telle union.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1107" part="i">Ne dit-on rien de plus ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="1107" part="f">Ah, madame, je tremble</l>
+	<l id="1108" part="i">À vous dire encor...</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1108" part="m">Quoi ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="1108" part="f">Que le sénat s'assemble.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1109">Quelle l'occasion qui le fait assembler ?</l>
+   </sp>
+   <sp who="PHILON"><speaker>PHILON.</speaker>
+	<l id="1110">L'occasion n'a rien qui vous doive troubler,</l>
+	<l id="1111">Et ce n'est qu'à dessein de pourvoir aux dommages,</l>
+	<l id="1112">Que du Vésuve ardent ont causé des ravages ;</l>
+	<l id="1113">Mais Domitie aura des amis, des parents,</l>
+	<l id="1114">Qui pourront bien après vous mettre sur les rangs.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1115">Quoi que sur mes destins ils usurpent d'empire,</l>
+	<l id="1116">Je ne vois pas leur maître en état d'y souscrire.</l>
+	<l id="1117">Philon, laissons-les faire ; ils n'ont qu'à ma bannir,</l>
+	<l id="1118">Pour trouver hautement l'art de me retenir,</l>
+	<l id="1119">Contre toutes leurs voix je ne veux qu'un suffrage,</l>
+	<l id="1120">Et l'ardeur de ma nuire achèvera l'ouvrage,</l>
+	<l id="1121">Ce n'est pas qu'en effet la gloire où je prétends</l>
+	<l id="1122">N'offre trop de prétexte aux esprits mécontents.</l>
+	<l id="1123">Je ne puis jeter l'oeil sur ce que je suis née</l>
+	<l id="1124">Sans voir que de périls suivront cet hyménée.</l>
+	<l id="1125">Mais pour y parvenir s'il faut trop hasarder,</l>
+	<l id="1126">Je veux donner le bien que je n'ose garder ;</l>
+	<l id="1127">Je veux du moins, je veux ôter à ma rivale</l>
+	<l id="1128">Ce miracle vivant, cette âme sans égale,</l>
+	<l id="1129">Qu'en dépit des romains leur digne souverain,</l>
+	<l id="1130">S'il prend une moitié, la prenne de ma main,</l>
+	<l id="1131">Et pour tout dire enfin, je veux que Bérénice</l>
+	<l id="1132">Ait une créature en leur impératrice ;</l>
+	<l id="1133">Je vois Domitian, contre tous les arrêts</l>
+	<l id="1134">Il n'est pas mal aisé d'unir nos intérêts.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Domitian, Bérénice, Philon, Albin.</head>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1135">Auriez-vous au sénat, Seigneur, assez de brigue,</l>
+	<l id="1136">Pour combattre et confondre une insolente ligue ?</l>
+	<l id="1137">S'il ne s'assemble pas exprès pour m'exiler,</l>
+	<l id="1138">J'ai quelques envieux qui pourront en parler.</l>
+	<l id="1139">L'exil m'importe peu, j'y suis accoutumée ;</l>
+	<l id="1140">Mais vous perdez l'objet dont votre âme est charmée :</l>
+	<l id="1141">L'audacieux décret de mon bannissement</l>
+	<l id="1142">Met votre Domitie aux bras d'un autre amant,</l>
+	<l id="1143">Et vous pourrez juger que s'il faut qu'on m'exile</l>
+	<l id="1144">Sa conquête pour vous n'en est pas plus facile.</l>
+	<l id="1145">Voyez si votre amour se veut laisser ravir</l>
+	<l id="1146">Cet unique secours qui pouvait le servir.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1147">On ne pourra parler, Madame, et mon ingrate </l>
+	<l id="1148">En a déjà conçu quelque espoir qui la flatte ;</l>
+	<l id="1149">Mais je puis dire aussi que le rang que je tiens</l>
+	<l id="1150">M'a fait assez d'amis pour opposer aux siens,</l>
+	<l id="1151">Et que si dès l'abord il ne les font pas taire,</l>
+	<l id="1152">Ils rompront le grand coup qui seul nous peut déplaire.</l>
+	<l id="1153">Non, que cet espoir ne court grand hasard,</l>
+	<l id="1154">Si votre amant volage y prend la moindre part,</l>
+	<l id="1155">On l'aime, et si son ordre à nos amis s'appose,</l>
+	<l id="1156">Leur plus fidèle ardeur osera peu de chose.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1157">Ah, Prince ! Je mourrai de honte et de douleur,</l>
+	<l id="1158">Pour peu qu'il contribue à faire mon malheur :</l>
+	<l id="1159">Mais je n'ai qu'à le voir pour calmer ces alarmes,</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1160">N'y perdez point de temps portez-y tous vos charmes,</l>
+	<l id="1161">N'en oubliez aucun dans un péril si grand.</l>
+	<l id="1162">Peut être ainsi que vous ce dessein le surprend ;</l>
+	<l id="1163">Mais je crains qu'après tout son âme irrésolue,</l>
+	<l id="1164">Ne relâche une peu trop sa puissance absolue,</l>
+	<l id="1165">Et ne laisse au sénat décider de ses voeux,</l>
+	<l id="1166">Pour se faire une excuse envers l'une des deux.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1167">Quelques efforts qu'on fasse, et quelque art qu'on déploie,</l>
+	<l id="1168">Je vous réponds de tout, pourvue que je le voie,</l>
+	<l id="1169">Et je ne crois pas même au pouvoir de vos dieux</l>
+	<l id="1170">De lui faire épouser Domitie à mes yeux.</l>
+	<l id="1171">Si vous l'aimez encor, ce mot vous doit suffire.</l>
+	<l id="1172">Quant au sénat, qu'il m'ôte ou me donne l'empire,</l>
+	<l id="1173">Je ne vous dirai point à quoi je me résous.</l>
+	<l id="1174">Voici votre inconstance. Adieu, pensez à vous.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Domitian, Domitie, Albin, Plautiine.</head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1175">Prince, si vous m'aimez, l'occasion est belle.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1176">Si je vous aime ? Est-il un amant plus fidèle ?</l>
+	<l id="1177">Mais, Madame, sachons ce que vous souhaitez.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1178">Vous me servirez mal, puisque vous en doutez.</l>
+	<l id="1179">L'amant digne du coeur de la beauté qu'il aime</l>
+	<l id="1180">Sait mieux ce qu'elle veut que ce qu'il veut lui-même.</l>
+	<l id="1181">Mais puisque j'ai besoin d'expliquer mon courroux,</l>
+	<l id="1182">J'en veux à Bérénice, à l'empereur, à vous.</l>
+	<l id="1183">À lui, qui n'ose plus m'aimer en sa présence,</l>
+	<l id="1184">À Vous, qui vous mettez de leur intelligence,</l>
+	<l id="1185">Et dont tous les amis vont servir un amour</l>
+	<l id="1186">Qui me rend  vos yeux la fable de la cour.</l>
+	<l id="1187">Si vous m'aimez, Seigneur, il faut sauver ma gloire,</l>
+	<l id="1188">M'assurer par vos soins une pleine victoire.</l>
+	<l id="1189" part="i">Il faut ...</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1189" part="f">Si vous croyez votre bonheur douteux,</l>
+	<l id="1190">Votre retour vers moi serait-il si honteux ?</l>
+	<l id="1191">Suis-je indigne de vous ? Suis-je si peu de chose,</l>
+	<l id="1192">Que toute votre gloire à mon amour s'oppose ?</l>
+	<l id="1193">Ne voit-on plus en moi ce que vous estimiez,</l>
+	<l id="1194">Et suis-je moindre enfin qu'alors que vous m'aimiez ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1195">Non, mais un autre espoir va m'accabler de honte,</l>
+	<l id="1196">Quand le trône m'attend, si Bérénice y monte.</l>
+	<l id="1197">Délivrez-en mes yeux, et prêtez-moi la main</l>
+	<l id="1198">Du moins à soutenir l'honneur du nom romain.</l>
+	<l id="1199">De quel oeil verrez-vous qu'une reine étrangère.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1200">De l'oeil dont je verrais que l'empereur mon frère</l>
+	<l id="1201">En prit d'autres pour vous, ranimât mon espoir,</l>
+	<l id="1202">Et pour se rendre heureux usât de son pouvoir.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1203">Ne vous y trompez pas, s'il me donne le change,</l>
+	<l id="1204">Je ne suis point à vous, je suis à qui me venge,</l>
+	<l id="1205">Et trouverai peut être à Rome assez d'appui</l>
+	<l id="1206">Pour me venger de vous aussi bien que de lui.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1207">Et c'est du nom de romain la gloire qui vous touche,</l>
+	<l id="1208">Madame ? Et vous l'avez au coeur comme en la bouche ?</l>
+	<l id="1209">Ah, que le nom de Rome est un nom précieux </l>
+	<l id="1210">Alors qu'en la servant on se sert encor mieux,</l>
+	<l id="1211">Qu'avec nos intérêts ce grand devoir conspire,</l>
+	<l id="1212">Et que pour récompense on se promet l'empire !</l>
+	<l id="1213">Parlons à coeur ouvert, Madame, et dites-moi</l>
+	<l id="1214">Quel fruit je dois attendre enfin d'un tel emploi.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1215">Voulez-vous pour servir être sûr su salaire,</l>
+	<l id="1216">Seigneur, et n'avez-vous qu'un amour mercenaire ?</l>
+   </sp>
+    <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1217">Je n'en connais point d'autre, et ne conçois pas bien</l>
+	<l id="1218">Qu'un amant puisse plaire en ne prétendant rien.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1219">Que ces prétentions sentent les âmes basses !</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1220">Les dieux à qui les sert font espérer les grâces.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1221">Les exemples des dieux s'appliquent mal sur nous.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1222">Je ne veux donc, Madame, autre exemple que vous.</l>
+	<l id="1223">N'attendez-vous de Tite, et n'avez-vous pour Tite</l>
+	<l id="1224">Qu'une stérile ardeur qui s'attache au mérite ?</l>
+	<l id="1225">De vos destins aux siens pressez-vous l'union</l>
+	<l id="1226">Sans vouloir aucun fruit de tant de passion ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1227">Peut être en ce dessein ne suis-je pas intéressée</l>
+	<l id="1228">Que par l'intérêt seul de ma gloire blessée :</l>
+	<l id="1229">Croyez-vous généreuse, et soyez généreux,</l>
+	<l id="1230">N'aimez plus, ou n'aimez que comme je le veux.</l>
+	<l id="1231">Je sais ce que je dois à l'amant qui m'oblige,</l>
+	<l id="1232">Mais j'aime qu'on l'attende, et non pas qu'on l'exige,</l>
+	<l id="1233">Et qui peut immoler son intérêt au mien</l>
+	<l id="1234">Peut se promettre tout de qui ne promet rien.</l>
+	<l id="1235">Peut être qu'en l'état ou je suis avec Tite,</l>
+	<l id="1236">Je veux bien le quitter mais non pas qu'il me quitte :</l>
+	<l id="1237">Vous en dis-je trop peu pour vous l'imaginer ?</l>
+	<l id="1238">Et depuis quand l'amour n'ose-t-il deviner ?</l>
+	<l id="1239">Tous mes emportements pour la grandeur suprême</l>
+	<l id="1240">Ne vous déguisent point, Seigneur, que je vous aime,</l>
+	<l id="1241">Et l'on ne voit que trop quel droit j'ai de haïr</l>
+	<l id="1242">Un empereur sans foi qui meurt de me trahir.</l>
+	<l id="1243">Me condamnerez-vous  voir que Bérénice</l>
+	<l id="1244">M'enlève de hauteur le rang d'impératrice ?</l>
+	<l id="1245">Lui pourrez-vous aider à ma perdre d'honneur ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1246">Ne pouvez-vous le mettre  faire mon bonheur ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1247">J'ai quelque orgueil encor, Seigneur, je le confesse,</l>
+	<l id="1248">De tout ce qu'il attend rendez-moi la maîtresse,</l>
+	<l id="1249">Et laissez à mon choix l'effet de votre espoir :</l>
+	<l id="1250">Que ce soit une grâce, et non pas un devoir,</l>
+	<l id="1251" part="i">Et que.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1251" part="f">Me faire grâce après tant d'injustice !</l>
+	<l id="1252">De tant de vains détours je vois trop l'artifice,</l>
+	<l id="1253">Et ne saurais douter du choix que vous ferez,</l>
+	<l id="1254">Quand vous aurez par moi ce que vous espérez.</l>
+	<l id="1255">Épousez, j'y consens, le rang de souveraine,</l>
+	<l id="1256">Faites l'impératrice en donnant une reine,</l>
+	<l id="1257">Disposez de sa main, et pour première loi,</l>
+	<l id="1258">Madame, ordonnez-lui d'abaisser l'oeil sur moi.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1259">Cet objet de ma haine a pour vous quelque charme !</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1260">Son nom seul prononcé vous a mise en alarme !</l>
+	<l id="1261">Me puis-je mieux venger, si vous me trahissez,</l>
+	<l id="1262">Que d'aimer à vos yeux ce que vous haïssez ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1263">Parlons à coeur ouvert. Aimez-vous Bérénice ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1264">Autant qu'il faut l'aimer pour vous faire un supplice.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1265">Ce sera donc le vôtre encor plus que le mien.</l>
+	<l id="1266">Après cela, Seigneur ; je ne vous dis plus rien.</l>
+	<l id="1267">S'il n'a pas pour votre âme une assez longue gêne,</l>
+	<l id="1268">J'y puis joindre au besoin une implacable haine.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1269">Et moi, dût à jamais croître ce grand courroux,</l>
+	<l id="1270">J'épouserai, Madame, ou Bérénice, ou vous.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1271">Ou Bérénice, ou moi ? La chose est donc égale,</l>
+	<l id="1272">Et vous ne m'aimez plus qu'autant que ma rivale !</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1273" part="i">La douleur de vous perdre, hélas.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1273" part="f">C'en est assez ;</l>
+	<l id="1274">Nous verrons cet amour dont vous nous menacez.</l>
+	<l id="1275">Cependant si la reine aussi fière que belle</l>
+	<l id="1276">Sait comme il faut répondre aux voeux d'un infidèle,</l>
+	<l id="1277">Ne me rapportez point l'objet de son dédain,</l>
+	<l id="1278">Qu'elle n'ait repassé les rives du Jourdain.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="4">><head>SCÈNE IV. Domitian, Albin.</head>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1279">Admire ainsi que moi de quelle jalousie</l>
+	<l id="1280">Au seul nom de la reine elle a paru saisie,</l>
+	<l id="1281">Comme s'il importait à ses heureux appas</l>
+	<l id="1282">À qui je donne un coeur dont elle ne veut pas.</l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="1283">Seigneur, telle est l'humeur de la plupart des femmes.</l>
+	<l id="1284">L'amour sous leur empire eut-il rangé mille âmes,</l>
+	<l id="1285">Elles regardent tout comme leur propre bien,</l>
+	<l id="1286">Et ne peuvent souffrir qu'il leur échappe rien.</l>
+	<l id="1287">Un captif mal gardé leur semble une infâmie,</l>
+	<l id="1288">Qui l'ose recevoir devient leur ennemie,</l>
+	<l id="1289">Et sans leur faire un vol on ne peut disposer</l>
+	<l id="1290">D'un coeur qu'un autre choix les force à refuser :</l>
+	<l id="1291">Elles veulent qu'ailleurs par leur ordre il soupire,</l>
+	<l id="1292">Et qu'un don de leur part marque un reste d'empire.</l>
+	<l id="1293">Domitie a pour vous ces communs sentiments</l>
+	<l id="1294">Que les fières beautés ont pour tous leurs amants,</l>
+	<l id="1295">Et craint, si votre main se donne à Bérénice,</l>
+	<l id="1296">Qu'elle ne porte en vain le nom d'impératrice,</l>
+	<l id="1297">Quand d'un côté l'hymen, et de l'autre l'amour</l>
+	<l id="1298">Feront à cette reine un empire en sa cour.</l>
+	<l id="1299">Voilà sa jalousie, et ce qu'elle redoute,</l>
+	<l id="1300">Seigneur. Pour le sénat, n'en soyez point en doute,</l>
+	<l id="1301">Il aime l'empereur, et l'honore à tel point,</l>
+	<l id="1302">Qu'il servira sa flamme, ou n'en parlera point.</l>
+	<l id="1303">Pour le stupide Claude il eut bien la bassesse</l>
+	<l id="1304">D'autoriser l'hymen de l'oncle avec la nièce ;</l>
+	<l id="1305">Il ne fera pas moins pour un prince adoré,</l>
+	<l id="1306">Et je l'y tiens déjà, Seigneur, tout préparé.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1307">Tu parles du sénat, et je veux parler d'elle,</l>
+	<l id="1308">De l'ingrate qu'un trône a rendue infidèle.</l>
+	<l id="1309">N'est-il point de moyen, ne vois-tu point de jour</l>
+	<l id="1310">À mettre enfin d'accord sa gloire et son amour ?</l>
+   </sp>
+   <sp who="ALBIN"><speaker>ALBIN.</speaker>
+	<l id="1311">Tout dépendra de Tite, et du secret office</l>
+	<l id="1312">Qu'il peut dans le sénat rendre à sa Bérénice ;</l>
+	<l id="1313">L'air dont il agira pour un espoir si doux</l>
+	<l id="1314">Tournera l'assemblée ou pour ou contre vous,</l>
+	<l id="1315">Et si sa politique à vos amis s'oppose,</l>
+	<l id="1316">Vous l'avez dit vous-même, ils pourront peu de choses.</l>
+	<l id="1317">Sondez les sentiments, et réglez-vous sur eux :</l>
+	<l id="1318">Votre bonheur est sûr, s'il consent d'être heureux.</l>
+	<l id="1319">Que si son choix balance, ou flatte mal le vôtre,</l>
+	<l id="1320">Demandez Bérénice afin d'obtenir l'autre :</l>
+	<l id="1321">Vous l'avez déjà vu sensible à de tels coups,</l>
+	<l id="1322">Et c'est un grand ressort qu'un peu d'amour jaloux.</l>
+	<l id="1323">Au moindre empressement pour cette belle reine</l>
+	<l id="1324">Il vous fera justice, et reprendra sa chaîne.</l>
+	<l id="1325">Songez à pénétrer ce qu'il a dans l'esprit,</l>
+	<l id="1326" part="i">Le voici.</l>
+   </sp>
+    <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1326" part="f">Je suivrai ce que ton zèle en dit.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Tite, Domitian, Flavian, Albin.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1327">Avez-vous regagné le coeur de votre ingrate, </l>
+	<l id="1328" part="i">Mon frère ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1328" part="f">Sa fierté de plus en plus éclate,</l>
+	<l id="1329">Voyez s'il fut jamais orgueil pareil au sien.</l>
+	<l id="1330">Il veut que je la serve, et ne prétende rien,</l>
+	<l id="1331">Que j'appuie en l'aimant toute son injustice,</l>
+	<l id="1332">Que je fasse de Rome exiler Bérénice.</l>
+	<l id="1333">Mais, Seigneur, à mon tour puis-je vous demander</l>
+	<l id="1334">Ce qu'à vos plus doux voeux il vous plaît d'accorder ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1335">J'aurai peine à bannir la reine de ma vue.</l>
+	<l id="1336">Par quels ordres, grands dieux, est-elle revenue ?</l>
+	<l id="1337">Je souffrais, mais enfin je vivais sans la voir,</l>
+	<l id="1338" part="i">J'allais.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1338" part="f">N'avez-vous pas un absolu pouvoir,</l>
+	<l id="1339" part="i">Seigneur ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1339" part="f">Oui, mais j'en suis comptable à tout le monde,</l>
+	<l id="1340">Comme dépositaire il faut que j'en réponde,</l>
+	<l id="1341">Un monarque a souvent des lois à s'imposer,</l>
+	<l id="1342">Et qui veut tout, ne doit pas tout oser.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1343">Que refuserez-vous aux désirs de votre âme,</l>
+	<l id="1344">Si le sénat approuve une si belle flamme ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1345">Qu'il parle du Vésuve, et ne se mêle pas</l>
+	<l id="1346">De jeter dans mon âme un nouvel embarras.</l>
+	<l id="1347">Est-ce à lui d'abuser de mon inquiétude,</l>
+	<l id="1348">Jusqu'à mettre une borne à son inquiétude ?</l>
+	<l id="1349">Et s'il ose en mon choix prendre quelque intérêt,</l>
+	<l id="1350">Me croit-il en état d'en croire son arrêt ?</l>
+	<l id="1351">S'il exile la reine, y pourrai-je souscrire ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1352">S'il parle en sa faveur, pourrez-vous l'en dédire ?</l>
+	<l id="1353">Ah, que je vous plaindrais d'avoir si peu d'amour !</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1354">J'en ai trop, et le mets peut-être trop au jour.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1355">Si vous en aviez tant, vous auriez peu de peine</l>
+	<l id="1356">À faire rendre Domitie à sa première chaîne.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1357">Ah, s'il s'agissait que de vous la céder</l>
+	<l id="1358">Vous auriez peu de peine à ma persuader,</l>
+	<l id="1359">Et pour vous rendre heureux me rendre à Bérénice</l>
+	<l id="1360">Ne serait pas vous faire un fort grand sacrifice.</l>
+	<l id="1361" part="i">Il y va de bien plus.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1361" part="m">De quoi, Seigneur ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1361" part="f">De tout.</l>
+	<l id="1362">Il y va d'épouse sa haine jusqu'au bout,</l>
+	<l id="1363">D'en suivre la furie, et d'être le ministre</l>
+	<l id="1364">De ce qu'un noir dépit conçoit de plus sinistre,</l>
+	<l id="1365">Et peut-être l'aigreur de ces inimitiés</l>
+	<l id="1366">Voudra que je vous perde, ou que vous me perdiez.</l>
+	<l id="1367">Voilà ce qui peut suivre un si doux hyménée.</l>
+	<l id="1368">Vous voyez dans l'orgueil Domitie obstinée :</l>
+	<l id="1369">Quand pour moi cet orgueil ose vous dédaigner,</l>
+	<l id="1370">Elle ne m'aime pas, elle cherche à régner ;</l>
+	<l id="1371">Avec vous, avec moi n'importe la manière,</l>
+	<l id="1372">Tout plairait à ce prix à son humeur altière,</l>
+	<l id="1373">Tout serait digne d'elle, et le nom d'empereur</l>
+	<l id="1374">À mon assassin même attacherait son coeur.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1375">Pouvez-vous mieux choisir un frein à sa colère,</l>
+	<l id="1376">Seigneur, que de la mettre entre les mains d'un frère ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1377">Non, je ne puis la mettre en de plus sûres mains,</l>
+	<l id="1378">Mais plus vous m'êtes, Prince, et plus je vous crains.</l>
+	<l id="1379">De ceux qu'unit le sang plus douces sont les chaînes,</l>
+	<l id="1380">Plus leur désunion met l'aigreur dans leur haines,</l>
+	<l id="1381">L'offense en est plus rude, et le courroux plus grand,</l>
+	<l id="1382">La suite plus barbare, et l'effet plus sanglant,</l>
+	<l id="1383">La nature en fureur s'abandonne à tout faire,</l>
+	<l id="1384">Et cinquante ennemis sont moins haïs qu'un frère.</l>
+	<l id="1385">Je ne réveille point des soupçons assoupis,</l>
+	<l id="1386">Et veux bien oublier le temps de Civilis,</l>
+	<l id="1387">Vous étiez encor jeune, et sans vous bien connaître</l>
+	<l id="1388">Vous pensiez n'être né que pour vivre sans maître :</l>
+	<l id="1389">Mais les occasions renaissent aisément,</l>
+	<l id="1390">Une femme est flatteuse, un empire est charmant,</l>
+	<l id="1391">Et comme avec plaisir on s'en laisse surprendre,</l>
+	<l id="1392">On néglige bientôt les soins de s'en défendre.</l>
+	<l id="1393">Croyez-moi, séparez vos intérêts des siens.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1394">Et bien, j'en briserai les dangereux liens,</l>
+	<l id="1395">Pour votre sûreté j'accepte ce supplice ;</l>
+	<l id="1396">Mais pour m'en consoler donnez-moi Bérénice :</l>
+	<l id="1397">Dût le sénat, dût Rome en frémir de courroux,</l>
+	<l id="1398">Vous n'osez l'épouser, j'oserai plus que vous.</l>
+	<l id="1399">Je l'aime, et l'aimerai si votre âme y renonce.</l>
+	<l id="1400">Quoi, n'osez-vous, Seigneur, me faire de réponse ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1401">Se donne-t-elle à vous, et ne tient-il qu'à moi ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1402">Elle a droit d'imiter qui lui manque de foi.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1403">Elle n'en a que trop, et toutefois je doute</l>
+	<l id="1404">Que son amour trahi prenne la même route.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1405">Mais si pour se venger elle répond au mien ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1406">Épousez-là, mon frère, et ne m'en dites rien.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1407">Et si je regagnais l'esprit de Domitie ?</l>
+	<l id="1408">Si pour moi sa fierté se montrait adoucie ?</l>
+	<l id="1409">Si mes voeux, si mes soins en étaient mieux reçus,</l>
+	<l id="1410" part="i">Seigneur ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE, en rentrant.</speaker>
+	<l id="1410" part="f">Épousez-là sans m'en parlez non plus.</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1411">Allons, et malgré lui rendons-lui Bérénice.</l>
+	<l id="1412">Albin, de nos projets son amour est complice,</l>
+	<l id="1413">Et puisqu'il l'aime assez pour en être jaloux,</l>
+	<l id="1414">Malgré l'ambition Domitie est à nous.</l>
+   </sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE I. Tite, Flavian.</head>
+    <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1415">As-tu vu Bérénice ? Aime-t-elle mon frère, </l>
+	<l id="1416">Et se plaint-elle à voir qu'il tâche de lui plaire ?</l>
+	<l id="1417">Me la demande-t-il de son consentement ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1418">Ne la soupçonnez point d'un si bas sentiment ;</l>
+	<l id="1419">Elle n'en peut souffrir, non pas même la feinte.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1420">As-tu vu dans son coeur encore la même atteinte ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1421">Elle veut vous parler, c'est tout ce que j'en sais.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1422">Faut-il de son pouvoir faire un nouvel essai ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1423">M'en croirez-vous, Seigneur, évitez sa présence,</l>
+	<l id="1424">Ou mettez vous contre elle un peu mieux en défense.</l>
+	<l id="1425">Quel fruit espérez-vous de tout son entretien ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1426">L'en aimer davantage, et ne résoudre rien.</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1427">L'irrésolution doit-elle être éternelle ?</l>
+	<l id="1428">Vous ne me dites plus que Domitie est belle,</l>
+	<l id="1429">Seigneur, vous qui disiez que ses seules beautés</l>
+	<l id="1430">Vous peuvent consoler de ce que vous quittez,</l>
+	<l id="1431">Qu'elle seule en ses yeux porte de quoi contraindre</l>
+	<l id="1432">Vos feux à s'assoupir s'ils ne peuvent s'éteindre.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1433">Je l'ai dit, il est vrai, mais j'avais d'autres yeux,</l>
+	<l id="1434">Et je ne voyais pas Bérénice en ces lieux.</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1435">Quant aux feux les plus beaux un monarque défère</l>
+	<l id="1436">Il s'en fait un plaisir, et non pas une affaire,</l>
+	<l id="1437">Et regarde l'amour comme un lâche attentat</l>
+	<l id="1438">Dès qu'il veut prévaloir sur la raison d'état.</l>
+	<l id="1439">Son grand coeur au dessus des plus dignes amorces</l>
+	<l id="1440">À ses devoirs pressants laisse toutes leurs forces,</l>
+	<l id="1441">Et son plus doux espoir n'ose lui demander</l>
+	<l id="1442">Ce que sa dignité ne lui peut accorder.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1443">Je sais qu'un empereur doit parler ce langage,</l>
+	<l id="1444">Et quand il l'a fallu, j'en ai dit davantage ;</l>
+	<l id="1445">Mes de ces duretés que j'étale à regret</l>
+	<l id="1446">Chaque mot à mon coeur coûte un soupir secret,</l>
+	<l id="1447">Et quant à la raison j'accorde un tel empire,</l>
+	<l id="1448">Je le dis seulement parce qu'il le faut dire,</l>
+	<l id="1449">Et qu'étant au-dessus de tous les potentats</l>
+	<l id="1450">Il me serait honteux de ne la dire pas.</l>
+	<l id="1451">De quoi s'enorgueillit un souverain de Rome,</l>
+	<l id="1452">Si par respect pour elle il doit cesser d'être un homme</l>
+	<l id="1453">Éteindre un feu qui plaît, ou ne le ressentir</l>
+	<l id="1454">Que pour s'en faire honte, et pour le démentir ?</l>
+	<l id="1455">Cette toute-puissance est bien imaginaire</l>
+	<l id="1456">Qui s'asservit soi-même à la peur de déplaire,</l>
+	<l id="1457">Qui laisse au goût public régler tous ses projets,</l>
+	<l id="1458">Et prend le plus haut rang pour craindre ses sujets.</l>
+	<l id="1459">Je ne me donne point d'empire sur leurs âmes,</l>
+	<l id="1460">Je laisse en liberté leurs soupirs, et leurs flammes, </l>
+	<l id="1461">Et quand d'un bel objet j'en vois quelqu'un charmé,</l>
+	<l id="1462">J'applaudis au bonheur d'aimer et d'être aimé.</l>
+	<l id="1463">Quand je l'obtiens du ciel, me portent-ils envie ?</l>
+	<l id="1464">Quand d'amer pour eux tous les douceurs de ma vie ?</l>
+	<l id="1465" part="i">Et par quel intérêt...</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1465" part="f">Ils perdraient tout en vous ;</l>
+	<l id="1466">Vous faites le bonheur et le salut de tous,</l>
+	<l id="1467">Seigneur, et l'univers de qui vous êtes l'âme...</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1468">Ne perds plus de raisons à combattre ma flamme,</l>
+	<l id="1469">Les yeux de Bérénice inspirent des avis,</l>
+	<l id="1470">Qui persuadent mieux que tout ce que tu dis.</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1471">Ne vous exposez donc qu'à ceux de Domitie.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1472">Je n'ai plus, Flavian, que quatre jours de vie,</l>
+	<l id="1473">Pourquoi prends-tu plaisir à les tyranniser ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1474">Mais vous savez qu'il faut la perdre, ou l'épouser ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1475">En vain donc à ses voeux tout mon amour s'oppose,</l>
+	<l id="1476">Périr ou faire un crime est pour moi même chose.</l>
+	<l id="1477">Laissons-lui toutefois soulever des mutins,</l>
+	<l id="1478">Hasardons sur la foi de nos heureux destins,</l>
+	<l id="1479">Ils m'ont promis la reine, et doivent à ses charmes</l>
+	<l id="1480">Tout ce qu'ils ont soumis à l'effort de mes armes.</l>
+	<l id="1481">Par elle j'ai vaincu, pour elle il faut périr.</l>
+   </sp><sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1482" part="i">Seigneur...</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1482" part="f">Oui, Flavian, c'est à faire à mourir.</l>
+	<l id="1483">La vie est peu de chose, et tôt ou tard, qu'importe</l>
+	<l id="1484">Qu'un traître me l'arrache, ou que l'âge l'emporte ?</l>
+	<l id="1485">Nous mourons à toute heure, et dans le plus doux sort</l>
+	<l id="1486">Chaque instant de la vie est un pas vers la mort.</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1487">Flattez mieux les désirs de votre ambitieuse,</l>
+	<l id="1488">Et ne la changez pas de fière en ambitieuse.</l>
+	<l id="1489" part="i">Elle vient vous parler.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1489" part="f">Dieux, quel comble d'ennuis !</l>
+   </sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Tite, Domitie, Flavian, Plautine.</head>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1490">Je viens savoir de vous, Seigneur, ce que je suis.</l>
+	<l id="1491">J'ai votre foi pour gage, et mes aïeux pour marques</l>
+	<l id="1492">Du grand droit de prétendre au plus grand des monarques,</l>
+	<l id="1493">Mais Bérénice est belle, et des yeux si puissants </l>
+	<l id="1494">Renversent aisément des droits si languissants.</l>
+	<l id="1495">Ce grand jour qui devait unir mon sort au vôtre</l>
+	<l id="1496">Servira-t-il, Seigneur, au triomphe d'une autre ?</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1497">J'ai quatre jours encor pour en délibérer,</l>
+	<l id="1498">Madame, jusque-là laissez-moi respirer.</l>
+	<l id="1499">C'est peu de quatre jours pour un tel sacrifice,</l>
+	<l id="1500">Et s'il faut à vos droits immoler Bérénice,</l>
+	<l id="1501">Je ne vous réponds pas que Rome et tous vos droits</l>
+	<l id="1502">Puissent en quatre jours m'en imposer les lois.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1503">Il n'en faudrait pas tant, Seigneur, pour vous résoudre</l>
+	<l id="1504">À lancer sur ma tête un dernier coup de foudre,</l>
+	<l id="1505">Si vous ne craigniez point qu'il rejaillît sur vous.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1506">Suspendez quelque temps encor ce grand courroux.</l>
+	<l id="1507">Puis-je étouffer sitôt une si belle flamme ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1508">Quoi, vous ne pouvez pas ce que peut une femme ?</l>
+	<l id="1509">Que vous me rendez mal ce que vous me devez !</l>
+	<l id="1510">J'ai brisé de beaux fers, Seigneur, vous le savez,</l>
+	<l id="1511">Et mon âme sensible à l'amour comme une autre</l>
+	<l id="1512">En étouffe un, peut-être aussi fort que le vôtre.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1513">Peut-être auriez-vous peine à le bien étouffer,</l>
+	<l id="1514">Si votre ambition n'en savait triompher.</l>
+	<l id="1515">Moi qui n'ai que les dieux au-dessus de ma tête,</l>
+	<l id="1516">Qui ne voit plus de rang digne de ma conquête,</l>
+	<l id="1517">Du trône où je me sieds, puis-je aspirer à rien</l>
+	<l id="1518">Qu'à posséder un coeur qui n'aspire qu'au mien ?</l>
+	<l id="1519">C'est là de mes pareils la noble inquiétude :</l>
+	<l id="1520">L'ambition remplie y jette leur étude,</l>
+	<l id="1521">Et sitôt qu'à prétendre elle n'a plus de jour,</l>
+	<l id="1522">Elle abandonne un coeur tout entier à l'amour.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1523">Elle abandonne ainsi le vôtre à cette Reine</l>
+	<l id="1524">Qui cherche une grandeur encor plus souveraine.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1525">Non, Madame, et je veux que vous sortiez d'erreur.</l>
+	<l id="1526">Bérénice aime Tite, et non pas l'Empereur,</l>
+	<l id="1527">Elle en veut à mon coeur, et non pas à l'empire.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1528">D'autres avaient déjà pris soin de ma le dire,</l>
+	<l id="1529">Seigneur, et votre reine a le goût délicat,</l>
+	<l id="1530">De n'en vouloir qu'au coeur, et non pas à l'éclat.</l>
+	<l id="1531">Cet amour épuré que Tite seul lui donne</l>
+	<l id="1532">Renoncerait au rang pour être à la personne :</l>
+	<l id="1533">Mais on a beau, Seigneur, raffiner sur ce point,</l>
+	<l id="1534">La personne et le rang ne se séparent point.</l>
+	<l id="1535">Sous les tendres brillants de cette noble amorce</l>
+	<l id="1536">L'ambition cachée attaque, presse, force,</l>
+	<l id="1537">Par là de ses projets elle vient mieux à bout,</l>
+	<l id="1538">Elle ne prétend rien, et s'empare de tout,</l>
+	<l id="1539">L'art est grand, mais enfin je ne sais s'il mérite</l>
+	<l id="1540">La bouche d'une Reine et l'oreille de Tite.</l>
+	<l id="1541">Pour moi, j'aime autrement, et tout me charme en vous,</l>
+	<l id="1542">Tout m'en est précieux, Seigneur, tout m'en est doux,</l>
+	<l id="1543">Je ne sais point si j'aime, ou l'Empereur, ou Tite,</l>
+	<l id="1544">Si je m'arrache au rang ou n'en veux qu'au mérite,</l>
+	<l id="1545">Mais je sais qu'en l'état où je suis aujourd'hui</l>
+	<l id="1546">J'applaudis à mon coeur de n'aspirer qu'à lui.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1547">Mais me le donnez-vous tout ce coeur qui n'aspire,</l>
+	<l id="1548">En se tournant vers moi, qu'aux honneurs de l'empire ?</l>
+	<l id="1549">Suit-il l'ambition en dépit de l'amour,</l>
+	<l id="1550">Madame ? La fuit-il sans espoir de retour ?</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1551">Si c'est à mon égard ce qui vous inquiète,</l>
+	<l id="1552">Le coeur se rend bientôt quand l'âme est satisfaite,</l>
+	<l id="1553">Nous le défendons mal de qui remplit nos voeux,</l>
+	<l id="1554">Un moment dans le trône éteint tous autres feux,</l>
+	<l id="1555">Et donner tout ce coeur souvent ce n'est que faire</l>
+	<l id="1556">D'un trésor invisible un don imaginaire.</l>
+	<l id="1557">À l'amour vraiment noble il suffit du dehors,</l>
+	<l id="1558">Il veut bien du dedans ignorer les ressorts,</l>
+	<l id="1559">Il n'a d'yeux que pour voir ce qui s'offre à la vue,</l>
+	<l id="1560">Tout le reste est pour eux une terre inconnue,</l>
+	<l id="1561">Et sans importuner le coeur d'un souverain,</l>
+	<l id="1562">Il a tout ce qu'il veut quand il en a la main.</l>
+	<l id="1563">Ne m'ôtez pas la vôtre, et disposez du reste,</l>
+	<l id="1564">Le coeur a quelque chose en soi de tout céleste,</l>
+	<l id="1565">Il n'appartient qu'aux dieux, et comme c'est leur choix,</l>
+	<l id="1566">Je ne veux point, Seigneur, attenter sur leurs droits.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1567">Et moi qui suis des dieux la plus visible image,</l>
+	<l id="1568">Je veux ce coeur comme eux, et j'en veux tout l'hommage.</l>
+	<l id="1569">Mais vous n'en avez plus, Madame, à me donner,</l>
+	<l id="1570">Vous ne voulez ma main que pour vous couronner,</l>
+	<l id="1571">D'autres pourront un jour vous rendre ce service !</l>
+	<l id="1572">Cependant, pour régler le sort de Bérénice,</l>
+	<l id="1573">Vous pouvez faire agir vos amis au sénat,</l>
+	<l id="1574">Ils peuvent m'y nommer lâche, parjure, ingrat,</l>
+	<l id="1575">J'attendrai son arrêt, et le suivrai peut-être.</l>
+   </sp>
+   <sp who="DOMITIE"><speaker>DOMITIE.</speaker>
+	<l id="1576">Suivez-le, mais tremblez s'il flatte trop son maître.</l>
+	<l id="1577">Ce grand corps tous les ans, change d'âme et de coeurs,</l>
+	<l id="1578">C'est le même sénat et d'autres sénateurs.</l>
+	<l id="1579">S'il alla pour Néron jusqu'à l'idolâtrie,</l>
+	<l id="1580">Il le traita depuis traître à sa patrie,</l>
+	<l id="1581">Et réduisit ce Prince indigne de son rang </l>
+	<l id="1582">À la nécessité de se percer le flanc.</l>
+	<l id="1583">Vous êtes son amour, craignez d'être sa haine</l>
+	<l id="1584">Après l'indignité d'épouser une Reine.</l>
+	<l id="1585">Vous avez quatre jours pour en délibérer,</l>
+	<l id="1586">J'attends le coup fatal que je ne puis parer,</l>
+	<l id="1587">Adieu, si vous l'osez, contentez votre envie,</l>
+	<l id="1588">Mais en m'ôtant l'honneur, n'épargnez pas ma vie.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Tite, Flavian.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1589">L'impétueux esprit ! Conçois-tu, Flavian,</l>
+	<l id="1590">Où pourraient ses fureurs porter Domitian ?</l>
+	<l id="1591">Et de quelle importance est pour moi l'hyménée</l>
+	<l id="1592">Où par tous mes désirs je la sens condamnée ?</l>
+   </sp>
+   <sp who="FLAVIAN"><speaker>FLAVIAN.</speaker>
+	<l id="1593">Je vous l'ai déjà dit, Seigneur, pensez-y bien,</l>
+	<l id="1594">Et surtout de la Reine évitez l'entretien,</l>
+	<l id="1595">Redoutez... Mais elle entre, et sa moindre tendresse</l>
+	<l id="1596">De toutes nos raisons va montrer la faiblesse.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Tite, Bérénice, Philon, Flavian.</head>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1597">Et bien, Madame, et bien, faut-il tout hasarder,</l>
+	<l id="1598">Et venez-vous ici me le commander ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1599">De ce qui m'est permis je sais mieux la mesure,</l>
+	<l id="1600">Seigneur, et j'ai pour vous une flamme trop pure,</l>
+	<l id="1601">Pour vouloir en faveur d'un zèle ambitieux</l>
+	<l id="1602">Mettre au moindre péril des jours si précieux.</l>
+	<l id="1603">Quelque pouvoir sur moi que notre amour obtienne,</l>
+	<l id="1604">J'ai soin de votre gloire, ayez-en pour la mienne.</l>
+	<l id="1605">Je ne demande plus que pour de si beaux feux,</l>
+	<l id="1606">Votre absolu pouvoir hasarde un : "Je le veux.",</l>
+	<l id="1607">Cet amour le voudrait, mais comme je suis reine,</l>
+	<l id="1608">Je sais des souverains la raison souveraine.</l>
+	<l id="1609">Si l'ardeur de vous voir l'a voulue ignorer,</l>
+	<l id="1610">Si mon indigne exil s'est permis d'espérer,</l>
+	<l id="1611">Si j'ai rentré dans Rome avec quelque imprudence,</l>
+	<l id="1612">Tite à ce trop d'ardeur doit un peu d'indulgence.</l>
+	<l id="1613">Souffrez qu'un peu d'éclat pour prix de tant d'amour</l>
+	<l id="1614">Signale ma venue et marque mon retour.</l>
+	<l id="1615">Voudrez-vous que je parte avec l'ignominie</l>
+	<l id="1616">De ne vous avoir vu que pour me voir bannie ?</l>
+	<l id="1617">Laissez-moi la douceur de languir en ces lieux,</l>
+	<l id="1618">D'y soupirer pour vous, d'y mourir à vos yeux ;</l>
+	<l id="1619">C'en sera bientôt fait, ma douleur est trop vive</l>
+	<l id="1620">Pour y tenir longtemps votre attente captive,</l>
+	<l id="1621">Et si je tarde trop à mourir de douleur,</l>
+	<l id="1622">J'irai loin de vos yeux terminer mon malheur.</l>
+	<l id="1623">Mais laissez m'en choisir la funeste journée,</l>
+	<l id="1624">Et du moins jusque-là, Seigneur, pas d'hyménée.</l>
+	<l id="1625">Pour votre ambitieuse avez-vous tant d'amour,</l>
+	<l id="1626">Que vous ne le puissiez différer d'un seul jour ?</l>
+	<l id="1627">Pouvez vous refuser à ma douleur profonde !.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1628">Hélas, que voulez-vous, que la mienne réponde,</l>
+	<l id="1629">Et que puis-je résoudre alors que vous parlez,</l>
+	<l id="1630">Moi qui ne puis vouloir que ce que vous voulez ?</l>
+	<l id="1631">Vous parlez de languir, de mourir à ma vue,</l>
+	<l id="1632">Mais, ô Dieux ! Songez-vous que chaque mot me tue,</l>
+	<l id="1633">Et porte dans mon coeur de si sensibles coups,</l>
+	<l id="1634">Qu'il ne m'en faut plus qu'un pour mourir avant vous ?</l>
+	<l id="1635">De ceux qui m'ont percé souffrez que je soupire,</l>
+	<l id="1636">Pourquoi partir, Madame, et pourquoi me le dire ?</l>
+	<l id="1637">Ah, si vous vous forcez d'abandonner ces lieux,</l>
+	<l id="1638">Ne m'assassinez pas de vos cruels adieux.</l>
+	<l id="1639">Je vous suivrais , Madame, et flatté de l'idée</l>
+	<l id="1640">D'oser mourir à Rome et revivre en Judée,</l>
+	<l id="1641">Pour aller de mes feux vous demander le fruit,</l>
+	<l id="1642">Je quitterais l'empire et tout ce qui leur nuit.</l>
+  </sp>
+  <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1643" part="i">Daigne me préserver le ciel...</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1643" part="f">De quoi, Madame ?</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1644">De voir tant de faiblesse en une si grande âme.</l>
+	<l id="1645">Si j'avais droit par là de vous moins estimer,</l>
+	<l id="1646">Je cesserais peut-être aussi de vous aimer.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1647">Ordonnez donc enfin ce qu'il faut que je fasse.</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1648">S'il faut partir demain, je ne veux qu'une grâce ;</l>
+	<l id="1649">Que ce soit vous, Seigneur, qui le veuillez pour moi,</l>
+	<l id="1650">Et non votre sénat qui m'en fasse la loi.</l>
+	<l id="1651">Faites-lui souvenir, quoi qu'il craigne, ou projette, </l>
+	<l id="1652">Que je suis son amie, et non pas sa sujette,</l>
+	<l id="1653">Que d'un tel attentat notre rang est jaloux,</l>
+	<l id="1654">Et que tout mon amour ne m'asservit qu'à vous.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1655" part="i">Mais peut-être, Madame...</l>
+   </sp>
+   <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1655" part="f">Il n'est point de peut-être,</l>
+	<l id="1656">Seigneur, s'il en décide, il se fait voir mon maître,</l>
+	<l id="1657">Et dût-il vous porter à tout ce que je veux,</l>
+	<l id="1658">Je ne l'ai point choisi pour juge de mes voeux.</l>
+   </sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Tite, Bérénice, Domitian, Albin, Flavian, Philon.</head>
+<stage>Domitian entre.</stage>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1659">Allez dire au sénat, Flavian, qu'il se lève,</l>
+	<l id="1660">Quoi qu'il ait commencé, je défends qu'il achève.</l>
+	<l id="1661">Soit qu'il parle à présent du Vésuve, ou de moi,</l>
+	<l id="1662">Qu'il cesse, et que chacun se retire chez soi.</l>
+	<l id="1663">Ainsi le veut la reine, et comme amant fidèle</l>
+	<l id="1664">Je veux qu'il obéisse aux lois que je prends d'elle,</l>
+	<l id="1665">Qu'il laisse à notre amour régler notre intérêt.</l>
+   </sp>   
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1666">Il n'est plus temps, Seigneur, j'en rapporte l'arrêt.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1667" part="i">Qu'ose-t-il m'ordonner ?</l>
+   </sp>
+   <sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1667" part="f">Seigneur, il vous conjure</l>
+	<l id="1668">De remplir tout l'espoir d'une flamme si pure.</l>
+	<l id="1669">Des services rendus à vous, à tout l'état,</l>
+	<l id="1670">C'est le prix qu'à jugé lui devoir le sénat,</l>
+	<l id="1671">Et pour ne vous prier que pour une romaine,</l>
+	<l id="1672">D'une commune voix Rome adopte la reine,</l>
+	<l id="1673">Et le peuple à grands cris montre sa passion</l>
+	<l id="1674">De voir un plein effet de cette adoption.</l>
+   </sp>
+   <sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1675" part="i">Madame...</l>
+  </sp>
+  <sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1675" part="f">Permettez, Seigneur, que je prévienne</l>
+	<l id="1676">Ce que peut votre flamme accorder à la mienne.</l>
+	<l id="1677">Grâces au juste ciel, ma gloire en sûreté</l>
+	<l id="1678">N'a plus à redouter aucune indignité,</l>
+	<l id="1679">J'éprouve du sénat l'amour et la justice,</l>
+	<l id="1680">Et n'ai qu'à le vouloir pour être impératrice.</l>
+	<l id="1681">Je n'abuserai point d'un surprenant respect</l>
+	<l id="1682">Qui semble un peu bien prompt pour n'être point suspect.</l>
+	<l id="1683">Souvent on se dédit de tant de complaisance,</l>
+	<l id="1684">Non que vous ne puissiez en fixer l'inconstance ;</l>
+	<l id="1685">Si nous avons trop vu ses flux et ses reflux</l>
+	<l id="1686">Pour Galba, pour Othon, et pour Vitellius,</l>
+	<l id="1687">Rome dont aujourd'hui vous êtes les délices</l>
+	<l id="1688">N'aura jamais pour vous ces insolents caprices ;</l>
+	<l id="1689">Mais aussi cet amour qu'à pour vous l'univers</l>
+	<l id="1690">Ne vous peut garantir des ennemis couverts.</l>
+	<l id="1691">Un million de bras a beau garder un maître,</l>
+	<l id="1692">Un million de bras ne pare point d'un traître ;</l>
+	<l id="1693">Il n'en faut qu'un pour perdre un Prince aimé de tous,</l>
+	<l id="1694">Il n'y faut qu'un brutal qui me haïsse en vous,</l>
+	<l id="1695">Aux zèles indiscrets tout parait légitime,</l>
+	<l id="1696">Et la fausse vertu se fait honneur du crime.</l>
+	<l id="1697">Rome a sauvé ma gloire en me donnant sa voix,</l>
+	<l id="1698">Sauvons-lui vous et moi la gloire de ses lois,</l>
+	<l id="1699">Rendons-lui vous et moi cette reconnaissance</l>
+	<l id="1700">D'en avoir pour vous plaire affaibli la puissance,</l>
+	<l id="1701">De l'avoir immolée à vos plus doux souhaits ;</l>
+	<l id="1702">On nous aime, faisons qu'on nous aime à jamais.</l>
+	<l id="1703">D'autres sur votre exemple épouseraient des reines</l>
+	<l id="1704">Qui n'auraient pas, Seigneur, des âmes si romaines,</l>
+	<l id="1705">Et lui seraient peut-être avec trop de raison</l>
+	<l id="1706">Haïr votre mémoire et détester mon nom.</l>
+	<l id="1707">Un refus généreux de tant de déférence</l>
+	<l id="1708">Contre tous ces périls nous met en assurance.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1709">Le ciel de ces périls saura trop nous garder.</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1710">Je les vois de trop près pour vous y hasarder.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1711">Quand Rome vous appelle à la grandeur suprême...</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1712">Jamais un tendre amour n'expose ce qu'il aime.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1713">Mais, Madame, tout cède, et nos voeux exaucés...</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1714">Votre coeur est à moi, j'y règne et c'est assez.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1715">Malgré les voeux publics refuser d'être heureuse,</l>
+	<l id="1716" part="i">C'est plus craindre qu'aimer.</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1716" part="f">La crainte est amoureuse,</l>
+	<l id="1717">Ne me renvoyez pas, mais laissez-moi partir,</l>
+	<l id="1718">Ma gloire ne peut croître et peut se démentir.</l>
+	<l id="1719">Elle passe aujourd'hui celle du plus grand homme,</l>
+	<l id="1720">Puisque enfin je triomphe, et dans Rome, et de Rome,</l>
+	<l id="1721">J'y vois à mes genoux le peuple et le sénat,</l>
+	<l id="1722">Plus j'y craignais de honte et plus j'y prends d'éclat,</l>
+	<l id="1723">J'y tremblais sous sa haine, et la laisse impuissante,</l>
+	<l id="1724">J'y rentrais exilée, et j'en sors triomphante.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1725">L'amour peut-il se faire une si dure loi ?</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1726">La raison me la fait malgré vous, malgré moi,</l>
+	<l id="1727">Si je vous en croyais, si je voulais m'en croire,</l>
+	<l id="1728">Nous pourrions vivre heureux, mais avec moins de gloire.</l>
+	<l id="1729">Épousez Domitie, il ne m'importe plus</l>
+	<l id="1730">Qui vous enrichissiez d'un si noble refus.</l>
+	<l id="1731">C'est à force d'amour que je m'arrache au vôtre,</l>
+	<l id="1732">Et je serais à vous si j'aimais comme une autre.</l>
+	<l id="1733" part="i">Adieu, Seigneur, je pars.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1733" part="f">Ah, Madame, arrêtez.</l>
+</sp><sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1734">Est-ce donc pour moi, l'effet de vos bontés,</l>
+	<l id="1735">Madame, est-ce le prix de vous avoir servie ?</l>
+	<l id="1736">J'assure votre gloire, et vous m'ôtez la vie.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1737">Ne vous alarmez point, quoique la reine ait dit,</l>
+	<l id="1738">Domitie est à vous, si j'ai quelque crédit.</l>
+	<l id="1739">Madame, en ce refus un tel amour éclate</l>
+	<l id="1740">Que j'aurais pour vous l'âme au dernier point ingrate,</l>
+	<l id="1741">Et mériterais mal ce qu'on a fait pour moi,</l>
+	<l id="1742">Si je portais ailleurs la main que je vous doi.</l>
+	<l id="1743">Tout est à vous. L'amour, l'honneur, Rome l'ordonne.</l>
+	<l id="1744">Un si noble refus n'enrichira personne,</l>
+	<l id="1745">J'en jure par l'espoir qui nous fut le plus doux,</l>
+	<l id="1746">Tout est à vous, Madame, et ne sera qu'à vous,</l>
+	<l id="1747">Et ce que mon amour doit à l'excès du vôtre</l>
+	<l id="1748">Ne deviendra jamais le partage d'une autre.</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1749">La mien vous aurait fait déjà de beaux serments,</l>
+	<l id="1750">S'il n'eût craint d'inspirer de pareils sentiments,</l>
+	<l id="1751">Vous vous devez des fils, et des Césars à Rome,</l>
+	<l id="1752">Qui fassent à jamais revivre un si grand homme.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1753">Pour revivre en des fils nous n'en mourons pas moins, </l>
+	<l id="1754">Et vous mettez ma gloire au dessus de ces soins.</l>
+	<l id="1755">Du levant au couchant, de More jusqu'au Scythe</l>
+	<l id="1756">Les peuples vanteront et Bérénice et Tite,</l>
+	<l id="1757">Et l'amour à l'envi forcera l'avenir</l>
+	<l id="1758">D'en garder à jamais l'illustre souvenir.</l>
+	<l id="1759">Prince, après mon trépas soyez sûr de l'empire,</l>
+	<l id="1760">Prenez-y part en frère attendant que j'expire,</l>
+	<l id="1761">Allons voir Domitie, et la fléchir pour vous.</l>
+	<l id="1762">Le premier rang dans Rome est pour elle assez doux,</l>
+	<l id="1763">Et je vais lui jurer, qu'à moins que je périsse,</l>
+	<l id="1764">Elle seule y tiendra celui d'impératrice.</l>
+	<l id="1765" part="i">Est-ce là vous l'ôter ?</l>
+</sp><sp who="DOMITIAN"><speaker>DOMITIAN.</speaker>
+	<l id="1765" part="f">Ah ! C'en est trop Seigneur.</l>
+</sp><sp who="TITE"><speaker>TITE, à Bérénice.</speaker>
+	<l id="1766">Daignez contribuer à faire son bonheur,</l>
+	<l id="1767">Madame, et nous aider à mettre de cette âme</l>
+	<l id="1768">Toute l'ambition d'accord avec sa flamme.</l>
+</sp><sp who="BERENICE"><speaker>BÉRÉNICE.</speaker>
+	<l id="1769">Allons, Seigneur, ma gloire en croîtra de moitié,</l>
+	<l id="1770">Si je puis remporter chez moi son amitié.</l>
+</sp><sp who="TITE"><speaker>TITE.</speaker>
+	<l id="1771">Ainsi pour mon hymen la fête préparée</l>
+	<l id="1772">Vous rendra cette foi qu'on vous avait jurée,</l>
+	<l id="1773">Prince, et ce jour pour vous si noir, si rigoureux,</l>
+	<l id="1774">N'aura d'éclat ici que pour vous rendre heureux.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

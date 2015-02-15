@@ -1,0 +1,3091 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA GALERIE DU PALAIS ou L'AMIE RIVALE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1633</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs françaises</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1631-1640</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k704088</permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+	<docTitle>
+		<titlePart type="main">LA GALERIE DU PALAIS</titlePart>
+		<titlePart type="sub">ou L'AMIE RIVALE</titlePart>
+		<titlePart type="sub">COMÉDIE</titlePart>
+	</docTitle> 
+	<docDate value="1637">M. DCC. XXXVII AVEC PRIVILÈGE DU ROI.</docDate>
+	<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>[Pierre Corneille]</docAuthor>
+	<docImprint>
+			<privilege id="1637-01-21"><head>PIVILÈGE DU ROI</head>
+<p>Louis, par la grâce de Dieu, ROI de FRANCE et de NAVARRE, à nos âmes et féaux conseillers les gens tenants nos conseils de parlements, maîtres des requêtes ordinaires de notre hôtel, baillifs, sénéchaux, prévôts, leurs lieutenants, et à tous autres nos justiciers et officiers qu'il appartiendra, Salut. Notre bien aimé Augustin Courbé, Libraire à Paris, nous a fait remontrer  qu'il a recouvré un manuscrit contenant trois comédies, savoir La Galerie du Palais, ou l'Amie rivale, La Place Royale, ou l'amoureux extravagant, et la Suivante ; et une tragi-comédie intitulée Le Cid, composées par Monsieur Corneille, lequel manuscrit il désirerait imprimer s'il avait sur ce nos lettres nécessaire, lesquelles il nous a très humblement supplié de lui accorder. À ces causes, nous avons permis, et permettons à l'exposant d'imprimer ou faire imprimer, vendre et débiter en tous lieux de notre obéissance, en un, ou un plusieurs volumes, lesdites comédies et tragi-comédie, en telles marges, et caractères, et autant de fois qu'il voudra, durant l'espace de vingt ans entiers et accomplis, à compter du jour que chacune sera achevée d'imprimer pour la première fois, et faisons très expresses défenses à toutes personnes de quelque qualité et condition qu'elles soient de les imprimer, faire imprimer, vendre, ni distribuer conjointement ou séparément en aucun endroit de ce royaume durant ledit temps, sous prétexte d'augmentation, correction, changement de titres, ou autrement, en quelque sorte et manière que ce soit, à peine que quinze cent livres d'amende, payables sans déport par chacun des contrevenants, et applicables un tiers à Nous, un tiers à l'Hôtel Dieu de Paris, et l'autre tiers à l'exposant, de confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts : à condition qu'il en sera mis deux exemplaires de chacune en notre bibliothèque publique, et un en celle de notre très cher  et féal le sieur Séguier, chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des présentes ; du contenu desquelles, nous vous mandons que vous fassiez jouir pleinement et paisiblement l'exposant et ceux qui auront droit de lui, sans qu'il leur soit fait aucun trouble ou empêchement. Voulons aussi qu'en mettant au commencement ou à la fin de chaque volume un bref extrait des présentes elles soient tenues pour signifiées, et que foi y soit ajouter, et aux copies d'icelles,, collationnées par l'un de vos âmes et féaux conseillers, et secrétaires, comme à l'original. Mandons aussi au premier notre huissier  ou sergent sur ce requis de faire pour l'exécution des présentes tous exploits nécessaires sans demander autre permissions. Car tel est notre bon plaisir, nonobstant oppositions ou appelations quelconques, et sans préjudice d'icelles, clameur de Haro, charte normande, et autres lettres à ce contraires. Donné à Paris le vingt et unième jour de janvier l'en de grâce mille six cent trente sept, et de notre règne le vingt-septième.</p>
+<p>Par le roi en son conseil, </p>
+<signature>Signé CONRART.</signature>
+<p>Les exemplaires ont été fournis ainsi qu'il est porté par le privilège.</p>
+<p>Et ledit Courbé associé avec lui au dit privilège, François Targa, suivant le contrat passé entre eux par devant les Notaires du Châtelet de Paris.</p></privilege>
+		<acheveImprime id="1637-02-20">Achévé d'imprimé ce 20 février 1637.</acheveImprime>
+		<printer>À PARIS, chez Augustin COURBÉ, imprimeur et libraire de Monseigneur, Frère du Roi, dans la petite Salle du Palais, à la Palme.</printer>
+	</docImprint>
+	<performance>
+		<premiere date="1633" location='Jeu de Paume de La Fontaine'>Représenté pour la première fois en 1633 au Théâtre du Jeu de Paume de la Fontaine par le Troupe de Mondory.</premiere>
+	</performance>
+<dedicace><adresse>À MADAME de LIANCOUR</adresse>
+<head>MADAME,</head>
+<p>Je vous demande pardon, si je vous fais un mauvais présent, non pas que j'ai si mauvaise opinion de cette pièce, que je veuille condamner les applaudissements  qu'elle a reçues ; mais parce que je ne croirai jamais qu'une ouvrage de cette nature soit digne de vous être présenté. Aussi vous supplierai-je très humblement de ne pas prendre part à la qualité de la chose, qu'au pouvoir de celui dont elle part ; C'est tout ce que peut vous offrir un homme de ma sorte, et Dieu ne m'ayant pas fait naître assez considérable pour être utile à votre service, je me tiendrai trop récompensé d'ailleurs, si je puis contribuer en quelque façon à vos divertissements. De six comédie qui me sont échappées, si celle-ci n'est la meilleure c'est la plus heureuse, et toutefois la plus malheureuse en ce point, que n'ayant pas eu le bonheur d'être vu de vous il lui manque votre approbation, sans laquelle sa gloire est encore douteuse, et n'ose s'assurer sur les acclamations publiques. Elle vous la vient demander, MADAME, avec cette protection qu'autrefois Mélite a trouvée si favorable. J'espère que votre bonté ne lui refusera pas l'une et l'autre, ou que si vous désapprouvez sa conduite, du moins vous agréerez mon zèle et me permettez de ma dire toute ma vie.</p>
+<p>Votre tèrs humble, très obéissant, et très obligé serviteur,</p>
+<signature>CORNEILLE</signature>
+</dedicace>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="PLEIRANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>PLEIRANTE</role>, père de Célidée.</castItem>
+			<castItem><role id="LYSANDRE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>LYSANDRE</role>, amant de Célidée.</castItem>
+			<castItem><role id="DORIMANT" civil="M" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>DORIMANT</role>, amoureux d'Hippolyte.</castItem>
+			<castItem><role id="CHRYSANTE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CHRYSANTE</role>, mère d'Hippolyte.</castItem>
+			<castItem><role id="CELIDEE" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>CÉLIDÉE</role>, fille de Pleirante.</castItem>
+			<castItem><role id="HIPPOLYTE" civil="F" type="H" statut='aristocrate' age='A' stat_amour='amoureux'>HYPPOLYTE</role>, fille de Chrysante.</castItem>
+			<castItem><role id="ARONTE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>ARONTE</role>, écuyer de Lysandre.</castItem>
+			<castItem><role id="CLEANTE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>CLÉANTE</role>, écuyer de Dorimant.</castItem>
+			<castItem><role id="FLORICE" civil="F" type="H" statut='suivante' age='A' stat_amour='néant'>FLORICE</role>, suivante d'Hippolyte.</castItem>
+			<castItem><role id="LIBRAIRE" civil="M" type="H" statut='libraire' age='A' stat_amour='néant'>Le Libraire du palais </role>.</castItem>
+			<castItem><role id="MERCIER" civil="M" type="H" statut='mercier' age='A' stat_amour='néant'>Le Mercier du palais</role>.</castItem>
+			<castItem><role id="LINGERE" civil="F" type="H" statut='lingère' age='A' stat_amour='néant'>La Lingère du palais</role>.</castItem>
+		</castList>
+		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1">Enfin je ne le puis : que veux-tu que j'y fasse ?</l>
+	<l id="2">Pour tout autre sujet mon maître n'est que glace ;</l>
+	<l id="3">Elle est trop dans son coeur ; on ne l'en peut chasser,</l>
+	<l id="4">Et c'est folie à nous que de plus y penser.</l>
+	<l id="5">J'ai beau devant les yeux lui remettre Hippolyte,</l>
+	<l id="6">Parler de ses attraits, élever son mérite,</l>
+	<l id="7">Sa grâce, son esprit, sa naissance, son bien ;</l>
+	<l id="8">Je n'avance non plus qu'à ne lui dire rien :</l>
+	<l id="9">L'amour, dont malgré moi son âme est possédée,</l>
+	<l id="10">Fait qu'il en voit autant, ou plus, en Célidée.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="11">Ne quittons pas pourtant : à la longue on fait tout.</l>
+	<l id="12">La gloire suit la peine : espérons jusqu'au bout.</l>
+	<l id="13">Je veux que Célidée ait charmé son courage,</l>
+	<l id="14">L'amour le plus parfait n'est pas un mariage ;</l>
+	<l id="15">Fort souvent moins que rien cause un grand changement,</l>
+	<l id="16">Et les occasions naissent en un moment.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="17">Je les prendrai toujours quand je les verrai naître.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="18">Hippolyte, en ce cas, saura le reconnaître.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="19">Tout ce que j'en prétends, c'est un entier secret.</l>
+	<l id="20">Adieu : je vais trouver Célidée à regret.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="21" part="i">De la part de ton maître ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="21" part="m">Oui.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="21" part="f">Si j'ai bonne vue,</l>
+	<l id="22">La voilà que son père amène vers la rue.</l>
+	<l id="23">Tirons-nous à quartier ; nous jouerons mieux nos jeux,</l>
+	<l id="24">S'ils n'aperçoivent point que nous parlions nous deux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="25">Ne pense plus, ma fille, à me cacher ta flamme ;</l>
+	<l id="26">N'en conçois point de honte, et n'en crains point de blâme :</l>
+	<l id="27">Le sujet qui l'allume a des perfections</l>
+<note type="L">Inclination : Se dit aussi de l'amour, du penchant, de l'attachement qu'on a pour quelqu'un. [F]</note>
+	<l id="28">Dignes de posséder tes inclinations ;</l>
+	<l id="29">Et pour mieux te montrer le fond de mon courage,</l>
+	<l id="30">J'aime autant son esprit que tu fais son visage.</l>
+	<l id="31">Confesse donc, ma fille, et crois qu'un si beau feu</l>
+	<l id="32">Veut être mieux traité que par un désaveu.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="33">Monsieur, il est tout vrai, son ardeur légitime</l>
+	<l id="34">A tant gagné sur moi que j'en fais de l'estime :</l>
+	<l id="35">J'honore son mérite, et n'ai pu m'empêcher</l>
+	<l id="36">De prendre du plaisir à m'en voir rechercher ;</l>
+	<l id="37">J'aime son entretien, je chéris sa présence ;</l>
+	<l id="38">Mais cela n'est enfin qu'un peu de complaisance,</l>
+	<l id="39">Qu'un mouvement léger qui passe en moins d'un jour.</l>
+	<l id="40">Vos seuls commandements produiront mon amour,</l>
+	<l id="41">Et votre volonté, de la mienne suivie...</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="42">Favorisant ses voeux, seconde ton envie.</l>
+	<l id="43">Aime, aime ton Lysandre ; et puisque je consens</l>
+	<l id="44">Et que je t'autorise à ces feux innocents,</l>
+	<l id="45">Donne-lui hardiment une entière assurance</l>
+	<l id="46">Qu'un mariage heureux suivra son espérance :</l>
+	<l id="47">Engage-lui ta foi. Mais j'aperçois venir</l>
+	<l id="48">Quelqu'un qui de sa part te vient entretenir.</l>
+	<l id="49">Ma fille, adieu : les yeux d'un homme de mon âge</l>
+	<l id="50">Peut-être empêcheraient la moitié du message.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="51">Il ne vient rien de lui qu'il faille vous celer.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="52">Mais tu seras sans moi plus libre à lui parler ;</l>
+	<l id="53">Et ta civilité, sans doute un peu forcée,</l>
+	<l id="54">Me fait un compliment qui trahit ta pensée.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="55" part="i">Que fait ton maître, Aronte ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="55" part="f">Il m'envoie aujourd'hui</l>
+	<l id="56">Voir ce que sa maîtresse a résolu de lui,</l>
+	<l id="57">Et comment vous voulez qu'il passe la journée.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="58">Je serai chez Daphnis toute l'après-dînée,</l>
+	<l id="59">Et s'il m'aime, je crois que nous l'y pourrons voir.</l>
+	<l id="60" part="i">Autrement...</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="60" part="f">Ne pensez qu'à l'y bien recevoir.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="61">S'il y manque, il verra sa paresse punie.</l>
+	<l id="62">Nous y devons dîner fort bonne compagnie :</l>
+	<l id="63">J'y mène, du quartier, Hippolyte et Cloris.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="64">Après elles et vous il n'est rien dans Paris,</l>
+	<l id="65">Et je n'en sache point, pour belles qu'on les nomme,</l>
+	<l id="66">Qui puissent attirer les yeux d'un honnête homme.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="67">Je ne suis pas d'humeur bien propre à t'écouter,</l>
+	<l id="68">Et ne prends pas plaisir à m'entendre flatter.</l>
+	<l id="69">Sans que ton bel esprit tâche plus d'y paraître,</l>
+	<l id="70">Mêle-toi de porter ma réponse à ton maître.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="71">Quelle superbe humeur ! Quel arrogant maintien !</l>
+	<l id="72">Si mon maître me croit, vous ne tenez plus rien ;</l>
+	<l id="73">Il changera d'objet, ou j'y perdrai ma peine :</l>
+	<l id="74">Aussi bien son amour ne vous rend que trop vaine.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="75">Vous avez fort la presse à ce livre nouveau ;</l>
+	<l id="76" part="i">C'est pour vous faire riche.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="76" part="f">On le trouve si beau,</l>
+	<l id="77">Que c'est pour mon profit le meilleur qui se voit.</l>
+	<l id="78">Mais vous, que vous vendez de ces toiles de soie !</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="79">De vrai, bien que d'abord on en vendît fort peu,</l>
+	<l id="80">À présent Dieu nous aime, on y court comme au feu ;</l>
+	<l id="81">Je n'en saurais fournir autant qu'on m'en demande :</l>
+	<l id="82">Elle sied mieux aussi que celle de Hollande,</l>
+	<l id="83">Découvre moins le fard dont un visage est peint,</l>
+	<l id="84">Et donne, ce me semble, un plus grand lustre au teint.</l>
+	<l id="85">Je perds bien à gagner, de ce que ma boutique,</l>
+	<l id="86">Pour être trop étroite, empêche ma pratique ;</l>
+	<l id="87">À peine y puis-je avoir deux chalands à la fois :</l>
+	<l id="88">Je veux changer de place avant qu'il soit un mois ;</l>
+	<l id="89">J'aime mieux en payer le double et davantage,</l>
+	<l id="90">Et voir ma marchandise en un bel étalage.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="91">Vous avez bien raison ; mais à ce que j'entends...</l>
+	<l id="92">Monsieur, vous plaît-il voir quelques livres du temps ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="93" part="i">Montrez-m'en quelques-uns.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="93" part="f">Voici ceux de la mode.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="94">Otez-moi cet auteur, son nom seul m'incommode ;</l>
+	<l id="95">C'est un impertinent, ou je n'y connais rien.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="96">Ses oeuvres toutefois se vendent assez bien.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="97">Quantité d'ignorants ne songent qu'à la rime.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="98">Monsieur, en voici deux dont on fait grande estime :</l>
+	<l id="99">Considérez ce trait, on le trouve divin.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="100">Il n'est que mal traduit du cavalier Marin ;</l>
+	<l id="101">Sa veine, au demeurant, me semble assez hardie.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="102">Ce fut son coup d'essai que cette comédie.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="103">Cela n'est pas tant mal pour un commencement ;</l>
+	<l id="104">La plupart de ses vers coulent fort doucement :</l>
+	<l id="105">Qu'il a de mignardise à décrire un visage !</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="106">Madame, montrez-nous quelques collets d'ouvrage.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="107">Je vous en vais montrer de toutes les façons.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="108">Ce visage vaut mieux que toutes vos chansons.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="109">Voilà du point d'esprit, de Gênes, et d'Espagne.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="110">Ceci n'est guère bon qu'à des gens de campagne.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="111">Voyez bien : s'il en est deux pareils dans Paris...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="112">Ne les vantez point tant, et dites-nous le prix.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="113" part="i">Quand vous aurez choisi.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="113" part="f">Que t'en semble, Florice ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="114">Ceux-là sont assez beaux, mais de mauvais service ;</l>
+	<l id="115">En moins de trois savons on ne les connaît plus.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="116" part="i">Celui-ci, qu'en dis-tu ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="116" part="f">L'ouvrage en est confus,</l>
+	<l id="117">Bien que l'invention de près soit assez belle.</l>
+	<l id="118">Voici bien votre fait, n'était que la dentelle</l>
+	<l id="119">Est fort mal assortie avec le passement ;</l>
+	<l id="120">Cet autre n'a de beau que le couronnement.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="121">Si vous pouviez avoir deux jours de patience,</l>
+	<l id="122">Il m'en vient, mais qui sont dans la même excellence.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="123" part="i">Il vaudrait mieux attendre.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="123" part="f">Eh bien ! Nous attendrons ;</l>
+	<l id="124">Dites-nous au plus tard quel jour nous reviendrons.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="125">Mercredi j'en attends de certaines nouvelles.</l>
+	<l id="126">Cependant vous faut-il quelques autres dentelles ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="127">J'en ai ce qu'il m'en faut pour ma provision.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="128">J'en vais subtilement prendre l'occasion.</l>
+	<l id="129" part="i">La connais-tu, voisine ?</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="129" part="f">Oui, quelque peu de vue :</l>
+	<l id="130">Quant au reste, elle m'est tout à fait inconnue.</l>
+	<l id="131">Ce cavalier sans doute y trouve plus d'appas</l>
+	<l id="132" part="i">Que dans tous vos auteurs ?</l>
+</sp>
+<sp who="CLEANTE"><speaker>CLÉANTE.</speaker>
+	<l id="132" part="f">Je n'y manquerai pas.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="133">Si tu ne me vois là, je serai dans la salle.</l>
+	<l id="134">Je connais celui-ci ; sa veine est fort égale ;</l>
+	<l id="135">Il ne fait point de vers qu'on ne trouve charmants.</l>
+	<l id="136">Mais on ne parle plus qu'on fasse de romans ;</l>
+	<l id="137">J'ai vu que notre peuple en était idolâtre.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="138">La mode est à présent des pièces de théâtre.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="139">De vrai, chacun s'en pique ; et tel y met la main,</l>
+	<l id="140">Qui n'eut jamais l'esprit d'ajuster un quatrain.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="141" part="i">Je te prends sur le livre.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="141" part="f">Eh bien ! Qu'en veux-tu dire ?</l>
+	<l id="142">Tant d'excellents esprits, qui se mêlent d'écrire,</l>
+	<l id="143">Valent bien qu'on leur donne une heure de loisir.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="144">Y trouves-tu toujours une heure de plaisir ?</l>
+	<l id="145">Beaucoup font bien des vers, et peu la comédie.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="146">Ton goût, je m'en assure, est pour la Normandie ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="147">Sans rien spécifier, peu méritent de voir ;</l>
+	<l id="148">Souvent leur entreprise excède leur pouvoir,</l>
+	<l id="149">Et tel parle d'amour sans aucune pratique.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="150">On n'y sait guère alors que la vieille rubrique :</l>
+	<l id="151">Faute de le connaître, on l'habille en fureur ;</l>
+	<l id="152">Et loin d'en faire envie, on nous en fait horreur.</l>
+	<l id="153">Lui seul de ses effets a droit de nous instruire ;</l>
+	<l id="154">Notre plume à lui seul doit se laisser conduire :</l>
+	<l id="155">Pour en bien discourir, il faut l'avoir bien fait ;</l>
+	<l id="156">Un bon poète ne vient que d'un amant parfait.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="157">Il n'en faut point douter, l'amour a des tendresses</l>
+	<l id="158">Que nous n'apprenons point qu'auprès de nos maîtresses.</l>
+	<l id="159">Tant de sorte d'appas, de doux saisissements,</l>
+	<l id="160">D'agréables langueurs et de ravissements,</l>
+	<l id="161">Jusques où d'un bel oeil peut s'étendre l'empire,</l>
+	<l id="162">Et mille autres secrets que l'on ne saurait dire</l>
+	<l id="163">(Quoi que tous nos rimeurs en mettent par écrit),</l>
+	<l id="164">Ne se surent jamais par un effort d'esprit ;</l>
+	<l id="165">Et je n'ai jamais vu de cervelles bien faites</l>
+	<l id="166">Qui traitassent l'amour à la façon des poètes.</l>
+	<l id="167">C'est tout un autre jeu. Le style d'un sonnet</l>
+	<l id="168">Est fort extravagant dedans un cabinet ;</l>
+	<l id="169">Il y faut bien louer la beauté qu'on adore,</l>
+	<l id="170">Sans mépriser Vénus, sans médire de Flore,</l>
+	<l id="171">Sans que l'éclat des lis, des roses, d'un beau jour,</l>
+	<l id="172">Ait rien à démêler avec notre amour.</l>
+	<l id="173">O pauvre comédie, objet de tant de veines,</l>
+	<l id="174">Si tu n'es qu'un portrait des actions humaines,</l>
+	<l id="175">On te tire souvent sur un original</l>
+	<l id="176">À qui, pour dire vrai, tu ressembles fort mal !</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="177">Laissons la muse en paix, de grâce, à la pareille.</l>
+	<l id="178">Chacun fait ce qu'il peut, et ce n'est pas merveille</l>
+	<l id="179">Si, comme avec bon droit on perd bien un procès,</l>
+	<l id="180">Souvent un bon ouvrage a de faibles succès.</l>
+	<l id="181">Le jugement de l'homme ou plutôt son caprice</l>
+	<l id="182">Pour quantité d'esprits n'a que de l'injustice.</l>
+	<l id="183">J'en admire beaucoup dont on fait peu d'état ;</l>
+	<l id="184">Leurs fautes, tout au pis, ne sont pas coups d'état :</l>
+	<l id="185">La plus grande est toujours de peu de conséquence.</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="186">Vous plairait-il de voir des pièces d'éloquence ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="187">J'en lus hier la moitié ; mais son vol est si haut,</l>
+	<l id="188">Que presque à tous moments je me trouve en défaut.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="189">Voici quelques auteurs dont j'aime l'industrie.</l>
+	<l id="190">Mettez ces trois à part, mon maître, je vous prie ;</l>
+	<l id="191">Tantôt un de mes gens vous les viendra payer.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="192">Le reste du matin, où veux-tu l'employer ?</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="193">Voyez deçà, messieurs ; vous plaît-il rien du nôtre ?</l>
+	<l id="194">Voyez, je vous ferai meilleur marché qu'un autre,</l>
+	<l id="195">Des gants, des baudriers, des rubans, des castors.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="196">Je ne saurais encore te suivre, si tu sors :</l>
+	<l id="197">Faisons un tour de salle, attendant mon Cléante.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="198" part="i">Qui te retient ici ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="198" part="f">L'histoire en est plaisante :</l>
+	<l id="199">Tantôt, comme j'étais sur le livre occupé,</l>
+	<l id="200">Tout proche on est venu choisir du point coupé.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="201" part="i">Qui ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="201" part="f">C'est la question ; mais il faut s'en remettre</l>
+	<l id="202">À ce qu'à mes regards sa coiffe a pu permettre.</l>
+	<l id="203">Je n'ai rien vu d'égal : mon Cléante la suit,</l>
+	<l id="204">Et ne reviendra point qu'il n'en soit bien instruit,</l>
+	<l id="205">Qu'il n'en sache le nom, le rang et la demeure.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="206" part="i">Ami, le coeur t'en dit.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="206" part="f">Nullement, ou je meure ;</l>
+	<l id="207">Voyant je ne sais quoi de rare en sa beauté,</l>
+	<l id="208">J'ai voulu contenter ma curiosité.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="209">Ta curiosité deviendra bientôt flamme :</l>
+	<l id="210">C'est par là que l'amour se glisse dans une âme.</l>
+	<l id="211">À la première vue, un objet qui nous plaît</l>
+	<l id="212">N'inspire qu'un désir de savoir quel il est ;</l>
+	<l id="213">On en veut aussitôt apprendre davantage,</l>
+	<l id="214">Voir si son entretien répond à son visage,</l>
+	<l id="215">S'il est civil ou rude, importun ou charmeur,</l>
+	<l id="216">Éprouver son esprit, connaître son humeur :</l>
+	<l id="217">De là cet examen se tourne en complaisance ;</l>
+	<l id="218">On cherche si souvent le bien de sa présence,</l>
+	<l id="219">Qu'on en fait habitude, et qu'au point d'en sortir</l>
+	<l id="220">Quelque regret commence à se faire sentir :</l>
+	<l id="221">On revient tout rêveur ; et notre âme blessée,</l>
+	<l id="222">Sans prendre garde à rien, cajole sa pensée.</l>
+	<l id="223">Ayant rêvé le jour, la nuit à tous propos</l>
+	<l id="224">On sent je ne sais quoi qui trouble le repos ;</l>
+	<l id="225">Un sommeil inquiet, sur de confus nuages</l>
+	<l id="226">Élève incessamment de flatteuses images,</l>
+	<l id="227">Et sur leur vain rapport fait naître des souhaits</l>
+	<l id="228">Que le réveil admire et ne dédit jamais :</l>
+	<l id="229">Tout le coeur court en hâte après de si doux guides ;</l>
+	<l id="230">Et le moindre larcin que font ses voeux timides</l>
+	<l id="231">Arrête le larron et le met dans les fers.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="232">Ainsi tu fus épris de celle que tu sers ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="233">C'est un autre discours ; à présent je ne touche</l>
+	<l id="234">Qu'aux ruses de l'amour contre un esprit farouche,</l>
+	<l id="235">Qu'il faut apprivoiser presque insensiblement,</l>
+	<l id="236">Et contre ses froideurs combattre finement.</l>
+	<l id="237" part="i">Des naturels plus doux...</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="237" part="f">Eh bien ! Elle s'appelle ?</l>
+</sp>
+<sp who="CLEANTE"><speaker>CLÉANTE.</speaker>
+	<l id="238">Ne m'informez de rien qui touche cette belle.</l>
+	<l id="239">Trois filous rencontrés vers le milieu du pont</l>
+	<l id="240">Chacun l'épée au poing, m'ont voulu faire affront,</l>
+	<l id="241">Et sans quelques amis qui m'ont tiré de peine,</l>
+	<l id="242">Contre eux ma résistance eût peut-être été vaine.</l>
+	<l id="243">Ils ont tourné le dos, me voyant secouru ;</l>
+	<l id="244">Mais ce que je suivais tandis est disparu.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="245">Les traîtres ! Trois contre un ! T'attaquer ! Te surprendre !</l>
+	<l id="246">Quels insolents vers moi s'osent ainsi méprendre ?</l>
+</sp>
+<sp who="CLEANTE"><speaker>CLÉANTE.</speaker>
+	<l id="247">Je ne connais qu'un d'eux, et c'est là le retour</l>
+	<l id="248">De quelques tours de main qu'il reçut l'autre jour,</l>
+	<l id="249">Lorsque, m'ayant tenu quelques propos d'ivrogne,</l>
+<note type="L">Hôtel de Bourgogne : célèbre théâtre où se jouait cette comédie.</note>
+	<l id="250">Nous eûmes prise ensemble à l'Hôtel de Bourgogne.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="251">Qu'on le trouve où qu'il soit ; qu'une grêle de bois</l>
+	<l id="252">Assemble sur lui seul le châtiment des trois ;</l>
+<note type="L">Etrivière : Courroie de cuir, par laquelle les étriers sont suspendus. Donner les étrivières, c'est châtier des valets de livrée, les fouetter avec les étrivières. [F]</note>
+	<l id="253">Et que sous l'étrivière il puisse tôt connaître,</l>
+	<l id="254">Quand on se prend aux miens, qu'on s'attaque à leur maître !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="255">J'aime à te voir ainsi décharger ton courroux ;</l>
+	<l id="256">Mais voudrais-tu parler franchement entre nous ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="257">Quoi ! Tu doutes encore de ma juste colère ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="258">En ce qui le regarde, elle n'est que légère :</l>
+	<l id="259">En vain pour son sujet tu fais l'intéressé,</l>
+	<l id="260">Il a paré des coups dont ton coeur est blessé.</l>
+	<l id="261">Cet accident fâcheux te vole une maîtresse :</l>
+	<l id="262">Confesse ingénument, c'est là ce qui te presse.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="263">Pourquoi te confesser ce que tu vois assez ?</l>
+	<l id="264">Au point de se former, mes desseins renversés,</l>
+	<l id="265">Et mon désir trompé, poussent dans ces contraintes,</l>
+	<l id="266">Sous de faux mouvements, de véritables plaintes.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="267">Ce désir, à vrai dire, est un amour naissant</l>
+	<l id="268">Qui ne sait où se prendre, et demeure impuissant ;</l>
+	<l id="269">Il s'égare et se perd dans cette incertitude ;</l>
+	<l id="270">Et renaissant toujours de ton inquiétude,</l>
+	<l id="271">Il te montre un objet d'autant plus souhaité,</l>
+	<l id="272">Que plus sa connaissance a de difficulté.</l>
+	<l id="273">C'est par là que ton feu davantage s'allume :</l>
+	<l id="274">Moins on l'a pu connaître, et plus on en présume ;</l>
+	<l id="275">Notre ardeur curieuse en augmente le prix.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="276">Que tu sais, cher ami, lire dans les esprits !</l>
+	<l id="277">Et que pour bien juger d'une secrète flamme,</l>
+	<l id="278">Tu pénètres avant dans les ressorts d'une âme !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="279">Ce n'est pas encor tout, je veux te secourir.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="280">Oh ! Que je ne suis pas en état de guérir !</l>
+	<l id="281">L'amour use sur moi de trop de tyrannie.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="282">Souffre que je te mène en une compagnie</l>
+	<l id="283">Où l'objet de mes voeux m'a donné rendez-vous ;</l>
+	<l id="284">Les divertissements t'y sembleront si doux,</l>
+	<l id="285">Ton âme en un moment en sera si charmée,</l>
+	<l id="286">Que, tous ses déplaisirs dissipés en fumée,</l>
+	<l id="287">On gagnera sur toi fort aisément ce point</l>
+	<l id="288">D'oublier un objet que tu ne connais point.</l>
+	<l id="289">Mais garde-toi surtout d'une jeune voisine</l>
+	<l id="290">Que ma maîtresse y mène ; elle est et belle et fine,</l>
+	<l id="291">Et sait si dextrement ménager ses attraits,</l>
+	<l id="292">Qu'il n'est pas bien aisé d'en éviter les traits.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="293">Au hasard, fais de moi tout ce que bon te semble.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="294">Donc, en attendant l'heure, allons dîner ensemble.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="295" part="i">Tu me railles toujours.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="295" part="f">S'il ne vous veut du bien,</l>
+	<l id="296">Dites assurément que je n'y connais rien.</l>
+	<l id="297">Je le considérais tantôt chez ce libraire ;</l>
+	<l id="298">Ses regards de sur vous ne pouvaient se distraire,</l>
+	<l id="299">Et son maintien était dans une émotion</l>
+	<l id="300">Qui m'instruisait assez de son affection.</l>
+	<l id="301">Il voulait vous parler, et n'osait l'entreprendre.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="302">Toi, ne me parle point, ou parle de Lysandre.</l>
+	<l id="303">C'est le seul dont la vue excita mon ardeur.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="304">Et le seul qui pour vous n'a que de la froideur.</l>
+	<l id="305">Célidée est son âme, et tout autre visage</l>
+	<l id="306">N'a point d'assez beaux traits pour toucher son courage ;</l>
+	<l id="307">Son brasier est trop grand, rien ne peut l'amortir.</l>
+	<l id="308">En vain son écuyer tâche à l'en divertir,</l>
+	<l id="309">En vain, jusques aux cieux portant votre louange,</l>
+	<l id="310">Il tâche à lui jeter quelque amorce du change,</l>
+	<l id="311">Et lui dit jusque-là que dans votre entretien</l>
+	<l id="312">Vous témoignez souvent de lui vouloir du bien :</l>
+	<l id="313">Tout cela n'est qu'autant de paroles perdues.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="314">Faute d'être sans doute assez bien entendues !</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="315">Ne le présumez pas, il faut avoir recours</l>
+	<l id="316">À de plus hauts secrets qu'à ces faibles discours.</l>
+	<l id="317">Je fus fine autrefois, et depuis mon veuvage</l>
+	<l id="318">Ma ruse chaque jour s'est accrue avec l'âge ;</l>
+	<l id="319">Je me connais en monde, et sais mille ressorts</l>
+	<l id="320">Pour débaucher une âme et brouiller des accords.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="321" part="i">Dis promptement, de grâce.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="321" part="f">À présent l'heure presse,</l>
+	<l id="322">Et je ne vous saurais donner qu'un mot d'adresse :</l>
+	<l id="323">Cette voisine et vous... Mais déjà la voici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>ACTE I , SCENE XI.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="324">À force de tarder, tu m'as mise en souci :</l>
+	<l id="325">Il est temps, et Daphnis par un page me mande</l>
+	<l id="326">Que pour faire servir on n'attend que ma bande ;</l>
+	<l id="327">Le carrosse est tout prêt : allons, veux-tu venir ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="328">Lysandre après dîner t'y vient entretenir ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="329">S'il osait y manquer, je te donne promesse</l>
+	<l id="330">Qu'il pourrait bien ailleurs chercher une maîtresse.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE .</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="331">Ne me contez point tant que mon visage est beau :</l>
+	<l id="332">Ces discours n'ont pour moi rien du tout de nouveau ;</l>
+	<l id="333">Je le sais bien sans vous, et j'ai cet avantage,</l>
+	<l id="334">Quelques perfections qui soient sur mon visage,</l>
+	<l id="335">Que je suis la première à m'en apercevoir :</l>
+	<l id="336">Pour me les bien apprendre, il ne faut qu'un miroir ;</l>
+	<l id="337">J'y vois en un moment tout ce que vous me dites.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="338">Mais vous n'y voyez pas tous vos rares mérites :</l>
+	<l id="339">Cet esprit tout divin et ce doux entretien</l>
+	<l id="340">Ont des charmes puissants dont il ne montre rien.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="341">Vous les montrez assez par cette après-dînée</l>
+	<l id="342">Qu'à causer avec moi vous vous êtes donnée ;</l>
+	<l id="343">Si mon discours n'avait quelque charme caché,</l>
+	<l id="344">Il ne vous tiendrait pas si longtemps attaché.</l>
+	<l id="345">Je vous juge plus sage, et plus aimer votre aise,</l>
+	<l id="346">Que d'y tarder ainsi sans que rien vous y plaise ;</l>
+	<l id="347">Et si je présumais qu'il vous plût sans raison,</l>
+	<l id="348">Je me ferais moi-même un peu de trahison ;</l>
+	<l id="349">Et par ce trait badin qui sentirait l'enfance,</l>
+	<l id="350">Votre beau jugement recevrait trop d'offense.</l>
+	<l id="351">Je suis un peu timide, et dût-on me jouer,</l>
+	<l id="352">Je n'ose démentir ceux qui m'osent louer.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="353">Aussi vous n'avez pas le moindre lieu de craindre</l>
+	<l id="354">Qu'on puisse en vous louant ni vous flatter ni feindre :</l>
+	<l id="355">On voit un tel éclat en vos brillants appas,</l>
+	<l id="356">Qu'on ne peut l'exprimer, ni ne l'adorer pas.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="357">Ni ne l'adorer pas ! Par là vous voulez dire...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="358">Que mon coeur désormais vit dessous votre empire,</l>
+	<l id="359">Et que tous mes desseins de vivre en liberté</l>
+	<l id="360">N'ont rien eu d'assez fort contre votre beauté.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="361">Quoi ! Mes perfections vous donnent dans la vue ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="362">Les rares qualités dont vous êtes pourvue</l>
+	<l id="363">Vous ôtent tout sujet de vous en étonner.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="364">Cessez aussi, monsieur, de vous l'imaginer.</l>
+	<l id="365">Si vous brûlez pour moi, ce ne sont pas merveilles :</l>
+	<l id="366">J'ai de pareils discours chaque jour aux oreilles,</l>
+	<l id="367">Et tous les gens d'esprit en font autant que vous.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="368">En amour toutefois je les surpasse tous.</l>
+	<l id="369">Je n'ai point consulté pour vous donner mon âme ;</l>
+	<l id="370">Votre premier aspect sut allumer ma flamme,</l>
+	<l id="371">Et je sentis mon coeur, par un secret pouvoir,</l>
+	<l id="372">Aussi prompt à brûler que mes yeux à vous voir.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="373">Avoir connu d'abord combien je suis aimable,</l>
+	<l id="374">Encore qu'à votre avis il soit inexprimable,</l>
+	<l id="375">Ce grand et prompt effet m'assure puissamment</l>
+	<l id="376">De la vivacité de votre jugement.</l>
+	<l id="377">Pour moi, que la nature a faite un peu grossière,</l>
+	<l id="378">Mon esprit, qui n'a pas cette vive lumière,</l>
+	<l id="379">Conduit trop pesamment toutes ses fonctions</l>
+	<l id="380">Pour m'avertir sitôt de vos perfections.</l>
+	<l id="381">Je vois bien que vos feux méritent récompense ;</l>
+	<l id="382">Mais de les seconder ce défaut me dispense.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="383" part="i">Railleuse !</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="383" part="f">Excusez-moi, je parle tout de bon.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="384">Le temps de cet orgueil me fera la raison ;</l>
+	<l id="385">Et nous verrons un jour, à force de services,</l>
+	<l id="386">Adoucir vos rigueurs et finir mes supplices.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="387">Peut-être l'avenir... Tout beau, coureur, tout beau !</l>
+	<l id="388">On n'est pas quitte ainsi pour un coup de chapeau :</l>
+	<l id="389">Vous aimez l'entretien de votre fantaisie ;</l>
+	<l id="390">Mais pour un cavalier c'est peu de courtoisie,</l>
+	<l id="391">Et cela messied fort à des hommes de cour,</l>
+	<l id="392">De n'accompagner pas leur salut d'un bonjour.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="393">Puisque auprès d'un sujet capable de nous plaire</l>
+	<l id="394">La présence d'un tiers n'est jamais nécessaire,</l>
+	<l id="395">De peur qu'il en reçût quelque importunité,</l>
+	<l id="396">J'ai mieux aimé manquer à la civilité.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="397">Voilà parer mon coup d'un galant artifice,</l>
+	<l id="398">Comme si je pouvais... Que me veux-tu, Florice ?</l>
+	<l id="399">Dis-lui que je m'en vais. Messieurs, pardonnez-moi :</l>
+	<l id="400">On me vient d'apporter une fâcheuse loi ;</l>
+	<l id="401">Incivile à mon tour, il faut que je vous quitte.</l>
+	<l id="402" part="i">Une mère m'appelle.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="402" part="f">Adieu, belle Hippolyte,</l>
+	<l id="403" part="i">Adieu, souvenez-vous...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="403" part="f">Mais vous, n'y songez plus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="404">Quoi, Dorimant, ce mot t'a rendu tout confus !</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="405">Ce mot à mes désirs laisse peu d'espérance.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="406">Tu ne la vois encore qu'avec indifférence ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="407" part="i">Comme toi Célidée.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="407" part="f">Elle eut donc chez Daphnis</l>
+	<l id="408">Hier dans son entretien des charmes infinis ?</l>
+	<l id="409">Je te l'avais bien dit que ton âme à sa vue</l>
+	<l id="410">Demeurerait ou prise ou puissamment émue ;</l>
+	<l id="411">Mais tu n'as pas sitôt oublié la beauté</l>
+	<l id="412">Qui fit naître au palais ta curiosité ?</l>
+	<l id="413">Du moins ces deux objets balancent ton courage ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="414">Sais-tu bien que c'est là justement mon visage,</l>
+	<l id="415">Celui que j'avais vu le matin au palais ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="416" part="i">À ce compte...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="416" part="f">J'en tiens, ou l'on n'en tint jamais.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="417">C'est consentir bientôt à perdre ta franchise.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="418">C'est rendre un prompt hommage aux yeux qui me l'ont prise.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="419">Puisque tu les connais, je ne plains plus ton mal.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="420">Leur coup, pour les connaître, en est-il moins fatal ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="421">Non, mais du moins ton coeur n'est plus à la torture</l>
+	<l id="422">De voir tes voeux forcés d'aller à l'aventure ;</l>
+	<l id="423">Et cette belle humeur de l'objet qui t'a pris...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="424">Sous un accueil riant cache un subtil mépris.</l>
+	<l id="425">Ah ! Que tu ne sais pas de quel air on me traite !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="426">Je t'en avais jugé l'âme fort satisfaite ;</l>
+	<l id="427">Et cette gaie humeur, qui brillait dans ses yeux,</l>
+	<l id="428">M'en promettait pour toi quelque chose de mieux.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="429">Cette belle, de vrai, quoique toute de glace,</l>
+	<l id="430">Mêle dans ses froideurs je ne sais quelle grâce,</l>
+	<l id="431">Par où tout de nouveau je me laisse gagner,</l>
+	<l id="432">Et consens, peu s'en faut, à m'en voir dédaigner.</l>
+	<l id="433">Loin de s'en affaiblir, mon amour s'en augmente ;</l>
+	<l id="434">Je demeure charmé de ce qui me tourmente.</l>
+	<l id="435">Je pourrais de toute autre être le possesseur,</l>
+	<l id="436">Que sa possession aurait moins de douceur.</l>
+	<l id="437">Je ne suis plus à moi quand je vois Hippolyte</l>
+	<l id="438">Rejeter ma louange et vanter son mérite,</l>
+	<l id="439">Négliger mon amour ensemble et l'approuver,</l>
+	<l id="440">Me remplir tout d'un temps d'espoir et m'en priver,</l>
+	<l id="441">Me refuser son coeur en acceptant mon âme,</l>
+	<l id="442">Faire état de mon choix en méprisant ma flamme.</l>
+	<l id="443">Hélas ! En voilà trop : le moindre de ces traits</l>
+	<l id="444">A pour me retenir de trop puissants attraits :</l>
+	<l id="445">Trop heureux d'avoir vu sa froideur enjouée</l>
+	<l id="446">Ne se point offenser d'une ardeur avouée !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="447">Son adieu toutefois te défend d'y songer,</l>
+	<l id="448">Et ce commandement t'en devrait dégager.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="449">Qu'un plus capricieux d'un tel adieu s'offense ;</l>
+	<l id="450">Il me donne un conseil plutôt qu'une défense,</l>
+	<l id="451">Et par ce mot d'avis, son coeur sans amitié</l>
+	<l id="452">Du temps que j'y perdrai montre quelque pitié.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="453">Soit défense ou conseil, de rien ne désespère ;</l>
+	<l id="454">Je te réponds déjà de l'esprit de sa mère.</l>
+	<l id="455">Pleirante son voisin lui parlera pour toi ;</l>
+	<l id="456">Il peut beaucoup sur elle, et fera tout pour moi.</l>
+	<l id="457">Tu sais qu'il m'a donné sa fille pour maîtresse.</l>
+	<l id="458">Tâche à vaincre Hippolyte avec un peu d'adresse,</l>
+	<l id="459">Et n'appréhende pas qu'il en faille beaucoup :</l>
+	<l id="460">Tu verras sa froideur se perdre tout d'un coup.</l>
+	<l id="461">Elle ne se contraint à cette indifférence</l>
+	<l id="462">Que pour rendre une entière et pleine déférence,</l>
+	<l id="463">Et cherche, en déguisant son propre sentiment,</l>
+	<l id="464">La gloire de n'aimer que par commandement.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="465">Tu me flattes, ami, d'une attente frivole.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="466" part="i">L'effet suivra de près.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="466" part="f">Mon coeur, sur ta parole,</l>
+	<l id="467">Ne se résout qu'à peine à vivre plus content.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="468">Il se peut assurer du bonheur qu'il prétend :</l>
+	<l id="469">J'y donnerai bon ordre. Adieu, le temps me presse,</l>
+	<l id="470">Et je viens de sortir d'auprès de ma maîtresse ;</l>
+	<l id="471">Quelques commissions dont elle m'a chargé</l>
+	<l id="472">M'obligent maintenant à prendre ce congé.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="473">Dieux ! Qu'il est malaisé qu'une âme bien atteinte</l>
+	<l id="474">Conçoive de l'espoir qu'avec un peu de crainte !</l>
+	<l id="475">Je dois toute croyance à la foi d'un ami,</l>
+	<l id="476">Et n'ose cependant m'y fier qu'à demi.</l>
+	<l id="477">Hippolyte, d'un mot, chasserait ce caprice.</l>
+	<l id="478" part="i">Est-elle encore en haut ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="478" part="m">Encore.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="478" part="f">Adieu, Florice.</l>
+	<l id="479" part="i">Nous la verrons demain.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="479" part="f">Il vient de s'en aller.</l>
+	<l id="480" part="i">Sortez.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="480" part="f">Mais fallait-il ainsi me rappeler,</l>
+	<l id="481">Me supposer ainsi des ordres d'une mère ?</l>
+	<l id="482">Sans mentir, contre toi j'en suis toute en colère :</l>
+	<l id="483">À peine ai-je attiré Lysandre en nos discours,</l>
+	<l id="484">Que tu viens par plaisir en arrêter le cours.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="485">Eh bien ! Prenez-vous-en à mon impatience</l>
+	<l id="486">De vous communiquer un trait de ma science :</l>
+	<l id="487">Cet avis important, tombé dans mon esprit,</l>
+	<l id="488">Méritait qu'aussitôt Hippolyte l'apprît ;</l>
+	<l id="489">Je vais sans perdre temps y disposer Aronte.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="490">J'ai la mine après tout d'y trouver mal mon conte.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="491">Je sais ce que je fais, et ne perds point mes pas ;</l>
+	<l id="492">Mais de votre côté ne vous épargnez pas ;</l>
+	<l id="493">Mettez tout votre esprit à bien mener la ruse.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="494">Il ne faut point par là te préparer d'excuse.</l>
+	<l id="495">Va, suivant le succès, je veux à l'avenir</l>
+	<l id="496">Du mal que tu m'as fait perdre le souvenir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="497" part="i">Célidée, es-tu là ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="497" part="f">Que me veut Hippolyte ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="498">Délasser mon esprit une heure en ta visite.</l>
+	<l id="499">Que j'ai depuis un jour un importun amant,</l>
+	<l id="500">Et que, pour mon malheur, je plais à Dorimant !</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="501">Ma soeur, que me dis-tu ? Dorimant t'importune !</l>
+	<l id="502">Quoi ! J'enviais déjà ton heureuse fortune,</l>
+	<l id="503">Et déjà dans l'esprit je sentais quelque ennui</l>
+	<l id="504">D'avoir connu Lysandre auparavant que lui.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="505">Ah ! Ne me raille point : Lysandre, qui t'engage,</l>
+	<l id="506">Est le plus accompli des hommes de son âge.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="507">Je te jure, à mes yeux l'autre l'est bien autant.</l>
+	<l id="508">Mon coeur a de la peine à demeurer constant ;</l>
+	<l id="509">Et pour te découvrir jusqu'au fond de mon âme,</l>
+	<l id="510">Ce n'est plus que ma foi qui conserve ma flamme :</l>
+	<l id="511">Lysandre me déplaît de me vouloir du bien.</l>
+	<l id="512">Plût aux dieux que son change autorisât le mien,</l>
+	<l id="513">Ou qu'il usât vers moi de tant de négligence,</l>
+	<l id="514">Que ma légèreté se pût nommer vengeance !</l>
+	<l id="515">Si j'avais un prétexte à me mécontenter,</l>
+	<l id="516">Tu me verrais bientôt résoudre à le quitter.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="517">Simple, présumes-tu qu'il devienne volage</l>
+	<l id="518">Tant qu'il verra l'amour régner sur ton visage ?</l>
+	<l id="519">Ta flamme trop visible entretient ses ferveurs,</l>
+	<l id="520">Et ses feux dureront autant que tes faveurs.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="521">Il semble, à t'écouter, que rien ne le retienne</l>
+	<l id="522">Que parce que sa flamme a l'aveu de la mienne.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="523">Que sais-je ? Il n'a jamais éprouvé tes rigueurs ;</l>
+	<l id="524">L'amour en même temps sut embraser vos coeurs ;</l>
+	<l id="525">Et même j'ose dire, après beaucoup de monde,</l>
+	<l id="526">Que sa flamme vers toi ne fut que la seconde.</l>
+	<l id="527">Il se vit accepter avant que de s'offrir ;</l>
+	<l id="528">Il ne vit rien à craindre, il n'eut rien à souffrir ;</l>
+	<l id="529">Il vit sa récompense acquise avant la peine,</l>
+	<l id="530">Et devant le combat sa victoire certaine.</l>
+	<l id="531">Un homme est bien cruel quand il ne donne pas</l>
+	<l id="532">Un coeur qu'on lui demande avec tant d'appas.</l>
+	<l id="533">Qu'à ce prix la constance est une chose aisée,</l>
+	<l id="534">Et qu'autrefois par là je me vis abusée !</l>
+	<l id="535">Alcidor, que mes yeux avaient si fort épris,</l>
+	<l id="536">Courut au changement dès le premier mépris.</l>
+	<l id="537">La force de l'amour paraît dans la souffrance.</l>
+	<l id="538">Je le tiens fort douteux, s'il a tant d'assurance.</l>
+	<l id="539">Qu'on en voit s'affaiblir pour un peu de longueur,</l>
+	<l id="540">Et qu'on en voit céder à la moindre rigueur !</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="541">Je connais mon Lysandre, et sa flamme est trop forte</l>
+	<l id="542">Pour tomber en soupçon qu'il m'aime de la sorte.</l>
+	<l id="543">Toutefois un dédain éprouvera ses feux :</l>
+	<l id="544">Ainsi, quoi qu'il en soit, j'aurai ce que je veux ;</l>
+	<l id="545">Il me rendra constante, ou me fera volage :</l>
+	<l id="546">S'il m'aime, il me retient ; s'il change, il me dégage.</l>
+	<l id="547">Suivant ce qu'il aura d'amour ou de froideur,</l>
+	<l id="548">Je suivrai ma nouvelle ou ma première ardeur.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="549">En vain tu t'y résous : ton âme un peu contrainte</l>
+	<l id="550">Au travers de tes yeux lui trahira ta feinte.</l>
+	<l id="551">L'un d'eux dédira l'autre, et toujours un souris</l>
+	<l id="552">Lui fera voir assez combien tu le chéris.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="553">Ce n'est qu'un faux soupçon qui te le persuade ;</l>
+	<l id="554">J'armerai de rigueurs jusqu'à la moindre oeillade,</l>
+	<l id="555">Et réglerai si bien toutes mes actions,</l>
+	<l id="556">Qu'il ne pourra juger de mes intentions.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="557">Pour le moins, aussitôt que par cette conduite</l>
+	<l id="558">Tu seras de son coeur suffisamment instruite,</l>
+	<l id="559">S'il demeure constant, l'amour et la pitié,</l>
+	<l id="560">Avant que dire adieu, renoueront l'amitié.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="561">Il va bientôt venir : va-t'en, et sois certaine</l>
+	<l id="562">De ne voir d'aujourd'hui Lysandre hors de peine.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="563" part="i">Et demain ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="563" part="f">Je t'irai conter ses mouvements,</l>
+	<l id="564">Et touchant l'avenir prendre tes sentiments.</l>
+	<l id="565">Ô dieux ! Si je pouvais changer sans infamie !</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="566">Adieu. N'épargne en rien ta plus fidèle amie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="567">Quel étrange combat ! Je meurs de le quitter,</l>
+	<l id="568">Et mon reste d'amour ne le peut maltraiter.</l>
+	<l id="569">Mon âme veut et n'ose, et bien que refroidie,</l>
+	<l id="570">N'aura trait de mépris si je ne l'étudie.</l>
+	<l id="571">Tout ce que mon Lysandre a de perfections</l>
+	<l id="572">Se vient offrir en foule à mes affections.</l>
+	<l id="573">Je vois mieux ce qu'il vaut lorsque je l'abandonne,</l>
+	<l id="574">Et déjà la grandeur de ma perte m'étonne.</l>
+	<l id="575">Pour régler sur ce point mon esprit balancé,</l>
+	<l id="576">J'attends ses mouvements sur mon dédain forcé ;</l>
+	<l id="577">Ma feinte éprouvera si son amour est vraie.</l>
+	<l id="578">Hélas ! Ses yeux me font une nouvelle plaie.</l>
+	<l id="579">Prépare-toi, mon coeur, et laisse à mes discours</l>
+	<l id="580">Assez de liberté pour trahir mes amours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="581">Quoi ? J'aurai donc de vous encore une visite ?</l>
+	<l id="582">Vraiment, pour aujourd'hui je m'en estimais quitte.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="583">Une par jour suffit, si tu veux endurer</l>
+	<l id="584">Qu'autant comme le jour je la fasse durer.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="585">Pour douce que nous soit l'ardeur qui nous consume,</l>
+	<l id="586">Tant d'importunité n'est point sans amertume.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="587">Au lieu de me donner ces appréhensions,</l>
+	<l id="588">Apprends ce que j'ai fait sur tes commissions.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="589">Je ne vous en chargeai qu'afin de me défaire</l>
+	<l id="590">D'un entretien chargeant et qui m'allait déplaire.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="591">Depuis quand donnez-vous ces qualités aux miens ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="592">Depuis que mon esprit n'est plus dans vos liens.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="593">Est-ce donc par gageure ou par galanterie ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="594">Ne vous flattez point tant que ce soit raillerie.</l>
+	<l id="595">Ce que j'ai dans l'esprit, je ne le puis celer,</l>
+	<l id="596">Et ne suis pas d'humeur à rien dissimuler.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="597">Quoi ? Que vous ai-je fait ? D'où provient ma disgrâce ?</l>
+	<l id="598">Quel sujet avez-vous d'être pour moi de glace ?</l>
+	<l id="599">Ai-je manqué de soins ? Ai-je manqué de feux ?</l>
+	<l id="600">Vous ai-je dérobé le moindre de mes voeux ?</l>
+	<l id="601">Ai-je trop peu cherché l'heur de votre présence ?</l>
+	<l id="602">Ai-je eu pour d'autres yeux la moindre complaisance ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="603">Tout cela n'est qu'autant de propos superflus.</l>
+	<l id="604">Je voulus vous aimer, et je ne le veux plus ;</l>
+	<l id="605">Mon feu fut sans raison, ma glace l'est de même ;</l>
+	<l id="606">Si l'un eut quelque excès, je rendrai l'autre extrême.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="607">Par cette extrémité vous avancez ma mort.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="608">Il m'importe fort peu quel sera votre sort.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="609">Quelle nouvelle amour ou plutôt quel caprice</l>
+	<l id="610">Vous porte à me traiter avec cette injustice,</l>
+	<l id="611">Vous de qui le serment m'a reçu pour époux ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="612">J'en perds le souvenir aussi bien que de vous.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="613">Évitez-en la honte et fuyez-en le blâme.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="614">Je les veux accepter pour peines de ma flamme.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="615">Un reproche éternel suit ce tour inconstant.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="616">Si vous me voulez plaire, il en faut faire autant.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="617">Est-ce là donc le prix de vous avoir servie ?</l>
+	<l id="618">Ah ! Cessez vos mépris, ou me privez de vie.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="619">Eh bien ! Soit, un adieu les va faire cesser ;</l>
+	<l id="620">Aussi bien ce discours ne fait que me lasser.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="621">Ah ! Redouble plutôt ce dédain qui me tue,</l>
+	<l id="622">Et laisse-moi le bien d'expirer à ta vue ;</l>
+	<l id="623">Que j'adore tes yeux, tout cruels qu'ils me sont ;</l>
+	<l id="624">Qu'ils reçoivent mes voeux pour le mal qu'ils me font.</l>
+	<l id="625">Invente à me gêner quelque rigueur nouvelle :</l>
+	<l id="626">Traite, si tu le veux, mon âme en criminelle,</l>
+	<l id="627">Dis que je suis ingrat, appelle-moi léger,</l>
+	<l id="628">Impute à mes amours la honte de changer,</l>
+	<l id="629">Dedans mon désespoir fais éclater ta joie :</l>
+	<l id="630">Et tout me sera doux, pourvu que je te voie.</l>
+	<l id="631">Tu verras tes mépris n'ébranler point ma foi,</l>
+	<l id="632">Et mes derniers soupirs ne voler qu'après toi.</l>
+	<l id="633">Ne crains point de ma part de reproche ou d'injure :</l>
+	<l id="634">Je ne t'appellerai ni lâche, ni parjure ;</l>
+	<l id="635">Mon feu supprimera ces titres odieux ;</l>
+	<l id="636">Mes douleurs céderont au pouvoir de tes yeux ;</l>
+	<l id="637">Et mon fidèle amour, malgré leur vive atteinte,</l>
+	<l id="638">Pour t'adorer encore étouffera ma plainte.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="639">Adieu : quelques encens que tu veuilles m'offrir,</l>
+	<l id="640">Je ne me saurais plus résoudre à les souffrir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="641">Célidée, ah tu fuis ! Tu fuis donc, et tu n'oses</l>
+	<l id="642">Faire tes yeux témoins d'un trépas que tu causes !</l>
+	<l id="643">Ton esprit, insensible à mes feux innocents,</l>
+	<l id="644">Craint de ne l'être pas aux douleurs que je sens :</l>
+	<l id="645">Tu crains que la pitié qui se glisse en ton âme</l>
+	<l id="646">N'y rejette un rayon de ta première flamme,</l>
+	<l id="647">Et qu'elle ne t'arrache un soudain repentir,</l>
+	<l id="648">Malgré tout cet orgueil qui n'y peut consentir.</l>
+	<l id="649">Tu vois qu'un désespoir dessus mon front exprime</l>
+	<l id="650">En mille traits de feu mon ardeur et ton crime ;</l>
+	<l id="651">Mon visage t'accuse, et tu vois dans mes yeux</l>
+	<l id="652">Un portrait que mon coeur conserve beaucoup mieux.</l>
+	<l id="653">Tous mes soins, tu le sais, furent pour Célidée ;</l>
+	<l id="654">La nuit ne m'a jamais retracé d'autre idée,</l>
+	<l id="655">Et tout ce que Paris a d'objets ravissants</l>
+	<l id="656">N'a jamais ébranlé le moindre de mes sens.</l>
+	<l id="657">Ton exemple à changer en vain me sollicite :</l>
+	<l id="658">Dans ta volage humeur j'adore ton mérite,</l>
+	<l id="659">Et mon amour, plus fort que mes ressentiments,</l>
+	<l id="660">Conserve sa vigueur au milieu des tourments.</l>
+	<l id="661">Reviens, mon cher souci, puisqu'après tes défenses</l>
+	<l id="662">Mes plus vives ardeurs sont pour toi des offenses.</l>
+	<l id="663">Vois comme je persiste à te désobéir,</l>
+	<l id="664">Et par là, si tu peux, prends droit de me haïr.</l>
+	<l id="665">Fol, je présume ainsi rappeler l'inhumaine,</l>
+	<l id="666">Qui ne veut pas avoir de raisons à sa haine.</l>
+	<l id="667">Puisqu'elle a sur mon coeur un pouvoir absolu,</l>
+	<l id="668">Il lui suffit de dire : " Ainsi je l'ai voulu. "</l>
+	<l id="669">Cruelle, tu le veux ! C'est donc ainsi qu'on traite</l>
+	<l id="670">Les sincères ardeurs d'une amour si parfaite ?</l>
+	<l id="671">Tu me veux donc trahir ? Tu le veux, et ta foi</l>
+	<l id="672">N'est qu'un gage frivole à qui vit sous ta loi ?</l>
+	<l id="673">Mais je veux l'endurer, sans bruit, sans résistance ;</l>
+	<l id="674">Tu verras ma langueur, et non mon inconstance ;</l>
+	<l id="675">Et de peur de t'ôter un captif par ma mort,</l>
+	<l id="676">J'attendrai ce bonheur de mon funeste sort.</l>
+	<l id="677">Jusque-là mes douleurs, publiant ta victoire,</l>
+	<l id="678">Sur mon front pâlissant élèveront ta gloire,</l>
+	<l id="679">Et sauront en tous lieux hautement témoigner</l>
+	<l id="680">Que sans me refroidir tu m'as pu dédaigner.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="681">Tu me donnes, Aronte, un étrange remède.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="682">Souverain toutefois au mal qui vous possède.</l>
+	<l id="683">Croyez-moi, j'en ai vu des succès merveilleux</l>
+	<l id="684">À remettre au devoir ces esprits orgueilleux :</l>
+	<l id="685">Quand on leur sait donner un peu de jalousie,</l>
+	<l id="686">Ils ont bientôt quitté ces traits de fantaisie ;</l>
+	<l id="687">Car enfin tout l'éclat de ces emportements</l>
+	<l id="688">Ne peut avoir pour but de perdre leurs amants.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="689">Que voudrait donc par là mon ingrate maîtresse ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="690">Elle vous joue un tour de la plus haute adresse.</l>
+	<l id="691">Avez-vous bien pris garde au temps de ses mépris ?</l>
+	<l id="692">Tant qu'elle vous a cru légèrement épris,</l>
+	<l id="693">Que votre chaîne encore n'était pas assez forte,</l>
+	<l id="694">Vous a-t-elle jamais gouverné de la sorte ?</l>
+	<l id="695">Vous ignoriez alors l'usage des soupirs ;</l>
+	<l id="696">Ce n'étaient que douceurs, ce n'étaient que plaisirs :</l>
+	<l id="697">Son esprit avisé voulait par cette ruse</l>
+	<l id="698">Établir un pouvoir dont maintenant elle use.</l>
+	<l id="699">Remarquez-en l'adresse : elle fait vanité</l>
+	<l id="700">De voir dans ses dédains votre fidélité.</l>
+	<l id="701">Votre humeur endurante à ces rigueurs l'invite.</l>
+	<l id="702">On voit par là vos feux, par vos feux son mérite ;</l>
+	<l id="703">Et cette fermeté de vos affections</l>
+	<l id="704">Montre un effet puissant de ses perfections.</l>
+	<l id="705">Osez-vous espérer qu'elle soit plus humaine,</l>
+	<l id="706">Puisque sa gloire augmente, augmentant votre peine ?</l>
+	<l id="707">Rabattez cet orgueil, faites-lui soupçonner</l>
+	<l id="708">Que vous vous en piquez jusqu'à l'abandonner.</l>
+	<l id="709">La crainte d'en voir naître une si juste suite</l>
+	<l id="710">À vivre comme il faut l'aura bientôt réduite ;</l>
+	<l id="711">Elle en fuira la honte, et ne souffrira pas</l>
+	<l id="712">Que ce change s'impute à son manque d'appas.</l>
+	<l id="713">Il est de son honneur d'empêcher qu'on présume</l>
+	<l id="714">Qu'on éteigne aisément les flammes qu'elle allume.</l>
+	<l id="715">Feignez d'aimer quelque autre, et vous verrez alors</l>
+	<l id="716">Combien à vous reprendre elle fera d'efforts.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="717">Mais peux-tu me juger capable d'une feinte ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="718">Pouvez-vous trouver rude un moment de contrainte ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="719">Je trouve ses mépris plus doux à supporter.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="720">Pour les faire finir, il faut les imiter.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="721">Faut-il être inconstant pour la rendre fidèle ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="722">Il faut souffrir toujours, ou déguiser comme elle.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="723">Que de raisons, Aronte, à combattre mon coeur,</l>
+	<l id="724">Qui ne peut adorer que son premier vainqueur !</l>
+	<l id="725">Du moins auparavant que l'effet en éclate,</l>
+	<l id="726">Fais un effort pour moi, va trouver mon ingrate :</l>
+	<l id="727">Mets-lui devant les yeux mes services passés,</l>
+	<l id="728">Mes feux si bien reçus, si mal récompensés,</l>
+	<l id="729">L'excès de mes tourments et de ses injustices ;</l>
+	<l id="730">Emploie à la gagner tes meilleurs artifices :</l>
+	<l id="731">Que n'obtiendras-tu point par ta dextérité,</l>
+	<l id="732">Puisque tu viens à bout de ma fidélité ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="733">Mais, mon possible fait, si cela ne succède ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="734">Je feindrai dès demain qu'Aminte me possède.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="735">Aminte ? Ah ! Commencez la feinte dès demain ;</l>
+	<l id="736">Mais n'allez point courir au faubourg Saint-Germain.</l>
+	<l id="737">Et quand penseriez-vous que cette âme cruelle</l>
+	<l id="738">Dans le fond du Marais en reçût la nouvelle ?</l>
+	<l id="739">Vous seriez tout un siècle à lui vouloir du bien,</l>
+	<l id="740">Sans que votre arrogante en apprît jamais rien.</l>
+	<l id="741">Puisque vous voulez feindre, il faut feindre à sa vue ;</l>
+	<l id="742">Qu'aussitôt votre feinte en puisse être aperçue,</l>
+	<l id="743">Qu'elle blesse les yeux de son esprit jaloux,</l>
+	<l id="744">Et porte jusqu'au coeur d'inévitables coups.</l>
+	<l id="745">Ce sera faire au vôtre un peu de violence ;</l>
+	<l id="746">Mais tout le fruit consiste à feindre en sa présence.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="747">Hippolyte en ce cas serait fort à propos ;</l>
+	<l id="748">Mais je crains qu'un ami n'en perdît le repos.</l>
+	<l id="749">Dorimant, dont ses yeux ont charmé le courage,</l>
+	<l id="750">Autant que Célidée en aurait de l'ombrage.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="751">Vous verrez si soudain rallumer son amour,</l>
+	<l id="752">Que la feinte n'est pas pour durer plus d'un jour ;</l>
+	<l id="753">Et vous aurez après un sujet de risée</l>
+	<l id="754">Des soupçons mal fondés de son âme abusée.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="755">Va trouver Célidée, et puis nous résoudrons</l>
+	<l id="756">En ces extrémités quel avis nous prendrons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="757">Sans que pour l'apaiser je me rompe la tête,</l>
+	<l id="758">Mon message est tout fait, et sa réponse prête.</l>
+	<l id="759">Bien loin que mon discours pût la persuader,</l>
+	<l id="760">Elle n'aura jamais voulu me regarder.</l>
+	<l id="761">Une prompte retraite au seul nom de Lysandre,</l>
+	<l id="762">C'est par où ses dédains se seront fait entendre.</l>
+	<l id="763">Mes amours du passé ne m'ont que trop appris</l>
+	<l id="764">Avec quelles couleurs il faut peindre un mépris.</l>
+	<l id="765">À peine faisait-on semblant de me connaître,</l>
+	<l id="766" part="i">De sorte...</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="766" part="f">Aronte, eh bien ! Qu'as-tu fait vers ton maître ?</l>
+	<l id="767" part="i">Le verrons-nous bientôt ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="767" part="f">N'en sois plus en souci ;</l>
+	<l id="768">Dans une heure au plus tard je te le rends ici.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="769" part="i">Prêt à lui témoigner...</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="769" part="f">Tout prêt. Adieu : je tremble</l>
+	<l id="770">Que de chez Célidée on ne nous voie ensemble.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="771">D'où vient que mon abord l'oblige à te quitter ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="772">Tant s'en faut qu'il vous fuie, il vient de me conter...</l>
+	<l id="773">Toutefois je ne sais si je vous le dois dire.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="774">Que tu te plais, Florice, à me mettre en martyre !</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="775">Il faut vous préparer à des ravissements...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="776">Ta longueur m'y prépare avec bien des tourments :</l>
+	<l id="777">Dépêche, ces discours font mourir Hippolyte.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="778">Mourez donc promptement, que je vous ressuscite.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="779">L'insupportable femme ! Enfin diras-tu rien ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="780">L'impatiente fille ! Enfin tout ira bien.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="781">Enfin tout ira bien ? Ne saurai-je autre chose ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="782">Il faut que votre esprit là-dessus se repose.</l>
+	<l id="783">Vous ne pouviez tantôt souffrir de longs propos,</l>
+	<l id="784">Et pour vous obliger, j'ai tout dit en trois mots ;</l>
+	<l id="785">Mais ce que maintenant vous n'en pouvez apprendre,</l>
+	<l id="786">Vous l'apprendrez bientôt plus au long de Lysandre.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="787">Tu ne flattes mon coeur que d'un espoir confus.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="788">Parlez à votre amie, et ne vous fâchez plus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="789">Mon abord importun rompt votre conférence :</l>
+	<l id="790" part="i">Tu m'en voudras du mal.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="790" part="f">Du mal ? Et l'apparence ?</l>
+	<l id="791">Je ne sais pas aimer de si mauvaise foi ;</l>
+	<l id="792">Et tout à l'heure encore je lui parlais de toi.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="793">Je me retire donc, afin que sans contrainte...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="794">Quitte cette grimace, et mets à part la feinte.</l>
+	<l id="795">Tu fais la réservée en ces occasions,</l>
+	<l id="796">Mais tu meurs de savoir ce que nous en disions.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="797">Tu meurs de le conter plus que moi de l'apprendre,</l>
+	<l id="798">Et tu prendrais pour crime un refus de l'entendre.</l>
+	<l id="799">Puis donc que tu le veux, ma curiosité...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="800">Vraiment, tu me confonds de ta civilité.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="801">Voilà de tes détours, et comme tu diffères</l>
+	<l id="802">À me dire en quel point vous teniez mes affaires.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="803">Nous parlions du dessein d'éprouver ton amant :</l>
+	<l id="804">Tu l'as vu réussir à ton contentement ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="805">Je viens te voir exprès pour t'en dire l'issue :</l>
+	<l id="806">Que je m'en suis trouvée heureusement déçue !</l>
+	<l id="807">Je présumais beaucoup de ses affections,</l>
+	<l id="808">Mais je n'attendais pas tant de submissions.</l>
+	<l id="809">Jamais le désespoir qui saisit son courage</l>
+	<l id="810">N'en put tirer un mot à mon désavantage ;</l>
+	<l id="811">Il tenait mes dédains encore trop précieux,</l>
+	<l id="812">Et ses reproches même étaient officieux.</l>
+	<l id="813">Aussi ce grand amour a rallumé ma flamme :</l>
+	<l id="814">Le change n'a plus rien qui chatouille mon âme ;</l>
+	<l id="815">Il n'a plus de douceurs pour mon esprit flottant,</l>
+	<l id="816">Aussi ferme à présent qu'il le croit inconstant.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="817">Quoi que vous ayez vu de sa persévérance,</l>
+	<l id="818">N'en prenez pas encore une entière assurance.</l>
+	<l id="819">L'espoir de vous fléchir a pu le premier jour</l>
+	<l id="820">Jeter sur son dépit ces beaux dehors d'amour ;</l>
+	<l id="821">Mais vous verrez bientôt que pour qui le méprise</l>
+	<l id="822">Toute légèreté lui semblera permise.</l>
+	<l id="823">J'ai vu des amoureux de toutes les façons.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="824">Cette bizarre humeur n'est jamais sans soupçons :</l>
+	<l id="825">L'avantage qu'elle a d'un peu d'expérience</l>
+	<l id="826">Tient éternellement son âme en défiance ;</l>
+	<l id="827">Mais ce qu'elle te dit ne vaut pas l'écouter.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="828">Et je ne suis pas fille à m'en épouvanter.</l>
+	<l id="829">Je veux que ma rigueur à tes yeux continue,</l>
+	<l id="830">Et lors sa fermeté te sera mieux connue ;</l>
+	<l id="831">Tu ne verras des traits que d'un amour si fort,</l>
+	<l id="832">Que Florice elle-même avouera qu'elle a tort.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="833">Ce sera trop longtemps lui paraître cruelle.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="834">Tu connaîtras par là combien il m'est fidèle.</l>
+	<l id="835">Le ciel à ce dessein nous l'envoie à propos.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="836">Et quand te résous-tu de le mettre en repos ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="837">Trouve bon, je te prie, après un peu de feinte,</l>
+	<l id="838">Que mes feux violents s'expliquent sans contrainte ;</l>
+	<l id="839">Et pour le rappeler des portes du trépas,</l>
+	<l id="840">Si j'en dis un peu trop, ne t'en offense pas.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="841">Merveille des beautés, seul objet qui m'engage...</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="842">N'oublierez-vous jamais cet importun langage ?</l>
+	<l id="843">Vous obstiner encore à me persécuter,</l>
+	<l id="844">C'est prendre du plaisir à vous voir maltraiter.</l>
+	<l id="845">Perdez mon souvenir avec votre espérance,</l>
+	<l id="846">Et ne m'accablez plus de cette déférence.</l>
+	<l id="847">Il faut, pour m'arrêter, des entretiens meilleurs.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="848">Quoi ? Vous prenez pour vous ce que j'adresse ailleurs ?</l>
+	<l id="849">Adore qui voudra votre rare mérite,</l>
+	<l id="850">Un change heureux me donne à la belle Hippolyte :</l>
+	<l id="851">Mon sort en cela seul a voulu me trahir,</l>
+	<l id="852">Qu'en ce change mon coeur semble vous obéir,</l>
+	<l id="853">Et que mon feu passé vous va rendre si vaine</l>
+	<l id="854">Que vous imputerez ma flamme à votre haine,</l>
+	<l id="855">À votre orgueil nouveau mes nouveaux sentiments,</l>
+	<l id="856">L'effet de ma raison à vos commandements.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="857">Tant s'en faut que je prenne une si triste gloire,</l>
+	<l id="858">Je chasse mes dédains même de ma mémoire,</l>
+	<l id="859">Et dans leur souvenir rien ne me semble doux,</l>
+	<l id="860">Puisqu'en le conservant je penserais à vous.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="861">Beauté de qui les yeux, nouveaux rois de mon âme,</l>
+	<l id="862">Me font être léger sans en craindre le blâme...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="863">Ne vous emportez point à ces propos perdus,</l>
+	<l id="864">Et cessez de m'offrir des voeux qui lui sont dûs ;</l>
+	<l id="865">Je pense mieux valoir que le refus d'une autre.</l>
+	<l id="866">Si vous voulez venger son mépris par le vôtre,</l>
+	<l id="867">Ne venez point du moins m'enrichir de son bien.</l>
+	<l id="868">Elle vous traite mal, mais elle n'aime rien.</l>
+	<l id="869">Vous, faites-en autant, sans chercher de retraite</l>
+	<l id="870">Aux importunités dont elle s'est défaite.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="871">Que son exemple encore réglât mes actions !</l>
+	<l id="872">Cela fut bon du temps de mes affections :</l>
+	<l id="873">À présent que mon coeur adore une autre reine,</l>
+	<l id="874">À présent qu'Hippolyte en est la souveraine...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="875">C'est elle seulement que vous voulez flatter.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="876">C'est elle seulement que je dois imiter.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="877">Savez-vous donc à quoi la raison vous oblige ?</l>
+	<l id="878">C'est à me négliger, comme je vous néglige.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="879">Je ne puis imiter ce mépris de mes feux,</l>
+	<l id="880">À moins qu'à votre tour vous m'offriez des voeux ;</l>
+	<l id="881">Donnez-m'en les moyens, vous en verrez l'issue.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="882">J'appréhenderais fort d'être trop bien reçue,</l>
+	<l id="883">Et qu'au lieu du plaisir de me voir imiter,</l>
+	<l id="884">Je n'eusse que l'honneur de me faire écouter,</l>
+	<l id="885">Pour n'avoir que la honte après de me dédire.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="886">Souffrez donc que mon coeur sans exemple soupire,</l>
+	<l id="887">Qu'il aime sans exemple, et que mes passions</l>
+	<l id="888">S'égalent seulement à vos perfections.</l>
+	<l id="889">Je vaincrai vos rigueurs par mon humble service,</l>
+	<l id="890" part="i">Et ma fidélité...</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="890" part="f">Viens avec moi, Florice :</l>
+	<l id="891">J'ai des nippes en haut que je veux te montrer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="892">Quoi ? Sans la retenir, vous la laissez rentrer ?</l>
+	<l id="893">Allez, Lysandre, allez : c'est assez de contraintes ;</l>
+	<l id="894">J'ai pitié du tourment que vous donnent ces feintes.</l>
+	<l id="895">Suivez ce bel objet dont les charmes puissants</l>
+	<l id="896">Sont et seront toujours absolus sur vos sens.</l>
+	<l id="897">Quoi qu'après ses dédains un peu d'orgueil publie,</l>
+	<l id="898">Son mérite est trop grand pour souffrir qu'on l'oublie :</l>
+	<l id="899">Elle a des qualités et de corps et d'esprit</l>
+	<l id="900">Dont pas un coeur donné jamais ne se reprit.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="901">Mon change fera voir l'avantage des vôtres,</l>
+	<l id="902">Qu'en la comparaison des unes et des autres</l>
+	<l id="903">Les siennes désormais n'ont qu'un éclat terni,</l>
+	<l id="904">Que son mérite est grand, et le vôtre infini.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="905">Que j'emporte sur elle aucune préférence !</l>
+	<l id="906">Vous tenez des discours qui sont hors d'apparence ;</l>
+	<l id="907">Elle me passe en tout, et dans ce changement</l>
+	<l id="908">Chacun vous blâmerait de peu de jugement.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="909">M'en blâmer en ce cas, c'est en manquer soi-même,</l>
+	<l id="910">Et choquer la raison, qui veut que je vous aime.</l>
+	<l id="911">Nous sommes hors du temps de cette vieille erreur</l>
+	<l id="912">Qui faisait de l'amour une aveugle fureur,</l>
+	<l id="913">Et l'ayant aveuglé, lui donnait pour conduite</l>
+	<l id="914">Le mouvement d'une âme et surprise et séduite.</l>
+	<l id="915">Ceux qui l'ont peint sans yeux ne le connaissaient pas ;</l>
+	<l id="916">C'est par les yeux qu'il entre et nous dit vos appas :</l>
+	<l id="917">Lors notre esprit en juge ; et suivant le mérite,</l>
+	<l id="918">Il fait croître une ardeur que cette vue excite.</l>
+	<l id="919">Si la mienne pour vous se relâche un moment,</l>
+	<l id="920">C'est lors que je croirai manquer de jugement ;</l>
+	<l id="921">Et la même raison qui vous rend admirable</l>
+	<l id="922">Doit rendre comme vous ma flamme incomparable.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="923">Épargnez avec moi ces propos affétés.</l>
+	<l id="924">Encore hier Célidée avait ces qualités ;</l>
+	<l id="925">Encore hier en mérite elle était sans pareille.</l>
+	<l id="926">Si je suis aujourd'hui cette unique merveille,</l>
+	<l id="927">Demain quelque autre objet, dont vous suivrez la loi,</l>
+	<l id="928">Gagnera votre coeur et ce titre sur moi.</l>
+	<l id="929">Un esprit inconstant a toujours cette adresse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="930">Monsieur, j'aime ma fille avec trop de tendresse</l>
+	<l id="931">Pour la vouloir contraindre en ses affections.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="932">Madame, vous saurez ses inclinations ;</l>
+	<l id="933">Elle voudra vous plaire, et je l'en vois sourire.</l>
+	<l id="934">Allons, mon cavalier, j'ai deux mots à vous dire.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="935">Vous en aurez réponse avant qu'il soit trois jours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="936">Devinerais-tu bien quels étaient nos discours ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="937" part="i">Il vous parlait d'amour peut-être ?</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="937" part="f">Oui : que t'en semble ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="938">D'âge presque pareils, vous seriez bien ensemble.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="939">Tu me donnes vraiment un gracieux détour ;</l>
+	<l id="940">C'était pour ton sujet qu'il me parlait d'amour.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="941">Pour moi ? Ces jours passés, un poète qui m'adore</l>
+	<l id="942">(Du moins à ce qu'il dit) m'égalait à l'aurore ;</l>
+	<l id="943">Je me raillais alors de sa comparaison :</l>
+	<l id="944">Mais si cela se fait, il avait bien raison.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="945">Avec tout ce babil, tu n'es qu'une étourdie.</l>
+	<l id="946">Le bonhomme est bien loin de cette maladie ;</l>
+	<l id="947">Il veut te marier, mais c'est à Dorimant :</l>
+	<l id="948">Vois si tu te résous d'accepter cet amant.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="949">Dessus tous mes désirs vous êtes absolue,</l>
+	<l id="950">Et si vous le voulez, m'y voilà résolue.</l>
+	<l id="951">Dorimant vaut beaucoup, je vous le dis sans fard ;</l>
+	<l id="952">Mais remarquez un peu le trait de ce vieillard :</l>
+	<l id="953">Lysandre si longtemps a brûlé pour sa fille,</l>
+	<l id="954">Qu'il en faisait déjà l'appui de sa famille ;</l>
+	<l id="955">À présent que ses feux ne sont plus que pour moi,</l>
+	<l id="956">Il voudrait bien qu'un autre eût engagé ma foi,</l>
+	<l id="957">Afin que sans espoir dans cette amour nouvelle,</l>
+	<l id="958">Un nouveau changement le ramenât vers elle.</l>
+	<l id="959">N'avez-vous point pris garde, en vous disant adieu,</l>
+	<l id="960">Qu'il a presque arraché Lysandre de ce lieu ?</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="961">Simple, ce qu'il en fait, ce n'est qu'à sa prière ;</l>
+	<l id="962">Et Lysandre tient même à faveur singulière...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="963">Je sais que Dorimant est un de ses amis ;</l>
+	<l id="964">Mais vous voyez d'ailleurs que le ciel a permis</l>
+	<l id="965">Que pour mieux vous montrer que tout n'est qu'artifice,</l>
+	<l id="966">Lysandre me faisait ses offres de service.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="967">Aucun des deux n'est homme à se jouer de nous :</l>
+	<l id="968">Quelque secret mystère est caché là-dessous.</l>
+	<l id="969">Allons, pour en tirer la vérité plus claire,</l>
+	<l id="970">Seules dedans ma chambre examiner l'affaire ;</l>
+	<l id="971">Ici quelque importun pourrait nous aborder.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="972">J'aurai bien de la peine à la persuader :</l>
+	<l id="973">Ah ! Florice, en quel point laisses-tu Célidée ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="974">De honte et de dépit tout à fait possédée.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="975" part="i">Que t'a-t-elle montré ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="975" part="f">Cent choses à la fois,</l>
+	<l id="976">Selon que le hasard les mettait sous ses doigts :</l>
+	<l id="977">Ce n'était qu'un prétexte à faire sa retraite.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="978">Elle t'a témoigné d'être fort satisfaite ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="979">Sans que je vous amuse en discours superflus,</l>
+	<l id="980">Son visage suffit pour juger du surplus.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="981">Ses pleurs ne se sauraient empêcher de descendre ;</l>
+	<l id="982">Et j'en aurais pitié si je n'aimais Lysandre.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="983">Infidèles témoins d'un feu mal allumé,</l>
+	<l id="984">Soyez-les de ma honte, et vous fondant en larmes,</l>
+	<l id="985">Punissez-vous, mes yeux, d'avoir trop présumé</l>
+	<l id="986">Du pouvoir de vos charmes.</l>
+	<l id="987">De quoi vous a servi d'avoir su me flatter,</l>
+	<l id="988">D'avoir pris le parti d'un ingrat qui me trompe,</l>
+	<l id="989">S'il ne fit le constant qu'afin de me quitter</l>
+	<l id="990">Avec plus de pompe ?</l>
+	<l id="991">Quand je m'en veux défaire, il est parfait amant ;</l>
+	<l id="992">Quand je veux le garder, il n'en fait plus de conte ;</l>
+	<l id="993">Et n'ayant pu le perdre avec contentement,</l>
+	<l id="994">Je le perds avec honte.</l>
+	<l id="995">Ce que j'eus lors de joie augmente mon regret ;</l>
+	<l id="996">Par là mon désespoir davantage se pique.</l>
+	<l id="997">Quand je le crus constant, mon plaisir fut secret,</l>
+	<l id="998">Et ma honte est publique.</l>
+	<l id="999">Le traître avait senti qu'alors me négliger,</l>
+	<l id="1000">C'était à Dorimant livrer toute mon âme ;</l>
+	<l id="1001">Et la constance plut à cet esprit léger</l>
+	<l id="1002">Pour amortir ma flamme.</l>
+	<l id="1003">Autant que j'eus de peine à l'éteindre en naissant,</l>
+	<l id="1004">Autant m'en faudra-t-il à la faire renaître :</l>
+	<l id="1005">De peur qu'a cet amour d'être encore impuissant,</l>
+	<l id="1006">Il n'ose plus paraître ;</l>
+	<l id="1007">Outre que de mon coeur pleinement exilé,</l>
+	<l id="1008">Et n'y conservant plus aucune intelligence,</l>
+	<l id="1009">Il est trop glorieux pour n'être rappelé</l>
+	<l id="1010">Qu'à servir ma vengeance.</l>
+	<l id="1011">Mais j'aperçois celui qui le porte en ses yeux.</l>
+	<l id="1012">Courage donc, mon coeur ; espérons un peu mieux.</l>
+	<l id="1013">Je sens bien que déjà devers lui tu t'envoles ;</l>
+	<l id="1014">Mais pour t'accompagner je n'ai point de paroles :</l>
+	<l id="1015">Ma honte et ma douleur, surmontant mes désirs,</l>
+	<l id="1016">N'en laissent le passage ouvert qu'à mes soupirs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1017">Dans ce profond penser, pâle, triste, abattue,</l>
+	<l id="1018">Ou quelque grand malheur de Lysandre vous tue,</l>
+	<l id="1019">Ou bientôt vos douleurs l'accableront d'ennuis.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1020">Il est cause en effet de l'état où je suis,</l>
+	<l id="1021">Non pas en la façon qu'un ami s'imagine,</l>
+	<l id="1022" part="i">Mais...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1022" part="f">Vous n'achevez point, faut-il que je devine ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1023">Permettez que je cède à la confusion</l>
+	<l id="1024">Qui m'étouffe la voix en cette occasion.</l>
+	<l id="1025">J'ai d'incroyables traits de Lysandre à vous dire ;</l>
+	<l id="1026">Mais ce reste du jour souffrez que je respire,</l>
+	<l id="1027">Et m'obligez demain que je vous puisse voir.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1028">De sorte qu'à présent on n'en peut rien savoir ?</l>
+	<l id="1029">Dieux ! Elle se dérobe, et me laisse en un doute...</l>
+	<l id="1030">Poursuivons toutefois notre première route ;</l>
+	<l id="1031">Peut-être ces beaux yeux, dont l'éclat me surprit,</l>
+	<l id="1032">De ce fâcheux soupçon purgeront mon esprit.</l>
+	<l id="1033" part="i">Frappe.</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1033" part="m">Que vous plaît-il ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1033" part="f">Peut-on voir Hippolyte ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1034">Elle vient de sortir pour faire une visite.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1035">Ainsi tout aujourd'hui mes pas ont été vains.</l>
+	<l id="1036">Florice, à ce défaut, fais-lui mes baisemains.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1037">Ce sont des compliments qu'il fait mauvais lui faire.</l>
+	<l id="1038">Depuis que ce Lysandre a tâché de lui plaire,</l>
+	<l id="1039">Elle ne veut plus être au logis que pour lui,</l>
+	<l id="1040">Et tous autres devoirs lui donnent de l'ennui.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1041">À cet excès d'amour qu'il me faisait paraître,</l>
+	<l id="1042">Je me croyais déjà maîtresse de ton maître ;</l>
+	<l id="1043">Tu m'as fais grand dépit de me désabuser.</l>
+	<l id="1044">Qu'il a l'esprit adroit quand il veut déguiser !</l>
+	<l id="1045">Et que pour mettre en jour ces compliments frivoles,</l>
+	<l id="1046">Il sait bien ajuster ses yeux à ses paroles !</l>
+	<l id="1047">Mais je me promets tant de ta dextérité,</l>
+	<l id="1048">Qu'il tournera bientôt la feinte en vérité.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1049">Je n'ose l'espérer : sa passion trop forte</l>
+	<l id="1050">Déjà vers son objet malgré moi le remporte ;</l>
+	<l id="1051">Et comme s'il avait reconnu son erreur,</l>
+	<l id="1052">Vos yeux lui sont à charge et sa feinte en horreur :</l>
+	<l id="1053">Même il m'a commandé d'aller vers sa cruelle</l>
+	<l id="1054">Lui jurer que son coeur n'a brûlé que pour elle,</l>
+	<l id="1055">Attaquer son orgueil par des submissions...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1056">J'entends assez le but de tes commissions.</l>
+	<l id="1057">Tu vas tâcher pour lui d'amollir son courage ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1058">J'emploie auprès de vous le temps de ce message,</l>
+	<l id="1059">Et la ferai parler tantôt à mon retour</l>
+	<l id="1060">D'une façon mal propre à donner de l'amour ;</l>
+	<l id="1061">Mais après mon rapport, si son ardeur extrême</l>
+	<l id="1062">Le résout à porter son message lui-même,</l>
+	<l id="1063">Je ne réponds de rien. L'amour qu'ils ont tous deux</l>
+	<l id="1064">Vaincra notre artifice et parlera pour eux.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1065">Sa maîtresse éblouie ignore encore ma flamme,</l>
+	<l id="1066">Et laisse à mes conseils tout pouvoir sur son âme.</l>
+	<l id="1067">Ainsi tout est à nous, s'il ne faut qu'empêcher</l>
+	<l id="1068">Qu'un si fidèle amant n'en puisse rapprocher.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1069">Qui pourrait toutefois en détourner Lysandre,</l>
+	<l id="1070" part="i">Ce serait le plus sûr.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1070" part="f">N'oses-tu l'entreprendre ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1071">Donnez-moi les moyens de le rendre jaloux,</l>
+	<l id="1072">Et vous verrez après frapper d'étranges coups.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1073">L'autre jour Dorimant toucha fort ma rivale,</l>
+	<l id="1074">Jusque-là qu'entre eux deux son âme était égale ;</l>
+	<l id="1075">Mais Lysandre depuis, endurant sa rigueur,</l>
+	<l id="1076">Lui montra tant d'amour qu'il regagna son coeur.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1077">Donc à voir Célidée et Dorimant ensemble,</l>
+	<l id="1078">Quelque dieu qui vous aime aujourd'hui les assemble.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1079">Fais-les voir à ton maître, et ne perds point ce temps,</l>
+	<l id="1080">Puisque de là dépend le bonheur que j'attends.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1081">Aronte, un mot. Tu fuis ? Crains-tu que je te voie ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1082">Non ; mais pressé d'aller où mon maître m'envoie,</l>
+	<l id="1083">J'avais doublé le pas sans vous apercevoir.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1084" part="i">D'où viens-tu ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1084" part="f">D'un logis vers la Croix-du-Tiroir.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1085">C'est donc en ce Marais que finit ton voyage ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1086">Non, je cours au palais faire encore un message.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1087">Et c'en est le chemin de passer par ici ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1088">Souffrez que j'aille ôter mon maître de souci :</l>
+	<l id="1089">Il meurt d'impatience à force de m'attendre.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1090">Et touchant mes amours ne peux-tu rien m'apprendre ?</l>
+	<l id="1091">As-tu vu depuis peu l'objet que je chéris ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1092">Oui, tantôt en passant j'ai rencontré Cloris.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1093">Tu cherches des détours : je parle d'Hippolyte.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1094">Et c'est là seulement le discours qu'il évite.</l>
+	<l id="1095">Tu t'enferres, Aronte, et pris au dépourvu,</l>
+	<l id="1096">En vain tu veux cacher ce que nous avons vu.</l>
+	<l id="1097">Va, ne sois point honteux des crimes de ton maître :</l>
+	<l id="1098">Pourquoi désavouer ce qu'il fait trop paraître ?</l>
+	<l id="1099">Il la sert à mes yeux, cet infidèle amant,</l>
+	<l id="1100">Et te vient d'envoyer lui faire un compliment.</l>
+</sp>
+<stage>Aronte rentre.</stage>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1101">Après cette retraite et ce morne silence,</l>
+	<l id="1102">Pouvez-vous bien encore demeurer en balance ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1103">Je n'en ai que trop vu, mes yeux m'en ont trop dit :</l>
+	<l id="1104">Aronte en me parlant était tout interdit,</l>
+	<l id="1105">Et sa confusion portait sur son visage</l>
+	<l id="1106">Assez et trop de jour pour lire son message.</l>
+	<l id="1107">Traître, traître Lysandre, est-ce là donc le fruit</l>
+	<l id="1108">Qu'en faveur de mes feux ton amitié produit ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1109">Connaissez tout à fait l'humeur de l'infidèle :</l>
+	<l id="1110">Votre amour seulement la lui fait trouver belle.</l>
+	<l id="1111">Cet objet, tout aimable et tout parfait qu'il est,</l>
+	<l id="1112">N'a des charmes pour lui que depuis qu'il vous plaît ;</l>
+	<l id="1113">Et votre affection, de la sienne suivie,</l>
+	<l id="1114">Montre que c'est par là qu'il en a pris envie,</l>
+	<l id="1115">Qu'il veut moins l'acquérir que vous le dérober.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1116">Voici, dans ce larcin, qui le fait succomber.</l>
+	<l id="1117">En ce dessein commun de servir Hippolyte,</l>
+	<l id="1118">Il faut voir seul à seul qui des deux la mérite :</l>
+	<l id="1119">Son sang me répondra de son manque de foi,</l>
+	<l id="1120">Et me fera raison et pour vous et pour moi.</l>
+	<l id="1121">Notre vieille union ne fait qu'aigrir mon âme,</l>
+	<l id="1122">Et mon amitié meurt voyant naître sa flamme.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1123">Vouloir quelque mesure entre un perfide et vous,</l>
+	<l id="1124">Est-ce faire justice à ce juste courroux ?</l>
+	<l id="1125">Pouvez-vous présumer, après sa tromperie,</l>
+	<l id="1126">Qu'il ait dans les combats moins de supercherie ?</l>
+	<l id="1127">Certes pour le punir c'est trop vous négliger,</l>
+	<l id="1128">Et chercher à vous perdre au lieu de vous venger.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1129">Pourriez-vous approuver que je prisse avantage</l>
+	<l id="1130">Pour immoler ce traître à mon peu de courage ?</l>
+	<l id="1131">J'achèterais trop cher la mort du suborneur,</l>
+	<l id="1132">Si pour avoir sa vie il m'en coûtait l'honneur,</l>
+	<l id="1133">Et montrerais une âme et trop basse et trop noire</l>
+	<l id="1134">De ménager mon sang aux dépens de ma gloire.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1135">Sans les voir l'un ni l'autre en péril exposés,</l>
+	<l id="1136">Il est pour vous venger des moyens plus aisés.</l>
+	<l id="1137">Pour peu que vous fussiez de mon intelligence,</l>
+	<l id="1138">Vous auriez bientôt pris une juste vengeance ;</l>
+	<l id="1139">Et vous pourriez sans bruit ôter à l'inconstant...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1140" part="i">Quoi ? Ce qu'il m'a volé ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1140" part="f">Non, mais du moins autant.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1141">La faiblesse du sexe en ce point vous conseille :</l>
+	<l id="1142">Il se croit trop vengé, quand il rend la pareille ;</l>
+	<l id="1143">Mais suivre le chemin que vous voulez tenir,</l>
+	<l id="1144">C'est imiter son crime au lieu de le punir ;</l>
+	<l id="1145">Au lieu de lui ravir une belle maîtresse,</l>
+	<l id="1146">C'est prendre à son refus une beauté qu'il laisse.</l>
+	<l id="1147">C'est lui faire plaisir, au lieu de l'affliger ;</l>
+	<l id="1148">C'est souffrir un affront, et non pas se venger.</l>
+	<l id="1149">J'en perds ici le temps. Adieu : je me retire ;</l>
+	<l id="1150">Mais avant qu'il soit peu, si vous entendez dire</l>
+	<l id="1151">Qu'un coup fatal et juste ait puni l'imposteur,</l>
+	<l id="1152">Vous pourrez aisément en deviner l'auteur.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1153">De grâce, encore un mot. Hélas ! Il m'abandonne</l>
+	<l id="1154">Aux cuisants déplaisirs que ma douleur me donne.</l>
+	<l id="1155">Rentre, pauvre abusée, et dedans tes malheurs,</l>
+	<l id="1156">Si tu ne les retiens, cache du moins tes pleurs !</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1157">Eh bien ! Qu'en dites-vous ? Et que vous semble d'elle ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1158">Hélas ! Pour mon malheur, tu n'es que trop fidèle.</l>
+	<l id="1159">N'exerce plus tes soins à me faire endurer ;</l>
+	<l id="1160">Ma plus douce fortune est de tout ignorer :</l>
+	<l id="1161">Je serais trop heureux sans le rapport d'Aronte.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1162">Encore pour Dorimant, il en a quelque honte :</l>
+	<l id="1163" part="i">Vous voyant, il a fui.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1163" part="f">Mais mon ingrate alors</l>
+	<l id="1164">Pour empêcher sa fuite a fait tous ses efforts,</l>
+	<l id="1165">Aronte, et tu prenais ses dédains pour des feintes !</l>
+	<l id="1166">Tu croyais que son coeur n'eût point d'autres atteintes,</l>
+	<l id="1167">Que son esprit entier se conservait à moi,</l>
+	<l id="1168">Et parmi ses rigueurs n'oubliait point sa foi !</l>
+</sp>8
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1169">À vous dire le vrai, j'en suis trompé moi-même.</l>
+	<l id="1170">Après deux ans passés dans un amour extrême,</l>
+	<l id="1171">Que sans occasion elle vint à changer,</l>
+	<l id="1172">Je me fusse tenu coupable d'y songer ;</l>
+	<l id="1173">Mais puisque sans raison la volage vous change,</l>
+	<l id="1174">Faites qu'avec raison un changement vous venge.</l>
+	<l id="1175">Pour punir comme il faut son infidélité,</l>
+	<l id="1176">Vous n'avez qu'à tourner la feinte en vérité.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1177">Misérable ! Est-ce ainsi qu'il faut qu'on me soulage ?</l>
+	<l id="1178">Ai-je trop peu souffert sous cette humeur volage ?</l>
+	<l id="1179">Et veux-tu désormais que par un second choix</l>
+	<l id="1180">Je m'engage à souffrir encore une autre fois ?</l>
+	<l id="1181">Qui t'a dit qu'Hippolyte à cette amour nouvelle</l>
+	<l id="1182">Se rendrait plus sensible ou serait plus fidèle ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1183">Vous en devez, monsieur, présumer beaucoup mieux.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1184">Conseiller importun, ôte-toi de mes yeux.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1185" part="i">Son âme...</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1185" part="f">Ôte-toi, dis-je, et dérobe ta tête</l>
+	<l id="1186">Aux violents effets que ma colère apprête :</l>
+	<l id="1187">Ma bouillante fureur ne cherche qu'un objet ;</l>
+	<l id="1188">Va, tu l'attirerais sur un sang trop abject.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1189">Il faut à mon courroux de plus nobles victimes :</l>
+	<l id="1190">Il faut qu'un même coup me venge de deux crimes ;</l>
+	<l id="1191">Qu'après les trahisons de ce couple indiscret,</l>
+	<l id="1192">L'un meure de ma main, et l'autre de regret.</l>
+	<l id="1193">Oui, la mort de l'amant punira la maîtresse ;</l>
+	<l id="1194">Et mes plaisirs alors naîtront de sa tristesse.</l>
+	<l id="1195">Mon coeur, à qui mes yeux apprendront ses tourments,</l>
+	<l id="1196">Permettra le retour à mes contentements ;</l>
+	<l id="1197">Ce visage si beau, si bien pourvu de charmes,</l>
+	<l id="1198">N'en aura plus pour moi, s'il n'est couvert de larmes.</l>
+	<l id="1199">Ses douleurs seulement ont droit de me guérir ;</l>
+	<l id="1200">Pour me résoudre à vivre il faut la voir mourir.</l>
+	<l id="1201">Frénétiques transports, avec quelle insolence</l>
+	<l id="1202">Portez-vous mon esprit à tant de violence ?</l>
+	<l id="1203">Allez, vous avez pris trop d'empire sur moi ;</l>
+	<l id="1204">Dois-je être sans raison, parce qu'ils sont sans foi ?</l>
+	<l id="1205">Dorimant, Célidée, ami, chère maîtresse,</l>
+	<l id="1206">Suivrais-je contre vous la fureur qui me presse ?</l>
+	<l id="1207">Quoi ? Vous ayant aimés, pourrais-je vous haïr ?</l>
+	<l id="1208">Mais vous pourrais-je aimer, quand vous m'osez trahir ?</l>
+	<l id="1209">Qu'un rigoureux combat déchire mon courage !</l>
+	<l id="1210">Ma jalousie augmente et redouble ma rage ;</l>
+	<l id="1211">Mais quelques fiers projets qu'elle jette en mon coeur,</l>
+	<l id="1212">L'amour... Ah ! Ce mot seul me range à la douceur.</l>
+	<l id="1213">Celle que nous aimons jamais ne nous offense ;</l>
+	<l id="1214">Un mouvement secret prend toujours sa défense :</l>
+	<l id="1215">L'amant souffre tout d'elle, et dans son changement,</l>
+	<l id="1216">Quelque irrité qu'il soit, il est toujours amant.</l>
+	<l id="1217">Toutefois, si l'amour contre elle m'intimide,</l>
+	<l id="1218">Revenez, mes fureurs, pour punir le perfide ;</l>
+	<l id="1219">Arrachez-lui mon bien : une telle beauté</l>
+	<l id="1220">N'est pas le juste prix d'une déloyauté.</l>
+	<l id="1221">Souffrirais-je, à mes yeux, que par ses artifices</l>
+	<l id="1222">Il recueillît les fruits dûs à mes longs services ?</l>
+	<l id="1223">S'il vous faut épargner le sujet de mes feux,</l>
+	<l id="1224">Que ce traître du moins réponde pour tous deux.</l>
+	<l id="1225">Vous me devez son sang pour expier son crime :</l>
+	<l id="1226">Contre sa lâcheté tout vous est légitime ;</l>
+	<l id="1227">Et quelques châtiments... Mais, dieux ! Que vois-je ici ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI .</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1228">Vous avez dans l'esprit quelque pesant souci ;</l>
+	<l id="1229">Ce visage enflammé, ces yeux pleins de colère,</l>
+	<l id="1230">En font voir au dehors une marque trop claire.</l>
+	<l id="1231">Je prends assez de part en tous vos intérêts</l>
+	<l id="1232">Pour vouloir en aveugle y mêler mes regrets ;</l>
+	<l id="1233">Mais si vous me disiez ce qui cause vos peines...</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1234">Ah ! Ne m'imposez point de si cruelles gênes ;</l>
+	<l id="1235">C'est irriter mes maux que de me secourir ;</l>
+	<l id="1236">La mort, la seule mort a droit de me guérir.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1237">Si vous vous obstinez à m'en taire la cause,</l>
+	<l id="1238">Tout mon pouvoir sur vous n'est que fort peu de chose.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1239">Vous l'avez souverain, hormis en ce seul point.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1240">Laissez-le-moi partout, ou ne m'en laissez point.</l>
+	<l id="1241">C'est n'aimer qu'à demi qu'aimer avec réserve,</l>
+	<l id="1242">Et ce n'est pas ainsi que je veux qu'on me serve :</l>
+	<l id="1243">Il faut m'apprendre tout, et lorsque je vous vois,</l>
+	<l id="1244">Être de belle humeur, ou n'être plus à moi.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1245">Ne perdez point d'efforts à vaincre mon silence ;</l>
+	<l id="1246">Vous useriez sur moi de trop de violence.</l>
+	<l id="1247">Adieu : je vous ennuie, et les grands déplaisirs</l>
+	<l id="1248">Veulent en liberté s'exhaler en soupirs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII .</head>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1249">C'est donc là tout l'état que tu fais d'Hippolyte ?</l>
+	<l id="1250">Après des voeux offerts, c'est ainsi qu'on me quitte !</l>
+	<l id="1251">Qu'Aronte jugeait bien que ses feintes amours,</l>
+	<l id="1252">Avant qu'il fût longtemps, interrompraient leur cours !</l>
+	<l id="1253">Dans ce peu de succès des ruses de Florice,</l>
+	<l id="1254">J'ai manqué de bonheur, mais non pas de malice ;</l>
+	<l id="1255">Et si j'en puis jamais trouver l'occasion,</l>
+	<l id="1256">J'y mettrai bien encore de la division.</l>
+	<l id="1257">Si notre pauvre amant est plein de jalousie,</l>
+	<l id="1258">Ma rivale, qui sort, n'en est pas moins saisie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCENE VIII.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1259">N'ai-je pas tantôt vu mon perfide avec vous ?</l>
+	<l id="1260">Il a bientôt quitté des entretiens si doux.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1261">Qu'y ferait-il, ma soeur ? Ta fidèle Hippolyte</l>
+	<l id="1262">Traite cet inconstant ainsi qu'il le mérite</l>
+	<l id="1263">Il a beau m'en conter de toutes les façons,</l>
+	<l id="1264">Je le renvoie ailleurs pratiquer ses leçons.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1265">Le parjure à présent est fort sur ta louange ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1266">Il ne tient pas à lui que je ne sois un ange ;</l>
+	<l id="1267">Et quand il vient ensuite à parler de ses feux,</l>
+	<l id="1268">Aucune passion jamais n'approcha d'eux.</l>
+	<l id="1269">Par tous ces vains discours il croit fort qu'il m'oblige,</l>
+	<l id="1270">Mais non la moitié tant qu'alors qu'il te néglige :</l>
+	<l id="1271">C'est par là qu'il me pense acquérir puissamment ;</l>
+	<l id="1272">Et moi, qui t'ai toujours chérie uniquement,</l>
+	<l id="1273">Je te laisse à juger alors si je l'endure.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1274">C'est trop prendre, ma soeur, de part en mon injure :</l>
+	<l id="1275">Laisse-le mépriser celle dont les mépris</l>
+	<l id="1276">Sont cause maintenant que d'autres yeux l'ont pris.</l>
+	<l id="1277">Si Lysandre te plaît, possède le volage,</l>
+	<l id="1278">Mais ne me traite point avec désavantage ;</l>
+	<l id="1279">Et si tu te résous d'accepter mon amant,</l>
+	<l id="1280">Relâche-moi du moins le coeur de Dorimant.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1281">Pourvu que leur vouloir se range sous le nôtre,</l>
+	<l id="1282">Je te donne le choix et de l'un et de l'autre ;</l>
+	<l id="1283">Ou si l'un ne suffit à ton jeune désir,</l>
+	<l id="1284">Défais-moi de tous deux, tu me feras plaisir.</l>
+	<l id="1285">J'estimai fort Lysandre avant que le connaître ;</l>
+	<l id="1286">Mais depuis cet amour que mes yeux ont fait naître,</l>
+	<l id="1287">Je te répute heureuse après l'avoir perdu.</l>
+	<l id="1288">Que son humeur est vaine, et qu'il fait l'entendu !</l>
+	<l id="1289">Que son discours est fade avec ses flatteries !</l>
+	<l id="1290">Qu'on est importuné de ses afféteries !</l>
+	<l id="1291">Vraiment, si tout le monde était fait comme lui,</l>
+	<l id="1292">Je crois qu'avant deux jours je sècherais d'ennui.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1293">Qu'en cela du destin l'ordonnance fatale</l>
+	<l id="1294">A pris pour nos malheurs une route inégale !</l>
+	<l id="1295">L'un et l'autre me fuit, et je brûle pour eux ;</l>
+	<l id="1296">L'un et l'autre t'adore, et tu les fuis tous deux.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1297">Si nous changions de sort, que nous serions contentes !</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1298">Outre, hélas ! Que le ciel s'oppose à nos attentes,</l>
+	<l id="1299">Lysandre n'a plus rien à rengager ma foi.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1300" part="i">Mais l'autre, tu voudrais...</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1300" part="f">Ne rompez pas pour moi ;</l>
+	<l id="1301">Craignez-vous qu'un ami sache de vos nouvelles ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1302">Nous causions de mouchoirs, de rabats, de dentelles,</l>
+	<l id="1303" part="i">De ménages de fille.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1303" part="f">Et parmi ces discours,</l>
+	<l id="1304">Vous confériez ensemble un peu de vos amours :</l>
+	<l id="1305">Eh bien, ce serviteur, l'aura-t-on agréable ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1306">Vous m'attaquez toujours par quelque trait semblable.</l>
+	<l id="1307">Des hommes comme vous ne sont que des conteurs.</l>
+	<l id="1308">Vraiment c'est bien à moi d'avoir des serviteurs !</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1309">Parlons, parlons français. Enfin, pour cette affaire,</l>
+	<l id="1310">Nous en remettrons-nous à l'avis d'une mère ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1311">J'obéirai toujours à son commandement ;</l>
+	<l id="1312">Mais de grâce, monsieur, parlez plus clairement :</l>
+	<l id="1313">Je ne puis deviner ce que vous voulez dire.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1314">Un certain cavalier pour vos beaux yeux soupire...</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1315" part="i">Vous en voulez par là...</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1315" part="f">Ce n'est point fiction</l>
+	<l id="1316">Que ce que je vous dis de son affection.</l>
+	<l id="1317">Votre mère sut hier à quel point il vous aime,</l>
+	<l id="1318">Et veut que ce soit vous qui vous donniez vous-même.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1319">Et c'est ce que ma mère, afin de m'expliquer,</l>
+	<l id="1320">Ne m'a point fait l'honneur de me communiquer ;</l>
+	<l id="1321">Mais pour l'amour de vous, je vais le savoir d'elle.</l>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1322">Ta compagne est du moins aussi fine que belle.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1323">Elle a bien su, de vrai, se défaire de vous.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1324">Et fort habilement se parer de mes coups.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1325">Peut-être innocemment, faute d'y rien comprendre.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1326">Mais faute, bien plutôt, d'y vouloir rien entendre.</l>
+	<l id="1327">Je suis des plus trompés si Dorimant lui plaît.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1328">Y prenez-vous, monsieur, pour lui quelque intérêt ?</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1329">Lysandre m'a prié d'en porter la parole.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1330" part="i">Lysandre !</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1330" part="m">Oui, ton Lysandre.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1330" part="f">Et lui-même cajole...</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1331" part="i">Quoi ? Que cajole-t-il ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1331" part="f">Hippolyte, à mes yeux.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1332">Folle, il n'aima jamais que toi dessous les cieux ;</l>
+	<l id="1333">Et nous sommes tous prêts de choisir la journée</l>
+	<l id="1334">Qui bientôt de vous deux termine l'hyménée.</l>
+	<l id="1335">Il se plaint toutefois un peu de ta froideur ;</l>
+	<l id="1336">Mais pour l'amour de moi, montre-lui plus d'ardeur.</l>
+	<l id="1337">Parle : ma volonté sera-t-elle obéie ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1338">Hélas ! Qu'on vous abuse après m'avoir trahie !</l>
+	<l id="1339">Il vous fait, cet ingrat, parler pour Dorimant,</l>
+	<l id="1340">Tandis qu'au même objet il s'offre pour amant,</l>
+	<l id="1341">Et traverse par là tout ce qu'à sa prière</l>
+	<l id="1342">Votre vaine entremise avance vers la mère.</l>
+	<l id="1343">Cela qu'est-ce, monsieur, que se jouer de vous ?</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1344">Qu'il est peu de raison dans ces esprits jaloux !</l>
+	<l id="1345">Et quoi ? Pour un ami s'il rend une visite,</l>
+	<l id="1346">Faut-il s'imaginer qu'il cajole Hippolyte ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1347" part="i">Je sais ce que j'ai vu.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1347" part="f">Je sais ce qu'il m'a dit,</l>
+	<l id="1348">Et ne veux plus du tout souffrir de contredit.</l>
+	<l id="1349">Mon choix de votre hymen en sa faveur dispose.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1350">Commandez-moi plutôt, monsieur, toute autre chose.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1351">Quelle bizarre humeur ! Quelle inégalité</l>
+	<l id="1352">De rejeter un bien qu'on a tant souhaité !</l>
+	<l id="1353">La belle, voyez-vous ? Qu'on perde ces caprices :</l>
+	<l id="1354">Il faut pour m'éblouir de meilleurs artifices.</l>
+	<l id="1355">Quelque nouveau venu vous donne dans les yeux,</l>
+	<l id="1356">Quelque jeune étourdi qui vous flatte un peu mieux ;</l>
+	<l id="1357">Et parce qu'il vous fait quelque feinte caresse,</l>
+	<l id="1358">Il faut que nous manquions, vous et moi, de promesse ?</l>
+	<l id="1359">Quittez, pour votre bien, ces fantasques refus.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1360" part="i">Monsieur...</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1360" part="f">Quittez-les, dis-je, et ne contestez plus.</l>
+</sp>
+</div2>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1361">Fâcheux commandement d'un incrédule père !</l>
+	<l id="1362">Qu'il me fut doux jadis, et qu'il me désespère !</l>
+	<l id="1363">J'avais, auparavant qu'on m'eût manqué de foi,</l>
+	<l id="1364">Le devoir et l'amour tout d'un parti chez moi,</l>
+	<l id="1365">Et ma flamme, d'accord avec sa puissance,</l>
+	<l id="1366">Unissait mes désirs à mon obéissance ;</l>
+	<l id="1367">Mais, hélas ! Que depuis cette infidélité</l>
+	<l id="1368">Je trouve d'injustice en son autorité !</l>
+	<l id="1369">Mon esprit s'en révolte, et ma flamme bannie</l>
+	<l id="1370">Fait qu'un pouvoir si saint m'est une tyrannie.</l>
+	<l id="1371">Dures extrémités où mon sort est réduit !</l>
+	<l id="1372">On donne mes faveurs à celui qui les fuit ;</l>
+	<l id="1373">Nous avons l'un pour l'autre une pareille haine,</l>
+	<l id="1374">Et l'on m'attache à lui d'une éternelle chaîne.</l>
+	<l id="1375">Mais s'il ne m'aimait plus, parlerait-il d'amour</l>
+	<l id="1376">À celui dont je tiens la lumière du jour ?</l>
+	<l id="1377">Mais s'il m'aimait encore, verrait-il Hippolyte ?</l>
+	<l id="1378">Mon coeur en même temps se retient et s'excite.</l>
+	<l id="1379">Je ne sais quoi me flatte, et je sens déjà bien</l>
+	<l id="1380">Que mon feu ne dépend que de croire le sien.</l>
+	<l id="1381">Tout beau, ma passion, c'est déjà trop paraître :</l>
+	<l id="1382">Attends, attends du moins la sienne pour renaître.</l>
+	<l id="1383">À quelle folle erreur me laissé-je emporter !</l>
+	<l id="1384">Il fait tout à dessein de me persécuter.</l>
+	<l id="1385">L'ingrat cherche ma peine, et veut par sa malice</l>
+	<l id="1386">Que l'ordre qu'on me donne augmente mon supplice.</l>
+	<l id="1387">Rentrons, que son objet présenté par hasard</l>
+	<l id="1388">De mon coeur ébranlé ne reprenne une part :</l>
+	<l id="1389">C'est bien assez qu'un père à souffrir me destine,</l>
+	<l id="1390">Sans que mes yeux encore aident à ma ruine.</l>
+</sp>
+</div2>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1391">J'enverrai tout à bas, puis après on verra.</l>
+	<l id="1392">Ardez, vraiment c'est-mon, on vous l'endurera !</l>
+	<l id="1393">Vous êtes un bel homme, et je dois fort vous craindre !</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1394">Tout est sur mon tapis : qu'avez-vous à vous plaindre ?</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1395">Aussi votre tapis est tout sur mon battant ;</l>
+	<l id="1396">Je ne m'étonne plus de quoi je gagne tant.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1397">Là, là, criez bien haut, faites bien l'étourdie,</l>
+	<l id="1398">Et puis on vous jouera dedans la comédie.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1399">Je voudrais l'avoir vu que quelqu'un s'y fût mis ;</l>
+	<l id="1400">Pour en avoir raison nous manquerions d'amis !</l>
+	<l id="1401" part="i">On joue ainsi le monde.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1401" part="f">Après tout ce langage,</l>
+	<l id="1402">Ne me repoussez pas mes boîtes davantage.</l>
+<note type="L">Caquet : Abondance de paroles inutiles qui n'ont point de solidité. [F] </note>
+	<l id="1403">Votre caquet m'enlève à tous coups mes chalands ;</l>
+	<l id="1404">Vous vendez dix rabats contre moi deux galants.</l>
+	<l id="1405">Pour conserver la paix, depuis six mois j'endure,</l>
+	<l id="1406">Sans vous en dire mot, sans le moindre murmure ;</l>
+	<l id="1407">Et vous me harcelez et sans cause et sans fin.</l>
+	<l id="1408">Qu'une femme hargneuse est un mauvais voisin !</l>
+	<l id="1409">Nous n'apaiserons point cette humeur qui vous pique</l>
+	<l id="1410">Que par un entre-deux mis à votre boutique ;</l>
+	<l id="1411">Alors, n'ayant plus rien ensemble à démêler,</l>
+	<l id="1412">Vous n'aurez plus aussi sur quoi me quereller.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1413" part="i">Justement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1413" part="f">De tout loin je vous ai reconnue.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1414">Vous vous doutez donc bien pourquoi je suis venue ?</l>
+	<l id="1415">Les avez-vous reçus, ces points coupés nouveaux ?</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1416" part="i">Ils viennent d'arriver.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1416" part="f">Voyons donc les plus beaux.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1417">Ne vous vendrai-je rien, monsieur ? Des bas de soie,</l>
+	<l id="1418">Des gants en broderie, ou quelque petite oie ?</l>
+</sp>
+<sp who="CLEANTE"><speaker>CLÉANTE.</speaker>
+	<l id="1419">Ces livres que mon maître avait fait mettre à part,</l>
+	<l id="1420" part="i">Les avez-vous encore ?</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="1420" part="f">Ah ! Que vous venez tard !</l>
+	<l id="1421">Encore un peu, ma foi, je m'en allais les vendre.</l>
+	<l id="1422">Trois jours sans revenir ! Je m'ennuyais d'attendre.</l>
+</sp>
+<sp who="CLEANTE"><speaker>CLÉANTE.</speaker>
+	<l id="1423" part="i">Je l'avais oublié. Le prix ?</l>
+</sp>
+<sp who="LIBRAIRE"><speaker>Le LIBRAIRE.</speaker>
+	<l id="1423" part="f">Chacun le sait :</l>
+	<l id="1424">Autant de quarts d'écus, c'est un marché tout fait.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1425" part="i">Eh bien, qu'en dites-vous ?</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1425" part="f">J'en suis toute ravie,</l>
+	<l id="1426">Et n'ai rien encore vu de pareil en ma vie.</l>
+	<l id="1427">Vous aurez notre argent, si l'on croit mon rapport.</l>
+	<l id="1428">Que celui-ci me semble et délicat et fort !</l>
+	<l id="1429">Que cet autre me plaît ! Que j'en aime l'ouvrage !</l>
+	<l id="1430">Montrez-m'en cependant quelqu'un à mon usage.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1431">Voici de quoi vous faire un assez beau collet.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1432">Je pense, en vérité, qu'il ne serait pas laid ;</l>
+	<l id="1433" part="i">Que me coûtera-t-il ?</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1433" part="f">Allez, faites-moi vendre,</l>
+	<l id="1434">Et pour l'amour de vous, je n'en voudrai rien prendre.</l>
+	<l id="1435">Mais avisez alors à me récompenser.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1436">L'offre n'est pas mauvaise, et vaut bien y penser :</l>
+	<l id="1437">Vous me verrez demain avec ma maîtresse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1438">Aronte, eh bien, quels fruits produira notre adresse ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1439">De fort mauvais pour moi. Mon maître, au désespoir,</l>
+	<l id="1440">Fuit les yeux d'Hippolyte, et ne veut plus me voir.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1441">Nous sommes donc ainsi bien loin de notre conte ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1442">Oui, mais tout le malheur en tombe sur Aronte.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1443">Ne te débauche point, je veux faire ta paix.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1444">Son courroux est trop grand pour s'apaiser jamais.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1445">S'il vient encor chez nous ou chez sa Célidée,</l>
+	<l id="1446">Je te rends aussitôt l'affaire accommodée.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1447">Si tu fais ce coup-là, que ton pouvoir est grand !</l>
+	<l id="1448">Viens, je te veux donner tout à l'heure un galant.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1449">Voyez, monsieur ; j'en ai des plus beaux de la terre :</l>
+	<l id="1450">En voilà de Paris, d'Avignon, d'Angleterre.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1451">Tous vos rubans n'ont point d'assez vives couleurs.</l>
+	<l id="1452">Allons, Florice, allons, il en faut voir ailleurs.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1453">Ainsi, faute d'avoir de bonne marchandise,</l>
+	<l id="1454">Des hommes comme vous perdent leur chalandise.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1455">Vous ne la perdez pas, vous, mais Dieu sait comment.</l>
+	<l id="1456">Du moins, si je vends peu, je vends loyalement,</l>
+	<l id="1457">Et je n'attire point avec une promesse</l>
+	<l id="1458">De suivante qui m'aide à tromper sa maîtresse.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1459">Quand il faut dire tout, on s'entre-connaît bien ;</l>
+	<l id="1460">Chacun sait son métier, et... Mais je ne dis rien.</l>
+</sp>
+<sp who="MERCIER"><speaker>Le MERCIER.</speaker>
+	<l id="1461">Vous ferez un grand coup si vous pouvez vous taire.</l>
+</sp>
+<sp who="LINGERE"><speaker>La LINGÈRE.</speaker>
+	<l id="1462">Je ne réplique point à des gens en colère.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1463">Indiscrète vengeance, imprudentes chaleurs,</l>
+	<l id="1464">Dont l'impuissance ajoute un comble à mes malheurs,</l>
+	<l id="1465">Ne me conseillez plus la mort de ce faussaire.</l>
+	<l id="1466">J'aime encore Célidée, et n'ose lui déplaire :</l>
+	<l id="1467">Priver de la clarté ce qu'elle aime le mieux,</l>
+	<l id="1468">Ce n'est pas le moyen d'agréer à ses yeux.</l>
+	<l id="1469">L'amour, en la perdant, me retient en balance ;</l>
+	<l id="1470">Il produit ma fureur et rompt sa violence,</l>
+	<l id="1471">Et me laissant trahi, confus et méprisé,</l>
+	<l id="1472">Ne veut que triompher de mon coeur divisé.</l>
+	<l id="1473">Amour, cruel auteur de ma longue misère,</l>
+	<l id="1474">Ou permets à la fin d'agir à ma colère,</l>
+	<l id="1475">Ou sans m'embarrasser d'inutiles transports,</l>
+	<l id="1476">Auprès de ce bel oeil fais tes derniers efforts.</l>
+	<l id="1477">Viens, accompagne-moi chez ma belle inhumaine,</l>
+	<l id="1478">Et comme de mon coeur triomphe de sa haine.</l>
+	<l id="1479">Contre toi ma vengeance a mis les armes bas,</l>
+	<l id="1480">Contre ses cruautés rends les mêmes combats ;</l>
+	<l id="1481">Exerce ta puissance à fléchir la farouche ;</l>
+	<l id="1482">Montre-toi dans mes yeux, et parle par ma bouche :</l>
+	<l id="1483">Si tu te sens trop faible, appelle à ton secours</l>
+	<l id="1484">Le souvenir de mille et de mille heureux jours,</l>
+	<l id="1485">Où ses désirs, d'accord avec mon espérance,</l>
+	<l id="1486">Ne laissaient à nos voeux aucune différence.</l>
+	<l id="1487">Je pense avoir encore ce qui la sut charmer,</l>
+	<l id="1488">Les mêmes qualités qu'elle voulut aimer.</l>
+	<l id="1489">Peut-être mes douleurs ont changé mon visage ;</l>
+	<l id="1490">Mais en revanche aussi je l'aime davantage ;</l>
+	<l id="1491">Mon respect s'est accru pour un objet si cher ;</l>
+	<l id="1492">Je ne me venge point, de peur de la fâcher.</l>
+	<l id="1493">Un infidèle ami tient son âme captive,</l>
+	<l id="1494">Je le sais, je le vois, et je souffre qu'il vive.</l>
+	<l id="1495">Je tarde trop : allons, ou vaincre ses refus,</l>
+	<l id="1496">Ou me venger sur moi de ne lui plaire plus,</l>
+	<l id="1497">Et tirons de son coeur, malgré sa flamme éteinte,</l>
+	<l id="1498">La pitié par ma mort, ou l'amour par ma plainte :</l>
+	<l id="1499">Ses rigueurs par ce fer me perceront le sein.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1500">Eh quoi ? Pour m'avoir vu, vous changez de dessein !</l>
+	<l id="1501">Ne craignez point pour moi d'entrer chez Hippolyte ;</l>
+	<l id="1502">Vous ne m'apprendrez rien en lui faisant visite :</l>
+	<l id="1503">Mes yeux, mes propres yeux n'ont que trop découvert</l>
+	<l id="1504">Comme un ami si rare auprès d'elle me sert.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1505">Parlez plus franchement : ma rencontre importune</l>
+	<l id="1506">Auprès d'un autre objet trouble votre fortune ;</l>
+	<l id="1507">Et vous montrez assez, par ces faibles détours,</l>
+	<l id="1508">Qu'un témoin comme moi déplaît à vos amours.</l>
+	<l id="1509">Vous voulez seul à seul cajoler Célidée ;</l>
+	<l id="1510">La querelle entre nous sera bientôt vidée :</l>
+	<l id="1511">Ma mort vous donnera chez elle un libre accès,</l>
+	<l id="1512">Ou ma juste vengeance un funeste succès.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1513">Qu'est-ce-ci, déloyal ? Quelle fourbe est la vôtre ?</l>
+	<l id="1514">Vous m'en disputez une, afin d'acquérir l'autre !</l>
+	<l id="1515">Après ce que chacun a vu de votre feu,</l>
+	<l id="1516">C'est une lâcheté d'en faire un désaveu.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1517">Je ne me connais point à combattre d'injures.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1518">Aussi veux-je punir autrement tes parjures :</l>
+	<l id="1519">Le ciel, le juste ciel, ennemi des ingrats,</l>
+	<l id="1520">Qui pour ton châtiment a destiné mon bras,</l>
+	<l id="1521">T'apprendra qu'à moi seul Hippolyte est gardée.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1522" part="i">Garde ton Hippolyte.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1522" part="f">Et toi, ta Célidée.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1523">Voilà faire le fin, de crainte d'un combat.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1524">Tu m'imputes la crainte, et ton coeur s'en abat.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1525">Laissons à part les noms ; disputons la maîtresse,</l>
+	<l id="1526">Et pour qui que ce soit montre ici ton adresse.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1527" part="i">C'est comme je l'entends.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1527" part="f">O dieux ! Ils sont aux coups !</l>
+	<l id="1528">Ah ! Perfide, sur moi détourne ton courroux :</l>
+	<l id="1529">La mort de Dorimant me serait trop funeste.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1530">Lysandre, une autre fois nous viderons le reste.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1531" part="i">Arrête, cher ingrat !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1531" part="f">Tu recules, voleur !</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1532">Je fuis cette importune, et non pas ta valeur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1533">Ne suivez pas du moins ce perfide à ma vue :</l>
+	<l id="1534">Avez-vous résolu que sa fuite me tue,</l>
+	<l id="1535">Et qu'ayant su braver son plus vaillant effort,</l>
+	<l id="1536">Par sa retraite infâme il me donne la mort ?</l>
+	<l id="1537">Pour en frapper le coup, vous n'avez qu'à le suivre.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1538">Je tiens des gens sans foi si peu dignes de vivre,</l>
+	<l id="1539">Qu'on ne verra jamais que je recule un pas</l>
+	<l id="1540">De crainte de causer un si juste trépas.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1541">Eh bien, voyez-le donc : ma lame toute prête</l>
+	<l id="1542">N'attendait que vos yeux pour immoler ma tête.</l>
+	<l id="1543">Vous lirez dans mon sang, à vos pieds répandu,</l>
+	<l id="1544">Ce que valait l'amant que vous aurez perdu ;</l>
+	<l id="1545">Et sans vous reprocher un si cruel outrage,</l>
+	<l id="1546">Ma main de vos rigueurs achèvera l'ouvrage :</l>
+	<l id="1547">Trop heureux mille fois si je plais en mourant</l>
+	<l id="1548">À celle à qui j'ai pu déplaire en l'adorant,</l>
+	<l id="1549">Et si ma prompte mort, secondant son envie,</l>
+	<l id="1550">L'assure du pouvoir qu'elle avait sur ma vie !</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1551">Moi, du pouvoir sur vous ! Vos yeux se sont mépris ;</l>
+	<l id="1552">Et quelque illusion qui trouble vos esprits</l>
+	<l id="1553">Vous fait imaginer d'être auprès d'Hippolyte.</l>
+	<l id="1554">Allez, volage, allez où l'amour vous invite :</l>
+	<l id="1555">Dans ces doux entretiens recherchez vos plaisirs,</l>
+	<l id="1556">Et ne m'empêchez plus de suivre mes désirs.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1557">Ce n'est pas sans raison que ma feinte passée</l>
+	<l id="1558">A jeté cette erreur dedans votre pensée.</l>
+	<l id="1559">Il est vrai, devant vous forçant mes sentiments,</l>
+	<l id="1560">J'ai présenté des voeux, j'ai fait des compliments ;</l>
+	<l id="1561">Mais c'étaient compliments qui partaient d'une souche :</l>
+	<l id="1562">Mon coeur, que vous teniez, désavouait ma bouche.</l>
+	<l id="1563">Pleirante, qui rompit ces ennuyeux discours,</l>
+	<l id="1564">Sait bien que mon amour n'en changea point de cours :</l>
+	<l id="1565">Contre votre froideur une modeste plainte</l>
+	<l id="1566">Fut tout notre entretien au sortir de la feinte ;</l>
+	<l id="1567" part="i">Et je le priai lors...</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1567" part="f">D'user de son pouvoir ?</l>
+	<l id="1568">Ce n'était pas par là qu'il me fallait avoir.</l>
+	<l id="1569">Les mauvais traitements ne font qu'aigrir les âmes.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1570">Confus, désespéré du mépris de mes flammes,</l>
+	<l id="1571">Sans conseil, sans raison, pareil aux matelots</l>
+	<l id="1572">Qu'un naufrage abandonne à la merci des flots,</l>
+	<l id="1573">Je me suis pris à tout, ne sachant où me prendre.</l>
+	<l id="1574">Ma douleur par mes cris d'abord s'est fait entendre ;</l>
+	<l id="1575">J'ai cru que vous seriez d'un naturel plus doux,</l>
+	<l id="1576">Pourvu que votre esprit devînt un peu jaloux ;</l>
+	<l id="1577">J'ai fait agir pour moi l'autorité d'un père ;</l>
+	<l id="1578">J'ai fait venir aux mains celui qu'on me préfère ;</l>
+	<l id="1579">Et puisque ces efforts n'ont réussi qu'en vain,</l>
+	<l id="1580">J'aurai de vous ma grâce, ou la mort de ma main.</l>
+	<l id="1581">Choisissez, l'une ou l'autre achèvera mes peines ;</l>
+	<l id="1582">Mon sang brûle déjà de sortir de mes veines :</l>
+	<l id="1583">Il faut pour l'arrêter me rendre votre amour ;</l>
+	<l id="1584">Je n'ai plus rien sans lui qui me retienne au jour.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1585">Volage, fallait-il, pour un peu de rudesse,</l>
+	<l id="1586">Vous porter si soudain à changer de maîtresse ?</l>
+	<l id="1587">Que je vous croyais bien d'un jugement plus mûr !</l>
+	<l id="1588">Ne pouviez-vous souffrir de ma mauvaise humeur ?</l>
+	<l id="1589">Ne pouviez-vous juger que c'était une feinte</l>
+	<l id="1590">À dessein d'éprouver quelle était votre atteinte ?</l>
+	<l id="1591">Les dieux m'en soient témoins, et ce nouveau sujet</l>
+	<l id="1592">Que vos feux inconstants ont choisi pour objet,</l>
+	<l id="1593">Si jamais j'eus pour vous de dédain véritable,</l>
+	<l id="1594">Avant que votre amour parût si peu durable !</l>
+	<l id="1595">Qu'Hippolyte vous dise avec quels sentiments</l>
+	<l id="1596">Je lui fus raconter vos premiers mouvements,</l>
+	<l id="1597">Avec quelles douceurs je m'étais préparée</l>
+	<l id="1598">À redonner la joie à votre âme éplorée !</l>
+	<l id="1599">Dieux ! Que je fus surprise, et mes sens éperdus,</l>
+	<l id="1600">Quand je vis vos devoirs à sa beauté rendus !</l>
+	<l id="1601">Votre légèreté fut soudain imitée :</l>
+	<l id="1602">Non pas que Dorimant m'en eût sollicitée ;</l>
+	<l id="1603">Au contraire, il me fuit, et l'ingrat ne veut pas</l>
+	<l id="1604">Que sa franchise cède au peu que j'ai d'appas ;</l>
+	<l id="1605">Mais, hélas ! Plus il fuit, plus son portrait s'efface ;</l>
+	<l id="1606">Je vous sens, malgré moi, reprendre votre place ;</l>
+	<l id="1607">L'aveu de votre erreur désarme mon courroux :</l>
+	<l id="1608">Ne redoutez plus rien, l'amour combat pour vous.</l>
+	<l id="1609">Si nous avons failli de feindre l'un et l'autre,</l>
+	<l id="1610">Pardonnez à ma feinte, et j'oublierai la vôtre.</l>
+	<l id="1611">Moi-même je l'avoue à ma confusion,</l>
+	<l id="1612">Mon imprudence a fait notre division.</l>
+	<l id="1613">Tu ne méritais pas de si rudes alarmes :</l>
+	<l id="1614">Accepte un repentir accompagné de larmes ;</l>
+	<l id="1615">Et souffre que le tien nous fasse tour à tour</l>
+	<l id="1616">Par ce petit divorce augmenter notre amour.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1617">Que vous me surprenez ! ô ciel ! Est-il possible</l>
+	<l id="1618">Que je vous trouve encore à mes désirs sensible ?</l>
+	<l id="1619">Que j'aime ces dédains qui finissent ainsi !</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1620">Et pour l'amour de toi, que je les aime aussi !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1621">Que ce soit toutefois sans qu'il vous prenne envie</l>
+	<l id="1622">De les plus essayer au péril de ma vie.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1623">J'aime trop désormais ton repos et le mien :</l>
+	<l id="1624">Tous mes soins n'iront plus qu'à notre commun bien.</l>
+	<l id="1625">Voudrais-je, après ma faute, une plus douce amende</l>
+	<l id="1626">Que l'effet d'un hymen qu'un père me commande ?</l>
+	<l id="1627">Je t'accusais en vain d'une infidélité :</l>
+	<l id="1628">Il agissait pour toi de pleine autorité,</l>
+	<l id="1629">Me traitait de parjure et de fille rebelle.</l>
+	<l id="1630">Mais allons lui porter cette heureuse nouvelle ;</l>
+	<l id="1631">Ce que pour mes froideurs il témoigne d'horreur</l>
+	<l id="1632">Mérite bien qu'en hâte on le tire d'erreur.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1633">Vous craignez qu'à vos yeux cette belle Hippolyte</l>
+	<l id="1634">N'ait encore de ma bouche une hommage hypocrite ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1635">Non : je fuis Dorimant qu'ensemble j'aperçois ;</l>
+	<l id="1636">Je ne veux plus le voir, puisque je suis à toi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1637">Autant que mon esprit adore vos mérites,</l>
+	<l id="1638">Autant veux-je de mal à vos longues visites.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1639">Que vous ont-elles fait pour vous mettre en courroux ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1640">Elles m'ôtent le bien de vous trouver chez vous.</l>
+	<l id="1641">J'y fais à tous moments une course inutile ;</l>
+	<l id="1642">J'apprends cent fois le jour que vous êtes en ville.</l>
+	<l id="1643">En voici presque trois que je n'ai pu vous voir,</l>
+	<l id="1644">Pour rendre à vos beautés ce que je sais devoir ;</l>
+	<l id="1645">Et n'était qu'aujourd'hui cette heureuse rencontre,</l>
+	<l id="1646">Sur le point de rentrer, par hasard me les montre,</l>
+	<l id="1647">Je crois que ce jour même aurait encore passé</l>
+	<l id="1648">Sans moyen de m'en plaindre aux yeux qui m'ont blessé.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1649">Ma libre et gaie humeur hait le ton de la plainte ;</l>
+	<l id="1650">Je n'en puis écouter qu'avec de la contrainte :</l>
+	<l id="1651">Si vous prenez plaisir dedans mon entretien,</l>
+	<l id="1652">Pour le faire durer ne vous plaignez de rien.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1653">Vous me pouvez ôter tout sujet de me plaindre.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1654">Et vous pouvez aussi vous empêcher d'en feindre.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1655">Est-ce en feindre un sujet qu'accuser vos rigueurs ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1656">Pour vous en plaindre à faux, vous feignez des langueurs.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1657">Verrais-je sans languir ma flamme qu'on néglige ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1658">Éteignez cette flamme où rien ne vous oblige.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1659">Vos charmes trop puissants me forcent à ces feux.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1660">Oui, mais rien ne vous force à vous approcher d'eux.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1661">Ma présence vous fâche et vous est odieuse.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1662">Non, mais tout ce discours la peut rendre ennuyeuse.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1663">Je vois bien ce que c'est ; je lis dans votre coeur :</l>
+	<l id="1664">Il a reçu les traits d'un plus heureux vainqueur ;</l>
+	<l id="1665">Un autre, regardé d'un oeil plus favorable,</l>
+	<l id="1666">À mes submissions vous fait inexorable :</l>
+	<l id="1667">C'est pour lui seulement que vous voulez brûler.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1668">Il est vrai : je ne puis vous le dissimuler ;</l>
+	<l id="1669">Il faut que je vous traite avec toute franchise.</l>
+	<l id="1670">Alors que je vous pris, un autre m'avait prise,</l>
+	<l id="1671">Un autre captivait mes inclinations.</l>
+	<l id="1672">Vous devez présumer de vos perfections</l>
+	<l id="1673">Que si vous attaquiez un coeur qui fût à prendre,</l>
+	<l id="1674">Il serait malaisé qu'il s'en pût bien défendre.</l>
+	<l id="1675">Vous auriez eu le mien, s'il n'eût été donné ;</l>
+	<l id="1676">Mais puisque les destins ainsi l'ont ordonné,</l>
+	<l id="1677">Tant que ma passion aura quelque espérance,</l>
+	<l id="1678">N'attendez rien de moi que de l'indifférence.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1679">Vous ne m'apprenez point le nom de cet amant :</l>
+	<l id="1680">Sans doute que Lysandre est cet objet charmant</l>
+	<l id="1681">Dont les discours flatteurs vous ont préoccupée.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1682">Cela ne se dit point à des hommes d'épée :</l>
+	<l id="1683">Vous exposer aux coups d'un duel hasardeux,</l>
+	<l id="1684">Ce serait le moyen de vous perdre tous deux.</l>
+	<l id="1685">Je vous veux, si je puis, conserver l'un et l'autre ;</l>
+	<l id="1686">Je chéris sa personne, et hais si peu la vôtre,</l>
+	<l id="1687">Qu'ayant perdu l'espoir de le voir mon époux,</l>
+	<l id="1688">Si ma mère y consent, Hippolyte est à vous ;</l>
+	<l id="1689">Mais aussi jusque-là plaignez votre infortune.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1690">Permettez pour ce nom que je vous importune ;</l>
+	<l id="1691">Ne me refusez plus de me le déclarer :</l>
+	<l id="1692">Que je sache en quel temps j'aurai droit d'espérer.</l>
+	<l id="1693">Un mot me suffira pour me tirer de peine ;</l>
+	<l id="1694">Et lors j'étoufferai si bien toute ma haine,</l>
+	<l id="1695">Que vous me trouverez vous-même trop remis.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1696">Souffrez, mon cavalier, que je vous rende amis.</l>
+	<l id="1697">Vous ne lui voulez pas quereller Célidée ?</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1698">L'affaire à cela près peut être décidée.</l>
+	<l id="1699">Voici le seul objet de nos affections,</l>
+	<l id="1700">Et l'unique motif de nos dissensions.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1701">Dissipe, cher ami, cette jalouse atteinte :</l>
+	<l id="1702">C'est l'objet de tes feux, et celui de ma feinte.</l>
+	<l id="1703">Mon coeur fut toujours ferme, et moi je me dédis</l>
+	<l id="1704">Des voeux que de ma bouche elle reçut jadis.</l>
+	<l id="1705">Piqué d'un faux dédain, j'avais pris fantaisie</l>
+	<l id="1706">De mettre Célidée en quelque jalousie ;</l>
+	<l id="1707">Mais au lieu d'un esprit, j'en ai fait deux jaloux.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1708">Vous pouvez désormais achever entre vous :</l>
+	<l id="1709">Je vais dans ce logis dire un mot à madame.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1710">Ainsi, loin de m'aider, tu traversais ma flamme !</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1711">Les efforts que Pleirante à ma prière a faits</l>
+	<l id="1712">T'auraient acquis déjà le but de tes souhaits ;</l>
+	<l id="1713">Mais tu dois accuser les glaces d'Hippolyte,</l>
+	<l id="1714">Si ton bonheur n'est pas égal à ton mérite.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1715">Qu'aurai-je cependant pour satisfaction</l>
+	<l id="1716">D'avoir servi d'objet à votre fiction ?</l>
+	<l id="1717">Dans votre différend je suis la plus blessée,</l>
+	<l id="1718">Et me trouve, à l'accord, entièrement laissée.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1719">N'y songe plus, de grâce, et pour l'amour de moi,</l>
+	<l id="1720">Trouve bon qu'il ait feint de vivre sous ta loi.</l>
+	<l id="1721">Veux-tu le quereller lorsque je lui pardonne ?</l>
+	<l id="1722">Le droit de l'amitié tout autrement ordonne.</l>
+	<l id="1723">Tous prêts d'être assemblés d'un lien conjugal,</l>
+	<l id="1724">Tu ne peux le haïr sans me vouloir du mal.</l>
+	<l id="1725">J'ai feint par ton conseil ; lui, par celui d'un autre ;</l>
+	<l id="1726">Et bien qu'amour jamais ne fut égal au nôtre,</l>
+	<l id="1727">Je m'étonne comment cette confusion</l>
+	<l id="1728">Laisse finir sitôt notre division.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1729">De sorte qu'à présent le ciel y remédie ?</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1730">Tu vois ; mais après tout, s'il faut que je le dise,</l>
+	<l id="1731">Ton conseil est fort bon, mais un peu dangereux.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1732">Excuse, chère amie, un esprit amoureux :</l>
+	<l id="1733">Lysandre me plaisait, et tout mon artifice</l>
+	<l id="1734">N'allait qu'à détourner son coeur de ton service.</l>
+	<l id="1735">J'ai fait ce que j'ai pu pour brouiller vos esprits ;</l>
+	<l id="1736">J'ai, pour me l'attirer, pratiqué tes mépris ;</l>
+	<l id="1737">Mais puisqu'ainsi le ciel rejoint votre hyménée...</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1738">Votre rigueur vers moi doit être terminée.</l>
+	<l id="1739">Sans chercher de raisons pour vous persuader,</l>
+	<l id="1740">Votre amour hors d'espoir fait qu'il me faut céder ;</l>
+	<l id="1741">Vous savez trop à quoi la parole vous lie.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1742">À vous dire le vrai, j'ai fait une folie :</l>
+	<l id="1743">Je les croyais encore loin de se réunir,</l>
+	<l id="1744">Et moi, par conséquent, loin de vous la tenir.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1745">Auriez-vous pour la rompre une âme assez légère ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1746">Puisque je l'ai promis, vous pouvez voir ma mère.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1747">Si tu juges Pleirante à cela suffisant,</l>
+	<l id="1748">Je crois qu'eux deux ensemble en parlent à présent.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1749">Après cette faveur qu'on me vient de promettre,</l>
+	<l id="1750">Je crois que mes devoirs ne se peuvent remettre :</l>
+	<l id="1751">J'espère tout de lui ; mais pour un bien si doux</l>
+	<l id="1752" part="i">Je ne saurais...</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1752" part="f">Arrête : ils s'avancent vers nous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1753">Madame, un pauvre amant, captif de cette belle,</l>
+	<l id="1754">Implore le pouvoir que vous avez sur elle :</l>
+	<l id="1755">Tenant ses volontés, vous gouvernez mon sort ;</l>
+	<l id="1756">J'attends de votre bouche ou la vie ou la mort.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="1757">Un homme tel que vous, et de votre naissance,</l>
+	<l id="1758">Ne peut avoir besoin d'implorer ma puissance.</l>
+	<l id="1759">Si vous avez gagné ses inclinations,</l>
+	<l id="1760">Soyez sûr du succès de vos affections ;</l>
+	<l id="1761">Mais je ne suis pas femme à forcer son courage ;</l>
+	<l id="1762">Je sais ce que la force est en un mariage.</l>
+	<l id="1763">Il me souvient encore de tous mes déplaisirs</l>
+	<l id="1764">Lorsqu'un premier hymen contraignit mes désirs ;</l>
+	<l id="1765">Et sage à mes dépens, je veux bien qu'Hippolyte</l>
+	<l id="1766">Prenne ou laisse, à son choix, un homme de mérite.</l>
+	<l id="1767">Ainsi présumez tout de mon consentement,</l>
+	<l id="1768">Mais ne prétendez rien de mon commandement.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1769">Après un tel aveu serez-vous inhumaine ?</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1770">Madame, un mot de vous me mettrait hors de peine.</l>
+	<l id="1771">Ce que vous remettez à mon choix d'accorder,</l>
+	<l id="1772">Vous feriez beaucoup mieux de me le commander.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1773">Elle vous montre assez où son désir se porte.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="1774">Puisqu'elle s'y résout, le reste ne m'importe.</l>
+</sp>
+<sp who="DORIMANT"><speaker>DORIMANT.</speaker>
+	<l id="1775">Ce favorable mot me rend le plus heureux</l>
+	<l id="1776">De tout ce que jamais on a vu d'amoureux.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1777">J'en sens croître la joie au milieu de mon âme,</l>
+	<l id="1778">Comme si de nouveau l'on acceptait ma flamme.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1779">Ferez-vous donc enfin quelque chose pour moi ?</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1780">Tout, hormis ce seul point, de lui manquer de foi.</l>
+</sp>
+<sp who="HIPPOLYTE"><speaker>HIPPOLYTE.</speaker>
+	<l id="1781">Pardonnez donc à ceux qui, gagnés par Florice,</l>
+	<l id="1782">Lorsque je vous aimais, m'ont fait quelque service.</l>
+</sp>
+<sp who="LYSANDRE"><speaker>LYSANDRE.</speaker>
+	<l id="1783">Je vous entends assez : soit, Aronte impuni</l>
+	<l id="1784">Pour ses mauvais conseils ne sera point banni ;</l>
+	<l id="1785">Tu le souffriras bien, puisqu'elle m'en supplie.</l>
+</sp>
+<sp who="CELIDEE"><speaker>CÉLIDÉE.</speaker>
+	<l id="1786">Il n'est rien que pour elle et pour toi je n'oublie.</l>
+</sp>
+<sp who="PLEIRANTE"><speaker>PLEIRANTE.</speaker>
+	<l id="1787">Attendant que demain ces deux couples d'amants</l>
+	<l id="1788">Soient mis au plus haut point de leurs contentements,</l>
+	<l id="1789">Allons chez moi, madame, achever la journée.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="1790">Mon coeur est tout ravi de ce double hyménée.</l>
+</sp>
+<sp who="FLORICE"><speaker>FLORICE.</speaker>
+	<l id="1791">Mais afin que la joie en soit égale à tous,</l>
+	<l id="1792">Faites encor celui de monsieur et de vous.</l>
+</sp>
+<sp who="CHRYSANTE"><speaker>CHRYSANTE.</speaker>
+	<l id="1793">Outre l'âge en tous deux un peu trop refroidie,</l>
+	<l id="1794">Cela sentirait trop sa fin de comédie.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

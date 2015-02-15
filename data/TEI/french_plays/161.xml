@@ -1,0 +1,2776 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>CAMMA, REINE DE GALATIE, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1661</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE décembre 2009</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>mythe grec</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k55164815.image.r=camma+reine+de+Galatie.f228.langFR</permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">CAMMA, REINE DE GALATIE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1661">M.DC.LXI. AVEC PRIVILÈGE DU ROY.</docDate>
+		<docAuthor id="CORNEILLE, Thomas" bio='corneillet'>DE TH. CORNEILLE</docAuthor>
+		<docImprint>
+			<privilege id="1661-03-24"><head>Extrait du privilège du Roi</head>
+			<p>Par Lettres Patentes du Roi données à Paris le 14 Février 1661. Signées, CONRART : il est permis à AUGUSTIN COURBE, Marchand libraire en la Ville de Paris, de faire imprimer, vendre et débiter en tous lieux de l'obéissance de sa Majesté, une Tragédie composée par le Sieur THOMAS CORNEILLE, intitulée Camma, Reine de Galatie,Tragédie, en telles marges, et tels caractères, en un ou plusieurs volumes, et autant de fois qu'il voudra, durant sept ans entiers, à compter du jour, que ladite Tragédie sera achevée d'imprimer pour la première fois. Avec déférences à toutes personnes de quelque qualité et condition qu'elles soient, de l'imprimer, vendre et débiter, sous quelque prétexte que ce soit, pendant ledit temps, sans consentement dudit COURBE, ou de ceux qui auront son droit, à peine de deux mil livres d'amende, de confiscation des Exemplaires contrefaits,et de tous dépens, dommages et intérêts, comme il est porté plus au long par lesdites Lettres Patentes, à l'Extrait, et aux Copies collationnées auxquelles sa Majesté veut que foi soit ajoutée comme à l'Original. Et scellées du Grand sceau de cire jaune sur simple queue. Et ledit Courbé a associé, pour moitié, au présent Privilège Guillaume de Luyne, aussi Marchand libraire, suivant l'accord fait entre eux.</p>
+		<p>Les exemplaires ont été fournis, ainsi qu'il est porté par ledit privilège. Registré sur le livre de la Communauté, le 23. Février 1661, conformément à l'Arrêt du Parlement du 9. Avril 1653. Signé, Josse, Syndic.</p>
+</privilege>
+			<acheveImprime id="1661-03-24">Achevé d'imprimer pour la première fois le 24 Mars 1661, à ROUEN par LAURENS MAURRY.</acheveImprime>
+			<printer id="COURBE">À PARIS, Chez AUGUSTIN COURBÉ, au Palais, En la Galerie des Merciers, À la Palme.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1661-01-28' location='Hôtel de Bourgogne'>Représenté pour la première fois le 28 janvier 1661 au Théâtre de l'Hôtel de Bourgogne</premiere>
+		</performance>
+<epitre>
+<head>Épitre A SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC.</head>
+<p>MONSEIGNEUR,</p>
+<p>J'offre à VOSTRE ALTESSE SERENISSIME le portrait d'une reine dont le temps ne saurait trop respecter la mémoire. Sa beauté causa le crime qui lui fit pleurer la perte de son Mari, et sa vertu la soumit avec tant de fermeté à la rigueur du devoir qui lui en fit jurer la vengeance, qu'elle ne refusa pas de l'acheter au dépens même de sa vie ; mais quoy qu'il semble que cette gloire ait été la seule qui l'ait pu toucher, elle ne peut revivre aujourd'hui sans se montrer sensible à une autre, et celle de vous avoir plu lui est si précieuse, qu'elle n'en croirait jouir qu'imparfaitement si vous ne lui permettiez de la publier. C'est, MONSEIGNEUR, pour obtenir cette grâce de que me faisant précipiter le respectueux hommage que je vous rends, elle ne me souffre point d'examiner si le zèle ardent qui me porte à cette entreprise a quelque chose d'assez fort pour vous en faire excuser la témérité. On m'en accusera sans doute, mais j'aime mieux me voir exposé à ce péril, que de demeurer plus long-temps dans une admiration muette de tant de hautes qualités qui étonnent d'autant plus, qu'on peut dire qu'elles sont moins des dons de la Nature, que l'ouvrage de vos propres soins. Vous ne vous en êtes épargné aucun, et il ne vous a pas suffi de trouver en vous un Grand Prince si tôt que vous vous êtes connu ; vous n'avez songé qu'à vous étudier assidûment pour vous rendre digne de l'être, et vous ne vous estes point souffert de repos que vous n'ayez empêché la Fortune d'entrer en partage avec votre vertu, du vif éclat qu'un si glorieux titre répand sur vous. L'étude est belle, MONSEIGNEUR, mais comme elle demande les lumières les plus profondes, et les plus pénétrantes de l'esprit, il en est peu qui s'y puissent appliquer avec succès. En effet, il est rare d'en trouver une de la force et de l'étendue de celui de V.A et c'est un sujet de surprise pour tous ceux qui ont l'honneur de vous approcher, que dans l'âge qui semble moins le permettre, vous joigniez à cette brillante vivacité qu'il inspire, la solidité du plus sublime raisonnement. Mais on a tort de s'en étonner, puisque c'est une des moindres merveilles que le Ciel nous ait promises de vous ; il ne vous a fait voir le jour que pour vous en faire, et il vous en offre les moyens à puiser dans une source qui en est si seconde, que pour être en pouvoir de produire les plus incroyables, votre naissance était le seul secours que vous aviez à souhaiter. Je ne dis pas, MONSEIGNEUR, cette naissance illustre qui par l'élévation du rang que vous tenez, vous donne droit aux Couronnes ; j'entends cet avantage particulier que vous avez d'être né d'un HEROS qui n'a besoin que de vous communiquer un rayon de sa vertu pour vous mettre en état de les mériter. Je le puis dire, MONSEIGNEUR, et je suis assuré que V.A ne m'en désavouera pas. Cet avantage est d'un prix si relevé, que quand vous auriez pu naître ce que vous auriez voulu choisir, vous eussiez préféré ce que vous estes à tout ce que l'indiscrète ambition pourrait présumer au dessus. Vous y trouvez ce qui fait la véritable grandeur, et celle Il s'agit ici de Henri Jules de Bourbon, duc d'Enghien, fils du Grand Condé. De même que son père était appelé « Monsieur le Prince », le duc d'Enghien était appelé « Monsieur le Duc ». qui tient les peuples soumis ne vous flatterait point tant que l'honneur d'être Fils de celui qui a obscurci le nom des Césars, et qui ne souffrant rien qui puisse aller au de-là des Grandes Actions qu'on lui a vu faire, ne laisse qu'à ceux de son sang le privilège de les pouvoir égaler. Jouissez-en , MONSEIGNEUR, et repassant en vous-même ces Prodiges inconcevables qu'il a fait paraître de valeur, de prudence et de conduite, applaudissez-vous en secret des Miracles continuels où votre vie est destinée. Chaque Laurier qu'il a cueilli dans le champ de Mars, est une assurance de ceux que La Victoire y a semez pour vous. Il n'a point pris de Villes, il n'a point gagné de Batailles qui ne vous soient autant de garants des Triomphes qui vous attendent,et l'Image présente de tant d'inimitables exploits vous doit faire goûter par avance le fruit de ceux qui vous sont réservés. Il me semble, MONSEIGNEUR, que je vois V.A se perdre agréablement dans ces hautes et pompeuses idées, et que la secrète joie qu'elles vous donnent, redouble cette noble fierté qui accompagne toujours les personnes de votre rang. On n'en peut ressentir de plus parfaite, et si elle était capable de recevoir quelque légère altération, ce ne pourrait être que de ce louable chagrin qui fit autrefois soupirer Alexandre des conquêtes de Philippe. Mais il vous serait aisé de le dissiper par la certitude où vous devez être, que quoi que le Grand CONDE ne doive qu'à lui seul ce qui lui assure l'Immortalité, vous ne laisserez pas d'y contribuer quelque chose. </p>
+<p>L'histoire ne s'en taira point, MONSEIGNEUR, et quand elle aura fortement exagéré ce qui le met au dessus des plus fameux Conquérants que l'Antiquité nous vante, elle n'oubliera pas de marquer pour l'achèvement de sa gloire, celle qu'il aura eue d'avoir donné à la France un Fils digne d'elle et de lui. Il ne pouvait lui faire un présent qui lui fut plus cher, et si dans le faible talent que j'ai, il m'était permis de former quelque ambitieux désir, ce serait que vous daignassiez avouer un jour de publier les grandes choses qu'elle vous verra exécuter ; mais c'est une grâce qu'il n'est pas juste que j'espère, ce dessein demande des forces que je ne saurais jamais acquérir, puisqu'il faudrait qu'elles fussent égales à l'ardeur toute soumise avec laquelle je suis, MONSEIGNEUR, De V.A SERENISSIME, Le très humble, très obéissant et très fidèle Serviteur,</p>
+<signature>T. CORNEILLE.</signature>
+</epitre>
+	<castList><head>ACTEURS.</head>
+		<castItem><role id="CAMMA" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>CAMMA</role>, veuve de Sinatus, Roi de Galatie.</castItem>
+		<castItem><role id="SINORIX" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>SINORIX</role>, roi de Galatie, ayant usurpé la Couronne sur Sinatus.</castItem>
+		<castItem><role id="HESIONE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>HÉSIONE</role>, fille de Sinatus.</castItem>
+		<castItem><role id="SOSTRASE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>SOSTRATE</role>, prince de Galatie, favori de Sinatus.</castItem>
+		<castItem><role id="PHAEDIME" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>PHAEDIME</role>, confident de Sinorix.</castItem>
+		<castItem><role id="SOSIME" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>SOSIME</role>, capitaine des Gardes de Sinorix</castItem>
+		<castItem><role id="PHÉNICE" civil='F' type="H" statut="confident" age="A" stat_amour='néant'>PHÉNICE</role>, confidente de Camma.</castItem>
+		<castItem><role id="GARDES" civil='G' type="H" statut="gardes" age="A" stat_amour='néant'>Gardes</role>.</castItem>
+	</castList>
+	<set location='Galatie' country='Turquie' periode='Temps mythologiques' link=''>La Scène est dans la Capitale de Galatie.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sinorix, Phaedime.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1'>Tu dis vrai, cher Phaedime, on aurait peine à croire</l>
+	<l id='2'>Qu'un grand coeur soupirât au milieu de la gloire,</l>
+	<l id='3'>Qu'au faîte des grandeurs Sinorix élevé</l>
+	<l id='4'>Souhaitât dans leur pompe un bien plus achevé,</l>
+	<l id='5'>Et que de tant d'honneurs sa fortune suivie </l>
+	<l id='6'>Pût opposer quelque ombre à l'éclat de sa vie.</l>
+	<l id='7'>Il n'est rien au dessus du rang où tu me vois, </l>
+	<l id='8'>Toute la Galatie obéit à mes lois ;</l>
+	<l id='9'>Un vieux droit que soutint un peu de violence</l>
+	<l id='10'>M'a laissé sur le trône établir ma puissance, </l>
+	<l id='11'>On me flatte, on me craint, chacun m'offre des voeux,</l>
+	<l id='12'>Cependant, tu le sais, je ne suis pas heureux.</l>
+	<l id='13'>Depuis six mois je règne, et règne sans obstacles ;</l>
+	<l id='14'>Mais le sort fait en vain pour moi tant de miracles</l>
+	<l id='15'>Si du plus digne objet trop vivement charmé, </l>
+	<l id='16'>J'aime pour mon supplice, et ne puis être aimé.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='17'>C'est vous plaire, Seigneur, à croître votre peine,</l>
+	<l id='18'>Que d'expliquer si mal les refus de la Reine,</l>
+	<l id='19'>Qui peut-être en secret brûlant déjà pour vous</l>
+	<l id='20'>N'ose encor par devoir vous prendre pour époux. </l>
+	<l id='21'>Quelque éclat à ses yeux dont la couronne brille,</l>
+	<l id='22'>Elle est veuve d'un roi qui vous donnait sa fille,</l>
+	<l id='23'>Et qui par votre hymen lui faisait éviter</l>
+	<l id='24'>D'avoir avecque vous un trône à disputer.</l>
+	<l id='25'>Du peuple qui vous craint l'entier et prompt suffrage </l>
+	<l id='26'>Vous en a fait sur elle emporter l'avantage,</l>
+	<l id='27'>Et lors que tout l'État respecte en vous son Roi,</l>
+	<l id='28'>Vous la laissez sujette, et lui manquez de foi.</l>
+	<l id='29'>L'affront est grand, Seigneur, et quoi que dans sa haine</l>
+	<l id='30'>Le nom de belle-mère engage peu la Reine, </l>
+	<l id='31'>Du moins l'honneur la force à prendre l'intérêt</l>
+	<l id='32'>De la fille d'un roi qui la fit ce qu'elle est.</l>
+	<l id='33'>Voila ce qui vous nuit, et vous nuira sans cesse,</l>
+	<l id='34'>Si vos ordres enfin n'éloignent la Princesse.</l>
+	<l id='35'>Ôtez-lui cet obstacle, et vous verrez soudain </l>
+	<l id='36'>Que son coeur adouci vous répond de sa main.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='37'>Je vois bien qu'il le faut mais le puis-je, Phaedime,</l>
+	<l id='38'>Sans m'exposer encor à trembler de mon crime,</l>
+	<l id='39'>Et revoir quel excès d'injustice et d'horreur </l>
+	<l id='40'>Déjà de mon amour a suivi la fureur ? </l>
+	<l id='41'>À ses brûlants transports livrant toute mon âme,</l>
+<note type="L">Perdre : signifie aussi, détruire, ruiner. C'est une homme qu'on veut "perdre" qu'on veut exterminer. [F]</note>
+	<l id='42'>J'ai perdu le mari, pour acquérir la femme.</l>
+	<l id='43'>Des beautés de la Reine éperdument épris,</l>
+	<l id='44'>D'un parricide affreux je l'ai faite le prix,</l>
+	<l id='45'>Et pour rompre du Roi ce second hyménée, </l>
+	<l id='46'>J'en ai par le poison tranché la destinée.</l>
+	<l id='47'>C'est peu de Sinatus à ma rage immolé,</l>
+	<l id='48'>Si mon devoir ailleurs n'est encor violé.</l>
+	<l id='49'>Hésione sa fille à qui son choix m'engage,</l>
+	<l id='50'>De mes lâches mépris souffre l'indigne outrage, </l>
+	<l id='51'>Et pour forcer les maux dont mon coeur est atteint,</l>
+	<l id='52'>Son exil est un ordre où je me vois contraint.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='53'>Mais lui-même à sa perte engagea votre flamme,</l>
+	<l id='54'>Il vous donnait sa fille, et vous aimiez sa femme,</l>
+	<l id='55'>Et dans un sort si dur, la seule mort d'un Roi </l>
+	<l id='56'>De ce fatal hymen dégageait votre foi ;</l>
+	<l id='57'>Mais de ce crime en vain l'ombre vous embarrasse,</l>
+	<l id='58'>Il n'en est point, Seigneur, que le trône n'efface,</l>
+	<l id='59'>Et dans quelques horreurs qu'on ait pu se porter,</l>
+	<l id='60'>Pour être absous de tout, il suffit d'y monter.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='61'>Ce sont là des tyrans les damnables maximes</l>
+	<l id='62'>En qui l'impunité fait le pardon des crimes,</l>
+	<l id='63'>Et qui d'un noir forfait espérant quelque bien,</l>
+	<l id='64'>Après l'avoir commis ne se reprochent rien ;</l>
+	<l id='65'>Mais las ! Tu me plaindrais si tu pouvais connaître </l>
+	<l id='66'>Ce que dans un grand coeur le repentir fait naître,</l>
+	<l id='67'>Quand après un effort mille fois combattu,</l>
+	<l id='68'>Le crime par contrainte échappe à la vertu,</l>
+	<l id='69'>De son indigne objet sans cesse possédée,</l>
+	<l id='70'>L'âme en traîne partout l'épouvantable idée, </l>
+	<l id='71'>Un vif et dur remords n'en est jamais banni, </l>
+	<l id='72'>Et coupable un moment on est toujours puni.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='73'>C'est beaucoup que du moins cette mort qui vous gêne</l>
+	<l id='74'>Soit toujours un secret ignoré de la Reine,</l>
+	<l id='75'>Et qu'à Sostrate seul l'ayant su confier, </l>
+	<l id='76'>Vous n'ayez point vers elle à vous justifier ;</l>
+	<l id='77'>Mais comme enfin, Seigneur, Sostrate a de l'adresse,</l>
+	<l id='78'>Devient-elle inutile auprès de la Princesse,</l>
+	<l id='79'>Et ses soins n'ont-ils pu la faire balancer</l>
+	<l id='80'>Sur l'hymen où pour lui vous la voulez forcer ? </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='81'>Il la voit chaque jour, Phaedime, et je puis dire</l>
+<note tpe="L">Martyre : si dit poétiquement et fréquemment de la souffrance des amants. [F]</note>
+	<l id='82'>Que ce cher confident partage mon martyre,</l>
+	<l id='83'>Puisqu'à mes intérêts s'osant abandonner,</l>
+	<l id='84'>Il a pris malgré lui ce qu'il n'a pû donner.</l>
+	<l id='85'>S'il a brigué d'abord son hymen pour me plaire, </l>
+	<l id='86'>C'est un bien aujourd'hui qu'à tout autre il préfère,</l>
+	<l id='87'>Et quoi qu'il m'ait caché, le chagrin qui le suit</l>
+	<l id='88'>Trahit le désespoir où l'amour le réduit.</l>
+	<l id='89'>Aussi plus que le mien son intérêt me presse</l>
+	<l id='90'>D'embrasser un conseil qui bannit la Princesse. </l>
+	<l id='91'>J'ai fait naître sa flamme, et je lui dois offrir,</l>
+	<l id='92'>L'éloignant de ses yeux, une aide à le guérir.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='93'>Sostrate est généreux, et jamais un vrai zèle</l>
+	<l id='94'>Ne marquera pour vous une âme plus fidèle,</l>
+	<l id='95'>Mais ce fatal amour qui l'accable aujourd'hui, </l>
+	<l id='96'>Serait peut-être un crime à tout autre qu'à lui.</l>
+	<l id='97'>D'un bel espoir trahi l'irréparable offense</l>
+	<l id='98'>Sur vous de la Princesse attire la vengeance,</l>
+	<l id='99'>Et prétendre à son coeur, c'est presser son courroux</l>
+	<l id='100'>D'accepter une main qui la venge de vous. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='101'>Contre moi de Sostrate il n'est rien qu'elle obtienne,</l>
+	<l id='102'>Mon amitié pour lui me répond de la sienne,</l>
+	<l id='103'>Sa vertu m'est connue, et ce que je lui dois</l>
+	<l id='104'>Ne me laisse aucun droit de douter de sa foi.</l>
+	<l id='105'>Cet amour que tu crains flatte en ce point ma peine </l>
+	<l id='106'>Qu'espérant d'être aimé si j'épouse la Reine,</l>
+	<l id='107'>Avec tant de chaleur il lui peint mon tourment...</l>
+	<l id='108'>Mais je la vois qui passe à son appartement.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Sinorix, Camma, Phaedime, Phénice.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='109'>Vos yeux de votre coeur marquant l'impatience,</l>
+	<l id='110'>Madame, et tant de soins d'éviter ma présence, </l>
+	<l id='111'>Ne me font que trop voir le peu qu'il prend de part</l>
+	<l id='112'>Au bonheur imprévu que m'offre le hasard.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='113'>Le chagrin où je vis me rend si peu traitable,</l>
+	<l id='114'>Que souvent malgré moi son aigreur vous accable,</l>
+	<l id='115'>Et mon zèle pour vous osant s'en indigner </l>
+	<l id='116'>Par ces soins de vous fuir cherche à vous l'épargner.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='117'>Ah, si ce n'est qu'au prix d'une si chère vue,</l>
+	<l id='118'>Perdez une bonté dont la rigueur me tue,</l>
+	<l id='119'>Et puisque pour mes voeux il n'est rien de si doux,</l>
+	<l id='120'>Accablez-moi plutôt que me priver de vous. </l>
+	<l id='121'>Je sais bien qu'à me voir quelque nouvel outrage</l>
+	<l id='122'>Toujours de mon amour repoussera l'hommage,</l>
+	<l id='123'>Que je n'entendrai rien qui me souffre l'espoir, </l>
+	<l id='124'>Mais, Madame, j'aurai le plaisir de vous voir.</l>
+	<l id='125'>Ce charme, où tout mon coeur pleinement s'abandonne, </l>
+	<l id='126'>Adoucit les mépris dont la fierté m'étonne,</l>
+	<l id='127'>Et dans l'âpre douleur de ce qu'il faut ouïr,</l>
+	<l id='128'>S'il ne peut l'étouffer, il la sait éblouir.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='129'>J'ignore quels mépris je vous ai fais paraître,</l>
+	<l id='130'>Mais je sais qu'en m'aimant vous m'avez dû connaître, </l>
+	<l id='131'>Et ne prétendre pas qu'une moindre fierté,</l>
+	<l id='132'>Du rang où je me vois soutint la dignité.</l>
+	<l id='133'>Sinatus me fit Reine, et quoi qu'un coup funeste</l>
+	<l id='134'>Ait réduit mon destin au seul nom qui m'en reste,</l>
+	<l id='135'>Le malheur de sa mort ne peut rien sur ma foi, </l>
+	<l id='136'>S'il ne vit plus pour vous, il vit encore pour moi ;</l>
+	<l id='137'>Je dois à son amour, je dois à sa mémoire</l>
+	<l id='138'>Le refus d'un hymen qui blesserait ma gloire,</l>
+	<l id='139'>Du trône en vain par là vous voulez me flatter,</l>
+	<l id='140'>Ce serait en descendre, et non pas y monter. </l>
+	<l id='141'>Usurpez sans remords la grandeur souveraine,</l>
+	<l id='142'>Veuve de Sinatus, je sais que je suis Reine,</l>
+	<l id='143'>Mais si je m'abaissais à vous donner ma foi,</l>
+	<l id='144'>Femme de Synorix, la serais-je d'un Roi ?</l>
+	<l id='145'>Votre hymen de ce rang ferait le sort arbitre, </l>
+	<l id='146'>J'en aurais le pouvoir, mais j'en perdrais le titre,</l>
+	<l id='147'>Et pour des droits honteux quittant un bien constant,</l>
+	<l id='148'>Je pourrais davantage, et ne ferais pas tant.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='149'>Oui, gardez votre rang, vous le perdrez, Madame,</l>
+	<l id='150'>Si d'un usurpateur vous devenez la femme, </l>
+	<l id='151'>Et de Reine aujourd'hui le nom qui vous est dû,</l>
+	<l id='152'>Dans ce titre odieux se verra confondu.</l>
+	<l id='153'>Mais pourquoi, rejetant l'offre d'une couronne,</l>
+	<l id='154'>Nommez-vous attentat le droit qui me la donne,</l>
+	<l id='155'>Et quel crime ai-je fait, quand secondé des Dieux</l>
+	<l id='156'>J'ai rentré par leur ordre au bien de mes aïeux ? </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='157'>Pour éblouir mes sens c'est une faible amorce</l>
+	<l id='158'>Qu'un droit qu'expliqua moins la raison que la force,</l>
+	<l id='159'>Le peuple fut timide, et vous voyant armé,</l>
+	<l id='160'>Préféra le tyran qui pouvait l'opprimer. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='161'>Et bien, je suis tyran, ma seule violence</l>
+	<l id='162'>Fut le droit qui m'acquit la suprême puissance,</l>
+	<l id='163'>Le crime est noir et lâche, il fait horreur à tous,</l>
+	<l id='164'>Mais causé par l'amour est-il crime pour vous ?</l>
+	<l id='165'>Cet amour n'aurait eu qu'une ardeur imparfaite </l>
+	<l id='166'>S'il m'eut souffert l'affront de vous laisser sujette,</l>
+	<l id='167'>Et seul au vol d'un trône ayant su me forcer,</l>
+	<l id='168'>Je ne l'ai fait du moins que pour vous y placer.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='169'>Et lorsqu'à cet excès monte votre injustice,</l>
+	<l id='170'>Vous trouvez glorieux de m'en rendre complice, </l>
+	<l id='171'>Et ce parfait amour qui cherche à m'obliger</l>
+	<l id='172'>Ne le peut qu'en m'offrant son crime à partager ?</l>
+	<l id='173'>Qu'ici nos sentiments diffèrent l'un de l'autre !</l>
+	<l id='174'>Vous trahissez ma gloire, et j'ai soin de la vôtre,</l>
+	<l id='175'>Et quand pour m'abaisser vous m'offrez votre foi, </l>
+	<l id='176'>Je cherche à faire en vous un légitime Roi.</l>
+	<l id='177'>Qu'à ces vives clartés votre aveuglement cesse,</l>
+	<l id='178'>Pour mériter le trône, épousez la Princesse,</l>
+	<l id='179'>Et lui rendant des voeux à sa flamme échappés,</l>
+	<l id='180'>Possédez justement ce que vous usurpez.  </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='181'>Si j'en formai pour elle, on ne les vit paraître</l>
+	<l id='182'>Que quand mon coeur pour vous n'osait se bien connaître,</l>
+	<l id='183'>Et que son zèle ardent par un adroit détour</l>
+	<l id='184'>Cédait à mon devoir les soins de mon amour. </l>
+	<l id='185'>Ce coeur en qui l'espoir eut été lors un crime</l>
+	<l id='186'>Ne vit qu'elle après vous digne de son estime,</l>
+	<l id='187'>Et pour ce triste hymen, mal instruit de mon feu,</l>
+	<l id='188'>Sinatus le pressant, il donna son aveu ;</l>
+	<l id='189'>Mais si tôt que sa mort laissant agir ma flamme,</l>
+	<l id='190'>Du secret de mes voeux eut dégagé mon âme, </l>
+	<l id='191'>Libres dans leur hommage, il leur fut assez doux</l>
+	<l id='192'>D'être encore en état de s'expliquer pour vous.</l>
+	<l id='193'>Ainsi ce qu'ils cachaient se fit bientôt connaître,</l>
+	<l id='194'>Je parus inconstant afin de ne pas l'être,</l>
+	<l id='195'>Et fis voir qu'à mon feu, pour s'oser exprimer, </l>
+	<l id='196'>Il manquait seulement que vous pussiez aimer.</l>
+	<l id='197'>Vous le pouvez, Madame, et de vos voeux maîtresse...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='198'>Non, non, c'est présumer en moi trop de faiblesse,</l>
+	<l id='199'>Quoi qu'un Trône ait d'éclat, il n'a rien d'assez doux</l>
+<note type="L">Manes : terme poétique qui signifie l'ombre ou l'âme d'un mort. [F]</note>
+	<l id='200'>Pour me faire trahir les mânes d'un époux. </l>
+	<l id='201'>Il est mort, et sa fille en ce malheur extrême,</l>
+<note type="L">Diadème : c'était autrefois un bandeau royal tissu de fil, de laine, ou de soie, qui était la marque de la royauté. [F]</note>
+	<l id='202'>Du moins par votre hymen a droit au diadème :</l>
+	<l id='203'>Vous pouvez à ses yeux en ceindre un autre front,</l>
+	<l id='204'>Mais ce n'est point par moi qu'elle en aura l'affront.</l>
+	<l id='205'>Pour en donner l'aveu, quoi que vous puissiez faire, </l>
+	<l id='206'>La source de son sang à mon coeur est trop chère,</l>
+	<l id='207'>Et l'on ne verra point qu'infidèle à ce sang</l>
+	<l id='208'>J'aide à la tyrannie à lui voler son rang.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='209'>Ah, puisque vous prenez quelque soin de ma gloire,</l>
+	<l id='210'>Sauvez-la d'un péril plus grand qu'on ne peut croire, </l>
+	<l id='211'>Et ne me forcez point, lorsque je m'en défends,</l>
+	<l id='212'>À mériter l'horreur que l'on doit aux tyrans.</l>
+	<l id='213'>J'aime une Reine auguste, et cette ardeur est telle</l>
+	<l id='214'>Que n'aimant et le trône et le jour que pour elle,</l>
+	<l id='215'>Mon coeur, que les dédains peuvent pousser à bout, </l>
+	<l id='216'>Dedans son désespoir, est capable de tout.</l>
+	<l id='217'>Daignez m'en épargner la fatale disgrâce. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='218'>Vous avancez beaucoup d'employer la menace.</l>
+	<l id='219'>Je ne vous dirai point s'il la faut redoubler,</l>
+	<l id='220'>Mais mon coeur est à vous quand il pourra trembler. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='221'>Et bien, pour me punir allez jusqu'à l'outrage,</l>
+	<l id='222'>Noircissez ce beau feu dont vous fuyez l'hommage,</l>
+	<l id='223'>Malgré tant de mépris redoublez chaque jour,</l>
+	<l id='224'>Dans un respect égal vous verrez mon amour,</l>
+	<l id='225'>Je vous le jure encor ; mais pour le satisfaire, </l>
+	<l id='226'>Sachant ce qui me nuit, je sais ce qu'il faut faire,</l>
+	<l id='227'>Et lui devant l'éclat d'un trop juste courroux,</l>
+	<l id='228'>Je puis être tyran pour d'autres que pour vous.</l>
+	<l id='229' part='i'>Je vous laisse y penser, Madame.</l>
+</sp>
+</div2>
+<div2 type='scene' n=''><head>SCÈNE III. Camma, Phénice.</head>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='229' part='f'>Ah, le perfide ! </l>
+	<l id='230'>Il veut donc achever son lâche parricide,</l>
+	<l id='231'>Joindre la fille au père ! Ô mon unique espoir ?</l>
+	<l id='232'>Ô vengeance, est-ce ainsi que tu sers mon devoir ?</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='233'>Si dans vos déplaisirs la vengeance vous flatte,</l>
+	<l id='234'>Pour en jouir, Madame, il est temps qu'elle éclate, </l>
+	<l id='235'>Sinorix menaçant, rien n'est à négliger.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='236'>Quoi, tu doutes encor si je veux me venger ?</l>
+	<l id='237'>Par le noir attentat de ce tyran infâme </l>
+	<l id='238'>J'aurai vu dans mes bras Sinatus rendre l'âme,</l>
+	<l id='239'>Et me contenterai dans un si rude sort </l>
+	<l id='240'>De reprocher aux Dieux le crime de sa mort ?</l>
+	<l id='241'>Hélas ! Il me souvient de ce fatal augure</l>
+	<l id='242'>Qui d'un peuple étonné fit naître le murmure,</l>
+	<l id='243'>Quand lui donnant ma foi, le coeur tout interdit,</l>
+	<l id='244'>Le vase nuptial tout à coup s'épandit. </l>
+	<l id='245'>De ce triste accident l'infortuné présage</l>
+	<l id='246'>D'une secrète horreur saisit tout mon courage,</l>
+	<l id='247'>Et m'annonça dès lors les funestes malheurs</l>
+	<l id='248'>Qui pressent ma vengeance, et font couler mes pleurs.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='249'>Pour bien l'exécuter, si vous m'en voulez croire, </l>
+	<l id='250'>Il faut que la Princesse en partage la gloire ;</l>
+	<l id='251'>Comme elle ignore encore le crime du poison,</l>
+	<l id='252'>Vos mépris, d'un tyran lui font en vain raison,</l>
+	<l id='253'>Elle les prend pour feinte, et croyant que dans l'âme</l>
+	<l id='254'>La seule ardeur du trône est ce qui vous enflamme, </l>
+	<l id='255'>De ces jaloux soupçons l'impatiente aigreur</l>
+	<l id='256'>Vous fait souffrir assez pour la tirer d'erreur,</l>
+	<l id='257' part='i'>Vous savez sa fierté.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='257' part='f'>De quoi qu'elle m'accuse,</l>
+	<l id='258'>Il n'est pas temps encor que je la désabuse, </l>
+	<l id='259'>Si la gloire en secret me pousse à me venger,</l>
+	<l id='260'>Ce serait l'affaiblir que de la partager.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='261'>Mais Sostrate l'aimant, peut-être que par elle</l>
+	<l id='262'>Il vous serait aisé d'en corrompre le zèle.</l>
+	<l id='263'>Dans ce que sur sa foi Sinorix prend d'appui, </l>
+	<l id='264'>Sostrate pouvant tout, on ne peut rien sans lui,</l>
+	<l id='265'>Il vous faut l'acquérir, et l'amour qui le flatte</l>
+	<l id='266' part='i'>Le peut seul obliger...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='266' part='f'>Tu connais mal Sostrate,</l>
+	<l id='267'>Il aime, il cherche à plaire, et toutefois, hélas ! </l>
+	<l id='268'>Son coeur contre un tyran craint d'avouer son bras.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='269' part='i'>Vous le savez, Madame ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='269' part='f'>Apprends par quelle adresse,</l>
+	<l id='270'>Brûlant pour une Reine, il feint pour la Princesse,</l>
+	<l id='271'>Et que mon ordre exprès y contraignant sa foi, </l>
+	<l id='272'>Lui fait cacher ainsi l'amour qu'il a pour moi.</l>
+	<l id='273'>Sinorix qui l'engage à m'expliquer sa peine,</l>
+	<l id='274'>Lui donnant lieu d'agir, l'offre entier à ma haine ;</l>
+	<l id='275'>Non qu'il m'ait avoué la noire trahison</l>
+	<l id='276'>Qui contre Sinatus se servit du poison, </l>
+	<l id='277'>Mais je reconnais trop, quelques soins qu'il emploie,</l>
+	<l id='278'>Qu'en me niant ce crime il veut que je le croie,</l>
+	<l id='279'>On pénètre aisément dans le coeur des amants.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='280'>Mais, Madame, pour lui quels sont vos sentiments ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='281'>Te parler sans aigreur de l'ardeur qui le presse, </l>
+	<l id='282'>Phénice, n'est ce pas t'avouer ma faiblesse,</l>
+	<l id='283'>Et que ce triste coeur de vengeance animé,</l>
+	<l id='284'>N'a pu si bien haïr qu'il n'ait enfin aimé.</l>
+	<l id='285'>Non que par une lâche et honteuse victoire</l>
+	<l id='286'>L'amour à mon devoir puisse en ravir la gloire, </l>
+	<l id='287'>Au souvenir affreux de la mort d'un époux</l>
+	<l id='288'>Il me soumet soudain les charmes les plus doux,</l>
+	<l id='289'>Mais à quelques transports que cette mort me livre,</l>
+	<l id='290'>Il m'ôte en le vengeant le dessein de le suivre,</l>
+	<l id='291'>Et me vantant Sostrate, il force mon ennui </l>
+	<l id='292'>À chercher les moyens d'oser vivre pour lui.</l>
+	<l id='293'>C'est par là que flatté d'une douce espérance </l>
+	<l id='294'>Mon coeur s'est fait enfin le prix de ma vengeance,</l>
+	<l id='295'>Et que pour lui devoir un si précieux bien,</l>
+	<l id='296'>Ce qu'aurait fait mon bras, je l'ai remis au sien. </l>
+	<l id='297'>Cependant, et c'est-là ce que je me reproche,</l>
+	<l id='298'>Je le vois reculer plus ce grand coup approche,</l>
+	<l id='299'>Il tremble, et son amour prêt à se déclarer,</l>
+	<l id='300'>Toujours sur quelque obstacle aspire à différer ;</l>
+	<l id='301'>Mais puisqu'à menacer le tyran s'autorise, </l>
+	<l id='302'>Un péril si pressant ne veut plus de remise,</l>
+	<l id='303'>Il faut montrer ma haine, et que si jusqu'ici</l>
+	<l id='304'>La Princesse abusée a cru... mais la voici.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Camma, Hésione, Phénice.</head>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='305'>Madame, je ne sais si dans ce qui se passe</l>
+	<l id='306'>De mes ressentiments vous approuvez l'audace, </l>
+	<l id='307'>Et si de mon orgueil l'éclat impétueux</l>
+	<l id='308'>N'a rien pour Sinorix qui contraigne vos voeux.</l>
+	<l id='309' part='i'>Il tâche à les séduire, et le trône...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='309' part='f'>Oui, Princesse,</l>
+	<l id='310'>Mais qu'ils cèdent ou non, que ce scrupule cesse, </l>
+	<l id='311'>L'injure qu'on vous fait et qu'il faut réparer,</l>
+<note type="L">Déférer : Rendre les respects, de soumissions à quelqu'un, se ranger à son avis, lui complaire. [F]</note>
+	<l id='312'>À leur ambition n'a rien à déférer.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='313'>Un zèle dont l'ardeur me sera toujours chère,</l>
+	<l id='314'>M'oblige à respecter la veuve de mon père,</l>
+	<l id='315'>Et je ne croirais pas y répondre assez bien </l>
+	<l id='316'>Si sur votre intérêt je ne réglais le mien.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='317'>Donc si j'ose accepter l'offre d'une Couronne,</l>
+	<l id='318'>Ce zèle généreux soudain me l'abandonne ?</l>
+	<l id='319'>Sans vouloir rien prétendre, il m'en cède l'espoir ?</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='320'>Pour m'y résoudre au moins je voudrais le savoir. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='321'>Si ma façon d'agir vous l'a fait mal comprendre,</l>
+	<l id='322'>Par de plus grands effets il faudra vous l'apprendre,</l>
+	<l id='323'>D'un doute trop cruel votre esprit est atteint.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='324'>Je sais que Sinorix vous accuse, et se plaint ;</l>
+	<l id='325'>Mais souvent le dehors n'est qu'une adroite feinte, </l>
+	<l id='326'>Qui résiste le plus aimé à céder contrainte,</l>
+	<l id='327'>Et cet amusement des crédules esprits</l>
+	<l id='328'>Fait subsister l'espoir au milieu des mépris.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='329'>À d'étranges soupçons le chagrin vous expose.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='330'>Je veux bien l'avouer, Sostrate en est la cause, </l>
+	<l id='331'>Il vous voit si souvent que comme il m'ose aimer,</l>
+	<l id='332'>Vos secrets entretiens ont droit de m'alarmer.</l>
+	<l id='333'>Il croit, si le tyran vous avait épousée</l>
+	<l id='334'>Que mon coeur lui serait une conquête aisée,</l>
+	<l id='335'>Et c'est à quoi sans doute il tâche à vous porter ? </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='336'>Il en a l'ordre au moins s'il veut l'exécuter.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='337' part='i'>Qui l'en empêcherait ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='337' part='f'>Ma volonté peut-être,</l>
+	<l id='338'>Ou quelque autre raison que l'on ne peut connaître.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='339'>Mais vous l'auriez souffert un peu plus rarement. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='340'>Je n'ai pas cru devoir en user autrement.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='341'>Quand on ne prétend rien on doit peu se contraindre.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='342'>Il est bon quelquefois de se forcer à feindre.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='343'>C'est pour une grande âme un sentiment trop bas.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='344'>Oui, mais j'ai des secrets qu'on ne pénètre pas. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='345'>Je n'ai pas mérité d'en savoir le mystère.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='346'>Vous en usez si mal que j'ai lieu de me taire,</l>
+	<l id='347'>Mais enfin je pardonne à l'aigreur où vous met</l>
+	<l id='348'>L'injurieux éclat de l'affront qu'on vous fait,</l>
+	<l id='349'>Sans me considérer pressez-en la vengeance, </l>
+	<l id='350'>Je la verrai sans peine, et pour plus d'assurance</l>
+	<l id='351'>Je vous laisse Sostrate, avec qui consulter</l>
+	<l id='352'>Des moyens les plus sûrs de bien l'exécuter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Hésione, Sostrate.</head>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='353'>Viens, Sostrate, il est temps que je t'ouvre mon âme</l>
+	<l id='354'>Sur l'espoir dont enfin tu peux flatter ta flamme. </l>
+	<l id='355'>Tes soins de mon orgueil en poursuivent l'aveu ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='356'>Madame, le respect accompagne mon feu,</l>
+	<l id='357'>Sinorix jusqu'à vous en a porté l'audace,</l>
+	<l id='358'>Mais quoi que son appui combatte ma disgrâce,</l>
+	<l id='359'>Vous me pouvez toujours défendre d'espérer, </l>
+	<l id='360'>Sans que mon coeur jamais en ose murmurer.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='361'>Tu me l'as fait paraître, et j'aurais lieu sans doute</l>
+	<l id='362'>D'admirer les efforts que ton respect te coûte,</l>
+	<l id='363'>Si d'un charme trompeur ton esprit combattu</l>
+	<l id='364'>Ne laissait contre moi séduire ta vertu. </l>
+	<l id='365'>Ta foi pour Sinorix cherche à gagner la Reine ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='366'>Vers toute autre ce soin pourrait vous mettre en peine,</l>
+	<l id='367' part='i'>Mais tant de fiers mépris...</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='367' part='f'>Ne les vante point tant,</l>
+	<l id='368'>J'en connais l'artifice, et vois ce qu'elle attend. </l>
+	<l id='369'>Tu verrais le tyran toucher bientôt son âme</l>
+	<l id='370'>Si j'avais de ma main récompensé ta flamme,</l>
+	<l id='371'>Et donné lieu par là de rejeter sur moi</l>
+	<l id='372'>L'affront de le réduire à me manquer de foi ;</l>
+	<l id='373'>Mais si ce seul espoir l'engage à se contraindre,</l>
+	<l id='374'>Elle me connaÏt mal de s'obstiner à feindre,</l>
+	<l id='375'>Et d'oser présumer qu'un coeur comme le mien</l>
+	<l id='376'>Par mon hymen jamais autorise le sien.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='377'>Il est juste, Madame, et l'ardeur de vous plaire</l>
+	<l id='378'>N'enfle pas mes désirs d'un orgueil téméraire, </l>
+	<l id='379'>Jusqu'à prétendre enfin qu'elle aura le pouvoir...</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='380'>Va, c'est un peu trop tôt renoncer à l'espoir ;</l>
+	<l id='381'>Non que par cet aveu que tu n'osais attendre,</l>
+	<l id='382'>Flattant ta passion, je veuille la surprendre,</l>
+	<l id='383'>Je ne te dirai point qu'elle ait pu m'enflammer, </l>
+	<l id='384'>Mais si je n'aime point, du moins je puis aimer.</l>
+	<l id='385'>C'est à toi de chercher à m'en rendre capable,</l>
+	<l id='386'>Mon estime déjà t'est assez favorable,</l>
+	<l id='387'>Je connais ton mérite, et sais que dans ton rang</l>
+	<l id='388'>Jamais plus de vertu ne soutint un beau sang. </l>
+	<l id='389'>Tu vois que je commence, achève, entreprends, ose,</l>
+	<l id='390'>Peut-être un seul obstacle à ton bonheur s'oppose.</l>
+	<l id='391'>J'aspire à me venger, et ce fier mouvement</l>
+	<l id='392'>Éloigne de mon coeur tout autre sentiment.</l>
+	<l id='393'>Plein d'une passion et si juste et si forte, </l>
+	<l id='394'>Pour y faire entrer l'une, il faut que l'autre en sorte,</l>
+	<l id='395'>Et ta flamme à l'espoir cherche en vain quelque jour,</l>
+	<l id='396'>À moins que la vengeance ait fait place à l'amour.</l>
+	<l id='397'>J'ai reçu du tyran le plus sanglant outrage,</l>
+	<l id='398'>Tu le sais, je n'ai rien à dire davantage : </l>
+	<l id='399'>Ou du feu qui te brûle écoute moins l'appas,</l>
+	<l id='400'>Ou ne m'offre ton coeur qu'en suite de ton bras.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='401' part='i'>Quoi...</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='401' part='f'>Ne réplique point ; quand ce grand coup t'étonne,</l>
+	<l id='402'>Vois que je suis ta Reine, et que je te l'ordonne, </l>
+	<l id='403'>Et si ta lâcheté me prépare un refus, </l>
+	<l id='404'>Ne me le fais savoir qu'en ne me voyant plus.</l>
+	<l id='405' part='i'>C'en sera l'assurance, adieu.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE>, seul.</speaker>
+	<l id='405' part='f'>Que fuir ta vue</l>
+	<l id='406'>N'est-ce tout le péril d'un ordre qui me tue ! </l>
+	<l id='407'>Mais las ! forcé d'aimer, quels seront mes souhaits</l>
+	<l id='408'>S'il faut trahir par tout, ou n'espérer jamais ?</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sinorix, Hésione,  Phaedime.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='409'>Je vous le dis encor, c'est à vous de résoudre.</l>
+	<l id='410'>Il est en votre choix de repousser la foudre,</l>
+	<l id='411'>Je la tiens suspendue, et malgré mon courroux </l>
+	<l id='412'>J'ai peine à consentir qu'elle éclate sur vous ;</l>
+	<l id='413'>Mais votre orgueil m'y force, et de quoi qu'il vous flatte,</l>
+	<l id='414'>Si vous n'y renoncez en faveur de Sostrate,</l>
+	<l id='415'>Je sais ce que je dois à ses feux méprisés</l>
+	<l id='416'>Au défaut de l'aveu que vous lui refusez. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='417'>Certes, jusques ici l'exemple est assez rare</l>
+	<l id='418'>Que contre l'injustice un Tyran se déclare.</l>
+	<l id='419'>J'en fais une, il est vrai, si Sostrate confus</l>
+	<l id='420'>À l'orgueil de mon sang impute mes refus ;</l>
+	<l id='421'>Mais quel aveuglement fait que tu me l'opposes ? </l>
+	<l id='422'>La veux-tu condamner quand c'est toi qui la causes</l>
+	<l id='423'>Et que par l'attentat qui t'élève aujourd'hui</l>
+	<l id='424'>Tu m'ôtes le pouvoir de rien faire pour lui ?</l>
+	<l id='425'>Tu le plains de montrer une vertu sublime </l>
+	<l id='426'>Sans qu'à peine il m'en coûte un sentiment d'estime, </l>
+	<l id='427'>Mais ce charme brillant dont mon coeur est surpris,</l>
+	<l id='428'>Quand il se donnerait, demande un plus haut prix.</l>
+	<l id='429'>Au lieu de lui prester cette pitié frivole,</l>
+	<l id='430'>Rends-moi l'éclat du rang que ta rage me vole,</l>
+	<l id='431'>Alors tu connaîtras s'il faut me reprocher </l>
+	<l id='432'>Que l'amour d'un héros ne puisse me toucher.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='433'>Cessez de vous flatter d'un droit imaginaire</l>
+	<l id='434'>Qui vous laisse prétendre à la grandeur d'un père,</l>
+	<l id='435'>Quoi que dans vos aïeux vous comptiez de nos rois,</l>
+	<l id='436'>Sinatus pour régner abusa de mes droits. </l>
+	<l id='437'>Sa brigue plus puissante et la faveur de l'âge</l>
+	<l id='438'>Du peuple suborné lui gagnèrent l'hommage,</l>
+	<l id='439'>Et par sa préférence obligé de céder,</l>
+	<l id='440'>On me vit obéir où je dus commander.</l>
+	<l id='441'>Il en donna lui-même une preuve assez claire </l>
+	<l id='442'>Lorsque par votre hymen il crut me satisfaire,</l>
+	<l id='443'>Et voulut que du moins le droit me fut rendu</l>
+	<l id='444'>D'un trône qu'à moi seul il savait être dû.</l>
+	<l id='445'>Ce moyen d'y rentrer et certain et facile,</l>
+	<l id='446'>Me fit voir la révolte un projet inutile, </l>
+	<l id='447'>Par ce seul intérêt j'en acceptai l'accord ;</l>
+	<l id='448'>Mais pour m'en dégager le Ciel permit sa mort,</l>
+	<l id='449'>Par là de tout l'État rendu maître sans peine,</l>
+	<l id='450'>J'osai me consulter sur le choix d'une reine,</l>
+	<l id='451'>Et sans amour pour vous, je crus honteux pour moi </l>
+	<l id='452'>De sembler vous devoir la qualité de Roi.</l>
+	<l id='453'>Appelez-moi tyran, ingrat, traître, parjure,</l>
+	<l id='454'>Vos seuls emportements font toute votre injure,</l>
+	<l id='455'>Et c'est un peu trop loin en pousser la rigueur</l>
+	<l id='456'>Que vouloir sur le trône assujettir mon coeur. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='457'>Moi, que par une lâche et honteuse faiblesse </l>
+	<l id='458'>Je cherche de ton coeur à me rendre maîtresse ?</l>
+	<l id='459'>Je l'aurais accepté quand sur l'aveu du Roi</l>
+	<l id='460'>Ma vertu te pouvait rendre digne de moi ;</l>
+	<l id='461'>Mais quelque juste ardeur dont le trône m'anime, </l>
+	<l id='462'>Ne crois pas que je t'aide à jouir de ton crime ;</l>
+	<l id='463'>Qui tient pour y monter le chemin que tu prends</l>
+	<l id='464'>Mérite d'y périr comme font les tyrans.</l>
+	<l id='465'>Rendre par mon hymen ta grandeur affermie,</l>
+	<l id='466'>Ce serait de leur sort t'épargner l'infamie, </l>
+	<l id='467'>Et d'un rang où t'élève un indigne attentat,</l>
+	<l id='468'>Prendre sur moi la honte, et t'assurer l'éclat.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='469'>Rejetez-la, Madame, et sauvez votre gloire</l>
+	<l id='470'>Du péril odieux d'une tâche si noire ;</l>
+	<l id='471'>Mon coeur qui voit l'injure où vous alliez céder, </l>
+	<l id='472'>Sur un si noble soin aime à vous seconder.</l>
+	<l id='473'>Sans doute il ne vaut pas, ce coeur bas, ce coeur lâche,</l>
+	<l id='474'>Qu'à son indignité votre vertu l'arrache,</l>
+	<l id='475'>Et vous craignez en vain que je ne fasse effort</l>
+	<l id='476'>À répandre sur vous la honte de mon sort ; </l>
+	<l id='477'>Mais quelque triste fin qu'il faille que j'en craigne,</l>
+	<l id='478'>S'il m'expose à périr, il m'apprend que je règne,</l>
+	<l id='479'>Et jusqu'au dur revers qui saura me trahir,</l>
+	<l id='480'>J'aurai la joie au moins de me faire obéir.</l>
+	<l id='481'>Soutenez votre orgueil ; quelque loin qu'il s'étende, </l>
+	<l id='482'>Je sais ce que je puis alors que je commande,</l>
+	<l id='483'>Et si toujours Sostrate est par vous outragé,</l>
+	<l id='484'>Ne pouvant être heureux, il peut être vengé.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='485'>Va, ne crois pas qu'ici son intérêt m'abuse,</l>
+	<l id='486'>D'un faux zèle pour lui je vois l'indigne ruse, </l>
+	<l id='487'>Par cet empressement à soutenir son feu </l>
+	<l id='488'>Ta lâcheté du tien sollicite l'aveu.</l>
+	<l id='489'>Ce que la Reine doit au sang dont je suis née</l>
+	<l id='490'>Lui défend d'accepter la foi qui m'est donnée,</l>
+	<l id='491'>Et quoi que mon orgueil en dédaigne l'appas, </l>
+	<l id='492'>Le mépris que j'en fais ne te dégage pas.</l>
+	<l id='493'>Tu le vois, et l'hymen où tu crois me contraindre,</l>
+	<l id='494'>La doit mettre en état de n'avoir plus à feindre,</l>
+	<l id='495'>De répondre à ta flamme, et de s'abandonner</l>
+	<l id='496'>Aux douceurs de l'espoir que tu lui fais donner ; </l>
+	<l id='497'>Mais maîtresse d'un coeur qui brave ton Empire,</l>
+	<l id='498'>Je ris des vains projets que cet amour t'inspire,</l>
+	<l id='499'>Et tous mes déplaisirs semblent s'évanouir</l>
+	<l id='500'>Quand tu fais un parjure, et n'en saurais jouir.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='501'>J'en jouirai, Madame, et puisque votre audace </l>
+	<l id='502'>Ose presser l'effet d'une juste menace,</l>
+	<l id='503'>Nous verrons si l'exil pourra vous laisser jour</l>
+	<l id='504'>À trouver les moyens de nuire à mon amour,</l>
+	<l id='505' part='i'>L'arrêt en est donné.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='505' part='f'>Fais donc qu'on l'exécute. </l>
+	<l id='506'>C'est par là que les Dieux ont résolu ta chute,</l>
+	<l id='507'>Sans cette indignité mon Sort serait trahi,</l>
+	<l id='508'>Plus tu seras tyran, plus tu seras haï,</l>
+	<l id='509'>Mes sujets me plaindront, et leur haine timide</l>
+	<l id='510'>Cessera dans ta mort de croire un parricide. </l>
+	<l id='511'>Redouble tes forfaits ; loin d'en rien redouter,</l>
+	<l id='512'>Je vais faire des voeux afin de les hâter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Sinorix, Phaedime.</head>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='513'>Je l'avais bien prévu, Seigneur, que la menace,</l>
+	<l id='514'>Loin d'étonner sa haine, aigrirait son audace,</l>
+	<l id='515'>Il fallait sans la voir en venir aux effets. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='516'>Ah, laisse moi trembler du dessein que je fais,</l>
+	<l id='517'>Et souffre à ma vertu, que mon amour opprime,</l>
+	<l id='518'>De faire quelque effort pour m'épargner un crime,</l>
+	<l id='519'>Cet exil qu'elle presse a droit de m'effrayer,</l>
+	<l id='520'>Avant ce dur remède il faut tout essayer. </l>
+	<l id='521'>Au péril de l'orgueil qu'elle m'a fait paraître</l>
+	<l id='522'>J'ai dû lui faire voir quels maux en peuvent naître,</l>
+	<l id='523'>Va lui parler encore, et tâche d'obtenir...</l>
+	<l id='524'>Mais quel frivole espoir ose m'entretenir ?</l>
+	<l id='525'>Après tant de refus d'obéir, de se rendre, </l>
+	<l id='526'>Ai-je rien à tenter ? Ai-je rien à prétendre ?</l>
+	<l id='527'>Non, non, il faut enfin à son coeur indigné</l>
+	<l id='528'>Dérober la douceur de me voir dédaigné,</l>
+	<l id='529'>De voir que si la Reine à ma flamme s'oppose,</l>
+	<l id='530'>De tout ce que je souffre elle est la seule cause, </l>
+	<l id='531'>Ou plutôt il faudrait par un noble retour</l>
+	<l id='532'>Avec mon injustice éteindre mon amour ;</l>
+	<l id='533'>Mais hélas ! Je sens bien que vain de sa défaite</l>
+	<l id='534'>Mon coeur craint à ce prix le repos qu'il souhaite,</l>
+	<l id='535'>Et qu'il n'est point de maux où je n'ose m'offrir </l>
+	<l id='536'>S'il faut cesser d'aimer pour cesser de souffrir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Sinorix, Sostrate, Phaedime.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='537'>Et bien ? As-tu, Sostrate, entretenu la Reine ?</l>
+	<l id='538'>La Princesse toujours règle-t-elle sa haine,</l>
+	<l id='539'>Et sur ses intérêts son indigne rigueur</l>
+	<l id='540'>S'obstine-t-elle encor au refus de mon coeur ? </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='541'>Si votre amour du temps n'attend quelque miracle,</l>
+	<l id='542'>En vain de son orgueil il croit vaincre l'obstacle.</l>
+	<l id='543'>Comme elle s'est tantôt expliquée avec vous,</l>
+	<l id='544'>Mes soins n'ont fait, Seigneur, qu'accroître son courroux.</l>
+	<l id='545'>C'est assez qu'elle-même elle ait voulu vous dire </l>
+	<l id='546'>Quel inutile espoir flatte votre martyre,</l>
+	<l id='547'>Votre pouvoir est grand, mais pour forcer sa foi,</l>
+	<l id='548'>Il n'étend point vos droits sur la veuve d'un Roi.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='549'>Oui, Sostrate, elle peut me dédaigner sans craindre</l>
+	<l id='550'>Que mon amour s'emporte à la vouloir contraindre. </l>
+	<l id='551'>Quoi qu'à ma tyrannie elle ose reprocher,</l>
+	<l id='552'>Son coeur doit s'obtenir, et non pas s'arracher ;</l>
+	<l id='553'>Mais puisque la Princesse à ces mépris m'expose,</l>
+	<l id='554'>De mon malheur en elle il faut punir la cause,</l>
+	<l id='555'>Et te venger des maux où t'a précipité </l>
+	<l id='556'>L'inutile secours que ton feu m'a prêté.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='557'>Quoi, contre la Princesse armer votre colère ? </l>
+	<l id='558' part='i'>Ah, Seigneur, songez-vous...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='558' part='f'>L'arrêt t'en doit déplaire,</l>
+	<l id='559'>Tu l'aimes, je le sais, et ton amour soumis </l>
+	<l id='560'>Pour punir son orgueil ne se croit rien permis.</l>
+	<l id='561'>Garde ces sentiments, tandis que ma vengeance</l>
+	<l id='562' part='i'>Pressant...</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='562' part='f'>Voyez, Seigneur, que la Reine s'avance.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='563'>La Reine vient ici ! Qu'en dois-je présumer ? </l>
+	<l id='564'>Dieux, rendez-la flexible, ou m'empêchez d'aimer.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Sinorix, Camma, Sostrate, Phaedime.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='565'>Madame, quel dessein en ce lieu vous amène ?</l>
+	<l id='566'>Y venez-vous chercher à jouir de ma peine,</l>
+	<l id='567'>Et dans le désespoir où vous m'avez réduit,</l>
+	<l id='568'>Par ce triste spectacle en goûter mieux le fruit ? </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='569'>Je veux bien l'avouer, vous m'aviez su contraindre</l>
+	<l id='570'>À croire en vous ce feu dont je vous oyais plaindre,</l>
+	<l id='571'>Mais dans vos feints transports je connais mon erreur,</l>
+	<l id='572'>Vous appelez amour ce qui n'est que fureur.</l>
+	<l id='573'>Quoi ? Si je me défens de faire une bassesse,</l>
+	<l id='574'>Il faut soudain d'exil menacer la Princesse,</l>
+	<l id='575'>Et d'un indigne espoir votre coeur combattu</l>
+	<l id='576'>Ose trouver pour elle un crime en ma vertu ?</l>
+	<l id='577'>Suivez un mouvement qu'il vous est doux de croire,</l>
+	<l id='578'>Dans votre tyrannie enveloppez ma gloire, </l>
+	<l id='579'>Et rejetez sur moi par l'ardeur de régner</l>
+	<l id='580'>La honte du dessein qui vous fait l'éloigner ;</l>
+	<l id='581'>J'en fuirai l'infamie en prenant sa querelle,</l>
+	<l id='582'>Et quelque fière ardeur qui vous arme contre elle,</l>
+	<l id='583'>Nous verrons qui des deux en fera plus juger, </l>
+	<l id='584'>Ou vous pour la punir, ou moi pour la venger.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='585'>Ce dessein de vengeance est l'effet d'un beau zèle,</l>
+	<l id='586'>Mais vous répondez-vous qu'il fasse assez pour elle,</l>
+	<l id='587'>Lorsque pour prévenir l'arrêt que vous craignez</l>
+	<l id='588'>Il ne faut qu'accepter ce que vous dédaignez ? </l>
+	<l id='589'>Pour ses seuls intérêts infidèle à vous-même,</l>
+	<l id='590'>Je vous vois rejeter l'offre du diadème,</l>
+	<l id='591'>Mon amour s'en offense, et cet éloignement</l>
+	<l id='592'>Est le moins qu'il prescrive à mon ressentiment,</l>
+	<l id='593'>Il peut aller plus loin, mais quoi qu'il exécute, </l>
+	<l id='594'>C'est un mal qu'à vous seule il faudra qu'on impute,</l>
+	<l id='595'>Et ce sera pour vous un genre de forfait</l>
+	<l id='596'>D'avoir pu l'empêcher, et ne l'avoir pas fait.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='597'>Et bien, sans respecter le sang qui la fit naître</l>
+	<l id='598'>Commence enfin, tyran, à te faire connaître, </l>
+	<l id='599'>Montre-toi tout entier, et cherche à découvrir</l>
+	<l id='600'>La lâcheté du coeur que tu m'oses offrir.</l>
+	<l id='601'>Je veux qu'à t'épouser son intérêt m'engage,</l>
+	<l id='602'>Ce coeur que tu poursuis sera-t-il ton partage</l>
+	<l id='603'>Et crois-tu qu'un aveu par contrainte arraché </l>
+	<l id='604'>L'acquière à tes souhaits si tu ne l'as touché ?</l>
+	<l id='605'>Songe qu'indépendant, et jaloux de ce titre </l>
+	<l id='606'>C'est lui seul de ses droits qu'il choisit pour arbitre,</l>
+	<l id='607'>Et que contre ses voeux, la plus pressante loi</l>
+	<l id='608'>Ne saurait le réduire à disposer de soi. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='609'>Dans les cruels mépris qui troublent ma constance</l>
+	<l id='610'>Le refus que j'ai fait d'user de violence</l>
+	<l id='611'>Montre assez que l'amour qui règne dans mon sein,</l>
+	<l id='612'>S'il ne gagne le coeur, n'estime point la main ;</l>
+	<l id='613'>Mais ne m'opposez point pour obstacle invincible </l>
+	<l id='614'>Que ce coeur par lui seul peut devenir sensible,</l>
+	<l id='615'>Nos désirs sont sa règle, et contraint d'obéir,</l>
+	<l id='616'>Il prend d'eux le penchant d'aimer ou de haïr.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='617'>Si ce divers penchant est un droit qu'il nous laisse,</l>
+	<l id='618'>Tâche de m'en convaincre en aimant la Princesse, </l>
+	<l id='619'>Et puisque ton amour se soumet à ton choix</l>
+	<l id='620'>Dispose en sa faveur d'un coeur que tu lui dois,</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='621'>Me contraindre à l'aimer ! Et votre erreur est telle...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='622'>Quoi ? Puis-je plus pour toi que tu ne peux pour elle,</l>
+	<l id='623'>Et ce pénible effort où ton coeur ne peut rien, </l>
+	<l id='624'>Suis-je plus en pouvoir de l'obtenir du mien ?</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='625'>Oui, Madame, et ce coeur ne pourrait se défendre</l>
+	<l id='626'>Des soins qu'à la Princesse il refuse de rendre,</l>
+	<l id='627'>Si d'un premier amour les doux et pressants noeuds</l>
+	<l id='628'>Le laissaient en état de former d'autres voeux ; </l>
+	<l id='629'>Mais ce que vos beautés ont pris sur lui d'empire</l>
+	<l id='630'>Ne peut souffrir le choix qu'on lui voulait prescrire,</l>
+	<l id='631'>Et je quitte un espoir qui m'a trop su charmer</l>
+	<l id='632'>Si la même raison vous défend de m'aimer.</l>
+	<l id='633'>Déclarez-vous, Madame, et sur cette assurance </l>
+	<l id='634'>Triomphez d'un amour dont l'aveu vous offense,</l>
+	<l id='635'>Mon coeur que la raison oblige de céder,</l>
+	<l id='636'>Si vous aimez ailleurs, n'a rien à demander ;</l>
+	<l id='637'>J'en atteste les Dieux, et je veux que leur haine</l>
+	<l id='638'>M'expose sans relâche à la plus rude peine, </l>
+	<l id='639'>Si quelque heureux rival dont vous payiez la foi,</l>
+	<l id='640'>Je n'immole à ses voeux toute l‘amour d'un roi.</l>
+	<l id='641'>Mais aussi dès demain pour finir mon supplice,</l>
+	<l id='642'>Je veux avecque lui que l'hymen vous unisse,</l>
+	<l id='643'>Et que par ce revers mon malheur confirmé </l>
+	<l id='644'>M'arrache au fol espoir de pouvoir être aimé.</l>
+	<l id='645'>Ce sont les seuls partis qui vous restent à prendre,</l>
+	<l id='646'>Ou donnez votre main, ou m'y laissez prétendre,</l>
+	<l id='647'>Et jugez, dans le choix que je vous offre ici,</l>
+	<l id='648'>Si c'est être tyran que d'en user ainsi. </l>
+	<l id='649'>Je vous laisse résoudre ou ma gloire ou ma peine ;</l>
+	<l id='650'>Vous, Sostrate, attendez les ordres de la Reine,</l>
+	<l id='651'>Et songez à me faire un fidèle rapport</l>
+	<l id='652'>Si tôt que sa réponse aura réglé mon sort.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Camma, Sostrate.</head>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='653'>Ton silence, Sostrate, a droit de me confondre, </l>
+	<l id='654'>Sinorix a parlé, c'est à toi de répondre,</l>
+	<l id='655'>Le temps presse, on menace, et sans plus différer</l>
+	<l id='656'>Ou pour l'un ou pour l'autre il faut te déclarer.</l>
+	<l id='657'>Si mon coeur est pour toi d'un prix assez insigne,</l>
+	<l id='658'>S'il remplit tes désirs, tu peux t'en rendre digne, </l>
+	<l id='659'>Mais aussi, c'est un bien qui doit peu te flatter </l>
+	<l id='660'>Si tes voeux incertains n'osent le mériter ;</l>
+	<l id='661'>Car enfin quelque espoir dont ma main t'entretienne,</l>
+	<l id='662'>Tu ne peux l'obtenir sans faire agir la tienne,</l>
+	<l id='663'>Et je m'apprête en vain à couronner ton feu </l>
+	<l id='664'>Si Sinatus vengé ne m'en donne l'aveu.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='665'>Madame, il est aisé par mon désordre extrême</l>
+	<l id='666'>De juger des combats que je rends en moi-même,</l>
+	<l id='667'>Non que j'aspire enfin qu'à mériter un bien</l>
+	<l id='668'>Sans qui tout m'est fatal, sans qui tout ne m'est rien ; </l>
+	<l id='669'>Mais dans la passion dont le transport vous guide,</l>
+	<l id='670'>Quand j'en vois les moyens je demeure stupide,</l>
+	<l id='671'>Je me perds, et ne puis convaincre ma raison</l>
+	<l id='672'>Qu'il se doive acquérir par une trahison.</l>
+	<l id='673'>Ouvrez les yeux, Madame, et sans trop vous en croire, </l>
+	<l id='674'>Jetez-les sur les soins que je dois à ma gloire.</l>
+	<l id='675'>Si j'aime Sinorix, il n'est point de bienfaits</l>
+	<l id='676'>Dont il n'ait jusqu'ici prévenu mes souhaits,</l>
+	<l id='677'>Ses bontés chaque jour se font pour moi paraître,</l>
+	<l id='678'>Je puis ce que je veux, c'est mon Roi, c'est mon maître, </l>
+	<l id='679'>Et si j'ose sur lui porter de lâches coups,</l>
+	<l id='680'>Me souiller de son sang, suis-je digne de vous ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='681'>Oui, tu l'es, puisqu'enfin c'est en servant ma haine</l>
+	<l id='682'>Que tu peux égaler le destin d'une Reine,</l>
+	<l id='683'>Et trouver dans l'éclat d'un illustre projet </l>
+	<l id='684'>À réparer l'affront du titre de sujet.</l>
+	<l id='685'>Crois-tu qu'à t'écouter je me fusse abaissée</l>
+	<l id='686'>Si je n'eusse pu voir cette honte effacée,</l>
+	<l id='687'>Et su, pour m'enhardir à recevoir ta foi,</l>
+	<l id='688'>Que qui perd un tyran est au dessus d'un Roi ? </l>
+	<l id='689'>Renonce à cette gloire, et quitte un avantage  </l>
+	<l id='690'>Qui peut-être jamais n'a touché ton courage,</l>
+	<l id='691'>Mais s'il le dédaignait, pourquoi te déguiser,</l>
+	<l id='692'>Et différer toujours à me désabuser ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='693'>J'ai promis, il est vrai, c'est ce qui fait ma peine, </l>
+	<l id='694'>Mais j'ai cru que l'amour fléchirait votre haine,</l>
+	<l id='695'>Et que pour en calmer les transports éclatants</l>
+	<l id='696'>Il fallait seulement avoir recours au temps.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='697'>Dis plutôt qu'alarmé de l'amour de ton maître</l>
+	<l id='698'>Ton feu désespérait d'oser jamais paraître, </l>
+	<l id='699'>Et que ta passion corrompant ton devoir</l>
+	<l id='700'>Sacrifiait ses jours à ce manque d'espoir.</l>
+	<l id='701'>L'ardeur dont tu flattais ma noble impatience,</l>
+	<l id='702'>Par ton seul intérêt s'offrait à ma vengeance,</l>
+	<l id='703'>Et tu consentais moins par cet accord fatal </l>
+	<l id='704'>À punir mon tyran qu'à perdre ton rival.</l>
+	<l id='705'>Alors tu n'avais point cette vertu timide</l>
+	<l id='706'>Qui tremble à voir mon coeur le prix d'un parricide, </l>
+	<l id='707'>Et ta flamme aisément convainquait ta raison</l>
+	<l id='708'>Qu'il pouvait s'acquérir par une trahison. </l>
+	<l id='709'>Aujourd'hui seulement qu'un faible stratagème</l>
+	<l id='710'>Fait promettre au tyran de me céder si j'aime,</l>
+	<l id='711'>Tu veux être fidèle, et lui garder ta foi,</l>
+	<l id='712'>Sur l'espoir de me rendre aussi lâche que toi.</l>
+	<l id='713'>Son aveu d'un beau choix me laissant la puissance, </l>
+	<l id='714'>Tu crois qu'en ta faveur j'oublierai ma vengeance,</l>
+	<l id='715'>Et que d'un fol amour secondant le pouvoir,</l>
+	<l id='716'>Je t'aiderai moi-même à trahir mon devoir ;</l>
+	<l id='717'>Mais gravé dans ce coeur où rien ne le partage,</l>
+	<l id='718'>Apprends que l'effacer est un pénible ouvrage, </l>
+	<l id='719'>Et que je plains en toi, si ton feu l'entreprend,</l>
+	<l id='720'>L'inutile vertu que cet espoir te rend.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='721' part='i'>Ah ! Que me dites-vous ? </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='721' part='f'>Ce que je te dois dire,</l>
+	<l id='722'>Que jamais sur ton coeur la gloire n'eut d'empire, </l>
+	<l id='723'>Et qu'un lâche intérêt qu'il vient de mettre au jour</l>
+	<l id='724'>Le rend traître ou fidèle au gré de ton amour.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='725'>Et bien, pour épargner ce soupçon à ma gloire,</l>
+	<l id='726'>Il faut oser ici ce qu'on ne pourra croire,</l>
+	<l id='727'>Étouffer de l'amour le charme le plus doux, </l>
+	<l id='728'>Et vous donner l'exemple à triompher de vous.</l>
+	<l id='729'>Deux grandes passions nous portent à l'extrême,</l>
+	<l id='730'>Nous leur déférons tout, vous haïssez, et j'aime,</l>
+	<l id='731'>Trahissons-en l'attente, et pour nous signaler,</l>
+	<l id='732'>Consentons l'un à l'autre à nous les immoler. </l>
+	<l id='733'>Par un effort illustre et digne d'une Reine,</l>
+	<l id='734'>Renoncez à l'espoir qui soutient votre haine,</l>
+	<l id='735'>Et de mes sentiments triomphant à mon tour,</l>
+	<l id='736'>Je renonce à l'espoir qui soutient mon amour.</l>
+	<l id='737'>Ainsi nous nous ferons égale violence, </l>
+	<l id='738'>Vous haïrez toujours sans désir de vengeance,</l>
+	<l id='739'>Sans chercher qu'à haïr, sans vouloir d'autre bien,</l>
+	<l id='740'>Et j'aimerai toujours sans aspirer à rien.</l>
+	<l id='741'>Mais las ! Dans cet accord, à bien voir ce que j'ose,</l>
+	<l id='742'>Vos maux approchent-ils de ceux que je m'impose ? </l>
+	<l id='743'>Si la vengeance prête, il vous la faut trahir,</l>
+	<l id='744'>Il vous reste du moins la douceur de haïr.</l>
+	<l id='745'>Outre qu'un fort mépris que la haine suggère</l>
+	<l id='746'>A quelque charme en soi qui peut vous satisfaire,</l>
+	<l id='747'>Puisque, quelque ennemi dont on soit outragé, </l>
+	<l id='748'>Qui peut le dédaigner en est assez vengé ;</l>
+	<l id='749'>Mais dans l'effort cruel que j'ose me prescrire,</l>
+	<l id='750'>Sur quelle juste attente adoucir mon martyre,</l>
+	<l id='751'>Et de quoi me flatter dans l'horreur d'un devoir </l>
+	<l id='752'>Qui me laisse l'amour, et m'arrache l'espoir ? </l>
+	<l id='753'>Être privé de l'un, lorsque l'autre demeure,</l>
+	<l id='754'>C'est languir, ou plutôt c'est mourir à toute heure,</l>
+	<l id='755'>Et qui conçoit ce mal dans un coeur amoureux</l>
+	<l id='756'>Avouera que de tous c'est-là le plus affreux.</l>
+	<l id='757'>Jugez si m'y soumettre, ayant su le connaître, </l>
+	<l id='758'>C'est vous offrir assez pour les jours de mon maître,</l>
+	<l id='759'>Et si j'ai mérité qu'on m'accuse en ce jour</l>
+	<l id='760'>D'être traître ou fidèle au gré de mon amour.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='761'>Le rare et sûr moyen d'éblouir ma vengeance !</l>
+	<l id='762'>Les maux que tu te fais ne sont qu'en apparence, </l>
+	<l id='763'>Et cet espoir pour toi si fâcheux à quitter,</l>
+	<l id='764'>Sur quelque heureux revers te peut toujours flatter :</l>
+	<l id='765'>Mais puis-je à Sinatus sans me noircir d'un crime</l>
+	<l id='766'>N'accorder pas le sang qu'il attend pour victime,</l>
+	<l id='767'>Et laisser sa vengeance à décider au sort, </l>
+	<l id='768'>N'est-ce pas devenir complice de sa mort ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='769'>Toujours sur cette mort vous croyez votre haine.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='770'>Non, non, le crime est sûr et l'injure certaine,</l>
+	<l id='771'>Sinatus, mais trop tard, connut la trahison,</l>
+	<l id='772'>Et tout prêt d'expirer m'avertit du poison. </l>
+	<l id='773'>Sur ce funeste avis cent marques évidentes</l>
+	<l id='774'>M'en donnèrent dés lors des preuves trop constantes,</l>
+	<l id='775'>Et le tyran depuis lui-même en a fait foi</l>
+	<l id='776'>À trahir la Princesse, et soupirer pour moi.</l>
+	<l id='777'>J'en sais trop, et ton zèle en vain le justifie. </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='778'>L'apparence souvent abuse qui s'y fie,</l>
+	<l id='779'>Et contre Sinorix c'est un faible garant</l>
+	<l id='780'>Que d'avoir seulement le soupçon d'un mourant.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='781'>Va, si l'indice est faible, ose pour sa défense </l>
+	<l id='782'>Me répondre qu'en lui j'outrage l'innocence, </l>
+	<l id='783'>Je t'en veux croire seul, mais aussi souviens-toi</l>
+	<l id='784'>Que s'il n'est point coupable, il est digne de moi.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+<note type="L">Magnanime : qui a une grandeur d'âme et de courage, qui l'élève au dessus du commun des hommes. [F]</note>
+	<l id='785'>Ah, c'est pousser trop loin un effort magnanime,</l>
+	<l id='786'>Vous lui rendrez justice à le croire sans crime,</l>
+	<l id='787' part='i'>Mais... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='787' part='f'>Mais tes voeux ardents à lui sauver le jour</l>
+	<l id='788'>Languiront si je songe à payer son amour ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='789' part='i'>Madame...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='789' part='f'>Il me suffit  ; puisque c'est te déplaire</l>
+	<l id='790'>Porte-lui ma réponse, et dis-lui qu'il espère, </l>
+	<l id='791'>Que mon coeur n'aime rien, et que dans peu sa foi</l>
+	<l id='792'>Peut selon ses souhaits attendre tout de moi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sinorix, Phaedime.</head>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='793'>Ce changement, Seigneur, n'offre rien qui m'étonne,</l>
+	<l id='794'>Je connais ce que peut l'éclat d'une couronne,</l>
+	<l id='795'>Et n'ai jamais douté, malgré son feint courroux, </l>
+	<l id='796'>Que la Reine en secret ne fit des voeux pour vous.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='797'>Quoi qu'encore contre moi quelque intérêt combatte,</l>
+	<l id='798'>Elle m'a confirmé le rapport de Sostrate,</l>
+	<l id='799'>Tout espoir est permis à mon coeur amoureux ;</l>
+	<l id='800'>Mais il faut que le temps aide à me rendre heureux, </l>
+	<l id='801'>J'ai voulu lui céder pour montrer plus de zèle.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='802'>Non, non, pressez, Seigneur, vous obtiendrez tout d'elle,</l>
+	<l id='803'>Déjà son fier devoir voudrait être forcé.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='804'>D'un scrupule de gloire il est embarrassé.</l>
+	<l id='805'>Après ses longs refus, un peu de bienséance </l>
+	<l id='806'>Doit l'obliger encor à quelque résistance,</l>
+	<l id='807'>C'est ce qu'à mon amour elle vient d'opposer.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='808'>Sur un aveu si doux vous pouvez tout oser,</l>
+	<l id='809'>Menacez, contraignez, rien ne lui peut déplaire.</l>
+	<l id='810'>Mais puis-je m'expliquer sans être téméraire ? </l>
+	<l id='811'>Tout vous rit, tout vous flatte, et cependant, Seigneur,</l>
+	<l id='812'>Je vois qu'un noir chagrin trouble votre bonheur.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='813'>Oui, Phaedime, et mon âme étonnée, interdite,</l>
+	<l id='814'>Se veut en vain soustraire à l'horreur qui l'agite.</l>
+	<l id='815'>Plus j'ai lieu de tenir mon bonheur assuré, </l>
+	<l id='816'>Plus par de vifs remords je me sens déchiré.</l>
+	<l id='817'>Une secrète voix que leur rigueur anime</l>
+	<l id='818'>De moment en moment me reproche mon crime,</l>
+	<l id='819'>Et lorsque j'en frémis, pour me confondre mieux,</l>
+	<l id='820'>L'Ombre de Sinatus se présente à mes yeux. </l>
+	<l id='821'>Pâle et défiguré plus qu'on ne peut comprendre,</l>
+	<l id='822'>Il sort de cette tombe où je l'ai fait descendre,</l>
+	<l id='823'>Et marquant du poison les efforts violents,</l>
+	<l id='824'>Il chancelle, et vers moi se conduit à pas lents.</l>
+	<l id='825'>Ses yeux, quoi qu'égarés, fixes sur le coupable, </l>
+	<l id='826'>Me lancent un regard affreux, épouvantable,</l>
+	<l id='827'>Et comme si c'était me faire peu souffrir,</l>
+	<l id='828'>Je l'entends s'écrier : "Tyran, il faut mourir,</l>
+	<l id='829'>Il est temps d'expier ta criminelle flamme ;</l>
+	<l id='830'>Tu m'as ravi le jour pour me ravir ma femme, </l>
+	<l id='831'>Et trahissant ma fille, adroit dans ce grand art,</l>
+	<l id='832'>Tu lui voles un trône où tu n'as point de part.</l>
+	<l id='833'>Ta lâche ambition s'étant pu satisfaire,</l>
+	<l id='834'>Tiens sûr pour toi le prix que ton amour espère,</l>
+	<l id='835'>Mais prêt de l'obtenir, tremble, et malgré tes soins </l>
+	<l id='836'>Succombe au coup fatal que tu prévois le moins."</l>
+	<l id='837'>Là j'ai beau repousser cette funeste image, </l>
+	<l id='838'>L'horreur qu'elle me laisse accable mon courage,</l>
+	<l id='839'>Et sans cesse agitant mon esprit incertain</l>
+	<l id='840'>Me montre un bras levé pour me percer le sein. </l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='841'>De ces vaines frayeurs il vaut mieux vous défendre,</l>
+	<l id='842'>Seigneur, qui contre vous oserait entreprendre ?</l>
+	<l id='843'>Vous-même en le craignant cessez de vous trahir.</l>
+	<l id='844'>La Princesse sans doute a droit de vous haïr ;</l>
+	<l id='845'>Mais enfin, de régner son coeur toujours avide </l>
+	<l id='846'>Ne prend point contre vous le désespoir pour guide,</l>
+	<l id='847'>Et tout ce grand éclat où l'enhardit son rang</l>
+	<l id='848'>Aspire à votre main, et non à votre sang.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='849'>Mais puisqu'elle saura que j'ai fléchi la Reine,</l>
+	<l id='850'>Que ne permettra-t-elle aux transports de sa haine ? </l>
+	<l id='851'>Déjà, déjà peut-être elle en sait le secret.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='852'>Quoi, Sostrate, Seigneur, serait si peu discret ?</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='853'>Comme j'aime Sostrate à l'égal de moi-même</l>
+	<l id='854'>Je sais bien que pour moi sa tendresse est extrême,</l>
+	<l id='855'>Qu'il donnerait cent fois tout son sang pour le mien, </l>
+	<l id='856'>Mais souvent l'amour parle, et croit ne dire rien.</l>
+	<l id='857'>Pour me tirer du trouble où ce soupçon me laisse,</l>
+	<l id='858'>Phaedime, de ce pas va trouver la Princesse,</l>
+	<l id='859'>Et par ses sentiments tâche de pressentir</l>
+<note type="L">Heur : rencontre avantageuse [F]</note>
+	<l id='860'>Si de l'heur de ma flamme il a pu l'avertir. </l>
+	<l id='861'>Il est bien malaisé, quoi que d'abord on feigne,</l>
+	<l id='862'>Que longtemps dans sa rage un grand coeur se contraigne,</l>
+	<l id='863'>Fais agir ton adresse à lire dans le sien.</l>
+</sp>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='864'>Je connais mon devoir et n'épargnerai rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. </head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='865'>Dieux, dont les lois pour nous doivent être adorables, </l>
+<note type="L">Exorable : Qui se laisse vaincre et persuader par les raisons, les prières ou la compassion. [F]</note>
+	<l id='866'>Est-ce ainsi que j'ai cru vous trouver exorables,</l>
+	<l id='867'>Et me réserviez-vous à la nécessité</l>
+	<l id='868'>De gémir du bonheur que j'ai tant souhaité ?</l>
+	<l id='869'>Hélas ! Fut-il jamais une infortune égale ?</l>
+	<l id='870'>Quels que soient mes désirs, l'issue en est fatale, </l>
+	<l id='871'>Et mes voeux acceptés, je ne fais seulement</l>
+	<l id='872'>Que prendre ailleurs ma peine, et changer de tourment.</l>
+	<l id='873'>Après avoir langui sous la disgrâce extrême</l>
+	<l id='874'>Qui m'ôtait tout espoir d'obtenir ce que j'aime,</l>
+	<l id='875'>Je me sens maintenant et gêner et punir </l>
+	<l id='876'>Par le cruel remords que j'ai de l'obtenir.</l>
+	<l id='877'>Accablé de l'horreur qui dans mon coeur se glisse,</l>
+	<l id='878'>Je voudrais n'aimer plus pour en fuir le supplice,</l>
+	<l id='879'>Et dans ce qu'à mes yeux la Reine offre d'appas,</l>
+	<l id='880'>J'aimerais mieux mourir que ne l'adorer pas. </l>
+	<l id='881'>Ainsi le triste excès de ce confus martyre</l>
+	<l id='882'>Fait révolter mon coeur contre ce qu'il désire,</l>
+	<l id='883'>Et contraire à moi-même en mes propres desseins</l>
+	<l id='884'>Je crains ce que je veux, et veux ce que je crains.</l>
+	<l id='885'>Ah, qu'il est malaisé qu'une âme généreuse </l>
+	<l id='886'>Tire d'un noir forfait de quoi se rendre heureuse,</l>
+	<l id='887'>Et qu'aux coeurs dont le zèle à la gloire est offert,</l>
+	<l id='888'>Le bonheur coûte cher quand le crime l'acquiert !</l>
+	<l id='889'>Mais quoi ? D'où tout à coup me vient ce nouveau trouble ? </l>
+	<l id='890'>Mon désordre s'augmente, et ma frayeur redouble. </l>
+	<l id='891'>Est-ce un avis du Ciel qui cherche à m'annoncer</l>
+	<l id='892'>L'arrêt que son courroux s'apprête à prononcer ?</l>
+	<l id='893'>Il est juste, et d'un Roi quand j'ai fait ma victime,</l>
+<note type="L">Foudre : subst. masc. et fém. Exhalaison grasse et sulfurée qui s'enflamme par le choc des nues, et qui en sortant avec violence fait un grand bruit et des effets extraordinaires sur la terre. [F] </note>
+	<l id='894'>S'il punit par le foudre, il le doit à mon crime.</l>
+	<l id='895'>Dieux, hâtez-en la peine, ou m'ôtez ces soupçons. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Sinorix, Camma, Sostrate.</head>
+<sp who='CAMMA'><speaker>CAMMA paraissant à un des côtés du théâtre, et tirant un poignard.</speaker>
+	<l id='896'>L'occasion est belle, il est seul, avançons.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='897' part='i'>Ô Sinatus !</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE paraissant à l'autre côté du théâtre, et voyant Camma qui s'avance vers Sinorix un poignard à la main.</speaker>
+	<l id='897' part='m'>Que vois-je ! Ah !</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='897' part='f'>Perdons cet infâme.</l>
+<stage>Dans l'instant que la Reine lève le bras pour frapper Sinorix, Sostrate lui saisit la main, Sinorix se détourne, et le poignard tombe sans qu'il puisse connaître de quelle main.</stage>
+	<l id='898' part='i'>Que fais-tu, malheureux ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='898' part='f'>Que faites-vous, Madame ? </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX se détournant et se saisissant du poignard.</speaker>
+	<l id='899'>Justes Dieux, un poignard ! On en veut à mes jours,</l>
+	<l id='900'>À moi, Gardes, à moi, qu'on vienne à mon secours.</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME entrant avec des Gardes.</speaker>
+	<l id='901' part='i'>Seigneur.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='901' part='f'>La trahison d'un faux succès suivie </l>
+	<l id='902'>Vient d'employer ce fer pour m'arracher la vie ;</l>
+	<l id='903'>Mais j'ai tort d'accuser mon ingrat ennemi,</l>
+	<l id='904'>Il n'est dans son forfait coupable qu'à demi,</l>
+	<l id='905'>Il suit l'ordre du Ciel dont l'arrêt trop sévère</l>
+	<l id='906'>Trouve pour moi la mort une peine légère, </l>
+	<l id='907'>Et d'un lâche assassin n'arrête la fureur</l>
+	<l id='908'>Qu'afin que la menace en redouble l'horreur.</l>
+	<l id='909'>C'est peu que dans mon sang cette fureur s'éteigne,</l>
+	<l id='910'>Avant que j'y succombe il veut que je la craigne,</l>
+	<l id='911'>Et dans cette frayeur pour mieux m'envelopper, </l>
+	<l id='912'>Il retire le bras sur le point de frapper.</l>
+	<l id='913'>Sa cruelle pitié qui de mon sort décide</l>
+	<l id='914'>M'envoie un protecteur avec un parricide, </l>
+	<l id='915'>Et dans le même instant, d'un effort différent</l>
+	<l id='916'>L'un attaque ma vie, et l'autre la défend. </l>
+	<l id='917'>Voudrez-vous m'éclaircir ce coup abominable,</l>
+	<l id='918'>Madame ? Je le vois, et le trouve incroyable,</l>
+	<l id='919'>Et mon coeur qu'en confond le projet odieux,</l>
+	<l id='920'>Cherche sur tant de rage à démentir mes yeux.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='921'>Vous avez peu besoin que je vous éclaircisse, </l>
+	<l id='922'>Un autre peut ici vous rendre cet office,</l>
+	<l id='923'>Et dans l'effort douteux qui vous comble d'effroi</l>
+	<l id='924'>Le fidèle Sostrate a plus de part que moi.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='925'>Et bien, parle, Sostrate, et me tire de peine. </l>
+	<l id='926'>Suivras-tu contre moi l'exemple de la Reine, </l>
+	<l id='927'>Et voudras-tu comme elle en cet événement</l>
+	<l id='928'>Refuser quelque jour à mon aveuglement ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='929'>Non, Seigneur, c'est en vain que je voudrais me taire,</l>
+	<l id='930'>Vous avez vu l'effort que mon bras vient de faire ;</l>
+	<l id='931'>Le crime veut du sang, et sans rien balancer, </l>
+	<l id='932'>Sachant ce qui m'est dû, vous devez prononcer.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='933'>Traître, par cet aveu mets le comble à ta rage,</l>
+	<l id='934'>Je ne voyais que trop le crime qui t'engage,</l>
+	<l id='935'>Mais pour avoir prétexte à t'en justifier,</l>
+	<l id='936'>Je voulais que du moins tu l'osasses nier. </l>
+	<l id='937'>La Reine en ta faveur ayant voulu se taire</l>
+	<l id='938'>Me donnait jour à prendre une erreur volontaire ;</l>
+	<l id='939'>Et si par ton silence il m'eût été permis,</l>
+	<l id='940'>Je t'ôtais de l'abîme où ta flamme t'a mis.</l>
+	<l id='941'>Aidé de ce silence à toi seul favorable </l>
+	<l id='942'>Je me fusse contraint à douter du coupable,</l>
+	<l id='943'>Et j'aurais pu par là dans un sort si cruel</l>
+	<l id='944'>Donner à l'innocent les jours du criminel.</l>
+	<l id='945'>Dans celui dont ma mort a su toucher l'envie</l>
+	<l id='946'>J'eusse craint de punir qui m'a sauvé la vie, </l>
+	<l id='947'>Et la peine et le prix qu'à tous deux je vous dois</l>
+	<l id='948'>Fussent restés secrets entre mon coeur et moi ;</l>
+	<l id='949'>Mais c'est peu qu'à ma perte un lâche espoir t'anime,</l>
+	<l id='950'>Si tu ne fais encore vanité de ton crime,</l>
+	<l id='951'>Et si l'indigne aveu que ta fureur en fait </l>
+	<l id='952'>Ne tâche aux yeux de tous d'en suppléer l'effet.</l>
+	<l id='953'>Ingrat, de mes bienfaits est-ce la récompense ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='954'>Ils sont tous dans mon coeur mieux gravez qu'on ne pense ; </l>
+	<l id='955'>Mais enfin, je l'avoue, il ne peut consentir</l>
+	<l id='956'>Que de ce que j'ai fait j'ose me repentir. </l>
+	<l id='957'>Vous m'apprêtez la mort, et ce coeur la désire,</l>
+	<l id='958'>Elle seule aujourd'hui fait tout l'heur où j'aspire,</l>
+	<l id='959'>Et pour mieux la hâter, sachez que cette main</l>
+	<l id='960'>En même occasion aurait même dessein ;</l>
+	<l id='961'>Que cent fois de nouveau l'effort qu'elle a su faire... </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='962'>Quoi, traître jusques-là ta rage te peut plaire ?</l>
+	<l id='963'>Et bien, sache à ton tour que plus tu me fus cher,</l>
+	<l id='964'>Moins ce coeur dans ton sort se laissera toucher ;</l>
+	<l id='965'>Que l'amitié par toi lâchement outragée</l>
+	<l id='966'>Sur ton sang hautement sera par moi vengée, </l>
+	<l id='967'>Et que de ma tendresse étouffant la chaleur</l>
+	<l id='968'>Je le verrai couler sans la moindre douleur.</l>
+	<l id='969'>Mais pardonnez, Madame, aux transports qu'autorise</l>
+	<l id='970'>Du plus noir attentat la plus lâche entreprise,</l>
+	<l id='971'>Et qui m'offrant un gouffre ouvert de toutes parts, </l>
+	<l id='972'>Sur le coupable seul arrête mes regards.</l>
+	<l id='973'>Surpris de sa fureur je m'emporte, et j'oublie,</l>
+	<l id='974'>Quand je lui dois la mort, que je vous dois la vie,</l>
+	<l id='975'>Et que m'abandonnant à cet ardent courroux,</l>
+	<l id='976'>Ce coeur juste pour lui devient ingrat pour vous. </l>
+	<l id='977'>Sans vous je n'étais plus, sans vous, triste victime,</l>
+	<l id='978'>Mon sang d'un parricide eut couronné le crime,</l>
+	<l id='979'>Et dans ce grand secours, c'est peu le mériter</l>
+	<l id='980'>Que songer à punir plutôt qu'à m'acquitter.</l>
+	<l id='981' part='i'>Souffrez donc qu'à vos pieds... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='981' part='f'>Ah, c'est trop me confondre.</l>
+	<l id='982'>Je vois, j'entends, j'écoute, et ne sais que répondre,</l>
+	<l id='983'>Et mon esprit confus, surpris, inquiété, </l>
+	<l id='984'>Tombe enfin malgré moi dans la stupidité.</l>
+	<l id='985'>Ce que Sostrate a fait m'est la plus rude offense, </l>
+	<l id='986'>Je voudrais toutefois parler en sa défense,</l>
+	<l id='987'>Et lorsqu'en sa faveur la pitié m'entretient,</l>
+	<l id='988'>Un autre sentiment m'inspire, et me retient.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='989'>Vous, Madame, défendre un perfide, un infâme ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='990'>Non, non, de grâce, non, ne dites rien, Madame, </l>
+	<l id='991'>Et sans vouloir pour moi tenter un vain effort</l>
+	<l id='992'>À toute ma disgrâce abandonnez mon sort.</l>
+	<l id='993'>Tout ce que vous diriez pour garantir ma tête</l>
+	<l id='994'>Me serait plus cruel que la mort qu'on m'apprête,</l>
+	<l id='995'>Par là mon désespoir se verrait achevé, </l>
+	<l id='996'>Et je mourrais cent fois si vous m'aviez sauvé.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='997'>Par cette lâche ardeur de périr pour son crime,</l>
+	<l id='998'>Admirez contre moi quelle rage l'anime,</l>
+	<l id='999'>Et le charme qu'il trouve à se rendre aujourd'hui</l>
+	<l id='1000'>Indigne des bontés que vous auriez pour lui. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1001'>À quoi qu'en son malheur sa fierté le hasarde,</l>
+	<l id='1002'>Je ne vous dis plus rien sur ce qui le regarde,</l>
+	<l id='1003'>Mais sur vos intérêts, vous devez présumer</l>
+	<l id='1004'>Que si son entreprise a pu vous alarmer,</l>
+	<l id='1005'>Si d'un effroi secret votre âme embarrassée </l>
+	<l id='1006'>Se trouve à quelque trouble indignement forcée,</l>
+	<l id='1007'>Ces alarmes, ce trouble, et ces sujets d'effroi</l>
+	<l id='1008'>Sont des maux qu'aujourd'hui vous souffrez malgré moi,</l>
+	<l id='1009'>Qu'à vous les épargner aussi prompte qu'ardente...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1010'>Ô de bonté pour moi preuve trop obligeante ! </l>
+	<l id='1011'>Je me tais tout rempli de ce que vous pensez, </l>
+	<l id='1012'>Et je ne vous dis rien ne pouvant dire assez.</l>
+	<l id='1013'>Mais toi, qui mets ta gloire à braver les supplices,</l>
+	<l id='1014'>Après t'être accusé nomme-nous tes complices,</l>
+	<l id='1015'>Et sachons quel soutien assez ferme, assez fort, </l>
+	<l id='1016'>Engageait ton audace à résoudre ma mort.</l>
+	<l id='1017'>Sous l'effort de ton bras apprends-nous qui conspire.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1018'>Je vous ai dit, Seigneur, ce que j'avais à dire ;</l>
+	<l id='1019'>Nommez ce que le Ciel vient de vous faire voir</l>
+	<l id='1020'>Un effet de ma rage, ou de mon désespoir, </l>
+	<l id='1021'>Il suffit qu'à punir une action si noire</l>
+	<l id='1022'>Vos yeux vous soient garants de ce qu'il en faut croire,</l>
+	<l id='1023'>Vous avez leur rapport, prononcez là-dessus,</l>
+	<l id='1024'>J'ai parlé, j'ai tout dit, et ne sais rien de plus.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1025'>Quoi ? Garder le silence est ta plus sûre adresse </l>
+	<l id='1026'>Pour tâcher de ton crime à sauver la Princesse ?</l>
+	<l id='1027'>Va, tu nous tiens en vain ce grand secret caché,</l>
+	<l id='1028'>L'arrêt de son exil t'avait déjà touché,</l>
+	<l id='1029'>Et lui contant l'espoir que me souffre la Reine,</l>
+	<l id='1030'>Tu n'as pu refuser un forfait à sa haine ? </l>
+	<l id='1031'>Tu t'es montré soudain prêt à m'assassiner ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1032'>Ah, contre-elle, Seigneur, qu'osez-vous soupçonner?</l>
+	<l id='1033'>J'atteste tous les Dieux, et je veux que leur foudre</l>
+	<l id='1034'>Tombe à vos yeux sur l'heure et me réduise en poudre,</l>
+	<l id='1035'>Si dans ce grand projet qu'a détruit le hasard, </l>
+	<l id='1036'>On peut à la Princesse imputer quelque part.</l>
+	<l id='1037'>C'est moi seul dont le sang doit laver votre injure.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1038'>Les serments d'un perfide entraînent un parjure,</l>
+	<l
+ id='1039'>En vain tu crois par là nous éblouir les yeux,</l>
+	<l id='1040'>Qui peut perdre son Roi ne connaît point de Dieux. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Sinorix, Camma, Hésione, Sostrate, Phaedime, Sosime, Gardes.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1041'>Phaedime, aurais-tu cru l'attentat d'un perfide ?</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1042'>Nomme mieux un beau zèle où la gloire préside.</l>
+	<l id='1043'>Je sais par quel malheur son projet avorté</l>
+	<l id='1044'>L'expose aux fiers transports d'un tyran irrité,</l>
+	<l id='1045'>Et viens avec plaisir complice de son crime </l>
+	<l id='1046'>Offrir à sa fureur une double victime.</l>
+	<l id='1047'>C'est pour moi que son bras dans son indigne sang</l>
+	<l id='1048'>Cherchait à réparer l'outrage de mon rang.</l>
+	<l id='1049'>Par moi ce bras armé pour soutenir ma haine</l>
+	<l id='1050'>Perdait l'usurpateur qui détrône sa Reine, </l>
+	<l id='1051'>Et d'un illustre effort le généreux éclat</l>
+	<l id='1052'>D'un honteux esclavage affranchissait l'État.</l>
+	<l id='1053'>Le Ciel dont contre toi le courroux se déguise</l>
+	<l id='1054'>Nous ôte exprès le fruit d'une belle entreprise,</l>
+	<l id='1055'>Et pour voir où ta rage arrêtera son cours </l>
+	<l id='1056'>De Sostrate ou de moi t'abandonne les jours ;</l>
+	<l id='1057'>Ose, et de mon destin prenant droit de résoudre,</l>
+	<l id='1058'>De la main qui le lance arrache enfin le foudre,</l>
+	<l id='1059'>Et comblant des forfaits qu'on ne peut égaler</l>
+	<l id='1060'>Ôte aux Dieux le pouvoir de plus dissimuler. </l>
+	<l id='1061'>Je suis prête à souffrir quoique ta rage ordonne,</l>
+	<l id='1062'>La plus affreuse mort n'aura rien qui m'étonne, </l>
+	<l id='1063'>Et le coup m'en plaira, s'il me peut épargner </l>
+	<l id='1064'>L'horreur de te voir maître, où je devrais régner.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX, à Sostrate.</speaker>
+	<l id='1065'>Et bien ? J'ai fait sans doute injure à la Princesse, </l>
+	<l id='1066'>Lâche, ton attentat n'a rien qui l'intéresse,</l>
+	<l id='1067'>Et j'ai dû, quand ton bras s'arme contre ton Roi,</l>
+	<l id='1068'>Recevoir tes serments pour garants de ta foi ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1069'>Qu'avez-vous dit, Madame, et que faites-vous croire ?</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1070'>J'ai dit ce qu'a voulu l'intérêt de ma gloire, </l>
+	<l id='1071'>Et quand ce grand motif à mon coeur vient s'offrir,</l>
+	<l id='1072'>Si je ne sais aimer, du moins je sais mourir.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1073'>Non, vous ne mourrez point, et puisque par ma perte</l>
+	<l id='1074'>L'assurance du trône à vos voeux est offerte,</l>
+	<l id='1075'>J'aurais tort si j'osais retrancher de vos droits </l>
+	<l id='1076'>Le pouvoir d'attenter une seconde fois.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1077'>Une si juste ardeur suivra toujours ma haine,</l>
+	<l id='1078'>Mais je dois respecter les projets de la Reine,</l>
+	<l id='1079'>Et ne poursuivre plus d'un effort si constant</l>
+	<l id='1080'>Un trône, où je découvre enfin qu'elle prétend. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1081'>Ce chagrin inquiet incessamment vous gêne.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1082'>J'ai soupçonné d'abord, mais je parle certaine,</l>
+	<l id='1083'>Et je ne vous fais ici qu'un reproche trop dû,</l>
+	<l id='1084'>Quand le trône sans vous m'aurait été rendu.</l>
+	<l id='1085'>Rompre un coup qui perdait l'auteur de ma misère, </l>
+	<l id='1086'>C'est avouer le vol qu'un traître en a su faire,</l>
+	<l id='1087'>Et qui dans cette honte a voulu s'engager,</l>
+	<l id='1088'>N'en assure le fruit que pour le partager.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1089'>Sans me justifier, quoique vous veuilliez croire, </l>
+	<l id='1090'>Il suffit que mon coeur ait l'appui de ma gloire, </l>
+	<l id='1091'>Et que de mes desseins pleinement satisfait</l>
+	<l id='1092'>Il puisse m'applaudir sur tout ce que j'ai fait.</l>
+	<l id='1093'>Cependant dans son sort Sostrate étant à plaindre,</l>
+	<l id='1094'>Je vous laisse calmer l'orage qu'il doit craindre,</l>
+	<l id='1095'>Et me remets au temps à voir qui de nous deux </l>
+	<l id='1096'>Avec plus de succès aura conduit ses voeux.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Sinorix, Hésione, Sostrate, Phaedime, Sosime, Gardes.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1097'>Princesse, tant d'orgueil lasse ma patience,</l>
+	<l id='1098'>La Reine ici toujours garde pleine puissance,</l>
+	<l id='1099'>Et quand vous l'offensez, c'est à moi de venger</l>
+	<l id='1100'>Les outrages piquants qu'elle ose négliger. </l>
+	<l id='1101'>Déjà dessous vos pas s'ouvre le précipice,</l>
+	<l id='1102'>Si je veux consentir à me faire justice,</l>
+	<l id='1103'>Et si vous ne songez à vous mieux secourir...</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1104'>À quelle indignité je te vois recourir !</l>
+	<l id='1105'>Quoi, sur ce vain courroux tu crois que je me rende ? </l>
+	<l id='1106'>Éclate, ordonne, agis, c'est ce que je demande,</l>
+	<l id='1107'>Mais ne t'arrête pas, quand tu peux m'accabler,</l>
+	<l id='1108'>À l'inutile effort de me faire trembler ;</l>
+	<l id='1109'>Car enfin tu le sais, tyran, quoique tu fasses, </l>
+	<l id='1110'>Je te dédaigne trop pour craindre tes menaces. </l>
+	<l id='1111'>Du destin qui me perd la fatale rigueur</l>
+	<l id='1112'>Ne saurait abaisser ni mon rang ni mon coeur,</l>
+	<l id='1113'>Malgré sa lâcheté j'ai l'âme toujours vaine,</l>
+	<l id='1114'>Malgré ta trahison je suis toujours ta Reine,</l>
+	<l id='1115'>Et j'ai la joie au moins que ton heureux projet, </l>
+	<l id='1116'>S'il te fait mon tyran, te laisse mon sujet.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1117'>Mais un pareil sujet en peut aimer le titre</l>
+	<l id='1118'>Quand du sort de la Reine il s'est rendu l'arbitre,</l>
+	<l id='1119'>Et qu'il en peut tenir le pouvoir limité</l>
+	<l id='1120'>Dans les emportements de sa seule fierté. </l>
+	<l id='1121'>Pour la gloire du rang conservez-la, Madame,</l>
+	<l id='1122'>Tandis qu'à d'autres soins je livrerai mon âme,</l>
+	<l id='1123'>Et chercherai sur qui, dans ce noir attentat,</l>
+	<l id='1124'>De mon ressentiment doit s'étendre l'éclat,</l>
+	<l id='1125'>J'en sais dont en ma Cour l'appui secret vous flatte. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1126'>Je les éprouve donc plus lâches que Sostrate.</l>
+	<l id='1127'>C'est lui seul dont le zèle à mes désirs se rend,</l>
+	<l id='1128'>Je m'explique, il est prêt, j'ordonne, il entreprend,</l>
+	<l id='1129'>Tu tiens le criminel, je t'offre sa complice.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1130'>Madame, qui vous porte à vous faire injustice, </l>
+	<l id='1131'>À vouloir de mon sort partager le courroux ?</l>
+	<l id='1132'>J'entreprends, il est vrai, mais ce n'est pas pour vous,</l>
+	<l id='1133' part='i'>Par mon seul intérêt j'ai dû...</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1133' part='f'>Qu'oses-tu dire ?</l>
+	<l id='1134'>Je t'ai sollicité, c'est ton bras qui conspire, </l>
+	<l id='1135'>Et tu cherches en vain à rejeter sur toi</l>
+	<l id='1136'>Les motifs d'un beau coup qui ne sont dûs qu'à moi.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1137' part='i'>Mais, Madame... </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1137' part='f'>Non, non, c'est m'offenser, Sostrate,</l>
+	<l id='1138'>Souffre d'un grand projet que la gloire me flatte. </l>
+	<l id='1139'>Où le péril est beau m'empêcher d'y courir,</l>
+	<l id='1140'>C'est m'arracher la part que j'en puis acquérir.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1141'>Quoi, généreuse assez pour ne lui pas survivre ?</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1142'>Ne pouvant le sauver, du moins je le dois suivre,</l>
+	<l id='1143'>Et n'aurais dans mon sort à me plaindre de rien, </l>
+	<l id='1144'>Si te donnant mon sang je conservais le sien.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1145'>Et bien, pour satisfaire à cette noble envie</l>
+	<l id='1146'>Je vous mets en pouvoir de lui sauver la vie.</l>
+	<l id='1147'>Oui, quoi qu'il ait tenté, je laisse à votre choix</l>
+	<l id='1148'>D'empêcher contre lui la rigueur de nos lois. </l>
+	<l id='1149'>Sostrate doit périr, tout le veut, tout m'en presse,</l>
+	<l id='1150'>Mais je puis épargner l'époux de la Princesse,</l>
+	<l id='1151'>Et sa grâce pour vous est un effet certain</l>
+	<l id='1152'>Si pour prix de son crime il obtient votre main.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1153'>Non, Seigneur, ordonnez la peine qui m'est due ; </l>
+	<l id='1154'>Quand je verrais pour moi la Princesse rendue,</l>
+	<l id='1155'>Sachant quelle contrainte elle en pourrait sentir,</l>
+	<l id='1156'>Jamais, jamais ce coeur n'y voudrait consentir.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1157'>Fais, fais le magnanime, et souffre à ton audace</l>
+	<l id='1158'>De braver ma vengeance et rejeter ma grâce, </l>
+	<l id='1159'>Mais j'en jure les Dieux qui m'ont soumis ton sort,</l>
+	<l id='1160'>Elle n'a que ce choix, son hymen, ou ta mort.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1161'>Le détour est adroit, et me mettrait en peine </l>
+	<l id='1162'>S'il pouvait m'empêcher de voir que je suis Reine,</l>
+	<l id='1163'>Mais ma main dans ce rang ne saurait se donner </l>
+	<l id='1164'>Qu'en remplissant le droit qu'elle a de couronner.</l>
+	<l id='1165'>Par là de son refus ne crois pas qu'on s'étonne,</l>
+	<l id='1166'>Ta fureur m'a ravi ce qu'il faut qu'elle donne,</l>
+	<l id='1167'>Et tu m'ôtes ainsi par tes lâches forfaits</l>
+	<l id='1168'>Le pouvoir d'accepter l'offre que tu me fais.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1169'>Il mourra donc, Madame, et vous aurez la gêne</l>
+	<l id='1170'>De voir que vos mépris feront toute sa peine,</l>
+	<l id='1171'>Et que de votre main ce refus éclatant</l>
+	<l id='1172'>Redoublera l'horreur de la mort qui l'attend.</l>
+	<l id='1173'>Au moins ce lui doit être un supplice assez rude </l>
+	<l id='1174'>De n'en devoir l'arrêt qu'à votre ingratitude,</l>
+	<l id='1175'>Et de voir qu'en effet, qui doit le secourir,</l>
+	<l id='1176'>Quand je veux le sauver, le condamne à périr.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1177'>Va, nous saurons dans peu, malgré ta lâche audace,</l>
+	<l id='1178'>Si sa peine à ton tour n'a rien qui t'embarrasse, </l>
+	<l id='1179'>Et si dans le malheur que ses projets ont eu</l>
+	<l id='1180'>Tu l'oseras punir d'un acte de vertu.</l>
+	<l id='1181'>Alors cette douceur à ses voeux est offerte,</l>
+	<l id='1182'>Que je suivrai son sort, ou vengerai sa perte,</l>
+	<l id='1183'>Et que hors mon hymen ne lui refusant rien, </l>
+	<l id='1184'>Il aura pour victime, ou son sang, ou le mien.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1185'>Ah, Madame, cessez de vous laissez surprendre...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1186'>Fais-le mettre en lieu sûr, je suis las de l'entendre,</l>
+	<l id='1187'>Sosime. Vous, Madame, avisez à ce choix,</l>
+	<l id='1188'>Je veux bien vous l'offrir une seconde fois, </l>
+	<l id='1189'>Mais dans une heure enfin si votre main n'est prête, </l>
+	<l id='1190'>La foudre l'est déjà pour lancer sur sa tête,</l>
+	<l id='1191' part='i'>Songez-y.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1191' part='f'>Tu perds temps ; puisque sa mort te plaît,</l>
+	<l id='1192'>Tonne contre tous deux, j'attendrai ton arrêt. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Camma, Phénice.</head>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1193'>L'arrêt en est donné ! Que me dis-tu, Phénice ?</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1194'>Qu'on dresse l'appareil d'un funeste supplice,</l>
+	<l id='1195'>Et que c'est par sa mort qu'un tyran inhumain</l>
+	<l id='1196'>Punit ce fier refus de lui donner la main.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1197'>Quoi, cet ami si cher ne trouve point de grâce ? </l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1198'>Enfin l'effet est prêt de suivre la menace.</l>
+	<l id='1199'>Jamais tant de fureur ne se peut concevoir</l>
+	<l id='1200'>Qu'en tous ses sentiments Sinorix en fait voir.</l>
+	<l id='1201'>Indigné de l'orgueil que montre la Princesse,</l>
+	<l id='1202'>Il éclate, il foudroie, il s'emporte sans cesse, </l>
+	<l id='1203'>Et le rang qu'en son coeur Sostrate a su tenir</l>
+	<l id='1204'>Semble augmenter sa rage à le vouloir punir.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1205'>Phénice, il est donc temps que ma vengeance cède, </l>
+	<l id='1206'>Qu'au mal que j'ai causé j'oppose le remède,</l>
+	<l id='1207'>Et qu'à tant de fureur, ce coeur reconnaissant </l>
+	<l id='1208'>Par l'offre du coupable arrache l'innocent.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1209'>Vous découvrir, Madame ? Ah, que voulez-vous faire ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1210'>Épargner à Sostrate une mort volontaire,</l>
+	<l id='1211'>Et ne permettre pas qu'il expie aujourd'hui</l>
+	<l id='1212'>Le crime glorieux qu'il a jeté sur lui. </l>
+	<l id='1213'>Dés lors sans un époux dont l'intérêt me presse</l>
+	<l id='1214'>J'eusse de son amour désavoué l'adresse,</l>
+	<l id='1215'>Et n'aurait pas souffert que mon tyran trompé</l>
+	<l id='1216'>Le chargeât d'un forfait sur ma gloire usurpé ;</l>
+	<l id='1217'>Mais voyant Sinatus sans espoir de vengeance </l>
+	<l id='1218'>Si je n'en confirmais l'abus par mon silence,</l>
+	<l id='1219'>J'ai voulu m'y contraindre, et cru que la pitié</l>
+	<l id='1220'>Lui ferait pour Sostrate écouter l'amitié.</l>
+	<l id='1221'>C'est à moi, puisqu'enfin je l'en vois incapable,</l>
+	<l id='1222'>À détruire une erreur qui cache le coupable, </l>
+	<l id='1223'>À lui montrer le bras qui s'immolait ses jours,</l>
+	<l id='1224'>Et des Dieux pour le reste attendre le secours.</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1225'>Comme il faudra pour lui que votre haine éclate,</l>
+	<l id='1226'>Vous l'allez irriter sans secourir Sostrate.</l>
+	<l id='1227'>N'ayant rien dit d'abord, vous lui ferez penser </l>
+	<l id='1228'>Que vous n'avez dessein que de l'embarrasser,</l>
+	<l id='1229'>Et je crains que piqué de voir par là votre âme</l>
+	<l id='1230'>Désavouer l'espoir dont il flatte sa flamme,</l>
+	<l id='1231'>Il ne hâte une mort dont par quelque intérêt</l>
+	<l id='1232'>Il peut songer encor à suspendre l'arrêt. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1233'>Mais quand je lui dirai qu'une ardeur de vengeance </l>
+	<l id='1234'>M'a fait de ses forfaits cacher la connaissance ;</l>
+	<l id='1235'>Que je sais qu'en secret sa lâche trahison</l>
+	<l id='1236'>Pour perdre Sinatus eut recours au poison ;</l>
+	<l id='1237'>Qu'à venger cette mort ma haine toujours prête, </l>
+	<l id='1238'>À Sostrate cent fois a demandé sa tête ;</l>
+	<l id='1239'>Qu'à son refus tantôt dans ma noble fierté,</l>
+	<l id='1240'>Mon bras se l'immolait s'il ne l'eut arrêté ;</l>
+	<l id='1241'>Que l'aveu qu'à sa flamme il a crû propice</l>
+	<l id='1242'>Pour le mieux éblouir n'était qu'un artifice, </l>
+	<l id='1243'>Crois-tu que ce rapport trouve si peu de foi</l>
+	<l id='1244'>Qu'il le laisse douter entre Sostrate et moi ?</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1245'>Le voici qui paraît ; avant que rien éclate</l>
+	<l id='1246'>Songez à Sinatus, jetez l'oeil sur Sostrate,</l>
+	<l id='1247'>Et craignez qu'à sa rage abandonnant vos jours, </l>
+	<l id='1248'>L'un ne soit sans vengeance, et l'autre sans secours.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Sinorix, Camma, Phénice, Phaedime, Suite de Sinorix.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1249'>Madame, je sais bien que vous devant la vie,</l>
+	<l id='1250'>Que sans votre secours un lâche m'eut ravie,</l>
+	<l id='1251'>On aurait dû déjà me voir à vos genoux</l>
+	<l id='1252'>Vous consacrer cent fois ce que je tiens de vous ; </l>
+	<l id='1253'>Mais j'ai crû dans l'ardeur du courroux qui m'enflamme</l>
+	<l id='1254'>Vous devoir dérober les troubles de mon âme,</l>
+	<l id='1255'>Sans cesse, je l'avoue, il me vient animer,</l>
+	<l id='1256'>Et toute mon étude a peine à le calmer.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1257'>La cause en est trop juste où le crime est extrême, </l>
+	<l id='1258'>Mais souvent il est beau de se vaincre soi-même,</l>
+	<l id='1259'>Et d'attacher sa gloire à ce pompeux éclat</l>
+	<l id='1260'>Dont brille le pardon d'un indigne attentat.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1261'>Madame, c'est à quoi j'avais su me contraindre,</l>
+	<l id='1262'>À Sostrate déjà j'ôtais tout lieu de craindre, </l>
+	<l id='1263'>Et faisant sur moi-même un généreux effort,</l>
+	<l id='1264'>Je laissais la Princesse arbitre de son sort ;</l>
+	<l id='1265'>Mais avec tant d'orgueil, mais avec tant d'audace</l>
+	<l id='1266'>Tous deux ont dédaigné que je leur fisse grâce,</l>
+	<l id='1267'>Qu'il faut qu'un châtiment aussi juste que prompt </l>
+	<l id='1268'>Par le sang du perfide en répare l'affront.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1269'>Quoi, la pitié pour lui ne touche point votre âme,</l>
+	<l id='1270' part='i'>Lui qui vous fut si cher, lui qu'enfin...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1270' part='f'>Ah, Madame,</l>
+	<l id='1271'>Que vous concevez mal, en pressant ma pitié, </l>
+	<l id='1272'>Quelle horreur à l'outrage ajoute l'amitié !</l>
+	<l id='1273'>Le coup que de tout autre on verrait sans colère</l>
+	<l id='1274'>Nous arrache le coeur quand la main nous est chère,</l>
+	<l id='1275'>Et l'oubli ne pouvant jamais s'en obtenir,</l>
+	<l id='1276'>Ce coeur devient par là plus ardent à punir. </l>
+	<l id='1277'>Si j'ai chéri Sostrate, après son parricide</l>
+	<l id='1278'>J'aime mieux le voir mort que de le voir perfide,</l>
+	<l id='1279'>Et trouve plus de peine en ce rude combat</l>
+	<l id='1280'>A haïr un ami qu'à punir un ingrat.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1281'>Mais enfin à présent que je me vois remise </l>
+	<l id='1282'>De ce trouble où tantôt m'engageait la surprise,</l>
+	<l id='1283'>J'ois sans cesse mon coeur me reprocher tout bas </l>
+	<l id='1284'>Que j'ai fait son péril, et ne l'en tire pas.</l>
+	<l id='1285'>Non que s'il s'agissait encor de votre teste</l>
+	<l id='1286'>À de plus vifs efforts cette main ne fut prête, </l>
+	<l id='1287'>Mais si vous tenez tout d'un généreux secours,</l>
+	<l id='1288'>Pour les vôtres sauvés je demande ses jours.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1289'>Quel indigne parti la pitié vous fait prendre !</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1290'>Étant sans intérêt je voudrais m'en défendre,</l>
+	<l id='1291'>Mais quoi que votre haine ait droit d'en murmurer, </l>
+	<l id='1292'>Ayant fait son malheur je dois le réparer.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1293'>Mais songez qu'évitant la peine qu'il mérite...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1294'>Mais songez que c'est moi qui vous en sollicite,</l>
+	<l id='1295'>Et qu'après tant de voeux que j'ai pu dédaigner,</l>
+	<l id='1296'>S'ils sont ardents pour moi, c'est mal le témoigner. </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1297'>S'ils sont ardents pour vous ? Qu'on amène Sostrate.</l>
+	<l id='1298'>La vengeance déjà n'a plus rien qui me flatte,</l>
+	<l id='1299'>Mais qu'au moins un triomphe et si grand et si beau</l>
+	<l id='1300'>Sur votre fier devoir m'en acquière un nouveau,</l>
+	<l id='1301'>Faites à votre tour que sa rigueur se rende, </l>
+	<l id='1302'>Vous me demandez grâce, et je vous la demande ;</l>
+	<l id='1303'>Cessez de reculer, pour me voir trop soumis,</l>
+	<l id='1304'>L'effet du doux espoir que vous m'avez permis.</l>
+	<l id='1305'>J'étonne mon respect, il tremble en ce que j'ose,</l>
+	<l id='1306'>Mais à qui donne tout vous devez quelque chose, </l>
+	<l id='1307'>Et mon courroux vaincu peut-être a mérité</l>
+	<l id='1308'>L'entier et prompt aveu de ma félicité.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1309'>Donc ces fortes raisons par vous-même approuvées </l>
+	<l id='1310'>Sont chimères en l'air que ma crainte a rêvées ?</l>
+	<l id='1311'>J'ai montré ma faiblesse à leur trop déférer ? </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1312'>Il suffisait tantôt de me faire espérer,</l>
+	<l id='1313'>Mais contre ce devoir et cette bienséance</l>
+	<l id='1314'>Qu'opposait le scrupule à mon impatience,</l>
+	<l id='1315'>Le sang où ma vengeance a voulu renoncer</l>
+	<l id='1316'>Autorise l'hymen dont j'ose vous presser ; </l>
+	<l id='1317'>À ce prix seulement mon coeur vous l'abandonne.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1318'>C'est là ce grand pouvoir que votre amour me donne ?</l>
+	<l id='1319'>Vous m'osez refuser quand j'ai crû ne devoir...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1320'>C'est blesser cet amour, j'en suis au désespoir,</l>
+	<l id='1321'>Mais contre les fureurs d'une fière Princesse </l>
+	<l id='1322'>Dans ce juste refus ma gloire s'intéresse,</l>
+	<l id='1323'>Et ne saurait souffrir que par ses attentats,</l>
+	<l id='1324'>Elle m'ait fait trembler, et n'en soupire pas.</l>
+	<l id='1325'>Il faut, si le coupable échappe à ma justice,</l>
+	<l id='1326'>Que demain votre hymen me venge et la punisse, </l>
+	<l id='1327'>Et que le vain effort d'un coup si malheureux</l>
+	<l id='1328'>Lui coûte la douleur de m'avoir fait heureux.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Sinorix, Camma, Sostrate, Phaedime, Sosime, Phénice, Gardes.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1329'>Approche, et quoi qu'ait pu ta criminelle audace,</l>
+	<l id='1330'>Pour la seconde fois viens recevoir ta grâce.</l>
+	<l id='1331'>Ce coeur que rien pour toi ne pouvait plus toucher, </l>
+	<l id='1332'>En faveur de la Reine ose me l'arracher,</l>
+	<l id='1333'>Elle est entre ses mains, tu peux l'obtenir d'elle.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1334'>Est-ce me la donner qu'abuser de mon zèle,</l>
+	<l id='1335'>Et m'imposer des lois dont le fatal accord,</l>
+	<l id='1336'>Ou hasarde ma gloire, ou le livre à la mort ? </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1337'>Ah, Madame, il se peut que ce choix vous arrête ?</l>
+	<l id='1338'>Mon destin est trop beau pour en être inquiète,</l>
+	<l id='1339'>C'est en ternir l'éclat que de me secourir,</l>
+	<l id='1340'>Conservez votre gloire, et me laissez mourir.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1341'>Quoi, traître, jusqu'au bout obstiné dans ta rage </l>
+	<l id='1342'>L'effet de mes bontés te tiendra lieu d'outrage ?</l>
+	<l id='1343'>Ta grâce t'est offerte, il est vrai ; mais apprends</l>
+	<l id='1344'>Que c'est contre mes voeux que pour toi je me rends ;</l>
+	<l id='1345'>Que tout ce qu'ont d'horreur les plus affreux supplices</l>
+	<l id='1346'>Ferait à te punir mes plus chères délices, </l>
+	<l id='1347'>Et que j'attacherais leur plus charmant transport </l>
+	<l id='1348'>À goûter à longs traits le plaisir de ta mort.</l>
+	<l id='1349'>Après un tel aveu fuis tes fières maximes,</l>
+	<l id='1350'>Fais encor vanité de voir punir tes crimes,</l>
+	<l id='1351'>Aux bontés de la Reine oppose tes refus. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1352'>Quoi, j'aurais fait pour lui des efforts superflus ?</l>
+	<l id='1353' part='i'>Ah, songez...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1353' part='f'>Non, Madame, il y va de ma gloire,</l>
+	<l id='1354'>Souffrez à mon amour cette juste victoire ;</l>
+	<l id='1355'>Je sais que résister lorsque vous commandez </l>
+	<l id='1356'>C'est trahir le respect que vous en attendez,</l>
+	<l id='1357'>Mais je dois à mon rang pour punir la Princesse,</l>
+	<l id='1358'>Ou le sang d'un perfide, ou l'hymen que je presse.</l>
+	<l id='1359'>Si mon bonheur trop prompt a de quoi vous gêner</l>
+	<l id='1360'>À son lâche destin daignez l'abandonner ; </l>
+	<l id='1361'>Il ne vaut pas, l'ingrat, que par reconnaissance,</l>
+	<l id='1362'>Vous vous fassiez pour lui la moindre violence,</l>
+	<l id='1363'>Ni qu'il coûte à ce coeur qu'ont charmé vos appas</l>
+	<l id='1364'>Le pressant déplaisir de ne vous céder pas.</l>
+	<l id='1365'>Mais enfin c'est en vain que l'amour m'y convie, </l>
+	<l id='1366'>Votre main seule a droit de racheter la vie,</l>
+	<l id='1367'>Et vous pouvez choisir, si ce prix est trop haut,</l>
+	<l id='1368'>De monter sur le trône, ou lui sur l'échafaud.</l>
+	<l id='1369'>C'est de quoi j'attendrai la réponse certaine.</l>
+	<l id='1370'>Qu'on se tienne éloigné par respect pour la Reine. </l>
+	<l id='1371'>Je le laisse avec vous afin que ses avis,</l>
+	<l id='1372'>S'ils flattent vos souhaits, puissent être suivis.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Camma, Sostrate.</head>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1373'>Sous quel voile trompeur le lâche se déguise !</l>
+	<l id='1374'>À me tyranniser sa gloire l'autorise,</l>
+	<l id='1375'>Quand il m'arrache l'âme, il agit par vertu ? </l>
+	<l id='1376'>Ah, Sostrate, Sostrate, à quoi me réduis-tu ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1377'>À daigner, pour le prix de l'amour le plus rare,</l>
+	<l id='1378'>Avouer mon destin de l'heur qu'il me prépare,</l>
+	<l id='1379'>Et laissant Sinorix dans son aveuglement,</l>
+	<l id='1380'>Honorer d'un soupir la perte d'un amant. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1381'>Tu dois être content si ton erreur t'est chère,</l>
+	<l id='1382'>Ton amour l'a fait naître, et je saurai la taire,</l>
+	<l id='1383'>Tu le veux, j'y consens, elle aura son effet.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1384'>Ah, puisqu'il est ainsi, que je meurs satisfait !</l>
+	<l id='1385' part='i'>Madame... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1385' part='f'>Quoi, mourir ? Tu me crois assez lâche</l>
+	<l id='1386'>Pour te livrer au sort dont ta vertu m'arrache ?</l>
+	<l id='1387'>Si je cache l'abus qui t'expose à périr,</l>
+	<l id='1388'>C'est par la seule peur de te mal secourir.</l>
+	<l id='1389'>Le tyran redoublant la rage qui l'anime </l>
+	<l id='1390'>De ton amour pour moi te pourrait faire un crime,</l>
+	<l id='1391'>Et dans son désespoir, sa fureur le pressant,</l>
+	<l id='1392'>Confondre le coupable avecque l'innocent.</l>
+	<l id='1393'>Ainsi mon imprudence, à suivre cette envie, </l>
+	<l id='1394'>Du moins à ce péril exposerait ta vie, </l>
+	<l id='1395'>Et quand je te la dois c'est à moi de trouver</l>
+	<l id='1396'>L'infaillible moyen de te la conserver.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1397'>Quel moyen où l'amour n'a point eu de puissance ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1398'>Celui que d'un tyran m'offre la violence.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1399' part='i'>Quoi, Madame... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1399' part='f'>Je tremble à me le proposer,</l>
+	<l id='1400'>J'en frémis, mais enfin il le faut épouser.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1401'>Lui contre qui tantôt vous osiez entreprendre ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1402'>Lui dont encor le sang me plairait à répandre,</l>
+	<l id='1403'>Lui dont, si le hasard m'offrait un coup certain, </l>
+	<l id='1404'>Au péril de cent morts j'irais percer le sein ;</l>
+	<l id='1405'>Mais cette occasion si difficile à prendre,</l>
+	<l id='1406'>Tu me mets hors d'état de la pouvoir attendre,</l>
+	<l id='1407'>Ta vie est en danger, et pour te secourir</l>
+	<l id='1408'>Il me faut faire plus mille fois que mourir. </l>
+	<l id='1409'>Il me faut consentir qu'un honteux hyménée</l>
+	<l id='1410'>À mon lâche tyran joigne ma destinée,</l>
+	<l id='1411'>Il me faut violer les devoirs les plus saints,</l>
+	<l id='1412'>Ne me condamne point, c'est toi qui m'y contrains,</l>
+	<l id='1413'>C'est toi qui t'opposant à ma noble colère </l>
+	<l id='1414'>Me plonges dans un gouffre où tout me désespère,</l>
+	<l id='1415'>Où quoi que mes malheurs offrent à mes regards,</l>
+	<l id='1416'>Ce n'est qu'accablement, qu'horreur de toutes parts,</l>
+	<l id='1417'>Où d'un triste devoir déplorable victime</l>
+	<l id='1418'>Je connais, je déteste, et couronne le crime, </l>
+	<l id='1419'>Mais je raisonne en vain sur un point résolu, </l>
+	<l id='1420'>Il n'y faut plus penser, c'est toi qui l'as voulu.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1421'>Et bien, de tous ces maux où seul je vous expose</l>
+	<l id='1422'>Souffrez-vous la douceur de voir punir la cause,</l>
+	<l id='1423'>Et ne m'enviez point la gloire d'une mort </l>
+	<l id='1424'>Qui de tant de malheurs affranchit votre sort.</l>
+	<l id='1425'>Par ce profond respect dont l'assurance offerte...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1426'>Moi, que si lâchement je consente à ta perte ?</l>
+	<l id='1427'>Que te devant le jour je t'en laisse priver ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1428'>Hélas, Madame hélas ! Pouvez-vous me sauver ? </l>
+	<l id='1429'>En l'état où je suis ma mort est assurée,</l>
+	<l id='1430'>Mon maître et mon amour à l'envi l'ont jurée,</l>
+	<l id='1431'>Et je la vois par tout certaine à recevoir,</l>
+	<l id='1432'>Ou d'un arrêt funeste, ou de mon désespoir.</l>
+	<l id='1433'>Rendre par votre hymen cet arrêt inutile, </l>
+	<l id='1434'>Pour une seule mort c'est me livrer à mille ;</l>
+	<l id='1435'>C'est changer la douceur du sort le plus heureux</l>
+	<l id='1436'>En tout ce que sa haine a jamais eu d'affreux.</l>
+<note type="L">Penser : Faire une action de l'esprit, de l'imagination, de la mémoire. [F]</note>
+	<l id='1437'>Mon âme à ce penser de frayeur possédée</l>
+	<l id='1438'>D'un si cruel revers n'ose prendre l'idée, </l>
+	<l id='1439'>Ni montrer à mes sens interdits, égarés,</l>
+	<l id='1440'>Toute l'horreur des maux que vous me préparez,</l>
+	<l id='1441'>Leur menace déjà rend mon tourment extrême.</l>
+	<l id='1442'>Madame, par pitié sauvez-moi de moi-même,</l>
+	<l id='1443'>Et ne remettez point à mes vives douleurs </l>
+	<l id='1444'>À contraindre ma main de finir mes malheurs.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1445'>Le dessein que je prends t'est un rude supplice,</l>
+	<l id='1446'>Je le sais, mais toi-même en loueras la justice,</l>
+	<l id='1447'>Puisque par sa rigueur je rends ce que je dois</l>
+	<l id='1448'>À ce qu'a fait ton zèle et pour et contre moi. </l>
+	<l id='1449'>À m'arrêter le bras et m'immoler ta vie </l>
+	<l id='1450'>Tu m'as en même temps offensée et servie,</l>
+	<l id='1451'>Et je dois par l'hymen dont tu me vois presser</l>
+	<l id='1452'>Te punir tout ensemble et te récompenser.</l>
+	<l id='1453'>Devant tout aux motifs de ta noble imposture, </l>
+	<l id='1454'>Il m'acquitte vers toi par le jour qu'il t'assure,</l>
+	<l id='1455'>Et m'ayant outragée à secourir ton Roi,</l>
+	<l id='1456'>Par l'horreur de me perdre il me venge de toi.</l>
+	<l id='1457'>Ainsi des deux cotés il fait plus qu'on ne pense,</l>
+	<l id='1458'>En payant le service il répare l'offense, </l>
+	<l id='1459'>Et de tes jours sauvés te faisant un tourment,</l>
+	<l id='1460'>Au prix qui les rachète il joint le châtiment.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1461'>Quelle justice, hélas, votre haine autorise ?</l>
+	<l id='1462'>J'ai rompu, je l'avoue, une triste entreprise,</l>
+	<l id='1463'>Mais ce crime est-il tel que bien examiné </l>
+	<l id='1464'>Il mérite la peine où je suis condamné ?</l>
+	<l id='1465'>Faut-il que mon devoir toujours inébranlable</l>
+	<l id='1466'>M'attire un châtiment qui n'a point de semblable,</l>
+	<l id='1467'>Et pour vous satisfaire en de si rudes coups</l>
+	<l id='1468'>La mort que je demande en est-elle un trop doux ? </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1469'>Si la sévérité qu'exerce ma vengeance</l>
+	<l id='1470'>Paraît à ton amour au dessus de l'offense,</l>
+	<l id='1471'>Aussi, quoi que pour moi ton zèle ait entrepris,</l>
+	<l id='1472'>Tu vois que le service est au dessous du prix.</l>
+	<l id='1473'>C'est une illustre mort que ton amour affronte, </l>
+	<l id='1474'>Mais pour la détourner je me couvre de honte,</l>
+	<l id='1475'>Ton zèle à mon péril sacrifiait tes jours,</l>
+	<l id='1476'>Et j'immole ma gloire à celui que tu cours.</l>
+	<l id='1477'>Pour toi je l'asservis au sort le plus infâme,</l>
+	<l id='1478'>De mon tyran pour toi j'ose me rendre femme, </l>
+	<l id='1479'>Déshonorer mon rang, obscurcir ma vertu.</l>
+	<l id='1480'>Sostrate, encor un coup, à quoi me réduis-tu ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1481'>Mais vous même obstinée à me perdre, à vous nuire, </l>
+	<l id='1482'>À quoi, Madame, à quoi vous osez-vous réduire ?</l>
+	<l id='1483'>Au plus honteux projet votre coeur se résout, </l>
+	<l id='1484' part='i'>Il le sait, il le voit.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1484' part='f'>Je vois tout, je sais tout,</l>
+	<l id='1485'>Mais en vain de mon sort l'épouvantable image</l>
+	<l id='1486'>Te laisse quelque espoir d'ébranler mon courage.</l>
+	<l id='1487'>Pour te sauver le jour l'effort est résolu, </l>
+	<l id='1488'>Je te l'ai déjà dit, c'est toi qui l'as voulu.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1489'>Dites, dites plutôt que du trône touchée</l>
+	<l id='1490'>Votre âme à la vengeance enfin s'est arrachée,</l>
+	<l id='1491'>Et voit avec plaisir le suprême pouvoir</l>
+	<l id='1492'>Étouffer par empire un si juste devoir ; </l>
+	<l id='1493'>Que des voeux d'un sujet l'importune mémoire</l>
+	<l id='1494'>D'un reproche honteux accablait votre gloire,</l>
+	<l id='1495'>Et que quoi que vers vous ait mérité ma foi,</l>
+	<l id='1496'>Il fallait les confondre en épousant un Roi.</l>
+	<l id='1497'>Dites qu'à les souffrir vous ayant su contraindre, </l>
+	<l id='1498'>Le sort le plus cruel ne me rend point à plaindre,</l>
+	<l id='1499'>Que si vous conceviez une plus rude mort...</l>
+	<l id='1500'>Mais où m'emporte, hélas ! Mon aveugle transport ?</l>
+	<l id='1501'>À sa coupable audace ordonnez un supplice,</l>
+	<l id='1502'>Madame, je le sais, je vous fais injustice, </l>
+	<l id='1503'>Mais ce coeur déchiré par mille affreux combats,</l>
+	<l id='1504'>S'il vous en faisait moins, ne vous aimerait pas.</l>
+	<l id='1505'>Dans l'excès des malheurs que le Ciel m'a fait naître,</l>
+	<l id='1506'>Qui ne se connaît plus, peut ne vous pas connaître,</l>
+	<l id='1507'>Je me perds, je m'égare, et dans mon désespoir </l>
+	<l id='1508'>Je ne puis écouter ni raison, ni devoir,</l>
+	<l id='1509'>Mon amour s'abandonne au torrent qui l'entraîne.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Camma, Hésione, Sostrate.</head>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1510'>Ah, Madame, empêchez le dessein de la Reine,</l>
+	<l id='1511'>Trop injuste pour vous, trop aveugle pour moi,</l>
+	<l id='1512'>Pour me sauver la vie, elle épouse le Roi. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1513'>On m'apprend à quel prix il t'est permis de vivre,</l>
+	<l id='1514'>Et je n'ai point douté de ce que je vois suivre.</l>
+	<l id='1515'>Le zèle est généreux, et j'ai bien à rougir</l>
+	<l id='1516'>Qu'où mon coeur n'ose rien une autre veuille agir.</l>
+	<l id='1517'>L'effort que je refuse à ma reconnaissance </l>
+	<l id='1518'>Par sa seule pitié la Reine s'y dispense,</l>
+	<l id='1519'>Et pour sauver tes jours d'un arrêt inhumain,</l>
+	<l id='1520'>Je n'offre que du sang, elle donne la main.</l>
+	<l id='1521'>D'un plus noble triomphe eut-on jamais la gloire ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1522'>Il peut me coûter plus que vous ne voudrez croire. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1523'>Comme de son éclat tout mon coeur est surpris,</l>
+	<l id='1524'>Je l'examine assez pour en savoir le prix.</l>
+	<l id='1525'>On veut perdre Sostrate, et quand je l'abandonne,</l>
+	<l id='1526'>Daigner monter au Trône et prendre une Couronne</l>
+	<l id='1527'>Pour l'arracher au sort dont il est combattu, </l>
+	<l id='1528'>C'est l'effet d'une rare et sublime vertu.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1529'>Chacun dans ses malheurs est juge de la sienne, </l>
+	<l id='1530'>Mais, Princesse, aujourd'hui que rien ne vous retienne,</l>
+	<l id='1531'>Je ne déguise point ce que vous connaissez,</l>
+	<l id='1532'>Pour rompre mon hymen éclatez, agissez, </l>
+	<l id='1533'>Puisqu'il empêche seul un injuste supplice,</l>
+	<l id='1534' part='i'>Puisqu'il sauve Sostrate...</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1534' part='f'>Ah, souffrez qu'il périsse,</l>
+	<l id='1535'>Qu'il remplisse en mourant la gloire de son sort.</l>
+<stage>À Hesione.</stage>
+	<l id='1536'>Madame, s'il se peut, obtenez-moi la mort, </l>
+	<l id='1537'>Empêchez l'injustice où se porte la Reine.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1538'>Non, non, Sostrate, non, ton espérance est vaine,</l>
+	<l id='1539'>Lors que l'offre d'un Trône a droit de nous flatter,</l>
+	<l id='1540'>Quels qu'en soient les degrés, il est beau d'y monter.</l>
+	<l id='1541'>C'est par là qu'on s'assure une illustre mémoire. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1542'>Il est divers chemins qui mènent à la gloire.</l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1543'>Y prétendre arriver par des moyens si bas,</l>
+	<l id='1544'>Ce sont de vos secrets qu'on ne pénètre pas.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1545'>Je n'ai point d'autre choix dans celui qu'on me laisse,</l>
+	<l id='1546'>Nommez-en les motifs injustice, bassesse, </l>
+	<l id='1547'>Pour moi qui fuis l'aigreur d'un plus long entretien,</l>
+	<l id='1548'>Je porte ma réponse, et n'écoute plus rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Hésione, Sostrate.</head>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1549'>Madame... Elle nous quitte. Ô coeur impitoyable !</l>
+	<l id='1550'>Pouvais-je craindre, hélas ! Un sort plus effroyable ?</l>
+	<l id='1551' part='i'>Princesse... </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1551' part='f'>Va, c'est trop, quitte ce désespoir,</l>
+	<l id='1552'>Sostrate, ton amour a bien fait son devoir.</l>
+	<l id='1553'>Pour vaincre les malheurs dont je suis poursuivie</l>
+	<l id='1554'>Tu m'as aveuglement sacrifié ta vie ;</l>
+	<l id='1555'>Si les Dieux ont trahi ton espoir et le mien, </l>
+	<l id='1556'>N'en étant point garant, je ne t'impute rien,</l>
+	<l id='1557'>Calme ces déplaisirs à qui ta raison cède.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1558'>Ne me consolez point, mes maux sont sans remède,</l>
+	<l id='1559'>Et quand le Ciel s'obstine à me pousser à bout,</l>
+	<l id='1560'>Madame, c'est à moi de répondre de tout. </l>
+</sp>
+<sp who='HESIONE'><speaker>HÉSIONE.</speaker>
+	<l id='1561'>Si pour t'obtenir grâce après ton entreprise</l>
+	<l id='1562'>À l'hymen d'un tyran la Reine s'autorise,</l>
+	<l id='1563'>C'est par là que les Dieux peut-être ont résolu</l>
+	<l id='1564'>De remettre en mes mains le pouvoir absolu.</l>
+	<l id='1565'>Tout le peuple en secret plaignant ma destinée </l>
+	<l id='1566'>De Sinorix pour moi souhaite l'hyménée,</l>
+	<l id='1567'>Et nous verrons du sang sans doute répandu</l>
+	<l id='1568'>S'il voit qu'elle partage un trône qui m'est dû.</l>
+	<l id='1569'>Conserve-moi ton zèle, et pour heureux présage </l>
+	<l id='1570'>Vois ta Princesse ferme au milieu de l'orage. </l>
+	<l id='1571'>Adieu, je vais agir, cependant souviens-toi</l>
+	<l id='1572'>Que tu peux, si je règne, espérer tout de moi.</l>
+<stage>Elle sort et Sosime rentre.</stage>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1573'>Quel espoir où je vois abîme sur abîme,</l>
+	<l id='1574'>Où les Dieux irrités, où la Reine... Ah, Sosime !</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1575'>Seigneur, si la pitié que j'ai de votre sort... </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1576'>Allons, et s'il se peut, qu'on me mène à la mort.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sostrate, Sosime.</head>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1577'>Quoi, d'un si dur revers ma disgrâce est suivie,</l>
+	<l id='1578'>Sosime, et malgré moi l'on me laisse la vie ?</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1579'>Seigneur, vous plaignez-vous quand cet illustre effort</l>
+	<l id='1580'>Vous épargne l'horreur d'une honteuse mort ? </l>
+	<l id='1581'>Sinorix a donné sa vengeance à la Reine,</l>
+	<l id='1582'>Mais après ce triomphe obtenu sur sa haine,</l>
+	<l id='1583'>Ce qui suit, quoi que juste, étonnant vos désirs</l>
+	<l id='1584'>Vous contraindra sans doute à pousser des soupirs.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1585'>Je sais quel coup affreux la Fortune me garde, </l>
+	<l id='1586' part='i'>La Reine...</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1586' part='f'>Ce malheur n'a rien qui la regarde,</l>
+	<l id='1587'>C'est à votre amour seul qui s'offre à redouter.</l>
+	<l id='1588'>La Princesse tantôt a voulu s'emporter ;</l>
+	<l id='1589'>Contre l'ambition d'une Reine infidèle,</l>
+	<l id='1590'>Peuple, a-t-elle crié, prendras-tu ma querelle ?</l>
+	<l id='1591'>C'est pour la couronner que me manquant de foi</l>
+	<l id='1592'>Un tyran a trahi la fille de ton Roi.</l>
+	<l id='1593'>Par ces mots pleins d'ardeur allant de place en place</l>
+	<l id='1594'>Dans les coeurs les plus froids elle a mis de l'audace, </l>
+	<l id='1595'>Et les aurait contraints peut-être d'éclater</l>
+	<l id='1596'>Si soudain Sinorix ne l'eut fait arrêter.</l>
+	<l id='1597'>Dans son appartement il la tient prisonnière,</l>
+	<l id='1598'>Et comme on ne peut rien sur une âme si fière,</l>
+	<l id='1599'>Je crains que cet effort imprudemment tenté </l>
+	<l id='1600'>Ne le force à l'exil qu'il avait arrêté.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1601'>Mais la Reine, Sosime, à quand son hyménée ?</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1602'>La pompe vient, Seigneur, d'en être terminée.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1603'>Quoi, c'en est déjà fait ? Ah destins ennemis !</l>
+	<l id='1604'>La Reine est mariée, et les Dieux l'ont permis. </l>
+	<l id='1605'>Au moins, dis-moi, Sosime, en cette rude atteinte</l>
+	<l id='1606'>Ce qu'elle a témoigné de douleur, de contrainte.</l>
+	<l id='1607'>C'est pour moi qu'à l'hymen son coeur violenté...</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1608'>Cessez, cessez, Seigneur, d'en être inquiété.</l>
+	<l id='1609'>Dans les biens les plus grands que le Ciel nous envoie </l>
+	<l id='1610'>Jamais sur un visage on n'a vu plus de joie.</l>
+	<l id='1611'>Tandis que Sinorix donne ordre aux factieux,</l>
+	<l id='1612'>Dans le Temple enfermée elle invoque les Dieux,</l>
+	<l id='1613'>Où si tôt qu'il paraît, se voyant sans rivale,</l>
+	<l id='1614'>Elle fait apporter la coupe nuptiale, </l>
+	<l id='1615'>Baise le sacré vase, et s'approchant du Roi,</l>
+	<l id='1616'>Dieux, dit-elle, soyez les témoins de ma foi.</l>
+	<l id='1617'>Là pour suivre nos lois le portant à la bouche, </l>
+	<l id='1618'>On lit dedans ses yeux le plaisir qui la touche,</l>
+	<l id='1619'>Et le Roi que possède un transport éclatant, </l>
+	<l id='1620'>Prend de sa main le vase, et l'imite à l'instant.</l>
+	<l id='1621'>Vers le grand prêtre alors l'un et l'autre s'avance,</l>
+	<l id='1622'>On voit croître leur joie où leur bonheur commence,</l>
+	<l id='1623'>Et c'est-là qu'aussitôt s'étant donnez la foi</l>
+	<l id='1624'>L'hymen tout glorieux les unit sous sa loi. </l>
+	<l id='1625'>Jugez par là, Seigneur, si vous avez à craindre</l>
+	<l id='1626'>Que la Reine pour vous ait voulu se contraindre,</l>
+	<l id='1627'>Elle aspirait au trône, et par de si beaux noeuds,</l>
+	<l id='1628'>En vous sauvant la vie, elle a rempli ses voeux.</l>
+	<l id='1629'>Il est doux d'obliger quand on gagne un Empire. </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1630'>Ah, Sosime, c'est trop, souffre que je respire,</l>
+	<l id='1631'>Si mes maux sont si grands laisse-moi l'ignorer,</l>
+	<l id='1632'>Et ne t'obstine point à me désespérer.</l>
+	<l id='1633'>Avec tant de vertu serait-il bien possible</l>
+	<l id='1634'>Qu'aux douceurs d'un faux charme on se rendit sensible, </l>
+	<l id='1635'>Et que pour s'assurer un indigne pouvoir</l>
+	<l id='1636'>On renonçât à tout, à la gloire, au devoir ?</l>
+	<l id='1637'>Non, non, cette pensée est lâche et criminelle,</l>
+	<l id='1638'>Je la dois mieux connaître, elle a l'âme trop belle,</l>
+	<l id='1639'>C'est moi qui l'ai contrainte à ce funeste effort, </l>
+	<l id='1640'>Mais elle est mariée, et je ne suis pas mort.</l>
+	<l id='1641'>C'est ici, mes douleurs, que j'implore votre aide,</l>
+	<l id='1642'>Peignez-moi bien l'horreur du mal qui me possède,</l>
+	<l id='1643'>La Reine est mariée, et pour finir mes jours</l>
+	<l id='1644'>Mon désespoir n'attend que ce triste secours. </l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1645'>Que dites-vous, Seigneur, et que viens-je d'entendre ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1646'>Ce qu'au Roi, ce qu'à tous il faut enfin apprendre, </l>
+	<l id='1647'>Dans les maux où le Ciel a voulu m'exposer,</l>
+	<l id='1648'>Qui n'espère plus rien n'a rien à déguiser.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Sinorix, Sostrate, Sosime, Suite de Sinorix.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1649'>Tu parais encor, lâche, et quand ta perfidie </l>
+	<l id='1650'>Joint ta gloire souillée à l'amitié trahie,</l>
+	<l id='1651'>Loin d'éviter mes yeux, je te vois fièrement</l>
+	<l id='1652'>Attendre tout l'éclat de mon ressentiment ;</l>
+	<l id='1653'>Mais ne crois plus pour toi que mon courroux l'exprime,</l>
+	<l id='1654'>Mon indignation t'abandonne à ton crime, </l>
+	<l id='1655'>Et quoi que ton audace aime à le soutenir,</l>
+	<l id='1656'>C'est en te dédaignant que je te veux punir.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1657'>Seigneur, puisqu'à ce point ma peine vous est chère,</l>
+	<l id='1658'>Apprenez que le Ciel cherche à vous satisfaire,</l>
+	<l id='1659'>Et que tous les tourments l'un sur l'autre amassés </l>
+	<l id='1660'>Pour égaler le mien ne feraient pas assez.</l>
+	<l id='1661'>Il n'est point de moment où par quelque artifice</l>
+	<l id='1662'>Mon désespoir pour moi ne change de supplice,</l>
+	<l id='1663'>Mille maux l'un de l'autre à l'envi renaissants</l>
+	<l id='1664'>Accablent ma raison, et confondent mes sens, </l>
+	<l id='1665'>Tout me nuit, tout me perd, tout me devient funeste.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1666'>Quoi, de tant de fierté c'est-là ce qui te reste,</l>
+	<l id='1667'>Et las à me braver de perdre tes efforts, </l>
+	<l id='1668'>Tu ne crois plus honteux de céder au remords ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1669'>Non, Seigneur, au remords rien ne peut me résoudre, </l>
+	<l id='1670'>Quand vous me condamnez la gloire sait m'absoudre,</l>
+	<l id='1671'>J'ai montré quelque audace, et pour n'en point rougir</l>
+	<l id='1672'>Ce me doit être assez qu'elle m'ait fait agir ;</l>
+	<l id='1673'>Mais hélas ! J'en ai beau suivre par tout les traces,</l>
+	<l id='1674'>Je connais mes forfaits à mes tristes disgrâces, </l>
+	<l id='1675'>Et malgré tout mon zèle à ses conseils uni</l>
+	<l id='1676'>Je me tiens criminel quand je me vois puni.</l>
+	<l id='1677'>Aveugle jusqu'ici dans l'ardeur qui me presse</l>
+	<l id='1678'>Vous m'avez plaint d'aimer une ingrate Princesse,</l>
+	<l id='1679'>Mais enfin éclairé par un revers fatal </l>
+	<l id='1680'>Connaissez votre erreur, et l'excès de mon mal,</l>
+	<l id='1681'>J'aime, j'aime la Reine, et l'amour dans mon âme</l>
+	<l id='1682'>A transmis en secret tout ce qu'il a de flamme,</l>
+	<l id='1683'>Mon coeur à l'adorer met son plus doux appas,</l>
+	<l id='1684'>Cependant, je la vois, Seigneur, entre vos bras, </l>
+	<l id='1685'>Je la perds, et sa perte à ce tourment m'expose</l>
+	<l id='1686'>Qu'accablé de l'effet je frémis de la cause ;</l>
+	<l id='1687'>On croit me faire grâce à trahir mon amour,</l>
+	<l id='1688'>Et quand on m'assassine on me sauve le jour.</l>
+	<l id='1689'>Que me servent ces jours qu'on cesse de poursuivre </l>
+	<l id='1690'>Si l'on m'ôte le bien sans qui je ne puis vivre ?</l>
+	<l id='1691'>Ah, pour ce dur supplice il n'est point de forfait,</l>
+	<l id='1692'>C'est m'avoir trop puni que ne l'avoir pas fait,</l>
+	<l id='1693'>Par là votre rigueur va jusques à l'extrême,</l>
+	<l id='1694'>Elle m'arrache au sort, et me livre à moi-même. </l>
+	<l id='1695'>Il faut y consentir, et forcer mon devoir</l>
+	<l id='1696'>À vous laisser jouir de tout mon désespoir,</l>
+	<l id='1697'>Je l'étale à vos yeux, triomphez de ma peine.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1698'>C'est donc là d'où partaient les refus de la Reine ? </l>
+	<l id='1699'>Toujours traître, toujours infidèle à ton Roi </l>
+	<l id='1700'>Tu détournais ses voeux quand ils penchaient vers moi.</l>
+	<l id='1701'>Je ne m'étonne plus si tes serments sans cesse</l>
+	<l id='1702'>Osaient de ton forfait affranchir la Princesse.</l>
+	<l id='1703'>Quoi qu'avec toi sa haine eût juré mon trépas</l>
+	<l id='1704'>Un intérêt plus fort armait déjà ton bras, </l>
+	<l id='1705'>Tu feignais par amour d'applaudir à sa rage</l>
+	<l id='1706'>Tandis qu'une autre ardeur échauffait ton courage,</l>
+	<l id='1707'>Et que l'heureux succès qui suivait mes désirs</l>
+	<l id='1708'>Te pressait dans mon sang d'étouffer tes soupirs.</l>
+	<l id='1709'>Ainsi plus lâche encore qu'on ne pouvait connaître </l>
+	<l id='1710'>Tu trahissais ensemble et la Reine et ton maître,</l>
+	<l id='1711'>Puisque le coup fatal qu'elle a su m'épargner,</l>
+	<l id='1712'>En me privant du jour, l'empêchait de régner.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Sinorix, Camma, Sostrate, Sosime, Phénice, Suite.</head>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1713'>Madame, savez-vous quelle espérance offerte</l>
+	<l id='1714'>Avait poussé Sostrate à résoudre ma perte ? </l>
+	<l id='1715'>Son orgueil jusqu'à vous ayant porté ses voeux</l>
+	<l id='1716'>S'indignait d'un hymen qui me rendait heureux,</l>
+	<l id='1717' part='i'>Et ma mort...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1717' part='f'>Je le sais, mais, Sinorix, écoute, </l>
+	<l id='1718'>Il est d'autres secrets dont tu peux être en doute, </l>
+	<l id='1719'>Et j'ai quelques clartés acquises par hasard</l>
+	<l id='1720'>Dont il est juste enfin que je te fasse part.</l>
+	<l id='1721'>Mon hymen, si j'en crois les transports de ta flamme,</l>
+	<l id='1722'>Faisait l'unique bien qui pût toucher ton âme,</l>
+	<l id='1723'>Et malgré tes soupirs tant de fois repoussés </l>
+	<l id='1724'>Tes voeux de ce côtés viennent d'être exaucés.</l>
+	<l id='1725'>Ainsi le Ciel souscrit à quoi que tu prétendes,</l>
+	<l id='1726'>Je t'ai donné la main, tu règnes, tu commandes,</l>
+	<l id='1727'>Et tu ne vois plus rien dont la possession</l>
+	<l id='1728'>Irrite ton amour ou ton ambition ; </l>
+	<l id='1729'>Mais quand tout à l'envi répond à ton attente,</l>
+	<l id='1730'>Si l'on te voit content, je ne suis pas contente,</l>
+	<l id='1731'>Et mon triste devoir toujours inquiété</l>
+	<l id='1732'>Me demande raison de ta félicité.</l>
+	<l id='1733'>Sinatus ennuyé d'un assez long veuvage </l>
+	<l id='1734'>Admira quelque éclat dont brillait mon visage,</l>
+	<l id='1735'>Et d'un second hymen ayant pris le dessein,</l>
+	<l id='1736'>Son amour aussitôt m'honora de sa main,</l>
+	<l id='1737'>Tu le sais, et qu'il m'eut à peine couronnée</l>
+	<l id='1738'>Qu'un fatal accident trancha sa destinée, </l>
+	<l id='1739'>Sa mort fut imprévue, et sans s'inquiéter</l>
+	<l id='1740'>Au malheur de son âge on voulut l'imputer.</l>
+	<l id='1741'>Pour moi, que de ce coup surprit la promptitude,</l>
+	<l id='1742'>Je mis à l'avérer ma plus pressante étude,</l>
+	<l id='1743'>Et découvris enfin, sans qu'on l'ait soupçonné, </l>
+	<l id='1744'>Que ce Roi malheureux mourut empoisonné.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1745'>Empoisonné, Madame ? Ah, coupable entreprise !</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1746'>Il n'est pas temps encore de montrer ta surprise,</l>
+	<l id='1747'>S'il t'est avantageux de la faire éclater, </l>
+	<l id='1748'>Ce que tu vas ouïr la pourra mériter. </l>
+	<l id='1749'>Achève cependant de me prêter silence</l>
+	<l id='1750'>Du sort de Sinatus j'ai donc eu connaissance,</l>
+	<l id='1751'>Et l'horreur d'un forfait et si lâche et si noir</l>
+	<l id='1752'>Laisse mes sentiments aisés à concevoir.</l>
+	<l id='1753'>La plus pressante ardeur que pour punir un traître </l>
+	<l id='1754'>La vengeance jamais dans un coeur ait fait naître,</l>
+	<l id='1755'>Tout ce que peut la haine y joindre de soutien,</l>
+	<l id='1756'>Pour venger son trépas se trouva dans le mien.</l>
+	<l id='1757'>À ses mânes sacrés un zèle inviolable</l>
+	<l id='1758'>Me fit jurer soudain d'immoler le coupable, </l>
+	<l id='1759'>Et le Ciel m'est témoin si dans ce triste coeur</l>
+	<l id='1760'>Rien égala jamais une si noble ardeur.</l>
+	<l id='1761'>Cependant de mon sort telle est la perfidie,</l>
+	<l id='1762'>Que quoi que cette ardeur ne soit point refroidie,</l>
+	<l id='1763'>Que sa mort de mes voeux soit l'objet le plus doux, </l>
+	<l id='1764'>Je n'ai pu m'affranchir d'en faire mon époux.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1765' part='i'>Quoi, Madame...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1765' part='f'>Tu vois, t'expliquant l'entreprise,</l>
+	<l id='1766'>Si j'avais lieu d'abord d'arrêter ta surprise,</l>
+	<l id='1767'>Et de dire, en parlant d'un poison odieux, </l>
+	<l id='1768'>Que ce qui le suivait la mériterait mieux ?</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1769' part='i'>Ah, Madame...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1769' part='f'>Non, non, Sinorix, tu t'abuses</l>
+	<l id='1770'>Si tu crois que je veuille entendre des excuses,</l>
+	<l id='1771'>À des voeux criminels tu t'es abandonné, </l>
+	<l id='1772'>Sinatus leur nuisait, tu l'as empoisonné.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1773'>Pour assurer sa flamme, et détruire ma gloire,</l>
+	<l id='1774'>C'est-là ce qu'un perfide ose vous faire croire ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1775' part='i'>Moi, Seigneur ? </l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1775' part='f'>Vous aimant, il a crû réussir </l>
+	<l id='1776'>Si de quelque grand crime il pouvait me noircir ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1777'>C'est le connaître mal ; pour un maître infidèle</l>
+	<l id='1778'>Je puis répondre, hélas ! Qu'il n'a que trop de zèle,</l>
+	<l id='1779'>Et que si dans ma haine on pouvait m'ébranler,</l>
+	<l id='1780'>Les soins qu'il en a pris l'auraient fait chanceler. </l>
+	<l id='1781'>C'est là son déplaisir qu'avec impatience</l>
+	<l id='1782'>Il me voit aspirer sans cesse à la vengeance,</l>
+	<l id='1783'>Et ne puisse opposer qu'un inutile effort</l>
+	<l id='1784'>À cette avidité de poursuivre ta mort.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1785'>Vous, la poursuivre ! Vous, dont le secours propice </l>
+	<l id='1786'>Du coup qui me perdait a rompu l'injustice !</l>
+	<l id='1787'>Vous, qui me dérobant aux fureurs d'un ingrat...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1788'>Va, ne t'abuse point sur ce noble attentat,</l>
+	<l id='1789'>Et cesse à ma pitié, dans l'erreur qui te flatte,</l>
+	<l id='1790'>D'imputer un secours que tu dois à Sostrate. </l>
+	<l id='1791'>Quand ma haine te porte un poignard dans le sein</l>
+	<l id='1792'>C'est lui pour t'en sauver qui m'arrête la main,</l>
+	<l id='1793'>Trop fidèle sujet il m'ôte ma victime,</l>
+	<l id='1794'>Trop généreux amant il prend sur lui mon crime,</l>
+	<l id='1795'>Et je ne l'ai souffert qu'afin de m'assurer </l>
+	<l id='1796'>Une autre occasion de pouvoir conspirer.</l>
+	<l id='1797'>Comme l'hymen oblige à quelque confiance,</l>
+	<l id='1798'>Voilà de quoi j'ai cru te devoir confidence,</l>
+	<l id='1799'>C'est à toi là-dessus à te bien consulter.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1800'>Non, vous cherchez en vain à me faire douter. </l>
+	<l id='1801'>Les soupçons qu'en votre âme on aime à faire naître</l>
+	<l id='1802'>Font périr Sinatus par le crime d'un traître,</l>
+	<l id='1803'>Sa mort rend de courroux votre coeur embrasé,</l>
+	<l id='1804'>Et m'en croyant l'auteur vous m'auriez épousé ?</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1805'>L'affront m'en fait rougir, l'affront m'en désespère, </l>
+	<l id='1806'>Mais puisque je l'ai fait, crois que je l'ai dû faire,</l>
+	<l id='1807'>Et tremble d'autant plus que dans ce désespoir</l>
+	<l id='1808'>Je sais ta perfidie, tu connais mon devoir.</l>
+	<l id='1809'>C'est t'expliquer assez les projets de ma haine.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1810'>Pour les exécuter vous aurez peu de peine, </l>
+	<l id='1811'>Et la vie à mes voeux n'est pas un bien si doux</l>
+	<l id='1812'>Qu'il vaille le malheur d'être haï de vous.</l>
+	<l id='1813'>De votre hymen sur moi la gloire répandue</l>
+	<l id='1814'>Commençait à remplir leur plus vaste étendue,</l>
+	<l id='1815'>Mais en le poursuivant comme un bonheur certain, </l>
+	<l id='1816'>J'ai cherché votre coeur, et non pas votre main.</l>
+	<l id='1817'>S'il aime, s'il s'obstine à croire l'imposture,</l>
+	<l id='1818'>Ordonnez que mon bras répare votre injure,</l>
+	<l id='1819'>Il est prêt, et par lui tout mon sang répandu</l>
+	<l id='1820' part='i'>Saura... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1820' part='f'>Non, mieux que toi je sais ce qui t'est dû.</l>
+	<l id='1821'>Ma vengeance par là flatterait peu ma peine,</l>
+	<l id='1822'>Tu l'offres à l'amour, je la dois à la haine.</l>
+	<l id='1823'>Souffrir que ton remords me la fasse obtenir,</l>
+	<l id='1824'>C'est te rendre ta gloire, et non pas te punir. </l>
+	<l id='1825'>Il faut que ce courroux que je te laisse à craindre</l>
+	<l id='1826'>N'ait rien en te perdant qui me force à te plaindre,</l>
+	<l id='1827'>Et que le coup heureux qu'il refuse à ton bras</l>
+	<l id='1828'>Me venge de ton crime, et ne l'efface pas.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1829'>Quoi, ce parfait amour dont l'ardeur forte et tendre</l>
+	<l id='1830'>Contre la calomnie aurait dû me défendre,</l>
+	<l id='1831'>Cet hommage soumis, ce respect dont jamais...</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Sinorix, Camma, Sostrate, Phaedime, Phénice, Sosime, Suite.</head>
+<sp who='PHAEDIME'><speaker>PHAEDIME.</speaker>
+	<l id='1832'>Ah, Seigneur, les mutins assiègent le palais,</l>
+	<l id='1833'>Et chacun à hauts cris demandant la Princesse ...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1834'>Vois par là que le Ciel avec moi s'intéresse, </l>
+	<l id='1835'>De ma vengeance enfin secondant les projets</l>
+	<l id='1836'>Pour te chasser du Trône il arme tes sujets.</l>
+	<l id='1837'>Crains tout de leur révolte, et de l'ardeur soudaine</l>
+	<l id='1838' part='i'>Qu'a mise...</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1838' part='f'>Ah, je ne crains que votre seule haine. </l>
+	<l id='1839'>Madame, au nom des Dieux daignez régler mon sort,</l>
+	<l id='1840'>Donnez-moi votre amour, ou m'accordez la mort,</l>
+	<l id='1841'>L'arrêt à son défaut m'en sera favorable.</l>
+	<l id='1842'>Pourquoi le différer si je suis crû coupable ?</l>
+	<l id='1843'>Pourquoi n'ordonner pas qu'aux manes d'un héros... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1844'>Va, songe à tes mutins, et me laisse en repos,</l>
+	<l id='1845'>Si le trône t'est dû, cherche à n'en point descendre.</l>
+</sp>
+<sp who='SINORIX'><speaker>SINORIX.</speaker>
+	<l id='1846'>Pour vous le conserver il faut l'aller défendre, </l>
+	<l id='1847'>J'y cours, et pour dompter de lâches factieux</l>
+	<l id='1848'>J'appelle ici sans peur la justice des Dieux ; </l>
+	<l id='1849'>Mais après le succès qu'elle m'offre infaillible</l>
+	<l id='1850'>Si l'abus rend toujours votre haine inflexible,</l>
+	<l id='1851'>Ce coeur qui ne voit rien de si rude à souffrir</l>
+	<l id='1852'>Ne prend plus que de moi les ordres de mourir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Camma, Sostrate, Phénice.</head>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1853'>Quoi, le peuple peut-être en veut à ma personne </l>
+	<l id='1854'>Et dans ce grand péril Sostrate m'abandonne ?</l>
+	<l id='1855'>Arrête, j'ai besoin ici de ton secours.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1856'>Le Destin veut ma mort, il la presse, et j'y cours,</l>
+	<l id='1857'>La vouloir retarder dans l'ennui qui m'accable</l>
+	<l id='1858'>C'est m'exposer encor à devenir coupable ; </l>
+	<l id='1859'>De mes tristes regards l'indiscrète langueur</l>
+	<l id='1860'>Vous reproche déjà votre ingrate rigueur,</l>
+	<l id='1861'>Le respect aura beau m'opposer ses maximes,</l>
+	<l id='1862'>Si je parle après eux je vais faire cent crimes,</l>
+	<l id='1863'>Ôtez en le pouvoir à mon juste courroux, </l>
+	<l id='1864'>Et me laissez mourir sans me plaindre de vous.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1865'>Que l'on m'approche un siège. Il n'est plus temps, Sostrate,</l>
+	<l id='1866'>D'empêcher contre moi que ce courroux n'éclate.</l>
+	<l id='1867'>Puisqu'on sait ton amour, plains-toi, condamne-moi,</l>
+	<l id='1868'>Dis que l'ambition m'a fait trahir ma foi. </l>
+	<l id='1869'>Si pourtant la raison éclairait ta colère,</l>
+	<l id='1870'>Ce que tu viens d'ouïr t'aurait dû satisfaire,</l>
+	<l id='1871'>Le sort de Sinorix n'est pas un sort trop doux.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1872'>Madame, il est haï, mais il est votre époux.</l>
+	<l id='1873'>À la vengeance en vain le devoir vous entraîne, </l>
+	<l id='1874'>Ce titre malgré vous suspendra votre haine,</l>
+	<l id='1875'>Et ce devoir confus va craindre à l'avenir</l>
+	<l id='1876'>De faire un parricide à l'en vouloir punir.</l>
+	<l id='1877'>C'en serait un sans doute, et je vois sans me plaindre</l>
+	<l id='1878'>Qu'innocent ou coupable, il n'ait plus rien à craindre, </l>
+	<l id='1879'>Mais fussent vos transports encor plus éclatants,</l>
+	<l id='1880'>Qui n'a plus à punir ne peut haïr longtemps.</l>
+	<l id='1881'>Ainsi, Madame, ainsi sa victoire est certaine,</l>
+	<l id='1882'>Il saura vous réduire à perdre votre haine,</l>
+	<l id='1883'>Et son heureux triomphe augmentant chaque jour, </l>
+	<l id='1884'>S'il n'a plus votre haine, aurai-je votre amour ?</l>
+	<l id='1885'>Non, non, j'en crois en vain posséder l'avantage,</l>
+	<l id='1886'>Vos scrupules voudront en faire son partage,</l>
+	<l id='1887'>Et s'ils tiennent jamais votre courroux borné,</l>
+	<l id='1888'>Vous lui devrez ce coeur que vous m'avez donné. </l>
+	<l id='1889'>Déjà, déjà sans doute, encore qu'on me le cache,</l>
+	<l id='1890'>De ce triste devoir la rigueur me l'arrache,</l>
+	<l id='1891'>C'en est fait, je le perds, et toutefois, hélas !</l>
+	<l id='1892'>J'aurais bien mérité de ne le perdre pas.</l>
+	<l id='1893'>Pour m'imposer l'horreur d'une peine semblable </l>
+	<l id='1894'>Le crime n'est pas grand de n'être point coupable,</l>
+	<l id='1895'>Et peut-être jamais tant de sévérité</l>
+	<l id='1896'>N'a puni le refus d'une infidélité.</l>
+	<l id='1897'>Mais je me plains à tort d'un si rude supplice,</l>
+	<l id='1898'>Puisqu'il vous met au trône, il est plein de justice, </l>
+	<l id='1899'>Jouissez des douceurs d'un si glorieux sort, </l>
+	<l id='1900'>Le prix en est léger s'il ne faut que ma mort.</l>
+	<l id='1901'>Elle est, elle est trop due à ce feu téméraire</l>
+	<l id='1902'>Dont l'orgueil à ma Reine eut l'audace de plaire.</l>
+	<l id='1903'>Pour effacer l'affront qu'il vous a fait souffrir, </l>
+	<l id='1904'>C'est à vous de régner, c'est à moi de mourir.</l>
+	<l id='1905'>J'y cours, j'y cours, Madame, et ma rage secrète</l>
+	<l id='1906'>Vous va mettre en état de régner satisfaite,</l>
+	<l id='1907'>Heureux, s'il m'est permis, pour tromper mes malheurs,</l>
+	<l id='1908'>De vous dire en mourant, c'est pour vous que je meurs. </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1909'>Tout t'est permis, Sostrate, et tu vois mon silence</l>
+	<l id='1910'>Souffrir de ta douleur l'entière violence,</l>
+	<l id='1911'>Parle, accuse, condamne un projet important,</l>
+	<l id='1912'>Peut-être l'heure est proche où tu seras content.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1913'>Où je serai content ? Et le puis-je, Madame, </l>
+	<l id='1914'>Dans l'affreux désespoir où vous voyez ma flamme ?</l>
+	<l id='1915'>Tout l'augmente, et je fais cent efforts superflus...</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Camma, Sostrate, Sosime, Phénice, Suite.</head>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1916' part='i'>Ah, Madame, le Roi...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1916' part='m'>Parle, et bien ?</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1916' part='f'>Ne vit plus. </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1917'>Quoi, de nos factieux la troupe mutinée...</l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME.</speaker>
+	<l id='1918'>Non, Seigneur, apprenez la triste destinée.</l>
+	<l id='1919'>À peine pour punir leurs nouveaux attentats</l>
+	<l id='1920'>Vers le lieu du tumulte il a fait quelques pas,</l>
+	<l id='1921'>Que dans l'âpre douleur de voir toujours la Reine, </l>
+	<l id='1922'>Malgré ta foi reçue, obstinée en sa haine,</l>
+	<l id='1923'>Tout à coup il s'arrête, et poussant de longs cris</l>
+	<l id='1924'>Fait voir un changement dont nous sommes surpris.</l>
+	<l id='1925'>Il agit sur le corps si sa cause est dans l'âme,</l>
+	<l id='1926'>Ses yeux sont égarés, son visage s'enflamme, </l>
+	<l id='1927'>Et soudain sous l'effort d'un accès différent</l>
+	<l id='1928'>Une froide sueur le rend pâle et mourant.</l>
+	<l id='1929'>C'est lors que succombant au tourment qui le presse</l>
+	<l id='1930'>Il cherche entre nos bras une aide à la faiblesse,</l>
+	<l id='1931'>Et quand de tous côtés on appelle au secours, </l>
+	<l id='1932'>Voici l'instant fatal qui doit borner mes jours,</l>
+	<l id='1933'>À cet ordre éternel c'est en vain qu'on s'oppose, </l>
+	<l id='1934'>Je meurs, dit-il, je meurs, n'en cherchez point la cause,</l>
+	<l id='1935'>Je la sais, mais bien loin d'en oser murmurer,</l>
+	<l id='1936'>Je me trouve en secret contraint de l'adorer. </l>
+	<l id='1937'>Le Ciel qui tôt ou tard se découvre équitable</l>
+	<l id='1938'>Se plaît à me punir par où je suis coupable,</l>
+	<l id='1939'>Et m'avait bien prédit que malgré tous mes soins</l>
+	<l id='1940'>Je recevrais la mort d'où je l'ai cru le moins.</l>
+	<l id='1941'>Je la sens qui s'approche, et je mourrais sans peine </l>
+	<l id='1942'>Si j'osais me flatter d'obtenir de la Reine...</l>
+	<l id='1943'>Là, trop pressé d'un mal qu'il ne peut plus souffrir,</l>
+	<l id='1944'>Achevant de parler, il commence à mourir,</l>
+	<l id='1945'>Ses soupirs languissants témoignent qu'il expire,</l>
+	<l id='1946'>Il nomme encor la Reine, et ne peut plus rien dire, </l>
+	<l id='1947'>Il meurt, et sur ce bruit chacun de voix en voix</l>
+	<l id='1948'>Élève la Princesse au trône de nos Rois.</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1949'>Enfin, Sostrate, enfin, grâce à mon hyménée,</l>
+	<l id='1950'>Voici pour mes désirs une illustre journée,</l>
+	<l id='1951'>Ma vengeance est remplie, et je meurs sans regret. </l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1952' part='i'>Quoi...</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1952' part='f'>Dis qu'un trône a su m'éblouir en secret,</l>
+	<l id='1953'>Dis qu'il m'a fait trahir une amour sans égale ;</l>
+	<l id='1954'>J'avais empoisonné la coupe nuptiale,</l>
+	<l id='1955'>Et n'ai donné ma foi que sur le doux espoir </l>
+	<l id='1956'>D'en obtenir la mort que j'ai fait recevoir.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1957' part='i'>La Reine empoisonnée !</l>
+</sp>
+<sp who='PHÉNICE'><speaker>PHÉNICE.</speaker>
+	<l id='1957' part='m'>Ah, Madame !</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1957' part='f'>Ah, Phénice,</l>
+	<l id='1958' part='i'>Vite, à la secourir... </l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1958' part='f'>Tu me fais injustice, </l>
+	<l id='1959'>Si la douceur de vivre eut flatté ma raison</l>
+	<l id='1960'>J'aurais su prévenir la force du poison,</l>
+	<l id='1961'>Laisse agir son pouvoir, le sort ainsi l'ordonne.</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1962'>Qu'aux lâchetés du sort ce coeur vous abandonne ! </l>
+	<l id='1963'>Que mes soins, mes malheurs, tout soit perdu pour moi !</l>
+</sp>
+<sp who='CAMMA'><speaker>CAMMA.</speaker>
+	<l id='1964'>Je n'ai rien oublié de ce que je te dois,</l>
+	<l id='1965'>Mais dans l'état honteux où de peur de te nuire</l>
+	<l id='1966'>Par l'hymen d'un tyran il m'a fallu réduire,</l>
+	<l id='1967'>Quand j'en ai dans mon coeur le reproche à souffrir </l>
+	<l id='1968'>Il n'est point en mon choix de vivre ou de mourir.</l>
+	<l id='1969'>C'est à moi d'effacer une tâche si noire,</l>
+	<l id='1970'>J'ai racheté ta vie aux dépens de ma gloire,</l>
+	<l id='1971'>Et tu dois consentir qu'après ce grand secours</l>
+	<l id='1972'>Je rachète ma gloire aux dépens de mes jours. </l>
+	<l id='1973'>Vis content, si pour vivre et soulager ta peine</l>
+	<l id='1974'>Il te suffit enfin de savoir que ta Reine...</l>
+	<l id='1975'>Qu'on m'emporte, je meurs, et mes sens interdits...</l>
+<stage>On lui aide à marcher pendant qu'elle dit ce dernier vers.</stage>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1976'>Ô peu sensible amant ! Elle meurt, et tu vis.</l>
+	<l id='1977' part='i'>Préviens, lâche, préviens... </l>
+</sp>
+<sp who='SOSIME'><speaker>SOSIME lui retenant la main qu'il porte sur son épée.</speaker>
+	<l id='1977' part='f'>Seigneur, qu'allez-vous faire ?</l>
+</sp>
+<sp who='SOSTRATE'><speaker>SOSTRATE.</speaker>
+	<l id='1978'>Que vous sert d'empêcher un coup si nécessaire ?</l>
+	<l id='1979'>Pour m'arrêter le bras en de pareils ennuis,</l>
+	<l id='1980'>Hélas ! Me sauvez-vous de la rage où je suis ?</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,2943 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE CID, TRAGI-COMÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragi-comédie</genre>
+				<inspiration>histoire espagnole</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1631-1640</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k71391c</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE CID</titlePart>
+			<titlePart type="sub">TRAGI-COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1637'>M. DC. XXXVII.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>[Pierre Corneille]</docAuthor>
+		<docImprint>
+				<privilege date='1637-01-21'><head>Extrait du privil[èg]e du Roi.</head>
+				<p>Par grâce et privilège du roi, il est permis à Augustin Courbé, marchand libraire à Paris, d'imprimer ou faire imprimer, et exposer en vente, un livre intitulé "Le Cid tragi-comédie" Par Mr CORNEILLE, et défenses sont faites à tous imprimeurs, libraires et autres, d'imprimer, ni faire imprimer ledit livre sans sa permission, et de ceux qui auront droit de lui, et cependant le temps de vingt ans à compter du jour que ledit livre sera achevé d'imprimer pour la première fois, à peine aux contravenants, de quinze cent livres d'amende, confiscation des exemplaires qui se trouverons contrefaits, et de tous dépens, dommages et intérêts, ainsi qu'il est contenu plus au long aux dites lettres de privilège. donné à Paris le vingt et unième janvier mille six cent trente-sept.</p>
+				</privilege>
+				<acheveImprime id='1637-03-23'>Achevé d'imprimé ce 23 mars 1637.</acheveImprime>
+				<printer id='COURBE'>À Paris, chez Augustin Courbé, imprimeur et libraire de Monseigneur frère du roi, dans le petite salle du Palais, à la Palme.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1637-01-04' location='Théâtre du Marais'>Représentée pour la première fois le 4 janvier 1637 au Théâtre du Marais.</premiere>
+		</performance>
+<dedicace><adresse>À Madame de Combalet.</adresse>
+<head>Madame,</head>
+<p>Ce portrait vivant que je vous offre, représente un héros assez reconnaissable aux lauriers dont il est couvert. Sa vie a été une suite continuelle de victoires, son corps porté dans son armée a gagné des batailles après sa mort, et son nom au bout de six cent ans vient encore triompher en France. Il y a trouvé une réception trop favorable pour se repentir d'être sorti de son pays, et d'avoir appris à parler une autre langue que la sienne. Ce succès a passé mes plus ambitieuses espérances, et m'a surpris d'abord, mais il a cessé de m'étonner depuis que j'ai vu la satisfaction que vous avez témoignée, quand il a paru devant vous ; alors j'ai osé me promettre de lui tout ce qui en est arrivé, et j'ai cru qu'après les éloges dont vous l'avez honoré, cet applaudissement universel ne lui pouvait manquer. Et véritablement, Madame, on ne peut douter avec raison de ce que vaut une chose qui a le bonheur de vous plaire : le jugement que vous en faites est la marque assurée de son prix ; et comme vous donnez toujours libéralement aux véritables beautés l'estime qu'elles méritent, les fausses n'ont jamais le pouvoir de vous éblouir. Mais votre générosité ne s'arrête pas à des louanges stériles pour les ouvrages qui vous agréent, elle prend plaisir à s'étendre utilement sur ceux qui les produisent, et ne dédaigne point d'employer en leur faveur ce grand crédit que votre qualité et vos vertus vous ont acquis. J'en ai ressenti des effets qui me sont trop avantageux pour m'en taire, et je ne vous dois pas moins de remerciements pour moi que pour le CID. C'est une reconnaissance qui m'est glorieuse, puisqu'il m'est impossible de publier que je vous ai de grands obligations, sans publier  en même temps que vous m'avez assez estimé pour vouloir que je vous en eusse. Aussi, Madame, si je souhaite quelque durée pour cet heureux effort de ma plume, ce n'est point pour apprendre mon nom à la postérité, mais seulement pour laisser des marques éternelles de ce que je dois, et faire lire à ceux qui naîtront dans les autres siècles la protestation que je fais d'être toute ma vie, Madame,</p>
+<p>Votre très humble et très obéissant serviteur.</p>
+<signature>CORNEILLE.</signature>
+</dedicace>
+<preface><head>Examen 1660</head>
+<p>Ce poème a tant d'avantages du côté du sujet et des pensées brillantes dont il est semé, que la plupart de ses auditeurs n'ont pas voulu voir les défauts de sa conduite, et ont laissé enlever leurs suffrages au plaisir que leur a donné sa représentation. Bien que ce soit celui de tous mes ouvrages réguliers où je me suis permis le plus de licence, il passe encore pour le plus beau auprès de ceux qui ne s'attachent pas à la dernière sévérité des règles, et depuis cinquante ans qu'il tient sa place sur nos théâtres, l'histoire ni l'effort de l'imagination n'y ont rien fait voir qui en ait effacé l'éclat. Aussi a-t-il les deux grandes conditions que demande Aristote aux tragédies parfaites, et dont l'assemblage se rencontre si rarement chez les anciens ni chez les modernes ; il les assemble même plus fortement et plus noblement que les espèces que pose ce philosophe. Une maîtresse que son devoir force à poursuivre la mort de son amant, qu'elle tremble d'obtenir, a les passions plus vives et plus allumées que tout ce qui peut se passer entre un mari et sa femme, une mère et son fils, un frère et sa soeur, et la haute vertu dans un naturel sensible à ses passions, qu'elle dompte sans les affaiblir, et à qui elle laisse toute leur force pour en triompher plus glorieusement, a quelque chose de plus touchant, de plus élevé et de plus aimable que cette médiocre bonté, capable d'une faiblesse et même d'un crime, où nos anciens étaient contraints d'arrêter le caractère le plus parfait des rois et des princes dont ils faisaient leurs héros, afin que ces taches et ces forfaits, défigurant ce qu'ils leur laissaient de vertu, s'accommodassent au goût et aux souhaits de leurs spectateurs, et fortifiassent l'horreur qu'ils avaient conçue de leur domination et de la monarchie. </p>
+<p>Rodrigue suit ici son devoir sans rien relâcher de sa passion : Chimène fait la même chose à son tour, sans laisser ébranler son dessein par la douleur où elle se voit abîmée par là ; et si la présence de son amant lui fait faire quelque faux pas, c'est une glissade dont elle se relève à l'heure même; et non seulement elle connaît si bien sa faute qu'elle nous en avertit, mais elle fait un prompt désaveu de tout ce qu'une vue si chère lui a pu arracher. Il n'est point besoin qu'on lui reproche qu'il lui est honteux de souffrir l'entretien de son amant après qu'il a tué son père; elle avoue que c'est la seule prise que la médisance aura sur elle. Si elle s'emporte jusqu'à lui dire qu'elle veut bien qu'on sache qu'elle l'adore et le poursuit, ce n'est point une résolution si ferme, qu'elle l'empêche de cacher son amour de tout son possible lorsqu'elle est en la présence du roi. S'il lui échappe de l'encourager au combat contre don Sanche par ces paroles : </p>
+<p type='v'>Sors vainqueur d'un combat dont Chimène est le prix. </p>
+<p>Elle ne se contente pas de s'enfuir de honte au même moment; mais sitôt qu'elle est avec Elvire, à qui elle ne déguise rien de ce qui se passe dans son âme, et que la vue de ce cher objet ne lui fait plus de violence, elle forme un souhait plus raisonnable, qui satisfait sa vertu et son amour tout ensemble, et demande au ciel que le combat se termine: </p>
+<p type='v'>Sans faire aucun des deux ni vaincu ni vainqueur. </p>
+<p>Si elle ne dissimule point qu'elle penche du côté de Rodrigue, de peur d'être à don Sanche, pour qui elle a de l'aversion, cela ne détruit point la protestation qu'elle a faite un peu auparavant que, malgré la loi de ce combat, et les promesses que le roi a faites à Rodrigue, elle lui fera mille autres ennemis, s'il en sort victorieux. Ce grand éclat même qu'elle laisse faire à son amour après qu'elle le croit mort, est suivi d'une opposition vigoureuse à l'exécution de cette loi qui la donne à son amant, et elle ne se tait qu'après que le roi l'a différée, et lui a laissé lieu d'espérer qu'avec le temps il y pourra survenir quelque obstacle. Je sais bien que le silence passe d'ordinaire pour une marque de consentement ; mais quand les rois parlent, c'en est une de contradiction: on ne manque jamais à leur applaudir quand on entre dans leurs sentiments; et le seul moyen de leur contredire avec le respect qui leur est dû, c'est de se taire, quand leurs ordres ne sont pas si pressants qu'on ne puisse remettre à s'excuser de leur obéir lorsque le temps en sera venu, et conserver cependant une espérance légitime d'un empêchement qu'on ne peut encore déterminément prévoir. </p>
+<p>Il est vrai que, dans ce sujet, il faut se contenter de tirer Rodrigue de péril, sans le pousser jusqu'à son mariage avec Chimène. Il est historique et a plu en son temps ; mais bien sûrement il déplairait au nôtre; et j'ai peine à voir que Chimène y consente chez l'auteur espagnol, bien qu'il donne plus de trois ans de durée à la comédie qu'il en a faite. Pour ne pas contredire l'histoire, j'ai cru ne me pouvoir dispenser d'en jeter quelque idée, mais avec incertitude de l'effet, et ce n'était que par là que je pouvais accorder la bienséance du théâtre avec la vérité de l'événement. </p>
+<p>Les deux visites que Rodrigue fait à sa maîtresse ont quelque chose qui choque cette bienséance de la part de celle qui les souffre ; la rigueur du devoir voulait qu'elle refusât de lui parler, et s'enfermât dans son cabinet au lieu de l'écouter ; mais permettez-moi de dire avec un des premiers esprits de notre siècle, "que leur conversation est remplie de si beaux sentiments, que plusieurs n'ont pas connu ce défaut, et que ceux qui l'ont connu l'ont toléré". J'irai plus outre, et dirai que tous presque ont souhaité que ces entretiens se fissent ; et j'ai remarqué aux premières représentations qu'alors que ce malheureux amant se présentait devant elle, il s'élevait un certain frémissement dans l'assemblée, qui marquait une curiosité merveilleuse, et un redoublement d'attention pour ce qu'ils avaient à se dire dans un état si pitoyable. Aristote dit "qu'il y a des absurdités qu'il faut laisser dans un poème, quand on peut espérer qu'elles seront bien reçues; et il est du devoir du poète, en ce cas, de les couvrir de tant de brillants, qu'elles puissent éblouir". Je laisse au jugement de mes auditeurs si je me suis assez bien acquitté de ce devoir pour justifier par là ces deux scènes. Les pensées de la première des deux sont quelquefois trop spirituelles pour partir de personnes fort affligées; mais, outre que je n'ai fait que la paraphraser de l'espagnol, si nous ne nous permettions quelque chose de plus ingénieux que le cours ordinaire de la passion, nos poèmes ramperaient souvent, et les grandes douleurs ne mettraient dans la bouche de nos acteurs que des exclamations et des hélas. Pour ne déguiser rien, cette offre que fait Rodrigue de son épée à Chimène, et cette protestation de se laisser tuer par don Sanche, ne me plairaient pas maintenant. Ces beautés étaient de mise en ce temps-là, et ne le seraient plus en celui-ci. La première est dans l'original espagnol, et l'autre est tirée sur ce modèle. Toutes les deux ont fait leur effet en ma faveur; mais je ferais scrupule d'en étaler de pareilles à l'avenir sur notre théâtre. </p>
+<p>J'ai dit ailleurs ma pensée touchant l'infante et le roi ; il reste néanmoins quelque chose à examiner sur la manière dont ce dernier agit, qui ne paraît pas assez vigoureuse, en ce qu'il ne fait pas arrêter le comte après le soufflet donné, et n'envoie pas des gardes à Dom Diègue et à son fils. Sur quoi on peut considérer que don Fernand étant le premier roi de Castille, et ceux qui en avaient été maîtres auparavant lui n'ayant eu titre que de comtes, il n'était peut-être pas assez absolu sur les grands seigneurs de son royaume pour le pouvoir faire. Chez don Guillem de Castro, qui a traité ce sujet avant moi, et qui devait mieux connaître que moi quelle était l'autorité de ce premier monarque de son pays, le soufflet se donne en sa présence et en celle de deux ministres d'Etat, qui lui conseillent, après que le comte s'est retiré fièrement et avec bravade, et que Dom Diègue a fait la même chose en soupirant, de ne le pousser point à bout, parce qu'il a quantité d'amis dans les Asturies, qui se pourraient révolter, et prendre parti avec les Maures dont son Etat est environné. Ainsi il se résout d'accommoder l'affaire sans bruit, et recommande le secret à ces deux ministres, qui ont été seuls témoins de l'action. C'est sur cet exemple que je me suis cru bien fondé à le faire agir plus mollement qu'on ne ferait en ce temps-ci, où l'autorité royale est plus absolue. Je ne pense pas non plus qu'il fasse une faute bien grande de ne jeter point l'alarme de nuit dans sa ville, sur l'avis incertain qu'il a du dessein des Maures, puisqu'on faisait bonne garde sur les murs et sur le port; mais il est inexcusable de n'y donner aucun ordre après leur arrivée, et de laisser tout faire à Rodrigue. La loi du combat qu'il propose à Chimène avant que de le permettre à don Sanche contre Rodrigue, n'est pas si injuste que quelques-uns ont voulu le dire, parce qu'elle est plutôt une menace pour la faire dédire de la demande de ce combat, qu'un arrêt qu'il lui veuille faire exécuter. Cela paraît en ce qu'après la victoire de Rodrigue il n'en exige pas précisément l'effet de sa parole, et la laisse en état d'espérer que cette condition n'aura point de lieu. </p>
+<p>Je ne puis dénier que la règle des vingt et quatre heures presse trop les incidents de cette pièce. La mort du comte et l'arrivée des Maures s'y pouvaient entre-suivre d'aussi près qu'elles font, parce que cette arrivée est une surprise qui n'a point de communication, ni de mesures à prendre avec le reste; mais il n'en va pas ainsi du combat de don Sanche, dont le roi était le maître, et pouvait lui choisir un autre temps que deux heures après la fuite des Maures. Leur défaite avait assez fatigué Rodrigue toute la nuit pour mériter deux ou trois jours de repos, et même il y avait quelque apparence qu'il n'en était pas échappé sans blessures, quoique je n'en aie rien dit, parce qu'elles n'auraient fait que nuire à la conclusion de l'action. </p>
+<p>Cette même règle presse aussi trop Chimène de demander justice au roi la seconde fois. Elle l'avait fait le soir d'auparavant, et n'avait aucun sujet d'y retourner le lendemain matin pour en importuner le roi, dont elle n'avait encore aucun lieu de se plaindre, puisqu'elle ne pouvait encore dire qu'il lui eût manqué de promesse. Le roman lui aurait donné sept ou huit jours de patience avant que de l'en presser de nouveau; mais les vingt et quatre heures ne l'ont pas permis: c'est l'incommodité de la règle. Passons à celle de l'unité de lieu, qui ne m'a pas donné moins de gêne en cette pièce. </p>
+<p>Je l'ai placé dans Séville, bien que don Fernand n'en ait jamais été le maître, et j'ai été obligé à cette falsification, pour former quelque vraisemblance à la descente des Maures, dont l'armée ne pouvait venir si vite par terre que par eau. Je ne voudrais pas assurer toutefois que le flux de la mer monte effectivement jusque-là ; mais comme dans notre Seine il fait encore plus de chemin qu'il ne lui en faut faire sur le Guadalquivir pour battre les murailles de cette ville, cela peut suffire à fonder quelque probabilité parmi nous, pour ceux qui n'ont point été sur le lieu même. </p>
+<p>Cette arrivée des Maures ne laisse pas d'avoir ce défaut, que j'ai marqué ailleurs, qu'ils se présentent d'eux-mêmes, sans être appelés dans la pièce directement ni indirectement par aucun acteur du premier acte. Ils ont plus de justesse dans l'irrégularité de l'auteur espagnol. Rodrigue, n'osant plus se montrer à la cour, les va combattre sur la frontière, et ainsi le premier acteur les va chercher, et leur donne place dans le poème; au contraire de ce qui arrive ici, où ils semblent se venir faire de fête exprès pour en être battus, et lui donner moyen de rendre à son roi un service d'importance qui lui fasse obtenir sa grâce. C'est une seconde incommodité de la règle dans cette tragédie. </p>
+<p>Tout s'y passe donc dans Séville, et garde ainsi quelque espèce d'unité de lieu en général; mais le lieu particulier change de scène en scène, et tantôt c'est le palais du roi, tantôt l'appartement de l'infante, tantôt la maison de Chimène, et tantôt une rue ou place publique. On le détermine aisément pour les scènes détachées; mais pour celles qui ont leur liaison ensemble, comme les quatre dernières du premier acte, il est malaisé d'en choisir un qui convienne à toutes. Le comte et Dom Diègue se querellent au sortir du palais; cela se peut passer dans une rue; mais, après le soufflet reçu, Dom Diègue ne peut pas demeurer en cette rue à faire ses plaintes, attendant que son fils survienne, qu'il ne soit tout aussitôt environné de peuple, et ne reçoive l'offre de quelques amis. Ainsi il serait plus à propos qu'il se plaignît dans sa maison, où le met l'Espagnol, pour laisser aller ses sentiments en liberté; mais, en ce cas, il faudrait délier les scènes comme il a fait. En l'état où elles sont ici, on peut dire qu'il faut quelquefois aider au théâtre, et suppléer favorablement ce qui ne s'y peut représenter. Deux personnes s'y arrêtent pour parler, et quelquefois il faut présumer qu'ils marchent, ce qu'on ne peut exposer sensiblement à la vue, parce qu'ils échapperaient aux yeux avant que d'avoir pu dire ce qu'il est nécessaire qu'ils fassent savoir à l'auditeur. Ainsi, par une fiction de théâtre, on peut s'imaginer que Dom Diègue et le comte, sortant du palais du roi, avancent toujours en se querellant, et sont arrivés devant la maison de ce premier lorsqu'il reçoit le soufflet qui l'oblige à y entrer pour y chercher du secours. Si cette fiction poétique ne vous satisfait point, laissons-le dans la place publique, et disons que le concours du peuple autour de lui après cette offense, et les offres de service que lui font les premiers amis qui s'y rencontrent, sont des circonstances que le roman ne doit pas oublier; mais que ces menues actions ne servant de rien à la principale, il n'est pas besoin que le poète s'en embarrasse sur la scène. Horace l'en dispense par ces vers:</p> 
+<p type='v'>Hoc amet, hoc spernat promissi carminis auctor; </p>
+<p type='v'>Pleraque negligat. </p>
+<p>Et ailleurs, </p>
+<p type='v'>Semper ad eventum festinet. </p>
+<p>C'est ce qui m'a fait négliger, au troisième acte, de donner à Dom Diègue, pour aide à chercher son fils, aucun des cinq cents amis qu'il avait chez lui. Il y a grande apparence que quelques-uns d'eux l'y accompagnaient, et même que quelques autres le cherchaient pour lui d'un autre côté; mais ces accompagnements inutiles de personnes qui n'ont rien à dire, puisque celui qu'ils accompagnent a seul tout l'intérêt à l'action, ces sortes d'accompagnements, dis-je, ont toujours mauvaise grâce au théâtre, et d'autant plus que les comédiens n'emploient à ces personnages muets que leurs moucheurs de chandelles et leurs valets, qui ne savent quelle posture tenir. </p>
+<p>Les funérailles du Comte étaient encore une chose fort embarrassante, soit qu'elles se soient faites avant la fin de la pièce, soit que le corps ait demeuré en présence dans son hôtel, attendant qu'on y donnât ordre. Le moindre mot que j'en eusse laissé dire, pour en prendre soin, eût rompu toute la chaleur de l'attention, et rempli l'auditeur d'une fâcheuse idée. J'ai cru plus à propos de les dérober à son imagination par mon silence, aussi bien que le lieu précis de ces quatre scènes du premier acte dont je viens de parler; et je m'assure que cet artifice m'a si bien réussi, que peu de personnes ont pris garde à l'un ni à l'autre, et que la plupart des spectateurs, laissant emporter leurs esprits à ce qu'ils ont vu et entendu de pathétique en ce poème, ne se sont point avisés de réfléchir sur ces deux considérations. </p>
+<p>J'achève par une remarque sur ce que dit Horace, que ce qu'on expose à la vue touche bien plus que ce qu'on n'apprend que par un récit. </p>
+<p>C'est sur quoi je me suis fondé pour faire voir le soufflet que reçoit Dom Diègue, et cacher aux yeux la mort du comte, afin d'acquérir et conserver à mon premier acteur l'amitié des auditeurs, si nécessaire pour réussir au théâtre. L'indignité d'un affront fait à un vieillard, chargé d'années et de victoires, les jette aisément dans le parti de l'offensé; et cette mort, qu'on vient dire au roi tout simplement sans aucune narration touchante, n'excite point en eux la commisération qu'y eût fait naître le spectacle de son sang, et ne leur donne aucune aversion pour ce malheureux amant, qu'ils ont vu forcé par ce qu'il devait à son honneur d'en venir à cette extrémité, malgré l'intérêt et la tendresse de son amour.</p>
+</preface>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="DOM FERNAND" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>DOM FERNAND</role>, premier roi de Castille. </castItem>
+			<castItem><role id="L'INFANTE" civil='F' type="H" statut='infante' age='A' stat_amour='rodrigue'>DONNE URRAQUE </role>, infante de Castille. </castItem>
+			<castItem><role id="DOM DIEGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Dom Rodrigue. </castItem>
+			<castItem><role id="LE COMTE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>DOM GOMES</role>, comte de Gormas, père de Chimène. </castItem>
+			<castItem><role id="DOM RODRIGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DOM RODRIGUE</role>amant de Chimène. </castItem>
+			<castItem><role id="DOM SANCHE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DOM SANCHE</role>, amoureux de Chimène. </castItem>
+			<castItem><role id="DOM ARIAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM ARIAS</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="DON ALONSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DOM ALONSE</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="CHIMÈNE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CHIMÈNE</role>, fille de Don Gomès. </castItem>
+			<castItem><role id="LÉONOR" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>LÉONOR</role>, gouvernante de l'Infante. </castItem>
+			<castItem><role id="ELVIRE" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>ELVIRE</role>, gouvernante de Chimène. </castItem>
+			<castItem><role id="PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>Un Page</role>de l'Infante.</castItem>
+		</castList>
+	<set location='Séville' country='Espagne' periode='XIème' link=''>La scène est à Séville.</set>
+	<note>Le texte est conforme  à l'édition se situant dans les "Oeuvres complètes de P. Corneille" revue et annotée par J. Taschereau, Paris : P. Jannet, 1857. Tome 2, pp 145-222.</note>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Chimène, Elvire</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1">Elvire, m'as-tu fait un rapport bien sincère ?</l>
+	<l id="2">Ne déguises-tu rien de ce qu'a dit mon père ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="3">Tous mes sens à moi-même en sont encor charmés :</l>
+	<l id="4">Il estime Rodrigue autant que vous l'aimez,</l>
+	<l id="5">Et si je ne m'abuse à lire dans son âme,</l>
+	<l id="6">Il vous commandera de répondre à sa flamme.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="7">Dis-moi donc, je te prie, une seconde fois</l>
+	<l id="8">Ce qui te fait juger qu'il approuve mon choix :</l>
+	<l id="9">Apprends-moi de nouveau quel espoir j'en dois prendre ;</l>
+	<l id="10">Un si charmant discours ne se peut trop entendre ;</l>
+	<l id="11">Tu ne peux trop promettre aux feux de notre amour</l>
+	<l id="12">La douce liberté de se montrer au jour.</l>
+<note type="L">Brigue : Désir ambitieux pour obtenir quelque charge ou dignité, où l'on tâche de parvenir plus par adresse que par mérite. Se dit aussi de la cabale qui est intéressée à soutenir un parti que l'autre dans une élection. [F]</note>
+	<l id="13">Que t'a-t-il répondu sur la secrète brigue</l>
+	<l id="14">Que font auprès de toi Dom Sanche et Dom Rodrigue ?</l>
+	<l id="15">N'as-tu point trop fait voir quelle inégalité</l>
+	<l id="16">Entre ces deux amants me penche d'un côté ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="17">Non ; j'ai peint votre coeur dans une indifférence</l>
+	<l id="18">Qui n'enfle d'aucun d'eux ni détruit l'espérance,</l>
+	<l id="19">Et sans les voir d'un oeil trop sévère ou trop doux,</l>
+	<l id="20">Attend l'ordre d'un père à choisir un époux.</l>
+	<l id="21">Ce respect l'a ravi, sa bouche et son visage</l>
+	<l id="22">M'en ont donné sur l'heure un digne témoignage,</l>
+	<l id="23">Et puisqu'il vous en faut encor faire un récit,</l>
+	<l id="24">Voici d'eux et de vous ce qu'en hâte il m'a dit :</l>
+	<l id="25">« Elle est dans le devoir ; tous deux sont dignes d'elle,</l>
+	<l id="26">Tous deux formés d'un sang noble, vaillant, fidèle,</l>
+	<l id="27">Jeunes, mais qui font lire aisément dans leurs yeux</l>
+	<l id="28">L'éclatante vertu de leurs braves aïeux.</l>
+	<l id="29">Dom Rodrigue surtout n'a trait en son visage</l>
+	<l id="30">Qui d'un homme de coeur ne soit la haute image,</l>
+	<l id="31">Et sort d'une maison si féconde en guerriers,</l>
+	<l id="32">Qu'ils y prennent naissance au milieu des lauriers.</l>
+	<l id="33">La valeur de son père, en son temps sans pareille,</l>
+	<l id="34">Tant qu'a duré sa force, a passé pour merveille ;</l>
+<note>Le Vers 35 a été repris par Jean Racine dans sa comédie "Les Plaideurs" de 1669, ce qui offusqua Corneille.</note>
+	<l id="35">Ses rides sur son front ont gravé ses exploits,</l>
+	<l id="36">Et nous disent encor ce qu'il fut autrefois.</l>
+	<l id="37">Je me promets du fils ce que j'ai vu du père ;</l>
+	<l id="38">Et ma fille, en un mot, peut l'aimer et me plaire. »</l>
+	<l id="39">Il allait au conseil, dont l'heure qui pressait</l>
+	<l id="40">A tranché ce discours qu'à peine il commençait ;</l>
+	<l id="41">Mais à ce peu de mots je crois que sa pensée</l>
+	<l id="42">Entre vos deux amants n'est pas fort balancée.</l>
+	<l id="43">Le roi doit à son fils élire un gouverneur,</l>
+	<l id="44">Et c'est lui que regarde un tel degré d'honneur :</l>
+	<l id="45">Ce choix n'est pas douteux, et sa rare vaillance</l>
+	<l id="46">Ne peut souffrir qu'on craigne aucune concurrence.</l>
+	<l id="47">Comme ses hauts exploits le rendent sans égal,</l>
+	<l id="48">Dans un espoir si juste il sera sans rival ;</l>
+	<l id="49">Et puisque Dom Rodrigue a résolu son père</l>
+	<l id="50">Au sortir du conseil à proposer l'affaire,</l>
+	<l id="51">Je vous laisse à juger s'il prendra bien son temps,</l>
+	<l id="52">Et si tous vos désirs seront bientôt contents.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="53">Il semble toutefois que mon âme troublée</l>
+	<l id="54">Refuse cette joie, et s'en trouve accablée :</l>
+	<l id="55">Un moment donne au sort des visages divers,</l>
+	<l id="56">Et dans ce grand bonheur je crains un grand revers.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="57">Vous verrez cette crainte heureusement déçue.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="58">Allons, quoi qu'il en soit, en attendre l'issue.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. L'Infante, Léonor, Le page.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="59">Page, allez avertir Chimène de ma part</l>
+	<l id="60">Qu'aujourd'hui pour me voir elle attend un peu tard,</l>
+	<l id="61">Et que mon amitié se plaint de sa paresse.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="62">Madame, chaque jour même désir vous presse ;</l>
+	<l id="63">Et dans son entretien je vous vois chaque jour</l>
+	<l id="64">Demander en quel point se trouve son amour.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="65">Ce n'est pas sans sujet : je l'ai presque forcée</l>
+	<l id="66">À recevoir les traits dont son âme est blessée.</l>
+	<l id="67">Elle aime Dom Rodrigue, et le tient de ma main,</l>
+	<l id="68">Et par moi Dom Rodrigue a vaincu son dédain :</l>
+	<l id="69">Ainsi de ces amants ayant formé les chaînes,</l>
+	<l id="70">Je dois prendre intérêt à voir finir leurs peines.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="71">Madame, toutefois parmi leurs bons succès</l>
+	<l id="72">Vous montrez un chagrin qui va jusqu'à l'excès.</l>
+	<l id="73">Cet amour, qui tous deux les comble d'allégresse,</l>
+	<l id="74">Fait-il de ce grand coeur la profonde tristesse,</l>
+	<l id="75">Et ce grand intérêt que vous prenez pour eux</l>
+	<l id="76">Vous rend-il malheureuse alors qu'ils sont heureux ?</l>
+	<l id="77">Mais je vais trop avant, et deviens indiscrète.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="78">Ma tristesse redouble à la tenir secrète.</l>
+	<l id="79">Écoute, écoute enfin comme j'ai combattu,</l>
+	<l id="80">Écoute quels assauts brave encor ma vertu.</l>
+	<l id="81">L'amour est un tyran qui n'épargne personne :</l>
+	<l id="82">Ce jeune cavalier, cet amant que je donne,</l>
+	<l id="83" part="i">Je l'aime.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="83" part="m">Vous l'aimez !</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="83" part="f">Mets la main sur mon coeur,</l>
+	<l id="84">Et vois comme il se trouble au nom de son vainqueur,</l>
+	<l id="85" part="i">Comme il le reconnaît.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="85" part="f">Pardonnez-moi, Madame,</l>
+	<l id="86">Si je sors du respect pour blâmer cette flamme.</l>
+	<l id="87">Une grande princesse à ce point s'oublier</l>
+	<l id="88">Que d'admettre en son coeur un simple cavalier !</l>
+	<l id="89">Et que dirait le roi ? Que dirait la Castille ?</l>
+	<l id="90">Vous souvient-il encor de qui vous êtes fille ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="91">Il m'en souvient si bien que j'épandrai mon sang</l>
+	<l id="92">Avant que je m'abaisse à démentir mon rang.</l>
+	<l id="93">Je te répondrais bien que dans les belles âmes</l>
+	<l id="94">Le seul mérite a droit de produire des flammes ;</l>
+	<l id="95">Et si ma passion cherchait à s'excuser,</l>
+	<l id="96">Mille exemples fameux pourraient l'autoriser ;</l>
+	<l id="97">Mais je n'en veux point suivre où ma gloire s'engage ;</l>
+	<l id="98">La surprise des sens n'abat point mon courage ;</l>
+	<l id="99">Et je me dis toujours qu'étant fille de roi,</l>
+	<l id="100">Tout autre qu'un monarque est indigne de moi.</l>
+	<l id="101">Quand je vis que mon coeur ne se pouvait défendre,</l>
+	<l id="102">Moi-même je donnai ce que je n'osais prendre.</l>
+	<l id="103">Je mis, au lieu de moi, Chimène en ses liens,</l>
+	<l id="104">Et j'allumai leurs feux pour éteindre les miens.</l>
+	<l id="105">Ne t'étonne donc plus si mon âme gênée</l>
+	<l id="106">Avec impatience attend leur hyménée :</l>
+	<l id="107">Tu vois que mon repos en dépend aujourd'hui.</l>
+	<l id="108">Si l'amour vit d'espoir, il périt avec lui :</l>
+	<l id="109">C'est un feu qui s'éteint, faute de nourriture ;</l>
+	<l id="110">Et malgré la rigueur de ma triste aventure,</l>
+	<l id="111">Si Chimène a jamais Rodrigue pour mari,</l>
+	<l id="112">Mon espérance est morte, et mon esprit guéri.</l>
+	<l id="113">Je souffre cependant un tourment incroyable :</l>
+	<l id="114">Jusques à cet hymen Rodrigue m'est aimable ;</l>
+	<l id="115">Je travaille à le perdre, et le perds à regret ;</l>
+	<l id="116">Et de là prend son cours mon déplaisir secret.</l>
+	<l id="117">Je vois avec chagrin que l'amour me contraigne</l>
+	<l id="118">À pousser des soupirs pour ce que je dédaigne ;</l>
+	<l id="119">Je sens en deux partis mon esprit divisé :</l>
+	<l id="120">Si mon courage est haut, mon coeur est embrasé ;</l>
+	<l id="121">Cet hymen m'est fatal, je le crains, et souhaite :</l>
+	<l id="122">Je n'ose en espérer qu'une joie imparfaite.</l>
+	<l id="123">Ma gloire et mon amour ont pour moi tant d'appas,</l>
+	<l id="124">Que je meurs s'il s'achève ou ne s'achève pas.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="125">Madame, après cela je n'ai rien à vous dire,</l>
+	<l id="126">Sinon que de vos maux avec vous je soupire :</l>
+	<l id="127">Je vous blâmais tantôt, je vous plains à présent ;</l>
+	<l id="128">Mais puisque dans un mal si doux et si cuisant</l>
+	<l id="129">Votre vertu combat et son charme et sa force,</l>
+	<l id="130">En repousse l'assaut, en rejette l'amorce,</l>
+	<l id="131">Elle rendra le calme à vos esprits flottants.</l>
+	<l id="132">Espérez donc tout d'elle, et du secours du temps ;</l>
+	<l id="133">Espérez tout du ciel : il a trop de justice</l>
+	<l id="134">Pour laisser la vertu dans un si long supplice.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="135">Ma plus douce espérance est de perdre l'espoir.</l>
+</sp>
+<sp who="PAGE"><speaker>LE PAGE.</speaker>
+	<l id="136">Par vos commandements Chimène vous vient voir.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="137">Allez l'entretenir en cette galerie.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="138">Voulez-vous demeurer dedans la rêverie ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="139">Non, je veux seulement, malgré mon déplaisir,</l>
+	<l id="140">Remettre mon visage un peu plus à loisir.</l>
+	<l id="141">Je vous suis. Juste ciel, d'où j'attends mon remède,</l>
+	<l id="142">Mets enfin quelque borne au mal qui me possède :</l>
+	<l id="143">Assure mon repos, assure mon honneur.</l>
+	<l id="144">Dans le bonheur d'autrui je cherche mon bonheur :</l>
+	<l id="145">Cet hyménée à trois également importe ;</l>
+	<l id="146">Rends son effet plus prompt, ou mon âme plus forte.</l>
+	<l id="147">D'un lien conjugal joindre ces deux amants,</l>
+	<l id="148">C'est briser tous mes fers, et finir mes tourments.</l>
+	<l id="149">Mais je tarde un peu trop : allons trouver Chimène,</l>
+	<l id="150">Et par son entretien soulager notre peine.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Le Comte, Dom Diègue</head>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="151">Enfin vous l'emportez, et la faveur du roi</l>
+	<l id="152">Vous élève en un rang qui n'était dû qu'à moi :</l>
+	<l id="153">Il vous fait gouverneur du prince de Castille.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="154">Cette marque d'honneur qu'il met dans ma famille</l>
+	<l id="155">Montre à tous qu'il est juste, et fait connaître assez</l>
+	<l id="156">Qu'il sait récompenser les services passés.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="157">Pour grands que soient les rois, ils sont ce que nous sommes :</l>
+	<l id="158">Ils peuvent se tromper comme les autres hommes ;</l>
+	<l id="159">Et ce choix sert de preuve à tous les courtisans</l>
+	<l id="160">Qu'ils savent mal payer les services présents.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="161">Ne parlons plus d'un choix dont votre esprit s'irrite :</l>
+	<l id="162">La faveur l'a pu faire autant que le mérite ;</l>
+	<l id="163">Mais on doit ce respect au pouvoir absolu,</l>
+	<l id="164">De n'examiner rien quand un roi l'a voulu.</l>
+	<l id="165">À l'honneur qu'il m'a fait ajoutez-en un autre ;</l>
+	<l id="166">Joignons d'un sacré noeud ma maison à la vôtre :</l>
+	<l id="167">Vous n'avez qu'une fille, et moi je n'ai qu'un fils ;</l>
+	<l id="168">Leur hymen nous peut rendre à jamais plus qu'amis :</l>
+	<l id="169">Faites-nous cette grâce, et l'acceptez pour gendre.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="170">À des partis plus hauts ce beau fils doit prétendre ;</l>
+	<l id="171">Et le nouvel éclat de votre dignité</l>
+	<l id="172">Lui doit enfler le coeur d'une autre vanité.</l>
+	<l id="173">Exercez-la, Monsieur, et gouvernez le prince :</l>
+	<l id="174">Montrez-lui comme il faut régir une province,</l>
+	<l id="175">Faire trembler partout les peuples sous sa loi,</l>
+	<l id="176">Remplir les bons d'amour, et les méchants d'effroi.</l>
+	<l id="177">Joignez à ces vertus celles d'un capitaine :</l>
+	<l id="178">Montrez-lui comme il faut s'endurcir à la peine,</l>
+	<l id="179">Dans le métier de Mars se rendre sans égal,</l>
+	<l id="180">Passer les jours entiers et les nuits à cheval,</l>
+	<l id="181">Reposer tout armé, forcer une muraille,</l>
+	<l id="182">Et ne devoir qu'à soi le gain d'une bataille.</l>
+	<l id="183">Instruisez-le d'exemple, et rendez-le parfait,</l>
+	<l id="184">Expliquant à ses yeux vos leçons par l'effet.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="185">Pour s'instruire d'exemple, en dépit de l'envie,</l>
+	<l id="186">Il lira seulement l'histoire de ma vie.</l>
+	<l id="187">Là, dans un long tissu de belles actions,</l>
+	<l id="188">Il verra comme il faut dompter des nations,</l>
+	<l id="189">Attaquer une place, ordonner une armée,</l>
+	<l id="190">Et sur de grands exploits bâtir sa renommée.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="191">Les exemples vivants sont d'un autre pouvoir ;</l>
+	<l id="192">Un prince dans un livre apprend mal son devoir.</l>
+	<l id="193">Et qu'a fait après tout ce grand nombre d'années,</l>
+	<l id="194">Que ne puisse égaler une de mes journées ?</l>
+	<l id="195">Si vous fûtes vaillant, je le suis aujourd'hui,</l>
+	<l id="196">Et ce bras du royaume est le plus ferme appui.</l>
+<note type="L">Aragon : grande province d'Espagne, une des douze capitaineries du royaume, est située entre celle de Vieille-Castille et de Navarre à l'Ouest, de Catalogne à l'Est, de Nouvelle-Castille au Sud, et touche à la France par sa frontière septentrionale ; Saragosse en est la capitale. [B]</note>
+<note type="L">Grenade : ville d'Espagne (...) à 400 km au sud de Madrid, près du confluent de Xénil et du Darro, au milieu d'une vaste et riche plaine. [B]</note>
+	<l id="197">Grenade et l'Aragon tremblent quand ce fer brille ;</l>
+	<l id="198">Mon nom sert de rempart à toute la Castille :</l>
+	<l id="199">Sans moi, vous passeriez bientôt sous d'autres lois,</l>
+	<l id="200">Et vous auriez bientôt vos ennemis pour rois.</l>
+	<l id="201">Chaque jour, chaque instant, pour rehausser ma gloire,</l>
+	<l id="202">Met lauriers sur lauriers, victoire sur victoire.</l>
+	<l id="203">Le prince à mes côtés ferait dans les combats</l>
+	<l id="204">L'essai de son courage à l'ombre de mon bras ;</l>
+	<l id="205">Il apprendrait à vaincre en me regardant faire ;</l>
+	<l id="206">Et pour répondre en hâte à son grand caractère,</l>
+	<l id="207" part="i">Il verrait...</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="207" part="f">Je le sais, vous servez bien le roi :</l>
+	<l id="208">Je vous ai vu combattre et commander sous moi.</l>
+	<l id="209">Quand l'âge dans mes nerfs a fait couler sa glace,</l>
+	<l id="210">Votre rare valeur a bien rempli ma place ;</l>
+	<l id="211">Enfin, pour épargner les discours superflus,</l>
+	<l id="212">Vous êtes aujourd'hui ce qu'autrefois je fus.</l>
+	<l id="213">Vous voyez toutefois qu'en cette concurrence</l>
+	<l id="214">Un monarque entre nous met quelque différence.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="215">Ce que je méritais, vous l'avez emporté.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="216">Qui l'a gagné sur vous l'avait mieux mérité.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="217">Qui peut mieux l'exercer en est bien le plus digne.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="218">En être refusé n'en est pas un bon signe.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="219">Vous l'avez eu par brigue, étant vieux courtisan.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="220">L'éclat de mes hauts faits fut mon seul partisan.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="221">Parlons-en mieux, le roi fait honneur à votre âge.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="222">Le roi, quand il en fait, le mesure au courage.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="223">Et par là cet honneur n'était dû qu'à mon bras.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="224">Qui n'a pu l'obtenir ne le méritait pas.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="225" part="i">Ne le méritait pas ! Moi ?</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="225" part="m">Vous.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="225" part="f">Ton impudence,</l>
+	<l id="226">Téméraire vieillard, aura sa récompense.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="227">Achève, et prends ma vie après un tel affront,</l>
+	<l id="228">Le premier dont ma race ait vu rougir son front.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="229">Et que penses-tu faire avec tant de faiblesse ?</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="230">Ô Dieu ! Ma force usée en ce besoin me laisse !</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="231">Ton épée est à moi ; mais tu serais trop vain,</l>
+	<l id="232">Si ce honteux trophée avait chargé ma main.</l>
+	<l id="233">Adieu : fais lire au prince, en dépit de l'envie,</l>
+	<l id="234">Pour son instruction, l'histoire de ta vie :</l>
+	<l id="235">D'un insolent discours ce juste châtiment</l>
+	<l id="236">Ne lui servira pas d'un petit ornement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="237">Ô rage ! Ô désespoir ! Ô vieillesse ennemie !</l>
+	<l id="238">N'ai-je donc tant vécu que pour cette infamie ?</l>
+	<l id="239">Et ne suis-je blanchi dans les travaux guerriers</l>
+	<l id="240">Que pour voir en un jour flétrir tant de lauriers ?</l>
+	<l id="241">Mon bras, qu'avec respect toute l'Espagne admire,</l>
+	<l id="242">Mon bras, qui tant de fois a sauvé cet empire,</l>
+	<l id="243">Tant de fois affermi le trône de son roi,</l>
+	<l id="244">Trahit donc ma querelle, et ne fait rien pour moi ?</l>
+	<l id="245">Ô cruel souvenir de ma gloire passée !</l>
+	<l id="246">Oeuvre de tant de jours en un jour effacée !</l>
+	<l id="247">Nouvelle dignité, fatale à mon bonheur !</l>
+	<l id="248">Précipice élevé d'où tombe mon honneur !</l>
+	<l id="249">Faut-il de votre éclat voir triompher le comte,</l>
+	<l id="250">Et mourir sans vengeance, ou vivre dans la honte ?</l>
+	<l id="251">Comte, sois de mon prince à présent gouverneur :</l>
+	<l id="252">Ce haut rang n'admet point un homme sans honneur ;</l>
+	<l id="253">Et ton jaloux orgueil, par cet affront insigne,</l>
+	<l id="254">Malgré le choix du roi, m'en a su rendre indigne.</l>
+	<l id="255">Et toi, de mes exploits glorieux instrument,</l>
+	<l id="256">Mais d'un corps tout de glace inutile ornement,</l>
+	<l id="257">Fer, jadis tant à craindre, et qui, dans cette offense,</l>
+	<l id="258">M'as servi de parade, et non pas de défense,</l>
+	<l id="259">Va, quitte désormais le dernier des humains,</l>
+	<l id="260">Passe, pour me venger, en de meilleures mains.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Don diègue, Dom Rodrigue.</head>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="261" part="i">Rodrigue, as-tu du coeur ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="261" part="f">Tout autre que mon père</l>
+	<l id="262" part="i">L'éprouverait sur l'heure.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="262" part="f">Agréable colère !</l>
+	<l id="263">Digne ressentiment à ma douleur bien doux !</l>
+	<l id="264">Je reconnais mon sang à ce noble courroux ;</l>
+	<l id="265">Ma jeunesse revit en cette ardeur si prompte.</l>
+	<l id="266">Viens, mon fils, viens, mon sang, viens réparer ma honte ;</l>
+	<l id="267" part="i">Viens me venger.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="267" part="m">De quoi ?</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="267" part="f">D'un affront si cruel,</l>
+	<l id="268">Qu'à l'honneur de tous deux il porte un coup mortel :</l>
+	<l id="269">D'un soufflet. L'insolent en eût perdu la vie ;</l>
+	<l id="270">Mais mon âge a trompé ma généreuse envie :</l>
+	<l id="271">Et ce fer que mon bras ne peut plus soutenir,</l>
+	<l id="272">Je le remets au tien pour venger et punir.</l>
+	<l id="273">Va contre un arrogant éprouver ton courage :</l>
+	<l id="274">Ce n'est que dans le sang qu'on lave un tel outrage ;</l>
+	<l id="275">Meurs ou tue. Au surplus, pour ne te point flatter,</l>
+	<l id="276">Je te donne à combattre un homme à redouter :</l>
+	<l id="277">Je l'ai vu, tout couvert de sang et de poussière,</l>
+	<l id="278">Porter partout l'effroi dans une armée entière.</l>
+	<l id="279">J'ai vu par sa valeur cent escadrons rompus ;</l>
+	<l id="280">Et pour t'en dire encor quelque chose de plus,</l>
+	<l id="281">Plus que brave soldat, plus que grand capitaine,</l>
+	<l id="282" part="i">C'est...</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="282" part="m">De grâce, achevez.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="282" part="f">Le père de Chimène.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="283" part="i">Le...</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="283" part="f">Ne réplique point, je connais ton amour ;</l>
+	<l id="284">Mais qui peut vivre infâme est indigne du jour.</l>
+	<l id="285">Plus l'offenseur est cher, et plus grande est l'offense.</l>
+	<l id="286">Enfin tu sais l'affront, et tu tiens la vengeance :</l>
+	<l id="287">Je ne te dis plus rien. Venge-moi, venge-toi ;</l>
+	<l id="288">Montre-toi digne fils d'un père tel que moi.</l>
+	<l id="289">Accablé des malheurs où le destin me range,</l>
+	<l id="290">Je vais les déplorer : va, cours, vole, et nous venge.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+<poem type='stances'> 
+	<lg type='stanza' n='1'>
+		<l id="291">Percé jusques au fond du <rhyme label='A'>coeur</rhyme></l>
+		<l id="292">D'une atteinte imprévue aussi bien que <rhyme label='B'>mortelle</rhyme>,</l>
+		<l id="293">Misérable vengeur d'une juste <rhyme label='B'>querelle</rhyme>,</l>
+		<l id="294">Et malheureux objet d'une injuste <rhyme label='A'>rigueur</rhyme>,</l>
+		<l id="295">Je demeure immobile, et mon âme <rhyme label='C'>abattue</rhyme></l>
+		<l id="296">Cède au coup qui me <rhyme label='C'>tue</rhyme>.</l>
+		<l id="297">Si près de voir mon feu <rhyme label='D'>récompensé</rhyme>,</l>
+		<l id="298">Ô Dieu, l'étrange <rhyme label='E'>peine</rhyme> !</l>
+		<l id="299">En cet affront mon père est l'<rhyme label='D'>offensé</rhyme>,</l>
+		<l id="300">Et l'offenseur le père de <rhyme label='E'>Chimène</rhyme> !</l>
+	</lg>
+	<lg type='stanza' n='2'>
+		<l id="301">Que je sens de rudes <rhyme label='A'>combats</rhyme> !</l>
+		<l id="302">Contre mon propre honneur mon amour s'<rhyme label='B'>intéresse</rhyme> :</l>
+		<l id="303">Il faut venger un père, et perdre une <rhyme label='B'>maîtresse</rhyme> :</l>
+		<l id="304">L'un m'anime le coeur, l'autre retient mon <rhyme label='A'>bras</rhyme>.</l>
+		<l id="305">Réduit au triste choix ou de trahir ma <rhyme label='C'>flamme</rhyme>,</l>
+		<l id="306">Ou de vivre en <rhyme label='C'>infâme</rhyme>,</l>
+		<l id="307">Des deux côtés mon mal est <rhyme label='D'>infini</rhyme>.</l>
+		<l id="308">Ô Dieu, l'étrange <rhyme label='E'>peine</rhyme> !</l>
+		<l id="309">Faut-il laisser un affront <rhyme label='D'>impuni</rhyme> ?</l>
+		<l id="310">Faut-il punir le père de <rhyme label='E'>Chimène</rhyme> ?</l>
+	</lg>
+	<lg type='stanza' n='3'>
+		<l id="311">Père, maîtresse, honneur, <rhyme label='A'>amour</rhyme>,</l>
+		<l id="312">Noble et dure contrainte, aimable <rhyme label='B'>tyrannie</rhyme>,</l>
+		<l id="313">Tous mes plaisirs sont morts, ou ma gloire <rhyme label='B'>ternie</rhyme>.</l>
+		<l id="314">L'un me rend malheureux, l'autre indigne du <rhyme label='A'>jour</rhyme>.</l>
+		<l id="315">Cher et cruel espoir d'une âme <rhyme label='C'>généreuse</rhyme>,</l>
+		<l id="316">Mais ensemble <rhyme label='C'>amoureuse</rhyme>,</l>
+		<l id="317">Digne ennemi de mon plus grand <rhyme label='D'>bonheur</rhyme>,</l>
+		<l id="318">Fer qui causes ma <rhyme label='E'>peine</rhyme>,</l>
+		<l id="319">M'es-tu donné pour venger mon <rhyme label='D'>honneur</rhyme> ?</l>
+		<l id="320">M'es-tu donné pour perdre ma <rhyme label='E'>Chimène</rhyme> ?</l>
+	</lg>
+	<lg type='stanza' n='4'>
+		<l id="321">Il vaut mieux courir au <rhyme label='A'>trépas</rhyme>.</l>
+		<l id="322">Je dois à ma maîtresse aussi bien qu'à mon <rhyme label='B'>père</rhyme> :</l>
+		<l id="323">J'attire en me vengeant sa haine et sa <rhyme label='B'>colère</rhyme> ;</l>
+		<l id="324">J'attire ses mépris en ne me vengeant <rhyme label='A'>pas</rhyme>.</l>
+		<l id="325">À mon plus doux espoir l'un me rend <rhyme label='C'>infidèle</rhyme>,</l>
+		<l id="326">Et l'autre indigne d'<rhyme label='C'>elle</rhyme>.</l>
+		<l id="327">Mon mal augmente à le vouloir <rhyme label='D'>guérir</rhyme> ;</l>
+		<l id="328">Tout redouble ma <rhyme label='E'>peine</rhyme>.</l>
+		<l id="329">Allons, mon âme ; et puisqu'il faut <rhyme label='D'>mourir</rhyme>,</l>
+		<l id="330">Mourons du moins sans offenser <rhyme label='E'>Chimène</rhyme>.</l>
+	</lg>
+	<lg type='stanza' n='5'>
+		<l id="331">Mourir sans tirer ma <rhyme label='A'>raison</rhyme> !</l>
+		<l id="332">Rechercher un trépas si mortel à ma <rhyme label='B'>gloire</rhyme> !</l>
+		<l id="333">Endurer que l'Espagne impute à ma <rhyme label='B'>mémoire</rhyme></l>
+		<l id="334">D'avoir mal soutenu l'honneur de ma <rhyme label='A'>maison</rhyme> !</l>
+		<l id="335">Respecter un amour dont mon âme <rhyme label='C'>égarée</rhyme></l>
+		<l id="336">Voit la perte <rhyme label='C'>assurée</rhyme> !</l>
+<note type="L">Penser : nom masculin au XVIIème pour « pensée ».</note>
+		<l id="337">N'écoutons plus ce penser <rhyme label='D'>suborneur</rhyme>,</l>
+		<l id="338">Qui ne sert qu'à ma <rhyme label='E'>peine</rhyme>.</l>
+		<l id="339">Allons, mon bras, sauvons du moins l'<rhyme label='D'>honneur</rhyme>,</l>
+		<l id="340">Puisqu'après tout il faut perdre <rhyme label='E'>Chimène</rhyme>.</l>
+	</lg>
+	<lg type='stanza' n='6'>
+		<l id="341">Oui, mon esprit s'était <rhyme label='A'>déçu</rhyme>.</l>
+		<l id="342">Je dois tout à mon père avant qu'à ma <rhyme label='B'>maîtresse</rhyme> :</l>
+		<l id="343">Que je meure au combat, ou meure de <rhyme label='B'>tristesse</rhyme>,</l>
+		<l id="344">Je rendrai mon sang pur comme je l'ai <rhyme label='A'>reçu</rhyme>.</l>
+		<l id="345">Je m'accuse déjà de trop de <rhyme label='C'>négligence</rhyme> :</l>
+		<l id="346">Courons à la <rhyme label='C'>vengeance</rhyme> ;</l>
+		<l id="347">Et tout honteux d'avoir tant <rhyme label='D'>balancé</rhyme>,</l>
+		<l id="348">Ne soyons plus en <rhyme label='E'>peine</rhyme>,</l>
+		<l id="349">Puisqu'aujourd'hui mon père est l'<rhyme label='D'>offensé</rhyme>,</l>
+		<l id="350">Si l'offenseur est père de <rhyme label='E'>Chimène</rhyme>.</l>
+	</lg>
+</poem>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Don Arias, Le Comte.</head>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="351">Je l'avoue entre nous, mon sang un peu trop chaud</l>
+	<l id="352">S'est trop ému d'un mot, et l'a porté trop haut ;</l>
+	<l id="353">Mais puisque c'en est fait, le coup est sans remède.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="354">Qu'aux volontés du roi ce grand courage cède :</l>
+	<l id="355">Il y prend grande part, et son coeur irrité</l>
+	<l id="356">Agira contre vous de pleine autorité.</l>
+	<l id="357">Aussi vous n'avez point de valable défense :</l>
+	<l id="358">Le rang de l'offensé, la grandeur de l'offense,</l>
+<note type="L">Submissions : voir soumission. Humiliation, obéissance. [F]</note>
+	<l id="359">Demandent des devoirs et des submissions</l>
+	<l id="360">Qui passent le commun des satisfactions.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="361">Le roi peut à son gré disposer de ma vie.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="362">De trop d'emportement votre faute est suivie.</l>
+	<l id="363">Le roi vous aime encore ; apaisez son courroux.</l>
+	<l id="364">Il a dit : « Je le veux ! » Désobéirez-vous ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="365">Monsieur, pour conserver tout ce que j'ai d'estime,</l>
+	<l id="366">Désobéir un peu n'est pas un si grand crime ;</l>
+	<l id="367">Et quelque grand qu'il soit, mes services présents</l>
+	<l id="368">Pour le faire abolir sont plus que suffisants.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="369">Quoi qu'on fasse d'illustre et de considérable,</l>
+	<l id="370">Jamais à son sujet un roi n'est redevable.</l>
+	<l id="371">Vous vous flattez beaucoup, et vous devez savoir</l>
+	<l id="372">Que qui sert bien son roi ne fait que son devoir.</l>
+	<l id="373">Vous vous perdrez, Monsieur, sur cette confiance.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="374">Je ne vous en croirai qu'après l'expérience.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="375">Vous devez redouter la puissance d'un roi.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="376">Un jour seul ne perd pas un homme tel que moi.</l>
+	<l id="377">Que toute sa grandeur s'arme pour mon supplice,</l>
+	<l id="378">Tout l'État périra, s'il faut que je périsse.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="379">Quoi ! Vous craignez si peu le pouvoir souverain...</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="380">D'un sceptre qui sans moi tomberait de sa main.</l>
+	<l id="381">Il a trop d'intérêt lui-même en ma personne,</l>
+	<l id="382">Et ma tête en tombant ferait choir sa couronne.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="383">Souffrez que la raison remette vos esprits.</l>
+	<l id="384" part="i">Prenez un bon conseil.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="384" part="f">Le conseil en est pris.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="385">Que lui dirai-je enfin ? Je lui dois rendre compte.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="386">Que je ne puis du tout consentir à ma honte.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="387">Mais songez que les rois veulent être absolus.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="388">Le sort en est jeté, Monsieur, n'en parlons plus.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+<note type="L">Résoudre : Expliquer une difficulté, décider une question, trouver un problème. Signifie aussi conclure après avoir délibéré. [F]</note>
+	<l id="389">Adieu donc, puisqu'en vain je tâche à vous résoudre :</l>
+<note type="L">Foudre : (sens figuré masculin) Se dit de la colère de Dieu ou des rois. [L]</note>
+	<l id="390">Avec tous vos lauriers, craignez encor le foudre.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="391" part="i">Je l'attendrai sans peur.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="391" part="f">Mais non pas sans effet.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="392">Nous verrons donc par là Dom Diègue satisfait.</l>
+	<l id="393">Qui ne craint point la mort ne craint point les menaces.</l>
+	<l id="394">J'ai le coeur au-dessus des plus fières disgrâces ;</l>
+	<l id="395">Et l'on peut me réduire à vivre sans bonheur,</l>
+	<l id="396">Mais non pas me résoudre à vivre sans honneur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Le Comte, Dom Rodrigue.</head>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="397" part="i">À moi, Comte, deux mots.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="397" part="m">Parle.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="397" part="f">Ôte-moi d'un doute.</l>
+	<l id="398" part="i">Connais-tu bien Dom Diègue ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="398" part="m">Oui.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="398" part="f">Parlons bas ; écoute.</l>
+	<l id="399">Sais-tu que ce vieillard fut la même vertu,</l>
+	<l id="400">La vaillance et l'honneur de son temps ? Le sais-tu ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="401" part="i">Peut-être.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="401" part="f">Cette ardeur que dans les yeux je porte,</l>
+	<l id="402" part="i">Sais-tu que c'est son sang ? Le sais-tu ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="402" part="f">Que m'importe ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="403">À quatre pas d'ici je te le fais savoir.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="404" part="i">Jeune présomptueux !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="404" part="f">Parle sans t'émouvoir.</l>
+	<l id="405">Je suis jeune, il est vrai ; mais aux âmes bien nées</l>
+	<l id="406">La valeur n'attend point le nombre des années.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="407">Te mesurer à moi ! Qui t'a rendu si vain,</l>
+	<l id="408">Toi qu'on n'a jamais vu les armes à la main ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="409">Mes pareils à deux fois ne se font point connaître,</l>
+	<l id="410">Et pour leurs coups d'essai veulent des coups de maître.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="411" part="i">Sais-tu bien qui je suis ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="411" part="f">Oui ; tout autre que moi</l>
+	<l id="412">Au seul bruit de ton nom pourrait trembler d'effroi.</l>
+<note typ="L">Palme : Se dit figurément en Morale d'une victoire, ou d'un avantage remporté en quelque combat ; à cause que le palme en était autrefois le symbole. [F]</note>
+	<l id="413">Les palmes dont je vois ta tête si couverte</l>
+	<l id="414">Semblent porter écrit le destin de ma perte.</l>
+	<l id="415">J'attaque en téméraire un bras toujours vainqueur ;</l>
+	<l id="416">Mais j'aurai trop de force, ayant assez de coeur.</l>
+	<l id="417">À qui venge son père il n'est rien impossible.</l>
+	<l id="418">Ton bras est invaincu, mais non pas invincible.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="419">Ce grand coeur qui paraît aux discours que tu tiens,</l>
+	<l id="420">Par tes yeux, chaque jour, se découvrait aux miens ;</l>
+	<l id="421">Et croyant voir en toi l'honneur de la Castille,</l>
+	<l id="422">Mon âme avec plaisir te destinait ma fille.</l>
+	<l id="423">Je sais ta passion, et suis ravi de voir</l>
+	<l id="424">Que tous ses mouvements cèdent à ton devoir ;</l>
+<note type="L">Magnanime : Qui a une grandeur d'âme et de courage, qui l'élève au dessus du commun des hommes. Il signifie beaucoup plus que brave et vaillant. [F]</note>
+	<l id="425">Qu'ils n'ont point affaibli cette ardeur magnanime ;</l>
+	<l id="426">Que ta haute vertu répond à mon estime ;</l>
+	<l id="427">Et que voulant pour gendre un cavalier parfait,</l>
+	<l id="428">Je ne me trompais point au choix que j'avais fait ;</l>
+	<l id="429">Mais je sens que pour toi ma pitié s'intéresse ;</l>
+	<l id="430">J'admire ton courage, et je plains ta jeunesse.</l>
+	<l id="431">Ne cherche point à faire un coup d'essai fatal ;</l>
+	<l id="432">Dispense ma valeur d'un combat inégal ;</l>
+	<l id="433">Trop peu d'honneur pour moi suivrait cette victoire :</l>
+	<l id="434">À vaincre sans péril, on triomphe sans gloire.</l>
+	<l id="435">On te croirait toujours abattu sans effort ;</l>
+	<l id="436">Et j'aurais seulement le regret de ta mort.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="437">D'une indigne pitié ton audace est suivie :</l>
+	<l id="438">Qui m'ose ôter l'honneur craint de m'ôter la vie ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="439" part="i">Retire-toi d'ici.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="439" part="f">Marchons sans discourir.</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="440" part="i">Es-tu si las de vivre ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="440" part="f">As-tu peur de mourir ?</l>
+</sp>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="441">Viens, tu fais ton devoir, et le fils dégénère</l>
+	<l id="442">Qui survit un moment à l'honneur de son père.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. L'Infante, Chimène, Léonor.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="443">Apaise, ma Chimène, apaise ta douleur :</l>
+	<l id="444">Fais agir ta constance en ce coup de malheur.</l>
+	<l id="445">Tu reverras le calme après ce faible orage ;</l>
+	<l id="446">Ton bonheur n'est couvert que d'un peu de nuage,</l>
+	<l id="447">Et tu n'as rien perdu pour le voir différer.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="448">Mon coeur outré d'ennuis n'ose rien espérer.</l>
+<note type="L">Bonace : Calme de la mer, qui se dit quand le vent est abattu, ou a cessé. La bonace trompe souvent le Pilote. [F]</note>
+	<l id="449">Un orage si prompt qui trouble une bonace</l>
+	<l id="450">D'un naufrage certain nous porte la menace :</l>
+	<l id="451">Je n'en saurais douter, je péris dans le port.</l>
+	<l id="452">J'aimais, j'étais aimée, et nos pères d'accord ;</l>
+	<l id="453">Et je vous en contais la charmante nouvelle,</l>
+	<l id="454">Au malheureux moment que naissait leur querelle,</l>
+	<l id="455">Dont le récit fatal, sitôt qu'on vous l'a fait,</l>
+	<l id="456">D'une si douce attente a ruiné l'effet.</l>
+	<l id="457">Maudite ambition, détestable manie,</l>
+	<l id="458">Dont les plus généreux souffrent la tyrannie !</l>
+	<l id="459">Honneur impitoyable à mes plus chers désirs,</l>
+	<l id="460">Que tu me vas coûter de pleurs et de soupirs !</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="461">Tu n'as dans leur querelle aucun sujet de craindre :</l>
+	<l id="462">Un moment l'a fait naître, un moment va l'éteindre.</l>
+	<l id="463">Elle a fait trop de bruit pour ne pas s'accorder,</l>
+	<l id="464">Puisque déjà le roi les veut accommoder ;</l>
+	<l id="465">Et tu sais que mon âme, à tes ennuis sensible,</l>
+	<l id="466">Pour en tarir la source y fera l'impossible.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="467">Les accommodements ne font rien en ce point :</l>
+	<l id="468">De si mortels affronts ne se réparent point.</l>
+	<l id="469">En vain on fait agir la force ou la prudence :</l>
+	<l id="470">Si l'on guérit le mal, ce n'est qu'en apparence.</l>
+	<l id="471">La haine que les coeurs conservent au dedans</l>
+	<l id="472">Nourrit des feux cachés, mais d'autant plus ardents.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="473">Le saint noeud qui joindra Dom Rodrigue et Chimène</l>
+	<l id="474">Des pères ennemis dissipera la haine ;</l>
+	<l id="475">Et nous verrons bientôt votre amour le plus fort</l>
+<note type="L">Discord : désunion, dispute , querelle. Il est vieux et hors d'usage. [F]</note>
+	<l id="476">Par un heureux hymen étouffer ce discord.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="477">Je le souhaite ainsi plus que je ne l'espère :</l>
+<note type="L">Altier : Orgueileux, fier, qui commande avec hauteur. [F]</note>
+	<l id="478">Dom Diègue est trop altier, et je connais mon père.</l>
+	<l id="479">Je sens couler des pleurs que je veux retenir ;</l>
+	<l id="480">Le passé me tourmente, et je crains l'avenir.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="481">Que crains-tu ? D'un vieillard l'impuissante faiblesse ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="482" part="i">Rodrigue a du courage.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="482" part="f">Il a trop de jeunesse.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="483">Les hommes valeureux le sont du premier coup.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="484">Tu ne dois pas pourtant le redouter beaucoup :</l>
+	<l id="485">Il est trop amoureux pour te vouloir déplaire,</l>
+	<l id="486">Et deux mots de ta bouche arrêtent sa colère.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="487">S'il ne m'obéit point, quel comble à mon ennui !</l>
+	<l id="488">Et s'il peut m'obéir, que dira-t-on de lui ?</l>
+	<l id="489">Étant né ce qu'il est, souffrir un tel outrage !</l>
+	<l id="490">Soit qu'il cède ou résiste au feu qui me l'engage,</l>
+	<l id="491">Mon esprit ne peut qu'être ou honteux ou confus,</l>
+	<l id="492">De son trop de respect, ou d'un juste refus.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="493">Chimène a l'âme haute, et quoiqu'intéressée,</l>
+	<l id="494">Elle ne peut souffrir une basse pensée ;</l>
+	<l id="495">Mais si jusques au jour de l'accommodement</l>
+	<l id="496">Je fais mon prisonnier de ce parfait amant,</l>
+	<l id="497">Et que j'empêche ainsi l'effet de son courage,</l>
+	<l id="498">Ton esprit amoureux n'aura-t-il point d'ombrage ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="499">Ah ! Madame, en ce cas je n'ai plus de souci.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. L'Infante, Chimène, Léonor, Le page.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="500">Page, cherchez Rodrigue, et l'amenez ici.</l>
+</sp>
+<sp who="PAGE"><speaker>LE PAGE.</speaker>
+	<l id="501" part="i">Le comte de Gormas et lui...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="501" part="f">Bon Dieu ! Je tremble.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="502" part="i">Parlez.</l>
+</sp>
+<sp who="PAGE"><speaker>LE PAGE.</speaker>
+	<l id="502" part="f">De ce palais ils sont sortis ensemble.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="503" part="i">Seuls ?</l>
+</sp>
+<sp who="PAGE"><speaker>LE PAGE.</speaker>
+	<l id="503" part="f">Seuls, et qui semblaient tout bas se quereller.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="504">Sans doute ils sont aux mains, il n'en faut plus parler.</l>
+	<l id="505">Madame, pardonnez à cette promptitude.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. L'Infante, Léonor.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="506">Hélas ! Que dans l'esprit je sens d'inquiétude !</l>
+	<l id="507">Je pleure ses malheurs, son amant me ravit ;</l>
+	<l id="508">Mon repos m'abandonne, et ma flamme revit.</l>
+	<l id="509">Ce qui va séparer Rodrigue de Chimène</l>
+	<l id="510">Fait renaître à la fois mon espoir et ma peine ;</l>
+	<l id="511">Et leur division, que je vois à regret,</l>
+	<l id="512">Dans mon esprit charmé jette un plaisir secret.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="513">Cette haute vertu qui règne dans votre âme</l>
+	<l id="514">Se rend-elle sitôt à cette lâche flamme ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="515">Ne la nomme point lâche, à présent que chez moi</l>
+	<l id="516">Pompeuse et triomphante elle me fait la loi :</l>
+	<l id="517">Porte-lui du respect, puisqu'elle m'est si chère.</l>
+	<l id="518">Ma vertu la combat, mais malgré moi j'espère ;</l>
+	<l id="519">Et d'un si fol espoir mon coeur mal défendu</l>
+	<l id="520">Vole après un amant que Chimène a perdu.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="521">Vous laissez choir ainsi ce glorieux courage,</l>
+	<l id="522">Et la raison chez vous perd ainsi son usage ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="523">Ah ! Qu'avec peu d'effet on entend la raison,</l>
+	<l id="524">Quand le coeur est atteint d'un si charmant poison !</l>
+	<l id="525">Et lorsque le malade aime sa maladie,</l>
+	<l id="526">Qu'il a peine à souffrir que l'on y remédie !</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="527">Votre espoir vous séduit, votre mal vous est doux ;</l>
+	<l id="528">Mais enfin ce Rodrigue est indigne de vous.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="529">Je ne le sais que trop ; mais si ma vertu cède,</l>
+	<l id="530">Apprends comme l'amour flatte un coeur qu'il possède.</l>
+	<l id="531">Si Rodrigue une fois sort vainqueur du combat,</l>
+	<l id="532">Si dessous sa valeur ce grand guerrier s'abat,</l>
+	<l id="533">Je puis en faire cas, je puis l'aimer sans honte.</l>
+	<l id="534">Que ne fera-t-il point, s'il peut vaincre le Comte ?</l>
+	<l id="535">J'ose m'imaginer qu'à ses moindres exploits</l>
+	<l id="536">Les royaumes entiers tomberont sous ses lois ;</l>
+	<l id="537">Et mon amour flatteur déjà me persuade</l>
+	<l id="538">Que je le vois assis au trône de Grenade,</l>
+<note type="L">Mores (maures) : Homme noir ou femme noire, nés en une région d'Afrique appelée la Mauritanie [F]. Othello, le personnage de la pièce du même nom de Shakespeare est un maure.</note>
+	<l id="539">Les Mores subjugués trembler en l'adorant,</l>
+	<l id="540">L'Aragon recevoir ce nouveau conquérant,</l>
+	<l id="541">Le Portugal se rendre, et ses nobles journées</l>
+	<l id="542">Porter delà les mers ses hautes destinées,</l>
+	<l id="543">Du sang des Africains arroser ses lauriers :</l>
+	<l id="544">Enfin tout ce qu'on dit des plus fameux guerriers,</l>
+	<l id="545">Je l'attends de Rodrigue après cette victoire,</l>
+	<l id="546">Et fais de son amour un sujet de ma gloire.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="547">Mais, Madame, voyez où vous portez son bras,</l>
+	<l id="548">Ensuite d'un combat qui peut-être n'est pas.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="549">Rodrigue est offensé ; le Comte a fait l'outrage ;</l>
+	<l id="550">Ils sont sortis ensemble : en faut-il davantage ?</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="551">Eh bien ! Ils se battront, puisque vous le voulez ;</l>
+	<l id="552">Mais Rodrigue ira-t-il si loin que vous allez ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="553">Que veux-tu ? Je suis folle, et mon esprit s'égare :</l>
+	<l id="554">Tu vois par là quels maux cet amour me prépare.</l>
+	<l id="555">Viens dans mon cabinet consoler mes ennuis,</l>
+	<l id="556">Et ne me quitte point dans le trouble où je suis.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dom Fernand, Don Arias, Dom Sanche.</head>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="557">Le Comte est donc si vain et si peu raisonnable !</l>
+	<l id="558">Ose-t-il croire encor son crime pardonnable ?</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="559">Je l'ai de votre part longtemps entretenu ;</l>
+	<l id="560">J'ai fait mon pouvoir, Sire, et n'ai rien obtenu.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="561">Justes cieux ! Ainsi donc un sujet téméraire</l>
+	<l id="562">A si peu de respect et de soin de me plaire !</l>
+	<l id="563">Il offense Dom Diègue, et méprise son roi !</l>
+	<l id="564">Au milieu de ma cour il me donne la loi !</l>
+	<l id="565">Qu'il soit brave guerrier, qu'il soit grand capitaine,</l>
+	<l id="566">Je saurai bien rabattre une humeur si hautaine.</l>
+	<l id="567">Fût-il la valeur même, et le dieu des combats,</l>
+	<l id="568">Il verra ce que c'est que de n'obéir pas.</l>
+	<l id="569">Quoi qu'ait pu mériter une telle insolence,</l>
+	<l id="570">Je l'ai voulu d'abord traiter sans violence ;</l>
+	<l id="571">Mais puisqu'il en abuse, allez dès aujourd'hui,</l>
+	<l id="572">Soit qu'il résiste ou non, vous assurer de lui.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="573">Peut-être un peu de temps le rendrait moins rebelle :</l>
+	<l id="574">On l'a pris tout bouillant encor de sa querelle ;</l>
+	<l id="575">Sire, dans la chaleur d'un premier mouvement,</l>
+	<l id="576">Un coeur si généreux se rend malaisément.</l>
+	<l id="577">Il voit bien qu'il a tort, mais une âme si haute</l>
+	<l id="578">N'est pas sitôt réduite à confesser sa faute.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="579">Dom Sanche, taisez-vous, et soyez averti</l>
+	<l id="580">Qu'on se rend criminel à prendre son parti.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="581">J'obéis, et me tais ; mais de grâce encor, sire,</l>
+	<l id="582" part='i'>Deux mots en sa défense.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="582" part='f'>Et que pouvez-vous dire ?</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="583">Qu'une âme accoutumée aux grandes actions</l>
+	<l id="584">Ne se peut abaisser à des submissions :</l>
+	<l id="585">Elle n'en conçoit point qui s'expliquent sans honte ;</l>
+	<l id="586">Et c'est à ce mot seul qu'a résisté le Comte.</l>
+	<l id="587">Il trouve en son devoir un peu trop de rigueur,</l>
+	<l id="588">Et vous obéirait, s'il avait moins de coeur.</l>
+	<l id="589">Commandez que son bras, nourri dans les alarmes,</l>
+	<l id="590">Répare cette injure à la pointe des armes ;</l>
+	<l id="591">Il satisfera, Sire ; et vienne qui voudra,</l>
+	<l id="592">Attendant qu'il l'ait su, voici qui répondra.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="593">Vous perdez le respect ; mais je pardonne à l'âge,</l>
+	<l id="594">Et j'excuse l'ardeur en un jeune courage.</l>
+	<l id="595">Un roi dont la prudence a de meilleurs objets</l>
+<note type="L">Ménager : Bon économe de son bien ; qui épargne, qui ne fait point de dépense superflue ; qui fait bien valoir ce qu'on lui donne à manier. [F]</note>
+	<l id="596">Est meilleur ménager du sang de ses sujets :</l>
+	<l id="597">Je veille pour les miens, mes soucis les conservent,</l>
+	<l id="598">Comme le chef a soin des membres qui le servent.</l>
+	<l id="599">Ainsi votre raison n'est pas raison pour moi :</l>
+	<l id="600">Vous parlez en soldat ; je dois agir en roi ;</l>
+	<l id="601">Et quoi qu'on veuille dire, et quoi qu'il ose croire,</l>
+	<l id="602">Le comte à m'obéir ne peut perdre sa gloire.</l>
+	<l id="603">D'ailleurs l'affront me touche : il a perdu d'honneur</l>
+	<l id="604">Celui que de mon fils j'ai fait le gouverneur ;</l>
+	<l id="605">S'attaquer à mon choix, c'est se prendre à moi-même,</l>
+	<l id="606">Et faire un attentat sur le pouvoir suprême.</l>
+	<l id="607">N'en parlons plus. Au reste, on a vu dix vaisseaux</l>
+	<l id="608">De nos vieux ennemis arborer les drapeaux ;</l>
+	<l id="609">Vers la bouche du fleuve ils ont osé paraître.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="610">Les Mores ont appris par force à vous connaître,</l>
+	<l id="611">Et tant de fois vaincus, ils ont perdu le coeur</l>
+	<l id="612">De se plus hasarder contre un si grand vainqueur.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="613">Ils ne verront jamais sans quelque jalousie</l>
+	<l id="614">Mon sceptre, en dépit d'eux, régir l'Andalousie ;</l>
+	<l id="615">Et ce pays si beau, qu'ils ont trop possédé,</l>
+	<l id="616">Avec un oeil d'envie est toujours regardé.</l>
+	<l id="617">C'est l'unique raison qui m'a fait dans Séville</l>
+	<l id="618">Placer depuis dix ans le trône de Castille,</l>
+	<l id="619">Pour les voir de plus près, et d'un ordre plus prompt</l>
+	<l id="620">Renverser aussitôt ce qu'ils entreprendront.</l>
+</sp>
+<sp who="DOM ARIAS"><speaker>DOM ARIAS.</speaker>
+	<l id="621">Ils savent aux dépens de leurs plus dignes têtes</l>
+	<l id="622">Combien votre présence assure vos conquêtes :</l>
+	<l id="623" part="i">Vous n'avez rien à craindre.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="623" part="f">Et rien à négliger :</l>
+	<l id="624">Le trop de confiance attire le danger ;</l>
+	<l id="625">Et vous n'ignorez pas qu'avec fort peu de peine</l>
+<note type="C">Un flux de pleine mer ne peut amener les troupes jusqu'à Séville. Voir l'Examen 1660 en tête du texte.</note>
+	<l id="626">Un flux de pleine mer jusqu'ici les amène.</l>
+	<l id="627">Toutefois j'aurais tort de jeter dans les coeurs,</l>
+	<l id="628">L'avis étant mal sûr, de paniques terreurs.</l>
+	<l id="629">L'effroi que produirait cette alarme inutile,</l>
+	<l id="630">Dans la nuit qui survient troublerait trop la ville :</l>
+	<l id="631">Faites doubler la garde aux murs et sur le port.</l>
+	<l id="632" part="i">C'est assez pour ce soir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Dom Fernand, Dom Sanche, Dom Alonse.</head>
+<sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
+	<l id="632" part="f">Sire, le comte est mort :</l>
+	<l id="633">Dom Diègue, par son fils, a vengé son offense.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="634">Dès que j'ai su l'affront, j'ai prévu la vengeance ;</l>
+	<l id="635">Et j'ai voulu dès lors prévenir ce malheur.</l>
+</sp>
+<sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
+	<l id="636">Chimène à vos genoux apporte sa douleur ;</l>
+	<l id="637">Elle vient toute en pleurs vous demander justice.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="638">Bien qu'à ses déplaisirs mon âme compatisse,</l>
+	<l id="639">Ce que le Comte a fait semble avoir mérité</l>
+	<l id="640">Ce digne châtiment de sa témérité.</l>
+	<l id="641">Quelque juste pourtant que puisse être sa peine,</l>
+	<l id="642">Je ne puis sans regret perdre un tel capitaine.</l>
+	<l id="643">Après un long service à mon état rendu,</l>
+	<l id="644">Après son sang pour moi mille fois répandu,</l>
+	<l id="645">À quelques sentiments que son orgueil m'oblige,</l>
+	<l id="646">Sa perte m'affaiblit, et son trépas m'afflige.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Dom Fernand, Dom Diègue, Chimène, Dom Sanche, Don Arias, Dom Alonse.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="647" part="i">Sire, sire, justice !</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="647" part="f">Ah ! Sire, écoutez-nous.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="648" part="i">Je me jette à vos pieds.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="648" part="f">J'embrasse vos genoux.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="649" part="i">Je demande justice.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="649" part="f">Entendez ma défense.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="650">D'un jeune audacieux punissez l'insolence :</l>
+	<l id="651">Il a de votre sceptre abattu le soutien,</l>
+	<l id="652" part="i">Il a tué mon père.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="652" part="f">Il a vengé le sien.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="653">Au sang de ses sujets un roi doit la justice.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="654">Pour la juste vengeance il n'est point de supplice.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="655">Levez-vous l'un et l'autre, et parlez à loisir.</l>
+	<l id="656">Chimène, je prends part à votre déplaisir ;</l>
+	<l id="657">D'une égale douleur je sens mon âme atteinte.</l>
+	<l id="658">Vous parlerez après ; ne troublez pas sa plainte.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="659">Sire, mon père est mort ; mes yeux ont vu son sang</l>
+	<l id="660">Couler à gros bouillons de son généreux flanc ;</l>
+	<l id="661">Ce sang qui tant de fois garantit vos murailles,</l>
+	<l id="662">Ce sang qui tant de fois vous gagna des batailles,</l>
+	<l id="663">Ce sang qui tout sorti fume encor de courroux</l>
+	<l id="664">De se voir répandu pour d'autres que pour vous,</l>
+	<l id="665">Qu'au milieu des hasards n'osait verser la guerre,</l>
+	<l id="666">Rodrigue en votre Cour vient d'en couvrir la terre.</l>
+	<l id="667">J'ai couru sur le lieu, sans force et sans couleur :</l>
+	<l id="668">Je l'ai trouvé sans vie. Excusez ma douleur,</l>
+	<l id="669">Sire, la voix me manque à ce récit funeste ;</l>
+	<l id="670">Mes pleurs et mes soupirs vous diront mieux le reste.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="671">Prends courage, ma fille, et sache qu'aujourd'hui</l>
+	<l id="672">Ton roi te veut servir de père au lieu de lui.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="673">Sire, de trop d'honneur ma misère est suivie.</l>
+	<l id="674">Je vous l'ai déjà dit, je l'ai trouvé sans vie ;</l>
+	<l id="675">Son flanc était ouvert ; et pour mieux m'émouvoir,</l>
+	<l id="676">Son sang sur la poussière écrivait mon devoir ;</l>
+	<l id="677">Ou plutôt sa valeur en cet état réduite</l>
+	<l id="678">Me parlait par sa plaie, et hâtait ma poursuite ;</l>
+	<l id="679">Et pour se faire entendre au plus juste des rois,</l>
+	<l id="680">Par cette triste bouche elle empruntait ma voix.</l>
+	<l id="681">Sire, ne souffrez pas que sous votre puissance</l>
+	<l id="682">Règne devant vos yeux une telle licence ;</l>
+	<l id="683">Que les plus valeureux, avec impunité,</l>
+	<l id="684">Soient exposés aux coups de la témérité ;</l>
+	<l id="685">Qu'un jeune audacieux triomphe de leur gloire,</l>
+	<l id="686">Se baigne dans leur sang, et brave leur mémoire.</l>
+	<l id="687">Un si vaillant guerrier qu'on vient de vous ravir</l>
+	<l id="688">Éteint, s'il n'est vengé, l'ardeur de vous servir.</l>
+	<l id="689">Enfin mon père est mort, j'en demande vengeance,</l>
+	<l id="690">Plus pour votre intérêt que pour mon allégeance.</l>
+	<l id="691">Vous perdez en la mort d'un homme de son rang :</l>
+	<l id="692">Vengez-la par une autre, et le sang par le sang.</l>
+	<l id="693">Immolez, non à moi, mais à votre couronne,</l>
+	<l id="694">Mais à votre grandeur, mais à votre personne ;</l>
+	<l id="695">Immolez, dis-je, Sire, au bien de tout l'État</l>
+	<l id="696">Tout ce qu'enorgueillit un si haut attentat.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="697" part="i">Dom Diègue, répondez.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="697" part="f">Qu'on est digne d'envie</l>
+	<l id="698">Lorsqu'en perdant la force on perd aussi la vie,</l>
+	<l id="699">Et qu'un long âge apprête aux hommes généreux,</l>
+	<l id="700">Au bout de leur carrière, un destin malheureux !</l>
+	<l id="701">Moi, dont les longs travaux ont acquis tant de gloire,</l>
+	<l id="702">Moi, que jadis partout a suivi la victoire,</l>
+	<l id="703">Je me vois aujourd'hui, pour avoir trop vécu,</l>
+	<l id="704">Recevoir un affront et demeurer vaincu.</l>
+	<l id="705">Ce que n'a pu jamais combat, siège, embuscade,</l>
+	<l id="706">Ce que n'a pu jamais Aragon ni Grenade,</l>
+	<l id="707">Ni tous vos ennemis, ni tous mes envieux,</l>
+	<l id="708">Le Comte en votre cour l'a fait presque à vos yeux,</l>
+	<l id="709">Jaloux de votre choix, et fier de l'avantage</l>
+	<l id="710">Que lui donnait sur moi l'impuissance de l'âge.</l>
+<note type="L">Harnois : Armure complète, la cuirasse, la casque, et tout l'équipage des armes d'un cavalier pesamment armé. [F]</note>
+	<l id="711">Sire, ainsi ces cheveux blanchis sous le harnois,</l>
+	<l id="712">Ce sang pour vous servir prodigué tant de fois,</l>
+	<l id="713">Ce bras, jadis l'effroi d'une armée ennemie,</l>
+	<l id="714">Descendaient au tombeau tous chargés d'infamie,</l>
+	<l id="715">Si je n'eusse produit un fils digne de moi,</l>
+	<l id="716">Digne de son pays et digne de son roi.</l>
+	<l id="717">Il m'a prêté sa main, il a tué le Comte ;</l>
+	<l id="718">Il m'a rendu l'honneur, il a lavé ma honte.</l>
+	<l id="719">Si montrer du courage et du ressentiment,</l>
+	<l id="720">Si venger un soufflet mérite un châtiment,</l>
+	<l id="721">Sur moi seul doit tomber l'éclat de la tempête :</l>
+	<l id="722">Quand le bras a failli, l'on en punit la tête.</l>
+	<l id="723">Qu'on nomme crime, ou non, ce qui fait nos débats,</l>
+	<l id="724">Sire, j'en suis la tête, il n'en est que le bras.</l>
+	<l id="725">Si Chimène se plaint qu'il a tué son père,</l>
+	<l id="726">Il ne l'eût jamais fait si je l'eusse pu faire.</l>
+	<l id="727">Immolez donc ce chef que les ans vont ravir,</l>
+	<l id="728">Et conservez pour vous le bras qui peut servir.</l>
+	<l id="729">Aux dépens de mon sang satisfaites Chimène :</l>
+	<l id="730">Je n'y résiste point, je consens à ma peine ;</l>
+	<l id="731">Et loin de murmurer d'un rigoureux décret,</l>
+	<l id="732">Mourant sans déshonneur, je mourrai sans regret.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="733">L'affaire est d'importance, et, bien considérée,</l>
+	<l id="734">Mérite en plein conseil d'être délibérée.</l>
+	<l id="735">Dom Sanche, remettez Chimène en sa maison.</l>
+	<l id="736">Dom Diègue aura ma Cour et sa foi pour prison.</l>
+	<l id="737">Qu'on me cherche son fils. Je vous ferai justice.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="738">Il est juste, grand roi, qu'un meurtrier périsse.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="739">Prends du repos, ma fille, et calme tes douleurs.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="740">M'ordonner du repos, c'est croître mes malheurs.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE I. Dom Rodrigue, Elvire.</head>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="741">Rodrigue, qu'as-tu fait ? Où viens-tu, misérable ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="742">Suivre le triste cours de mon sort déplorable.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="743">Où prends-tu cette audace et ce nouvel orgueil,</l>
+	<l id="744">De paraître en des lieux que tu remplis de deuil ?</l>
+	<l id="745">Quoi ? Viens-tu jusqu'ici braver l'ombre du Comte ?</l>
+	<l id="746" part="i">Ne l'as-tu pas tué ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="746" part="f">Sa vie était ma honte :</l>
+	<l id="747">Mon honneur de ma main a voulu cet effort.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="748">Mais chercher ton asile en la maison du mort !</l>
+	<l id="749">Jamais un meurtrier en fit-il son refuge ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="750">Et je n'y viens aussi que m'offrir à mon juge.</l>
+	<l id="751">Ne me regarde plus d'un visage étonné ;</l>
+	<l id="752">Je cherche le trépas après l'avoir donné.</l>
+	<l id="753">Mon juge est mon amour, mon juge est ma Chimène :</l>
+	<l id="754">Je mérite la mort de mériter sa haine,</l>
+	<l id="755">Et j'en viens recevoir, comme un bien souverain,</l>
+	<l id="756">Et l'arrêt de sa bouche, et le coup de sa main.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="757">Fuis plutôt de ses yeux, fuis de sa violence ;</l>
+	<l id="758">À ses premiers transports dérobe ta présence :</l>
+	<l id="759">Va, ne t'expose point aux premiers mouvements</l>
+	<l id="760">Que poussera l'ardeur de ses ressentiments.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="761">Non, non, ce cher objet à qui j'ai pu déplaire</l>
+	<l id="762">Ne peut pour mon supplice avoir trop de colère ;</l>
+	<l id="763">Et j'évite cent morts qui me vont accabler,</l>
+	<l id="764">Si pour mourir plus tôt je puis la redoubler.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="765">Chimène est au palais, de pleurs toute baignée,</l>
+	<l id="766">Et n'en reviendra point que bien accompagnée.</l>
+	<l id="767">Rodrigue, fuis, de grâce : ôte-moi de souci.</l>
+	<l id="768">Que ne dira-t-on point si l'on te voit ici ?</l>
+	<l id="769">Veux-tu qu'un médisant, pour comble à sa misère,</l>
+	<l id="770">L'accuse d'y souffrir l'assassin de son père ?</l>
+	<l id="771">Elle va revenir ; elle vient, je la vois :</l>
+	<l id="772">Du moins, pour son honneur, Rodrigue, cache-toi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Dom Sanche, Chimène, Elvire.</head>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="773">Oui, Madame, il vous faut de sanglantes victimes :</l>
+	<l id="774">Votre colère est juste, et vos pleurs légitimes ;</l>
+	<l id="775">Et je n'entreprends pas, à force de parler,</l>
+	<l id="776">Ni de vous adoucir, ni de vous consoler.</l>
+	<l id="777">Mais si de vous servir je puis être capable,</l>
+	<l id="778">Employez mon épée à punir le coupable ;</l>
+	<l id="779">Employez mon amour à venger cette mort :</l>
+	<l id="780">Sous vos commandements mon bras sera trop fort.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="781" part="i">Malheureuse !</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="781" part="f">De grâce, acceptez mon service.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="782">J'offenserais le roi, qui m'a promis justice.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="783">Vous savez qu'elle marche avec tant de langueur,</l>
+	<l id="784">Qu'assez souvent le crime échappe à sa longueur ;</l>
+	<l id="785">Son cours lent et douteux fait trop perdre de larmes.</l>
+	<l id="786">Souffrez qu'un cavalier vous venge par les armes.</l>
+	<l id="787">La voie en est plus sûre, et plus prompte à punir.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="788">C'est le dernier remède ; et s'il y faut venir,</l>
+	<l id="789">Et que de mes malheurs cette pitié vous dure,</l>
+	<l id="790">Vous serez libre alors de venger mon injure.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="791">C'est l'unique bonheur où mon âme prétend ;</l>
+	<l id="792">Et pouvant l'espérer, je m'en vais trop content.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Chimène, Elvire.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="793">Enfin je me vois libre, et je puis sans contrainte</l>
+	<l id="794">De mes vives douleurs te faire voir l'atteinte ;</l>
+	<l id="795">Je puis donner passage à mes tristes soupirs ;</l>
+	<l id="796">Je puis t'ouvrir mon âme et tous mes déplaisirs.</l>
+	<l id="797">Mon père est mort, Elvire ; et la première épée</l>
+	<l id="798">Dont s'est armé Rodrigue, a sa trame coupée.</l>
+	<l id="799">Pleurez, pleurez, mes yeux, et fondez-vous en eau !</l>
+	<l id="800">La moitié de ma vie a mis l'autre au tombeau,</l>
+	<l id="801">Et m'oblige à venger, après ce coup funeste,</l>
+	<l id="802">Celle que je n'ai plus sur celle qui me reste.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="803" part="i">Reposez-vous, madame.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="803" part="f">Ah ! Que mal à propos</l>
+	<l id="804">Dans un malheur si grand tu parles de repos !</l>
+	<l id="805">Par où sera jamais ma douleur apaisée,</l>
+	<l id="806">Si je ne puis haïr la main qui l'a causée ?</l>
+	<l id="807">Et que dois-je espérer qu'un tourment éternel,</l>
+	<l id="808">Si je poursuis un crime, aimant le criminel ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="809">Il vous prive d'un père, et vous l'aimez encore !</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="810">C'est peu de dire aimer, Elvire : je l'adore ;</l>
+	<l id="811">Ma passion s'oppose à mon ressentiment ;</l>
+	<l id="812">Dedans mon ennemi je trouve mon amant ;</l>
+	<l id="813">Et je sens qu'en dépit de toute ma colère,</l>
+	<l id="814">Rodrigue dans mon coeur combat encor mon père :</l>
+	<l id="815">Il l'attaque, il le presse, il cède, il se défend,</l>
+	<l id="816">Tantôt fort, tantôt faible, et tantôt triomphant ;</l>
+	<l id="817">Mais en ce dur combat de colère et de flamme,</l>
+	<l id="818">Il déchire mon coeur sans partager mon âme ;</l>
+	<l id="819">Et quoi que mon amour ait sur moi de pouvoir,</l>
+	<l id="820">Je ne consulte point pour suivre mon devoir :</l>
+	<l id="821">Je cours sans balancer où mon honneur m'oblige.</l>
+	<l id="822">Rodrigue m'est bien cher, son intérêt m'afflige ;</l>
+	<l id="823">Mon coeur prend son parti ; mais malgré son effort,</l>
+	<l id="824">Je sais ce que je suis, et que mon père est mort.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="825" part="i">Pensez-vous le poursuivre ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="825" part="f">Ah ! Cruelle pensée !</l>
+	<l id="826">Et cruelle poursuite où je me vois forcée !</l>
+	<l id="827">Je demande sa tête, et crains de l'obtenir :</l>
+	<l id="828">Ma mort suivra la sienne, et je le veux punir !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="829">Quittez, quittez, Madame, un dessein si tragique ;</l>
+	<l id="830">Ne vous imposez point de loi si tyrannique.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="831">Quoi ! Mon père étant mort, et presque entre mes bras,</l>
+<note type="C">Orrai : future du verbe ouïr. Le verbe oeïr est maintenant défectif.</note>
+	<l id="832">Son sang criera vengeance, et je ne l'orrai pas !</l>
+	<l id="833">Mon coeur, honteusement surpris par d'autres charmes,</l>
+	<l id="834">Croira ne lui devoir que d'impuissantes larmes !</l>
+	<l id="835">Et je pourrai souffrir qu'un amour suborneur</l>
+	<l id="836">Sous un lâche silence étouffe mon honneur !</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="837">Madame, croyez-moi, vous serez excusable</l>
+	<l id="838">D'avoir moins de chaleur contre un objet aimable,</l>
+	<l id="839">Contre un amant si cher : vous avez assez fait,</l>
+	<l id="840">Vous avez vu le roi ; n'en pressez point l'effet,</l>
+	<l id="841">Ne vous obstinez point en cette humeur étrange.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="842">Il y va de ma gloire, il faut que je me venge ;</l>
+	<l id="843">Et de quoi que nous flatte un désir amoureux,</l>
+	<l id="844">Toute excuse est honteuse aux esprits généreux.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="845">Mais vous aimez Rodrigue, il ne vous peut déplaire.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="846" part="i">Je l'avoue.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="846" part="f">Après tout, que pensez-vous donc faire ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="847">Pour conserver ma gloire et finir mon ennui,</l>
+	<l id="848">Le poursuivre, le perdre, et mourir après lui.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dom Rodrigue, Chimène, Elvire.</head>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="849">Eh bien ! Sans vous donner la peine de poursuivre,</l>
+	<l id="850">Assurez-vous l'honneur de m'empêcher de vivre.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="851">Elvire, où sommes-nous, et qu'est-ce que je vois ?</l>
+	<l id="852">Rodrigue en ma maison ! Rodrigue devant moi !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="853">N'épargnez point mon sang : goûtez sans résistance</l>
+	<l id="854">La douceur de ma perte et de votre vengeance.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="855" part="i">Hélas !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="855" part="m">Écoute-moi.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="855" part="m">Je me meurs.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="855" part="f">Un moment.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="856" part="i">Va, laisse-moi mourir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="856" part="f">Quatre mots seulement :</l>
+	<l id="857">Après ne me réponds qu'avec cette épée.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="858">Quoi ! Du sang de mon père encor toute trempée !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="859" part="i">Ma Chimène...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="859" part="f">Ôte-moi cet objet odieux,</l>
+	<l id="860">Qui reproche ton crime et ta vie à mes yeux.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="861">Regarde-le plutôt pour exciter ta haine,</l>
+	<l id="862">Pour croître ta colère, et pour hâter ma peine.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="863" part="i">Il est teint de mon sang.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="863" part="f">Plonge-le dans le mien,</l>
+	<l id="864">Et fais-lui perdre ainsi la teinture du tien.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="865">Ah ! Quelle cruauté, qui tout en un jour tue</l>
+	<l id="866">Le père par le fer, la fille par la vue !</l>
+	<l id="867">Ôte-moi cet objet, je ne le puis souffrir :</l>
+	<l id="868">Tu veux que je t'écoute, et tu me fais mourir !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="869">Je fais ce que tu veux, mais sans quitter l'envie</l>
+	<l id="870">De finir par tes mains ma déplorable vie ;</l>
+	<l id="871">Car enfin n'attends pas de mon affection</l>
+	<l id="872">Un lâche repentir d'une bonne action.</l>
+	<l id="873">L'irréparable effet d'une chaleur trop prompte</l>
+	<l id="874">Déshonorait mon père, et me couvrait de honte.</l>
+	<l id="875">Tu sais comme un soufflet touche un homme de coeur ;</l>
+	<l id="876">J'avais part à l'affront, j'en ai cherché l'auteur :</l>
+	<l id="877">Je l'ai vu, j'ai vengé mon honneur et mon père ;</l>
+	<l id="878">Je le ferais encor, si j'avais à le faire.</l>
+	<l id="879">Ce n'est pas qu'en effet contre mon père et moi</l>
+	<l id="880">Ma flamme assez longtemps n'ait combattu pour toi ;</l>
+	<l id="881">Juge de son pouvoir : dans une telle offense</l>
+	<l id="882">J'ai pu délibérer si j'en prendrais vengeance.</l>
+	<l id="883">Réduit à te déplaire, ou souffrir un affront,</l>
+	<l id="884">J'ai pensé qu'à son tour mon bras était trop prompt ;</l>
+	<l id="885">Je me suis accusé de trop de violence ;</l>
+	<l id="886">Et ta beauté sans doute emportait la balance,</l>
+	<l id="887">À moins que d'opposer à tes plus forts appas</l>
+	<l id="888">Qu'un homme sans honneur ne te méritait pas ;</l>
+	<l id="889">Que malgré cette part que j'avais en ton âme,</l>
+	<l id="890">Qui m'aima généreux me haïrait infâme ;</l>
+	<l id="891">Qu'écouter ton amour, obéir à sa voix,</l>
+	<l id="892">C'était m'en rendre indigne et diffamer ton choix.</l>
+	<l id="893">Je te le dis encore ; et quoique j'en soupire,</l>
+	<l id="894">Jusqu'au dernier soupir je veux bien le redire :</l>
+	<l id="895">Je t'ai fait une offense, et j'ai dû m'y porter</l>
+	<l id="896">Pour effacer ma honte, et pour te mériter ;</l>
+	<l id="897">Mais quitte envers l'honneur, et quitte envers mon père,</l>
+	<l id="898">C'est maintenant à toi que je viens satisfaire :</l>
+	<l id="899">C'est pour t'offrir mon sang qu'en ce lieu tu me vois.</l>
+	<l id="900">J'ai fait ce que j'ai dû, je fais ce que je dois.</l>
+	<l id="901">Je sais qu'un père mort t'arme contre mon crime ;</l>
+	<l id="902">Je ne t'ai pas voulu dérober ta victime :</l>
+	<l id="903">Immole avec courage au sang qu'il a perdu</l>
+	<l id="904">Celui qui met sa gloire à l'avoir répandu.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="905">Ah ! Rodrigue, il est vrai, quoique ton ennemie,</l>
+	<l id="906">Je ne puis te blâmer d'avoir fui l'infâmie ;</l>
+	<l id="907">Et de quelque façon qu'éclatent mes douleurs,</l>
+	<l id="908">Je ne t'accuse point, je pleure mes malheurs.</l>
+	<l id="909">Je sais ce que l'honneur, après un tel outrage,</l>
+	<l id="910">Demandait à l'ardeur d'un généreux courage :</l>
+	<l id="911">Tu n'as fait le devoir que d'un homme de bien ;</l>
+	<l id="912">Mais aussi, le faisant, tu m'as appris le mien.</l>
+	<l id="913">Ta funeste valeur m'instruit par ta victoire ;</l>
+	<l id="914">Elle a vengé ton père et soutenu ta gloire :</l>
+	<l id="915">Même soin me regarde, et j'ai, pour m'affliger,</l>
+	<l id="916">Ma gloire à soutenir, et mon père à venger.</l>
+	<l id="917">Hélas ! Ton intérêt ici me désespère :</l>
+	<l id="918">Si quelque autre malheur m'avait ravi mon père,</l>
+	<l id="919">Mon âme aurait trouvé dans le bien de te voir</l>
+	<l id="920">L'unique allégement qu'elle eût pu recevoir ;</l>
+	<l id="921">Et contre ma douleur j'aurais senti des charmes,</l>
+	<l id="922">Quand une main si chère eût essuyé mes larmes.</l>
+	<l id="923">Mais il me faut te perdre après l'avoir perdu ;</l>
+	<l id="924">Cet effort sur ma flamme à mon honneur est dû ;</l>
+	<l id="925">Et cet affreux devoir, dont l'ordre m'assassine,</l>
+	<l id="926">Me force à travailler moi-même à ta ruine.</l>
+	<l id="927">Car enfin n'attends pas de mon affection</l>
+	<l id="928">De lâches sentiments pour ta punition.</l>
+	<l id="929">De quoi qu'en ta faveur notre amour m'entretienne,</l>
+	<l id="930">Ma générosité doit répondre à la tienne :</l>
+	<l id="931">Tu t'es, en m'offensant, montré digne de moi ;</l>
+	<l id="932">Je me dois, par ta mort, montrer digne de toi.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="933">Ne diffère donc plus ce que l'honneur t'ordonne :</l>
+	<l id="934">Il demande ma tête, et je te l'abandonne ;</l>
+	<l id="935">Fais-en un sacrifice à ce noble intérêt :</l>
+	<l id="936">Le coup m'en sera doux, aussi bien que l'arrêt.</l>
+	<l id="937">Attendre après mon crime une lente justice,</l>
+	<l id="938">C'est reculer ta gloire autant que mon supplice.</l>
+	<l id="939">Je mourrai trop heureux, mourant d'un coup si beau.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="940">Va, je suis ta partie, et non pas ton bourreau.</l>
+	<l id="941">Si tu m'offres ta tête, est-ce à moi de la prendre ?</l>
+	<l id="942">Je la dois attaquer, mais tu dois la défendre ;</l>
+	<l id="943">C'est d'un autre que toi qu'il me faut l'obtenir,</l>
+	<l id="944">Et je dois te poursuivre, et non pas te punir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="945">De quoi qu'en ma faveur notre amour t'entretienne,</l>
+	<l id="946">Ta générosité doit répondre à la mienne ;</l>
+	<l id="947">Et pour venger un père emprunter d'autres bras,</l>
+	<l id="948">Ma Chimène, crois-moi, c'est n'y répondre pas :</l>
+	<l id="949">Ma main seule du mien a su venger l'offense,</l>
+	<l id="950">Ta main seule du tien doit prendre la vengeance.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="951">Cruel ! À quel propos sur ce point t'obstiner ?</l>
+	<l id="952">Tu t'es vengé sans aide, et tu m'en veux donner !</l>
+	<l id="953">Je suivrai ton exemple, et j'ai trop de courage</l>
+	<l id="954">Pour souffrir qu'avec toi ma gloire se partage.</l>
+	<l id="955">Mon père et mon honneur ne veulent rien devoir</l>
+	<l id="956">Aux traits de ton amour ni de ton désespoir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="957">Rigoureux point d'honneur ! Hélas ! Quoi que je fasse,</l>
+	<l id="958">Ne pourrai-je à la fin obtenir cette grâce ?</l>
+	<l id="959">Au nom d'un père mort, ou de notre amitié,</l>
+	<l id="960">Punis-moi par vengeance, ou du moins par pitié.</l>
+	<l id="961">Ton malheureux amant aura bien moins de peine</l>
+	<l id="962">À mourir par ta main qu'à vivre avec ta haine.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="963" part="i">Va, je ne te hais point.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="963" part="m">Tu le dois.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="963" part="f">Je ne puis.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="964">Crains-tu si peu le blâme, et si peu les faux bruits ?</l>
+	<l id="965">Quand on saura mon crime, et que ta flamme dure,</l>
+	<l id="966">Que ne publieront point l'envie et l'imposture !</l>
+	<l id="967">Force-les au silence, et sans plus discourir,</l>
+	<l id="968">Sauve ta renommée en me faisant mourir.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="969">Elle éclate bien mieux en te laissant la vie ;</l>
+	<l id="970">Et je veux que la voix de la plus noire envie</l>
+	<l id="971">Élève au ciel ma gloire et plaigne mes ennuis,</l>
+	<l id="972">Sachant que je t'adore et que je te poursuis.</l>
+	<l id="973">Va-t'en, ne montre plus à ma douleur extrême</l>
+	<l id="974">Ce qu'il faut que je perde, encore que je l'aime.</l>
+	<l id="975">Dans l'ombre de la nuit cache bien ton départ :</l>
+	<l id="976">Si l'on te voit sortir, mon honneur court hasard.</l>
+	<l id="977">La seule occasion qu'aura la médisance,</l>
+	<l id="978">C'est de savoir qu'ici j'ai souffert ta présence :</l>
+	<l id="979">Ne lui donne point lieu d'attaquer ma vertu.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="980" part="i">Que je meure !</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="980" part="m">Va-t'en.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="980" part="f">À quoi te résous-tu ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="981">Malgré des feux si beaux, qui troublent ma colère,</l>
+	<l id="982">Je ferai mon possible à bien venger mon père ;</l>
+	<l id="983">Mais malgré la rigueur d'un si cruel devoir,</l>
+	<l id="984">Mon unique souhait est de ne rien pouvoir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="985" part="i">Ô miracle d'amour !</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="985" part="f">Ô comble de misères !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="986">Que de maux et de pleurs nous coûteront nos pères !</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="987" part="i">Rodrigue, qui l'eût cru ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="987" part="f">Chimène, qui l'eût dit ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+<note type="L">Heur : rencontre avantageuse. (...) [F] [antonyme de malheur]</note>
+	<l id="988">Que notre heur fût si proche et sitôt se perdît ?</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="989">Et que si près du port, contre toute apparence,</l>
+	<l id="990">Un orage si prompt brisât notre espérance ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="991" part="i">Ah ! Mortelles douleurs !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="991" part="f">Ah ! Regrets superflus !</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="992">Va-t'en, encore un coup, je ne t'écoute plus.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="993">Adieu : je vais traîner une mourante vie,</l>
+	<l id="994">Tant que par ta poursuite elle me soit ravie.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="995">Si j'en obtiens l'effet, je t'engage ma foi</l>
+	<l id="996">De ne respirer pas un moment après toi.</l>
+	<l id="997">Adieu : sors, et surtout garde bien qu'on te voie.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="998">Madame, quelques maux que le ciel nous envoie...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="999">Ne m'importune plus, laisse-moi soupirer,</l>
+	<l id="1000">Je cherche le silence et la nuit pour pleurer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1001">Jamais nous ne goûtons de parfaite allégresse :</l>
+	<l id="1002">Nos plus heureux succès sont mêlés de tristesse ;</l>
+	<l id="1003">Toujours quelques soucis en ces événements</l>
+	<l id="1004">Troublent la pureté de nos contentements.</l>
+	<l id="1005">Au milieu du bonheur mon âme en sent l'atteinte :</l>
+	<l id="1006">Je nage dans la joie, et je tremble de crainte.</l>
+	<l id="1007">J'ai vu mort l'ennemi qui m'avait outragé ;</l>
+	<l id="1008">Et je ne saurais voir la main qui m'a vengé.</l>
+	<l id="1009">En vain je m'y travaille, et d'un soin inutile,</l>
+	<l id="1010">Tout cassé que je suis, je cours toute la ville :</l>
+	<l id="1011">Ce peu que mes vieux ans m'ont laissé de vigueur</l>
+	<l id="1012">Se consume sans fruit à chercher ce vainqueur.</l>
+	<l id="1013">À toute heure, en tous lieux, dans une nuit si sombre,</l>
+	<l id="1014">Je pense l'embrasser, et n'embrasse qu'une ombre ;</l>
+	<l id="1015">Et mon amour, déçu par cet objet trompeur,</l>
+	<l id="1016">Se forme des soupçons qui redoublent ma peur.</l>
+	<l id="1017">Je ne découvre point de marques de sa fuite ;</l>
+	<l id="1018">Je crains du comte mort les amis et la suite ;</l>
+	<l id="1019">Leur nombre m'épouvante, et confond ma raison.</l>
+	<l id="1020">Rodrigue ne vit plus, ou respire en prison.</l>
+	<l id="1021">Justes cieux ! Me trompé-je encore à l'apparence,</l>
+	<l id="1022">Ou si je vois enfin mon unique espérance ?</l>
+	<l id="1023">C'est lui, n'en doutons plus ; mes voeux sont exaucés,</l>
+	<l id="1024">Ma crainte est dissipée, et mes ennuis cessés.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Don Siègue, Dom Rodrigue.</head>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1025">Rodrigue, enfin le ciel permet que je te voie !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1026" part="i">Hélas !</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1026" part="f">Ne mêle point de soupirs à ma joie ;</l>
+	<l id="1027">Laisse-moi prendre haleine afin de te louer.</l>
+	<l id="1028">Ma valeur n'a point lieu de te désavouer :</l>
+	<l id="1029">Tu l'as bien imitée, et ton illustre audace</l>
+	<l id="1030">Fait bien revivre en toi les héros de ma race :</l>
+	<l id="1031">C'est d'eux que tu descends, c'est de moi que tu viens :</l>
+	<l id="1032">Ton premier coup d'épée égale tous les miens ;</l>
+	<l id="1033">Et d'une belle ardeur ta jeunesse animée</l>
+	<l id="1034">Par cette grande épreuve atteint ma renommée.</l>
+	<l id="1035">Appui de ma vieillesse, et comble de mon heur,</l>
+	<l id="1036">Touche ces cheveux blancs à qui tu rends l'honneur,</l>
+	<l id="1037">Viens baiser cette joue, et reconnais la place</l>
+	<l id="1038">Où fut empreint l'affront que ton courage efface.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1039">L'honneur vous en est dû : je ne pouvais pas moins,</l>
+	<l id="1040">Étant sorti de vous et nourri par vos soins.</l>
+	<l id="1041">Je m'en tiens trop heureux, et mon âme est ravie</l>
+	<l id="1042">Que mon coup d'essai plaise à qui je dois la vie ;</l>
+	<l id="1043">Mais parmi vos plaisirs ne soyez point jaloux</l>
+	<l id="1044">Si je m'ose à mon tour satisfaire après vous.</l>
+	<l id="1045">Souffrez qu'en liberté mon désespoir éclate ;</l>
+	<l id="1046">Assez et trop longtemps votre discours le flatte.</l>
+	<l id="1047">Je ne me repens point de vous avoir servi ;</l>
+	<l id="1048">Mais rendez-moi le bien que ce coup m'a ravi.</l>
+	<l id="1049">Mon bras, pour vous venger, armé contre ma flamme,</l>
+	<l id="1050">Par ce coup glorieux m'a privé de mon âme ;</l>
+	<l id="1051">Ne me dites plus rien ; pour vous j'ai tout perdu :</l>
+	<l id="1052">Ce que je vous devais, je vous l'ai bien rendu.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1053">Porte, porte plus haut le fruit de ta victoire :</l>
+	<l id="1054">Je t'ai donné la vie, et tu me rends ma gloire ;</l>
+	<l id="1055">Et d'autant que l'honneur m'est plus cher que le jour,</l>
+	<l id="1056">D'autant plus maintenant je te dois de retour.</l>
+	<l id="1057">Mais d'un coeur magnanime éloigne ces faiblesses ;</l>
+	<l id="1058">Nous n'avons qu'un honneur, il est tant de maîtresses !</l>
+	<l id="1059">L'amour n'est qu'un plaisir, l'honneur est un devoir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1060" part="i">Ah ! Que me dites-vous ?</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1060" part="f">Ce que tu dois savoir.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1061">Mon honneur offensé sur moi-même se venge ;</l>
+	<l id="1062">Et vous m'osez pousser à la honte du change !</l>
+	<l id="1063">L'infamie est pareille, et suit également</l>
+	<l id="1064">Le guerrier sans courage et le perfide amant.</l>
+	<l id="1065">À ma fidélité ne faites point d'injure ;</l>
+	<l id="1066">Souffrez-moi généreux sans me rendre parjure :</l>
+	<l id="1067">Mes liens sont trop forts pour être ainsi rompus ;</l>
+	<l id="1068">Ma foi m'engage encor si je n'espère plus ;</l>
+	<l id="1069">Et ne pouvant quitter ni posséder Chimène,</l>
+	<l id="1070">Le trépas que je cherche est ma plus douce peine.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1071">Il n'est pas temps encor de chercher le trépas :</l>
+	<l id="1072">Ton prince et ton pays ont besoin de ton bras.</l>
+	<l id="1073">La flotte qu'on craignait, dans ce grand fleuve entrée,</l>
+	<l id="1074">Croit surprendre la ville et piller la contrée.</l>
+	<l id="1075">Les Mores vont descendre, et le flux et la nuit</l>
+	<l id="1076">Dans une heure à nos murs les amène sans bruit.</l>
+	<l id="1077">La cour est en désordre, et le peuple en alarmes :</l>
+	<l id="1078">On n'entend que des cris, on ne voit que des larmes.</l>
+	<l id="1079">Dans ce malheur public mon bonheur a permis</l>
+	<l id="1080">Que j'ai trouvé chez moi cinq cents de mes amis,</l>
+	<l id="1081">Qui sachant mon affront, poussés d'un même zèle,</l>
+	<l id="1082">Se venaient tous offrir à venger ma querelle.</l>
+	<l id="1083">Tu les as prévenus ; mais leurs vaillantes mains</l>
+	<l id="1084">Se tremperont bien mieux au sang des Africains.</l>
+	<l id="1085">Va marcher à leur tête où l'honneur te demande :</l>
+	<l id="1086">C'est toi que veut pour chef leur généreuse bande.</l>
+	<l id="1087">De ces vieux ennemis va soutenir l'abord :</l>
+	<l id="1088">Là, si tu veux mourir, trouve une belle mort ;</l>
+	<l id="1089">Prends-en l'occasion, puisqu'elle t'est offerte ;</l>
+	<l id="1090">Fais devoir à ton roi son salut à ta perte ;</l>
+	<l id="1091">Mais reviens-en plutôt les palmes sur le front.</l>
+	<l id="1092">Ne borne pas ta gloire à venger un affront ;</l>
+	<l id="1093">Porte-la plus avant : force par ta vaillance</l>
+	<l id="1094">Ce monarque au pardon, et Chimène au silence ;</l>
+	<l id="1095">Si tu l'aimes, apprends que revenir vainqueur,</l>
+	<l id="1096">C'est l'unique moyen de regagner son coeur.</l>
+	<l id="1097">Mais le temps est trop cher pour le perdre en paroles ;</l>
+	<l id="1098">Je t'arrête en discours, et je veux que tu voles.</l>
+	<l id="1099">Viens, suis-moi, va combattre, et montrer à ton roi</l>
+	<l id="1100">Que ce qu'il perd au comte il le recouvre en toi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Chimène, Elvire.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1101">N'est-ce point un faux bruit ? Le sais-tu bien, Elvire ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1102">Vous ne croiriez jamais comme chacun l'admire,</l>
+	<l id="1103">Et porte jusqu'au ciel, d'une commune voix,</l>
+	<l id="1104">De ce jeune héros les glorieux exploits.</l>
+	<l id="1105">Les Mores devant lui n'ont paru qu'à leur honte ;</l>
+	<l id="1106">Leur abord fut bien prompt, leur fuite encor plus prompte.</l>
+	<l id="1107">Trois heures de combat laissent à nos guerriers</l>
+	<l id="1108">Une victoire entière et deux rois prisonniers.</l>
+	<l id="1109">La valeur de leur chef ne trouvait point d'obstacles.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1110">Et la main de Rodrigue a fait tous ces miracles ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1111">De ses nobles efforts ces deux rois sont le prix :</l>
+	<l id="1112">Sa main les a vaincus, et sa main les a pris.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1113">De qui peux-tu savoir ces nouvelles étranges ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1114">Du peuple, qui partout fait sonner ses louanges,</l>
+	<l id="1115">Le nomme de sa joie et l'objet et l'auteur,</l>
+	<l id="1116">Son ange tutélaire, et son libérateur.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1117">Et le roi, de quel oeil voit-il tant de vaillance ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1118">Rodrigue n'ose encor paraître en sa présence ;</l>
+	<l id="1119">Mais Dom Diègue ravi lui présente enchaînés,</l>
+	<l id="1120">Au nom de ce vainqueur, ces captifs couronnés,</l>
+	<l id="1121">Et demande pour grâce à ce généreux prince</l>
+	<l id="1122">Qu'il daigne voir la main qui sauve la province.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1123" part="i">Mais n'est-il point blessé ?</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1123" part="f">Je n'en ai rien appris.</l>
+	<l id="1124">Vous changez de couleur ! Reprenez vos esprits.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1125">Reprenons donc aussi ma colère affaiblie :</l>
+	<l id="1126">Pour avoir soin de lui faut-il que je m'oublie ?</l>
+	<l id="1127">On le vante, on le loue, et mon coeur y consent !</l>
+	<l id="1128">Mon honneur est muet, mon devoir impuissant !</l>
+	<l id="1129">Silence, mon amour, laisse agir ma colère :</l>
+	<l id="1130">S'il a vaincu deux rois, il a tué mon père ;</l>
+	<l id="1131">Ces tristes vêtements, où je lis mon malheur,</l>
+	<l id="1132">Sont les premiers effets qu'ait produits sa valeur ;</l>
+	<l id="1133">Et quoi qu'on die ailleurs d'un coeur si magnanime,</l>
+	<l id="1134">Ici tous les objets me parlent de son crime.</l>
+	<l id="1135">Vous qui rendez la force à mes ressentiments,</l>
+	<l id="1136">Voiles, crêpes, habits, lugubres ornements,</l>
+<note type="L">Pompe : Somptuosité ; appareil superbe ; dépense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, et plus éclatante. [F]</note>
+	<l id="1137">Pompe que me prescrit sa première victoire,</l>
+	<l id="1138">Contre ma passion soutenez bien ma gloire ;</l>
+	<l id="1139">Et lorsque mon amour prendra trop de pouvoir,</l>
+	<l id="1140">Parlez à mon esprit de mon triste devoir,</l>
+	<l id="1141">Attaquez sans rien craindre une main triomphante.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1142">Modérez ces transports, voici venir l'infante.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. L'Infante, Chimène, Léonor, Elvire.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1143">Je ne viens pas ici consoler tes douleurs ;</l>
+	<l id="1144">Je viens plutôt mêler mes soupirs à tes pleurs.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1145">Prenez bien plutôt part à la commune joie,</l>
+	<l id="1146">Et goûtez le bonheur que le ciel vous envoie,</l>
+	<l id="1147">Madame : autre que moi n'a droit de soupirer.</l>
+	<l id="1148">Le péril dont Rodrigue a su nous retirer,</l>
+	<l id="1149">Et le salut public que vous rendent ses armes,</l>
+	<l id="1150">À moi seule aujourd'hui souffrent encor les larmes :</l>
+	<l id="1151">Il a sauvé la ville, il a servi son roi ;</l>
+	<l id="1152">Et son bras valeureux n'est funeste qu'à moi.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1153">Ma Chimène, il est vrai qu'il a fait des merveilles.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1154">Déjà ce bruit fâcheux a frappé mes oreilles ;</l>
+	<l id="1155">Et je l'entends partout publier hautement</l>
+	<l id="1156">Aussi brave guerrier que malheureux amant.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1157">Qu'a de fâcheux pour toi ce discours populaire ?</l>
+<note type="L">Mars : Sedit aussi d'un grand guerrier, d'un brave. [F]</note>
+	<l id="1158">Ce jeune Mars qu'il loue a su jadis te plaire :</l>
+	<l id="1159">Il possédait ton âme, il vivait sous tes lois ;</l>
+	<l id="1160">Et vanter sa valeur, c'est honorer ton choix.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1161">Chacun peut la vanter avec quelque justice ;</l>
+	<l id="1162">Mais pour moi sa louange est un nouveau supplice.</l>
+	<l id="1163">On aigrit ma douleur en l'élevant si haut :</l>
+	<l id="1164">Je vois ce que je perds quand je vois ce qu'il vaut.</l>
+	<l id="1165">Ah ! Cruels déplaisirs à l'esprit d'une amante !</l>
+<note type="L">Feu : On dit aussi d'un homme amoureux qu'il brûle d'n beau feu, qu'il nourrit un feu diiscret, un feu caché sous la cendre, un feu qui le dévore. [F]</note>
+	<l id="1166">Plus j'apprends son mérite, et plus mon feu s'augmente :</l>
+	<l id="1167">Cependant mon devoir est toujours le plus fort,</l>
+	<l id="1168">Et malgré mon amour, va poursuivre sa mort.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1169">Hier ce devoir te mit en une haute estime ;</l>
+	<l id="1170">L'effort que tu te fis parut si magnanime,</l>
+	<l id="1171">Si digne d'un grand coeur, que chacun à la Cour</l>
+	<l id="1172">Admirait ton courage et plaignait ton amour.</l>
+	<l id="1173">Mais croirais-tu l'avis d'une amitié fidèle ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1174">Ne vous obéir pas me rendrait criminelle.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1175">Ce qui fut juste alors ne l'est plus aujourd'hui.</l>
+	<l id="1176">Rodrigue maintenant est notre unique appui,</l>
+	<l id="1177">L'espérance et l'amour d'un peuple qui l'adore,</l>
+	<l id="1178">Le soutien de Castille, et la terreur du More.</l>
+	<l id="1179">Le roi même est d'accord de cette vérité,</l>
+	<l id="1180">Que ton père en lui seul se voit ressuscité ;</l>
+	<l id="1181">Et si tu veux enfin qu'en deux mots je m'explique,</l>
+	<l id="1182">Tu poursuis en sa mort la ruine publique.</l>
+	<l id="1183">Quoi ! Pour venger un père est-il jamais permis</l>
+	<l id="1184">De livrer sa patrie aux mains des ennemis ?</l>
+	<l id="1185">Contre nous ta poursuite est-elle légitime,</l>
+	<l id="1186">Et pour être punis avons-nous part au crime ?</l>
+	<l id="1187">Ce n'est pas qu'après tout tu doives épouser</l>
+	<l id="1188">Celui qu'un père mort t'obligeait d'accuser :</l>
+	<l id="1189">Je te voudrais moi-même en arracher l'envie ;</l>
+	<l id="1190">Ôte-lui ton amour, mais laisse-nous sa vie.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1191">Ah ! Ce n'est pas à moi d'avoir tant de bonté ;</l>
+	<l id="1192">Le devoir qui m'aigrit n'a rien de limité.</l>
+	<l id="1193">Quoique pour ce vainqueur mon amour s'intéresse,</l>
+	<l id="1194">Quoiqu'un peuple l'adore et qu'un roi le caresse,</l>
+	<l id="1195">Qu'il soit environné des plus vaillants guerriers,</l>
+<note type="L">Cyprès : Nom d'un arbre assez connu. Les poètes emploient figurément le mot cyprès, pour signifier la mort, le tombeau. [F]</note>
+<note type="L">Laurier : Arbre dont le tige est unie et sans noeud. Se dit figurément en morale, pour signifier la gloire d'un triomphe, d'une conquête. [F]</note>
+	<l id="1196">J'irai sous mes cyprès accabler ses lauriers.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1197">C'est générosité quand pour venger un père</l>
+	<l id="1198">Notre devoir attaque une tête si chère ;</l>
+	<l id="1199">Mais c'en est une encor d'un plus illustre rang,</l>
+	<l id="1200">Quand on donne au public les intérêts du sang.</l>
+	<l id="1201">Non, crois-moi, c'est assez que d'éteindre ta flamme ;</l>
+	<l id="1202">Il sera trop puni s'il n'est plus dans ton âme.</l>
+	<l id="1203">Que le bien du pays t'impose cette loi :</l>
+	<l id="1204">Aussi bien, que crois-tu que t'accorde le roi ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1205">Il peut me refuser, mais je ne puis me taire.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1206">Pense bien, ma Chimène, à ce que tu veux faire.</l>
+	<l id="1207">Adieu : tu pourras seule y penser à loisir.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1208">Après mon père mort, je n'ai point à choisir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Dom Fernand, Dom Diègue, Dom Arias, Dom Rodrigue, Dom Sanche.</head>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1209">Généreux héritier d'une illustre famille,</l>
+	<l id="1210">Qui fut toujours la gloire et l'appui de Castille,</l>
+	<l id="1211">Race de tant d'aïeux en valeur signalés,</l>
+	<l id="1212">Que l'essai de la tienne a sitôt égalés,</l>
+	<l id="1213">Pour te récompenser ma force est trop petite ;</l>
+	<l id="1214">Et j'ai moins de pouvoir que tu n'as de mérite.</l>
+	<l id="1215">Le pays délivré d'un si rude ennemi,</l>
+	<l id="1216">Mon sceptre dans ma main par la tienne affermi,</l>
+	<l id="1217">Et les Mores défaits avant qu'en ces alarmes</l>
+	<l id="1218">J'eusse pu donner ordre à repousser leurs armes,</l>
+	<l id="1219">Ne sont point des exploits qui laissent à ton roi</l>
+	<l id="1220">Le moyen ni l'espoir de s'acquitter vers toi.</l>
+	<l id="1221">Mais deux rois tes captifs feront ta récompense.</l>
+	<l id="1222">Ils t'ont nommé tous deux leur Cid en ma présence :</l>
+	<l id="1223">Puisque Cid en leur langue est autant que seigneur,</l>
+	<l id="1224">Je ne t'envierai pas ce beau titre d'honneur.</l>
+	<l id="1225">Sois désormais le Cid : qu'à ce grand nom tout cède ;</l>
+	<l id="1226">Qu'il comble d'épouvante et Grenade et Tolède,</l>
+	<l id="1227">Et qu'il marque à tous ceux qui vivent sous mes lois</l>
+	<l id="1228">Et ce que tu me vaux, et ce que je te dois.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1229">Que votre majesté, Sire, épargne ma honte.</l>
+	<l id="1230">D'un si faible service elle fait trop de conte,</l>
+	<l id="1231">Et me force à rougir devant un si grand roi</l>
+	<l id="1232">De mériter si peu l'honneur que j'en reçois.</l>
+	<l id="1233">Je sais trop que je dois au bien de votre empire,</l>
+	<l id="1234">Et le sang qui m'anime, et l'air que je respire ;</l>
+	<l id="1235">Et quand je les perdrai pour un si digne objet,</l>
+	<l id="1236">Je ferai seulement le devoir d'un sujet.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1237">Tous ceux que ce devoir à mon service engage</l>
+	<l id="1238">Ne s'en acquittent pas avec même courage ;</l>
+	<l id="1239">Et lorsque la valeur ne va point dans l'excès,</l>
+	<l id="1240">Elle ne produit point de si rares succès.</l>
+	<l id="1241">Souffre donc qu'on te loue, et de cette victoire</l>
+	<l id="1242">Apprends-moi plus au long la véritable histoire.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1243">Sire, vous avez su qu'en ce danger pressant,</l>
+	<l id="1244">Qui jeta dans la ville un effroi si puissant,</l>
+	<l id="1245">Une troupe d'amis chez mon père assemblée</l>
+	<l id="1246">Sollicita mon âme encor toute troublée...</l>
+	<l id="1247">Mais, Sire, pardonnez à ma témérité,</l>
+	<l id="1248">Si j'osai l'employer sans votre autorité :</l>
+	<l id="1249">Le péril approchait ; leur brigade était prête ;</l>
+	<l id="1250">Me montrant à la Cour, je hasardais ma tête ;</l>
+	<l id="1251">Et s'il fallait la perdre, il m'était bien plus doux</l>
+	<l id="1252">De sortir de la vie en combattant pour vous.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1253">J'excuse ta chaleur à venger ton offense ;</l>
+	<l id="1254">Et l'État défendu me parle en ta défense :</l>
+	<l id="1255">Crois que dorénavant Chimène a beau parler,</l>
+	<l id="1256">Je ne l'écoute plus que pour la consoler.</l>
+	<l id="1257" part="i">Mais poursuis.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1257" part="f">Sous moi donc cette troupe s'avance,</l>
+	<l id="1258">Et porte sur le front une mâle assurance.</l>
+	<l id="1259">Nous partîmes cinq cents ; mais par un prompt renfort</l>
+	<l id="1260">Nous nous vîmes trois mille en arrivant au port,</l>
+	<l id="1261">Tant, à nous voir marcher avec un tel visage,</l>
+	<l id="1262">Les plus épouvantés reprenaient de courage !</l>
+	<l id="1263">J'en cache les deux tiers, aussitôt qu'arrivés,</l>
+	<l id="1264">Dans le fond des vaisseaux qui lors furent trouvés ;</l>
+	<l id="1265">Le reste, dont le nombre augmentait à toute heure,</l>
+	<l id="1266">Brûlant d'impatience autour de moi demeure,</l>
+	<l id="1267">Se couche contre terre, et sans faire aucun bruit,</l>
+	<l id="1268">Passe une bonne part d'une si belle nuit.</l>
+	<l id="1269">Par mon commandement la garde en fait de même,</l>
+	<l id="1270">Et se tenant cachée, aide à mon stratagème ;</l>
+	<l id="1271">Et je feins hardiment d'avoir reçu de vous</l>
+	<l id="1272">L'ordre qu'on me voit suivre et que je donne à tous.</l>
+	<l id="1273">Cette obscure clarté qui tombe des étoiles</l>
+	<l id="1274">Enfin avec le flux nous fait voir trente voiles ;</l>
+	<l id="1275">L'onde s'enfle dessous, et d'un commun effort</l>
+	<l id="1276">Les Mores et la mer montent jusques au port.</l>
+	<l id="1277">On les laisse passer ; tout leur paraît tranquille ;</l>
+	<l id="1278">Point de soldats au port, point aux murs de la ville.</l>
+	<l id="1279">Notre profond silence abusant leurs esprits,</l>
+	<l id="1280">Ils n'osent plus douter de nous avoir surpris ;</l>
+	<l id="1281">Ils abordent sans peur, ils ancrent, ils descendent,</l>
+	<l id="1282">Et courent se livrer aux mains qui les attendent.</l>
+	<l id="1283">Nous nous levons alors, et tous en même temps</l>
+	<l id="1284">Poussons jusques au ciel mille cris éclatants.</l>
+	<l id="1285">Les nôtres, à ces cris, de nos vaisseaux répondent ;</l>
+	<l id="1286">Ils paraissent armés, les Mores se confondent,</l>
+	<l id="1287">L'épouvante les prend à demi descendus ;</l>
+	<l id="1288">Avant que de combattre, ils s'estiment perdus.</l>
+	<l id="1289">Ils couraient au pillage, et rencontrent la guerre ;</l>
+	<l id="1290">Nous les pressons sur l'eau, nous les pressons sur terre,</l>
+	<l id="1291">Et nous faisons courir des ruisseaux de leur sang,</l>
+	<l id="1292">Avant qu'aucun résiste ou reprenne son rang.</l>
+	<l id="1293">Mais bientôt, malgré nous, leurs princes les rallient ;</l>
+	<l id="1294">Leur courage renaît, et leurs terreurs s'oublient :</l>
+	<l id="1295">La honte de mourir sans avoir combattu</l>
+	<l id="1296">Arrête leur désordre, et leur rend leur vertu.</l>
+<note type="L">Alfange : sorte de cimmeterre, large sabre d'origine arabe.</note>
+	<l id="1297">Contre nous de pied ferme ils tirent leurs alfanges,</l>
+	<l id="1298">De notre sang au leur font d'horribles mélanges ;</l>
+	<l id="1299">Et la terre, et le fleuve, et leur flotte, et le port,</l>
+	<l id="1300">Sont des champs de carnage où triomphe la mort.</l>
+	<l id="1301">Ô combien d'actions, combien d'exploits célèbres</l>
+	<l id="1302">Sont demeurés sans gloire au milieu des ténèbres,</l>
+	<l id="1303">Où chacun, seul témoin des grands coups qu'il donnait,</l>
+	<l id="1304">Ne pouvait discerner où le sort inclinait !</l>
+	<l id="1305">J'allais de tous côtés encourager les nôtres,</l>
+	<l id="1306">Faire avancer les uns, et soutenir les autres,</l>
+	<l id="1307">Ranger ceux qui venaient, les pousser à leur tour,</l>
+	<l id="1308">Et ne l'ai pu savoir jusques au point du jour.</l>
+	<l id="1309">Mais enfin sa clarté montre notre avantage :</l>
+	<l id="1310">Le More voit sa perte, et perd soudain courage ;</l>
+	<l id="1311">Et voyant un renfort qui nous vient secourir,</l>
+	<l id="1312">L'ardeur de vaincre cède à la peur de mourir.</l>
+	<l id="1313">Ils gagnent leurs vaisseaux, ils en coupent les câbles,</l>
+	<l id="1314">Poussent jusques aux cieux des cris épouvantables,</l>
+	<l id="1315">Font retraite en tumulte, et sans considérer</l>
+	<l id="1316">Si leurs rois avec eux peuvent se retirer.</l>
+	<l id="1317">Pour souffrir ce devoir leur frayeur est trop forte :</l>
+	<l id="1318">Le flux les apporta ; le reflux les remporte,</l>
+	<l id="1319">Cependant que leurs rois, engagés parmi nous,</l>
+	<l id="1320">Et quelque peu des leurs, tous percés de nos coups,</l>
+	<l id="1321">Disputent vaillamment et vendent bien leur vie.</l>
+	<l id="1322">À se rendre moi-même en vain je les convie :</l>
+	<l id="1323">Le cimeterre au poing ils ne m'écoutent pas ;</l>
+	<l id="1324">Mais voyant à leurs pieds tomber tous leurs soldats,</l>
+	<l id="1325">Et que seuls désormais en vain ils se défendent,</l>
+	<l id="1326">Ils demandent le chef : je me nomme, ils se rendent.</l>
+	<l id="1327">Je vous les envoyai tous deux en même temps ;</l>
+	<l id="1328">Et le combat cessa faute de combattants.</l>
+	<l id="1329">C'est de cette façon que, pour votre service...</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Dom Fernand, Dom Diègue, Dom Rodrigue, Dom Arias, Dom Alonse, Dom Sanche.</head>
+<sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
+	<l id="1330">Sire, Chimène vient vous demander justice.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1331">La fâcheuse nouvelle, et l'importun devoir !</l>
+	<l id="1332">Va, je ne la veux pas obliger à te voir.</l>
+	<l id="1333">Pour tous remerciements il faut que je te chasse ;</l>
+	<l id="1334">Mais avant que sortir, viens, que ton roi t'embrasse.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1335">Chimène le poursuit, et voudrait le sauver.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1336">On m'a dit qu'elle l'aime, et je vais l'éprouver.</l>
+	<l id="1337" part="i">Montrez un oeil plus triste.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dom Fernand, Dom Diègue, Don Arias, Dom Sanche, Dom Alonse, Chimène, Elvire.</head>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1337" part="f">Enfin soyez contente,</l>
+	<l id="1338">Chimène, le succès répond à votre attente :</l>
+	<l id="1339">Si de nos ennemis Rodrigue a le dessus,</l>
+	<l id="1340">Il est mort à nos yeux des coups qu'il a reçus ;</l>
+	<l id="1341">Rendez grâces au ciel, qui vous en a vengée.</l>
+	<l id="1342">Voyez comme déjà sa couleur est changée.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1343">Mais voyez qu'elle pâme, et d'un amour parfait,</l>
+<note type="L">Pâmoison : état d'une personne pâmer ; défaillance. [F]</note>
+	<l id="1344">Dans cette pâmoison, Sire, admirez l'effet.</l>
+	<l id="1345">Sa douleur a trahi les secrets de son âme,</l>
+	<l id="1346">Et ne vous permet plus de douter de sa flamme.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1347" part="i">Quoi ! Rodrigue est donc mort ?</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1347" part="f">Non, non, il voit le jour,</l>
+	<l id="1348">Et te conserve encore un immuable amour :</l>
+	<l id="1349">Calme cette douleur qui pour lui s'intéresse.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1350">Sire, on pâme de joie, ainsi que de tristesse :</l>
+	<l id="1351">Un excès de plaisir nous rend tous languissants,</l>
+	<l id="1352">Et quand il surprend l'âme, il accable les sens.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1353">Tu veux qu'en ta faveur nous croyions l'impossible ?</l>
+	<l id="1354">Chimène, ta douleur a paru trop visible.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1355">Eh bien ! Sire, ajoutez ce comble à mon malheur,</l>
+	<l id="1356">Nommez ma pâmoison l'effet de ma douleur :</l>
+	<l id="1357">Un juste déplaisir à ce point m'a réduite.</l>
+	<l id="1358">Son trépas dérobait sa tête à ma poursuite ;</l>
+	<l id="1359">S'il meurt des coups reçus pour le bien du pays,</l>
+	<l id="1360">Ma vengeance est perdue et mes desseins trahis :</l>
+	<l id="1361">Une si belle fin m'est trop injurieuse.</l>
+	<l id="1362">Je demande sa mort, mais non pas glorieuse,</l>
+	<l id="1363">Non pas dans un éclat qui l'élève si haut,</l>
+	<l id="1364">Non pas au lit d'honneur, mais sur un échafaud ;</l>
+	<l id="1365">Qu'il meure pour mon père, et non pour la patrie ;</l>
+	<l id="1366">Que son nom soit taché, sa mémoire flétrie.</l>
+	<l id="1367">Mourir pour le pays n'est pas un triste sort ;</l>
+	<l id="1368">C'est s'immortaliser par une belle mort.</l>
+	<l id="1369">J'aime donc sa victoire, et je le puis sans crime ;</l>
+	<l id="1370">Elle assure l'État, et me rend ma victime,</l>
+	<l id="1371">Mais noble, mais fameuse entre tous les guerriers,</l>
+	<l id="1372">Le chef, au lieu de fleurs, couronné de lauriers ;</l>
+	<l id="1373">Et pour dire en un mot ce que j'en considère,</l>
+	<l id="1374">Digne d'être immolée aux mânes de mon père...</l>
+	<l id="1375">Hélas ! À quel espoir me laissé-je emporter !</l>
+	<l id="1376">Rodrigue de ma part n'a rien à redouter :</l>
+	<l id="1377">Que pourraient contre lui des larmes qu'on méprise ?</l>
+	<l id="1378">Pour lui tout votre empire est un lieu de franchise ;</l>
+	<l id="1379">Là, sous votre pouvoir, tout lui devient permis ;</l>
+	<l id="1380">Il triomphe de moi comme des ennemis.</l>
+	<l id="1381">Dans leur sang répandu la justice étouffée</l>
+	<l id="1382">Aux crimes du vainqueur sert d'un nouveau trophée :</l>
+	<l id="1383">Nous en croissons la pompe, et le mépris des lois</l>
+	<l id="1384">Nous fait suivre son char au milieu de deux rois.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1385">Ma fille, ces transports ont trop de violence.</l>
+	<l id="1386">Quand on rend la justice, on met tout en balance :</l>
+	<l id="1387">On a tué ton père, il était l'agresseur ;</l>
+	<l id="1388">Et la même équité m'ordonne la douceur.</l>
+	<l id="1389">Avant que d'accuser ce que j'en fais paraître,</l>
+	<l id="1390">Consulte bien ton coeur : Rodrigue en est le maître,</l>
+	<l id="1391">Et ta flamme en secret rend grâces à ton roi,</l>
+	<l id="1392">Dont la faveur conserve un tel amant pour toi.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1393">Pour moi ! Mon ennemi ! L'objet de ma colère !</l>
+	<l id="1394">L'auteur de mes malheurs ! L'assassin de mon père !</l>
+	<l id="1395">De ma juste poursuite on fait si peu de cas</l>
+	<l id="1396">Qu'on me croit obliger en ne m'écoutant pas !</l>
+	<l id="1397">Puisque vous refusez la justice à mes larmes,</l>
+	<l id="1398">Sire, permettez-moi de recourir aux armes ;</l>
+	<l id="1399">C'est par là seulement qu'il a su m'outrager,</l>
+	<l id="1400">Et c'est aussi par là que je me dois venger.</l>
+	<l id="1401">À tous vos cavaliers je demande sa tête :</l>
+	<l id="1402">Oui, qu'un d'eux me l'apporte, et je suis sa conquête ;</l>
+	<l id="1403">Qu'ils le combattent, sire ; et le combat fini,</l>
+	<l id="1404">J'épouse le vainqueur, si Rodrigue est puni.</l>
+	<l id="1405">Sous votre autorité souffrez qu'on le publie.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1406">Cette vieille coutume en ces lieux établie,</l>
+	<l id="1407">Sous couleur de punir un injuste attentat,</l>
+	<l id="1408">Des meilleurs combattants affaiblit un État ;</l>
+	<l id="1409">Souvent de cet abus le succès déplorable</l>
+	<l id="1410">Opprime l'innocent, et soutient le coupable.</l>
+	<l id="1411">J'en dispense Rodrigue : il m'est trop précieux</l>
+	<l id="1412">Pour l'exposer aux coups d'un sort capricieux ;</l>
+	<l id="1413">Et quoi qu'ait pu commettre un coeur si magnanime,</l>
+	<l id="1414">Les Mores en fuyant ont emporté son crime.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1415">Quoi ! Sire, pour lui seul vous renversez des lois</l>
+	<l id="1416">Qu'a vu toute la Cour observer tant de fois !</l>
+	<l id="1417">Que croira votre peuple, et que dira l'envie,</l>
+	<l id="1418">Si sous votre défense il ménage sa vie,</l>
+	<l id="1419">Et s'en fait un prétexte à ne paraître pas</l>
+	<l id="1420">Où tous les gens d'honneur cherchent un beau trépas ?</l>
+	<l id="1421">De pareilles faveurs terniraient trop sa gloire :</l>
+	<l id="1422">Qu'il goûte sans rougir les fruits de sa victoire.</l>
+	<l id="1423">Le Comte eut de l'audace ; il l'en a su punir :</l>
+	<l id="1424">Il l'a fait en brave homme, et le doit maintenir.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1425">Puisque vous le voulez, j'accorde qu'il le fasse ;</l>
+	<l id="1426">Mais d'un guerrier vaincu mille prendraient la place,</l>
+	<l id="1427">Et le prix que Chimène au vainqueur a promis</l>
+	<l id="1428">De tous mes cavaliers ferait ses ennemis.</l>
+	<l id="1429">L'opposer seul à tous serait trop d'injustice :</l>
+	<l id="1430">Il suffit qu'une fois il entre dans la lice.</l>
+	<l id="1431">Choisis qui tu voudras, Chimène, et choisis bien ;</l>
+	<l id="1432">Mais après ce combat ne demande plus rien.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1433">N'excusez point par là ceux que son bras étonne :</l>
+	<l id="1434">Laissez un champ ouvert, où n'entrera personne.</l>
+	<l id="1435">Après ce que Rodrigue a fait voir aujourd'hui,</l>
+	<l id="1436">Quel courage assez vain s'oserait prendre à lui ?</l>
+	<l id="1437">Qui se hasarderait contre un tel adversaire ?</l>
+	<l id="1438">Qui serait ce vaillant, ou bien ce téméraire ?</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="1439">Faites ouvrir le champ : vous voyez l'assaillant ;</l>
+	<l id="1440">Je suis ce téméraire, ou plutôt ce vaillant.</l>
+	<l id="1441">Accordez cette grâce à l'ardeur qui me presse,</l>
+	<l id="1442">Madame : vous savez quelle est votre promesse.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1443">Chimène, remets-tu ta querelle en sa main ?</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1444" part="i">Sire, je l'ai promis.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1444" part="f">Soyez prêt à demain.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1445">Non, sire, il ne faut pas différer davantage :</l>
+	<l id="1446">On est toujours trop prêt quand on a du courage.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1447">Sortir d'une bataille, et combattre à l'instant !</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1448">Rodrigue a pris haleine en vous la racontant.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1449">Du moins une heure ou deux je veux qu'il se délasse.</l>
+	<l id="1450">Mais de peur qu'en exemple un tel combat ne passe,</l>
+	<l id="1451">Pour témoigner à tous qu'à regret je permets</l>
+	<l id="1452">Un sanglant procédé qui ne me plut jamais,</l>
+	<l id="1453">De moi ni de ma cour il n'aura la présence.</l>
+	<l id="1454">Vous seul des combattants jugerez la vaillance :</l>
+	<l id="1455">Ayez soin que tous deux fassent en gens de coeur,</l>
+	<l id="1456">Et le combat fini, m'amenez le vainqueur.</l>
+	<l id="1457">Qui qu'il soit, même prix est acquis à sa peine :</l>
+	<l id="1458">Je le veux de ma main présenter à Chimène,</l>
+	<l id="1459">Et que pour récompense il reçoive sa foi.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1460">Quoi ! Sire, m'imposer une si dure loi !</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1461">Tu t'en plains ; mais ton feu, loin d'avouer ta plainte,</l>
+	<l id="1462">Si Rodrigue est vainqueur, l'accepte sans contrainte.</l>
+	<l id="1463">Cesse de murmurer contre un arrêt si doux :</l>
+	<l id="1464">Qui que ce soit des deux, j'en ferai ton époux.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dom Rodrigue, Chimène.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1465">Quoi ! Rodrigue, en plein jour ! D'où te vient cette audace ?</l>
+	<l id="1466">Va, tu me perds d'honneur ; retire-toi, de grâce.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1467">Je vais mourir, Madame, et vous viens en ce lieu,</l>
+	<l id="1468">Avant le coup mortel, dire un dernier adieu :</l>
+	<l id="1469">Cet immuable amour qui sous vos lois m'engage</l>
+	<l id="1470">N'ose accepter ma mort sans vous en faire hommage.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1471" part="i">Tu vas mourir !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1471" part="f">Je cours à ces heureux moments</l>
+	<l id="1472">Qui vont livrer ma vie à vos ressentiments.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1473">Tu vas mourir ! Dom Sanche est-il si redoutable</l>
+	<l id="1474">Qu'il donne l'épouvante à ce coeur indomptable ?</l>
+	<l id="1475">Qui t'a rendu si faible, ou qui le rend si fort ?</l>
+	<l id="1476">Rodrigue va combattre, et se croit déjà mort !</l>
+	<l id="1477">Celui qui n'a pas craint les Mores, ni mon père,</l>
+	<l id="1478">Va combattre Dom Sanche, et déjà désespère !</l>
+	<l id="1479">Ainsi donc au besoin ton courage s'abat !</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1480">Je cours à mon supplice, et non pas au combat ;</l>
+	<l id="1481">Et ma fidèle ardeur sait bien m'ôter l'envie,</l>
+	<l id="1482">Quand vous cherchez ma mort, de défendre ma vie.</l>
+	<l id="1483">J'ai toujours même coeur ; mais je n'ai point de bras</l>
+	<l id="1484">Quand il faut conserver ce qui ne vous plaît pas ;</l>
+	<l id="1485">Et déjà cette nuit m'aurait été mortelle,</l>
+	<l id="1486">Si j'eusse combattu pour ma seule querelle ;</l>
+	<l id="1487">Mais défendant mon roi, son peuple et mon pays,</l>
+	<l id="1488">À me défendre mal je les aurais trahis.</l>
+	<l id="1489">Mon esprit généreux ne hait pas tant la vie,</l>
+	<l id="1490">Qu'il en veuille sortir par une perfidie.</l>
+	<l id="1491">Maintenant qu'il s'agit de mon seul intérêt,</l>
+	<l id="1492">Vous demandez ma mort, j'en accepte l'arrêt.</l>
+	<l id="1493">Votre ressentiment choisit la main d'un autre</l>
+	<l id="1494">(Je ne méritais pas de mourir de la vôtre) :</l>
+	<l id="1495">On ne me verra point en repousser les coups ;</l>
+	<l id="1496">Je dois plus de respect à qui combat pour vous ;</l>
+	<l id="1497">Et ravi de penser que c'est de vous qu'ils viennent,</l>
+	<l id="1498">Puisque c'est votre honneur que ses armes soutiennent,</l>
+	<l id="1499">Je vais lui présenter mon estomac ouvert,</l>
+	<l id="1500">Adorant en sa main la vôtre qui me perd.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1501">Si d'un triste devoir la juste violence,</l>
+	<l id="1502">Qui me fait malgré moi poursuivre ta vaillance,</l>
+	<l id="1503">Prescrit à ton amour une si forte loi</l>
+	<l id="1504">Qu'il te rend sans défense à qui combat pour moi,</l>
+	<l id="1505">En cet aveuglement ne perds pas la mémoire</l>
+	<l id="1506">Qu'ainsi que de ta vie il y va de ta gloire,</l>
+	<l id="1507">Et que dans quelque éclat que Rodrigue ait vécu,</l>
+	<l id="1508">Quand on le saura mort, on le croira vaincu.</l>
+	<l id="1509">Ton honneur t'est plus cher que je ne te suis chère,</l>
+	<l id="1510">Puisqu'il trempe tes mains dans le sang de mon père,</l>
+	<l id="1511">Et te fait renoncer, malgré ta passion,</l>
+	<l id="1512">À l'espoir le plus doux de ma possession :</l>
+	<l id="1513">Je t'en vois cependant faire si peu de conte,</l>
+	<l id="1514">Que sans rendre combat tu veux qu'on te surmonte.</l>
+	<l id="1515">Quelle inégalité ravale ta vertu ?</l>
+	<l id="1516">Pourquoi ne l'as-tu plus, ou pourquoi l'avais-tu ?</l>
+	<l id="1517">Quoi ? N'es-tu généreux que pour me faire outrage ?</l>
+	<l id="1518">S'il ne faut m'offenser, n'as-tu point de courage ?</l>
+	<l id="1519">Et traites-tu mon père avec tant de rigueur,</l>
+	<l id="1520">Qu'après l'avoir vaincu tu souffres un vainqueur ?</l>
+	<l id="1521">Va, sans vouloir mourir, laisse-moi te poursuivre,</l>
+	<l id="1522">Et défends ton honneur, si tu ne veux plus vivre.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1523">Après la mort du Comte, et les Mores défaits,</l>
+	<l id="1524">Faudrait-il à ma gloire encor d'autres effets ?</l>
+	<l id="1525">Elle peut dédaigner le soin de me défendre :</l>
+	<l id="1526">On sait que mon courage ose tout entreprendre,</l>
+	<l id="1527">Que ma valeur peut tout, et que dessous les cieux,</l>
+	<l id="1528">Auprès de mon honneur, rien ne m'est précieux.</l>
+	<l id="1529">Non, non, en ce combat, quoi que vous veuilliez croire,</l>
+	<l id="1530">Rodrigue peut mourir sans hasarder sa gloire,</l>
+	<l id="1531">Sans qu'on l'ose accuser d'avoir manqué de coeur,</l>
+	<l id="1532">Sans passer pour vaincu, sans souffrir un vainqueur.</l>
+	<l id="1533">On dira seulement : « il adorait Chimène ;</l>
+	<l id="1534">Il n'a pas voulu vivre et mériter sa haine ;</l>
+	<l id="1535">Il a cédé lui-même à la rigueur du sort</l>
+	<l id="1536">Qui forçait sa maîtresse à poursuivre sa mort :</l>
+	<l id="1537">Elle voulait sa tête ; et son coeur magnanime,</l>
+	<l id="1538">S'il l'en eût refusée, eût pensé faire un crime.</l>
+	<l id="1539">Pour venger son honneur il perdit son amour,</l>
+	<l id="1540">Pour venger sa maîtresse il a quitté le jour,</l>
+	<l id="1541">Préférant, quelque espoir qu'eût son âme asservie,</l>
+	<l id="1542">Son honneur à Chimène, et Chimène à sa vie. »</l>
+	<l id="1543">Ainsi donc vous verrez ma mort en ce combat,</l>
+	<l id="1544">Loin d'obscurcir ma gloire, en rehausser l'éclat ;</l>
+	<l id="1545">Et cet honneur suivra mon trépas volontaire,</l>
+	<l id="1546">Que tout autre que moi n'eût pu vous satisfaire.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1547">Puisque, pour t'empêcher de courir au trépas,</l>
+	<l id="1548">Ta vie et ton honneur sont de faibles appas,</l>
+	<l id="1549">Si jamais je t'aimai, cher Rodrigue, en revanche,</l>
+	<l id="1550">Défends-toi maintenant pour m'ôter à Dom Sanche ;</l>
+	<l id="1551">Combats pour m'affranchir d'une condition</l>
+	<l id="1552">Qui me donne à l'objet de mon aversion.</l>
+	<l id="1553">Te dirai-je encor plus ? Va, songe à ta défense,</l>
+	<l id="1554">Pour forcer mon devoir, pour m'imposer silence ;</l>
+	<l id="1555">Et si tu sens pour moi ton coeur encore épris,</l>
+	<l id="1556">Sors vainqueur d'un combat dont Chimène est le prix.</l>
+	<l id="1557">Adieu : ce mot lâché me fait rougir de honte.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1558">Est-il quelque ennemi qu'à présent je ne dompte ?</l>
+	<l id="1559">Paraissez, Navarrais, Mores et Castillans,</l>
+	<l id="1560">Et tout ce que l'Espagne a nourri de vaillants ;</l>
+	<l id="1561">Unissez-vous ensemble, et faites une armée,</l>
+	<l id="1562">Pour combattre une main de la sorte animée :</l>
+	<l id="1563">Joignez tous vos efforts contre un espoir si doux ;</l>
+	<l id="1564">Pour en venir à bout, c'est trop peu que de vous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+<poem type='stances'>
+	<lg type='stanza' id="1">
+		<l id="1565">T'écouterai-je encor, respect de ma <rhyme label='A'>naissance</rhyme>,</l>
+		<l id="1566">Qui fais un crime de mes <rhyme label='B'>feux</rhyme> ?</l>
+		<l id="1567">T'écouterai-je, amour, dont la douce <rhyme label='A'>puissance</rhyme></l>
+		<l id="1568">Contre ce fier tyran fait révolter mes <rhyme label='B'>voeux</rhyme> ?</l>
+		<l id="1569">Pauvre princesse, auquel des <rhyme label='A'>deux</rhyme></l>
+		<l id="1570">Dois-tu prêter <rhyme label='A'>obéissance</rhyme>?</l>
+		<l id="1571">Rodrigue, ta valeur te rend digne de <rhyme label='C'>moi</rhyme> ;</l>
+		<l id="1572">Mais pour être vaillant, tu n'es pas fils de <rhyme label='C'>roi</rhyme>.</l>
+	</lg>
+	<lg type='stanza' n='2'>
+		<l id="1573">Impitoyable sort, dont la rigueur <rhyme label='A'>sépare</rhyme></l>
+		<l id="1574">Ma gloire d'avec mes <rhyme label='B'>désirs</rhyme> !</l>
+		<l id="1575">Est-il dit que le choix d'une vertu si <rhyme label='A'>rare</rhyme></l>
+		<l id="1576">Coûte à ma passion de si grands <rhyme label='B'>déplaisirs</rhyme> ?</l>
+		<l id="1577">Ô cieux ! À combien de <rhyme label='A'>soupirs</rhyme></l>
+		<l id="1578">Faut-il que mon coeur se <rhyme label='B'>prépare</rhyme>,</l>
+		<l id="1579">Si jamais il n'obtient sur un si long <rhyme label='C'>tourment</rhyme></l>
+		<l id="1580">Ni d'éteindre l'amour, ni d'accepter l'<rhyme label='C'>amant</rhyme> !</l>
+	</lg>
+	<lg type='stanza' n='3'>
+		<l id="1581">Mais c'est trop de scrupule, et ma raison s'<rhyme label='A'>étonne</rhyme></l>
+		<l id="1582">Du mépris d'un si digne <rhyme label='B'>choix</rhyme> :</l>
+		<l id="1583">Bien qu'aux monarques seuls ma naissance me <rhyme label='A'>donne</rhyme>,</l>
+		<l id="1584">Rodrigue, avec honneur je vivrai sous tes <rhyme label='B'>lois</rhyme>.</l>
+		<l id="1585">Après avoir vaincu deux <rhyme label='B'>rois</rhyme>,</l>
+		<l id="1586">Pourrais-tu manquer de <rhyme label='A'>couronne</rhyme> ?</l>
+		<l id="1587">Et ce grand nom de Cid que tu viens de <rhyme label='C'>gagner</rhyme></l>
+		<l id="1588">Ne fait-il pas trop voir sur qui tu dois <rhyme label='C'>régner</rhyme> ?</l>
+	</lg>
+	<lg type='stanza' n='4'>
+		<l id="1589">Il est digne de moi, mais il est à <rhyme label='A'>Chimène</rhyme> ;</l>
+		<l id="1590">Le don que j'en ai fait me <rhyme label='B'>nuit</rhyme>.</l>
+		<l id="1591">Entre eux la mort d'un père a si peu mis de <rhyme label='A'>haine</rhyme>,</l>
+		<l id="1592">Que le devoir du sang à regret le <rhyme label='B'>poursuit</rhyme> :</l>
+		<l id="1593">Ainsi n'espérons aucun <rhyme label='B'>fruit</rhyme></l>
+		<l id="1594">De son crime, ni de ma <rhyme label='A'>peine</rhyme>,</l>
+		<l id="1595">Puisque pour me punir le destin a <rhyme label='C'>permis</rhyme></l>
+		<l id="1596">Que l'amour dure même entre deux <rhyme label='C'>ennemis</rhyme>.</l>
+	</lg>
+</poem>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. L'Infante, Léonor.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1597" part="i">Où viens-tu, Léonor ?</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="1597" part="f">Vous applaudir, Madame,</l>
+	<l id="1598">Sur le repos qu'enfin a retrouvé votre âme.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1599">D'où viendrait ce repos dans un comble d'ennui ?</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="1600">Si l'amour vit d'espoir, et s'il meurt avec lui,</l>
+	<l id="1601">Rodrigue ne peut plus charmer votre courage.</l>
+	<l id="1602">Vous savez le combat où Chimène l'engage :</l>
+	<l id="1603">Puisqu'il faut qu'il y meure, ou qu'il soit son mari,</l>
+	<l id="1604">Votre espérance est morte, et votre esprit guéri.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1605" part="i">Ah ! Qu'il s'en faut encor !</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="1605" part="f">Que pouvez-vous prétendre ?</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1606">Mais plutôt quel espoir me pourrais-tu défendre ?</l>
+	<l id="1607">Si Rodrigue combat sous ces conditions,</l>
+	<l id="1608">Pour en rompre l'effet, j'ai trop d'inventions.</l>
+	<l id="1609">L'amour, ce doux auteur de mes cruels supplices,</l>
+	<l id="1610">Aux esprits des amants apprend trop d'artifices.</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="1611">Pourrez-vous quelque chose, après qu'un père mort</l>
+	<l id="1612">N'a pu dans leurs esprits allumer de discord ?</l>
+	<l id="1613">Car Chimène aisément montre par sa conduite</l>
+	<l id="1614">Que la haine aujourd'hui ne fait pas sa poursuite.</l>
+	<l id="1615">Elle obtient un combat, et pour son combattant</l>
+	<l id="1616">C'est le premier offert qu'elle accepte à l'instant :</l>
+	<l id="1617">Elle n'a point recours à ces mains généreuses</l>
+	<l id="1618">Que tant d'exploits fameux rendent si glorieuses ;</l>
+	<l id="1619">Dom Sanche lui suffit, et mérite son choix,</l>
+	<l id="1620">Parce qu'il va s'armer pour la première fois.</l>
+	<l id="1621">Elle aime en ce duel son peu d'expérience ;</l>
+	<l id="1622">Comme il est sans renom, elle est sans défiance ;</l>
+	<l id="1623">Et sa facilité vous doit bien faire voir</l>
+	<l id="1624">Qu'elle cherche un combat qui force son devoir,</l>
+	<l id="1625">Qui livre à son Rodrigue une victoire aisée,</l>
+	<l id="1626">Et l'autorise enfin à paraître apaisée.</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1627">Je le remarque assez, et toutefois mon coeur</l>
+	<l id="1628">À l'envi de Chimène adore ce vainqueur.</l>
+	<l id="1629">À quoi me résoudrai-je, amante infortunée ?</l>
+</sp>
+<sp who="LÉONOR"><speaker>LÉONOR.</speaker>
+	<l id="1630">À vous mieux souvenir de qui vous êtes née :</l>
+	<l id="1631">Le ciel vous doit un roi, vous aimez un sujet !</l>
+</sp>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1632">Mon inclination a bien changé d'objet.</l>
+	<l id="1633">Je n'aime plus Rodrigue, un simple gentilhomme ;</l>
+	<l id="1634">Non, ce n'est plus ainsi que mon amour le nomme :</l>
+	<l id="1635">Si j'aime, c'est l'auteur de tant de beaux exploits,</l>
+	<l id="1636">C'est le valeureux Cid, le maître de deux rois.</l>
+	<l id="1637">Je me vaincrai pourtant, non de peur d'aucun blâme,</l>
+	<l id="1638">Mais pour ne troubler pas une si belle flamme ;</l>
+	<l id="1639">Et quand pour m'obliger on l'aurait couronné,</l>
+	<l id="1640">Je ne veux point reprendre un bien que j'ai donné.</l>
+	<l id="1641">Puisqu'en un tel combat sa victoire est certaine,</l>
+	<l id="1642">Allons encore un coup le donner à Chimène.</l>
+	<l id="1643">Et toi, qui vois les traits dont mon coeur est percé,</l>
+	<l id="1644">Viens me voir achever comme j'ai commencé.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Chimène, Elvire.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1645">Elvire, que je souffre, et que je suis à plaindre !</l>
+	<l id="1646">Je ne sais qu'espérer, et je vois tout à craindre ;</l>
+	<l id="1647">Aucun voeu ne m'échappe où j'ose consentir ;</l>
+	<l id="1648">Je ne souhaite rien sans un prompt repentir.</l>
+	<l id="1649">À deux rivaux pour moi je fais prendre les armes :</l>
+	<l id="1650">Le plus heureux succès me coûtera des larmes ;</l>
+	<l id="1651">Et quoi qu'en ma faveur en ordonne le sort,</l>
+	<l id="1652">Mon père est sans vengeance, ou mon amant est mort.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1653">D'un et d'autre côté je vous vois soulagée :</l>
+	<l id="1654">Ou vous avez Rodrigue, ou vous êtes vengée ;</l>
+	<l id="1655">Et quoi que le destin puisse ordonner de vous,</l>
+	<l id="1656">Il soutient votre gloire, et vous donne un époux.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1657">Quoi ! L'objet de ma haine ou de tant de colère !</l>
+	<l id="1658">L'assassin de Rodrigue ou celui de mon père !</l>
+	<l id="1659">De tous les deux côtés on me donne un mari</l>
+	<l id="1660">Encor tout teint du sang que j'ai le plus chéri ;</l>
+	<l id="1661">De tous les deux côtés mon âme se rebelle :</l>
+	<l id="1662">Je crains plus que la mort la fin de ma querelle.</l>
+	<l id="1663">Allez, vengeance, amour, qui troublez mes esprits,</l>
+	<l id="1664">Vous n'avez point pour moi de douceurs à ce prix ;</l>
+	<l id="1665">Et toi, puissant moteur du destin qui m'outrage,</l>
+	<l id="1666">Termine ce combat sans aucun avantage,</l>
+	<l id="1667">Sans faire aucun des deux ni vaincu ni vainqueur.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1668">Ce serait vous traiter avec trop de rigueur.</l>
+	<l id="1669">Ce combat pour votre âme est un nouveau supplice,</l>
+	<l id="1670">S'il vous laisse obligée à demander justice,</l>
+	<l id="1671">À témoigner toujours ce haut ressentiment,</l>
+	<l id="1672">Et poursuivre toujours la mort de votre amant.</l>
+	<l id="1673">Madame, il vaut bien mieux que sa rare vaillance,</l>
+	<l id="1674">Lui couronnant le front, vous impose silence ;</l>
+	<l id="1675">Que la loi du combat étouffe vos soupirs,</l>
+	<l id="1676">Et que le roi vous force à suivre vos désirs.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1677">Quand il sera vainqueur, crois-tu que je me rende ?</l>
+	<l id="1678">Mon devoir est trop fort, et ma perte trop grande ;</l>
+	<l id="1679">Et ce n'est pas assez, pour leur faire la loi,</l>
+	<l id="1680">Que celle du combat et le vouloir du roi.</l>
+	<l id="1681">Il peut vaincre Dom Sanche avec fort peu de peine,</l>
+	<l id="1682">Mais non pas avec lui la gloire de Chimène ;</l>
+	<l id="1683">Et quoi qu'à sa victoire un monarque ait promis,</l>
+	<l id="1684">Mon honneur lui fera mille autres ennemis.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1685">Gardez, pour vous punir de cet orgueil étrange,</l>
+	<l id="1686">Que le ciel à la fin ne souffre qu'on vous venge.</l>
+	<l id="1687">Quoi ! Vous voulez encor refuser le bonheur</l>
+	<l id="1688">De pouvoir maintenant vous taire avec honneur ?</l>
+	<l id="1689">Que prétend ce devoir, et qu'est-ce qu'il espère ?</l>
+	<l id="1690">La mort de votre amant vous rendra-t-elle un père ?</l>
+	<l id="1691">Est-ce trop peu pour vous que d'un coup de malheur ?</l>
+	<l id="1692">Faut-il perte sur perte, et douleur sur douleur ?</l>
+	<l id="1693">Allez, dans le caprice où votre humeur s'obstine,</l>
+	<l id="1694">Vous ne méritez pas l'amant qu'on vous destine ;</l>
+	<l id="1695">Et nous verrons du ciel l'équitable courroux</l>
+	<l id="1696">Vous laisser, par sa mort, Dom Sanche pour époux.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1697">Elvire, c'est assez des peines que j'endure,</l>
+	<l id="1698">Ne les redouble point de ce funeste augure.</l>
+	<l id="1699">Je veux, si je le puis, les éviter tous deux ;</l>
+	<l id="1700">Sinon, en ce combat Rodrigue a tous mes voeux :</l>
+	<l id="1701">Non qu'une folle ardeur de son côté me penche ;</l>
+	<l id="1702">Mais s'il était vaincu, je serais à Dom Sanche :</l>
+	<l id="1703">Cette appréhension fait naître mon souhait.</l>
+	<l id="1704">Que vois-je, malheureuse ? Elvire, c'en est fait.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Dom Sanche, Chimène, Elvire.</head>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="1705">Obligé d'apporter à vos pieds cette épée...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1706">Quoi ? Du sang de Rodrigue encor toute trempée ?</l>
+	<l id="1707">Perfide, oses-tu bien te montrer à mes yeux,</l>
+	<l id="1708">Après m'avoir ôté ce que j'aimais le mieux ?</l>
+	<l id="1709">Éclate, mon amour, tu n'as plus rien à craindre :</l>
+	<l id="1710">Mon père est satisfait, cesse de te contraindre.</l>
+	<l id="1711">Un même coup a mis ma gloire en sûreté,</l>
+	<l id="1712">Mon âme au désespoir, ma flamme en liberté.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="1713" part="i">D'un esprit plus rassis...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1713" part="f">Tu me parles encore,</l>
+	<l id="1714">Exécrable assassin d'un héros que j'adore ?</l>
+	<l id="1715">Va, tu l'as pris en traître ; un guerrier si vaillant</l>
+	<l id="1716">N'eût jamais succombé sous un tel assaillant.</l>
+	<l id="1717">N'espère rien de moi, tu ne m'as point servie :</l>
+	<l id="1718">En croyant me venger, tu m'as ôté la vie.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="1719">Étrange impression, qui loin de m'écouter...</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1720">Veux-tu que de sa mort je t'écoute vanter,</l>
+	<l id="1721">Que j'entende à loisir avec quelle insolence</l>
+	<l id="1722">Tu peindras son malheur, mon crime et ta vaillance ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Dom Fernand, Dom Diègue, Don Arias, Dom Sanche, Dom Alonse, Chimène, Elvire.</head>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1723">Sire, il n'est plus besoin de vous dissimuler</l>
+	<l id="1724">Ce que tous mes efforts ne vous ont pu celer.</l>
+	<l id="1725">J'aimais, vous l'avez su ; mais pour venger mon père,</l>
+	<l id="1726">J'ai bien voulu proscrire une tête si chère :</l>
+	<l id="1727">Votre majesté, Sire, elle-même a pu voir</l>
+	<l id="1728">Comme j'ai fait céder mon amour au devoir.</l>
+	<l id="1729">Enfin Rodrigue est mort, et sa mort m'a changée</l>
+	<l id="1730">D'implacable ennemie en amante affligée.</l>
+	<l id="1731">J'ai dû cette vengeance à qui m'a mise au jour,</l>
+	<l id="1732">Et je dois maintenant ces pleurs à mon amour.</l>
+	<l id="1733">Dom Sanche m'a perdue en prenant ma défense,</l>
+	<l id="1734">Et du bras qui me perd je suis la récompense !</l>
+	<l id="1735">Sire, si la pitié peut émouvoir un roi,</l>
+	<l id="1736">De grâce, révoquez une si dure loi ;</l>
+	<l id="1737">Pour prix d'une victoire où je perds ce que j'aime,</l>
+	<l id="1738">Je lui laisse mon bien ; qu'il me laisse à moi-même ;</l>
+	<l id="1739">Qu'en un cloître sacré je pleure incessamment,</l>
+	<l id="1740">Jusqu'au dernier soupir, mon père et mon amant.</l>
+</sp>
+<sp who="DOM DIEGUE"><speaker>DOM DIÈGUE.</speaker>
+	<l id="1741">Enfin elle aime, Sire, et ne croit plus un crime</l>
+	<l id="1742">D'avouer par sa bouche un amour légitime.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1743">Chimène, sors d'erreur, ton amant n'est pas mort,</l>
+	<l id="1744">Et Dom Sanche vaincu t'a fait un faux rapport.</l>
+</sp>
+<sp who="DOM SANCHE"><speaker>DOM SANCHE.</speaker>
+	<l id="1745">Sire, un peu trop d'ardeur malgré moi l'a déçue :</l>
+	<l id="1746">Je venais du combat lui raconter l'issue.</l>
+	<l id="1747">Ce généreux guerrier, dont son coeur est charmé :</l>
+	<l id="1748">« Ne crains rien, m'a-t-il dit, quand il m'a désarmé ;</l>
+	<l id="1749">Je laisserais plutôt la victoire incertaine,</l>
+	<l id="1750">Que de répandre un sang hasardé pour Chimène ;</l>
+	<l id="1751">Mais puisque mon devoir m'appelle auprès du roi,</l>
+	<l id="1752">Va de notre combat l'entretenir pour moi,</l>
+	<l id="1753">De la part du vainqueur lui porter ton épée. »</l>
+	<l id="1754">Sire, j'y suis venu : cet objet l'a trompée ;</l>
+	<l id="1755">Elle m'a cru vainqueur, me voyant de retour,</l>
+	<l id="1756">Et soudain sa colère a trahi son amour</l>
+	<l id="1757">Avec tant de transport et tant d'impatience,</l>
+	<l id="1758">Que je n'ai pu gagner un moment d'audience.</l>
+	<l id="1759">Pour moi, bien que vaincu, je me répute heureux ;</l>
+	<l id="1760">Et malgré l'intérêt de mon coeur amoureux,</l>
+	<l id="1761">Perdant infiniment, j'aime encor ma défaite,</l>
+	<l id="1762">Qui fait le beau succès d'une amour si parfaite.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1763">Ma fille, il ne faut point rougir d'un si beau feu,</l>
+	<l id="1764">Ni chercher les moyens d'en faire un désaveu.</l>
+	<l id="1765">Une louable honte en vain t'en sollicite :</l>
+	<l id="1766">Ta gloire est dégagée, et ton devoir est quitte ;</l>
+	<l id="1767">Ton père est satisfait, et c'était le venger</l>
+	<l id="1768">Que mettre tant de fois ton Rodrigue en danger.</l>
+	<l id="1769">Tu vois comme le ciel autrement en dispose.</l>
+	<l id="1770">Ayant tant fait pour lui, fais pour toi quelque chose,</l>
+	<l id="1771">Et ne sois point rebelle à mon commandement,</l>
+	<l id="1772">Qui te donne un époux aimé si chèrement.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Dom Fernand, Dom Diègue, Don Arias, Dom Rodrigue, Don ALonse, Dom Sanche, L'Infante, Chimène, Léonor, Elvire.</head>
+<sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
+	<l id="1773">Sèche tes pleurs, Chimène, et reçois sans tristesse</l>
+	<l id="1774">Ce généreux vainqueur des mains de ta princesse.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1775">Ne vous offensez point, Sire, si devant vous</l>
+	<l id="1776">Un respect amoureux me jette à ses genoux.</l>
+	<l id="1777">Je ne viens point ici demander ma conquête :</l>
+	<l id="1778">Je viens tout de nouveau vous apporter ma tête,</l>
+	<l id="1779">Madame ; mon amour n'emploiera point pour moi</l>
+	<l id="1780">Ni la loi du combat, ni le vouloir du roi.</l>
+	<l id="1781">Si tout ce qui s'est fait est trop peu pour un père,</l>
+	<l id="1782">Dites par quels moyens il vous faut satisfaire.</l>
+	<l id="1783">Faut-il combattre encor mille et mille rivaux,</l>
+	<l id="1784">Aux deux bouts de la terre étendre mes travaux,</l>
+	<l id="1785">Forcer moi seul un camp, mettre en fuite une armée,</l>
+	<l id="1786">Des héros fabuleux passer la renommée ?</l>
+	<l id="1787">Si mon crime par là se peut enfin laver,</l>
+	<l id="1788">J'ose tout entreprendre, et puis tout achever ;</l>
+	<l id="1789">Mais si ce fier honneur, toujours inexorable,</l>
+	<l id="1790">Ne se peut apaiser sans la mort du coupable,</l>
+	<l id="1791">N'armez plus contre moi le pouvoir des humains :</l>
+	<l id="1792">Ma tête est à vos pieds, vengez-vous par vos mains ;</l>
+	<l id="1793">Vos mains seules ont droit de vaincre un invincible ;</l>
+	<l id="1794">Prenez une vengeance à tout autre impossible.</l>
+	<l id="1795">Mais du moins que ma mort suffise à me punir :</l>
+	<l id="1796">Ne me bannissez point de votre souvenir ;</l>
+	<l id="1797">Et puisque mon trépas conserve votre gloire,</l>
+<note type="L">Revancher : Quelques uns disent revenger ; Se défendre contre quelqu'un, lui rendre des coups. Signifie aussi rendre la preille, s'acquitter. [F]</note>
+	<l id="1798">Pour vous en revancher conservez ma mémoire,</l>
+	<l id="1799">Et dites quelquefois, en déplorant mon sort :</l>
+	<l id="1800">« S''il ne m'avait aimée, il ne serait pas mort. »</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1801">Relève-toi, Rodrigue. Il faut l'avouer, Sire,</l>
+	<l id="1802">Je vous en ai trop dit pour m'en pouvoir dédire.</l>
+	<l id="1803">Rodrigue a des vertus que je ne puis haïr ;</l>
+	<l id="1804">Et quand un roi commande, on lui doit obéir.</l>
+	<l id="1805">Mais à quoi que déjà vous m'ayez condamnée,</l>
+	<l id="1806">Pourrez-vous à vos yeux souffrir cet hyménée ?</l>
+	<l id="1807">Et quand de mon devoir vous voulez cet effort,</l>
+	<l id="1808">Toute votre justice en est-elle d'accord ?</l>
+	<l id="1809">Si Rodrigue à l'État devient si nécessaire,</l>
+	<l id="1810">De ce qu'il fait pour vous dois-je être le salaire,</l>
+	<l id="1811">Et me livrer moi-même au reproche éternel</l>
+	<l id="1812">D'avoir trempé mes mains dans le sang paternel ?</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1813">Le temps assez souvent a rendu légitime</l>
+	<l id="1814">Ce qui semblait d'abord ne se pouvoir sans crime :</l>
+	<l id="1815">Rodrigue t'a gagnée, et tu dois être à lui.</l>
+	<l id="1816">Mais quoique sa valeur t'ait conquise aujourd'hui,</l>
+	<l id="1817">Il faudrait que je fusse ennemi de ta gloire,</l>
+	<l id="1818">Pour lui donner sitôt le prix de sa victoire.</l>
+	<l id="1819">Cet hymen différé ne rompt point une loi</l>
+	<l id="1820">Qui sans marquer de temps, lui destine ta foi.</l>
+	<l id="1821">Prends un an, si tu veux, pour essuyer tes larmes.</l>
+	<l id="1822">Rodrigue, cependant il faut prendre les armes.</l>
+	<l id="1823">Après avoir vaincu les Mores sur nos bords,</l>
+	<l id="1824">Renversé leurs desseins, repoussé leurs efforts,</l>
+	<l id="1825">Va jusqu'en leur pays leur reporter la guerre,</l>
+	<l id="1826">Commander mon armée, et ravager leur terre :</l>
+	<l id="1827">À ce nom seul de Cid ils trembleront d'effroi ;</l>
+	<l id="1828">Ils t'ont nommé Seigneur, et te voudront pour roi.</l>
+	<l id="1829">Mais parmi tes hauts faits sois-lui toujours fidèle :</l>
+	<l id="1830">Reviens-en, s'il se peut, encor plus digne d'elle ;</l>
+	<l id="1831">Et par tes grands exploits fais-toi si bien priser,</l>
+	<l id="1832">Qu'il lui soit glorieux alors de t'épouser.</l>
+</sp>
+<sp who="DOM RODRIGUE"><speaker>DOM RODRIGUE.</speaker>
+	<l id="1833">Pour posséder Chimène, et pour votre service,</l>
+	<l id="1834">Que peut-on m'ordonner que mon bras n'accomplisse ?</l>
+	<l id="1835">Quoi qu'absent de ses yeux il me faille endurer,</l>
+	<l id="1836">Sire, ce m'est trop d'heur de pouvoir espérer.</l>
+</sp>
+<sp who="DOM FERNAND"><speaker>DOM FERNAND.</speaker>
+	<l id="1837">Espère en ton courage, espère en ma promesse ;</l>
+	<l id="1838">Et possédant déjà le coeur de ta maîtresse,</l>
+	<l id="1839">Pour vaincre un point d'honneur qui combat contre toi,</l>
+	<l id="1840">Laisse faire le temps, ta vaillance et ton roi.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+<bottom>
+<div1 type='' n=''><head>Résumé de la pièce </head>
+<div2 type='scene' n=''><head>ACTE I</head>
+<p>Chimène aime Rodrique et reçoit d'Elvire, sa gouvernante, la confirmation de l'amour réciproque de Rodrigue. Toutefois, elle se garde de faire paraître sa préférence entre Rodrigue et Dom Sanche qui ets un autre prétendant. Malgré cela, Chimène est inquiète (scène I, v. 1 à 58). L'Infante, fille du roi, confie, elle aussi, son amour pour Rodrigue à Léonor, sa gouvernante. Malheureusement, elle est fille du Roi de Castille et Rodrigue simple chevalier et ne peut l'aimer. Pour cette raison, elle soutient l'amour de Chimène et Rodrigue... mais elle en souffre. Elle part rejoindre Chimène (scène II v. 59 à 150). Le Comte, Don Gomès, félicite avec amertume Dom Diègue, père de Rodrigue, de sa nomination au poste de gouveneur du Prince de Castille. Jaloux de Dom Diègue, il lui dit qu'il est trop vieux et que lui représente le présent. Malgré leur accord, il refuse la proposition de mariage entre sa fille Chimène et de fils de Dom Diègue, Rodrigue. Les deux hommes se querellent sur leur mérite propre. Le Comte gifle Dom Rodrigue, celui-ci tire son épée mais la perd : il est humilié. (Scène III, v. 151 à 236). Dom Rodrigue se désole seul de la honte d'avoir perdu son épée (Scène IV, v.237 à 260). Son fils Rodrigue arrive et demance à celui-ci de de venger cet affront malgré son amour pour Chimène (Scène V, v. 261 à 290). Seul, Rodrigue se plaint de son sort. Après avoir hésité, il choisit de venger son père. (Scène VI, v. 291 à 350 - Stances).</p>
+</div2>
+<div2 type='scene' n=''><head>ACTE II</head>
+<p>Le Comte confie à Dom Arias qu'il est allé trop loin. Don Arias lui fait savoir que la roi souhaite des excuses. Le Comte pense que le roi a trop besoin de lui et envisage de lui désobéir. (Scène I, v. 351 à 396) Rodrigue rencontre le Comte et le défie. Le Comte tente de la dissuader de combattre mais s'y résoud devant la résolution de Rodrigue. Ils sortent pour se battre. (Scène II, v. 397 à 442). L'Infante tente de rassurer Chimène sur la querelle entre Le Comte et Dom Diègue : le roi et elle-même veulent accomoder les choses (Scène III, v. 443 à 499). Un page vient annoncer que Le Comte et Rodrigue se battent (Scène IV, v. 500 à 505). L'Infante, folle d'amour, se confie à Léonor : elle espère que la victoire de Rodrigue lui ouvre la gloire et qu'ainsi elle puisse l'épouser. (Scène V, v. 506 à 556) Le Roi apprend par Dom Sanche que Le Comte ne veut pas s'excuser ce qui le met en colère. Mais les Maures approchent par la mer, il faut les contenir (Scène VI, v. 557 à 632). Dom Alonse entre pour annoncer au roi la mort du Comte. Chimène réclame vengeance mais la Roi a besoin de Rodrigue contre les Maures. (Scène VII, v. 633 à 646). Dom Diègue entre et avec Chimène implorent l'un la clémence, l'autre la vengeance : Chimène raconte avec douleur la mort de son père, Dom Diègue demande à ce que la vengeance tombe sur lui et non sur son fils. Le Roi renvoie chacun pour délibérer (Scène VIII, v. 646 à 740).</p>
+</div2>
+<div2 type='scene' n=''><head>ACTE III</head>
+<p>Rodrigue vient devant la demeure de Chimène. Elvire l'arrête et lui demande de partir, lui ne veut que mourir et veut la voir. Elle le supplie de partir, il sort (Scène I, v. 740 à 772). Dom Sanche arrive avec Chimène. Il lui propose de venger son père et d'accepter son amour. Elle ne veut de justice que du roi mais demande à Dom Sanche de patienter (Scène II, v. 773 à 792). Chimène seule avec Elvire s'épanche sur son désir de vengeance et son amour pour Rodrigue. Chimène conclue par le volonté de voir mourir Rodriigue et ourir après lui (Scène III, v. 793 à 848). Rodrigue arrive soudain, propose à Chimène de le tuer avec l'épée qui a tué son père. Elle refuse par amour, il insiste pour laver leur honneur. Elle veut obtenir vengeance d'autrui pour ne pas tuer son amour. Elle le chasse, il s'enfuit (Scène IV, v. 849 à 1000). Dom Diègue, seul, heureux que son fils l'ait vengé le cherche. Il arrive enfin (Scène V, v. 1001 à 1024). Dom Diègue embrasse son fils de joie,  Rodrigue lui fait part de son désespoir d'avoir perdu son amour. Les Maures sont au portes de la ville, Dom Diègue envoie son fils au combat pour réconquérir tous les coeurs (Scène VI, v. 1025 à 1100).</p>
+</div2>
+<div2 type='scene' n=''><head>ACTE IV</head>
+<p>Elvire raconte à Chimène la bataille de la nuit et la victoire glorieuse de Rodrigue. Chimène se retient d'éprouver quelque joie et se rapelle son devoir envers son père (Scène I, v. 1101 à 1142). L'Infante entre et propose à Chimène de se réjouir de la victoire. Cette dernière reste dans sa colère. L'Infante lui fait comprendre que la poursuite d'une vengeance personnelle peut nuire au bonheur de tout un peuple puis lui dit que l'indifférence envers Rodrigue lui suffira pour se venger de lui. Chimène ne renonce pas. Elle sortent (Scène II, v. 1143 à  1208). Le Roi arrive pour féliciter Rodrigue. Ce dernier raconte longuement son combat (Scène III, v. 1209 à 1329). Chimème est annoncée, le Roi écarte Rodrigue (Scène IV v. 1330 à 1337). Par feinte, le Roi annonce à Chimène la mort de Rodrigue, elle s'évanouit. On croit y déceler de l'amour. Elle se reprend et dit que son trouble vient qu'elle ne peut ainsi obtenir justice. Le Roi veut arrêter la querelle. Chimène insiste et obtient un combat singulier entre Dom Sanche et Rodrigue : le vainqueur épousera Chimène (Scène V, v. 1338 à 1464).</p>
+</div2>
+<div2 type='scene' n=''><head>ACTE V</head>
+<p>Rodrigue vient se présenter à Chimène, seule : il lui fait ses adieux. Rodrigue veut se laisser mourir au combat, Chimène l'incite à ne pas renoncer en provoquant sa fierté, en vain. Puis, elle lui dit l'enjeu du combat : un mariage avec elle. Rodrigue est de nouveau prêt à se battre (Scène I, v. 1465 à 1564). L'Infante, seule, s'épanche sur son propre sort : elle ne peut épouser l'homme qu'elle aime parce qu'il n'est pas de son rang et parce qu'il est à Chimène (Scène II, v. 1565 à 1596). Léonor vient interompre cette rêverie. L'infante dit qu'elle va pousser, mieux encrore, le mariage de Rodrigue qui est presque déjà acquis. Elle renonce à son amour (Scène III, v. 1597 à 1644). Chimène a rejoint Elvire et se plaint que quelque soit le vainqueur, il aura du sang sur les mains : Rodrigue de son père ou Dom Sanche de son amour. Elvire retourne l'argument ; avance que cela résoudra un problème elle sera vengée ou elle sera heureuse (Scène IV, v. 1645 à 1704). Dom Sanche de présente devant elles : il est interrompu à chaque fois par Chimène qui déclare son amour pour Rodrigue mort (Scène V, v. 1705 à 1722). Le Roi et Dom Diègue entrent. Chimène demande à partir dans un couvent pour pleurer son amour. Le Roi annonce que Rodrigue n'est pas mort. Dom Sanche raconte son combat perdu. Le Roi incite Chimène à faire quelque chose pour elle-même : aimer (Scène VI, v. 1723 à 1772). L'Infante entre et appuye la reommandation de son  prère.  Rodrigue s'agenouille devant Chimène et met sa vie entre ses mains. Chième demande du temps car elle n'aime pas être le salaire d'un combat. Le Roi lui accorde un an de deuil et commande à Rodrigue d'aller faire des conquêtes pour son roi. Rodrigue accepte. (Scène VII, v. 1773 à 1840).</p>
+</div2>
+</div1>
+<div1 type='' n='2'><head>Vers connus et remarquables </head>
+<div2 type='scene' n=''><head>ACTE I</head>
+<p>Scène IV, Don Diègue, v. 237-240 :</p>
+	<p type="v">Ô rage ! Ô désespoir ! Ô vieillesse ennemie !</p>
+	<p type="v">N'ai-je donc tant vécu que pour cette infamie ?</p>
+	<p type="v">Et ne suis-je blanchi dans les travaux guerriers</p>
+	<p type="v">Que pour voir en un jour flétrir tant de lauriers ?</p>
+<p>Scène V, Dom Diègue, Rodrigue, v. 261 à 267 :</p>
+<p>DON DIÈGUE.</p>
+	<p type="v">Rodrigue, as-tu du coeur ?</p>
+<p>DON RODRIGUE.</p>
+	<p type="v">Tout autre que mon père</p>
+	<p type="v">L'éprouverait sur l'heure.</p>
+<p>DON DIÈGUE.</p>
+	<p type="v">Agréable colère !</p>
+	<p type="v">Digne ressentiment à ma douleur bien doux !</p>
+	<p type="v">Je reconnais mon sang à ce noble courroux ;</p>
+	<p type="v">Ma jeunesse revit en cette ardeur si prompte.</p>
+	<p type="v">Viens, mon fils, viens, mon sang, viens réparer ma honte ;</p>
+	<p type="v">Viens me venger.</p>
+</div2>
+<div2 type='scene' n='2'><head>ACTE II</head>
+<p>Scène 2, Rodrique, v. 405 et 406 : </p>
+	<p type="v">Je suis jeune, il est vrai ; mais aux âmes bien nées</p>
+	<p type="v">La valeur n'attend point le nombre des années.</p>
+
+<p>Scène 2, Le Comte, v. 434 :</p>
+	<p type="v">À vaincre sans péril, on triomphe sans gloire.</p>
+
+<p>Scène 3, Chimène, v. 479 et 480 :</p>
+	<p type="v">Je sens couler des pleurs que je veux retenir ;</p>
+	<p type="v">Le passé me tourmente, et je crains l'avenir.</p>
+</div2>
+<div2 type='scene' n='2'><head>ACTE III</head>
+<p>Scène 3, Chimène, v. 799 et 802 :</p>
+	<p type="v">Pleurez, pleurez, mes yeux, et fondez-vous en eau !</p>
+	<p type="v">La moitié de ma vie a mis l'autre au tombeau,</p>
+	<p type="v">Et m'oblige à venger, après ce coup funeste,</p>
+	<p type="v">Celle que je n'ai plus sur celle qui me reste.</p>
+<p>Scène 4, Chimène, Rodrigue, v.957 à 963.</p>
+	<p>DON RODRIGUE.</p>
+	<p type="v">Ton malheureux amant aura bien moins de peine</p>
+	<p type="v">À mourir par ta main qu'à vivre avec ta haine.</p>
+	<p>CHIMÈNE.</p>
+	<p type="v">Va, je ne te hais point.</p>
+	<p>DON RODRIGUE.</p>
+	<p type="v">Tu le dois.</p>
+	<p>CHIMÈNE.</p>
+	<p type="v">Je ne puis.</p>
+</div2>
+<div2 type='scene' n='2'><head>ACTE IV</head>
+<p>Scène 2, Chimène, v. 1196 :</p>
+	<p type="v">J'irai sous mes cyprès accabler ses lauriers.</p>
+<p>Scène 3, Rodrigue, v. 1257 à 1262 :</p>
+	<p type="v">Sous moi donc cette troupe s'avance,</p>
+	<p type="v">Et porte sur le front une mâle assurance.</p>
+	<p type="v">Nous partîmes cinq cents ; mais par un prompt renfort</p>
+	<p type="v">Nous nous vîmes trois mille en arrivant au port,</p>
+	<p type="v">Tant, à nous voir marcher avec un tel visage,</p>
+	<p type="v">Les plus épouvantés reprenaient de courage !</p>
+
+<p>Puis v. 1273 et 1274 :</p>
+	<p type="v">Cette obscure clarté qui tombe des étoiles</p>
+	<p type="v">Enfin avec le flux nous fait voir trente voiles ;</p>
+<p>Puis v. 1301 et 1302 :</p>
+	<p type="v">Ô combien d'actions, combien d'exploits célèbres</p>
+	<p type="v">Sont demeurés sans gloire au milieu des ténèbres,</p>
+<p>font penser aux vers de Victor Hugo : Combien de marins, combien de capitaines</p>
+<p>Puis le vers 1328 : </p>
+	<p type="v">Et le combat cessa faute de combattants.</p>
+</div2>
+</div1>
+</bottom>
+</TEI.2>

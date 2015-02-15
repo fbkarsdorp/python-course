@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>ATTILA, ROI DES HUNS, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1667</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE, Mai 2006, revu Août 2010.</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire médiévale</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70404w</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ATTILA</titlePart>
+			<titlePart type="sub">ROI DES HUNS</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1668'>M. DC. LXVIII. Avec Privilège.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Par P. Corneille</docAuthor>
+		<docImprint>
+			<privilege id='1666-11-25'><head>Extrait du privilège</head>
+<p>Par Grâce et privilège du roi donné à Paris le 25. jour de Novembre 1666, signé par le Roi en son conseil GUITONNEAU ; il est permis à GUILLAUME DE LUYNE, marchand libraire à Paris, de faire imprimer vendre et débiter une pièce de théâtre, tragédie intitulée, Attila Roi des Huns, composée par le sieur CORNEILLE, pendant le temps de cinq années entières et accomplies : et défenses sont faites à tous autres d'imprimer la diet pièce, en quelque manière que ce soit, à peine de cinq cent livres d'amende, et de tous dépens, dommages te intérêts ; comme il est plus amplement porté par les dites lettres.</p>
+<p>Le dit sieur de Luyne a fait part du présent privilège aux sieurs Jolly et Billaine suivant l'accord fait entre eux.</p>
+<p>Registré sur le livre de la communauté, le 7 mars 1667.</p>
+	</privilege>
+			<acheveImprime id='1667-11-20'>Achevé d'imprimer pour la première fois le vingtième novembre 1667.</acheveImprime>
+			<printer id=''>À Paris, Chez Guillaume de LUYNE, libraire juré, au Palais, dans la Salle des Merciers, sous la montée de la Cou des Aides à la Justice.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1667-03-04' location='Théâtre du Palais-Royal'>Représentée pour la première fois le 4 mars 1667 au Théâtre du Palais-Royal</premiere>
+		</performance>
+<preface>
+<head>AU LECTEUR</head>
+<p>Le nom d'Attila est assez connu, mais tout le monde n'en connaît pas tout le caractère. Il était plus homme de tête que de main, tâchait à diviser ses ennemis, ravageait les peuples indéfendues, pour donner de la terreur aux autres et tirer tribut de leur épouvante, et s'était fait un tel empire sur les rois qui l'accompagnaient, que quand même il leur eût commandé des parricides, il n'eussent osé lui désobéir. Il est malaisé de savoir qu'elle était sa religion ; le surnom de fléau de Dieu qu'il prenait lui-même montre qu'il n'en croyait pas plusieurs. Je l'estimerais Aryen comme les Ostrogoths de son armée, n'était la pluralité des femmes que je lui ai retranché ici; Il croyait fort aux devins, et c'était peut-être tout ce qu'il croyait. Il envoya demander par deux fois à l'Empereur Valentinien sa soeur Honorie avec de grandes menaces, et en l'attendant il épousa Ildione, dont tous les historiens marquent la beauté, sans parler de sa naissance. C'est ce qui m'a enhardi à la faire soeur d'un de nos premiers rois, afin d'opposer la France naissante au déclin de l'Empire. Il est constant qu'il mourut le première nuit de son mariage avec elle; Marcellin dit qu'elle le tua elle-même, et je lui en ai voulu donner l'idée, quoi que ses effet. Tous les autres rapportent qu'il avait accoutumé de saigner du nez, et que les vapeur de vin et des viandes dont il se chargea fermèrent la passage à ce sang, qui aprsè l'avoir étouffé sortit avec violence par tous les conduits; il les ai suivis sur la manière de sa mort, mais j'ai cru plus à propos d'en attribuer la cause à un excès de colère, qu'à un excès d'intempérance.</p>
+<p>Au reste on m'a pressé de répondre ici par occasion aux invectives qu'on a publiées depuis quelque temps contre la Comédie, mais je me contenterai d'en dire deux choses, pour fermer la bouche à ces ennemis d'un divertissement honnête et si utile. L'un que je soumets tous ce que j'ai fait et ferai à l'avenir à la censure des puissances, tant ecclésiastiques que séculières, sous lesquelles Dieu me fait vivre ; je ne sais s'ils en voudraient faire autant. L'autre que la Comédie est assez justifiée par cette célèbre traduction de la moitié de celles de Térence, que des personnes d'une piété exemplaire et rigide ont donné au public, et ne l'auraient jamais fait, si elles n'eussent jugé qu'on peut innocemment mettre sur la scène des filles engrossées par leurs amants, et des marchands d'esclave à prostituer; La nôtre ne souffre point de tels ornements; L'amour en est l'âme pour l'ordinaire ; mais  l'amour dans le malheur n'excite que la pitié, et est plus capable de purger en nous cette passion que de nous en faire envie.</p>
+<p>Il n'y a point d'homme au sortir de la représentation du Cid qui voulut avoir tué comme lui le père de sa maîtresse pour en recevoir de pareilles douceurs, ni de fille qui souhaitât que son amant eut tué son père, pour avoir la joie de l'aimer en poursuivant sa mort. Les tendresses de l'amour content sont d'une autre nature, et ce qui m'oblige à les éviter. J'espère un jour traiter cette matière plus en long, et faire voir quelle erreur c'est de dire qu'on peut faire parler sur le théâtre toutes sortes de gens selon toute l'étendue de leurs caractères.</p>
+</preface>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="ATTILA" civil="M" type="H" statut="roi" age="A" stat_amour='néant'>ATTILA</role>, roi des Huns.</castItem>
+			<castItem><role id="ARDARIC" civil="F" type="H" statut="roi" age="A" stat_amour='néant'>ARDARIC</role>, roi des Gépides.</castItem>
+			<castItem><role id="VALAMIR" civil="M" type="H" statut="roi" age="A" stat_amour='néant'>VALAMIR</role>, roi des Ostrogoths.</castItem>
+			<castItem><role id="HONORIE" civil="F" type="H" statut="prince" age="A" stat_amour='néant'>HONORIE</role>, soeur de l'empereur Valentinian.</castItem>
+			<castItem><role id="ILDIONE" civil="F" type="H" statut="prince" age="A" stat_amour='néant'>ILDIONE</role>, soeur de Mérovée, roi de France.</castItem>
+			<castItem><role id="OCTAR" civil="M" type="H" statut="capitaine" age="A" stat_amour='néant'>OCTAR</role>, capitaine des gardes d'Attila.</castItem>
+			<castItem><role id="FLAVIE" civil="F" type="H" statut="dame d'honneur" age="A" stat_amour='néant'>FLAVIE</role>, dame d'honneur d'Honorie.</castItem>
+			<castItem><role id="GARDES" civil="M" type="H" statut="garde" age="A" stat_amour='néant'>GARDES</role>.</castItem>
+		</castList>
+	<set location='Norique' country='Autriche' periode='Vème' link=''>La scène est dans le camp d'Attila, dans la Norique</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Attila, Octar, suite.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1'>Ils ne sont pas venus, nos deux rois ? Qu'on leur die</l>
+	<l id='2'>Qu'ils se font trop attendre, et qu'Attila s'ennuie ;</l>
+	<l id='3'>Qu'alors que je les mande ils doivent se hâter.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='4'>Mais, seigneur, quel besoin de les en consulter ?</l>
+	<l id='5'>Pourquoi de votre hymen les prendre pour arbitres,</l>
+	<l id='6'>Eux qui n'ont de leur trône ici que de vains titres,</l>
+	<l id='7'>Et que vous ne laissez au nombre des vivants</l>
+	<l id='8'>Que pour traîner partout deux rois pour vos suivants ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='9'>J'en puis résoudre seul, Octar, et les appelle,</l>
+	<l id='10'>Non sous aucun espoir de lumière nouvelle :</l>
+	<l id='11'>Je crois voir avant eux ce qu'ils m'éclairciront,</l>
+	<l id='12'>Et m'être déjà dit tout ce qu'ils me diront ;</l>
+	<l id='13'>Mais de ces deux partis lequel que je préfère,</l>
+	<l id='14'>Sa gloire est un affront pour l'autre, et pour son frère ;</l>
+	<l id='15'>Et je veux attirer d'un si juste courroux</l>
+	<l id='16'>Sur l'auteur du conseil les plus dangereux coups,</l>
+	<l id='17'>Assurer une excuse à ce manque d'estime,</l>
+	<l id='18'>Pouvoir, s'il est besoin, livrer une victime ;</l>
+	<l id='19'>Et c'est ce qui m'oblige à consulter ces rois,</l>
+	<l id='20'>Pour faire à leurs périls éclater ce grand choix ;</l>
+	<l id='21'>Car enfin j'aimerais un prétexte à leur perte :</l>
+	<l id='22'>J'en prendrais hautement l'occasion offerte.</l>
+	<l id='23'>Ce titre en eux me choque, et je ne sais pourquoi</l>
+	<l id='24'>Un roi que je commande ose se nommer roi.</l>
+	<l id='25'>Un nom si glorieux marque une indépendance</l>
+	<l id='26'>Que souille, que détruit la moindre obéissance ;</l>
+	<l id='27'>Et je suis las de voir que du bandeau royal</l>
+	<l id='28'>Ils prennent droit tous deux de me traiter d'égal.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='29'>Mais, seigneur, se peut-il que pour ces deux princesses</l>
+	<l id='30'>Vous ayez mêmes yeux et pareilles tendresses,</l>
+	<l id='31'>Que leur mérite égal dispose sans ennui</l>
+	<l id='32'>Votre âme irrésolue aux sentiments d'autrui ?</l>
+	<l id='33'>Ou si vers l'une ou l'autre elle a pris quelque pente,</l>
+	<l id='34'>Dont prennent ces deux rois la route différente,</l>
+	<l id='35'>Voudra-t-elle, aux dépens de ses voeux les plus doux,</l>
+	<l id='36'>Préparer une excuse à ce juste courroux ?</l>
+	<l id='37'>Et pour juste qu'il soit, est-il si fort à craindre</l>
+	<l id='38'>Que le grand Attila s'abaisse à se contraindre ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='39'>Non ; mais la noble ardeur d'envahir tant d'états</l>
+	<l id='40'>Doit combattre de tête encor plus que de bras,</l>
+	<l id='41'>Entre ses ennemis rompre l'intelligence,</l>
+	<l id='42'>Y jeter du désordre et de la défiance,</l>
+	<l id='43'>Et ne rien hasarder qu'on n'ait de toutes parts,</l>
+	<l id='44'>Autant qu'il est possible, enchaîné les hasards.</l>
+	<l id='45'>Nous étions aussi forts qu'à présent nous le sommes,</l>
+	<l id='46'>Quand je fondis en Gaule avec cinq cent mille hommes.</l>
+	<l id='47'>Dès lors, s'il t'en souvient, je voulus, mais en vain,</l>
+	<l id='48'>D'avec le Visigoth détacher le Romain.</l>
+	<l id='49'>J'y perdis auprès d'eux des soins qui me perdirent :</l>
+	<l id='50'>Loin de se diviser, d'autant mieux ils s'unirent.</l>
+	<l id='51'>La terreur de mon nom pour nouveaux compagnons</l>
+	<l id='52'>Leur donna les Alains, les Francs, les Bourguignons ;</l>
+	<l id='53'>Et n'ayant pu semer entre eux aucuns divorces,</l>
+	<l id='54'>Je me vis en déroute avec toutes mes forces.</l>
+	<l id='55'>J'ai su les rétablir, et cherche à me venger ;</l>
+	<l id='56'>Mais je cherche à le faire avec moins de danger.</l>
+	<l id='57'>De ces cinq nations contre moi trop heureuses,</l>
+	<l id='58'>J'envoie offrir la paix aux deux plus belliqueuses ;</l>
+	<l id='59'>Je traite avec chacune, et comme toutes deux</l>
+	<l id='60'>De mon hymen offert ont accepté les noeuds,</l>
+	<l id='61'>Des princesses qu'ensuite elles en font le gage</l>
+	<l id='62'>L'une sera ma femme et l'autre mon otage.</l>
+	<l id='63'>Si j'offense par là l'un des deux souverains,</l>
+	<l id='64'>Il craindra pour sa soeur qui reste entre mes mains.</l>
+	<l id='65'>Ainsi je les tiendrai l'un et l'autre en contrainte,</l>
+	<l id='66'>L'un par mon alliance, et l'autre par la crainte ;</l>
+	<l id='67'>Ou si le malheureux s'obstine à s'irriter,</l>
+	<l id='68'>L'heureux en ma faveur saura lui résister,</l>
+	<l id='69'>Tant que de nos vainqueurs terrassés l'un par l'autre</l>
+	<l id='70'>Les trônes ébranlés tombent aux pieds du nôtre.</l>
+	<l id='71'>Quant à l'amour, apprends que mon plus doux souci</l>
+	<l id='72'>N'est... Mais Ardaric entre, et Valamir aussi.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Attila, Ardaric, Valamir, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='73'>Rois, amis d'Attila, soutiens de ma puissance,</l>
+	<l id='74'>Qui rangez tant d'états sous mon obéissance,</l>
+	<l id='75'>Et de qui les conseils, le grand coeur et la main,</l>
+	<l id='76'>Me rendent formidable à tout le genre humain,</l>
+	<l id='77'>Vous voyez en mon camp les éclatantes marques</l>
+	<l id='78'>Que de ce vaste effroi nous donnent deux monarques.</l>
+	<l id='79'>En Gaule Mérovée, à Rome l'empereur,</l>
+	<l id='80'>Ont cru par mon hymen éviter ma fureur.</l>
+	<l id='81'>La paix avec tous deux en même temps traitée</l>
+	<l id='82'>Se trouve avec tous deux à ce prix arrêtée ;</l>
+	<l id='83'>Et presque sur les pas de mes ambassadeurs</l>
+	<l id='84'>Les leurs m'ont amené deux princesses leurs soeurs.</l>
+	<l id='85'>Le choix m'en embarrasse, il est temps de le faire ;</l>
+	<l id='86'>Depuis leur arrivée en vain je le diffère :</l>
+	<l id='87'>Il faut enfin résoudre ; et quel que soit ce choix,</l>
+	<l id='88'>J'offense un empereur, ou le plus grand des rois.</l>
+	<l id='89'>Je le dis le plus grand, non qu'encor la victoire</l>
+	<l id='90'>Ait porté Mérovée à ce comble de gloire ;</l>
+	<l id='91'>Mais si de nos devins l'oracle n'est point faux,</l>
+	<l id='92'>Sa grandeur doit atteindre aux degrés les plus hauts ;</l>
+	<l id='93'>Et de ses successeurs l'empire inébranlable</l>
+	<l id='94'>Sera de siècle en siècle enfin si redoutable,</l>
+	<l id='95'>Qu'un jour toute la terre en recevra des lois,</l>
+	<l id='96'>Ou tremblera du moins au nom de leurs François.</l>
+	<l id='97'>Vous donc, qui connaissez de combien d'importance</l>
+	<l id='98'>Est pour nos grands projets l'une et l'autre alliance,</l>
+	<l id='99'>Prêtez-moi des clartés pour bien voir aujourd'hui</l>
+	<l id='100'>De laquelle ils auront ou plus ou moins d'appui,</l>
+	<l id='101'>Qui des deux, honoré par ces noeuds domestiques,</l>
+	<l id='102'>Nous vengera le mieux des champs catalauniques ;</l>
+	<l id='103'>Et qui des deux enfin, déchu d'un tel espoir,</l>
+	<l id='104'>Sera le plus à craindre à qui veut tout pouvoir.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='105'>En l'état où le ciel a mis votre puissance,</l>
+	<l id='106'>Nous mettrions en vain les forces en balance :</l>
+	<l id='107'>Tout ce qu'on y peut voir ou de plus ou de moins</l>
+	<l id='108'>Ne vaut pas amuser le moindre de vos soins.</l>
+	<l id='109'>L'un et l'autre traité suffit pour nous instruire</l>
+	<l id='110'>Qu'ils vous craignent tous deux et n'osent plus vous nuire.</l>
+	<l id='111'>Ainsi, sans perdre temps à vous inquiéter,</l>
+	<l id='112'>Vous n'avez que vos yeux, seigneur, à consulter.</l>
+	<l id='113'>Laissez aller ce choix du côté du mérite</l>
+	<l id='114'>Pour qui, sur leur rapport, l'amour vous sollicite :</l>
+	<l id='115'>Croyez ce qu'avec eux votre coeur résoudra ;</l>
+	<l id='116'>Et de ces potentats s'offense qui voudra.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='117'>L'amour chez Attila n'est pas un bon suffrage ;</l>
+	<l id='118'>Ce qu'on m'en donnerait me tiendrait lieu d'outrage,</l>
+	<l id='119'>Et tout exprès ailleurs je porterais ma foi,</l>
+	<l id='120'>De peur qu'on n'eût par là trop de pouvoir sur moi.</l>
+	<l id='121'>Les femmes qu'on adore usurpent un empire</l>
+	<l id='122'>Que jamais un mari n'ose ou ne peut dédire.</l>
+	<l id='123'>C'est au commun des rois à se plaire en leurs fers,</l>
+	<l id='124'>Non à ceux dont le nom fait trembler l'univers.</l>
+	<l id='125'>Que chacun de leurs yeux aime à se faire esclave ;</l>
+	<l id='126'>Moi, je ne veux les voir qu'en tyrans que je brave :</l>
+	<l id='127'>Et par quelques attraits qu'ils captivent un coeur,</l>
+	<l id='128'>Le mien en dépit d'eux est tout à ma grandeur.</l>
+	<l id='129'>Parlez donc seulement du choix le plus utile,</l>
+	<l id='130'>Du courroux à dompter ou plus ou moins facile ;</l>
+	<l id='131'>Et ne me dites point que de chaque côté</l>
+	<l id='132'>Vous voyez comme lui peu d'inégalité.</l>
+	<l id='133'>En matière d'état ne fût-ce qu'un atome,</l>
+	<l id='134'>Sa perte quelquefois importe d'un royaume ;</l>
+	<l id='135'>Il n'est scrupule exact qu'il n'y faille garder,</l>
+	<l id='136'>Et le moindre avantage a droit de décider.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='137'>Seigneur, dans le penchant que prennent les affaires,</l>
+	<l id='138'>Les grands discours ici ne sont pas nécessaires :</l>
+	<l id='139'>Il ne faut que des yeux ; et pour tout découvrir,</l>
+	<l id='140'>Pour décider de tout, on n'a qu'à les ouvrir.</l>
+	<l id='141'>Un grand destin commence, un grand destin s'achève :</l>
+	<l id='142'>L'empire est prêt à choir, et la France s'élève ;</l>
+	<l id='143'>L'une peut avec elle affermir son appui,</l>
+	<l id='144'>Et l'autre en trébuchant l'ensevelir sous lui.</l>
+	<l id='145'>Vos devins vous l'ont dit ; n'y mettez point d'obstacles,</l>
+	<l id='146'>Vous qui n'avez jamais douté de leurs oracles :</l>
+	<l id='147'>Soutenir un état chancelant et brisé,</l>
+	<l id='148'>C'est chercher par sa chute à se voir écrasé.</l>
+	<l id='149'>Appuyez donc la France, et laissez tomber Rome ;</l>
+	<l id='150'>Aux grands ordres du ciel prêtez ceux d'un grand homme :</l>
+	<l id='151'>D'un si bel avenir avouez vos devins,</l>
+	<l id='152'>Avancez les succès, et hâtez les destins.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='153'>Oui, le ciel, par le choix de ces grands hyménées,</l>
+	<l id='154'>A mis entre vos mains le cours des destinées ;</l>
+	<l id='155'>Mais s'il est glorieux, seigneur, de le hâter,</l>
+	<l id='156'>Il l'est, et plus encor, de si bien l'arrêter,</l>
+	<l id='157'>Que la France, en dépit d'un infaillible augure,</l>
+	<l id='158'>N'aille qu'à pas traînants vers sa grandeur future,</l>
+	<l id='159'>Et que l'aigle, accablé par ce destin nouveau,</l>
+	<l id='160'>Ne puisse trébucher que sur votre tombeau.</l>
+	<l id='161'>Serait-il gloire égale à celle de suspendre</l>
+	<l id='162'>Ce que ces deux états du ciel doivent attendre,</l>
+	<l id='163'>Et de vous faire voir aux plus savants devins</l>
+	<l id='164'>Arbitre des succès et maître des destins ?</l>
+	<l id='165'>J'ose vous dire plus. Tout ce qu'ils vous prédisent,</l>
+	<l id='166'>Avec pleine clarté dans le ciel ils le lisent ;</l>
+	<l id='167'>Mais vous assurent-ils que quelque astre jaloux</l>
+	<l id='168'>N'ait point mis plus d'un siècle entre l'effet et vous ?</l>
+	<l id='169'>Ces éclatants retours que font les destinées</l>
+	<l id='170'>Sont assez rarement l'oeuvre de peu d'années ;</l>
+	<l id='171'>Et ce qu'on vous prédit touchant ces deux états</l>
+	<l id='172'>Peut être un avenir qui ne vous touche pas.</l>
+	<l id='173'>Cependant regardez ce qu'est encor l'empire :</l>
+	<l id='174'>Il chancelle, il se brise, et chacun le déchire ;</l>
+	<l id='175'>De ses entrailles même il produit des tyrans ;</l>
+	<l id='176'>Mais il peut encor plus que tous ses conquérants.</l>
+	<l id='177'>Le moindre souvenir des champs catalauniques</l>
+	<l id='178'>En peut mettre à vos yeux des preuves trop publiques :</l>
+	<l id='179'>Singibar, Gondebaut, Mérovée et Thierry,</l>
+	<l id='180'>Là, sans Aétius, tous quatre auraient péri.</l>
+	<l id='181'>Les Romains firent seuls cette grande journée :</l>
+	<l id='182'>Unissez-les à vous par un digne hyménée.</l>
+	<l id='183'>Puisque déjà sans eux vous pouvez presque tout,</l>
+	<l id='184'>Il n'est rien dont par eux vous ne veniez à bout.</l>
+	<l id='185'>Quand de ces nouveaux rois ils vous auront fait maître,</l>
+	<l id='186'>Vous verrez à loisir de qui vous voudrez l'être,</l>
+	<l id='187'>Et résoudrez vous seul avec tranquillité</l>
+	<l id='188'>Si vous leur souffrirez encor l'égalité.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='189'>L'empire, je l'avoue, est encor quelque chose ;</l>
+	<l id='190'>Mais nous ne sommes plus au temps de Théodose ;</l>
+	<l id='191'>Et comme dans sa race il ne revit pas bien,</l>
+	<l id='192'>L'empire est quelque chose, et l'empereur n'est rien.</l>
+	<l id='193'>Ses deux fils n'ont rempli les trônes des deux Romes</l>
+	<l id='194'>Que d'idoles pompeux, que d'ombres au lieu d'hommes.</l>
+	<l id='195'>L'imbécile fierté de ces faux souverains,</l>
+	<l id='196'>Qui n'osait à son aide appeler des Romains,</l>
+	<l id='197'>Parmi des nations qu'ils traitaient de barbares</l>
+	<l id='198'>Empruntait pour régner des personnes plus rares ;</l>
+	<l id='199'>Et d'un côté Gainas, de l'autre Stilicon,</l>
+	<l id='200'>À ces deux majestés ne laissant que le nom,</l>
+	<l id='201'>On voyait dominer d'une hauteur égale</l>
+	<l id='202'>Un Goth dans un empire, et dans l'autre un Vandale.</l>
+	<l id='203'>Comme de tous côtés on s'en est indigné,</l>
+	<l id='204'>De tous côtés aussi pour eux on a régné.</l>
+	<l id='205'>Le second Théodose avait pris leur modèle :</l>
+	<l id='206'>Sa soeur à cinquante ans le tenait en tutelle,</l>
+	<l id='207'>Et fut, tant qu'il régna, l'âme de ce grand corps,</l>
+	<l id='208'>Dont elle fait encor mouvoir tous les ressorts.</l>
+	<l id='209'>Pour Valentinian, tant qu'a vécu sa mère,</l>
+	<l id='210'>Il a semblé répondre à ce grand caractère :</l>
+	<l id='211'>Il a paru régner ; mais on voit aujourd'hui</l>
+	<l id='212'>Qu'il régnait par sa mère, ou sa mère pour lui ;</l>
+	<l id='213'>Et depuis son trépas il a trop fait connaître</l>
+	<l id='214'>Que s'il est empereur, Aétius est maître ;</l>
+	<l id='215'>Et c'en serait la soeur qu'il faudrait obtenir,</l>
+	<l id='216'>Si jamais aux Romains vous vouliez vous unir :</l>
+	<l id='217'>Au reste, un prince faible, envieux, mol, stupide,</l>
+	<l id='218'>Qu'un heureux succès enfle, un douteux intimide,</l>
+	<l id='219'>Qui pour unique emploi s'attache à son plaisir,</l>
+	<l id='220'>Et laisse le pouvoir à qui s'en peut saisir.</l>
+	<l id='221'>Mais le grand Mérovée est un roi magnanime,</l>
+	<l id='222'>Amoureux de la gloire, ardent après l'estime,</l>
+	<l id='223'>Qui ne permet aux siens d'emploi ni de pouvoir,</l>
+	<l id='224'>Qu'autant que par son ordre ils en doivent avoir.</l>
+	<l id='225'>Il sait vaincre et régner ; et depuis sa victoire,</l>
+	<l id='226'>S'il a déjà soumis et la Seine et la Loire,</l>
+	<l id='227'>Quand vous voudrez aux siens joindre vos combattants,</l>
+	<l id='228'>La Garomne et l'Arar ne tiendront pas longtemps.</l>
+	<l id='229'>Alors ces mêmes champs, témoins de notre honte,</l>
+	<l id='230'>En verront la vengeance et plus haute et plus prompte ;</l>
+	<l id='231'>Et pour glorieux prix d'avoir su nous venger,</l>
+	<l id='232'>Vous aurez avec lui la Gaule à partager,</l>
+	<l id='233'>D'où vous ferez savoir à toute l'Italie</l>
+	<l id='234'>Qu'alors que la prudence à la valeur s'allie,</l>
+	<l id='235'>Il n'est rien à l'épreuve, et qu'il est temps qu'enfin</l>
+	<l id='236'>Et du Tibre et du Pô vous fassiez le destin.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='237'>Prenez-en donc le droit des mains d'une princesse</l>
+	<l id='238'>Qui l'apporte pour dot à l'ardeur qui vous presse ;</l>
+	<l id='239'>Et paraissez plutôt vous saisir de son bien,</l>
+	<l id='240'>Qu'usurper des états sur qui ne vous doit rien.</l>
+	<l id='241'>Sa mère eut tant de part à la toute-puissance,</l>
+	<l id='242'>Qu'elle fit à l'empire associer Constance ;</l>
+	<l id='243'>Et si ce même empire a quelque attrait pour vous,</l>
+	<l id='244'>La fille a même droit en faveur d'un époux.</l>
+	<l id='245'>Allez, la force en main, demander ce partage</l>
+	<l id='246'>Que d'un père mourant lui laissa le suffrage :</l>
+	<l id='247'>Sous ce prétexte heureux vous verrez des Romains</l>
+	<l id='248'>Se détacher de Rome, et vous tendre les mains.</l>
+	<l id='249'>Aétius n'est pas si maître qu'on veut croire :</l>
+	<l id='250'>Il a jusque chez lui des jaloux de sa gloire ;</l>
+	<l id='251'>Et vous aurez pour vous tous ceux qui dans le coeur</l>
+	<l id='252'>Sont mécontents du prince, ou las du gouverneur.</l>
+	<l id='253'>Le débris de l'empire a de belles ruines :</l>
+	<l id='254'>S'il n'a plus de héros, il a des héroïnes.</l>
+	<l id='255'>Rome vous en offre une, et part à ce débris :</l>
+	<l id='256'>Pourriez-vous refuser votre main à ce prix ?</l>
+	<l id='257'>Ildione n'apporte ici que sa personne :</l>
+	<l id='258'>Sa dot ne peut s'étendre aux droits d'une couronne,</l>
+	<l id='259'>Ses Francs n'admettent point de femme à dominer ;</l>
+	<l id='260'>Mais les droits d'Honorie ont de quoi tout donner.</l>
+	<l id='261'>Attachez-les, seigneur, à vous, à votre race ;</l>
+	<l id='262'>Du fameux Théodose assurez-vous la place :</l>
+	<l id='263'>Rome adore la soeur, le frère est sans pouvoir ;</l>
+	<l id='264'>On hait Aétius : vous n'avez qu'à vouloir.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='265'>Est-ce comme il me faut tirer d'inquiétude,</l>
+	<l id='266'>Que de plonger mon âme en plus d'incertitude ?</l>
+	<l id='267'>Et pour vous prévaloir de mes perplexités,</l>
+	<l id='268'>Choisissez-vous exprès ces contrariétés ?</l>
+	<l id='269'>Plus j'entends raisonner, et moins on détermine :</l>
+	<l id='270'>Chacun dans sa pensée également s'obstine ;</l>
+	<l id='271'>Et quand par vous je cherche à ne plus balancer,</l>
+	<l id='272'>Vous cherchez l'un et l'autre à mieux m'embarrasser !</l>
+	<l id='273'>Je ne demande point de si diverses routes :</l>
+	<l id='274'>Il me faut des clartés, et non de nouveaux doutes ;</l>
+	<l id='275'>Et quand je vous confie un sort tel que le mien,</l>
+	<l id='276'>C'est m'offenser tous deux que ne résoudre rien.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='277'>Seigneur, chacun de nous vous parle comme il pense,</l>
+	<l id='278'>Chacun de ce grand choix vous fait voir l'importance ;</l>
+	<l id='279'>Mais nous ne sommes point jaloux de nos avis.</l>
+	<l id='280'>Croyez-le, croyez-moi, nous en serons ravis ;</l>
+	<l id='281'>Ils sont les purs effets d'une amitié fidèle,</l>
+	<l id='282' part="i">De qui le zèle ardent...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='282' part="f">Unissez donc ce zèle,</l>
+	<l id='283'>Et ne me forcez point à voir dans vos débats</l>
+	<l id='284'>Plus que je ne veux voir, et... Je n'achève pas.</l>
+	<l id='285'>Dites-moi seulement ce qui vous intéresse</l>
+	<l id='286'>À protéger ici l'une et l'autre princesse.</l>
+	<l id='287'>Leurs frères vous ont-ils, à force de présents,</l>
+	<l id='288'>Chacun de son côté rendus leurs partisans ?</l>
+	<l id='289'>Est-ce amitié pour l'une, est-ce haine pour l'autre,</l>
+	<l id='290'>Qui forme auprès de moi son avis et le vôtre ?</l>
+	<l id='291'>Par quel dessein de plaire ou de vous agrandir...</l>
+	<l id='292'>Mais derechef je veux ne rien approfondir,</l>
+	<l id='293'>Et croire qu'où je suis on n'a pas tant d'audace.</l>
+	<l id='294'>Vous, si vous vous aimez, faites-vous une grâce :</l>
+	<l id='295'>Accordez-vous ensemble, et ne contestez plus,</l>
+	<l id='296'>Ou de l'une des deux ménagez un refus,</l>
+	<l id='297'>Afin que nous puissions en cette conjoncture</l>
+	<l id='298'>À son aversion imputer la rupture.</l>
+	<l id='299'>Employez-y tous deux ce zèle et cette ardeur</l>
+	<l id='300'>Que vous dites avoir tous deux pour ma grandeur :</l>
+	<l id='301'>J'en croirai les efforts qu'on fera pour me plaire,</l>
+	<l id='302'>Et veux bien jusque-là suspendre ma colère.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Ardaric, Valamir.</head>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='303'>En serons-nous toujours les malheureux objets ?</l>
+	<l id='304'>Et verrons-nous toujours qu'il nous traite en sujets ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='305'>Fermons les yeux, seigneur, sur de telles disgrâces :</l>
+	<l id='306'>Le ciel en doit un jour effacer jusqu'aux traces ;</l>
+	<l id='307'>Mes devins me l'ont dit ; et s'il en est besoin,</l>
+	<l id='308'>Je dirai que ce jour peut-être n'est pas loin :</l>
+	<l id='309'>Ils en ont, disent-ils, un assuré présage.</l>
+	<l id='310'>Je vous confierai plus : ils m'ont dit davantage,</l>
+	<l id='311'>Et qu'un Théodoric qui doit sortir de moi</l>
+	<l id='312'>Commandera dans Rome, et s'en fera le roi ;</l>
+	<l id='313'>Et c'est ce qui m'oblige à parler pour la France,</l>
+	<l id='314'>À presser Attila d'en choisir l'alliance,</l>
+	<l id='315'>D'épouser Ildione, afin que par ce choix</l>
+	<l id='316'>Il laisse à mon hymen Honorie et ses droits.</l>
+	<l id='317'>Ne vous opposez plus aux grandeurs d'Ildione,</l>
+	<l id='318'>Souffrez en ma faveur qu'elle monte à ce trône ;</l>
+	<l id='319'>Et si jamais pour vous je puis en faire autant...</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='320'>Vous le pouvez, seigneur, et dès ce même instant.</l>
+	<l id='321'>Souffrez qu'à votre exemple en deux mots je m'explique.</l>
+	<l id='322'>Vous aimez ; mais ce n'est qu'un amour politique ;</l>
+	<l id='323'>Et puisque je vous dois confidence à mon tour,</l>
+	<l id='324'>J'ai pour l'autre princesse un véritable amour ;</l>
+	<l id='325'>Et c'est ce qui m'oblige à parler pour l'empire,</l>
+	<l id='326'>Afin qu'on m'abandonne un objet où j'aspire.</l>
+	<l id='327'>Une étroite amitié l'un à l'autre nous joint ;</l>
+	<l id='328'>Mais enfin nos désirs ne compatissent point.</l>
+	<l id='329'>Voyons qui se doit vaincre, et s'il faut que mon âme</l>
+	<l id='330'>À votre ambition immole cette flamme ;</l>
+	<l id='331'>Ou s'il n'est point plus beau que votre ambition</l>
+	<l id='332'>Elle-même s'immole à cette passion.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='333'>Ce serait pour mon coeur un cruel sacrifice.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='334'>Et l'autre pour le mien seroit un dur supplice.</l>
+	<l id='335' part="i">Vous aime-t-on ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='335' part="f">Du moins j'ai lieu de m'en flatter.</l>
+	<l id='336' part="i">Et vous, seigneur ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='336' part="f">Du moins on me daigne écouter.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='337'>Qu'un mutuel amour est un triste avantage,</l>
+	<l id='338'>Quand ce que nous aimons d'un autre est le partage !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='339'>Cependant le tyran prendra pour attentat</l>
+	<l id='340'>Cet amour qui fait seul tant de raisons d'état.</l>
+	<l id='341'>Nous n'avons que trop vu jusqu'où va sa colère,</l>
+	<l id='342'>Qui n'a pas épargné le sang même d'un frère,</l>
+	<l id='343'>Et combien après lui de rois ses alliés</l>
+	<l id='344'>À son orgueil barbare il a sacrifiés.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='345'>Les peuples qui suivaient ces illustres victimes</l>
+	<l id='346'>Suivent encor sous lui l'impunité des crimes ;</l>
+	<l id='347'>Et ce ravage affreux qu'il permet aux soldats</l>
+	<l id='348'>Lui gagne tant de coeurs, lui donne tant de bras,</l>
+	<l id='349'>Que nos propres sujets sortis de nos provinces</l>
+	<l id='350'>Sont en dépit de nous plus à lui qu'à leurs princes.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='351'>Il semble à ses discours déjà nous soupçonner,</l>
+	<l id='352'>Et ce sont des soupçons qu'il nous faut détourner.</l>
+	<l id='353'>À ce refus qu'il veut disposons ma princesse.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='354'>Pour y porter la mienne il faudra peu d'adresse.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='355'>Si vous persuadez, quel malheur est le mien !</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='356'>Et si l'on vous en croit, puis-je espérer plus rien ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='357'>Ah ! Que ne pouvons-nous être heureux l'un et l'autre !</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='358'>Ah ! Que n'est mon bonheur plus compatible au vôtre !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='359'>Allons des deux côtés chacun faire un effort.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='360'>Allons, et du succès laissons-en faire au sort.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE I. Honorie, Flavie.</head>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='361'>Je ne m'en défends point : oui, madame, Octar m'aime ;</l>
+	<l id='362'>Tout ce que je vous dis, je l'ai su de lui-même.</l>
+	<l id='363'>Ils sont rois, mais c'est tout : ce titre sans pouvoir</l>
+	<l id='364'>N'a rien presque en tous deux de ce qu'il doit avoir ;</l>
+	<l id='365'>Et le fier Attila chaque jour fait connaître</l>
+	<l id='366'>Que s'il n'est pas leur roi, du moins il est leur maître,</l>
+	<l id='367'>Et qu'ils n'ont en sa cour le rang de ses amis</l>
+	<l id='368'>Qu'autant qu'à son orgueil ils s'y montrent soumis.</l>
+	<l id='369'>Tous deux ont grand mérite, et tous deux grand courage ;</l>
+	<l id='370'>Mais ils sont, à vrai dire, ici comme en otage,</l>
+	<l id='371'>Tandis que leurs soldats en des camps éloignés</l>
+	<l id='372'>Prennent l'ordre sous lui de gens qu'il a gagnés ;</l>
+	<l id='373'>Et si de le servir leurs troupes n'étaient prêtes,</l>
+	<l id='374'>Ces rois, tous rois qu'ils sont, répondraient de leurs têtes.</l>
+	<l id='375'>Son frère aîné Vléda, plus rempli d'équité,</l>
+	<l id='376'>Les traitait malgré lui d'entière égalité ;</l>
+	<l id='377'>Il n'a pu le souffrir, et sa jalouse envie,</l>
+	<l id='378'>Pour n'avoir plus d'égaux, s'est immolé sa vie.</l>
+	<l id='379'>Le sang qu'après avoir mis ce prince au tombeau,</l>
+	<l id='380'>On lui voit chaque jour distiller du cerveau,</l>
+	<l id='381'>Punit son parricide, et chaque jour vient faire</l>
+	<l id='382'>Un tribut étonnant à celui de ce frère :</l>
+	<l id='383'>Suivant même qu'il a plus ou moins de courroux,</l>
+	<l id='384'>Ce sang forme un supplice ou plus rude ou plus doux,</l>
+	<l id='385'>S'ouvre une plus féconde ou plus stérile veine ;</l>
+	<l id='386'>Et chaque emportement porte avec lui sa peine.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='387'>Que me sert donc qu'on m'aime, et pourquoi m'engager</l>
+	<l id='388'>À souffrir un amour qui ne peut me venger ?</l>
+	<l id='389'>L'insolent Attila me donne une rivale ;</l>
+	<l id='390'>Par ce choix qu'il balance il la fait mon égale ;</l>
+	<l id='391'>Et quand pour l'en punir je crois prendre un grand roi,</l>
+	<l id='392'>Je ne prends qu'un grand nom qui ne peut rien pour moi.</l>
+	<l id='393'>Juge que de chagrins au coeur d'une princesse</l>
+	<l id='394'>Qui hait également l'orgueil et la faiblesse ;</l>
+	<l id='395'>Et de quel oeil je puis regarder un amant</l>
+	<l id='396'>Qui n'aura que pitié de mon ressentiment,</l>
+	<l id='397'>Qui ne saura qu'aimer, et dont tout le service</l>
+	<l id='398'>Ne m'assure aucun bras à me faire justice.</l>
+	<l id='399'>Jusqu'à Rome Attila m'envoie offrir sa foi,</l>
+	<l id='400'>Pour douter dans son camp entre Ildione et moi.</l>
+	<l id='401'>Hélas ! Flavie, hélas ! Si ce doute m'offense,</l>
+	<l id='402'>Que doit faire une indigne et haute préférence ?</l>
+	<l id='403'>Et n'est-ce pas alors le dernier des malheurs</l>
+	<l id='404'>Qu'un éclat impuissant d'inutiles douleurs ?</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='405'>Prévenez-le, madame ; et montrez à sa honte</l>
+	<l id='406'>Combien de tant d'orgueil vous faites peu de conte.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='407'>La bravade est aisée, un mot est bientôt dit :</l>
+	<l id='408'>Mais où fuir un tyran que la bravade aigrit ?</l>
+	<l id='409'>Retournerai-je à Rome, où j'ai laissé mon frère</l>
+	<l id='410'>Enflammé contre moi de haine et de colère,</l>
+	<l id='411'>Et qui, sans la terreur d'un nom si redouté,</l>
+	<l id='412'>Jamais n'eût mis de borne à ma captivité ?</l>
+	<l id='413'>Moi qui prétends pour dot la moitié de l'empire...</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='414'>Ce serait d'un malheur vous jeter dans un pire.</l>
+	<l id='415'>Ne vous emportez pas contre vous jusque-là :</l>
+	<l id='416'>Il est d'autres moyens de braver Attila.</l>
+	<l id='417' part="i">Épousez Valamir.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='417' part="f">Est-ce comme on le brave</l>
+	<l id='418'>Que d'épouser un roi dont il fait son esclave ?</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='419' part="i">Mais vous l'aimez.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='419' part="f">Eh bien ! Si j'aime Valamir,</l>
+	<l id='420'>Je ne veux point de rois qu'on force d'obéir ;</l>
+	<l id='421'>Et si tu me dis vrai, quelque rang que je tienne,</l>
+	<l id='422'>Cet hymen pourrait être et sa perte et la mienne.</l>
+	<l id='423'>Mais je veux qu'Attila, pressé d'un autre amour,</l>
+	<l id='424'>Endure un tel insulte au milieu de sa cour :</l>
+	<l id='425'>Ildione par là me verrait à sa suite ;</l>
+	<l id='426'>À de honteux respects je m'y verrais réduite ;</l>
+	<l id='427'>Et le sang des Césars, qu'on adora toujours,</l>
+	<l id='428'>Ferait hommage au sang d'un roi de quatre jours !</l>
+	<l id='429'>Dis-le-moi toutefois : pencherait-il vers elle ?</l>
+	<l id='430' part="i">Que t'en a dit Octar ?</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='430' part="f">Qu'il la trouve assez belle,</l>
+	<l id='431'>Qu'il en parle avec joie, et fuit à lui parler.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='432'>Il me parle, et s'il faut ne rien dissimuler,</l>
+	<l id='433'>Ses discours me font voir du respect, de l'estime,</l>
+	<l id='434'>Et même quelque amour, sans que le nom s'exprime.</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='435' part="i">C'est un peu plus qu'à l'autre.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='435' part="f">Et peut-être bien moins.</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='436'>Quoi ? Ce qu'à l'éviter il apporte de soins...</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='437'>Peut-être il ne la fuit que de peur de se rendre ;</l>
+	<l id='438'>Et s'il ne me fuit pas, il sait mieux s'en défendre.</l>
+	<l id='439'>Oui, sans doute, il la craint, et toute sa fierté</l>
+	<l id='440'>Ménage, pour choisir, un peu de liberté.</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='441'>Mais laquelle des deux voulez-vous qu'il choisisse ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='442'>Mon âme des deux parts attend même supplice :</l>
+	<l id='443'>Ainsi que mon amour, ma gloire a ses appas ;</l>
+	<l id='444'>Je meurs s'il me choisit, ou ne me choisit pas ;</l>
+	<l id='445'>Et... Mais Valamir entre, et sa vue en mon âme</l>
+	<l id='446'>Fait trembler mon orgueil, enorgueillit ma flamme.</l>
+	<l id='447'>Flavie, il peut sur moi bien plus que je ne veux :</l>
+	<l id='448'>Pour peu que je l'écoute, il aura tous mes voeux.</l>
+	<l id='449'>Dis-lui... Mais il vaut mieux faire effort sur moi-même.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Valamir, Honorie, Flavie.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='450'>Le savez-vous, seigneur, comment je veux qu'on m'aime ?</l>
+	<l id='451'>Et puisque jusqu'à moi vous portez vos souhaits,</l>
+	<l id='452'>Avez-vous su connaître à quel prix je me mets ?</l>
+	<l id='453'>Je parle avec franchise, et ne veux point vous taire</l>
+	<l id='454'>Que vos soins me plairaient, s'il ne fallait que plaire ;</l>
+	<l id='455'>Mais quand cent et cent fois ils seraient mieux reçus,</l>
+	<l id='456'>Il faut pour m'obtenir quelque chose de plus.</l>
+	<l id='457'>Attila m'est promis, j'en ai sa foi pour gage ;</l>
+	<l id='458'>La princesse des Francs prétend même avantage ;</l>
+	<l id='459'>Et bien que sur le choix il semble hésiter,</l>
+	<l id='460'>Étant ce que je suis j'aurais tort d'en douter.</l>
+	<l id='461'>Mais qui promet à deux outrage l'une et l'autre.</l>
+	<l id='462'>J'ai du coeur, on m'offense, examinez le vôtre.</l>
+	<l id='463'>Pourrez-vous m'en venger, pourrez-vous l'en punir ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='464'>N'est-ce que par le sang qu'on peut vous obtenir ?</l>
+	<l id='465'>Et faut-il que ma flamme à ce grand coeur réponde</l>
+	<l id='466'>Par un assassinat du plus grand roi du monde,</l>
+	<l id='467'>D'un roi que vous avez souhaité pour époux ?</l>
+	<l id='468'>Ne saurait-on sans crime être digne de vous ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='469'>Non, je ne vous dis pas qu'aux dépens de sa tête</l>
+	<l id='470'>Vous vous fassiez aimer, et payiez ma conquête.</l>
+	<l id='471'>De l'aimable façon qu'il vous traite aujourd'hui</l>
+	<l id='472'>Il a trop mérité ces tendresses pour lui ;</l>
+	<l id='473'>D'ailleurs, s'il faut qu'on l'aime, il est bon qu'on le craigne.</l>
+	<l id='474'>Mais c'est cet Attila qu'il faut que je dédaigne.</l>
+	<l id='475'>Pourrez-vous hautement me tirer de ses mains,</l>
+	<l id='476'>Et braver avec moi le plus fier des humains ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='477'>Il n'en est pas besoin, madame : il vous respecte,</l>
+	<l id='478'>Et bien que sa fierté vous puisse être suspecte,</l>
+	<l id='479'>À vos moindres froideurs, à vos moindres dégoûts,</l>
+	<l id='480'>Je sais que ses respects me donneraient à vous.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='481'>Que j'estime assez peu le sang de Théodose</l>
+	<l id='482'>Pour souffrir qu'en moi-même un tyran en dispose,</l>
+	<l id='483'>Qu'une main qu'il me doit me choisisse un mari,</l>
+	<l id='484'>Et me présente un roi comme son favori !</l>
+	<l id='485'>Pour peu que vous m'aimiez, seigneur, vous devez croire</l>
+	<l id='486'>Que rien ne m'est sensible à l'égal de ma gloire.</l>
+	<l id='487'>Régnez comme Attila, je vous préfère à lui ;</l>
+	<l id='488'>Mais point d'époux qui n'ose en dédaigner l'appui,</l>
+	<l id='489'>Point d'époux qui m'abaisse au rang de ses sujettes.</l>
+	<l id='490'>Enfin, je veux un roi : regardez si vous l'êtes ;</l>
+	<l id='491'>Et quoi que sur mon coeur vous ayez d'ascendant,</l>
+	<l id='492'>Sachez qu'il n'aimera qu'un prince indépendant.</l>
+	<l id='493'>Voyez à quoi, seigneur, on connaît les monarques :</l>
+	<l id='494'>Ne m'offrez plus de voeux qui n'en portent les marques ;</l>
+	<l id='495'>Et soyez satisfait qu'on vous daigne assurer</l>
+	<l id='496'>Qu'à tous les rois ce coeur voudrait vous préférer.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Valamir, Flavie.</head>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='497'>Quelle hauteur, Flavie, et que faut-il qu'espère</l>
+	<l id='498' part="i">Un roi dont tous les voeux...</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='498' part="f">Seigneur, laissez-la faire :</l>
+	<l id='499'>L'amour sera le maître ; et la même hauteur</l>
+	<l id='500'>Qui vous dispute ici l'empire de son coeur,</l>
+	<l id='501'>Vous donne en même temps le secours de la haine</l>
+	<l id='502'>Pour triompher bientôt de la fierté romaine.</l>
+	<l id='503'>L'orgueil qui vous dédaigne en dépit de ses feux</l>
+	<l id='504'>Fait haïr Attila de se promettre à deux ;</l>
+	<l id='505'>Non que cette fierté n'en soit assez jalouse</l>
+	<l id='506'>Pour ne pouvoir souffrir qu'Ildione l'épouse :</l>
+	<l id='507'>À son frère, à ses Francs faites-la renvoyer,</l>
+	<l id='508'>Vous verrez tout ce coeur soudain se déployer,</l>
+	<l id='509'>Suivre ce qui lui plaît, braver ce qui l'irrite,</l>
+	<l id='510'>Et livrer hautement la victoire au mérite.</l>
+	<l id='511'>Ne vous rebutez point d'un peu d'emportement :</l>
+	<l id='512'>Quelquefois malgré nous il vient un bon moment.</l>
+	<l id='513'>L'amour fait des heureux lorsque moins on y pense ;</l>
+	<l id='514'>Et je ne vous dis rien sans beaucoup d'apparence.</l>
+	<l id='515'>Ardaric vous apporte un entretien plus doux.</l>
+	<l id='516'>Adieu : comme le coeur, le temps sera pour vous.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Ardaric, Valamir.</head>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='517'>Qu'avez-vous obtenu, seigneur, de la princesse ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='518'>Beaucoup, et rien : j'ai vu pour moi quelque tendresse ;</l>
+	<l id='519'>Mais elle sait d'ailleurs si bien ce qu'elle vaut,</l>
+	<l id='520'>Que si celle des Francs a le coeur aussi haut,</l>
+	<l id='521'>Si c'est à même prix, seigneur, qu'elle se donne,</l>
+	<l id='522'>Vous lui pourrez longtemps offrir votre couronne.</l>
+	<l id='523'>Mon rival est haï, je n'en saurais douter ;</l>
+	<l id='524'>Tout le coeur est à moi, j'ai lieu de m'en vanter ;</l>
+	<l id='525'>Au reste des mortels je sais qu'on me préfère,</l>
+	<l id='526'>Et ne sais toutefois ce qu'il faut que j'espère.</l>
+	<l id='527'>Voyez votre Ildione ; et puissiez-vous, seigneur,</l>
+	<l id='528'>Y trouver plus de jour à lire dans son coeur,</l>
+	<l id='529'>Une âme plus tournée à remplir votre attente,</l>
+	<l id='530'>Un esprit plus facile ! Octar sort de sa tente.</l>
+	<l id='531' part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Ardaric, Octar.</head>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='531' part="f">Pourrai-je voir la princesse à mon tour ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='532'>Non, à moins qu'il vous plaise attendre son retour ;</l>
+	<l id='533'>Mais, à ce que ses gens, seigneur, m'ont fait entendre,</l>
+	<l id='534'>Vous n'avez en ce lieu qu'un moment à l'attendre.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='535'>Dites-moi cependant : vous fûtes prisonnier</l>
+	<l id='536'>Du roi des Francs, son frère, en ce combat dernier ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='537'>Le désordre, seigneur, des champs catalauniques</l>
+	<l id='538'>Me donna peu de part aux disgrâces publiques.</l>
+	<l id='539'>Si j'y fus prisonnier de ce roi généreux,</l>
+	<l id='540'>Il me fit dans sa cour un sort assez heureux :</l>
+	<l id='541'>Ma prison y fut libre ; et j'y trouvai sans cesse</l>
+	<l id='542'>Une bonté si rare au coeur de la princesse,</l>
+	<l id='543'>Que de retour ici je pense lui devoir</l>
+	<l id='544'>Les plus sacrés respects qu'un sujet puisse avoir.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='545'>Qu'un monarque est heureux lorsque le ciel lui donne</l>
+	<l id='546'>La main d'une si belle et si rare personne !</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='547'>Vous savez toutefois qu'Attila ne l'est pas,</l>
+	<l id='548'>Et combien son trop d'heur lui cause d'embarras.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='549'>Ah ! Puisqu'il a des yeux, sans doute il la préfère.</l>
+	<l id='550'>Mais vous vous louez fort aussi du roi son frère.</l>
+	<l id='551'>Ne me déguisez rien : a-t-il des qualités</l>
+	<l id='552'>À se faire admirer ainsi de tous côtés ?</l>
+	<l id='553'>Est-ce une vérité que ce que j'entends dire,</l>
+	<l id='554'>Ou si c'est sans raison que l'univers l'admire ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='555'>Je ne sais pas, seigneur, ce qu'on vous en a dit ;</l>
+	<l id='556'>Mais si pour l'admirer ce que j'ai vu suffit,</l>
+	<l id='557'>Je l'ai vu dans la paix, je l'ai vu dans la guerre,</l>
+	<l id='558'>Porter partout un front de maître de la terre.</l>
+	<l id='559'>J'ai vu plus d'une fois de fières nations</l>
+	<l id='560'>Désarmer son courroux par leurs soumissions.</l>
+	<l id='561'>J'ai vu tous les plaisirs de son âme héroïque</l>
+	<l id='562'>N'avoir rien que d'auguste et que de magnifique ;</l>
+	<l id='563'>Et ses illustres soins ouvrir à ses sujets</l>
+	<l id='564'>L'école de la guerre au milieu de la paix.</l>
+	<l id='565'>Par ces délassements sa noble inquiétude</l>
+	<l id='566'>De ses justes desseins faisait l'heureux prélude ;</l>
+	<l id='567'>Et si j'ose le dire, il doit nous être doux</l>
+	<l id='568'>Que ce héros les tourne ailleurs que contre nous.</l>
+	<l id='569'>Je l'ai vu, tout couvert de poudre et de fumée,</l>
+	<l id='570'>Donner le grand exemple à toute son armée,</l>
+	<l id='571'>Semer par ses périls l'effroi de toutes parts,</l>
+	<l id='572'>Bouleverser les murs d'un seul de ses regards,</l>
+	<l id='573'>Et sur l'orgueil brisé des plus superbes têtes</l>
+	<l id='574'>De sa course rapide entasser les conquêtes.</l>
+	<l id='575'>Ne me commandez point de peindre un si grand roi :</l>
+	<l id='576'>Ce que j'en ai vu passe un homme tel que moi ;</l>
+	<l id='577'>Mais je ne puis, seigneur, m'empêcher de vous dire</l>
+	<l id='578'>Combien son jeune prince est digne qu'on l'admire.</l>
+	<l id='579'>Il montre un coeur si haut sous un front délicat</l>
+	<l id='580'>Que dans son premier lustre il est déjà soldat :</l>
+	<l id='581'>Le corps attend les ans, mais l'âme est toute prête.</l>
+	<l id='582'>D'un gros de cavaliers il se met à la tête,</l>
+	<l id='583'>Et l'épée à la main, anime l'escadron</l>
+	<l id='584'>Qu'enorgueillit l'honneur de marcher sous son nom.</l>
+	<l id='585'>Tout ce qu'a d'éclatant la majesté du père,</l>
+	<l id='586'>Tout ce qu'ont de charmant les grâces de la mère,</l>
+	<l id='587'>Tout brille sur ce front, dont l'aimable fierté</l>
+	<l id='588'>Porte empreints et ce charme et cette majesté.</l>
+	<l id='589'>L'amour et le respect qu'un si jeune mérite...</l>
+	<l id='590'>Mais la princesse vient, seigneur, et je vous quitte.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Ildione, Ardaric.</head>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='591'>On vous a consulté, seigneur ; m'apprendrez-vous</l>
+	<l id='592'>Comment votre Attila dispose enfin de nous ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='593'>Comment disposez-vous vous-même de mon âme ?</l>
+	<l id='594'>Attila va choisir ; il faut parler, madame :</l>
+	<l id='595'>Si son choix est pour vous, que ferez-vous pour moi ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='596'>Tout ce que peut un coeur qu'engage ailleurs ma foi.</l>
+	<l id='597'>C'est devers vous qu'il penche ; et si je ne vous aime,</l>
+	<l id='598'>Je vous plaindrai du moins à l'égal de moi-même :</l>
+	<l id='599'>J'aurai mêmes ennuis, j'aurai mêmes douleurs ;</l>
+	<l id='600'>Mais je n'oublierai point que je me dois ailleurs.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='601'>Cette foi que peut-être on est près de vous rendre,</l>
+	<l id='602'>Si vous aviez du coeur, vous sauriez la reprendre.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='603'>J'en ai, s'il faut me vaincre, autant qu'on peut avoir,</l>
+	<l id='604'>Et n'en aurai jamais pour vaincre mon devoir.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='605'>Mais qui s'engage à deux dégage l'une et l'autre.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='606'>Ce serait ma pensée aussi bien que la vôtre ;</l>
+	<l id='607'>Et si je n'étais pas, seigneur, ce que je suis,</l>
+	<l id='608'>J'en prendrais quelque droit de finir mes ennuis ;</l>
+	<l id='609'>Mais l'esclavage fier d'une haute naissance,</l>
+	<l id='610'>Où toute autre peut tout, me tient dans l'impuissance ;</l>
+	<l id='611'>Et victime d'état, je dois sans reculer</l>
+	<l id='612'>Attendre aveuglément qu'on me daigne immoler.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='613'>Attendre qu'Attila, l'objet de votre haine,</l>
+	<l id='614'>Daigne vous immoler à la fierté romaine ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='615'>Qu'un pareil sacrifice aurait pour moi d'appas !</l>
+	<l id='616'>Et que je souffrirai s'il ne s'y résout pas !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='617'>Qu'il serait glorieux de le faire vous-même,</l>
+	<l id='618'>D'en épargner la honte à votre diadème !</l>
+	<l id='619'>J'entends celui des Francs, qu'au lieu de maintenir...</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='620'>C'est à mon frère alors de venger et punir ;</l>
+	<l id='621'>Mais ce n'est point à moi de rompre une alliance</l>
+	<l id='622'>Dont il vient d'attacher vos Huns avec sa France,</l>
+	<l id='623'>Et me faire par là du gage de la paix</l>
+	<l id='624'>Le flambeau d'une guerre à ne finir jamais.</l>
+	<l id='625'>Il faut qu'Attila parle ; et puisse être Honorie</l>
+	<l id='626'>La plus considérée, ou moi la moins chérie !</l>
+	<l id='627'>Puisse-t-il se résoudre à me manquer de foi !</l>
+	<l id='628'>C'est tout ce que je puis et pour vous et pour moi.</l>
+	<l id='629'>S'il vous faut des souhaits, je n'en suis point avare ;</l>
+	<l id='630'>S'il vous faut des regrets, tout mon coeur s'y prépare,</l>
+	<l id='631' part="i">Et veut bien...</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='631' part="f">Que feront d'inutiles souhaits</l>
+	<l id='632'>Que laisser à tous deux d'inutiles regrets ?</l>
+	<l id='633'>Pouvez-vous espérer qu'Attila vous dédaigne ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='634'>Rome est encor puissante, il se peut qu'il la craigne.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='635'>À moins que pour appui Rome n'ait vos froideurs,</l>
+	<l id='636'>Vos yeux l'emporteront sur toutes ses grandeurs :</l>
+	<l id='637'>Je le sens en moi-même, et ne vois point d'empire</l>
+	<l id='638'>Qu'en mon coeur d'un regard ils ne puissent détruire.</l>
+	<l id='639'>Armez-les de rigueurs, madame, et par pitié</l>
+	<l id='640'>D'un charme si funeste ôtez-leur la moitié :</l>
+	<l id='641'>C'en sera trop encore, et pour peu qu'ils éclatent,</l>
+	<l id='642'>Il n'est aucun espoir dont mes désirs se flattent.</l>
+	<l id='643'>Faites donc davantage : allez jusqu'au refus,</l>
+	<l id='644'>Ou croyez qu'Ardaric déjà n'espère plus,</l>
+	<l id='645'>Qu'il ne vit déjà plus, et que votre hyménée</l>
+	<l id='646'>A déjà par vos mains tranché sa destinée.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='647'>Ai-je si peu de part en de tels déplaisirs,</l>
+	<l id='648'>Que pour m'y voir en prendre il faille vos soupirs ?</l>
+	<l id='649'>Me voulez-vous forcer à la honte des larmes ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='650'>Si contre tant de maux vous m'enviez leurs charmes,</l>
+	<l id='651'>Faites quelque autre grâce à mes sens alarmés,</l>
+	<l id='652'>Madame, et pour le moins dites que vous m'aimez.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='653'>Ne vouloir pas m'en croire à moins d'un mot si rude,</l>
+	<l id='654'>C'est pour une belle âme un peu d'ingratitude.</l>
+	<l id='655'>De quelques traits pour vous que mon coeur soit frappé,</l>
+	<l id='656'>Ce grand mot jusqu'ici ne m'est point échappé ;</l>
+	<l id='657'>Mais haïr un rival, endurer d'être aimée,</l>
+	<l id='658'>Comme vous de ce choix avoir l'âme alarmée,</l>
+	<l id='659'>À votre espoir flottant donner tous mes souhaits,</l>
+	<l id='660'>À votre espoir déçu donner tous mes regrets,</l>
+	<l id='661'>N'est-ce point dire trop ce qui sied mal à dire ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='662' part="i">Mais vous épouserez Attila.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='662' part="f">J'en soupire,</l>
+	<l id='663' part="i">Et mon coeur...</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='663' part="f">Que fait-il, ce coeur, que m'abuser,</l>
+	<l id='664'>Si, même en n'osant rien, il craint de trop oser ?</l>
+	<l id='665'>Non, si vous en aviez, vous sauriez la reprendre,</l>
+	<l id='666'>Cette foi que peut-être on est prêt de vous rendre.</l>
+	<l id='667'>Je ne m'en dédis point, et ma juste douleur</l>
+	<l id='668'>Ne peut vous dire assez que vous manquez de coeur.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='669'>Il faut donc qu'avec vous tout à fait je m'explique.</l>
+	<l id='670'>Écoutez ; et surtout, seigneur, plus de réplique.</l>
+	<l id='671'>Je vous aime : ce mot me coûte à prononcer ;</l>
+	<l id='672'>Mais puisqu'il vous plaît tant, je veux bien m'y forcer.</l>
+	<l id='673'>Permettez toutefois que je vous die encore</l>
+	<l id='674'>Que si votre Attila de ce grand choix m'honore,</l>
+	<l id='675'>Je recevrai sa main d'un oeil aussi content</l>
+	<l id='676'>Que si je me donnais ce que mon coeur prétend :</l>
+	<l id='677'>Non que de son amour je ne prenne un tel gage</l>
+	<l id='678'>Pour le dernier supplice et le dernier outrage,</l>
+	<l id='679'>Et que le dur effort d'un si cruel moment</l>
+	<l id='680'>Ne redouble ma haine et mon ressentiment ;</l>
+	<l id='681'>Mais enfin mon devoir veut une déférence</l>
+	<l id='682'>Où même il ne soupçonne aucune répugnance.</l>
+	<l id='683'>Je l'épouserai donc, et réserve pour moi</l>
+	<l id='684'>La gloire de répondre à ce que je me dois.</l>
+	<l id='685'>J'ai ma part, comme un autre, à la haine publique</l>
+	<l id='686'>Qu'aime à semer partout son orgueil tyrannique ;</l>
+	<l id='687'>Et le hais d'autant plus, que son ambition</l>
+	<l id='688'>A voulu s'asservir toute ma nation ;</l>
+	<l id='689'>Qu'en dépit des traités et de tout leur mystère</l>
+	<l id='690'>Un tyran qui déjà s'est immolé son frère,</l>
+	<l id='691'>Si jamais sa fureur ne redoutait plus rien,</l>
+	<l id='692'>Aurait peut-être peine à faire grâce au mien.</l>
+	<l id='693'>Si donc ce triste choix m'arrache à ce que j'aime,</l>
+	<l id='694'>S'il me livre à l'horreur qu'il me fait de lui-même,</l>
+	<l id='695'>S'il m'attache à la main qui veut tout saccager,</l>
+	<l id='696'>Voyez que d'intérêts, que de maux à venger !</l>
+	<l id='697'>Mon amour, et ma haine, et la cause commune</l>
+	<l id='698'>Crieront à la vengeance, en voudront trois pour une ;</l>
+	<l id='699'>Et comme j'aurai lors sa vie entre mes mains,</l>
+	<l id='700'>Il a lieu de me craindre autant que je vous plains.</l>
+	<l id='701'>Assez d'autres tyrans ont péri par leurs femmes :</l>
+	<l id='702'>Cette gloire aisément touche les grandes âmes,</l>
+	<l id='703'>Et de ce même coup qui brisera mes fers,</l>
+	<l id='704'>Il est beau que ma main venge tout l'univers.</l>
+	<l id='705'>Voilà quelle je suis, voilà ce que je pense,</l>
+	<l id='706'>Voilà ce que l'amour prépare à qui l'offense.</l>
+	<l id='707'>Vous, faites-moi justice ; et songez mieux, seigneur,</l>
+	<l id='708'>S'il faut me dire encor que je manque de coeur.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='709'>Vous préserve le ciel de l'épreuve cruelle</l>
+	<l id='710'>Où veut un coeur si grand mettre une âme si belle !</l>
+	<l id='711'>Et puisse Attila prendre un esprit assez doux</l>
+	<l id='712'>Pour vouloir qu'on vous doive autant à lui qu'à vous !</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Attila, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='713'>Octar, as-tu pris soin de redoubler ma garde ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='714'>Oui, seigneur, et déjà chacun s'entre-regarde,</l>
+	<l id='715'>S'entre-demande à quoi ces ordres que j'ai mis...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='716'>Quand on a deux rivaux, manque-t-on d'ennemis ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='717'>Mais, seigneur, jusqu'ici vous en doutez encore.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='718'>Et pour bien éclaircir ce qu'en effet j'ignore,</l>
+	<l id='719'>Je me mets à couvert de ce que de plus noir</l>
+	<l id='720'>Inspire à leurs pareils l'amour au désespoir ;</l>
+	<l id='721'>Et ne laissant pour arme à leur douleur pressante</l>
+	<l id='722'>Qu'une haine sans force, une rage impuissante,</l>
+	<l id='723'>Je m'assure un triomphe en ce glorieux jour</l>
+	<l id='724'>Sur leurs ressentiments, comme sur leur amour.</l>
+	<l id='725' part="i">Qu'en disent nos deux rois ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='725' part="f">Leurs âmes, alarmées</l>
+	<l id='726'>De voir par ce renfort leurs tentes enfermées,</l>
+	<l id='727'>affectent de montrer une tranquillité...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='728'>De leur tente à la mienne ils ont la liberté.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='729'>Oui, mais seuls, et sans suite ; et quant aux deux princesses,</l>
+	<l id='730'>Que de leurs actions on laisse encor maîtresses,</l>
+	<l id='731'>On ne permet d'entrer chez elles qu'à leurs gens ;</l>
+	<l id='732'>Et j'en bannis par là ces rois et leurs agents.</l>
+	<l id='733'>N'en ayez plus, seigneur, aucune inquiétude :</l>
+	<l id='734'>Je les fais observer avec exactitude ;</l>
+	<l id='735'>Et de quelque côté qu'elles tournent leurs pas,</l>
+	<l id='736'>J'ai des yeux tous placés qui ne les manquent pas :</l>
+	<l id='737'>On vous rendra bon compte et des deux rois et d'elles.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='738'>Il suffit sur ce point : apprends d'autres nouvelles.</l>
+	<l id='739'>Ce grand chef des Romains, l'illustre Aétius,</l>
+	<l id='740'>Le seul que je craignais, Octar, il ne vit plus.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='741' part="i">Qui vous en a défait ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='741' part="f">Valentinian même.</l>
+	<l id='742'>Craignant qu'il n'usurpât jusqu'à son diadème,</l>
+	<l id='743'>Et pressé des soupçons où j'ai su l'engager,</l>
+	<l id='744'>Lui-même, à ses yeux même, il l'a fait égorger.</l>
+	<l id='745'>Rome perd en lui seul plus de quatre batailles :</l>
+	<l id='746'>Je me vois l'accès libre au pied de ses murailles ;</l>
+	<l id='747'>Et si j'y fais paraître Honorie et ses droits,</l>
+	<l id='748'>Contre un tel empereur j'aurai toutes les voix :</l>
+	<l id='749'>Tant l'effroi de mon nom, et la haine publique</l>
+	<l id='750'>Qu'attire sur sa tête une mort si tragique,</l>
+	<l id='751'>Sauront faire aisément, sans en venir aux mains,</l>
+	<l id='752'>De l'époux d'une soeur un maître des Romains.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='753'>Ainsi donc votre choix tombe sur Honorie ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='754'>J'y fais ce que je puis, et ma gloire m'en prie ;</l>
+	<l id='755'>Mais d'ailleurs Ildione a pour moi tant d'attraits,</l>
+	<l id='756'>Que mon coeur étonné flotte plus que jamais.</l>
+	<l id='757'>Je sens combattre encor dans ce coeur qui soupire</l>
+	<l id='758'>Les droits de la beauté contre ceux de l'empire.</l>
+	<l id='759'>L'effort de ma raison qui soutient mon orgueil</l>
+	<l id='760'>Ne peut non plus que lui soutenir un coup d'oeil ;</l>
+	<l id='761'>Et quand de tout moi-même il m'a rendu le maître,</l>
+	<l id='762'>Pour me rendre à mes fers elle n'a qu'à paraître.</l>
+	<l id='763'>Ô beauté, qui te fais adorer en tous lieux,</l>
+	<l id='764'>Cruel poison de l'âme, et doux charme des yeux,</l>
+	<l id='765'>Que devient, quand tu veux, l'autorité suprême,</l>
+	<l id='766'>Si tu prends malgré moi l'empire de moi-même,</l>
+	<l id='767'>Et si cette fierté qui fait partout la loi</l>
+	<l id='768'>Ne peut me garantir de la prendre de toi ?</l>
+	<l id='769'>Va la trouver pour moi, cette beauté charmante ;</l>
+	<l id='770'>Du plus utile choix donne-lui l'épouvante ;</l>
+	<l id='771'>Pour l'obliger à fuir, peins-lui bien tout l'affront</l>
+	<l id='772'>Que va mon hyménée imprimer sur son front.</l>
+	<l id='773'>Ose plus : fais-lui peur d'une prison sévère</l>
+	<l id='774'>Qui me réponde ici du courroux de son frère,</l>
+	<l id='775'>Et retienne tous ceux que l'espoir de sa foi</l>
+	<l id='776'>Pourrait en un moment soulever contre moi.</l>
+	<l id='777'>Mais quelle âme en effet n'en serait pas séduite ?</l>
+	<l id='778'>Je vois trop de périls, Octar, en cette fuite :</l>
+	<l id='779'>Ses yeux, mes souverains, à qui tout est soumis,</l>
+	<l id='780'>Me sauraient d'un coup d'oeil faire trop d'ennemis.</l>
+	<l id='781'>Pour en sauver mon coeur prends une autre manière.</l>
+	<l id='782'>Fais-m'en haïr, peins-moi d'une humeur noire et fière ;</l>
+	<l id='783'>Dis-lui que j'aime ailleurs ; et fais-lui prévenir</l>
+	<l id='784'>La gloire qu'Honorie est prête d'obtenir.</l>
+	<l id='785'>Fais qu'elle me dédaigne, et me préfère un autre</l>
+	<l id='786'>Qui n'ait pour tout pouvoir qu'un faible emprunt du nôtre :</l>
+	<l id='787'>Ardaric, Valamir, ne m'importe des deux.</l>
+	<l id='788'>Mais voir en d'autres bras l'objet de tous mes voeux !</l>
+	<l id='789'>Vouloir qu'à mes yeux même un autre le possède !</l>
+	<l id='790'>Ah ! Le mal est encor plus doux que le remède.</l>
+	<l id='791' part="i">Dis-lui, fais-lui savoir...</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='791' part="m">Quoi, seigneur ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='791' part="f">Je ne sais :</l>
+	<l id='792'>Tout ce que j'imagine est d'un fâcheux essai.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='793'>À quand remettez-vous, après tout, d'en résoudre ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='794'>Octar, je l'aperçois. Quel nouveau coup de foudre !</l>
+	<l id='795'>Ô raison confondue, orgueil presque étouffé,</l>
+	<l id='796'>Avant ce coup fatal que n'as-tu triomphé !</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Attila, Ildione, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='797'>Venir jusqu'en ma tente enlever mes hommages,</l>
+	<l id='798'>Madame, c'est trop loin pousser vos avantages :</l>
+	<l id='799'>Ne vous suffit-il point que le coeur soit à vous ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='800'>C'est de quoi faire naître un espoir assez doux.</l>
+	<l id='801'>Ce n'est pas toutefois, seigneur, ce qui m'amène :</l>
+	<l id='802'>Ce sont des nouveautés dont j'ai lieu d'être en peine.</l>
+	<l id='803'>Votre garde est doublée, et par un ordre exprès</l>
+	<l id='804'>Je vois ici deux rois observés de fort près.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='805'>Prenez-vous intérêt ou pour l'un ou pour l'autre ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='806'>Mon intérêt, seigneur, c'est d'avoir part au vôtre :</l>
+	<l id='807'>J'ai droit en vos périls de m'en mettre en souci,</l>
+	<l id='808'>Et de plus, je me trompe, ou l'on m'observe aussi.</l>
+	<l id='809' part="i">Vous serais-je suspecte ? Et de quoi ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='809' part="f">D'être aimée.</l>
+	<l id='810'>Madame, vos attraits, dont j'ai l'âme charmée,</l>
+	<l id='811'>Si j'en crois l'apparence, ont blessé plus d'un roi ;</l>
+	<l id='812'>D'autres ont un coeur tendre et des yeux, comme moi ;</l>
+	<l id='813'>Et pour vous et pour moi j'en préviens l'insolence,</l>
+	<l id='814'>Qui pourrait sur vous-même user de violence.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='815'>Il en est des moyens plus doux et plus aisés,</l>
+	<l id='816'>Si je vous charme autant que vous m'en accusez.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='817'>Ah ! Vous me charmez trop, moi de qui l'âme altière</l>
+	<l id='818'>Cherche à voir sous mes pas trembler la terre entière :</l>
+	<l id='819'>Moi qui veux pouvoir tout, sitôt que je vous vois,</l>
+	<l id='820'>Malgré tout cet orgueil, je ne puis rien sur moi.</l>
+	<l id='821'>Je veux, je tâche en vain d'éviter par la fuite</l>
+	<l id='822'>Ce charme dominant qui marche à votre suite :</l>
+	<l id='823'>Mes plus heureux succès ne font qu'enfoncer mieux</l>
+	<l id='824'>L'inévitable trait dont me percent vos yeux.</l>
+	<l id='825'>Un regard imprévu leur fait une victoire ;</l>
+	<l id='826'>Leur moindre souvenir l'emporte sur ma gloire :</l>
+	<l id='827'>Il s'empare et du coeur et des soins les plus doux ;</l>
+	<l id='828'>Et j'oublie Attila, dès que je pense à vous.</l>
+	<l id='829'>Que pourrai-je, madame, après que l'hyménée</l>
+	<l id='830'>Aura mis sous vos lois toute ma destinée ?</l>
+	<l id='831'>Quand je voudrai punir, vous saurez pardonner ;</l>
+	<l id='832'>Vous refuserez grâce où j'en voudrai donner ;</l>
+	<l id='833'>Vous enverrez la paix où je voudrai la guerre ;</l>
+	<l id='834'>Vous saurez par mes mains conduire le tonnerre ;</l>
+	<l id='835'>Et tout mon amour tremble à s'accorder un bien</l>
+	<l id='836'>Qui me met en état de ne pouvoir plus rien.</l>
+	<l id='837'>Attentez un peu moins sur ce pouvoir suprême,</l>
+	<l id='838'>Madame, et pour un jour cessez d'être vous-même ;</l>
+	<l id='839'>Cessez d'être adorable, et laissez-moi choisir</l>
+	<l id='840'>Un objet qui m'en laisse aisément ressaisir.</l>
+	<l id='841'>Défendez à vos yeux cet éclat invincible</l>
+	<l id='842'>Avec qui ma fierté devient incompatible ;</l>
+	<l id='843'>Prêtez-moi des refus, prêtez-moi des mépris,</l>
+	<l id='844'>Et rendez-moi vous-même à moi-même à ce prix.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='845'>Je croyais qu'on me dût préférer Honorie</l>
+	<l id='846'>Avec moins de douceurs et de galanterie ;</l>
+	<l id='847'>Et je n'attendais pas une civilité</l>
+	<l id='848'>Qui malgré cette honte enflât ma vanité.</l>
+	<l id='849'>Ses honneurs près des miens ne sont qu'honneurs frivoles,</l>
+	<l id='850'>Ils n'ont que des effets, j'ai les belles paroles ;</l>
+	<l id='851'>Et si de son côté vous tournez tous vos soins,</l>
+	<l id='852'>C'est qu'elle a moins d'attraits, et se fait craindre moins.</l>
+	<l id='853'>L'aurait-on jamais cru, qu'un Attila pût craindre ?</l>
+	<l id='854'>Qu'un si léger éclat eût de quoi l'y contraindre,</l>
+	<l id='855'>Et que de ce grand nom qui remplit tout d'effroi</l>
+	<l id='856'>Il n'osât hasarder tout l'orgueil contre moi ?</l>
+	<l id='857'>Avant qu'il porte ailleurs ces timides hommages</l>
+	<l id='858'>Que jusqu'ici j'enlève avec tant d'avantages,</l>
+	<l id='859'>Apprenez-moi, seigneur, pour suivre vos desseins,</l>
+	<l id='860'>Comme il faut dédaigner le plus grand des humains ;</l>
+	<l id='861'>Dites-moi quels mépris peuvent le satisfaire.</l>
+	<l id='862'>Ah ! Si je lui déplais à force de lui plaire,</l>
+	<l id='863'>Si de son trop d'amour sa haine est tout le fruit,</l>
+	<l id='864'>Alors qu'on la mérite, où se voit-on réduit ?</l>
+	<l id='865'>Allez, seigneur, allez où tant d'orgueil aspire.</l>
+	<l id='866'>Honorie a pour dot la moitié de l'empire ;</l>
+	<l id='867'>D'un mérite penchant c'est un ferme soutien ;</l>
+	<l id='868'>Et cet heureux éclat efface tout le mien :</l>
+	<l id='869' part="i">Je n'ai que ma personne.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='869' part="f">Et c'est plus que l'empire,</l>
+	<l id='870'>Plus qu'un droit souverain sur tout ce qui respire.</l>
+	<l id='871'>Tout ce qu'a cet empire ou de grand ou de doux,</l>
+	<l id='872'>Je veux mettre ma gloire à le tenir de vous.</l>
+	<l id='873'>Faites-moi l'accepter, et pour reconnaissance</l>
+	<l id='874'>Quels climats voulez-vous sous votre obéissance ?</l>
+	<l id='875'>Si la Gaule vous plaît, vous la partagerez :</l>
+	<l id='876'>J'en offre la conquête à vos yeux adorés ;</l>
+	<l id='877' part="i">Et mon amour...</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='877' part="f">À quoi que cet amour s'apprête,</l>
+	<l id='878'>La main du conquérant vaut mieux que sa conquête.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='879'>Quoi ? Vous pourriez m'aimer, madame, à votre tour ?</l>
+	<l id='880'>Qui sème tant d'horreurs fait naître peu d'amour.</l>
+	<l id='881'>Qu'aimeriez-vous en moi ? Je suis cruel, barbare ;</l>
+	<l id='882'>Je n'ai que ma fierté, que ma fureur de rare :</l>
+	<l id='883'>On me craint, on me hait ; on me nomme en tout lieu</l>
+	<l id='884'>La terreur des mortels et le fléau de Dieu.</l>
+	<l id='885'>Aux refus que je veux c'est là trop de matière ;</l>
+	<l id='886'>Et si ce n'est assez d'y joindre la prière,</l>
+	<l id='887'>Si rien ne vous résout à dédaigner ma foi,</l>
+	<l id='888'>Appréhendez pour vous comme je fais pour moi.</l>
+	<l id='889'>Si vos tyrans d'appas retiennent ma franchise,</l>
+	<l id='890'>Je puis l'être comme eux de qui me tyrannise.</l>
+	<l id='891'>Souvenez-vous enfin que je suis Attila,</l>
+	<l id='892'>Et que c'est dire tout que d'aller jusque-là.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='893'>Il faut donc me résoudre ? Eh bien ! J'ose... De grâce,</l>
+	<l id='894'>Dispensez-moi du reste, il y faut trop d'audace.</l>
+	<l id='895'>Je tremble comme un autre à l'aspect d'Attila,</l>
+	<l id='896'>Et ne me puis, seigneur, oublier jusque-là.</l>
+	<l id='897'>J'obéis : ce mot seul dit tout ce qu'il souhaite ;</l>
+	<l id='898'>Si c'est m'expliquer mal, qu'il en soit l'interprète.</l>
+	<l id='899'>J'ai tous les sentiments qu'il lui plaît m'ordonner ;</l>
+	<l id='900'>J'accepte cette dot qu'il vient de me donner ;</l>
+	<l id='901'>Je partage déjà la Gaule avec mon frère,</l>
+	<l id='902'>Et veux tout ce qu'il faut pour ne vous plus déplaire.</l>
+	<l id='903'>Mais ne puis-je savoir, pour ne manquer à rien,</l>
+	<l id='904'>À qui vous me donnez, quand j'obéis si bien ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='905'>Je n'ose le résoudre, et de nouveau je tremble,</l>
+	<l id='906'>Sitôt que je conçois tant de chagrins ensemble.</l>
+	<l id='907'>C'est trop que de vous perdre et vous donner ailleurs ;</l>
+	<l id='908'>Madame, laissez-moi séparer mes douleurs :</l>
+	<l id='909'>Souffrez qu'un déplaisir me prépare pour l'autre ;</l>
+	<l id='910'>Après mon hyménée on aura soin du vôtre :</l>
+	<l id='911'>Ce grand effort déjà n'est que trop rigoureux,</l>
+	<l id='912'>Sans y joindre celui de faire un autre heureux.</l>
+	<l id='913'>Souvent un peu de temps fait plus qu'on n'ose attendre.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='914'>J'oserai plus que vous, seigneur, et sans en prendre ;</l>
+	<l id='915'>Et puisque de son bien chacun peut ordonner,</l>
+	<l id='916'>Votre coeur est à moi, j'oserai le donner ;</l>
+	<l id='917'>Mais je ne le mettrai qu'en la main qu'il souhaite.</l>
+	<l id='918'>Vous, traitez-moi, de grâce, ainsi que je vous traite ;</l>
+	<l id='919'>Et quand ce coup pour vous sera moins rigoureux,</l>
+	<l id='920'>Avant que me donner consultez-en mes voeux.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='921' part="i">Vous aimeriez quelqu'un !</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='921' part="f">Jusqu'à votre hyménée</l>
+	<l id='922'>Mon coeur est au monarque à qui l'on m'a donnée ;</l>
+	<l id='923'>Mais quand par ce grand choix j'en perdrai tout espoir,</l>
+	<l id='924'>J'ai des yeux qui verront ce qu'il me faudra voir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Attila, Honorie, Ildione, Octar.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='925'>Ce grand choix est donc fait, seigneur, et pour le faire</l>
+	<l id='926'>Vous avez à tel point redouté ma colère,</l>
+	<l id='927'>Que vous n'avez pas cru vous en pouvoir sauver</l>
+	<l id='928'>Sans doubler votre garde, et me faire observer ?</l>
+	<l id='929'>Je ne me jugeais pas en ces lieux tant à craindre ;</l>
+	<l id='930'>Et d'un tel attentat j'aurais tort de me plaindre,</l>
+	<l id='931'>Quand je vois que la peur de mes ressentiments</l>
+	<l id='932'>En commence déjà les justes châtiments.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='933'>Que ces ordres nouveaux ne troublent point votre âme :</l>
+	<l id='934'>C'était moi qu'on craignait, et non pas vous, madame ;</l>
+	<l id='935'>Et ce glorieux choix qui vous met en courroux</l>
+	<l id='936'>Ne tombe pas sur moi, madame, c'est sur vous.</l>
+	<l id='937'>Il est vrai que sans moi vous n'y pouviez prétendre :</l>
+	<l id='938'>Son coeur, tant qu'il m'eût plu, s'en aurait su défendre ;</l>
+	<l id='939'>Il était tout à moi. Ne vous alarmez pas</l>
+	<l id='940'>D'apprendre qu'il était au peu que j'ai d'appas.</l>
+	<l id='941'>Je vous en fais un don : recevez-le pour gage</l>
+	<l id='942'>Ou de mes amitiés ou d'un parfait hommage ;</l>
+	<l id='943'>Et forte désormais de vos droits et des miens,</l>
+	<l id='944'>Donnez à ce grand coeur de plus dignes liens.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='945'>C'est donc de votre main qu'il passe dans la mienne,</l>
+	<l id='946'>Madame, et c'est de vous qu'il faut que je le tienne ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='947'>Si vous ne le voulez aujourd'hui de ma main,</l>
+	<l id='948'>Craignez qu'il soit trop tard de le vouloir demain.</l>
+	<l id='949'>Elle l'aimera mieux sans doute de la vôtre,</l>
+	<l id='950'>Seigneur, ou vous ferez ce présent à quelque autre.</l>
+	<l id='951'>Pour lui porter ce coeur que je vous avais pris,</l>
+	<l id='952'>Vous m'avez commandé des refus, des mépris :</l>
+	<l id='953'>Souffrez que des mépris le respect me dispense,</l>
+	<l id='954'>Et voyez pour le reste entière obéissance.</l>
+	<l id='955'>Je vous rends à vous-même, et ne puis rien de plus ;</l>
+	<l id='956'>Et c'est à vous de faire accepter mes refus.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Honorie, Attila, Octar.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='957' part="i">Accepter ses refus ! Moi, seigneur ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='957' part="f">Vous, madame.</l>
+	<l id='958'>Peut-il être honteux de devenir ma femme ?</l>
+	<l id='959'>Et quand on vous assure un si glorieux nom,</l>
+	<l id='960'>Peut-il vous importer qui vous en fait le don ?</l>
+	<l id='961'>Peut-il vous importer par quelle voie arrive</l>
+	<l id='962'>La gloire dont pour vous Ildione se prive ?</l>
+	<l id='963'>Que ce soit son refus, ou que ce soit mon choix,</l>
+	<l id='964'>En marcherez-vous moins sur la tête des rois ?</l>
+	<l id='965'>Mes deux traités de paix m'ont donné deux princesses,</l>
+	<l id='966'>Dont l'une aura ma main, si l'autre eut mes tendresses ;</l>
+	<l id='967'>L'une aura ma grandeur, comme l'autre eut mes voeux :</l>
+	<l id='968'>C'est ainsi qu'Attila se partage à vous deux.</l>
+	<l id='969'>N'en murmurez, madame, ici non plus que l'autre ;</l>
+	<l id='970'>Sa part la satisfait, recevez mieux la vôtre ;</l>
+	<l id='971'>J'en étais idolâtre, et veux vous épouser.</l>
+	<l id='972'>La raison ? C'est ainsi qu'il me plaît d'en user.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='973'>Et ce n'est pas ainsi qu'il me plaît qu'on en use :</l>
+	<l id='974'>Je cesse d'estimer ce qu'une autre refuse,</l>
+	<l id='975'>Et bien que vos traités vous engagent ma foi,</l>
+	<l id='976'>Le rebut d'Ildione est indigne de moi.</l>
+	<l id='977'>Oui, bien que l'univers ou vous serve ou vous craigne,</l>
+	<l id='978'>Je n'ai que des mépris pour ce qu'elle dédaigne.</l>
+	<l id='979'>Quel honneur est celui d'être votre moitié,</l>
+	<l id='980'>Qu'elle cède par grâce, et m'offre par pitié ?</l>
+	<l id='981'>Je sais ce que le ciel m'a faite au-dessus d'elle,</l>
+	<l id='982'>Et suis plus glorieuse encor qu'elle n'est belle.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='983'>J'adore cet orgueil, il est égal au mien,</l>
+	<l id='984'>Madame ; et nos fiertés se ressemblent si bien,</l>
+	<l id='985'>Que si la ressemblance est par où l'on s'entr'aime,</l>
+	<l id='986'>J'ai lieu de vous aimer comme une autre moi-même.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='987'>Ah ! Si non plus que vous je n'ai point le coeur bas,</l>
+	<l id='988'>Nos fiertés pour cela ne se ressemblent pas.</l>
+	<l id='989'>La mienne est de princesse, et la vôtre est d'esclave :</l>
+	<l id='990'>Je brave les mépris, vous aimez qu'on vous brave ;</l>
+	<l id='991'>Votre orgueil a son faible, et le mien, toujours fort,</l>
+	<l id='992'>Ne peut souffrir d'amour dans ce peu de rapport.</l>
+	<l id='993'>S'il vient de ressemblance, et que d'illustres flammes</l>
+	<l id='994'>Ne puissent que par elle unir les grandes âmes,</l>
+	<l id='995'>D'où naîtrait cet amour, quand je vois en tous lieux</l>
+	<l id='996'>De plus dignes fiertés qui me ressemblent mieux ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='997'>Vous en voyez ici, madame ; et je m'abuse,</l>
+	<l id='998'>Ou quelque autre me vole un coeur qu'on me refuse ;</l>
+	<l id='999'>Et cette noble ardeur de me désobéir</l>
+	<l id='1000'>En garde la conquête à l'heureux Valamir.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1001'>Ce n'est qu'à moi, seigneur, que j'en dois rendre conte ;</l>
+	<l id='1002'>Quand je voudrai l'aimer, je le pourrai sans honte :</l>
+	<l id='1003' part="i">Il est roi comme vous.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1003' part="f">En effet il est roi,</l>
+	<l id='1004'>J'en demeure d'accord, mais non pas comme moi.</l>
+	<l id='1005'>Même splendeur de sang, même titre nous pare ;</l>
+	<l id='1006'>Mais de quelques degrés le pouvoir nous sépare ;</l>
+	<l id='1007'>Et du trône où le ciel a voulu m'affermir,</l>
+	<l id='1008'>C'est tomber d'assez haut que jusqu'à Valamir.</l>
+	<l id='1009'>Chez ses propres sujets ce titre qu'il étale</l>
+	<l id='1010'>Ne fait d'entre eux et moi que remplir l'intervalle ;</l>
+	<l id='1011'>Il reçoit sous ce titre et leur porte mes lois ;</l>
+	<l id='1012'>Et s'il est roi des Goths, je suis celui des rois.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1013'>Et j'ai de quoi le mettre au-dessus de ta tête,</l>
+	<l id='1014'>Sitôt que de ma main j'aurai fait sa conquête.</l>
+	<l id='1015'>Tu n'as pour tout pouvoir que des droits usurpés</l>
+	<l id='1016'>Sur des peuples surpris et des princes trompés ;</l>
+	<l id='1017'>Tu n'as d'autorité que ce qu'en font les crimes ;</l>
+	<l id='1018'>Mais il n'aura de moi que des droits légitimes ;</l>
+	<l id='1019'>Et fût-il sous ta rage à tes pieds abattu,</l>
+	<l id='1020'>Il est plus grand que toi, s'il a plus de vertu.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1021'>Sa vertu ni vos droits ne sont pas de grands charmes,</l>
+	<l id='1022'>À moins que pour appui je leur prête mes armes.</l>
+	<l id='1023'>Ils ont besoin de moi, s'ils veulent aller loin ;</l>
+	<l id='1024'>Mais pour être empereur je n'en ai plus besoin.</l>
+	<l id='1025'>Aétius est mort, l'empire n'a plus d'homme,</l>
+	<l id='1026'>Et je puis trop sans vous me faire place à Rome.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1027'>Aétius est mort ! Je n'ai plus de tyran ;</l>
+	<l id='1028'>Je reverrai mon frère en Valentinian ;</l>
+	<l id='1029'>Et mille vrais héros qu'opprimait ce faux maître</l>
+	<l id='1030'>Pour me faire justice à l'envi vont paraître.</l>
+	<l id='1031'>Ils défendront l'empire, et soutiendront mes droits</l>
+	<l id='1032'>En faveur des vertus dont j'aurai fait le choix.</l>
+	<l id='1033'>Les grands coeurs n'osent rien sous de si grands ministres :</l>
+	<l id='1034'>Leur plus haute valeur n'a d'effets que sinistres ;</l>
+	<l id='1035'>Leur gloire fait ombrage à ces puissants jaloux,</l>
+	<l id='1036'>Qui s'estiment perdus s'ils ne les perdent tous.</l>
+	<l id='1037'>Mais après leur trépas tous ces grands coeurs revivent ;</l>
+	<l id='1038'>Et pour ne plus souffrir des fers qui les captivent,</l>
+	<l id='1039'>Chacun reprend sa place et remplit son devoir.</l>
+	<l id='1040'>La mort d'Aétius te le fera trop voir :</l>
+	<l id='1041'>Si pour leur maître en toi je leur mène un barbare,</l>
+	<l id='1042'>Tu verras quel accueil leur vertu te prépare ;</l>
+	<l id='1043'>Mais si d'un Valamir j'honore un si haut rang,</l>
+	<l id='1044'>Aucun pour me servir n'épargnera son sang.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1045'>Vous me faites pitié de si mal vous connaître,</l>
+	<l id='1046'>Que d'avoir tant d'amour, et le faire paraître.</l>
+	<l id='1047'>Il est honteux, madame, à des rois tels que nous,</l>
+	<l id='1048'>Quand ils en sont blessés, d'en laisser voir les coups.</l>
+	<l id='1049'>Il a droit de régner sur les âmes communes,</l>
+	<l id='1050'>Non sur celles qui font et défont les fortunes ;</l>
+	<l id='1051'>Et si de tout le coeur on ne peut l'arracher,</l>
+	<l id='1052'>Il faut s'en rendre maître, ou du moins le cacher.</l>
+	<l id='1053'>Je ne vous blâme point d'avoir eu mes faiblesses ;</l>
+	<l id='1054'>Mais faites même effort sur ces lâches tendresses,</l>
+	<l id='1055'>Et comme je vous tiens seule digne de moi,</l>
+	<l id='1056'>Tenez-moi seul aussi digne de votre foi.</l>
+	<l id='1057'>Vous aimez Valamir, et j'adore Ildione :</l>
+	<l id='1058'>Je me garde pour vous, gardez-vous pour mon trône ;</l>
+	<l id='1059'>Prenez ainsi que moi des sentiments plus hauts,</l>
+	<l id='1060'>Et suivez mes vertus ainsi que mes défauts.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1061'>Parle de tes fureurs et de leur noir ouvrage :</l>
+	<l id='1062'>Il s'y mêle peut-être une ombre de courage ;</l>
+	<l id='1063'>Mais bien loin qu'avec gloire on te puisse imiter,</l>
+	<l id='1064'>La vertu des tyrans est même à détester.</l>
+	<l id='1065'>Irais-je à ton exemple assassiner mon frère ?</l>
+	<l id='1066'>Sur tous mes alliés répandre ma colère ?</l>
+	<l id='1067'>Me baigner dans leur sang, et d'un orgueil jaloux... ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1068'>Si nous nous emportons, j'irai plus loin que vous,</l>
+	<l id='1069' part="i">Madame.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1069' part="f">Les grands coeurs parlent avec franchise.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1070'>Quand je m'en souviendrai, n'en soyez pas surprise ;</l>
+	<l id='1071'>Et si je vous épouse avec ce souvenir,</l>
+	<l id='1072'>Vous voyez le passé, jugez de l'avenir.</l>
+	<l id='1073'>Je vous laisse y penser. Adieu, madame.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1074' part="i">Ah ! Traître !</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1074' part="f">Je suis encore amant, demain je serai maître.</l>
+	<l id='1075' part="i">Remenez la princesse, Octar.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1075' part="m">Quoi ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1075' part="f">C'est assez.</l>
+	<l id='1076'>Vous me direz tantôt tout ce que vous pensez ;</l>
+	<l id='1077'>Mais pensez-y deux fois avant que me le dire :</l>
+	<l id='1078'>Songez que c'est de moi que vous tiendrez l'empire ;</l>
+	<l id='1079'>Que vos droits sans ma main ne sont que droits en l'air.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1080' part="i">Ciel !</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1080' part="f">Allez, et du moins apprenez à parler.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1081'>Apprends, apprends toi-même à changer de langage,</l>
+	<l id='1082'>Lorsqu'au sang des Césars ta parole t'engage.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1083'>Nous en pourrons changer avant la fin du jour.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1084'>Fais ce que tu voudras, tyran, j'aurai mon tour.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Honorie, Octar, Flavie.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1085'>Allez, servez-moi bien. Si vous aimez Flavie,</l>
+	<l id='1086'>Elle sera le prix de m'avoir bien servie :</l>
+	<l id='1087'>J'en donne ma parole ; et sa main est à vous,</l>
+	<l id='1088'>Dès que vous m'obtiendrez Valamir pour époux.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='1089'>Je voudrais le pouvoir : j'assurerais, madame,</l>
+	<l id='1090'>Sous votre Valamir mes jours avec ma flamme.</l>
+	<l id='1091'>Bien qu'Attila me traite assez confidemment,</l>
+	<l id='1092'>Ils dépendent sous lui d'un malheureux moment :</l>
+	<l id='1093'>Il ne faut qu'un soupçon, un dégoût, un caprice,</l>
+	<l id='1094'>Pour en faire à sa haine un soudain sacrifice ;</l>
+	<l id='1095'>Ce n'est pas un esprit que je porte où je veux.</l>
+	<l id='1096'>Faire un peu plus de pente au penchant de ses voeux,</l>
+	<l id='1097'>L'attacher un peu plus au parti qu'ils choisissent,</l>
+	<l id='1098'>Ce n'est rien qu'avec moi deux mille autres ne puissent ;</l>
+	<l id='1099'>Mais proposer de front, ou vouloir doucement</l>
+	<l id='1100'>Contre ce qu'il résout tourner son sentiment,</l>
+	<l id='1101'>Combattre sa pensée en faveur de la vôtre,</l>
+	<l id='1102'>C'est ce que nous n'osons, ni moi, ni pas un autre ;</l>
+	<l id='1103'>Et si je hasardais ce contre-temps fatal,</l>
+	<l id='1104'>Je me perdrais, madame, et vous servirais mal.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1105'>Mais qui l'attache à moi, quand pour l'autre il soupire ?</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='1106'>La mort d'Aétius et vos droits sur l'empire.</l>
+	<l id='1107'>Il croit s'en voir par là les chemins aplanis ;</l>
+	<l id='1108'>Et tous autres souhaits de son coeur sont bannis.</l>
+	<l id='1109'>Il aime à conquérir, mais il hait les batailles :</l>
+	<l id='1110'>Il veut que son nom seul renverse les murailles ;</l>
+	<l id='1111'>Et plus grand politique encor que grand guerrier,</l>
+	<l id='1112'>Il tient que les combats sentent l'aventurier.</l>
+	<l id='1113'>Il veut que de ses gens le déluge effroyable</l>
+	<l id='1114'>Atterre impunément les peuples qu'il accable ;</l>
+	<l id='1115'>Et prodigue de sang, il épargne celui</l>
+	<l id='1116'>Que tant de combattants exposeraient pour lui.</l>
+	<l id='1117'>Ainsi n'espérez pas que jamais il relâche,</l>
+	<l id='1118'>Que jamais il renonce à ce choix qui vous fâche.</l>
+	<l id='1119'>Si pourtant je vois jour à plus que je n'attends,</l>
+	<l id='1120'>Madame, assurez-vous que je prendrai mon temps.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Honorie, Flavie.</head>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='1121'>Ne vous êtes-vous point un peu trop déclarée,</l>
+	<l id='1122'>Madame ? Et le chagrin de vous voir préférée</l>
+	<l id='1123'>Étouffe-t-il la peur que marquaient vos discours</l>
+	<l id='1124'>De rendre hommage au sang d'un roi de quatre jours ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1125'>Je te l'avais bien dit, que mon âme incertaine</l>
+	<l id='1126'>De tous les deux côtés attendait même gêne,</l>
+	<l id='1127'>Flavie ; et de deux maux qu'on craint également</l>
+	<l id='1128'>Celui qui nous arrive est toujours le plus grand,</l>
+	<l id='1129'>Celui que nous sentons devient le plus sensible.</l>
+	<l id='1130'>D'un choix si glorieux la honte est trop visible ;</l>
+	<l id='1131'>Ildione a su l'art de m'en faire un malheur :</l>
+	<l id='1132'>La gloire en est pour elle, et pour moi la douleur ;</l>
+	<l id='1133'>Elle garde pour soi tout l'effet du mérite,</l>
+	<l id='1134'>Et me livre avec joie aux ennuis qu'elle évite.</l>
+	<l id='1135'>Vois avec quel insulte et de quelle hauteur</l>
+	<l id='1136'>Son refus en mes mains rejette un si grand coeur,</l>
+	<l id='1137'>Cependant que ravie elle assure à son âme</l>
+	<l id='1138'>La douceur d'être toute à l'objet de sa flamme ;</l>
+	<l id='1139'>Car je ne doute point qu'elle n'ait de l'amour.</l>
+	<l id='1140'>Ardaric qui s'attache à la voir chaque jour,</l>
+	<l id='1141'>Les respects qu'il lui rend, et les soins qu'il se donne...</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='1142'>J'ose vous dire plus, Attila l'en soupçonne :</l>
+	<l id='1143'>Il est fier et colère ; et s'il sait une fois</l>
+	<l id='1144'>Qu'Ildione en secret l'honore de son choix,</l>
+	<l id='1145'>Qu'Ardaric ait sur elle osé jeter la vue,</l>
+	<l id='1146'>Et briguer cette foi qu'à lui seul il croit due,</l>
+	<l id='1147'>Je crains qu'un tel espoir, au lieu de s'affermir...</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1148'>Que n'ai-je donc mieux tu que j'aimais Valamir !</l>
+	<l id='1149'>Mais quand on est bravée et qu'on perd ce qu'on aime,</l>
+	<l id='1150'>Flavie, est-on sitôt maîtresse de soi-même ?</l>
+	<l id='1151'>D'Attila, s'il se peut, tournons l'emportement</l>
+	<l id='1152'>Ou contre ma rivale, ou contre son amant ;</l>
+	<l id='1153'>Accablons leur amour sous ce que j'appréhende ;</l>
+	<l id='1154'>Promettons à ce prix la main qu'on nous demande ;</l>
+	<l id='1155'>Et faisons que l'ardeur de recevoir ma foi</l>
+	<l id='1156'>L'empêche d'être ici plus heureuse que moi.</l>
+	<l id='1157'>Renversons leur triomphe. étrange frénésie !</l>
+	<l id='1158'>Sans aimer Ardaric, j'en conçois jalousie !</l>
+	<l id='1159'>Mais je me venge, et suis, en ce juste projet,</l>
+	<l id='1160'>Jalouse du bonheur, et non pas de l'objet.</l>
+</sp>
+<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+	<l id='1161' part="i">Attila vient, madame.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1161' part="f">Eh bien ! Faisons connaître</l>
+	<l id='1162'>Que le sang des Césars ne souffre point de maître,</l>
+	<l id='1163'>Et peut bien refuser de pleine autorité</l>
+	<l id='1164'>Ce qu'une autre refuse avec témérité.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Attila, Honorie, Ildione, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1165'>Tout s'apprête, madame, et ce grand hyménée</l>
+	<l id='1166'>Peut dans une heure ou deux terminer la journée,</l>
+	<l id='1167'>Mais sans vous y contraindre ; et je ne viens que voir</l>
+	<l id='1168'>Si vous avez mieux vu quel est votre devoir.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1169'>Mon devoir est, seigneur, de soutenir ma gloire,</l>
+	<l id='1170'>Sur qui va s'imprimer une tache trop noire,</l>
+	<l id='1171'>Si votre illustre amour pour son premier effet</l>
+	<l id='1172'>Ne venge hautement l'outrage qu'on lui fait.</l>
+	<l id='1173'>Puis-je voir sans rougir qu'à la belle Ildione</l>
+	<l id='1174'>Vous demandiez congé de m'offrir votre trône,</l>
+	<l id='1175' part="i">Que... ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1175' part="f">Toujours Ildione, et jamais Attila !</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1176'>Si vous me préférez, seigneur, punissez-la :</l>
+	<l id='1177'>Prenez mes intérêts, et pressez votre flamme</l>
+	<l id='1178'>De remettre en honneur le nom de votre femme.</l>
+	<l id='1179'>Ildione le traite avec trop de mépris ;</l>
+	<l id='1180'>Souffrez-en de pareils, ou rendez-lui son prix.</l>
+	<l id='1181'>À quel droit voulez-vous qu'un tel manque d'estime,</l>
+	<l id='1182'>S'il est gloire pour elle, en moi devienne un crime ;</l>
+	<l id='1183'>Qu'après que nos refus ont tous deux éclaté,</l>
+	<l id='1184'>Le mien soit punissable où le sien est flatté ;</l>
+	<l id='1185'>Qu'elle brave à vos yeux ce qu'il faut que je craigne,</l>
+	<l id='1186'>Et qu'elle me condamne à ce qu'elle dédaigne ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1187'>Pour vous justifier mes ordres et mes voeux,</l>
+	<l id='1188'>Je croyais qu'il suffît d'un simple : " je le veux ; "</l>
+	<l id='1189'>Mais voyez, puisqu'il faut mettre tout en balance,</l>
+	<l id='1190'>D'Ildione et de vous qui m'oblige ou m'offense.</l>
+	<l id='1191'>Quand son refus me sert, le vôtre me trahit ;</l>
+	<l id='1192'>Il veut me commander, quand le sien m'obéit :</l>
+	<l id='1193'>L'un est plein de respect, l'autre est gonflé d'audace ;</l>
+	<l id='1194'>Le vôtre me fait honte, et le sien me fait grâce.</l>
+	<l id='1195'>Faut-il après cela qu'aux dépens de son sang</l>
+	<l id='1196'>Je mérite l'honneur de vous mettre en mon rang ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1197'>Ne peut-on se venger à moins qu'on assassine ?</l>
+	<l id='1198'>Je ne veux point sa mort, ni même sa ruine :</l>
+	<l id='1199'>Il est des châtiments plus justes et plus doux,</l>
+	<l id='1200'>Qui l'empêcheraient mieux de triompher de nous.</l>
+	<l id='1201'>Je dis de nous, seigneur, car l'offense est commune,</l>
+	<l id='1202'>Et ce que vous m'offrez des deux n'en ferait qu'une.</l>
+	<l id='1203'>Ildione, pour prix de son manque de foi,</l>
+	<l id='1204'>Dispose arrogamment et de vous et de moi !</l>
+	<l id='1205'>Pour prix de la hauteur dont elle m'a bravée,</l>
+	<l id='1206'>À son heureux amant sa main est réservée,</l>
+	<l id='1207'>Avec qui, satisfaite, elle goûte l'appas</l>
+	<l id='1208'>De m'ôter ce que j'aime, et me mettre en vos bras !</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1209' part="i">Quel est-il, cet amant ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1209' part="f">Ignorez-vous encore</l>
+	<l id='1210'>Qu'elle adore Ardaric, et qu'Ardaric l'adore ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1211'>Qu'on m'amène Ardaric. Mais de qui savez-vous...</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1212'>C'est une vision de mes soupçons jaloux ;</l>
+	<l id='1213'>J'en suis mal éclaircie, et votre orgueil l'avoue,</l>
+	<l id='1214'>Et quand elle me brave, et quand elle vous joue ;</l>
+	<l id='1215'>Même, s'il faut vous croire, on ne vous sert pas mal</l>
+	<l id='1216'>Alors qu'on vous dédaigne en faveur d'un rival.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1217'>D'Ardaric et de moi telle est la différence,</l>
+	<l id='1218'>Qu'elle en punit assez la folle préférence.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1219'>Quoi ? S'il peut moins que vous, ne lui volez-vous pas</l>
+	<l id='1220'>Ce pouvoir usurpé sur ses propres soldats ?</l>
+	<l id='1221'>Un véritable roi qu'opprime un sort contraire,</l>
+	<l id='1222'>Tout opprimé qu'il est, garde son caractère ;</l>
+	<l id='1223'>Ce nom lui reste entier sous les plus dures lois :</l>
+	<l id='1224'>Il est dans les fers même égal aux plus grands rois ;</l>
+	<l id='1225'>Et la main d'Ardaric suffit à ma rivale</l>
+	<l id='1226'>Pour lui donner plein droit de me traiter d'égale.</l>
+	<l id='1227'>Si vous voulez punir l'affront qu'elle nous fait,</l>
+	<l id='1228'>Réduisez-la, seigneur, à l'hymen d'un sujet.</l>
+	<l id='1229'>Ne cherchez point pour elle une plus dure peine</l>
+	<l id='1230'>Que de voir votre femme être sa souveraine ;</l>
+	<l id='1231'>Et je pourrai moi-même alors vous demander</l>
+	<l id='1232'>Le droit de m'en servir et de lui commander.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1233'>Madame, je saurai lui trouver un supplice.</l>
+	<l id='1234'>Agréez cependant pour vous même justice ;</l>
+	<l id='1235'>Et s'il faut un sujet à qui dédaigne un roi,</l>
+	<l id='1236'>Choisissez dans une heure, ou d'Octar, ou de moi.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1237' part="i">D'Octar, ou...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1237' part="f">Les grands coeurs parlent avec franchise,</l>
+	<l id='1238'>C'est une vérité que vous m'avez apprise :</l>
+	<l id='1239'>Songez donc sans murmure à cet illustre choix,</l>
+	<l id='1240'>Et remerciez-moi de suivre ainsi vos lois.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1241' part="i">Me proposer Octar !</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1241' part="f">Qu'y trouvez-vous à dire ?</l>
+	<l id='1242'>Serait-il à vos yeux indigne de l'empire ?</l>
+	<l id='1243'>S'il est né sans couronne et n'eut jamais d'états,</l>
+	<l id='1244'>On monte à ce grand trône encor d'un lieu plus bas.</l>
+	<l id='1245'>On a vu des Césars, et même des plus braves,</l>
+	<l id='1246'>Qui sortaient d'artisans, de bandoliers, d'esclaves ;</l>
+	<l id='1247'>Le temps et leurs vertus les ont rendus fameux,</l>
+	<l id='1248'>Et notre cher Octar a des vertus comme eux.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1249'>Va, ne me tourne point Octar en ridicule :</l>
+	<l id='1250'>Ma gloire pourrait bien l'accepter sans scrupule,</l>
+	<l id='1251'>Tyran, et tu devrais du moins te souvenir</l>
+	<l id='1252'>Que s'il n'en est pas digne, il peut le devenir.</l>
+	<l id='1253'>Au défaut d'un beau sang, il est de grands services,</l>
+	<l id='1254'>Il est des voeux soumis, il est des sacrifices,</l>
+	<l id='1255'>Il est de glorieux et surprenants effets,</l>
+	<l id='1256'>Des vertus de héros, et même des forfaits.</l>
+	<l id='1257'>L'exemple y peut beaucoup. Instruit par tes maximes,</l>
+	<l id='1258'>Il s'est fait de ton ordre une habitude aux crimes :</l>
+	<l id='1259'>Comme ta créature, il doit te ressembler.</l>
+	<l id='1260'>Quand je l'enhardirai, commence de trembler :</l>
+	<l id='1261'>Ta vie est en mes mains, dès qu'il voudra me plaire,</l>
+	<l id='1262'>Et rien n'est sûr pour toi, si je veux qu'il espère.</l>
+	<l id='1263'>Ton rival entre, adieu : délibère avec lui</l>
+	<l id='1264'>Si ce cher Octar m'aime, ou sera ton appui.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Attila, Ardaric.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1265'>Seigneur, sur ce grand choix je cesse d'être en peine :</l>
+	<l id='1266'>J'épouse dès ce soir la princesse romaine,</l>
+	<l id='1267'>Et n'ai plus qu'à prévoir à qui plus sûrement</l>
+	<l id='1268'>Je puis confier l'autre et son ressentiment.</l>
+	<l id='1269'>Le roi des Bourguignons, par ambassade expresse,</l>
+	<l id='1270'>Pour Sigismond, son fils, voulait cette princesse ;</l>
+	<l id='1271'>Mais nos ambassadeurs furent mieux écoutés.</l>
+	<l id='1272'>Pourrait-il nous donner toutes nos sûretés ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1273'>Son état sert de borne à ceux de Mérovée ;</l>
+	<l id='1274'>La partie entre eux deux serait bientôt nouée ;</l>
+	<l id='1275'>Et vous verriez armer d'une pareille ardeur</l>
+	<l id='1276'>Un mari pour sa femme, un frère pour sa soeur :</l>
+	<l id='1277'>L'union en serait trop facile et trop grande.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1278'>Celui des Visigoths faisait même demande.</l>
+	<l id='1279'>Comme de Mérovée il est plus écarté,</l>
+	<l id='1280'>Leur union aurait moins de facilité :</l>
+	<l id='1281'>Le Bourguignon d'ailleurs sépare leurs provinces,</l>
+	<l id='1282'>Et servirait pour nous de barre à ces deux princes.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1283'>Oui ; mais bientôt lui-même entre eux deux écrasé</l>
+	<l id='1284'>Leur ferait à se joindre un chemin trop aisé ;</l>
+	<l id='1285'>Et ces deux rois, par là maîtres de la contrée,</l>
+	<l id='1286'>D'autant plus fortement en défendraient l'entrée,</l>
+	<l id='1287'>Qu'ils auraient plus à perdre, et qu'un juste courroux</l>
+	<l id='1288'>N'aurait plus tant de chefs à liguer contre vous.</l>
+	<l id='1289'>La princesse Ildione est orgueilleuse et belle ;</l>
+	<l id='1290'>Il lui faut un mari qui réponde mieux d'elle,</l>
+	<l id='1291'>Dont tous les intérêts aux vôtres soient soumis,</l>
+	<l id='1292'>Et ne le pas choisir parmi vos ennemis.</l>
+	<l id='1293'>D'une fière beauté la haine opiniâtre</l>
+	<l id='1294'>Donne à ce qu'elle hait jusqu'au bout à combattre ;</l>
+	<l id='1295'>Et pour peu que la veuille écouter un époux...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1296'>Il lui faut donc, seigneur, ou Valamir, ou vous.</l>
+	<l id='1297'>La pourriez-vous aimer ? Parlez sans flatterie.</l>
+	<l id='1298'>J'apprends que Valamir est aimé d'Honorie ;</l>
+	<l id='1299'>Il peut de mon hymen concevoir quelque ennui,</l>
+	<l id='1300'>Et je m'assurerais sur vous plus que sur lui.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1301'>C'est m'honorer, seigneur, de trop de confiance.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1302'>Parlez donc, pourriez-vous goûter cette alliance ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1303'>Vous savez que vous plaire est mon plus cher souci.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1304'>Qu'on cherche la princesse, et qu'on l'amène ici :</l>
+	<l id='1305'>Je veux que de ma main vous receviez la sienne.</l>
+	<l id='1306'>Mais dites-moi, de grâce, attendant qu'elle vienne,</l>
+	<l id='1307'>Par où me voulez-vous assurer votre foi ?</l>
+	<l id='1308'>Et que seriez-vous prêt d'entreprendre pour moi ?</l>
+	<l id='1309'>Car enfin elle est belle, elle peut tout séduire,</l>
+	<l id='1310'>Et vous forcer vous-même à me vouloir détruire.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1311'>Faut-il vous immoler l'orgueil de Torrismond ?</l>
+	<l id='1312'>Faut-il teindre l'Arar du sang de Sigismond ?</l>
+	<l id='1313'>Faut-il mettre à vos pieds et l'un et l'autre trône ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1314'>Ne dissimulez point, vous aimez Ildione,</l>
+	<l id='1315'>Et proposez bien moins ces glorieux travaux</l>
+	<l id='1316'>Contre mes ennemis que contre vos rivaux.</l>
+	<l id='1317'>Ce prompt emportement et ces subites haines</l>
+	<l id='1318'>Sont d'un amour jaloux les preuves trop certaines :</l>
+	<l id='1319'>Les soins de cet amour font ceux de ma grandeur ;</l>
+	<l id='1320'>Et si vous n'aimiez pas, vous auriez moins d'ardeur.</l>
+	<l id='1321'>Voyez comme un rival est soudain haïssable,</l>
+	<l id='1322'>Comme vers notre amour ce nom le rend coupable,</l>
+	<l id='1323'>Comme sa perte est juste encor qu'il n'ose rien ;</l>
+	<l id='1324'>Et sans aller si loin, délivrez-moi du mien.</l>
+	<l id='1325'>Différez à punir une offense incertaine,</l>
+	<l id='1326'>Et servez ma colère avant que votre haine.</l>
+	<l id='1327'>Serait-il sûr pour moi d'exposer ma bonté</l>
+	<l id='1328'>À tous les attentats d'un amant supplanté ?</l>
+	<l id='1329'>Vous-même pourriez-vous épouser une femme,</l>
+	<l id='1330'>Et laisser à ses yeux le maître de son âme ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1331'>S'il était trop à craindre, il faudrait l'en bannir.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1332'>Quand il est trop à craindre, il faut le prévenir.</l>
+	<l id='1333'>C'est un roi dont les gens, mêlés parmi les nôtres,</l>
+	<l id='1334'>Feraient accompagner son exil de trop d'autres,</l>
+	<l id='1335'>Qu'on verrait s'opposer aux soins que nous prendrons,</l>
+	<l id='1336'>Et de nos ennemis grossir les escadrons.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1337'>Est-ce un crime pour lui qu'une douce espérance</l>
+	<l id='1338'>Que vous pourriez ailleurs porter la préférence ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1339'>Oui, pour lui, pour vous-même, et pour tout autre roi,</l>
+	<l id='1340'>C'en est un que prétendre en même lieu que moi.</l>
+	<l id='1341'>S'emparer d'un esprit dont la foi m'est promise,</l>
+	<l id='1342'>C'est surprendre une place entre mes mains remise ;</l>
+	<l id='1343'>Et vous ne seriez pas moins coupable que lui,</l>
+	<l id='1344'>Si je ne vous voyais d'un autre oeil aujourd'hui.</l>
+	<l id='1345'>À des crimes pareils j'ai dû même justice,</l>
+	<l id='1346'>Et ne choisis pour vous qu'un amoureux supplice.</l>
+	<l id='1347'>Pour un si cher objet que je mets en vos bras,</l>
+	<l id='1348'>Est-ce un prix excessif qu'un si juste trépas ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1349'>Mais c'est déshonorer, seigneur, votre hyménée</l>
+	<l id='1350'>Que vouloir d'un tel sang en marquer la journée.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1351'>Est-il plus grand honneur que de voir en mon choix</l>
+	<l id='1352'>Qui je veux à ma flamme immoler de deux rois,</l>
+	<l id='1353'>Et que du sacrifice où s'expiera leur crime,</l>
+	<l id='1354'>L'un d'eux soit le ministre, et l'autre la victime ?</l>
+	<l id='1355'>Si vous n'osez par là satisfaire vos feux,</l>
+	<l id='1356'>Craignez que Valamir ne soit moins scrupuleux,</l>
+	<l id='1357'>Qu'il ne s'impute pas à tant de barbarie</l>
+	<l id='1358'>D'accepter à ce prix son illustre Honorie,</l>
+	<l id='1359'>Et n'ait aucune horreur de ses voeux les plus doux,</l>
+	<l id='1360'>Si leur entier succès ne lui coûte que vous ;</l>
+	<l id='1361'>Car je puis épouser encor votre princesse,</l>
+	<l id='1362'>Et détourner vers lui l'effort de ma tendresse.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Attila, Ardaric, Ildione.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1363'>Vos refus obligeants ont daigné m'ordonner</l>
+	<l id='1364'>De consulter vos voeux avant que vous donner ;</l>
+	<l id='1365'>Je m'en fais une loi. Dites-moi donc, madame,</l>
+	<l id='1366'>Votre coeur d'Ardaric agréerait-il la flamme ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1367'>C'est à moi d'obéir, si vous le souhaitez ;</l>
+	<l id='1368' part="i">Mais, seigneur...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1368' part="f">Il y fait quelques difficultés ;</l>
+	<l id='1369'>Mais je sais que sur lui vous êtes absolue.</l>
+	<l id='1370'>Achevez d'y porter son âme irrésolue,</l>
+	<l id='1371'>Afin que dans une heure, au milieu de ma cour,</l>
+	<l id='1372'>Votre hymen et le mien couronnent ce grand jour.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Ardaric, Ildione.</head>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1373'>D'où viennent ces soupirs ? D'où naît cette tristesse ?</l>
+	<l id='1374'>Est-ce que la surprise étonne l'allégresse,</l>
+	<l id='1375'>Qu'elle en suspend l'effet pour le mieux signaler,</l>
+	<l id='1376'>Et qu'aux yeux du tyran il faut dissimuler ?</l>
+	<l id='1377'>Il est parti, seigneur ; souffrez que votre joie,</l>
+	<l id='1378'>Souffrez que son excès tout entier se déploie,</l>
+	<l id='1379'>Qu'il fasse voir aux miens celui de votre amour.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1380'>Vous allez soupirer, madame, à votre tour,</l>
+	<l id='1381'>À moins que votre coeur malgré vous se prépare</l>
+	<l id='1382'>À n'avoir rien d'humain non plus que ce barbare.</l>
+	<l id='1383'>Il me choisit pour vous ; c'est un honneur bien grand,</l>
+	<l id='1384'>Mais qui doit faire horreur par le prix qu'il le vend.</l>
+	<l id='1385'>À recevoir ma main pourrez-vous être prête,</l>
+	<l id='1386'>S'il faut qu'à Valamir il en coûte la tête ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1387' part="i">Quoi ? Seigneur !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1387' part="f">Attendez à vous en étonner</l>
+	<l id='1388'>Que vous sachiez la main qui doit l'assassiner.</l>
+	<l id='1389'>C'est à cet attentat la mienne qu'il destine,</l>
+	<l id='1390' part="i">Madame.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1390' part="f">C'est par vous, seigneur, qu'il l'assassine !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1391'>Il me fait son bourreau pour perdre un autre roi</l>
+	<l id='1392'>À qui fait sa fureur la même offre qu'à moi.</l>
+	<l id='1393'>Aux dépens de sa tête il veut qu'on vous obtienne,</l>
+	<l id='1394'>Ou lui donne Honorie aux dépens de la mienne :</l>
+	<l id='1395'>Sa cruelle faveur m'en a laissé le choix.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1396'>Quel crime voit sa rage à punir en deux rois ?</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1397'>Le crime de tous deux, c'est d'aimer deux princesses,</l>
+	<l id='1398'>C'est d'avoir mieux que lui mérité leurs tendresses.</l>
+	<l id='1399'>De vos bontés pour nous il nous fait un malheur,</l>
+	<l id='1400'>Et d'un sujet de joie un excès de douleur.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1401'>Est-il orgueil plus lâche, ou lâcheté plus noire ?</l>
+	<l id='1402'>Il veut que je vous coûte ou la vie ou la gloire,</l>
+	<l id='1403'>Et serve de prétexte au choix infortuné</l>
+	<l id='1404'>D'assassiner vous-même ou d'être assassiné !</l>
+	<l id='1405'>Il vous offre ma main comme un bonheur insigne,</l>
+	<l id='1406'>Mais à condition de vous en rendre indigne ;</l>
+	<l id='1407'>Et si vous refusez par là de m'acquérir,</l>
+	<l id='1408'>Vous ne sauriez vous-même éviter de périr !</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1409'>Il est beau de périr pour éviter un crime :</l>
+	<l id='1410'>Quand on meurt pour sa gloire, on revit dans l'estime ;</l>
+	<l id='1411'>Et triompher ainsi du plus rigoureux sort,</l>
+	<l id='1412'>C'est s'immortaliser par une illustre mort.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1413'>Cette immortalité qui triomphe en idée</l>
+	<l id='1414'>Veut être, pour charmer, de plus loin regardée ;</l>
+	<l id='1415'>Et quand à notre amour ce triomphe est fatal,</l>
+	<l id='1416'>La gloire qui le suit nous en console mal.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1417'>Vous vengerez ma mort ; et mon âme ravie...</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1418'>Ah ! Venger une mort n'est pas rendre une vie :</l>
+	<l id='1419'>Le tyran immolé me laisse mes malheurs ;</l>
+	<l id='1420'>Et son sang répandu ne tarit pas mes pleurs.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1421'>Pour sauver une vie, après tout périssable,</l>
+	<l id='1422'>En rendrais-je le reste infâme et détestable ?</l>
+	<l id='1423'>Et ne vaut-il pas mieux assouvir sa fureur,</l>
+	<l id='1424'>Et mériter vos pleurs, que de vous faire horreur ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1425'>Vous m'en feriez sans doute, après cette infamie,</l>
+	<l id='1426'>Assez pour vous traiter en mortelle ennemie ;</l>
+	<l id='1427'>Mais souvent la fortune a d'heureux changements</l>
+	<l id='1428'>Qui président sans nous aux grands événements.</l>
+	<l id='1429'>Le ciel n'est pas toujours aux méchants si propice :</l>
+	<l id='1430'>Après tant d'indulgence, il a de la justice.</l>
+	<l id='1431'>Parlez à Valamir, et voyez avec lui</l>
+	<l id='1432'>S'il n'est aucun remède à ce mortel ennui.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1433' part="i">Madame...</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1433' part="f">Allez, seigneur : nos maux et le temps pressent,</l>
+	<l id='1434'>Et les mêmes périls tous deux vous intéressent.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1435'>J'y vais ; mais en l'état qu'est son sort et le mien,</l>
+	<l id='1436'>Nous nous plaindrons ensemble et ne résoudrons rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Ardaric, Ildione.</head>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1437'>Trêve, mes tristes yeux, trêve aujourd'hui de larmes !</l>
+	<l id='1438'>Armez contre un tyran vos plus dangereux charmes :</l>
+	<l id='1439'>Voyez si de nouveau vous le pourrez dompter,</l>
+	<l id='1440'>Et renverser sur lui ce qu'il ose attenter.</l>
+	<l id='1441'>Reprenez en son coeur votre place usurpée,</l>
+	<l id='1442'>Ramenez à l'autel ma victime échappée,</l>
+	<l id='1443'>Rappelez ce courroux que son choix incertain</l>
+	<l id='1444'>En faveur de ma flamme allumait dans mon sein.</l>
+	<l id='1445'>Que tout semble facile en cette incertitude !</l>
+	<l id='1446'>Mais qu'à l'exécuter tout est pénible et rude !</l>
+	<l id='1447'>Et qu'aisément le sexe oppose à sa fierté</l>
+	<l id='1448'>Sa douceur naturelle et sa timidité !</l>
+	<l id='1449'>Quoi ? Ne donner ma foi que pour être perfide !</l>
+	<l id='1450'>N'accepter un époux que pour un parricide !</l>
+	<l id='1451'>Ciel, qui me vois frémir à ce nom seul d'époux,</l>
+	<l id='1452'>Ou rends-moi plus barbare, ou mon tyran plus doux !</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Ardaric, Valamir.</head> <stage>Ils n'ont d'épée l'un ni l'autre</stage>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1453'>Seigneur, vos devins seuls ont causé notre perte :</l>
+	<l id='1454'>Par eux à tous nos maux la porte s'est ouverte ;</l>
+	<l id='1455'>Et l'infidèle appas de leur prédiction</l>
+	<l id='1456'>A jeté trop d'amorce à notre ambition.</l>
+	<l id='1457'>C'est de là qu'est venu cet amour politique</l>
+	<l id='1458'>Que prend pour attentat un orgueil tyrannique.</l>
+	<l id='1459'>Sans le flatteur espoir d'un avenir si doux,</l>
+	<l id='1460'>Honorie aurait eu moins de charmes pour vous.</l>
+	<l id='1461'>C'est par là que vos yeux la trouvent adorable,</l>
+	<l id='1462'>Et que vous faites naître un amour véritable,</l>
+	<l id='1463'>Qui l'attachant à vous excite des fureurs</l>
+	<l id='1464'>Que vous voyez passer aux dernières horreurs.</l>
+	<l id='1465'>À moins que je vous perde, il faut que je périsse ;</l>
+	<l id='1466'>On vous fait même grâce, ou pareille injustice :</l>
+	<l id='1467'>Ainsi vos seuls devins nous forcent de périr,</l>
+	<l id='1468'>Et ce sont tous les droits qu'ils vous font acquérir.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1469'>Je viens de les quitter ; et loin de s'en dédire,</l>
+	<l id='1470'>Ils assurent ma race encor du même empire.</l>
+	<l id='1471'>Ils savent qu'Attila s'aigrit au dernier point,</l>
+	<l id='1472'>Et ses emportements ne les émeuvent point ;</l>
+	<l id='1473'>Quelque loi qu'il nous fasse, ils sont inébranlables :</l>
+	<l id='1474'>Le ciel en a donné des arrêts immuables ;</l>
+	<l id='1475'>Rien n'en rompra l'effet ; et Rome aura pour roi</l>
+	<l id='1476'>Ce grand Théodoric qui doit sortir de moi.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1477'>Ils veulent donc, seigneur, qu'aux dépens de ma tête</l>
+	<l id='1478'>Vos mains à ce héros préparent sa conquête ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1479'>Seigneur, c'est m'offenser encor plus qu'Attila.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1480'>Par où lui pouvez-vous échapper que par là ?</l>
+	<l id='1481'>Pouvez-vous que par là posséder Honorie ?</l>
+	<l id='1482'>Et d'où naîtra ce fils, si vous perdez la vie ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1483'>Je me vois comme vous aux portes du trépas ;</l>
+	<l id='1484'>Mais j'espère, après tout, ce que je n'entends pas.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Ardaric, Valamir, Honorie.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1485'>Savez-vous d'Attila jusqu'où va la furie,</l>
+	<l id='1486'>Princes, et quelle en est l'affreuse barbarie ?</l>
+	<l id='1487'>Cette offre qu'il vous fait d'en rendre l'un heureux</l>
+	<l id='1488'>N'est qu'un piège qu'il tend pour vous perdre tous deux.</l>
+	<l id='1489'>Il veut, sous cet espoir qu'il donne à l'un et l'autre,</l>
+	<l id='1490'>Votre sang de sa main, ou le sien de la vôtre ;</l>
+	<l id='1491'>Mais qui le servirait serait bientôt livré</l>
+	<l id='1492'>Aux troupes de celui qu'il aurait massacré ;</l>
+	<l id='1493'>Et par le désaveu de cette obéissance</l>
+	<l id='1494'>Ce tigre assouvirait sa rage et leur vengeance.</l>
+	<l id='1495'>Octar aime Flavie, et l'en vient d'avertir.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1496'>Euric, son lieutenant, ne fait que de sortir :</l>
+	<l id='1497'>Le tyran soupçonneux, qui craint ce qu'il mérite,</l>
+	<l id='1498'>A pour nous désarmer choisi ce satellite ;</l>
+	<l id='1499'>Et comme avec justice il nous croit irrités,</l>
+	<l id='1500'>Pour nous parler encore il prend ses sûretés.</l>
+	<l id='1501'>Pour peu qu'il eût tardé, nous allions dans sa tente</l>
+	<l id='1502'>Surprendre et prévenir sa plus barbare attente,</l>
+	<l id='1503'>Tandis qu'il nous laissait encor la liberté</l>
+	<l id='1504'>D'y porter l'un et l'autre une épée au côté.</l>
+	<l id='1505'>Il promet à tous deux de nous la faire rendre,</l>
+	<l id='1506'>Dès qu'il saura de nous ce qu'il en doit attendre,</l>
+	<l id='1507'>Quel est notre dessein, ou pour en mieux parler,</l>
+	<l id='1508'>Dès que nous résoudrons de nous entr'immoler.</l>
+	<l id='1509'>Cependant il réduit à l'entière impuissance</l>
+	<l id='1510'>Ce noble désespoir qui punit par avance,</l>
+	<l id='1511'>Et qui se faisant droit avant que de mourir,</l>
+	<l id='1512'>Croit que se perdre ainsi, c'est un peu moins périr ;</l>
+	<l id='1513'>Car nous aurions péri par les mains de sa garde ;</l>
+	<l id='1514'>Mais la mort est plus belle alors qu'on la hasarde.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1515' part="i">Il vient, seigneur.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Attila, Ardaric, Valamir, Honorie, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1515' part="f">Eh bien ! Mes illustres amis,</l>
+	<l id='1516'>Contre mes grands rivaux quel espoir m'est permis ?</l>
+	<l id='1517'>Pas un n'a-t-il pour soi la digne complaisance</l>
+	<l id='1518'>D'acquérir sa princesse en perdant qui m'offense ?</l>
+	<l id='1519'>Quoi ? L'amour, l'amitié, tout va d'un froid égal !</l>
+	<l id='1520'>Pas un ne m'aime assez pour haïr mon rival !</l>
+	<l id='1521'>Pas un de son objet n'a l'âme assez ravie</l>
+	<l id='1522'>Pour vouloir être heureux aux dépens d'une vie !</l>
+	<l id='1523'>Quels amis ! Quels amants ! Et quelle dureté !</l>
+	<l id='1524'>Daignez, daignez du moins la mettre en sûreté :</l>
+	<l id='1525'>Si ces deux intérêts n'ont rien qui la fléchisse,</l>
+	<l id='1526'>Que l'horreur de mourir, à leur défaut, agisse ;</l>
+	<l id='1527'>Et si vous n'écoutez l'amitié ni l'amour,</l>
+	<l id='1528'>Faites un noble effort pour conserver le jour.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1529'>À l'inhumanité joindre la raillerie,</l>
+	<l id='1530'>C'est à son dernier point porter la barbarie.</l>
+	<l id='1531'>Après l'assassinat d'un frère et de six rois,</l>
+	<l id='1532'>Notre tour est venu de subir mêmes lois ;</l>
+	<l id='1533'>Et nous méritons bien les plus cruels supplices</l>
+	<l id='1534'>De nous être exposés aux mêmes sacrifices,</l>
+	<l id='1535'>D'en avoir pu souffrir chaque jour de nouveaux.</l>
+	<l id='1536'>Punissez, vengez-vous, mais cherchez des bourreaux ;</l>
+	<l id='1537'>Et si vous êtes roi, songez que nous le sommes.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1538'>Vous ? Devant Attila vous n'êtes que deux hommes ;</l>
+	<l id='1539'>Et dès qu'il m'aura plu d'abattre votre orgueil,</l>
+	<l id='1540'>Vos têtes pour tomber n'attendront qu'un coup d'oeil.</l>
+	<l id='1541'>Je fais grâce à tous deux de n'en demander qu'une :</l>
+	<l id='1542'>Faites-en décider l'épée et la fortune ;</l>
+	<l id='1543'>Et qui succombera du moins tiendra de moi</l>
+	<l id='1544'>L'honneur de ne périr que par la main d'un roi.</l>
+	<l id='1545'>Nobles gladiateurs, dont ma colère apprête</l>
+	<l id='1546'>Le spectacle pompeux à cette grande fête,</l>
+	<l id='1547'>Montrez, montrez un coeur enfin digne du rang.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1548'>Votre main est plus faite à verser de tel sang ;</l>
+	<l id='1549'>C'est lui faire un affront que d'emprunter les nôtres.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1550'>Pour me faire justice il s'en trouvera d'autres ;</l>
+	<l id='1551'>Mais si vous renoncez aux objets de vos voeux,</l>
+	<l id='1552'>Le refus d'une tête en pourra coûter deux.</l>
+	<l id='1553'>Je révoque ma grâce, et veux bien que vos crimes</l>
+	<l id='1554'>De deux rois mes rivaux me fassent deux victimes ;</l>
+	<l id='1555'>Et ces rares objets si peu dignes de moi</l>
+	<l id='1556'>Seront le digne prix de cet illustre emploi.</l>
+	<l id='1557'>De celui de vos feux je ferai la conquête</l>
+	<l id='1558'>De quiconque à mes pieds abattra votre tête.</l>
+	<l id='1559'>Et comme vous paierez celle de Valamir,</l>
+	<l id='1560'>Nous aurons à ce prix des bourreaux à choisir ;</l>
+	<l id='1561'>Et pour nouveau supplice à de si belles flammes,</l>
+	<l id='1562'>Ce choix ne tombera que sur les plus infâmes.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1563'>Tu pourrais être lâche et cruel jusque-là !</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1564'>Encor plus, s'il le faut, mais toujours Attila,</l>
+	<l id='1565'>Toujours l'heureux objet de la haine publique,</l>
+	<l id='1566'>Fidèle au grand dépôt du pouvoir tyrannique,</l>
+	<l id='1567' part="i">Toujours...</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1567' part="f">Achève, et dis que tu veux en tout lieu</l>
+	<l id='1568'>Être l'effroi du monde, et le fléau de Dieu.</l>
+	<l id='1569'>Étale insolemment l'épouvantable image</l>
+	<l id='1570'>De ces fleuves de sang où se baignait ta rage.</l>
+	<l id='1571' part="i">Fais voir...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1571' part="f">Que vous perdez de mots injurieux</l>
+	<l id='1572'>À me faire un reproche et doux et glorieux !</l>
+	<l id='1573'>Ce dieu dont vous parlez, de temps en temps sévère,</l>
+	<l id='1574'>Ne s'arme pas toujours de toute sa colère ;</l>
+	<l id='1575'>Mais quand à sa fureur il livre l'univers,</l>
+	<l id='1576'>Elle a pour chaque temps des déluges divers.</l>
+	<l id='1577'>Jadis, de toutes parts faisant regorger l'onde,</l>
+	<l id='1578'>Sous un déluge d'eaux il abîma le monde ;</l>
+	<l id='1579'>Sa main tient en réserve un déluge de feux</l>
+	<l id='1580'>Pour le dernier moment de nos derniers neveux ;</l>
+	<l id='1581'>Et mon bras, dont il fait aujourd'hui son tonnerre,</l>
+	<l id='1582'>D'un déluge de sang couvre pour lui la terre.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1583'>Lorsque par les tyrans il punit les mortels,</l>
+	<l id='1584'>Il réserve sa foudre à ces grands criminels,</l>
+	<l id='1585'>Qu'il donne pour supplice à toute la nature,</l>
+	<l id='1586'>Jusqu'à ce que leur rage ait comblé la mesure.</l>
+	<l id='1587'>Peut-être qu'il prépare en ce même moment</l>
+	<l id='1588'>À de si noirs forfaits l'éclat du châtiment,</l>
+	<l id='1589'>Qu'alors que ta fureur à nous perdre s'apprête,</l>
+	<l id='1590'>Il tient le bras levé pour te briser la tête,</l>
+	<l id='1591'>Et veut qu'un grand exemple oblige de trembler</l>
+	<l id='1592'>Quiconque désormais t'osera ressembler.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1593'>Eh bien ! En attendant ce changement sinistre,</l>
+	<l id='1594'>J'oserai jusqu'au bout lui servir de ministre,</l>
+	<l id='1595'>Et faire exécuter toutes ses volontés</l>
+	<l id='1596'>Sur vous et sur des rois contre moi révoltés.</l>
+	<l id='1597'>Par des crimes nouveaux je punirai les vôtres,</l>
+	<l id='1598'>Et mon tour à périr ne viendra qu'après d'autres.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1599'>Ton sang, qui chaque jour, à longs flots distillés,</l>
+	<l id='1600'>S'échappe vers ton frère et six rois immolés,</l>
+	<l id='1601'>Te dirait-il trop bas que leurs ombres t'appellent ?</l>
+	<l id='1602'>Faut-il que ces avis par moi se renouvellent ?</l>
+	<l id='1603'>Vois, vois couler ce sang qui te vient avertir,</l>
+	<l id='1604'>Tyran, que pour les joindre il faut bientôt partir.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1605'>Ce n'est rien ; et pour moi s'il n'est point d'autre foudre,</l>
+	<l id='1606'>J'aurai pour ce départ du temps à m'y résoudre.</l>
+	<l id='1607'>D'autres vous envoyeraient leur frayer le chemin ;</l>
+	<l id='1608'>Mais j'en laisserai faire à votre grand destin,</l>
+	<l id='1609'>Et trouverai pour vous quelques autres vengeances,</l>
+	<l id='1610'>Quand l'humeur me prendra de punir tant d'offenses.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Attila, Ardaric, Valamir, Honorie, Ildione, Octar.</head>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1611'>Où venez-vous, madame, et qui vous enhardit</l>
+	<l id='1612'>À vouloir voir ma mort qu'ici l'on me prédit ?</l>
+	<l id='1613'>Venez-vous de deux rois soutenir la querelle,</l>
+	<l id='1614'>Vous révolter comme eux, me foudroyer comme elle,</l>
+	<l id='1615'>Ou mendier l'appui de mon juste courroux</l>
+	<l id='1616'>Contre votre Ardaric qui ne veut plus de vous ?</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1617'>Il n'en mériterait ni l'amour ni l'estime,</l>
+	<l id='1618'>S'il osait espérer m'acquérir par un crime.</l>
+	<l id='1619'>D'un si juste refus j'ai de quoi me louer,</l>
+	<l id='1620'>Et ne viens pas ici pour l'en désavouer.</l>
+	<l id='1621'>Non, seigneur : c'est du mien que j'y viens me dédire,</l>
+	<l id='1622'>Rendre à mes yeux sur vous leur souverain empire,</l>
+	<l id='1623'>Rattacher, réunir votre vouloir au mien,</l>
+	<l id='1624'>Et reprendre un pouvoir dont vous n'usez pas bien.</l>
+	<l id='1625'>Seigneur, est-ce là donc cette reconnaissance</l>
+	<l id='1626'>Si hautement promise à mon obéissance ?</l>
+	<l id='1627'>J'ai quitté tous les miens sous l'espoir d'être à vous ;</l>
+	<l id='1628'>Par votre ordre mon coeur quitte un espoir si doux,</l>
+	<l id='1629'>Je me réduis au choix qu'il vous a plu me faire,</l>
+	<l id='1630'>Et votre ordre le met hors d'état de me plaire !</l>
+	<l id='1631'>Mon respect qui me livre aux voeux d'un autre roi</l>
+	<l id='1632'>N'y voit pour lui qu'opprobre, et que honte pour moi !</l>
+	<l id='1633'>Rendez, rendez-le-moi, cet empire suprême</l>
+	<l id='1634'>Qui ne vous laissait plus disposer de vous-même :</l>
+	<l id='1635'>Rendez toute votre âme à son premier souhait,</l>
+	<l id='1636'>Recevez qui vous aime, et fuyez qui vous hait.</l>
+	<l id='1637'>Honorie a ses droits ; mais celui de vous plaire</l>
+	<l id='1638'>N'est pas, vous le savez, un droit imaginaire ;</l>
+	<l id='1639'>Et pour vous appuyer, Mérovée a des bras</l>
+	<l id='1640'>Qui font taire les droits quand il faut des combats.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1641'>Non, je ne puis plus voir cette ingrate Honorie</l>
+	<l id='1642'>Qu'avec la même horreur qu'on voit une furie ;</l>
+	<l id='1643'>Et tout ce que le ciel a formé de plus doux,</l>
+	<l id='1644'>Tout ce qu'il peut de mieux, je crois le voir en vous ;</l>
+	<l id='1645'>Mais dans votre coeur même un autre amour murmure,</l>
+	<l id='1646' part="i">Lorsque...</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1646' part="f">Vous pourriez croire une telle imposture !</l>
+	<l id='1647'>Qu'ai-je dit ? Qu'ai-je fait que de vous obéir ?</l>
+	<l id='1648'>Et par où jusque-là m'aurais-je pu trahir ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1649'>Ardaric est pour vous un époux adorable.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1650'>Votre main lui donnait ce qu'il avait d'aimable ;</l>
+	<l id='1651'>Et je ne l'ai tantôt accepté pour époux</l>
+	<l id='1652'>Que par cet ordre exprès que j'ai reçu de vous.</l>
+	<l id='1653'>Vous aviez déjà vu qu'en dépit de ma flamme,</l>
+	<l id='1654' part="i">Pour vous faire empereur...</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1654' part="f">Vous me trompez, madame ;</l>
+	<l id='1655'>Mais l'amour par vos yeux me sait si bien dompter,</l>
+	<l id='1656'>Que je ferme les miens pour n'y plus résister.</l>
+	<l id='1657'>N'abusez pas pourtant d'un si puissant empire :</l>
+	<l id='1658'>Songez qu'il est encor d'autres biens où j'aspire,</l>
+	<l id='1659'>Que la vengeance est douce aussi bien que l'amour ;</l>
+	<l id='1660'>Et laissez-moi pouvoir quelque chose à mon tour.</l>
+</sp>
+<sp who="ILDIONE"><speaker>ILDIONE.</speaker>
+	<l id='1661'>Seigneur, ensanglanter cette illustre journée !</l>
+	<l id='1662'>Grâce, grâce du moins jusqu'après l'hyménée.</l>
+	<l id='1663'>À son heureux flambeau souffrez un pur éclat,</l>
+	<l id='1664'>Et laissez pour demain les maximes d'état.</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1665'>Vous le voulez, madame, il faut vous satisfaire ;</l>
+	<l id='1666'>Mais ce n'est que grossir d'autant plus ma colère ;</l>
+	<l id='1667'>Et ce que par votre ordre elle perd de moments</l>
+	<l id='1668'>Enfle l'avidité de mes ressentiments.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1669'>Voyez, voyez plutôt, par votre exemple même,</l>
+	<l id='1670'>Seigneur, jusqu'où s'aveugle un grand coeur quand il aime :</l>
+	<l id='1671'>Voyez jusqu'où l'amour, qui vous ferme les yeux,</l>
+	<l id='1672'>Force et dompte les rois qui résistent le mieux,</l>
+	<l id='1673'>Quel empire il se fait sur l'âme la plus fière ;</l>
+	<l id='1674'>Et si vous avez vu la mienne trop altière,</l>
+	<l id='1675'>Voyez ce même amour immoler pleinement</l>
+	<l id='1676'>Son orgueil le plus juste au salut d'un amant,</l>
+	<l id='1677'>Et toute sa fierté dans mes larmes éteinte</l>
+	<l id='1678'>Descendre à la prière et céder à la crainte.</l>
+	<l id='1679'>Avoir su jusque-là réduire mon courroux,</l>
+	<l id='1680'>Vous doit être, seigneur, un triomphe assez doux.</l>
+	<l id='1681'>Que tant d'orgueil dompté suffise pour victime.</l>
+	<l id='1682'>Voudriez-vous traiter votre exemple de crime,</l>
+	<l id='1683'>Et quand vous adorez qui ne vous aime pas,</l>
+	<l id='1684'>D'un réciproque amour condamner les appas ?</l>
+</sp>
+<sp who="ATTILA"><speaker>ATTILA.</speaker>
+	<l id='1685'>Non, princesse, il vaut mieux nous imiter l'un l'autre :</l>
+	<l id='1686'>Vous suivez mon exemple, et je suivrai le vôtre.</l>
+	<l id='1687'>Vous condamniez madame à l'hymen d'un sujet ;</l>
+	<l id='1688'>Remplissez au lieu d'elle un si juste projet.</l>
+	<l id='1689'>Je vous l'ai déjà dit ; et mon respect fidèle</l>
+	<l id='1690'>À cette digne loi que vous faisiez pour elle,</l>
+	<l id='1691'>N'ose prendre autre règle à punir vos mépris.</l>
+	<l id='1692'>Si Valamir vous plaît, sa vie est à ce prix :</l>
+	<l id='1693'>Disposez à ce prix d'une main qui m'est due.</l>
+	<l id='1694'>Octar, ne perdez pas la princesse de vue.</l>
+	<l id='1695'>Vous, qui me commandez de vous donner ma foi,</l>
+	<l id='1696'>Madame, allons au temple ; et vous, rois, suivez-moi.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Honorie, Octar.</head>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1697'>Tu le vois, pour toucher cet orgueilleux courage,</l>
+	<l id='1698'>J'ai pleuré, j'ai prié, j'ai tout mis en usage,</l>
+	<l id='1699'>Octar ; et pour tout fruit de tant d'abaissement,</l>
+	<l id='1700'>Le barbare me traite encor plus fièrement.</l>
+	<l id='1701'>S'il reste quelque espoir, c'est toi seul qu'il regarde.</l>
+	<l id='1702'>Prendras-tu bien ton temps ? Tu commandes sa garde ;</l>
+	<l id='1703'>La nuit et le sommeil vont tout mettre en ton choix ;</l>
+	<l id='1704'>Et Flavie est le prix du salut de deux rois.</l>
+</sp>
+<sp who="OCTAR"><speaker>OCTAR.</speaker>
+	<l id='1705'>Ah ! Madame, Attila, depuis votre menace,</l>
+	<l id='1706'>Met hors de mon pouvoir l'effet de cette audace.</l>
+	<l id='1707'>Ce défiant esprit n'agit plus maintenant,</l>
+	<l id='1708'>Dans toutes ses fureurs, que par mon lieutenant :</l>
+	<l id='1709'>C'est par lui qu'aux deux rois il fait ôter les armes,</l>
+	<l id='1710'>Et deux mots en son âme ont jeté tant d'alarmes,</l>
+	<l id='1711'>Qu'exprès à votre suite il m'attache aujourd'hui,</l>
+	<l id='1712'>Pour m'ôter tout moyen de m'approcher de lui.</l>
+	<l id='1713'>Pour peu que je vous quitte il y va de ma vie,</l>
+	<l id='1714'>Et s'il peut découvrir que j'adore Flavie...</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1715'>Il le saura de moi, si tu ne veux agir,</l>
+	<l id='1716'>Infâme, qui t'en peux excuser sans rougir :</l>
+	<l id='1717'>Si tu veux vivre encor, va, cherche du courage.</l>
+	<l id='1718'>Tu vois ce qu'à toute heure il immole à sa rage ;</l>
+	<l id='1719'>Et ta vertu, qui craint de trop paraître au jour,</l>
+	<l id='1720'>Attend, les bras croisés, qu'il t'immole à son tour.</l>
+	<l id='1721'>Fais périr, ou péris ; préviens, lâche, ou succombe :</l>
+	<l id='1722'>Venge toute la terre, ou grossis l'hécatombe.</l>
+	<l id='1723'>Si ta gloire sur toi, si l'amour ne peut rien,</l>
+	<l id='1724'>Meurs en traître, et du moins sers de victime au mien.</l>
+	<l id='1725'>Mais qui me rend, seigneur, le bien de votre vue ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Valamir, Honorie, Octar.</head>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1726'>L'impatient transport d'une joie imprévue :</l>
+	<l id='1727' part="i">Notre tyran n'est plus.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1727' part="m">Il est mort ?</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1727' part="f">Écoutez</l>
+	<l id='1728'>Comme enfin l'ont puni ses propres cruautés,</l>
+	<l id='1729'>Et comme heureusement le ciel vient de souscrire</l>
+	<l id='1730'>À ce que nos malheurs vous ont fait lui prédire.</l>
+	<l id='1731'>À peine sortions-nous, pleins de trouble et d'horreur,</l>
+	<l id='1732'>Qu'Attila recommence à saigner de fureur,</l>
+	<l id='1733'>Mais avec abondance ; et le sang qui bouillonne</l>
+	<l id='1734'>Forme un si gros torrent, que lui-même il s'étonne.</l>
+	<l id='1735'>Tout surpris qu'il en est : " s'il ne veut s'arrêter,</l>
+	<l id='1736'>Dit-il, on me paiera ce qu'il m'en va coûter. "</l>
+	<l id='1737'>Il demeure à ces mots sans parole, sans force ;</l>
+	<l id='1738'>Tous ses sens d'avec lui font un soudain divorce :</l>
+	<l id='1739'>Sa gorge enfle, et du sang dont le cours s'épaissit</l>
+	<l id='1740'>Le passage se ferme, ou du moins s'étrécit.</l>
+	<l id='1741'>De ce sang renfermé la vapeur en furie</l>
+	<l id='1742'>Semble avoir étouffé sa colère et sa vie ;</l>
+	<l id='1743'>Et déjà de son front la funeste pâleur</l>
+	<l id='1744'>N'opposait à la mort qu'un reste de chaleur,</l>
+	<l id='1745'>Lorsqu'une illusion lui présente son frère,</l>
+	<l id='1746'>Et lui rend tout d'un coup la vie et la colère :</l>
+	<l id='1747'>Il croit le voir suivi des ombres de six rois,</l>
+	<l id='1748'>Qu'il se veut immoler une seconde fois ;</l>
+	<l id='1749'>Mais ce retour si prompt de sa plus noire audace</l>
+	<l id='1750'>N'est qu'un dernier effort de la nature lasse,</l>
+	<l id='1751'>Qui prête à succomber sous la mort qui l'atteint,</l>
+	<l id='1752'>Jette un plus vif éclat, et tout d'un coup s'éteint.</l>
+	<l id='1753'>C'est en vain qu'il fulmine à cette affreuse vue :</l>
+	<l id='1754'>Sa rage qui renaît en même temps le tue.</l>
+	<l id='1755'>L'impétueuse ardeur de ces transports nouveaux</l>
+	<l id='1756'>À son sang prisonnier ouvre tous les canaux ;</l>
+	<l id='1757'>Son élancement perce ou rompt toutes les veines,</l>
+	<l id='1758'>Et ces canaux ouverts sont autant de fontaines</l>
+	<l id='1759'>Par où l'âme et le sang se pressent de sortir,</l>
+	<l id='1760'>Pour terminer sa rage et nous en garantir.</l>
+	<l id='1761'>Sa vie à longs ruisseaux se répand sur le sable ;</l>
+	<l id='1762'>Chaque instant l'affaiblit, et chaque effort l'accable ;</l>
+	<l id='1763'>Chaque pas rend justice au sang qu'il a versé,</l>
+	<l id='1764'>Et fait grâce à celui qu'il avait menacé.</l>
+	<l id='1765'>Ce n'est plus qu'en sanglots qu'il dit ce qu'il croit dire ;</l>
+	<l id='1766'>Il frissonne, il chancelle, il trébuche, il expire ;</l>
+	<l id='1767'>Et sa fureur dernière, épuisant tant d'horreurs,</l>
+	<l id='1768'>Venge enfin l'univers de toutes ses fureurs.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Ardaric, Valamir, Honorie, Ildione, Octar.</head>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1769'>Ce n'est pas tout, seigneur ; la haine générale,</l>
+	<l id='1770'>N'ayant plus à le craindre, avidement s'étale ;</l>
+	<l id='1771'>Tous brûlent de servir sous des ordres plus doux,</l>
+	<l id='1772'>Tous veulent à l'envi les recevoir de nous.</l>
+	<l id='1773'>Ce bonheur étonnant que le ciel nous renvoie</l>
+	<l id='1774'>De tant de nations fait la commune joie ;</l>
+	<l id='1775'>La fin de nos périls en remplit tous les voeux,</l>
+	<l id='1776'>Et pour être tous quatre au dernier point heureux,</l>
+	<l id='1777'>Nous n'avons plus qu'à voir notre flamme avouée</l>
+	<l id='1778'>Du souverain de Rome et du grand Mérovée :</l>
+	<l id='1779'>La princesse des Francs m'impose cette loi.</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1780'>Pour moi, je n'en ai plus à prendre que de moi.</l>
+</sp>
+<sp who="ARDARIC"><speaker>ARDARIC.</speaker>
+	<l id='1781'>Ne perdons point de temps en ce retour d'affaires :</l>
+	<l id='1782'>Allons donner tous deux les ordres nécessaires,</l>
+	<l id='1783'>Remplir ce trône vide, et voir sous quelles lois</l>
+	<l id='1784'>Tant de peuples voudront nous recevoir pour rois.</l>
+</sp>
+<sp who="VALAMIR"><speaker>VALAMIR.</speaker>
+	<l id='1785'>Me le permettez-vous, madame ? Et puis-je croire</l>
+	<l id='1786'>Que vous tiendrez enfin ma flamme à quelque gloire ?</l>
+</sp>
+<sp who="HONORIE"><speaker>HONORIE.</speaker>
+	<l id='1787'>Allez ; et cependant assurez-vous, seigneur,</l>
+	<l id='1788'>Que nos destins changés n'ont point changé mon coeur.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

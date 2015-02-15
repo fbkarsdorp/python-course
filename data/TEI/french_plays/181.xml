@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>PERSÉE ET DÉMÉTRIUS, TRAGÉDIE.</title>
+			<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Ernest FIEVRE MAI 2009.</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>2000-2250</taille>
+				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">PERSÉE ET DÉMÉTRIUS</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1662'>1662</docDate>
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id='16**-**-**'></privilege>
+			<acheveImprime id='16**-**-**'></acheveImprime>
+			<printer id=''>À AMSTERDAM, Chez les frères Chatelain, près de la Maison de Ville. </printer>
+		</docImprint>
+		<performance>
+			<premiere date='1662-12' location='Hôtel de Bourgogne'>Représentée pour la première fois en décembre 1662 sur le Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+	<castList><head>PERSONNAGES</head>
+	<castItem><role id="PHILIPPE" civil="M" type="H" statut='roi' age='A' stat_amour='néant'>PHILIPPE</role>, Roi de Macédoine. </castItem> 
+	<castItem><role id="PERSEE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>PERSÉE</role>, fils de Philippe.</castItem> 
+	<castItem><role id="DEMETRIUS" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>DÉMÉTRIUS</role>, fils de Philippe.</castItem> 
+	<castItem><role id="ANTIGONE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>ANTIGONE</role>, fille de Néoptolémus.</castItem> 
+	<castItem><role id="ERIXENE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>ÉRIXÈNE</role>, Princesse de Thrace. </castItem> 
+	<castItem><role id="PHENICE" civil="F" type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, Confidente d'Érixène.</castItem> 
+	<castItem><role id="DIDAS" civil="M" type="H" statut='aristocrate' age='A' stat_amour='néant'>DIDAS</role>, Favori de Philippe. </castItem> 
+	<castItem><role id="ANTIGONUS" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>ANTIGONUS</role>, Confident de Philippe. </castItem> 
+	<castItem><role id="ONOMASTE" civil="M" type="H" statut='confident' age='A' stat_amour='néant'>ONOMASTE</role>, Confident de Persée.</castItem> 
+ 	</castList>
+<set location='(non indiqué)' country='Grèce' periode='Temps mythologiques' link=''>(non indiqué).</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Persée, Didas, Onomaste.</head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1'>En vain jusques ici résolu de me taire, </l>
+	<l id='2'>Je me suis déguisé les attentats d'un frère. </l>
+	<l id='3'>En vain, quoi que ma mort fût l'objet de ses voeux, </l>
+	<l id='4'>Du sang qui nous unit j'ai respecté les noeuds, </l>
+	<l id='5'>Sa haine chaque jour en devient plus ardente, </l>
+	<l id='6'>Plus je la dissimule, et plus elle s'augmente, </l>
+	<l id='7'>Et ne me plaindre pas de tout ce que je vois </l>
+<note type="C">v.8 : Le texte roiginal comporte un mot difficile à lire, il s'agit très probablement de "arme".</note>
+	<l id='8'>C'est redoubler l'aigreur qui l'arme contre moi. </l>
+	<l id='9'>Démétrius jaloux du trône de mon père </l>
+	<l id='10'>Ne peut voir sans fureur que l'âge m'y préfère, </l>
+	<l id='11'>Et le titre d'Aîné qui m'acquiert ses États, </l>
+	<l id='12'>Est un crime trop grand pour ne m'en punir pas. </l>
+	<l id='13'>Dès hier, dans ce Spectacle où l'on voit chaque année </l>
+	<l id='14'>Du parti du Vainqueur l'adresse couronnée, </l>
+	<l id='15'>Si le mien n'eût cédé, son transport violent </l>
+	<l id='16'>D'un combat de plaisir en eût fait un sanglant. </l>
+	<l id='17'>Dans le festin qu'ensuite en triomphe il ordonne, </l>
+	<l id='18'>M'y croyant attirer, il veut qu'on m'empoisonne, </l>
+	<l id='19'>Et sûr par mes refus qu'on m'a de tout instruit, </l>
+	<l id='20'>Enfin à force ouverte il vient chez moi de nuit. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='21'>Seigneur, je connais trop avec quelle contrainte </l>
+	<l id='22'>Vous laissez contre un frère échapper votre plainte, </l>
+	<l id='23'>Et lorsqu'en mon secours vous cherchez quelque appui, </l>
+	<l id='24'>Je ne refuse point de parler contre lui. </l>
+	<l id='25'>Mon zèle serait faux s'il craignait de paraître </l>
+	<l id='26'>Pour celui que les Dieux me destinent pour Maître, </l>
+	<l id='27'>Et toujours prêt pour vous à signaler ma foi, </l>
+	<l id='28'>Puisque vous l'ordonnez, j'irai trouver le Roi ; </l>
+	<l id='29'>Mais dans les mouvements et de haine et de rage </l>
+	<l id='30'>Où l'ardeur de régner pousse un jeune courage, </l>
+	<l id='31'>Quoi que Démétrius vous force à redouter, </l>
+	<l id='32'>Examinez la suite avant que d'éclater. </l>
+	<l id='33'>Il n'est plus de milieu s'il faut qu'on se déclare ; </l>
+	<l id='34'>Chacun n'écoutera qu'une fureur barbare, </l>
+	<l id='35'>Et le sang qui vous joint ne servant qu'à l'aigrir, </l>
+	<l id='36'>Si vous ne le perdez il vous faudra périr. </l>
+	<l id='37'>De ces inimitiés la rage trop avide </l>
+	<l id='38'>Vole sans s'étonner au plus noir parricide, </l>
+	<l id='39'>Et pour en assouvir la brûlante fureur, </l>
+	<l id='40'>Les plus sanglants effets n'ont point assez d'horreur. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='41'>Je le sais, cher Didas, et voudrais encor feindre </l>
+	<l id='42'>Si ses emportements ne m'offraient tout à craindre. </l>
+	<l id='43'>Tant que sa jalousie a respecté mes jours, </l>
+	<l id='44'>J'ai traité de mépris ses insolents discours. </l>
+	<l id='45'>J'ai vu sans m'émouvoir qu'il ait avec audace </l>
+	<l id='46'>Publié que par lui le Sénat nous fit grâce, </l>
+	<l id='47'>Et qu'à la Macédoine à son choix malgré moi </l>
+	<l id='48'>Rome peut-être un jour saura donner un Roi. </l>
+	<l id='49'>Mais enfin aujourd'hui qu'une fureur ouverte </l>
+	<l id='50'>Le fait obstinément s'attacher à ma perte, </l>
+	<l id='51'>Pour en rompre le cours, c'est le moins que je puis </l>
+	<l id='52'>Que d'avertir le Roi du péril où je suis ; </l>
+	<l id='53'>Et de peur que l'ennui dont mon âme est atteinte </l>
+	<l id='54'>Ne me force à mêler trop d'aigreur à ma plainte, </l>
+	<l id='55'>Respectant des devoirs où je le vois manquer, </l>
+	<l id='56'>J'emprunte votre bouche afin de l'expliquer. </l>
+	<l id='57'>Votre propre intérêt à parler vous convie ; </l>
+	<l id='58'>Le rang que vous tenez hasarde votre vie, </l>
+	<l id='59'>Et le Prince ne peut achever ses desseins </l>
+	<l id='60'>Qu'il ne punisse en vous l'Ennemi des Romains. </l>
+	<l id='61'>Vos généreux conseils à sortir d'esclavage </l>
+	<l id='62'>Pour ces chers Favoris lui donnent de l'ombrage, </l>
+	<l id='63'>Et sans doute il vous hait d'oser trop soutenir </l>
+	<l id='64'>Un trône que sans eux il ne peut obtenir. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='65'>Contre leur fier orgueil tant qu'on me voudra croire, </l>
+	<l id='66'>De ce trône, Seigneur, je soutiendrai la gloire, </l>
+	<l id='67'>Et ne les verrai point s'établir à leur choix </l>
+	<l id='68'>Arbitres souverains des différents des Rois. </l>
+	<l id='69'>Il est temps après tout qu'une éclatante guerre </l>
+	<l id='70'>Nous fasse enfin braver ces Tyrans de la terre, </l>
+	<l id='71'>Et que nous acceptions d'un esprit moins soumis </l>
+	<l id='72'>L'avantage honteux qui nous rend leurs amis. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='73'>Ce glorieux projet charme tout mon courage, </l>
+	<l id='74'>Mais le Prince pour nous leur sert toujours d'otage, </l>
+	<l id='75'>Et leur intelligence est trop à redouter </l>
+	<l id='76'>Pour nous croire en pouvoir de rien exécuter. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='77'>Si j'en sais bien juger, Seigneur, le Roi n'aspire </l>
+	<l id='78'>Qu'à secouer le joug d'un si fâcheux empire, </l>
+	<l id='79'>Et se lasse de voir les droits abandonnés </l>
+	<l id='80'>Qu'usurpe le Sénat sur les fronts couronnés. </l>
+	<l id='81'>Ces ordres absolus dont la fierté le chasse. </l>
+	<l id='82'>De ce qu'il a conquis aux Côtes de la Thrace, </l>
+	<l id='83'>Semblent l'aigrir assez pour ne balancer pas </l>
+	<l id='84'>À repousser un jour de pareils attentats. </l>
+	<l id='85'>C'est à quoi je le porte, et si par mon adresse </l>
+	<l id='86'>J'apprends jusqu'où le Prince engage sa tendresse, </l>
+	<l id='87'>Si ses vrais sentiments pour lui me sont connus, </l>
+	<l id='88'>L'obstacle que je crains ne m'arrêtera plus. </l>
+	<l id='89'>J'en vais tenter l'épreuve, et vous en rendrai compte. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='90'>Vous voyez mon malheur connaissant notre honte. </l>
+	<l id='91'>Parlez, et de vos soins à l'État importants </l>
+	<l id='92'>Mon coeur croira tenir le trône que j'attends. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Persée, Onomaste.</head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='93'>Ainsi pour prévenir l'ambition d'un frère, </l>
+	<l id='94'>Le secours de Didas nous était nécessaire, </l>
+	<l id='95'>Le Roi l'écoutant seul, on n'eût pu rien sans lui.</l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='96'>Je n'ose encor pour vous m'en promettre l'appui ; </l>
+	<l id='97'>Il semble à s'expliquer, Seigneur, qu'il ait eu peine. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='98'>Mais il est ennemi de la Grandeur Romaine, </l>
+	<l id='99'>Et son faste insolent lui blesse trop les yeux. </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='100'>Il faut pourtant songer à vous l'acquérir mieux. </l>
+	<l id='101'>Quoi qu'il vous ait promis, toute sa Politique </l>
+	<l id='102'>À sa seule grandeur sans relâche s'applique, </l>
+	<l id='103'>Et prêt des deus Partis à se joindre au plus fort, </l>
+	<l id='104'>Il attend que quelque autre en décide le sort. </l>
+	<l id='105'>Avec l'appui du peuple à ses voeux favorable, </l>
+	<l id='106'>Démétrius, Seigneur, lui paraît redoutable, </l>
+	<l id='107'>Et sans doute il craindra d'attirer son courroux </l>
+	<l id='108'>S'il ne voit que le Roi se déclare pour vous. </l>
+	<l id='109'>Cherchez donc à l'aigrir par tout ce que la plainte </l>
+	<l id='110'>Peut jeter dans son âme et d'horreur et de crainte, </l>
+	<l id='111'>D'un parricide affreux montrez-lui le projet, </l>
+	<l id='112'>Que sa tête et la vôtre en sont l'indigne objet, </l>
+	<l id='113'>Et songez que le droit d'un trône héréditaire </l>
+	<l id='114'>Ne vous demeure sûr qu'en perdant votre frère. </l>
+	<l id='115'>L'occasion est belle, et l'audace des siens </l>
+	<l id='116'>À vos ressentiments en offre les moyens. </l>
+	<l id='117'>Tout ce qui se fit hier prouve sa violence, </l>
+	<l id='118'>Et ce qui doit surtout servir votre vengeance, </l>
+	<l id='119'>Vous savez que de Rome on attend aujourd'hui </l>
+	<l id='120'>Ceux qu'envoya le Roi pour s'informer de lui. </l>
+	<l id='121'>Sous couleur d'Ambassade et d'affaires publiques, </l>
+	<l id='122'>Ils allaient épier des secrètes pratiques, </l>
+	<l id='123'>Et fût-il innocent, ils noirciront sa foi, </l>
+	<l id='124'>De tout ce qui la peut rendre suspect au Roi.</l>
+	<l id='125'>C'est là ce qu'en partant vous leur fîtes promettre, </l>
+	<l id='126'>Et si par le secours de quelque fausse lettre, </l>
+	<l id='127'>Il faut pour le convaincre étendre le forfait, </l>
+	<l id='128'>Le seing de Quintius se verra contrefait. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='129'>Ne balançons donc plus une juste entreprise, </l>
+	<l id='130'>Où m'engage le trône, où l'amour m'autorise. </l>
+	<l id='131'>Perdons ce frère ingrat dont l'insolent pouvoir </l>
+	<l id='132'>Fait pour l'un et pour l'autre obstacle à mon espoir. </l>
+	<l id='133'>La Princesse de Thrace en vain m'est destinée, </l>
+	<l id='134'>En vain le Roi m'en veut assurer l'hyménée, </l>
+	<l id='135'>De mes tristes soupirs l'hommage dédaigné </l>
+	<l id='136'>Enorgueillit un coeur que le Prince a gagné ; </l>
+	<l id='137'>Ses soins qu'à préférer on voit qu'elle s'apprête, </l>
+	<l id='138'>Dérobent à mes voeux cette illustre conquête, </l>
+	<l id='139'>Et par ce fier Rival sans cesse traversé, </l>
+	<l id='140'>Je frémis de sa perte, et m'y trouve forcé. </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='141'>Ce refus n'est-il pas une marque assurée </l>
+	<l id='142'>Qu'avec lui la Princesse a la vôtre jurée ? </l>
+	<l id='143'>La Thrace dès longtemps unie à nos États </l>
+	<l id='144'>La doit laisser Sujette à ne vous choisir pas, </l>
+	<l id='145'>Et dans l'ambition dont on la voit capable, </l>
+	<l id='146'>Croiriez-vous à ses yeux Démétrius aimable, </l>
+	<l id='147'>Si l'appui des Romains n'avait su l'assurer </l>
+	<l id='148'>Qu'au trône malgré vous il a droit d'aspirer ? </l>
+	<l id='149'>En serait-il aimé s'il ne la faisait pas Reine ? </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='150'>Non, Onomaste, non, et c'est ce qui me gêne </l>
+	<l id='151'>Que de son coeur en vain je tâche à l'éloigner, </l>
+	<l id='152'>Si sa mort ne me laisse assuré de régner. </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='153'>Quoi, Seigneur, en effet vous cherchez à lui plaire. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='154'>D'abord je n'eus dessein que de nuire à ce frère. </l>
+	<l id='155'>Ayant su son amour, par un décret fatal, </l>
+	<l id='156'>Sans me sentir amant je me fis son Rival ; </l>
+	<l id='157'>Mais las ! Je n'appris pas longtemps à la connaître </l>
+	<l id='158'>Qu'en secret je devins ce que je feignais d'être. </l>
+	<l id='159'>Son mérite à mes yeux vivement exposé </l>
+	<l id='160'>Me fit naître un vrai mal d'un tourment supposé, </l>
+	<l id='161'>Et mon coeur qu'aux soupirs forçait un peu d'étude </l>
+	<l id='162'>Ne s'en fit que trop tôt une douce habitude. </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='163'>Seigneur, s'il est ainsi, j'imagine un dessein </l>
+	<l id='164'>Dont le succès pour vous ne peut être incertain, </l>
+	<l id='165'>Vous assurez vos droits, ou gagnez la Princesse. </l>
+	<l id='166'>Contre Démétrius faisons agir l'adresse, </l>
+	<l id='167'>Tant que le Roi craignant ses secrets attentats </l>
+	<l id='168'>Le force d'épouser la fille de Didas. </l>
+	<l id='169'>Pour s'assurer de lui le prétexte est plausible, </l>
+	<l id='170'>Didas garde pour Rome une haine invincible, </l>
+	<l id='171'>Et contre les projets dont s'alarme le Roi, </l>
+	<l id='172'>Le Prince étant son gendre, il répond de sa foi. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='173'>Mais sa brigue par là se rendrait plus puissante ? </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='174'>Seigneur, à cet hymen vous croyez qu'il consente, </l>
+	<l id='175'>Lui qui pour la Princesse ardemment enflammé </l>
+	<l id='176'>Prétend n'aimer qu'autant qu'il se connaît aimé, </l>
+	<l id='177'>Non, non, je n'en mets point le refus en balance, </l>
+	<l id='178'>Il saura de Didas rejeter l'alliance, </l>
+	<l id='179'>Et d'un pareil mépris Didas trop indigné </l>
+	<l id='180'>Contre lui par nos soins sera bientôt gagné. </l>
+	<l id='181'>Jugez pour s'en venger ce qu'il doit entreprendre. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='182'>Mais si par Politique il s'en veut faire Gendre, </l>
+	<l id='183'>Didas que flatteront les orgueilleux desseins </l>
+	<l id='184'>Se peut mettre avec lui du parti des Romains ? </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='185'>Alors si jusque-là son courage s'abaisse </l>
+	<l id='186'>Son infidélité vous acquiert la Princesse, </l>
+	<l id='187'>Qui dans les vifs transports de son juste courroux </l>
+	<l id='188'>Ne peut mieux le punir qu'en se donnant à vous. </l>
+	<l id='189'>Quant au trône, Seigneur, quoi que Didas pût faire, </l>
+	<l id='190'>Le Ciel qui vous y place en exclut votre frère, </l>
+	<l id='191'>Et pour vous maintenir dans ce rang glorieux, </l>
+	<l id='192'>Nous saurons, s'il le faut, prêter secours aux Dieux. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='193'>J'aurais tort de combattre un avis si fidèle, </l>
+	<l id='194'>Et m'abandonne entier à l'ardeur de ton zèle. </l>
+	<l id='195'>La Princesse paraît, adieu, retire-toi, </l>
+	<l id='196'>Tu peux sur ce dessein sonder l'esprit du Roi. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Persée, Érixène, Phénice. </head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='197'>Et bien, Madame, enfin un orgueil inflexible </l>
+	<l id='198'>Vous rendra-t-il toujours à mes maux insensible, </l>
+	<l id='199'>Et d'un feu si constant l'infatigable ardeur </l>
+	<l id='200'>N'aura-t-elle aucun droit de toucher votre coeur ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='201'>Si le Ciel laisse en nous cette ardeur volontaire, </l>
+	<l id='202'>On doit n'aimer, Seigneur, qu'autant qu'elle peut plaire, </l>
+	<l id='203'>Et s'il contraint nos coeurs, ne m'accusez de rien ; </l>
+	<l id='204'>Comme il force le vôtre, il peut forcer le mien. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='205'>Ah, n'autorisez point ce mépris de ma flamme </l>
+	<l id='206'>Par ce que prend le Ciel d'empire sur une âme. </l>
+	<l id='207'>Je sais bien que l'Amour à vaincre intéressé, </l>
+	<l id='208'>Quand il occupe un coeur, n'en peut être chassé, </l>
+	<l id='209'>Mais bien loin que d'en haut l'ordre nous violente, </l>
+	<l id='210'>Il ne le surprend point que ce coeur n'y consente. </l>
+	<l id='211'>C'est par son seul aveu qu'on se laisse enflammer </l>
+	<l id='212'>Et l'on est toujours libre à commencer d'aimer. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='213'>S'il en est ainsi, Seigneur, que vous le voulez croire, </l>
+	<l id='214'>De cette liberté ne m'ôtez pas la gloire, </l>
+	<l id='215'>Et souffrez qu'à mon choix on me voie ordonner </l>
+	<l id='216'>Du seul bien que les Dieux semblent m'abandonner. </l>
+	<l id='217'>La Thrace où je naquis par vos armes conquise </l>
+	<l id='218'>Rend ma triste fortune à cet État soumise, </l>
+	<l id='219'>Et dans un sort si dur, ce m'est quelque douceur </l>
+	<l id='220'>Que je puisse du moins disposer de mon coeur. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='221'>Disposez-en, madame, et refusez de croire, </l>
+	<l id='222'>Que mon hymen sur vous pût jeter quelque gloire ; </l>
+	<l id='223'>Ne voyez point qu'un trône offert par cet accord </l>
+	<l id='224'>Vous aurait fait raison des outrages du Sort. </l>
+	<l id='225'>Ce frère dont l'audace à votre amour aspire </l>
+	<l id='226' part='i'>Vaut bien... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='226' part='f'>J'entends, Seigneur, ce que vous voulez dire, </l>
+	<l id='227'>De sa flamme à mon coeur les seuls charmes sont doux ; </l>
+	<l id='228'>Mais si vous le croyez, que me demandez-vous ? </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='229'>Non, non, Madame, non, et malgré ma faiblesse </l>
+	<l id='230'>Je sais trop bien juger d'une illustre Princesse, </l>
+	<l id='231'>Pour croire que l'orgueil qui la doit animer </l>
+	<l id='232'>Borne son plus doux charme à la gloire d'aimer. </l>
+	<l id='233'>Un coeur qui pour le trône a mérité de naître, </l>
+	<l id='234'>Quand il prend de l'amour, s'en rend toujours le maître. </l>
+	<l id='235'>De ses vastes désirs l'insatiable ardeur </l>
+	<l id='236'>L'asservit en esclave au soin de sa grandeur, </l>
+	<l id='237'>Sa flamme s'accommode aux desseins qu'il achève, </l>
+	<l id='238'>Il ne la laisse agir qu'autant qu'elle l'élève, </l>
+	<l id='239'>Et ne cède aux transports qui forment de doux noeuds </l>
+	<l id='240'>Que quand l'ambition a rempli tous ses voeux. </l>
+	<l id='241'>C'est ainsi qu'à l'Amour votre coeur s'abandonne, </l>
+	<l id='242'>Son orgueil en secret accepte la Couronne, </l>
+	<l id='243'>De sa possession il se fait une loi, </l>
+	<l id='244'>Mais il l'attend plutôt d'un frère que de moi. </l>
+	<l id='245'>Vous voyez trop d'ardeur suivre son entreprise </l>
+	<l id='246'>Pour douter d'un projet où Rome l'autorise, </l>
+	<l id='247'>Et s'il y faut mon sang, c'est aux esprits mal faits </l>
+	<l id='248'>À craindre pour régner le remords des forfaits. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='249'>Certes, je dois beaucoup à cette haute estime </l>
+	<l id='250'>Qui dans Démétrius me fait presser un crime, </l>
+	<l id='251'>Et ne me rend sensible aux offres de sa foi </l>
+	<l id='252'>Qu'afin qu'un parricide en puisse faire un Roi. </l>
+	<l id='253'>Sans respecter en moi la Grandeur Souveraine, </l>
+	<l id='254'>Jugez, Prince, jugez au gré de votre haine ; </l>
+	<l id='255'>Pour venger cet affront, quoi que je veuille oser, </l>
+	<l id='256'>Tout l'éclat de la mienne est trop à mépriser. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='257'>Qu'elle éclate, Madame ; aussi bien, quoi qu'elle ose, </l>
+	<l id='258'>Qui souffre vos mépris peut souffrir toute chose. </l>
+	<l id='259'>Je ne vous dirai plus qu'un amour si parfait </l>
+	<l id='260'>N'avait point mérité l'outrage qu'on lui fait. </l>
+	<l id='261'>Du moins en l'étouffant assuré de vous plaire, </l>
+	<l id='262'>Je veux, s'il n'y consent, le forcer à se taire, </l>
+	<l id='263'>Et que votre fierté n'ait plus à s'indigner </l>
+	<l id='264'>De l'offre d'un hymen qui vous ferait régner. </l>
+	<l id='265'>J'en vais presser le Roi, mais dans ce sacrifice </l>
+	<l id='266'>Je vois ce qu'à mon rang vous faites d'injustice, </l>
+	<l id='267'>Et si pour vous encor le respect me retient, </l>
+	<l id='268'>Je suis sensible, et sais d'où l'injure me vient. </l>
+	<l id='269' part='i'>Adieu, Madame. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Érixène, Phénice. </head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='269' part='f'>Ah Ciel ! Où me vois-je réduite. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='270'>De ce jaloux transport il faut craindre la suite. </l>
+	<l id='271'>Persée est violent, et dans son désespoir </l>
+	<l id='272'>Le sang pour l'arrêter aura peu de pouvoir. </l>
+	<l id='273'>De ses voeux rebutés l'impatient outrage </l>
+	<l id='274'>Contre Démétrius animera sa rage, </l>
+	<l id='275'>Et vos dédains pour lui hautement confirmés </l>
+	<l id='276'>La vont rendre funeste à ce que vous aimez. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='277'>Quel conseil prendre, dans ce désordre extrême ? </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='278'>Vous devez accepter l'offre d'un Diadème. </l>
+	<l id='279'>Si pour Démétrius c'est montrer peu d'amour, </l>
+	<l id='280'>La constance n'est pas une vertu de Cour, </l>
+	<l id='281'>Et le coeur le plus ferme aisément se pardonne </l>
+	<l id='282'>Une infidélité qui vaut une Couronne. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='283'>Ah, si pour moi ton zèle a quelque droit d'agir, </l>
+	<l id='284'>Ne me conseille rien qui m'oblige à rougir. </l>
+	<l id='285'>Contre Démétrius sollicitant ma flamme, </l>
+	<l id='286'>Les défauts de Persée ont-ils frappé ton âme, </l>
+	<l id='287'>Et pourrais-tu souffrir qu'au mépris de ma foi </l>
+	<l id='288'>L'orgueil qui l'accompagne eût des charmes pour moi ? </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='289'>Si dans un rang si haut l'orgueil est condamnable, </l>
+	<l id='290'>Démétrius, Madame, en est-il incapable, </l>
+	<l id='291'>Et quand vous estimez les devoirs qu'il vous rend, </l>
+	<l id='292'>Savez-vous quelle part l'ambition y prend ? </l>
+	<l id='293'>On dit qu'il veut régner, et dans cette pensée, </l>
+	<l id='294'>S'il ne peut arracher la Couronne à Persée, </l>
+	<l id='295'>C'est un espoir en lui facile à pénétrer </l>
+	<l id='296'>Que les droits de la Thrace où vous pouvez rentrer. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='297'>Ces bruits d'ambition dont on ternit sa gloire </l>
+	<l id='298'>Découvrent dans Persée une âme basse et noire ; </l>
+	<l id='299'>C'est par là qu'il prétend le punir aujourd'hui </l>
+	<l id='300'>D'avoir osé montrer plus de vertu que lui. </l>
+	<l id='301'>Sa haine dangereuse autant qu'elle est couverte </l>
+	<l id='302'>Fait naître ces soupçons pour avancer sa perte, </l>
+	<l id='303'>On m'a de tout instruite, et si jusques ici </l>
+	<l id='304' part='i'>Démétrius n'a pas... </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='304' part='f'>Madame, le voici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Érixène, Démétrius, Phénice. </head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='305'>Ah, Prince, il n'est plus temps d'opposer à l'orage </l>
+	<l id='306'>L'illustre fermeté d'un généreux courage, </l>
+	<l id='307'>Dans le pressant péril qu'il force à redouter </l>
+	<l id='308'>Ce n'est qu'en lui cédant qu'on le peut éviter. </l>
+	<l id='309'>Persée au désespoir de cette préférence </l>
+	<l id='310'>Qu'emportent vos vertus sur l'heur de sa naissance, </l>
+	<l id='311'>Blessé de leur éclat, s'en forme contre vous </l>
+	<l id='312'>Tout ce qui peut aigrir l'esprit le plus jaloux. </l>
+	<l id='313'>Le Peuple ici vous aime, et Rome vous estime. </l>
+	<l id='314'>Si c'est gloire pour vous ce n'est pas moins un crime, </l>
+	<l id='315'>Et ce crime est de ceux dont par la trahison </l>
+	<l id='316'>Un lâche ambitieux se peut faire raison. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='317'>Madame, je sais trop jusqu'où la jalousie </l>
+	<l id='318'>Porte l'indigne ardeur dont son âme est saisie, </l>
+	<l id='319'>Et que pour me noircir il répand en tous lieux </l>
+	<l id='320'>Ce que la calomnie a de plus odieux ; </l>
+	<l id='321'>Mais qui d'un noir dessein se connaît incapable, </l>
+	<l id='322'>Dans un autre jamais ne le trouve croyable, </l>
+	<l id='323' part='i'>Et si mon frère... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='323' part='f'>En vain vous voulez vous flatter, </l>
+	<l id='324'>Sa haine avecque moi vient encor d'éclater. </l>
+	<l id='325'>De ses voeux mal reçus l'injurieuse audace </l>
+	<l id='326'>En a poussé l'aigreur jusques à la menace, </l>
+	<l id='327'>Et pour porter le coup prêt à lever le bras, </l>
+	<l id='328'>J'ai découvert qu'il cherche à corrompre Didas. </l>
+	<l id='329'>Tous ceux en qui le Roi semble avoir confiance </l>
+	<l id='330'>Sont déjà contre vous de son intelligence, </l>
+	<l id='331'>Didas seul l'embarrasse et s'il peut le gagner, </l>
+	<l id='332'>Le sang n‘aura plus rien qu'on lui voie épargner. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='333'>Didas auprès du Roi plus que tous est à craindre, </l>
+	<l id='334'>Mais, madame, à trembler voulez-vous me contraindre ? </l>
+	<l id='335'>Évitai-je par là le péril que je cours ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='336'>Du moins l'éloignement vous offre du secours. </l>
+	<l id='337'>Fuyez, Prince, fuyez, la foudre est toute prête, </l>
+	<l id='338'>À son indigne éclat dérobez votre tête. </l>
+	<l id='339'>Rome où presque en naissant vous fûtes élevé, </l>
+	<l id='340'>Par elle avec plaisir vous verra conservé ; </l>
+	<l id='341' part='i'>L'asile est sûr pour vous. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='341' part='f'>Quel outrage à ma flamme ! </l>
+	<l id='342' part='i'>Moi fuir ! Moi vous quitter ! </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='342' part='m'>Il le faut. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='342' part='f'>Ah, Madame, </l>
+	<l id='343'>Ai-je rien à prévoir dont les funestes coups </l>
+	<l id='344'>Approchent de l'horreur de m'éloigner de vous ? </l>
+	<l id='345'>Si vous l'avez pu croire, est-ce ainsi que l'on aime ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='346'>En vous le conseillant j'agis contre moi-même, </l>
+	<l id='347'>Mais quoi que votre vue ait de quoi me charmer, </l>
+	<l id='348'>Qui se cherche en aimant n'est pas digne d'aimer. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='349'>Hélas, Madame, hélas ! Quand le sort nous accable, </l>
+	<l id='350'>Est-ce aimer comme il faut qu'être si raisonnable ? </l>
+	<l id='351'>Pour moi, dans le revers dont je suis combattu, </l>
+	<l id='352'>Je ne me pique point d'avoir tant de vertu. </l>
+	<l id='353'>Vous voir est le seul bien qui peut flatter ma flamme, </l>
+	<l id='354'>Avant que j'y renonce on m'arrachera l'âme, </l>
+	<l id='355'>Et quoi qu'on entreprenne, il me sera plus doux </l>
+	<l id='356'>De mourir à vos yeux que vivre loin de vous. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='357'>Ne vous aveuglez point quand le mal est extrême. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='358'>Mais, Madame, songez que mon frère vous aime, </l>
+	<l id='359'>Et que dans la douleur de se voir dédaigner, </l>
+	<l id='360'>Pour agir sans obstacle, il tâche à m'éloigner. </l>
+	<l id='361'>Quoi que de ses transports votre crainte soupçonne, </l>
+	<l id='362'>Ils sont pour votre coeur plus que pour la Couronne, </l>
+	<l id='363'>Et cherchent, en mettant ses menaces au jour, </l>
+	<l id='364'>À chasser un Rival qui nuit à son amour. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='365'>Si cet amour vous gêne, il me blesse, il m'irrite, </l>
+	<l id='366'>Mais lorsqu'en sa faveur le Roi me sollicite, </l>
+	<l id='367'>Mon coeur au plein mépris ne s'ose abandonner, </l>
+	<l id='368'>Tant que votre péril a de quoi m'étonner. </l>
+	<l id='369'>Fuyez donc, et par là dissipant la tempête </l>
+	<l id='370'>Laissez libre l'éclat où ma haine s'apprête. </l>
+	<l id='371'>Il verra de quel air j'en soutiendrai le cours, </l>
+	<l id='372'>Quand je n'aurai plus rien à craindre pour vos jours. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='373'>Qu'à l'envie contre moi la Terre au Ciel s'unisse, </l>
+	<l id='374'>Il me peut être aisé d'en braver l'injustice. </l>
+	<l id='375' part='i'>M'aimez-vous ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='375' part='f'>Quand mon coeur se voudrait démentir, </l>
+	<l id='376'>Ce soupir échappé n'y pourrait consentir. </l>
+	<l id='377' part='i'>Mais encor une fois, Prince... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='377' part='f'>Mon heur suprême </l>
+	<l id='378'>C'est de voir, c'est d'ouïr que ma Princesse m'aime, </l>
+	<l id='379'>Et comme pour ma flamme il n'est point d'autre bien, </l>
+	<l id='380'>Après ce doux aveu, je n'écoute plus rien. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Philippe, Antigonus.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='381'>Non, non, Antigonus, la grandeur de l'injure </l>
+	<l id='382'>N'étouffe point en moi la voix de la Nature, </l>
+	<l id='383'>Et mon coeur t'expliquant ce qui le fait souffrir, </l>
+	<l id='384'>Cherche à se soulager, et non pas à s'aigrir. </l>
+	<l id='385'>Quoi que dans ses projets Démétrius espère, </l>
+	<l id='386'>Je garde encor pour lui les sentiments de père, </l>
+	<l id='387'>Et toute la fureur de son ambition </l>
+	<l id='388'>N'excite qu'en secret mon indignation. </l>
+	<l id='389'>Je le vois, sur l'appui que le Sénat lui donne, </l>
+	<l id='390'>Contre moi, contre un frère, usurper la Couronne. </l>
+	<l id='391'>Et mes lâches Sujets à l'hommage contraints</l>
+	<l id='392'>Accepter pour leur Roi l'Esclave des Romains. </l>
+	<l id='393'>Dans les emportements qu'il ne peut plus contraindre </l>
+	<l id='394'>Je connais que Persée a raison de se plaindre, </l>
+	<l id='395'>Mais de peur d'un désordre à tous les deux fatal, </l>
+	<l id='396'>Sans prendre aucun parti je veux paraître égal. </l>
+	<l id='397'>Par là j'empêcherai que fort de ma colère </l>
+	<l id='398'>Persée injustement n'ose accuser son frère, </l>
+	<l id='399'>Et ma bonté peut-être aura quelque pouvoir </l>
+	<l id='400'>Pour rendre un fils rebelle aux lois de son devoir. </l>
+	<l id='401'>Quoi qu'assez rarement un ambitieux cède, </l>
+	<l id='402'>Il faut avant la force essayer ce remède, </l>
+	<l id='403'>Et voir si la douceur ne saurait obtenir </l>
+	<l id='404'>Le remords d'un forfait que je crains de punir. </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='405'>Seigneur, on ne peut trop louer cette prudence </l>
+	<l id='406'>Qui tient entre deux fils la Nature en balance ; </l>
+	<l id='407'>Mais gardez qu'en secret la pente où je vous vois </l>
+	<l id='408'>Contre Démétrius ne séduise un grand Roi. </l>
+	<l id='409'>Peut-il trouver en vous un Juge favorable </l>
+	<l id='410'>Si déjà sans l'ouïr vous le croyez coupable ? </l>
+	<l id='411'>Je sais que vos soupçons condamnent justement </l>
+	<l id='412'>Ce que pour les Romains il a d'attachement ; </l>
+	<l id='413'>Mais c'est pousser trop loin la fierté qui le guide </l>
+	<l id='414'>Que de la faire aller jusques au parricide. </l>
+	<l id='415'>Il est aimé du Peuple, et peut-être en ces lieux </l>
+	<l id='416'>Qui s'en peut faire aimer fait bien des envieux. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='417'>Quoi ? Tu ne veux pas voir qu'une ardeur criminelle </l>
+	<l id='418'>L'engage de ce Peuple à corrompre le zèle, </l>
+	<l id='419'>Et lui fait publier que rompant mes desseins </l>
+	<l id='420'>Lui seul l'a garanti des armes des Romains ? </l>
+	<l id='421'>Sur ce bruit qu'à semer son orgueil se hasarde </l>
+	<l id='422'>Pour son Libérateur je vois qu'on le regarde, </l>
+	<l id='423'>On le suit, on l'honore, et depuis son retour </l>
+	<l id='424'>À mes yeux à l'envi chacun lui fait sa cour ; </l>
+	<l id='425'>Mais à ce charme en vain ils aiment à se rendre</l>
+	<l id='426'>La guerre leur fait peur, et je veux l'entreprendre. </l>
+	<l id='427'>C'est trop, c'est trop rougir du joug impérieux </l>
+	<l id='428'>Qu'impose aux Souverains un Peuple ambitieux. </l>
+	<l id='429'>Il est temps de résoudre, et de parler en Maître, </l>
+	<l id='430'>Un Roi qui peut céder n'est point digne de l'être, </l>
+	<l id='431'>Et prêt à souffrir tout des plus fiers Ennemis, </l>
+	<l id='432'>Le trône a plus d'éclat renversé que soumis. </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='433'>Ces sentiments sont grands, mais si comme l'on pense </l>
+	<l id='434'>Démétrius à Rome a de l'intelligence, </l>
+	<l id='435'>Doutez-vous que par lui le Sénat averti...</l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='436'>Nous forcerons l'Ingrat à prendre enfin parti. </l>
+	<l id='437'>Il faut sur un hymen à l'État nécessaire </l>
+	<l id='438'>Qu'il renonce aux Romains, ou s'arme contre un père, </l>
+	<l id='439'>Et si par son refus il s'y montre attaché, </l>
+	<l id='440'>Nous n'aurons plus du moins un Ennemi caché. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Philippe, Antigonus, Onomaste. </head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='441' part='i'>Les Princes viennent-ils ? </l>
+</sp>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='441' part='f'>Ils ne font plus qu'attendre, </l>
+	<l id='442'>Seigneur, dans l'antichambre ils sont venus se rendre, </l>
+	<l id='443'>Où pour vous avertir je viens de les quitter. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='444'>Qu'ils entrent, Onomaste, il les faut écouter. </l>
+	<l id='445'>Demeure Antigonus ; je veux qu'en ta présence </l>
+	<l id='446'>Deux Frères ennemis obtiennent audience ; </l>
+	<l id='447'>Déjà de l'un des deux m'expliquant le souci </l>
+	<l id='448'>Sur ce qui se fit hier Didas... Mais les voici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Philippe, Persée, Démétrius, Antigonus, Onomaste. </head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='449'>Seigneur, si je pouvais sans m'en rendre complice... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='450'>Prenez place tous deux, je vous ferai justice. </l>
+	<l id='451'>Voici le jour fatal où le ciel contre nous</l>
+	<l id='452'>Semble avoir réservé son plus âpre courroux. </l>
+	<l id='453'>La plainte ouverte enfin succédant au murmure </l>
+	<l id='454'>À la pleine révolte enhardit la nature, </l>
+	<l id='455'>J'en vois les droits partout honteusement trahis, </l>
+	<l id='456'>Il m'en faut être Juge, et c'est entre mes fils. </l>
+	<l id='457'>père trop malheureux qui, quoi que je me cache, </l>
+	<l id='458'>D'un crime dans mon sang ne saurais fuir la tache ! </l>
+	<l id='459'>Un frère accuse l'autre, et le crime est douteux, </l>
+	<l id='460'>Mais l'effet m'en doit être également honteux. </l>
+	<l id='461'>Qu'il soit faux, qu'il soit vrai, la haine qui les guide </l>
+	<l id='462'>En fait pour moi toujours un lâche parricide. </l>
+	<l id='463'>Ou l'un d'eux aujourd'hui cherche à l'exécuter, </l>
+	<l id='464'>Ou l'autre le commet en l'osant inventer, </l>
+	<l id='465'>Et ma gloire ne peut qu'elle ne soit ternie, </l>
+	<l id='466'>Ou par son attentat, ou par sa calomnie. </l>
+	<l id='467'>Voilà ce que j'ai craint de ces dissensions </l>
+	<l id='468'>Dont l'aigreur soutenait toutes vos actions ; </l>
+	<l id='469'>Mais comme il en est peu que le temps n'adoucisse, </l>
+	<l id='470'>J'ai cru qu'au sang enfin vous rendriez justice, </l>
+	<l id='471'>Et qu'après les avis que je vous ai donnés, </l>
+	<l id='472'>Vous n'oublieriez jamais ce que vous êtes nés. </l>
+	<l id='473'>Combien de fois, hélas ! Vous ai-je fait comprendre </l>
+	<l id='474'>Quels biens de la concorde on a sujet d'attendre ? </l>
+	<l id='475'>C'est par là que deux Rois avecque tant d'éclat </l>
+	<l id='476'>De Sparte si longtemps ont gouverné l'État, </l>
+	<l id='477'>Que d'un zèle pareil la conduite admirable </l>
+	<l id='478'>À ses plus fiers Voisins l'a rendu redoutable, </l>
+	<l id='479'>Et que ce même État n'a pu se maintenir </l>
+	<l id='480'>Dès que l'ambition a su les désunir. </l>
+	<l id='481'>Combien ai-je tâché de prévenir vos haines </l>
+	<l id='482'>Par l'exemple fameux et d'Attale et d'Euménès, </l>
+	<l id='483'>Que la concorde seule, où tous deux je les vois, </l>
+	<l id='484'>A faits aussi puissants qu'Antiochus, ou moi ! </l>
+	<l id='485'>Honteux du nom de Rois qu'à peine ils voulaient prendre, </l>
+	<l id='486'>Ils ont droit aujourd'hui d'oser tout entreprendre ; </l>
+	<l id='487'>Et s'il faut mêler Rome aux autres Nations, </l>
+	<l id='488'>Voyez les Quintius, voyez les Scipions. </l>
+	<l id='489'>Dans l'éclat immortel qui suivra leur mémoire </l>
+	<l id='490'>De leur noble union voyez briller la gloire ; </l>
+	<l id='491'>Au lieu que des forfaits la plus pressante horreur </l>
+	<l id='492'>Toujours de la discorde a suivi la fureur. </l>
+	<l id='493'>Ni le crime des uns, ni la vertu des autres </l>
+	<l id='494'>Sur les grands sentiments n'ont pu régler les vôtres. </l>
+	<l id='495'>D'une coupable ardeur l'indigne emportement </l>
+	<l id='496'>Vous fait de votre rage aimer l'aveuglement. </l>
+	<l id='497'>Vous voulez que je vive, et souffrez que je règne </l>
+	<l id='498'>Tant que vous n'ayez plus d'obstacle qu'elle craigne, </l>
+	<l id='499'>Et que par l'attentat l'un de l'autre défait </l>
+	<l id='500'>Puisse en m'ôtant le jour jouir de son forfait. </l>
+	<l id='501'>Il n'est droit si sacré que votre orgueil révère, </l>
+	<l id='502'>Vous haïssez les noms et de père, et de frère, </l>
+	<l id='503'>Et du sang à l'envi brisant les plus doux noeuds, </l>
+	<l id='504'>Le trône est le Dieu seul qui mérite vos voeux. </l>
+	<l id='505'>Sus donc, immolez-lui de si chères victimes, </l>
+	<l id='506'>Et me faites trembler par l'horreur de vos crimes. </l>
+	<l id='507'>Attendant que le fer en règle les effets </l>
+	<l id='508'>Faites en ma présence un combat de forfaits. </l>
+	<l id='509'>Dites tout ce que peut, pour trahir la Nature, </l>
+	<l id='510'>Ou résoudre la rage, ou forger l'imposture, </l>
+	<l id='511'>J'écoute ; et je crains bien pour reproche éternel </l>
+	<l id='512'>De n'avoir à juger que du moins criminel. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='513'>Seigneur, j'ai dû sans doute abandonner ma tête </l>
+	<l id='514'>À l'éclat imprévu d'une affreuse tempête, </l>
+	<l id='515'>Puisque les attentats dont encor je frémis </l>
+	<l id='516'>Ne sauraient être crus s'ils n'ont été commis. </l>
+	<l id='517'>Ce n'est pas sans raison qu'un Peuple téméraire </l>
+	<l id='518'>Ne veut pour votre fils connaître que mon frère. </l>
+	<l id='519'>Si chez vous comme lui j'en obtenais le rang, </l>
+	<l id='520'>Vous trembleriez d'ouïr qu'on veut verser mon sang, </l>
+	<l id='521'>Et ne voudriez pas qu'un reproche semblable </l>
+	<l id='522'>Confondit l'Innocent avecque le Coupable. </l>
+	<l id='523'>Ayant à craindre tout, si sans rien découvrir </l>
+	<l id='524'>Vous voulez que je meure, et bien, il faut mourir, </l>
+	<l id='525'>J'y consens, et je croirai mon sort digne d'envie </l>
+	<l id='526'>Si ma mort avancée assure votre vie, </l>
+	<l id='527'>Et si l'indigne ardeur de ses transports jaloux </l>
+	<l id='528'>Peut s'étendre en mon sang sans aller jusqu'à vous ; </l>
+	<l id='529'>Mais si dans ce péril la plainte m'est permise, </l>
+	<l id='530'>Voyez-le contre moi s'armer avec surprise, </l>
+	<l id='531'>Et l'éclat de sa haine osant tout aujourd'hui, </l>
+	<l id='532'>Souffrez pour l'arrêter que je m'adresse à lui. </l>
+	<l id='533'>Qu'espérez-vous, mon frère, et sur quelles maximes </l>
+	<l id='534'>Courez-vous en aveugle au plus affreux des crimes ? </l>
+	<l id='535'>Dans l'orgueil de compter tant de Rois pour aïeux, </l>
+	<l id='536'>L'avidité du trône entraîne tous vos voeux, </l>
+	<l id='537'>Comme eux il faut régner, et cette noble envie </l>
+	<l id='538'>Pour remplir tout leur sort veut se voir assouvie ; </l>
+	<l id='539'>Mais si ce que je suis tient le vôtre borné </l>
+	<l id='540'>Prenez-vous-en aux Dieux qui m'ont fait votre aîné. </l>
+	<l id='541'>L'usage ici reçu, le jugement d'un père </l>
+	<l id='542'>Pour régner après lui veulent qu'on me préfère, </l>
+<note type="C">v. 543 : le texte original comporte "réprendre", nous choisissons de transcrire "répandre" plutôt que "reprendre".</note>
+	<l id='543'>Et votre bras armé pour répandre mon sang </l>
+	<l id='544'>Vous peut seul donner droit de monter à son rang. </l>
+	<l id='545'>Le Ciel dont l'équité sur nos desseins préside </l>
+	<l id='546'>N'a pu souffrir encor un si noir parricide. </l>
+	<l id='547'>Hier dans ce faux combat que j'osai hasarder </l>
+	<l id='548'>Pour éviter ma perte il m'apprit à céder. </l>
+	<l id='549'>C'est lui qui s'opposant à l'espoir qui vous reste </l>
+	<l id='550'>Me fit fuir un festin qui m'eût été funeste, </l>
+	<l id='551'>Et le crime partout noircissant votre foi, </l>
+	<l id='552'>J'aurais dû cette nuit vous recevoir chez moi ? </l>
+	<l id='553'>Seigneur, sans mes refus nés d'une juste crainte, </l>
+	<l id='554'>Vous pleureriez ma mort où vous oyez ma plainte, </l>
+	<l id='555'>Et ce qu'entre deux fils vous avez à juger, </l>
+	<l id='556'>Ne vous aurait laissé que ma perte à venger. </l>
+	<l id='557'>Détestez maintenant l'ardeur insatiable </l>
+	<l id='558'>Où la soif de régner plonge une âme coupable, </l>
+	<l id='559'>Mais en la détestant daignez vous souvenir </l>
+	<l id='560'>Que vous avez à plaindre aussi bien qu'à punir. </l>
+	<l id='561'>Que celui dont la rage aspire à perdre un frère </l>
+	<l id='562'>Sente à jamais des Dieux l'implacable colère, </l>
+	<l id='563'>Mais qu'au moins l'opprimé, pour s'en mettre à couvert, </l>
+	<l id='564'>Dans l'appui de son Roi trouve un asile ouvert. </l>
+	<l id='565'>Contre la trahison c'est le seul que j'espère, </l>
+	<l id='566'>Je n'ai pour m'en sauver que les Dieux et mon père, </l>
+	<l id='567'>S'il me faut fuir ici de secrets attentats, </l>
+	<l id='568'>Je n'ai point de Romains qui me tendent les bras. </l>
+	<l id='569'>Leur haine de ma mort se fait un heur suprême </l>
+	<l id='570'>Parce que je soutiens l'honneur du Diadème, </l>
+	<l id='571'>Et ne leur laisse voir aucuns moyens offerts </l>
+	<l id='572'>De mettre, moi vivant, la Macédoine aux fers. </l>
+	<l id='573'>La plainte cependant, le murmure, l'outrage, </l>
+	<l id='574'>Sont le prix d'affranchir vos Sujets d'esclavage. </l>
+	<l id='575'>Vous l'avez vu, Seigneur, dans ces lâches Soldats </l>
+	<l id='576'>Qui hier même à vos yeux cherchèrent mon trépas. </l>
+	<l id='577'>Que dirai-je des Grands dont la molle faiblesse </l>
+	<l id='578'>À flatter les Romains à l'envi s'intéresse, </l>
+	<l id='579'>Et qui sur un espoir et vil et hasardeux </l>
+	<l id='580'>N'adorent que celui qui peut tout auprès d'eux ? </l>
+	<l id='581'>Ce n'est pas à moi seul qu'il voit qu'on le préfère, </l>
+	<l id='582'>Il l'emporte en secret sur son Roi, sur son père. </l>
+	<l id='583'>C'est lui qui dans l'orage où vous étiez compris </l>
+	<l id='584'>Des foudres du Sénat sauva vos cheveux gris. </l>
+	<l id='585'>Si vos Peuples sans guerre ont la douceur de vivre, </l>
+	<l id='586'>Des armes des Romains c'est lui qui les délivre, </l>
+	<l id='587'>Et tandis qu'en vous seul je fonde mon appui, </l>
+	<l id='588'>Vos Peuples, les Romains tout enfin est pour lui. </l>
+	<l id='589'>À quoi présumez-vous que Quintius aspire </l>
+	<l id='590'>Par tout ce qu'il se plaît sans cesse à vous écrire, </l>
+	<l id='591'>Quand pour entretenir l'amitié du Sénat </l>
+	<l id='592'>Il vous fait envoyer les Premiers de l'État ? </l>
+	<l id='593'>Démétrius a part à cette Politique, </l>
+	<l id='594'>Ses conseils sont sa règle en tout ce qu'il pratique, </l>
+	<l id='595'>Et dans ces Envoyés qu'ils ont l'art de gagner, </l>
+	<l id='596'>Ils cherchent du secours pour le faire régner. </l>
+	<l id='597'>Ceux qu'un pur intérêt, ceux qu'un vrai zèle y mène </l>
+	<l id='598'>N'en reviennent jamais qu'avec l'âme Romaine, </l>
+	<l id='599'>Le seul Démétrius est maître de leur foi, </l>
+	<l id='600'>Et déjà, vous régnant, ils l'appellent leur Roi. </l>
+	<l id='601'>Si l'indignation m'arrache quelque plainte, </l>
+	<l id='602'>De l'ardeur de régner j'ai soudain l'âme atteinte, </l>
+	<l id='603'>Chacun veut que ce crime ait pour moi des appas, </l>
+	<l id='604'>Et vous-même, Seigneur, ne m'en exemptez pas. </l>
+	<l id='605'>Mais à quoi cette ardeur et basse et criminelle, </l>
+	<l id='606'>Puisqu'au trône après vous ma naissance m'appelle ? </l>
+	<l id='607'>Vouloir pour y monter confondre tous les droits, </l>
+	<l id='608'>Renverser la Nature, anéantir les Lois, </l>
+	<l id='609'>Se faire une vertu d'un frère qu'on opprime ; </l>
+	<l id='610'>C'est là, Seigneur, c'est là ce qui s'appelle crime, </l>
+	<l id='611'>Et j'atteste les Dieux, si j'en prends quelque effroi, </l>
+	<l id='612'>Que je le crains pour vous beaucoup plus que pour moi. </l>
+	<l id='613'>Négligez ce péril où ma vie est réduite, </l>
+	<l id='614'>Détournez-en les yeux, mais voyez-en la suite, </l>
+	<l id='615'>Et songez, qu'où du sang on a brisé les noeuds, </l>
+	<l id='616'>Qui fait un parricide en peut commettre deux. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='617'>Si je parais surpris, Seigneur, j'ai pour excuse </l>
+	<l id='618'>Et le genre du crime, et celui qui m'accuse. </l>
+	<l id='619'>Pour m'ôter tous moyens de vaincre mon malheur, </l>
+	<l id='620'>Il veut auprès de vous corrompre ma douleur, </l>
+	<l id='621'>Et de ses feints soupirs l'injurieuse amorce </l>
+	<l id='622'>Tâche en la prévenant d'en détruire la force. </l>
+	<l id='623'>Sur vous d'un faux péril il fait tomber l'effroi, </l>
+	<l id='624'>Pour faire agir par vous sa rage contre moi. </l>
+	<l id='625'>Quoi que fort du secours de ma seule innocence, </l>
+	<l id='626'>Pour moi du Monde entier il arme la puissance. </l>
+	<l id='627'>Et d'asiles partout il aime à se priver, </l>
+	<l id='628'>Pour empêcher qu'en vous je n'en puisse trouver. </l>
+	<l id='629'>Dieux, qu'il prend pour témoins des motifs de sa crainte, </l>
+	<l id='630'>Aidez ceux qu'il abuse à pénétrer leur feinte, </l>
+	<l id='631'>Et puisqu'à m'en purger je me trouve réduit, </l>
+	<l id='632'>Éclairez ce grand crime où j'ai choisi la nuit. </l>
+	<l id='633'>Il l'expose à vos yeux l'âme encor toute émue, </l>
+	<l id='634'>Comme s'il ne formait qu'une plainte imprévue, </l>
+	<l id='635'>Et que ces noirs complots dont il souille ma foi </l>
+	<l id='636'>Ne fussent pas des traits préparés contre moi. </l>
+	<l id='637'>Prince, si dès longtemps formant brigues sur brigues, </l>
+	<l id='638'>Je fais contre l'État de criminelles ligues, </l>
+	<l id='639'>Il fallait m'accuser de cette trahison </l>
+	<l id='640'>Avant qu'elle employât le fer et le poison. </l>
+	<l id='641'>Déjà pour m'en punir j'étais assez coupable </l>
+	<l id='642'>Sans que de cette nuit on y joignît la fable, </l>
+	<l id='643'>Mais pour mieux voir quel fruit j'en pourrais espérer, </l>
+	<l id='644'>Vous voulez tout confondre, il faut tout séparer. </l>
+	<l id='645'>Le grand titre d'aîné, le jugement d'un père, </l>
+	<l id='646'>Le droit des Nations, tout veut qu'on vous préfère, </l>
+	<l id='647'>Et pour en démentir l'aveugle choix du Sort, </l>
+	<l id='648'>Ma lâche ambition a juré votre mort. </l>
+	<l id='649'>Pourquoi donc m'imputer la coupable espérance </l>
+	<l id='650'>Dont l'appui des Romains flatte mon arrogance ? </l>
+	<l id='651'>Si jusqu'à faire un Roi vous portez leur crédit, </l>
+	<l id='652'>Qu'est-il besoin de crime où leur secours suffit ?</l>
+	<l id='653'>Est-ce afin que le trône ait plus de quoi me plaire, </l>
+	<l id='654'>Si j'en vois les degrés teints du sang de mon frère ? </l>
+	<l id='655'>Est-ce afin qu'auprès d'eux ce noir crime commis </l>
+	<l id='656'>M'ôte ce peu d'estime où la vertu m'a mis ? </l>
+	<l id='657'>Quintius qu'on me voit prendre partout pour guide, </l>
+	<l id='658'>M'aura-t-il conseillé cet affreux parricide, </l>
+	<l id='659'>Lui qui chérit son frère, et laisse à nos neveux </l>
+	<l id='660'>De l'union parfaite un exemple fameux ? </l>
+	<l id='661'>Pour m'élever au trône où mon orgueil aspire, </l>
+	<l id='662'>Vous voulez qu'à l'envi tout le monde conspire, </l>
+	<l id='663'>Et comme sans appui, pour unique recours, </l>
+	<l id='664'>Vous me faites du crime emprunter le secours. </l>
+	<l id='665'>Voyons-le tel qu'il est, où qu'on le fait paraître, </l>
+	<l id='666'>Ce crime qu'entre nous un père doit connaître. </l>
+	<l id='667'>On divise l'Armée, et d'une égale ardeur </l>
+	<l id='668'>Nous disputant le prix qu'on destine au Vainqueur. </l>
+	<l id='669'>Tous deux Chefs de parti nous cherchons la victoire, </l>
+	<l id='670'>Et quand sur vous enfin j'en emporte la gloire, </l>
+	<l id='671'>Ma haine, dites-vous, si l'on ne m'eût cédé, </l>
+	<l id='672'>Par un combat sanglant en aurait décidé. </l>
+	<l id='673'>Quelle plainte, grands Dieux, et qu'elle a de faiblesse ! </l>
+	<l id='674'>Vous fûtes le témoin de ce combat d'adresse, </l>
+	<l id='675'>Seigneur, et vous savez ce qu'on me vit tenter, </l>
+	<l id='676'>Qui marque la fureur qu'il ose m'imputer ; </l>
+	<l id='677'>Mais la sienne, qu'anime une haine implacable, </l>
+	<l id='678'>Ne veut rien épargner pour me rendre coupable. </l>
+	<l id='679'>Dans la fête qu'ensuite on me voit ordonner </l>
+	<l id='680'>Je l'invite au festin, c'est pour l'empoisonner. </l>
+	<l id='681'>Sans nommer les témoins d'une trame si noire, </l>
+	<l id='682'>J'en suis trop convaincu parce qu'il la veut croire. </l>
+	<l id='683'>Le fer enfin succède, on me fait tout oser. </l>
+	<l id='684'>Prince, m'accuser trop, ce n'est pas m'accuser. </l>
+	<l id='685'>Pour rendre contre moi vos plaintes légitimes, </l>
+	<l id='686'>Un seul jour me pouvait amasser moins de crimes </l>
+	<l id='687'>Je vais chez vous de nuit, et l'on doit soupçonner </l>
+	<l id='688'>Que j'y vais seulement pour vous assassiner ? </l>
+	<l id='689'>Puisque de ce forfait vous avez des indices, </l>
+	<l id='690'>J'étais accompagné, je livre mes Complices, </l>
+	<l id='691'>Qu'ils viennent, et par eux faites connaître à tous </l>
+	<l id='692'>L'ordre d'un attentat qu'ils apprendront de vous. </l>
+	<l id='693'>Mais que sert contre moi d'inventer cette fable ? </l>
+	<l id='694'>De tant de crimes faux passons au véritable. </l>
+	<l id='695'>Que ne me dites-vous, puisqu'il faut l'exprimer, </l>
+	<l id='696'>Pourquoi, Démétrius, t'es-tu fait estimer ? </l>
+	<l id='697'>Pourquoi de ta vertu la Macédoine éprise </l>
+	<l id='698'>Me voit-elle à regret une Couronne acquise, </l>
+	<l id='699'>Et quand de ma conduite on la voit s'indigner, </l>
+	<l id='700'>Pourquoi lui parais-tu plus digne de régner ? </l>
+	<l id='701'>Quelques déguisements qui cachent sa pensée, </l>
+	<l id='702'>C'est là, Seigneur, c'est là ce qui blesse Persée, </l>
+	<l id='703'>Et l'on s'empresserait bien moins à me trahir, </l>
+	<l id='704'>Si par mes lâchetés je me faisais haïr ; </l>
+	<l id='705'>Mais comme avec le sang la vertu m'intéresse </l>
+	<l id='706'>À lui céder un trône acquis au droit d'Aînesse, </l>
+	<l id='707'>Ce même sang m'apprend à me montrer jaloux </l>
+	<l id='708'>De mériter l'honneur d'être sorti de vous. </l>
+	<l id='709'>Quant aux Romains, Seigneur, dont il veut prendre ombrage, </l>
+	<l id='710'>M'a-t-on vu demander à leur servir d'Otage. </l>
+	<l id='711'>Et si vers le Sénat vous m'avez député, </l>
+	<l id='712'>Ai-je de cet emploi brigué la dignité ? </l>
+	<l id='713'>Dans l'un et l'autre temps ma foi toujours sincère </l>
+	<l id='714'>N'a choisi pour objet que la gloire d'un père, </l>
+	<l id='715'>Et par vos ordres seuls ayant pris droit d'agir, </l>
+	<l id='716'>Ni pour vous ni pour moi je n'ai point à rougir. </l>
+	<l id='717'>Tant qu'avec eux la paix nous défendra les armes </l>
+	<l id='718'>Leur alliance offerte aura pour nous des charmes, </l>
+	<l id='719'>Mais si vous en rompez le noeud mal affermi </l>
+	<l id='720'>Ils trouveront en moi leur plus fier Ennemi. </l>
+	<l id='721'>De leur protection il n'est rien que j'attende ; </l>
+	<l id='722'>Qu'ils ne me nuisent point, c'est ce que je demande, </l>
+	<l id='723'>Et qu'un frère trop prompt à soupçonner ma foi </l>
+	<l id='724'>Ne prenne point chez eux des armes contre moi. </l>
+	<l id='725'>Si vous me condamniez, quelle que fût l'offense, </l>
+	<l id='726'>Ce serait à lui seul à prendre ma défense, </l>
+	<l id='727'>Et c'est lui que je vois sur de faux attentats </l>
+	<l id='728'>Vouloir vous arracher l'arrêt de mon trépas. </l>
+	<l id='729'>Appelé sans savoir que j'eusse à me défendre, </l>
+	<l id='730'>Je n'ai pour y songer que le temps de l'entendre, </l>
+	<l id='731'>Tandis qu'à me noircir, et qu'à me déchirer </l>
+	<l id='732'>Sa haine industrieuse a su se préparer. </l>
+	<l id='733'>Hélas ! Dans ce malheur où serait mon refuge, </l>
+	<l id='734'>Si tout autre que vous devait être mon Juge ? </l>
+	<l id='735'>Contre un frère cruel qui veut trancher mes jours, </l>
+	<l id='736'>C'est un fils qui d'un père implore le secours. </l>
+	<l id='737'>Dans l'excès où sa rage a pu déjà paraître, </l>
+	<l id='738'>Que n'en craindrai-je point quand il sera mon Maître, </l>
+	<l id='739'>Et que sert qu'aujourd'hui l'on m'ose secourir, </l>
+	<l id='740'>Si par lui tôt ou tard j'ai toujours à périr ? </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='741' part='i'>Seigneur, si ce qu'il craint... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='741' part='f'>Bornez-là votre plainte, </l>
+	<l id='742'>L'aigreur qui la soutient autorise sa crainte, </l>
+	<l id='743'>Et trop de pente à prendre un esprit soupçonneux </l>
+	<l id='744'>Éblouit votre haine, et vous trompe tous deux. </l>
+	<l id='745'>J'ai compris les raisons et de l'un et de l'autre, </l>
+	<l id='746'>Sans prendre son parti, ni m'attacher au vôtre, </l>
+	<l id='747'>Et comme entre deux fils j'aime à me partager, </l>
+	<l id='748'>C'est sur l'avenir seul que je prétends juger. </l>
+	<l id='749'>Vivez, et s'il se peut, qu'une amitié sincère </l>
+	<l id='750'>Du sang qui vous unit marque le caractère, </l>
+	<l id='751'>Et par ses plus doux noeuds épargne à mon courroux </l>
+	<l id='752'>La douleur de chercher un coupable entre vous. </l>
+	<l id='753'>La Nature l'ordonne, et je vous le demande. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='754'>Vous plaire est le seul bien, Seigneur, où je prétende, </l>
+	<l id='755'>Et de cette union le charme m'est si doux </l>
+	<l id='756'>Que j'aurais fait pour moi ce que j'ai fait pour vous. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='757'>L'assurance m'en plaît, mais pour l'avoir entière, </l>
+	<l id='758'>Contre vous à l'envie ôtons toute matière. </l>
+	<l id='759'>Étouffons un soupçon qui dans tous vos desseins </l>
+	<l id='760'>Vous fait d'intelligence avecque les Romains. </l>
+	<l id='761'>De ces Tyrans des Rois la fière Politique </l>
+	<l id='762'>Fait révolter Didas contre leur République, </l>
+	<l id='763'>Épousez-en la fille, et pour vous et pour moi </l>
+	<l id='764'>Faites leur Ennemi garant de votre Foi. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='765'>Je vous l'ai déjà dit, Seigneur, lorsque la paix rompue... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='766'>Faut-il vous l'ordonner de puissance absolue ? </l>
+	<l id='767'>Ne me résistez point ; au Prince, au Peuple, à tous, </l>
+	<l id='768'>Cet hymen seul a droit de répondre de vous. </l>
+	<l id='769'>Votre gloire sans lui par le crime est flétrie, </l>
+	<l id='770'>Je vous vois lâchement trahir votre Patrie, </l>
+	<l id='771'>Et par le sang d'un frère acheter des Romains </l>
+	<l id='772'>Les fers injurieux où vous tendez les mains. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='773'>Daignez moins exiger de la foi qu'il vous jure. </l>
+	<l id='774'>Pour lui de cet hymen la contrainte est trop dure, </l>
+	<l id='775'>Seigneur, et vous devez par des ordres plus doux </l>
+	<l id='776'>Essayer le respect qu'il veut avoir pour vous. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='777'>J'aurais peut-être lieu d'admirer par quel zèle </l>
+	<l id='778'>Qui veut me voir périr craint de me voir rebelle ; </l>
+	<l id='779'>Mais pour mes intérêts cessez de vous trahir, </l>
+	<l id='780'>Un père a commandé, je ne sais qu'obéir. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='781'>Puissé-je ainsi revoir le calme en ma Famille. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Philippe, Persée, Démétrius, Didas, Antigonus, Onomaste.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='782'>Didas, rends grâce au Prince, il épouse ta fille, </l>
+	<l id='783'>Et cet honneur sur toi justement répandu </l>
+	<l id='784'>Assure à tes travaux le prix qu'il leur est dû. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='785' part='i'>Seigneur... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='785' part='f'>S'il est plus grand que tu n'osais le croire, </l>
+	<l id='786'>Rends-lui ce que de toi demande tant de gloire, </l>
+	<l id='787'>Je te laisse avec lui. Vous, Prince, suivez-moi. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Démétrius, Didas.</head>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='788'>Seigneur, sans trop d'orgueil puis-je croire le Roi, </l>
+	<l id='789'>Et se peut-il qu'un Prince et grand et magnanime </l>
+	<l id='790'>Pour le sang d'un Sujet conçoive tant d'estime, </l>
+	<l id='791'>Que d'un choix où jamais il n'aurait prétendu... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='792'>Obéissant au Roi, j'ai fait ce que j'ai dû ; </l>
+	<l id='793'>Mais je crois qu'imitant cet effort pour un autre, </l>
+	<l id='794'>Si j'ai fait mon devoir, vous songerez au vôtre, </l>
+	<l id='795'>Et n'en croirez pas tant des voeux trop élevés, </l>
+	<l id='796'>Qu'on vous voie oublier ce que vous me devez. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='797'>Le respect qui pour vous accompagne mon zèle </l>
+	<l id='798'>Ne marquera jamais une âme plus fidèle, </l>
+	<l id='799'>Et je sais trop, Seigneur, ce que vous doit ma foi... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='800'>Puisque vous le savez, allez trouver le Roi, </l>
+	<l id='801'>Et m'épargnant l'éclat où je sais qu'on aspire, </l>
+	<l id='802'>Sauvez-moi de l'hymen qu'on lui fait me prescrire. </l>
+	<l id='803'>Je vois d'où m'en vient l'ordre, et qu'un frère jaloux </l>
+	<l id='804'>Prétend par mes refus accroître son courroux. </l>
+	<l id='805'>Sachant que j'aime ailleurs, par cette loi cruelle </l>
+	<l id='806'>Il a cru me contraindre à me montrer rebelle,</l>
+	<l id='807'>Mais j'ai lieu d'espérer que de sa haine instruit </l>
+	<l id='808'>Vous ne souffrirez pas qu'il en cueille le fruit. </l>
+	<l id='809'>Rompez donc un Accord dont l'amour qui m'engage </l>
+	<l id='810'>Par estime pour vous ne veut pas voir l'outrage, </l>
+	<l id='811'>Et respectant les traits dont mon coeur est blessé, </l>
+	<l id='812'>Chargez-vous d'un refus où je serais forcé. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='813'>Quelque honneur où le Roi m'autorise à prétendre, </l>
+	<l id='814'>Vous pouvez arrêtez l'espoir qu'il m'en fait prendre ; </l>
+	<l id='815'>Mais vouloir qu'affectant un refus criminel </l>
+	<l id='816' part='i'>Moi-même... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='816' part='f'>Je vous plains d'un effort si cruel, </l>
+	<l id='817'>Mais il faut empêcher que l'on ne vous soupçonne </l>
+	<l id='818'>D'avoir eu quelque part à l'ordre qu'on me donne, </l>
+	<l id='819'>Et si vous m'en croyez, vous obtiendrez du Roi </l>
+	<l id='820'>Qu'il me laisse à mon choix disposer de ma foi. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='821'>Le Roi sait ce qu'il fait, et s'il cherche ma gloire, </l>
+	<l id='822' part='i'>Croyez, Seigneur... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='822' part='f'>Laissons ce que j'ai lieu de croire, </l>
+	<l id='823'>S'il vous fait malgré vous prendre un espoir trop haut, </l>
+	<l id='824'>Détournez-en l'effet, je croirai ce qu'il faut. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='825' part='i'>Seigneur, vous pourriez mieux... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='825' part='f'>Oui, je pourrais lui dire </l>
+	<l id='826'>Que s'il songe au néant dont sa faveur vous tire, </l>
+	<l id='827'>Il saura qu'à sa gloire il est injurieux </l>
+	<l id='828'>D'unir un sang trop bas au plus pur sang des Dieux ; </l>
+	<l id='829'>Qu'un Roi, quoique jaloux d'élever ce qu'il aime, </l>
+	<l id='830'>Doit à sa dignité beaucoup plus qu'à soi-même, </l>
+	<l id='831'>Et qu'il faut préférer dans le moindre projet </l>
+	<l id='832'>La majesté du trône à l'orgueil d'un Sujet. </l>
+	<l id='833'>Pour lui faire éviter la honte qu'il se cache, </l>
+	<l id='834'>Ou par vous ou par moi c'est ce qu'il faut qu'il sache, </l>
+	<l id='835'>Mais l'aigreur de l'avis ne regardant que vous, </l>
+	<l id='836'>Vous saurez le donner en des termes plus doux, </l>
+	<l id='837'>Et pour vos intérêts ma patience extrême </l>
+	<l id='838'>Veut bien pour l'expliquer s'en remettre à vous-même </l>
+	<l id='839'>Si c'est vous dire trop, accusez-en des voeux </l>
+	<l id='840'>Dont l'audace me force à plus que je ne veux. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='841' part='i'>Dans le peu que je suis, du moins... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='841' part='f'>Brisons, de grâce </l>
+	<l id='842'>Malgré mes Envieux je sais ce qui se passe, </l>
+	<l id='843'>Et qu'après cette plainte où le sang m'a trahi, </l>
+	<l id='844'>L'on devait m'arrêter si je n'eusse obéi. </l>
+	<l id='845'>C'était pour m'y contraindre une méchante voie </l>
+	<l id='846'>Si je n'eusse à mon frère envié cette joie ; </l>
+	<l id='847'>Mais si votre insolence à me persécuter </l>
+	<l id='848'>Sur ce honteux hymen me force d'éclater, </l>
+	<l id='849'>Malgré tout ce que peut l'injuste appui d'un père, </l>
+	<l id='850'>Peut-être aurez-vous lieu de craindre ma colère. </l>
+	<l id='851' part='i'>C'est à vous d'y penser. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='851' part='f'>Vous serez satisfait, </l>
+	<l id='852'>Seigneur, et cet hymen n'aura jamais d'effet. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Érixène, Phénice.</head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='853'>Oui, je le sais, Phénice, en de pareils outrages </l>
+	<l id='854'>Le moindre emportement sied mal aux grands courages, </l>
+	<l id='855'>Et j'ai lieu de rougir d'avoir peine à calmer </l>
+	<l id='856'>L'impatient courroux qui cherche à m'animer ? </l>
+	<l id='857'>Mais plus je vois son crime, et moins de ma faiblesse </l>
+	<l id='858'>Malgré tout mon orgueil je puis être maîtresse. </l>
+	<l id='859'>Dieux ! Peut-il être vrai que l'infidélité </l>
+	<l id='860'>De tant de voeux offerts souille la pureté ? </l>
+	<l id='861'>Incapable jamais de trahir ce que j'aime </l>
+	<l id='862'>Je dédaigne pour lui l'éclat du Diadème, </l>
+	<l id='863'>Et sur un lâche espoir dont il goûte l'appas, </l>
+	<l id='864'>Il m'ose préférer la fille de Didas ? </l>
+	<l id='865'>Tu l'avais bien jugé ; quoi qu'il en ait pu dire, </l>
+	<l id='866'>Après ce trône seul le parjure soupire, </l>
+	<l id='867'>Et croit en voir pour lui les droits moins incertains. </l>
+	<l id='868'>Gendre d'un Favori qu'il acquiert aux Romains. </l>
+	<l id='869'>Qu'il règne, que par eux sa puissance affermie </l>
+	<l id='870'>D'un si honteux hymen répare l'infamie, </l>
+	<l id='871'>Quelque éclat qu'elle assure à ses voeux insensés, </l>
+	<l id='872'>Par sa gloire flétrie il s'en punit assez. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='873'>Son infidélité ne vous peut trop surprendre, </l>
+	<l id='874'>Mais d'abord sans aigreur vous avez pu l'apprendre, </l>
+	<l id='875'>Votre esprit semble calme, et plus de fermeté... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='876'>Te le dirai-je, hélas ! D'abord j'en ai douté. </l>
+	<l id='877'>D'abord pour cet ingrat ma flamme intéressée </l>
+	<l id='878'>A vu dans Onomaste un Agent de Persée </l>
+	<l id='879'>Mais quand Antigonus par mon ordre amené </l>
+	<l id='880'>M'a confirmé l'avis qu'on m'en avait donné, </l>
+	<l id='881'>Que lui-même excusant sa lâche obéissance, </l>
+	<l id='882'>De cet hymen pour lui m'a montré l'importance, </l>
+	<l id='883'>Tout ce qu'a de pressant la plus jalouse ardeur </l>
+	<l id='884'>Aux plus âpres transports a livré tout mon coeur. </l>
+	<l id='885'>Mille serments trahis par l'espoir qui l'anime </l>
+	<l id='886'>Pour aigrir ma colère ont redoublé son crime, </l>
+	<l id='887'>Et leur image offerte à mon ressentiment </l>
+	<l id='888'>Des plus noires couleurs m'a peint son changement. </l>
+	<l id='889'>S'il en eût craint l'affront, c'est par son seul silence </l>
+	<l id='890'>Qu'il aurait fait juger de son obéissance, </l>
+	<l id='891'>Et sa flamme aussitôt venant s'en plaindre à moi, </l>
+	<l id='892'>Eût démenti la honte où l'eût forcé le Roi ; </l>
+	<l id='893'>Mais pour gagner Didas, sa lâche politique </l>
+	<l id='894'>Veut que sa trahison aux yeux de tous s'explique, </l>
+	<l id='895'>Et qu'un indigne aveu lui fasse mériter </l>
+	<l id='896'>L'appui dont pour le trône il se laisse flatter. </l>
+	<l id='897'>Tandis qu'à soupirer ma fierté se ravale, </l>
+	<l id='898'>Il est, il est, Phénice, auprès de ma Rivale, </l>
+	<l id='899'>Et rit du vain courroux qu'il voudra présumer </l>
+	<l id='900'>Que son crime en mon coeur ait eu lieu d'allumer. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='901'>Montrer si peu de force à braver cet outrage, </l>
+	<l id='902'>C'est lui donner, Madame, un peu trop d'avantage, </l>
+	<l id='903' part='i'>Et ces ressentiments... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='903' part='f'>Daignes-en mieux juger. </l>
+	<l id='904'>Avec toi ma douleur aime à se soulager, </l>
+	<l id='905'>Mais ailleurs, les transports qu'irrite son offense ; </l>
+	<l id='906'>N'armeront contre lui que mon indifférence, </l>
+	<l id='907'>Et du moins mon orgueil n'en pouvant triompher, </l>
+	<l id='908'>Sous l'éclat du mépris saura les étouffer. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='909'>Vous promettez beaucoup, mais comme, quoi qu'on fasse, </l>
+	<l id='910'>Il n'est rien qu'un remords dans un grand coeur n'efface </l>
+	<l id='911' part='i'>Si de Démétrius... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='911' part='f'>Ah, pour fléchir le mien </l>
+	<l id='912'>Ne crois pas que jamais le remords puisse rien. </l>
+	<l id='913'>Plus l'amant nous fut cher, plus son ingratitude </l>
+	<l id='914'>Rend le coup qui nous blesse et surprenant et rude, </l>
+	<l id='915'>Et sa peine attirant nos plus ardents souhaits, </l>
+	<l id='916'>Si l'amour n'en meurt point, il n'en guérit jamais. </l>
+	<l id='917'>Je te dirai bien plus ; quand par une faiblesse </l>
+	<l id='918'>Dont le sang qui m'anime exempte une Princesse, </l>
+	<l id='919'>Tout mon coeur contre moi lâchement révolté </l>
+	<l id='920'>En faveur d'un ingrat trahirait ma fierté, </l>
+	<l id='921'>Quand en le punissant du mépris de ma flamme </l>
+	<l id='922'>Je me verrais forcée à l'adorer dans l'âme, </l>
+	<l id='923'>À quelque dur malheur que me livrât le sien, </l>
+	<l id='924'>Je mourrais mille fois plutôt qu'il en sût rien, </l>
+	<l id='925'>Et mes derniers soupirs par ma fausse victoire </l>
+	<l id='926'>D'un triomphe effectif lui voleraient la gloire. </l>
+	<l id='927'>Qu'il se repente ou non, il m'a manqué de foi, </l>
+	<l id='928'>Et je me souviendrai de ce que je me dois. </l>
+	<l id='929'>Pour plaire à mon courroux, en remplir l'arrogance, </l>
+	<l id='930'>Il faut que mon amour tremble sous ma vengeance, </l>
+	<l id='931'>Qu'aux dépens d'un repos qui lui sembla si doux... </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='932'>Le Roi peut vous entendre, il s'avance vers nous. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Philippe, Érixène, Phénice, Suite du Roi.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='933'>Madame, enfin du Ciel la bonté Souveraine </l>
+	<l id='934'>De deux Frères jaloux semble étouffer la haine, </l>
+	<l id='935'>Et j'ai lieu d'espérer qu'un plus heureux destin </l>
+	<l id='936'>À leurs divisions va mettre quelque fin. </l>
+	<l id='937'>Contre Démétrius sur de vaines maximes </l>
+	<l id='938'>Le défiant Persée a trop cru de faux crimes, </l>
+	<l id='939'>Et le seul dont j'ai vu la fuite à redouter, </l>
+	<l id='940'>C'est l'appui qu'aux Romains on lui faisait prêter ; </l>
+	<l id='941'>Mais l'hymen où contre eux un vrai zèle l'engage, </l>
+	<l id='942'>De sa fidélité me doit être un sûr gage, </l>
+	<l id='943'>Et de cette union les favorables noeuds </l>
+	<l id='944'>Par la foi de Didas m'assurent tous ses voeux. </l>
+	<l id='945'>Ainsi loin qu'il me reste à craindre un fils rebelle... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='946'>Seigneur, j'ai déjà su cette grande nouvelle, </l>
+	<l id='947'>Et c'est avec plaisir qu'après tant de souhaits, </l>
+	<l id='948'>Où le trouble a régné, je vois régner la paix. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='949'>Pour n'en revoir jamais la douceur en balance, </l>
+	<l id='950'>Achevez aujourd'hui ce que le Ciel commence, </l>
+	<l id='951'>Et daignant de Persée autoriser l'espoir, </l>
+	<l id='952'>Du Sceptre qui l'attend partagez le pouvoir. </l>
+	<l id='953'>Rome par cet hymen, à quoi qu'elle s'apprête, </l>
+	<l id='954'>Perdra l'injuste droit de régler ma conquête, </l>
+	<l id='955'>Et se verra forcée après tant de débats, </l>
+	<l id='956'>De voir la Thrace entière unie à mes États. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='957'>Quoi que du sort jaloux l'injuste violence </l>
+	<l id='958'>En ait soumis l'Empire à votre obéissance, </l>
+	<l id='959'>Rendant ce que je dois à l'éclat de son sang, </l>
+	<l id='960'>J'ai cru pouvoir garder tout l'orgueil de mon rang </l>
+	<l id='961'>C'est sur ce noble orgueil que tant de fois pressée, </l>
+	<l id='962'>D'accepter et le coeur et la main de Persée, </l>
+	<l id='963'>D'un oeil indifférent j'ai semblé toujours voir </l>
+	<l id='964'>La gloire qui par là s'offrait à mon espoir. </l>
+	<l id='965'>Jalouse de l'éclat du trône où je suis née, </l>
+	<l id='966'>Je voulais y rentrer avant cet hyménée, </l>
+	<l id='967'>Et qu'on ne pût penser que le don de ma foi </l>
+	<l id='968'>Eût moins suivi mon choix que les ordres d'un Roi. </l>
+	<l id='969'>Si de tels sentiments sont d'une âme trop vaine, </l>
+	<l id='970'>Peut-être sont-ils beaux dans celle d'une Reine, </l>
+	<l id='971'>Et leur fierté n'a rien qu'on me vit démentir </l>
+	<l id='972'>Si vos dissensions m'y laissaient consentir ; </l>
+	<l id='973'>Mais enfin dans le trouble où Rome vous expose </l>
+	<l id='974'>J'en hais trop les effets pour en nourrir la cause, </l>
+	<l id='975'>Et vouloir que par moi, sur des droits incertains, </l>
+	<l id='976'>Les ordres du Sénat traversent vos desseins. </l>
+	<l id='977'>C'est de là que j'ai vu par des motifs contraires </l>
+	<l id='978'>La discorde à vos yeux ouverte entre deux Frères, </l>
+	<l id='979'>Et mon coeur, quand leur haine est prête à s'apaiser, </l>
+	<l id='980'>Pour seconder vos soins n'a rien à refuser. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='981'>Que Persée est heureux, et qu'après tant d'alarmes </l>
+	<l id='982'>Un aveu si propice aura pour lui de charmes ! </l>
+	<l id='983'>Mais comme un prompt succès dans de si grands desseins </l>
+	<l id='984'>Met un plus sûr obstacle aux malheurs que je crains, </l>
+	<l id='985'>Pour voir plutôt le calme éloigner la tempête, </l>
+	<l id='986' part='i'>Quoi que vos ordres seuls... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='986' part='f'>Ma main est toute prête, </l>
+	<l id='987'>Seigneur, et dès demain il ne tiendra qu'à vous </l>
+	<l id='988'>Qu'un hymen glorieux n'en fasse mon Époux, </l>
+	<l id='989'>Je vois vos intérêts, et de quelle importance </l>
+	<l id='990'>De Didas contre Rome est pour vous l'alliance, </l>
+	<l id='991'>Et si par politique, ou par légèreté, </l>
+	<l id='992'>Démétrius osait en rompre le Traité, </l>
+	<l id='993'>Après ce que de moi Persée a voulu croire </l>
+	<l id='994'>Je veux être en état qu'on respecte ma gloire, </l>
+	<l id='995'>Et que ce changement ne se puisse imputer </l>
+	<l id='996'>À l'espoir dont ma main aurait pu le flatter. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='997'>Ô d'un charmant espoir agréable surprise ! </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Philippe, Érixène, Didas, Phénice, Suite. </head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='998'>Enfin, Didas, enfin le ciel me favorise, </l>
+	<l id='999'>Et nous verrons demain éclater le grand jour </l>
+	<l id='1000'>Qui contre la discorde intéresse l'amour. </l>
+	<l id='1001'>C'est peu qu'au plus haut rang ta fille soit placée, </l>
+	<l id='1002'>La Princesse consent à l'hymen de Persée, </l>
+	<l id='1003'>Et dans l'heureux succès dont je me sens charmer, </l>
+	<l id='1004'>Mon coeur ne conçoit plus de souhaits à former. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1005'>Pour rompre les malheurs dont le péril vous presse </l>
+	<l id='1006'>Il est beau que Persée épouse la Princesse, </l>
+	<l id='1007'>L'État à cet hymen se doit intéresser, </l>
+	<l id='1008'>Mais pour Démétrius, il n'y faut point penser. </l>
+	<l id='1009'>Loin d'accepter la gloire où pour moi l'on s'apprête, </l>
+	<l id='1010'>Je viens, Seigneur, vous apporter ma tête. </l>
+	<l id='1011'>Dans le peu que je suis c'est le moins que je dois </l>
+	<l id='1012'>À l'insolent refus des bontés de mon Roi. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1013'>De quel trouble nouveau reçois-je la menace ? </l>
+	<l id='1014'>De ce fils téméraire explique-moi l'audace. </l>
+	<l id='1015'>Se voudrait-il dédire, et dégager sa foi </l>
+	<l id='1016'>Par le refus forcé qu'il exige de toi ? </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1017'>Non, Seigneur, et c'est là ce qui me rend coupable. </l>
+	<l id='1018'>Le Prince à vos désirs s'est montré favorable, </l>
+	<l id='1019'>Et sur ce grand hymen dont vous m'aviez flatté, </l>
+	<l id='1020'>Je l'ai vu de mes voeux enhardir la fierté, </l>
+	<l id='1021'>Mais son sang dont par là la splendeur se ravale </l>
+	<l id='1022'>Ne souffre point du mien l'union inégale, </l>
+	<l id='1023'>Et quoi que votre aveu semble l'autoriser, </l>
+	<l id='1024'>Je me rends criminel si j'ose en abuser. </l>
+	<l id='1025'>C'est ce qu'avec respect, pour vous le faire entendre, </l>
+	<l id='1026'>J'ai cru devoir tâcher de lui faire comprendre, </l>
+	<l id='1027'>Mais malgré tous mes soins, mon zèle et mon respect </l>
+	<l id='1028'>N'ont eu rien que soudain il n'ait trouvé suspect, </l>
+	<l id='1029'>Et sur un vain soupçon dont son âme est blessée </l>
+	<l id='1030'>Me croyant contre lui du parti de Persée, </l>
+	<l id='1031'>Plus d'accord, plus d'hymen ; loin d'en souffrir les noeuds </l>
+	<l id='1032'>Ma perte désormais est l'objet de ses voeux. </l>
+	<l id='1033'>Quoi que tente, Seigneur, son aveugle colère, </l>
+	<l id='1034'>J'aurai tout mérité si j'ai su vous déplaire, </l>
+	<l id='1035'>Et si mon sang au vôtre indigne de s'unir </l>
+	<l id='1036'>Est un crime qu'en moi vous trouviez à punir. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1037'>Quoi, c'est peu que l'appui de toute ma puissance </l>
+	<l id='1038'>Pour suppléer l'éclat qui manque à ta naissance, </l>
+	<l id='1039'>Et ma faveur pour toi n'offre rien dont l'effort </l>
+	<l id='1040'>Suffise à réparer l'injustice du Sort ? </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1041'>Trop, Seigneur, mais enfin si j'ose vous le dire, </l>
+	<l id='1042'>La gloire des grandeurs n'est pas celle où j'aspire, </l>
+	<l id='1043'>Et mes désirs jamais ne prendront pour objet </l>
+	<l id='1044'>Que l'honneur éclatant de vivre bon Sujet. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1045'>Dans ce nouveau degré de gloire et de puissance, </l>
+	<l id='1046'>De l'ardeur de ton zèle ai-je moins d'assurance, </l>
+	<l id='1047' part='i'>Et ta foi... </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1047' part='f'>Je serai toujours ferme, soumis ; </l>
+	<l id='1048'>Mais je crains l'apparence, et j'ai des Ennemis. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1049'>Que peut-on contre toi, si, quoi qu'on puisse faire, </l>
+	<l id='1050' part='i'>Toujours sur tes avis... </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1050' part='f'>Souffrez-moi de me taire, </l>
+	<l id='1051'>Seigneur, et ne voyez que ma témérité </l>
+	<l id='1052'>Quand je refuse un bien que j'ai peu mérité. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1053' part='i'>Non, non, explique-toi. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1053' part='f'>Que puis-je vous apprendre </l>
+	<l id='1054'>Que ce qu'un bruit commun vous a pu faire entendre ? </l>
+	<l id='1055'>Seigneur, jusques ici, pour ne vous aigrir pas, </l>
+	<l id='1056'>J'ai de Démétrius caché les attentats. </l>
+	<l id='1057'>Par mes soins redoublés veillant sur sa conduite </l>
+	<l id='1058'>Je me suis contenté d'en prévenir la suite, </l>
+	<l id='1059'>Et s'il souffre l'hymen que lui prescrit son Roi, </l>
+	<l id='1060'>C'est qu'il cherche une voie à s'assurer de moi ; </l>
+	<l id='1061'>Car enfin ce n'est pas sans raison qu'on soupçonne </l>
+	<l id='1062'>Que son ambition en veut à la Couronne, </l>
+	<l id='1063'>Ses brigues dont par moi l'effet s'est vu détruit, </l>
+	<l id='1064'>De l'orgueil de ses voeux ne m'ont que trop instruit. </l>
+	<l id='1065'>Le Sénat avec lui toujours d'intelligence </l>
+	<l id='1066'>Par un appui secret en soutient l'arrogance, </l>
+	<l id='1067'>Et pour voir jusqu'ici Rome donner la loi, </l>
+	<l id='1068'>Quintius a juré de le couronner Roi. </l>
+	<l id='1069'>Peut-être que déjà malgré ma vigilance </l>
+	<l id='1070'>Le péril de l'orage est plus près qu'on ne pense, </l>
+	<l id='1071'>Et que ceux où je mets notre plus ferme appui, </l>
+	<l id='1072'>Gagnés par son adresse, oseront tout pour lui. </l>
+	<l id='1073'>Si devenu mon Gendre il attente, il s'oublie, </l>
+	<l id='1074'>Qu'est-ce que l'imposture aussitôt ne publie, </l>
+	<l id='1075'>Et qui ne croira point que d'un si noir forfait, </l>
+	<l id='1076'>Pour voir régner mon sang, j'aurai pressé l'effet ? </l>
+	<l id='1077'>Non, non, pour ce refus s'il faut donner ma tête, </l>
+	<l id='1078'>J'y consens, ordonnez, la voilà toute prête. </l>
+	<l id='1079'>J'aurai la joie au moins de voir par là ma foi </l>
+	<l id='1080'>Jusqu'au dernier soupir vous répondre de moi. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1081'>Dieux, quand votre courroux contre moi se déploie, </l>
+	<l id='1082'>N'a-t-il pour me punir que cette seule voie, </l>
+	<l id='1083'>Et si Rome en secret me fait des Ennemis, </l>
+	<l id='1084'>Le verrai-je toujours à craindre dans un fils ? </l>
+	<l id='1085'>Didas, ton trop de zèle a trahi ta prudence, </l>
+	<l id='1086'>Il fallait de ce fils gagner la confiance, </l>
+	<l id='1087'>Et tirer de l'hymen que j'avais arrêté </l>
+	<l id='1088'>Le droit de voir son crime avec plus de clarté. </l>
+	<l id='1089'>Si sa lâche fureur par toi n'eût pu s'éteindre, </l>
+	<l id='1090'>Du moins j'aurais connu ce qu'il m'eût fallu craindre, </l>
+	<l id='1091'>Au lieu que mes soupçons, qu'en vain j'ai cru bannir. </l>
+	<l id='1092'>Ayant à craindre tout, n'ont rien à prévenir. </l>
+	<l id='1093'>Mais pardonnez, madame, à l'ennui qui me presse, </l>
+	<l id='1094'>J'abuse des bontés d'une illustre Princesse, </l>
+	<l id='1095'>Et ce n'est pas ici qu'il faut voir quel secours </l>
+	<l id='1096'>Peut forcer le péril qui menace mes jours. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1097'>La part que m'y fait prendre une auguste alliance... </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Philippe, Érixène, Didas, Onomaste, Phénice, Suite. </head>
+<sp who='ONOMASTE'><speaker>ONOMASTE.</speaker>
+	<l id='1098'>Seigneur, vos Envoyés demandent audience, </l>
+	<l id='1099' part='i'>Ils arrivent de Rome. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1099' part='f'>Allons les écouter, </l>
+	<l id='1100'>Nous pourrons savoir d'eux ce qu'il faut redouter. </l>
+	<l id='1101'>Cependant trouvez bon qu'un heureux hyménée </l>
+	<l id='1102' part='i'>M'assurant dès demain... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1102' part='f'>Ma parole est donnée, </l>
+	<l id='1103'>Seigneur, et s'il vous peut rendre le sort plus doux, </l>
+	<l id='1104'>Disposez de ma main, j'attends l'ordre de vous. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Érixène, Phénice. </head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1105'>Je triomphe, Phénice, et ma vengeance est sûre, </l>
+	<l id='1106'>D'un infidèle amant je puis braver l'injure, </l>
+	<l id='1107'>Sans jouir de son crime il me verra régner. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1108'>Le Ciel pour le punir ne veut rien épargner ; </l>
+	<l id='1109'>Mais enfin je voudrais qu'à dédaigner sa flamme </l>
+	<l id='1110'>La seule ambition eût pu forcer votre âme, </l>
+	<l id='1111'>Et que ce grand hymen qui rend Persée Heureux </l>
+	<l id='1112'>Par l'ardeur d'être Reine attirât tous vos voeux. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1113'>Quoi, si pour cet hymen je me fais violence </l>
+	<l id='1114'>Est-ce un bien si commun qu'une pleine vengeance, </l>
+	<l id='1115'>Que quoi qu'à mon amour elle doive coûter, </l>
+	<l id='1116'>Tu penses que jamais il pût trop l'acheter ? </l>
+	<l id='1117'>Non, non, quelques malheurs dont ce projet m'accable, </l>
+	<l id='1118'>Il suffit que je vois Démétrius coupable. </l>
+	<l id='1119'>Ce seul objet m'arrête, et dans son peu de foi </l>
+	<l id='1120'>Tout ce qui le punit a des charmes pour moi. </l>
+	<l id='1121'>Si pour une vengeance où la gloire autorise, </l>
+	<l id='1122'>On court même à des maux qu'aucun art ne déguise, </l>
+	<l id='1123'>Juge de la douceur quand on fait présumer </l>
+	<l id='1124'>Que ce qui nous l'assure a de quoi nous charmer. </l>
+	<l id='1125'>Démétrius par là verra croître sa peine, </l>
+	<l id='1126'>J'oserai m'applaudir de vain titre de Reine, </l>
+	<l id='1127'>Et porterai si haut l'éclat de ce revers </l>
+	<l id='1128'>Qu'il ne pourra savoir qu'à regret je le perds. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1129'>Cette douceur pour vous doit avoir bien des charmes, </l>
+	<l id='1130'>Mais si j'ose expliquer mes secrètes alarmes, </l>
+	<l id='1131'>Cet hymen qui du Roi vous soumets les États, </l>
+	<l id='1132'>Me semble un peu bien prompt pour ne vous gêner pas.</l>
+	<l id='1133'>Vous haïssez Persée, et comme de la haine </l>
+	<l id='1134'>Vers un penchant plus doux le temps seul nous ramène, </l>
+	<l id='1135'>C'est hasarder beaucoup, de ne prendre qu'un jour </l>
+	<l id='1136'>Pour vous accoutumer à souffrir son amour. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1137'>Moi, par l'indigne crainte où ton zèle te jette, </l>
+	<l id='1138'>Consentir à laisser ma vengeance imparfaite ! </l>
+	<l id='1139'>Ce coeur dont tu veux voir le repos affermi </l>
+	<l id='1140'>Était d'intelligence avec mon Ennemi. </l>
+	<l id='1141'>Par de fausses clartés dont je fus éblouie, </l>
+	<l id='1142'>Pour me le faire aimer c'est lui qui m'a trahie, </l>
+	<l id='1143'>Et sous un choix funeste accablant mon amour, </l>
+	<l id='1144'>Je veux pour m'en venger le trahir à mon tour. </l>
+	<l id='1145'>Il faut qu'il soit puni d'avoir su mal connaître </l>
+	<l id='1146'>Qu'aimant Démétrius il brûlait pour un traître, </l>
+	<l id='1147'>Que d'un dehors trompeur l'injurieux éclat... </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1148'>Ce grand triomphe est beau, mais craignez le combat, </l>
+	<l id='1149' part='i'>Démétrius paraît. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Érixène, Démétrius, Phénice. </head>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1149' part='f'>Que m'apprend-on, Madame ? </l>
+	<l id='1150'>On vous fait de Persée autoriser la flamme, </l>
+	<l id='1151'>Et si je puis sans crime en croire un bruit confus, </l>
+	<l id='1152'>Dès demain son bonheur doit vaincre vos refus. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1153'>J'admire que ce bruit ait de quoi vous surprendre </l>
+	<l id='1154'>Dans le peu d'intérêt que vous y devez prendre. </l>
+	<l id='1155'>Du Gendre de Didas les desseins mal cachés... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1156'>Ah, Madame, est-ce vous qui me le reprochez, </l>
+	<l id='1157'>Et le déguisement dont j'ai puni ce Traître, </l>
+	<l id='1158'>Peut-il abuser ceux qui me doivent connaître ? </l>
+	<l id='1159'>Réduit à m'en servir contre un destin jaloux, </l>
+	<l id='1160'>Ce qui l'est pour le Roi ne peut l'être pour vous. </l>
+	<l id='1161'>Cependant quand ma foi croit être en assurance, </l>
+	<l id='1162'>Didas... Ce nom fatal fait trembler ma constance, </l>
+	<l id='1163'>Mon coeur s'en épouvante, et son espoir flottant </l>
+	<l id='1164'>N'ose l'abandonner à tout ce qu'il entend. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1165'>J'ignore ce qu'il craint, mais je puis vous apprendre </l>
+	<l id='1166'>Qu'il cherche à se flatter dans ce qu'il doit entendre, </l>
+	<l id='1167'>S'il doute que le mien ne ressente pour vous </l>
+	<l id='1168'>Ce que l'indifférence eut jamais de plus doux. </l>
+	<l id='1169'>Dans cet heureux état qui me rend à moi-même, </l>
+	<l id='1170'>Persée avec son coeur m'offre le Diadème, </l>
+	<l id='1171'>Et nul exemple encor n'a paru m'enseigner </l>
+	<l id='1172'>À n'être point sensible à l'ardeur de régner. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1173'>Cachez mieux à mon coeur le mal qu'il appréhende. </l>
+	<l id='1174'>J'entends peut-être plus qu'on ne veut qu'il entende, </l>
+	<l id='1175'>Et vous vois malgré moi dans ce funeste jour </l>
+	<l id='1176'>Mendier un prétexte à trahir mon amour. </l>
+	<l id='1177'>Si quelque dur éclat marquait votre colère, </l>
+	<l id='1178'>Je croirais que ma feinte aurait pu vous déplaire, </l>
+	<l id='1179'>Et qu'une injuste erreur vous aurait fait penser </l>
+	<l id='1180'>Que jusques à Didas je voudrais m'abaisser ; </l>
+	<l id='1181'>Mais l'air indifférent dont ma perte est conclue </l>
+	<l id='1182'>Marque une âme à l'oubli dès longtemps résolue, </l>
+	<l id='1183'>Et je vois en secret la vôtre s'applaudir </l>
+	<l id='1184'>D'avoir trouvé par où s'y pouvoir enhardir. </l>
+	<l id='1185'>Des grandes passions c'est le cours ordinaire, </l>
+	<l id='1186'>Que le coeur qui les change en prend une con traire, </l>
+	<l id='1187'>Et quand ses voeux trahis exigent ce retour, </l>
+	<l id='1188'>S'il ne sent point de haine, il n'eut jamais d'amour. </l>
+	<l id='1189'>Ne rejetez donc point sur ma fausse inconstance </l>
+	<l id='1190'>Celle où l'ambition pousse votre vengeance. </l>
+	<l id='1191'>Quelque crime qu'en moi vous ayez présumé, </l>
+	<l id='1192'>Je serais innocent si vous m'aviez aimé. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1193'>Ces grandes passions qu'en suit une contraire, </l>
+	<l id='1194'>N'entrent point dans une âme au-dessus du vulgaire, </l>
+	<l id='1195'>Qui maîtresse des voeux qu'il lui plaît de former, </l>
+	<l id='1196'>De la seule vertu prend les ordres d'aimer. </l>
+	<l id='1197'>Du tumulte des sens l'impérieuse amorce </l>
+	<l id='1198'>Pour troubler sa raison n'a point assez de force, </l>
+	<l id='1199'>Et toujours à ses lois jalouse d'obéir, </l>
+	<l id='1200'>Ce qui la fait aimer, ne la fait point haïr. </l>
+	<l id='1201'>Tant que vos voeux ont eu ce précieux suffrage, </l>
+	<l id='1202'>Je ne cèle point, j'en ai chéri l'hommage ; </l>
+	<l id='1203'>L'inconstance sur eux commence de régner </l>
+	<l id='1204'>Je ne m'en souviens plus que pour les dédaigner, </l>
+	<l id='1205'>Et je me sens une âme et trop haute et trop vaine </l>
+	<l id='1206'>Pour croire que l'outrage ait mérité ma haine. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1207'>Quel outrage, grands Dieux ! Et quand contre Didas... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1208'>Je le tiens si léger qu'il ne m'ébranle pas. </l>
+	<l id='1209'>Puis-je à vos feux naissants rendre plus de justice ? </l>
+	<l id='1210'>Vous aimerez ailleurs sans que je vous haïsse, </l>
+	<l id='1211'>Et donnant votre coeur, ne serez point gêné </l>
+	<l id='1212'>D'en voir au moindre ennui le mien abandonné. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1213'>Non, non, si j'ai failli, ma timide espérance </l>
+	<l id='1214'>Préfère votre haine à votre indifférence, </l>
+	<l id='1215'>Et la foudre, et l'orage auront moins de rigueur, </l>
+	<l id='1216'>Que le calme odieux qui règne en votre coeur. </l>
+	<l id='1217'>Mais quel crime ai-je fait quand j'ai craint pour vous plaire </l>
+	<l id='1218'>Le piège dangereux que me tendait un frère ? </l>
+	<l id='1219'>Mandé sur un hymen par Didas concerné, </l>
+	<l id='1220'>Si je résiste au Roi, je dois être arrêté, </l>
+	<l id='1221' part='i'>Et... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1221' part='f'>C'est l'avoir servi plus qu'on ne saurait croire </l>
+	<l id='1222'>Que de cette injustice avoir sauvé sa gloire, </l>
+	<l id='1223'>Et consenti plutôt à souiller votre foi </l>
+	<l id='1224'>Que de lui voir rien faire indigne d'un grand Roi. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1225'>Si son ordre d'abord ne m'a point vu rebelle, </l>
+	<l id='1226'>Blâmez un malheureux plutôt qu'un infidèle. </l>
+	<l id='1227'>Contre cet ordre, hélas ! bien loin d'y déférer, </l>
+	<l id='1228'>Partout de mes Amis je viens de m'assurer. </l>
+	<l id='1229'>C'est pour gagner ce temps que d'un Roi, que d'un père </l>
+	<l id='1230'>J'ai par un faux aveu suspendu la colère, </l>
+	<l id='1231'>J'en voyais l'éclat prêt, et feignant d'obéir... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1232'>Ah, qui sait bien aimer ne feint point de trahir. </l>
+	<l id='1233'>L'horreur que dans son âme imprime l'inconstance </l>
+	<l id='1234'>Lui fait du plus noir crime en traiter l'apparence, </l>
+	<l id='1235'>Et l'amant qui s'en peut déguiser le forfait, </l>
+	<l id='1236'>Cherche à se voir contraint de trahir en effet. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1237'>Quelque dur que me soit un reproche semblable, </l>
+	<l id='1238'>Puisque vous m'accuser, je veux être coupable ; </l>
+	<l id='1239'>Mais si mon innocence a pour vous quelque appas, </l>
+	<l id='1240'>Pour me justifier faites parler Didas. </l>
+	<l id='1241'>Qu'il dise de quel air ma juste impatience </l>
+	<l id='1242'>De ses voeux arrogants a traité l'insolence, </l>
+	<l id='1243'>Et de quels ordres exprès il a reçus de moi </l>
+	<l id='1244'>Contre le fier espoir dont le flatte le Roi. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1245'>Ces ordres, ces mépris doivent peu me surprendre </l>
+	<l id='1246'>Quand sa fidélité vous dédaigne pour Gendre, </l>
+	<l id='1247'>Et que vous n'avez pu me croire un coeur si bas </l>
+	<l id='1248'>Que j'estimasse encor le rebut de Didas. </l>
+	<l id='1249'>Pour cacher son refus avez-vous pu moins faire ? </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1250' part='i'>Quoi, Didas... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1250' part='f'>Malgré vous Didas n'a pu se taire. </l>
+	<l id='1251'>Mais quoi que son rapport mérite aller de soi, </l>
+	<l id='1252'>Je veux sur ce refus qu'il ait trompé le Roi. </l>
+	<l id='1253'>Si le vôtre a puni l'audace qui l'entraîne, </l>
+	<l id='1254'>Du remords des ingrats vous avez craint la gêne, </l>
+	<l id='1255'>Et la honte attachée à des voeux inconstants </l>
+	<l id='1256'>Ne vous a pu souffrir de me trahir longtemps ; </l>
+	<l id='1257'>Mais quand du plus beau feu l'on s'est montré capable, </l>
+	<l id='1258'>Qui trahit un moment reste toujours coupable, </l>
+	<l id='1259'>Et ce moment qu'il donne à l'infidélité </l>
+	<l id='1260'>Par le plus vif remords n'est jamais racheté. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1261'>Continuez, Madame, et sur cette maxime </l>
+	<l id='1262'>De votre ambition faites-moi la victime, </l>
+	<l id='1263'>Quoi que vous m'imputiez, l'éclat d'un trône offert </l>
+	<l id='1264'>Fait seul auprès de vous le crime qui me perd. </l>
+	<l id='1265'>C'est lui qui pour prétexte offre à votre vengeance </l>
+	<l id='1266'>L'irréparable affront d'un moment d'inconstance, </l>
+	<l id='1267'>Et tâche, en noircissant et mon zèle et ma foi, </l>
+	<l id='1268'>D'autoriser en vous ce qu'il punit en moi. </l>
+	<l id='1269'>Je ne demande plus par quel charme séduite </l>
+	<l id='1270'>Avec tant de chaleur vous m'ordonniez la fuite. </l>
+	<l id='1271'>Prête à m'ôter la vie en m'ôtant votre coeur, </l>
+	<l id='1272'>Mes reproches pour vous avaient trop de rigueur. </l>
+	<l id='1273'>Ce dur éloignement que pressait votre crainte </l>
+	<l id='1274'>D'un amant outragé vous épargnait la plainte ; </l>
+	<l id='1275'>Mais n'en redoutez point le vif ressentiment, </l>
+	<l id='1276'>Abandonné, trahi, je suis toujours amant. </l>
+	<l id='1277'>Toujours ma passion aussi noble que pure </l>
+	<l id='1278'>À tout ce qui vous plaît sait m'offrir sans murmure, </l>
+	<l id='1279'>Et quand ma triste mort a de quoi vous flatter, </l>
+	<l id='1280'>L'ordre est de ma Princesse, il faut le respecter. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1281'>Si sur un trône offert votre lâche inconstance </l>
+	<l id='1282'>Se veut croire permis d'en rejeter l'offense, </l>
+	<l id='1283'>À la favoriser je prends tant d'intérêt </l>
+	<l id='1284'>Que je lui veux laisser une erreur qui lui plaît. </l>
+	<l id='1285' part='i'>Adieu. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1285' part='f'>Quoi, me quittez ! Eh de grâce, Madame, </l>
+	<l id='1286'>Daignez ouïr... Hélas ! Rien ne touche son âme, </l>
+	<l id='1287'>Et l'affreuse disgrâce où le Ciel me fait choir, </l>
+	<l id='1288'>Pour en finir l'horreur, n'a que mon désespoir. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Érixène, Démétrius, Phénice.</head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1289'>Quoi, jusqu'à m'arrêter étendre votre audace ? </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1290'>Madame, accordez-moi cette dernière grâce, </l>
+	<l id='1291'>Et si sur le rapport qu'un imposteur a fait </l>
+	<l id='1292'>Votre ressentiment juge de mon forfait, </l>
+	<l id='1293'>Songez qu'à pénétrer l'offense est si facile... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1294'>C'est faire à l'adoucir un effort inutile ; </l>
+	<l id='1295'>Je vous l'ai déjà dit, je la néglige au point </l>
+	<l id='1296'>D'en voir toute l'injure, et ne m'en plaindre point. </l>
+	<l id='1297'>La honte de mes voeux par ce calme effacée </l>
+	<l id='1298'>Les abandonne entiers à l'hymen de Persée, </l>
+	<l id='1299'>Et sa foi que pour vous ils osaient dédaigner, </l>
+	<l id='1300'>M'assure dès demain la gloire de régner. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1301'>Enfin elle vous charme, et dans le coup funeste </l>
+	<l id='1302'>Qui me doit arracher le seul bien qui me reste, </l>
+	<l id='1303'>Ce bien devient si faible à flatter mon amour </l>
+	<l id='1304'>Qu'il ne lui permet plus que l'espoir d'un seul jour. </l>
+	<l id='1305'>Demain il m'est ôté, demain votre injustice </l>
+	<l id='1306'>M'abandonne à l'horreur du plus affreux supplice, </l>
+	<l id='1307'>Et vous vous répondez d'assez de dureté </l>
+	<l id='1308'>Pour jouir sans remords de cette cruauté ? </l>
+	<l id='1309'>Ah, Madame, est-ce ainsi que vous faites connaître </l>
+	<l id='1310'>Que la raison éteint le feu qu'elle fit naître, </l>
+	<l id='1311'>Et ce coeur contre moi de vengeance animé, </l>
+	<l id='1312'>Me perd-il sans regret si vous m'avez aimé ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1313'>Quand j'affranchis ce coeur de sa lâche tendresse, </l>
+	<l id='1314'>Que ne puis-je avec vous douter de ma faiblesse, </l>
+	<l id='1315'>Ou du moins étouffer l'odieux souvenir </l>
+	<l id='1316'>D'un amour que ma gloire aimait à soutenir ! </l>
+	<l id='1317'>Je ne rougirais point d'avoir été trop prompte </l>
+	<l id='1318'>À céder au penchant qui m'en cachait la honte, </l>
+	<l id='1319'>Et de n'avoir pu fuir l'indigne trahison </l>
+	<l id='1320'>Que mes sens subornés faisaient à ma raison. </l>
+	<l id='1321'>Ce reproche est le seul qui me tienne alarmée, </l>
+	<l id='1322'>Si ma flamme s'éteint, elle fut allumée, </l>
+	<l id='1323'>Et pour voir tout mon coeur de regret consumé, </l>
+	<l id='1324'>C'est assez de songer qu'il ait jamais aimé. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1325'>Et bien, éteignez-la, cette innocente flamme, </l>
+	<l id='1326'>Dont l'ardeur si longtemps sembla charmer votre âme, </l>
+	<l id='1327'>De toute sa tendresse étouffez les appas, </l>
+	<l id='1328'>Perdez-moi sans regret, mais ne vous perdez pas, </l>
+	<l id='1329'>Et reculant l'hymen dont la gloire avancée </l>
+	<l id='1330'>Des rigueurs de mon sort fait triompher Persée, </l>
+	<l id='1331'>Cessez de lui promettre en un moment si doux, </l>
+	<l id='1332'>Ce qui peut-être encor ne sera pas à vous. </l>
+	<l id='1333'>Si le coeur pour aimer se fait une habitude </l>
+	<l id='1334'>De ce qu'en son estime il sent d'inquiétude, </l>
+	<l id='1335'>Quelque suite de temps qu'il faille à la former, </l>
+	<l id='1336'>Il en faut beaucoup moins que pour cesser d'aimer, </l>
+	<l id='1337'>On a beau sur ce coeur user de tyrannie, </l>
+	<l id='1338'>Sa flamme tout d'un coup ne peut être bannie, </l>
+	<l id='1339'>Et l'effort violent qu'on fait pour l'amortir </l>
+	<l id='1340'>Laisse durer le mal qu'on croit ne plus sentir. </l>
+	<l id='1341'>De cette guérison le temps seul est le maître, </l>
+	<l id='1342'>Et si vos sens aigris vous le font mal connaître </l>
+	<l id='1343'>Croyez-en un amant dont les tristes avis, </l>
+	<l id='1344'>Tout ingrat qu'on le croit, peuvent être suivis </l>
+	<l id='1345'>Consentez à vous voir entre les bras d'un autre, </l>
+	<l id='1346'>Mais faites son bonheur sans renoncer au vôtre, </l>
+	<l id='1347'>Et lui donnant ce coeur dont je m'étais flatté, </l>
+	<l id='1348'>Soyez sûre du moins de me l'avoir ôté. </l>
+	<l id='1349'>Rendez-vous toute à vous avant qu'il vous obtienne. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1350'>Ce qui touche votre âme étonne peu la mienne, </l>
+	<l id='1351' part='i'>Les Dieux en prendront soin. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1351' part='f'>Par tout ce que pour vous </l>
+	<l id='1352'>L'empire de mon coeur eut jamais de plus doux, </l>
+	<l id='1353'>Par ce profond respect, par ce parfait hommage... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1354'>Prince, c'est perdre temps qu'en parler davantage. </l>
+	<l id='1355'>Si quelque espoir encor s'obstine à vous flatter, </l>
+	<l id='1356'>Voici Persée, oyez s'il vous en doit rester. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Érixène, Persée, Démétrius, Phénice.</head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1357'>Seigneur, quoi qu'il soit vrai qu'une secrète flamme </l>
+	<l id='1358'>Ait pour Démétrius sollicité mon âme, </l>
+	<l id='1359'>Je vous estime trop pour oser présumer </l>
+	<l id='1360'>Que sa vue ait ici de quoi vous alarmer. </l>
+	<l id='1361'>La parole des Grands est toujours un sûr gage, </l>
+	<l id='1362'>Et s'il faut devant lui que la mienne s'engage, </l>
+	<l id='1363'>J'autorise vos voeux à l'assurer pour moi </l>
+	<l id='1364'>Que demain je suis prête à vous donner ma foi. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Persée, Démétrius.</head>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1365'>Ah, ne l'accepter point cette foi qui m'est due, </l>
+	<l id='1366'>Elle est encor à moi, je ne l'ai point rendue, </l>
+	<l id='1367'>Et quoi qu'un fier courroux lui fasse imaginer, </l>
+	<l id='1368'>Elle vous promet plus qu'elle ne peut donner. </l>
+	<l id='1369'>Seigneur, elle se trompe, et vous trompe après elle. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1370'>Je n'attendais pas moins qu'un avis si fidèle, </l>
+	<l id='1371'>Mais sa sincérité vous donne trop de jour </l>
+	<l id='1372'>À finir une erreur qui plaît à mon amour. </l>
+	<l id='1373'>Si sa foi, ce haut prix où le vôtre s'oppose, </l>
+	<l id='1374'>Est tellement à vous qu'en vain elle en dispose, </l>
+	<l id='1375'>Comme c'est le seul bien où je veuille aspirer, </l>
+	<l id='1376'>Du moins jusqu'à demain laissez-moi l'espérer. </l>
+	<l id='1377'>Le terme est assez court, et sûr, quoi que je tente, </l>
+	<l id='1378'>De voir mes voeux trompés confondre mon attente. </l>
+	<l id='1379'>Par pitié jusque-là vous pouvez me souffrir </l>
+	<l id='1380'>La douceur d'un espoir qu'ils aiment à nourrir. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1381'>Bravez un malheureux, et pour aigrir ma rage </l>
+	<l id='1382'>Faites que la Princesse ait part à cet outrage ; </l>
+	<l id='1383'>Mais enfin cet hymen qui fait votre bonheur, </l>
+	<l id='1384'>En vous donnant sa foi, vous donne-t-il son coeur ? </l>
+	<l id='1385'>Ce coeur, le prix du mien, ce coeur dont j'ai pour gage </l>
+	<l id='1386'>Tout ce qui d'un beau feu peut rendre témoignage. </l>
+	<l id='1387'>Hélas, ce même coeur, quoi qu'ose son courroux, </l>
+	<l id='1388'>Par tant de droits à moi, pourra-t-il être à vous ? </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1389'>De tels soins touchent peu les têtes couronnées, </l>
+	<l id='1390'>Le seul bien des États règle leurs hyménées, </l>
+	<l id='1391'>Et sans voir quelle part l'amour y peut avoir, </l>
+	<l id='1392'>Il suffit qu'un grand coeur sait toujours son devoir. </l>
+	<l id='1393'>Ainsi j'envierai peu le bien que je vous laisse </l>
+	<l id='1394'>Quand ce devoir pour moi pressera la Princesse. </l>
+	<l id='1395'>Content de cet appui, sans en être alarmé, </l>
+	<l id='1396'>Je verrai qu'en secret vous vous croyez aimé, </l>
+	<l id='1397'>Et tandis que demain, au défaut de sa flamme, </l>
+	<l id='1398'>Sa foi m'assurera l'empire de son âme, </l>
+	<l id='1399'>J'abandonne sans peine à vos désirs jaloux </l>
+	<l id='1400'>La douceur de penser que son coeur est à vous. </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1401'>Et bien dédaignez-en la charmante conquête, </l>
+	<l id='1402'>Mais quand un coup affreux menace notre tête, </l>
+	<l id='1403'>Si la pitié partout a des droits assurés, </l>
+	<l id='1404'>Prenez-en d'un amant que vous désespérez, </l>
+	<l id='1405'>D'un amant qui se perd dans l'ennui qui le presse. </l>
+	<l id='1406'>Seigneur, au nom des Dieux laissez-moi ma Princesse, </l>
+	<l id='1407'>De quelque aimable Objet cherchez ailleurs la foi, </l>
+	<l id='1408'>Il en est tant pour vous, il n'en est plus pour moi. </l>
+	<l id='1409'>Dans le fatal revers dont je vois la menace, </l>
+	<l id='1410'>Jugez jusqu'où s'étend l'horreur de ma disgrâce, </l>
+	<l id='1411'>Puisque pour tout refuge en de si rudes coups </l>
+	<l id='1412'>Elle peut me réduire à n'espérer qu'en vous, </l>
+	<l id='1413'>En vous de qui la haine à ma perte animée </l>
+	<l id='1414'>Du plus âpre courroux tient votre âme enflammée, </l>
+	<l id='1415'>Du plus âpre courroux tient tout prêt de combler </l>
+	<l id='1416'>Le mortel désespoir qui me doit accabler. </l>
+	<l id='1417'>Je le sais, je le vois, mon coeur en sent l'outrage, </l>
+	<l id='1418'>Il s'en émeut de honte, il en frémit de rage, </l>
+	<l id='1419'>Et toutefois ce coeur qui ne saurait céder, </l>
+	<l id='1420'>Sûr de n'obtenir rien, s'obstine à demander. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1421'>Pendant votre triomphe on a vu ma constance </l>
+	<l id='1422'>Faire un si long assai d'aimer sans espérance, </l>
+	<l id='1423'>Qu'il vous sera moins dur de voir qu'à votre tour </l>
+	<l id='1424'>Une vertu si rare exerce votre amour ; </l>
+	<l id='1425'>Mais pour le dérober au charme qui l'abuse, </l>
+	<l id='1426'>S'il ne faut qu'obtenir l'aveu qu'on vous refuse, </l>
+	<l id='1427' part='i'>J'emploierai vers Didas... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1427' part='f'>Ah, c'est trop m'outrager, </l>
+	<l id='1428'>Je vois ce que sur lui le Ciel m'offre à venger. </l>
+	<l id='1429'>Ce Ministre insolent animant votre rage </l>
+	<l id='1430'>Par sa lâche imposture en achève l'ouvrage. </l>
+	<l id='1431'>C'est lui dont l'artifice à mon amour fatal </l>
+	<l id='1432'>Va du bien qu'on me vole enrichir mon Rival, </l>
+	<l id='1433'>Mais je jure les Dieux qu'avant ce coup funeste </l>
+	<l id='1434' part='i'>Mon bras... </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1434' part='f'>Voici le Roi, vous lui direz le reste. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Philippe, Persée, Démétrius, Didas.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1435'>Quoi, toujours quereller ! Quelle nouvelle aigreur </l>
+	<l id='1436'>De vos divisions réveille la fureur ? </l>
+	<l id='1437' part='i'>Est-ce là cette paix ? </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1437' part='f'>Seigneur, je me retire. </l>
+	<l id='1438'>Contre Démétrius je n'ai rien à vous dire, </l>
+	<l id='1439'>Et suspect, si ma plainte implore votre appui, </l>
+	<l id='1440'>Il ne m'est plus permis de rien craindre de lui. </l>
+	<l id='1441'>Je vous dois ce respect, et saurai vous le rendre. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Philippe, Démétrius, Didas. </head>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1442'>Non, non, je n'ai parlé que pour me faire entendre, </l>
+	<l id='1443'>Et quoi que son faux zèle aime à vous déguiser, </l>
+	<l id='1444'>S'il ne m'accuse pas, je me veux accuser. </l>
+	<l id='1445'>Abîmé dans la rage où son bonheur me jette </l>
+	<l id='1446'>Je n'ai plus d'intérêt à la tenir secrète, </l>
+	<l id='1447'>Il est temps qu'elle éclate, et que mon désespoir </l>
+	<l id='1448'>Me venge aux yeux de tous de mon lâche devoir. </l>
+	<l id='1449'>C'est lui qui m'a perdu, lui qui m'a su contraindre </l>
+	<l id='1450'>D'affecter par respect la bassesse de feindre. </l>
+	<l id='1451'>Auprès de ma Princesse on s'en sert contre moi, </l>
+	<l id='1452'>On me vole son coeur, on me vole sa foi ; </l>
+	<l id='1453'>Du Traître que je vois l'outrageante imposture </l>
+	<l id='1454'>De mes propres refus tourne sur moi l'injure ; </l>
+	<l id='1455'>Mais ses voeux, de ma perte ont beau s'être applaudis, </l>
+	<l id='1456'>Je l'ai dit à Persée, et je vous le redis. </l>
+	<l id='1457'>Ou le public aveu de sa coupable adresse </l>
+	<l id='1458'>Justifiant ma foi me rendra ma Princesse, </l>
+	<l id='1459'>Ou de mes tristes jours par lui précipités, </l>
+	<l id='1460' part='i'>Son sang, son lâche sang... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1460' part='f'>Insolent, arrêtez. </l>
+	<l id='1461'>L'abus où pour un fils aime à tomber un père </l>
+	<l id='1462'>Dérobe en vain le vôtre à ma juste colère, </l>
+	<l id='1463'>Si plus ma patience en suspend les effets, </l>
+	<l id='1464'>Plus je vous autorise à de nouveaux forfaits. </l>
+	<l id='1465'>Leur charme vous emporte, et jusqu'à la menace </l>
+	<l id='1466'>Vous laissez à mes yeux échapper votre audace ; </l>
+	<l id='1467'>Mais puisque ni devoir ni respect écoute... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1468'>Pour l'écouter encor il m'en a trop coûté. </l>
+	<l id='1469'>J'ai craint votre colère, et me forçais à feindre, </l>
+	<l id='1470'>Mais qui vit sans espoir n'a plus rien de la craindre ; </l>
+	<l id='1471'>Après avoir perdu ce qui fut tout mon bien, </l>
+	<l id='1472'>Périsse l'Univers, je ne craindrai plus rien. </l>
+	<l id='1473'>Ma Princesse rendait ma gloire sans seconde, </l>
+	<l id='1474'>Son coeur me tenait lieu de l'empire du monde, </l>
+	<l id='1475'>Et sa seule conquête offrait à mes désirs </l>
+	<l id='1476'>De quoi remplir l'orgueil de mes plus fiers soupirs. </l>
+	<l id='1477'>Cependant sur ma vaine et fausse obéissance </l>
+	<l id='1478'>Didas de ce refus établit l'insolence ; </l>
+	<l id='1479'>Il feint qu'il me dédaigne, et de sa trahison </l>
+	<l id='1480'>Je pourrais balancer à me faire raison ? </l>
+	<l id='1481' part='i'>Il saura l'imposteur... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1481' part='f'>Ah, c'est trop me contraindre, </l>
+	<l id='1482'>Vous l'oser menacer, je vous le ferai craindre. </l>
+	<l id='1483' part='i'>À moi, Gardes. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1483' part='f'>Seigneur, où vous emportez-vous ? </l>
+	<l id='1484'>Tout mon sang ne vaut pas l'éclat de ce courroux. </l>
+	<l id='1485'>Le Prince est votre fils, et ce vif caractère </l>
+	<l id='1486'>Qu'en secret la Nature imprime au coeur d'un père...</l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1487'>Ah, de quelques forts traits qu'il soit au mien tracé, </l>
+	<l id='1488'>Par sa coupable audace il est trop effacé, </l>
+	<l id='1489'>Je ne vois plus de fils où la noirceur du crime... </l>
+</sp>
+<sp who='DEMETRIUS'><speaker>DÉMÉTRIUS.</speaker>
+	<l id='1490'>Oui, le mien contre moi vous rend tout légitime, </l>
+	<l id='1491'>J'arrache votre gloire à l'indigne projet </l>
+	<l id='1492'>D'unir un sang auguste au sang le plus abject. </l>
+	<l id='1493'>De ce mélange impur la honte repoussée </l>
+	<l id='1494'>L'affranchit de l'affront où vous l'auriez forcée, </l>
+	<l id='1495'>Et rompre un lâche hymen qui la devait ternir, </l>
+	<l id='1496'>C'est faire un attentat qu'on ne peut trop punir. </l>
+	<l id='1497'>Si pourtant pour sauver l'honneur du Diadème, </l>
+	<l id='1498'>Je puis vous conseiller ici contre moi-même, </l>
+	<l id='1499'>Malgré votre courroux j'oserai vous porter </l>
+	<l id='1500'>À perdre le dessein de me faire arrêter. </l>
+	<l id='1501'>Peut-être que le Peuple indigné qu'on m'opprime </l>
+	<l id='1502'>Voudra s'autoriser à juger de mon crime, </l>
+	<l id='1503'>Et de peur qu'avec vous il n'en fût pas d'accord, </l>
+	<l id='1504'>Il vaut mieux qu'en secret vous résolviez ma mort. </l>
+	<l id='1505'>Mais si vous achevez un hymen qui me tue, </l>
+	<l id='1506'>Faites qu'elle soit prompte aussi bien qu'imprévue ; </l>
+	<l id='1507'>Autrement de nouveau j'en jure tous les Dieux, </l>
+	<l id='1508'>Ma rage immolera ce perfide à vos yeux, </l>
+	<l id='1509'>Et saura par sa perte, à moins qu'on me prévienne, </l>
+	<l id='1510'>Lui ravir la douceur de jouir de la mienne. </l>
+	<l id='1511'>Voilà de mon amour ce que veut l'intérêt, </l>
+	<l id='1512'>Prononcez là-dessus, j'attendrai votre arrêt. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Philippe, Didas.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1513'>Oui, je prononcerai malgré tout le murmure </l>
+	<l id='1514'>Qu'en mon âme étonnée excite la Nature, </l>
+	<l id='1515'>Et puisque l'on m'y force, il doit m'être permis </l>
+	<l id='1516'>De renoncer aux noms de père et de fils. </l>
+	<l id='1517'>Dieux, a-t-on vu jamais pousser si loin l'audace ? </l>
+	<l id='1518'>De ma seule clémence il peut espérer grâce, </l>
+	<l id='1519'>Et son coupable orgueil, bien loin de s'abaisser, </l>
+	<l id='1520'>Porte encor sa fureur jusques à menacer. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1521'>Seigneur, puisque ma mort est tout ce qu'il souhaite </l>
+	<l id='1522'>Je ne mérite pas que l'on s'en inquiète, </l>
+	<l id='1523'>Et j'en vois naître en vous des transports superflus </l>
+	<l id='1524'>Pourvu que vous n'ayez rien à craindre de plus. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1525'>Rien à craindre de plus ? Et sans que je m'étonne </l>
+	<l id='1526'>Il se sacrifiera l'appui de ma Couronne ? </l>
+	<l id='1527'>Mais je veux qu'en ta mort l'État ne perde rien, </l>
+	<l id='1528'>Oubliant ton péril, oublierai-je le mien ? </l>
+	<l id='1529'>Ce que Rome a de part dans ces noires pratiques </l>
+	<l id='1530'>Dont par nos envoyés j'ai découvert les ligues, </l>
+	<l id='1531'>Ce que sur ses projets Quintius lui répond... </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1532'>À dire vrai, Seigneur, tout cela me confond ; </l>
+	<l id='1533'>Mais comme Quintius, appuyant son audace, </l>
+	<l id='1534'>N'abandonne à ses voeux que le trône de la Thrace, </l>
+	<l id='1535'>La peur de lui déplaire, et d'aigrir le Sénat, </l>
+	<l id='1536'>De son ambition pourra borner l'éclat. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1537'>Il faut donc voir toujours que ce Sénat me brave, </l>
+	<l id='1538'>Qu'au milieu de ma Cour il me traite en esclave, </l>
+	<l id='1539'>Et que son fier orgueil dont j'ai trop pris la loi </l>
+	<l id='1540'>Me souffre par pitié le vain titre de Roi ? </l>
+	<l id='1541'>C'est un joug dont la guerre a droit de me défendre, </l>
+	<l id='1542'>J'y porte tous mes voeux, mais puis-je l'entreprendre, </l>
+	<l id='1543'>Tant que ce lâche fils séduit par les Romains, </l>
+	<l id='1544'>Pour les en mieux instruire, épiera mes desseins ? </l>
+	<l id='1545'>Non, non, puisqu'à me craindre on ne peut le réduire, </l>
+	<l id='1546'>Il faut le mettre enfin hors d'état de me nuire, </l>
+	<l id='1547' part='i'>Il faut que l'arrêtant... </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1547' part='f'>Seigneur, le pourrez-vous </l>
+	<l id='1548'>Sans voir soudain pour lui le Peuple contre nous ? </l>
+	<l id='1549'>Par ce qu'il vient de dire il en a l'assurance, </l>
+	<l id='1550'>Et comme il vous faudra forcer son insolence, </l>
+	<l id='1551'>Gardez qu'en l'essayant vous ne hasardiez tout, </l>
+	<l id='1552'>Si vous l'entreprenez sans en venir à bout. </l>
+	<l id='1553'>Qui combat sa fureur l'irrite s'il lui cède. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1554'>Dieux, mon mal est tel qu'il n'ait plus de remède ? </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1555'>Il en reste un, Seigneur, mais si dur, si fatal, </l>
+	<l id='1556'>Qu'il vous serait encor plus affreux que le mal ; </l>
+	<l id='1557'>Moi-même j'en frémis quand je me le propose. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1558'>Ah, pour vivre sans Maître il n'est rien que je n'ose. </l>
+	<l id='1559'>C'est trop voir les Romains pousser les Rois à bout, </l>
+	<l id='1560'>Fais-m'en braver l'empire, et je consens à tout. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1561'>Ce noble et juste orgueil n'offre qu'un choix à faire, </l>
+	<l id='1562'>Pour être roi, Seigneur, il faut n'être plus père. </l>
+	<l id='1563'>La saine politique a pour seul fondement </l>
+	<l id='1564'>L'inébranlable ardeur de régner sûrement, </l>
+	<l id='1565'>Et qui craint dans un mal une suite funeste, </l>
+	<l id='1566'>Purge le mauvais sang qui corrompait le reste. </l>
+	<l id='1567'>Un fils à la Nature a beau servir d'objet, </l>
+	<l id='1568'>Sitôt qu'il est coupable, il n'est plus que Sujet, </l>
+	<l id='1569'>Et quand contre l'État Démétrius conspire, </l>
+	<l id='1570'>Sa mort seule... mais quoi ? Votre coeur en soupire ! </l>
+	<l id='1571'>Je vous l'avais bien dit, le remède est affreux. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1572'>Souffre cette faiblesse en un Roi malheureux. </l>
+	<l id='1573'>D'abord pour braver Rome, un mouvement sévère </l>
+	<l id='1574'>M'a fait voir comme à toi cette mort nécessaire, </l>
+	<l id='1575'>Mais de tant de rigueur tous mes sens indignés </l>
+	<l id='1576' part='i'>Étouffant malgré moi... </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1576' part='f'>Servez donc, et craignez. </l>
+	<l id='1577'>Pour conserver un fils il faut souffrir un Maître.</l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1578'>Tombe plutôt ce trône où le Ciel m'a fait naître. </l>
+	<l id='1579'>Ce n'est plus ton péril que j'aime à repousser, </l>
+	<l id='1580'>C'est l'affront d'obéir que je veux effacer. </l>
+	<l id='1581'>Que me viens-tu donc dire, indiscrète Nature ? </l>
+	<l id='1582'>Pour un indigne fils fais cesser ton murmure. </l>
+	<l id='1583'>Pourquoi m'offrir des droits qu'il ne respecte pas ? </l>
+	<l id='1584'>C'en est fait, j'ai ordonné l'arrêt de son trépas, </l>
+	<l id='1585'>Je me rends, il mourra, sa perte est résolue. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1586'>Tout autre dès longtemps l'aurait déjà conclue, </l>
+	<l id='1587'>Mais comme votre coeur est moins dur que le sien, </l>
+	<l id='1588'>Avant qu'en donner l'ordre, examinez-vous bien. </l>
+	<l id='1589'>Qui peut craindre un remords s'apprête un sort bien rude, </l>
+	<l id='1590'>Et quelque dure aux Rois que soit la servitude, </l>
+	<l id='1591'>C'est à vous à juger s'il peut être permis </l>
+	<l id='1592'>D'en préférer la honte à la perte d'un fils. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1593'>Non, non, il faut régner, et que l'Ingrat périsse. </l>
+	<l id='1594'>Je dois au nom de Roi ce triste sacrifice, </l>
+	<l id='1595'>La Nature y consent, songeons à le hâter ; </l>
+	<l id='1596'>Mais nous avons toujours le Peuple à redouter. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1597'>Pour forcer sa prison, s'il peut tout entreprendre, </l>
+	<l id='1598'>Quand il saura sa mort vous le verrez se rendre ; </l>
+	<l id='1599'>Étouffer un éclat qui serait sans soutien. </l>
+	<l id='1600'>Où l'on manque de Chef la révolte n'est rien. </l>
+	<l id='1601'>Mais si de sa fureur vous craignez les menaces, </l>
+	<l id='1602'>Il ne faut qu'en secret nous assurer des Places, </l>
+	<l id='1603'>Tenir nos Amis prêts, les répandre en tous lieux. </l>
+	<l id='1604'>Que pourront entreprendre alors les factieux ? </l>
+	<l id='1605'>Étonnés par sa chute oseront-ils paraître ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1606'>De ce Peuple insolent va donc te rendre maître, </l>
+	<l id='1607'>Et t'étant assuré de la Ville et du Fort, </l>
+	<l id='1608'>Viens résoudre avec moi l'ordre de cette mort. </l>
+	<l id='1609'>Le poison, surprenant ce fils trop téméraire, </l>
+	<l id='1610'>Avecque moins d'éclat saura nous en défaire, </l>
+	<l id='1611' part='i'>Mais le temps presse, va. </l>
+</sp>
+<sp who='DIDAS'><speaker>DIDAS.</speaker>
+	<l id='1611' part='f'>C'est vouloir être Roi, </l>
+	<l id='1612' part='i'>Seigneur, mais... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1612' part='f'>Va, te dis-je, et ne crains rien de moi. </l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1613'>Enfin, Sénat superbe, il faut te satisfaire. </l>
+	<l id='1614'>C'est peu pour ta fierté qu'un hommage ordinaire, </l>
+	<l id='1615'>Et mon coeur pour remplir tes voeux ambitieux </l>
+	<l id='1616'>Consent à te traiter comme il traite les Dieux. </l>
+	<l id='1617'>Il tient de tes autels le culte légitime, </l>
+	<l id='1618'>Mon fils fut ton Esclave, il en fait ta Victime, </l>
+	<l id='1619'>Et ce noir sacrifice à ton orgueil offert </l>
+	<l id='1620'>Va faire voir à tous de quel zèle il te sert. </l>
+	<l id='1621'>Mais où va contre lui la fureur qui me guide ? </l>
+	<l id='1622'>Est-ce en le commettant qu'on venge un parricide ? </l>
+	<l id='1623'>Et si les droits du sang ne peuvent l'ébranler, </l>
+	<l id='1624'>Parce qu'il les trahit, dois-je les violer ? </l>
+	<l id='1625'>Ah, Roi né pour servir, tu frémis, tu t'étonnes ! </l>
+	<l id='1626'>Veux-tu rougir toujours des fers que tu te donnes ? </l>
+	<l id='1627'>Et pour un peu de sang qu'il t'en pourra coûter, </l>
+	<l id='1628'>As-tu le coeur si bas qu'il tremble à les quitter ? </l>
+	<l id='1629'>Non, non, c'est trop gémir, bravons la tyrannie. </l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Philippe, Antigonus.</head>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1630'>Seigneur, l'ordre est donné pour la cérémonie. </l>
+	<l id='1631'>Le grand Prêtre demain en superbe appareil... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE, sans écouter Antigonus.</speaker>
+	<l id='1632'>Ce serait perdre temps qu'assembler mon Conseil, </l>
+	<l id='1633'>Qu'il y consente ou non, la guerre est résolue. </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1634' part='i'>Seigneur. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1634' part='f'>J'ai trop souffert sa puissance absolue, </l>
+	<l id='1635'>Il est temps qu'elle cède, et que ce fier Sénat </l>
+	<l id='1636'>Perde l'injuste espoir que lui donne un Ingrat. </l>
+	<l id='1637'>Par mes secrets trahis son orgueil de redouble, </l>
+	<l id='1638' part='i'>Mais... </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1638' part='f'>Il n'achève point, Seigneur, d'où naît ce trouble ? </l>
+	<l id='1639'>Vous semblez inquiet, et vos sens interdits...</l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1640'>Peuvent-ils l'être moins ? J'ai condamné mon fils, </l>
+	<l id='1641' part='i'>Et l'arrêt de sa mort... </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1641' part='f'>Seigneur, est-il croyable ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1642'>Ah, ne l'excuse point, il n'est que trop coupable, </l>
+	<l id='1643'>Et tant de noirs complots dont j'aimais à douter, </l>
+	<l id='1644'>Ne sont plus des soupçons qu'on puisse rejeter. </l>
+	<l id='1645'>Dans Rome où tout conspire à nourrir son audace, </l>
+	<l id='1646'>Va de nos Envoyés savoir ce qui se passe, </l>
+	<l id='1647'>Et s'il t'en faut encor un témoin plus certain, </l>
+	<l id='1648'>Écoute Quintius, et reconnais sa main. </l>
+	<l id='1649'>"Rome à vous voir régner se trouve intéressée </l>
+	<l id='1650'>Pour le trône de Thrace espérez son appui ; </l>
+	<l id='1651'>Mais elle hait le crime encor plus que Persée, </l>
+	<l id='1652'>Et vous n'en devez rien attendre contre lui. </l>
+<stage>Quintius. "</stage>
+	<l id='1653'>Doute encor des forfaits de ce Traître. </l>
+	<l id='1654'>Déments jusqu'à tes yeux qui te les font connaître, </l>
+	<l id='1655' part='i'>N'en crois point Quintius. </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1655' part='f'>J'y vois tant de fureur </l>
+	<l id='1656'>Que le plus dur supplice en punit mal l'horreur ; </l>
+	<l id='1657'>Mais si le nom de fils n'a rien qu'il considère </l>
+	<l id='1658'>Pouvez-vous oublier que vous êtes son père, </l>
+	<l id='1659' part='i'>Et la Nature...</l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1659' part='f'>Hélas ! Tout coupable qu'il est, </l>
+	<l id='1660'>C'est moi bien plus que lui que perdra son arrêt. </l>
+	<l id='1661'>Déjà la triste mort à mille morts m'expose, </l>
+	<l id='1662'>Je souffre de l'effet, je souffre de la cause, </l>
+	<l id='1663'>Je vois par ses forfaits ma gloire se ternir, </l>
+	<l id='1664'>Leur peine me fait peur, mais il les faut punir. </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1665'>Il est juste, Seigneur, et dans un si grand crime </l>
+	<l id='1666'>Pour en rompre l'effet sa mort est légitime ; </l>
+	<l id='1667'>Mais pour le prévenir ; n'est-il rien de plus doux ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1668'>Le faisant arrêter tout sera contre nous. </l>
+	<l id='1669'>Prétendre par l'exil punir son arrogance, </l>
+	<l id='1670'>Au plus funeste éclat c'est porter la vengeance. </l>
+	<l id='1671'>Quelque ordre qu'il en ait, voudra-t-il obéir ? </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1672'>Oui, si vous consentez que j'ose vous trahir. </l>
+	<l id='1673'>L'instruisant du péril, où sa vie est réduite </l>
+	<l id='1674'>Je puis par un billet le forcer à la fuite, </l>
+	<l id='1675'>Et me feignant suspect si j'ose lui parler, </l>
+	<l id='1676'>Lui montrer le poison tout prêt à l'immoler. </l>
+	<l id='1677'>Attendra-t-il l'éclat, menacé de la foudre ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1678'>Dans le trouble où je suis je ne sais que résoudre, </l>
+	<l id='1679'>Partout sous même horreur tremblent mes voeux confus. </l>
+	<l id='1680'>Ne dis rien à Didas, et ne me quitte plus. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Érixène, Phénice.</head>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1681'>Quoi, sans qu'à la pitié vous ayez pu vous rendre, </l>
+	<l id='1682'>Vous avez de nouveau refusé de l'entendre, </l>
+	<l id='1683'>Et je vois tout à coup chanceler ce courroux... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1684'>Souffre un peu de relâche à mon esprit jaloux ; </l>
+	<l id='1685'>De mes feux mal éteints ma raison peu maîtresse </l>
+	<l id='1686'>Eût peut-être à ses yeux exposé ma faiblesse. </l>
+	<l id='1687'>Ses plaintes, ses soupirs auraient pu m'émouvoir, </l>
+	<l id='1688'>Et pour fuir ce péril, j'ai dû ne le plus voir ; </l>
+	<l id='1689'>Mais si de ce dehors la trompeuse apparence </l>
+	<l id='1690'>Du courroux qui m'anime étale l'arrogance, </l>
+	<l id='1691'>La fierté qui me livre à ses transports ardents, </l>
+	<l id='1692'>Me peut-elle affranchir des troubles du dedans ? </l>
+	<l id='1693'>Comme pour un grand coeur il n'est rien de si rude </l>
+	<l id='1694'>Qu'un beau feu lâchement payé d'ingratitude, </l>
+	<l id='1695'>D'abord sans voir l'abîme où nous portons nos pas, </l>
+	<l id='1696'>Tout ce qui nous en venge est pour nous plein d'appas ; </l>
+	<l id='1697'>Mais cette vive ardeur dont nous goûtons l'amorce, </l>
+	<l id='1698'>Au point d'exécuter perd beaucoup de sa force, </l>
+	<l id='1699'>L'Amour parle, et le coeur malgré tout son dépit </l>
+	<l id='1700'>Se sent toujours forcé d'écouter ce qu'il dit ; </l>
+	<l id='1701'>Non qu'à mes yeux du Prince il dérobe le crime, </l>
+	<l id='1702'>Je vois de son orgueil quelle fut la maxime, </l>
+	<l id='1703'>Et qu'en vain de sa foi j'oserais me flatter, </l>
+	<l id='1704'>Si Didas pour sa fille eût voulu l'accepter, </l>
+	<l id='1705'>Ma gloire à l'en punir est trop intéressée, </l>
+	<l id='1706'>Il le faut, je le dois ; mais j'épouse Persée, </l>
+	<l id='1707'>Et quelque trahison dont il se soit noirci, </l>
+	<l id='1708'>C'est m'en venger sur moi que le punir ainsi. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1709'>J'ai prévu ce remords, mais de quoi qu'il vous flatte, </l>
+	<l id='1710'>Prête d'aller au Temple est-il temps qu'il éclate ? </l>
+	<l id='1711'>Dans ce Temple déjà pour tout le monde ouvert, </l>
+	<l id='1712' part='i'>Le grand Prêtre... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1712' part='f'>Ah, c'est là que ma raison se perd. </l>
+	<l id='1713'>Si je ne touchais pas à l'heure infortunée </l>
+	<l id='1714'>Où se doit achever ce funeste hyménée, </l>
+	<l id='1715'>J'en croirais de nouveau l'impatient courroux </l>
+	<l id='1716'>Qui porta ma vengeance à choisir un Époux. </l>
+	<l id='1717'>Pour punir mon Ingrat du choix qu'il me préfère, </l>
+	<l id='1718'>De nouveau je voudrais me promettre à son frère, </l>
+	<l id='1719'>Par cet affreux hymen combler son désespoir, </l>
+	<l id='1720'>Au moins, Phénice, au moins je croirais le vouloir. </l>
+	<l id='1721'>Mais quand le coup approche, et qu'il faut sans remise </l>
+	<l id='1722'>Donner aux yeux de tous la foi que j'ai promise, </l>
+	<l id='1723'>Dans l'horreur qui s'oppose à ce don de ma foi, </l>
+	<l id='1724'>Je ne répondrais pas de l'obtenir de moi. </l>
+	<l id='1725'>Si ton zèle jamais parut pour ta Princesse, </l>
+	<l id='1726'>Sauve-la du péril de montrer sa faiblesse, </l>
+	<l id='1727'>Prends pitié de sa gloire, et sans trop m'engager, </l>
+	<l id='1728'>Tire-moi de l'abîme où j'ai su me plonger. </l>
+	<l id='1729'>Cherche Démétrius ; si ma rigueur le pique, </l>
+	<l id='1730'>Fais si bien qu'avec toi son désespoir s'explique. </l>
+	<l id='1731'>S'il menace, il suffit pour ne rien achever </l>
+	<l id='1732'>Tant qu'on ait prévenu ce qui peut arriver, </l>
+	<l id='1733'>Quelque retardement paraîtra nécessaire ; </l>
+	<l id='1734'>Et j'aurai tout gagné pourvu que l'on diffère. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1735' part='i'>Mais, Madame, songez... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1735' part='f'>Je vois Antigonus, </l>
+	<l id='1736'>Va, tu me donnerais des avis superflus. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Érixène, Antigonus. </head>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1737' part='i'>Que venez-vous m'apprendre ? </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1737' part='f'>Une étrange nouvelle. </l>
+	<l id='1738'>Les Dieux de l'innocence embrassent la querelle. </l>
+	<l id='1739'>Déjà par un sanglant et déplorable arrêt, </l>
+	<l id='1740'>Contre Démétrius le poison était prêt... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1741'>Quoi, de tant de rigueur le Roi serait capable ? </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1742'>J'ai détourné ce coup, quoi qu'il le crût coupable, </l>
+	<l id='1743'>Et d'un si triste sort je l'ai fait consentir </l>
+	<l id='1744'>Que par un faux billet je pourrais l'avertir, </l>
+	<l id='1745'>C'est ce que j'ai su faire, et par ce stratagème </l>
+	<l id='1746'>Le Roi forçait le Prince à se bannir soi-même, </l>
+	<l id='1747'>Et chercher dans la fuite un secours assuré </l>
+	<l id='1748'>Contre le poison qu'il se croit préparé. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1749'>Ah, ne présumez pas que cet avis suffise. </l>
+	<l id='1750'>Le Prince craindra peu cette lâche entreprise, </l>
+	<l id='1751' part='i'>Et sans songe à fuir... </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1751' part='f'>Le Ciel vient d'y pourvoir, </l>
+	<l id='1752'>Apprenez ce qu'enfin il nous a fait savoir. </l>
+	<l id='1753'>Ayant vu que le Roi dans toute sa colère </l>
+	<l id='1754'>Pour ce fils malheureux se montrait encor père, </l>
+	<l id='1755'>J'ai su si bien agir que je l'ai disposé </l>
+	<l id='1756'>À revoir les Témoins qui l'avaient accusé. </l>
+	<l id='1757'>Amenez en secret, et pressez de répondre, </l>
+	<l id='1758'>Leur surprise a suffi d'abord à les confondre, </l>
+	<l id='1759'>Et sur quelque scrupule heureusement offert, </l>
+	<l id='1760'>Menacés de la gêne, ils ont tout découvert, </l>
+	<l id='1761'>Que Persée en partant avait su les instruire </l>
+	<l id='1762'>De ce qu'à leur retour ils diraient pour lui nuire ; </l>
+	<l id='1763'>Que Quintius en vain le chargeait d'un forfait, </l>
+	<l id='1764'>Que la Lettre était fausse, et son seing contrefait, </l>
+	<l id='1765'>Et qu'avec les Romains ces bruits d'intelligence </l>
+	<l id='1766'>Du Prince injustement accablaient l'innocence. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1767' part='i'>Dieux ! Et que dit Persée ! </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1767' part='f'>Il n'a rien encor su, </l>
+	<l id='1768'>Mais enfin son espoir se va trouver déçu, </l>
+	<l id='1769'>Puisque le Roi m'envoie avertir le grand Prêtre </l>
+	<l id='1770' part='i'>Qu'en vain pour votre hymen... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1770' part='f'>Moi, l'Épouse d'un Traître ! </l>
+	<l id='1771'>Si ma main pour ses voeux est un espoir si doux... </l>
+</sp>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='1772'>Souffrez que je vous quitte, il s'avance vers vous. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Persée, Érixène.</head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1773'>Après tant de soupirs, tant de rudes alarmes, </l>
+	<l id='1774'>Enfin voici ce jour pour moi si plein de charmes, </l>
+	<l id='1775'>Où pour prix de ma flamme obtenant votre foi, </l>
+	<l id='1776'>Je vais me voir ensemble heureux amant et Roi. </l>
+	<l id='1777'>Attendant qu'en ces lieux j'obtienne une Couronne, </l>
+	<l id='1778'>Il m'est doux que l'Amour par vos mains me la donne. </l>
+	<l id='1779'>C'est ce que votre hymen va faire aux yeux de tous,</l>
+	<l id='1780'>Pour son auguste pompe on n'attend plus que vous. </l>
+	<l id='1781'>Allons, allons, Madame, et de l'heur que j'espère... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1782'>Seigneur, l'ordre du Roi m'est ici nécessaire. </l>
+	<l id='1783'>C'est par lui que pour vous mon coeur s'est engagé, </l>
+	<l id='1784'>Et puisqu'il tarde tant, il peut être changé. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1785'>Si ce seul changement pour ma flamme est à craindre, </l>
+	<l id='1786'>À ce scrupule en vain vous voulez vous contraindre. </l>
+	<l id='1787'>Le Roi pour cet hymen s'intéresse à tel point... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1788'>Allez l'en consulter, et ne m'en croyez point. </l>
+	<l id='1789'>Non qu'enfin affectant un scrupule frivole </l>
+	<l id='1790'>Je cherche à m'affranchir de lui tenir parole, </l>
+	<l id='1791'>Mais je lui ferais tort si j'avais quelque effroi </l>
+	<l id='1792'>Qu'il en pressât l'effet que pour le fils d'un Roi. </l>
+	<l id='1793'>J'ai promis pour un Prince et grand et magnanime, </l>
+	<l id='1794'>Jaloux de la vertu, plein d'horreur pour le crime, </l>
+	<l id='1795'>Digne de voir par moi ses hommages reçus, </l>
+	<l id='1796'>Je ne m'en dédis point, jugez-vous là-dessus. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1797'>Ah, si d'un pur amour les pressants témoignages </l>
+	<l id='1798'>Vous faisaient de mon coeur estimer les hommages,</l>
+	<l id='1799'>Vous ne douteriez point si je puis mériter </l>
+	<l id='1800'>Que vous vous abaissiez jusqu'à les accepter. </l>
+	<l id='1801'>Vous trouveriez en moi ce Prince magnanime, </l>
+	<l id='1802'>Jaloux de la vertu, plein d'horreur pour le crime, </l>
+	<l id='1803'>Et cesseriez de dire en outrageant ma foi, </l>
+	<l id='1804'>Que vous n'avez promis que pour le fils d'un Roi. </l>
+	<l id='1805'>Ne vous déguisez plus, et malgré vos promesses </l>
+	<l id='1806'>Laissez, laissez agir vos premières tendresses. </l>
+	<l id='1807'>Quand je touche au moment qui me doit rendre heureux, </l>
+	<l id='1808'>Démétrius vaut bien un remords généreux. </l>
+	<l id='1809'>D'un coeur que l'on rejette, il est beau qu'une Reine </l>
+	<l id='1810'>Au refus de Didas daigne flatter la peine, </l>
+	<l id='1811'>Que d'un parjure amant l'indigne trahison... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1812'>Je n'ai pas oublié que je m'en dois raison, </l>
+	<l id='1813'>Mais la plus vive ardeur presse en vain ma vengeance. </l>
+	<l id='1814'>Quand on le punit trop on lui rend l'innocence, </l>
+	<l id='1815'>Et de Didas sur moi quoi qu'ait pu le rapport, </l>
+	<l id='1816'>Tout me devient suspect si tôt qu'on veut sa mort. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1817'>Sa mort ! Qui vous fait prendre une frayeur si vaine ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1818'>Les crimes dont le charge une implacable haine ; </l>
+	<l id='1819'>Non qu'on en puisse trop punir l'indignité, </l>
+	<l id='1820'>S'il a su les commettre, il a tout mérité, </l>
+	<l id='1821'>Mais puisque vous voulez qu'avec vous je m'explique, </l>
+	<l id='1822'>On les croit un effet de votre Politique, </l>
+	<l id='1823'>Et dans vos Envoyés si votre espoir fut mis, </l>
+	<l id='1824'>Ils vous ont mal tenu ce qu'ils vous ont promis. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1825'>Quoi, si ce qu'ils ont dit à ses desseins peut nuire, </l>
+	<l id='1826'>Ils parlent par mon ordre, et j'ai su les séduire ? </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1827'>Vous le saurez du Roi, je parle seulement </l>
+	<l id='1828'>De ce qu'un bruit confus m'apprend obscurément ? </l>
+	<l id='1829'>Mais sur ce doute enfin je crois devoir attendre </l>
+	<l id='1830'>À partager ce trône où vous pouvez prétendre, </l>
+	<l id='1831'>Et j'aime mieux plus tard avoir droit d'y monter, </l>
+	<l id='1832'>Que me mettre en péril de le trop acheter. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1833'>Ah, ce serait trop peu que borner votre haine </l>
+	<l id='1834'>À différer l'effet d'un accord qui vous gêne. </l>
+	<l id='1835'>Sur l'exemple d'un Traître il vous sera plus doux </l>
+	<l id='1836'>De vous montrer pour moi ce qu'on l'a vu pour vous. </l>
+	<l id='1837'>Ne considérez point sur ce grand hyménée </l>
+	<l id='1838'>Ni mes voeux acceptés, ni votre foi donnée, </l>
+	<l id='1839'>S'il osa vous trahir en faveur de Didas, </l>
+	<l id='1840'>Vous l'avez trop aimé pour ne l'imiter pas. </l>
+	<l id='1841'>J'avais dû le prévoir, et lorsque l'on me quitte, </l>
+	<l id='1842'>Mon espoir trop crédule a l'affront qu'il mérite. </l>
+	<l id='1843'>Donnez à mon Rival la douceur d'en jouir, </l>
+	<l id='1844'>Vous le pouvez aimer, vous pouvez me haïr, </l>
+	<l id='1845'>Mais avant que sa foi sur ma flamme confuse </l>
+	<l id='1846'>Emporte avec le coeur la main qu'on me refuse, </l>
+	<l id='1847'>Pour lui ravir un bien qu'il m'ose disputer, </l>
+	<l id='1848'>J'irai jusqu'aux forfaits qu'on me veut imputer. </l>
+	<l id='1849'>Puisque l'on me soupçonne il faut par de vrais crimes </l>
+	<l id='1850'>Rendre enfin contre moi vos soupçons légitimes. </l>
+	<l id='1851'>Si j'attaque des jours que je dois respecter, </l>
+	<l id='1852'>C'est votre seul arrêt que j'ose exécuter ; </l>
+	<l id='1853'>C'est vous qui malgré moi cherchez à m'y contraindre, </l>
+	<l id='1854' part='i'>C'est vous... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1854' part='f'>Voici le Roi, vous pouvez vous en plaindre. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Philippe, Persée, Érixène, Suite.</head>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1855'>Seigneur, apprenez-moi s'il ne m'est plus permis </l>
+	<l id='1856'>De me flatter d'un bien que vous m'aviez promis. </l>
+	<l id='1857'>Il semble que le sort toujours prêt à me nuire </l>
+	<l id='1858'>N'ait voulu m'élever que pour mieux me détruire. </l>
+	<l id='1859'>Ma gloire fait ma honte, et contraint de céder, </l>
+	<l id='1860'>Plus on m'a vu d'espoir, et moins j'en puis garder. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1861'>De cet injuste espoir si l'on m'a vu complice, </l>
+	<l id='1862'>Ingrat, le Ciel se plaît à me rendre justice, </l>
+	<l id='1863'>Et dès le premier pas sa bonté nous fait voir </l>
+	<l id='1864'>Combien la soif du trône a sur toi de pouvoir. </l>
+	<l id='1865'>L'hymen qui te l'assure est un faible avantage, </l>
+	<l id='1866'>Tant qu'un père importun avec toi le partage. </l>
+	<l id='1867'>À la perte d'un fils tu voulais m'engager </l>
+	<l id='1868'>Pour en prendre sur moi le droit de le venger. </l>
+	<l id='1869'>Le succès a trompé tes damnables maximes, </l>
+	<l id='1870'>J'ai sauvé malgré toi ma gloire de tes crimes, </l>
+	<l id='1871'>Et si le sang d'un frère a pour toi tant d'appas, </l>
+	<l id='1872'>Il te faut pour l'épandre emprunter d'autres bras. </l>
+	<l id='1873'>Ne songez plus, Madame, à couronner un lâche. </l>
+	<l id='1874'>Je vois pour vous enfin quelle en serait la tache. </l>
+	<l id='1875'>Et garant de l'hymen où j'osais vous porter, </l>
+	<l id='1876'>Je vous rends un aveu qu'il n'a pu mériter. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1877'>De quelque dur revers que le Sort me menace, </l>
+	<l id='1878'>Je ne demande point d'où me vient ma disgrâce. </l>
+	<l id='1879'>Ce sont les mêmes traits toujours empoisonnés </l>
+	<l id='1880'>Qu'en vain jusques ici ma plainte a détournés, </l>
+	<l id='1881'>Le mépris dont enfin elle fut hier suivie, </l>
+	<l id='1882'>À la rage d'un frère abandonna ma vie, </l>
+	<l id='1883'>Et quand j'en expliquai les secrets attentats, </l>
+	<l id='1884'>Ce fut les approuver que ne les punir pas. </l>
+	<l id='1885'>Je n'en murmure point, et dois voir sans surprise </l>
+	<l id='1886'>Qu'à me persécuter votre aveu l'autorise ; </l>
+	<l id='1887'>Mais que je sache au moins quel indigne rapport </l>
+	<l id='1888'>D'un hymen souhaité vous fait rompre l'accord. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1889'>Fais-moi servir ta haine, et joins à cette injure </l>
+	<l id='1890'>Tout ce qui peut au crime endurcir la Nature. </l>
+	<l id='1891'>Démens ces Envoyés qui subornés par toi, </l>
+	<l id='1892'>Avec tant de fureur noircirent hier sa foi. </l>
+	<l id='1893'>Veux-tu que l'imposture aujourd'hui découverte </l>
+	<l id='1894'>Fasse voir qu'ils suivaient tes ordres pour sa perte, </l>
+	<l id='1895'>Et qu'instruits par ta rage, ils viennent déclarer, </l>
+	<l id='1896'>Quels jaloux mouvements te l'avaient fait jurer ? </l>
+	<l id='1897'>Veux-tu que Quintius sur un faux caractère... </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1898'>Que l'erreur qui nous flatte aisément nous est chère ! </l>
+	<l id='1899'>Pour ce fils contre moi noirci de lâchetés, </l>
+	<l id='1900'>Laissez-vous éblouir à de fausses clartés </l>
+	<l id='1901'>Cédez à ce penchant dont l'indigne imposture </l>
+	<l id='1902'>Toujours en sa faveur suborna la Nature ; </l>
+	<l id='1903'>Mais vous en fierez-vous à des âmes sans foi,</l>
+	<l id='1904'>Qui d'abord contre lui, sont enfin contre moi ? </l>
+	<l id='1905'>C'est par là qu'à ma mort leur trahison aspire. </l>
+	<l id='1906'>Ils ne l'ont accusé qu'afin de s'en dédire, </l>
+	<l id='1907'>Et rejeter sur moi le plus noir attentat </l>
+	<l id='1908'>Qui de votre courroux pût mériter l'éclat. </l>
+	<l id='1909'>Je vous le disais hier, plus d'espoir d'innocence. </l>
+	<l id='1910'>Vos Peuples sont pour lui, Rome prend sa défense, </l>
+	<l id='1911'>Le sang même conspire à le favoriser, </l>
+	<l id='1912'>Et pour me voir coupable il n'a qu'à m'accuser. </l>
+	<l id='1913'>Mais au moins pour avoir des preuves plus certaines, </l>
+	<l id='1914'>Livrez les Imposteurs aux plus cruelles peines. </l>
+	<l id='1915'>Dans leurs derniers remords cherchez des vérités... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1916'>Va, n'en demande point de plus vives clartés. </l>
+	<l id='1917'>Loin de les souhaiter dans un destin si rude </l>
+	<l id='1918'>J'aime à laisser ton crime en quelque incertitude, </l>
+	<l id='1919'>Et quoi que leur rapport me montre à prévenir, </l>
+	<l id='1920'>J'en veux douter exprès pour n'oser t'en punir. </l>
+	<l id='1921'>Mais comme je vois trop que rien n'est plus capable </l>
+	<l id='1922'>D'arracher l'innocent aux fureurs du coupable, </l>
+	<l id='1923'>Il faut rompre un péril qui jusqu'ici douteux, </l>
+	<l id='1924'>Pourrait se rendre enfin funeste à tous les deux. </l>
+	<l id='1925'>Vous le pouvez, Madame, et dissiper la crainte </l>
+	<l id='1926'>Dont Persée aujourd'hui fait l'appui de sa plainte. </l>
+	<l id='1927'>D'une sourde pratique il prendra peu d'effroi </l>
+	<l id='1928'>Si de Démétrius vous daignez faire un Roi. </l>
+	<l id='1929'>De quelque ambition qu'il ait l'âme saisie, </l>
+	<l id='1930'>Il le verra chez vous régner sans jalousie, </l>
+	<l id='1931'>Et cessera de croire un soupçon odieux </l>
+	<l id='1932'>Quand il n'aura plus rien qui lui blesse les yeux. </l>
+	<l id='1933'>Je vous rends vos États, vous leur devez un Maître. </l>
+	<l id='1934'>Et si le triste état où vous me voyez être, </l>
+	<l id='1935' part='i'>Pour un fils malheureux... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1935' part='f'>Seigneur, permettez-moi </l>
+	<l id='1936'>De remonter au trône avant que faire un Roi. </l>
+	<l id='1937'>Plus de gloire y suivra l'heureux choix de ma flamme ; </l>
+	<l id='1938' part='i'>Et si Démétrius...</l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1938' part='f'>Ah, c'en est trop, Madame, </l>
+	<l id='1939'>Quelque pressant respect qui cherche à m'arrêter, </l>
+	<l id='1940'>Vous forcez malgré moi ma rage d'éclater. </l>
+	<l id='1941'>En vain mon désespoir voudrait encor se taire. </l>
+	<l id='1942'>Seigneur, n'épargnez rien pour élever mon frère, </l>
+	<l id='1943'>Donnez-lui votre Sceptre, et le couronnez Roi, </l>
+	<l id='1944'>Vous ne lui donnez rien qui soit encor à moi, </l>
+	<l id='1945'>Et quelque injuste rang que vous lui fassiez prendre, </l>
+	<l id='1946'>Au trône, vous vivant, je n'ai rien à prétendre. </l>
+	<l id='1947'>C'est assez que le Ciel m'y réserve mes droits ; </l>
+	<l id='1948'>Mais pour placer ses voeux faites un autre choix. </l>
+	<l id='1949'>Pour lui contre ma flamme en vain on s'intéresse, </l>
+	<l id='1950'>Il m'a vu recevoir la foi de la Princesse, </l>
+	<l id='1951'>Et les ordres cruels qui l'en veulent flatter, </l>
+	<l id='1952'>M'arracheront le jour avant que me l'ôter. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1953'>Votre orgueil de mon choix s'est pu faire l'arbitre, </l>
+	<l id='1954'>Tant qu'on ne m'a laissé de Reine que le titre, </l>
+	<l id='1955'>Mais enfin on me rend le pouvoir Souverain, </l>
+	<l id='1956'>Et quand il me plaira disposer de ma main... </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1957'>Disposez-en, Madame, et puisque son audace </l>
+	<l id='1958'>Par ses emportements veut hâter sa disgrâce, </l>
+	<l id='1959'>Il faut qu'aux yeux de tous ses forfaits étalés </l>
+	<l id='1960'>Découvrent mieux quels droits sa rage a violés. </l>
+	<l id='1961'>Qu'on amène son frère, afin qu'en sa présence... </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1962'>Oui, Seigneur, achevez d'assouvir sa vengeance. </l>
+	<l id='1963'>Sans rien examiner, puisque ma mort lui plaît, </l>
+	<l id='1964'>À son impatience accordez-en l'arrêt. </l>
+	<l id='1965'>Aussi bien ce haut prix qu'on destine à sa flamme, </l>
+	<l id='1966' part='i'>Sans verser tout mon sang... </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Philippe, Persée, Érixène, Phénice, Suite. </head>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1966' part='f'>Ah, Seigneur ! Ah, Madame ! </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1967'>De quel présage, hélas ! est pour moi ce transport ! </l>
+	<l id='1968' part='i'>Parle, Démétrius ? </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1968' part='f'>Plaignez son triste sort, </l>
+	<l id='1969' part='i'>Démétrius n'est plus. </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='1969' part='m'>Il est mort ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE, à Persée.</speaker>
+	<l id='1969' part='f'>Ah, Perfide ! </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1970'>Je suis coupable encor de ce noir parricide ? </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1971'>Sur quel autre que toi d'un soupçon si pressant... </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1972'>Seigneur, il a parlé, Persée est innocent. </l>
+</sp>
+<sp who='PERSEE'><speaker>PERSÉE.</speaker>
+	<l id='1973'>Enfin le Ciel s'explique, et lorsque tout m'accable, </l>
+	<l id='1974'>Malgré vous sa justice entraîne le coupable. </l>
+	<l id='1975'>Au moins si l'on dédaigne et ma main et ma foi, </l>
+	<l id='1976'>Je n'ai plus de Rival qui triomphe de moi. </l>
+	<l id='1977'>C'est un charme secret dont la douceur me flatte, </l>
+	<l id='1978'>Et lorsque par sa mort mon innocence éclate </l>
+	<l id='1979'>Je me retire exprès de peur de vous blesser </l>
+	<l id='1980'>Par la joie où mon coeur a peine à renoncer. </l>
+	<l id='1981'>Je la sens malgré moi qui vient y prendre place, </l>
+	<l id='1982'>Et c'est assez, Seigneur, que le respect me chasse. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Philippe, Érixène, Phénice, Suite.</head>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='1983'>Va, ris des voeux d'un père interdit et confus. </l>
+	<l id='1984'>Phénice, il est donc vrai que mon fils ne vit plus. </l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE.</speaker>
+	<l id='1985'>Oui, Seigneur, et du Sort les plus dures menaces </l>
+	<l id='1986'>N'ont fait suivre jamais de pareilles disgrâces. </l>
+	<l id='1987'>J'étais dans le jardin quand une prompte horreur </l>
+	<l id='1988'>Par un objet affreux s'empare de mon coeur. </l>
+	<l id='1989'>Du Prince tout sanglant le spectacle funeste </l>
+	<l id='1990'>Me fait craindre un forfait que mon âme déteste. </l>
+	<l id='1991'>Je m'écrie, et tremblant à le voir aux abois, </l>
+	<l id='1992'>À peine ai-je parlé qu'il reconnaît ma voix. </l>
+	<l id='1993'>Il soupire, et faisant effort sur sa faiblesse, </l>
+	<l id='1994'>"J'exécute, a-t-il dit, l'ordre de ma Princesse, </l>
+	<l id='1995'>Et la mets en pouvoir de donner une foi </l>
+	<l id='1996'>Qui n'aurait pu sans crime être à d'autres qu'à moi. </l>
+	<l id='1997'>C'est le moins que je dusse au beau feu qui m'anime </l>
+	<l id='1998'>Que rendre par ma mort son hymen légitime. </l>
+	<l id='1999'>Je l'aimais chèrement ; mais malgré tant d'amour, </l>
+	<l id='2000'>Qui n'en est plus aimé n'est plus digne du jour. </l>
+	<l id='2001'>Du moins en la quittant j'ai la douceur de croire </l>
+	<l id='2002'>Que si l'Envie encore ose attaquer ma gloire, </l>
+	<l id='2003'>Elle repoussera ces bruits injurieux </l>
+	<l id='2004'>Qui n'ont fait voir en moi qu'un Prince ambitieux. </l>
+	<l id='2005'>Averti du poison qu'un père me prépare, </l>
+	<l id='2006'>J'évitais par la fuite un ordre si barbare, </l>
+	<l id='2007'>Et si pour les grandeurs mon coeur eût soupiré, </l>
+	<l id='2008'>J'avais chez les Romains un asile assuré ; </l>
+	<l id='2009'>Mais j'aurais de mon feu cru trahir la tendresse </l>
+	<l id='2010'>Et j'eusse refusé ma vie à ma Princesse. </l>
+	<l id='2011'>Comme pour elle seule on m'a vu la chérir, </l>
+	<l id='2012'>Quand elle veut ma mort il m'est doux de mourir, </l>
+	<l id='2013'>Assure-t-en, Phénice, et que jamais une âme..." </l>
+	<l id='2014'>Son coeur pousse à ces mots un soupir tout de flamme ; </l>
+	<l id='2015'>Ses regards sur les miens s'arrêtent tristement, </l>
+	<l id='2016'>Il nomme la Princesse, et meurt en la nommant. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='2017'>Et bien es-tu content, malheureux Politique ? </l>
+	<l id='2018'>Le Ciel selon tes voeux pour ta grandeur s'explique, </l>
+	<l id='2019'>Et si Rome aspirait à te faire la loi, </l>
+	<l id='2020'>Aux dépens de ton sang enfin te voilà Roi. </l>
+	<l id='2021'>Satisfais tout l'orgueil de ce fier caractère, </l>
+	<l id='2022'>Tu ne le peux remplir qu'en cessant d'être père. </l>
+	<l id='2023'>Un fils te reste encor ; ose, achève, et ne crains </l>
+	<l id='2024'>Ni la foudre des Dieux, ni celle des Romains. </l>
+	<l id='2025'>C'est lui dont les soupçons pressant ta défiance </l>
+	<l id='2026'>Ont fait servir ta crainte à sa lâche vengeance. </l>
+	<l id='2027'>Le sang contre le sang à la fin t'a séduit, </l>
+	<l id='2028'>Et cette mort funeste en est l'indigne fruit. </l>
+	<l id='2029'>Fuyez, fuyez, Madame, un père abominable. </l>
+	<l id='2030'>On partage un forfait à souffrir le coupable </l>
+	<l id='2031'>Rentrez dans votre Thrace où les Dieux ennemis </l>
+	<l id='2032'>Pour régner avec vous ont refusé mon fils, </l>
+	<l id='2033'>Ce fils que de ma rage ils ont fait la victime, </l>
+	<l id='2034' part='i'>Ce fils... </l>
+</sp>
+<sp who='ERIXENE'><speaker>ÉRIXÈNE.</speaker>
+	<l id='2034' part='f'>C'est trop, Seigneur, vous charger de mon crime. </l>
+	<l id='2035'>L'accablement stupide où mes sens sont forcés </l>
+	<l id='2036'>De la main qui le perd vous éclaircit assez. </l>
+	<l id='2037'>Je l'aimais, et Didas me donnant lieu de croire </l>
+	<l id='2038'>Qu'un choix et bas et lâche avait souillé sa gloire, </l>
+	<l id='2039'>Jalouse autant que fière, aux dépens de mon feu, </l>
+	<l id='2040'>Je l'ai voulu punir d'un trop honteux aveu. </l>
+	<l id='2041'>Sa mort en est l'effet, et quand j'en sens l'atteinte, </l>
+	<l id='2042'>N'attendez point qu'ici je m'arrête à la plainte. </l>
+	<l id='2043'>Je sais ce qu'on doit faire en de pareils malheurs. </l>
+	<l id='2044'>Pour le sang d'un Héros c'est trop peu que des pleurs. </l>
+	<l id='2045'>Sa gloire tant de fois indignement blessée </l>
+	<l id='2046'>Demande à ma vengeance et Didas et Persée. </l>
+	<l id='2047'>La Thrace ne m'est rien ; qu'il périssent tous deux, </l>
+	<l id='2048'>Soit que j'y rentre ou non, j'ai tout ce que je veux. </l>
+	<l id='2049'>Si votre âme à leur perte a peine à se résoudre, </l>
+	<l id='2050'>Les Dieux à ce défaut me prêteront leur foudre. </l>
+	<l id='2051'>J'en vais presser l'éclat, et vous laisse ordonner </l>
+	<l id='2052'>Du Sceptre qu'en naissant ils m'avaient su donner. </l>
+<stage>Elle sort. </stage>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='2053'>Ah, pour une vengeance et si juste et si chère, </l>
+	<l id='2054'>C'est peu du sang du fils, versez celui du père, </l>
+	<l id='2055' part='i'>Il est prêt, et déjà le remords... </l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Philippe, Antigonus, Suite.</head>
+<sp who='ANTIGONUS'><speaker>ANTIGONUS.</speaker>
+	<l id='2055' part='f'>Ah, Seigneur, </l>
+	<l id='2056'>D'un Peuple mutiné redoutez la fureur. </l>
+	<l id='2057'>Il sait la mort du Prince, et tant de violence </l>
+	<l id='2058'>Suit la rage où le porte une aveugle vengeance, </l>
+	<l id='2059'>Qu'ayant trouvé Didas qui rentrait au Palais, </l>
+	<l id='2060'>On l'en a vu sur lui pousser les premiers traits ; </l>
+	<l id='2061'>Mais c'est peu que d'abord il l'ait pris pour victime. </l>
+	<l id='2062'>De Persée à hauts cris il déteste le crime, </l>
+	<l id='2063'>La menace est mêlée à d'insolents discours, </l>
+	<l id='2064'>Et s'il s'osait montrer je craindrais pour ses jours. </l>
+</sp>
+<sp who='PHILIPPE'><speaker>PHILIPPE.</speaker>
+	<l id='2065'>Qu'il périsse, aussi bien de sa jalouse haine </l>
+	<l id='2066'>Il faut que tôt ou tard il ressente la peine. </l>
+	<l id='2067'>C'est elle dont l'ardeur, pour régner sûrement, </l>
+	<l id='2068'>M'en a fait partager l'indigne aveuglement. </l>
+	<l id='2069'>Le Ciel l'a pu souffrir, mais s'il lui rende justice, </l>
+<note type="C">v. 2070 : dans le texte original , il est difficile de distingue "sera" de "fera", nous préférons "sera".</note>
+	<l id='2070'>Ce qui causa son crime en sera le supplice, </l>
+	<l id='2071'>Et ces mêmes Romains qui l'ont tant fait trembler, </l>
+	<l id='2072'>Sous le poids de leurs fers le sauront accabler. </l>
+	<l id='2073'>La honte du triomphe à son orgueil est due. </l>
+	<l id='2074'>Mais à quoi, mes ennuis, arrêtez-vous ma vue ? </l>
+	<l id='2075'>Démétrius attend les honneurs du tombeau, </l>
+	<l id='2076'>Il a cessé de vivre, et je suis son bourreau. </l>
+	<l id='2077'>À ce penser affreux ma constance me laisse. </l>
+	<l id='2078'>Prêtez, Antigonus, quelque aide à ma faiblesse, </l>
+	<l id='2079'>Et qu'on me mène ailleurs, après un tel malheur, </l>
+	<l id='2080'>Sous mes tristes remords expirer de douleur. </l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

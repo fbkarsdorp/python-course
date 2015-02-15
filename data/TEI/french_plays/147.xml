@@ -1,0 +1,2700 @@
+<?xml version="1.0" encoding='iso-8859-1'?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>SERTORIUS, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1662</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70454f</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">SERTORIUS</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1662'>M. DC LXII AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'></docAuthor>
+		<docImprint>
+			<privilege id='1662-05-16'><head>Extrait du privilège du Roi.</head>
+			<p>Par grâce et privilège du Roi, donné à Paris le seizième mai 1662, Signé par le roi en son conseil, GUITONNEAU. Il est permis à Guillaume de Luyne, Libraire juré de la Ville de Paris, de faire imprimer deux pièces de théâtre, de la composition des sieurs CORNEILLE, intitulés SERTORIUS et MAXIMIAN, pendant sept années ; et défenses faites à tous autres de les imprimer, vendre et débiter d'autres éditions que celles de l'exposant, à peine de Trois mille livre d'amende, et de tous dépens, dommages et intérêts, comme il est plus amplement porté par les dites Lettres.</p>
+			<p>Les exmplaires ont été fournis.</p>
+			</privilege>
+			
+			<acheveImprime id='1662-07-08'>Achevé d'imprimer le huitième juillet 1662. À Rouen par L. MAURRY.</acheveImprime>
+			<printer id='COURBE'>Imprimé à Rouen et se vend à Paris, Augustin COURBE, au Palais, en la Galerie des Merciers, à la Palme, Guillaume de LUYNE, Libraire juré, au Palais, en la Galerie des Merciers, à la Justice.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1662-02-25' location='Théâtre du Marais'>Représenté pour la première fois le 25 février 1662 au Théâtre du Marais.</premiere>
+		</performance>
+		<preface><head>AU LECTEUR</head>
+		<p>Ne cherchez point dans cette tragédie les agréments qui sont en possession de faire réussir au théâtre les poèmes de cette nature ; nous n'y trouverez, ni tendresses d'amour, ni emportements de passion, ni descriptions pompeuses, ni narrations pathétiques. Je puis dire toutefois qu'elle n'a point déplu, et que la dignité des noms illustres, la grandeur de leurs intérêts et la nouveauté de quelques caractères ont supplée du manque de ces grâces. La sujet est simple, et du nombre de ces événements connus, où il ne nous est pas permis de rien changer qu'autant que la nécessité indispensable de les réduire dans la règle, nous force d'en référer les temps et les lieux. Comme il ne m'a fourni aucune femmes, j'ai été obligé de recourir à l'invention pour en introduire deux, assez compatibles l'une et l'autre avec les vérités historiques à qui je me suis attaché. L'une a vécu de ce temps là. C'est la première femme de Pompée, qu'il répudia pour entrer dans l'alliance de Sylla, par le mariage d'Amélie fille de sa femme. Ce divorce est constant par le rapport de tous ceux qui ont écrit la vie de Pompée, mais aucun d'eux ne nous apprend ce que devint cette malheureuse, qu'ils appellent tous Antistie, à la réserve d'un espagnol Évêque de Gironne, qui lui donne le nom d'Aristie, que j'ai préféré comme plus doux à l'oreille. Leur silence m'ayant laissé liberté entière de lui faire un refuge, j'ai cru ne lui ne pouvoir choisir un avec plus de vraisemblance, que chez es ennemis de ceux qui l'avaient outragée. Cette retraite en a d'autant plus, qu'elle produit un effet évitable, par les Lettres des principaux de Rome que je lui fit porter à Sertorius, et que Perpenna remit entre les mains de Pompée, qui en usa comme je le marque. L'autre femme est une pure idée de mon esprit mais qui ne laisse pas d'avoir aussi quelque fondement dans l'histoire. Elle nous apprend que les Lusitaniens appelèrent Sertorius d'Afrique, pour être leur chef contre le parti de Sylla ; mais elle ne nous dit point s'ils étaient en République, ou sous une monarchie. Il n' y a donc rien qui répugne à leur donner une reine, et je ne la pouvais faire sortir d'un sang plus considérable, que celui de Viriatus dont je lui fait porter le nom, le plus grand homme qe l'Espagne ait opposé aux Romains, et le dernier qui leur a fait tête dans ces provinces avant Sertorius. Il n'était pas roi en effet, mais il en avait toute l'autorité, et les princes et consuls que Rome envoya pour le combattre, et qu'il défit souvent, l'estimèrent assez pour faire des traités de paix avec lui, comme avec un souverain et juste ennemi. Sa mort arriva soixante et huit ans avant celle que je traite ; de sorte qu'il aurait pu être aïeul ou bisaïeul de cette reine que je fait parler ici.</p>
+		<p>Il fut défait par le consuel Q. Servilius, et non par Brutus, comme je l'ai fait dire à cette princesse, sur la foi de cet évêque espagnol que je viens de citer et qui m'a jeté dans l'erreur après lui. Elle est aisée à corriger par le changement d'une mot dans le vers unique qui en parle, et qu'il faut rétablir ainsi.</p>
+		<p type="v">Et de Servilius l'astre prédominant.</p>
+		<p>Je sais bien que Sylla dont je parle tant dans ce poème, était mort six ans avant Sertorius, mais à le prendre à la rigueur, il est permis de presser les temps pour faire l'unité de jour, et pourvu qu'il n'y ait point d'impossibilité formelle, je puis faire arriver en six jours, voire six heures, ce qui s'est passé en six ans. Cela posé, rien n'empêche que Sylla ne meure avant Sertorius, sans rien détruire de ce que je dis ici, puisqu'il a pu mourir depuis qu'Arcas est parti de Rome pour apporter la nouvelle de la démission de se dictature, ce qu'il fait en même temps que Sertorius est assassiné. Je dis de plus, que bien que nous devions être assez scrupuleux observateurs de l'ordre des temps ; néanmoins pourvu que ceux que nous faisons parler se soient connus, et aient eu ensemble quelques intérêts à démêler, nous ne sommes pas obligés à nous attacher si précisément à la durée de leur vie. Sylla était mort quand Sertorius fut tué, mais il pouvait vivre encore sans miracle, et l'auditeur qui communément n'a qu'une teinture superficielle de l'histoire, s'offense rarement d'une pareille prolongation qui ne sort point de la vraisemblance. Je ne voudrais pas toutefois faire une règle générale de cette licence, sans y mettre quelque distinction. La mort de Sylla n'apporta aucun changement aux affaires de Sertoriusen Espagne , et lui fut de si pue d'importance, qu'il est malaisé en lisant le vie de ce héros chez Plutarque, de remarquer lequel des deux est mort le premier, si l'on n'en est instruit d'ailleurs. Autre chose est de celles qui renversent les Etats, détruisent les partis, et donnent une autre face aux affaires, comme a été celle de Pompée, qui serait révolter tout l'Auditoire contre un auteur, s'il avait l'impudence de la remettre après celle de César. D'ailleurs, il fallait colorer et excuser en quelque sorte la guerre que Pompée et les autres chefs romains continuaient contre Sertorius ; car il est assez malaisé de comprendre pourquoi l'on s'y obstinait, après que la République semblait être rétablie par la démission volontaire et la mort de son tyran. Sans doute que son esprit de souverain qu'il avait faire revivre dans Rome, n'était pas mort avec lui ; et que Pompée et beaucoup d'autres aspirant dans l'âme à prendre sa place, craignaient que Sertorius  ne leur y fut un puissant obstacle, ou par l'amour qu'il avait toujours pour sa patrie, ou pour la grandeur de sa réputation, et le mérite de ses actions qui lui eussent fait donner la préférence, si ce grand ébranlement de la République l'eût mise en état de ne se point passer de maître. Pour ne pas déshonorer Pompée par cette jalousie secrète de son ambition, qui semait dès lors ce qu'on a vu depuis éclater si hautement, et qui peut-être était le véritable motif de cette guerre, je me suis persuadé qu'il était plus à propos de faire vivre Sylla, afin d'en attribuer l'injustice à la violence de sa domination; Cela m'a servi de plus à arrêter l'effet de ce puissant amour que je lui fait conserver pour son Aristie, avec qui il n'eut pu se défendre de renouer, s'il n'eut eu en rien à craindre du côté de Sylla, dont le nom odieux , mais illustre, donne un grand poids ux raisonnements de la Politique, qui fait l'âme de toute cette tragédie.</p>
+		<p>Le même Pompée semble s'écarter un peu de la prudence d'un général d'armée, lorsque sur la foi de Sertorius il vient conférer avec lui dans une ville, dont ce chef de parti contraire est maître absolu ; mais c'est une confiance de généreux à généreux, et de Romain à Romain, qui lui donne quelque droit de ne craindre aucune supercherie de la part d'un si grand homme. Ce n'est pas que je ne veuille bine accorder aux critiques qu'il n'a pas assez pourvu à sa propre sûreté, mais il m'était impossible de garder l'unité de lieu, sans lui faire faire cette échappée, qu'il faut imputer à l'incommodité de la règle, plus qu'à moi qui l'ai bien vue. Si vous ne voulez la pardonner à l'impatience qu'il avait de voir sa femme dont je la fais encore si passionné, et à la peur qu'elle ne prit un autre mari, faute de savoir ses intentions pour elle, vous la pardonnerez au plaisir qu'on a pris à cette conférence, que quelques uns des premiers de la Cour, ont estimé autant qu'une pièce entière. Vous n'en serez pas désavoué par Aristote, qui souffre qui souffre qu'on mette quelquefois des choses sans raison sur le théâtre, quand il y a apparence qu'elles seront bien reçues, et qu'on a lieu d'espérer que les avantages que le poème en tirera pourront mériter cette grâce.</p>
+		</preface>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="SERTORIUS" type="H" statut='général' age='A' stat_amour='néant'>SERTORIUS</role>, général du parti de Marius en Espagne.</castItem>
+		<castItem><role id="PERMENNA" type="H" statut='lieutenant' age='A' stat_amour='néant'>PERMENNA</role>, lieutenant de Sertorius.</castItem>
+		<castItem><role id="AUPIDE" type="H" statut='tribun' age='A' stat_amour='néant'>AUPIDE</role>, tribun de l'armée de Sertorius.</castItem>
+		<castItem><role id="POMPÉE" type="H" statut='général' age='A' stat_amour='néant'>POMPÉE</role>, général du parti de Sylla.</castItem>
+		<castItem><role id="ARISTIE" type="H" statut='aristocrate' age='A' stat_amour='néant'>ARISTIE</role>, femme de Pompée.</castItem>
+		<castItem><role id="VIRIATE" type="H" statut='roi' age='A' stat_amour='néant'>VIRIATE</role>, reine de Lusitanie, à présent Portugal.</castItem>
+		<castItem><role id="THAMIRE" type="H" statut="dame d'honneur" age='A' stat_amour='néant'>THAMIRE</role>, dame d'honneur de Viriate.</castItem>
+		<castItem><role id="CELSUS" type="H" statut='tribun' age='A' stat_amour='néant'>CELSUS</role>, tribun du parti de Pompée.</castItem>
+		<castItem><role id="ARCAS" type="H" statut='affranchi' age='A' stat_amour='néant'>ARCAS</role>, affranchi d'Aristius, frère d'Aristie.</castItem>
+	</castList>
+	<set location='Catalayud' country='Espagne' periode='Ier avant JC' link=''>La scène est à Nertobrige, ville d'Aragon, conquise par Sertorius, à présent Catalayud.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Perpenne, Aufide.</head>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1'>D'où me vient ce désordre, Aufide, et que veut dire</l>
+	<l id='2'>Que mon coeur  sur mes voeux garde si peu d'empire ?</l>
+	<l id='3'>L'horreur que malgré moi me fait la trahison</l>
+	<l id='4'>Contre tout mon espoir révolte ma raison ;</l>
+	<l id='5'>Et de cette grandeur sur le crime fondée,</l>
+	<l id='6'>Dont jusqu'à ce moment m'a trop flatté l'idée,</l>
+	<l id='7'>L'image toute affreuse, au point d'exécuter,</l>
+	<l id='8'>Ne trouve plus en moi de bras à lui prêter.</l>
+	<l id='9'>En vain l'ambition qui presse mon courage,</l>
+	<l id='10'>D'un faux brillant d'honneur pare son noir ouvrage ;</l>
+	<l id='11'>En vain pour me soumettre à ses lâches efforts,</l>
+	<l id='12'>Mon âme a secoué le joug de cent remords :</l>
+	<l id='13'>Cette âme, d'avec soi tout à coup divisée,</l>
+	<l id='14'>Reprend de ces remords la chaîne mal brisée ;</l>
+	<l id='15'>Et de Sertorius le surprenant bonheur</l>
+	<l id='16'>Arrête une main prête à lui percer le coeur.</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='17'>Quel honteux contre-temps de vertu délicate</l>
+	<l id='18'>S'oppose au beau succès de l'espoir qui vous flatte ?</l>
+	<l id='19'>Et depuis quand, seigneur, la soif du premier rang</l>
+	<l id='20'>Craint-elle de répandre un peu de mauvais sang ?</l>
+	<l id='21'>Avez-vous oublié cette grande maxime,</l>
+	<l id='22'>Que la guerre civile est le règne du crime ;</l>
+	<l id='23'>Et qu'aux lieux où le crime a plein droit de régner,</l>
+	<l id='24'>L'innocence timide est seule à dédaigner ?</l>
+	<l id='25'>L'honneur et la vertu sont des noms ridicules :</l>
+	<l id='26'>Marius ni Carbon n'eurent point de scrupules ;</l>
+	<l id='27' part="i">Jamais Sylla, jamais...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='27' part="f">Sylla ni Marius</l>
+	<l id='28'>N'ont jamais épargné le sang de leurs vaincus :</l>
+	<l id='29'>Tour à tour la victoire, autour d'eux en furie,</l>
+	<l id='30'>A poussé leur courroux jusqu'à la barbarie ;</l>
+	<l id='31'>Tour à tour le carnage et les proscriptions</l>
+	<l id='32'>Ont sacrifié Rome à leurs dissensions ;</l>
+<note type="L">Discord : désunion, dispute, querelle. [F]</note>
+	<l id='33'>Mais leurs sanglants discords qui nous donnent des maîtres</l>
+	<l id='34'>Ont fait des meurtriers, et n'ont point fait de traîtres :</l>
+	<l id='35'>Leurs plus vastes fureurs jamais n'ont consenti</l>
+	<l id='36'>Qu'aucun versât le sang de son propre parti ;</l>
+	<l id='37'>Et dans l'un ni dans l'autre aucun n'a pris l'audace</l>
+	<l id='38'>D'assassiner son chef pour monter en sa place.</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='39'>Vous y renoncez donc, et n'êtes plus jaloux</l>
+	<l id='40'>De suivre les drapeaux d'un chef moindre que vous ?</l>
+	<l id='41'>Ah ! S'il faut obéir, ne faisons plus la guerre :</l>
+	<l id='42'>Prenons le même joug qu'a pris toute la terre.</l>
+	<l id='43'>Pourquoi tant de périls ? Pourquoi tant de combats ?</l>
+	<l id='44'>Si nous voulons servir, Sylla nous tend les bras.</l>
+	<l id='45'>C'est mal vivre en Romain que prendre loi d'un homme ;</l>
+	<l id='46'>Mais, tyran pour tyran, il vaut mieux vivre à Rome.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='47'>Vois mieux ce que tu dis quand tu parles ainsi.</l>
+	<l id='48'>Du moins la liberté respire encore ici :</l>
+	<l id='49'>De notre république à Rome anéantie,</l>
+	<l id='50'>On y voit refleurir la plus noble partie ;</l>
+	<l id='51'>Et cet asile ouvert aux illustres proscrits,</l>
+	<l id='52'>Réunit du sénat le précieux débris.</l>
+	<l id='53'>Par lui Sertorius gouverne ces provinces,</l>
+	<l id='54'>Leur impose tribut, fait des lois à leurs princes,</l>
+	<l id='55'>Maintient de nos Romains le reste indépendant ;</l>
+	<l id='56'>Mais comme tout parti demande un commandant,</l>
+	<l id='57'>Ce bonheur imprévu qui partout l'accompagne,</l>
+	<l id='58'>Ce nom qu'il s'est acquis chez les peuples d'Espagne...</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='59'>Ah ! C'est ce nom acquis avec trop de bonheur</l>
+	<l id='60'>Qui rompt votre fortune et vous ravit l'honneur :</l>
+	<l id='61'>Vous n'en sauriez douter, pour peu qu'il vous souvienne</l>
+	<l id='62'>Du jour que votre armée alla joindre la sienne,</l>
+	<l id='63' part="i">Lors...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='63' part="f">N'envenime point le cuisant souvenir</l>
+	<l id='64'>Que le commandement devait m'appartenir.</l>
+	<l id='65'>Je le passais en nombre aussi bien qu'en noblesse ;</l>
+	<l id='66'>Il succombait sans moi sous sa propre faiblesse :</l>
+	<l id='67'>Mais sitôt qu'il parut, je vis en moins de rien</l>
+	<l id='68'>Tout mon camp déserté pour repeupler le sien ;</l>
+	<l id='69'>Je vis par mes soldats mes aigles arrachées</l>
+	<l id='70'>Pour se ranger sous lui voler vers ses tranchées ;</l>
+	<l id='71'>Et pour en colorer l'emportement honteux,</l>
+<note type='L'>Viriathe : Fille du chef lusitanien, avait été successivement, berger, chasseur, chef de brigands. Il mena une révolte contre les Romains de -149 à -141. Il périt égorgé dans sa tente par deux de ses officiers en -141. Viriathe est, après Annibal et Mithridate, le plus redoutable ennemi qu'ait rencontré la République romaine.</note>
+	<l id='72'>Je les suivis de rage, et m'y rangeai comme eux.</l>
+	<l id='73'>L'impérieuse aigreur de l'âpre jalousie</l>
+	<l id='74'>Dont en secret dès lors mon âme fut saisie</l>
+	<l id='75'>Grossit de jour en jour sous une passion</l>
+	<l id='76'>Qui tyrannise encor plus que l'ambition :</l>
+	<l id='77'>J'adore Viriate ; et cette grande reine,</l>
+	<l id='78'>Des Lusitaniens l'illustre souveraine,</l>
+	<l id='79'>Pourrait par son hymen me rendre sur les siens</l>
+	<l id='80'>Ce pouvoir absolu qu'il m'ôte sur les miens.</l>
+	<l id='81'>Mais elle-même, hélas ! De ce grand nom charmée,</l>
+	<l id='82'>S'attache au bruit heureux que fait sa renommée,</l>
+	<l id='83'>Cependant qu'insensible à ce qu'elle a d'appas</l>
+	<l id='84'>Il me dérobe un coeur qu'il ne demande pas.</l>
+	<l id='85'>De son astre opposé telle est la violence,</l>
+	<l id='86'>Qu'il me vole partout même sans qu'il y pense,</l>
+	<l id='87'>Et que toutes les fois qu'il m'enlève mon bien,</l>
+	<l id='88'>Son nom fait tout pour lui sans qu'il en sache rien.</l>
+	<l id='89'>Je sais qu'il peut aimer et nous cacher sa flamme,</l>
+	<l id='90'>Mais je veux sur ce point lui découvrir mon âme ;</l>
+	<l id='91'>Et s'il peut me céder ce trône où je prétends,</l>
+	<l id='92'>J'immolerai ma haine à mes désirs contents ;</l>
+	<l id='93'>Et je n'envierai plus le rang dont il s'empare,</l>
+	<l id='94'>S'il m'en assure autant chez ce peuple barbare,</l>
+	<l id='95'>Qui formé par nos soins, instruit de notre main,</l>
+	<l id='96'>Sous notre discipline est devenu romain.</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='97'>Lorsqu'on fait des projets d'une telle importance,</l>
+	<l id='98'>Les intérêts d'amour entrent-ils en balance ?</l>
+	<l id='99'>Et si ces intérêts vous sont enfin si doux,</l>
+	<l id='100'>Viriate, lui mort, n'est-elle pas à vous ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='101'>Oui ; mais de cette mort la suite m'embarrasse.</l>
+	<l id='102'>Aurai-je sa fortune aussi bien que sa place ?</l>
+	<l id='103'>Ceux dont il a gagné la croyance et l'appui</l>
+	<l id='104'>Prendront-ils même joie à m'obéir qu'à lui ?</l>
+	<l id='105'>Et pour venger sa trame indignement coupée,</l>
+	<l id='106'>N'arboreront-ils point l'étendard de Pompée ?</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='107'>C'est trop craindre, et trop tard : c'est dans votre festin</l>
+	<l id='108'>Que ce soir par votre ordre on tranche son destin.</l>
+	<l id='109'>La trêve a dispersé l'armée à la campagne,</l>
+	<l id='110'>Et vous en commandez ce qui nous accompagne.</l>
+	<l id='111'>L'occasion nous rit dans un si grand dessein ;</l>
+	<l id='112'>Mais tel bras n'est à nous que jusques à demain :</l>
+	<l id='113'>Si vous rompez le coup, prévenez les indices ;</l>
+	<l id='114'>Perdez Sertorius ou perdez vos complices.</l>
+	<l id='115'>Craignez ce qu'il faut craindre : il en est parmi nous</l>
+	<l id='116'>Qui pourraient bien avoir même remords que vous ;</l>
+	<l id='117'>Et si vous différez... Mais le tyran arrive.</l>
+	<l id='118'>Tâchez d'en obtenir l'objet qui vous captive ;</l>
+	<l id='119'>Et je prierai les dieux que dans cet entretien</l>
+	<l id='120'>Vous ayez assez d'heur pour n'en obtenir rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Sertorius, Perpenna.</head>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='121'>Apprenez un dessein qui me vient de surprendre.</l>
+	<l id='122'>Dans deux heures Pompée en ce lieu se doit rendre :</l>
+	<l id='123'>Il veut sur nos débats conférer avec moi,</l>
+	<l id='124'>Et pour toute assurance il ne prend que ma foi.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='125'>La parole suffit entre les grands courages ;</l>
+	<l id='126'>D'un homme tel que vous la foi vaut cent otages :</l>
+	<l id='127'>Je n'en suis point surpris ; mais ce qui me surprend,</l>
+	<l id='128'>C'est de voir que Pompée ait pris le nom de Grand,</l>
+	<l id='129'>Pour faire encore au vôtre entière déférence,</l>
+	<l id='130'>Sans vouloir de lieu neutre à cette conférence.</l>
+	<l id='131'>C'est avoir beaucoup fait que d'avoir jusque-là</l>
+	<l id='132'>Fait descendre l'orgueil des héros de Sylla.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='133'>S'il est plus fort que nous, ce n'est plus en Espagne,</l>
+	<l id='134'>Où nous forçons les siens de quitter la campagne,</l>
+	<l id='135'>Et de se retrancher dans l'empire douteux</l>
+	<l id='136'>Que lui souffre à regret une province ou deux,</l>
+	<l id='137'>Qu'à sa fortune lasse il craint que je n'enlève,</l>
+	<l id='138'>Sitôt que le printemps aura fini la trêve.</l>
+	<l id='139'>C'est l'heureuse union de vos drapeaux aux miens</l>
+	<l id='140'>Qui fait ces beaux succès qu'à toute heure j'obtiens ;</l>
+	<l id='141'>C'est à vous que je dois ce que j'ai de puissance :</l>
+	<l id='142'>Attendez tout aussi de ma reconnaissance.</l>
+	<l id='143'>Je reviens à Pompée, et pense deviner</l>
+	<l id='144'>Quels motifs jusqu'ici peuvent nous l'amener.</l>
+	<l id='145'>Comme il trouve avec nous peu de gloire à prétendre,</l>
+	<l id='146'>Et qu'au lieu d'attaquer il a peine à défendre,</l>
+	<l id='147'>Il voudrait qu'un accord avantageux ou non</l>
+	<l id='148'>L'affranchît d'un emploi qui ternit ce grand nom ;</l>
+	<l id='149'>Et chatouillé d'ailleurs par l'espoir qui le flatte,</l>
+	<l id='150'>De faire avec plus d'heur la guerre à Mithridate,</l>
+	<l id='151'>Il brûle d'être à Rome, afin d'en recevoir</l>
+	<l id='152'>Du maître qu'il s'y donne et l'ordre et le pouvoir.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='153'>J'aurais cru qu'Aristie ici réfugiée,</l>
+	<l id='154'>Que forcé par ce maître il a répudiée,</l>
+	<l id='155'>Par un reste d'amour l'attirât en ces lieux</l>
+	<l id='156'>Sous une autre couleur lui faire ses adieux ;</l>
+	<l id='157'>Car de son cher tyran l'injustice fut telle,</l>
+	<l id='158'>Qu'il ne lui permit pas de prendre congé d'elle.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='159'>Cela peut être encore : ils s'aimaient chèrement ;</l>
+	<l id='160'>Mais il pourrait ici trouver du changement.</l>
+	<l id='161'>L'affront pique à tel point le grand coeur d'Aristie,</l>
+	<l id='162'>Que sa première flamme en haine convertie,</l>
+	<l id='163'>Elle cherche bien moins un asile chez nous</l>
+	<l id='164'>Que la gloire d'y prendre un plus illustre époux.</l>
+	<l id='165'>C'est ainsi qu'elle parle, et m'offre l'assistance</l>
+	<l id='166'>De ce que Rome encore a de gens d'importance,</l>
+	<l id='167'>Dont les uns ses parents, les autres ses amis,</l>
+	<l id='168'>Si je veux l'épouser, ont pour moi tout promis.</l>
+	<l id='169'>Leurs lettres en font foi, qu'elle me vient de rendre.</l>
+	<l id='170'>Voyez avec loisir ce que j'en dois attendre :</l>
+	<l id='171'>je veux bien m'en remettre à votre sentiment.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='172'>Pourriez-vous bien, seigneur, balancer un moment,</l>
+	<l id='173'>À moins d'une secrète et forte antipathie</l>
+	<l id='174'>Qui vous montre un supplice en l'hymen d'Aristie ?</l>
+	<l id='175'>Voyant ce que pour dot Rome lui veut donner,</l>
+	<l id='176'>Vous n'avez aucun lieu de rien examiner.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='177'>Il faut donc, Perpenna, vous faire confidence</l>
+	<l id='178'>Et de ce que je crains, et de ce que je pense.</l>
+	<l id='179'>J'aime ailleurs. à mon âge il sied si mal d'aimer,</l>
+	<l id='180'>Que je le cache même à qui m'a su charmer ;</l>
+	<l id='181'>Mais tel que je puis être, on m'aime, ou pour mieux dire,</l>
+	<l id='182'>La reine Viriate à mon hymen aspire :</l>
+	<l id='183'>Elle veut que ce choix de son ambition</l>
+	<l id='184'>De son peuple avec nous commence l'union,</l>
+	<l id='185'>Et qu'ensuite à l'envi mille autres hyménées</l>
+	<l id='186'>De nos deux nations l'une à l'autre enchaînées</l>
+	<l id='187'>Mêlent si bien le sang et l'intérêt commun,</l>
+	<l id='188'>Qu'ils réduisent bientôt les deux peuples en un.</l>
+	<l id='189'>C'est ce qu'elle prétend pour digne récompense</l>
+	<l id='190'>De nous avoir servis avec cette constance</l>
+	<l id='191'>Qui n'épargne ni biens ni sang de ses sujets</l>
+	<l id='192'>Pour affermir ici nos généreux projets :</l>
+	<l id='193'>Non qu'elle me l'ait dit, ou quelque autre pour elle ;</l>
+	<l id='194'>Mais j'en vois chaque jour quelque marque fidèle ;</l>
+	<l id='195'>Et comme ce dessein n'est plus pour moi douteux,</l>
+	<l id='196'>Je ne puis l'ignorer qu'autant que je le veux.</l>
+	<l id='197'>Je crains donc de l'aigrir si j'épouse Aristie,</l>
+	<l id='198'>Et que de ses sujets la meilleure partie,</l>
+	<l id='199'>Pour venger ce mépris et servir son courroux,</l>
+	<l id='200'>Ne tourne obstinément ses armes contre nous.</l>
+	<l id='201'>Auprès d'un tel malheur, pour nous irréparable,</l>
+	<l id='202'>Ce qu'on promet pour l'autre est peu considérable ;</l>
+	<l id='203'>Et sous un faux espoir de nous mieux établir,</l>
+	<l id='204'>Ce renfort accepté pourrait nous affaiblir.</l>
+	<l id='205'>Voilà ce qui retient mon esprit en balance.</l>
+	<l id='206'>Je n'ai pour Aristie aucune répugnance ;</l>
+	<l id='207'>Et la reine à tel point n'asservit pas mon coeur,</l>
+	<l id='208'>Qu'il ne fasse encor tout pour le commun bonheur.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='209'>Cette crainte, seigneur, dont votre âme est gênée,</l>
+	<l id='210'>Ne doit pas d'un moment retarder l'hyménée.</l>
+	<l id='211'>Viriate, il est vrai, pourra s'en émouvoir ;</l>
+	<l id='212'>Mais que sert la colère où manque le pouvoir ?</l>
+	<l id='213'>Malgré sa jalousie et ses vaines menaces,</l>
+	<l id='214'>N'êtes-vous pas toujours le maître de ses places ?</l>
+	<l id='215'>Les siens, dont vous craignez le vif ressentiment,</l>
+	<l id='216'>Ont-ils dans votre armée aucun commandement ?</l>
+	<l id='217'>Des plus nobles d'entre eux et des plus grands courages</l>
+	<l id='218'>N'avez-vous pas les fils dans Osca pour otages ?</l>
+	<l id='219'>Tous leurs chefs sont romains ; et leurs propres soldats</l>
+	<l id='220'>Dispersés dans nos rangs ont fait tant de combats,</l>
+	<l id='221'>Que la vieille amitié qui les attache aux nôtres</l>
+	<l id='222'>Leur fait aimer nos lois et n'en vouloir point d'autres.</l>
+	<l id='223'>Pourquoi donc tant les craindre, et pourquoi refuser... ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='224'>Vous-même, Perpenna, pourquoi tant déguiser ?</l>
+	<l id='225'>Je vois ce qu'on m'a dit : vous aimez Viriate ;</l>
+	<l id='226'>Et votre amour caché dans vos raisons éclate.</l>
+	<l id='227'>Mais les raisonnements sont ici superflus ;</l>
+	<l id='228'>Dites que vous l'aimez, et je ne l'aime plus.</l>
+	<l id='229'>Parlez : je vous dois tant, que ma reconnaissance</l>
+	<l id='230'>Ne peut être sans honte un moment en balance.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='231'>L'aveu que vous voulez à mon coeur est si doux,</l>
+	<l id='232' part="i">Que j'ose...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='232' part="f">C'est assez : je parlerai pour vous.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='233' part="i">Ah ! Seigneur, c'en est trop ; et...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='233' part="f">Point de repartie :</l>
+	<l id='234'>Tous mes voeux sont déjà du côté d'Aristie ;</l>
+	<l id='235'>Et je l'épouserai, pourvu qu'en même jour</l>
+	<l id='236'>La reine se résolve à payer votre amour ;</l>
+	<l id='237'>Car quoi que vous disiez, je dois craindre sa haine,</l>
+	<l id='238'>Et fuirais à ce prix cette illustre Romaine.</l>
+	<l id='239'>La voici : laissez-moi ménager son esprit ;</l>
+	<l id='240'>Et voyez cependant de quel air on m'écrit.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Sertorius, Aristie.</head>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='241'>Ne vous offensez pas si dans mon infortune</l>
+	<l id='242'>Ma faiblesse me force à vous être importune :</l>
+	<l id='243'>Non pas pour mon hymen : les suites d'un tel choix</l>
+	<l id='244'>Méritent qu'on y pense un peu plus d'une fois ;</l>
+	<l id='245'>Mais vous pouvez, seigneur, joindre à mes espérances</l>
+	<l id='246'>Contre un péril nouveau nouvelles assurances.</l>
+	<l id='247'>J'apprends qu'un infidèle, autrefois mon époux,</l>
+	<l id='248'>Vient jusque dans ces murs conférer avec vous.</l>
+	<l id='249'>L'ordre de son tyran et sa flamme inquiète</l>
+	<l id='250'>Me pourront envier l'honneur de ma retraite :</l>
+	<l id='251'>L'un en prévoit la suite, et l'autre en craint l'éclat ;</l>
+	<l id='252'>Et tous les deux contre elle ont leurs raisons d'état.</l>
+	<l id='253'>Je vous demande donc sûreté tout entière</l>
+	<l id='254'>Contre la violence et contre la prière,</l>
+	<l id='255'>Si par l'une ou par l'autre il veut se ressaisir</l>
+	<l id='256'>De ce qu'il ne peut voir ailleurs sans déplaisir.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='257'>Il en a lieu, madame : un si rare mérite</l>
+	<l id='258'>Semble croître de prix quand par force on le quitte ;</l>
+	<l id='259'>Mais vous avez ici sûreté contre tous,</l>
+	<l id='260'>Pourvu que vous puissiez en trouver contre vous,</l>
+	<l id='261'>Et que contre un ingrat dont l'amour fut si tendre,</l>
+	<l id='262'>Lorsqu'il vous parlera, vous sachiez vous défendre.</l>
+	<l id='263'>On a peine à haïr ce qu'on a bien aimé,</l>
+	<l id='264'>Et le feu mal éteint est bientôt rallumé.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='265'>L'ingrat, par son divorce en faveur d'Émilie,</l>
+	<l id='266'>M'a livrée aux mépris de toute l'Italie.</l>
+	<l id='267'>Vous savez à quel point mon courage est blessé ;</l>
+	<l id='268'>Mais s'il se dédisait d'un outrage forcé,</l>
+	<l id='269'>S'il chassait Émilie et me rendait ma place,</l>
+	<l id='270'>J'aurais peine, seigneur, à lui refuser grâce ;</l>
+	<l id='271'>Et tant que je serai maîtresse de ma foi,</l>
+	<l id='272'>Je me dois toute à lui, s'il revient tout à moi.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='273'>En vain donc je me flatte ; en vain j'ose, madame,</l>
+	<l id='274'>Promettre à mon espoir quelque part en votre âme :</l>
+	<l id='275'>Pompée en est encor l'unique souverain.</l>
+	<l id='276'>Tous vos ressentiments n'offrent que votre main ;</l>
+	<l id='277'>Et quand par ses refus j'aurai droit d'y prétendre,</l>
+	<l id='278'>Le coeur, toujours à lui, ne voudra pas se rendre.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='279'>Qu'importe de mon coeur, si je sais mon devoir,</l>
+	<l id='280'>Et si mon hyménée enfle votre pouvoir ?</l>
+	<l id='281'>Vous ravaleriez-vous jusques à la bassesse</l>
+	<l id='282'>D'exiger de ce coeur des marques de tendresse,</l>
+	<l id='283'>Et de les préférer à ce qu'il fait d'effort</l>
+	<l id='284'>Pour braver mon tyran et relever mon sort ?</l>
+	<l id='285'>Laissons, seigneur, laissons pour les petites âmes</l>
+	<l id='286'>Ce commerce rampant de soupirs et de flammes ;</l>
+	<l id='287'>Et ne nous unissons que pour mieux soutenir</l>
+	<l id='288'>La liberté que Rome est prête à voir finir.</l>
+	<l id='289'>Unissons ma vengeance à votre politique,</l>
+	<l id='290'>Pour sauver des abois toute la république :</l>
+	<l id='291'>L'hymen seul peut unir des intérêts si grands.</l>
+	<l id='292'>Je sais que c'est beaucoup que ce que je prétends ;</l>
+	<l id='293'>Mais dans ce dur exil que mon tyran m'impose,</l>
+	<l id='294'>Le rebut de Pompée est encor quelque chose ;</l>
+	<l id='295'>Et j'ai des sentiments trop nobles ou trop vains</l>
+	<l id='296'>Pour le porter ailleurs qu'au plus grand des Romains.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='297' part="i">Ce nom ne m'est pas dû, je suis...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='297' part="f">Ce que vous faites</l>
+	<l id='298'>Montre à tout l'univers, seigneur, ce que vous êtes ;</l>
+	<l id='299'>Mais quand même ce nom semblerait trop pour vous,</l>
+	<l id='300'>Du moins mon infidèle est d'un rang au-dessous :</l>
+	<l id='301'>Il sert dans son parti, vous commandez au vôtre ;</l>
+	<l id='302'>Vous êtes chef de l'un, et lui sujet dans l'autre ;</l>
+	<l id='303'>Et son divorce enfin, qui m'arrache sa foi,</l>
+	<l id='304'>L'y laisse par Sylla plus opprimé que moi,</l>
+	<l id='305'>Si votre hymen m'élève à la grandeur sublime,</l>
+	<l id='306'>Tandis qu'en l'esclavage un autre hymen l'abîme.</l>
+	<l id='307'>Mais, seigneur, je m'emporte, et l'excès d'un tel heur</l>
+	<l id='308'>Me fait vous en parler avec trop de chaleur.</l>
+	<l id='309'>Tout mon bien est encor dedans l'incertitude :</l>
+	<l id='310'>Je n'en conçois l'espoir qu'avec inquiétude ;</l>
+	<l id='311'>Et je craindrai toujours d'avoir trop prétendu,</l>
+	<l id='312'>Tant que de cet espoir vous m'ayez répondu.</l>
+	<l id='313'>Vous me pouvez d'un mot assurer ou confondre.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='314'>Mais, madame, après tout, que puis-je vous répondre ?</l>
+	<l id='315'>De quoi vous assurer, si vous-même parlez</l>
+	<l id='316'>Sans être sûre encor de ce que vous voulez ?</l>
+	<l id='317'>De votre illustre hymen je sais les avantages ;</l>
+	<l id='318'>J'adore les grands noms que j'en ai pour otages,</l>
+	<l id='319'>Et vois que leur secours, nous rehaussant le bras,</l>
+	<l id='320'>Aurait bientôt jeté la tyrannie à bas ;</l>
+	<l id='321'>Mais cette attente aussi pourrait se voir trompée</l>
+	<l id='322'>Dans l'offre d'une main qui se garde à Pompée,</l>
+	<l id='323'>Et qui n'étale ici la grandeur d'un tel bien</l>
+	<l id='324'>Que pour me tout promettre et ne me donner rien.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='325'>Si vous vouliez ma main par choix de ma personne,</l>
+	<l id='326'>Je vous dirais, seigneur : " prenez, je vous la donne ;</l>
+	<l id='327'>Quoi que veuille Pompée, il le voudra trop tard. "</l>
+	<l id='328'>Mais comme en cet hymen l'amour n'a point de part,</l>
+	<l id='329'>Qu'il n'est qu'un pur effet de noble politique,</l>
+	<l id='330'>Souffrez que je vous die, afin que je m'explique,</l>
+	<l id='331'>Que quand j'aurais pour dot un million de bras,</l>
+	<l id='332'>Je vous donne encor plus en ne l'achevant pas.</l>
+	<l id='333'>Si je réduis Pompée à chasser Émilie,</l>
+	<l id='334'>Peut-il, Sylla régnant, regarder l'Italie ?</l>
+	<l id='335'>Ira-t-il se livrer à son juste courroux ?</l>
+	<l id='336'>Non, non : si je le gagne, il faut qu'il vienne à vous.</l>
+	<l id='337'>Ainsi par mon hymen vous avez assurance</l>
+	<l id='338'>Que mille vrais Romains prendront votre défense ;</l>
+	<l id='339'>Mais si j'en romps l'accord pour lui rendre mes voeux,</l>
+	<l id='340'>Vous aurez ces Romains et Pompée avec eux ;</l>
+	<l id='341'>Vous aurez ses amis par ce nouveau divorce ;</l>
+	<l id='342'>Vous aurez du tyran la principale force,</l>
+	<l id='343'>Son armée, ou du moins ses plus braves soldats,</l>
+	<l id='344'>Qui de leur général voudront suivre les pas ;</l>
+	<l id='345'>Vous marcherez vers Rome à communes enseignes.</l>
+	<l id='346'>Il sera temps alors, Sylla, que tu me craignes.</l>
+	<l id='347'>Tremble, et crois voir bientôt trébucher ta fierté,</l>
+	<l id='348'>Si je puis t'enlever ce que tu m'as ôté.</l>
+	<l id='349'>Pour faire de Pompée un gendre de ta femme,</l>
+	<l id='350'>Tu l'as fait un parjure, un méchant, un infâme ;</l>
+	<l id='351'>Mais s'il me laisse encor quelques droits sur son coeur,</l>
+	<l id='352'>Il reprendra sa foi, sa vertu, son honneur :</l>
+	<l id='353'>Pour rentrer dans mes fers il brisera tes chaînes,</l>
+	<l id='354'>Et nous t'accablerons sous nos communes haines.</l>
+	<l id='355'>J'abuse trop, seigneur, d'un précieux loisir ;</l>
+	<l id='356'>Voilà vos intérêts : c'est à vous de choisir.</l>
+	<l id='357'>Si votre amour trop prompt veut borner sa conquête,</l>
+	<l id='358'>Je vous le dis encor, ma main est toute prête.</l>
+	<l id='359'>Je vous laisse y penser : surtout souvenez-vous</l>
+	<l id='360'>Que ma gloire en ces lieux me demande un époux ;</l>
+	<l id='361'>Qu'elle ne peut souffrir que ma fuite m'y range</l>
+	<l id='362'>En captive de guerre, au péril d'un échange,</l>
+	<l id='363'>Qu'elle veut un grand homme à recevoir ma foi,</l>
+	<l id='364'>Qu'après vous et Pompée il n'en est point pour moi,</l>
+	<l id='365' part="i">Et que...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='365' part="f">Vous le verrez, et saurez sa pensée.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='366'>Adieu, seigneur : j'y suis la plus intéressée,</l>
+	<l id='367'>Et j'y vais préparer mon reste de pouvoir.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='368'>Moi, je vais donner ordre à le bien recevoir.</l>
+	<l id='369'>Dieux, souffrez qu'à mon tour avec vous je m'explique.</l>
+	<l id='370'>Que c'est un sort cruel d'aimer par politique !</l>
+	<l id='371'>Et que ses intérêts sont d'étranges malheurs,</l>
+	<l id='372'>S'ils font donner la main quand le coeur est ailleurs !</l>
+</sp>
+</div2></div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Viriate, Thamire.</head>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='373'>Thamire, il faut parler, l'occasion nous presse :</l>
+	<l id='374'>Rome jusqu'en ces murs m'envoie une maîtresse ;</l>
+	<l id='375'>Et l'exil d'Aristie, enveloppé d'ennuis,</l>
+	<l id='376'>Est prêt à l'emporter sur tout ce que je suis.</l>
+	<l id='377'>En vain de mes regards l'ingénieux langage</l>
+	<l id='378'>Pour découvrir mon coeur a tout mis en usage ;</l>
+	<l id='379'>En vain par le mépris des voeux de tous nos rois</l>
+	<l id='380'>J'ai cru faire éclater l'orgueil d'un autre choix :</l>
+	<l id='381'>Le seul pour qui je tâche à le rendre visible,</l>
+	<l id='382'>Ou n'ose en rien connaître, ou demeure insensible,</l>
+	<l id='383'>Et laisse à ma pudeur des sentiments confus,</l>
+	<l id='384'>Que l'amour-propre obstine à douter du refus.</l>
+	<l id='385'>Épargne-m'en la honte, et prends soin de lui dire,</l>
+	<l id='386'>À ce héros si cher... Tu le connais, Thamire ;</l>
+	<l id='387'>Car d'où pourrait mon trône attendre un ferme appui ?</l>
+	<l id='388'>Et pour qui mépriser tous nos rois, que pour lui ?</l>
+	<l id='389'>Sertorius, lui seul digne de Viriate,</l>
+	<l id='390'>Mérite que pour lui tout mon amour éclate.</l>
+	<l id='391'>Fais-lui, fais-lui savoir le glorieux dessein</l>
+	<l id='392'>De m'affermir au trône en lui donnant la main :</l>
+	<l id='393'>Dis-lui... Mais j'aurais tort d'instruire ton adresse,</l>
+	<l id='394'>Moi qui connais ton zèle à servir ta princesse.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='395'>Madame, en ce héros tout est illustre et grand ;</l>
+	<l id='396'>Mais à parler sans fard, votre amour me surprend.</l>
+	<l id='397'>Il est assez nouveau qu'un homme de son âge</l>
+	<l id='398'>Ait des charmes si forts pour un jeune courage,</l>
+	<l id='399'>Et que d'un front ridé les replis jaunissants</l>
+	<l id='400'>Trouvent l'heureux secret de captiver les sens.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='401'>Ce ne sont pas les sens que mon amour consulte :</l>
+	<l id='402'>Il hait des passions l'impétueux tumulte ;</l>
+	<l id='403'>Et son feu, que j'attache aux soins de ma grandeur,</l>
+	<l id='404'>Dédaigne tout mélange avec leur folle ardeur.</l>
+	<l id='405'>J'aime en Sertorius ce grand art de la guerre</l>
+	<l id='406'>Qui soutient un banni contre toute la terre ;</l>
+	<l id='407'>J'aime en lui ces cheveux tous couverts de lauriers,</l>
+	<l id='408'>Ce front qui fait trembler les plus braves guerriers,</l>
+	<l id='409'>Ce bras qui semble avoir la victoire en partage.</l>
+	<l id='410'>L'amour de la vertu n'a jamais d'yeux pour l'âge :</l>
+	<l id='411'>Le mérite a toujours des charmes éclatants ;</l>
+	<l id='412'>Et quiconque peut tout est aimable en tout temps.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='413'>Mais, madame, nos rois, dont l'amour vous irrite,</l>
+	<l id='414'>N'ont-ils tous ni vertu, ni pouvoir, ni mérite ?</l>
+	<l id='415'>Et dans votre parti se peut-il qu'aucun d'eux</l>
+	<l id='416'>N'ait signalé son nom par des exploits fameux ?</l>
+<note type='L'>Celtibères : Peuple de l'Hispanie (Tarraconnaise), à l'Est des Carpetani, à l'Ouest des Edetani, occupait les sources de l'Anas (Guadiana) et du Tage et tous les lieux environnants. [B]</note>
+<note type='L'>Tudetani : Peuple de la Bétique, sur les rives du Bétis, dans la moyenne partie de son cours, à l'Ouest des Batuli, avait pour ville principale Gades. Le Bétis traversait leur pays, qui forme la partie Sud-Ouest de l'Andalousie. [B]</note>
+	<l id='417'>Celui des Turdétans, celui des Celtibères,</l>
+	<l id='418'>Soutiendraient-ils si mal le sceptre de vos pères ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='419'>Contre des rois comme eux j'aimerais leur soutien ;</l>
+	<l id='420'>Mais contre des Romains tout leur pouvoir n'est rien.</l>
+	<l id='421'>Rome seule aujourd'hui peut résister à Rome :</l>
+	<l id='422'>Il faut pour la braver qu'elle nous prête un homme,</l>
+	<l id='423'>Et que son propre sang en faveur de ces lieux</l>
+	<l id='424'>Balance les destins et partage les dieux.</l>
+	<l id='425'>Depuis qu'elle a daigné protéger nos provinces,</l>
+	<l id='426'>Et de son amitié faire honneur à leurs princes,</l>
+	<l id='427'>Sous un si haut appui nos rois humiliés</l>
+	<l id='428'>N'ont été que sujets sous le nom d'alliés ;</l>
+	<l id='429'>Et ce qu'ils ont osé contre leur servitude</l>
+	<l id='430'>N'en a rendu le joug que plus fort et plus rude.</l>
+	<l id='431'>Qu'a fait Mandonius, qu'a fait Indibilis,</l>
+	<l id='432'>Qu'y plonger plus avant leurs trônes as,</l>
+	<l id='433'>Et voir leur fier amas de puissance et de gloire</l>
+	<l id='434'>Brisé contre l'écueil d'une seule victoire ?</l>
+	<l id='435'>Le grand Viriatus, de qui je tiens le jour,</l>
+	<l id='436'>D'un sort plus favorable eut un pareil retour.</l>
+	<l id='437'>Il défit trois prêteurs, il gagna dix batailles,</l>
+	<l id='438'>Il repoussa l'assaut de plus de cent murailles,</l>
+	<l id='439'>Et de Servilius l'astre prédominant</l>
+	<l id='440'>Dissipa tout d'un coup ce bonheur étonnant.</l>
+	<l id='441'>Ce grand roi fut défait, il en perdit la vie,</l>
+	<l id='442'>Et laissait sa couronne à jamais asservie,</l>
+	<l id='443'>Si pour briser les fers de son peuple captif,</l>
+	<l id='444'>Rome n'eût envoyé ce noble fugitif.</l>
+	<l id='445'>Depuis que son courage à nos destins préside,</l>
+	<l id='446'>Un bonheur si constant de nos armes décide,</l>
+	<l id='447'>Que deux lustres de guerre assurent nos climats</l>
+	<l id='448'>Contre ces souverains de tant de potentats,</l>
+	<l id='449'>Et leur laissent à peine, au bout de dix années,</l>
+	<l id='450'>Pour se couvrir de nous, l'ombre des Pyrénées.</l>
+	<l id='451'>Nos rois, sans ce héros, l'un de l'autre jaloux,</l>
+	<l id='452'>Du plus heureux sans cesse auraient rompu les coups ;</l>
+	<l id='453'>Jamais ils n'auraient pu choisir entre eux un maître.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='454'>Mais consentiront-ils qu'un Romain puisse l'être ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='455'>Il n'en prend pas le titre, et les traite d'égal ;</l>
+	<l id='456'>Mais, Thamire, après tout, il est leur général :</l>
+	<l id='457'>Ils combattent sous lui, sous son ordre ils s'unissent ;</l>
+	<l id='458'>Et tous ces rois de nom en effet obéissent,</l>
+	<l id='459'>Tandis que de leur rang l'inutile fierté</l>
+	<l id='460'>S'applaudit d'une vaine et fausse égalité.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='461'>Je n'ose vous rien dire après cet avantage,</l>
+	<l id='462'>Et voudrais comme vous faire grâce à son âge ;</l>
+	<l id='463'>Mais enfin ce héros, sujet au cours des ans,</l>
+	<l id='464'>A trop longtemps vaincu pour vaincre encor longtemps,</l>
+	<l id='465' part="i">Et sa mort...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='465' part="f">Jouissons, en dépit de l'envie,</l>
+	<l id='466'>Des restes glorieux de son illustre vie :</l>
+	<l id='467'>Sa mort me laissera pour ma protection</l>
+	<l id='468'>La splendeur de son ombre et l'éclat de son nom.</l>
+	<l id='469'>Sur ces deux grands appuis ma couronne affermie</l>
+	<l id='470'>Ne redoutera point de puissance ennemie :</l>
+	<l id='471'>Ils feront plus pour moi que ne feraient cent rois.</l>
+	<l id='472'>Mais nous en parlerons encor quelque autre fois :</l>
+	<l id='473' part="i">Je l'aperçois qui vient.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Sertorius, Viriate, Thamire.</head>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='473' part="f">Que direz-vous, madame,</l>
+	<l id='474'>Du dessein téméraire où s'échappe mon âme ?</l>
+	<l id='475'>N'est-ce point oublier ce qu'on vous doit d'honneur,</l>
+	<l id='476'>Que demander à voir le fond de votre coeur ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='477'>Il est si peu fermé, que chacun y peut lire,</l>
+	<l id='478'>Seigneur, peut-être plus que je ne puis vous dire :</l>
+	<l id='479'>Pour voir ce qui s'y passe, il ne faut que des yeux.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='480'>J'ai besoin toutefois qu'il s'explique un peu mieux.</l>
+	<l id='481'>Tous vos rois à l'envi briguent votre hyménée,</l>
+	<l id='482'>Et comme vos bontés font notre destinée,</l>
+	<l id='483'>Par ces mêmes bontés j'ose vous conjurer,</l>
+	<l id='484'>En faisant ce grand choix, de nous considérer.</l>
+	<l id='485'>Si vous prenez un prince inconstant, infidèle,</l>
+	<l id='486'>Ou qui pour le parti n'ait pas assez de zèle,</l>
+	<l id='487'>Jugez en quel état nous nous verrons réduits,</l>
+	<l id='488'>Si je pourrai longtemps encor ce que je puis,</l>
+	<l id='489' part="i">Si mon bras...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='489' part="f">Vous formez des craintes que j'admire.</l>
+	<l id='490'>J'ai mis tous mes états si bien sous votre empire,</l>
+	<l id='491'>Que quand il me plaira faire choix d'un époux,</l>
+	<l id='492'>Quelque projet qu'il fasse, il dépendra de vous.</l>
+	<l id='493'>Mais pour vous mieux ôter cette frivole crainte,</l>
+	<l id='494'>Choisissez-le vous-même, et parlez-moi sans feinte :</l>
+	<l id='495'>Pour qui de tous ces rois êtes-vous sans soupçon ?</l>
+	<l id='496'>À qui d'eux pouvez-vous confier ce grand nom ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='497'>Je voudrais faire un choix qui pût aussi vous plaire ;</l>
+	<l id='498'>Mais à ce froid accueil que je vous vois leur faire,</l>
+	<l id='499'>Il semble que pour tous sans aucun intérêt...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='500'>C'est peut-être, seigneur, qu'aucun d'eux ne me plaît,</l>
+	<l id='501'>Et que de leur haut rang la pompe la plus vaine</l>
+	<l id='502'>S'efface au seul aspect de la grandeur romaine.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='503'>Si donc je vous offrais pour époux un Romain... ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='504'>Pourrais-je refuser un don de votre main ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='505'>J'ose après cet aveu vous faire offre d'un homme</l>
+	<l id='506'>Digne d'être avoué de l'ancienne Rome.</l>
+	<l id='507'>Il en a la naissance, il en a le grand coeur,</l>
+	<l id='508'>Il est couvert de gloire, il est plein de valeur ;</l>
+	<l id='509'>De toute votre Espagne il a gagné l'estime,</l>
+	<l id='510'>Libéral, intrépide, affable, magnanime,</l>
+	<l id='511'>Enfin c'est Perpenna sur qui vous emportez...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='512'>J'attendais votre nom après ces qualités :</l>
+	<l id='513'>Les éloges brillants que vous daigniez y joindre</l>
+	<l id='514'>Ne me permettaient pas d'espérer rien de moindre ;</l>
+	<l id='515'>Mais certes le détour est un peu surprenant.</l>
+	<l id='516'>Vous donnez une reine à vôtre lieutenant !</l>
+	<l id='517'>Si vos Romains ainsi choisissent des maîtresses,</l>
+	<l id='518'>À vos derniers tribuns il faudra des princesses.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='519' part="i">Madame...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='519' part="f">Parlons net sur ce choix d'un époux.</l>
+	<l id='520'>Êtes-vous trop pour moi ? Suis-je trop peu pour vous ?</l>
+	<l id='521'>C'est m'offrir, et ce mot peut blesser les oreilles ;</l>
+	<l id='522'>Mais un pareil amour sied bien à mes pareilles ;</l>
+	<l id='523'>Et je veux bien, seigneur, qu'on sache désormais</l>
+	<l id='524'>Que j'ai d'assez bons yeux pour voir ce que je fais.</l>
+	<l id='525'>Je le dis donc tout haut, afin que l'on m'entende :</l>
+	<l id='526'>Je veux bien un Romain, mais je veux qu'il commande ;</l>
+	<l id='527'>Et ne trouverais pas vos rois à dédaigner,</l>
+	<l id='528'>N'était qu'ils savent mieux obéir que régner.</l>
+	<l id='529'>Mais si de leur puissance ils vous laissent l'arbitre,</l>
+	<l id='530'>Leur faiblesse du moins en conserve le titre :</l>
+	<l id='531'>Ainsi ce noble orgueil qui vous préfère à tous</l>
+	<l id='532'>En préfère le moindre à tout autre qu'à vous ;</l>
+	<l id='533'>Car enfin, pour remplir l'honneur de ma naissance,</l>
+	<l id='534'>Il me faudrait un roi de titre et de puissance ;</l>
+	<l id='535'>Mais comme il n'en est plus, je pense m'en devoir</l>
+	<l id='536'>Ou le pouvoir sans nom, ou le nom sans pouvoir.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='537'>J'adore ce grand coeur qui rend ce qu'il doit rendre</l>
+	<l id='538'>Aux illustres aïeux dont on vous voit descendre.</l>
+	<l id='539'>À de moindres pensers son orgueil abaissé</l>
+	<l id='540'>Ne soutiendrait pas bien ce qu'ils vous ont laissé.</l>
+	<l id='541'>Mais puisque pour remplir la dignité royale</l>
+	<l id='542'>Votre haute naissance en demande une égale,</l>
+	<l id='543'>Perpenna parmi nous est le seul dont le sang</l>
+	<l id='544'>Ne mêlerait point d'ombre à la splendeur du rang :</l>
+	<l id='545'>Il descend de nos rois et de ceux d'Étrurie.</l>
+	<l id='546'>Pour moi, qu'un sang moins noble a transmis à la vie,</l>
+	<l id='547'>Je n'ose m'éblouir d'un peu de nom fameux</l>
+	<l id='548'>Jusqu'à déshonorer le trône par mes voeux.</l>
+	<l id='549'>Cessez de m'estimer jusqu'à lui faire injure ;</l>
+	<l id='550'>Je ne veux que le nom de votre créature :</l>
+	<l id='551'>Un si glorieux titre a de quoi me ravir ;</l>
+	<l id='552'>Il m'a fait triompher en voulant vous servir ;</l>
+	<l id='553'>Et malgré tout le peu que le ciel m'a fait naître...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='554'>Si vous prenez ce titre, agissez moins en maître,</l>
+	<l id='555'>Ou m'apprenez du moins, seigneur, par quelle loi</l>
+	<l id='556'>Vous n'osez m'accepter, et disposez de moi.</l>
+	<l id='557'>Accordez le respect que mon trône vous donne</l>
+	<l id='558'>Avec cet attentat sur ma propre personne.</l>
+	<l id='559'>Voir toute mon estime, et n'en pas mieux user,</l>
+	<l id='560'>C'en est un qu'aucun art ne saurait déguiser.</l>
+	<l id='561'>Ne m'honorez donc plus jusqu'à me faire injure :</l>
+	<l id='562'>Puisque vous le voulez, soyez ma créature ;</l>
+	<l id='563'>Et me laissant en reine ordonner de vos voeux,</l>
+	<l id='564'>Portez-les jusqu'à moi parce que je le veux.</l>
+	<l id='565'>Pour votre Perpenna, que sa haute naissance</l>
+	<l id='566'>N'affranchit point encor de votre obéissance,</l>
+	<l id='567'>Fût-il du sang des dieux aussi bien que des rois,</l>
+	<l id='568'>Ne lui promettez plus la gloire de mon choix.</l>
+	<l id='569'>Rome n'attache point le grade à la noblesse.</l>
+	<l id='570'>Votre grand Marius naquit dans la bassesse ;</l>
+	<l id='571'>Et c'est pourtant le seul que le peuple romain</l>
+	<l id='572'>Ait jusques à sept fois choisi pour souverain.</l>
+	<l id='573'>Ainsi pour estimer chacun à sa manière,</l>
+	<l id='574'>Au sang d'un Espagnol je ferais grâce entière ;</l>
+	<l id='575'>Mais parmi vos Romains je prends peu garde au sang,</l>
+	<l id='576'>Quand j'y vois la vertu prendre le plus haut rang.</l>
+	<l id='577'>Vous, si vous haïssez comme eux le nom de reine,</l>
+	<l id='578'>Regardez-moi, seigneur, comme dame romaine :</l>
+	<l id='579'>Le droit de bourgeoisie à nos peuples donné</l>
+	<l id='580'>Ne perd rien de son prix sur un front couronné.</l>
+	<l id='581'>Sous ce titre adoptif, étant ce que vous êtes,</l>
+	<l id='582'>Je pense bien valoir une de mes sujettes ;</l>
+	<l id='583'>Et si quelque Romaine a causé vos refus,</l>
+	<l id='584'>Je suis tout ce qu'elle est, et reine encor de plus.</l>
+	<l id='585'>Peut-être la pitié d'une illustre misère...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='586'>Je vous entends, madame, et pour ne vous rien taire,</l>
+	<l id='587' part="i">J'avouerai qu'Aristie...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='587' part="f">Elle nous a tout dit :</l>
+	<l id='588'>Je sais ce qu'elle espère et ce qu'on vous écrit.</l>
+	<l id='589'>Sans y perdre de temps, ouvrez votre pensée.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='590'>Au seul bien de la cause elle est intéressée ;</l>
+	<l id='591'>Mais puisque pour ôter l'Espagne à nos tyrans,</l>
+	<l id='592'>Nous prenons, vous et moi, des chemins différents,</l>
+	<l id='593'>De grâce, examinez le commun avantage,</l>
+	<l id='594'>Et jugez ce que doit un généreux courage.</l>
+	<l id='595'>Je trahirais, madame, et vous et vos états,</l>
+	<l id='596'>De voir un tel secours, et ne l'accepter pas ;</l>
+	<l id='597'>Mais ce même secours deviendrait notre perte</l>
+	<l id='598'>S'il nous ôtait la main que vous m'avez offerte,</l>
+	<l id='599'>Et qu'un destin jaloux de nos communs desseins</l>
+	<l id='600'>Jetât ce grand dépôt en de mauvaises mains.</l>
+	<l id='601'>Je tiens Sylla perdu, si vous laissez unie</l>
+	<l id='602'>À ce puissant renfort votre Lusitanie.</l>
+	<l id='603'>Mais vous pouvez enfin dépendre d'un époux,</l>
+	<l id='604'>Et le seul Perpenna peut m'assurer de vous.</l>
+	<l id='605'>Voyez ce qu'il a fait : je lui dois tant, madame,</l>
+	<l id='606'>Qu'une juste prière en faveur de sa flamme...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='607'>Si vous lui devez tant, ne me devez-vous rien ?</l>
+	<l id='608'>Et lui faut-il payer vos dettes de mon bien ?</l>
+	<l id='609'>Après que ma couronne a garanti vos têtes,</l>
+	<l id='610'>Ne mérité-je point de part en vos conquêtes ?</l>
+	<l id='611'>Ne vous ai-je servi que pour servir toujours,</l>
+	<l id='612'>Et m'assurer des fers par mon propre secours ?</l>
+	<l id='613'>Ne vous y trompez pas : si Perpenna m'épouse,</l>
+	<l id='614'>Du pouvoir souverain je deviendrai jalouse,</l>
+	<l id='615'>Et le rendrai moi-même assez entreprenant</l>
+	<l id='616'>Pour ne vous pas laisser un roi pour lieutenant.</l>
+	<l id='617'>Je vous avouerai plus : à qui que je me donne,</l>
+	<l id='618'>Je voudrai hautement soutenir ma couronne ;</l>
+	<l id='619'>Et c'est ce qui me force à vous considérer,</l>
+	<l id='620'>De peur de perdre tout, s'il nous faut séparer.</l>
+	<l id='621'>Je ne vois que vous seul qui des mers aux montagnes</l>
+	<l id='622'>Sous un même étendard puisse unir nos Espagnes ;</l>
+	<l id='623'>Mais ce que je propose en est le seul moyen ;</l>
+	<l id='624'>Et quoi qu'ait fait pour vous ce cher concitoyen,</l>
+	<l id='625'>S'il vous a secouru contre la tyrannie,</l>
+	<l id='626'>Il en est bien payé d'avoir sauvé sa vie.</l>
+	<l id='627'>Les malheurs du parti l'accablaient à tel point,</l>
+	<l id='628'>Qu'il se voyait perdu, s'il ne vous eût pas joint ;</l>
+	<l id='629'>Et même, si j'en veux croire la renommée,</l>
+	<l id='630'>Ses troupes, malgré lui, grossirent votre armée.</l>
+	<l id='631'>Rome offre un grand secours, du moins on vous l'écrit ;</l>
+	<l id='632'>Mais s'armât-elle toute en faveur d'un proscrit,</l>
+	<l id='633'>Quand nous sommes aux bords d'une pleine victoire,</l>
+	<l id='634'>Quel besoin avons-nous d'en partager la gloire ?</l>
+	<l id='635'>Encore une campagne, et nos seuls escadrons</l>
+	<l id='636'>Aux aigles de Sylla font repasser les monts.</l>
+	<l id='637'>Et ces derniers venus auront droit de nous dire</l>
+	<l id='638'>Qu'ils auront en ces lieux établi notre empire !</l>
+	<l id='639'>Soyons d'un tel honneur l'un et l'autre jaloux ;</l>
+	<l id='640'>Et quand nous pouvons tout, ne devons rien qu'à nous...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='641'>L'espoir le mieux fondé n'a jamais trop de forces ;</l>
+	<l id='642'>Le plus heureux destin surprend par les divorces :</l>
+	<l id='643'>Du trop de confiance il aime à se venger ;</l>
+	<l id='644'>Et dans un grand dessein rien n'est à négliger.</l>
+	<l id='645'>Devons-nous exposer à tant d'incertitude</l>
+	<l id='646'>L'esclavage de Rome et notre servitude,</l>
+	<l id='647'>De peur de partager avec d'autres Romains</l>
+	<l id='648'>Un honneur où le ciel veut peut-être leurs mains ?</l>
+	<l id='649'>Notre gloire, il est vrai, deviendra sans seconde,</l>
+	<l id='650'>Si nous faisons sans eux la liberté du monde ;</l>
+	<l id='651'>Mais si quelque malheur suit tant d'heureux combats,</l>
+	<l id='652'>Quels reproches cruels ne nous ferons-nous pas !</l>
+	<l id='653'>D'ailleurs, considérez que Perpenna vous aime,</l>
+	<l id='654'>Qu'il est ou qu'il se croit digne du diadème,</l>
+	<l id='655'>Qu'il peut ici beaucoup, qu'il s'est vu de tout temps</l>
+	<l id='656'>Qu'en gouvernant le mieux on fait des mécontents,</l>
+	<l id='657'>Que piqué du mépris, il osera peut-être...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='658'>Tranchez le mot, seigneur : je vous ai fait mon maître,</l>
+	<l id='659'>Et je dois obéir malgré mon sentiment ;</l>
+	<l id='660'>C'est à quoi se réduit tout ce raisonnement.</l>
+	<l id='661'>Faites, faites entrer ce héros d'importance,</l>
+	<l id='662'>Que je fasse un essai de mon obéissance ;</l>
+	<l id='663'>Et si vous le craignez, craignez autant du moins</l>
+	<l id='664'>Un long et vain regret d'avoir prêté vos soins.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='665' part="i">Madame, croiriez-vous...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='665' part="f">Ce mot vous doit suffire.</l>
+	<l id='666'>J'entends ce qu'on me dit, et ce qu'on me veut dire.</l>
+	<l id='667'>Allez, faites-lui place, et ne présumez pas...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='668'>Je parle pour un autre, et toutefois, hélas !</l>
+	<l id='669' part="i">Si vous saviez...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='669' part="f">Seigneur, que faut-il que je sache ?</l>
+	<l id='670'>Et quel est le secret que ce soupir me cache ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='671' part="i">Ce soupir redoublé...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='671' part="f">N'achevez point ; allez :</l>
+	<l id='672'>je vous obéirai plus que vous ne voulez.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Viriate, Thamire.</head>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='673'>Sa dureté m'étonne, et je ne puis, madame...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='674'>L'apparence t'abuse : il m'aime au fond de l'âme.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='675'>Quoi ? Quand pour un rival il s'obstine au refus...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='676'>Il veut que je l'amuse, et ne veut rien de plus.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='677'>Vous avez des clartés que mon insuffisance...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='678'>Parlons à ce rival : le voilà qui s'avance.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Viriate, Perpenna, Aufide, Thamire.</head>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='679'>Vous m'aimez, Perpenna ; Sertorius le dit :</l>
+	<l id='680'>Je crois sur sa parole, et lui dois tout crédit.</l>
+	<l id='681'>Je sais donc votre amour ; mais tirez-moi de peine :</l>
+	<l id='682'>Par où prétendez-vous mériter une reine ?</l>
+	<l id='683'>À quel titre lui plaire, et par quel charme un jour</l>
+	<l id='684'>Obliger sa couronne à payer votre amour ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='685'>Par de sincères voeux, par d'assidus services,</l>
+	<l id='686'>Par de profonds respects, par d'humbles sacrifices ;</l>
+	<l id='687'>Et si quelques effets peuvent justifier...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='688'>Eh bien ! Qu'êtes-vous prêt de lui sacrifier ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='689'>Tous mes soins, tout mon sang, mon courage, ma vie.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='690'>Pourriez-vous la servir dans une jalousie ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='691' part="i">Ah ! Madame...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='691' part="f">À ce mot en vain le coeur vous bat :</l>
+	<l id='692'>Elle n'est pas d'amour, elle n'est que d'état.</l>
+	<l id='693'>J'ai de l'ambition, et mon orgueil de reine</l>
+	<l id='694'>Ne peut voir sans chagrin une autre souveraine,</l>
+	<l id='695'>Qui sur mon propre trône à mes yeux s'élevant,</l>
+	<l id='696'>Jusque dans mes états prenne le pas devant.</l>
+	<l id='697'>Sertorius y règne, et dans tout notre empire</l>
+	<l id='698'>Il dispense des lois où j'ai voulu souscrire :</l>
+	<l id='699'>Je ne m'en repens point, il en a bien usé ;</l>
+	<l id='700'>Je rends grâces au ciel qui l'a favorisé.</l>
+	<l id='701'>Mais pour vous dire enfin de quoi je suis jalouse,</l>
+	<l id='702'>Quel rang puis-je garder auprès de son épouse ?</l>
+	<l id='703'>Aristie y prétend, et l'offre qu'elle fait,</l>
+	<l id='704'>Ou que l'on fait pour elle, en assure l'effet.</l>
+	<l id='705'>Délivrez nos climats de cette vagabonde,</l>
+	<l id='706'>Qui vient par son exil troubler un autre monde ;</l>
+	<l id='707'>Et forcez-la sans bruit d'honorer d'autres lieux</l>
+	<l id='708'>De cet illustre objet qui me blesse les yeux.</l>
+	<l id='709'>Assez d'autres états lui prêteront asile.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='710'>Quoi que vous m'ordonniez, tout me sera facile ;</l>
+	<l id='711'>Mais quand Sertorius ne l'épousera pas,</l>
+	<l id='712'>Un autre hymen vous met dans le même embarras,</l>
+	<l id='713'>Et qu'importe, après tout, d'une autre ou d'Aristie,</l>
+	<l id='714' part="i">si...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='714' part="f">Rompons, Perpenna, rompons cette partie :</l>
+	<l id='715'>Donnons ordre au présent ; et quant à l'avenir,</l>
+	<l id='716'>Suivant l'occasion nous saurons y fournir.</l>
+	<l id='717'>Le temps est un grand maître, il règle bien des choses.</l>
+	<l id='718'>Enfin je suis jalouse, et vous en dis les causes.</l>
+	<l id='719' part="i">Voulez-vous me servir ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='719' part="f">Si je le veux ? J'y cours,</l>
+	<l id='720'>Madame, et meurs déjà d'y consacrer mes jours.</l>
+	<l id='721'>Mais pourrai-je espérer que ce faible service</l>
+	<l id='722'>Attirera sur moi quelque regard propice,</l>
+	<l id='723' part="i">Que le coeur attendri fera suivre ?...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='723' part="f">Arrêtez !</l>
+	<l id='724'>Vous porteriez trop loin des voeux précipités.</l>
+	<l id='725'>Sans doute un tel service aura droit de me plaire ;</l>
+	<l id='726'>Mais laissez-moi, de grâce, arbitre du salaire :</l>
+	<l id='727'>Je ne suis point ingrate, et sais ce que je dois ;</l>
+	<l id='728'>Et c'est vous dire assez pour la première fois.</l>
+	<l id='729' part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='5'><head>SCÈNE V. Perpenna, Aufide.</head>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='729' part="f">Vous le voyez, seigneur, comme on vous joue.</l>
+	<l id='730'>Tout son coeur est ailleurs ; Sertorius l'avoue,</l>
+	<l id='731'>Et fait auprès de vous l'officieux rival,</l>
+	<l id='732' part="i">Cependant que la reine...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='732' part="f">Ah ! N'en juge point mal.</l>
+	<l id='733'>À lui rendre service elle m'ouvre une voie</l>
+	<l id='734'>Que tout mon coeur embrasse avec excès de joie.</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='735'>Vous ne voyez donc pas que son esprit jaloux</l>
+	<l id='736'>Ne cherche à se servir de vous que contre vous,</l>
+	<l id='737'>Et que rompant le cours d'une flamme nouvelle,</l>
+	<l id='738'>Vous forcez ce rival à retourner vers elle ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='739'>N'importe, servons-la, méritons son amour :</l>
+	<l id='740'>La force et la vengeance agiront à leur tour.</l>
+	<l id='741'>Hasardons quelques jours sur l'espoir qui nous flatte,</l>
+	<l id='742'>Dussions-nous pour tout fruit ne faire qu'une ingrate.</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='743' part="i">Mais, seigneur...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='743' part="f">Épargnons les discours superflus,</l>
+	<l id='744'>Songeons à la servir, et ne contestons plus :</l>
+	<l id='745'>Cet unique souci tient mon âme occupée.</l>
+	<l id='746'>Cependant de nos murs on découvre Pompée</l>
+	<l id='747'>Tu sais qu'on me l'a dit : allons le recevoir,</l>
+	<l id='748'>Puisque Sertorius m'impose ce devoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Sertorius, Pompée.</head>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='749'>Seigneur, qui des mortels eût jamais osé croire</l>
+	<l id='750'>Que la trêve à tel point dût rehausser ma gloire ;</l>
+	<l id='751'>Qu'un nom à qui la guerre a fait trop applaudir</l>
+	<l id='752'>Dans l'ombre de la paix trouvât à s'agrandir ?</l>
+	<l id='753'>Certes, je doute encor si ma vue est trompée,</l>
+	<l id='754'>Alors que dans ces murs je vois le grand Pompée ;</l>
+	<l id='755'>Et quand il lui plaira, je saurai quel bonheur</l>
+	<l id='756'>Comble Sertorius d'un tel excès d'honneur.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='757'>Deux raisons ; mais, seigneur, faites qu'on se retire,</l>
+	<l id='758'>Afin qu'en liberté je puisse vous les dire.</l>
+	<l id='759'>L'inimitié qui règne entre nos deux partis</l>
+	<l id='760'>N'y rend pas de l'honneur tous les droits amortis.</l>
+	<l id='761'>Comme le vrai mérite a ses prérogatives,</l>
+	<l id='762'>Qui prennent le dessus des haines les plus vives,</l>
+	<l id='763'>L'estime et le respect sont de justes tributs</l>
+	<l id='764'>Qu'aux plus fiers ennemis arrachent les vertus ;</l>
+	<l id='765'>Et c'est ce que vient rendre à la haute vaillance,</l>
+	<l id='766'>Dont je ne fais ici que trop d'expérience,</l>
+	<l id='767'>L'ardeur de voir de près un si fameux héros,</l>
+	<l id='768'>Sans lui voir en la main piques ni javelots,</l>
+	<l id='769'>Et le front désarmé de ce regard terrible</l>
+	<l id='770'>Qui dans nos escadrons guide un bras invincible.</l>
+	<l id='771'>Je suis jeune et guerrier, et tant de fois vainqueur,</l>
+	<l id='772'>Que mon trop de fortune a pu m'enfler le coeur ;</l>
+	<l id='773'>Mais (et ce franc aveu sied bien aux grands courages)</l>
+	<l id='774'>J'apprends plus contre vous par mes désavantages,</l>
+	<l id='775'>Que les plus beaux succès qu'ailleurs j'aie emportés,</l>
+	<l id='776'>Ne m'ont encore appris par mes prospérités.</l>
+	<l id='777'>Je vois ce qu'il faut faire, à voir ce que vous faites :</l>
+	<l id='778'>Les sièges, les assauts, les savantes retraites,</l>
+	<l id='779'>Bien camper, bien choisir à chacun son emploi,</l>
+	<l id='780'>Votre exemple est partout une étude pour moi.</l>
+	<l id='781'>Ah ! Si je vous pouvais rendre à la république,</l>
+	<l id='782'>Que je croirais lui faire un présent magnifique !</l>
+	<l id='783'>Et que j'irais, seigneur, à Rome avec plaisir,</l>
+	<l id='784'>Puisque la trêve enfin m'en donne le loisir,</l>
+	<l id='785'>Si j'y pouvais porter quelque faible espérance</l>
+	<l id='786'>D'y conclure un accord d'une telle importance !</l>
+	<l id='787'>Près de l'heureux Sylla ne puis-je rien pour vous ?</l>
+	<l id='788'>Et près de vous, seigneur, ne puis-je rien pour tous ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='789'>Vous me pourriez sans doute épargner quelque peine,</l>
+	<l id='790'>Si vous vouliez avoir l'âme toute romaine ;</l>
+	<l id='791'>Mais avant que d'entrer en ces difficultés,</l>
+	<l id='792'>Souffrez que je réponde à vos civilités.</l>
+	<l id='793'>Vous ne me donnez rien par cette haute estime</l>
+	<l id='794'>Que vous n'ayez déjà dans le degré sublime.</l>
+	<l id='795'>La victoire attachée à vos premiers exploits,</l>
+	<l id='796'>Un triomphe avant l'âge où le souffrent nos lois,</l>
+	<l id='797'>Avant la dignité qui permet d'y prétendre,</l>
+	<l id='798'>Font trop voir quels respects l'univers vous doit rendre.</l>
+	<l id='799'>Si dans l'occasion je ménage un peu mieux</l>
+	<l id='800'>L'assiette du pays et la faveur des lieux,</l>
+	<l id='801'>Si mon expérience en prend quelque avantage,</l>
+	<l id='802'>Le grand art de la guerre attend quelquefois l'âge ;</l>
+	<l id='803'>Le temps y fait beaucoup ; et de mes actions</l>
+	<l id='804'>S'il vous a plu tirer quelques instructions,</l>
+	<l id='805'>Mes exemples un jour ayant fait place aux vôtres,</l>
+	<l id='806'>Ce que je vous apprends, vous l'apprendrez à d'autres ;</l>
+	<l id='807'>Et ceux qu'aura ma mort saisis de mon emploi,</l>
+	<l id='808'>S'instruiront contre vous, comme vous contre moi.</l>
+	<l id='809'>Quant à l'heureux Sylla, je n'ai rien à vous dire.</l>
+	<l id='810'>Je vous ai montré l'art d'affaiblir son empire ;</l>
+	<l id='811'>Et si je puis jamais y joindre des leçons</l>
+	<l id='812'>Dignes de vous apprendre à repasser les monts,</l>
+	<l id='813'>Je suivrai d'assez près votre illustre retraite</l>
+	<l id='814'>Pour traiter avec lui sans besoin d'interprète,</l>
+	<l id='815'>Et sur les bords du Tibre, une pique à la main,</l>
+	<l id='816'>Lui demander raison pour le peuple romain.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='817'>De si hautes leçons, seigneur, sont difficiles,</l>
+	<l id='818'>Et pourraient vous donner quelques soins inutiles,</l>
+	<l id='819'>Si vous faisiez dessein de me les expliquer</l>
+	<l id='820'>Jusqu'à m'avoir appris à les bien pratiquer.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='821'>Aussi me pourriez-vous épargner quelque peine,</l>
+	<l id='822'>Si vous vouliez avoir l'âme toute romaine :</l>
+	<l id='823' part="i">Je vous l'ai déjà dit.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='823' part="f">Ce discours rebattu</l>
+	<l id='824'>Lasserait une austère et farouche vertu.</l>
+	<l id='825'>Pour moi, qui vous honore assez pour me contraindre</l>
+	<l id='826'>À fuir obstinément tout sujet de m'en plaindre,</l>
+	<l id='827'>Je ne veux rien comprendre en ses obscurités.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='828'>Je sais qu'on n'aime point de telles vérités ;</l>
+	<l id='829'>Mais, seigneur, étant seuls, je parle avec franchise :</l>
+	<l id='830'>Bannissant les témoins, vous me l'avez permise ;</l>
+	<l id='831'>Et je garde avec vous la même liberté</l>
+	<l id='832'>Que si votre Sylla n'avait jamais été.</l>
+	<l id='833'>Est-ce être tout Romain qu'être chef d'une guerre</l>
+	<l id='834'>Qui veut tenir aux fers les maîtres de la terre ?</l>
+	<l id='835'>Ce nom, sans vous et lui, nous serait encor dû :</l>
+	<l id='836'>C'est par lui, c'est par vous que nous l'avons perdu.</l>
+	<l id='837'>C'est vous qui sous le joug traînez des coeurs si braves ;</l>
+	<l id='838'>Ils étaient plus que rois, ils sont moindres qu'esclaves ;</l>
+	<l id='839'>Et la gloire qui suit vos plus nobles travaux</l>
+	<l id='840'>Ne fait qu'approfondir l'abîme de leurs maux :</l>
+	<l id='841'>Leur misère est le fruit de votre illustre peine ;</l>
+	<l id='842'>Et vous pensez avoir l'âme toute romaine !</l>
+	<l id='843'>Vous avez hérité ce nom de vos aïeux ;</l>
+	<l id='844'>Mais s'il vous était cher, vous le rempliriez mieux.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='845'>Je crois le bien remplir quand tout mon coeur s'applique</l>
+	<l id='846'>Aux soins de rétablir un jour la république ;</l>
+	<l id='847'>Mais vous jugez, seigneur, de l'âme par le bras ;</l>
+	<l id='848'>Et souvent l'un paraît ce que l'autre n'est pas.</l>
+	<l id='849'>Lorsque deux factions divisent un empire,</l>
+	<l id='850'>Chacun suit au hasard la meilleure ou la pire,</l>
+	<l id='851'>Suivant l'occasion ou la nécessité</l>
+	<l id='852'>Qui l'emporte vers l'un ou vers l'autre côté.</l>
+	<l id='853'>Le plus juste parti, difficile à connaître,</l>
+	<l id='854'>Nous laisse en liberté de nous choisir un maître ;</l>
+	<l id='855'>Mais quand ce choix est fait, on ne s'en dédit plus.</l>
+	<l id='856'>J'ai servi sous Sylla du temps de Marius,</l>
+	<l id='857'>Et servirai sous lui tant qu'un destin funeste</l>
+	<l id='858'>De nos divisions soutiendra quelque reste.</l>
+	<l id='859'>Comme je ne vois pas dans le fond de son coeur,</l>
+	<l id='860'>J'ignore quels projets peut former son bonheur :</l>
+	<l id='861'>S'il les pousse trop loin, moi-même je l'en blâme ;</l>
+	<l id='862'>Je lui prête mon bras sans engager mon âme ;</l>
+	<l id='863'>Je m'abandonne au cours de sa félicité,</l>
+	<l id='864'>Tandis que tous mes voeux sont pour la liberté ;</l>
+	<l id='865'>Et c'est ce qui me force à garder une place</l>
+	<l id='866'>Qu'usurperaient sans moi l'injustice et l'audace,</l>
+	<l id='867'>Afin que, Sylla mort, ce dangereux pouvoir</l>
+	<l id='868'>Ne tombe qu'en des mains qui sachent leur devoir.</l>
+	<l id='869'>Enfin je sais mon but, et vous savez le vôtre.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='870'>Mais cependant, seigneur, vous servez comme un autre ;</l>
+	<l id='871'>Et nous, qui jugeons tout sur la foi de nos yeux,</l>
+	<l id='872'>Et laissons le dedans à pénétrer aux dieux,</l>
+	<l id='873'>Nous craignons votre exemple, et doutons si dans Rome</l>
+	<l id='874'>Il n'instruit point le peuple à prendre loi d'un homme ;</l>
+	<l id='875'>Et si votre valeur, sous le pouvoir d'autrui,</l>
+	<l id='876'>Ne sème point pour vous lorsqu'elle agit pour lui.</l>
+	<l id='877'>Comme je vous estime, il m'est aisé de croire</l>
+	<l id='878'>Que de la liberté vous feriez votre gloire,</l>
+	<l id='879'>Que votre âme en secret lui donne tous ses voeux ;</l>
+	<l id='880'>Mais si je m'en rapporte aux esprits soupçonneux,</l>
+	<l id='881'>Vous aidez aux Romains à faire essai d'un maître,</l>
+	<l id='882'>Sous ce flatteur espoir qu'un jour vous pourrez l'être.</l>
+	<l id='883'>La main qui les opprime, et que vous soutenez,</l>
+	<l id='884'>Les accoutume au joug que vous leur destinez ;</l>
+	<l id='885'>Et doutant s'ils voudront se faire à l'esclavage,</l>
+	<l id='886'>Aux périls de Sylla vous tâtez leur courage.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='887'>Le temps détrompera ceux qui parlent ainsi ;</l>
+	<l id='888'>Mais justifiera-t-il ce que l'on voit ici ?</l>
+	<l id='889'>Permettez qu'à mon tour je parle avec franchise ;</l>
+	<l id='890'>Votre exemple à la fois m'instruit et m'autorise :</l>
+	<l id='891'>Je juge, comme vous, sur la foi de mes yeux,</l>
+	<l id='892'>Et laisse le dedans à pénétrer aux dieux.</l>
+	<l id='893'>Ne vit-on pas ici sous les ordres d'un homme ?</l>
+	<l id='894'>N'y commandez-vous pas comme Sylla dans Rome ?</l>
+	<l id='895'>Du nom de dictateur, du nom de général,</l>
+	<l id='896'>Qu'importe, si des deux le pouvoir est égal ?</l>
+	<l id='897'>Les titres différents ne font rien à la chose :</l>
+	<l id='898'>Vous imposez des lois ainsi qu'il en impose ;</l>
+	<l id='899'>Et s'il est périlleux de s'en faire haïr,</l>
+	<l id='900'>Il ne serait pas sûr de vous désobéir.</l>
+	<l id='901'>Pour moi, si quelque jour je suis ce que vous êtes,</l>
+	<l id='902'>J'en userai peut-être alors comme vous faites :</l>
+	<l id='903' part="i">Jusque-là...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='903' part="f">Vous pourriez en douter jusque-là,</l>
+	<l id='904'>Et me faire un peu moins ressembler à Sylla.</l>
+	<l id='905'>Si je commande ici, le sénat me l'ordonne ;</l>
+	<l id='906'>Mes ordres n'ont encore assassiné personne.</l>
+	<l id='907'>Je n'ai pour ennemis que ceux du bien commun ;</l>
+	<l id='908'>Je leur fais bonne guerre, et n'en proscris pas un.</l>
+	<l id='909'>C'est un asile ouvert que mon pouvoir suprême ;</l>
+	<l id='910'>Et si l'on m'obéit, ce n'est qu'autant qu'on m'aime.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='911'>Et votre empire en est d'autant plus dangereux,</l>
+	<l id='912'>Qu'il rend de vos vertus les peuples amoureux,</l>
+	<l id='913'>Qu'en assujettissant vous avez l'art de plaire,</l>
+	<l id='914'>Qu'on croit n'être en vos fers qu'esclave volontaire,</l>
+	<l id='915'>Et que la liberté trouvera peu de jour</l>
+	<l id='916'>À détruire un pouvoir que fait régner l'amour.</l>
+	<l id='917'>Ainsi parlent, seigneur, les âmes soupçonneuses ;</l>
+	<l id='918'>Mais n'examinons point ces questions fâcheuses,</l>
+	<l id='919'>Ni si c'est un sénat qu'un amas de bannis</l>
+	<l id='920'>Que cet asile ouvert sous vous a réunis.</l>
+	<l id='921'>Une seconde fois, n'est-il aucune voie</l>
+	<l id='922'>Par où je puisse à Rome emporter quelque joie ?</l>
+	<l id='923'>Elle serait extrême à trouver les moyens</l>
+	<l id='924'>De rendre un si grand homme à ses concitoyens.</l>
+	<l id='925'>Il est doux de revoir les murs de la patrie :</l>
+	<l id='926'>C'est elle par ma voix, seigneur, qui vous en prie ;</l>
+	<l id='927' part="i">C'est Rome...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='927' part="f">Le séjour de votre potentat,</l>
+	<l id='928'>Qui n'a que ses fureurs pour maximes d'état ?</l>
+	<l id='929'>Je n'appelle plus Rome un enclos de murailles</l>
+	<l id='930'>Que ses proscriptions comblent de funérailles :</l>
+	<l id='931'>Ces murs, dont le destin fut autrefois si beau,</l>
+	<l id='932'>N'en sont que la prison, ou plutôt le tombeau ;</l>
+	<l id='933'>Mais pour revivre ailleurs dans sa première force,</l>
+	<l id='934'>Avec les faux Romains elle a fait plein divorce ;</l>
+	<l id='935'>Et comme autour de moi j'ai tous ses vrais appuis,</l>
+	<l id='936'>Rome n'est plus dans Rome, elle est toute où je suis.</l>
+	<l id='937'>Parlons pourtant d'accord. Je ne sais qu'une voie</l>
+	<l id='938'>Qui puisse avec honneur nous donner cette joie.</l>
+	<l id='939'>Unissons-nous ensemble, et le tyran est bas ;</l>
+	<l id='940'>Rome à ce grand dessein ouvrira tous ses bras.</l>
+	<l id='941'>Ainsi nous ferons voir l'amour de la patrie,</l>
+	<l id='942'>Pour qui vont les grands coeurs jusqu'à l'idolâtrie ;</l>
+	<l id='943'>Et nous épargnerons ces flots de sang romain</l>
+	<l id='944'>Que versent tous les ans votre bras et ma main.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='945'>Ce projet, qui pour vous est tout brillant de gloire,</l>
+	<l id='946'>N'aurait-il rien pour moi d'une action trop noire ?</l>
+	<l id='947'>Moi qui commande ailleurs, puis-je servir sous vous ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='948'>Du droit de commander je ne suis point jaloux ;</l>
+	<l id='949'>Je ne l'ai qu'en dépôt, et je vous l'abandonne,</l>
+	<l id='950'>Non jusqu'à vous servir de ma seule personne :</l>
+	<l id='951'>Je prétends un peu plus ; mais dans cette union</l>
+	<l id='952'>De votre lieutenant m'envieriez-vous le nom ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='953'>De pareils lieutenants n'ont des chefs qu'en idée :</l>
+	<l id='954'>Leur nom retient pour eux l'autorité cédée ;</l>
+	<l id='955'>Il n'en quittent que l'ombre ; et l'on ne sait que c'est</l>
+	<l id='956'>De suivre ou d'obéir que suivant qu'il leur plaît.</l>
+	<l id='957'>Je sais une autre voie, et plus noble et plus sûre.</l>
+	<l id='958'>Sylla, si vous voulez, quitte sa dictature ;</l>
+	<l id='959'>Et déjà de lui-même il s'en serait démis,</l>
+	<l id='960'>S'il voyait qu'en ces lieux il n'eût plus d'ennemis.</l>
+	<l id='961'>Mettez les armes bas, je réponds de l'issue :</l>
+	<l id='962'>J'en donne ma parole après l'avoir reçue.</l>
+	<l id='963'>Si vous êtes Romain, prenez l'occasion.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='964'>Je ne m'éblouis point de cette illusion.</l>
+	<l id='965'>Je connais le tyran, j'en vois le stratagème :</l>
+	<l id='966'>Quoi qu'il semble promettre, il est toujours lui-même.</l>
+	<l id='967'>Vous qu'à sa défiance il a sacrifié,</l>
+	<l id='968'>Jusques à vous forcer d'être son allié...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='969'>Hélas ! Ce mot me tue, et je le dis sans feinte,</l>
+	<l id='970'>C'est l'unique sujet qu'il m'a donné de plainte.</l>
+	<l id='971'>J'aimais mon Aristie, il m'en vient d'arracher ;</l>
+	<l id='972'>Mon coeur frémit encore à me le reprocher ;</l>
+	<l id='973'>Vers tant de biens perdus sans cesse il me rappelle ;</l>
+	<l id='974'>Et je vous rends, seigneur, mille grâces pour elle,</l>
+	<l id='975'>À vous, à ce grand coeur dont la compassion</l>
+	<l id='976'>Daigne ici l'honorer de sa protection.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='977'>Protéger hautement les vertus malheureuses,</l>
+	<l id='978'>C'est le moindre devoir des âmes généreuses :</l>
+	<l id='979'>Aussi fais-je encore plus, je lui donne un époux.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='980' part='i'>Un époux ! Dieux ! Qu'entends-je ? Et qui, seigneur ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='980' part="m">Moi.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='980' part="f">Vous !</l>
+	<l id='981'>Seigneur, toute son âme est à moi dès l'enfance :</l>
+	<l id='982'>N'imitez point Sylla par cette violence ;</l>
+	<l id='983'>Mes maux sont assez grands, sans y joindre celui</l>
+	<l id='984'>De voir tout ce que j'aime entre les bras d'autrui.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='985'>Tout est encore à vous. Venez, venez, madame,</l>
+	<l id='986'>Faire voir quel pouvoir j'usurpe sur vôtre âme,</l>
+	<l id='987'>Et montrer, s'il se peut, à tout le genre humain</l>
+	<l id='988'>La force qu'on vous fait pour me donner la main.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='989' part="i">C'est elle-même, ô ciel !</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='989' part="f">Je vous laisse avec elle,</l>
+	<l id='990'>Et sais que tout son coeur vous est encor fidèle.</l>
+	<l id='991'>Reprenez votre bien, ou ne vous plaignez plus</l>
+	<l id='992'>Si j'ose m'enrichir, seigneur, de vos refus.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Pompée, Aristie.</head>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='993'>Me dit-on vrai, madame, et serait-il possible...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='994'>Oui, seigneur, il est vrai que j'ai le coeur sensible :</l>
+	<l id='995'>Suivant qu'on m'aime ou hait, j'aime ou hais à mon tour,</l>
+	<l id='996'>Et ma gloire soutient ma haine et mon amour.</l>
+	<l id='997'>Mais si de mon amour elle est la souveraine,</l>
+	<l id='998'>Elle n'est pas toujours maîtresse de ma haine ;</l>
+	<l id='999'>Je ne la suis pas même, et je hais quelquefois</l>
+	<l id='1000'>Et moins que je ne veux et moins que je ne dois.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1001'>Cette haine a pour moi toute son étendue,</l>
+	<l id='1002'>Madame, et la pitié ne l'a point suspendue ;</l>
+	<l id='1003'>La générosité n'a pu la modérer.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1004'>Vous ne voyez donc pas qu'elle a peine à durer ?</l>
+	<l id='1005'>Mon feu, qui n'est éteint que parce qu'il doit l'être,</l>
+	<l id='1006'>Cherche en dépit de moi le vôtre pour renaître ;</l>
+	<l id='1007'>Et je sens qu'à vos yeux mon courroux chancelant</l>
+	<l id='1008'>Trébuche, perd sa force, et meurt en vous parlant.</l>
+	<l id='1009' part="i">M'aimeriez-vous encor, seigneur ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1009' part="f">Si je vous aime !</l>
+	<l id='1010'>Demandez si je vis, ou si je suis moi-même :</l>
+	<l id='1011'>Votre amour est ma vie, et ma vie est à vous.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1012'>Sortez de mon esprit, ressentiments jaloux</l>
+	<l id='1013'>Noirs enfants du dépit, ennemis de ma gloire,</l>
+	<l id='1014'>Tristes ressentiments, je ne veux plus vous croire.</l>
+	<l id='1015'>Quoi qu'on m'ait fait d'outrage, il ne m'en souvient plus :</l>
+	<l id='1016'>Plus de nouvel hymen, plus de Sertorius ;</l>
+	<l id='1017'>Je suis au grand Pompée ; et puisqu'il m'aime encore,</l>
+	<l id='1018'>Puisqu'il me rend son coeur, de nouveau je l'adore :</l>
+	<l id='1019'>Plus de Sertorius. Mais, seigneur, répondez ;</l>
+	<l id='1020'>Faites parler ce coeur qu'enfin vous me rendez.</l>
+	<l id='1021'>Plus de Sertorius. Hélas ! Quoi que je die,</l>
+	<l id='1022'>Vous ne me dites point, seigneur : "Plus d'Émilie."</l>
+	<l id='1023'>Rentrez dans mon esprit, jaloux ressentiments,</l>
+	<l id='1024'>Fiers enfants de l'honneur, nobles emportements ;</l>
+	<l id='1025'>C'est vous que je veux croire ; et Pompée infidèle</l>
+	<l id='1026'>Ne saurait plus souffrir que ma haine chancelle :</l>
+	<l id='1027'>Il l'affermit pour moi. Venez, Sertorius ;</l>
+	<l id='1028'>Il me rend toute à vous par ce muet refus.</l>
+	<l id='1029'>Donnons ce grand témoin à ce grand hyménée ;</l>
+	<l id='1030'>Son âme, toute ailleurs, n'en sera point gênée :</l>
+	<l id='1031'>Il le verra sans peine, et cette dureté</l>
+	<l id='1032'>Passera chez Sylla pour magnanimité.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1033'>Ce qu'il vous fait d'injure également m'outrage ;</l>
+	<l id='1034'>Mais enfin je vous aime, et ne puis davantage.</l>
+	<l id='1035'>Vous, si jamais ma flamme eut pour vous quelque appas,</l>
+	<l id='1036'>Plaignez-vous, haïssez, mais ne vous donnez pas :</l>
+	<l id='1037'>Demeurez en état d'être toujours ma femme,</l>
+	<l id='1038'>Gardez jusqu'au tombeau l'empire de mon âme.</l>
+	<l id='1039'>Sylla n'a que son temps, il est vieil et cassé :</l>
+	<l id='1040'>Son règne passera, s'il n'est déjà passé ;</l>
+	<l id='1041'>Ce grand pouvoir lui pèse, il s'apprête à le rendre ;</l>
+	<l id='1042'>Comme à Sertorius, je veux bien vous l'apprendre.</l>
+	<l id='1043'>Ne vous jetez donc point, madame, en d'autres bras ;</l>
+	<l id='1044'>Plaignez-vous, haïssez, mais ne vous donnez pas.</l>
+	<l id='1045'>Si vous voulez ma main, n'engagez point la vôtre.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1046'>Mais quoi ? N'êtes-vous pas entre les bras d'un autre ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1047'>Non : puisqu'il vous en faut confier le secret,</l>
+	<l id='1048'>Émilie à Sylla n'obéit qu'à regret.</l>
+	<l id='1049'>Des bras d'un autre époux ce tyran qui l'arrache</l>
+	<l id='1050'>Ne rompt point dans son coeur le saint noeud qui l'attache :</l>
+	<l id='1051'>Elle porte en ses flancs un fruit de cet amour,</l>
+	<l id='1052'>Que bientôt chez moi-même elle va mettre au jour ;</l>
+	<l id='1053'>Et dans ce triste état, sa main qu'il m'a donnée</l>
+	<l id='1054'>N'a fait que l'éblouir par un feint hyménée,</l>
+	<l id='1055'>Tandis que toute entière à son cher Glabrion,</l>
+	<l id='1056'>Elle paraît ma femme, et n'en a que le nom.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1057'>Et ce nom seul est tout pour celles de ma sorte :</l>
+	<l id='1058'>Rendez-le-moi, seigneur, ce grand nom qu'elle porte.</l>
+	<l id='1059'>J'aimai votre tendresse et vos empressements ;</l>
+	<l id='1060'>Mais je suis au-dessus de ces attachements ;</l>
+	<l id='1061'>Et tout me sera doux, si ma trame coupée</l>
+	<l id='1062'>Me rend à mes aïeux en femme de Pompée,</l>
+	<l id='1063'>Et que sur mon tombeau ce grand titre gravé</l>
+	<l id='1064'>Montre à tout l'avenir que je l'ai conservé.</l>
+	<l id='1065'>J'en fais toute ma gloire et toutes mes délices ;</l>
+	<l id='1066'>Un moment de sa perte a pour moi des supplices.</l>
+	<l id='1067'>Vengez-moi de Sylla, qui me l'ôte aujourd'hui,</l>
+	<l id='1068'>Ou souffrez qu'on me venge et de vous et de lui ;</l>
+	<l id='1069'>Qu'un autre hymen me rende un titre qui l'égale ;</l>
+	<l id='1070'>Qu'il me relève autant que Sylla me ravale :</l>
+	<l id='1071'>Non que je puisse aimer aucun autre que vous ;</l>
+	<l id='1072'>Mais pour venger ma gloire il me faut un époux :</l>
+	<l id='1073'>Il m'en faut un illustre, et dont la renommée...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1074'>Ah ! Ne vous lassez point d'aimer et d'être aimée.</l>
+	<l id='1075'>Peut-être touchons-nous au moment désiré</l>
+	<l id='1076'>Qui saura réunir ce qu'on a séparé.</l>
+	<l id='1077'>Ayez plus de courage et moins d'impatience :</l>
+	<l id='1078'>Souffrez que Sylla meure, ou quitte sa puissance...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1079'>J'attendrai de sa mort ou de son repentir</l>
+	<l id='1080'>Qu'à me rendre l'honneur vous daigniez consentir ?</l>
+	<l id='1081'>Et je verrai toujours votre coeur plein de glace,</l>
+	<l id='1082'>Mon tyran impuni, ma rivale en ma place,</l>
+	<l id='1083'>Jusqu'à ce qu'il renonce au pouvoir absolu,</l>
+	<l id='1084'>Après l'avoir gardé tant qu'il l'aura voulu ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1085'>Mais tant qu'il pourra tout, que pourrai-je, madame ?</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1086'>Suivre en tous lieux, seigneur, l'exil de votre femme,</l>
+	<l id='1087'>La ramener chez vous avec vos légions,</l>
+	<l id='1088'>Et rendre un heureux calme à nos divisions.</l>
+	<l id='1089'>Que ne pourrez-vous point en tête d'une armée,</l>
+	<l id='1090'>Partout, hors de l'Espagne, à vaincre accoutumée ?</l>
+	<l id='1091'>Et quand Sertorius sera joint avec vous,</l>
+	<l id='1092'>Que pourra le tyran ? Qu'osera son courroux ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1093'>Ce n'est pas s'affranchir qu'un moment le paraître,</l>
+	<l id='1094'>Ni secouer le joug que de changer de maître.</l>
+	<l id='1095'>Sertorius pour vous est un illustre appui ;</l>
+	<l id='1096'>Mais en faire le mien, c'est me ranger sous lui ;</l>
+	<l id='1097'>Joindre nos étendards, c'est grossir son empire.</l>
+	<l id='1098'>Perpenna, qui l'a joint, saura que vous en dire.</l>
+	<l id='1099'>Je sers ; mais jusqu'ici l'ordre vient de si loin,</l>
+	<l id='1100'>Qu'avant qu'on le reçoive il n'en est plus besoin ;</l>
+	<l id='1101'>Et ce peu que j'y rends de vaine déférence,</l>
+	<l id='1102'>Jaloux du vrai pouvoir, ne sert qu'en apparence.</l>
+	<l id='1103'>Je crois n'avoir plus même à servir qu'un moment ;</l>
+	<l id='1104'>Et quand Sylla prépare un si doux changement,</l>
+	<l id='1105'>Pouvez-vous m'ordonner de me bannir de Rome,</l>
+	<l id='1106'>Pour la remettre au joug sous les lois d'un autre homme ;</l>
+	<l id='1107'>Moi qui ne suis jaloux de mon autorité</l>
+	<l id='1108'>Que pour lui rendre un jour toute sa liberté ?</l>
+	<l id='1109'>Non, non : si vous m'aimez comme j'aime à le croire,</l>
+	<l id='1110'>Vous saurez accorder votre amour et ma gloire,</l>
+	<l id='1111'>Céder avec prudence au temps prêt à changer,</l>
+	<l id='1112'>Et ne me perdre pas au lieu de vous venger.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1113'>Si vous m'avez aimée, et qu'il vous en souvienne,</l>
+	<l id='1114'>Vous mettrez votre gloire à me rendre la mienne ;</l>
+	<l id='1115'>Mais il est temps qu'un mot termine ces débats.</l>
+	<l id='1116'>Me voulez-vous, seigneur ? Ne me voulez-vous pas ?</l>
+	<l id='1117'>Parlez : que votre choix règle ma destinée.</l>
+	<l id='1118'>Suis-je encore à l'époux à qui l'on m'a donnée ?</l>
+	<l id='1119'>Suis-je à Sertorius ? C'est assez consulté :</l>
+	<l id='1120'>Rendez-moi mes liens, ou pleine liberté...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1121'>Je le vois bien, madame, il faut rompre la trêve,</l>
+	<l id='1122'>Pour briser en vainqueur cet hymen, s'il s'achève ;</l>
+	<l id='1123'>Et vous savez si peu l'art de vous secourir,</l>
+	<l id='1124'>Que pour vous en instruire, il faut vous conquérir.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1125'>Sertorius sait vaincre et garder ses conquêtes.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1126'>La vôtre, à la garder, coûtera bien des têtes.</l>
+	<l id='1127'>Comme elle fermera la porte à tout accord,</l>
+	<l id='1128'>Rien ne la peut jamais assurer que ma mort.</l>
+	<l id='1129'>Oui, j'en jure les dieux, s'il faut qu'il vous obtienne,</l>
+	<l id='1130'>Rien ne peut empêcher sa perte que la mienne ;</l>
+	<l id='1131'>Et peut-être tous deux, l'un par l'autre percés,</l>
+	<l id='1132'>Nous vous ferons connaître à quoi vous nous forcez.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1133'>Je ne suis pas, seigneur, d'une telle importance.</l>
+	<l id='1134'>D'autres soins éteindront cette ardeur de vengeance ;</l>
+	<l id='1135'>Ceux de vous agrandir vous porteront ailleurs,</l>
+	<l id='1136'>Où vous pourrez trouver quelques destins meilleurs ;</l>
+	<l id='1137'>Ceux de servir Sylla, d'aimer son Émilie,</l>
+	<l id='1138'>D'imprimer du respect à toute l'Italie,</l>
+	<l id='1139'>De rendre à votre Rome un jour sa liberté,</l>
+	<l id='1140'>Sauront tourner vos pas de quelque autre côté.</l>
+	<l id='1141'>Surtout ce privilège acquis aux grandes âmes,</l>
+	<l id='1142'>De changer à leur gré de maris et de femmes,</l>
+	<l id='1143'>Mérite qu'on l'étale aux bouts de l'univers,</l>
+	<l id='1144'>Pour en donner l'exemple à cent climats divers.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1145'>Ah ! C'en est trop, madame, et de nouveau je jure...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1146'>Seigneur, les vérités font-elles quelque injure ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1147'>Vous oubliez trop tôt que je suis votre époux.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1148'>Ah ! Si ce nom vous plaît, je suis encore à vous :</l>
+	<l id='1149' part="i">Voilà ma main, seigneur.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1149' part="f">Gardez-la-moi, madame.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1150'>Tandis que vous avez à Rome une autre femme ?</l>
+	<l id='1151'>Que par un autre hymen vous me déshonorez ?</l>
+	<l id='1152'>Me punissent les dieux que vous avez jurés,</l>
+	<l id='1153'>Si, passé ce moment, et hors de votre vue,</l>
+	<l id='1154'>Je vous garde une foi que vous avez rompue !</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1155' part="i">Qu'allez-vous faire ? Hélas !</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1155' part="f">Ce que vous m'enseignez.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1156' part="i">Éteindre un tel amour !</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1156' part="f">Vous-même l'éteignez.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1157'>La victoire aura droit de le faire renaître.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1158'>Si ma haine est trop faible, elle la fera croître.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1159' part="i">Pourrez-vous me haïr ?</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1159' part="f">J'en fais tous mes souhaits.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1160' part="i">Adieu donc pour deux jours.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1160' part="f">Adieu pour tout jamais.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Sertorius, Thamire.</head>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1161' part="i">Pourrai-je voir la reine ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1161' part="f">Attendant qu'elle vienne,</l>
+	<l id='1162'>Elle m'a commandé que je vous entretienne,</l>
+	<l id='1163'>Et veut demeurer seule encor quelques moments.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1164'>Ne m'apprendrez-vous point où vont ses sentiments,</l>
+	<l id='1165'>Ce que doit Perpenna concevoir d'espérance ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1166'>Elle ne m'en fait pas beaucoup de confidence ;</l>
+	<l id='1167'>Mais j'ose présumer qu'offert de votre main</l>
+	<l id='1168'>Il aura peu de peine à fléchir son dédain :</l>
+	<l id='1169' part="i">Vous pouvez tout sur elle.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1169' part="f">Ah ! J'y puis peu de chose,</l>
+	<l id='1170'>Si jusqu'à l'accepter mon malheur la dispose ;</l>
+	<l id='1171'>Ou pour en parler mieux, j'y puis trop, et trop peu.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1172'>Elle croit fort vous plaire en secondant son feu.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1173' part="i">Me plaire ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1173' part="f">Oui ; mais, seigneur, d'où vient cette surprise ?</l>
+	<l id='1174'>Et de quoi s'inquiète un coeur qui la méprise ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1175'>N'appelez point mépris un violent respect</l>
+	<l id='1176'>Que sur mes plus doux voeux fait régner son aspect.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1177'>Il est peu de respects qui ressemblent au vôtre,</l>
+	<l id='1178'>S'il ne sait que trouver des raisons pour un autre ;</l>
+	<l id='1179'>Et je préférerais un peu d'emportement</l>
+	<l id='1180'>Aux plus humbles devoirs d'un tel accablement.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1181'>Il n'en est rien parti capable de me nuire,</l>
+	<l id='1182'>Qu'un soupir échappé ne dût soudain détruire ;</l>
+	<l id='1183'>Mais la reine, sensible à de nouveaux désirs,</l>
+	<l id='1184'>Entendait mes raisons, et non pas mes soupirs.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1185'>Seigneur, quand un Romain, quand un héros soupire,</l>
+	<l id='1186'>Nous n'entendons pas bien ce qu'un soupir veut dire ;</l>
+	<l id='1187'>Et je vous servirais de meilleur truchement,</l>
+	<l id='1188'>Si vous vous expliquiez un peu plus clairement.</l>
+	<l id='1189'>Je sais qu'en ce climat, que vous nommez barbare,</l>
+	<l id='1190'>L'amour par un soupir quelquefois se déclare ;</l>
+	<l id='1191'>Mais la gloire, qui fait toutes vos passions,</l>
+	<l id='1192'>Vous met trop au-dessus de ces impressions :</l>
+	<l id='1193'>De tels désirs, trop bas pour les grands coeurs de Rome...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+<note type="C">Voir "Ah ! pour être dévot, je n'en suis pas moins homme ;" dans le Tartuffe de Molière, TARTUFFE, Acte III, scène 3, v. 966. et mentionné dans "La Critique du Tartuffe" de Villiers commme un emprunt de Molière.</note>
+	<l id='1194'>Ah ! Pour être romain, je n'en suis pas moins homme :</l>
+	<l id='1195'>J'aime, et peut-être plus qu'on n'a jamais aimé ;</l>
+	<l id='1196'>Malgré mon âge et moi, mon coeur s'est enflammé.</l>
+	<l id='1197'>J'ai cru pouvoir me vaincre, et toute mon adresse</l>
+	<l id='1198'>Dans mes plus grands efforts m'a fait voir ma faiblesse.</l>
+	<l id='1199'>Ceux de la politique et ceux de l'amitié</l>
+	<l id='1200'>M'ont mis en un état à me faire pitié.</l>
+	<l id='1201'>Le souvenir m'en tue, et ma vie incertaine</l>
+	<l id='1202'>Dépend d'un peu d'espoir que j'attends de la reine.</l>
+	<l id='1203' part="i">Si toutefois...</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1203' part="f">Seigneur, elle a de la bonté ;</l>
+	<l id='1204'>Mais je vois son esprit fortement irrité ;</l>
+	<l id='1205'>Et si vous m'ordonnez de vous parler sans feindre,</l>
+	<l id='1206'>Vous pouvez espérer, mais vous avez à craindre.</l>
+	<l id='1207'>N'y perdez point de temps, et ne négligez rien ;</l>
+	<l id='1208'>C'est peut-être un dessein mal ferme que le sien.</l>
+	<l id='1209'>La voici. Profitez des avis qu'on vous donne,</l>
+	<l id='1210'>Et gardez bien surtout qu'elle ne m'en soupçonne.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Sertorius, Viriate, Thamire.</head>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1211'>On m'a dit qu'Aristie a manqué son projet,</l>
+	<l id='1212'>Et que Pompée échappe à cet illustre objet.</l>
+	<l id='1213' part="i">Serait-il vrai, seigneur ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1213' part="f">Il est trop vrai, madame ;</l>
+	<l id='1214'>Mais bien qu'il l'abandonne, il l'adore dans l'âme,</l>
+	<l id='1215'>Et rompra, m'a-t-il dit, la trêve dès demain,</l>
+	<l id='1216'>S'il voit qu'elle s'apprête à me donner la main.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1217'>Vous vous alarmez peu d'une telle menace ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1218'>Ce n'est pas en effet ce qui plus m'embarrasse.</l>
+	<l id='1219'>Mais vous, pour Perpenna qu'avez-vous résolu ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1220'>D'obéir sans remise au pouvoir absolu ;</l>
+	<l id='1221'>Et si d'une offre en l'air votre âme encor frappée</l>
+	<l id='1222'>Veut bien s'embarrasser du rebut de Pompée,</l>
+	<l id='1223'>Il ne tiendra qu'à vous que dès demain tous deux</l>
+	<l id='1224'>De l'un et l'autre hymen nous n'assurions les noeuds,</l>
+	<l id='1225'>Dût se rompre la trêve, et dût la jalousie</l>
+	<l id='1226'>Jusqu'au dernier éclat pousser sa frénésie.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1227' part="i">Vous pourrez dès demain...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1227' part="f">Dès ce même moment.</l>
+	<l id='1228'>Ce n'est pas obéir qu'obéir lentement ;</l>
+	<l id='1229'>Et quand l'obéissance a de l'exactitude,</l>
+	<l id='1230'>Elle voit que sa gloire est dans la promptitude.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1231'>Mes prières pouvaient souffrir quelques refus.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1232'>Je les prendrai toujours pour ordres absolus :</l>
+	<l id='1233'>Qui peut ce qui lui plaît commande alors qu'il prie.</l>
+	<l id='1234'>D'ailleurs Perpenna m'aime avec idolâtrie ;</l>
+	<l id='1235'>Tant d'amour, tant de rois d'où son sang est venu,</l>
+	<l id='1236'>Le pouvoir souverain dont il est soutenu,</l>
+	<l id='1237'>Valent bien tous ensemble un trône imaginaire</l>
+	<l id='1238'>Qui ne peut subsister que par l'heur de vous plaire.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1239'>Je n'ai donc qu'à mourir en faveur de ce choix.</l>
+	<l id='1240'>J'en ai reçu la loi de votre propre voix ;</l>
+	<l id='1241'>C'est un ordre absolu qu'il est temps que j'entende.</l>
+	<l id='1242'>Pour aimer un Romain, vous voulez qu'il commande ;</l>
+	<l id='1243'>Et comme Perpenna ne le peut sans ma mort,</l>
+	<l id='1244'>Pour remplir votre trône il lui faut tout mon sort.</l>
+	<l id='1245'>Lui donner votre main, c'est m'ordonner, madame,</l>
+	<l id='1246'>De lui céder ma place au camp et dans votre âme.</l>
+	<l id='1247'>Il est, il est trop juste, après un tel bonheur,</l>
+	<l id='1248'>Qu'il l'ait dans notre armée, ainsi qu'en votre coeur :</l>
+	<l id='1249'>J'obéis sans murmure, et veux bien que ma vie...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1250'>Avant que par cet ordre elle vous soit ravie,</l>
+	<l id='1251'>Puis-je me plaindre à vous d'un retour inégal</l>
+	<l id='1252'>Qui tient moins d'un ami qu'il ne fait d'un rival ?</l>
+	<l id='1253'>Vous trouvez ma faveur et trop prompte et trop pleine !</l>
+	<l id='1254'>L'hymen où je m'apprête est pour vous une gêne !</l>
+	<l id='1255'>Vous m'en parlez enfin comme si vous m'aimiez !</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1256'>Souffrez, après ce mot, que je meure à vos pieds.</l>
+	<l id='1257'>J'y veux bien immoler tout mon bonheur au vôtre ;</l>
+	<l id='1258'>Mais je ne vous puis voir entre les bras d'un autre,</l>
+	<l id='1259'>Et c'est assez vous dire à quelle extrémité</l>
+	<l id='1260'>Me réduit mon amour, que j'ai mal écouté.</l>
+	<l id='1261'>Bien qu'un si digne objet le rendît excusable,</l>
+	<l id='1262'>J'ai cru honteux d'aimer quand on n'est plus aimable :</l>
+	<l id='1263'>J'ai voulu m'en défendre à voir mes cheveux gris,</l>
+	<l id='1264'>Et me suis répondu longtemps de vos mépris ;</l>
+	<l id='1265'>Mais j'ai vu dans votre âme ensuite une autre idée,</l>
+	<l id='1266'>Sur qui mon espérance aussitôt s'est fondée ;</l>
+	<l id='1267'>Et je me suis promis bien plus qu'à tous vos rois,</l>
+	<l id='1268'>Quand j'ai vu que l'amour n'en ferait point le choix.</l>
+	<l id='1269'>J'allais me déclarer sans l'offre d'Aristie :</l>
+	<l id='1270'>Non que ma passion s'en soit vue alentie ;</l>
+	<l id='1271'>Mais je n'ai point douté qu'il ne fût d'un grand coeur</l>
+	<l id='1272'>De tout sacrifier pour le commun bonheur.</l>
+	<l id='1273'>L'amour de Perpenna s'est joint à ces pensées ;</l>
+	<l id='1274'>Vous avez vu le reste, et mes raisons forcées.</l>
+	<l id='1275'>Je m'étais figuré que de tels déplaisirs</l>
+	<l id='1276'>Pourraient ne me coûter que deux ou trois soupirs ;</l>
+	<l id='1277'>Et pour m'en consoler, j'envisageais l'estime</l>
+	<l id='1278'>Et d'ami généreux et de chef magnanime ;</l>
+	<l id='1279'>Mais près d'un coup fatal, je sens par mes ennuis</l>
+	<l id='1280'>Que je me promettais bien plus que je ne puis.</l>
+	<l id='1281'>Je me rends donc, madame ; ordonnez de ma vie :</l>
+	<l id='1282'>Encor tout de nouveau je vous la sacrifie.</l>
+	<l id='1283' part="i">Aimez-vous Perpenna ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1283' part="f">Je sais vous obéir,</l>
+	<l id='1284'>Mais je ne sais que c'est d'aimer ni de haïr ;</l>
+	<l id='1285'>Et la part que tantôt vous aviez dans mon âme</l>
+	<l id='1286'>Fut un don de ma gloire, et non pas de ma flamme.</l>
+	<l id='1287'>Je n'en ai point pour lui, je n'en eus point pour vous :</l>
+	<l id='1288'>Je ne veux point d'amant, mais je veux un époux ;</l>
+	<l id='1289'>Mais je veux un héros, qui par son hyménée</l>
+	<l id='1290'>Sache élever si haut le trône où je suis née,</l>
+	<l id='1291'>Qu'il puisse de l'Espagne être l'heureux soutien,</l>
+	<l id='1292'>Et laisser de vrais rois de mon sang et du sien.</l>
+	<l id='1293'>Je le trouvais en vous, n'eût été la bassesse</l>
+	<l id='1294'>Qui pour ce cher rival contre moi s'intéresse,</l>
+	<l id='1295'>Et dont, quand je vous mets au-dessus de cent rois,</l>
+	<l id='1296'>Une répudiée a mérité le choix.</l>
+	<l id='1297'>Je l'oublierai pourtant, et veux vous faire grâce.</l>
+	<l id='1298' part="i">M'aimez-vous ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1298' part="f">Oserais-je en prendre encor l'audace ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1299'>Prenez-la, j'y consens, seigneur ; et dès demain,</l>
+	<l id='1300'>Au lieu de Perpenna, donnez-moi votre main.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1301'>Que se tiendrait heureux un amour moins sincère</l>
+	<l id='1302'>Qui n'aurait autre but que de se satisfaire,</l>
+	<l id='1303'>Et qui se remplirait de sa félicité</l>
+	<l id='1304'>Sans prendre aucun souci de votre dignité !</l>
+	<l id='1305'>Mais quand vous oubliez ce que j'ai pu vous dire,</l>
+	<l id='1306'>Puis-je oublier les soins d'agrandir votre empire ;</l>
+	<l id='1307'>Que votre grand projet est celui de régner ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1308'>Seigneur, vous faire grâce, est-ce m'en éloigner ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1309'>Ah ! Madame, est-il temps que cette grâce éclate ?</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1310'>C'est cet éclat, seigneur, que cherche Viriate.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1311'>Nous perdons tout, madame, à le précipiter :</l>
+	<l id='1312'>L'amour de Perpenna le fera révolter.</l>
+	<l id='1313'>Souffrez qu'un peu de temps doucement le ménage,</l>
+	<l id='1314'>Qu'auprès d'un autre objet un autre amour l'engage.</l>
+	<l id='1315'>Des amis d'Aristie assurons le secours</l>
+	<l id='1316'>À force de promettre, en différant toujours.</l>
+	<l id='1317'>Détruire tout l'espoir qui les tient en haleine,</l>
+	<l id='1318'>C'est les perdre, c'est mettre un jaloux hors de peine,</l>
+	<l id='1319'>Dont l'esprit ébranlé ne se doit pas guérir</l>
+	<l id='1320'>De cette impression qui peut nous l'acquérir.</l>
+	<l id='1321'>Pourrions-nous venger Rome après de telles pertes ?</l>
+	<l id='1322'>Pourrions-nous l'affranchir des misères souffertes ?</l>
+	<l id='1323'>Et de ses intérêts un si haut abandon...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1324'>Et que m'importe à moi si Rome souffre ou non ?</l>
+	<l id='1325'>Quand j'aurai de ses maux effacé l'infamie,</l>
+	<l id='1326'>J'en obtiendrai pour fruit le nom de son amie !</l>
+	<l id='1327'>Je vous verrai consul m'en apporter les lois,</l>
+	<l id='1328'>Et m'abaisser vous-même au rang des autres rois !</l>
+	<l id='1329'>Si vous m'aimez, seigneur, nos mers et nos montagnes</l>
+	<l id='1330'>Doivent borner vos voeux, ainsi que nos Espagnes :</l>
+	<l id='1331'>Nous pouvons nous y faire un assez beau destin,</l>
+	<l id='1332'>Sans chercher d'autre gloire au pied de l'Aventin.</l>
+	<l id='1333'>Affranchissons le Tage, et laissons faire au Tibre.</l>
+	<l id='1334'>La liberté n'est rien quand tout le monde est libre ;</l>
+	<l id='1335'>Mais il est beau de l'être, et voir tout l'univers</l>
+	<l id='1336'>Soupirer sous le joug et gémir dans les fers ;</l>
+	<l id='1337'>Il est beau d'étaler cette prérogative</l>
+	<l id='1338'>Aux yeux du Rhône esclave et de Rome captive ;</l>
+	<l id='1339'>Et de voir envier aux peuples abattus</l>
+	<l id='1340'>Ce respect que le sort garde pour les vertus.</l>
+	<l id='1341'>Quant au grand Perpenna, s'il est si redoutable,</l>
+	<l id='1342'>Remettez-moi le soin de le rendre traitable :</l>
+	<l id='1343'>Je sais l'art d'empêcher les grands coeurs de faillir.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1344'>Mais quel fruit pensez-vous en pouvoir recueillir ?</l>
+	<l id='1345'>Je le sais comme vous, et vois quelles tempêtes</l>
+	<l id='1346'>Cet ordre surprenant formera sur nos têtes.</l>
+	<l id='1347'>Ne cherchons point, madame, à faire des mutins,</l>
+	<l id='1348'>Et ne nous brouillons point avec nos bons destins.</l>
+	<l id='1349'>Rome nous donnera sans eux assez de peine,</l>
+	<l id='1350'>Avant que de souscrire à l'hymen d'une reine ;</l>
+	<l id='1351'>Et nous n'en fléchirons jamais la dureté,</l>
+	<l id='1352'>À moins qu'elle nous doive et gloire et liberté.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1353'>Je vous avouerai plus, seigneur : loin d'y souscrire,</l>
+	<l id='1354'>Elle en prendra pour vous une haine où j'aspire,</l>
+	<l id='1355'>Un courroux implacable, un orgueil endurci ;</l>
+	<l id='1356'>Et c'est par où je veux vous arrêter ici.</l>
+	<l id='1357'>Qu'ai-je à faire dans Rome ? Et pourquoi, je vous prie...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1358'>Mais nos Romains, madame, aiment tous leur patrie ;</l>
+	<l id='1359'>Et de tous leurs travaux l'unique et doux espoir,</l>
+	<l id='1360'>C'est de vaincre bientôt assez pour la revoir.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1361'>Pour les enchaîner tous sur les rives du Tage,</l>
+	<l id='1362'>Nous n'avons qu'à laisser Rome dans l'esclavage :</l>
+	<l id='1363'>Ils aimeront à vivre et sous vous et sous moi,</l>
+	<l id='1364'>Tant qu'ils n'auront qu'un choix d'un tyran ou d'un roi.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1365'>Ils ont pour l'un et l'autre une pareille haine,</l>
+	<l id='1366'>Et n'obéiront point au mari d'une reine.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1367'>Qu'ils aillent donc chercher des climats à leur choix,</l>
+	<l id='1368'>Où le gouvernement n'ait ni tyrans ni rois.</l>
+	<l id='1369'>Nos Espagnols, formés à votre art militaire,</l>
+	<l id='1370'>Achèveront sans eux ce qui nous reste à faire.</l>
+	<l id='1371'>La perte de Sylla n'est pas ce que je veux ;</l>
+	<l id='1372'>Rome attire encor moins la fierté de mes voeux :</l>
+	<l id='1373'>L'hymen où je prétends ne peut trouver d'amorces</l>
+	<l id='1374'>Au milieu d'une ville où règnent les divorces,</l>
+	<l id='1375'>Et du haut de mon trône on ne voit point d'attraits</l>
+	<l id='1376'>Où l'on n'est roi qu'un an, pour n'être rien après.</l>
+	<l id='1377'>Enfin pour achever, j'ai fait pour vous plus qu'elle :</l>
+	<l id='1378'>Elle vous a banni, j'ai pris votre querelle ;</l>
+	<l id='1379'>Je conserve des jours qu'elle veut vous ravir.</l>
+	<l id='1380'>Prenez le diadème, et laissez-la servir.</l>
+	<l id='1381'>Il est beau de tenter des choses inouïes,</l>
+	<l id='1382'>Dût-on voir par l'effet ses volontés trahies.</l>
+	<l id='1383'>Pour moi, d'un grand Romain je veux faire un grand roi ;</l>
+	<l id='1384'>Vous, s'il y faut périr, périssez avec moi :</l>
+	<l id='1385'>C'est gloire de se perdre en servant ce qu'on aime.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1386'>Mais porter dès l'abord les choses à l'extrême,</l>
+	<l id='1387'>Madame, et sans besoin faire des mécontents !</l>
+	<l id='1388'>Soyons heureux plus tard pour l'être plus longtemps.</l>
+	<l id='1389'>Une victoire ou deux jointes à quelque adresse...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1390'>Vous savez que l'amour n'est pas ce qui me presse,</l>
+	<l id='1391'>Seigneur ; mais après tout, il faut le confesser,</l>
+	<l id='1392'>Tant de précaution commence à me lasser.</l>
+	<l id='1393'>Je suis reine ; et qui sait porter une couronne,</l>
+	<l id='1394'>Quand il a prononcé, n'aime point qu'on raisonne.</l>
+	<l id='1395'>Je vais penser à moi, vous penserez à vous.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1396'>Ah ! Si vous écoutez cet injuste courroux...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1397'>Je n'en ai point, seigneur ; mais mon inquiétude</l>
+	<l id='1398'>Ne veut plus dans mon sort aucune incertitude :</l>
+	<l id='1399'>Vous me direz demain où je dois l'arrêter.</l>
+	<l id='1400'>Cependant je vous laisse avec qui consulter.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Sertorius, Perpenna, Aufide.</head>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1401'>Dieux ! Qui peut faire ainsi disparaître la reine ?</l> 
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='1402'>Lui-même a quelque chose en l'âme qui le gêne,</l>
+	<l id='1403'>Seigneur ; et notre abord le rend tout interdit.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1404'>De Pompée en ces lieux savez-vous ce qu'on dit ?</l>
+	<l id='1405'>L'avez-vous mis fort loin au delà de la porte ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1406'>Comme assez près des murs il avait son escorte,</l>
+	<l id='1407'>Je me suis dispensé de le mettre plus loin.</l>
+	<l id='1408'>Mais de votre secours, seigneur, j'ai grand besoin.</l>
+	<l id='1409'>Tout son visage montre une fierté si haute...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1410'>Nous n'avons rien conclu, mais ce n'est pas ma faute ;</l>
+	<l id='1411' part="i">Et vous savez...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1411' part="f">Je sais qu'en de pareils débats...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1412'>Je n'ai point cru devoir mettre les armes bas :</l>
+	<l id='1413' part="i">Il n'est pas encor temps.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1413' part="f">Continuez, de grâce ;</l>
+	<l id='1414'>Il n'est pas encor temps que l'amitié se lasse.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1415'>Votre intérêt m'arrête autant comme le mien :</l>
+	<l id='1416'>Si je m'en trouvais mal, vous ne seriez pas bien.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1417'>De vrai, sans votre appui je serais fort à plaindre ;</l>
+	<l id='1418'>Mais je ne vois pour vous aucun sujet de craindre.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1419'>Je serais le premier dont on serait jaloux ;</l>
+	<l id='1420'>Mais ensuite le sort pourrait tomber sur vous.</l>
+	<l id='1421'>Le tyran après moi vous craint plus qu'aucun autre,</l>
+	<l id='1422'>Et ma tête abattue ébranlerait la vôtre.</l>
+	<l id='1423'>Nous ferons bien tous deux d'attendre plus d'un an.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1424'>Que parlez-vous, seigneur, de tête et de tyran ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1425'>Je parle de Sylla, vous le devez connaître.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1426'>Et je parlais des feux que la reine a fait naître.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1427'>Nos esprits étaient donc également distraits.</l>
+	<l id='1428'>Tout le mien s'attachait aux périls de la paix ;</l>
+	<l id='1429'>Et je vous demandais quel bruit fait par la ville</l>
+	<l id='1430'>De Pompée et de moi l'entretien inutile.</l>
+	<l id='1431' part="i">Vous le saurez, Aufide ?</l>
+</sp>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='1431' part="f">À ne rien déguiser,</l>
+	<l id='1432'>Seigneur, ceux de sa suite en ont su mal user ;</l>
+	<l id='1433'>J'en crains parmi le peuple un insolent murmure.</l>
+	<l id='1434'>Ils ont dit que Sylla quitte sa dictature,</l>
+	<l id='1435'>Que vous seul refusez les douceurs de la paix,</l>
+	<l id='1436'>Et voulez une guerre à ne finir jamais.</l>
+	<l id='1437'>Déjà de nos soldats l'âme préoccupée</l>
+	<l id='1438'>Montre un peu trop de joie à parler de Pompée,</l>
+	<l id='1439'>Et si l'erreur s'épand jusqu'en nos garnisons,</l>
+	<l id='1440'>Elle y pourra semer de dangereux poisons.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1441'>Nous en romprons le coup avant qu'elle grossisse,</l>
+	<l id='1442'>Et ferons par nos soins avorter l'artifice.</l>
+	<l id='1443'>D'autres plus grands périls le ciel m'a garanti.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1444'>Ne ferions-nous point mieux d'accepter le parti,</l>
+	<l id='1445'>Seigneur ? Trouvez-vous l'offre ou honteuse ou mal sûre ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1446'>Sylla peut en effet quitter sa dictature ;</l>
+	<l id='1447'>Mais il peut faire aussi des consuls à son choix,</l>
+	<l id='1448'>De qui la pourpre esclave agira sous ses lois ;</l>
+	<l id='1449'>Et quand nous n'en craindrons aucuns ordres sinistres,</l>
+	<l id='1450'>Nous périrons par ceux de ses lâches ministres.</l>
+	<l id='1451'>Croyez-moi, pour des gens comme vous deux et moi,</l>
+	<l id='1452'>Rien n'est si dangereux que trop de bonne foi.</l>
+	<l id='1453'>Sylla par politique a pris cette mesure</l>
+	<l id='1454'>De montrer aux soldats l'impunité fort sûre ;</l>
+	<l id='1455'>Mais pour Cinna, Carbon, le jeune Marius,</l>
+	<l id='1456'>Il a voulu leur tête, et les a tous perdus.</l>
+	<l id='1457'>Pour moi, que tout mon camp sur ce bruit m'abandonne,</l>
+	<l id='1458'>Qu'il ne reste pour moi que ma seule personne,</l>
+	<l id='1459'>Je me perdrai plutôt dans quelque affreux climat,</l>
+	<l id='1460'>Qu'aller, tant qu'il vivra, briguer le consulat.</l>
+	<l id='1461' part="i">Vous...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1461' part="f">Ce n'est pas, seigneur, ce qui me tient en peine.</l>
+	<l id='1462'>Exclu du consulat par l'hymen d'une reine,</l>
+	<l id='1463'>Du moins si vos bontés m'obtiennent ce bonheur,</l>
+	<l id='1464'>Je n'attends plus de Rome aucun degré d'honneur ;</l>
+	<l id='1465'>Et banni pour jamais dans la Lusitanie,</l>
+	<l id='1466'>J'y crois en sûreté les restes de ma vie.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1467'>Oui ; mais je ne vois pas encor de sûreté</l>
+	<l id='1468'>À ce que vous et moi nous avions concerté.</l>
+	<l id='1469'>Vous savez que la reine est d'une humeur si fière...</l>
+	<l id='1470'>Mais peut-être le temps la rendra moins altière.</l>
+	<l id='1471'>Adieu : dispensez-moi de parler là-dessus.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1472'>Parlez, seigneur : mes voeux sont-ils si mal reçus ?</l>
+	<l id='1473'>Est-ce en vain que je l'aime, en vain que je soupire ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1474'>Sa retraite a plus dit que je ne puis vous dire.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1475'>Elle m'a dit beaucoup ; mais, seigneur, achevez,</l>
+	<l id='1476'>Et ne me cachez point ce que vous en savez.</l>
+	<l id='1477'>Ne m'auriez-vous rempli que d'un espoir frivole ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1478'>Non, je vous l'ai cédée, et vous tiendrai parole.</l>
+	<l id='1479'>Je l'aime, et vous la donne encor malgré mon feu ;</l>
+	<l id='1480'>Mais je crains que ce don n'ait jamais son aveu,</l>
+	<l id='1481'>Qu'il n'attire sur nous d'impitoyables haines.</l>
+	<l id='1482'>Que vous dirai-je enfin ? L'Espagne a d'autres reines ;</l>
+	<l id='1483'>Et vous pourriez vous faire un destin bien plus doux,</l>
+	<l id='1484'>Si vous faisiez pour moi ce que je fais pour vous.</l>
+<note type='L'>Vécéens : Peuple d'Hispanie, au Sud des Cantabres dont les séparait l'Idubeda, avaient pour villes principales Palentia et Cauca. Ils furent subjugués par Posthumius après 14 ans de guerre . Devenus suspects pendant le guerre des Celtibères, ils furent attaqués de nouveaux par les Romains en 158 et 136, mais ne furent soumis totalement qu'en l'an 100. Leur pays répondait aux provinces modernes de Léon et de Vieille-Castille. [B]</note>
+<note type='L'>Ilergètes : Peuple d'Hispanie, habitait entre l'Ebre et le Sicoris, et avait pour ville principale Ilerda (auj. Lérida). [B]</note>
+	<l id='1485'>Celle des Vacéens, celle des Ilergètes,</l>
+	<l id='1486'>Rendraient vos volontés bien plus tôt satisfaites ;</l>
+	<l id='1487'>La reine avec chaleur saurait vous y servir.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1488'>Vous me l'avez promise, et me l'allez ravir !</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1489'>Que sert que je promette et que je vous la donne,</l>
+	<l id='1490'>Quand son ambition l'attache à ma personne ?</l>
+	<l id='1491'>Vous savez les raisons de cet attachement,</l>
+<note type='L'>Confidemment : Avec confiance. [F]</note>
+	<l id='1492'>Je vous en ai tantôt parlé confidemment ;</l>
+	<l id='1493'>Je vous en fais encor la même confidence.</l>
+	<l id='1494'>Faites à votre amour un peu de violence ;</l>
+	<l id='1495'>J'ai triomphé du mien : j'y suis encor tout prêt ;</l>
+	<l id='1496'>Mais s'il faut du parti ménager l'intérêt,</l>
+	<l id='1497'>Faut-il pousser à bout une reine obstinée,</l>
+	<l id='1498'>Qui veut faire à son choix toute sa destinée,</l>
+	<l id='1499'>Et de qui le secours, depuis plus de dix ans,</l>
+	<l id='1500'>Nous a mieux soutenus que tous nos partisans ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1501'>La trouvez-vous, seigneur, en état de vous nuire ?</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1502'>Non, elle ne peut pas tout à fait nous détruire ;</l>
+	<l id='1503'>Mais si vous m'enchaînez à ce que j'ai promis,</l>
+	<l id='1504'>Dès demain elle traite avec nos ennemis.</l>
+	<l id='1505'>Leur camp n'est que trop proche ; ici chacun murmure :</l>
+	<l id='1506'>Jugez ce qu'il faut craindre en cette conjoncture.</l>
+	<l id='1507'>Voyez quel prompt remède on y peut apporter,</l>
+	<l id='1508'>Et quel fruit nous aurons de la violenter.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1509'>C'est à moi de me vaincre, et la raison l'ordonne ;</l>
+	<l id='1510'>Mais d'un si grand dessein tout mon coeur qui frissonne...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1511'>Ne vous contraignez point : dût m'en coûter le jour,</l>
+	<l id='1512'>Je tiendrai ma promesse en dépit de l'amour.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1513'>Si vos promesses n'ont l'aveu de Viriate...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1514'>Je ne puis de sa part rien dire qui vous flatte.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1515'>Je dois donc me contraindre, et j'y suis résolu.</l>
+	<l id='1516'>Oui, sur tous mes désirs je me rends absolu :</l>
+	<l id='1517'>J'en veux, à votre exemple, être aujourd'hui le maître ;</l>
+	<l id='1518'>Et malgré cet amour que j'ai laissé trop croître,</l>
+	<l id='1519' part="i">Vous direz à la reine...</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1519' part="f">Eh bien ! Je lui dirai ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1520'>Rien, seigneur, rien encor ; demain j'y penserai.</l>
+	<l id='1521'>Toutefois la colère où s'emporte son âme</l>
+	<l id='1522'>Pourrait dès cette nuit commencer quelque trame.</l>
+	<l id='1523'>Vous lui direz, seigneur, tout ce que vous voudrez ;</l>
+	<l id='1524'>Et je suivrai l'avis que pour moi vous prendrez.</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1525' part="i">Je vous admire et plains.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1525' part="f">Que j'ai l'âme accablée !</l>
+</sp>
+<sp who='SERTORIUS'><speaker>SERTORIUS.</speaker>
+	<l id='1526'>Je partage les maux dont je la vois comblée.</l>
+	<l id='1527'>Adieu : j'entre un moment pour calmer son chagrin,</l>
+	<l id='1528'>Et me rendrai chez vous à l'heure du festin.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Perpenna, Aufide.</head>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='1529'>Ce maître si chéri fait pour vous des merveilles :</l>
+	<l id='1530'>Votre flamme en reçoit des faveurs sans pareilles !</l>
+	<l id='1531'>Son nom seul, malgré lui, vous avait tout volé,</l>
+	<l id='1532'>Et la reine se rend sitôt qu'il a parlé.</l>
+	<l id='1533'>Quels services faut-il que votre espoir hasarde,</l>
+	<l id='1534'>Afin de mériter l'amour qu'elle vous garde ?</l>
+	<l id='1535'>Et dans quel temps, seigneur, purgerez-vous ces lieux</l>
+	<l id='1536'>De cet illustre objet qui lui blesse les yeux ?</l>
+	<l id='1537'>Elle n'est point ingrate ; et les lois qu'elle impose,</l>
+	<l id='1538'>Pour se faire obéir, promettent peu de chose ;</l>
+	<l id='1539'>Mais on n'a qu'à laisser le salaire à son choix,</l>
+	<l id='1540'>Et courir sans scrupule exécuter ses lois.</l>
+	<l id='1541'>Vous ne me dites rien ? Apprenez-moi, de grâce,</l>
+	<l id='1542'>Comment vous résolvez que le festin se passe ?</l>
+	<l id='1543'>Dissimulerez-vous ce manquement de foi ?</l>
+	<l id='1544' part="i">Et voulez-vous...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1544' part="f">Allons en résoudre chez moi.</l>
+</sp>
+</div2></div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type ='scene' n='1'><head>SCÈNE PREMIÈRE. Arisite, Viriate.</head>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1545'>Oui, madame, j'en suis comme vous ennemie.</l>
+	<l id='1546'>Vous aimez les grandeurs, et je hais l'infamie.</l>
+	<l id='1547'>Je cherche à me venger, vous à vous établir ;</l>
+	<l id='1548'>Mais vous pourrez me perdre, et moi vous affaiblir,</l>
+	<l id='1549'>Si le coeur mieux ouvert ne met d'intelligence</l>
+	<l id='1550'>Votre établissement avecque ma vengeance.</l>
+	<l id='1551'>On m'a volé Pompée ; et moi pour le braver,</l>
+	<l id='1552'>Cet ingrat que sa foi n'ose me conserver,</l>
+	<l id='1553'>Je cherche un autre époux qui le passe, ou l'égale ;</l>
+	<l id='1554'>Mais je n'ai pas dessein d'être votre rivale,</l>
+	<l id='1555'>Et n'ai point dû prévoir, ni que vers un Romain</l>
+	<l id='1556'>Une reine jamais daignât pencher sa main,</l>
+	<l id='1557'>Ni qu'un héros, dont l'âme a paru si romaine,</l>
+	<l id='1558'>Démentît ce grand nom par l'hymen d'une reine.</l>
+	<l id='1559'>J'ai cru dans sa naissance et votre dignité</l>
+	<l id='1560'>Pareille aversion et contraire fierté.</l>
+	<l id='1561'>Cependant on me dit qu'il consent l'hyménée,</l>
+	<l id='1562'>Et qu'en vain il s'oppose au choix de la journée,</l>
+	<l id='1563'>Puisque si dès demain il n'a tout son éclat,</l>
+	<l id='1564'>Vous allez du parti séparer votre état.</l>
+	<l id='1565'>Comme je n'ai pour but que d'en grossir les forces,</l>
+	<l id='1566'>J'aurais grand déplaisir d'y causer des divorces,</l>
+	<l id='1567'>Et de servir Sylla mieux que tous ses amis,</l>
+	<l id='1568'>Quand je lui veux partout faire des ennemis.</l>
+	<l id='1569'>Parlez donc : quelque espoir que vous m'ayez vu prendre,</l>
+	<l id='1570'>Si vous y prétendez, je cesse d'y prétendre.</l>
+	<l id='1571'>Un reste d'autre espoir, et plus juste et plus doux,</l>
+	<l id='1572'>Saura voir sans chagrin Sertorius à vous.</l>
+	<l id='1573'>Mon coeur veut à toute heure immoler à Pompée</l>
+	<l id='1574'>Tous les ressentiments de ma place usurpée ;</l>
+	<l id='1575'>Et comme son amour eut peine à me trahir,</l>
+	<l id='1576'>J'ai voulu me venger, et n'ai pu le haïr.</l>
+	<l id='1577'>Ne me déguisez rien, non plus que je déguise.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1578'>Viriate à son tour vous doit même franchise,</l>
+	<l id='1579'>Madame ; et d'ailleurs même on vous en a trop dit,</l>
+	<l id='1580'>Pour vous dissimuler ce que j'ai dans l'esprit.</l>
+	<l id='1581'>J'ai fait venir exprès Sertorius d'Afrique</l>
+	<l id='1582'>Pour sauver mes états d'un pouvoir tyrannique ;</l>
+	<l id='1583'>Et mes voisins domptés m'apprenaient que sans lui</l>
+	<l id='1584'>Nos rois contre Sylla n'étaient qu'un vain appui.</l>
+	<l id='1585'>Avec un seul vaisseau ce grand héros prit terre ;</l>
+	<l id='1586'>Avec mes sujets seuls il commença la guerre :</l>
+	<l id='1587'>Je mis entre ses mains mes places et mes ports,</l>
+	<l id='1588'>Et je lui confiai mon sceptre et mes trésors.</l>
+	<l id='1589'>Dès l'abord il sut vaincre, et j'ai vu la victoire</l>
+	<l id='1590'>Enfler de jour en jour sa puissance et sa gloire.</l>
+	<l id='1591'>Nos rois, lassés du joug, et vos persécutés</l>
+	<l id='1592'>Avec tant de chaleur l'ont joint de tous côtés,</l>
+	<l id='1593'>Qu'enfin il a poussé nos armes fortunées</l>
+	<l id='1594'>Jusques à vous réduire au pied des Pyrénées.</l>
+	<l id='1595'>Mais après l'avoir mis au point où je le vois,</l>
+	<l id='1596'>Je ne puis voir que lui qui soit digne de moi ;</l>
+	<l id='1597'>Et regardant sa gloire ainsi que mon ouvrage,</l>
+	<l id='1598'>Je périrai plutôt qu'une autre la partage.</l>
+	<l id='1599'>Mes sujets valent bien que j'aime à leur donner</l>
+	<l id='1600'>Des monarques d'un sang qui sache gouverner,</l>
+	<l id='1601'>Qui sache faire tête à vos tyrans du monde,</l>
+	<l id='1602'>Et rendre notre Espagne en lauriers si féconde,</l>
+<note type='L'>Pô : Principal fleuve d'Italie du Nord.</note>
+	<l id='1603'>Qu'on voie un jour le Pô redouter ses efforts,</l>
+	<l id='1604'>Et le Tibre lui-même en trembler pour ses bords.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1605'>Votre dessein est grand ; mais à quoi qu'il aspire...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1606'>Il m'a dit les raisons que vous me voulez dire.</l>
+	<l id='1607'>Je sais qu'il serait bon de taire et différer</l>
+	<l id='1608'>Ce glorieux hymen qu'il me fait espérer :</l>
+	<l id='1609'>Mais la paix qu'aujourd'hui l'on offre à ce grand homme</l>
+	<l id='1610'>Ouvre trop les chemins et les portes de Rome.</l>
+	<l id='1611'>Je vois que s'il y rentre il est perdu pour moi,</l>
+	<l id='1612'>Et je l'en veux bannir par le don de ma foi.</l>
+	<l id='1613'>Si je hasarde trop de m'être déclarée,</l>
+	<l id='1614'>J'aime mieux ce péril que ma perte assurée ;</l>
+	<l id='1615'>Et si tous vos proscrits osent s'en désunir,</l>
+	<l id='1616'>Nos bons destins sans eux pourront nous soutenir.</l>
+	<l id='1617'>Mes peuples aguerris sous votre discipline</l>
+	<l id='1618'>N'auront jamais au coeur de Rome qui domine ;</l>
+	<l id='1619'>Et ce sont des Romains dont l'unique souci</l>
+	<l id='1620'>Est de combattre, vaincre, et triompher ici.</l>
+	<l id='1621'>Tant qu'ils verront marcher ce héros à leur tête,</l>
+	<l id='1622'>Ils iront sans frayeur de conquête en conquête.</l>
+	<l id='1623'>Un exemple si grand dignement soutenu</l>
+	<l id='1624'>Saura... Mais que nous veut ce Romain inconnu ?</l>
+</sp>
+</div2>
+<div2 type ='scene' n='2'><head>SCÈNE II. Arisite, Viriate, Arcas.</head>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1625'>Madame, c'est Arcas, l'affranchi de mon frère ;</l>
+	<l id='1626'>Sa venue en ces lieux cache quelque mystère.</l>
+	<l id='1627' part="i">Parle, Arcas, et dis-nous...</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='1627' part="f">Ces lettres mieux que moi</l>
+	<l id='1628'>Vous diront un succès qu'à peine encor je crois.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1629'>Chère soeur, pour ta joie il est temps que tu saches</l>
+	<l id='1630'>Que nos maux et les tiens vont finir en effet.</l>
+	<l id='1631'>Sylla marche en public sans faisceaux et sans haches,</l>
+	<l id='1632'>Prêt à rendre raison de tout ce qu'il a fait.</l>
+	<l id='1633'>Il s'est en plein sénat démis de sa puissance ;</l>
+	<l id='1634'>Et si vers toi Pompée a le moindre penchant,</l>
+	<l id='1635'>Le ciel vient de briser sa nouvelle alliance,</l>
+	<l id='1636'>Et la triste Émilie est morte en accouchant.</l>
+	<l id='1637'>Sylla même consent, pour calmer tant de haines,</l>
+	<l id='1638'>Qu'un feu qui fut si beau rentre en sa dignité,</l>
+	<l id='1639'>Et que l'hymen te rende à tes premières chaînes,</l>
+	<l id='1640'>En même temps qu'à Rome il rend sa liberté.</l>
+<stage>Quintus Aristius.</stage>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1641'>Le ciel s'est donc lassé de m'être impitoyable !</l>
+	<l id='1642'>Ce bonheur, comme à toi, me paraît incroyable.</l>
+	<l id='1643'>Cours au camp de Pompée, et dis-lui, cher Arcas...</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='1644'>Il a cette nouvelle, et revient sur ses pas.</l>
+	<l id='1645'>De la part de Sylla chargé de lui remettre</l>
+	<l id='1646'>Sur ce grand changement une pareille lettre,</l>
+	<l id='1647'>À deux milles d'ici j'ai su le rencontrer.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1648'>Quel amour, quelle joie a-t-il daigné montrer ?</l>
+	<l id='1649' part="i">Que dit-il ? Que fait-il ?</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='1649' part="f">Par votre expérience</l>
+	<l id='1650'>Vous pouvez bien juger de son impatience ;</l>
+	<l id='1651'>Mais rappelé vers vous par un transport d'amour</l>
+	<l id='1652'>Qui ne lui permet pas d'achever son retour,</l>
+	<l id='1653'>L'ordre que pour son camp ce grand effet demande</l>
+	<l id='1654'>L'arrête à le donner, attendant qu'il s'y rende.</l>
+	<l id='1655'>Il me suivra de près, et m'a fait avancer</l>
+	<l id='1656'>Pour vous dire un miracle où vous n'osiez penser.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1657'>Vous avez lieu d'en prendre une allégresse égale,</l>
+	<l id='1658'>Madame, vous voilà sans crainte et sans rivale.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1659'>Je n'en ai plus en vous, et je n'en puis douter ;</l>
+	<l id='1660'>Mais il m'en reste une autre et plus à redouter :</l>
+	<l id='1661'>Rome, que ce héros aime plus que lui-même,</l>
+	<l id='1662'>Et qu'il préférerait sans doute au diadème,</l>
+	<l id='1663' part="i">Si contre cet amour...</l>
+</sp>
+</div2>
+<div2 type ='scene' n='3'><head>SCÈNE III. Viriate, Aristie, Thamire, Arcas.</head>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1663' part="m">Ah ! Madame.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1663' part="f">Qu'as-tu,</l>
+	<l id='1664'>Thamire ? Et d'où te vient ce visage abattu ?</l>
+	<l id='1665' part="i">Que nous disent tes pleurs ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1665' part="f">Que vous êtes perdue,</l>
+	<l id='1666'>Que cet illustre bras qui vous a défendue...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1667' part="i">Sertorius ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1667' part="f">Hélas ! Ce grand Sertorius...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1668' part="i">N'achèveras-tu point ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1668' part="f">Madame, il ne vit plus.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1669'>Il ne vit plus ? ô ciel ! Qui te l'a dit, Thamire ?</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1670'>Ses assassins font gloire eux-mêmes de le dire.</l>
+	<l id='1671'>Ces tigres, dont la rage, au milieu du festin,</l>
+	<l id='1672'>Par l'ordre d'un perfide a tranché son destin,</l>
+	<l id='1673'>Tous couverts de son sang, courent parmi la ville</l>
+	<l id='1674'>Émouvoir les soldats et le peuple imbécile ;</l>
+	<l id='1675'>Et Perpenna par eux proclamé général</l>
+	<l id='1676'>Ne vous fait que trop voir d'où part ce coup fatal.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1677'>Il m'en fait voir ensemble et l'auteur et la cause.</l>
+	<l id='1678'>Par cet assassinat, c'est de moi qu'on dispose :</l>
+	<l id='1679'>C'est mon trône, c'est moi qu'on prétend conquérir,</l>
+	<l id='1680'>Et c'est mon juste choix qui seul l'a fait périr.</l>
+	<l id='1681'>Madame, après sa perte, et parmi ces alarmes,</l>
+	<l id='1682'>N'attendez point de moi de soupirs ni de larmes ;</l>
+	<l id='1683'>Ce sont amusements que dédaigne aisément</l>
+	<l id='1684'>Le prompt et noble orgueil d'un vif ressentiment :</l>
+	<l id='1685'>Qui pleure l'affaiblit, qui soupire l'exhale.</l>
+	<l id='1686'>Il faut plus de fierté dans une âme royale ;</l>
+	<l id='1687'>Et ma douleur, soumise aux soins de le venger...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1688'>Mais vous vous aveuglez au milieu du danger :</l>
+	<l id='1689' part="i">Songez à fuir, madame.</l>
+</sp>
+<sp who='THAMIRE'><speaker>THAMIRE.</speaker>
+	<l id='1689' part="f">Il n'est plus temps : Aufide,</l>
+	<l id='1690'>Des portes du palais saisi pour ce perfide,</l>
+	<l id='1691'>En fait votre prison, et lui répond de vous.</l>
+	<l id='1692'>Il vient ; dissimulez un si juste courroux ;</l>
+	<l id='1693'>Et jusqu'à ce qu'un temps plus favorable arrive,</l>
+	<l id='1694'>Daignez vous souvenir que vous êtes captive.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1695'>Je sais ce que je suis, et le serai toujours,</l>
+	<l id='1696'>N'eussé-je que le ciel et moi pour mon secours.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='4'><head>SCÈNE IV. Perpenna, Aristie, Viriate, Thamire, Arcas.</head>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1697'>Sertorius est mort ; cessez d'être jalouse,</l>
+	<l id='1698'>Madame, du haut rang qu'aurait pris son épouse,</l>
+	<l id='1699'>Et n'appréhendez plus, comme de son vivant,</l>
+	<l id='1700'>Qu'en vos propres états elle ait le pas devant.</l>
+	<l id='1701'>Si l'espoir d'Aristie a fait ombrage au vôtre,</l>
+	<l id='1702'>Je puis vous assurer et d'elle et de toute autre,</l>
+	<l id='1703'>Et que ce coup heureux saura vous maintenir</l>
+	<l id='1704'>Et contre le présent et contre l'avenir.</l>
+	<l id='1705'>C'était un grand guerrier, mais dont le sang ni l'âge</l>
+	<l id='1706'>Ne pouvaient avec vous faire un digne assemblage ;</l>
+	<l id='1707'>Et malgré ces défauts, ce qui vous en plaisait,</l>
+	<l id='1708'>C'était sa dignité, qui vous tyrannisait.</l>
+	<l id='1709'>Le nom de général vous le rendit aimable ;</l>
+	<l id='1710'>À vos rois, à moi-même il était préférable ;</l>
+	<l id='1711'>Vous vous éblouissiez du titre et de l'emploi ;</l>
+	<l id='1712'>Et je viens vous offrir et l'un et l'autre en moi,</l>
+	<l id='1713'>Avec des qualités où votre âme hautaine</l>
+	<l id='1714'>Trouvera mieux de quoi mériter une reine.</l>
+	<l id='1715'>Un Romain qui commande et sort du sang des rois</l>
+	<l id='1716'>(je laisse l'âge à part) peut espérer son choix,</l>
+	<l id='1717'>Surtout quand d'un affront son amour l'a vengée,</l>
+	<l id='1718'>Et que d'un choix abject son bras l'a dégagée.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1719'>Après t'être immolé chez toi ton général,</l>
+	<l id='1720'>Toi, que faisait trembler l'ombre d'un tel rival,</l>
+	<l id='1721'>Lâche, tu viens ici braver encor des femmes,</l>
+	<l id='1722'>Vanter insolemment tes détestables flammes,</l>
+	<l id='1723'>T'emparer d'une reine en son propre palais,</l>
+	<l id='1724'>Et demander sa main pour prix de tes forfaits !</l>
+	<l id='1725'>Crains les dieux, scélérat ; crains les dieux, ou Pompée ;</l>
+	<l id='1726'>Crains leur haine, ou son bras, leur foudre, ou son épée ;</l>
+	<l id='1727'>Et quelque noir orgueil qui te puisse aveugler,</l>
+	<l id='1728'>Apprends qu'il m'aime encore, et commence à trembler.</l>
+	<l id='1729'>Tu le verras, méchant, plus tôt que tu ne penses :</l>
+	<l id='1730'>Attends, attends de lui tes dignes récompenses.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1731'>S'il en croit votre ardeur, je suis sûr du trépas ;</l>
+	<l id='1732'>Mais peut-être, madame, il ne l'en croira pas ;</l>
+	<l id='1733'>Et quand il me verra commander une armée,</l>
+	<l id='1734'>Contre lui tant de fois à vaincre accoutumée,</l>
+	<l id='1735'>Il se rendra facile à conclure une paix</l>
+	<l id='1736'>Qui faisait dès tantôt ses plus ardents souhaits.</l>
+	<l id='1737'>J'ai même entre mes mains un assez bon otage,</l>
+	<l id='1738'>Pour faire mes traités avec quelque avantage.</l>
+	<l id='1739'>Cependant vous pourriez, pour votre heur et le mien,</l>
+	<l id='1740'>Ne parler pas si haut à qui ne vous dit rien.</l>
+	<l id='1741'>Ces menaces en l'air vous donnent trop de peine.</l>
+	<l id='1742'>Après ce que j'ai fait, laissez faire la reine ;</l>
+	<l id='1743'>Et sans blâmer des voeux qui ne vont point à vous,</l>
+	<l id='1744'>Songez à regagner le coeur de votre époux.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1745'>Oui, madame, en effet c'est à moi de répondre,</l>
+	<l id='1746'>Et mon silence ingrat a droit de me confondre.</l>
+	<l id='1747'>Ce généreux exploit, ces nobles sentiments</l>
+	<l id='1748'>Méritent de ma part de hauts remerciements :</l>
+	<l id='1749'>Les différer encor, c'est lui faire injustice.</l>
+	<l id='1750'>Il m'a rendu sans doute un signalé service ;</l>
+	<l id='1751'>Mais il n'en sait encor la grandeur qu'à demi :</l>
+	<l id='1752'>Le grand Sertorius fut son parfait ami.</l>
+	<l id='1753'>Apprenez-le, seigneur (car je me persuade</l>
+	<l id='1754'>Que nous devons ce titre à votre nouveau grade ;</l>
+	<l id='1755'>Et pour le peu de temps qu'il pourra vous durer,</l>
+	<l id='1756'>Il me coûtera peu de vous le déférer) :</l>
+	<l id='1757'>Sachez donc que pour vous il osa me déplaire,</l>
+	<l id='1758'>Ce héros ; qu'il osa mériter ma colère ;</l>
+	<l id='1759'>Que malgré son amour, que malgré mon courroux,</l>
+	<l id='1760'>Il a fait tous efforts pour me donner à vous ;</l>
+	<l id='1761'>Et qu'à moins qu'il vous plût lui rendre sa parole,</l>
+	<l id='1762'>Tout mon dessein n'était qu'une atteinte frivole ;</l>
+	<l id='1763'>Qu'il s'obstinait pour vous au refus de ma main.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1764'>Et tu peux lui plonger un poignard dans le sein !</l>
+	<l id='1765' part="i">Et ton bras...</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1765' part="f">Permettez, madame, que j'estime</l>
+	<l id='1766'>La grandeur de l'amour par la grandeur du crime.</l>
+	<l id='1767'>Chez lui-même, à sa table, au milieu d'un festin,</l>
+	<l id='1768'>D'un si parfait ami devenir l'assassin,</l>
+	<l id='1769'>Et de son général se faire un sacrifice,</l>
+	<l id='1770'>Lorsque son amitié lui rend un tel service ;</l>
+	<l id='1771'>Renoncer à la gloire, accepter pour jamais</l>
+	<l id='1772'>L'infamie et l'horreur qui suit les grands forfaits ;</l>
+	<l id='1773'>Jusqu'en mon cabinet porter sa violence,</l>
+	<l id='1774'>Pour obtenir ma main m'y tenir sans défense :</l>
+	<l id='1775'>Tout cela d'autant plus fait voir ce que je dois</l>
+	<l id='1776'>À cet excès d'amour qu'il daigne avoir pour moi ;</l>
+	<l id='1777'>Tout cela montre une âme au dernier point charmée.</l>
+	<l id='1778'>Il serait moins coupable à m'avoir moins aimée ;</l>
+	<l id='1779'>Et comme je n'ai point les sentiments ingrats,</l>
+	<l id='1780'>Je lui veux conseiller de ne m'épouser pas.</l>
+	<l id='1781'>Ce serait en son lit mettre son ennemie,</l>
+	<l id='1782'>Pour être à tous moments maîtresse de sa vie ;</l>
+	<l id='1783'>Et je me résoudrais à cet excès d'honneur,</l>
+	<l id='1784'>Pour mieux choisir la place à lui percer le coeur.</l>
+	<l id='1785'>Seigneur, voilà l'effet de ma reconnaissance.</l>
+	<l id='1786'>Du reste, ma personne est en votre puissance :</l>
+	<l id='1787'>Vous êtes maître ici ; commandez, disposez,</l>
+	<l id='1788'>Et recevez enfin ma main, si vous l'osez.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1789'>Moi ! Si je l'oserai ? Vos conseils magnanimes</l>
+	<l id='1790'>Pouvaient perdre moins d'art à m'étaler mes crimes :</l>
+	<l id='1791'>J'en connais mieux que vous toute l'énormité,</l>
+	<l id='1792'>Et pour la bien connaître ils m'ont assez coûté.</l>
+	<l id='1793'>On ne s'attache point, sans un remords bien rude,</l>
+	<l id='1794'>À tant de perfidie et tant d'ingratitude :</l>
+	<l id='1795'>Pour vous je l'ai dompté, pour vous je l'ai détruit ;</l>
+	<l id='1796'>J'en ai l'ignominie, et j'en aurai le fruit.</l>
+	<l id='1797'>Menacez mes forfaits et proscrivez ma tête :</l>
+	<l id='1798'>De ces mêmes forfaits vous serez la conquête ;</l>
+	<l id='1799'>Et n'eût tout mon bonheur que deux jours à durer,</l>
+	<l id='1800'>Vous n'avez dès demain qu'à vous y préparer.</l>
+	<l id='1801'>J'accepte votre haine, et l'ai bien méritée ;</l>
+	<l id='1802'>J'en ai prévu la suite, et j'en sais la portée.</l>
+	<l id='1803' part="i">Mon triomphe...</l>
+</sp>
+</div2>
+<div2 type ='scene' n='5'><head>SCÈNE V. Perpenna, Aristie, Viriate, Aufide, Arcas, Thamire.</head>
+<sp who='AUFIDE'><speaker>AUFIDE.</speaker>
+	<l id='1803' part="f">Seigneur, Pompée est arrivé,</l>
+	<l id='1804'>Nos soldats mutinés, le peuple soulevé.</l>
+	<l id='1805'>La porte s'est ouverte à son nom, à son ombre.</l>
+	<l id='1806'>Nous n'avons point d'amis qui ne cèdent au nombre :</l>
+	<l id='1807'>Antoine et Manlius, déchirés par morceaux,</l>
+	<l id='1808'>Tous morts et tous sanglants ont encor des bourreaux.</l>
+	<l id='1809'>On cherche avec chaleur le reste des complices,</l>
+	<l id='1810'>Que lui-même il destine à de pareils supplices.</l>
+	<l id='1811'>Je défendais mon poste : il l'a soudain forcé,</l>
+	<l id='1812'>Et de sa propre main vous me voyez percé ;</l>
+	<l id='1813'>Maître absolu de tout, il change ici la garde.</l>
+	<l id='1814'>Pensez à vous, je meurs ; la suite vous regarde.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1815'>Pour quelle heure, seigneur, faut-il se préparer</l>
+	<l id='1816'>À ce rare bonheur qu'il vient vous assurer ?</l>
+	<l id='1817'>Avez-vous en vos mains un assez bon otage</l>
+	<l id='1818'>Pour faire vos traités avec grand avantage ?</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1819'>C'est prendre en ma faveur un peu trop de souci,</l>
+	<l id='1820'>Madame ; et j'ai de quoi le satisfaire ici.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='6'><head>SCÈNE VI. Pompée, Perpenna, Viriate, Aristie, Celsus, Arcas, Thamire.</head>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1821'>Seigneur, vous aurez su ce que je viens de faire.</l>
+	<l id='1822'>Je vous ai de la paix immolé l'adversaire,</l>
+	<l id='1823'>L'amant de votre femme, et ce rival fameux</l>
+	<l id='1824'>Qui s'opposait partout au succès de vos voeux.</l>
+	<l id='1825'>Je vous rends Aristie, et finis cette crainte</l>
+	<l id='1826'>Dont votre âme tantôt se montrait trop atteinte ;</l>
+	<l id='1827'>Et je vous affranchis de ce jaloux ennui</l>
+	<l id='1828'>Qui ne pouvait la voir entre les bras d'autrui.</l>
+	<l id='1829'>Je fais plus : je vous livre une fière ennemie,</l>
+	<l id='1830'>Avec tout son orgueil et sa Lusitanie ;</l>
+	<l id='1831'>Je vous en ai fait maître, et de tous ces Romains</l>
+	<l id='1832'>Que déjà leur bonheur a remis en vos mains.</l>
+	<l id='1833'>Comme en un grand dessein, et qui veut promptitude,</l>
+	<l id='1834'>On ne s'explique pas avec la multitude,</l>
+	<l id='1835'>Je n'ai point cru, seigneur, devoir apprendre à tous</l>
+	<l id='1836'>Celui d'aller demain me rendre auprès de vous ;</l>
+	<l id='1837'>Mais j'en porte sur moi d'assurés témoignages.</l>
+	<l id='1838'>Ces lettres de ma foi vous seront de bons gages ;</l>
+	<l id='1839'>Et vous reconnaîtrez, par leurs perfides traits,</l>
+	<l id='1840'>Combien Rome pour vous a d'ennemis secrets,</l>
+	<l id='1841'>Qui tous, pour Aristie enflammés de vengeance,</l>
+	<l id='1842'>Avec Sertorius étaient d'intelligence.</l>
+	<l id='1843' part="i">Lisez...</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1843' part="f">Quoi ? Scélérat ! Quoi ? Lâche ! Oses-tu bien...</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1844'>Madame, il est ici votre maître et le mien ;</l>
+	<l id='1845'>Il faut en sa présence un peu de modestie,</l>
+	<l id='1846'>Et si je vous oblige à quelque repartie,</l>
+	<l id='1847'>La faire sans aigreur, sans outrages mêlés,</l>
+	<l id='1848'>Et ne point oublier devant qui vous parlez.</l>
+	<l id='1849'>Vous voyez là, seigneur, deux illustres rivales,</l>
+	<l id='1850'>Que cette perte anime à des haines égales.</l>
+	<l id='1851'>Jusques au dernier point elles m'ont outragé ;</l>
+	<l id='1852'>Mais puisque je vous vois, je suis assez vengé.</l>
+	<l id='1853'>Je vous regarde aussi comme un dieu tutélaire ;</l>
+	<l id='1854'>Et ne puis... Mais, ô dieux ! Seigneur, qu'allez-vous faire ?</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+<stage>, après avoir brûlé les lettres sans les lire.</stage>
+	<l id='1855'>Montrer d'un tel secret ce que je veux savoir.</l>
+	<l id='1856'>Si vous m'aviez connu, vous l'auriez su prévoir.</l>
+	<l id='1857'>Rome en deux factions trop longtemps partagée</l>
+	<l id='1858'>N'y sera point pour moi de nouveau replongée ;</l>
+	<l id='1859'>Et quand Sylla lui rend sa gloire et son bonheur,</l>
+	<l id='1860'>Je n'y remettrai point le carnage et l'horreur.</l>
+<stage>Il lui parle à l'oreille.</stage>
+	<l id='1861'>Oyez, Celsus. Surtout empêchez qu'il ne nomme</l>
+	<l id='1862'>Aucun des ennemis qu'elle m'a faits à Rome.</l>
+	<l id='1863'>Vous, suivez ce tribun : j'ai quelques intérêts</l>
+	<l id='1864'>Qui demandent ici des entretiens secrets.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1865'>Seigneur, se pourrait-il qu'après un tel service...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1866'>J'en connais l'importance, et lui rendrai justice.</l>
+	<l id='1867' part="i">Allez.</l>
+</sp>
+<sp who='PERPENNA'><speaker>PERPENNA.</speaker>
+	<l id='1867' part="m">Mais cependant leur haine...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1867' part="f">C'est assez.</l>
+	<l id='1868'>Je suis maître ; je parle ; allez, obéissez.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='7'><head>SCÈNE VII. Pompée, Viriate, Aristie, Thamire, Arcas.</head>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1869'>Ne vous offensez pas d'ouïr parler en maître,</l>
+	<l id='1870'>Grande reine ; ce n'est que pour punir un traître.</l>
+	<l id='1871'>Criminel envers vous d'avoir trop écouté</l>
+	<l id='1872'>L'insolence où montait sa noire lâcheté,</l>
+	<l id='1873'>J'ai cru devoir sur lui prendre ce haut empire,</l>
+	<l id='1874'>Pour me justifier avant que vous rien dire ;</l>
+	<l id='1875'>Mais je n'abuse point d'un si facile accès</l>
+	<l id='1876'>Et je n'ai jamais su dérober mes succès.</l>
+	<l id='1877'>Quelque appui que son crime aujourd'hui vous enlève,</l>
+	<l id='1878'>Je vous offre la paix, et ne romps point la trêve ;</l>
+	<l id='1879'>Et ceux de nos Romains qui sont auprès de vous</l>
+	<l id='1880'>Peuvent y demeurer sans craindre mon courroux.</l>
+	<l id='1881'>Si de quelque péril je vous ai garantie,</l>
+	<l id='1882'>Je ne veux pour tout prix enlever qu'Aristie,</l>
+	<l id='1883'>À qui devant vos yeux, enfin maître de moi,</l>
+	<l id='1884'>Je rapporte avec joie et ma main et ma foi.</l>
+	<l id='1885'>Je ne dis rien du coeur, il tint toujours pour elle.</l>
+</sp>
+<sp who='ARISTIE'><speaker>ARISTIE.</speaker>
+	<l id='1886'>Le mien savait vous rendre une ardeur mutuelle ;</l>
+	<l id='1887'>Et pour mieux recevoir ce don renouvelé,</l>
+	<l id='1888'>Il oubliera, seigneur, qu'on me l'avait volé.</l>
+</sp>
+<sp who='VIRIATE'><speaker>VIRIATE.</speaker>
+	<l id='1889'>Moi, j'accepte la paix que vous m'avez offerte ;</l>
+	<l id='1890'>C'est tout ce que je puis, seigneur, après ma perte :</l>
+	<l id='1891'>Elle est irréparable ; et comme je ne vois</l>
+	<l id='1892'>Ni chefs dignes de vous, ni rois dignes de moi,</l>
+	<l id='1893'>Je renonce à la guerre ainsi qu'à l'hyménée ;</l>
+	<l id='1894'>Mais j'aime encor l'honneur du trône où je suis née.</l>
+	<l id='1895'>D'une juste amitié je sais garder les lois,</l>
+	<l id='1896'>Et ne sais point régner comme règnent nos rois.</l>
+	<l id='1897'>S'il faut que sous votre ordre ainsi qu'eux je domine,</l>
+	<l id='1898'>Je m'ensevelirai sous ma propre ruine ;</l>
+	<l id='1899'>Mais si je puis régner sans honte et sans époux,</l>
+	<l id='1900'>Je ne veux d'héritiers que votre Rome, ou vous.</l>
+	<l id='1901'>Vous choisirez, seigneur ; ou si votre alliance</l>
+	<l id='1902'>Ne peut voir mes états sous ma seule puissance,</l>
+	<l id='1903'>Vous n'avez qu'à garder cette place en vos mains,</l>
+	<l id='1904'>Et je m'y tiens déjà captive des Romains.</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1905'>Madame, vous avez l'âme trop généreuse</l>
+	<l id='1906'>Pour n'en pas obtenir une paix glorieuse,</l>
+	<l id='1907'>Et l'on verra chez eux mon pouvoir abattu,</l>
+	<l id='1908'>Ou j'y ferai toujours honorer la vertu.</l>
+</sp>
+</div2>
+<div2 type ='scene' n='8'><head>SCÈNE VIII. Pompée, Aristie, Viriate, Celsus, Arcas, Thamire.</head>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1909' part="i">En est-ce fait, Celsus ?</l>
+</sp>
+<sp who='CELSUS'><speaker>CELSUS.</speaker>
+	<l id='1909' part="f">Oui, seigneur : le perfide</l>
+	<l id='1910'>A vu plus de cent bras punir son parricide ;</l>
+	<l id='1911'>Et livré par votre ordre à ce peuple irrité,</l>
+	<l id='1912' part="i">Sans rien dire...</l>
+</sp>
+<sp who='POMPÉE'><speaker>POMPÉE.</speaker>
+	<l id='1912' part="f">Il suffit : Rome est en sûreté ;</l>
+	<l id='1913'>Et ceux qu'à me haïr j'avais trop su contraindre,</l>
+	<l id='1914'>N'y craignant rien de moi, n'y donnent rien à craindre.</l>
+	<l id='1915'>Vous, madame, agréez pour notre grand héros</l>
+	<l id='1916'>Que ses mânes vengés goûtent un plein repos.</l>
+	<l id='1917'>Allons donner votre ordre à des pompes funèbres,</l>
+	<l id='1918'>À l'égal de son nom illustres et célèbres,</l>
+	<l id='1919'>Et dresser un tombeau, témoin de son malheur,</l>
+	<l id='1920'>Qui le soit de sa gloire et de notre douleur.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

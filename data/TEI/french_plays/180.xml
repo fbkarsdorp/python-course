@@ -1,0 +1,2831 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA MORT DE L'EMPEREUR COMMODE, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1657</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE, Septembre 2009</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1651-1660</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA MORT DE L'EMPEREUR COMMODE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1657'>1657</docDate>
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id='1666-11-25'>25 novembre 1666</privilege>
+			<acheveImprime id='1667-11-20'>Achevé d'imprimer le 20 novembre 1667.</acheveImprime>
+			<printer id=''></printer>
+		</docImprint>
+		<performance>
+			<premiere date='1657' location='Théâtre du Marais'>Représentée pour la première fois en 1657 au Théâtre du Marais.</premiere>
+		</performance>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="COMMODE" civil='M' type="H" statut='empereur' age='A' stat_amour='néant'>COMMODE</role>, empereur de Rome.</castItem>
+			<castItem><role id="ELECTUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>ELECTUS</role>, amant de Marcia.</castItem>
+			<castItem><role id="LAETUS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>LAETUS</role>, amant d'Helvie.</castItem>
+			<castItem><role id="MARCIA" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MARCIA</role>, fille de Pertinax qui succéda à Commode.</castItem>
+			<castItem><role id="HELVIE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>HELVIE</role>, fille de Pertinax qui succéda à Commode.</castItem>
+			<castItem><role id="FLAVIAN" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>FLAVIAN</role>, capitaine des gardes de l'Empereur.</castItem>
+			<castItem><role id="LUCIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LUCIE</role>, confidente de Marcia.</castItem>
+			<castItem><role id="JULIE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>JULIE</role>, confidente d'Helvie.</castItem>
+		</castList>
+	<set location='Rome' country='Italie' periode='IIème' link=''>La scène est à Rome.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Marcia, Helvie.</head>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1'>Je l'avouerai, ma soeur ; c'est vous faire justice </l>
+	<l id='2'>Que de vous élever au rang d'Impératrice, </l>
+	<l id='3'>Tout paraît digne en vous des honneurs qu'on vous rend ; </l>
+	<l id='4'>Mais quoi que leur éclat ait d'illustre et de grand, </l>
+	<l id='5'>Tout mon coeur en tumulte et frémit et s'étonne, </l>
+	<l id='6'>Quand je viens à songer quelle main vous le donne,</l>
+	<l id='7'>Et malgré moi sans cesse une secrète horreur </l>
+	<l id='8'>Me fait trembler pour vous au nom de l'Empereur. </l>
+	<l id='9'>Commode en sa personne a tous les avantages </l>
+	<l id='10'>Donc les Dieux font briller leurs plus nobles ouvrages, </l>
+	<l id='11'>Et l'on voit son destin dans un rang glorieux </l>
+	<l id='12'>Compter depuis Trajan une suite d'Aïeux ; </l>
+	<l id='13'>Mais s'il en prit d'abord un orgueil légitime, </l>
+	<l id='14'>Il s'en est bientôt fait un appui pour le crime, </l>
+	<l id='15'>Et dans les cruautés qu'il nous fait éprouver, </l>
+	<l id='16'>Qui peut souffrir son choix, semble les approuver. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='17'>C'en est trop, et j'ai lieu d'accuser votre zèle </l>
+	<l id='18'>S'il condamne la gloire où le Destin m'appelle, </l>
+	<l id='19'>Et si ce fier orgueil dont il se fait des lois, </l>
+	<l id='20'>Oppose un vain scrupule à l'éclat d'un beau choix. </l>
+	<l id='21'>Il est vrai que Commode a d'injustes maximes ; </l>
+	<l id='22'>Mais le Trône, ma soeur, adoucit bien des crimes, </l>
+	<l id='23'>Et peu dans les plus noirs verraient assez d'horreur </l>
+	<l id='24'>Pour y refuser place auprès d'un Empereur. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='25'>D'une main odieuse il pourrait me déplaire. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='26'>Vous faites vanité d'une vertu sévère ; </l>
+	<l id='27'>Mais pour vous jusqu'ici quelque appas qu'elle ait eu, </l>
+	<l id='28'>C'est un crime à la Cour d'avoir trop de vertu. </l>
+	<l id='29'>Ces actions par elle exactement guidées </l>
+	<l id='30'>N'y semblent tenir lieu que de belles idées, </l>
+	<l id='31'>Quelque sentier qu'elle offre, on prend le moins douteux, </l>
+	<l id='32'>Et qui peut s'élever ne croit rien de honteux. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='33'>Je n'ai pas de la Cour assez d'expérience </l>
+	<l id='34'>Pour en avoir sitôt pénétré la science, </l>
+	<l id='35'>Et n'y songeant qu'à fuir de lâches intérêts, </l>
+	<l id='36'>J'en ignore aisément les plus nobles secrets. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='37'>Je sais que le défaut d'une haute naissance </l>
+	<l id='38'>Du rang que nous tenons nous ôtait l'espérance, </l>
+	<l id='39'>Et que sans avantage ayant reçu le jour, </l>
+	<l id='40'>Nous regardions de loin les pompes de la Cour ; </l>
+	<l id='41'>Mais enfin aujourd'hui si l'on nous considère, </l>
+	<l id='42'>C'est plus de le devoir à la vertu d'un Père, </l>
+	<l id='43'>Que si du plus beau sang la brillante splendeur, </l>
+	<l id='44'>Sans cet illustre appui, soutenait sa grandeur. </l>
+	<l id='45'>Jusqu'ici Pertinax a su forcer l'envie </l>
+	<l id='46'>De ne rien dérober à l'éclat de sa vie, </l>
+	<l id='47'>Et par un vrai mérite il fut de ces Amis </l>
+	<l id='48'>Que laissa Marc Aurèle à Commode son Fils. </l>
+	<l id='49'>Comme élevant la Fille il honore le Père, </l>
+	<l id='50'>C'est Pertinax en moi, c'est son sang qu'il révère ; </l>
+	<l id='51'>Et de ces vieux Amis resté seul aujourd'hui, </l>
+	<l id='52'>C'est le zèle de tous qu'il récompense en lui. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='53'>Soit qu'il ait craint le Peuple, ou respecté son âge, </l>
+	<l id='54'>Dites qu'il le seul qu'ait épargné sa rage, </l>
+	<l id='55'>Et qu'au premier avis contraire à ses souhaits, </l>
+	<l id='56'>Pour le perdre sans bruit il le tient au Palais. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='57'>Mais, ma soeur, si telle est sa lâche tyrannie, </l>
+	<l id='58'>Qu'à qui peut lui déplaire il en coûte la vie, </l>
+	<l id='59'>Quoi que pour son hymen vous m'inspiriez d'horreur, </l>
+	<l id='60'>Je dois pour Pertinax redouter sa fureur, </l>
+	<l id='61'>Et ne pas m'exposer par une vaine audace </l>
+	<l id='62'>À le voir sur un Père étendre sa disgrâce. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='63'>J'aurais tort de combattre un motif si pieux. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='64'>Et bien, si vous voulez, il n'est qu'ambitieux ; </l>
+	<l id='65'>Mais quoi qu'on en présume, au moins j'ai l'avantage, </l>
+	<l id='66'>Que Rome avec plaisir m'apprête son hommage, </l>
+	<l id='67'>Et semble triompher de pouvoir une fois </l>
+	<l id='68'>Applaudir au Tyran qui lui donne des lois. </l>
+	<l id='69'>Ne désavouons pas cette gloire éclatante ; </l>
+	<l id='70'>Pour mériter ses voeux remplissons son attente, </l>
+	<l id='71'>Et dans ce grand dessein cherchons à réussir, </l>
+	<l id='72'>Ou pour rompre ses fers, ou pour les adoucir. </l>
+	<l id='73'>Tant qu'a vécu sa Femme, on a vu la prudence </l>
+	<l id='74'>De ses emportements régler la violence, </l>
+	<l id='75'>Et peut-être à mon tour sur ce farouche esprit, </l>
+	<l id='76'>Si je tiens même rang, j'aurai même crédit. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='77'>En effet, sa fureur au meurtre toujours prête </l>
+	<l id='78'>Des meilleurs Citoyens n'a pas proscrit la tête, </l>
+	<l id='79'>Et nous n'avons pas vu ce cruel Empereur </l>
+	<l id='80'>Tremper dès lors ses mains dans le sang de sa soeur ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='81'>De cette indigne soeur l'orgueilleuse manie </l>
+	<l id='82'>D'un injuste attentat fut justement punie. </l>
+	<l id='83'>Lucilla conspirant crût trop sa passion, </l>
+	<l id='84'>Et sa mort était due à son ambition. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='85'>Ce sont belles couleurs pour fuir un juste blâme ; </l>
+	<l id='86'>Mais qui perd une soeur peut bien perdre sa Femme, </l>
+	<l id='87'>Et sur quelques soupçons, si j'en crois un bruit sourd, </l>
+	<l id='88'>L'Impératrice même eut un destin bien court. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='89'>Sur ces soupçons, ma soeur, vous poussez loin le vôtre ; </l>
+	<l id='90'>Mais le destin d'autrui ne règle pas le nôtre, </l>
+	<l id='91'>Et fût, le précipice ouvert de toutes parts, </l>
+	<l id='92'>Il est beau de périr au Trône des Césars.</l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='93'>Ce grand titre pour lui n'est plus qu'une ombre vaine. </l>
+	<l id='94'>Tel un Gladiateur il descend dans l'Arène, </l>
+	<l id='95'>Et jaloux de cet Art qu'il croit justifier, </l>
+	<l id='96'>Dans ce vil équipage il veut sacrifier. </l>
+	<l id='97'>Avec sa lâche Troupe il doit aller au Temple ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='98'>Je lui fis voir dès hier ce dessein sans exemple, </l>
+	<l id='99'>Mais comme en son pouvoir il en trouve l'aveu, </l>
+	<l id='100'>Qui veut le partager doit le combattre peu. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='101'>Au moins si je tenais cette gloire si chère, </l>
+	<l id='102'>Dans son retardement j'aurais peine à me taire, </l>
+	<l id='103'>Et voudrais que l'hymen, par un succès plus prompt, </l>
+	<l id='104'>Épargnât à mon feu la crainte d'un affront. </l>
+	<l id='105'>À voir depuis quel temps l'Empereur le recule, </l>
+	<l id='106'>Sur l'offre de ses voeux on vous tient trop crédule ; </l>
+	<l id='107'>Sa foi de sa constance est un faible garant. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='108'>Électus m'en répond par les soins qu'il me rend, </l>
+	<l id='109'>Et s'empresserait moins à les faire paraître, </l>
+	<l id='110'>S'il n'était assuré de l'esprit de son Maître. </l>
+	<l id='111'>Je l'ai prié pourtant, comme il peut tout sur lui, </l>
+	<l id='112'>D'oser encor pour moi lui parler aujourd'hui, </l>
+	<l id='113'>Et d'ailleurs, ce qui rend mon espérance entière, </l>
+	<l id='114'>Pertinax à Laetus fait la même prière. </l>
+	<l id='115'>Vous savez que Commode estimant son grand coeur, </l>
+	<l id='116'>Pour prix de ses exploits lui destine sa soeur, </l>
+	<l id='117'>Et dans le rang pompeux où cet hymen l'élève, </l>
+	<l id='118'>Quoi qu'il veuille entreprendre il n'est rien qu'il n'achève, </l>
+	<l id='119'>Il honore mon Père, et le respecte en Fils. </l>
+	<l id='120'>Adieu, je vais savoir ce qu'il aura promis. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Helvie,  Julie. </head>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='121'>Madame, tout d'un coup quelle est cette tristesse ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='122' part='i'>Hélas ! </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='122' part='m'>Vous soupirez ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='122' part='f'>Épargne ma faiblesse, </l>
+	<l id='123'>Et ne me force point à trahir un secret, </l>
+	<l id='124'>À qui je n'ai donné ce soupir qu'à regret. </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='125'>S'il faut pour l'Empereur en croire votre haine, </l>
+	<l id='126'>L'hymen de Marcia n'est pas ce qui vous gêne, </l>
+	<l id='127'>Et vous l'en plaignez trop, pour voir d'un oeil jaloux </l>
+	<l id='128'>Que l'éclat de son choix ne tombe pas sur vous ; </l>
+	<l id='129'>Mais dans un noir chagrin votre âme ensevelie </l>
+	<l id='130' part='i'>Quand le nom de Laetus... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='130' part='f'>Ah, cruelle Julie! </l>
+	<l id='131'>Si tu vois que son nom étonne ma vertu, </l>
+	<l id='132'>Qu'il la fait chanceler, pourquoi le nommes-tu ? </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='133'>Si j'avais su prévoir qu'il eût dû vous déplaire... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='134'>Après ce que tu sais je n'ai plus rien à taire, </l>
+	<l id='135'>Et ton adresse en vain cherche à dissimuler </l>
+	<l id='136'>Qu'elle ait lu dans mon coeur ce que j'ai cru celer. </l>
+	<l id='137'>Au nom de ce grand homme un sentiment trop tendre </l>
+	<l id='138'>M'a surpris un soupir que je t'ai fait entendre. </l>
+	<l id='139'>Hé, qui n'a pas encore appris jusqu'à ce jour </l>
+	<l id='140'>Qu'un soupir de tendresse est un soupir d'amour ? </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='141' part='i'>Quoi, vous aimez Laetus? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='141' part='f'>Oui, j'avoue à ma honte, </l>
+	<l id='142'>Que malgré moi je cède au feu qui me surmonte ; </l>
+	<l id='143'>Mais quand un vrai mérite a droit de nous charmer, </l>
+	<l id='144'>Peut-on se voir aimée et refuser d'aimer ? </l>
+	<l id='145'>Ce fut après l'éclat d'une indigne victoire </l>
+	<l id='146'>Que m'étant venu faire hommage de sa gloire, </l>
+	<l id='147'>Ma faiblesse avoua cet illustre Vainqueur </l>
+	<l id='148'>D'achever son triomphe en captivant mon coeur. </l>
+	<l id='149'>Dans un trouble inquiet ayant su me surprendre, </l>
+	<l id='150'>Je n'examinai rien de peur de m'en défendre. </l>
+	<l id='151'>Laetus par sa conquête éblouit mes désirs, </l>
+	<l id='152'>Il soupira pour moi, j'écoutai ses soupirs, </l>
+	<l id='153'>Et déjà dans ses voeux assuré de me plaire, </l>
+	<l id='154'>Il ne lui manquait plus que l'aveu de mon Père, </l>
+	<l id='155'>Quand un funeste choix qu'il n'eût osé prévoir, </l>
+	<l id='156'>Étonnant son amour, accable mon espoir. </l>
+	<l id='157'>Pour Époux à sa soeur Commode le destine, </l>
+	<l id='158'>Il veut se déclarer, je résiste, il s'obstine, </l>
+	<l id='159'>Et son respect pour moi qu'il n'ose enfin trahir, </l>
+	<l id='160'>Aux ordres du Tyran le force d'obéir. </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='161'>Il est vrai que sa mort, et la vôtre peut-être, </l>
+	<l id='162'>Eût suivi le mépris qu'il en eût fait paraître ; </l>
+	<l id='163'>Mais l'amour qui sur vous prenait tant de pouvoir, </l>
+	<l id='164'>S'est du moins refroidi par le manque d'espoir ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='165'>Ah, que tu conçois peu dans de si nobles flammes </l>
+	<l id='166'>Ce que c'est que d'aimer parmi les belles âmes ! </l>
+	<l id='167'>Cet amour dont l'empire à nos sens est si doux, </l>
+	<l id='168'>Ne serait pas amour s'il dépendait de nous. </l>
+	<l id='169'>Comme un puissant mérite en nos coeurs le fait naître, </l>
+	<l id='170'>Il n'a point d'autre but que de se bien connaître. </l>
+	<l id='171'>Sans cesse il se contemple, et sans cesse est charmé </l>
+	<l id='172'>De trouver son objet si digne d'être aimé. </l>
+	<l id='173'>C'est alors que cédant à tout ce qu'il admire, </l>
+	<l id='174'>La raison convaincue affermit son empire, </l>
+	<l id='175'>Et quand un fier obstacle en vient troubler le cours, </l>
+	<l id='176'>On soupire, on se plaint, mais on aime toujours. </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='177'>Et dans ces sentiments d'une entière constance, </l>
+	<l id='178'>Voyez-vous qu'en effet Laetus... Mais il s'avance. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='179'>C'est lui-même. Ah, Julie, éloignons-nous d'ici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Laetus, Helvie, Julie.</head>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='180'>Quoi, Madame, est-ce moi que vous fuyez ainsi, </l>
+	<l id='181'>Et tandis que mon coeur, ennemi de la feinte, </l>
+	<l id='182'>En ose pour vous plaire embrasser la contrainte, </l>
+	<l id='183'>Le vôtre dans mes maux prend-il si peu de part, </l>
+	<l id='184'>Que vous me refusiez la douceur d'un regard ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='185'>Ah, Laetus, dans l'état où je me vois réduite, </l>
+	<l id='186'>Qu'avec peu de raison vous blâmez ma conduite ! </l>
+	<l id='187'>L'Empereur vous prépare un destin glorieux, </l>
+	<l id='188'>Qui sur le Trône seul doit arrêter vos yeux. </l>
+	<l id='189'>En vous chacun déjà respecte fon Beau-frère, </l>
+	<l id='190'>Et quand l'obéissance est pour vous nécessaire. </l>
+	<l id='191'>Je dois à votre amour épargner en secret </l>
+	<l id='192'>Tout ce qui le peut faire obéir à regret. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='193'>C'est donc ce qui vous porte à m'ordonner de feindre ? </l>
+	<l id='194'>Cet amour vous déplaît, vous le croyez éteindre, </l>
+	<l id='195'>Et que d'un fier Tyran les présents odieux, </l>
+	<l id='196'>Pour vous en délivrer m'éblouiront les yeux ? </l>
+	<l id='197'>Et bien, Madame, et bien, il est une autre voie </l>
+	<l id='198'>Par où vous assurer cette funeste joie, </l>
+	<l id='199'>Et d'un fatal hymen le refus éclatant </l>
+	<l id='200'>Rendra ma mort certaine, et votre esprit content. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='201' part='i'>Hélas ! </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='201' part='f'>Parlez enfin, serez-vous inflexible ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='202'>J'ai toujours été juste, et jamais insensible </l>
+	<l id='203'>Et je vous avouerai qu'il m'aurait été doux, </l>
+	<l id='204'>Si le Ciel l'eût permis, d'oser vivre pour vous ; </l>
+	<l id='205'>Mais puisque enfin l'espoir n'a plus rien qui vous flatte, </l>
+	<l id='206'>Pourquoi vous obstiner dans une flamme ingrate ? </l>
+	<l id='207'>L'hymen de la Princesse est trop à redouter. </l>
+	<l id='208'>Quand on vous pressera pourrez-vous l'éviter, </l>
+	<l id='209' part='i'>Et ne voyez-vous pas... </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='209' part='f'>Dans mon amour extrême </l>
+	<l id='210'>Tout ce que je puis voir, c'est seulement que j'aime, </l>
+	<l id='211'>Et qui sait d'un beau feu goûter le pur appas, </l>
+	<l id='212'>En d'autres objets ne voit rien que de bas. </l>
+	<l id='213'>Pour braver en aimant les plus rudes obstacles, </l>
+	<l id='214'>Il suffit qu'on ait droit d'espérer aux miracles, </l>
+	<l id='215'>Le temps en peut produire, et sans trop s'alarmer, </l>
+	<l id='216'>On vit toujours heureux pourvu qu'on ose aimer. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='217'>Et bien, pour soutenir une si belle audace </l>
+	<l id='218'>Ne considérez point quel destin vous menace, </l>
+	<l id='219'>D'un aveugle transport suivez l'injuste loi ; </l>
+	<l id='220'>Mais en m'aimant enfin, qu'espérez-vous de moi ? </l>
+	<l id='221'>Voulez-vous que mon coeur charmé de sa victoire </l>
+	<l id='222'>S'ouvre à des sentiments qui blesseraient ma gloire, </l>
+	<l id='223'>Et que de mon repos le sacrifice offert </l>
+	<l id='224'>Soit l'inutile prix d'un amour qui vous perd ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> . 
+	<l id='225'>Non, Madame, et ce feu dont l'ardeur m'est si chère, </l>
+	<l id='226'>Est trop respectueux pour être téméraire. </l>
+	<l id='227'>Aussi ma passion, bien loin de m'aveugler, </l>
+	<l id='228'>Par votre seul mérite aime à se voir régler, </l>
+	<l id='229'>Et comme je connais bien mieux que vous ne faites, </l>
+	<l id='230'>Et le peu que je suis, et tout ce que vous êtes, </l>
+	<l id='231'>Je ne demande point qu'à mes brûlants désirs </l>
+	<l id='232'>Vous donniez coeur pour coeur, ni soupirs pour soupirs ; </l>
+	<l id='233'>Trop content si mes voeux obtiennent sur les vôtres, </l>
+	<l id='234'>Qu'ayant accepté l'un, vous écoutiez les autres. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='235'>C'est trop, votre vertu m'accable, et je crains bien </l>
+	<l id='236'>Que vous n'obteniez tout en ne demandant rien. </l>
+	<l id='237'>Oui, ce profond soupir vous fait assez connaître </l>
+	<l id='238'>Que de sa passion mon coeur n'est pas le maître, </l>
+	<l id='239'>Et que ce triste hymen qui vous ôte ma foi, </l>
+	<l id='240'>A moins d'horreur pour vous, que de rigueur pour moi. </l>
+	<l id='241'>Contrainte à mon devoir d'immoler ma tendresse, </l>
+	<l id='242'>Je combats lâchement l'ennemi qui me presse, </l>
+	<l id='243'>Et ma vertu qu'alarme un tumulte secret, </l>
+	<l id='244'>Ne vainc qu'en soupirant, et triomphe à regret. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='245'>Ah ! Si ce seul hymen que l'on me veut prescrire </l>
+	<l id='246'>S'oppose aux sentiments que l'amour vous inspire, </l>
+	<l id='247'>N'en étant point complice, est-il juste qu'enfin </l>
+	<l id='248'>Je demeure puni d'un crime du Destin ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='249'>Nommez crime ou malheur un ordre redoutable, </l>
+	<l id='250'>J'en regarde l'effet, et non pas le coupable. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='251'>De cette crainte en vain votre esprit est atteint, </l>
+	<l id='252' part='i'>Il n'en aura jamais. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='252' part='f'>Vous y serez contraint. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='253'>À cet ordre inhumain croyez-vous que je cède ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='254'>Du mal qui vous poursuit c'est l'unique remède. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='255'>Quoi, mon amour vous touche, et je puis mériter </l>
+	<l id='256'>Qu'à l'infidélité vous osiez me porter ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='257'>Cet effort à mon coeur coûte plus qu'on ne pense. </l>
+	<l id='258'>Mais enfin du Tyran je sais la violence, </l>
+	<l id='259'>Et j'aime encore mieux dans un si rude sort </l>
+	<l id='260'>Regretter votre amour, que pleurer votre mort. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='261'>Le regretter, Madame ! Ah, que quoi qu'on entreprenne, </l>
+	<l id='262' part='i'>L'Empereur... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='262' part='f'>Le voici. Quel malheur nous l'amène ? </l>
+	<l id='263'>Je vous quitte ; aussi bien le désordre où je suis </l>
+	<l id='264'>Forcerait mon visage à trahir mes ennuis. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Commode, Laetus, Électus, Flavian, Suite de l'Empereur. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker>à Électus. 
+	<l id='265'>Quoi, Rome veut de moi cette indigne contrainte ? </l>
+	<l id='266'>J'en dois fuir le murmure, et respecter la plainte, </l>
+	<l id='267'>Et dans vos sentiments, c'est monter un coeur bas </l>
+	<l id='268'>Que de suivre un projet qu'elle n'approuve pas ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='269'>Seigneur, mon zèle ici les a laissé paraître </l>
+	<l id='270'>Avec tout le respect que je dois à mon Maître, </l>
+	<l id='271'>Et si Rome se plaint, ses murmures secrets </l>
+	<l id='272'>Ont pour but votre gloire, et non ses intérêts. </l>
+	<l id='273'>Dans un grand Empereur elle tient tout auguste, </l>
+	<l id='274'>Elle sait qu'il n'est rien qu'il n'ait pu rendre juste, </l>
+	<l id='275'>Et cent fois ses transports ont marqué dans nos yeux, </l>
+	<l id='276'>Pour votre heureux triomphe, et sa joie et ses voeux. </l>
+	<l id='277'>Mais elle souffre enfin sitôt qu'elle contemple </l>
+	<l id='278'>Le rebut de la terre enflé de votre exemple, </l>
+	<l id='279'>De vils Gladiateurs dans l'opprobre vieillis, </l>
+	<l id='280'>En oser hautement paraître enorgueillis, </l>
+	<l id='281'>Et sur ce que pour eux vous montrez d'indulgence, </l>
+	<l id='282'>De leur indigne audace appuyez l'insolence. </l>
+	<l id='283'>Jugez de son excès après un tel abus, </l>
+	<l id='284'>S'ils vous servent d'escorte au Temple de Janus, </l>
+	<l id='285'>Et si comme eux armé vous célébrez la Fête, </l>
+	<l id='286'>Où suivant ses Statuts Rome aujourd'hui s'apprête. </l>
+	<l id='287'>C'est ce qui fait sa peine, et j'aurais cru manquer, </l>
+	<l id='288'>Si j'avais pu, Seigneur, ne vous pas l'expliquer. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='289'>Oui, sans doute, Électus, j'ai tout sujet de croire </l>
+	<l id='290'>Que votre zèle ici n'agit que pour ma gloire. </l>
+	<l id='291'>J'ai toujours avec joie écouté vos avis, </l>
+	<l id='292'>Et ce sont presque en tout les seuls que j'ai suivis ; </l>
+	<l id='293'>Mais changer un dessein où Rome s'intéresse, </l>
+	<l id='294'>C'est en flattant ses voeux montrer trop de faiblesse. </l>
+	<l id='295'>Son orgueil plus avant pourrait se hasarder, </l>
+	<l id='296'>Et qui doit obéir prétendrait commander. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='297'>Non, Seigneur, son respect toujours ferme et sincère </l>
+	<l id='298'>Attache tous ses soins à celui de vous plaire ; </l>
+	<l id='299'>Mais elle ose penser que suivi du Sénat </l>
+	<l id='300'>Un illustre Empereur marche avec plus d'éclat ; </l>
+	<l id='301'>Qu'en ce noble appareil c'est sous d'heureux auspices </l>
+	<l id='302'>Qu'il peut offrir aux Dieux de justes sacrifices, </l>
+	<l id='303'>Et que cette présence est comme un fort secours </l>
+	<l id='304'>Qui rend le Ciel propice au bonheur de ses jours. </l>
+	<l id='305'>Outre qu'un juste effroi la pressant pour les vôtres, </l>
+	<l id='306'>Elle tremble à vous voir les confier à d'autres, </l>
+	<l id='307'>À des hommes sans foi, dont les sanglants combats </l>
+	<l id='308'>Portent sans peine au meurtre, et le coeur, et le bras. </l>
+	<l id='309'>Ce péril est pour elle une trop vive atteinte. </l>
+	<l id='310'>Daignez vous l'épargner pour épargner sa crainte, </l>
+	<l id='311'>Et ne rejetez point un zèle officieux </l>
+	<l id='312'>Qui met en sûreté des jours si précieux. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='313'>Et bien, il faut céder aux avis qu'on m'en donne, </l>
+	<l id='314'>Électus le croit juste, et Rome nous l'ordonne. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='315'>N'ayant plus rien pour vous, Seigneur, à redouter, </l>
+	<l id='316'>Sa joie au sacrifice aura lieu d'éclater. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='317'>Non, borner ma puissance est toute son envie, </l>
+	<l id='318'>Rome a trop de fierté pour se croire asservie, </l>
+	<l id='319'>Et son orgueil encore, en ses folles erreurs, </l>
+	<l id='320'>Pour ses premiers Sujets compte ses Empereurs. </l>
+	<l id='321'>C'est assez pour la voir d'un sentiment contraire, </l>
+	<l id='322'>Qu'elle ait pu pressentir ce qui ce qui pouvait me plaire, </l>
+	<l id='323'>Soudain dans mes projets tout lui paraît suspect. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='324'>Ah! Seigneur, jugez mieux de son profond respect, </l>
+	<l id='325'>Ces applaudissements où votre amour l'engage </l>
+	<l id='326'>Vous en rendent encor un pressant témoignage. </l>
+	<l id='327'>Elle ne cherche point s'il est dans le Sénat </l>
+	<l id='328'>Un sang dont l'union eût pour vous plus d'éclat, </l>
+	<l id='329'>Celui de Pertinax s'est fait assez connaître, </l>
+	<l id='330'>Il est à préférer, c'est le choix de son Maître, </l>
+	<l id='331'>Et ce qu'en Marcia l'on admire aujourd'hui </l>
+	<l id='332'>N'en souffre point ailleurs de plus digne de lui. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='333'>J'aurais déjà du Trône approché ce grand Homme, </l>
+	<l id='334'>Mais j'ai dû redouter le murmure de Rome, </l>
+	<l id='335'>Et c'est ce qui m'a fait si longtemps balancer </l>
+	<l id='336'>Un projet que l'amour me force me force d'embrasser. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='337'>Seigneur, s'il m'est permis de vous parler pour elle, </l>
+	<l id='338'>Jamais un beau dessein ne remplit mieux son zèle, </l>
+	<l id='339'>Et Pertinax blanchi dans les plus grands emplois </l>
+	<l id='340'>A mérité ses voeux, méritant votre choix. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='341'>Oui, Seigneur, sa vertu noblement confirmée </l>
+	<l id='342'>Du bonheur qui la suit trouve Rome charmée, </l>
+	<l id='343'>Et d'un auguste hymen le projet glorieux </l>
+	<l id='344'>Fait voir pour Marcia la justice des Dieux ; </l>
+	<l id='345'>Il rend de toutes parts l'allégresse publique, </l>
+	<l id='346'>Pour son heureux succès tout le Sénat s'explique, </l>
+	<l id='347'>Et de ses voeux soumis l'impatiente ardeur </l>
+	<l id='348'>Pour le bien de l'Empire en presse la splendeur.</l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='349'>Puisque Rome le veut, il faut qu'il s'accomplisse. </l>
+	<l id='350'>Au sang de Pertinax rendons enfin justice, </l>
+	<l id='351'>Et cessant de tenir mon choix irrésolu, </l>
+	<l id='352'>Faisons-lui partager le pouvoir le pouvoir absolu. </l>
+<stage>À Électus. </stage>
+	<l id='353' part='i'>Voyez-le de ma part. </l>
+<stage>À Laetus. </stage>
+	<l id='353' part='f'>Vous, faites qu'on apprête </l>
+	<l id='354'>Tout ce qui de Janus peut ennoblir la Fête, </l>
+	<l id='355'>Ordonnez-en la pompe avec un plein éclat, </l>
+	<l id='356'>Et surtout, ayez soin d'assembler le Sénat. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE V. Laetus, Électus. </head>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='357'>Le pouvoir d'Électus est grand, je le confesse. </l>
+	<l id='358'>Empêcher l'Empereur de faire une bassesse, </l>
+	<l id='359'>Et presser un hymen que par vous il résout ! </l>
+	<l id='360'>Ainsi que Rome enfin Marcia vous doit tout. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='361'>Attendez par la suite à juger de mon zèle. </l>
+	<l id='362'>Vous savez encor peu ce que j'ose pour elle, </l>
+	<l id='363'>Je le sais mal moi-même, et m'en sentant gêner, </l>
+	<l id='364'>Tout mon coeur malgré moi tremble à l'examiner. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='365'>Il est vrai que toujours l'Empereur fut à craindre </l>
+	<l id='366'>À qui ne sait point l'art de flatter et de feindre. </l>
+	<l id='367'>C'est assez pour l'aigrir que de lui résister. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='368'>Qui souhaite la mort la peut-il redouter ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='369' part='i'>D'où naît ce sentiment ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='369' part='f'>D'un destin déplorable, </l>
+	<l id='370'>Que je conçois à peine au moment qu'il m'accable. </l>
+	<l id='371'>Auprès de sa rigueur tous les maux ne sont rien. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='372'>Il vous paraîtrait doux si vous songez au mien. </l>
+	<l id='373'>J'aime, vous le savez, et la charmante Helvie.</l>
+	<l id='374'>Sous ses lois en secret tient mon âme asservie. </l>
+	<l id='375'>Cependant l'Empereur troublant de si beaux noeuds, </l>
+	<l id='376'>Par un funeste choix tyrannise mes voeux. </l>
+	<l id='377'>Jugez ce que je souffre en ce malheur extrême, </l>
+	<l id='378'>Quand l'honneur qu'il me fait m'arrache à ce que j'aime, </l>
+	<l id='379'>Et que mon seul espoir est de finir mon sort </l>
+	<l id='380'>Sans oser découvrir la cause de ma mort. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='381'>C'est beaucoup que du moins lorsque l'Empereur presse </l>
+	<l id='382'>Son choix par trop d'empire irrite la Princesse, </l>
+	<l id='383'>Et que pour vous servir je tâche à le porter </l>
+	<l id='384'>À ne s'obstiner pas à la violenter. </l>
+	<l id='385' part='i'>Mais... </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='385' part='m'>Vous n'achevez point ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='385' part='f'>Ô penser trop funeste ! </l>
+	<l id='386'>Allons, dans peu ma mort vous apprendra le reste ; </l>
+	<l id='387'>Heureux, si dans l'ennui dont mon coeur est atteint, </l>
+	<l id='388'>Je pouvais en mourant espérer d'être plaint. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n=''><head>SCÈNE PREMIÈRE. Marcia, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='389'>En vain de sa vertu la sévère maxime </l>
+	<l id='390'>Trouve de mon espoir l'appas illégitime, </l>
+	<l id='391'>Et tient le Diadème un objet de mépris, </l>
+	<l id='392'>Quand l'hymen d'un Tyran en doit être le prix. </l>
+	<l id='393'>Je sais qu'un naturel farouche et peu traitable </l>
+	<l id='394'>De cent proscriptions rend Commode coupable, </l>
+	<l id='395'>Mais tant de cruautés indignes d'un beau sang, </l>
+	<l id='396'>Déshonorant son nom, n'abaissent pas son rang, </l>
+	<l id='397'>Et quoi que leur excès mérite le tonnerre, </l>
+	<l id='398'>Il demeure toujours le Maître de la Terre. </l>
+	<l id='399'>Dans le brillant éclat de cette dignité </l>
+	<l id='400'>Souffrons à ses forfaits un peu d'obscurité, </l>
+	<l id='401'>Et ne voyons en lui que la gloire d'un titre </l>
+	<l id='402'>Qui de tout l'Univers nous peut rendre l'arbitre. </l>
+	<l id='403'>J'aime d'un si beau feu les pressantes ardeurs, </l>
+	<l id='404'>Et c'est là proprement la marque des grands coeurs. </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='405'>Elle est noble, elle est haute, et je doute qu'Helvie</l>
+	<l id='406'>Ne la condamne en vous par un motif d'envie. </l>
+	<l id='407'>La Cour que sa fierté s'obstine à dédaigner </l>
+	<l id='408'>La pourrait voir sensible à l'espoir de régner </l>
+	<l id='409'>Dans toute sa vertu son humeur est altière, </l>
+	<l id='410'>Et s'il faut vous ouvrir mon âme toute entière, </l>
+	<l id='411'>Elle souffre à Laetus des entretiens secrets, </l>
+	<l id='412'>Dont je pénètre peu les justes intérêts. </l>
+	<l id='413'>Auprès de l'Empereur son crédit est extrême, </l>
+	<l id='414'>Et l'on blâme en autrui ce qui plaît en soi-même. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='415'>Non, ma soeur n'eut jamais de si bas sentiments, </l>
+	<l id='416'>Elle a le coeur trop bon pour ces déguisements, </l>
+	<l id='417'>Et si Laetus lui montre un peu de complaisance, </l>
+	<l id='418'>Un homme tel que lui rarement s'en dispense. </l>
+	<l id='419'>Ce faible et vain dehors t'a fait trop présumer, </l>
+	<l id='420'>Et ce n'est pas encor ce qui doit m'alarmer. </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='421'>Il est vrai que d'un choix où les Dieux vous secondent, </l>
+	<l id='422'>Les devoirs d'Électus hautement vous répondent. </l>
+	<l id='423'>Il est aisé de voir par toute leur ferveur </l>
+	<l id='424'>Qu'il brigue en vous déjà l'appui de sa faveur, </l>
+	<l id='425'>Et qu'ayant de son Maître et le coeur et l'oreille, </l>
+	<l id='426'>Il voit certain pour vous l'hymen qu'il lui conseille. </l>
+	<l id='427'>Ce zèle et vif et prompt, ces respects assidus... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='428'>Ô devoirs, ô respects peut-être trop rendus ! </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='429'>Quoi donc, à l'Empereur auraient-ils pu déplaire ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='430' part='i'>Je ne sais, mais... </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='430' part='f'>Parler, et tout à coup vous taire ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='431'>Ah, Lucie, oserai-je exposer à tes yeux </l>
+	<l id='432'>Le désordre inquiet d'un coeur ambitieux, </l>
+	<l id='433'>Et puis-je, dans l'orgueil dont la chaleur me presse, </l>
+	<l id='434'>Donner à tes désirs l'aveu de ma faiblesse ? </l>
+	<l id='435'>Moi-même elle m'étonne, et me force à rougir </l>
+	<l id='436'>De voir que sur mes sens ma raison n'ose agir. </l>
+	<l id='437'>Sans cesse cette indigne et lâche Souveraine </l>
+	<l id='438'>Leur montre en Électus une vertu si pleine, </l>
+	<l id='439'>Que charme d'un éclat qui les sait éblouir, </l>
+	<l id='440'>Ces Sujets révoltés refusent d'obéir. </l>
+	<l id='441'>Dans une haute estime autorisés par elle, </l>
+	<l id='442'>Ils engagent mon coeur dans leur parti rebelle, </l>
+	<l id='443'>Qui jugeant cette estime un tribut innocent, </l>
+	<l id='444'>Y croit de la justice, et sans peine y consent ; </l>
+	<l id='445'>Mais en s'examinant, qu'il y voit de surprise ! </l>
+	<l id='446'>Il trouve de l'ardeur qu'un faux charme déguise, </l>
+	<l id='447'>Et que d'un fort mérite Électus soutenu </l>
+	<l id='448'>Le pousse avec plaisir dans un trouble inconnu. </l>
+	<l id='449'>Je ne sais que penser de cette ardeur secrète, </l>
+	<l id='450'>Mais si ce n'est qu'estime, elle bien inquiète, </l>
+	<l id='451'>Et l'on ne devrait pas avec plus de souci </l>
+	<l id='452'>Se défendre d'aimer, que d'estimer ainsi. </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='453'>L'amour avec l'estime a tant de ressemblance, </l>
+	<l id='454'>Qu'il est bien malaisé d'en voir la différence ; </l>
+	<l id='455'>Non que sans que l'on aime on ne puisse estimer, </l>
+	<l id='456'>Mais sitôt qu'on y songe, on commence d'aimer. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='457'>Ah, malgré moi cent fois en consultant mon âme, </l>
+	<l id='458'>Sans prendre en cette estime aucun soupçon de flamme, </l>
+	<l id='459'>Je me suis écriée en cette douce erreur, </l>
+	<l id='460'>Que le Ciel n'a-t-il fait Électus Empereur ! </l>
+	<l id='461'>Sans doute que l'amour jaloux de son empire </l>
+	<l id='462'>Cherchait de mon orgueil à me faire dédire, </l>
+	<l id='463'>Et qu'à l'ambition il voulait disputer </l>
+	<l id='464'>La conquête d'un coeur qu'elle osait lui vanter. </l>
+	<l id='465'>Mais quand même Électus de l'ardeur qui me gêne </l>
+	<l id='466'>Par un même ascendant partagerait la peine, </l>
+	<l id='467'>Ce coeur est trop rempli d'un vaste et noble espoir </l>
+	<l id='468'>Pour se laisser abattre à qui sait l'émouvoir. </l>
+	<l id='469'>Je sais que la vertu voudrait la préférence </l>
+	<l id='470'>Mais Commode Empereur emporte la balance. </l>
+	<l id='471'>Il est doux, il est beau de recevoir des Cieux </l>
+	<l id='472'>Ce destin éclatant qui leur donne des Dieux, </l>
+	<l id='473'>Et qui dans une gloire et sublime et profonde </l>
+	<l id='474'>Nous fait voir sous nos pieds tous les Trônes du Monde. </l>
+	<l id='475'>C'est là ce qui me charme, et quoi que jusqu'ici </l>
+	<l id='476' part='i'>Je sente qu'Électus... </l>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='476' part='f'>Madame, le voici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Marcia,  Électus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='477'>Et bien, qu'avez-vous fait ? Me venez-vous apprendre </l>
+	<l id='478'>Ce que de l'Empereur il m'est permis d'attendre ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='479'>Madame, vous servir m'est un emploi trop doux </l>
+	<l id='480'>Pour avoir différé de lui parler pour vous ; </l>
+	<l id='481'>Non qu'à se voir presser, souvent il ne rejette </l>
+	<l id='482'>Ce qu'avec passion nous savons qu'il souhaite, </l>
+	<l id='483'>Mais pour en redouter ce bizarre défaut, </l>
+	<l id='484'>L'illustre Marcia sait trop ce qu'elle vaut, </l>
+	<l id='485'>Et j'aurais mal rempli l'ardeur que j'ai pour elle, </l>
+	<l id='486'>Si la peur de l'aigrir eût arrêté mon zèle. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='487'>Ce zèle généreux m'était déjà connu. </l>
+	<l id='488'>Enfin en ma faveur qu'avez-vous obtenu ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='489'>Que dans peu les effets suivraient votre espérance. </l>
+	<l id='490'>Je viens à Pertinax d'en porter l'assurance, </l>
+	<l id='491'>J'en avais reçu l'ordre, et m'en suis acquitté. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='492'>Ce que nous vous devons n'a rien de limité. </l>
+	<l id='493'>Aussi n'ai-je aspiré jamais à la Couronne </l>
+	<l id='494'>Que pour vous faire part du pouvoir qu'elle donne. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='495'>En vain ce faux espoir abuserait ma foi ; </l>
+	<l id='496'>Lorsque vous pourrez tout, vous pourrez peu pour moi ; </l>
+	<l id='497'>Encor peut-être alors voudrez-vous vous défendre </l>
+	<l id='498'>De m'accorder ce peu que j'oserais prétendre. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='499'>D'ingratitude à tort c'est vouloir m'accuser. </l>
+	<l id='500'>Qui peut promettre tout, ne veut rien refuser, </l>
+	<l id='501'>Et je hais la vertu qui, quoi que je propose, </l>
+	<l id='502'>Vous fait prétendre peu quand je dois toute chose. </l>
+	<l id='503'>Un grand coeur est injuste à n'agir que pour soi. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='504'>Hélas ! C'est peu pour vous, mais c'est beaucoup pour moi, </l>
+	<l id='505'>Et puisque enfin le mien succombe à ma faiblesse, </l>
+	<l id='506'>Tout ce que je demande au tourment qui me presse, </l>
+	<l id='507'>C'est que vous consentiez à plaindre un malheureux </l>
+	<l id='508'>Que poursuit sans relâche un destin rigoureux, </l>
+	<l id='509'>Qui cherche malgré lui ce qu'il faut qu'il évite, </l>
+	<l id='510'>Qui voit un gouffre ouvert, et qui s'y précipite, </l>
+	<l id='511'>Et qu'enfin abandonne à tout votre courroux </l>
+	<l id='512'>L'indispensable loi de soupirer pour vous. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='513' part='i'>Que m'osez-vous apprendre, Électus ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='513' part='f'>Ah, Madame. </l>
+	<l id='514'>Déjà votre vertu s'indigne de ma flamme, </l>
+	<l id='515'>Et j'avais bien prévu qu'avec trop de rigueur </l>
+	<l id='516'>Son intérêt contre elle armerait votre coeur ; </l>
+	<l id='517'>Mais si je suis coupable en suivant votre empire, </l>
+	<l id='518'>C'est moins d'oser aimer, que d'oser vous le dire, </l>
+	<l id='519'>Et le plus fier scrupule examinant mon feu </l>
+	<l id='520'>N'y saurait condamner qu'un indiscret aveu. </l>
+	<l id='521'>Il m'échappe, et ma mort sans doute est légitime, </l>
+	<l id='522'>Si d'un crime forcé l'apparence est un crime. </l>
+	<l id='523'>J'en viens presser l'arrêt, mais il m'est rigoureux, </l>
+	<l id='524'>Si je meurs criminel plutôt que malheureux, </l>
+	<l id='525'>Et si ce feu qui règne en ce coeur qui vous aime </l>
+	<l id='526'>Porte un crime en son nom qu'il n'a pas en soi-même. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='527'>S'il est vrai que ce coeur, trop prompt à s'enflammer, </l>
+	<l id='528'>Au peu que j'ai d'appas se soit laissé charmer, </l>
+	<l id='529'>Si de vos voeux secrets il m'a soumis l'hommage, </l>
+	<l id='530'>Vous me deviez au moins déguiser cet outrage, </l>
+	<l id='531'>Et ne me forcer pas à dégager le mien </l>
+	<l id='532'>D'une estime, où vos feux prendraient trop de soutien. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='533'>Quoi, Madame, il se peut que vous nommiez injure </l>
+	<l id='534'>Une ardeur si parfaite, une flamme si pure, </l>
+	<l id='535'>Qu'il semble qu'en effet rien n'en approche mieux </l>
+	<l id='536'>Que le profond respect que nous devons aux Dieux ? </l>
+	<l id='537'>L'amour n'arien en soi que de grand, que d'illustre, </l>
+	<l id='538'>Quand un lâche motif n'en ternit point le lustre, </l>
+	<l id='539'>Et que le propre amour qui le suit pas à pas </l>
+	<l id='540'>Emploie à le corrompre un inutile appas. </l>
+	<l id='541'>Le pouvez-vous mieux voir qu'en celui qui m'anime ? </l>
+	<l id='542'>Il vous offre en mon coeur une pure victime, </l>
+	<l id='543'>Un coeur qui d'intérêt pleinement dépouillé, </l>
+	<l id='544'>D'aucun regard vers moi ne l'a jamais souillé. </l>
+	<l id='545'>Quoiqu'il brûlât pour vous, il a bien su le taire </l>
+	<l id='546'>Voyant que l'Empereur s'efforçait à vous plaire, </l>
+	<l id='547'>Et que ce Trône Auguste où l'ont placé les Dieux </l>
+	<l id='548'>Offrait à vos désirs un appas glorieux. </l>
+	<l id='549'>Pour seconder l'espoir qu'il vous en a fait prendre, </l>
+	<l id='550'>Je n'ai point craint la mort que j'en devais attendre. </l>
+	<l id='551'>Vous m'avez commandé, j'ai su vous obéir, </l>
+	<l id='552'>On l'a vu balancer, on m'a vu me trahir. </l>
+	<l id='553'>J'ai pressé, combattu, remporté la victoire, </l>
+	<l id='554'>Jamais pour mon repos, toujours pour votre gloire ; </l>
+	<l id='555'>Un zèle infatigable a soutenu ma foi, </l>
+	<l id='556'>Sans cesse tout pour vous, et jamais rien pour moi. </l>
+	<l id='557'>Jugez par ces efforts où ma vertu m'engage, </l>
+	<l id='558'>Si l'amour qui m'enflamme a pu vous faire outrage, </l>
+	<l id='559'>Et si dans le respect qui l'ose mettre au jour, </l>
+	<l id='560'>Vous y pouvez blâmer que le seul nom d'amour. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='561'>Je ne sais s'il n'a rien qui soit plus condamnable, </l>
+	<l id='562'>Mais je sais que j'écoute, et qu'il en est coupable, </l>
+	<l id='563'>Puisqu'un charme secret que j'ai peine à bannir, </l>
+	<l id='564'>Me force à la pitié quand je devrais punir. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='565'>Ah, Madame, il est vrai, je suis un téméraire </l>
+	<l id='566'>D'oser séduire ainsi votre juste colère, </l>
+	<l id='567'>Et de venir surprendre en vos sens abusés </l>
+	<l id='568'>Quelque pitié des maux que vous m'avez causés. </l>
+	<l id='569'>Aussi j'en trouverais l'audace illégitime </l>
+	<l id='570'>Si ma mort n'allait pas en expier le crime, </l>
+	<l id='571'>Et si de l'Empereur l'hymen par moi pressé </l>
+	<l id='572'>Ne m'en faisait pas voir le coup plus avancé. </l>
+	<l id='573'>Au moins ai-je en mourant une douceur extrême, </l>
+	<l id='574'>D'oser croire qu'un jour vous direz en vous-même, </l>
+	<l id='575'>Plaignant de mon amour le malheur éternel, </l>
+	<l id='576'>Électus en m'aimant ne fut point criminel. </l>
+	<l id='577'>Il suivit seulement un ordre inévitable </l>
+	<l id='578'>Qui le força d'aimer ce qu'il connut aimable ; </l>
+	<l id='579'>D'une vertu brillante il vit en moi l'appas, </l>
+	<l id='580'>Il n'était pas en lui de ne l'adorer pas. </l>
+	<l id='581'>Sans espoir, sans désir, sa passion fut pure, </l>
+	<l id='582'>Il souffrit sans se plaindre, il languit sans murmure, </l>
+	<l id='583'>D'aucun propre intérêt il ne fut ébranlé, </l>
+	<l id='584'>Et fût mort innocent s'il n'eût point trop parlé.</l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='585'>Quoi que l'amour ait pris de pouvoir sur votre âme, </l>
+	<l id='586' part='i'>Le temps vous fera voir... </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='586' part='f'>Il ne peut rien, Madame, </l>
+	<l id='587'>Et ce ne fut jamais dans les maux importants </l>
+	<l id='588'>Qu'on eut droit d'espérer quelque chose du temps. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='589'>Au moins en vous fuyant j'empêcherai peut-être </l>
+	<l id='590'>Que du vôtre à me voir l'aigreur ne puisse croître. </l>
+	<l id='591'>Ce remède est pour vous le seul à souhaiter, </l>
+	<l id='592'>Et je m'éloigne exprès afin de le hâter. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='593'>Ah, ne me quittez point, et que mon mal s'aigrisse : </l>
+	<l id='594'>Madame, au nom des Dieux... Hélas, quelle injustice ! </l>
+	<l id='595'>Rien ne l'arrête, ô Ciel, ô Destins conjurés ! </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Laetus, Électus. </head>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='596'>Marcia se retire, et vous en soupirez ? </l>
+	<l id='597'>Je ne demande plus quelle est la rude atteinte </l>
+	<l id='598'>Qui tantôt devant moi vous forçait à la plainte. </l>
+	<l id='599'>L'amour de l'Empereur tient le vôtre gêné ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='600'>Injurieux Ami, qu'avez-vous deviné ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='601'>Un feu que la vertu soutient dans ce qu'il ose. </l>
+	<l id='602'>Si j'en plains les effets j'en admire la cause, </l>
+	<l id='603'>Et servir Marcia sans vous considérer, </l>
+	<l id='604'>Est le plus bel effort qu'elle puisse inspirer. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='605'>Aussi vous en voyez ma constance abattue. </l>
+	<l id='606'>De ce cruel effort la contrainte me tue, </l>
+	<l id='607'>Et si de quelque espoir il peut être adouci, </l>
+	<l id='608' part='i'>C'est que... </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='608' part='f'>Ne dites rien, l'Empereur vient ici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Commode, Laetus, Électus, Flavian, Suite de l'Empereur. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='609'>Électus, allez voir si le Sénat s'apprête. </l>
+	<l id='610'>Voici l'heure bientôt de commencer la Fête, </l>
+	<l id='611'>Si tout est préparé vous m'en avertirez. </l>
+	<l id='612'>Suivez-le, Flavian ; vous, Laetus, demeurez. </l>
+	<l id='613'>Jusqu'ici ta vertu généreuse et fidèle </l>
+	<l id='614'>M'a fait voir dans tes soins un véritable zèle, </l>
+	<l id='615'>Respectueux, soumis, et qui me fait juger </l>
+	<l id='616'>Que des miens sur toi seul je dois me décharger. </l>
+	<l id='617'>En effet, mes faveurs sur d'autres répandues </l>
+	<l id='618'>Semblent partout ailleurs avoir été perdues. </l>
+	<l id='619'>Électus n'en sait plus ménager la douceur, </l>
+	<l id='620'>Et de mon confident il se fait mon censeur. </l>
+	<l id='621'>Presque en tous mes projets ma gloire s'intéresse, </l>
+	<l id='622'>L'un est honteux pour moi, l'autre plein de faiblesse, </l>
+	<l id='623'>Et jusqu'au rang illustre où je veux t'élever, </l>
+	<l id='624'>Il trouve des raisons pour ne pas l'approuver. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='625'>Seigneur, c'est qu'il connaît que cette récompense </l>
+	<l id='626'>Des plus ambitieux passerait l'espérance, </l>
+	<l id='627'>Ou que de la Princesse appuyant l'intérêt, </l>
+	<l id='628'>Il croit devoir combattre un choix qui lui déplaît. </l>
+	<l id='629'>Je m'en avoue indigne, et puisqu'elle s'irrite </l>
+	<l id='630'>De vous voir trop donner au peu que je mérite, </l>
+	<l id='631'>Souffrez que je renonce à l'honneur éclatant... </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='632'>Non, ce choix pour ma gloire est sans doute important, </l>
+	<l id='633'>Ma soeur me connaît trop pour choquer mon envie, </l>
+	<l id='634'>À ne m'obéir pas il irait de sa vie, </l>
+	<l id='635'>Et je veux, quoi qu'on dise ou qu'elle puisse oser, </l>
+	<l id='636'>Que Rome avant deux jours te la voie épouser. </l>
+	<l id='637'>Par là je t'ôterai ces indignes alarmes </l>
+	<l id='638'>Qui bornant ton espoir en corrompent les charmes, </l>
+	<l id='639'>Et pour mieux relever l'éclat d'un si beau jour </l>
+	<l id='640'>Moi-même on m'y verra couronner mon amour. </l>
+	<l id='641'>Oui, je veux que l'hymen à cet amour propice </l>
+	<l id='642'>À Rome en même temps donne une Impératrice. </l>
+	<l id='643'>Déjà sur mes désirs prenant d'injustes droits </l>
+	<l id='644'>Je vois que Marcia s'assure de mon choix, </l>
+	<l id='645'>Mais sans doute Électus pour plaire à son envie, </l>
+	<l id='646'>À m'avoir trop pressé, ne l'a pas bien servie, </l>
+	<l id='647'>Et n'a fait qu'exposer à mon aversion </l>
+	<l id='648'>L'impatient orgueil de son ambition. </l>
+	<l id='649'>Vaine d'un bel espoir et de ma complaisance, </l>
+	<l id='650'>Elle ose comme lui m'étaler sa prudence, </l>
+	<l id='651'>Et je fais sur ma gloire un indigne attentat </l>
+	<l id='652'>Si je ne vais au Temple avec tout le Sénat. </l>
+	<l id='653'>Je cède, mais enfin je veux, quoi qu'elle fasse, </l>
+	<l id='654'>D'un conseil importun punir l'injuste audace, </l>
+	<l id='655'>Et que l'affront d'un Trône à ces voeux échappé </l>
+	<l id='656'>Me venge d'un pouvoir sur le mien usurpé. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='657'>Quoi qu'on ait fait, Seigneur, il est indubitable </l>
+	<l id='658'>Qu'ayant su vous déplaire on est toujours coupable ; </l>
+	<l id='659'>Mais Pertinax peut-être aurait dû mériter... </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='660'>Non, Pertinax ici n'a rien à redouter. </l>
+	<l id='661'>En faveur de son sang j'ai toujours même envie, </l>
+	<l id='662'>Et lui fais part du Trône en couronnant Helvie.</l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='663' part='i'>Helvie ? </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='663' part='f'>Oui, d'un beau feu mon coeur pour elle atteint </l>
+	<l id='664'>Déjà depuis longtemps soupire et se contraint. </l>
+	<l id='665'>L'amour de Marcia trop puissant sur mon âme, </l>
+	<l id='666'>Sans cesse m'opposait quelques restes de flamme, </l>
+	<l id='667'>Mais enfin aujourd'hui je le sens étouffé, </l>
+	<l id='668'>Et malgré cet obstacle Helvie a triomphé. </l>
+	<l id='669'>Crois-tu qu'il soit une âme et plus haute et plus belle, </l>
+	<l id='670'>Plus digne de ce Trône où mon amour l'appelle, </l>
+	<l id='671'>Et qui pour soutenir une aimable fierté </l>
+	<l id='672'>Mêle plus de douceur à plus de majesté ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='673' part='i'>Peu l'égalent sans doute. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='673' part='f'>Ajoute, si je l'aime, </l>
+	<l id='674'>Qu'un mérite parfait veut un amour extrême. </l>
+	<l id='675'>Enfin pour lui porter cet aveu glorieux, </l>
+	<l id='676'>Laetus, c'est sur toi seul que j'ai jeté les yeux. </l>
+	<l id='677'>Va charmer ses désirs avec cette nouvelle, </l>
+	<l id='678'>Plus le bonheur est grand, plus la surprise est belle, </l>
+	<l id='679'>Contre toute apparence on aime à s'élever. </l>
+	<l id='680'>Mais loin de m'applaudir qui t'oblige à rêver ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='681'>Un scrupule, Seigneur, qui fait que j'appréhende </l>
+	<l id='682'>Que difficilement son esprit ne se rende, </l>
+	<l id='683'>Puisque, de quelque espoir que j'ose la flatter, </l>
+	<l id='684'>L'exemple de sa soeur la peut inquiéter. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='685'>Si par là de ma flamme elle craint l'inconstance, </l>
+	<l id='686'>Tu peux d'un prompt hymen lui laisser l'assurance, </l>
+	<l id='687'>Et lui jurer pour moi qu'à son choix dès demain </l>
+	<l id='688'>Elle me verra prêt à lui donner la main. </l>
+	<l id='689'>Juge alors si sa joie aura lieu de paraître. </l>
+	<l id='690'>Mais pour voir son estime en ta faveur s'accroître, </l>
+	<l id='691'>Dis lui que c'est par toi que j'ai connu l'erreur </l>
+	<l id='692'>Qui m'a fait si longtemps lui préférer sa soeur, </l>
+	<l id='693'>Je l'avouerai moi-même, et veux qu'aucun ne doute </l>
+	<l id='694'>Que dans ce nouveau choix c'est toi seul que j'écoute. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='695' part='i'>Mais, Seigneur... </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='695' part='f'>Quoi, ton âme avec peine y consent ? </l>
+	<l id='696'>Crains-tu de Marcia le courroux impuissant, </l>
+	<l id='697'>Ou crois-tu son audace injustement punie. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN, rentrant.</speaker> 
+	<l id='698'>Seigneur, on vous attend pour la Cérémonie. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='699'>Il faut aller au Temple, adieu, sers mon amour, </l>
+	<l id='700'>Vois Helvie et me rends sa réponse au retour. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. </head>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='701'>Sous quels plus rudes coups ma constance étonnée </l>
+	<l id='702'>Peut-elle au désespoir se voir abandonnée ? </l>
+	<l id='703'>Ce n'est donc pas assez qu'un choix injurieux </l>
+	<l id='704'>Jette sur mes désirs un joug impérieux, </l>
+	<l id='705'>C'est peu de la contrainte où sa rigueur m'engage, </l>
+	<l id='706'>D'un plus cruel destin il faut souffrir l'outrage, </l>
+	<l id='707'>Et me voir condamné par un ordre fatal </l>
+	<l id='708'>À mettre ce que j'aime au pouvoir d'un Rival ? </l>
+	<l id='709'>Ô Commode, ô Tyran dont la faveur m'accable, </l>
+	<l id='710'>Qui pour trop m'estimer rends mon sort déplorable, </l>
+	<l id='711'>Pourquoi, lorsque chacun gémit sous tes forfaits, </l>
+	<l id='712'>N'es-tu Tyran pour moi qu'à force de bienfaits ? </l>
+	<l id='713'>Me promettre ta soeur, m'offrir ta confidence, </l>
+	<l id='714'>C'est arrêter mon bras, corrompre ma vengeance, </l>
+	<l id='715'>Que ne me laisses-tu le droit de te haïr ? </l>
+	<l id='716'>Que ne me laisses-tu le droit de te trahir, </l>
+	<l id='717'>Et de m'autoriser à chercher dans tes veines </l>
+	<l id='718'>La liberté de Rome, et la fin de mes peines ? </l>
+	<l id='719'>Je vois Helvie ? Ô dieux ! Par quel funeste sort </l>
+	<l id='720'>Pourrai-je la porter à résoudre ma mort ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Helvie, Laetus, Julie. </head>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='721'>Quoi, vous trouver ici lorsqu'au Temple on se presse ? </l>
+	<l id='722'>J'ai su me dispenser d'y suivre la Princesse, </l>
+	<l id='723'>Et des voeux criminels j'eus toujours trop horreur </l>
+	<l id='724'>Pour en faire jamais avecque l'Empereur. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='725' part='i'>Ah, Madame ! </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='725' part='f'>D'où vient que votre coeur soupire ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='726'>Hélas ! Sans expirer pourrai-je vous le dire ? </l>
+	<l id='727' part='i'>L'Empereur... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='727' part='f'>C'est assez, quoi que vous ayez fait, </l>
+	<l id='728'>D'un hymen qui vous gêne il presse enfin l'effet ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='729'>Oui, Madame, il le presse, et j'en crains la menace. </l>
+	<l id='730'>Dans cette extrémité conseillez-moi, de grâce ; </l>
+	<l id='731'>Mon coeur à ma raison ne s'ose confier. </l>
+	<l id='732' part='i'>Parlez, que dois-je ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='732' part='f'>Obéir, m'oublier. </l>
+	<l id='733'>L'un et l'autre pour vous sans doute est nécessaire. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='734'>Suivez donc ce conseil, il est noble et sincère, </l>
+	<l id='735'>Et si j'ose douter, il vous doit être doux </l>
+	<l id='736'>De m'en pouvoir convaincre en le prenant pour vous. </l>
+	<l id='737'>Au moins de son effet l'avantage est insigne, </l>
+	<l id='738'>Il vous assure un Trône, et vous en êtes digne, </l>
+	<l id='739'>Et pour plus de vertus peut-être que les Dieux </l>
+	<l id='740'>N'ordonnèrent jamais un prix si glorieux. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='741' part='i'>Que dites-vous, Laetus ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='741' part='f'>Que l'Empereur vous aime, </l>
+	<l id='742'>Qu'il vous offre par moi la puissance suprême, </l>
+	<l id='743'>Qu'il veut vous épouser, qu'il s'y prépare ; hélas ! </l>
+	<l id='744'>Madame, obéissez, mais ne m'oubliez pas. </l>
+	<l id='745'>Je sens que ma vertu plus faible que la vôtre, </l>
+	<l id='746'>En vous conseillant l'un, ne saurait souffrir l'autre ; </l>
+	<l id='747'>Mais avouez aussi qu'en ce funeste jour </l>
+	<l id='748'>Si j'ai moins de vertu, je montre plus d'amour. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='749'>Dans le confus désordre où la mienne est réduite, </l>
+	<l id='750'>C'est en vain que mon coeur s'attache à sa conduite. </l>
+	<l id='751'>Elle est toute alarmée, il est tout interdit. </l>
+	<l id='752'>Ah, Laetus, que croirai-je, et que m'avez-vous dit ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='753'>S'il vous faut de mon sort répéter l'injustice, </l>
+	<l id='754'>Souffrez à mes soupirs ce pitoyable office, </l>
+	<l id='755'>Si toutefois mon coeur, hors d'état d'espérer, </l>
+	<l id='756'>Quand vous montez au Trône, a droit de soupirer. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='757'>C'est à quoi je crains peu que le Ciel l'autorise, </l>
+	<l id='758'>S'il ne doit soupirer que de m'y voir assise</l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='759'>Doutez-vous d'un hymen qui vous y va placer ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='760'>Doutez-vous d'un refus que rien ne peut forcer ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='761'>Comment n'en douter pas sans m'en rendre coupable ? </l>
+	<l id='762'>D'un injuste conseil vous n'êtes point coupable, </l>
+	<l id='763'>Vos sentiments par là me sont trop déclarés</l>
+	<l id='764'>Vous parliez d'obéir, et vous obéirez. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='765'>C'est donner un peu trop peut-être à l'apparence, </l>
+	<l id='766'>Que de juger par là de mon obéissance. </l>
+	<l id='767'>Je vous la conseillais, mais vous savez, hélas, </l>
+	<l id='768'>Que l'on peut conseiller ce qu'on ne voudrait pas. </l>
+	<l id='769'>L'Amour que bien souvent aveugle trop de zèle, </l>
+	<l id='770'>Contre ce qu'il ordonne aime qu'on se rebelle, </l>
+	<l id='771'>Et n'agit contre soi par quelque ordre confus </l>
+	<l id='772'>Qu'afin de s'assurer la douceur d'un refus. </l>
+	<l id='773'>Non qu'en vous conseillant un hymen nécessaire, </l>
+	<l id='774'>Vous ne deviez penser que j'aie été sincère ; </l>
+	<l id='775'>Au moins si ma faiblesse eût triomphé de moi, </l>
+	<l id='776'>Ce coeur vous demeurant n'aurait trahi que soi, </l>
+	<l id='777'>Et l'affreuse rigueur d'un éternel silence </l>
+	<l id='778'>Aurait sans doute assez expié cette offense ; </l>
+	<l id='779'>Mais dans les sentiments peut-être un peu trop doux </l>
+	<l id='780'>Que l'amour malgré moi me fait prendre pour vous, </l>
+	<l id='781'>Quand l'hymen d'un Tyran serait cru légitime, </l>
+	<l id='782'>J'y voudrais résister pour m'épargner un crime, </l>
+	<l id='783'>Et ne pas m'exposer au coupable embarras </l>
+	<l id='784'>De lui devoir mon coeur, et ne le donner pas. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='785'>Puis-je dans cet aveu goûter assez ma joie </l>
+	<l id='786'>Lorsque je dois réponse au Tyran qui m'envoie ? </l>
+	<l id='787' part='i'>Que lui dirai-je, enfin. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='787' part='f'>Que je ne puis souffrir </l>
+	<l id='788'>Qu'il ôte à Marcia ce qu'il me fait offrir. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='789'>Pour suivre la raison en connaît-il l'empire ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='790'>En dois-je écouter moins ce que l'honneur m'inspire ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='791'>Son seul emportement règle sa volonté. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='792'>Ma vertu contre lui fera ma sûreté. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='793'>D'un amour irrité la fureur est à craindre ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='794'>Et bien, s'il est besoin, j'ai du sang pour l'éteindre, </l>
+	<l id='795'>Et faire voir à tous qu'aux malheurs les plus grands </l>
+	<l id='796'>Qui peut oser mourir peut braver les Tyrans. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Helvie, Flavian, Julie. </head>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='797'>Quoi vers moi, Flavian, l'Empereur vous envoie, </l>
+	<l id='798'>Il veut que de nouveau ma fierté se déploie, </l>
+	<l id='799'>Et qu'un second refus serve à mieux découvrir </l>
+	<l id='800'>Que je suis au-dessus de ce qu'on vient m'offrir ? </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='801'>Je n'examine point par quelle grandeur d'âme </l>
+	<l id='802'>Vous mépriser le Trône en méprisant sa flamme, </l>
+	<l id='803'>Mais quelque noble orgueil qui nous puisse animer, </l>
+	<l id='804'>On doit feindre souvent si l'on ne peut aimer. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='805'>Moi, que par une basse et molle complaisance </l>
+	<l id='806'>Je consente à trahir les droits de ma naissance, </l>
+	<l id='807'>Et montre un coeur d'esclave à qui m'a pu juger </l>
+	<l id='808'>Digne de la grandeur qu'il songe à partager ! </l>
+	<l id='809'>Non, si j'ai rejeté d'abord le Diadème, </l>
+	<l id='810'>L'honneur veut que toujours je demeure la même, </l>
+	<l id='811'>Et ne saurait souffrir que ce coeur combattu </l>
+	<l id='812'>Par sa légèreté démente ma vertu. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='813'>Le dessein serait beau, si votre résistance </l>
+	<l id='814'>Pouvait de l'Empereur vaincre la violence ; </l>
+	<l id='815'>Mais vous savez, Madame, où l'a souvent porté </l>
+	<l id='816'>L'inexorable abus de son autorité. </l>
+	<l id='817'>Aussitôt qu'il ordonne, il veut qu'on obéisse, </l>
+	<l id='818'>Son pouvoir est sa règle, et non pas la justice, </l>
+	<l id='819'>Ou plutôt pour maxime il a su concevoir </l>
+	<l id='820'>Que quiconque peut tout a droit de tout vouloir. </l>
+	<l id='821'>Je hasarde sans doute en parlant de la sorte, </l>
+	<l id='822'>Mais mon zèle pour vous sur mon devoir l'emporte, </l>
+	<l id='823'>Et je le peins Tyran, pour mieux faire éclater </l>
+	<l id='824'>Ce que de sa rigueur vous devez redouter. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='825'>Quoi qu'il souffre d'empire à ses injustes flammes, </l>
+	<l id='826'>Il ne l'est pas assez pour forcer jusqu'aux âmes, </l>
+	<l id='827'>Et si par mon refus il se tient outragé, </l>
+	<l id='828'>En me privant du Trône il s'en croira vengé. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='829'>Vous l'espérez en vain ; son feu semble s'accroître </l>
+	<l id='830'>Plus il se sent forcé de le faire paraître, </l>
+	<l id='831'>Et l'indignation dont on le voit surpris </l>
+	<l id='832'>Ne saurait pour l'éteindre aller jusqu'au mépris. </l>
+	<l id='833'>Si dans sa passion il en était capable, </l>
+	<l id='834'>Laetus aurait gagné cet esprit indomptable. </l>
+	<l id='835'>Il n'ait rien qu'il n'ait fait, il n'est rien qu'il n'est dit, </l>
+	<l id='836'>Pour lui voir au dédain donner ce qui l'aigrit, </l>
+	<l id='837'>Mais ses empressements à combattre sa flamme, </l>
+	<l id='838'>À d'injustes soupçons n'ont fait qu'ouvrir son âme, </l>
+	<l id='839'>Et lui persuader que par quelque intérêt </l>
+	<l id='840'>Il presse lâchement un noeud qui vous déplaît. </l>
+	<l id='841'>C'est par là qu'il m'emploie à ce fatal office ; </l>
+	<l id='842'>J'en connais la rigueur, j'en connais l'injustice, </l>
+	<l id='843'>Mais enfin il commande, et c'est vous dire assez </l>
+	<l id='844'>Qu'il pourra tout oser si vous n'obéissez. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='845'>Je n'ai point attendu cette indigne menace, </l>
+	<l id='846'>Pour préparer mon coeur à toute ma disgrâce. </l>
+	<l id='847'>Je sais sous quelle atteinte elle peut redoubler, </l>
+	<l id='848'>Et la dédaigne trop pour en pouvoir trembler. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='849'>N'en faites point l'essai si vous m'en pouvez croire. </l>
+	<l id='850'>Jamais à prendre un Sceptre on ne ternit sa gloire. </l>
+	<l id='851'>Et dans un rang si haut peu croiraient comme vous... </l>
+	<l id='852'>Mais l'Empereur paraît ; redoutez son courroux, </l>
+	<l id='853'>Madame, encore un coup, ce seul moment vous reste. </l>
+	<l id='854'>Gardez de le forcer à quelque ordre funeste, </l>
+	<l id='855'>Et sur vos sentiments faites assez d'effort </l>
+	<l id='856'>Pour bien user du droit de régler votre sort. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Commode, Helvie, Flavian, Julie, Suite de l'Empereur. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='857'>Madame, à vos refus je viens ici moi-même </l>
+	<l id='858'>Abandonner encor l'honneur du Diadème, </l>
+	<l id='859'>Et soumettre au dédain qu'expliquent vos regards </l>
+	<l id='860'>L'impérieux orgueil du Trône des Césars. </l>
+	<l id='861'>Un tel aveu sans doute à votre humeur altière </l>
+	<l id='862'>Offre d'un beau triomphe une illustre matière, </l>
+	<l id='863'>Et c'est pour l'étaler aux yeux de l'Univers, </l>
+	<l id='864'>Que d'en pouvoir vanter le Maître dans vos fers. </l>
+	<l id='865'>Vous l'y voyez, Madame, et son amour profonde </l>
+	<l id='866'>Reçoit de vous les lois qu'il donne à tout le monde, </l>
+	<l id='867'>Vous forcez un pouvoir qu'il se crût conserver, </l>
+	<l id='868'>Et faites le destin de qui l'osa braver. </l>
+	<l id='869'>Oui, dans ce que je suis, ma volonté sans peine </l>
+	<l id='870'>En réglait jusqu'ici la balance incertaine, </l>
+	<l id='871'>Et la gloire d'un être approchant du divin </l>
+	<l id='872'>Permettait à mes voeux le choix de mon destin. </l>
+	<l id='873'>Il n'en est plus ainsi, vous en êtes l'arbitre. </l>
+	<l id='874'>Par vous de Souverain je n'ai plus que le titre, </l>
+	<l id='875'>Et je fais vanité d'abaisser à vos pieds. </l>
+	<l id='876'>La fière Majesté du Trône où je m'assieds. </l>
+	<l id='877'>Vous pouvez de moi-même en rejeter l'hommage, </l>
+	<l id='878'>Mais songez que l'Amour est sensible à l'outrage, </l>
+	<l id='879'>Et qu'à se trop permettre on peut tout hasarder, </l>
+	<l id='880'>Quand l'Esclave qui prie a droit de commander. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='881'>Seigneur, de quelque orgueil que je sois soupçonnée, </l>
+	<l id='882'>Je me souviens toujours de ce que je suis née, </l>
+	<l id='883'>Et je rendrai sans cesse au rang que vous tenez </l>
+	<l id='884'>Les plus profonds respects qui lui soient ordonnés ; </l>
+	<l id='885'>Mais l'obligation de cette déférence </l>
+	<l id='886'>D'un devoir plus étroit n'a rien qui me dispense, </l>
+	<l id='887'>Et la sévérité de ses plus rudes lois </l>
+	<l id='888'>N'oppose aucun obstacle à ce que je me dois. </l>
+	<l id='889'>Je le connaîtrais mal si pour oser vous croire </l>
+	<l id='890'>À ma crédulité j'abandonnais ma gloire, </l>
+	<l id='891'>Et souffrais que par moi Pertinax abusé </l>
+	<l id='892'>À de nouveaux affronts fût encor exposé. </l>
+	<l id='893'>Dans l'éclat, dont son nom par ses actions brille, </l>
+	<l id='894'>Mon avantage seul est de me voir sa Fille, </l>
+	<l id='895'>Et si dans Marcia c'est peu pour votre foi, </l>
+	<l id='896'>Si vous l'y dédaignez, que feriez-vous en moi ? </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='897'>Laetus auprès de vous a mal servi ma flamme </l>
+	<l id='898'>Si ce faible scrupule alarme encor votre âme, </l>
+	<l id='899'>Puisque pour l'étouffer il a dû vous offrir </l>
+	<l id='900'>Ce que pour Marcia je n'ai pu me souffrir. </l>
+	<l id='901'>Ces soins à reculer toujours mon hyménée </l>
+	<l id='902'>De trop d'engagement marquaient ma foi gênée ; </l>
+	<l id='903'>Mais n'appréhendez point qu'un feu trop inconstant </l>
+	<l id='904'>Dérobe à votre espoir la gloire qu'il prétend ; </l>
+	<l id='905'>Avant que de céder, avant que de me rendre, </l>
+	<l id='906'>J'ai longtemps contre vous tâché de me défendre, </l>
+	<l id='907'>Mais je me vois contraint d'avouer mon vainqueur, </l>
+	<l id='908'>Et je lui viens offrir et mon Trône et mon coeur. </l>
+	<l id='909'>L'un est à vous déjà ; pour vous assurer l'autre </l>
+	<l id='910'>L'hymen peut dès demain unir mon sort au vôtre. </l>
+	<l id='911'>Consentez-y, Madame, et dans des voeux si doux, </l>
+	<l id='912'>Faites un peu pour moi quand je fais tout pour vous. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='913'>Vous faites trop, Seigneur, et je serais injuste </l>
+	<l id='914'>Si j'osais abuser un Empereur auguste, </l>
+	<l id='915'>Et monter dans un Trône où son espoir trompé </l>
+	<l id='916'>Se plaindrait d'un Empire à faux titre usurpé. </l>
+	<l id='917'>Pour mériter ce rang que votre amour m'apprête </l>
+	<l id='918'>Il faudrait que mon coeur devînt votre conquête, </l>
+	<l id='919'>Et quelque vaste éclat qu'il fît sur moi tomber, </l>
+	<l id='920'>J'aime mieux n'être rien que de le dérober. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='921'>Quoi, quand l'amour du Trône a pouvoir sur tout autre, </l>
+	<l id='922'>C'est peu que vous l'offrir pour mériter le vôtre, </l>
+	<l id='923'>Et l'Univers entier dans cette offre compris </l>
+	<l id='924'>D'un coeur que je demande est un indigne prix ? </l>
+	<l id='925'>Ce que l'ambition a de plus puissants charmes, </l>
+	<l id='926'>Pour vaincre sa fierté, n'a que de faibles armes ? </l>
+	<l id='927'>Si du Maître du monde il dédaigne la loi, </l>
+	<l id='928' part='i'>À qui donc se soumettre ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='928' part='f'>À moi, Seigneur, à moi. </l>
+	<l id='929'>Les Dieux m'en ont donné l'Empire pour partage, </l>
+	<l id='930'>Mes respects seulement vous en doivent l'hommage. </l>
+	<l id='931'>Et du plus fort pouvoir quel que soit l'ascendant, </l>
+	<l id='932'>Cet hommage rendu le laisse indépendant. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='933'>Enfin, Madame, enfin je commence à connaître </l>
+	<l id='934'>Que j'ai tort de prier, pouvant parler en maître ; </l>
+	<l id='935'>J'en ai le droit, Madame, et l'orgueil le plus fier </l>
+	<l id='936'>Devrait s'en souvenir quand je veux l'oublier. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='937'>Je m'en souviens, Seigneur, et vous montrer une âme, </l>
+	<l id='938'>Malgré l'espoir du Trône, incapable de flamme, </l>
+	<l id='939'>L'exposer toute nue et sans fard à vos yeux, </l>
+	<l id='940'>C'est vouloir vous traiter de même que les Dieux. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='941'>Et bien, puisque l'amour n'y saurait trouver place, </l>
+	<l id='942'>D'un indigne refus il faut souffrir l'audace, </l>
+	<l id='943'>Soyez en liberté d'aimer ou de haïr, </l>
+	<l id='944'>Mais je commande enfin, c'est à vous d'obéir. </l>
+	<l id='945'>L'hymen où votre coeur trouve tant d'injustice, </l>
+	<l id='946'>S'il n'en est pas le charme, en sera le supplice, </l>
+	<l id='947'>Et puisque votre orgueil s'obstine à m'outrager, </l>
+	<l id='948'>S'il ne le peut abattre, il m'en saura venger. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='949'>Et moi, Seigneur, et moi, j'oserai vous apprendre, </l>
+	<l id='950'>Qu'abandonnant ma vie au soin de m'en défendre, </l>
+	<l id='951'>Je sais pour en sortir cent chemins différents, </l>
+	<l id='952'>Si je vous vois marcher sur les pas des Tyrans. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='953'>Oui, je serai Tyran, et puisqu'on se déclare, </l>
+	<l id='954'>Pour qui m'est trop cruel je veux être barbare, </l>
+	<l id='955'>Dépouiller le respect dont j'ai trop pris la loi, </l>
+	<l id='956'>Et perdre une pitié que l'on n'a pas pour moi. </l>
+	<l id='957'>Dans l'affreux désespoir où vous livrez mon âme </l>
+	<l id='958'>De ses plus noirs effets vous aurez tout le blâme, </l>
+	<l id='959'>Lorsque je m'en défends c'est vous qui m'y forcez. </l>
+	<l id='960'>Un mot pour l'empêcher peut encor être assez, </l>
+	<l id='961'>Mais enfin votre arrêt par le mien se prononce, </l>
+	<l id='962'>Songez-y. Flavian, attendez sa réponse, </l>
+	<l id='963'>Et si rien ne fléchit son esprit obstiné, </l>
+	<l id='964'>Exécutez soudain l'ordre que j'ai donné. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Helvie, Flavian, Julie. </head>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='965'>Ma mort est résolue, et bien, me voilà prête, </l>
+	<l id='966'>Où faut-il, Flavian, que je porte ma tête ? </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='967' part='i'>Ah, Madame, voyez... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='967' part='f'>Non, non, mon choix est fait, </l>
+	<l id='968'>Et quel que soit votre ordre, il en faut voir l'effet. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='969'>Quelle en est la rigueur et pour l'un et pour l'autre! </l>
+	<l id='970'>L'Empereur veut du sang, mais ce n'est pas le vôtre, </l>
+	<l id='971'>Et si vous n'en changez l'impitoyable arrêt, </l>
+	<l id='972'>Celui de Pertinax est le seul qui lui plaît. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='973'>De mon Père ! Ah, je tremble, et ma raison s'égare, </l>
+	<l id='974'>D'un barbare Tyran ordre vraiment barbare ! </l>
+	<l id='975'>Hélas ! Et Flavian s'en est voulu charger ? </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='976'>D'assez fortes raisons m'y devaient obliger. </l>
+	<l id='977'>J'empêche au moins par là qu'une main plus hardie </l>
+	<l id='978'>N'en presse en Pertinax la noire perfidie, </l>
+	<l id='979'>Et ne pouvant enfin oublier aujourd'hui </l>
+	<l id='980'>Qu'en cent occasions j'ai commandé sous lui, </l>
+	<l id='981'>Je périrai plutôt que de sa mort complice, </l>
+	<l id='982'>On en puisse à mon bras reprocher l'injustice. </l>
+	<l id='983'>Mais hélas ! Votre sort en sera-t-il plus doux ? </l>
+	<l id='984'>Sans le pouvoir sauver c'est me perdre avec vous. </l>
+	<l id='985'>Un autre à mon refus, plein d'une lâche audace... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='986'>Ah, je puis, et j'en dois empêcher la menace. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='987'>Madame, je vais donc assurer l'Empereur... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='988'>Que tout mon sang est prêt d'assouvir sa fureur, </l>
+	<l id='989'>Que pour le satisfaire il n'est tourment ni peine... </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='990'>Pour fléchir sa rigueur votre espérance est vaine. </l>
+	<l id='991'>Piqué que son amour n'ait pu rien obtenir, </l>
+	<l id='992'>Par la perte d'un Père il croit mieux vous punir, </l>
+	<l id='993'>Et si pour son hymen vous n'êtes toute prête, </l>
+	<l id='994'>Je ne puis le revoir qu'en lui portant sa tête. </l>
+	<l id='995'>Avec de tels transports il l'a su commander </l>
+	<l id='996' part='i'>Qu'à moins qu'on ne lui cède... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='996' part='f'>Et bien, il faut céder. </l>
+	<l id='997'>Je dois à la Nature un effort si funeste ; </l>
+	<l id='998'>Promettez tout, les Dieux disposeront du reste. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='999' part='i'>Madame... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='999' part='f'>Allez, de grâce, et me laissez du moins </l>
+	<l id='1000'>Dans un sort si cruel soupirer sans témoins. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Helvie, Julie. </head>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='1001'>Madame, ce triomphe obtenu sur vous-même </l>
+	<l id='1002'>Sans doute auprès des Dieux sera d'un prix extrême, </l>
+	<l id='1003'>Et contre votre espoir en obtiendra pour vous </l>
+	<l id='1004'>Du plus heureux destin le revers le plus doux. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1005'>Que le mien s'adoucisse! Hélas ! Que veux-tu croire ? </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='1006'>Qu'à se faire obéir l'Empereur met sa gloire, </l>
+	<l id='1007'>Et que se contentant de vaincre vos refus, </l>
+	<l id='1008'>S'il voit vos voeux soumis, il ne pressera plus. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1009'>Que tu le connais mal d'en juger de la sorte ! </l>
+	<l id='1010'>Toujours dans un Tyran l'injustice l'emporte, </l>
+	<l id='1011'>Et Commode l'est trop pour pouvoir consentir </l>
+	<l id='1012'>Au plus faible remords d'un juste repentir. </l>
+	<l id='1013'>De quel fatal effet sa rigueur est suivie ! </l>
+	<l id='1014'>Il m'ôte jusqu'au droit d'attenter sur ma vie, </l>
+	<l id='1015'>Et quelques rudes maux qu'on m'apprête à souffrir </l>
+	<l id='1016'>C'est un crime pour moi que de vouloir mourir. </l>
+	<l id='1017'>Où me réduisez-vous, ô devoir, ô nature ? </l>
+	<l id='1018'>De vos sévères lois mon coeur en vain murmure, </l>
+	<l id='1019'>Il faut vivre en dépit de mon noble courroux. </l>
+	<l id='1020'>Ô nature, ô devoir, où me réduisez-vous ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Marcia, Helvie,  Julie, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1021'>Madame, car le Ciel à vos désirs propice </l>
+	<l id='1022'>M'oblige à ce respect pour mon Impératrice, </l>
+	<l id='1023'>Et je dois ajouter aux honneurs éclatants... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1024'>Ma soeur, n'affectons point d'importuns contretemps. </l>
+	<l id='1025'>Quoi que vous présumiez de mes brigues secrètes, </l>
+	<l id='1026'>Leur froideur vous sied mal en l'état où vous êtes. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1027'>Il offre à votre coeur un triomphe assez doux. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1028'>Au moins ce qui s'y passe est un secret pour vous. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1029'>Laetus à mon défaut en a la confidence. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1030'>Laetus y peut avoir plus de part qu'on ne pense. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1031'>Vous faites de son zèle un glorieux essai. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1032'>Si je lui dois beaucoup, je m'en acquitterai. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1033'>Ce sentiment est juste, il vous a bien servie. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1034'>Il l'a tâché peut-être aux dépens de sa vie. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1035'>Tant de charmants appas à nuls autres pareils </l>
+	<l id='1036'>Auprès de l'Empereur appuyaient ses conseils ; </l>
+	<l id='1037'>Avec de tels seconds il n'avait rien à craindre. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1038'>S'il a brigué pour moi, vous en êtes à plaindre. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1039'>Commode en sa faveur aime à le publier. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1040'>Je n'ai pas entrepris de le justifier. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1041'>Cependant votre orgueil relâchant son audace </l>
+	<l id='1042'>Aux voeux de l'Empereur a daigné faire grâce, </l>
+	<l id='1043'>Pressé par Flavian il s'est enfin rendu ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1044'>J'ai suivi votre exemple, et fait ce que j'ai dû. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1045'>C'est contraindre bientôt cet orgueil à se taire. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1046'>J'apprends de vous, ma soeur, à craindre pour un Père. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1047'>Donc son seul intérêt arrache votre aveu ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1048'>Je vous dirais en vain ce que vous croiriez peu. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1049'>Le prétexte est plausible, et d'une lâche injure </l>
+	<l id='1050'>Empêche contre vous que Rome ne murmure. </l>
+	<l id='1051'>Menaces et refus, tout est bien concerté. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1052'>Le temps me purgera de cette lâcheté. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1053'>De vos déguisements il publiera la honte. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1054'>À la gloire souvent c'est par eux que l'on monte, </l>
+	<l id='1055'>Et la vôtre du Sort pourrait braver les traits </l>
+	<l id='1056'>Si vous vous déguisiez aussi bien que je fais. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1057'>Moi, d'un vil procédé dissimuler l'outrage ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1058'>Je souffre que par là votre ennui se soulage, </l>
+	<l id='1059'>Et puisqu'en éclatant il se peut modérer, </l>
+	<l id='1060'>Je vous laisse Électus à qui le déclarer. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Marcia, Électus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1061'>L'on me brave, Électus, et ma triste disgrâce </l>
+	<l id='1062'>D'un orgueilleux mépris accroît l'indigne audace, </l>
+	<l id='1063'>De mon jaloux destin il suit la trahison. </l>
+	<l id='1064'>Tu la sais, tu la vois ; m'en feras-tu raison ? </l>
+	<l id='1065'>Je l'attends de toi seul d'un Trône qu'on me vole, </l>
+	<l id='1066'>De sa possession tu m'as porté parole, </l>
+	<l id='1067'>Et si toujours la gloire est dans ton souvenir, </l>
+	<l id='1068'>Par ton seul intérêt tu me la dois tenir. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1069'>Madame, plût au Ciel que mon sang, que ma vie </l>
+	<l id='1070'>Fût le prix des grandeurs que le Sort vous envie, </l>
+	<l id='1071'>Vous le verriez sur l'heure à vos pieds répandu </l>
+	<l id='1072'>Vous assurer l'éclat du rang qui vous est dû, </l>
+	<l id='1073'>Et par ce sacrifice offert à votre gloire </l>
+	<l id='1074'>Mon coeur de mon amour consacrer la mémoire. </l>
+	<l id='1075'>Mais puisque l'Empereur s'est voulu déclarer, </l>
+	<l id='1076'>Il n'est plus rien pour vous qu'on en puisse espérer. </l>
+	<l id='1077'>Malgré le fier refus qui doit aigrir sa flamme, </l>
+	<l id='1078'>Il n'adore qu'Helvie elle règne en son âme, </l>
+	<l id='1079'>Et j'emploierais en vain tout ce que je vous dois </l>
+	<l id='1080'>À forcer sa raison de vous rendre sa foi. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1081'>De ta parole en vain par là tu te crois quitte ; </l>
+	<l id='1082'>Non que d'un plein effet mon coeur te sollicite, </l>
+	<l id='1083'>Mais puisqu'en mon injure elle doit t'engager, </l>
+	<l id='1084'>N'y pouvant mettre obstacle, aspire à me venger. </l>
+	<l id='1085'>Par une belle audace empêche qu'on ne pense </l>
+	<l id='1086'>Qu'avecque l'Empereur tu fus d'intelligence, </l>
+	<l id='1087'>Et d'une indignité que je méritais peu </l>
+	<l id='1088'>Va dans son lâche sang signer le désaveu. </l>
+	<l id='1089'>Ta honte est attachée à celle qu'il m'apprête ; </l>
+	<l id='1090'>Pour te justifier apporte-moi sa tête, </l>
+	<l id='1091'>Et d'un noble courroux te laissant enflammer </l>
+	<l id='1092'>Parais digne aujourd'hui d'avoir osé m'aimer ! </l>
+	<l id='1093'>Pour moi contre un Tyran c'est lui que tu dois croire, </l>
+	<l id='1094'>Je te l'ai déjà dit, il y va de ta gloire, </l>
+	<l id='1095'>Et s'il faut t'exciter où t'excite l'honneur, </l>
+	<l id='1096'>J'oserai te le dire, il y va de mon coeur. </l>
+	<l id='1097'>Dans les doux sentiments que ma vertu te cache </l>
+	<l id='1098'>C'est à toi qu'il est dû quand il sera sans tache, </l>
+	<l id='1099'>Et que ton bras vengeur, prompt à me secourir, </l>
+	<l id='1100'>M'aura mise en état de te l'oser offrir. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1101'>Ah, quelque rude effort dont la rigueur l'opprime, </l>
+	<l id='1102'>Ne mettez point si bas un coeur si magnanime. </l>
+	<l id='1103'>Il est toujours d'un prix trop haut, trop relevé... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1104'>Non, non, ton intérêt doit être conservé, </l>
+	<l id='1105'>En vain du tien séduit la flamme trop ardente </l>
+	<l id='1106'>T'en fait encor tenir la conquête éclatante, </l>
+	<l id='1107'>Dans le honteux revers qui dégage ma foi </l>
+	<l id='1108'>Le rebut d'un Tyran est indigne de toi. </l>
+	<l id='1109'>Purge-le par sa mort d'une tache si noire, </l>
+	<l id='1110'>Pour l'oser accepter rends-moi toute ma gloire, </l>
+	<l id='1111'>Et d'un indigne affront confondant l'attentat, </l>
+	<l id='1112'>Joins un éclat plus vif à son premier éclat. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1113' part='i'>Hélas ! </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1113' part='f'>Quoi, ton ardeur pour moi toujours si prompte, </l>
+	<l id='1114'>Ne m'offre qu'un soupir à réparer ma honte, </l>
+	<l id='1115'>Et quelque dur mépris qui me force à rougir, </l>
+	<l id='1116'>Tu me trouves à plaindre, et dédaignes d'agir. </l>
+	<l id='1117'>Quelle suite attachée à mon malheur extrême </l>
+	<l id='1118'>Fait qu'inutilement je te cherche en toi-même ? </l>
+	<l id='1119'>Qu'as-tu fait d'Électus, et dans ce triste jour </l>
+	<l id='1120'>Que devient sa vertu ? Que devient son amour ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1121'>L'une et l'autre a sur moi toujours le même empire, </l>
+	<l id='1122'>Mais leurs droits sont divers, et c'est dont je soupire, </l>
+	<l id='1123'>Puisque des deux côtés mon coeur trop combattu, </l>
+	<l id='1124'>Voulant tout par amour, n'ose rien par vertu. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1125'>Quoi, la tienne en ton coeur souffre tant de faiblesse </l>
+	<l id='1126'>Que lui-même il te porte à trahir ta Maîtresse ? </l>
+	<l id='1127'>Tu préfères par elle un Tyran à ta foi ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1128'>S'il l'est pour tout le monde, il ne l'est pas pour moi, </l>
+	<l id='1129'>Et lorsqu'en ma faveur chaque jour il s'explique, </l>
+	<l id='1130'>Pourrais-je prendre part à la haine publique ? </l>
+	<l id='1131'>De tout ce que je suis son bras est le soutien, </l>
+	<l id='1132'>Pour élever mon sort il ne réserve rien, </l>
+	<l id='1133'>Et l'oubli qui suivrait tant de marques d'estime </l>
+	<l id='1134'>Des plus noires couleurs peindraient partout mon crime. </l>
+	<l id='1135'>Jugez dans cet oubli quelle en soit l'horreur </l>
+	<l id='1136'>Si j'y pouvais encor ajouter la fureur, </l>
+	<l id='1137'>Et portant un poignard dans le sein de mon Maître </l>
+	<l id='1138'>Joindre au titre d'ingrat l'infâme nom de traître. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1139'>Je sais qu'à ton destin il abaissa le sien, </l>
+	<l id='1140'>Que tu lui dois beaucoup, mais ne me dois-tu rien ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1141'>Tout, où son intérêt ne combat pas le vôtre. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1142'>Et bien, il t'est aisé d'accorder l'un et l'autre, </l>
+	<l id='1143'>Et le Ciel aujourd'hui te laisse le pouvoir </l>
+	<l id='1144'>De contenter l'amour, et remplir ton devoir. </l>
+	<l id='1145'>Ne vois que mon injure, et non pas qui m'affronte </l>
+	<l id='1146'>Sans songer dans quel sang cours en laver la honte, </l>
+	<l id='1147'>Et si pour moi ton bras avec justice armé </l>
+	<l id='1148'>Par la mort d'un Tyran croit s'être diffamé, </l>
+	<l id='1149'>Soudain pour satisfaire à ta gloire outragée, </l>
+	<l id='1150'>Venge-le sur moi-même après m'avoir vengée, </l>
+	<l id='1151'>Et de ce même fer qui bornera son sort, </l>
+	<l id='1152'>Ôte-moi la douceur de jouir de sa mort. </l>
+	<l id='1153'>Ainsi tu donneras, sans être ingrat ni traître, </l>
+	<l id='1154'>Sa vie à ta Maîtresse, et la mienne à ton Maître. </l>
+	<l id='1155'>Ainsi vers lui, vers moi, tu seras dégagé </l>
+	<l id='1156'>Si m'ayant satisfaite il meurt sur moi vengé. </l>
+	<l id='1157'>Tu ne réponds point ; mais ta vue abaissée </l>
+	<l id='1158'>Par un secret refus m'explique ta pensée, </l>
+	<l id='1159'>Et mes yeux dans les tiens avaient trop vu d'abord </l>
+	<l id='1160'>Avec ton cher Tyran ton lâche coeur d'accord. </l>
+	<l id='1161'>C'est toi dont les conseils, loin de m'avoir servie, </l>
+	<l id='1162'>Lui font en ta faveur me préférer Helvie.</l>
+	<l id='1163'>Et l'offre de son Trône était pour donner jour </l>
+	<l id='1164'>Au criminel aveu de ton indigne amour. </l>
+	<l id='1165'>Comme alors sans espoir je le voyais paraître, </l>
+	<l id='1166'>J'admirais ce qu'en vain je croyais bien connaître ; </l>
+	<l id='1167'>Mais d'un éclat trompeur cet amour revêtu </l>
+	<l id='1168'>Empruntait les dehors d'une fausse vertu, </l>
+	<l id='1169'>Et sûr de tes projets, tu cherchais à me vendre </l>
+	<l id='1170'>La lâcheté d'un coeur dont j'osais tout attendre. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1171' part='i'>Quoi, Madame... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1171' part='f'>Il suffit, je n'écoute plus rien. </l>
+	<l id='1172'>Mon bras pourrait agir où j'employais le tien, </l>
+	<l id='1173'>Mais pour te punir mieux, et me punir moi-même </l>
+	<l id='1174'>De t'avoir trop tôt avouer que je t'aime, </l>
+	<l id='1175'>Il n'est rien que je n'ose afin de regagner </l>
+	<l id='1176'>Ce Trône dont par toi je me vois éloigner. </l>
+	<l id='1177'>Si trop d'abaissement suit ce que je propose, </l>
+	<l id='1178'>Au moins rougiras-tu de t'en savoir la cause, </l>
+	<l id='1179'>Et de voir par toi seul le pouvoir absolu </l>
+	<l id='1180'>Être le prix d'un coeur que tu n'as pas voulu. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1181'>Ah, si jamais l'hymen où l'Empereur s'apprête... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1182'>Tu perds temps, il me faut ou son Trône ou sa tête. </l>
+	<l id='1183'>Je vais songer à l'un ; si tu veux m'obtenir, </l>
+	<l id='1184'>L'autre dépend de toi, tu peux me prévenir. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Commode, Flavian, Suite de l'Empereur. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1185'>Vient-elle cette aimable et fière criminelle, </l>
+	<l id='1186'>Qui te promettait tout pour mieux tromper ton zèle, </l>
+	<l id='1187'>Et n'a feint de céder à mon ardent amour, </l>
+	<l id='1188'>Que pour prendre son temps à me priver du jour ? </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1189'>On va vous l'amener, Seigneur; mais j'appréhende </l>
+	<l id='1190'>Que jusqu'à s'applaudir sa fureur ne s'étende, </l>
+	<l id='1191'>Et que loin que son crime étonne sa fierté, </l>
+	<l id='1192'>Elle n'ose à vos yeux en faire vanité. </l>
+	<l id='1193'>Chacun tâche à l'envi de lui faire connaître </l>
+	<l id='1194'>Qu'elle doit craindre en vous et son Juge et son Maître, </l>
+	<l id='1195'>Qu'un peu d'abaissement peut tout pour son arrêt ; </l>
+	<l id='1196'>On dirait à la voir qu'elle est sans intérêt. </l>
+	<l id='1197'>Un sentiment obscur qu'un vif dédain enflamme </l>
+	<l id='1198'>Étale dans ses yeux tout l'orgueil de son âme, </l>
+	<l id='1199'>Elle en ose porter l'audace au plus haut point, </l>
+	<l id='1200'>Et si vous m'en croyez, vous ne la verrez point. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1201'>D'abord surpris d'un coup si noir, si détestable, </l>
+	<l id='1202'>Je n'ai pu la souffrir, cette ingrate coupable, </l>
+	<l id='1203'>Mais dans ce que sur moi ma flamme a de pouvoir, </l>
+	<l id='1204'>Tu me voudrais en vain détourner de la voir. </l>
+	<l id='1205'>Qu'on la laisse venir ; il faut que cette vue </l>
+	<l id='1206'>Détermine en ses voeux mon âme irrésolue, </l>
+	<l id='1207'>Et que ce fier Objet qui m'a trop su charmer </l>
+	<l id='1208'>Achève, ou de m'aigrir, ou de me désarmer. </l>
+	<l id='1209'>Ô crime, ô trahison trop lâche pour Helvie ! </l>
+	<l id='1210'>Quand je lui donne un Trône, attenter sur ma vie ! </l>
+	<l id='1211'>L'ingrate ! Mais hélas ! C'est bien plus de rigueur </l>
+	<l id='1212'>Qu'oser encor ensuite attenter sur mon coeur. </l>
+	<l id='1213'>Il a beau se résoudre à prononcer contre elle, </l>
+	<l id='1214'>S'il la connaît coupable il la voit toujours belle, </l>
+	<l id='1215'>Il cède à des attraits qu'il ne peut soutenir, </l>
+	<l id='1216'>Et punissant son crime il craint de se punir. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1217'>Ce crime veut sans doute une pleine vengeance, </l>
+	<l id='1218'>Mais on la peut, Seigneur, trouver dans la clémence, </l>
+	<l id='1219'>Et l'âme abandonnée à ses remords secrets </l>
+	<l id='1220'>A toujours son supplice et ses bourreaux tout prêts. </l>
+	<l id='1221'>D'ailleurs Helvie est femme, et quoi qu'elle ait pu feindre, </l>
+	<l id='1222'>Ce sexe en sa fureur n'est qu'un moment à craindre. </l>
+	<l id='1223'>Comme un premier transport fait tout ce qu'il résout, </l>
+	<l id='1224'>Il n'examine rien pour entreprendre tout, </l>
+	<l id='1225'>Et sa faible prudence à ses conseils réduite </l>
+	<l id='1226'>Perd ses plus grands projets, ou les laisse sans suite. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1227'>Non, Flavian, un crime et si noir et si bas </l>
+	<l id='1228'>Engage plus de coeurs qu'il n'a montré de bras. </l>
+	<l id='1229'>Le coup qu'à d'autres mains ils auront cru remettre, </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker>aura sans doute osé se le permettre, 
+	<l id='1230'>Et selon son transport croyant l'exécuter, </l>
+	<l id='1231'>Fait avorter la trame à la précipiter. </l>
+	<l id='1232'>Peut-être que ma mort où l'inhumaine aspire </l>
+	<l id='1233'>Ouvrait à quelque Amant un chemin à l'Empire ; </l>
+	<l id='1234'>Et que d'un attentat pour le Trône entrepris </l>
+	<l id='1235'>Ce coeur qu'on me refuse était l'injuste prix. </l>
+	<l id='1236'>Ah, c'est mon désespoir, si méprisant ma peine </l>
+	<l id='1237'>Son amour pour un autre aigrit pour moi la haine. </l>
+	<l id='1238'>C'est là, c'est ce qu'en vain je voudrais pardonner. </l>
+	<l id='1239'>Je sais trop entre nous qui je dois soupçonner ; </l>
+	<l id='1240' part='i'>Laetus, l'ingrat Laetus...</l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1240' part='f'>Ah, Seigneur, c'est trop croire. </l>
+	<l id='1241'>Laetus dans son devoir a toujours mis sa gloire, </l>
+	<l id='1242' part='i'>Et jamais... </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1242' part='f'>Cependant Laetus avec chaleur </l>
+	<l id='1243'>A combattu ma flamme, en a blâmé l'ardeur. </l>
+	<l id='1244'>D'ailleurs, loin de presser l'hymen que je souhaite, </l>
+	<l id='1245'>Le mépris de ma soeur n'a rien qui l'inquiète, </l>
+	<l id='1246'>Électus qui l'approuve a part en ses desseins, </l>
+	<l id='1247'>Et dans leur procédé je vois ce que je crains. </l>
+	<l id='1248'>Quoi qu'Helvie ait osé, l'un et l'autre est pour elle, </l>
+	<l id='1249'>Et le seul Flavian me demeure fidèle. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1250'>Seigneur, de tout mon sang je vous le signerai. </l>
+	<l id='1251'>Commandez, ordonnez, et j'exécuterai. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1252'>Contre mes Ennemis ton zèle inébranlable </l>
+	<l id='1253'>Du plus secret emploi t'a fait trop voir capable, </l>
+	<l id='1254'>Et s'il fallait qu'Helvie osât... Mais la voici. </l>
+	<l id='1255'>Fais-moi chercher Laetus, et qu'on l'amène ici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Commode, Helvie,  Flavian. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1256'>Approche, ingrate, approche, et contrains ton audace </l>
+	<l id='1257'>De soumettre ta haine à l'espoir de ma grâce ; </l>
+	<l id='1258'>Offre-la pour victime à mon ressentiment, </l>
+	<l id='1259'>Et tâche dans ton Juge à trouver un Amant. </l>
+	<l id='1260'>Tu le peux, et mon coeur où ta beauté domine, </l>
+	<l id='1261'>A peine à voir en toi la main qui m'assassine ; </l>
+	<l id='1262'>D'une image odieuse il repousse les traits, </l>
+	<l id='1263'>Et signe ton pardon au nom de tes attraits. </l>
+	<l id='1264'>Voudras-tu l'accepter ? C'est moi qui t'en conjure. </l>
+	<l id='1265'>Renonce à ta fierté, j'oublierai mon injure, </l>
+	<l id='1266'>Ma passion m'en presse, et pour y consentir </l>
+	<l id='1267'>Ce coeur, quoi qu'outragé, ne veut qu'un repentir. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1268'>Tu triomphes, Commode, et ce que peu flexible </l>
+	<l id='1269'>Ma haine auparavant n'aurait pas cru possible, </l>
+	<l id='1270'>Tu me réduis au point de n'en voir la fureur, </l>
+	<l id='1271'>Que pour haïr mon crime, et pour en prendre horreur. </l>
+	<l id='1272'>Mon coeur le conçoit tel, que les plus rudes gênes </l>
+	<l id='1273'>Pour l'expier assez semblent manquer de peines. </l>
+	<l id='1274'>Emploie à m'en punir tout ce qu'ose le tien, </l>
+	<l id='1275'>Ayant tout mérité je ne refuse rien. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1276'>Ah, que je trouverais de quoi me satisfaire </l>
+	<l id='1277'>Si j'osais m'assurer que tu fusses sincère, </l>
+	<l id='1278'>Et que ta trahison te fît assez d'horreur </l>
+	<l id='1279'>Pour te coûter ta haine, et m'acquérir ton coeur ! </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1280'>Va, pour ton intérêt ainsi que pour ma gloire </l>
+	<l id='1281'>Je te veux bien ici donner lieu de me croire, </l>
+	<l id='1282'>Et te mettre en état, si tu t'es trop flatté, </l>
+	<l id='1283'>De n'abuser jamais de ma sincérité. </l>
+	<l id='1284'>Je te la montre entière en m'avouant coupable, </l>
+	<l id='1285'>Non d'avoir voulu perdre un Tyran détestable, </l>
+	<l id='1286'>Non d'avoir attenté sur tes jours odieux, </l>
+	<l id='1287'>Mais d'avoir pu manquer un coup si glorieux, </l>
+	<l id='1288'>De n'avoir su fournir au courroux qui m'enflamme </l>
+	<l id='1289'>Dans un coeur tout Romain que le bras d'une Femme, </l>
+	<l id='1290'>D'avoir vu sous le tien son effort avorter, </l>
+	<l id='1291'>Et mérité la mort qu'il te voulait porter. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1292'>Quoi, ta fierté s'élève à tel point d'insolence </l>
+	<l id='1293'>Que tu fais gloire encor de braver ma clémence, </l>
+	<l id='1294'>Et d'une audace impie armant ton coeur ingrat </l>
+	<l id='1295'>Tu pousses ta fureur par delà l'attentat ? </l>
+	<l id='1296'>Au moins si mon amour ne peut fléchir ta rage, </l>
+	<l id='1297'>Sachant qu'il est des Dieux, respecte leur image, </l>
+	<l id='1298'>Et songe que l'orgueil qui les outrage en moi, </l>
+	<l id='1299'>Intéresse leur foudre à descendre sur toi. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1300'>Je sais qu'un vif rayon de leur toute-puissance </l>
+	<l id='1301'>Doit briller sur le front de ceux de ta naissance, </l>
+	<l id='1302'>Mais si tu veux en toi me le voir respecter, </l>
+	<l id='1303'>À nos yeux sur le tien fais qu'il puisse éclater. </l>
+	<l id='1304'>D'un juste Prince en tout soutiens le caractère, </l>
+	<l id='1305'>Et fais ce que les Dieux t'ont ordonné de faire. </l>
+	<l id='1306'>Pour voir si leur respect règle tes actions, </l>
+	<l id='1307'>Jette un moment les yeux sur tes proscriptions. </l>
+	<l id='1308'>Vois de là sous ton nom tes provinces pillées, </l>
+	<l id='1309'>De leur premier éclat tristement dépouillées, </l>
+	<l id='1310'>Servir d'injuste proie à qui veut s'enrichir </l>
+	<l id='1311'>Dans d'infâmes emplois ne craint pas de blanchir. </l>
+	<l id='1312'>Vois-y, vois-y partout ce funeste ravage </l>
+	<l id='1313'>Qu'exercent d'autre part l'avarice et la rage, </l>
+	<l id='1314'>Lorsque de ton pouvoir leurs Tyrans revêtus </l>
+	<l id='1315'>Se font de tes forfaits d'éclatantes vertus, </l>
+	<l id='1316'>Et que pour t'imiter dans tes noires maximes </l>
+	<l id='1317'>Regardant tes Sujets comme autant de victimes, </l>
+	<l id='1318'>Ces demi-Souverains par de lâches rigueurs, </l>
+	<l id='1319'>S'en immolant les biens, t'en dérobent les coeurs. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1320'>Ta haine à tort sur moi par là s'ose répandre. </l>
+	<l id='1321'>Si le désordre est tel me le vient-on apprendre ? </l>
+	<l id='1322'>Me vient-on expliquer ces secrets attentats ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1323'>Et qui les doit savoir si tu ne les sais pas ? </l>
+	<l id='1324'>Le Ciel t'a-t-il commis la puissance suprême </l>
+	<l id='1325'>Pour la voir confiée à d'autres qu'à toi-même, </l>
+	<l id='1326'>Et quand sur tes Agents tu fais tomber son poids, </l>
+	<l id='1327'>Dois-tu à l'État répondre de leur choix ? </l>
+	<l id='1328'>As-tu droit d'oublier qu'un conseil infidèle </l>
+	<l id='1329'>Peut souvent éblouir, ou surprendre leur zèle, </l>
+	<l id='1330'>Et qu'en eux comme en toi dans les moindres projets </l>
+	<l id='1331'>L'ignorance ou l'erreur ne s'excusent jamais ? </l>
+	<l id='1332'>Mais quand juste en ses moeurs et grand en sa personne </l>
+	<l id='1333'>Un Prince à l'une ou l'autre en ton rang s'abandonne, </l>
+	<l id='1334'>De son Peuple du moins par ce malheur trahi </l>
+	<l id='1335'>Il est plaint en secret, et n'en est point haï ; </l>
+	<l id='1336'>Mais ces destructions de Provinces entières </l>
+	<l id='1337'>Sont de tes volontés les expresses matières. </l>
+	<l id='1338'>Rome ne souffre rien d'affreux ni de sanglant, </l>
+	<l id='1339'>Qui n'ait de toi l'appui d'un ordre violent, </l>
+	<l id='1340'>Et dans les cruautés qui font qu'on t'y déteste, </l>
+	<l id='1341'>Cette main qu'à tes jours je crus rendre funeste, </l>
+	<l id='1342'>Ne faisait qu'usurper, à punir tes forfaits, </l>
+	<l id='1343'>L'office de ce foudre à qui tu me remets. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1344'>Je t'ai laissé vomir ta rage la plus noire </l>
+	<l id='1345'>Pour chasser de mon coeur l'opprobre de ma gloire, </l>
+	<l id='1346'>Un reste de tendresse à qui prêt à céder </l>
+	<l id='1347'>Ce coeur, ce lâche coeur osait trop accorder. </l>
+	<l id='1348'>Dis que ma cruauté, dis que ma barbarie </l>
+	<l id='1349'>Réveillent dans le tien l'amour de la Patrie, </l>
+	<l id='1350'>Et qu'en moi, par un zèle et sincère et parfait, </l>
+	<l id='1351'>Tu lui sacrifiais le Tyran qu'elle hait. </l>
+	<l id='1352'>Malgré toi mon soupçon à mes regards expose </l>
+	<l id='1353'>D'un dessein avorté la criminelle cause, </l>
+	<l id='1354'>Puisque si ta fureur n'eût que pour Rome osé, </l>
+	<l id='1355'>Pour exécuter mieux tu m'aurais épousé, </l>
+	<l id='1356'>Et sans rien hasarder, au gré de ton envie, </l>
+	<l id='1357'>Choisi l'occasion de t'immoler ma vie. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1358'>Tu m'offenses, Commode, à vouloir comme toi </l>
+	<l id='1359'>Qu'Helvie en ses projets n'ait ni vertu ni foi. </l>
+	<l id='1360'>Ce coup qui de tes jours devait finir la trame, </l>
+	<l id='1361'>Aurais-je pu l'oser si j'eusse été ta Femme, </l>
+	<l id='1362'>Et permettre à l'ardeur d'un illustre courroux, </l>
+	<l id='1363'>Dans des noeuds si sacrés, la haine d'un Époux ? </l>
+	<l id='1364'>D'une belle entreprise où la gloire me guide </l>
+	<l id='1365'>L'hymen que tu pressais eût fait un parricide, </l>
+	<l id='1366'>Et c'est pour un Tyran un trop glorieux sort, </l>
+	<l id='1367'>Lorsqu'il en coûte un crime à qui résout sa mort. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1368'>Tu crois ne pouvoir mieux cacher ce qui t'engage, </l>
+	<l id='1369'>Qu'en entassant toujours outrage sur outrage, </l>
+	<l id='1370'>Et qu'ils m'empêcheraient d'aller jusqu'en ton sein </l>
+	<l id='1371'>Percer le vrai motif qui vient d'armer ta main ? </l>
+	<l id='1372'>Quelque fière vertu dont tu fasses la vaine, </l>
+	<l id='1373'>L'amour peut sur ton coeur encor plus que la haine, </l>
+	<l id='1374'>Lui seul a fait ton crime, et contre ton espoir </l>
+	<l id='1375'>Voici de qui peut-être on le pourra savoir. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Commode, Helvie, Laetus, Flavian. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1376'>Viens t'expliquer, Laetus, c'est en faveur d'Helvie.</l>
+	<l id='1377'>Son intérêt t'en presse, et l'honneur t'y convie. </l>
+	<l id='1378' part='i'>Parle sans balancer, l'aimes-tu ? Dis. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1378' part='f'>Seigneur... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1379'>De quoi t'embarrasser? Laetus aime l'honneur, </l>
+	<l id='1380'>Laetus aime la gloire, et tu n'en dois attendre </l>
+	<l id='1381'>Que ce que sa vertu t'a pu cent fois apprendre. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1382'>Quoi, tu souffres qu'Helvie ici parle pour toi ? </l>
+	<l id='1383'>Son crime ou son péril étonnent-ils ta foi ? </l>
+	<l id='1384'>Crains-tu d'en partager ou la honte ou la peine ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1385'>La crainte ne peut rien sur une âme Romaine, </l>
+	<l id='1386'>Et par ses ordres seuls peut-être trop gardés </l>
+	<l id='1387'>Vous ignorez encor ce que vous demandez. </l>
+	<l id='1388'>Eux seuls à mon amour par une longue feinte </l>
+	<l id='1389'>Ont d'un choix odieux fait souffrir la contrainte, </l>
+	<l id='1390'>Et jusques à l'hymen qu'il eut à redouter, </l>
+	<l id='1391'>Forcé mon désespoir de ne pas éclater ; </l>
+	<l id='1392'>Mais enfin apprenant votre nouvelle flamme, </l>
+	<l id='1393'>Il s'est avec horreur emparé de mon âme. </l>
+	<l id='1394'>Résolu de vous perdre, elle a lu dans mes yeux </l>
+	<l id='1395'>À quoi portait mon bras un transport furieux, </l>
+	<l id='1396'>Et quoi qu'elle ait osé, c'est sur ma seule tête </l>
+	<l id='1397'>Que de votre courroux doit fondre la tempête, </l>
+	<l id='1398'>Puisque me prévenant elle n'a que tenté </l>
+	<l id='1399'>Ce qu'avec plein succès j'aurais exécuté. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1400'>Quoi, Laetus, s'il est vrai qu'un pur amour t'inspire, </l>
+	<l id='1401'>Est-ce là m'en prouver le vertueux empire, </l>
+	<l id='1402'>Et quand ma gloire avoue un illustre attentat, </l>
+	<l id='1403'>La tienne a-t-elle droit d'en affaiblir l'éclat ? </l>
+	<l id='1404'>Je t'aurais prévenu, toi dans la complaisance </l>
+	<l id='1405'>M'ordonnait une indigne et basse obéissance, </l>
+	<l id='1406'>Et toujours trop fidèle à ton lâche Empereur </l>
+	<l id='1407'>Tâchait de son hymen à m'adoucir l'horreur ? </l>
+	<l id='1408'>Je ne t'en blâme point, mais souffre à mon courage </l>
+	<l id='1409'>D'un projet glorieux le parfait avantage, </l>
+	<l id='1410'>Et qu'avec tout l'éclat qui suivra ce grand jour, </l>
+	<l id='1411'>Je meure digne encor d'emporter ton amour. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1412'>En vain pour attirer tout le crime sur elle, </l>
+	<l id='1413'>Elle offre mes conseils pour garants de mon zèle. </l>
+	<l id='1414'>S'ils étaient d'obéir, c'était pour m'assurer </l>
+	<l id='1415'>La gloire d'une mort que j'avais su jurer ; </l>
+	<l id='1416'>Mais d'un transport secret n'ayant pu me défendre, </l>
+	<l id='1417'>L'effet vous montre assez qu'elle a bien su l'entendre, </l>
+	<l id='1418'>Et si son entreprise a pu le prévenir, </l>
+	<l id='1419'>En étant seul la cause, on m'en doit seul punir. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1420'>Ah, je l'avais bien vu qu'en cette âme inhumaine </l>
+	<l id='1421'>Il fallait que l'amour appuyât tant de haine. </l>
+	<l id='1422'>Ô criminelle ardeur, dont le honteux dessein </l>
+	<l id='1423'>Arme Helvie et Laetus contre leur Souverain ! </l>
+	<l id='1424'>Dans un tel attentat qu'ai-je plus à connaître ? </l>
+	<l id='1425'>L'un est déjà coupable, et l'autre le veut être, </l>
+	<l id='1426'>Et tous deux à l'envi pour suprême bonheur </l>
+	<l id='1427'>Du plus noir des forfaits se disputent l'honneur. </l>
+	<l id='1428'>C'était là cette gloire et brillante et solide, </l>
+	<l id='1429'>Ingrate, de m'oser préférer un perfide, </l>
+	<l id='1430'>Un traître à qui mon coeur servant partout d'appui </l>
+	<l id='1431'>N'a pu donner pour moi ce que j'ai pris pour lui ? </l>
+	<l id='1432'>Va, n'appréhende plus que mon âme aveuglée </l>
+	<l id='1433'>Te demande une foi lâchement violée, </l>
+	<l id='1434'>T'aimer était un crime indigne de mon rang, </l>
+	<l id='1435'>Et pour m'en voir punir j'abandonne mon sang. </l>
+	<l id='1436'>Ose, ose le verser, je n'y mets plus d'obstacle, </l>
+	<l id='1437'>Donne-toi la douceur d'un si charmant spectacle, </l>
+	<l id='1438'>Mets en perçant mon sein ton entreprise à bout, </l>
+	<l id='1439'>En l'état où je suis je t'avouerai de tout</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Commode, Marcia, Helvie, Laetus, Flavian, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1440'>Je ne viens point ici presser votre clémence </l>
+	<l id='1441'>De combattre l'ardeur d'une juste vengeance, </l>
+	<l id='1442'>Et de se signaler pour le pompeux éclat </l>
+	<l id='1443'>Qui suivrait le pardon d'un indigne attentat. </l>
+	<l id='1444'>Je viens, Seigneur, je viens pour nouvelle victime </l>
+	<l id='1445'>Offrir à l'expier tout le sang qui m'anime, </l>
+	<l id='1446'>Et réparer par là, puisqu'il est résolu, </l>
+	<l id='1447'>Le coupable malheur de vous avoir déplu. </l>
+	<l id='1448'>Il est juste, et la cause en vain m'en est suspecte, </l>
+	<l id='1449'>C'est un ordre du Ciel qu'il faut que je respecte, </l>
+	<l id='1450'>Lui qui des Souverains prend toujours l'intérêt, </l>
+	<l id='1451'>Me souffrant votre haine, en a donné l'arrêt. </l>
+	<l id='1452'>Sans voir, sans pénétrer qui me l'a suscitée, </l>
+	<l id='1453'>L'avoir pu ressentir c'est l'avoir méritée, </l>
+	<l id='1454'>Et je tiendrai mon sort et glorieux et doux </l>
+	<l id='1455'>Si comme j'ai vécu je puis mourir pour vous. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1456'>Qu'avec tant de fureur, qu'avec tant d'insolence </l>
+	<l id='1457'>L'orgueil à me braver hautement se dispense, </l>
+	<l id='1458'>Qu'après mille bienfaits un traître... Ah, justes Dieux ! </l>
+	<l id='1459'>Leur crime sans horreur ne peut frapper mes yeux. </l>
+	<l id='1460'>L'enfer n'a point de peine assez forte, assez rude... </l>
+	<l id='1461'>Mais d'un transport aveugle où va la promptitude ? </l>
+	<l id='1462'>Quoi que ce couple ingrat ait fait, ait projeté, </l>
+	<l id='1463'>J'en suis le seul coupable, et j'ai tout mérité. </l>
+<stage>À Marcia.</stage>
+	<l id='1464'>Oui, Madame, c'est moi dont l'ardeur infidèle </l>
+	<l id='1465'>Pour venger votre injure a corrompu leur zèle, </l>
+	<l id='1466'>Et je me plains à tort qu'animés contre moi </l>
+	<l id='1467'>Ils suivent mon exemple à me manquer de foi.</l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1468'>La foi des Souverains est d'une autre nature, </l>
+	<l id='1469'>Ils la donnent par grâce, et l'ôtent sans injure, </l>
+	<l id='1470'>Et malgré mon espoir vous avez pu, Seigneur... </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1471'>Non, j'ai trop cru, Madame, un amour suborneur </l>
+	<l id='1472'>Je rougis que son charme ait surpris mon courage ; </l>
+	<l id='1473'>Il noircissait ma gloire en vous faisant outrage, </l>
+	<l id='1474'>Et ce n'est pas assez pour en purger mon choix </l>
+	<l id='1475'>De vouloir m'acquitter de ce que je vous dois. </l>
+	<l id='1476'>D'une coupable soeur à ma perte obstinée </l>
+	<l id='1477'>Il faut à votre sort donner la destinée. </l>
+	<l id='1478'>Laetus de ses appas n'a pu se garantir, </l>
+	<l id='1479'>Ils veulent être unis, il faut y consentir. </l>
+	<l id='1480'>Je vous les abandonne, et dans ce sacrifice </l>
+	<l id='1481'>Ne remets qu'à demain à vous rendre justice. </l>
+	<l id='1482'>Le trouble où ce succès m'a su précipiter </l>
+	<l id='1483'>Pour calmer ses transports me force à vous quitter ; </l>
+	<l id='1484'>Mais j'atteste les Dieux que rien n'est plus capable </l>
+	<l id='1485'>D'altérer de ce coeur le décret immuable, </l>
+	<l id='1486'>Et que l'effet demain justifiant ma foi, </l>
+	<l id='1487'>Vous serez hors d'état de vous plaindre de moi. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1488' part='i'>Ah, souffrez qu'à vos pieds, Seigneur... </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Marcia, Helvie, Laetus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1488' part='f'>Il se retire, </l>
+	<l id='1489'>Mais mon coeur rentre enfin dans son premier empire. </l>
+	<l id='1490'>Ma soeur, qu'avez-vous fait l'un et l'autre aujourd'hui ? </l>
+	<l id='1491'>Qui l'aurait cru de vous ? Qui le croirait de lui ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1492'>Sur la foi d'un Tyran vous prenez assurance? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1493'>Pour rien dissimuler il a trop d'imprudence, </l>
+	<l id='1494'>Et s'il avait dans l'âme arrêté votre mort, </l>
+	<l id='1495'>En vain à le cacher il aurait fait effort. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1496'>Ne nous alarmons point d'un malheur sans remède, </l>
+	<l id='1497'>Le Ciel nous aidera si Rome ne nous aide. </l>
+	<l id='1498'>Ah, si dans un péril qui veut un prompt secours, </l>
+	<l id='1499'>Tout mon sang suffisait pour assurer vos jours... </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1500'>Tu n'as déjà que trop satisfait cette envie ; </l>
+	<l id='1501'>À le hasarder moins tu m'aurais mieux servie, </l>
+	<l id='1502'>En vain en te perdant tu crois me secourir. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1503'>Quoi, je vivrai, Madame, et vous voudrez mourir ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1504'>Le secret d'une flamme et si noble et si pure </l>
+	<l id='1505'>Par un soupçon trop prompt m'a fait vous faire injure, </l>
+	<l id='1506'>Mais j'ose croire aussi que des Dieux secondés </l>
+	<l id='1507'>Mes soins lui rendront plus que vous n'en attendez. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1508'>Puisque je suis réduite à ne la pouvoir taire, </l>
+	<l id='1509'>Pour la justifier je vais trouver mon Père, </l>
+	<l id='1510'>Quoi que tant de vertu sur elle ait su régner, </l>
+	<l id='1511'>Que Laetus hautement m'y peut accompagner. </l>
+	<l id='1512'>Vous pouvez cependant pour plus forte assurance </l>
+	<l id='1513'>D'Électus qui paraît consulter la prudence. </l>
+	<l id='1514'>Quoi que nous montre à craindre un sort injurieux, </l>
+	<l id='1515'>Comme il connaît Commode, il en jugera mieux. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE VI. Marcia, Électus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1516' part='i'>As-tu vu l'Empereur, Électus ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1516' part='f'>Oui, Madame, </l>
+	<l id='1517'>Il vient de me parler plein de trouble dans l'âme, </l>
+	<l id='1518'>Et m'a pour votre hymen en tumulte ordonné </l>
+	<l id='1519'>Tout ce que pour sa pompe on avait destiné ; </l>
+	<l id='1520'>Mais dans cet ordre même un fier transport le guide, </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker>est une ingrate, et Laetus un perfide. 
+	<l id='1521' part='i'>C'est ce que j'en ai su. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1521' part='f'>Je te l'avais bien dit, </l>
+	<l id='1522'>Que je pourrais enfin regagner son esprit. </l>
+	<l id='1523'>Quoi, tu l'as su permettre, et ton coeur en soupire ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1524'>Hélas ! M'en croirez-vous si j'ose vous le dire ! </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1525'>Parle, parle, de toi j'aime à tout écouter. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1526'>L'espoir sur sa parole a trop su vous flatter. </l>
+	<l id='1527'>Quoi qu'il vous ait promis je lis dans sa pensée ; </l>
+	<l id='1528'>Pour vous perdre, il suffit qu'il vous ait offensée, </l>
+	<l id='1529'>Et que dans sa maxime on aide à se trahir </l>
+	<l id='1530'>Lorsqu'on peut pardonner à qui nous doit haïr. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1531'>Et que voudrais-tu faire en cette défiance ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1532'>Céder, et par la suite éviter sa vengeance. </l>
+	<l id='1533'>Puisqu'en secret sa haine y devant consentir, </l>
+	<l id='1534'>Un prompt éloignement nous en peut garantir. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1535'>Quoi, pour remède aux maux où tu me feins réduite, </l>
+	<l id='1536'>Tu n'imagines rien de plus beau que la fuite, </l>
+	<l id='1537'>Et mon coeur doit trouver plus de gloire aujourd'hui </l>
+	<l id='1538'>À fuir avecque toi, qu'à régner avec lui ? </l>
+	<l id='1539'>Quand Commode a dessein de couronner Helvie.</l>
+	<l id='1540'>Tu ne vois rien alors à craindre pour ma vie, </l>
+	<l id='1541'>Et je suis au hasard de perdre enfin le jour </l>
+	<l id='1542'>Sitôt qu'avec le Trône il me rend son amour ? </l>
+	<l id='1543'>Prends, prends les sentiments d'un coeur plus magnanime ; </l>
+	<l id='1544'>En renonçant au mien, aspire à mon estime, </l>
+	<l id='1545'>Et tâche à mériter que pour venger ma foi, </l>
+	<l id='1546'>Je me sois abaissée à jeter l'oeil sur toi. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1547'>Ah, Dieux ! Pour m'outrager avec plus d'injustice </l>
+	<l id='1548'>Voulez-vous être aveugle au bord du précipice, </l>
+	<l id='1549'>Et ne pas voir qu'Helvie animant son courroux, </l>
+	<l id='1550'>Ne l'attire pas plus sur elle que sur vous ? </l>
+	<l id='1551'>Quoi qu'ait pu déguiser sa haine impitoyable, </l>
+	<l id='1552'>Son crime auprès de lui rend tout son sang coupable, </l>
+	<l id='1553'>Et vous, et Pertinax du même coup frappés, </l>
+	<l id='1554'>Dans sa punition serez enveloppés. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1555'>Quoi qui doive arriver, je suis la destinée </l>
+	<l id='1556'>Où par ta lâcheté je me vois condamnée, </l>
+	<l id='1557'>Et si j'ai pu descendre à des moyens trop bas, </l>
+	<l id='1558'>J'ai dû les employer au refus de ton bras. </l>
+	<l id='1559'>Au moins soit que je règne, ou soit que je périsse, </l>
+	<l id='1560'>Ta flamme en tous les deux trouvera son supplice ; </l>
+	<l id='1561'>Puisque exposée à tout par ton manque de foi, </l>
+	<l id='1562'>Dans l'un et l'autre sort je suis morte pour toi. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1563'>Ah, si j'étais certain que la rage ou l'envie </l>
+	<l id='1564'>Fît dessein d'attaquer une si belle vie, </l>
+	<l id='1565'>Il n'est droit si sacré qu'en ce pressant besoin </l>
+	<l id='1566' part='i'>Rome... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1566' part='f'>Arrête, Électus, tu vas un peu trop loin. </l>
+	<l id='1567'>Quelque horreur que tantôt te fît le nom de traître, </l>
+	<l id='1568'>Tu sembles déjà prêt d'attenter sur ton Maître. </l>
+	<l id='1569'>S'il m'abandonne à toi, c'est peu pour le punir, </l>
+	<l id='1570'>Et s'il trompe ta flamme, il faut te retenir. </l>
+	<l id='1571'>Règle mieux entre nous ton amour et ton zèle, </l>
+	<l id='1572'>Ayant pu me trahir, demeure-lui fidèle, </l>
+	<l id='1573'>Et content d'un seul crime, ose au moins aujourd'hui, </l>
+	<l id='1574'>Étant vers moi coupable, être innocent vers lui. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1575' part='i'>Ah, que me dites-vous ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1575' part='f'>Qu'en ton zèle, en ta flamme </l>
+	<l id='1576'>Toujours ton intérêt sait déguiser ton âme. </l>
+	<l id='1577'>Aussi t'abuses-tu si tu peux présumer </l>
+	<l id='1578'>Que sur tes faux soupçons je songe à m'alarmer. </l>
+	<l id='1579'>Pour me voir consentir à ta jalouse envie, </l>
+	<l id='1580'>Montre-moi que Commode ordonne de ma vie, </l>
+	<l id='1581'>Et m'en convaincs si bien que par un beau retour </l>
+	<l id='1582'>Je doive à ta vertu le prix de ton amour. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1583'>Et bien, Madame, et bien, obstinez vous à croire </l>
+	<l id='1584'>Qu'un indigne intérêt me fait trahir ma gloire, </l>
+	<l id='1585'>Et que quoi que je fasse à vous prouver ma foi, </l>
+	<l id='1586'>J'affecte l'apparence, et n'agis que pour moi. </l>
+	<l id='1587'>Je ne vous dirai plus que ce reproche accable </l>
+	<l id='1588'>Le plus parfait amour dont un coeur soit capable. </l>
+	<l id='1589'>Sans ce soupçon qu'en vain il vous a confié </l>
+	<l id='1590'>Déjà mon désespoir l'aurait justifié ; </l>
+	<l id='1591'>Mais vous devant ma vie, il faut encor suspendre </l>
+	<l id='1592'>La résolution que vous me faites prendre, </l>
+	<l id='1593'>Et ménager si bien le trépas où je cours, </l>
+	<l id='1594'>Qu'il assure ma gloire en conservant vos jours. </l>
+<stage>Il sort. </stage>
+</sp>
+<sp who='LUCIE'><speaker>LUCIE.</speaker> 
+	<l id='1595' part='i'>Vous l'avez maltraité. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1595' part='f'>De Commode offensée </l>
+	<l id='1596'>Ma flamme à son hymen ne consent que forcée, </l>
+	<l id='1597'>Et puisqu'en vain par lui j'ai voulu me venger, </l>
+	<l id='1598'>S'il me tient lieu de peine, il doit la partager. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Marcia, Laetus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker>tenant les tablettes de l'Empereur. 
+	<l id='1599'>Je ne le cèle point ; l'entreprise est si noire </l>
+	<l id='1600'>Qu'à bien l'examiner j'ose à peine la croire, </l>
+	<l id='1601'>Et douterais encor d'un si lâche dessein </l>
+	<l id='1602'>Si je n'en connaissais l'ordre écrit de sa main. </l>
+	<l id='1603'>Le barbare ! À sa haine abandonner ma vie ! </l>
+	<l id='1604'>S'immoler Électus, Vous, Pertinax, Helvie.</l>
+	<l id='1605'>Et pour porter sa rage au dernier attentat, </l>
+	<l id='1606'>Proscrire en même temps la moitié du Sénat ! </l>
+	<l id='1607'>Je ne puis sans horreur m'en souffrir la pensée. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1608'>Le Ciel soutient toujours l'innocence oppressée, </l>
+	<l id='1609'>Et de cet attentat ne s'est montré d'accord, </l>
+	<l id='1610'>Que pour nous donner droit de conspirer sa mort. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1611'>Mais forçant son humeur, qui l'a rendu capable </l>
+	<l id='1612'>De pouvoir déguiser un projet si coupable ? </l>
+	<l id='1613'>D'oser jusqu'à la nuit en remettre l'effet ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1614'>La crainte de laisser son ouvrage imparfait. </l>
+	<l id='1615'>Eût-il pu sans surprise attaquer tant de têtes, </l>
+	<l id='1616'>Qu'il n'eût contre la sienne ému mille tempêtes ? </l>
+	<l id='1617'>Le sang de Pertinax du Peuple est respecté, </l>
+	<l id='1618'>Le pouvoir d'Électus au Palais redouté, </l>
+	<l id='1619'>Et l'Armée a pour moi peut-être assez d'estime </l>
+	<l id='1620'>Pour en craindre un obstacle au courroux qui l'anime. </l>
+	<l id='1621'>C'est l'unique raison de ces déguisements. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1622'>J'avais conçu de lui de meilleurs sentiments, </l>
+	<l id='1623'>Et n'aurais jamais cru qu'une brutale envie </l>
+	<l id='1624'>Lui fît dans tout son sang vouloir punir  Helvie ; </l>
+	<l id='1625'>Mais si cette union m'engage dans son sort, </l>
+	<l id='1626'>Qu'a pu faire Électus pour mériter la mort ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1627'>Donnez-vous la raison pour règle à sa colère ? </l>
+	<l id='1628'>Pressant votre hyménée il a su lui déplaire, </l>
+	<l id='1629'>Et sans qu'il ait besoin de prétextes plus grands, </l>
+	<l id='1630'>C'est mériter la mort que déplaire aux Tyrans. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1631'>Il me disait bien que sa feinte clémence, </l>
+	<l id='1632'>Nous déguisant son coeur, assurait sa vengeance ; </l>
+	<l id='1633'>Mais bien loin qu'il me fît redouter son courroux, </l>
+	<l id='1634'>Je traitais ses avis d'un désespoir jaloux, </l>
+	<l id='1635'>Et j'osais imputer à son amour extrême </l>
+	<l id='1636'>D'envier à ma foi l'éclat du Diadème. </l>
+	<l id='1637'>Cependant de ce feu toujours si mal traité </l>
+	<l id='1638'>L'arrêt de son trépas montre la pureté ; </l>
+	<l id='1639'>Ses conseils font son crime, et si par un faux zèle, </l>
+	<l id='1640'>Flavian à son Maître eût craint d'être infidèle, </l>
+	<l id='1641'>S'il n'en eût pas trahi les ordres inhumains, </l>
+	<l id='1642'>Mon aveugle injustice achevait ses desseins. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1643'>Dans le juste soupçon que l'Empereur pût feindre, </l>
+	<l id='1644'>C'était le seul pour nous que je voyais à craindre. </l>
+	<l id='1645'>Comme Chef de la Garde en pouvant disposer, </l>
+	<l id='1646'>Sûr d'exécuter tout, il eût pu tout oser ; </l>
+	<l id='1647'>Aussi prévoyant bien qu'à quelque âpre tempête </l>
+	<l id='1648'>L'hymen de la Princesse exposerait ma tête, </l>
+	<l id='1649'>À l'insu de Commode un commerce secret </l>
+	<l id='1650'>Me l'a fait voir Ami généreux et discret. </l>
+	<l id='1651'>Par là, sur sa vertu prenant toute assurance, </l>
+	<l id='1652'>De notre fier Tyran j'ai moins craint la vengeance ; </l>
+	<l id='1653'>Et cru, quoi qu'il osât, que peu sans le trahir </l>
+	<l id='1654'>Aux dépens de nos jours lui voudraient obéir. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1655'>C'est beaucoup que sa rage ait été découverte ; </l>
+	<l id='1656'>Mais comme d'Électus il a juré la perte, </l>
+	<l id='1657'>Si contre sa coutume un scrupule incertain </l>
+	<l id='1658'>Lui faisait refuser la Coupe de sa main ? </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1659'>Non, non ; ne doutez point que sa fausse prudence </l>
+	<l id='1660'>N'affecte jusqu'au bout la même confiance. </l>
+	<l id='1661'>D'ailleurs, dans le Palais l'ordre est si bien donné, </l>
+	<l id='1662'>Qu'il ne peut fuir le sort qu'il nous a destiné. </l>
+	<l id='1663'>Rien ne nous laisse plus à craindre de surprise, </l>
+	<l id='1664'>Et Flavian lui-même étant de l'entreprise, </l>
+	<l id='1665'>Le fer, quoi qu'il arrive, au défaut du poison, </l>
+	<l id='1666'>D'un trop juste arrêt nous doit faire raison. </l>
+	<l id='1667'>Mais je vois Électus qui vous le vient apprendre. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Marcia, Électus, Laetus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1668'>Et bien, contre un Tyran que devons-nous attendre ? </l>
+	<l id='1669'>La conspiration nous promet-elle effet ? </l>
+	<l id='1670' part='i'>En viendrons-nous à bout ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1670' part='f'>Madame, c'en est fait. </l>
+	<l id='1671'>Loin que par quelque horreur de sa lâche vengeance </l>
+	<l id='1672'>Commode ait pris de moi la moindre défiance, </l>
+	<l id='1673'>Jamais sa gratitude avec tant de bonté </l>
+	<l id='1674'>Ne parut applaudir à ma fidélité. </l>
+	<l id='1675'>Un plein calme en ses yeux déguisant son courage, </l>
+	<l id='1676'>Il a pris sans soupçon le funeste breuvage. </l>
+	<l id='1677'>À juger par sa joie, on eut dit que les Dieux </l>
+	<l id='1678'>Lui montraient dans sa perte un destin glorieux, </l>
+	<l id='1679'>Qu'à Rome, à vous, à tous, s'offrant en sacrifice, </l>
+	<l id='1680'>Il faisait sans contrainte un acte de justice, </l>
+	<l id='1681'>Et que s'intéressant à tant de maux soufferts, </l>
+	<l id='1682'>Son zèle n'aspirait qu'à venger l'Univers. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1683'>Mais si de ce poison la vertu faible ou lente </l>
+	<l id='1684'>À le perdre assez tôt se trouvait impuissante, </l>
+	<l id='1685'>L'abandonner ainsi c'est servir son courroux, </l>
+	<l id='1686'>Et lui donner moyen de s'armer contre nous. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1687'>Flavian qui l'observe assure l'entreprise, </l>
+	<l id='1688'>Et de peur qu'à le voir vous ne fussiez surprise </l>
+	<l id='1689'>Sachant qu'il a dessein de vous entretenir, </l>
+	<l id='1690'>Pour vous y préparer j'ai dû le prévenir. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1691'>Je me retire donc pour éviter sa vue. </l>
+	<l id='1692'>C'est contre moi surtout que sa rage est émue, </l>
+	<l id='1693'>Et quand je vois son sort si prêt de s'achever, </l>
+	<l id='1694'>M'exposer à ses yeux ce serait le braver. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Marcia,  Électus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1695'>Quel chagrin dans ton coeur marque un secret supplice ? </l>
+	<l id='1696'>Vient-il ou de sa perte ou de mon injustice ? </l>
+	<l id='1697'>Son malheur ou le tien causent-ils ton ennui ? </l>
+	<l id='1698'>Soupires-tu pour toi ? Soupires-tu pour lui ? </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1699'>Quoi que vous ordonniez du beau feu qui m'anime, </l>
+	<l id='1700'>Déjà dans mon respect je crois tout légitime, </l>
+	<l id='1701'>Mais je dois avouer, puisque vous m'en pressez, </l>
+	<l id='1702'>Que je plains en secret ce que vous haïssez. </l>
+	<l id='1703'>Tout barbare et cruel que l'Empereur puisse être, </l>
+	<l id='1704'>Si j'y vois un Tyran, j'y vois toujours mon Maître, </l>
+	<l id='1705'>Et de mille bienfaits le pressant souvenir </l>
+	<l id='1706'>M'accuse d'être ingrat quand j'ose le punir. </l>
+	<l id='1707'>Aussi dans sa fureur si pour le satisfaire </l>
+	<l id='1708'>Ma tête eût seule été l'objet de sa colère, </l>
+	<l id='1709'>J'atteste tous les Dieux qu'on m'aurait vu périr </l>
+	<l id='1710'>Plutôt qu'à l'attentat j'eusse pu recourir ; </l>
+	<l id='1711'>Mais à voir que sur vous sa rage ose s'étendre </l>
+	<l id='1712'>Mon amour aussitôt a dû tout entreprendre, </l>
+	<l id='1713'>Et toutefois, hélas, toujours infortuné, </l>
+	<l id='1714'>Peut-être cet amour est encor soupçonné. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1715'>Juge mieux d'un transport que je crus légitime, </l>
+	<l id='1716'>Je vois ton innocence en connaissant son crime, </l>
+	<l id='1717'>Et tu me ferais tort si tu n'osais penser </l>
+	<l id='1718'>Qu'aspirant à punir j'aime à récompenser. </l>
+	<l id='1719'>Ta mort pour un Tyran lâchement résolue </l>
+	<l id='1720'>Expose à mes regards ta vertu toute nue.</l>
+	<l id='1721'>J'en sais pour ton amour l'inexorable loi, </l>
+	<l id='1722'>Et si j'ai de Commode en vain... Mais je le vois</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Commode, Marcia,  Électus, Flavian, Lucie. </head>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1723'>Madame, enfin les Dieux par un bonheur suprême, </l>
+	<l id='1724'>Pour mieux songer à vous, me rendent à moi-même. </l>
+	<l id='1725'>Et chassent de mon coeur ces agitations </l>
+	<l id='1726'>Qu'excitaient à l'envi deux fières passions. </l>
+	<l id='1727'>L'amour et la colère avecque violence </l>
+	<l id='1728'>Y pressaient tour à tour ma grâce et ma vengeance, </l>
+	<l id='1729'>Et par l'une et par l'autre ardemment combattu, </l>
+	<l id='1730'>Je n'ai pu qu'avec trouble employer ma vertu. </l>
+	<l id='1731'>Dans les rudes assauts dont je souffrais l'atteinte </l>
+	<l id='1732'>Peut-être en son triomphe elle a paru contrainte, </l>
+	<l id='1733'>Et trop plein d'un transport qu'elle a su condamner, </l>
+	<l id='1734'>En vous quittant trop tôt, je l'ai fait soupçonner. </l>
+	<l id='1735'>Par ce haut et plein calme où vous voyez mon âme, </l>
+	<l id='1736'>Jugez si ma retraite a bien servi ma flamme, </l>
+	<l id='1737'>Et si de ce désordre entièrement remis, </l>
+	<l id='1738'>J'aurai lieu de tenir ce que j'ai promis. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1739'>Seigneur, je me croirais aussi lâche qu'ingrate </l>
+	<l id='1740'>Si j'osais résister à l'espoir qui me flatte, </l>
+	<l id='1741'>Et malgré vos serments autoriser ma foi </l>
+	<l id='1742'>À douter des bontés que vous avez pour moi. </l>
+	<l id='1743'>À me favoriser toujours accoutumées, </l>
+	<l id='1744'>Électus après vous me les a confirmées, </l>
+	<l id='1745'>Et m'a fait assez voir dans vos ordres donnés </l>
+	<l id='1746'>La pompe des honneurs que vous me destinez. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1747'>Quoi que de mes desseins il ait pu vous apprendre, </l>
+	<l id='1748'>L'ordre qu'il a reçu les laisse mal comprendre. </l>
+	<l id='1749'>Si pour notre hyménée il lui fait préparer </l>
+	<l id='1750'>Tout ce que Rome doit aux soins de l'honorer, </l>
+	<l id='1751'>Ces superbes dehors dont je la sollicite, </l>
+	<l id='1752'>Ne sont qu'un faible essai de ce que je médite, </l>
+	<l id='1753'>Et je les comblerai par un si digne prix </l>
+	<l id='1754'>Que l'Univers entier en restera surpris. </l>
+	<l id='1755'>C'est à quoi je m'apprête, et je veux que l'Histoire </l>
+	<l id='1756'>Avecque tant d'éclat en consacre la gloire, </l>
+	<l id='1757'>Que ce que de mon sort elle voudra marquer, </l>
+	<l id='1758'>Sans nommer Marcia ne le puisse expliquer. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1759'>Vous m'accablez, Seigneur, et mon âme confuse </l>
+	<l id='1760'>Croit qu'en tant de faveurs un vain songe l'abuse, </l>
+	<l id='1761'>Et présume si peu les pouvoirs mériter, </l>
+	<l id='1762'>Qu'à moins de s'en convaincre elle en voudrait douter. </l>
+	<l id='1763'>Aussi quoi que j'emploie à vous faire paraître </l>
+	<l id='1764'>Avec quels sentiments je les veux reconnaître, </l>
+	<l id='1765'>De mes profonds respects les voeux les plus soumis </l>
+	<l id='1766'>Remplissent mal un soin à leur zèle commis. </l>
+	<l id='1767'>Mon coeur se voit encor réduit à l'impuissance </l>
+	<l id='1768'>De vous montrer assez ce qu'il sent, ce qu'il pense, </l>
+	<l id='1769'>Et la secrète ardeur que pour vous il conçoit, </l>
+	<l id='1770'>Le peut seule acquitter de tout ce qu'il vous doit ; </l>
+	<l id='1771'>Mais d'un effet si noble elle sera suivie, </l>
+	<l id='1772'>Qu'autant que Rome a droit de condamner Helvie.</l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1773'>Ah, Madame, de grâce, accordez-moi ce point, </l>
+	<l id='1774'>Pensez, croyez tout d'elle, et ne la nommez point. </l>
+	<l id='1775'>À ce nom malgré moi je sens que je m'enflamme, </l>
+	<l id='1776'>Qu'à ses premiers transports je rends toute mon âme, </l>
+	<l id='1777'>Et que d'un juste effort secrètement gêné, </l>
+	<l id='1778'>Je voudrais révoquer l'arrêt que j'ai donné. </l>
+	<l id='1779'>Daignez à mon amour épargner ce supplice, </l>
+	<l id='1780'>Votre destin est grand, souffrez qu'elle en jouisse, </l>
+	<l id='1781'>Et ne rappelez point ce qu'en mon souvenir, </l>
+	<l id='1782'>Sans blesser notre amour, je ne puis retenir. </l>
+	<l id='1783'>Mais Dieux ! Quel accident tout à coup me menace ? </l>
+	<l id='1784'>Quelle maligne humeur me fait sentir sa glace ? </l>
+	<l id='1785'>Elle saisit mon coeur, en vain il la combat, </l>
+	<l id='1786'>Ma force m'abandonne, et ma vigueur s'abat. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1787' part='i'>Ne craignez rien, Seigneur. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1787' part='f'>Ma faiblesse redouble, </l>
+	<l id='1788'>Je tremble, je chancelle, et tout mon sang se trouble. </l>
+	<l id='1789'>Soutiens-moi, Flavian, ne m'abandonne pas. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1790'>À ce pieux office il prêtera son bras, </l>
+	<l id='1791'>Et de vous obéir ne sait perdre l'envie, </l>
+	<l id='1792'>Que quand vous le forcez de m'arracher la vie. </l>
+	<l id='1793'>Vois ceci, vois, Commode ; en connais-tu la main. </l>
+<stage>Elle lui montre les Tablettes. </stage>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE, à Flavian. </speaker>
+	<l id='1794' part='i'>Ah, traître, c'est ainsi... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1794' part='f'>Tu t'emportes en vain, </l>
+	<l id='1795'>Tu n'es plus en pouvoir d'ordonner son supplice. </l>
+	<l id='1796'>Apprends qu'en ce moment je suis Impératrice, </l>
+	<l id='1797'>Et qu'à Rome Électus voulant prouver sa foi, </l>
+	<l id='1798'>T'a donné le poison qu'il a reçu de moi. </l>
+	<l id='1799'>Vois par ce juste coup que je viens d'entreprendre </l>
+	<l id='1800'>Ce qu'un règne pareil donnerait lieu d'attendre, </l>
+	<l id='1801'>Puisqu'on n'en vit jamais de plus beaux, de plus grands, </l>
+	<l id='1802'>Que ceux qui sont fondés sur la mort des Tyrans. </l>
+</sp>
+<sp who='COMMODE'><speaker>COMMODE.</speaker> 
+	<l id='1803'>Je sens qu'il faut mourir, que pour servir ta rage </l>
+	<l id='1804'>Les Dieux injustement trahissent leur ouvrage, </l>
+	<l id='1805'>Ces Dieux qui jusqu'ici de mes crimes auteurs, </l>
+	<l id='1806'>Ne les punissant pas, s'en sont faits protecteurs. </l>
+	<l id='1807'>Au moins je meurs content d'avoir traité sans cesse </l>
+	<l id='1808'>Leur foudre suspendu d'impuissante faiblesse, </l>
+	<l id='1809'>Et quoi que de la vie on fasse un si grand bien, </l>
+	<l id='1810'>J'aime à l'abandonner pour ne leur devoir rien. </l>
+	<l id='1811' part='i'>Qu'on m'emporte d'ici. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1811' part='f'>Rendez-lui ce service </l>
+	<l id='1812'>Aussi bien je craindrais de me voir sa complice, </l>
+	<l id='1813'>Et que le désespoir d'expirer à mes yeux </l>
+	<l id='1814'>Ne redoublât sa rage à blasphémer les Dieux. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Marcia, Électus, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1815'>Dans le bruit éclatant que cette mort va faire, </l>
+	<l id='1816'>Allez, cher Électus, vous êtes nécessaire. </l>
+	<l id='1817'>Je sais bien que de Rome elle fait les souhaits, </l>
+	<l id='1818'>Mais il faut empêcher le désordre au Palais. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1819'>Je cours joindre Laetus, et voir ce qui s'y passe; </l>
+	<l id='1820'>Non que des plus mutins j'appréhende l'audace, </l>
+	<l id='1821'>Mais de vos intérêts incessamment jaloux </l>
+	<l id='1822'>Je ne puis les porter sans m'éloigner de vous, </l>
+	<l id='1823'>Je vous laisse un moment dans l'entretien d'Helvie.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Marcia, Helvie, Lucie. </head>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1824'>Ma soeur, Commode enfin doit-il perdre la vie ? </l>
+	<l id='1825'>Électus répond-il de ce qu'il entreprend ? </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1826'>Ce que mes yeux ont vu m'en est un sûr garant. </l>
+	<l id='1827'>Sous l'effort du poison cet empereur infâme </l>
+	<l id='1828'>Déjà plein de faiblesse est prêt de rendre l'âme ; </l>
+	<l id='1829'>Tout blasphémant de rage on le vient emporter. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1830'>Les Dieux pour Pertinax ont daigné m'écouter. </l>
+	<l id='1831'>Par son seul intérêt je craignais la surprise. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1832'>Il ne sait rien encor de toute l'entreprise ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1833'>Comme trop de vertu règle ce qu'il résout, </l>
+	<l id='1834'>On attend le succès pour l'avertir de tout. </l>
+	<l id='1835'>Dans le sort de Commode une forte tendresse </l>
+	<l id='1836'>Malgré ses cruautés de tout temps l'intéresse, </l>
+	<l id='1837'>Et quoique de sa haine il se tienne assuré, </l>
+	<l id='1838'>Il n'eût vu qu'à regret que l'on eût conspiré. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1839'>Cent bienfaits autrefois reçus de Marc Aurèle </l>
+	<l id='1840'>Lui donnent pour ce Fils la ferveur de ce zèle ; </l>
+	<l id='1841'>Mais il peut aujourd'hui connaître son erreur, </l>
+	<l id='1842'>C'est le sang de Faustine, et non d'un Empereur, </l>
+	<l id='1843'>Et par cent lâchetés l'abus de sa puissance </l>
+	<l id='1844'>Ne le convainc que trop d'une fausse naissance. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1845'>Cependant j'avais tort de croire qu'un Tyran... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1846'>Sachons ce qu'il s'est fait, j'aperçois Flavian. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1847'>On peut voir sans ses yeux ce qu'il faut qu'on en croie. </l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Marcia, Helvie, Flavian, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1848'>Venez-vous, Flavian, achever notre joie ? </l>
+	<l id='1849' part='i'>Le Tyran est-il mort ? </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1849' part='f'>Oui, Madame, et sa main </l>
+	<l id='1850'>A du salut de Rome avancé le dessein. </l>
+	<l id='1851'>Voyant que du poison l'extrême violence </l>
+	<l id='1852'>L'avait de rien tenter réduit à l'impuissance, </l>
+	<l id='1853'>Nous l'avions sur un lit malgré ses vains efforts </l>
+	<l id='1854'>Abandonné sans crainte à ses derniers transports, </l>
+	<l id='1855'>Quand par le désespoir ses forces ramassées </l>
+	<l id='1856'>Lui souffrant d'expliquer l'horreur de ses pensées ; </l>
+	<l id='1857'>Dieux, dont l'être n'est dû qu'à notre folle erreur, </l>
+	<l id='1858'>A-t-il dit d'une voix qu'animait la fureur, </l>
+	<l id='1859'>Vains dieux, aveugles Dieux, dont la jalouse envie </l>
+	<l id='1860'>Destinait le poison pour la fin de ma vie, </l>
+	<l id='1861'>Malgré vous jusqu'au bout je réglerai mon sort, </l>
+	<l id='1862'>Et vous démentirai jusqu'au choix de ma mort. </l>
+	<l id='1863'>L'a saisi d'un poignard, sa rage impatiente </l>
+	<l id='1864'>Presse à coups redoublés la mort qu'il voit trop lente, </l>
+	<l id='1865'>Et goûte au moins ce bien, s'il se perce le flanc, </l>
+	<l id='1866'>Qu'au moment qu'il expire il voit couler du sang. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1867'>Ô nobles mouvements d'un coeur né pour l'Empire ? </l>
+	<l id='1868'>Avec Commode enfin la tyrannie expire, </l>
+	<l id='1869'>Et le coup glorieux qui nous tire des fers, </l>
+	<l id='1870'>Finissant nos malheurs, affranchit l'Univers.</l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1871'>S'il voit l'heureuse fin de son triste esclavage, </l>
+	<l id='1872'>C'est à Flavian seul qu'il doit cet avantage ; </l>
+	<l id='1873'>Seul du salut public il s'est fait le soutien. </l>
+</sp>
+<sp who='FLAVIAN'><speaker>FLAVIAN.</speaker> 
+	<l id='1874'>À faire ce qu'on doit on ne mérite rien, </l>
+	<l id='1875'>Et la moindre vertu dans toutes ses maximes </l>
+	<l id='1876'>Établit le refus de commettre des crimes. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1877'>Quand la faveur du Prince en doit être le prix...</l>
+	<l id='1878'>Mais par tout le Palais d'où viennent ces longs cris ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1879'>Doutez-vous que déjà cette mort ne soit sue. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1880'>Nous allons donc savoir comment elle est reçue, </l>
+	<l id='1881' part='i'>Je vois venir Julie. </l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Marcia, Helvie, Flavian, Julie, Lucie.</head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1881' part='f'>Et bien, Julie, enfin </l>
+	<l id='1882'>Du barbare Commode on connaît le destin ? </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='1883'>Madame, ces hauts cris qu'au Ciel chacun envoie </l>
+	<l id='1884'>Du Peuple et des Soldats vous expliquent la joie. </l>
+	<l id='1885'>Sitôt que du poison il a senti l'effort, </l>
+	<l id='1886'>Électus par les siens a publié sa mort. </l>
+	<l id='1887'>Ce bruit en un moment a couru dans la ville, </l>
+	<l id='1888'>Et comme enfin Laetus par un ordre facile </l>
+	<l id='1889'>Avait fait au besoin tenir ses Amis prêts, </l>
+	<l id='1890'>Tout le monde est en foule entré dans le Palais, </l>
+	<l id='1891'>Mais la mort d'un Tyran où chacun s'intéresse, </l>
+	<l id='1892'>N'est pas le seul sujet de ces cris d'allégresse. </l>
+	<l id='1893'>Par un commun suffrage un Empereur élu... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1894'>Que dites-vous ? Ce choix est déjà résolu ? </l>
+	<l id='1895'>Rome à Laetus sans doute en accorde la gloire. </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1896'>Votre crainte, ma soeur, vous fait un peu trop croire, </l>
+	<l id='1897'>Laetus a des Amis, mais il est généreux, </l>
+	<l id='1898'>Et vous craignez en vain qu'il n'ait brigué par eux. </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='1899'>Il l'a fait toutefois, mais la brigue est si belle </l>
+	<l id='1900'>Qu'à ses soins Électus ayant uni son zèle, </l>
+	<l id='1901'>Pour voir régner la paix où régnait la fureur, </l>
+	<l id='1902'>Tous deux ont proclamé Pertinax Empereur. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1903' part='i'>Mon Père ! Ah, justes Dieux ! </l>
+</sp>
+<sp who='JULIE'><speaker>JULIE.</speaker> 
+	<l id='1903' part='f'>Soudain sans plus attendre </l>
+	<l id='1904'>Le nom de Pertinax s'est fait partout entendre, </l>
+	<l id='1905'>Et chacun à l'envi d'une commune voix </l>
+	<l id='1906'>Par ses cris redoublés a confirmé ce choix. </l>
+	<l id='1907'>Mais j'en vois les Auteurs qui plein d'impatience </l>
+	<l id='1908'>Viennent de ce succès vous donner l'assurance. </l>
+</sp>
+</div2>
+<div2 type='scene' n='9'><head>SCÈNE IX. Marcia, Helvie, Laetus, Électus, Flavian, Julie, Lucie. </head>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1909'>Enfin le Ciel pour nous s'est daigné déclarer. </l>
+	<l id='1910'>L'Univers aujourd'hui commence à respirer, </l>
+	<l id='1911'>Sa liberté renaît et par la mort d'un homme </l>
+<note type="C">Dans le vers suivant,  'de' a été ajouté avant 'Rome' pour compléter le nombre de pieds. </note>
+	<l id='1912'>Vous vous êtes montrés dignes enfants de Rome. </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS.</speaker> 
+	<l id='1913'>Si d'un titre si beau nous pouvons nous flatter, </l>
+	<l id='1914'>Le choix d'un Empereur nous le fait mériter. </l>
+	<l id='1915'>C'est par là seulement que notre gloire brille ; </l>
+	<l id='1916'>Vous vous en crûtes Femme, et vous en êtes Fille. </l>
+	<l id='1917'>L'État par Flavian heureusement sauvé </l>
+	<l id='1918'>Aime à voir Pertinax à l'Empire élevé ; </l>
+	<l id='1919'>Tous secondant un choix qu'il refusait de croire... </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1920'>Nous savons qu'à vous seuls nous devons cette gloire, </l>
+	<l id='1921'>Et ma soeur dans Laetus admire avec plaisir </l>
+	<l id='1922'>La vertu d'un Amant qu'elle avait su choisir. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1923'>Si son coeur de mes voeux eut peine à se défendre, </l>
+	<l id='1924'>Quand elle touche au Trône, oserais-je y prétendre ? </l>
+</sp>
+<sp who='HELVIE'><speaker>HELVIE.</speaker> 
+	<l id='1925'>Ce coeur vous devant tout, c'est outrager ma foi </l>
+	<l id='1926'>Que craindre une grandeur que vous quittiez pour moi. </l>
+	<l id='1927'>Et votre amour du mien doit flatter sa constance, </l>
+	<l id='1928'>S'il peut dans mon devoir en trouver l'assurance. </l>
+</sp>
+<sp who='LAETUS'><speaker>LAETUS.</speaker> 
+	<l id='1929'>Ô glorieux arrêt qui remplit mon espoir ! </l>
+</sp>
+<sp who='ELECTUS'><speaker>ÉLECTUS, à Marcia. </speaker>
+	<l id='1930'>Qu'ai-je à combattre en vous par de là ce devoir, </l>
+	<l id='1931'>Madame ? Jusqu'ici ma flamme, quoi que pure, </l>
+	<l id='1932'>D'un indigne soupçon n'a pu forcer l'injure. </l>
+	<l id='1933'>Pour toucher votre coeur ai-je assez entrepris. </l>
+</sp>
+<sp who='MARCIA'><speaker>MARCIA.</speaker> 
+	<l id='1934'>L'aveu de Pertinax vous doit gagner ce prix ; </l>
+	<l id='1935'>Mais pour vous l'acquérir, sans tarder davantage, </l>
+	<l id='1936'>Dans sa grandeur nouvelle allons lui rendre hommage, </l>
+	<l id='1937'>Et mériter qu'en vous il honore aujourd'hui </l>
+	<l id='1938'>La vertu que les Dieux ont couronnée en lui. </l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

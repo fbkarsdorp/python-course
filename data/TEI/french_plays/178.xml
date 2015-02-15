@@ -1,0 +1,2897 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA MORT D'ANNIBAL, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1669</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k73822n</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LA MORT D'ANNIBAL</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1669'>M. DC LXIX.</docDate>
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id=''><p>Avec Privilège des États de Holl. et Westf. </p></privilege>
+			<acheveImprime id=''></acheveImprime>
+			<printer>À AMSTERDAM, Chez les Frères Chatelain, près de la Maison de Ville. 1709</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1669-11-25' location='Hôtel de Bourgogne'>Représenté pour la première fois le 25 novembre 1669 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+	<castList><head>ACTEURS</head>
+		<castItem><role id="PRUSIAS" civil='M'>PRUSIAS</role>, roi de Bithynie.</castItem>
+		<castItem><role id="ATTALE" civil='M'>ATTALE</role>, successeur d'Eumène crû mort, au Royaume de Pergame.</castItem>
+		<castItem><role id="ANNIBAL" civil='M'>ANNIBAL</role>.</castItem>
+		<castItem><role id="FLAMINIUS" civil='M'>FLAMINIUS</role>, ambassadeur Romain.</castItem>
+		<castItem><role id="NICOMEDE" civil='M'>NICOMÈDE</role>, fils de Prusias.</castItem>
+		<castItem><role id="ELISE" civil='F'>ÉLISE</role>, fille d'Annibal.</castItem>
+		<castItem><role id="ALCINE" civil='F'>ALCINE</role>, confidente d'Élise.</castItem>
+		<castItem><role id="PROCULE" civil='M'>PROCULE</role>, tribun romain.</castItem>
+	<castItem><role id="ARAXE" civil='M'>ARAXE</role>, capitaine des gardes de Prusias.</castItem>
+</castList>
+<set location='Nicomédie' country='Turquie' periode='IVer avant JC' link=''>Le scène est à Nicomédie.</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Prusias, Attale, Araxe. </head>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1'>Seigneur, ne croyez pas qu'un trône m'éblouisse</l>
+	<l id='2'>Jusqu'à rendre mon coeur capable d'injustice,</l>
+	<l id='3'>Et me faire oublier quel excès de bonté</l>
+	<l id='4'>Vous fit prendre intérêt à ma captivité.</l>
+	<l id='5'>Prisonnier d'Annibal qui triomphait d'Eumène,</l>
+	<l id='6'>Je vous vis adoucir et mes fers et ma peine,</l>
+	<l id='7'>Et vouloir que chez vous on respectât en moi</l>
+	<l id='8'>Le sang infortuné de ce malheureux Roi.</l>
+	<l id='9'>Aujourd'hui que sa mort m'assure sa Couronne,</l>
+	<l id='10'>Je croirais faire outrage au Ciel qui me la donne,</l>
+	<l id='11'>Si dans ce nouveau rang j'avais rien de plus doux</l>
+	<l id='12'>Que chercher les moyens de m'acquitter vers vous.</l>
+	<l id='13' part='i'>Quoi qu'Eumène...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='13' part='f'>Seigneur, ne parlons plus d'Eumène.</l>
+	<l id='14'>Il eût nourri pour nous une éternelle haine,</l>
+	<l id='15'>Et malgré vous, l'honneur vous eût fait une loi</l>
+	<l id='16'>De suivre le destin et d'un frère, et d'un Roi.</l>
+	<l id='17'>En vain brisant vos fers je pensai le contraindre ;</l>
+	<l id='18'>À redouter les maux que je voyais à craindre ;</l>
+	<l id='19'>Son orgueil ne lui put endurer d'autre accord</l>
+	<l id='20'>Que de promettre aux Dieux ma défaite, ou sa mort.</l>
+	<l id='21'>Cette mort que pour nous ils crurent nécessaire,</l>
+	<l id='22'>Ne m'a plus laissé voir d'ennemi dans son frère,</l>
+	<l id='23'>Et la paix vous semblant le pari le plus doux,</l>
+	<l id='24'>Je suis ici venu la jurer avec vous</l>
+	<l id='25'>Rome a choisi ce lieu commun à l'un et l'autre,</l>
+	<l id='26'>Il borne mon État comme il borne le vôtre,</l>
+	<l id='27'>Et c'est là qu'avec joie on m'a vu vous céder</l>
+	<l id='28'>Ce que Flaminius n'eût osé demander.</l>
+	<l id='29'>Quoi que m'ait pu sur vous acquérir la victoire,</l>
+	<l id='30'>Je ne m'en suis voulu réserver que la gloire.</l>
+	<l id='31'>Pergame est tout à vous, et je vous ai rendu</l>
+	<l id='32'>Ce qu'à droit de conquête on sait qui m'était dû.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='33'>Ce rare et grand effort d'une vertu sublime</l>
+	<l id='34'>De l'Univers entier vous assure l'estime ;</l>
+	<l id='35'>Mais, Seigneur, tant de biens sont pour moi superflus,</l>
+	<l id='36'>Si vous devant beaucoup je n'obtiens encor plus.</l>
+	<l id='37'>Quand voulant entre nous voir la guerre finie</l>
+	<l id='38'>Vous brisâtes mes fers dans votre Bithynie,</l>
+	<l id='39'>Déjà depuis longtemps charmé dans cette Cour,</l>
+	<l id='40'>J'étais moins Prisonnier de guerre que d'amour.</l>
+	<l id='41'>Deux beaux yeux en secret captivaient ma franchise.</l>
+	<l id='42'>J'avais, j'avais trop vu l'incomparable Élise.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='43' part='i'>La fille d'Annibal ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='43' part='f'>Oui, je l'aime, Seigneur.</l>
+	<l id='44'>L'absence ni le temps n'ont pu changer mon coeur,</l>
+	<l id='45'>Et si de votre appui j'ose flatter mon âme,</l>
+	<l id='46'>Je puis me tenir sûr du succès de ma flamme.</l>
+	<l id='47'>Le fameux Annibal reçu dans vos États,</l>
+	<l id='48'>Si vous êtes pour moi, ne vous dédira pas.</l>
+	<l id='49'>Contre ses Ennemis vous lui prêtez retraite,</l>
+	<l id='50'>Et dans l'incertitude où ce besoin le jette,</l>
+	<l id='51'>Deux Rois pourront tenir son destin affermi,</l>
+	<l id='52'>S'il en a l'un pour Gendre, et l'autre pour Ami.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='53'>La vertu d'Annibal paraît si peu commune,</l>
+	<l id='54'>Que sans doute il est beau d'embrasser sa fortune,</l>
+	<l id='55'>Et vous ne sauriez mieux vous en faire l'appui,</l>
+	<l id='56'>Qu'en cherchant par l'hymen à vous unir à lui.</l>
+	<l id='57'>Mais quand vous m'employez à vous y rendre office,</l>
+	<l id='58'>Ouvrez les yeux, Seigneur, et me faites justice.</l>
+	<l id='59'>À seconder vos feux si je m'étais porté,</l>
+	<l id='60'>Que croirait Annibal de ma sincérité ?</l>
+	<l id='61'>Ne jugerait-il pas que déjà je me lasse</l>
+	<l id='62'>De lui prêter la main pour aide en sa disgrâce,</l>
+	<l id='63'>Et que ce grand hymen que j'oserais presser,</l>
+	<l id='64'>Ne serait qu'un prétexte afin de le chasser ?</l>
+	<l id='65'>Malgré ses Envieux et la haine de Rome,</l>
+	<l id='66'>J'ai promis, j'ai donné retraite à ce grand homme,</l>
+	<l id='67'>Et dois trop aux serments qu'il a reçus de moi,</l>
+	<l id='68'>Pour rien faire jamais qui démente ma foi.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='69'>Aussi ne suis-je pas assez vain pour prétendre</l>
+	<l id='70'>Qu'Annibal dût me suivre en m'acceptant pour Gendre.</l>
+	<l id='71'>Content de posséder un Objet plein d'appas,</l>
+	<l id='72'>Je le verrai, Seigneur, vivre dans vos États.</l>
+	<l id='73'>Ainsi le retenant vous pouvez sans scrupule...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='74'>Seigneur, il ne faut point que je vous dissimule.</l>
+	<l id='75'>Je doute qu'Annibal n'imputât à mépris,</l>
+	<l id='76'>Si je parlais pour vous plutôt que pour mon fils.</l>
+	<l id='77'>Vous savez près de lui quel rang ce fils possède,</l>
+	<l id='78' part='i'>Que tout jeune qu'il est...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='78' part='f'>Ah, Seigneur, je lui cède.</l>
+	<l id='79'>Quoi qu'Élise à mes yeux fasse briller d'appas,</l>
+	<l id='80' part='i'>Si le Prince y prétend...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='80' part='f'>Non, il n'y pense pas ;</l>
+	<l id='81'>Mais il faut éviter, en cherchant mon suffrage,</l>
+	<l id='82'>Ce qui pourrait vous nuire, ou donner de l'ombrage.</l>
+	<l id='83'>Mes souhaits sont pour vous, n'attendez rien de plus.</l>
+	<l id='84'>Vos voeux sans mon appui peuvent être reçus ;</l>
+	<l id='85'>Contre vous pour un Fils bien loin que je m'emploie,</l>
+	<l id='86'>Faites-les agréer, j'en aurai de la joie.</l>
+	<l id='87'>Mais laissez-moi me taire où vos feux parleront.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='88'>Seigneur, vous apprendrez le succès qu'ils auront.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Prusias, Araxe. </head>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='89'>Me trompai-je, Seigneur, dans ce que je présume ?</l>
+	<l id='90'>Attale craint qu'un jour la guerre se rallume,</l>
+	<l id='91'>Et de peur qu'Annibal n'ose vous secourir,</l>
+	<l id='92'>En épousant la Fille, il veut se l'acquérir.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='93'>J'ignore les motifs du dessein qu'il m'explique,</l>
+	<l id='94'>Mais enfin soit amour, Araxe, ou politique,</l>
+	<l id='95' part='i'>Cet hymen... Dieux !</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='95' part='m'>D'où vient...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='95' part='f'>Qu'il doit m'être fatal !</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='96' part='i'>À vous, Seigneur !</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='96' part='f'>Tu vois qu'il nous ôte Annibal.</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='97'>Pouvez-vous regretter qu'il chasse ailleurs un homme,</l>
+	<l id='98'>Dont la retraite ici vous rend suspect à Rome ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='99' part='i'>Mais il faudra qu'Élise, ...</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='99' part='f'>Et bien, quel intérêt...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='100' part='i'>Quoi, d'Élise...</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='100' part='f'>Seigneur, je crois qu'elle vous plaît ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='101' part='i'>À moi ? Qui te l'a dit ?</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='101' part='f'>Je l'apprends de vous-même.</l>
+	<l id='102' part='i'>Ce trouble...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='102' part='f'>Il me trahit, je l'avoue, moi, je l'aime,</l>
+	<l id='103'>Et par mille combats rendus jusqu'à ce jour</l>
+	<l id='104'>J'ai tâché vainement d'étouffer mon amour.</l>
+	<l id='105'>Les intérêts d'un Fils joints à ceux de mon âge</l>
+	<l id='106'>Ont beau sur cette ardeur refroidir mon courage,</l>
+	<l id='107'>Élise a tous mes voeux ; Élise a tout mon coeur,</l>
+	<l id='108'>Et pour moi sans Élise il n'est point de bonheur.</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='109'>Mais en vous déclarant doutez-vous qu'avec joie</l>
+	<l id='110' part='i'>Annibal...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='110' part='f'>Non, je sais ce qu'il faut que j'en croie.</l>
+	<l id='111'>Mon hymen d'Annibal remplirait tous les voeux,</l>
+	<l id='112'>Je n'ai qu'à dire un mot, et je me sens heureux ;</l>
+	<l id='113'>Mais puis-je consentir à ce que veut ma flamme,</l>
+	<l id='114'>Sans que Rome aussitôt s'en indigne et m'en blâme ?</l>
+	<l id='115'>Je me brouille avec elle, et les malheurs d'autrui</l>
+	<l id='116'>M'apprennent ce que c'est que perdre son appui,</l>
+	<l id='117'>Je dois le ménager ; c'est par là que sans cesse</l>
+	<l id='118'>À déguiser mon coeur j'applique mon adresse.</l>
+	<l id='119'>Annibal ne pourrait savoir ma passion,</l>
+	<l id='120'>Qu'il ne s'en prévalut pour son aversion.</l>
+	<l id='121'>L'abaissement de Rome étant ce qu'il souhaite,</l>
+	<l id='122'>Il formerait contre elle une ligue secrète,</l>
+	<l id='123'>Et m'en faisant l'auteur, me mettrait hors d'état</l>
+	<l id='124'>De ne me pas montrer Ennemi du Sénat.</l>
+	<l id='125'>Tu vois que dans la paix jurée avec Attale</l>
+	<l id='126'>Déjà son amitié m'a presque été fatale.</l>
+	<l id='127'>Rome à ce grand accord témoignant s'attacher,</l>
+	<l id='128'>Exprès pour choquer Rome il voulait l'empêcher.</l>
+	<l id='129'>D'ailleurs, Flaminius ouvertement s'explique.</l>
+	<l id='130'>Qui protège Annibal blesse la République,</l>
+	<l id='131'>Et son éloignement qu'il presse chaque jour,</l>
+	<l id='132'>Suspend mon espérance, et confond mon amour.</l>
+	<l id='133'>J'oppose pour refus ma parole donnée,</l>
+	<l id='134'>Et pour éblouir Rome à le perdre obstinée,</l>
+	<l id='135'>J'affecte des froideurs dont le déguisement</l>
+	<l id='136'>Cache à Flaminius l'intérêt d'un Amant.</l>
+	<l id='137'>Cependant Annibal que surprend ma conduite,</l>
+	<l id='138'>De mes longues froideurs peut redouter la suite,</l>
+	<l id='139'>Et cédant aux soupçons dont je le vois gêné,</l>
+	<l id='140'>Accepter dans Attale un Gendre couronné.</l>
+	<l id='141'>Je crois voir à ses feux déjà que tout succède,</l>
+	<l id='142'>À moins que de ce mal mon Fils soit le remède.</l>
+	<l id='143'>Confident d'Annibal, s'il craint tout de ma foi,</l>
+	<l id='144'>Par de nouveaux serments il peut... mais je le vois.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Prusias, Nicomède, Araxe.</head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='145'>Prince, Annibal sans doute aura quelques alarmes</l>
+	<l id='146'>De voir qu'Attale et moi nous mettions bas les armes,</l>
+	<l id='147'>Et que la paix jurée assure à nos États</l>
+	<l id='148'>Un calme qui pour vous doit être sans appas.</l>
+	<l id='149'>Ses leçons vous charmaient, et sous un si grand Maître</l>
+	<l id='150'>Votre jeune valeur se plaisait à paraître.</l>
+	<l id='151'>Rome en a pris ombrage, et l'Accord arrêté</l>
+	<l id='152'>Est devenu pour nous une nécessité.</l>
+	<l id='153'>À n'y déférer pas je rompais avec elle ;</l>
+	<l id='154'>Je lui faisais d'Attale embrasser la querelle,</l>
+	<l id='155'>Et l'éclat d'un refus pour nous trop hasardeux,</l>
+	<l id='156'>Au lieu d'un Ennemi, nous en attirait deux.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='157'>Quelque bouillante ardeur que la guerre m'inspire,</l>
+	<l id='158'>Vous préférez la paix, c'est à moi d'y souscrire ;</l>
+	<l id='159'>Mais permettez, Seigneur, que contre les Romains</l>
+	<l id='160'>J'oppose vos bontés au malheur que je crains.</l>
+	<l id='161'>Je sais que d'Annibal ils cherchent la ruine,</l>
+	<l id='162'>Que toujours même haine en leurs coeurs s'enracine.</l>
+	<l id='163'>L'adroit Flaminius a beau dissimuler,</l>
+	<l id='164' part='i'>Il ne vient...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='164' part='f'>C'est sur quoi je voulais vous parler.</l>
+	<l id='165'>Depuis que dans ses lieux Flaminius m'observe,</l>
+	<l id='166'>J'ai dû pour Annibal montrer quelque réserve,</l>
+	<l id='167'>Et tâcher de guérir par cet amusement</l>
+	<l id='168'>Les soupçons qu'on a pris de mon attachement.</l>
+	<l id='169'>Mais comme les froideurs qu'il est bon que j'affecte,</l>
+	<l id='170'>Pourraient avec le temps rendre ma foi suspecte,</l>
+	<l id='171'>Prévenez Annibal, et lui jurez pour moi</l>
+	<l id='172'>Tout ce qu'a de sacré la parole d'un Roi ;</l>
+	<l id='173'>Que le Romain parti, je dois trop à ma gloire</l>
+	<l id='174' part='i'>Pour...</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='174' part='f'>Il est un moyen de lui faire tout croire.</l>
+	<l id='175' part='i'>Si vous l'autorisez...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='175' part='f'>Quel que soit ce moyen,</l>
+	<l id='176'>Offrez, promettez tout, je ne réserve rien.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='177'>Après ce doux aveu, Seigneur, j'ose vous dire</l>
+	<l id='178'>Que mon coeur en secret depuis longtemps soupire,</l>
+	<l id='179'>Et que par un pouvoir à mon repos fatal,</l>
+	<l id='180' part='i'>Élise...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='180' part='f'>Vous aimez la Fille d'Annibal ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='181'>Oui, Seigneur, je l'adore, et ne puis plus vous taire</l>
+	<l id='182'>Que la Fille sur moi peut autant que le Père.</l>
+	<l id='183'>Si la vertu de l'un tient tout mon coeur charmé,</l>
+	<l id='184'>Pour la beauté de l'autre il est tout enflammé,</l>
+	<l id='185'>Et dans la passion où ce coeur s'abandonne...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='186'>N'avez-vous découvert cet amour à personne ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='187'>Il est connu d'Élise, à qui j'ai cru devoir...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='188' part='i'>Vous en êtes aimé ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='188' part='f'>Je n'ai pu le savoir,</l>
+	<l id='189'>Mais sans doute son choix suivra celui d'un Père.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='190'>Je pardonne à votre âge un aveu téméraire,</l>
+	<l id='191'>Prince, vous êtes jeune, et votre aveuglement</l>
+	<l id='192'>Presse plus ma pitié que mon ressentiment.</l>
+	<l id='193'>Ouvrez, ouvrez les yeux, et pour un fol caprice</l>
+	<l id='194'>Voyez-vous sur le bord d'un affreux précipice.</l>
+	<l id='195'>Sachant l'indigne feu dont vous osez brûler,</l>
+	<l id='196'>Élise peut nous perdre, elle n'a qu'à parler.</l>
+	<l id='197'>De quel oeil le Sénat verra-t-il l'insolence</l>
+	<l id='198'>Qui vous fait d'Annibal rechercher l'alliance,</l>
+	<l id='199'>Et quels noeuds votre amour s'est-il jugés permis</l>
+	<l id='200'>Avec le plus mortel de tous ses Ennemis ?</l>
+	<l id='201'>Cessez de vous flatter ; nous dépendons de Rome.</l>
+	<l id='202'>Annibal vaut beaucoup, mais ce n'est qu'un seul homme,</l>
+	<l id='203'>Et dans ce qu'à mon sceptre il faut chercher d'appui,</l>
+	<l id='204'>L'amitié des Romains peut pour nous plus que lui.</l>
+	<l id='205'>C'est elle qui soutient les Trônes qui chancellent,</l>
+	<l id='206'>Et sans cette amitié que mes soins renouvellent,</l>
+	<l id='207'>Nous nous verrions réduits à courber sous le poids</l>
+	<l id='208'>Sous qui déjà partout gémissent tant de Rois.</l>
+	<l id='209'>Profitons de l'exemple, et craignons leur disgrâce.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='210'>Les exemples, Seigneur, n'ont rien qui m'embarrasse.</l>
+	<l id='211'>Chacun a sa conduite, et tel peut succomber</l>
+	<l id='212'>Où tout autre après lui craindra peu de tomber.</l>
+	<l id='213'>Non que par cet hymen qui semble vous déplaire</l>
+	<l id='214'>Je cherche à vous ôter une amitié si chère ;</l>
+	<l id='215'>Bien loin qu'il ait de quoi faire ombrage aux Romains,</l>
+	<l id='216'>Pourraient-ils mettre Élise en de plus sûres mains ?</l>
+	<l id='217'>Il n'est rien que pour eux votre foi ne prévienne.</l>
+	<l id='218'>Ils trouveront en elle un garant de la mienne,</l>
+	<l id='219'>Et dans le fils d'un Roi qui les veut respecter,</l>
+	<l id='220'>Le gendre d'Annibal n'est point à redouter.</l>
+	<l id='221'>Que si de ce projet Rome se rend l'arbitre,</l>
+	<l id='222'>Seigneur, vous êtes Roi, soutenez ce grand titre,</l>
+	<l id='223'>Et sans vous éblouir de devoirs apparents,</l>
+	<l id='224'>Négligez des Amis qui se font vos tyrans.</l>
+	<l id='225'>Rejetez une indigne et basse dépendance.</l>
+	<l id='226'>Cent Princes opprimés prendront votre défense,</l>
+	<l id='227'>Toute l'Asie aspire à voir briser ses fers,</l>
+	<l id='228'>Tirez-la d'esclavage, et vengez l'univers.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='229'>Voilà les sentiments que l'amour vous inspire ?</l>
+	<l id='230'>Élise vous apprend ce que vous m'osez dire,</l>
+	<l id='231'>Et ce parfait accord de haine et d'intérêt,</l>
+	<l id='232'>A pour toucher son coeur le charme qu'il lui plaît ?</l>
+	<l id='233'>Si déjà son pouvoir est si grand sur votre âme,</l>
+	<l id='234'>Jusqu'où n'ira-t-il point avec le nom de Femme ?</l>
+	<l id='235'>Pour plaire à ces beaux yeux dont vous êtes épris,</l>
+	<l id='236'>Rome vous paraîtra digne de vos mépris ;</l>
+	<l id='237'>Vous armerez contre elle, et jusqu'en Italie</l>
+	<l id='238'>Vous irez de vos feux étaler la folie.</l>
+	<l id='239'>J'y consens, perdez-vous, et sans plus m'écouter,</l>
+	<l id='240'>Courez prendre les fers que vous voulez porter.</l>
+	<l id='241'>Cent Rois ont avant vous estimé cette gloire,</l>
+	<l id='242'>Ils vous pressent d'oser, il est beau de les croire,</l>
+	<l id='243'>Et de chercher comme eux par d'illustres desseins</l>
+	<l id='244'>À servir de triomphe aux armes des Romains.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='245'>Du moins, Seigneur, du moins j'aurai cet avantage</l>
+	<l id='246'>Qu'ils ne pourront jamais soumettre mon courage,</l>
+	<l id='247'>Et si l'indignité de quelque dur revers</l>
+	<l id='248'>Me réduit quelque jour à la honte des fers,</l>
+	<l id='249'>Je n'imiterai point l'abaissement extrême</l>
+	<l id='250'>Qui va les mendier jusque dans Rome même.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='251'>Et moi, je saurai bien, si vous vous emportez,</l>
+	<l id='252'>Arrêter la fureur de vos témérités ;</l>
+	<l id='253'>Non que dans un discours dont la fierté m'outrage</l>
+	<l id='254'>Je n'excuse et l'amour et la chaleur de l'âge.</l>
+	<l id='255'>Le temps éteindra l'une, et saura modérer</l>
+	<l id='256'>L'orgueil d'un mouvement trop bouillant pour durer ;</l>
+	<l id='257'>Mais si dans votre coeur vos soins n'étouffent l'autre,</l>
+	<l id='258'>Je suis Père du Peuple avant qu'être le vôtre,</l>
+	<l id='259'>Et les noeuds les plus doux n'ont rien qu'avec éclat</l>
+	<l id='260'>Ma justice n'immole au repos de l'État.</l>
+	<l id='261' part='i'>Pensez-y mûrement, allez.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='261' part='f'>Je me retire,</l>
+	<l id='262'>Mais trouvez bon, Seigneur, que j'ose encor vous dire,</l>
+	<l id='263'>Que si pour plaire à Rome il faut trahir son rang,</l>
+	<l id='264'>Elle peut de bonne heure ordonner de mon sang.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Prusias, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='265'>Qui jamais en aimant plus que moi fut à plaindre ?</l>
+	<l id='266'>Un Rival m'alarmait, j'en trouve deux à craindre,</l>
+	<l id='267'>Et d'un fatal hymen les noeuds mal assortis</l>
+	<l id='268'>N'ont rien dont le péril puisse étonner mon Fils.</l>
+	<l id='269'>Les maux que je lui peins s'il obtient de qu'il aime,</l>
+	<l id='270'>Ne sont point... mais hélas ! m'étonnent-ils moi-même ?</l>
+	<l id='271'>J'ai beau jeter les yeux sur ce que j'en prévois ;</l>
+	<l id='272'>En les ouvrant pour lui je les ferme pour moi,</l>
+	<l id='273'>Et voulant l'arracher de l'abyme qu'il s'ouvre,</l>
+	<l id='274'>Je cherche à ne point voir ce que je lui découvre.</l>
+	<l id='275'>Quel conseil prendre, Araxe, en ces extrémités ?</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='276'>La raison le dira si vous l'en consultez.</l>
+	<l id='277'>L'amitié des Romains faisant votre assurance,</l>
+	<l id='278'>Il vous faut d'Annibal éviter l'alliance.</l>
+	<l id='279'>Seigneur, servez Attale, et secondez ses feux.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='280'>Quoi, je pourrais souffrir qu'Attale fût heureux ?</l>
+	<l id='281'>Je sais que quelques soins que l'amour me suggère,</l>
+	<l id='282'>Mon fils, ainsi qu'Attale, aura plus de quoi plaire,</l>
+	<l id='283'>Tous deux jeunes, tous deux bouillants dans leurs desseins,</l>
+	<l id='284'>Et tous deux, s'il le faut, ennemis des Romains ;</l>
+	<l id='285'>Mais n'importe, essayons à bien connaître Élise,</l>
+	<l id='286'>Et sachant qui des deux son amour favorise,</l>
+	<l id='287'>Attaquons ce Rival, et cherchons du repos</l>
+	<l id='288' part='i'>À détruire...</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='288' part='f'>Seigneur, elle vient à propos.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Prusias, Élise, Araxe, Alcine. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='289'>Quoi, Madame, toujours cet air mélancolique ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='290'>Quelle joie en mes yeux voulez-vous qui s'explique ;</l>
+	<l id='291'>Seigneur, lorsque partout les Destins conjurés</l>
+	<l id='292'>À nous persécuter se montrent préparés ?</l>
+	<l id='293'>Si nous trouvons chez vous, par un doux avantage,</l>
+	<l id='294'>De quoi nous consoler de l'exil de Carthage,</l>
+	<l id='295'>Les Romains aussitôt de ce bonheur jaloux</l>
+	<l id='296'>S'opposent aux bontés que vous avez pour nous.</l>
+	<l id='297'>Avecque sa fortune errante et vagabonde</l>
+	<l id='298'>Un seul homme fait peur à ces Maîtres du monde.</l>
+	<l id='299'>À nous voir votre appui, leur trouble est sans égal.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='300'>Madame, je ne sais ce qu'en juge Annibal,</l>
+	<l id='301'>Mais si j'ai le malheur qu'après mille assurances</l>
+	<l id='302'>Rome le fasse entrer en quelques défiances,</l>
+	<l id='303'>Du moins est-il le seul qui soupçonnant ma foi</l>
+	<l id='304'>N'ait pas les sentiments qu'il doit avoir de moi.</l>
+	<l id='305'>Sur le titre d'Ami chacun me rend justice,</l>
+	<l id='306'>Et même on craint si peu que rien nous désunisse,</l>
+	<l id='307'>Que pour vous obtenir, vos Amants aujourd'hui</l>
+	<l id='308'>Implorent mon suffrage, et briguent mon appui.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='309'>Que parlez-vous d'Amants, Seigneur ? Est-il croyable</l>
+	<l id='310'>Qu'en l'état où je suis on pût me croire aimable,</l>
+	<l id='311'>Et sur mon triste sort fermer assez les yeux,</l>
+	<l id='312'>Pour s'unir au rebut des hommes et des Dieux ?</l>
+	<l id='313'>Non, non, il faut me fuir ; il n'est revers ni peine</l>
+	<l id='314'>Qu'en tous lieux avec moi ma disgrâce ne traîne,</l>
+	<l id='315'>Et me vouloir aimer, serait sans aucun fruit</l>
+	<l id='316'>Livrer sa destinée au malheur qui me suit.</l>
+	<l id='317'>Aussi mon coeur n'est pas un bien où l'on aspire,</l>
+	<l id='318'>Et si me regardant quelquefois on soupire,</l>
+	<l id='319'>La pitié que mes maux s'attirent chaque jour,</l>
+	<l id='320'>Laisse dans ces soupirs peu de part à l'amour.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='321'>Et ce sont ces malheurs qui vous rendent à craindre.</l>
+	<l id='322'>Pour être tout à vous il ne faut que vous plaindre,</l>
+	<l id='323'>Et voir dans vos beaux yeux cette douce langueur</l>
+	<l id='324'>Qui surprend, émeut, touche, et pénètre le coeur.</l>
+	<l id='325'>Attale qui se plaît à vous rendre les armes,</l>
+	<l id='326'>De ces beaux yeux peut-être  aurait bravé les charmes,</l>
+	<l id='327'>Si pour ce grand triomphe en secret emporté</l>
+	<l id='328'>Ils se fussent servis de toute leur fierté ;</l>
+	<l id='329'>Mais l'adoucissement qu'y mêlent vos disgrâces</l>
+	<l id='330' part='i'>Fait briller...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='330' part='f'>Ces douceurs sont pour les âmes basses,</l>
+	<l id='331'>Seigneur, et mon orgueil s'en accommode mal.</l>
+	<l id='332'>De grâce, traitez mieux la Fille d'Annibal.</l>
+	<l id='333'>Mes yeux ont démenti la fierté de mon âme</l>
+	<l id='334'>S'ils la font soupçonner de quelque lâche flamme.</l>
+	<l id='335'>Attale sort d'un sang qui peut prétendre à moi,</l>
+	<l id='336'>Mais il fut dans vos fers avant que d'être Roi,</l>
+	<l id='337'>Et l'éclat de ce Trône où je le vois qui monte,</l>
+	<l id='338'>N'a pas encor assez effacé cette honte.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='339'>Ah, que cette fierté paraît digne de vous ?</l>
+	<l id='340'>J'en conçois pour mon Fils un augure bien doux.</l>
+	<l id='341'>Pour vos charmants appas vous savez qu'il soupire,</l>
+	<l id='342'>Ses respects ont cent fois pris soin de vous le dire,</l>
+	<l id='343'>Il n'aime qu'à vous plaire ; à des feux si soumis,</l>
+	<l id='344'>Madame, expliquez-vous, quel espoir est permis ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='345'>Quoi, vous croyez qu'Élise ait l'âme assez ingrate</l>
+	<l id='346'>Pour pouvoir consentir que cet amour la flatte,</l>
+	<l id='347'>Et que pour prix des soins qu'en eut votre pitié,</l>
+	<l id='348'>Son hymen des Romains vous coûte l'amitié ?</l>
+	<l id='349'>Si déjà, sur l'appui que trouve ici mon Père,</l>
+	<l id='350'>Nous voyons dans leur plainte éclater leur colère,</l>
+	<l id='351'>Que n'essuieriez-vous point de leurs chagrins jaloux</l>
+	<l id='352'>Si des noeuds plus étroits nous unissaient à vous ?</l>
+	<l id='353'>Fuyez, fuyez les maux qui suivent nos personnes.</l>
+	<l id='354'>Ces dignes Conquérants sont maîtres des Couronnes,</l>
+	<l id='355'>Et quoi que vous fît croire un dépit généreux,</l>
+	<l id='356'>Pour régner sûrement, il faut régner par eux.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='357'>De ma fidélité Rome a trop d'assurance</l>
+	<l id='358'>Pour me laisser longtemps craindre sa défiance,</l>
+	<l id='359'>Et sur cette union, quel que soit le danger,</l>
+	<l id='360'>S'il nous faut son aveu, je puis le ménager.</l>
+	<l id='361'>Pourvu que de mon Fils vous approuviez la flamme,</l>
+	<l id='362' part='i'>Que ses voeux...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='362' part='f'>Connaissez, Seigneur, toute mon âme.</l>
+	<l id='363'>Le Prince a des vertus qu'on ne peut égaler,</l>
+	<l id='364'>Mais quelque feu pour lui dont je pusse brûler,</l>
+	<l id='365'>Je le dédaignerais si d'une ardeur ouverte</l>
+	<l id='366'>Des Romains que j'abhorre il ne jurait la perte.</l>
+	<l id='367'>De ma haine pour eux mon amour prend la loi,</l>
+	<l id='368'>Et c'est la seule dot que j'apporte avec moi.</l>
+	<l id='369'>Ainsi point de Mari capable de me plaire,</l>
+	<l id='370'>Qui ne venge Carthage, et l'exil de mon Père.</l>
+	<l id='371'>L'Univers affranchi de ses cruels Tyrans</l>
+	<l id='372'>Est tout ce qui me flatte, à ce prix je me rends.</l>
+	<l id='373' part='i'>Adieu, Seigneur.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Prusias, Araxe.</head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='373' part='f'>Et bien, quelle preuve plus claire</l>
+	<l id='374'>Que mon fils est aimé, que c'est lui qu'on préfère ?</l>
+	<l id='375'>La haine que pour Rome ils montrent tour à tour</l>
+	<l id='376'>Fait voir dans ce rapport celui de leur amour.</l>
+	<l id='377'>Ce n'est point un soupçon, j'en vois la certitude.</l>
+	<l id='378'>Affranchissons mon coeur de cette inquiétude,</l>
+	<l id='379'>Et puisque cet obstacle à mes voeux est fatal,</l>
+	<l id='380'>Pour n'avoir rien à craindre éloignons ce Rival.</l>
+	<l id='381'>L'Ambassadeur de Rome ici me favorise.</l>
+	<l id='382'>Il faut lui découvrir que mon Fils aime Élise,</l>
+	<l id='383'>Et demain avec lui, sans en faire d'éclat,</l>
+	<l id='384'>Sous prétexte d'honneur l'envoyer au Sénat.</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='385'>Mais si vous regardez son amour comme un crime,</l>
+	<l id='386'>Comment rendre, Seigneur, le vôtre légitime ?</l>
+	<l id='387'>Rome vous verra-t-elle impunément jouir...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='388'>Mon zèle aura paru, c'est de quoi l'éblouir.</l>
+	<l id='389'>Peut-être qu'elle-même, obligée à se rendre,</l>
+	<l id='390'>Redoutant Annibal, me voudra voir son Gendre,</l>
+	<l id='391'>Et s'assurer par moi de l'inquiète ardeur,</l>
+	<l id='392'>Qui l'a toujours rendu jaloux de sa grandeur.</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='393'>Mais d'une et d'autre part votre espérance est vaine.</l>
+	<l id='394'>Élise veut, Seigneur, qu'on épouse sa haine,</l>
+	<l id='395' part='i'>Et que...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='395' part='f'>Lorsqu'il s'agit de voir nos voeux contents,</l>
+	<l id='396'>Promettons tout, Araxe, et laissons faire au temps.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Élise, Alcine. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='397'>Le Prince doit partir ! Ne t'es-tu point trompée ?</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='398'>J'ai douté de ce bruit d'abord qu'il m'a frappée,</l>
+	<l id='399'>Mais dans toute la Cour, Madame, il fait éclat.</l>
+	<l id='400'>Prusias sur la paix le députe au Sénat,</l>
+	<l id='401'>Et lui rend cet honneur de vouloir par sa bouche</l>
+	<l id='402'>Expliquer à quel point ce grand Accord le touche.</l>
+	<l id='403'>Flaminius l'emmène, ils partent dès demain.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='404' part='i'>Et le Prince est content ?</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='404' part='f'>Son refus serait vain.</l>
+	<l id='405'>Où l'ordre est absolu, que peut la résistance ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='406'>Quoi, son coeur à céder n'a point de répugnance ?</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='407'>J'ai peu l'art de connaître un coeur comme le sien,</l>
+	<l id='408' part='i'>Mais pourquoi...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='408' part='f'>C'est assez mais je ne demande rien.</l>
+	<l id='409'>Ma curiosité sans doute est indiscrète.</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='410'>Au moins vous en aviez quelque raison secrète ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='411'>Je ne sais, mais enfin ce que j'aime à savoir,</l>
+	<l id='412'>C'est que mon triste coeur n'en devrait pas avoir.</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='413'>Ne dissimulez point. Le Prince a su vous plaire.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='414' part='i'>Moi l'aimer ?</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='414' part='f'>Sa vertu vous doit être assez chère.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='415'>Il est vrai qu'il sait joindre à l'éclat de son rang</l>
+	<l id='416'>Toutes les qualités que demande un beau sang.</l>
+	<l id='417'>Jamais plus de mérite avec tant d'avantage</l>
+	<l id='418'>Ne sut de tous les coeurs s'acquérir le suffrage ;</l>
+	<l id='419'>Moi-même je me sens forcée à l'estimer,</l>
+	<l id='420'>J'admire sa vertu, mais ce n'est pas l'aimer.</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='421'>Avec tant de chaleur louer ce qu'on estime,</l>
+	<l id='422'>Madame, croyez-moi, c'est l'amour qui s'exprime.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='423'>Quoi, tu crois que je l'aime, et que pour faire cas...</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='424'>Mais vous-même avec moi ne le croyez-vous pas ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='425'>Je veux bien t'avouer que son départ m'afflige,</l>
+	<l id='426'>Que l'ordre qu'on lui donne à soupirer m'oblige ;</l>
+	<l id='427'>Mais sans doute mon coeur dans cet éloignement</l>
+	<l id='428'>Soupire pour un Père, et non pour un Amant.</l>
+	<l id='429'>Le Prince hors d'ici, Prusias n'est point homme</l>
+	<l id='430'>À résister longtemps aux poursuites de Rome.</l>
+	<l id='431'>Elle hait Annibal, et je crains que le Roi</l>
+	<l id='432'>N'ait pas la fermeté de nous garder sa foi.</l>
+	<l id='433'>Son Fils était pour nous un appui nécessaire.</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='434'>J'en croirai ce motif s'il s'agit de vous plaire.</l>
+	<l id='435'>Le Prince peut ici vous manquer au besoin ;</l>
+	<l id='436'>Mais on ne prévoit pas les malheurs de si loin,</l>
+	<l id='437'>Et lorsque tant d'ardeur fait que l'on s'intéresse...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='438'>Qui te porte à vouloir jouir de ma faiblesse ?</l>
+	<l id='439'>Ne force point mon coeur à se trop déclarer,</l>
+	<l id='440'>Et s'il aime en secret, laisse-moi l'ignorer.</l>
+	<l id='441' part='i'>Voici le Prince, ah Dieux !</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='441' part='f'>Redoutez-vous sa vue ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='442'>Je sens que tout à coup mon âme s'est émue ;</l>
+	<l id='443'>Mais ce trouble inconnu pour moi jusqu'à ce jour,</l>
+	<l id='444'>Se donne à sa disgrâce, et non pas à l'amour.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Nicomède, Élise, Alcine. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='445' part='i'>Vous vous éloignez, Prince ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='445' part='f'>On m'y force, Madame.</l>
+	<l id='446'>Mais dans ce déplaisir ce qui flatte mon âme,</l>
+	<l id='447'>C'est que Flaminius s'éloignant avec moi</l>
+	<l id='448'>N'aura plus contre vous d'empire sur le Roi.</l>
+	<l id='449'>Son départ en ces lieux assure votre asile.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='450'>Rome pour nous troubler trouvera tout facile,</l>
+	<l id='451'>Elle a d'autres Agents, dont le secret pouvoir</l>
+	<l id='452'>De votre éloignement saura se prévaloir.</l>
+	<l id='453'>Quoi qu'ils veuillent oser, nous serons sans défense.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='454'>Madame, attendez tout de mon impatience.</l>
+	<l id='455'>Par un retour si prompt, s'il vous faut mon secours...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='456'>Ah Prince, vous parti, vous l'êtes pour toujours.</l>
+	<l id='457'>Ne vous offensez point de ce triste présage,</l>
+	<l id='458'>Rome pour Annibal vous demande en otage,</l>
+	<l id='459'>Et vous n'en reviendrez qu'après que nos Tyrans</l>
+	<l id='460'>De sa ruine entière auront de leurs garants.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='461' part='i'>Quoi, le Roi souffrirait...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='461' part='f'>J'oserai plus vous dire.</l>
+	<l id='462'>À vous voir éloigné le Roi lui-même aspire,</l>
+	<l id='463'>Et cet ordre soudain qui nous prive de vous,</l>
+	<l id='464'>N'est que l'indigne effet d'un mouvement jaloux.</l>
+	<l id='465'>Je n'en saurais douter, Prince, j'ai su lui plaire.</l>
+	<l id='466'>Ses regards enflammés ne me le peuvent taire,</l>
+	<l id='467'>Ma vue est le seul bien dont il cherche à jouir,</l>
+	<l id='468'>Et souvent j'entends plus que je ne veux ouïr.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='469'>Pardonnez mon désordre à ma surprise extrême.</l>
+	<l id='470'>Quoi, Madame, il se peut que Prusias vous aime,</l>
+	<l id='471' part='i'>Que l'ordre de partir...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='471' part='f'>Si vous obéissez,</l>
+	<l id='472'>Prince, voyez, de grâce, à qui vous me laissez.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='473'>Si j'osais le bien voir, je craindrais de trop dire.</l>
+	<l id='474' part='i'>Adieu, Madame.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='474' part='m'>Hélas !</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='474' part='f'>Quoi, votre coeur soupire ?</l>
+	<l id='475'>À quoi dois-je imputer ce tendre mouvement ?</l>
+	<l id='476'>Quand je trouve un Rival, l'obtiens-je comme Amant ?</l>
+	<l id='477' part='i'>Parlez.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='477' part='m'>Que vous dirai-je ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='477' part='f'>Expliquez-vous de grâce.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='478'>Un soupir dit beaucoup quand le coeur s'embarrasse,</l>
+	<l id='479'>Et qui peut l'arracher après mille combats,</l>
+	<l id='480'>Le mériterait peu s'il ne l'entendait pas.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='481'>Ô trop charmant aveu de la plus belle flamme</l>
+	<l id='482'>Dont ait pu jusqu'ici brûler une grande âme !</l>
+	<l id='483'>Que le Ciel m'abandonne à son plus vif courroux,</l>
+	<l id='484'>J'en craindrai peu les traits étant aimé de vous.</l>
+	<l id='485'>Mon exil me plaira, si dans la Bithynie</l>
+	<l id='486'>Il vous fait des Romains braver la tyrannie.</l>
+	<l id='487'>Heureux cent et cent fois de voir ma liberté</l>
+	<l id='488'>Servir d'un digne prix pour votre sûreté.</l>
+	<l id='489'>Avec la même ardeur qu'elle vous est offerte,</l>
+	<l id='490'>Je voudrais de mon sang racheter votre perte,</l>
+	<l id='491'>Et par ce sacrifice apprendre assez à tous</l>
+	<l id='492'>Que peut-être mon coeur était digne de vous.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='493'>Quoi, si ce pur amour fait toute votre gloire,</l>
+	<l id='494'>Il faut m'abandonner pour me le faire croire ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='495'>Quoi, pour votre repos je pourrais lâchement</l>
+	<l id='496'>Refuser de souscrire à mon éloignement ?</l>
+	<l id='497'>De nos jaloux destins tel est l'ordre barbare,</l>
+	<l id='498'>Que l'amour qui nous joint lui-même nous sépare.</l>
+	<l id='499'>En vain pour nous unir nous ferions nos efforts ;</l>
+	<l id='500'>Vous ne restez ici que parce que j'en sors,</l>
+	<l id='501'>Et le coup que suit l'un devant tomber sur l'autre,</l>
+	<l id='502'>Mon exil évité serait l'arrêt du vôtre.</l>
+	<l id='503'>Cédons, cédons, Madame, à d'injustes projets.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='504'>Ainsi vous me quittez peut-être pour jamais ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='505'>Le Ciel adoucira cette rigueur extrême.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='506' part='i'>Que faire cependant ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='506' part='f'>Songer que je vous aime,</l>
+	<l id='507'>Et si le Roi vous presse, accepter de sa foi</l>
+	<l id='508'>Ce que je ne veux pas que vous perdiez pour moi.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='509'>Ah, Prince, songez-vous jusqu'où va cet outrage,</l>
+	<l id='510'>Et quand mon intérêt à l'exil vous engage,</l>
+	<l id='511'>Les maux que vous croyez qu'il me fasse éviter,</l>
+	<l id='512'>Approchent-ils de ceux qu'il m'offre à redouter ?</l>
+	<l id='513'>Donc, j'aiderais moi-même au destin qui vous brave ?</l>
+	<l id='514'>J'aurais le nom de Reine, et vous celui d'esclave,</l>
+	<l id='515'>Et les fers que dans Rome on vous ferait traîner,</l>
+	<l id='516'>Me vaudrait la douceur de me voir couronner ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='517'>Et quel repos pour moi prétendre en Bithynie,</l>
+	<l id='518'>Si faute d'en partir je vous en vois bannie,</l>
+	<l id='519'>Et de nouveau réduite au funeste revers</l>
+	<l id='520'>D'aller de Cour en Cour, et de passer les mers ?</l>
+	<l id='521'>Et, souffrirai-je moins, quand la main qui m'opprime</l>
+	<l id='522'>De l'orgueil des Romains vous fera la victime,</l>
+	<l id='523'>Et que vous deviendrez, sous leurs indignes lois,</l>
+	<l id='524'>Et le jouet des vents, et le mépris des Rois ?</l>
+	<l id='525'>Pour m'épargner l'horreur d'un si cruel supplice,</l>
+	<l id='526'>Madame, au nom des Dieux souffrez que j'obéisse,</l>
+	<l id='527'>Et que jusque dans Rome affrontant vos Tyrans,</l>
+	<l id='528'>J'aille vous arracher à vos destins errants.</l>
+	<l id='529'>J'y porterai des fers en y portant les vôtres ;</l>
+	<l id='530'>Mais ce coeur tout à vous n'en recevra point d'autres,</l>
+	<l id='531'>Et j'y conserverai l'entière liberté</l>
+	<l id='532'>Que du sang dont je sors exige la fierté.</l>
+	<l id='533'>Quelque Maître des Rois que le Sénat se nomme...</l>
+	<l id='534' part='i'>Mais Annibal...</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Annibal, Nicomède, Élise. </head>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='534' part='f'>J'apprends que vous allez à Rome,</l>
+	<l id='535' part='i'>Prince.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='535' part='f'>Rompez, Seigneur, cet injuste projet,</l>
+	<l id='536'>De sa haine pour vous les Romains sont l'objet.</l>
+	<l id='537'>Laisseriez-vous ainsi détruire votre ouvrage ?</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='538'>J'ai d'assurés moyens de rompre ce voyage,</l>
+	<l id='539' part='i'>Ne vous alarmez point.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='539' part='f'>Ah, je le jugeais bien,</l>
+	<l id='540' part='i'>Que si...</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL à Élise.</speaker>
+	<l id='540' part='f'>Laissez-nous seuls, et n'appréhendez rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Annibal, Nicomède. </head>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='541'>Seigneur, n'enviez point à ma reconnaissance</l>
+	<l id='542'>La gloire d'un départ qui fait votre assurance,</l>
+	<l id='543'>Et souffrez qu'en aveugle obéissant au Roi,</l>
+	<l id='544'>Je cherche à m'acquitter de ce que je vous dois.</l>
+	<l id='545'>À moins oser pour vous, je ferais mal connaître</l>
+	<l id='546'>L'heureux fruit des leçons de mon illustre Maître,</l>
+	<l id='547'>Et que c'est sous lui seul que l'on peut à son choix</l>
+	<l id='548'>Apprendre les vertus les plus dignes des Rois.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='549'>Si mes faibles avis ont eu l'heur de vous plaire,</l>
+	<l id='550'>Ce me doit être, Prince, une gloire trop chère,</l>
+	<l id='551'>Pour pouvoir consentir que mes fiers Ennemis</l>
+	<l id='552'>Me dérobent l'effet que je m'en suis promis.</l>
+	<l id='553' part='i'>Vous n'irez point à Rome.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='553' part='f'>Ah, Seigneur, prenez garde...</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='554'>Ne vous alarmez point de ce qui me regarde.</l>
+	<l id='555'>Je sais par où je puis tourner l'esprit du Roi,</l>
+	<l id='556' part='i'>J'en réponds.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='556' part='m'>Mais, Seigneur...</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='556' part='f'>De grâce, écoutez-moi.</l>
+	<l id='557'>J'eus toujours pour vous, Prince, une tendresse extrême,</l>
+	<l id='558'>Et vous considérant comme un autre moi-même,</l>
+	<l id='559'>Je croirais démentir un zèle si parfait,</l>
+	<l id='560'>Si je vous déguisais le dessein que j'ai fait.</l>
+	<l id='561'>Mon coeur vous est connu ; vous savez qu'il n'aspire</l>
+	<l id='562'>Qu'à braver des Romains le fastueux empire,</l>
+	<l id='563'>Et qu'il n'est point d'efforts qu'il ne se soit permis,</l>
+	<l id='564'>Pour lui pouvoir partout faire des Ennemis.</l>
+	<l id='565'>Je n'ai pas cherché loin ; leurs dures violences</l>
+	<l id='566'>Se plaisant à choquer les plus vastes Puissances,</l>
+	<l id='567'>Assez de Potentats ont voulu rejeter</l>
+	<l id='568'>L'odieux joug des fers qu'on les force à porter.</l>
+	<l id='569'>Mais quoi que de ce joug l'indignité les gêne,</l>
+	<l id='570'>Leur courage trop mol secondant mal leur haine,</l>
+	<l id='571'>J'ai vu ces fiers Tyrans impuissamment haïs</l>
+	<l id='572'>Triompher jusqu'ici de mes desseins trahis.</l>
+	<l id='573'>Par une défiance et basse et trop couverte</l>
+	<l id='574'>Antiochus lui-même ayant causé sa perte,</l>
+	<l id='575'>J'ai choisi cette cour, et je m'étais flatté</l>
+	<l id='576'>D'y trouver moins d'ombrage, et plus de fermeté.</l>
+	<l id='577'>L'accueil de Prusias, ses offres, mes services,</l>
+	<l id='578'>D'un fort attachement m'étaient de leurs indices,</l>
+	<l id='579'>Les plus hardis projets m'enflaient déjà le coeur ;</l>
+	<l id='580'>Mais je vois tout à coup qu'un Romain lui fait peur.</l>
+	<l id='581'>Quand il peut plus lui seul que trente Rois ensemble,</l>
+	<l id='582'>Au seul nom du Sénat, il s'intimide, il tremble.</l>
+	<l id='583'>Il fait plus, et craignant l'effet de mes desseins,</l>
+	<l id='584'>Pour m'empêcher d'oser, il vous livre aux Romains.</l>
+	<l id='585'>Prince, j'apprends par là ce qu'il faut que je fasse</l>
+	<l id='586'>Je trouve une autre main quand la sienne se lasse,</l>
+	<l id='587'>Attale me reçoit ; prêt à s'unir à moi</l>
+	<l id='588'>Sans craindre mes Tyrans il me donne sa foi,</l>
+	<l id='589'>Il épouse ma Fille, et c'en est là le gage.</l>
+	<l id='590'>Ainsi vous n'aurez plus à leur servir d'otage,</l>
+	<l id='591'>Et mon départ trompant un ordre rigoureux,</l>
+	<l id='592'>Vous laissera paisible, et Prusias heureux.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='593'>Vous perdre est un malheur que mérite mon Père ;</l>
+	<l id='594'>Mais savez-vous, Seigneur, ce que vous allez faire ?</l>
+	<l id='595'>Je meurs par cet hymen s'il se doit achever,</l>
+	<l id='596'>Et vous m'assassiner en me voulant sauver.</l>
+	<l id='597'>Ah, pourquoi si longtemps ma trop timide flamme</l>
+	<l id='598'>S'est-elle par respect renfermée en mon âme ?</l>
+	<l id='599'>Mais quoi, mille devoirs, mille soins empressés,</l>
+	<l id='600'>Mes soupirs, mes langueurs, vous en ont dit assez.</l>
+	<l id='601'>Combien m'avez-vous vu pour la charmante Élise...</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='602'>Oui, Prince, il ne faut point que je vous le déguise.</l>
+	<l id='603'>J'ai connu votre amour, et comme il m'a fait voir</l>
+	<l id='604'>Que ma haine pour Rome a sur vous plein pouvoir,</l>
+	<l id='605'>Charmé des sentiments que vous prenez contre elle,</l>
+	<l id='606'>J'en voudrais par mon sang reconnaître le zèle ;</l>
+	<l id='607'>Mais quoi que pour vos feux il puisse m'inspirer,</l>
+	<l id='608'>Vous me connaissez trop pour en rien espérer.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='609'>Pour en rien espérer ! Ah, Seigneur, par quel crime</l>
+	<l id='610'>Ai-je pu mériter de perdre votre estime ?</l>
+	<l id='611'>À quoi que vos souhaits puissent être attachés,</l>
+	<l id='612'>N'avez-vous pas en moi tout ce que vous cherchez ?</l>
+	<l id='613'>Trouverez-vous ailleurs une âme plus fidèle,</l>
+	<l id='614'>Plus de respect pour vous, plus d'ardeur, plus de zèle,</l>
+	<l id='615'>Et si de votre haine il faut prendre la loi,</l>
+	<l id='616'>Détester vos Tyrans, qui les hait plus que moi ?</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='617'>Je dois vous l'avouer ; j'ai beau chercher une âme</l>
+	<l id='618'>Que du solide honneur l'intérêt seul enflamme.</l>
+	<l id='619'>Ce n'est qu'abaissement dans tout ce que je vois,</l>
+	<l id='620'>Et quand je vous compare avec nos plus grands Rois,</l>
+	<l id='621'>Dans le faible honteux qu'ils laissent tous paraître,</l>
+	<l id='622'>Je ne vois que vous seul qui méritiez de l'être.</l>
+	<l id='623'>Mais pour moi ce mérite est un bien imparfait,</l>
+	<l id='624'>C'est peu qu'en être digne, il faut l'être en effet.</l>
+	<l id='625'>Vous dépendez d'un Père ombrageux, politique,</l>
+	<l id='626'>Jeune encor, défiant, qui craint la République.</l>
+	<l id='627'>Vous avez le coeur grand, ferme, résolu, chaud,</l>
+	<l id='628'>Prompt, hardi ; cependant c'est un Roi qu'il me faut,</l>
+	<l id='629'>Un puissant Allié qui brûlant de me suivre,</l>
+	<l id='630'>Se serve des moments qui me restent à vivre.</l>
+	<l id='631'>Je n'en ai point à perdre, et dans l'âge où je suis</l>
+	<l id='632'>C'est à moi de presser la fin de mes ennuis.</l>
+	<l id='633'>Perdre un jour, sans chercher à remplir ma vengeance,</l>
+	<l id='634'>Ce serait avec Rome être d'intelligence.</l>
+	<l id='635'>Je dois à sa ruine un éternel effort,</l>
+	<l id='636'>Et rien ne me pourrait consoler de ma mort,</l>
+	<l id='637'>Si j'avais négligé de tout mettre en usage</l>
+	<l id='638'>Pour lui faire sentir ce qu'a souffert Carthage.</l>
+	<l id='639'>J'aime votre personne, et le Ciel m'est témoin</l>
+	<l id='640'>Que peut-être amitié n'alla jamais plus loin ;</l>
+	<l id='641'>Mais quoi que je l'éprouve aussi tendre que forte,</l>
+	<l id='642'>Je ne puis vous cacher que la haine l'emporte,</l>
+	<l id='643'>Et que l'une à mon coeur ne peut faire oublier</l>
+	<l id='644'>Ce qu'aux transports de l'autre il doit sacrifier.</l>
+	<l id='645'>Je vous aime depuis que j'ai su vous connaître</l>
+	<l id='646'>Mais je hais les Romains même avant que de naître.</l>
+	<l id='647'>À peine au jour encor j'avais ouvert les yeux,</l>
+	<l id='648'>Que j'en jurai la perte en présence des Dieux.</l>
+	<l id='649'>À ces nobles serments j'ai sans réserve aucune</l>
+	<l id='650'>Immolé biens, honneurs, repos, gloire, fortune.</l>
+	<l id='651'>J'ai vu sans démentir ce que j'avais promis,</l>
+	<l id='652'>Et ma Patrie ingrate, et les Dieux Ennemis.</l>
+	<l id='653'>Jugez si l'amitié pourrait sans infamie</l>
+	<l id='654'>Triompher d'une haine à ce point affermie,</l>
+	<l id='655'>Et faire négliger à ses transports mourants</l>
+	<l id='656'>L'heureuse occasion d'abaisser mes Tyrans.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='657'>Eh, plût aux Dieux, Seigneur, que pour flatter ma peine</l>
+	<l id='658'>Vous connussiez l'amour aussi bien que la haine,</l>
+	<l id='659'>Ou que vous jugeassiez de cette passion</l>
+	<l id='660'>Par les brûlants transports de votre aversion !</l>
+	<l id='661'>Vous verriez une force égale en l'une et l'autre,</l>
+	<l id='662'>Que mon coeur n'est pas moins enflammé que le vôtre,</l>
+	<l id='663'>Et que les tendres feux qu'il renferme au-dedans,</l>
+	<l id='664'>Pour être un peu plus doux, n'en sont pas moins ardents.</l>
+	<l id='665'>Vous verriez que ce coeur ne vit que pour Élise,</l>
+	<l id='666'>Qu'il immole à ses pieds repos, gloire, franchise.</l>
+	<l id='667'>Et... pardonnez, Seigneur, à ce transport jaloux,</l>
+	<l id='668'>J'ai pensé dire encor, tout ce qu'il sent pour vous.</l>
+	<l id='669'>Non, non, quelques rigueurs dont vous payiez mon zèle,</l>
+	<l id='670'>Ne craignez rien de moi, je vous serai fidèle,</l>
+	<l id='671'>Et périrai plutôt que de rendre suspect</l>
+	<l id='672'>Ce qu'au grand Annibal j'ai juré de respect.</l>
+	<l id='673'>Trop heureux, si mourant pour ne lui pas déplaire,</l>
+	<l id='674'>J'apprends qu'il daigne plaindre un feu qu'il désespère,</l>
+	<l id='675'>Et voir dans ce moment d'un regard de pitié,</l>
+	<l id='676'>Ce que par moi l'amour immole à l'amitié.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='677'>Ah, Prince, c'en est trop, cachez-moi tant de zèle.</l>
+	<l id='678'>Ma haine à vous ouïr déjà presque chancelle,</l>
+	<l id='679'>Et jamais les Romains pour fléchir mon courroux</l>
+	<l id='680'>N'eurent un Partisan plus à craindre que vous.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='681'>Votre haine pour eux ne peut être assez fière.</l>
+	<l id='682'>Je ne l'attaque point, gardez-la toute entière ;</l>
+	<l id='683'>Mais si vous ne cherchez à me priver du jour,</l>
+	<l id='684'>Suspendez-en l'effet en faveur de l'amour.</l>
+	<l id='685'>Flaminius nous quitte, et Prusias peut-être</l>
+	<l id='686'>N'attend que son départ pour se faire connaître,</l>
+	<l id='687'>Pour vous laisser de Rome affranchir son État.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='688'>Et c'est dans ce dessein qu'il vous livre au Sénat ?</l>
+	<l id='689'>Je veux bien lui parler, et d'un honteux voyage</l>
+	<l id='690'>Par mes soins, s'il se peut, vous épargner l'outrage.</l>
+	<l id='691'>Je puis remettre Attale, et n'engager ma foi</l>
+	<l id='692'>Qu'après que Prusias... Laissez-nous, je le vois.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Prusias, Annibal, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='693'>Et bien, Seigneur, enfin me rendrez-vous justice</l>
+	<l id='694'>Ai-je fait aux Romains un honteux sacrifice,</l>
+	<l id='695'>Et leur Flaminius que j'éloigne de nous,</l>
+	<l id='696'>Vous répond-il assez que mon coeur est à vous ?</l>
+	<l id='697'>Vous restez dans ma Cour, et je vous tiens parole.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='698'>Je vois qu'il s'est flatté d'une attente frivole,</l>
+	<l id='699'>Et vous vois d'autant plus, Seigneur, qu'en vain par lui</l>
+	<l id='700'>Rome a tout employé pour m'ôter votre appui.</l>
+	<l id='701'>Résister un moment à cette Souveraine,</l>
+	<l id='702'>C'est se mettre au hasard de mériter sa haine ;</l>
+	<l id='703'>Et l'horreur du péril où vous courez pour moi,</l>
+	<l id='704'>Avait de quoi sans doute ébranler votre foi.</l>
+	<l id='705'>Mais quand pour Annibal vous montrez tant de zèle,</l>
+	<l id='706'>Faisant beaucoup pour lui, faites-vous moins pour elle ?</l>
+	<l id='707'>Vainqueur de toutes parts, il ne faut qu'un Romain</l>
+	<l id='708'>Pour vous faire tomber les armes à la main</l>
+	<l id='709'>Un seul mot, plus puissant que foudres ni tempêtes,</l>
+	<l id='710'>Vous arrache aussitôt le fruit de vos conquêtes,</l>
+	<l id='711'>Dans vos plus sûrs progrès vous arrête le bras,</l>
+	<l id='712'>Agrandit vos Voisins, resserre vos États,</l>
+	<l id='713'>Et vous fait renoncer, au gré de ses caprices,</l>
+	<l id='714'>À tout ce que pour vous avaient pu mes services.</l>
+	<l id='715'>Ainsi par un effort digne de sang Royal,</l>
+	<l id='716'>En dépit des Romains vous gardez Annibal,</l>
+	<l id='717'>Et par une faiblesse indigne d'un grand homme,</l>
+	<l id='718'>En dépit d'Annibal vous cédez tout à Rome.</l>
+	<l id='719'>Fixez, fixez, Seigneur, cette douteuse foi.</l>
+	<l id='720'>Déclarez-vous entier ou pour elle ou pour moi.</l>
+	<l id='721'>Accorder Annibal avec la République,</l>
+	<l id='722'>Passe tous les ressorts  de votre Politique.</l>
+	<l id='723'>Jamais de tant d'Amis vous ne viendrez à bout,</l>
+	<l id='724'>Et c'est n'en faire point que d'en chercher partout.</l>
+	<l id='725'>Vous me tenez parole et vous en faites gloire.</l>
+	<l id='726'>Seigneur, parlons sans feindre, ai-je lieu de le croire ?</l>
+	<l id='727'>Quand vous tremblez de rompre avec mes Ennemis,</l>
+	<l id='728'>Qu'est devenu l'orgueil que vous m'aviez promis ?</l>
+	<l id='729'>Est-ce afin de régner avec indépendance</l>
+	<l id='730'>Que vous mettez demain le Prince en leur puissance,</l>
+	<l id='731'>Ou par quelque dessein dont nous verrons l'éclat,</l>
+	<l id='732'>Va-t-il comme Espion amuser le Sénat ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='733'>Jugez par là, Seigneur, si mon zèle est extrême.</l>
+	<l id='734'>Je cherche à détourner vos malheurs sur moi-même ;</l>
+	<l id='735'>Et pour vous soutenir contre vos Ennemis,</l>
+	<l id='736'>Me garder tout à vous, je leur livre mon Fils.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='737'>Et pourquoi vous soumettre à l'affront volontaire</l>
+	<l id='738'>De recevoir la loi quand vous la pouviez faire ?</l>
+	<l id='739'>Toute l'Asie émue, et presque sous vos lois,</l>
+	<l id='740'>Craignait en vous déjà le plus grand de ses rois.</l>
+	<l id='741'>Après Eumène mort et son débris funeste,</l>
+	<l id='742'>Cent mille bras armés vous promettaient le reste,</l>
+	<l id='743'>Et ce qui flatterait un coeur entreprenant,</l>
+	<l id='744'>Vous aviez Annibal pour votre Lieutenant.</l>
+	<l id='745'>C'était, c'était alors que l'honneur, que la gloire,</l>
+	<l id='746'>Quoi qu'il vous fît oser, vous portaient à le croire.</l>
+	<l id='747'>Ces serments qu'il reçut contre l'orgueil Romain,</l>
+	<l id='748'>Il fallait les tenir les armes à la main.</l>
+	<l id='749'>Où pourrez-vous jamais, pour venger vos outrages,</l>
+	<l id='750'>Recouvrer à la fois de pareils avantages ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='751'>Ils étaient grands sans doute avec un tel secours,</l>
+	<l id='752'>Mais pour espérer vaincre on ne vainc pas toujours,</l>
+	<l id='753'>Souvent l'occasion y fait plus que le nombre.</l>
+	<l id='754'>Les plus grands corps, Seigneur, produisent le plus d'ombre,</l>
+	<l id='755'>Et si faisant la paix j'ai rendu des États,</l>
+	<l id='756'>Voyez si j'avais lieu de ne le faire pas.</l>
+	<l id='757'>Je voyais en Syrie, en Macédoine, en Grèce,</l>
+	<l id='758'>Les Peuples abattus, tremblants, pleins de faiblesse,</l>
+	<l id='759'>Philippe était défait, Antiochus détruit,</l>
+	<l id='760'>Et partout les Romains triomphaient à grand bruit.</l>
+	<l id='761'>De tant d'heureux succès leurs légions trop fières</l>
+	<l id='762'>Cherchaient à leurs exploits de nouvelles matières,</l>
+	<l id='763'>Et si j'eusse trop haut porté le nom de Roi,</l>
+	<l id='764'>Toutes se ramassant allaient fondre sur moi.</l>
+	<l id='765'>Seul à tant d'ennemis ne pouvant faire tête,</l>
+	<l id='766'>Par une fausse paix j'écarte la tempête ;</l>
+	<l id='767'>Pour trouver les Romains à vaincre plus aisés,</l>
+	<l id='768'>J'attends par quelque guerre à les voir divisés.</l>
+	<l id='769'>Cependant du Sénat dont je crains la puissance,</l>
+	<l id='770'>Lui commettant mon Fils, j'acquiers la confiance,</l>
+	<l id='771'>Pour voir Attale à moi je le rends mon égal,</l>
+	<l id='772'>Fais des Amis partout, et retiens Annibal.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='773'>Ces projets déguisés dont votre âme est charmée</l>
+	<l id='774'>Marquent une prudence et rare et consommée ;</l>
+	<l id='775'>Mais pardonnez, Seigneur, si je ne puis cacher</l>
+	<l id='776'>Qu'en vous coûtant un Fils ils vous coûtent trop cher.</l>
+	<l id='777'>L'envoyer au Sénat, c'est lui donner un gage</l>
+	<l id='778'>Du plus injurieux et servile esclavage.</l>
+	<l id='779'>C'est vous assujettir à tout ce que de vous</l>
+	<l id='780'>Il plaira d'ordonner à ses soupçons jaloux.</l>
+	<l id='781'>C'est vouloir, sans que rien le rende nécessaire,</l>
+	<l id='782'>Ce que tout détrôné Philippe eut peine à faire.</l>
+	<l id='783'>Enfin, Seigneur, enfin, c'est me lier les mains,</l>
+	<l id='784'>M'ôter l'entier pouvoir d'attaquer les Romains,</l>
+	<l id='785'>Ou leur donner sur vous par où venger sans peine</l>
+	<l id='786'>Tous les maux que sur eux doit répandre ma haine.</l>
+	<l id='787'>Et je consentirais à rester à ce prix ?</l>
+	<l id='788'>Non, non, je vous dois trop pour perdre votre Fils ;</l>
+	<l id='789'>Mais aussi trop d'ardeur à ma vengeance est due</l>
+	<l id='790'>Pour souffrir qu'aucun temps en borne l'étendue.</l>
+	<l id='791'>Je satisfais à tout en m'éloignant d'ici,</l>
+	<l id='792'>C'est par là que je puis vous tirer du souci.</l>
+	<l id='793'>Mon départ laissera le Prince en  assurance,</l>
+	<l id='794'>Ma haine en liberté, Rome sans défiance.</l>
+	<l id='795' part='i'>Aussi souffrez, Seigneur...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='795' part='f'>Vouloir quitter un Roi</l>
+	<l id='796'>Qui ne réserve rien pour vous prouver sa foi,</l>
+	<l id='797'>Qui vous fait partager la puissance suprême,</l>
+	<l id='798'>Respecter dans la Cour à l'égal de lui-même,</l>
+	<l id='799' part='i'>Et pour votre repos...</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='799' part='f'>C'est me connaître mal.</l>
+	<l id='800'>Quoi, parler de repos pour moi, pour Annibal ?</l>
+	<l id='801'>Instruit de ses travaux, avez-vous lieu de croire</l>
+	<l id='802'>Qu'à s'exiler soi-même il aurait mis sa gloire,</l>
+	<l id='803'>Pour venir en ces lieux, démentant sa fierté,</l>
+	<l id='804'>Languir dans une ingrate, et lâche oisiveté ?</l>
+	<l id='805'>Si l'ardeur du repos eût touché mon envie,</l>
+	<l id='806'>J'aurais vécu, Seigneur, au sein de ma Patrie,</l>
+	<l id='807'>Et joui des honneurs dont le traité de paix</l>
+	<l id='808'>Laissait parmi les miens le choix à mes souhaits ;</l>
+	<l id='809'>Mais Rome, pour avoir triompher de Carthage,</l>
+	<l id='810'>N'avait pas d'Annibal surmonté le courage.</l>
+	<l id='811'>L'Afrique n'osant plus lui faire d'Ennemis,</l>
+	<l id='812'>Pour l'attaquer d'ailleurs il se croit tout permis,</l>
+	<l id='813'>Et son Pays n'a point de douceur qui l'entraîne,</l>
+	<l id='814'>Lorsque pour les Romains il n'y voit plus de haine.</l>
+	<l id='815'>Voilà ses sentiments, réglez-vous là-dessus.</l>
+	<l id='816'>Le Prince doit partir, les ordres sont reçus,</l>
+	<l id='817'>Faites-les révoquer, ou sans vous en plus dire</l>
+	<l id='818'>Chez Attale demain, Seigneur, je me retire.</l>
+	<l id='819'>J'attends votre réponse, et vous laisse y rêver.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Prusias, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='820'>À quoi le Ciel encor me veut-il réserver ?</l>
+	<l id='821'>Pour garder Annibal en faveur de ma flamme,</l>
+	<l id='822'>J'ose exiler mon Fils, j'en accepte le blâme,</l>
+	<l id='823'>Et contre mon attente, un intérêt fatal,</l>
+	<l id='824'>Si j'éloigne ce Fils, fait partir Annibal.</l>
+	<l id='825'>Voyons Flaminius, l'infortune est égale.</l>
+	<l id='826'>J'ai parlé contre un Fils, parlons-lui contre Attale,</l>
+	<l id='827'>Et ménageons si bien l'éclat de son courroux,</l>
+	<l id='828'>Qu'Annibal soit réduit à n'espérer qu'en nous.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Attale, Élise, Alcine. </head>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='829'>Qu'obtiendra mon respect ? Vous le voyez, Madame,</l>
+	<l id='830'>Je viens mettre à vos pieds mon espoir et ma flamme.</l>
+	<l id='831'>Si l'une a su borner mon espoir le plus doux,</l>
+	<l id='832'>Je ne puis consentir à l'autre malgré vous,</l>
+	<l id='833'>Et du plus heureux sort je fuirais l'assurance</l>
+	<l id='834'>S'il coûtait à vos voeux la moindre violence.</l>
+	<l id='835'>Ainsi quoi qu'Annibal m'ait permis d'espérer...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='836'>Vous l'avez déjà vu, faites-le déclarer,</l>
+	<l id='837'>Seigneur, ses ordres seuls règlent ma destinée,</l>
+	<l id='838'>Et sur les intérêts de ce grand hyménée,</l>
+	<l id='839'>Pourvu que ses désirs vers vous puissent pencher,</l>
+	<l id='840'>Ma joie ou mon chagrin vous doivent peu toucher.</l>
+	<l id='841'>Voyez bien seulement, avant que d'y prétendre,</l>
+	<l id='842'>Si vous vous connaissez digne d'être son Gendre.</l>
+	<l id='843'>Il n'est rien de plus fier que le sang d'Annibal.</l>
+	<l id='844'>S'il monte sur le Trône il obéira mal,</l>
+	<l id='845'>Et vos Maîtres du Monde à qui les Rois défèrent,</l>
+	<l id='846'>S'ils pensent l'asservir, n'ont pas ce qu'ils espèrent.</l>
+	<l id='847'>Là suivant de mon sort l'orgueilleux ascendant,</l>
+	<l id='848'>Ils me verront porter un coeur indépendant,</l>
+	<l id='849'>Un coeur résolu, ferme, et capable peut-être</l>
+	<l id='850'>De haïr un Époux s'il endurait un Maître.</l>
+	<l id='851'>Ne vous exposez point à l'affront de me voir</l>
+	<l id='852'>Maintenir malgré vous le suprême pouvoir,</l>
+	<l id='853'>Et si vous vous sentez et l'âme et le courage</l>
+	<l id='854'>Par de basses frayeur tournés à l'esclavage,</l>
+	<l id='855'>Renoncez à des noeuds qui pourraient vous trahir</l>
+	<l id='856'>Jusqu'à vous dérober la honte d'obéir.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='857'>Que Rome à sa fierté jamais m'assujettisse !</l>
+	<l id='858'>Que mon coeur se ravale à s'en faire complice,</l>
+	<l id='859'>Et qu'assis sur ce Trône où j'aspire à vous voir,</l>
+	<l id='860'>Je m'y laisse éblouir d'un titre sans pouvoir !</l>
+	<l id='861'>Madame, jugez mieux de l'ardeur qui m'enflamme.</l>
+	<l id='862'>L'orgueil d'un si beau feu répond d'une belle âme,</l>
+	<l id='863'>Et l'honneur de prétendre à vos divins appas,</l>
+	<l id='864'>Dans qui vous ose aimer ne souffre rien de bas.</l>
+	<l id='865'>Ainsi ne craignez point qu'aucune dépendance</l>
+	<l id='866'>Me fasse démentir les droits de ma naissance.</l>
+	<l id='867'>De l'éclat de mon rang ce coeur vraiment jaloux,</l>
+	<l id='868'>S'il doit prendre des lois, n'en prendra que de vous.</l>
+	<l id='869'>Sur lui, sur ses désirs, il vous fait souveraine.</l>
+	<l id='870'>C'est un Roi fier, hautain, dont vous êtes la Reine ;</l>
+	<l id='871'>Mais lorsqu'à votre empire il se rend si soumis,</l>
+	<l id='872'>De grâce, quel espoir lui laissez-vous permis ?</l>
+	<l id='873'>Croira-t-il qu'une ardeur et si tendre et si forte,</l>
+	<l id='874' part='i'>Touche assez vos désirs...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='874' part='f'>Seigneur, que vous importe ?</l>
+	<l id='875'>Si jamais vous avez le nom de mon Époux,</l>
+	<l id='876'>Je connais mon devoir, et c'est assez pour vous.</l>
+	<l id='877'>Sans égard à l'amour, de pareilles hyménées</l>
+	<l id='878'>Ne font que décider des grandes Destinées,</l>
+	<l id='879'>Et quand on voit par où bien remplir ce qu'on est,</l>
+	<l id='880'>Aimer ou n'aimer pas est un faible intérêt.</l>
+	<l id='881'>Il faut se mettre au rang des âmes trop communes</l>
+	<l id='882'>Pour laisser à l'amour balancer les Fortunes,</l>
+	<l id='883'>Et les charmes secrets qui suivent ses langueurs,</l>
+	<l id='884'>Sont des abaissements indignes des grands coeurs.</l>
+	<l id='885'>Le mien les connaît peu ; qu'Annibal vous choisisse,</l>
+	<l id='886'>Que de ma main pour vous il fasse un sacrifice,</l>
+	<l id='887'>Ce coeur fera soudain vanité d'obéir,</l>
+	<l id='888'>Mais bien moins pour aimer qu'afin de mieux haïr.</l>
+	<l id='889'>C'est le seul intérêt où ma gloire m'engage.</l>
+	<l id='890'>Voir un Roi craindre Rome irrite mon courage,</l>
+	<l id='891'>Et l'époux me plaira, dont l'intrépidité</l>
+	<l id='892'>M'offrira les moyens d'en braver la fierté.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='893'>Ah, que plutôt sur moi le sort le plus funeste...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='894'>J'aperçois Annibal, vous lui direz le reste.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Annibal, Attale. </head>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='895'>Seigneur, de quel espoir puis-je enfin me flatter ?</l>
+	<l id='896'>Mon coeur vous est offert, venez-vous l'accepter,</l>
+	<l id='897'>Et du grand Annibal ma flamme obtiendra-t-elle</l>
+	<l id='898'>Qu'une heureuse union soit le pris de mon zèle ?</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='899'>Il doit m'être bien doux de voir que mon malheur</l>
+	<l id='900'>À mes Amis pour moi laisse tant de chaleur.</l>
+	<l id='901'>D'un Prince tel que vous l'alliance m'honore ;</l>
+	<l id='902'>Mais de grâce, Seigneur, consultez-vous encore.</l>
+	<l id='903'>Le zèle qui paraît souvent le plus parfait,</l>
+	<l id='904'>Lorsque Rome a parlé, demeure sans effet,</l>
+	<l id='905'>Et si j'avais promis, je verrais avec peine</l>
+	<l id='906'>Qu'à me tenir parole on sentît quelque gêne.</l>
+	<l id='907'>Voyez Flaminius ; sur ce qu'il vous dira</l>
+	<l id='908'>Peut-être en votre coeur l'amour s'alentira.</l>
+	<l id='909'>Le grand nom d'Allié que le Sénat vous donne...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='910'>Pour disposer de moi prends-je loi de personne ?</l>
+	<l id='911'>Seigneur, j'en crois ma flamme, et ne consulte plus.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='912'>Vous vous expliquerez, voici Flaminius.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Flaminius, Annibal, Attale. </head>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS à Attale.</speaker>
+	<l id='913'>Seigneur, par le pouvoir qu'on m'a daigné commettre,</l>
+	<l id='914'>Jusque dans vos États j'aurais dû vous remettre,</l>
+	<l id='915'>Mais je vous vois partir trop bien accompagné,</l>
+	<l id='916'>Pour ne m'en croire pas le voyage épargné,</l>
+	<l id='917'>Et sur ce que j'apprends, j'aurais mauvaise grâce</l>
+	<l id='918'>De vous offrir encor un secours qui vous lasse.</l>
+	<l id='919'>On vous a mis au Trône, et cela vous suffit.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='920'>Je ne sais pas, Seigneur, ce que l'on vous a dit,</l>
+	<l id='921'>Mais ce que je vous dois m'assure trop de gloire</l>
+	<l id='922'>Pour souffrir que jamais j'en perde la mémoire.</l>
+	<l id='923'>Vous trouverez en moi toujours un zèle égal,</l>
+	<l id='924'>Et si dans mes États je reçois Annibal,</l>
+	<l id='925'>Comme j'agis partout d'un coeur franc et sincère,</l>
+	<l id='926'>Ce n'est pas un secret que je cherche à vous faire.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='927'>Dans le sein de la guerre ayant toujours vécu,</l>
+	<l id='928'>Il vous apprendra l'art de n'être plus vaincu,</l>
+	<l id='929'>Et quelques Ennemis qui pensent vous abattre,</l>
+	<l id='930'>Pour triompher d'abord, vous n'aurez qu'à combattre.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='931'>S'il n'apprend pas de moi l'art de vaincre aisément,</l>
+	<l id='932'>Il apprendra celui de fuir l'abaissement,</l>
+	<l id='933'>Et de rester toujours par un pouvoir suprême</l>
+	<l id='934'>Maître de son destin, malgré le Destin même.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='935'>De si grandes leçons ont de quoi faire bruit,</l>
+	<l id='936'>Le faste m'en plairait, mais j'en craindrais le fruit,</l>
+	<l id='937'>Et si je l'ose dire, Antiochus peut-être</l>
+	<l id='938'>Se serait bien passé de vous avoir pour Maître.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='939'>Pour peu qu'en mes leçons il se fût affermi,</l>
+	<l id='940'>Il vous eût mis en tête un fâcheux Ennemi ;</l>
+	<l id='941'>Mais son insuffisance à les mettre en usage</l>
+	<l id='942'>Vous a vendu sa gloire, et livré son courage.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='943'>Leur pratique est en vous ce qu'il faut admirer.</l>
+	<l id='944'>De Royaume en Royaume elle vous fait errer,</l>
+	<l id='945'>Et chercher dans l'exil tout ce que l'on peut croire</l>
+	<l id='946'>Que doive un grand courage au souci de sa gloire.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='947'>Cet exil qui déjà m'a fait voir tant d'États,</l>
+	<l id='948'>Vous coûte quelques soins que vous ne dites pas,</l>
+	<l id='949'>Et pour tenir votre âme en tous lieux alarmée,</l>
+	<l id='950'>C'est beaucoup d'Annibal, et même sans armée.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='951'>On doit craindre en effet le bonheur qui le fuit.</l>
+<stage>À Attale. </stage>
+	<l id='952'>Mais faites-moi raison, Seigneur, d'un autre bruit</l>
+	<l id='953'>On dit que vous songez à faire Élise Reine.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL à Attale.</speaker>
+	<l id='954'>Que ma présence n'ait, Seigneur, rien qui vous gêne.</l>
+	<l id='955' part='i'>Vous savez que...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE à Annibal.</speaker>
+	<l id='955' part='f'>Seigneur, donnez-moi votre aveu,</l>
+	<l id='956'>Et l'hymen dès demain couronnera mon feu.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL à Flaminius.</speaker>
+	<l id='957'>Vous voyez que malgré les malheurs qu'on m'oppose,</l>
+	<l id='958'>L'honneur d'être mon Gendre est encor quelque chose.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='959'>Attale a fait sans doute un choix bien glorieux,</l>
+	<l id='960'>Mais s'il m'en voulait croire il y penserait mieux.</l>
+<stage>À Attale. </stage>
+	<l id='961'>Seigneur, souvenez-vous que si vous êtes Maître</l>
+	<l id='962'>Rome hait les ingrats, et le fera connaître.</l>
+	<l id='963'>Vous pouvez là-dessus écouter votre amour.</l>
+	<l id='964'>Prenez pour y songer le reste de ce jour,</l>
+	<l id='965'>Pour ne vous perdre pas ma bonté vous le donne.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='966'>Pour moi, j'ignore l'art de contraindre personne,</l>
+	<l id='967'>Et sans m'inquiéter de ce qu'il résoudra</l>
+	<l id='968'>Je lui laisse à son choix tout le temps qu'il voudra.</l>
+	<l id='969'>Au moins suis-je assuré que par mon alliance</l>
+	<l id='970'>Il craindra peu l'affront de trahir sa naissance,</l>
+	<l id='971'>Et que jamais l'exil d'un homme tel que moi</l>
+	<l id='972'>N'aura rien dont l'éclat fasse rougir un Roi.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='973'>Vous avez le coeur haut, le bel orgueil y règne.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='974'>Assez pour empêcher qu'aucun Roi ne vous craigne,</l>
+	<l id='975'>Et si de Prusias mes conseils sont suivis,</l>
+	<l id='976'>Rome attendra longtemps qu'il vous livre son Fils,</l>
+	<l id='977'>Le voir trop s'abaisser sous votre tyrannie</l>
+	<l id='978'>Est tout ce qui me peut chasser de Bithynie.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Annibal, Prusias, Flaminius, Attale, Araxe. </head>
+<sp who='ANNIBAL'><speaker>ANNIBAL à Prusias.</speaker>
+	<l id='979'>Parlez, Seigneur, enfin qu'avez-vous résolu ?</l>
+	<l id='980'>Votre Rome aura-t-elle un pouvoir absolu ?</l>
+	<l id='981'>Obligez-vous le Prince à faire le voyage ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='982'>La paix qu'elle nous donne à ce devoir m'engage,</l>
+	<l id='983'>Mon fils d'un tel honneur a lieu d'être jaloux.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='984' part='i'>Il me suffit.</l>
+<stage>À Attale. </stage>
+	<l id='984' part='f'>Demain je pars avecque vous.</l>
+	<l id='985'>Seigneur, délibérez, vous avez ma réponse.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Flaminius, Prusias, Attale, Araxe. </head>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='986'>C'est donc ainsi qu'Attale à ses Amis renonce ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='987'>Je connais mal, Seigneur, par où j'ai mérité</l>
+	<l id='988'>Un reproche si dur à ma fidélité.</l>
+	<l id='989'>L'ardeur qui la soutient le rend peu légitime,</l>
+	<l id='990'>Je reçois Annibal, mais ce n'est pas un crime,</l>
+	<l id='991'>Ou vers Rome par là si je noircis ma foi,</l>
+	<l id='992'>Croirez-vous Prusias moins coupable que moi ?</l>
+	<l id='993'>D'Antiochus à peine il apprit la défaite,</l>
+	<l id='994'>Qu'à ce même Annibal il accorda retraite,</l>
+	<l id='995'>Le reçut tout fumant de ce fameux débris.</l>
+	<l id='996'>Cependant ce qu'il fit blessa-t-il les esprits ?</l>
+	<l id='997'>Vous parut-il suspect de pratiques secrètes ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='998'>Je ne condamne rien au projet que vous faites ;</l>
+	<l id='999'>Mais assez de couleurs pourraient le palier,</l>
+	<l id='1000'>Sans chercher mon exemple à vous justifier.</l>
+	<l id='1001'>Antiochus défait, Annibal pouvait nuire,</l>
+	<l id='1002'>Trouver quelque autre Roi qui s'en laissât séduire.</l>
+	<l id='1003'>J'étais maître en ma Cour de son ressentiment.</l>
+	<l id='1004'>Ainsi je le reçus, mais sans attachement,</l>
+	<l id='1005'>Et l'on me voit pour Rome une foi trop sincère,</l>
+	<l id='1006'>Pour douter des motifs de ce que j'osai faire.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1007'>Ce zèle si vanté dont vous êtes jaloux,</l>
+	<l id='1008'>N'est pas moins fort en moi qu'il pourrait l'être en vous.</l>
+	<l id='1009'>Et quand vers Annibal ma parole m'engage,</l>
+	<l id='1010'>Rome n'a pas plus lieu d'en prendre de l'ombrage.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1011'>Son asile était sûr, vous l'y pouviez laisser.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1012'>Vous voyez toutefois qu'il y veut renoncer,</l>
+	<l id='1013'>Et que dans votre foi le vif éclat qui brille</l>
+	<l id='1014' part='i'>Ne saurait...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1014' part='f'>Mais enfin vous épousez sa Fille ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1015'>Je n'avais pas prévu que contre le Sénat</l>
+	<l id='1016'>Disposer de mon coeur dût être un attentat.</l>
+	<l id='1017'>Pour Élise, il est vrai, l'amour me sollicite,</l>
+	<l id='1018'>Mais de quoi m'accuser lorsque je vous imite ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1019'>Quoi, l'on me voit prétendre au nom de son Époux ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1020'>Non, Seigneur, ce soupçon ne tombe point sur vous.</l>
+	<l id='1021'>L'hymen vous siérait mal, et dans l'âge où vous êtes,</l>
+	<l id='1022'>Aux tendres passions peu d'âmes sont sujettes ;</l>
+	<l id='1023'>Mais lorsque d'Annibal vous vous fîtes l'appui,</l>
+	<l id='1024'>Vous vouliez seulement vous assurez de lui,</l>
+	<l id='1025'>Prévenir ce qu'ailleurs il pouvait entreprendre.</l>
+	<l id='1026'>Par un zèle aussi pur je veux être son Gendre,</l>
+	<l id='1027'>Et l'empêcher de mettre en de mauvaises mains</l>
+	<l id='1028'>Un dépôt, dont la garde est utile aux Romains.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1029'>J'ai voulu vous laisser par ces raisons frivoles</l>
+	<l id='1030'>Étaler votre esprit, et perdre des paroles.</l>
+	<l id='1031'>Mais enfin, moi présent, et sans m'en consulter,</l>
+	<l id='1032'>On vous offre une main, vous osez l'accepter ?</l>
+	<l id='1033'>Vous osez à mes yeux, enflé du rang suprême,</l>
+	<l id='1034'>Trancher du Souverain, ordonner de vous-même,</l>
+	<l id='1035'>Et sans songer par qui Pergame est sous vos lois</l>
+	<l id='1036'>Votre amour prétend faire une Reine à son choix ?</l>
+	<l id='1037'>C'est donc là le respect que vous portez à Rome ?</l>
+	<l id='1038'>Ignorez-vous qu'un Roi chez elle n'est qu'un homme,</l>
+	<l id='1039'>Et que pour renverser les plus grands Potentats,</l>
+	<l id='1040'>Elle n'a tout à coup qu'à retirer le bras ?</l>
+	<l id='1041'>Ce Trône chancelant qu'allait sans résistance</l>
+	<l id='1042'>D'un Voisin redoutable entraîner la puissance,</l>
+	<l id='1043'>Vous l'a-t-elle remis, et rendu son égal,</l>
+	<l id='1044'>Afin de couronner la Fille d'Annibal ?</l>
+	<l id='1045'>Le titre d'Allié dont elle vous honore,</l>
+	<l id='1046'>Ne vaut pas se priver d'un Objet qu'on adore,</l>
+	<l id='1047'>Et cet honneur n'a rien que ne laisse terni</l>
+	<l id='1048'>Le nom rare et pompeux de Gendre d'un Banni ?</l>
+	<l id='1049'>N'en croyez que l'amour, et sans inquiétude</l>
+	<l id='1050'>Accordez tout contre elle à votre ingratitude.</l>
+	<l id='1051'>Le temps vous apprendra s'il vous était permis</l>
+	<l id='1052'>De vous unir contre elle avec ses Ennemis</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1053'>Touchant quelque hauteur qui semble me confondre</l>
+	<l id='1054'>Je laisse à Prusias le soin de vous répondre,</l>
+	<l id='1055'>Seigneur, ce qu'il dira sera d'un plus grand poids.</l>
+	<l id='1056'>Il a part au mépris que vous faites des Rois,</l>
+	<l id='1057'>Et comme dès longtemps il sait ce que demande</l>
+	<l id='1058'>La Majesté du rang qu'il est beau qu'il défende,</l>
+	<l id='1059'>Il saura contre vous soutenir mieux que moi,</l>
+	<l id='1060'>Et la splendeur du Trône, et le titre de Roi.</l>
+	<l id='1061'>Au regard d'Annibal, et de l'hymen d'Élise,</l>
+	<l id='1062'>Avouant mon amour j'ai montré ma franchise ;</l>
+	<l id='1063'>Et s'il doit m'attirer les foudres du Sénat,</l>
+	<l id='1064'>Vous m'en donnez l'avis, j'en attendrai l'éclat.</l>
+	<l id='1065'>Voyez bien seulement si j'en paraîtrai digne</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Flaminius, Prusias, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1066'>N'épargnez point mon zèle en ce péril indigne.</l>
+	<l id='1067'>Après deux ans d'asile Annibal qui me fuit</l>
+	<l id='1068'>De ma fidélité me peut ravir le fruit,</l>
+	<l id='1069'>Vous troubler chez Attale ; et de cette entreprise</l>
+	<l id='1070'>J'empêcherais le coup en retenant Élise.</l>
+	<l id='1071'>Parlez, et dans ma Cour je la fais arrêter.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1072'>Votre amitié pour nous ne peut mieux éclater,</l>
+	<l id='1073'>Seigneur, et j'aurai soin que Rome soit instruite</l>
+	<l id='1074'>Du procédé d'Attale, et de votre conduite.</l>
+	<l id='1075'>Mais vous défendrez-vous d'admirer avec moi</l>
+	<l id='1076'>Jusqu'où l'orgueil du Trône enfle ce jeune Roi ?</l>
+	<l id='1077'>Pour l'empêcher d'aimer il n'est rien qui l'étonne.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1078'>On s'oublie aisément avec une Couronne.</l>
+	<l id='1079'>Il est jeune, et l'amour qu'anime la fierté,</l>
+	<l id='1080'>Va plus loin quelquefois que l'on n'a projeté.</l>
+	<l id='1081'>Ainsi voyez, Seigneur, ce que Rome hasarde</l>
+	<l id='1082' part='i'>À souffrir qu'Annibal...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1082' part='f'>C'est à quoi je prends garde ;</l>
+	<l id='1083'>Mais aussi je ne puis voir tout à coup perdus</l>
+	<l id='1084'>Les services qu'Attale au Sénat a rendus</l>
+	<l id='1085'>Eumène comme lui toujours ardent, fidèle,</l>
+	<l id='1086'>En cent occasions nous a marqué son zèle,</l>
+	<l id='1087'>Et Rome se plaindrait si contre ses souhaits</l>
+	<l id='1088'>Je rallumais la guerre où j'apportai la paix.</l>
+	<l id='1089'>C'est par là que d'un feu que suit un peu d'audace</l>
+	<l id='1090'>Attale a mérité que nous lui fassions grâce,</l>
+	<l id='1091'>Et que par trop d'aigreur nous ne l'exposions pas</l>
+	<l id='1092'>À prendre contre nous des sentiments ingrats.</l>
+	<l id='1093'>Son amour satisfait, sans doute il aura peine</l>
+	<l id='1094'>À vouloir faire tête à la grandeur Romaine,</l>
+	<l id='1095'>Et sur cet hyménée où je le vois porté,</l>
+	<l id='1096'>Sa foi nous répondra de sa sincérité.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1097'>Quoi, vous consentiriez à lui donner Élise ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1098'>C'est à quoi du Sénat l'intérêt m'autorise.</l>
+	<l id='1099'>Ne pouvant éviter qu'elle prenne un Époux</l>
+	<l id='1100'>Si je refuse Attale, où le choisirons-nous ?</l>
+	<l id='1101'>Par qui mieux que par lui pouvoir s'assurer d'elle ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1102'>Par moi, Seigneur, par moi dont vous savez le zèle,</l>
+	<l id='1103'>Et qui tout au Sénat, ne puis voir sans rougir</l>
+	<l id='1104'>Que je parle, et qu'un autre ait la gloire d'agir.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1105' part='i'>Que dites-vous, Seigneur ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1105' part='f'>Que pour vous être utile</l>
+	<l id='1106'>Je voulus qu'Annibal chez moi trouvât asile,</l>
+	<l id='1107'>Et qu'avec même ardeur, du même esprit poussé,</l>
+	<l id='1108'>J'achèverai pour vous ce que j'ai commencé.</l>
+	<l id='1109' part='i'>J'épouserai sa fille.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1109' part='f'>Ô digne effort d'un zèle</l>
+	<l id='1110'>Qui ne cherchant que Rome immole tout pour elle !</l>
+	<l id='1111'>Vous forcer à l'hymen ? Vous m'en voyez surpris.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1112'>Je sers la République, et j'en reçois le prix.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1113'>Non, non, elle doit trop à vos rares services</l>
+	<l id='1114'>Pour accepter de vous pareils sacrifices.</l>
+	<l id='1115'>Quoi qu'Annibal impute à ses justes rigueurs,</l>
+	<l id='1116'>Elle se connaît mal à contraindre les coeurs.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1117'>Le mien ne promet rien que ma foi n'accomplisse.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1118'>Un hymen sans amour est un trop dur supplice.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1119'>Jamais je n'en aurai la moindre repentir,</l>
+	<l id='1120' part='i'>Et pourvu...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1120' part='f'>Non, Seigneur, je n'y puis consentir,</l>
+	<l id='1121'>Aux intérêts de Rome Attale peut suffire.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1122'>Et bien ; j'aime, Seigneur, puisqu'il faut vous le dire,</l>
+	<l id='1123'>Jouissez d'un aveu qu'il vous plaît d'arracher.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1124'>Vous aimeriez Élise, et l'auriez pu cacher ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1125'>Jugez par cet effort si je vous suis fidèle.</l>
+	<l id='1126'>En vain mes yeux cent fois m'ont dit qu'elle était belle,</l>
+	<l id='1127'>En vain mon coeur surpris en a cru sa langueur,</l>
+	<l id='1128'>J'ai fait taire mes yeux, j'ai démenti mon coeur,</l>
+	<l id='1129'>Et ce m'était assez pour chercher à le faire,</l>
+	<l id='1130'>De songer qu'en aimant je pouvais vous déplaire.</l>
+	<l id='1131'>Mais enfin aujourd'hui que vous me faites voir</l>
+	<l id='1132'>Que cet amour n'a rien qui blesse mon devoir,</l>
+	<l id='1133'>Et que par un motif que Rome favorise,</l>
+	<l id='1134'>Je puis vous obliger en épousant Élise,</l>
+	<l id='1135'>Je rappelle des feux dont les charmes trop doux</l>
+	<l id='1136'>N'avaient été bannis que par respect pour vous.</l>
+	<l id='1137'>Votre intérêt soutient l'ardeur qui me consume,</l>
+	<l id='1138'>Lui seul l'avait éteinte, et lui seul la rallume.</l>
+	<l id='1139'>Accordez donc, Seigneur, à mes brûlants souhaits</l>
+	<l id='1140'>La gloire d'un hymen qui confirme la paix.</l>
+	<l id='1141'>Quelque flatteur appas que mon amour y voie,</l>
+	<l id='1142'>Montrer mon zèle à Rome est ma plus forte joie ;</l>
+	<l id='1143'>Et j'atteste les Dieux qu'en un si grand projet</l>
+	<l id='1144'>Tout mon coeur est pour elle, et n'a point d'autre objet.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1145'>Après tant de vertu Rome serait ingrate</l>
+	<l id='1146'>Si vos feux n'obtenaient l'heureux prix qui les flatte.</l>
+	<l id='1147'>Elle vous l'abandonne, et quand sans balancer</l>
+	<l id='1148'>Elle fait plus pour vous que vous n'osiez penser,</l>
+	<l id='1149'>Elle a quelque sujet d'espérer qu'un beau zèle</l>
+	<l id='1150'>Vous fera faire aussi quelque chose pour elle.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1151'>Lui devant tout, Seigneur, qu'aurais-je à refuser ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1152'>Ainsi de votre main vous pouvez disposer.</l>
+	<l id='1153'>Rome approuve l'ardeur dont votre âme est éprise ;</l>
+	<l id='1154'>Livrez-nous Annibal, elle vous donne Élise.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1155'>Vous livrer Annibal ! Ah, Seigneur, voulez-vous</l>
+	<l id='1156'>Me mettre en bute aux Dieux, m'attirer leur courroux ?</l>
+	<l id='1157'>Cent serments d'une foi sacrée, inviolable,</l>
+	<l id='1158'>De tant de trahison me laissent-ils capable ?</l>
+	<l id='1159'>Souffrent-ils que mon coeur ébloui de ses feux</l>
+	<l id='1160' part='i'>Ose...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1160' part='f'>Et quoi, Prusias, vous êtes scrupuleux ?</l>
+	<l id='1161'>Apprenez, apprenez, pour solides maximes,</l>
+	<l id='1162'>Que qui sert le Sénat ne peut faire de crimes,</l>
+	<l id='1163'>Et que de mille horreurs un forfait revêtu,</l>
+	<l id='1164'>Quand il est fait pour lui, doit passer pour vertu ;</l>
+	<l id='1165'>Que partout cette gloire est la seule qu'on prise.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1166'>Et par où cependant gagner le coeur d'Élise ?</l>
+	<l id='1167'>Mettre en votre pouvoir ce qu'elle a de plus cher,</l>
+	<l id='1168'>Sera-ce le moyen, Seigneur, de la toucher ?</l>
+	<l id='1169'>Obtiendrai-je par là que son amour s'explique ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1170'>C'est ne voir guère loin pour un grand Politique.</l>
+	<l id='1171'>Sans livrer Annibal laissez-nous l'enlever.</l>
+	<l id='1172'>Envoyez après nous comme pour le sauver,</l>
+	<l id='1173'>Flattez Élise ensuite, armez pour son offense,</l>
+	<l id='1174'>Et recevez sa main pour prix de sa vengeance.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1175'>Maîtres de tant de Rois, soumis, obéissants,</l>
+	<l id='1176'>Craignez-vous d'un Vieillard les destins impuissants ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1177'>Quoi, nous vous laisserons au pouvoir d'une Femme,</l>
+	<l id='1178'>Dont la haine à son gré saura tourner votre âme ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1179'>Si cet hymen vous porte à soupçonner ma foi,</l>
+	<l id='1180'>N'aurez-vous pas mon Fils qui répondra de moi ?</l>
+	<l id='1181'>Vous en puis-je donner de gage plus sincère ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1182'>Non, si c'était un Fils que vous vissiez en Père ;</l>
+	<l id='1183'>Mais ce Fils aime Élise, et vos transports jaloux</l>
+	<l id='1184'>Le livrent aux Romains moins pour eux que pour vous.</l>
+	<l id='1185'>J'ai les yeux bien ouverts, et sans vous en rien dire,</l>
+	<l id='1186'>Je vois depuis longtemps à quoi votre âme aspire.</l>
+	<l id='1187'>Ainsi dans votre Cour gardez votre Rival,</l>
+	<l id='1188'>Nous vous rendons le Prince, il nous faut Annibal.</l>
+	<l id='1189'>Ce n'est qu'à ce prix seul que l'on obtient Élise.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1190'>Me souiller par l'horreur d'une telle entreprise ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1191'>Ces scrupules sont beaux, mais craignez que pour nous</l>
+	<l id='1192'>Attale plus zélé n'en n'ait pas tant que vous.</l>
+	<l id='1193'>Il aime, et vos refus obligeront sa flamme.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1194'>Attale, quoi qu'il aime, a trop de fierté d'âme,</l>
+	<l id='1195'>Et bien loin que pour lui le crime ait quelque appas...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1196'>Son esprit m'est connu, ne vous y fiez pas,</l>
+	<l id='1197'>Je ne vous ai que trop observé l'un et l'autre.</l>
+	<l id='1198'>Son pouvoir en ce lieu se trouve égal au vôtre,</l>
+	<l id='1199'>Pareil nombre l'escorte, et pour ce grand dessein,</l>
+	<l id='1200'>Je voulais votre bras, j'emprunterai sa main.</l>
+	<l id='1201'>Rome après entre vous fera la différence.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1202'>Adieu, Seigneur, je vois Procule qui s'avance.</l>
+	<l id='1203'>Consultez avec lui si mon zèle et ma foi</l>
+	<l id='1204'>Ne peuvent mériter que l'on me traite en Roi</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Flaminius, Procule. </head>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1205'>Seigneur, sur un secret d'une importance extrême</l>
+	<l id='1206'>Un Soldat Phrygien veut s'ouvrir à vous-même.</l>
+	<l id='1207'>À trente pas d'ici je viens de le quitter,</l>
+	<l id='1208' part='i'>Il presse fort.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1208' part='f'>Allons, il le faut écouter.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Flaminius, Procule. </head>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1209'>Après quelque chagrin que faut-il que je croie</l>
+	<l id='1210'>De voir sur votre front éclater tant de joie ?</l>
+	<l id='1211'>Auriez-vous pu, Seigneur, ébranler Prusias ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1212'>J'étais embarrassé, je ne le cèle pas.</l>
+	<l id='1213'>Deux Rois épris d'amour me paraissaient à craindre ;</l>
+	<l id='1214'>En vain j'en murmurais, en vain j'osais me plaindre.</l>
+	<l id='1215'>Sur l'un d'eux par Élise Annibal pouvant tout</l>
+	<l id='1216'>De sa foi contre nous eût pu venir à bout.</l>
+	<l id='1217'>Une heureuse nouvelle a fait cesser ma peine,</l>
+	<l id='1218'>J'ai su du Phrygien la fausse mort d'Eumène.</l>
+</sp>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1219' part='i'>Eumène vit encor ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1219' part='f'>Cette lettre est de lui.</l>
+	<l id='1220'>Par elle contre Attale il cherche mon appui,</l>
+	<l id='1221'>Et doutant que ce Frère aisément abandonne</l>
+	<l id='1222'>Les flatteuses douceurs qui suivent la Couronne,</l>
+	<l id='1223'>Avant que de paraître, il m'exhorte à vouloir</l>
+	<l id='1224'>Essayer sur les Chefs ce que j'ai de pouvoir.</l>
+	<l id='1225'>J'ai vu les plus zélés qui ravis de connaître</l>
+	<l id='1226'>Qu'un sort inespéré leur rend leur premier Maître,</l>
+	<l id='1227'>Quoi que puisse ordonner ce jeune et nouveau Roi,</l>
+	<l id='1228'>M'ont promis en secret de n'obéir qu'à moi.</l>
+	<l id='1229'>Ainsi tous ses projets n'ont plus rien qui me gêne.</l>
+</sp>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1230'>Mais la mort de ce Frère avait paru certaine ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1231'>Sautant de bord en bord pour animer les siens</l>
+	<l id='1232'>Dans un Combat Naval contre les Rhodiens,</l>
+	<l id='1233'>Il reçut tant de coups qu'à force de blessures</l>
+	<l id='1234'>Son sang trouvant partout de larges ouvertures,</l>
+	<l id='1235'>Il tomba de faiblesse, et dans chaque Parti</l>
+	<l id='1236'>Par les flots en  tombant on le crut englouti.</l>
+	<l id='1237'>Cependant un Vaisseau qu'écarta la tempête</l>
+	<l id='1238'>Ravit aux Rhodiens cette illustre conquête,</l>
+	<l id='1239'>Et son bonheur fut tel que par un prompt secours,</l>
+	<l id='1240'>Sans le faire connaître, on prit soin de ses jours.</l>
+</sp>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1241' part='i'>C'est ce qu'Attale ignore ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1241' part='f'>Et ce qu'il faut lui taire</l>
+	<l id='1242'>Jusqu'au flatteur hymen que son amour espère.</l>
+	<l id='1243'>Permettre qu'Annibal remplisse cet espoir</l>
+	<l id='1244'>Ce sera lui donner un Gendre sans pouvoir,</l>
+	<l id='1245'>Qui se verra sans Trône, et dépendant d'Eumène</l>
+	<l id='1246'>Ne pourra soutenir qu'une impuissante haine.</l>
+	<l id='1247'>Annibal en nos mains serait à préférer,</l>
+	<l id='1248'>Mais en vain jusqu'ici j'ai voulu l'espérer.</l>
+	<l id='1249'>Prusias est trop mol, et son inquiétude</l>
+	<l id='1250'>Pour oser rien de ferme a trop d'incertitude.</l>
+	<l id='1251'>Attale à ce défaut d'Élise étant l'époux,</l>
+	<l id='1252' part='i'>Nous ôtera...</l>
+</sp>
+<sp who='PROCULE'><speaker>PROCULE.</speaker>
+	<l id='1252' part='f'>Voyez qu'il s'avance vers vous.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Flaminius, Attale, Procule. </head>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1253'>Sans doute vous aurez d'une âme plus tranquille</l>
+	<l id='1254'>Examiné quel choix vous est le plus utile.</l>
+	<l id='1255' part='i'>Rome vaut bien...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1255' part='f'>Seigneur, je connais mon devoir,</l>
+	<l id='1256' part='i'>Et ce que j'ai pensé...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1256' part='f'>Je n'en veux rien savoir.</l>
+	<l id='1257'>La fierté qui tantôt soutenait votre flamme,</l>
+	<l id='1258'>M'a paru d'un coeur franc, digne d'une grande âme,</l>
+	<l id='1259'>Et fait voir d'autant mieux combien vous méritiez</l>
+	<l id='1260'>L'honneur d'être reçu parmi nos Alliés.</l>
+	<l id='1261'>Un nom si glorieux demande quelque grâce,</l>
+	<l id='1262'>Et comme on ne saurait blâmer la belle audace,</l>
+	<l id='1263'>J'excuse votre amour, et veux vous épargner</l>
+	<l id='1264'>Ce qu'il vous coûterait d'efforts à me gagner.</l>
+	<l id='1265'>Pour vous l'hymen d'Élise est un bien plein de charmes,</l>
+	<l id='1266'>Vous craigniez mes refus, n'en prenez plus d'alarmes,</l>
+	<l id='1267'>J'y consens, et vois trop qu'approuver vos desseins</l>
+	<l id='1268'>C'est mettre ce dépôt en de fidèles mains.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1269'>Cet heureux changement a de quoi me surprendre.</l>
+	<l id='1270'>Seigneur, à mon amour vous daignez donc vous rendre,</l>
+	<l id='1271'>Confier Annibal et sa haine à ma foi ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1272'>Rome sert qui l'honore ; elle vous a fait Roi,</l>
+	<l id='1273'>Et veut par cet hymen qu'elle rend légitime,</l>
+	<l id='1274'>Vous marquer mieux encor jusqu'où va son estime.</l>
+	<l id='1275'>Demeurez-lui fidèle, et n'oubliez jamais</l>
+	<l id='1276'>Qu'elle a toujours puni les ingrats qu'elle a faits.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1277'>Seigneur, j'aime la gloire, et c'est assez vous dire.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1278'>Pressons cet hyménée où votre flamme aspire.</l>
+	<l id='1279'>Dans le rang que je tiens c'est peu d'y consentir,</l>
+	<l id='1280'>J'en veux être témoin avant que de partir,</l>
+	<l id='1281'>Rome qui laissait vivre Annibal à Carthage,</l>
+	<l id='1282'>Lui peut souffrir chez vous ce paisible avantage.</l>
+	<l id='1283'>Ayez soin pour demain d'en préparer l'éclat ;</l>
+	<l id='1284'>Et pour vous, et pour moi j'en dois compte au Sénat.</l>
+	<l id='1285'>Cependant Prusias vous montre assez de zèle</l>
+	<l id='1286'>Pour mériter par vous d'en savoir la nouvelle,</l>
+	<l id='1287'>Vous pourrez avec lui, Seigneur, vous déclarer.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Prusias, Attale, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1288'>Si mon abord vous nuit je vais me retirer.</l>
+	<l id='1289'>Sitôt que je parais Flaminius vous quitte.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1290'>Veniez-vous à dessein de lui rendre visite ?</l>
+	<l id='1291'>Vous n'auriez qu'à le suivre, il peut la recevoir.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1292'>Je n'ai point de secret qui m'oblige à le voir,</l>
+	<l id='1293'>Mais si vous me souffrez un peu de confidence,</l>
+	<l id='1294'>Quel était le sujet de votre conférence ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1295'>Un projet, grand, illustre, et des plus importants,</l>
+	<l id='1296'>Et que je vous dirai quand il sera temps.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1297'>S'il est tel que vos feux permettent qu'on le croie,</l>
+	<l id='1298'>Vous pourriez sans péril m'avancer cette joie.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1299'>Il est vrai qu'aimant Rome au point que vous l'aimez,</l>
+	<l id='1300'>Vous prendrez part à l'heur qui tient mes sens charmés,</l>
+	<l id='1301'>Flaminius d'abord m'a traité de rebelle ;</l>
+	<l id='1302'>Mais enfin le voulant convaincre de mon zèle,</l>
+	<l id='1303'>J'ai su si bien entrer dans tous ses intérêts,</l>
+	<l id='1304'>Que par l'hymen d'Élise il comble mes souhaits.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1305' part='i'>Flaminius consent...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1305' part='f'>Oui, que j'épouse Élise.</l>
+	<l id='1306'>Vous en votez ma joie, en vain je la déguise,</l>
+	<l id='1307' part='i'>Mes yeux la font paraître.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1307' part='f'>Et pour un si grand bien</l>
+	<l id='1308'>Vous avez crû devoir ne lui refuser rien ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1309'>Il n'est vers le Sénat aucun refus sans crime.</l>
+	<l id='1310'>Quoi qu'il veuille exiger il rend tout légitime ;</l>
+	<l id='1311'>Et puis, pour un Objet  où brillent mille appas,</l>
+	<l id='1312'>Quand l'amour est pressant, que ne ferait-on pas ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1313'>Quoi, céder à l'amour, et s'en laisser surprendre,</l>
+	<l id='1314' part='i'>Jusqu'à...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1314' part='f'>Que voulez-vous, Seigneur ? J'ai le coeur tendre,</l>
+	<l id='1315'>Et n'ai pas tant vécu qu'on doive présumer</l>
+	<l id='1316'>Que déjà je me fasse une honte d'aimer.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1317'>C'est à fuir ce qui plaît qu'on montre son courage.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1318'>Ce genre de prudence est un effet de l'âge,</l>
+	<l id='1319'>Et jeune, et plein d'amour, au point où je me vois,</l>
+	<l id='1320'>Peut-être seriez-vous aussi faible que moi.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1321'>Et jeune, et plein d'amour, j'aurais soin de ma gloire.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1322'>Vous êtes hors d'état de me le faire croire,</l>
+	<l id='1323'>Mais puis-je de la mienne assurer mieux l'éclat</l>
+	<l id='1324'>Qu'en ne prétendant rien sans l'aveu du Sénat ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1325'>C'est dont pourtant d'abord vous faisiez peu de compte.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1326'>Selon l'occasion on peut changer sans honte.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1327'>J'en pénètre la cause, et j'ai quelques clartés...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1328'>Songez-vous bien, Seigneur, que vous vous emportez.</l>
+	<l id='1329'>Et que d'autres que moi soupçonneraient peut-être</l>
+	<l id='1330'>Que votre coeur n'est pas tout ce qu'il veut paraître ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1331'>Qu'y soupçonnerait-on qui pût répondre mal...</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1332'>Voyez l'Ambassadeur, j'entre chez Annibal.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Prusias, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1333'>Va, traître,  et puisque enfin le crime peut te plaire,</l>
+	<l id='1334'>Pour obtenir la Fille assassine le Père.</l>
+	<l id='1335'>Que je suis malheureux ! Tout me perd, tout me nuit ;</l>
+	<l id='1336'>Si je forme un projet, mon Rival le détruit,</l>
+	<l id='1337'>Et Rome en un moment par de lâches surprises</l>
+	<l id='1338'>Fait tourner contre moi toutes mes entreprises.</l>
+	<l id='1339'>Impitoyable amour, que ne t'ai-je étouffé</l>
+	<l id='1340'>Avant que de mon coeur ta flamme eût triomphé !</l>
+	<l id='1341'>Je ne me verrais pas esclave d'une haine</l>
+	<l id='1342'>Qui veut que je m'oppose à la fierté Romaine,</l>
+	<l id='1343'>Et tout à ma grandeur, sans plus rien épargner,</l>
+	<l id='1344'>Aux dépends d'Annibal, j'apprendrais à régner.</l>
+	<l id='1345'>Mais pourquoi t'oser croire, ô grandeur importune,</l>
+	<l id='1346'>Serviles intérêts d'État et de fortune,</l>
+	<l id='1347'>Qui pour me conserver le vain titre de Roi</l>
+	<l id='1348'>M'ôtez la liberté de disposer de moi,</l>
+	<l id='1349'>Sans vous de l'amour seul j'écouterais la flamme,</l>
+	<l id='1350'>Le Trône n'aurait rien qui partageât mon âme,</l>
+	<l id='1351'>Au lieu que l'un et l'autre attirant tous mes voeux,</l>
+	<l id='1352'>Sans céder à pas un je cède à tous les deux</l>
+	<l id='1353'>Ô désirs de grandeur, fiers mouvements de gloire,</l>
+	<l id='1354'>Amour, Rome, Annibal, qui de vous dois-je croire ?</l>
+	<l id='1355'>Qui de vous dans mon coeur doit enfin l'emporter ?</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1356'>Sachant ce qui se passe avez-vous à douter ?</l>
+	<l id='1357'>Il faut perdre Annibal ; cette seule entreprise</l>
+	<l id='1358'>Affermit votre Trône, et vous acquiert Élise,</l>
+	<l id='1359' part='i'>Par là vous gagnez tout.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1359' part='f'>Perdre Annibal ! Hélas !</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1360'>Êtes-vous en état de ne le perdre pas ?</l>
+	<l id='1361' part='i'>Décidant de ses jours Attale...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1361' part='f'>Ah le perfide !</l>
+	<l id='1362'>Mais le serai-je moins si ma flamme en décide ?</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1363'>De tels crimes au Sort doivent être imputés.</l>
+	<l id='1364'>Il a donné l'arrêt, et vous l'exécutez.</l>
+	<l id='1365'>Annibal est trahi ; puisqu'il faut qu'il périsse,</l>
+	<l id='1366'>Attirez-vous le fruit de ce grand sacrifice.</l>
+	<l id='1367'>Voyez Flaminius, et sans plus différer,</l>
+	<l id='1368'>Quoi qu'Attale ait promis, faites-vous préférer.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1369'>Mais c'est flatter mon feu d'un espoir inutile,</l>
+	<l id='1370' part='i'>Si l'on voit que par moi...</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1370' part='f'>Le remède est facile.</l>
+	<l id='1371'>Employez des Romains, et par eux seulement.</l>
+	<l id='1372'>Faites prendre Annibal dans son appartement.</l>
+	<l id='1373'>Le coup fait, plaignez-vous de cette violence,</l>
+	<l id='1374'>Rendez suspect Attale, et demandez vengeance.</l>
+	<l id='1375'>Enfin quand le succès manquerait à vos feux,</l>
+	<l id='1376'>C'est beaucoup d'empêcher qu'un Rival soit heureux.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1377'>Tu dis vrai, je me rends, ma passion l'ordonne.</l>
+	<l id='1378'>À ses brûlants transports tout mon coeur s'abandonne,</l>
+	<l id='1379'>Dût ce que j'entreprends me devenir fatal,</l>
+	<l id='1380'>Je ne puis endurer le bonheur d'un Rival.</l>
+	<l id='1381'>C'en est fait, perdons tout dans ce besoin extrême,</l>
+	<l id='1382'>Attale par mon Fils, Annibal par moi-même,</l>
+	<l id='1383'>Et comme à triompher voici notre grand jour,</l>
+	<l id='1384'>Perdons jusqu'à ce Fils s'il nuit à mon amour.</l>
+	<l id='1385' part='i'>Le voici.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Prusias, Nicomède, Araxe. </head>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1385' part='f'>Viens savoir, et venger tout ensemble</l>
+	<l id='1386'>Un crime dont encor l'horreur fait que je tremble.</l>
+	<l id='1387'>À l'amour d'un Perfide on s'est enfin rendu,</l>
+	<l id='1388'>Flaminius triomphe, Annibal est vendu.</l>
+	<l id='1389'>Pour prix d'une si lâche et honteuse entreprise,</l>
+	<l id='1390'>Attale qui le rend reçoit la main d'Élise.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1391'>Attale ! Et bien, avant qu'on me livre aux Romains,</l>
+	<l id='1392'>Il faut mettre, Seigneur, Élise entre vos mains.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1393'>À sauver Annibal l'honneur, tout nous convie.</l>
+	<l id='1394'>Adieu, je vais lui faire un rempart de ma vie.</l>
+	<l id='1395'>Cependant cherche Attale, ose, il est important,</l>
+	<l id='1396'>Et si tu sais aimer, vois le prix qui t'attend.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Élise, Nicomède. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1397'>Que vous disait le Roi, Prince, Et d'où naît ce trouble ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1398'>Dans mon coeur à vous voir je le sens qui redouble ;</l>
+	<l id='1399'>Mais, Madame, jugez s'il doit être pressant.</l>
+	<l id='1400'>Aux voeux de mon Rival Flaminius consent,</l>
+	<l id='1401' part='i'>Attale vous obtient.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1401' part='f'>C'est ce qui vous étonne ?</l>
+	<l id='1402'>Pour tirer mon aveu la voie est assez bonne,</l>
+	<l id='1403'>Et Rome, à qui je porte un courage soumis,</l>
+	<l id='1404'>Peut répondre de moi quand elle aura promis</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1405'>Mais on livre Annibal, et c'est ce qu'on vous cache.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1406' part='i'>Mon Père ?</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1406' part='f'>Il est le prix de l'aveu qu'on arrache.</l>
+	<l id='1407'>Ne craignez rien pourtant de cette trahison,</l>
+	<l id='1408'>Je vais trouver Attale, il m'en fera raison,</l>
+	<l id='1409' part='i'>Et s'il ose...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1409' part='f'>Arrêtez ; que prétendez-vous faire ?</l>
+	<l id='1410'>Cet avis m'est suspect, il part de votre Père,</l>
+	<l id='1411'>Qui craignant deux rivaux, pour en venir à bout,</l>
+	<l id='1412'>Veut perdre l'un par l'autre, et désavouera tout.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1413'>Ainsi donc il vous plaît que sans rien entre prendre</l>
+	<l id='1414'>Je laisse à mon Rival le temps de vous surprendre,</l>
+	<l id='1415'>Ou si l'avis est faux, vous voulez que ma foi</l>
+	<l id='1416'>Cède à ses voeux un coeur qui semblait être à moi ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1417'>Si l'avis n'est pas vrai, je veux que votre flamme</l>
+	<l id='1418'>Prenne pour seul objet la fierté de mon âme.</l>
+	<l id='1419'>Je vous aime, et l'aveu peut-être m'en sied mal,</l>
+	<l id='1420'>Mais enfin je vous aime en Fille d'Annibal,</l>
+	<l id='1421'>Sans ce faible honteux qui, quand on l'ose croire,</l>
+	<l id='1422'>Couronne la tendresse aux dépends de la gloire.</l>
+	<l id='1423'>Montrez-vous en pouvoir de braver le Sénat.</l>
+	<l id='1424'>De votre hymen à tout je préfère l'éclat,</l>
+	<l id='1425'>Et je m'applaudirai de voir qu'ainsi sans peine</l>
+	<l id='1426'>Mon coeur puisse accorder mon amour et ma haine.</l>
+	<l id='1427'>Mais ne prétendez pas qu'un sentiment si doux</l>
+	<l id='1428'>Me dérobe à mon sort pour me garder à vous.</l>
+	<l id='1429'>Il est de haïr Rome, et si je puis contre elle</l>
+	<l id='1430'>Obtenir qu'à ma haine Attale soit fidèle,</l>
+	<l id='1431'>Malgré ce qu'en mon coeur vos feux trouvent d'appui,</l>
+	<l id='1432'>Je ferai vanité de me donner à lui.</l>
+	<l id='1433'>Voilà de mon orgueil quelles sont les maximes.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1434'>Ces sentiments sont grands, illustres magnanimes ;</l>
+	<l id='1435'>Mais quoi que l'on promette à leur noble fierté,</l>
+	<l id='1436'>Quel coeur de votre haine aura la fermeté ?</l>
+	<l id='1437'>Qui vous assurera qu'Attale soit sincère ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1438'>N'en soyez point en peine, il entretient mon Père,</l>
+	<l id='1439'>Et s'il obtient de lui ce que vous méritez,</l>
+	<l id='1440'>Ma main en se donnant prendra ses sûretés.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1441'>En est-il dont la suite offre à votre disgrâce...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1442'>Ayez soin seulement de voir ce qui se passe,</l>
+	<l id='1443'>Et croyez que l'effort où s'apprête ma foi,</l>
+	<l id='1444'>Quoi qu'il ait de fâcheux, sera digne de moi.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1445'>Et bien, Madame, il faut dans ce péril extrême</l>
+	<l id='1446'>Oser tout, faire tout pour vous contre moi-même.</l>
+	<l id='1447'>Rompre avec les Romains, leur ravir Annibal,</l>
+	<l id='1448'>Et tout cela, peut-être en faveur d'un Rival.</l>
+	<l id='1449'>Au moins souvenez-vous, si ma mort vous arrache</l>
+	<l id='1450'>À l'indigne attentat qu'un Perfide vous cache,</l>
+	<l id='1451'>Que qui cherche à mourir pour en rompre les coups,</l>
+	<l id='1452'>Pouvait sans trop d'audace oser vivre pour vous.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1453'>Prince, mon coeur est juste, et sait ce qu'il doit faire.</l>
+	<l id='1454'>Adieu, je vois Attale, il sort avec mon Père.</l>
+	<l id='1455'>Évitez leur présence, et prenez garde à tout,</l>
+	<l id='1456'>Tandis que j'apprendrai ce qu'Annibal résout.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Annibal, Attale, Élise. </head>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1457'>C'est trop voir le Destin confondre mon attente.</l>
+	<l id='1458'>Il est temps de fixer votre fortune errante,</l>
+	<l id='1459'>Ma Fille, et qu'un Époux par le don de sa foi</l>
+	<l id='1460'>Vous dérobe aux malheurs que je traîne avec moi.</l>
+	<l id='1461'>Il vous faut du repos, Attale vous l'assure ;</l>
+	<l id='1462'>Du sort qui me poursuit j'en craindrai moins l'injure,</l>
+	<l id='1463'>Et croirai triompher de ses plus rudes coups,</l>
+	<l id='1464'>Si j'empêche par là qu'ils n'aillent jusqu'à vous.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1465'>Qu'ils n'aillent jusqu'à moi ! S'il faut mourir ou vivre,</l>
+	<l id='1466'>C'est votre exemple seul, Seigneur, que je veux suivre.</l>
+	<l id='1467'>Jusqu'ici votre sort a réglé mon destin,</l>
+	<l id='1468'>Souffrez que sans partage il en règle la fin.</l>
+	<l id='1469'>L'alliance des rois où chacun porte envie,</l>
+	<l id='1470'>Ne peut rien ajouter à l'éclat de ma vie,</l>
+	<l id='1471'>Et Fille d'Annibal, je ne vois point de rang</l>
+	<l id='1472'>Qui puisse m'élever au-dessus de mon sang.</l>
+	<l id='1473'>Non qu'où j'entends votre ordre il soit rien qui m'arrête,</l>
+	<l id='1474'>Si vous voulez ma main, Seigneur, la voilà prête,</l>
+	<l id='1475'>Mais quand je la soumets à ce qu'elle vous doit,</l>
+	<l id='1476'>Savez-vous à quel prix Attale la reçoit ?</l>
+	<l id='1477' part='i'>Il vous livre aux Romains.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1477' part='f'>Ah, Madame, je jure</l>
+	<l id='1478' part='i'>Qu'on me fera...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE à Attale.</speaker>
+	<l id='1478' part='f'>Seigneur ce peut être imposture,</l>
+	<l id='1479'>Mais quand on vous accuse, à vous parler sans fard,</l>
+	<l id='1480'>L'apparence au soupçon vous donne grande part.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1481' part='i'>Quoi, me tenir suspect, moi qui...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1481' part='f'>Sachons de grâce,</l>
+	<l id='1482'>D'où vient que du Romain la colère se passe,</l>
+	<l id='1483'>Et que de votre amour dans l'abord irrité,</l>
+	<l id='1484'>Il montre tout à coup tant de facilité.</l>
+	<l id='1485'>Par quel charme, un hymen qu'il a traité de crime,</l>
+	<l id='1486'>Peut-il en un moment devenir légitime,</l>
+	<l id='1487'>Et tout à l'heure encor, que peut-on concevoir</l>
+	<l id='1488'>Du secret entretien que vous venez d'avoir ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1489'>Saisi d'étonnement, je n'ai que le silence</l>
+	<l id='1490'>Qui puisse contre vous prouver mon innocence ;</l>
+	<l id='1491'>Il en devrait bien être un témoin assuré,</l>
+	<l id='1492'>Si j'étais criminel je viendrais préparé.</l>
+	<l id='1493'>Flaminius changé m'accorde ce que j'aime,</l>
+	<l id='1494'>Son aveu vous surprend, il me surprend moi-même,</l>
+	<l id='1495'>Et je pénètre mal par quels soins dès demain</l>
+	<l id='1496'>Il me presse à ses yeux de vous donner la main.</l>
+	<l id='1497'>Mais ces fausses couleurs qui me peignent coupable</l>
+	<l id='1498'>Sont de quelque Ennemi le trait inévitable,</l>
+	<l id='1499'>Et pour me donner lieu de soupçonner sa foi,</l>
+	<l id='1500'>Prusias s'est assez déclaré contre moi.</l>
+<stage>À Annibal. </stage>
+	<l id='1501'>Il ne saurait souffrir que mon amour obtienne</l>
+	<l id='1502'>Que vous quittiez sa Cour pour venir dans la mienne,</l>
+	<l id='1503'>Seigneur, et je crains bien que son chagrin jaloux,</l>
+	<l id='1504'>Feignant tout contre moi, n'ose tout contre vous.</l>
+	<l id='1505'>Non qu'on m'en ait rien dit, mais d'un crime semblable</l>
+	<l id='1506'>Voyez qui de nous deux serait le plus capable.</l>
+	<l id='1507'>Tandis qu'au vain orgueil de ses chers Favoris</l>
+	<l id='1508'>Sa lâche Politique ose immoler son Fils,</l>
+	<l id='1509'>Malgré Flaminius pour vous je me déclare.</l>
+	<l id='1510'>J'attends sans m'ébranler les foudres qu'il prépare,</l>
+	<l id='1511'>Et fais que Rome enfin, toute fière qu'elle est,</l>
+	<l id='1512'>Se soumet à me flamme, et veut ce qui me plaît.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1513'>Oui, Seigneur, c'est en vain qu'on voudrait me surprendre.</l>
+	<l id='1514'>Je fais un digne choix en vous prenant pour Gendre,</l>
+	<l id='1515'>Et ces grands sentiments vous mettent au-dessus</l>
+	<l id='1516'>Des odieux soupçons que ma Fille a conçus.</l>
+	<l id='1517'>Même de Prusias je crains peu la surprise,</l>
+	<l id='1518'>Il peut vouloir me perdre, en former l'entreprise,</l>
+	<l id='1519'>Dans ce lâche projet se montrer affermi,</l>
+	<l id='1520'>Mais le Ciel me réserve un plus noble Ennemi.</l>
+	<l id='1521'>Il ne m'a pas sauvé des Tyrans que je brave</l>
+	<l id='1522'>Pour me laisser périr aux mains de leur Esclave,</l>
+	<l id='1523'>Et souffrir qu'un Parjure, au mépris de sa foi,</l>
+	<l id='1524'>M'ose faire un destin si peu digne de moi.</l>
+	<l id='1525'>Il sait ce qu'il me doit, et s'il avait pu croire</l>
+	<l id='1526'>Que Rome eût mérité l'éclat de tant de gloire,</l>
+	<l id='1527'>Il eût su de ma perte honorer les grands noms,</l>
+	<l id='1528'>Prendre les Fabius, choisir les Scipions.</l>
+	<l id='1529'>Moi seul je puis prétendre à cet honneur suprême</l>
+	<l id='1530'>Et pour perdre Annibal il faut Annibal même.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1531'>Ah, Seigneur, qui pourrait avoir le coeur si bas...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE à Attale.</speaker>
+	<l id='1532'>Je veux bien n'accuser ni vous ni Prusias,</l>
+	<l id='1533'>Mais dans ce qu'on publie, il est de la prudence</l>
+	<l id='1534'>De ne pas s'exposer à trop de confiance.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1535'>Dites, dites plutôt que mon espoir est vain,</l>
+	<l id='1536'>Que vous me soupçonnez pour m'ôter votre main.</l>
+	<l id='1537'>Et que des feux plus doux l'emportant sur ma flamme...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1538'>Quoi, vous croyez en moi tant de bassesse d'âme ?</l>
+	<l id='1539'>Quand j'aurais de l'amour, il saurait m'obéir ;</l>
+	<l id='1540'>Mais je l'ai dit cent fois, je ne sais que haïr.</l>
+	<l id='1541'>L'art de toucher mon coeur, c'est de servir ma haine,</l>
+	<l id='1542'>Et pour vous en donner une preuve certaine,</l>
+	<l id='1543'>Partons, me voilà prête, allons dans vos États ;</l>
+	<l id='1544'>Contre l'orgueil de Rome armons cent mille bras,</l>
+	<l id='1545'>Et nous y faisant jour à force de batailles,</l>
+	<l id='1546'>Montrons-nous, s'il se peut, au pied de ses murailles.</l>
+	<l id='1547'>Là, vous voyant contre elle un Ennemi certain,</l>
+	<l id='1548'>Avec pompe à ses yeux je vous donne la main,</l>
+	<l id='1549'>Et pour vous et pour moi, par une gloire égale,</l>
+	<l id='1550'>Son sang sera le sceau de la foi conjugale ;</l>
+	<l id='1551'>Mais que Flaminius, si j'accepte un Époux,</l>
+	<l id='1552'>Se mêle insolemment de me donner à vous...</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Annibal, Élise, Attale, Alcine. </head>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='1553'>Ah, Madame ! Ah, Seigneur ! Songez à vous défendre.</l>
+	<l id='1554'>Sans doute les Romains cherchent à vous surprendre.</l>
+	<l id='1555'>De la Cour du Palais maîtres en un moment</l>
+	<l id='1556'>Ils ont presque investi tout cet appartement.</l>
+	<l id='1557'>Jugez s'ils auront peine à s'y faire passage.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1558'>Et bien, Attale, et bien mon soupçon vous outrage ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1559' part='i'>Les Romains nous surprendre !</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1559' part='f'>Et pour ce coup fatal,</l>
+	<l id='1560'>Tandis qu'on s'y prépare, on amuse Annibal.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1561'>Madame, les effets me vont faire connaître.</l>
+	<l id='1562'>Je vois la trahison, je trouverai le traître,</l>
+	<l id='1563'>Vous verrez si mon coeur sous Rome est asservi.</l>
+	<l id='1564'>Heureusement, Seigneur ma Garde m'a suivi.</l>
+	<l id='1565'>Dans cet appartement elle m'a fait escorte ;</l>
+	<l id='1566'>Je vais l'encourager à nous prêter main forte,</l>
+	<l id='1567'>Et j'atteste les Dieux qu'en ce pressant danger,</l>
+	<l id='1568'>Je périrai moi-même, ou saurai vous venger.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1569'>Seigneur, vous fierez-vous à des serments frivoles ?</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1570'>Le temps nous est trop cher pour le perdre en paroles.</l>
+	<l id='1571'>Sans trop chercher l'auteur de cette trahison,</l>
+	<l id='1572'>Il faut malgré le Sort nous en faire raison.</l>
+	<l id='1573'>Par une belle audace étonnons des Perfides,</l>
+	<l id='1574'>Allons au-devant d'eux, les Traîtres sont timides,</l>
+	<l id='1575'>Et pour épouvanter leur lâche Général,</l>
+	<l id='1576'>Peut-être il ne faudra que montrer Annibal.</l>
+	<l id='1577'>Au moins s'il faut périr, en leur vendant ma vie,</l>
+	<l id='1578'>Faisons-les souvenir de Cannes, de Trébie.</l>
+	<l id='1579'>Vous, demeurez, ma Fille, et retenez vos pleurs,</l>
+	<l id='1580'>C'est du sang qu'il nous faut en de pareils malheurs.</l>
+	<l id='1581'>Vivez, et s'il vous peut être honteux de vivre,</l>
+	<l id='1582'>Vous aurez mon exemple, apprenez à le suivre.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1583'>Pour vous quitter, Seigneur, je sais trop mon devoir.</l>
+	<l id='1584'>L'exemple sera grand, je vais le recevoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Élise, Prusias, Araxe. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1585'>Quoi, je vous vois, Seigneur, et bien que l'insolence,</l>
+	<l id='1586'>Dont on use envers nous vous demande vengeance,</l>
+	<l id='1587'>Votre honneur, votre foi sont des fantômes vains</l>
+	<l id='1588'>Lorsqu'il faut s'opposer au crime des Romains ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1589'>Pour détruire un projet à nos voeux si contraire</l>
+	<l id='1590'>Je n'ai rien oublié de ce que j'ai pu faire.</l>
+	<l id='1591'>À peine l'ai-je appris que ce rapport fatal</l>
+	<l id='1592'>M'a fait tout indigné courir vers Annibal.</l>
+	<l id='1593'>J'ai mis autour de lui ceux des miens dont le zèle</l>
+	<l id='1594'>M'a pour le seconder paru le plus fidèle ;</l>
+	<l id='1595'>Mais voyant les Romains, malgré tous nos efforts,</l>
+	<l id='1596'>Contre lui, contre moi se rendre les plus forts,</l>
+	<l id='1597'>J'ai cru que pour répondre à la foi qui m'engage</l>
+	<l id='1598'>Il fallait empêcher qu'on ne vous fît outrage.</l>
+	<l id='1599'>Voilà ce qui m'amène, et je viens vous offrir</l>
+	<l id='1600'>Tout ce que peut un Roi qui veut vous secourir.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1601'>Ce zèle est obligeant, généreux, magnanime.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1602'>Ah, si vous connaissiez l'ardeur dont il m'anime,</l>
+	<l id='1603'>Quels feux depuis longtemps dans mon coeur renfermés</l>
+	<l id='1604' part='i'>Vous ont faite...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1604' part='f'>Oui, Seigneur, je sais que vous m'aimez,</l>
+	<l id='1605'>Mais enfin il fallait, si vous me vouliez plaire,</l>
+	<l id='1606'>Ne m'en venir rien dire, et mourir pour mon Père.</l>
+	<l id='1607'>J'aurais suivi ses pas, et c'est de quoi rougir</l>
+	<l id='1608'>De plaindre son malheur quand je devrais agir.</l>
+	<l id='1609'>Mais en vain je déploie, et promesse et prière,</l>
+	<l id='1610'>Dans cet appartement on me tient prisonnière,</l>
+	<l id='1611'>Mes efforts pour sortir ont été superflus,</l>
+	<l id='1612'>On m'arrête, et peut-être Annibal ne vit plus.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1613'>Si le Ciel aujourd'hui me met dans l'impuissance</l>
+	<l id='1614'>D'empêcher une injuste et lâche violence,</l>
+	<l id='1615'>Au moins, Madame, au moins de cette trahison,</l>
+	<l id='1616'>Il ne tiendra qu'à vous que vous n'ayez raison.</l>
+	<l id='1617'>Venez dans mes États, et toute à votre haine</l>
+	<l id='1618'>Accepter mon secours avec le nom de Reine.</l>
+	<l id='1619'>Pour venger Annibal il n'est rien qu'avec vous</l>
+	<l id='1620'>Contre ses Assassins ne tente mon courroux,</l>
+	<l id='1621'>Rien qu'à son sang versé ma passion s'immole.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1622'>C'est donc là comme un Roi lui doit tenir parole ?</l>
+	<l id='1623'>Vous voyez qu'on l'attaque, et fuyant le danger</l>
+	<l id='1624'>Vous le laissez périr afin de le venger ?</l>
+	<l id='1625'>Ah, c'est m'en dire trop ; vous l'avez livré, traître,</l>
+	<l id='1626'>Ce nom de Reine offert me le fait trop connaître.</l>
+	<l id='1627'>Ah, si le Prince au moins... mais de quoi me flatter ?</l>
+	<l id='1628'>Vos lâches partisans l'auront fait arrêter,</l>
+	<l id='1629'>Il ne peut rien pour nous, et tout nous abandonne.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1630'>Quoi, du crime d'Attale il faut qu'on me soupçonne ?</l>
+	<l id='1631'>Et quand ouvertement on voit que le Romain</l>
+	<l id='1632'>Pour prix de son forfait lui donne votre main,</l>
+	<l id='1633' part='i'>Cet Attale...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1633' part='f'>Du moins il fait ce qu'il doit faire.</l>
+	<l id='1634'>Il anime les siens à défendre mon père,</l>
+	<l id='1635'>Se donne pour exemple et les enhardissant...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS montrant Attale.</speaker>
+	<l id='1636'>Voyez si c'est pour eux un exemple pressant.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. ÉLISE, Prusias, Attale, Araxe. </head>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1637'>Madame, craignons tout ; c'est peu qu'on vous trahisse,</l>
+	<l id='1638'>De ses pièges sur moi Rome étend l'artifice,</l>
+	<l id='1639'>Et ma Garde séduite, au lieu de m'écouter,</l>
+	<l id='1640'>Me fermant le passage, a voulu m'arrêter.</l>
+	<l id='1641'>Je me le suis ouvert malgré sa résistance,</l>
+	<l id='1642'>J'ai rejoint Annibal, embrassé sa défense,</l>
+	<l id='1643'>Mais j'ai bientôt connu que contre les Romains,</l>
+	<l id='1644'>Trahis de toutes parts, nos efforts étaient vains.</l>
+	<l id='1645'>Ceux qui l'environnaient, quoi qu'il en dût attendre,</l>
+	<l id='1646'>Le livraient bien plutôt qu'ils ne l'osaient défendre.</l>
+	<l id='1647'>Ils m'ont mis hors d'état de le plus seconder,</l>
+	<l id='1648'>Et le voyant au nombre obligé de céder,</l>
+	<l id='1649'>Contre les noirs complots d'une jalouse envie</l>
+	<l id='1650'>Je suis ici venu vous apporter ma vie.</l>
+	<l id='1651'>Disposez-en, Madame, et pour vous secourir</l>
+	<l id='1652'>Servons-nous des moyens qui se pourront offrir.</l>
+	<l id='1653'>J'ose tout entreprendre, et puisque je vous aime...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1654'>L'assurance est pour moi d'une douceur extrême.</l>
+	<l id='1655'>Venez, venez tous deux, nobles Héros d'amour,</l>
+	<l id='1656'>Qui tandis qu'on se bat me faites votre cour.</l>
+	<l id='1657'>À couvert du péril où le soin de me plaire</l>
+	<l id='1658'>Vous a fait sans scrupule abandonner mon Père,</l>
+	<l id='1659'>Satisfaites l'ardeur de vos tendres désirs,</l>
+	<l id='1660'>Épargnez votre sang, et poussez des soupirs.</l>
+	<l id='1661'>Qu'ai-je affaire de vous, lâches, et de vos vies,</l>
+	<l id='1662'>Lorsque d'un coeur si bas vos offres sont suivies ?</l>
+	<l id='1663'>Pour m'arracher au Sort, en bravez les courroux,</l>
+	<l id='1664'>S'il ne faut que mourir, je mourrai bien sans vous.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1665'>D'un reproche si dur l'injustice m'étonne.</l>
+	<l id='1666'>J'abandonne, il est vrai, mais quand on m'abandonne,</l>
+	<l id='1667'>Et je rendrai bientôt votre esprit éclairci,</l>
+	<l id='1668'>Si c'est pour m'épargnez que je parais ici.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS à Attale.</speaker>
+	<l id='1669'>Par les commencements on peut prévoir la suite.</l>
+	<l id='1670'>Vous trouvez, dites-vous, votre Garde séduite,</l>
+	<l id='1671'>Et le même intérêt qui retient vos Soldats,</l>
+	<l id='1672'>Sur le point d'oser tout, retiendra votre bras.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1673'>Gardez qu'à vos dépends vous le puissiez connaître.</l>
+	<l id='1674'>Si la trahison plaît, on abhorre le Traître,</l>
+	<l id='1675'>Et pour goûter le fruit de vos desseins jaloux,</l>
+	<l id='1676'>Tout mon sang à verser est de l'emploi pour vous.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1677'>Nous verrons s'il sera difficile à répandre,</l>
+	<l id='1678'>Quand vous attaquerez ce que je viens défendre.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1679'>Oui, le sang d'Annibal doit être défendu,</l>
+	<l id='1680'>Mais de ses Défenseurs on sait qui l'a vendu.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1681'>Qu'importe qui de vous m'assure d'un vrai zèle,</l>
+	<l id='1682'>Quand Annibal vous voit l'un et l'autre infidèle ?</l>
+	<l id='1683'>C'était autour de lui qu'il fallait étaler</l>
+	<l id='1684'>Ce beau feu qui pour moi s'offre à tout immoler.</l>
+	<l id='1685'>Celui qui des Romains eût garanti mon Père,</l>
+	<l id='1686'>Se fût acquis le droit de prétendre à me plaire,</l>
+	<l id='1687'>Mais enfin vous l'avez tous deux abandonné,</l>
+	<l id='1688'>Tous deux signé l'arrêt qu'un Parjure a donné,</l>
+	<l id='1689'>Et l'ardeur qu'à l'envi vous me faites paraître,</l>
+	<l id='1690'>Ne m'offre un Défenseur qu'en me cachant un Traître.</l>
+	<l id='1691'>Mais je veux en tous deux croire une égale foi ;</l>
+	<l id='1692'>N'ayant pu rien pour lui, que pourrez-vous pour moi ?</l>
+	<l id='1693'>L'exemple d'Annibal contre un si rude orage</l>
+	<l id='1694'>N'a pu vous inspirer ni vertu ni courage,</l>
+	<l id='1695'>Et dans cette honteuse et timide langueur,</l>
+	<l id='1696'>Une Fille en parlant vous donnera du coeur ?</l>
+	<l id='1697'>Ah, je vois ce que c'est, bien d'autres le connaissent,</l>
+	<l id='1698'>Les Rois ne sont plus Rois où les Romains paraissent.</l>
+	<l id='1699'>Tremblez, Princes, tremblez ; l'honneur du sang Royal</l>
+	<l id='1700'>Se maintenait encor à l'ombre d'Annibal.</l>
+	<l id='1701'>Dépouillé qu'il était, il vous rendait terribles,</l>
+	<l id='1702'>Armés de son seul nom vous étiez invincibles,</l>
+	<l id='1703'>Et sa vie employée à votre sûreté,</l>
+	<l id='1704'>Vous mettait à couvert de la captivité.</l>
+	<l id='1705'>Le destin des Romains n'attendait que sa perte</l>
+	<l id='1706'>Pour voir la terre entière à l'esclavage offerte.</l>
+	<l id='1707'>De votre liberté lui seul était l'appui,</l>
+	<l id='1708'>Il la faisait revivre, elle meurt avec lui.</l>
+	<l id='1709'>Vains Fantômes d'honneur ! Impuissantes Idoles !</l>
+	<l id='1710'>Esclaves en effet, soyez Rois en paroles.</l>
+	<l id='1711'>En vain du plein pouvoir vous deviendrez jaloux,</l>
+	<l id='1712'>S'il n'est plus d'Annibal, plus de Trônes pour vous.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Flaminius, Élise, Prusias, Attale, Procule, Araxe. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1713'>Et bien, Flaminius, ton Ambassade est faite ?</l>
+	<l id='1714'>Un lâche t'a vendu ce que Rome souhaite.</l>
+	<l id='1715'>Pour combler ton triomphe, et le voir sans égal,</l>
+	<l id='1716'>Viens-tu joindre mon sang à celui d'Annibal ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1717'>Modérez un transport dont j'aurais à me plaindre,</l>
+	<l id='1718'>Pour le sang d'Annibal vous n'avez rien à craindre.</l>
+	<l id='1719'>Entre les mains des miens à qui je l'ai remis,</l>
+	<l id='1720'>Pourvu qu'il vienne à Rome, il n'a plus d'ennemis.</l>
+	<l id='1721'>De sa haine outrageante il lui doit quelque compte.</l>
+	<l id='1722'>Dans la paix de Carthage il trouva de la honte,</l>
+	<l id='1723'>S'en bannit pour nous nuire, et sur ce faux abus</l>
+	<l id='1724'>Vint enfin contre nous armer Antiochus,</l>
+	<l id='1725'>Il s'en justifiera. Pour vous, dont le seul crime</l>
+	<l id='1726'>Est de croire un peu trop le sang qui vous anime,</l>
+	<l id='1727'>Vous n'avez point de Rome à craindre le courroux,</l>
+	<l id='1728'>Elle est juste, et vous offre un traitement plus doux.</l>
+	<l id='1729'>Saisi de son pouvoir j'aime à vous faire grâce.</l>
+	<l id='1730'>Recevez son appui sans orgueil, sans audace,</l>
+	<l id='1731'>Et quelques biens par là qui vous soient accordés,</l>
+	<l id='1732'>Voyez toujours la main de qui vous dépendez.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1733'>Et bien, mes défenseurs, me voici donc Esclave.</l>
+	<l id='1734'>Sans rien faire pour moi vous souffrez qu'on me brave,</l>
+	<l id='1735'>Et malgré vos serments de ne me point trahir,</l>
+	<l id='1736'>Votre Maître a parlé, c'est à vous d'obéir ?</l>
+	<l id='1737'>Où sont-ils ces serments d'oser tout pour me plaire,</l>
+	<l id='1738'>Traîtres, qui me livrez aussi bien que mon Père,</l>
+	<l id='1739'>Et quand il faut montrer qu'un de vous ne l'est pas,</l>
+	<l id='1740'>Que devient votre coeur, que devient votre bras ?</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1741'>C'est trop, c'est trop  souffrir qu'un Perfide se cache.</l>
+	<l id='1742'>Vous l'allez voir ce coeur qui vous a paru lâche,</l>
+	<l id='1743'>Et juger qui de nous par son manque de foi</l>
+	<l id='1744'>Méritait les soupçons qui sont tombés sur moi.</l>
+<stage>À Flaminius. </stage>
+	<l id='1745'>À quel titre, à quel droit vos jalouses envies</l>
+	<l id='1746'>Vous peuvent-elles rendre arbitres de nos vies,</l>
+	<l id='1747'>Et qui vous fait ainsi, selon votre intérêt,</l>
+	<l id='1748'>Disposer de nos jours quand et comme il vous plaît ?</l>
+	<l id='1749'>Est-ce par l'amitié que le Sénat me garde</l>
+	<l id='1750'>Que vous avez pris soin de corrompre ma Garde,</l>
+	<l id='1751'>Et les plus noirs forfaits, à vous seuls réservés,</l>
+	<l id='1752'>Deviennent-ils permis quand vous les approuvez ?</l>
+	<l id='1753'>Quels droits sur ce beau sang que l'on vient de vous vendre,</l>
+	<l id='1754'>Celui qui vous le vend avait-il à prétendre ?</l>
+	<l id='1755'>Ce que jamais sans vous il n'eût sacrifié,</l>
+	<l id='1756'>L'a-t-il pu par l'honneur d'être votre allié ?</l>
+	<l id='1757'>Honneur injurieux ! Captieuse Alliance !</l>
+	<l id='1758'>J'y renonce, et d'Élise entreprends la défense.</l>
+	<l id='1759'>Point d'autres lois pour moi que son ressentiment.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1760'>Pour un Roi de deux jours c'est parler hautement.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1761'>La Majesté des Rois toujours brillante et pure</l>
+	<l id='1762'>N'a ni vos volontés ni le temps pour mesure,</l>
+	<l id='1763'>Et qui l'est un moment, doit contre ses souhaits</l>
+	<l id='1764'>Prendre assez de fierté pour n'obéir jamais.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1765'>Je plains de cet orgueil l'aveuglement extrême.</l>
+	<l id='1766'>Pour me connaître mieux connaissez-vous vous-même,</l>
+	<l id='1767'>Et sur ce que pour vous le Trône a d'éclatant,</l>
+	<l id='1768'>Retournez à Pergame, Eumène vous attend.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1769' part='i'>Eumène !</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1769' part='f'>Oui, c'est par lui, que le Ciel y rappelle,</l>
+	<l id='1770'>Que vous avez trouvé votre Garde infidèle.</l>
+	<l id='1771'>Quand nous le croyions mort, la mer nous l'a rendu,</l>
+	<l id='1772'>Et vous saurez de lui le respect qui m'est dû.</l>
+</sp>
+<sp who='ATTALE'><speaker>ATTALE.</speaker>
+	<l id='1773'>Faites, faites régner un Fantôme en ma place,</l>
+	<l id='1774'>Je vous fais peur au Trône, il faut que l'on m'en chasse.</l>
+	<l id='1775'>Je vous l'avais bien dit, et voilà de leurs coups,</l>
+	<l id='1776'>Je suis trahi, Madame, et trahi plus que vous ;</l>
+	<l id='1777'>Mais pour vous et pour moi je vais faire connaître,</l>
+	<l id='1778'>Que je sais mieux punir que seconder un Traître.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1779'>Qu'on l'observe, et d'abord, s'il ose rien tenter,</l>
+	<l id='1780'>Donnez ordre, Procule, à le faire arrêter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. ÉLISE, PRUSIAS, FLAMINIUS, ARAXE. </head>
+<sp who='ELISE'><speaker>ÉLISE à Prusias.</speaker>
+	<l id='1781'>Seigneur, c'est donc à vous que de ce grand ouvrage</l>
+	<l id='1782'>Doit enfin sans débat demeurer l'avantage,</l>
+	<l id='1783'>Et grâce à vos bontés, tout l'honneur vous est dû,</l>
+	<l id='1784'>Et d'Élise trahie, et d'Annibal vendu ?</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1785'>Quels que soient les malheurs qui vous font plaindre un Père,</l>
+	<l id='1786'>Madame, je n'ai fait que ce que j'ai dû faire,</l>
+	<l id='1787'>Et vous n'avez pas lieu de me les reprocher,</l>
+	<l id='1788'>Lorsqu'à son mauvais sort je viens vous arracher.</l>
+	<l id='1789'>Pour fuir avec honneur celui qui vous menace,</l>
+	<l id='1790'>Prenez mon Trône offert, je vous y donne place.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1791' part='i'>Votre Trône ?</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1791' part='f'>Oui, Madame, et si vous balancez,</l>
+	<l id='1792'>J'oserai contre vous plus que vous ne pensez.</l>
+	<l id='1793'>J'arrêterai le cours de cette humeur altière ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1794'>Parles-tu de mourir ? La menace est légère.</l>
+	<l id='1795'>Pour qui porte en son coeur le pur sang d'Annibal,</l>
+	<l id='1796'>Ce qui finit les maux ne saurait être un mal.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1797'>Si vous bravez la mort, le triomphe peut-être...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1798'>Il sera beau pour toi d'avoir séduit un Traître,</l>
+	<l id='1799'>Et tes fourbes, dont l'art nous a mis sous tes lois,</l>
+	<l id='1800'>Pour ennoblir ton nom sont de fameux exploits.</l>
+	<l id='1801'>Tu crois donc que par là mon courage se rende ?</l>
+	<l id='1802'>Le Triomphe est honteux, l'infamie en est grande,</l>
+	<l id='1803'>Mais au moins si le Ciel en ose être d'accord,</l>
+	<l id='1804'>Nous n'aurons à rougir que d'un crime du sort.</l>
+	<l id='1805'>L'affront d'y succomber me fera moins d'injure</l>
+	<l id='1806'>Que si je partageais le Trône d'un Parjure.</l>
+	<l id='1807'>De son manque de foi quoi qu'il se soit promis...</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Élise, Flaminius, Alcine, Araxe. </head>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='1808'>Madame, espérez tout, les Dieux nous sont amis.</l>
+	<l id='1809'>Au point que les Romains enlevaient votre père,</l>
+	<l id='1810' part='i'>Le Prince...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1810' part='m'>Et bien ?</l>
+</sp>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='1810' part='f'>A fait tout ce que l'on peut faire.</l>
+	<l id='1811'>Fort d'un nombre d'Amis à la hâte amassés,</l>
+	<l id='1812'>Jusque dans le palais il les a repoussés,</l>
+	<l id='1813'>Et tous, tremblant d'effroi dès qu'ils l'ont vu paraître,</l>
+	<l id='1814'>Négligeant Annibal, l'en ont laissé le maître.</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1815' part='i'>Mon fils a l'insolence...</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1815' part='f'>Éclatez, Prusias,</l>
+	<l id='1816'>L'entreprise est manquée, et je n'en doute pas.</l>
+	<l id='1817'>Vous voyant l'âme faible, et jamais arrêtée,</l>
+	<l id='1818'>Ma défiance exprès l'avait précipitée,</l>
+	<l id='1819'>Et je ne voulais pas à votre esprit léger</l>
+	<l id='1820'>Laisser l'occasion ni le temps de changer.</l>
+	<l id='1821'>Le Prince agit pour vous, son audace est la vôtre.</l>
+	<l id='1822'>Vous donnez d'une main, et retenez de l'autre,</l>
+	<l id='1823' part='i'>Mais Rome...</l>
+</sp>
+<sp who='PRUSIAS'><speaker>PRUSIAS.</speaker>
+	<l id='1823' part='f'>Et bien, Seigneur, aux dépends de mon fils</l>
+	<l id='1824'>Vous me verrez tenir tout ce que j'ai promis.</l>
+	<l id='1825'>Bien loin d'en appuyer la criminelle audace,</l>
+	<l id='1826'>Sur lui, sur tous les Siens je vais faire main basse,</l>
+	<l id='1827'>Et ses jours immolés pourront vous faire voir</l>
+	<l id='1828'>S'il est dans ce qu'il ose armé de mon pouvoir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Élise, Flaminius, Alcine. </head>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1829'>Poursuis, Flaminius, et pour te satisfaire</l>
+	<l id='1830'>Contre le sang du Fils arme le bras du Père.</l>
+	<l id='1831'>Tu vois, par Annibal échappé de tes mains,</l>
+	<l id='1832'>Comme le Ciel partout seconde tes desseins.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1833'>La victoire pour vous n'est pas encore entière,</l>
+	<l id='1834'>Et je vais donner ordre à vous revoir moins fière.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1835'>Je te conseillerais de ne t'éloigner pas.</l>
+	<l id='1836'>Que sais-tu si le Prince est maître de son bras ?</l>
+	<l id='1837'>Tu peux avoir besoin que je t'obtienne grâce,</l>
+	<l id='1838'>Et malgré l'attentat dont il punit l'audace,</l>
+	<l id='1839'>Je te dédaigne assez pour fuir l'abaissement</l>
+	<l id='1840'>D'abandonner ta vie à mon ressentiment.</l>
+</sp>
+<sp who='FLAMINIUS'><speaker>FLAMINIUS.</speaker>
+	<l id='1841'>Rome de ces mépris saura vous tenir compte.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Élise, Alcine. </head>
+<sp who='ALCINE'><speaker>ALCINE.</speaker>
+	<l id='1842'>Madame, à le braver n'êtes-vous point trop prompte ?</l>
+	<l id='1843'>Le Prince périra plutôt que vous trahir ;</l>
+	<l id='1844'>Mais est-il en état de se faire obéir ?</l>
+	<l id='1845'>Prusias est le Maître, et comme il se déclare...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1846'>Va, va, je sais l'accueil que Rome nous prépare,</l>
+	<l id='1847'>Et consens qu'elle songe à se faire valoir</l>
+	<l id='1848'>Quand je serai d'humeur à l'aller recevoir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Annibal, Élise, Nicomède, Alcine. </head>
+<sp who='ELISE'><speaker>ÉLISE à Annibal.</speaker>
+	<l id='1849' part='i'>Ah, Seigneur, c'est donc vous ?</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1849' part='f'>Oui, que le Ciel ramène,</l>
+	<l id='1850'>Pour vous faire encor mieux hériter de ma haine.</l>
+	<l id='1851'>De nos mauvais destins si vous venez à bout,</l>
+	<l id='1852'>Voici le bras, ma Fille, à qui vous devrez tout.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1853'>Seigneur, le Ciel peut-il favoriser un Traître ?</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1854'>Mais ce traître à vos yeux ne s'est pas fait connaître.</l>
+	<l id='1855'>Vous allez trembler, Prince, au nom de Prusias.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1856' part='i'>Quoi, mon père...</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1856' part='f'>Oui, de lui viennent ces attentats.</l>
+	<l id='1857'>L'innocence d'Attale est assez avérée.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1858'>Ô triomphe pour moi de trop peu de durée !</l>
+	<l id='1859'>N'importe, osons, Seigneur ; tant que j'aurai du sang,</l>
+	<l id='1860'>J'appuierai votre haine, et soutiendrai mon rang.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1861'>Elle doit à vos yeux être d'autant plus chère</l>
+	<l id='1862'>Que l'on voit chaque jour que Rome dégénère.</l>
+	<l id='1863'>Pyrrhus armant contre elle un dangereux parti,</l>
+	<l id='1864'>D'un poison préparé fut par elle averti.</l>
+	<l id='1865'>Quelque animosité qu'elle se crut permise,</l>
+	<l id='1866'>Elle n'en voulut point triompher par surprise.</l>
+	<l id='1867'>Cependant aujourd'hui le crime est de ses droits,</l>
+	<l id='1868'>Et pour perdre Annibal, elle corrompt les Rois.</l>
+</sp>
+</div2>
+<div2 type='scene' n='9'><head>SCÈNE IX. Annibal, Nicomède, Élise, Araxe, Alcine. </head>
+<sp who='ARAXE'><speaker>ARAXE à Nicomède.</speaker>
+	<l id='1869'>Seigneur, de Prusias plaignez la destinée.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1870' part='i'>Araxe.</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1870' part='m'>Il ne vit plus.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1870' part='f'>Ô funeste journée !</l>
+	<l id='1871' part='i'>Mon Père ne vit plus ?</l>
+</sp>
+<sp who='ARAXE'><speaker>ARAXE.</speaker>
+	<l id='1871' part='f'>À peine a-t-il appris</l>
+	<l id='1872'>Ce que pour Annibal vous avez entrepris,</l>
+	<l id='1873'>Que saisi tout à coup d'une fureur extrême,</l>
+	<l id='1874'>Pour vous couper passage, il est sorti lui-même,</l>
+	<l id='1875'>Il n'a trouvé qu'Attale, avec qui les Romains</l>
+<note> Actuellement rencontre est du féminin, mais à l'époque certains l'employaient au masculin, comme La Bruyère et malgré Vaugelas. </note>
+	<l id='1876'>Par un fatal rencontre étaient venus aux mains.</l>
+	<l id='1877'>Aux dépends de leur sang il se faisait connaître,</l>
+	<l id='1878'>Et remarquant le Roi, Vois si je suis un Traître,</l>
+	<l id='1879'>A-t-il dit. À ces mots redoublant sa fierté,</l>
+	<l id='1880'>Au milieu des Romains il s'est précipité.</l>
+	<l id='1881'>C'est là que Prusias armé pour leur défense</l>
+	<l id='1882'>A voulu s'opposer à cette violence.</l>
+	<l id='1883'>Il les a secondés contre Attale, et d'abord</l>
+	<l id='1884'>Sans savoir par quel bras on l'a vu tomber mort.</l>
+	<l id='1885'>Pour venger cette perte aux Romains si fatale,</l>
+	<l id='1886'>Ils s'animent l'un l'autre, enveloppent Attale,</l>
+	<l id='1887'>L'arrêtent, et craignant quelques malheurs nouveaux,</l>
+	<l id='1888'>Flaminius, dit-on, regagne ses vaisseaux.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1889'>Ô succès déplorable, ô perte trop amère !</l>
+	<l id='1890'>Romains, qui me coûtez la vertu de mon Père,</l>
+	<l id='1891'>Vous m'en ferez raison ; pour ce noble souci,</l>
+	<l id='1892'>Donnez l'ordre, Seigneur, vous êtes maître ici.</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL à Élise.</speaker>
+	<l id='1893'>C'est trop, il ne faut plus que votre amour se cache,</l>
+	<l id='1894'>Le Prince vous mérite, il est enfin sans tache ;</l>
+	<l id='1895'>Prenez-le pour Époux, et dans tous vos desseins</l>
+	<l id='1896'>Ayez pour seul objet la perte des Romains.</l>
+	<l id='1897'>Après un trop long faste un jour viendra peut-être</l>
+	<l id='1898'>Où ces Tyrans du monde adoreront un Maître,</l>
+	<l id='1899'>Et tremblant sous le joug qu'ils m'osaient destiner,</l>
+	<l id='1900'>Se soumettront aux lois qu'ils n'ont pu me donner,</l>
+	<l id='1901'>Puissent-ils, attendant ce honteux esclavage,</l>
+	<l id='1902'>Tourner contre leur sein leur plus sanglante rage,</l>
+	<l id='1903'>Se déchirer l'un l'autre, et d'un acier fatal</l>
+	<l id='1904'>Eux-mêmes s'immoler aux Mânes d'Annibal.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1905' part='i'>Aux mânes d'Annibal !</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1905' part='f'>Quoi, vous auriez pu croire</l>
+	<l id='1906'>Que j'eusse pris si peu l'intérêt de ma gloire,</l>
+	<l id='1907'>Qu'aux mains de mes Tyrans m'étant vu sans secours,</l>
+	<l id='1908'>Je leur eusse laissé quelque droit sur mes jours ?</l>
+	<l id='1909'>Cet anneau m'a fourni de quoi ne les pas craindre,</l>
+	<l id='1910' part='i'>Je meurs empoisonné.</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1910' part='m'>Dieux !</l>
+</sp>
+<sp who='ANNIBAL'><speaker>ANNIBAL.</speaker>
+	<l id='1910' part='f'>Gardez de me plaindre,</l>
+	<l id='1911'>Avecque trop d'éclat j'ai su remplir mon sort</l>
+	<l id='1912'>Pour vous donner sujet de regretter ma mort.</l>
+	<l id='1913'>Vivez pour haïr Rome, et maîtres de vos vies,</l>
+	<l id='1914'>Si d'un jaloux destin elles sont poursuivies,</l>
+	<l id='1915'>Envisageant toujours sa rigueur sans effroi,</l>
+	<l id='1916'>Bravez la tyrannie, et mourez comme moi.</l>
+</sp>
+<sp who='ELISE'><speaker>ÉLISE.</speaker>
+	<l id='1917' part='i'>C'en est fait, il expire. Ah, Seigneur !</l>
+</sp>
+<sp who='NICOMEDE'><speaker>NICOMÈDE.</speaker>
+	<l id='1917' part='f'>Ah, Madame,</l>
+	<l id='1918'>Que d'ennuis à la fois s'emparent de mon âme !</l>
+	<l id='1919'>Allons en Bithynie, et pour nous soulager,</l>
+	<l id='1920'>Faisons-y tout servir au soin de nous venger.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>
+

@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>BRADAMANTE, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1695</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE décembre 2009</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire française</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1691-1700</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">BRADAMANTE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1695">1695. AVEC PRIVILÈGE DU ROY.</docDate>
+		<docAuthor id="CORNEILLE, Thomas" bio='corneillet'>DE TH. CORNEILLE</docAuthor>
+		<docImprint>
+			<privilege id=""><head></head>
+			<p></p>
+</privilege>
+			<acheveImprime id=""></acheveImprime>
+			<printer id=""></printer>
+		</docImprint>
+		<performance>
+			<premiere date='1695-11-18' location='Théâtre de la rue des Fossés Saint-Germain'>Représenté pour la première fois le 18 novembre 1695 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
+		</performance>
+<epitre>
+<head>AU LECTEUR.</head>
+<p>Il y a plus de quinze ans que cette Pièce aurait paru au Théâtre, si je n'eusse pas appréhendé que la réputation de l'Arioste, tout fameux qu'il est, n'eût pas été d'un assez grand poids, pour autoriser l'incident, sur lequel toute l'économie en est fondée. Voir un Amant combattre son rival contre sa propre Maîtresse, est une chose si éloignée de nos moeurs, qu'on a demandé pourquoi Roger n'a pas combattu Léon, en lui déclarant qui il était, plutôt que d'être si religieux observateur de sa parole. Cependant il ne fallait point traiter le sujet de Bradamante, ou il fallait le traiter dans toutes les circonstances que mon Auteur m'a fournies. C'est ce que ce Sujet a d'extraordinaire, qui m'a obligé de le choisir par les situations heureuses qu'il m'a fait trouver pour beaucoup de Scènes. Si j'ai pu chercher à me satisfaire en composant cet Ouvrage, j'ai peut-être eu tort de l'exposer au Public, puisqu'il pouvait n'être pas du goût de tout le monde, et que le Parterre est présentement toujours rempli de Censeurs impitoyables, qui éclatent avec violence dès la moindre chose qui ne leur plaît pas ; mais c'est une faute que mes amis m'ont fait faire, et dans laquelle je me garderai bien de tomber à l'avenir, quelques idées favorables que me pût prêter l'histoire. Ce n'est pas que les moyens de remuer tout Paris ne soient connus par le grand succès des Pièces, qui attirent tous les jours des Assemblées plus nombreuses que l'on n'en a jamais vu quand on a représenté les plus beaux Ouvrages des plus célèbres Auteurs ; mais enfin il y a des temps pour tout, et s'il est un âge qui semble permettre ces sortes d'amusements, il en est un autre qui demande que l'on songe à la retraite...</p>
+<signature>T. CORNEILLE.</signature>
+</epitre>
+	<castList><head>ACTEURS.</head>
+		<castItem><role id="LEON" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>LÉON</role>, prince de Grèce.</castItem>
+		<castItem><role id="ROGER" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoueux'>ROGER</role>, amant de Bradamante.</castItem>
+		<castItem><role id="BRADAMANTE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>BRADAMANTE</role>, fille du Duc Aymon.</castItem>
+		<castItem><role id="MARPHISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MARPHISE</role>, soeur de Roger.</castItem>
+		<castItem><role id="DORALISE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>DORALISE</role>, confidente de Bradamante.</castItem>
+		<castItem><role id="ISMENE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ISMÈNE</role>, confidente de Marphise.</castItem>
+		<castItem><role id="TIMANTE" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>TIMANTE</role>, confident de Roger.</castItem>
+	</castList>
+	<set location='Aix-le-Chapelle' country='Allemagne' periode='IXème' link=''>La Scène est à la Cour de Charlemagne.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Bradamante, Doralise.</head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1'>Donne à Roger des bornes à ton zèle, </l>
+	<l id='2'>Tes soupçons lui font tort, il n'est point infidèle. </l>
+	<l id='3'>Trop d'amour m'a toujours répondu de sa foi, </l>
+	<l id='4'>Pour le croire touché d'une autre que de moi. </l>
+	<l id='5'>Même ardeur à tous deux nous rend l'âme constante, </l>
+	<l id='6'>En quelque lieu qu'il soit, il aime Bradamante, </l>
+	<l id='7'>Et sensible au malheur qui m'accable aujourd'hui, </l>
+	<l id='8'>Il soupire pour moi comme je fais pour lui. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='9'>La valeur de Roger aux plus fiers redoutable, </l>
+	<l id='10'>Pour vous toute Guerrière a pu le rendre aimable, </l>
+	<l id='11'>Mais de vos sens séduits c'est trop croire l'erreur, </l>
+	<l id='12'>Que de le préférer au Fils d'un Empereur. </l>
+	<l id='13'>Constantin vous offrant l'Empire de la Grèce, </l>
+	<l id='14'>Méritait pour ce fils toute votre tendresse ; </l>
+	<l id='15'>Il vous l'a demandée, et ses Ambassadeurs </l>
+	<l id='16'>Ont longtemps combattu vos injustes froideurs. </l>
+	<l id='17'>Cependant c'est en vain que Léon vient en France, </l>
+	<l id='18'>Qu'il rend toute la Cour témoin de sa constance, </l>
+	<l id='19'>Vous dédaignez ses voeux, et les lois du devoir </l>
+	<l id='20'>Pour vous faire obéir demeurent sans pouvoir. </l>
+	<l id='21'>Qu'a donc fait ce Roger de si digne de plaire, </l>
+	<l id='22'>Qu'au Diadème, à tout, votre amour le préfère ? </l>
+	<l id='23'>Par quels soins, quels devoirs a-t-il pu vous charmer ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='24'>Il m'aime, et c'est assez pour me le faire aimer, </l>
+	<l id='25'>Mille et mille vertus, dont l'éclat l'environne, </l>
+	<l id='26'>L'emportent sur celui dont brille une Couronne. </l>
+	<l id='27'>Pour un coeur noble et grand, la gloire a des appas </l>
+	<l id='28'>Que sans un nom fameux le plus haut rang n'a pas. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='29'>Mais Aimon votre père à cet amour s'oppose ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='30'>Cet amour, je l'avoue, à son courroux m'expose, </l>
+	<l id='31'>Mais lorsque autorisés à disposer de moi, </l>
+	<l id='32'>Mes frères à Roger engagèrent ma foi, </l>
+	<l id='33'>Satisfait de leur choix, il l'apprit sans colère ; </l>
+	<l id='34'>Et parce que Léon met ses soins à me plaire, </l>
+	<l id='35'>Qu'il m'offre un Diadème, il faut, pour l'accepter, </l>
+	<l id='36'>Trahir mille serments que je dois respecter ? </l>
+	<l id='37'>De cette lâcheté mon coeur est incapable. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='38'>Où l'amour est parfait, l'inconstance est blâmable, </l>
+	<l id='39'>Mais je voudrais savoir par où vous présumez </l>
+	<l id='40'>Que vous êtes aimée autant que vous aimez. </l>
+	<l id='41'>Roger qui par Léon voit traverser sa flamme, </l>
+	<l id='42'>S'abandonne aux fureurs qui possèdent son âme. </l>
+	<l id='43'>Il part, il doit en Grèce aller sur son rival </l>
+	<l id='44'>Jusqu'au milieu des siens porter le coup fatal. </l>
+	<l id='45'>Cependant ce Roger qu'on veut qui vous adore, </l>
+	<l id='46'>Cache ce qu'il devient, et Léon vit encore. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='47'>Cruelle, n'ai-je point d'assez vives douleurs ? </l>
+	<l id='48'>Quel plaisir te fais-tu de voir couler mes pleurs ? </l>
+	<l id='49'>Roger... Ah, quel surcroît aux maux dont je soupire ! </l>
+	<l id='50'>Sans doute il ne vit plus puisque Léon respire ; </l>
+	<l id='51'>C'est en vain que je cherche à douter de son sort, </l>
+	<l id='52'>Les jours de son rival m'assurent de sa mort. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='53'>Elle aurait fait éclat ; jamais un long silence</l>
+	<l id='54'>D'un Guerrier tel que lui n'a trahi l'espérance. </l>
+	<l id='55'>S'il meurt, c'est en Héros qu'il termine ses jours, </l>
+	<l id='56'>Mais croyez-moi, Madame, il suit d'autres amours, </l>
+	<l id='57'>Et tâche de cacher dans une obscure vie, </l>
+	<l id='58'>La honte qu'il se fait de vous avoir trahie. </l>
+	<l id='59'>Sans cela, pensez-vous qu'il vous pût oublier ? </l>
+	<l id='60'>Il sait ce qu'en tous lieux on a fait publier, </l>
+	<l id='61'>Que qui pourra sur vous remporter la victoire </l>
+	<l id='62'>Du nom de votre époux doit espérer la gloire. </l>
+	<l id='63'>Tantôt contre Léon le champ doit être ouvert. </l>
+<note type="L">Diadème : couronne, symbole du règne d'un souverain ou d'une souveraine.</note>
+	<l id='64'>Pourquoi ne prendre pas un diadème offert, </l>
+	<l id='65'>Et vouloir nous réduire aux mortelles alarmes </l>
+	<l id='66'>Que nous donne pour vous le sort douteux des armes ? </l>
+	<l id='67'>Vous pouvez y périr, Léon est renommé. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='68'>Je le sais, son courage est partout estimé, </l>
+	<l id='69'>Mais à ce que je suis ta crainte fait injure, </l>
+	<l id='70'>Je combats pour Roger, la victoire m'est sûre, </l>
+	<l id='71'>Et ce bras, toujours prêt à soutenir ma foi, </l>
+	<l id='72'>Fera voir que lui seul était digne de moi. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='73'>Si je ne craignais pas... Mais Léon qui s'avance </l>
+	<l id='74'>Mieux que moi là-dessus vous dira ce qu'il pense. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Léon, Bradamante, Doralise. </head>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='75'>Madame, permettez pour la dernière fois </l>
+	<l id='76'>Que je me plaigne à vous de vos injustes lois. </l>
+	<l id='77'>Plus je touche au moment où j'y dois satisfaire, </l>
+	<l id='78'>Plus je sens que mon coeur à moi-même est contraire. </l>
+	<l id='79'>Pour lui votre conquête est le plus grand des biens ; </l>
+	<l id='80'>Mais quand je m'y prépare, il en hait les moyens, </l>
+	<l id='81'>Et confus dans ses voeux qu'il approuve et rejette, </l>
+	<l id='82'>Voulant vous acquérir, il craint ce qu'il souhaite. </l>
+	<l id='83'>Non qu'un combat l'étonne ; il sait trop de quel prix </l>
+	<l id='84'>Est l'adorable objet dont on le voit épris. </l>
+	<l id='85'>Viennent tous ces Guerriers, dont la haute vaillance </l>
+	<l id='86'>A rempli l'Univers du renom de la France. </l>
+	<l id='87'>Qu'ils m'osent disputer le nom de votre époux, </l>
+	<l id='88'>Ferme, et sans m'étonner, je les attendrai tous, </l>
+	<l id='89'>Et pour en triompher, malgré leur avantage, </l>
+	<l id='90'>Il suffit que l'amour seconde mon courage. </l>
+	<l id='91'>Mais ce même courage, intrépide aux combats, </l>
+	<l id='92'>Où contre mes Rivaux je laisse agir mon bras, </l>
+	<l id='93'>Ce courage si ferme, et que rien n'épouvante, </l>
+	<l id='94'>Frémit, se laisse abattre au nom de Bradamante, </l>
+	<l id='95'>Il se rend, il lui cède, et je n'ai plus de coeur </l>
+	<l id='96'>Dès qu'il faut acquérir le nom de son vainqueur. </l>
+	<l id='97'>Ah, Madame, changez une loi si cruelle. </l>
+	<l id='98'>Ne désespérez point l'amant le plus fidèle, </l>
+	<l id='99'>Et par mes seuls devoirs laissez-moi remporter </l>
+	<l id='100'>Ce qu'en vous combattant je n'ose mériter. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='101'>Prince, depuis un mois je vous ai fait connaître </l>
+	<l id='102'>Quelle je fus toujours, et quelle je veux être. </l>
+	<l id='103'>Vous m'aviez demandé ce temps pour m'engager </l>
+	<l id='104'>À quitter un dessein que rien ne peut changer. </l>
+	<l id='105'>À quoi que votre amour pour le rompre s'obstine, </l>
+	<l id='106'>Ce n'est qu'à mon vainqueur que ma main se destine, </l>
+	<l id='107'>Et prêts à disputer la victoire entre nous, </l>
+	<l id='108'>Le trouble qui vous gêne est indigne de vous. </l>
+	<l id='109'>Mais je vois ce qui met ce trouble dans votre âme, </l>
+	<l id='110'>Il vous paraît honteux de combattre une Femme, </l>
+	<l id='111'>Et c'est ne vous donner à vaincre qu'à demi, </l>
+	<l id='112'>Que de vous mettre en tête un si faible ennemi. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='113'>Avec tout l'Univers qui les vante, les prise, </l>
+	<l id='114'>Je sais qu'on craint partout Bradamante et Marphise, </l>
+	<l id='115'>Que leur valeur est rare, et qu'en plus d'un combat </l>
+	<l id='116'>Des plus fameux exploits elle a terni l'éclat ; </l>
+	<l id='117'>Mais malgré tout le bruit que fait leur renommée, </l>
+	<l id='118'>Où prendre un ennemi dans Bramante aimée, </l>
+	<l id='119'>Et comment se résoudre à combattre, à s'armer, </l>
+	<l id='120'>Quand le coeur qui se rend n'est fait que pour aimer ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='121'>Et bien, Seigneur, et bien, si vous m'en voulez croire, </l>
+	<l id='122'>Nous ouvrirons le champ seulement pour la gloire. </l>
+	<l id='123'>Pour rendre en ce défi tout égal entre nous, </l>
+	<l id='124'>Renoncez au dessein de vous voir mon époux. </l>
+	<l id='125'>Étouffez un amour qui vous nuit, et me blesse. </l>
+	<l id='126'>Nous pourrons joindre alors la valeur à l'adresse,</l>
+	<l id='127'>Et voir qui de nous deux, dans ce noble intérêt, </l>
+	<l id='128'>Avec plus de fierté soutiendra ce qu'il est. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='129'>Et l'amour sur les coeurs prend-il si peu d'empire, </l>
+	<l id='130'>Qu'au moment qu'on le veut on puisse s'en dédire ; </l>
+	<l id='131'>Du combat jusqu'ici j'ai voulu m'affranchir </l>
+	<l id='132'>Pour faire agir mes soins, tâcher de vous fléchir, </l>
+	<l id='133'>Mais tous ces soins n'ont fait qu'offrir mieux à ma vue </l>
+	<l id='134'>Les rares qualités dont vous êtes pourvue. </l>
+	<l id='135'>Mon mal s'en est accru ; le trait qui m'a blessé, </l>
+	<l id='136'>Dans mon coeur plus avant s'est toujours enfoncé, </l>
+	<l id='137'>Et mes tristes devoirs n'ont servi qu'à me rendre </l>
+	<l id='138'>Capable d'un amour et plus fort et plus tendre. </l>
+	<l id='139'>Mais quelle est mon erreur, et que puis-je espérer </l>
+	<l id='140'>De qui pour mon rival se plaît à soupirer ? </l>
+	<l id='141'>Ma tendresse a beau faire, un autre a pris la place, </l>
+	<l id='142' part='i'>Roger, l'heureux Roger... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='142' part='f'>N'en dites rien de grâce, </l>
+	<l id='143'>Il est absent, Seigneur, et si quelque souci </l>
+	<l id='144' part='i'>Vous le fait voir à craindre... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='144' part='f'>Ah, que n'est-il ici ! </l>
+	<l id='145'>Pour empêcher mon coeur de se laisser abattre, </l>
+	<l id='146'>Que n'ai-je au lieu de vous ce rival à combattre ? </l>
+	<l id='147'>Avec combien de joie et de ravissement </l>
+	<l id='148' part='i'>Lui ferais-je éprouver... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='148' part='f'>Vous parlez en Amant. </l>
+	<l id='149'>Roger est dangereux, sa valeur est extrême, </l>
+	<l id='150'>Tout le monde lui cède, et Bradamante même. </l>
+	<l id='151'>Cependant Bradamante a le bras, a le coeur </l>
+	<l id='152'>Capable d'étonner le plus hardi vainqueur. </l>
+	<l id='153'>Et ce triomphe heureux dont l'ardeur vous entraîne, </l>
+	<l id='154'>Peut-être à l'obtenir aurez-vous quelque peine. </l>
+	<l id='155'>La gloire est un grand prix : s'il m'y faut renoncer, </l>
+	<l id='156'>Ce n'est que par ma mort qu'on m'y pourra forcer. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='157'>Moi, vouloir votre mort ? Que dites-vous, Madame ? </l>
+	<l id='158'>C'en est fait, je le vois, plus d'espoir pour ma flamme. </l>
+	<l id='159'>J'avais cru, s'agissant de gagner votre coeur, </l>
+	<l id='160'>Que vous n'affectiez point un combat de rigueur ; </l>
+	<l id='161'>Que ce serait assez pour avoir cette gloire, </l>
+	<l id='162'>Que sur vous par l'adresse on cherchât la victoire, </l>
+	<l id='163'>Et qu'où l'amour ne vainc que pour être soumis, </l>
+	<l id='164'>Un triomphe cruel n'était jamais permis ; </l>
+	<l id='165'>Mais puisque vous voulez une entière défaite, </l>
+	<l id='166'>Il faut, Madame, il faut vous rendre satisfaite. </l>
+	<l id='167'>Après ce dur aveu je sais ce que je dois, </l>
+	<l id='168'>Vous n'aurez point de peine à triompher de moi. </l>
+	<l id='169'>Sans m'opposer au bras qu'arme tant d'injustice, </l>
+	<l id='170'>J'irai de tout mon sang vous faire un sacrifice, </l>
+	<l id='171'>Et cherchant à mourir, présenter à vos coups </l>
+	<l id='172'>Ce coeur que je n'ai pu rendre digne de vous. </l>
+	<l id='173'>Du moins, comme à l'amour ma triste vie est due, </l>
+	<l id='174'>C'est par vous et pour vous que je l'aurai perdue, </l>
+	<l id='175'>Et j'aurai la douceur dans mes derniers soupirs </l>
+	<l id='176'>D'avoir, en expirant, contenté vos désirs. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='177'>Seigneur, le sang n'est pas ce que mon coeur demande. </l>
+	<l id='178'>Pour désarmer mon bras il suffit qu'on se rende, </l>
+	<l id='179'>Et quand il vous plaira me dédaigner assez </l>
+	<l id='180'>Pour rougir du projet où vous vous abaissez, </l>
+	<l id='181'>Quelque juste sujet qu'une autre eût de s'en plaindre, </l>
+	<l id='182'>Renonçant à l'amour vous n'avez rien à craindre. </l>
+	<l id='183'>Maîtresse de ma foi je réponds de vos jours. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='184'>Continuez, Madame, il vous vient du secours. </l>
+	<l id='185'>Marphise qui paraît, affermit dans votre âme </l>
+	<l id='186'>Le généreux mépris que l'on fait de ma flamme. </l>
+	<l id='187'>Je vous laisse avec elle, et vais me préparer </l>
+	<l id='188'>À ce qu'en vain encor je voudrais différer. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Bradamante, Marphise, Ismène, Doralise.</head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='189'>Avouez-le, Madame, il faut de la constance </l>
+	<l id='190'>Pour regarder le sceptre avec indifférence, </l>
+	<l id='191'>Et Léon, dont l'hymen vous doit faire régner, </l>
+	<l id='192'>Est d'un rang que sans peine on ne peut dédaigner. </l>
+	<l id='193'>Il vous en aura peint le solide avantage. </l>
+	<l id='194'>Quelquefois à céder un moindre charme engage, </l>
+	<l id='195'>Et je ne sais pourquoi je veux craindre aujourd'hui </l>
+	<l id='196'>Que vous ne combattiez moins pour vous que pour lui. </l>
+	<l id='197'>Pardonnez cette crainte à l'amitié sincère </l>
+	<l id='198'>Qui me fait partager les sentiments d'un frère. </l>
+	<l id='199'>Roger de votre amour se fait un tel bonheur, </l>
+	<l id='200'>Que s'il fallait vous perdre il mourrait de douleur. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='201'>Roger a mérité cette noble tendresse </l>
+	<l id='202'>Qui fait que dans son sort une soeur s'intéresse, </l>
+	<l id='203'>Mais de pareils soupçons me sont injurieux, </l>
+	<l id='204'>Et Marphise devrait me connaître un peu mieux. </l>
+	<l id='205'>C'est peu que pour Roger j'aie osé de mon père </l>
+	<l id='206'>Par d'éclatants refus m'attirer la colère. </l>
+	<l id='207'>Sur vingt Amants vaincus mon triomphe a de quoi </l>
+	<l id='208'>Justifier ma flamme, et signaler ma foi, </l>
+	<l id='209'>Et je puis mépriser ce qu'on en voudra croire, </l>
+	<l id='210'>Quand de si sûrs témoins répondent de ma gloire. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='211'>Vingt amants, il est vrai, n'ont que pour leur malheur </l>
+	<l id='212'>Osé de votre bras éprouver la valeur, </l>
+	<l id='213'>Mais leurs efforts trompés n'ont rien qui nous étonne. </l>
+	<l id='214'>Ces vingt Amants vaincus n'avaient pas de Couronne, </l>
+	<l id='215'>Et Léon contre vous, après tant de combats, </l>
+	<l id='216'>A des secours plus forts que celui de son bras. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='217'>Et si cette couronne a pour moi tant de charmes, </l>
+	<l id='218'>Quel motif m'a portée à recourir aux armes ? </l>
+	<l id='219'>Par ses Ambassadeurs Constantin me l'offrait, </l>
+	<l id='220'>Léon par son hymen à mes voeux l'assurait. </l>
+	<l id='221'>Pour ne l'accepter pas je me suis déclarée, </l>
+	<l id='222'>Et la foi qu'à Roger j'ai de nouveau jurée, </l>
+	<l id='223'>Ne laissant nul espoir d'ébranler mon amour, </l>
+	<l id='224'>M'a fait pendant six mois exiler de la Cour. </l>
+	<l id='225'>Sur moi par ses rigueurs qu'a pu le Duc mon père ? </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='226'>Ce fut sans doute aimer que braver sa colère, </l>
+	<l id='227'>Mais à qui vous vaincra promettre votre main, </l>
+	<l id='228'>C'est rendre de l'amour le triomphe incertain. </l>
+	<l id='229'>Si de l'ambition vous êtes possédée, </l>
+	<l id='230'>On impute au hasard la victoire cédée, </l>
+	<l id='231'>Et le nom de vainqueur qui vous donne un époux, </l>
+	<l id='232'>Met Léon en état d'être digne de vous. </l>
+	<l id='233'>On peut se repentir d'un refus magnanime. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='234'>Je puis ne vaincre pas, vous m'en faites un crime ; </l>
+	<l id='235'>Mais quel moyen plus sûr ai-je eu de m'engager </l>
+	<l id='236'>À devenir le prix de l'amour de Roger. </l>
+	<l id='237'>Mon père sur mes voeux par là n'a plus d'empire, </l>
+	<l id='238'>Aux lois de mon défi le Roi l'a fait souscrire, </l>
+	<l id='239'>Et tout favorisant un si noble dessein, </l>
+	<l id='240'>Il ne tient qu'à Roger de mériter ma main. </l>
+	<l id='241'>Quand à le couronner l'amour par moi s'apprête, </l>
+	<l id='242'>Que ne vient-il, l'ingrat, disputer sa conquête ? </l>
+	<l id='243'>Mais peut-être qu'ailleurs un mérite éclatant </l>
+	<l id='244' part='i'>L'arrête en des liens... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='244' part='f'>Lui ? Le croire inconstant ? </l>
+	<l id='245' part='i'>Ah, vous voulez changer. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='245' part='f'>C'en est assez, Madame, </l>
+	<l id='246'>Soupçonnez ma conduite, et doutez de ma flamme. </l>
+	<l id='247'>Le champ s'ouvre ; aujourd'hui mon bras doit être armé, </l>
+	<l id='248'>Et vous saurez bientôt si Roger est aimé. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Marphise, Ismène.</head>
+<sp who='ISMENE'><speaker>ISMÈNE.</speaker>
+	<l id='249'>Après ce qu'elle a fait votre crainte m'étonne. </l>
+	<l id='250'>Léon n'a pu lui faire accepter la couronne, </l>
+	<l id='251'>Et quand vous la voyez s'apprêter au combat... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='252'>Pour de fausses vertus il est un faux éclat. </l>
+	<l id='253'>Si contre lui d'abord elle se fût armée, </l>
+	<l id='254'>Tu ne me verrais pas inquiète, alarmée, </l>
+	<l id='255'>Mais avoir consenti qu'il ait pendant six mois </l>
+	<l id='256'>Essayé par ses soins de mériter son choix</l>
+	<l id='257'>Avoir pu l'écouter sans dédain, sans colère, </l>
+	<l id='258'>N'est-ce pas faire voir qu'elle immole mon frère ? </l>
+	<l id='259'>Et que peut un absent, dans ces devoirs rendus, </l>
+	<l id='260'>Contre l'offre d'un trône, et des soins assidus ? </l>
+</sp>
+<sp who='ISMENE'><speaker>ISMÈNE.</speaker>
+	<l id='261'>Mais craignant qu'en secret Bradamante ne l'aime, </l>
+	<l id='262'>Quand vous la condamnez, n'est-ce point pour vous-même, </l>
+	<l id='263'>Et Léon vous est-il assez indifférent... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='264'>Au plaisir de régner la plus fière se rend, </l>
+	<l id='265'>Je l'avoue, et Léon, s'il m'offrait son hommage, </l>
+	<l id='266'>D'un indigne refus n'essuierait pas l'outrage. </l>
+	<l id='267'>Te faut-il dire plus ? D'un sentiment jaloux </l>
+	<l id='268'>Ma vanité blessée anime mon courroux. </l>
+	<l id='269'>Il aime Bradamante ; a-t-elle plus de charmes, </l>
+	<l id='270'>A-t-elle plus que moi de renom dans les armes ? </l>
+	<l id='271'>Ai-je moins de mon bras signalé la valeur ? </l>
+	<l id='272'>Enfin, soit pour Roger dont je plains le malheur, </l>
+	<l id='273'>Soit pour moi qui voudrais une gloire éclatante, </l>
+	<l id='274'>Je ne puis voir Léon Amant de Bradamante, </l>
+	<l id='275'>Et pour rompre les noeuds qui les pourraient unir, </l>
+	<l id='276'>Il n'est point d'entreprise où je n'ose venir. </l>
+	<l id='277'>Si contre leur hymen je n'ai point d'autre voie... </l>
+	<l id='278'>Mais que vois-je ? Timante ! Ah, quel sujet de joie ! </l>
+	<l id='279'>Pour finir les ennuis soufferts jusqu'à ce jour, </l>
+	<l id='280'>Me vient-il de mon frère apprendre le retour ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Marphise, Timante, Ismène. </head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='281' part='i'>Qu'est devenu Roger ? </l>
+</sp>
+<sp who='TIMANTE'><speaker>TIMANTE.</speaker>
+	<l id='281' part='f'>Roger, toujours le même, </l>
+	<l id='282'>Après un long exil vient revoir ce qu'il aime. </l>
+	<l id='283'>L'éloignement faisait son plus cruel souci. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='284'>Que mon bonheur est grand de le savoir ici ! </l>
+	<l id='285' part='i'>Où pourrai-je le voir ? </l>
+</sp>
+<sp who='TIMANTE'><speaker>TIMANTE.</speaker>
+	<l id='285' part='f'>Sa flamme impatiente </l>
+	<l id='286'>L'a fait en arrivant voler chez Bradamante, </l>
+	<l id='287'>Avant que de paraître il veut l'entretenir. </l>
+</sp>
+<sp who='ISMENE'><speaker>ISMÈNE.</speaker>
+	<l id='288'>Il n'est rien que l'amour ne lui fasse obtenir. </l>
+	<l id='289'>Quand à l'ambition elle serait sensible... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='290'>Sa valeur jusqu'ici l'a fait voir invincible. </l>
+	<l id='291'>Nous saurons par l'accueil qu'en recevra Roger, </l>
+	<l id='292'>À quoi l'amour pour lui peut encor l'engager. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Roger, Marphise.</head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='293'>Oui, ma soeur, dans ses yeux j'ai vu toute la joie </l>
+	<l id='294'>Qu'à revoir un Amant un tendre coeur déploie. </l>
+	<l id='295'>Sa surprise mêlée à ses ravissements </l>
+	<l id='296'>Donnait à sa beauté de nouveaux agréments, </l>
+	<l id='297'>Et depuis que sa foi me répond de sa flamme, </l>
+	<l id='298'>Jamais transport si doux n'avait saisi son âme. </l>
+	<l id='299'>Il a fallu d'abord lui conter quel destin </l>
+	<l id='300'>M'avait de son absence augmenté le chagrin ; </l>
+	<l id='301'>Mon départ, de Léon rendait la mort certaine, </l>
+	<l id='302'>Et lorsqu'elle a connu que contraire à ma haine, </l>
+	<l id='303'>Par d'imprévus retours le Ciel avait permis </l>
+	<l id='304'>Qu'après nous être vus nous devinssions amis... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='305'>Vous, ami de Léon ? Quelle humeur inconstante... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='306'>Vous m'allez condamner comme a fait Bradamante ; </l>
+	<l id='307'>Mais quand j'aime Léon, au lieu de me blâmer, </l>
+	<l id='308'>Voyez si je me puis défendre de l'aimer. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='309'>En vain cette amitié vous paraît excusable. </l>
+	<l id='310'>Par où Léon pour vous en sera-t-il capable ? </l>
+	<l id='311'>C'est vous, comme rival, qui causez ses ennuis, </l>
+	<l id='312' part='i'>C'est vous... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='312' part='f'>Léon encore ignore qui je suis. </l>
+	<l id='313'>M'ayant sauvé le jour, généreux, magnanime, </l>
+	<l id='314'>Il ne connaît en moi qu'un ami qu'il estime, </l>
+	<l id='315'>Et le faux nom d'Hippalque a caché jusqu'ici </l>
+	<l id='316'>Ce rival, dont enfin il doit être éclairci. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='317'>Il ne vous croit qu'Hippalque, et de votre poursuite... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='318'>Vous sûtes mon départ, apprenez-en la suite. </l>
+	<l id='319'>Désespéré de voir qu'Aymon trop rigoureux, </l>
+	<l id='320'>Éloignant Bradamante, eût dédaigné mes voeux, </l>
+	<l id='321'>Je regarde Léon comme auteur de l'outrage, </l>
+	<l id='322'>Et le coeur tout rempli de ma jalouse rage, </l>
+	<l id='323'>Je pars, et dans la Grèce où l'on me voit voler, </l>
+	<l id='324'>À mon espoir trahi je cherche à l'immoler. </l>
+	<l id='325'>J'approche de Belgrade, et j'y vois deux armées, </l>
+	<l id='326'>D'une ardeur inégale au combat animées. </l>
+	<l id='327'>Les Bulgares rompus commençaient à plier, </l>
+	<l id='328'>Plus d'ordres que la peur ne leur fît oublier. </l>
+	<l id='329'>Léon qui s'assurait déjà de la victoire </l>
+	<l id='330'>Par la mort de leur Roi s'était couvert de gloire </l>
+	<l id='331'>Et d'un si rude coup ces Peuples étonnés </l>
+	<l id='332'>Au désordre, à l'effroi s'étaient abandonnés, </l>
+	<l id='333'>Tout parlait du vainqueur. La fureur dans mon âme, </l>
+	<l id='334'>À ce nom odieux, et s'excite et s'enflamme, </l>
+	<l id='335'>Je plains ses ennemis, et pour les dérober </l>
+	<l id='336'>Au bras victorieux qui les fait succomber, </l>
+	<l id='337'>J'embrasse leur parti, les presse, exhorte, anime, </l>
+	<l id='338'>Verse du sang partout, joins victime à victime, </l>
+	<l id='339'>Et dans chaque ennemi croyant voir mon rival, </l>
+	<l id='340'>Rends aux plus fiers d'entre eux mon désespoir fatal. </l>
+	<l id='341'>J'intimide les Grecs, remplis leur Camp d'alarmes ; </l>
+	<l id='342'>Et découvrant un Chef que distinguent ses armes, </l>
+	<l id='343'>Je le prends pour Léon, le suis de rang en rang, </l>
+	<l id='344'>Le renverse, et le laisse expirer dans son sang. </l>
+	<l id='345'>Les Bulgares bientôt ont l'entier avantage, </l>
+	<l id='346'>Tout leur cède, et la nuit fait cesser le carnage. </l>
+	<l id='347'>Cependant la fureur dont j'étais occupé </l>
+	<l id='348'>M'ayant poussé trop loin, je suis enveloppé. </l>
+	<l id='349'>Par un gros d'ennemis qui contre moi s'unissent, </l>
+	<l id='350'>Pressé de toutes parts, je cède, ils me saisissent, </l>
+	<l id='351'>Me mènent en triomphe, et rendent Constantin, </l>
+	<l id='352'>Lorsqu'il l'attend le moins, maître de mon destin. </l>
+	<l id='353'>Il veut savoir mon nom ; après un long silence </l>
+	<l id='354'>Je prends celui d'Hippalque, et cache ma naissance. </l>
+	<l id='355'>Léon vient. Cet objet me rempli de fureur, </l>
+	<l id='356'>Et l'entendant pour moi conjurer l'Empereur, </l>
+	<l id='357'>Demander qu'on me traite en Guerrier magnanime, </l>
+	<l id='358'>Je réponds fièrement à ces marques d'estime. </l>
+	<l id='359'>Du Palais, qui m'était pour prison destiné, </l>
+	<l id='360'>Dans un cachot obscur je suis bientôt mené. </l>
+	<l id='361'>Point de grâce pour moi, quoique Léon l'implore. </l>
+	<l id='362'>J'avais versé le sang d'un Fils de Théodore. </l>
+	<l id='363'>De Constantin son frère elle obtient aisément </l>
+	<l id='364'>Qu'on immole ma vie à son ressentiment. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='365' part='i'>Ah, que m'apprenez-vous ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='365' part='f'>La mort la plus cruelle </l>
+	<l id='366'>Pour remplir sa fureur à peine suffit-elle. </l>
+	<l id='367'>Sa vengeance médite un supplice nouveau, </l>
+	<l id='368'>Et j'attendais la main d'un infâme bourreau, </l>
+	<l id='369'>Quand un Libérateur, qu'à ma défense anime </l>
+	<l id='370'>D'une honteuse mort l'arrêt illégitime, </l>
+	<l id='371'>Vient la nuit me tirer de cet affreux séjour, </l>
+	<l id='372'>Où jamais le Soleil ne fit entrer le jour. </l>
+	<l id='373'>Le croirez-vous, ma soeur ? C'était Léon lui-même, </l>
+	<l id='374'>Qui me veut pour ami, demande que je l'aime, </l>
+	<l id='375'>Et qui dans un Vaisseau, qu'il faisait tenir prêt, </l>
+	<l id='376'>Met ma vie à couvert d'un si funeste arrêt. </l>
+	<l id='377'>Qu'un bienfait aux grands coeurs est un sensible charme ! </l>
+	<l id='378'>Je veux perdre Léon, sa vertu me désarme. </l>
+	<l id='379'>S'il est jamais au Trône, il m'en donne sa foi, </l>
+	<l id='380'>L'Empire est moins à lui qu'il ne doit être à moi. </l>
+	<l id='381'>Et l'appui de mon bras, dont la valeur l'étonne, </l>
+	<l id='382'>Lui tiendra toujours lieu de plus d'une couronne. </l>
+	<l id='383'>Je m'embarque, et trouvant un malheur sans égal </l>
+	<l id='384'>À n'être plus en droit de haïr mon rival, </l>
+	<l id='385'>Confus, irrésolu, je prends diverses routes, </l>
+	<l id='386'>Je n'en choisis aucune, et les suis presque toutes, </l>
+	<l id='387'>Tant qu'enfin las d'errer, après mille dangers, </l>
+	<l id='388'>Je descends inconnu sur des bords étrangers. </l>
+	<l id='389'>Je n'y suis pas longtemps que l'on me fait entendre </l>
+	<l id='390'>Quel généreux parti Bradamante a su prendre. </l>
+	<l id='391'>Son défi me console autant qu'il me surprend, </l>
+	<l id='392'>Je cède plein de joie à l'espoir qu'il me rend, </l>
+	<l id='393'>Reviens soudain en France, et ma surprise augmente, </l>
+	<l id='394'>Quand je sais que Léon y combat Bradamante. </l>
+	<l id='395'>Je le croyais en Grèce, où je l'avais laissé. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='396'>L'amour en ce combat est juge intéressé. </l>
+	<l id='397'>N'appréhendez-vous point qu'il ose la contraindre... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='398'>Un Amant bien touché peut-il aimer sans craindre ? </l>
+	<l id='399'>Bradamante vaincra ; je connais sa valeur, </l>
+	<l id='400'>Mais la voir exposée est toujours un malheur. </l>
+	<l id='401'>Léon est un guerrier, qui fameux, redoutable, </l>
+	<l id='402'>Avant que de céder, sera de tout capable. </l>
+	<l id='403'>Son amour sans espoir, s'il ne triomphe pas, </l>
+	<l id='404'>En dépit de lui-même animera son bras. </l>
+	<l id='405'>Ce qui peut arriver me gêne, m'épouvante. </l>
+	<l id='406'>Hélas ! S'il en coûtait du sang à Bradamante ! </l>
+	<l id='407'>Léon peut la blesser sans en être vainqueur. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='408'>Ah, craignez bien plutôt les blessures du coeur. </l>
+	<l id='409'>En faveur de Léon qui cherchait à lui plaire, </l>
+	<l id='410'>Depuis un mois entier le combat se diffère. </l>
+	<l id='411'>Elle a souffert ses soins, l'a toujours écouté. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='412'>Moi, prendre aucun soupçon de sa fidélité ! </l>
+	<l id='413'>Après ce qu'elle a fait, ce qu'elle fait encore, </l>
+	<l id='414'>Constante, généreuse, il faut que je l'adore. </l>
+	<l id='415'>Toujours également sa flamme se soutient, </l>
+	<l id='416' part='i'>L'absence ni le temps... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='416' part='f'>Je l'aperçois qui vient, </l>
+	<l id='417'>Parlez-lui, mais songez qu'en cédant la victoire, </l>
+	<l id='418'>Elle s'assure un trône, et tremblez pour sa gloire. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Bradamante, Roger.</head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='419'>Que vous disait Marphise ? Elle semble douter </l>
+	<l id='420'>Qu'à l'éclat des grandeurs je veuille résister. </l>
+	<l id='421'>Le Trône où de Léon l'hymen peut me conduire, </l>
+	<l id='422'>En faveur de sa flamme a de quoi me séduire ? </l>
+	<l id='423'>À défendre vos droits je puis manquer de coeur, </l>
+	<l id='424'>Trahir votre tendresse, et souffrir un vainqueur ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='425'>Pardonnez-lui, Madame, un soupçon téméraire. </l>
+	<l id='426'>C'est une soeur sensible aux intérêts d'un frère. </l>
+	<l id='427'>Elle sait, connaissant l'excès de mon amour, </l>
+	<l id='428'>Qu'il faut si je vous perds, que je perde le jour. </l>
+	<l id='429'>Abandonnez Roger, je renonce à la vie. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='430'>Je ne combattrais pas si j'avais cette envie. </l>
+	<l id='431'>Ce fut pour vous garder et mon coeur et ma main </l>
+	<l id='432'>Que d'un fameux défi je formai le dessein. </l>
+	<l id='433'>Du titre d'infidèle il m'épargne la honte. </l>
+	<l id='434'>Combattant, je crains peu que Léon me surmonte. </l>
+	<l id='435'>Ce n'est qu'au seul Roger qu'on me verra souffrir </l>
+	<l id='436'>La gloire de me vaincre et de me conquérir. </l>
+	<l id='437'>De mon coeur à lui seul le choix m'a destinée. </l>
+	<l id='438'>Cependant ce Roger m'avait abandonnée, </l>
+	<l id='439'>Et peut-être il voudrait que Léon aujourd'hui, </l>
+	<l id='440'>Devenu mon vainqueur, me forçât d'être à lui. </l>
+	<l id='441'>Peut-être un autre amour qu'il voudrait satisfaire, </l>
+	<l id='442'>Lui ferait de ma perte une peine légère. </l>
+	<l id='443'>Du moins, lorsqu'il revient, un changement fatal </l>
+	<l id='444'>Fait que je le retrouve ami de son rival. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='445'>Le Ciel m'en est témoin ; touché de votre peine, </l>
+	<l id='446'>Je n'ai cherché Léon que pour suivre ma haine. </l>
+	<l id='447'>Armé contre ses jours, mes plus ardents désirs </l>
+	<l id='448'>Étaient de l'immoler à vos tristes soupirs ; </l>
+	<l id='449'>Mais ai-je pu garder une si noire envie, </l>
+	<l id='450'>Lorsque ouvrant ma prison, il m'a sauvé la vie ? </l>
+	<l id='451'>Sous ce rare bienfait qui fit trembler ma foi, </l>
+	<l id='452'>Ma vengeance étouffée a langui malgré moi. </l>
+	<l id='453'>Revenant à la Cour, j'aurais de votre père </l>
+	<l id='454'>De nouveau contre vous allumé la colère. </l>
+	<l id='455'>Ainsi de ville en ville, errant, plein de souci, </l>
+	<l id='456' part='i'>J'ai cru devoir... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='456' part='f'>Hélas ! Peut-on aimer ainsi ? </l>
+	<l id='457'>Et qui m'assurera qu'une si longue absence </l>
+	<l id='458'>Ne marque pas en vous quelque faible inconstance ? </l>
+	<l id='459'>Un autre objet a pu, par des charmes plus doux, </l>
+	<l id='460' part='i'>Mériter que vos soins... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='460' part='f'>De quoi m'accusez-vous? </l>
+	<l id='461'>Si quelque feu nouveau me rendait infidèle, </l>
+	<l id='462'>Quand de votre défi j'eus appris la nouvelle, </l>
+	<l id='463'>Serais-je ici venu, plein d'une vive ardeur, </l>
+	<l id='464'>Pour tenter un combat qui vous donne au vainqueur ? </l>
+	<l id='465'>Léon m'a prévenu, je le vois avec honte, </l>
+	<l id='466'>Mon arrivée ici devait être plus prompte, </l>
+	<l id='467'>Mais par mille accidents en chemin arrêté... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='468'>Je saurai de Léon confondre la fierté, </l>
+	<l id='469'>Et le prix qu'il aura de son injuste flamme, </l>
+	<l id='470'>Sera de succomber sous la main d'une Femme. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='471'>Ne le dédaignez point; sur des Morts entassés </l>
+	<l id='472'>J'ai vu les plus hardis par son bras terrassés. </l>
+	<l id='473'>Malgré tous leurs efforts, sa valeur triomphante... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='474'>Personne jusqu'ici n'a vaincu Bradamante, </l>
+	<l id='475'>Et contre cent Guerriers, d'assez nobles combats </l>
+	<l id='476'>Ont fait voir ce que peut la force de mon bras. </l>
+	<l id='477'>Ma foi donnée à celui-ci m'engage, </l>
+	<l id='478'>Et de mon ennemi quel que soit le courage </l>
+	<l id='479'>Je redouterai peu ses plus terribles coups, </l>
+	<l id='480'>Lorsque je défendrai ce qui doit être à vous. </l>
+	<l id='481'>Comme je vous aurai pour témoin de ma gloire, </l>
+	<l id='482'>En vain il me voudra disputer la victoire. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='483' part='i'>Et ne se peut-il pas... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='483' part='f'>Si Léon est vainqueur, </l>
+	<l id='484'>J'y consens, plaignez-vous d'un infidèle coeur. </l>
+	<l id='485'>Dites que me laissant flatter d'un Diadème... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='486'>Vous vaincrez, je le sais, mais enfin je vous aime, </l>
+	<l id='487'>Et quoi que rien pour vous ne me doive troubler, </l>
+	<l id='488'>Je ne pourrai vous voir combattre sans trembler. </l>
+	<l id='489'>Ma raison aura beau repousser mes alarmes, </l>
+	<l id='490'>C'est toujours s'exposer que de prendre les armes. </l>
+	<l id='491'>Je vois le fier Léon charmé de vos appas. </l>
+	<l id='492'>Pour ne vous point céder que n'osera-t-il pas ? </l>
+	<l id='493' part='i'>Quels efforts ! </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='493' part='f'>Ses efforts feront voir à sa honte, </l>
+	<l id='494'>Qu'il n'est rien que pour vous mon amour ne surmonte, </l>
+	<l id='495'>Et que pour maintenir contre d'injustes lois </l>
+	<l id='496'>Ma parole donnée, et l'honneur de mon choix, </l>
+	<l id='497'>Dans les plus grands périls, s'il était nécessaire... </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Bradamante, Roger, Doralise.</head>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='498'>Je viens vous avertir que le Duc votre père... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='499' part='i'>Et bien ? </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='499' part='m'>Il vous demande. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='499' part='f'>Il faut l'aller trouver. </l>
+	<l id='500'>De nouveau pour le Trône il me veut éprouver, </l>
+	<l id='501'>Et si je l'en croyais, ma facile défaite </l>
+	<l id='502'>Jetterait sur Léon la gloire qu'il souhaite, </l>
+	<l id='503'>Mais dût-il contre moi redoubler son courroux, </l>
+	<l id='504'>Soyez sûr que jamais je ne serai qu'à vous. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV.</head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='505'>Je ne serai qu'à vous ? Ô promesse charmante ! </l>
+	<l id='506'>Quel coeur peut égaler celui de Bradamante ? </l>
+	<l id='507'>Pour me garder sa foi, je lui vois dédaigner </l>
+	<l id='508'>Un hymen glorieux qui la ferait régner. </l>
+	<l id='509'>Sceptre, Trône, grandeurs, pour moi tout se méprise. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Léon, Roger.</head>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='510'>Que vois-je ? Me trompé-je ? Ô ciel ! Quelle surprise ! </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='511' part='i'>Seigneur. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='511' part='f'>Je puis donc croire au rapport de mes yeux ? </l>
+	<l id='512'>C'est vous, mon cher Hippalque, Hippalque est en ces lieux ! </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='513'>J'y viens être témoin de la nouvelle gloire </l>
+	<l id='514'>Que répandra sur vous une illustre victoire. </l>
+	<l id='515'>Pour voir rendre justice à votre hommage offert, </l>
+	<l id='516'>J'apprends qu'en ce grand jour le champ vous est ouvert. </l>
+	<l id='517'>Des soins que ce projet depuis longtemps vous coûte, </l>
+	<l id='518' part='i'>Le prix a tant d'appas... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='518' part='f'>Le prix est grand sans doute, </l>
+	<l id='519'>Mais pour en bien juger, il faudrait comme moi </l>
+	<l id='520'>De l'excès de l'amour s'être fait une loi, </l>
+	<l id='521'>Avoir senti longtemps le charme qui m'enchante. </l>
+	<l id='522'>Ah, si vous connaissiez tout ce qu'est Bradamante. </l>
+	<l id='523'>Si vous-même aviez vu quels nobles sentiments </l>
+	<l id='524'>De son coeur généreux règlent les mouvements. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='525'>Par votre attachement je vois tout son mérite. </l>
+	<l id='526'>Et lorsque sa conquête au combat vous invite, </l>
+	<l id='527' part='i'>Votre amour... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='527' part='f'>Qu'il doit m'être doux et glorieux, </l>
+	<l id='528'>S'il triomphe aujourd'hui, que ce soit à vos yeux ! </l>
+	<l id='529'>Mais je veux avec vous bannir toute contrainte. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='530' part='i'>Suis-je si malheureux que... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='530' part='f'>Parlez-moi sans feinte. </l>
+	<l id='531'>Une étroite amitié s'est formée entre nous. </l>
+	<l id='532'>Ce qu'elle peut sur moi, le peut-elle sur vous ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='533'>Vous n'en sauriez douter sans me faire un outrage. </l>
+	<l id='534'>Seigneur, et s'il s'agit, par un prompt témoignage, </l>
+	<l id='535' part='i'>D'affronter cent périls... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='535' part='f'>Vous pouvez m'obliger, </l>
+	<l id='536'>Mais n'appréhendez point de vous trop engager. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='537'>Quel service assez grand pour vous me peut suffire ? </l>
+	<l id='538'>Je dois à vos bontés le jour que je respire. </l>
+	<l id='539'>Sans votre heureux secours une cruelle mort </l>
+	<l id='540'>Par une main infâme eût terminé mon sort. </l>
+	<l id='541'>Pour payer ce bienfait, expliquez-vous de grâce, </l>
+	<l id='542'>Ordonnez ; il n'est rien que pour vous je ne fasse. </l>
+	<l id='543'>J'en jure par la foi qu'en ce que j'ai promis </l>
+	<l id='544'>L'honneur me fait garder jusqu'à mes ennemis. </l>
+	<l id='545' part='i'>Elle est inviolable. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='545' part='f'>Après cette assurance, </l>
+	<l id='546'>Je vais vous faire voir quelle est ma confiance. </l>
+	<l id='547'>J'aime, et prêt d'entreprendre un important combat, </l>
+	<l id='548'>Quand je vois contre qui, mon coeur tremble et s'abat. </l>
+	<l id='549'>Pour m'épargner ce trouble et finir mes alarmes, </l>
+	<l id='550'>Il faut, Hippalque, il faut vous cacher sous mes armes, </l>
+	<l id='551'>Combattre Bradamante, et contre elle en ce jour </l>
+	<l id='552'>Par un heureux triomphe assurer mon amour. </l>
+	<l id='553'>Je mets entre vos mains tout l'espoir de ma vie. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='554'>De trop d'aveuglement votre estime est suivie. </l>
+	<l id='555'>Quoi, Seigneur, si l'amour fait votre unique bien, </l>
+	<l id='556' part='i'>Sur ma faible valeur... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='556' part='f'>Je ne hasarde rien. </l>
+	<l id='557'>Qui dans un camp vaincu ramène la victoire, </l>
+	<l id='558'>Ne peut pour mon amour combattre qu'avec gloire. </l>
+	<l id='559' part='i'>Vous m'avez tout promis. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='559' part='f'>Seigneur, pensez-y mieux. </l>
+	<l id='560'>Il faut de ce combat sortir victorieux. </l>
+	<l id='561'>Et par où plus qu'à vous me sera-t-il facile... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='562'>Ne comptez-vous pour rien d'avoir le coeur tranquille ? </l>
+	<l id='563'>Comme vous n'aimez point, demeurant tout à vous, </l>
+	<l id='564'>Vous saurez ménager l'adresse de vos coups. </l>
+	<l id='565'>Mais un Amant peut-il attaquer ce qu'il aime </l>
+	<l id='566'>Sans qu'il sente aussitôt une frayeur extrême ! </l>
+	<l id='567'>Si la gloire du prix a de quoi l'animer, </l>
+	<l id='568'>Sa main par son amour se laisse désarmer. </l>
+	<l id='569'>Au moindre coup qu'il porte, il croit commettre un crime. </l>
+	<l id='570'>La défense lui semble à peine légitime, </l>
+	<l id='571'>Il recule, il s'étonne, et son timide coeur </l>
+	<l id='572'>Ne saurait se résoudre à vaincre son vainqueur. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='573'>L'ardeur de vous servir m'y fait voir un doux charme. </l>
+	<l id='574'>Mais, Seigneur, l'amitié comme l'amour s'alarme, </l>
+	<l id='575'>Et malgré tout mon zèle, il se peut que ma main... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='576'>Non, si vous combattez, mon bonheur est certain. </l>
+	<l id='577'>Rien ne peut empêcher le succès que j'espère. </l>
+	<l id='578'>Enfin, mon cher Hippalque, il faut me satisfaire, </l>
+	<l id='579'>Je l'attends, le demande, et ne veux être heureux, </l>
+	<l id='580'>Que quand je tiendrai tout d'un ami généreux. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='581'>Encore un coup, Seigneur, l'amitié trop facile </l>
+	<l id='582' part='i'>Vous fait croire de moi... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='582' part='f'>L'excuse est inutile, </l>
+	<l id='583'>Je n'écoute plus rien, et vais faire apprêter </l>
+	<l id='584'>Les armes que mon nom vous engage à porter. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI.</head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='585'>Non, tout ce que du Ciel la plus forte colère </l>
+	<l id='586'>Contre un homme odieux est capable de faire, </l>
+	<l id='587'>Ne saurait approcher de l'affreuse douleur </l>
+	<l id='588'>Où me tient abîmé l'excès de mon malheur. </l>
+	<l id='589'>Quoi donc ? Il faut tourner mon bras contre moi-même. </l>
+	<l id='590'>Il faut pour mon rival m'arracher ce que j'aime ? </l>
+	<l id='591'>Ma raison m'abandonne, et dans ce dur revers, </l>
+	<l id='592'>Interdit, accablé, je m'égare et me perds. </l>
+	<l id='593'>Ô promesse, ô parole imprudemment donnée ! </l>
+	<l id='594'>Infortuné Roger, remplis ta destinée, </l>
+	<l id='595'>Renonce à ton amour, et trop parfait ami </l>
+	<l id='596'>Va rendre de Léon le bonheur affermi, </l>
+	<l id='597'>Va combattre, et gagnant une indigne victoire, </l>
+	<l id='598'>Aspire à te couvrir d'une honteuse gloire. </l>
+	<l id='599'>Ton nom sera fameux, lorsqu'un combat fatal </l>
+	<l id='600'>T'aura fait triompher pour servir ton rival. </l>
+	<l id='601'>Tu vaincras ? Ah plutôt va mourir, et présente </l>
+	<l id='602'>Ton coeur, ton triste coeur au fer de Bradamante. </l>
+	<l id='603'>Par ton sang répandu, c'est à toi d'expier </l>
+	<l id='604'>Le serment qui t'engage à la sacrifier. </l>
+	<l id='605'>Lorsqu'à vaincre Léon son courage s'apprête, </l>
+	<l id='606'>C'est pour se réserver à se voir ta conquête, </l>
+	<l id='607'>Et toi, loin que sa perte ait de quoi t'étonner, </l>
+	<l id='608'>Tu ne veux l'acquérir qu'afin de la donner. </l>
+	<l id='609'>Mais peux-tu, quoi qu'enfin ton amour s'en offense, </l>
+	<l id='610'>Manquer sans infamie à la reconnaissance, </l>
+	<l id='611'>Violer ta parole, et montrer lâchement </l>
+	<l id='612'>Que tu fais tout céder au plaisir d'être Amant ? </l>
+	<l id='613'>N'examine plus rien, et cours à ton supplice. </l>
+	<l id='614'>Tu l'as promis, il faut paraître dans la lice. </l>
+	<l id='615'>Quoi que puisse la gloire avec tous ses appas, </l>
+	<l id='616'>Espérons en l'amour, il conduira mon bras. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Bradamante, Doralise.</head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='617'>Cesse de condamner, en me forçant de vivre, </l>
+	<l id='618'>Le juste désespoir où ma douleur me livre. </l>
+	<l id='619'>Ma mort, ma seule mort peut effacer l'affront </l>
+	<l id='620'>Qu'un revers si cruel imprime sur mon front. </l>
+	<l id='621'>Du trop heureux Léon la fatale victoire </l>
+	<l id='622'>Pour jamais sans retour m'a fait perdre ma gloire, </l>
+	<l id='623'>L'éclat s'en est terni sitôt qu'il a vaincu, </l>
+	<l id='624'>Et vivant sans honneur j'ai déjà trop vécu. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='625'>La valeur fut toujours votre charme sensible, </l>
+	<l id='626'>Mais pour être vaillant doit-on être invincible ; </l>
+	<l id='627'>Et tous ceux que la gloire aux combats fait courir, </l>
+	<l id='628'>Sont-ils, faute de vaincre, obligés de mourir ? </l>
+	<l id='629'>Si le dur poids des fers, après votre défaite, </l>
+	<l id='630'>À de honteuses lois vous laissait voir sujette, </l>
+	<l id='631'>Je plaindrais vos malheurs, et dans ce triste sort </l>
+	<l id='632'>Il vous serait permis de souhaiter la mort. </l>
+	<l id='633'>Mais, Madame, Léon par plus d'une victoire </l>
+	<l id='634'>A fait voir quelle part il avait à la gloire, </l>
+	<l id='635'>Et vous pouvez sans honte avouer un vainqueur, </l>
+	<l id='636'>Qui n'aspire jamais qu'à toucher votre coeur. </l>
+	<l id='637'>Loin d'abuser des droits que ce grand nom lui donne, </l>
+	<l id='638'>Il se soumet à vous, vous offre une Couronne, </l>
+	<l id='639'>Et toute autre, forcée à finir ses mépris, </l>
+	<l id='640'>Le verrait sans regret triompher à ce prix. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='641'>Ne crois point m'éblouir par de vains avantages. </l>
+	<l id='642'>Ce que tu dis est bon pour les faibles courages, </l>
+	<l id='643'>Mais après un défi suivi de vingt combats, </l>
+	<l id='644'>Bradamante a dû vaincre, ou ne survivre pas. </l>
+	<l id='645'>Mon amour le voulait aussi bien que ma gloire. </l>
+	<l id='646'>Quel charme m'a contrainte à céder la victoire ? </l>
+	<l id='647'>Vingt fois j'ai vu Léon, craignant de m'approcher, </l>
+	<l id='648'>Faiblement se défendre, et n'oser me toucher : </l>
+	<l id='649'>Mais plus il me rendait le triomphe facile, </l>
+	<l id='650'>Plus j'ai fait pour l'abattre un effort inutile. </l>
+	<l id='651'>À mes coups sans obstacle il se livrait en vain, </l>
+	<l id='652'>Un pouvoir invisible a retenu ma main, </l>
+	<l id='653'>Et prête à le percer, ma tremblante colère </l>
+	<l id='654'>A trouvé malgré moi de la honte à le faire. </l>
+	<l id='655'>À voir que son respect ait su m'intimider, </l>
+	<l id='656'>Qui ne jugera pas que j'ai voulu céder ? </l>
+	<l id='657'>Est-ce ainsi qu'on soutient une noble entreprise ? </l>
+	<l id='658'>Que pensera Roger ? Que pensera Marphise ? </l>
+	<l id='659'>Moi-même, en mon esprit voulant tout repasser, </l>
+	<l id='660'>De ce triste combat je ne sais que penser. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='661'>Roger ne pouvait craindre un succès plus contraire, </l>
+	<l id='662'>Mais enfin quel reproche a-t-il droit de vous faire ? </l>
+	<l id='663'>S'il a de votre gloire un généreux souci, </l>
+	<l id='664'>Quand on vous offre un Trône il doit... mais le voici. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Bradamante, Roger, Doralise. </head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='665'>Je vois quels sentiments mon malheur vous inspire, </l>
+	<l id='666'>Et lis dans vos regards ce que vous m'allez dire. </l>
+	<l id='667'>Ne vous contraignez point, parlez, accusez-moi </l>
+	<l id='668'>D'avoir pu consentir à vous manquer de foi. </l>
+	<l id='669'>Dites que sur l'éclat d'uns Couronne offerte </l>
+	<l id='670'>J'ai trahi mes serments, résolu votre perte, </l>
+	<l id='671'>Abandonné mon âme à l'infidélité, </l>
+	<l id='672'>La plainte sera juste, et j'ai tout mérité. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='673'>Ma raison, il est vrai, cède au coup qui m'accable, </l>
+	<l id='674'>Et tel est de mes maux l'abîme épouvantable, </l>
+	<l id='675'>Qu'à quelque dur excès qu'on les veuille porter, </l>
+	<l id='676'>La colère du Ciel n'y peut rien ajouter. </l>
+	<l id='677'>Mais, Madame, tombé dans ce terrible gouffre </l>
+	<l id='678'>Où l'horreur des Enfers cède à ce que je souffre, </l>
+	<l id='679'>On ne me verra point, par un transport jaloux, </l>
+	<l id='680'>Permettre à mon amour de se plaindre de vous. </l>
+	<l id='681'>Celui de Bradamante est pur, ardent, sincère ; </l>
+	<l id='682'>Elle a fait au combat tout ce qu'elle a pu faire, </l>
+	<l id='683'>Et lorsqu'elle est réduite à souffrir un vainqueur, </l>
+	<l id='684'>La faute est du destin, et non pas de son coeur. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='685'>Je ne chercherai point par une vaine excuse </l>
+	<l id='686'>À jouir de l'erreur d'un Amant qui s'abuse, </l>
+	<l id='687'>Vous devez condamnez la langueur de mon bras. </l>
+	<l id='688'>Je n'ai point eu l'ardeur que je porte aux combats. </l>
+	<l id='689'>La victoire a pour moi vingt fois paru certaine. </l>
+	<l id='690'>Léon ne s'est longtemps défendu qu'avec peine. </l>
+	<l id='691'>Prodigue de son sang pour épargner le mien, </l>
+	<l id='692' part='i'>Vous l'avez vu s'offrir... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='692' part='f'>Ah! Ne me dites rien. </l>
+	<l id='693'>Dans ce fatal combat votre ennemi sans doute </l>
+	<l id='694'>A craint ce qu'aujourd'hui son triomphe vous coûte</l>
+	<l id='695'>Mais n'examinons point ce triste événement. </l>
+	<l id='696'>Le Ciel veut à Léon immoler votre Amant, </l>
+	<l id='697'>Ses ordres sont des lois qu'on ne saurait enfreindre. </l>
+	<l id='698'>Encore un coup, de vous je n'ai point à me plaindre. </l>
+	<l id='699'>L'amour vous place au Trône, et quand vous y montez </l>
+	<l id='700'>Il vous donne encor moins que vous ne méritez. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='701'>Sur un Trône éclatant Léon m'offre une place; </l>
+	<l id='702'>Mais si pour l'accepter j'avais l'âme assez basse, </l>
+	<l id='703'>Roger qui doit tout faire afin de m'acquérir, </l>
+	<l id='704'>M'aimerait-il si peu qu'il le voulût souffrir ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='705'>Et comment éviter ce qui me désespère, </l>
+	<l id='706'>Quand vous avez rendu votre hymen nécessaire ? </l>
+	<l id='707'>Ce funeste défi qu'autorisa le Roi, </l>
+	<l id='708'>N'a-t-il pas au vainqueur engagé votre foi ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='709'>J'ai promis, il est vrai, je ne puis m'en dédire, </l>
+	<l id='710'>Je dois subir la loi que j'ai voulu prescrire ; </l>
+	<l id='711'>Mais cet engagement vous ôte-t-il les droits, </l>
+	<l id='712'>Que sur moi, sur mon coeur vous donne un premier choix ? </l>
+	<l id='713'>Verrez-vous de Léon récompenser la flamme, </l>
+	<l id='714' part='i'>Sans que par mille efforts votre amour... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='714' part='f'>Ah! Madame! </l>
+	<l id='715'>Dans l'état déplorable où le destin m'a mis, </l>
+	<l id='716'>Quels efforts contre lui peuvent m'être permis ? </l>
+	<l id='717'>Lorsque je n'ai pour vous Sceptre ni Diadème, </l>
+	<l id='718'>Ce trop heureux rival vous place au rang suprême. </l>
+	<l id='719'>Confus, sans nul espoir qui doive m'animer, </l>
+	<l id='720' part='i'>Que puis-je faire ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='720' part='f'>Tout, si vous savez aimer. </l>
+	<l id='721'>Arrachez-moi le Sceptre, ôtez-moi la Couronne, </l>
+	<l id='722'>Loin de vous en blâmer, c'est moi qui vous l'ordonne. </l>
+	<l id='723'>Pour un coeur généreux qui sait les dédaigner, </l>
+	<l id='724'>Vivre avec ce qu'on aime est plus que de régner. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='725'>Quand d'un pareil dessein le mien serait capable, </l>
+	<l id='726' part='i'>Léon... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='726' part='f'>Léon pour vous est-il si redoutable, </l>
+	<l id='727'>Et Roger que jamais les plus sanglants combats... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='728'>Viennent cent ennemis, je ne les craindrai pas. </l>
+	<l id='729'>Seul contre eux, sans trembler je saurai vous défendre, </l>
+	<l id='730'>Mais un revers affreux qui ne se peut comprendre, </l>
+	<l id='731'>Me rendant de moi-même ennemi malgré moi, </l>
+	<l id='732'>Dès que Léon... Mes maux... J'en suis saisi d'effroi. </l>
+	<l id='733'>Si vous pouviez savoir quel rigoureux martyre... </l>
+	<l id='734'>Madame plaignez-moi, je n'ai rien à vous dire. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='735'>Ce trouble m'en dit trop, et je commence à voir </l>
+	<l id='736'>Ce que me cache en vain un trompeur désespoir. </l>
+	<l id='737'>Qui l'eût cru ? Vous brûlez d'une flamme nouvelle, </l>
+	<l id='738'>Et n'osant vous résoudre à paraître infidèle, </l>
+	<l id='739'>Vous voulez que Léon devenu mon époux, </l>
+	<l id='740'>Vous mette en liberté de disposer de vous ; </l>
+	<l id='741'>Que prêtant une excuse à votre amour timide... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='742' part='i'>Quoi, vous pouvez penser que mon coeur... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='742' part='f'>Oui, perfide, </l>
+	<l id='743'>Un autre objet te charme, et j'ouvre enfin les yeux </l>
+	<l id='744'>Sur ce qui t'a banni si longtemps de ces lieux. </l>
+	<l id='745'>C'est peu que pour Léon tu reviennes sans haine, </l>
+	<l id='746'>Lui dont par toi la mort semblait être certaine. </l>
+	<l id='747'>Tu souffres qu'au combat il prévienne ta foi </l>
+	<l id='748'>Pour t'enlever un prix qui n'était que pour toi, </l>
+	<l id='749'>Et quand tout est permis à ta juste colère, </l>
+	<l id='750'>Tu m'oses demander ce que ton bras peut faire ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='751'>Juste Ciel ! De ma flamme on peut se défier ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='752'>Et bien, il t'est aisé de te justifier. </l>
+	<l id='753'>Si ton coeur est constant, ta main doit être prête. </l>
+	<l id='754'>Marche, cours à Léon arracher sa conquête, </l>
+	<l id='755'>Par un beau désespoir cherche à te secourir, </l>
+	<l id='756'>Ou donne-moi du moins l'exemple de mourir. </l>
+	<l id='757'>Rien ne m'arrêtera quand il te faudra suivre. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='758'>Pour moi, pour mes malheurs vous cesseriez de vivre ? </l>
+	<l id='759'>Non, de mon imprudence ils sont le juste effet, </l>
+	<l id='760' part='i'>Et je dois... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='760' part='f'>C'en est trop, tu seras satisfait. </l>
+	<l id='761'>Léon est mon vainqueur, tu veux que je l'épouse, </l>
+	<l id='762'>J'y consens ; ne crains point que j'éclate en jalouse, </l>
+	<l id='763'>Et par un indigne et bas emportement </l>
+	<l id='764'>Je permette l'injure à mon ressentiment. </l>
+	<l id='765'>De ton coeur aveuglé suis la pente fatale, </l>
+	<l id='766'>Va triompher du mien auprès de ma rivale, </l>
+	<l id='767'>Et jouis, si tu peux, en violant ta foi </l>
+	<l id='768'>Des douceurs d'un repos qui t'était sûr par moi. </l>
+	<l id='769'>Tu le sais. Quel bonheur eût approché du nôtre ! </l>
+	<l id='770'>Il n'y faut plus penser, je vivrai pour un autre. </l>
+	<l id='771'>Je ne le cache point ; mon devoir étonné </l>
+	<l id='772'>Des troubles de mon coeur se trouvera gêné, </l>
+	<l id='773'>Mais peut-être à ton tour tu sentiras mes peines, </l>
+	<l id='774'>Et sous le poids honteux de tes nouvelles chaînes </l>
+	<l id='775'>Regrettant mon amour, tu te repentiras </l>
+	<l id='776'>D'avoir pu vivre heureux, et de ne l'être pas. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='777'>Je vous l'ai déjà dit, Madame, il faut me taire, </l>
+	<l id='778' part='i'>Mais si vous connaissiez... </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Bradamante, Marphise, Roger, Ismène. </head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='778' part='f'>Vous le voyez, mon frère, </l>
+	<l id='779'>J'offensais Bradamante, et sa fidélité </l>
+	<l id='780'>Mettait contre Léon sa gloire en sûreté ? </l>
+	<l id='781'>Pour l'éblouir, le Trône avait trop peu de charmes ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='782'>Rien n'est plus incertain que le succès des armes, </l>
+	<l id='783'>Ma soeur, les plus grands coeurs l'ont cent fois éprouvé, </l>
+	<l id='784' part='i'>Vous le savez. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='784' part='f'>De vous son crime est approuvé, </l>
+	<l id='785' part='i'>Et quand on vous trahit... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='785' part='f'>Roger a tort, Madame, </l>
+	<l id='786'>Il doit voir comme vous que j'ai trahi sa flamme, </l>
+	<l id='787'>Et contre mes projets mettre les siens au jour, </l>
+	<l id='788'>Si mon ambition déplaît à son amour. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Roger, Marphise, Ismène. </head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='789'>Croire qu'à me trahir la Couronne l'engage ? </l>
+	<l id='790'>Perdez, ma soeur, perdez un soupçon qui l'outrage. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='791'>Ah, mon frère, pourquoi vouloir vous abuser ? </l>
+	<l id='792'>Sa langueur au combat se peut-elle excuser ? </l>
+	<l id='793'>Léon, dont on voyait l'inquiétude extrême, </l>
+	<l id='794'>Tâchait en reculant d'épargner ce qu'il aime, </l>
+	<l id='795'>Et son bras, que sa vue avait intimidé, </l>
+	<l id='796'>N'aurait jamais vaincu si le sien n'eût cédé. </l>
+	<l id='797'>Non, on ne comprend point dans l'orgueil qui l'inspire... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='798'>Je sais, je comprends tout, et je ne puis rien dire. </l>
+	<l id='799'>Si pendant le combat son bras s'est retenu, </l>
+	<l id='800'>De ce qui l'arrêtait le pouvoir m'est connu. </l>
+	<l id='801'>Prête à verser du sang, l'horreur qui la désarme </l>
+	<l id='802'>D'un ascendant secret me découvre le charme. </l>
+	<l id='803'>Je vois ce qu'elle-même elle n'a pu savoir. </l>
+	<l id='804'>Ce qui m'arrive, ô Ciel, se peut-il concevoir ? </l>
+	<l id='805'>Adieu, ma soeur, cessez d'accuser Bradamante. </l>
+	<l id='806'>C'est offenser sa gloire, elle a l'âme constante, </l>
+	<l id='807'>Et de tous les Amants que brûlent de beaux feux, </l>
+	<l id='808'>Je suis le plus à plaindre, et le plus malheureux. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Marphise, Ismène.</head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='809'>Dans quel aveuglement sa passion le jette ! </l>
+	<l id='810'>Il veut de Bradamante excuser la défaite, </l>
+	<l id='811'>Et quand Léon triomphe, et qu'on l'ose épargner, </l>
+	<l id='812'>Il cherche à ne pas voir qu'elle aspire à régner. </l>
+</sp>
+<sp who='ISMENE'><speaker>ISMÈNE.</speaker>
+	<l id='813'>Si son ambition l'emportait sur sa gloire, </l>
+	<l id='814'>À quoi bon ce combat ? Pourquoi cette victoire ? </l>
+	<l id='815' part='i'>Puisque Léon s'offrait... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='815' part='f'>J'en juge mieux que toi. </l>
+	<l id='816'>Si ses premiers refus ont soutenu sa foi, </l>
+	<l id='817'>Elle a voulu cacher sa lâche indifférence, </l>
+	<l id='818'>Et paraître forcée à manquer de constance. </l>
+	<l id='819'>Vingt fois elle triomphe, et quand Léon combat, </l>
+	<l id='820'>Elle n'a plus de bras, son courage s'abat ! </l>
+</sp>
+<sp who='ISMENE'><speaker>ISMÈNE.</speaker>
+	<l id='821'>Quand elle aurait changé, sa faute est excusable. </l>
+	<l id='822'>Par mille qualités Léon est estimable. </l>
+	<l id='823'>Vous-même à leur éclat vous laissant éblouir... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='824'>Le crime est fait, il faut l'empêcher d'en jouir. </l>
+	<l id='825'>Par mon propre intérêt à ce crime sensible... </l>
+<stage>Ismène montrant Léon qui entre. </stage>
+	<l id='826' part='i'>Madame... </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Marphise, Léon, Ismène.</head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='826' part='f'>Prince, on peut vous nommer invincible. </l>
+	<l id='827'>Aux plus vaillants Guerriers qu'on ait ouï vanter, </l>
+	<l id='828'>Jusqu'ici Bradamante avait su résister, </l>
+	<l id='829'>Et puis qu'elle vous cède, on a sujet de croire </l>
+	<l id='830'>Qu'avec vous en tous lieux vous traînez la victoire, </l>
+	<l id='831'>Elle vous est soumise, et vous lui commandez. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='832'>L'amour sur tous les coeurs a des droits bien fondés, </l>
+	<l id='833'>Et brûlant d'une flamme aussi pure qu'ardente, </l>
+	<l id='834'>J'ai dû l'avoir pour aide à vaincre Bradamante. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='835'>Elle est votre conquête, et se donnant à vous, </l>
+	<l id='836'>Sans doute elle remplit ses désirs les plus doux</l>
+	<l id='837'>Mais avant le défi qu'on lui permit de faire, </l>
+	<l id='838'>Elle était engagée à Roger, à mon frère. </l>
+	<l id='839'>Il l'aime, et je prétends les armes à la main, </l>
+	<l id='840'>Quand votre hymen s'apprête, en rompre le dessein. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='841'>Je dois peu redouter cette fière entreprise, </l>
+	<l id='842'>Lorsqu'on vainc Bradamante, on peut vaincre Marphise, </l>
+	<l id='843'>Et s'agissant pour moi d'un bien si plein d'appas, </l>
+	<l id='844'>Tout l'Univers armé ne m'étonnerait pas. </l>
+	<l id='845'>Mais contre cet hymen ma surprise est extrême </l>
+	<l id='846'>De ne voir pas Roger se déclarer lui-même. </l>
+	<l id='847'>J'apprends qu'il est ici. Qu'il se montre, il est beau </l>
+	<l id='848'>Que par lui mon triomphe ait un éclat nouveau. </l>
+	<l id='849'>À l'objet de mes voeux s'il ose encor prétendre, </l>
+	<l id='850'>S'il y garde des droits, qu'il vienne les défendre. </l>
+	<l id='851'>Comme c'est un rival digne de ma valeur, </l>
+	<l id='852'>Je l'accuse déjà de trop peu de chaleur, </l>
+	<l id='853'>Et crois ne pas jouir assez de ma victoire, </l>
+	<l id='854'>Tant qu'il laisse manquer sa défaite à ma gloire. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='855'>À l'espoir d'un vainqueur tout semble être permis, </l>
+	<l id='856'>Mais cet espoir pourrait vous avoir trop promis. </l>
+	<l id='857'>Marphise que jamais le péril n'épouvante, </l>
+	<l id='858'>Saura mieux résister que n'a fait Bradamante, </l>
+	<l id='859'>Et Roger, dont l'amour pressera le courroux, </l>
+	<l id='860'>Plus que Marphise encore est à craindre pour vous. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='861'>Si l'ardeur du courage à l'amour se mesure, </l>
+	<l id='862'>Aimant plus que Roger, la victoire m'est sûre. </l>
+	<l id='863'>Quelque valeur qu'il ait, c'est ce qu'il connaîtra. </l>
+	<l id='864' part='i'>Qu'il vienne, qu'il paraisse. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='864' part='f'>Et bien, il paraîtra. </l>
+	<l id='865'>J'aime qu'à mon défi ce noble orgueil réponde, </l>
+	<l id='866'>Mais j'ai parlé ; prenez un bras qui vous seconde. </l>
+	<l id='867'>Si Bradamante veut avec vous s'engager, </l>
+	<l id='868'>Je combattrai contre elle, et vous contre Roger. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='869'>Quoi qu'on doive être sûr de sa valeur extrême, </l>
+	<l id='870'>Un Amant n'a jamais exposé ce qu'il aime. </l>
+	<l id='871'>Mais puisque ce combat a pour vous tant d'appas, </l>
+	<l id='872'>Sans peine je saurai trouver un autre bras. </l>
+	<l id='873'>Obtenez seulement que le Roi le permette. </l>
+	<l id='874'>Du choix que je ferai vous serez satisfaite. </l>
+	<l id='875'>Surtout arrêtez l'heure, et m'en avertissez ; </l>
+	<l id='876' part='i'>Léon qui l'attendra sera prêt. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='876' part='f'>C'est assez. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Léon, Roger. </head>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='877'>Quoi, pour vous obliger à cette complaisance, </l>
+	<l id='878'>Hippalque, il a fallu vous faire violence, </l>
+	<l id='879'>Et pour fuir de ces lieux, et partir sans me voir, </l>
+	<l id='880'>Vous aviez des raisons que je ne puis savoir ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='881'>Goûtez, Seigneur, goûtez votre heureuse fortune, </l>
+	<l id='882'>Ma présence ne peut que vous être importune, </l>
+	<l id='883'>Et je dois à jamais vous laisser ignorer </l>
+	<l id='884'>Les funestes chagrins, qui me vont dévorer. </l>
+	<l id='885'>Vous m'aimez ; j'évitais en partant sans rien dire, </l>
+	<l id='886'>De vous voir inquiet des maux dont je soupire, </l>
+	<l id='887'>Et si je n'eusse appris qu'assuré de ma foi, </l>
+	<l id='888'>Vous vouliez d'un secret vous reposer sur moi, </l>
+	<l id='889'>Je vous eusse épargné le souci que vous donne </l>
+	<l id='890'>Le fatal désespoir où mon coeur s'abandonne, </l>
+	<l id='891'>J'allais du Ciel ailleurs implorer la pitié. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='892'>Cet injuste dessein blesse notre amitié. </l>
+	<l id='893'>S'il n'est point de remède au mal qui vous accable, </l>
+	<l id='894'>Du moins quand on est plaint, on est moins misérable, </l>
+	<l id='895'>Et vous ne doutez pas que Léon tout à vous, </l>
+	<l id='896'>Du sort qui vous poursuit ne ressente les coups ; </l>
+	<l id='897'>Mais aussi je voudrais vous voir un peu de joie </l>
+	<l id='898'>Lorsque du Ciel sur moi la faveur se déploie. </l>
+	<l id='899'>Charmé de Bradamante, enfin voici le jour </l>
+	<l id='900'>Qui va pour son hymen couronner mon amour, </l>
+	<l id='901'>Et puisque je vous dois cette illustre conquête, </l>
+	<l id='902'>Daignez être témoin de cette grande fête. </l>
+	<l id='903'>Quelques maux où vous livre un destin rigoureux, </l>
+	<l id='904'>Vous les sentirez moins en me voyant heureux. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='905'>Ah ! Vous ne savez pas dans l'extrême souffrance, </l>
+	<l id='906'>Ce qu'est un malheureux qui n'a plus d'espérance. </l>
+	<l id='907'>Tout lui déplaît, le blesse, et trouble sa raison. </l>
+	<l id='908'>Du bien qu'obtient un autre il se fait un poison. </l>
+	<l id='909'>Vous méritez celui que le Ciel vous envoie, </l>
+	<l id='910'>Mais, Seigneur, si j'étais témoin de votre joie, </l>
+	<l id='911'>Je sens bien que mes maux que vous voulez flatter </l>
+	<l id='912'>Ne feraient près de vous encor que s'augmenter. </l>
+	<l id='913'>Souffrez donc qu'affranchi d'un supplice si rude </l>
+	<l id='914'>Je les aille traîner dans quelque solitude. </l>
+	<l id='915'>Infortuné rebut et du monde et du sort, </l>
+	<l id='916'>Je n'ai pour les finir de secours que la mort. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='917'>Ne vous en croyez point ; notre première idée </l>
+	<l id='918'>De ce qui la saisit vivement possédée, </l>
+	<l id='919'>Par un accablement où l'esprit se confond, </l>
+	<l id='920'>Nous peint toujours nos maux plus fâcheux qu'ils ne sont. </l>
+	<l id='921'>Ainsi, mon cher Hippalque, obtenez de vous-même </l>
+	<l id='922'>D'écouter les conseils d'un Prince qui vous aime. </l>
+	<l id='923'>Dites-moi ce qui peut troubler votre bonheur. </l>
+	<l id='924' part='i'>Quand je le connaîtrai, peut-être... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='924' part='f'>Non, Seigneur. </l>
+	<l id='925'>Laissez-moi mon secret, tout m'oblige à le taire, </l>
+	<l id='926'>Et s'il est vrai qu'encor je vous sois nécessaire, </l>
+	<l id='927'>Voyez ce que je puis, et me dites en quoi </l>
+	<l id='928'>Vous avez résolu de vous servir de moi. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='929'>Je devrais comme vous, bornant ma confiance, </l>
+	<l id='930'>Sur d'importants secrets me forcer au silence, </l>
+	<l id='931'>Mais le temps vous fera connaître votre erreur. </l>
+	<l id='932'>J'achève cependant de vous ouvrir mon coeur. </l>
+	<l id='933'>Sur deux fiers ennemis j'ai besoin pour ma gloire </l>
+	<l id='934'>Que votre heureux secours étende ma victoire. </l>
+	<l id='935'>L'un que je dois combattre, aux périls affermi... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='936'>C'en est assez, Seigneur, nommez cet ennemi. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='937'>Son nom vous le fera paraître redoutable, </l>
+	<l id='938'>Mais l'amour rend mon coeur de trembler incapable. </l>
+	<l id='939' part='i'>C'est Roger. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='939' part='m'>Roger ? </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='939' part='f'>Oui, ce rival orgueilleux </l>
+	<l id='940'>Croit pouvoir mettre obstacle au succès de mes feux, </l>
+	<l id='941'>Et Marphise avec lui par les armes s'apprête </l>
+	<l id='942'>À prouver que j'ai fait une injuste conquête. </l>
+	<l id='943'>Allons, mon cher Hippalque, allons leur faire voir </l>
+	<l id='944'>Que nous savons confondre un téméraire espoir. </l>
+	<l id='945'>Faisons qu'un sort honteux suive leur entreprise. </l>
+	<l id='946'>Je combattrai Roger, vous combattrez Marphise. </l>
+	<l id='947'>Mais d'où vous vient ce trouble, et qu'en puis-je juger ? </l>
+	<l id='948'>Ö Ciel ! Pourriez-vous craindre ou Marphise ou Roger ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='949'>Les craindre, moi, Seigneur ? Quoi qu'on puisse entre prendre, </l>
+	<l id='950'>Vos droits me sont connus, je m'offre à les défendre. </l>
+	<l id='951'>Ne songez qu'au bonheur que l'hymen vous promet. </l>
+	<l id='952'>Je sais par quels moyens le plus fier se soumet. </l>
+	<l id='953'>J'irai trouver Roger, et prétends, quoi qu'il fasse, </l>
+	<l id='954'>Avec tant de succès arrêter son audace, </l>
+	<l id='955'>Que loin de rien permettre à son chagrin jaloux, </l>
+	<l id='956'>Il n'osera jamais paraître devant vous. </l>
+	<l id='957' part='i'>Serez-vous satisfait ? </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='957' part='f'>Non, je lui dois ma haine, </l>
+	<l id='958'>Et quand, courant lui-même au-devant de sa peine, </l>
+	<l id='959'>Il n'attaquerait pas ce qui m'est le plus cher, </l>
+	<l id='960'>Le seul nom de rival me le ferait chercher. </l>
+	<l id='961'>Il faut, pour le punir de sa flamme arrogante, </l>
+	<l id='962'>Qu'un triomphe nouveau m'acquière Bradamante. </l>
+	<l id='963'>Par vous seul jusqu'ici j'ai mérité sa foi, </l>
+	<l id='964'>Je veux en le vainquant la mériter par moi ; </l>
+	<l id='965'>Et que dans sa défaite, une pleine victoire </l>
+	<l id='966'>Contente en même temps mon amour et ma gloire. </l>
+	<l id='967'>De si chers intérêts demandent cet éclat, </l>
+	<l id='968' part='i'>Je dois... </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Léon, Marphise, Roger. </head>
+<sp who='LEON'><speaker>LÉON, à Marphise.</speaker>
+	<l id='968' part='f'>Et bien, le Roi permet-il le combat ? </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='969'>Oui, j'ai fait pour Roger approuver l'entreprise, </l>
+	<l id='970' part='i'>Et nous pouvons... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='970' part='f'>Seigneur, je sors avec Marphise. </l>
+	<l id='971' part='i'>Quand nous aurons réglé... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON, arrêtant Roger.</speaker>
+	<l id='971' part='f'>Non, sans perdre de temps, </l>
+	<l id='972'>Je veux par ce combat voir ses désirs contents. </l>
+<stage>À Marphise en lui montrant Roger. </stage>
+	<l id='973'>Voici qui contre vous paraissant dans la lice </l>
+	<l id='974'>De mes prétentions soutiendra la justice. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='975'>Vous voulez que Roger combatte contre moi ? </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='976' part='i'>Roger ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER, à Marphise.</speaker>
+	<l id='976' part='m'>Qu'avez-vous dit ? </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='976' part='f'>C'est Roger que je vois ? </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='977'>Dans le vif désespoir où son amour doit être, </l>
+	<l id='978'>J'ai cru que pour Roger il s'était fait connaître, </l>
+	<l id='979'>Et que s'il eût voulu plus longtemps se cacher, </l>
+	<l id='980'>Il n'aurait pas pris soin de vous venir chercher. </l>
+	<l id='981'>Les serments les plus forts, l'ardeur la plus constante </l>
+	<l id='982'>Ont acquis à ses voeux le coeur de Bradamante. </l>
+	<l id='983'>Votre fatal triomphe a troublé son bonheur. </l>
+	<l id='984'>Vous usurper ses droits par celui de vainqueur. </l>
+	<l id='985'>Prince, voyez à quoi son honneur le convie. </l>
+	<l id='986'>Il faut pour les céder qu'il lui coûte la vie, </l>
+	<l id='987'>Et si l'hymen vous rend possesseur de son bien, </l>
+	<l id='988'>Il doit être signé de son sang et du mien. </l>
+	<l id='989'>J'en ai votre parole, et le Roi l'autorise. </l>
+	<l id='990'>Roger n'en voudra pas désavouer Marphise. </l>
+	<l id='991'>Je le laisse avec vous ; réglez l'heure et le lieu, </l>
+	<l id='992'>Prête à souscrire à tout, j'attendrai l'ordre, adieu. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Léon, Roger. </head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='993'>Et bien, Seigneur, et bien, vous plaindrez-vous encore </l>
+	<l id='994'>D'un secret dont l'aveu me perd, me déshonore ? </l>
+	<l id='995'>Je n'en suis plus le maître, et Marphise a parlé. </l>
+	<l id='996'>Ce funeste secret est enfin révélé. </l>
+	<l id='997'>Réduit à confesser ce que je voulais taire, </l>
+	<l id='998'>Malgré moi je vous montre un rival téméraire, </l>
+	<l id='999'>Qui ne peut, quoi qu'il fasse, être assez généreux </l>
+	<l id='1000'>Pour voir, sans en souffrir, ce qui vous rend heureux. </l>
+	<l id='1001'>Le crime est grand sans doute, ordonnez-en la peine, </l>
+	<l id='1002'>Mais ne m'accablez point, Seigneur, de votre haine. </l>
+	<l id='1003'>Je sacrifie assez peut-être à l'amitié </l>
+	<l id='1004'>Pour mériter de vous un reste de pitié. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1005'>Non, ne prétendez point que ce dur sacrifice </l>
+	<l id='1006'>De vos déguisements efface l'injustice. </l>
+	<l id='1007'>Sur ce que vous souffrez en vain j'ouvre les yeux, </l>
+	<l id='1008'>Je ne puis voir en vous qu'un rival odieux. </l>
+	<l id='1009'>J'ose tout, je fais tout pour vous sauver la vie, </l>
+	<l id='1010'>Et lorsqu'à m'estimer ce bienfait vous convie, </l>
+	<l id='1011'>Par un silence ingrat vous faites vanité, </l>
+	<l id='1012'>D'être sans confiance et sans sincérité ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1013'>La vie, (Hélas ! Pourquoi me l'avez-vous sauvée ?)</l>
+	<l id='1014'>Quand j'attendais la mort par vous m'est conservée, </l>
+	<l id='1015'>Il est vrai, mais je puis vous apprendre à mon tour, </l>
+	<l id='1016'>Que ce bienfait reçu vous a sauvé le jour. </l>
+	<l id='1017'>Plein d'un jaloux transport qui m'agite, me presse, </l>
+	<l id='1018'>Pour vous percer le coeur, je pars, je vole en Grèce. </l>
+	<l id='1019'>Après qu'en vous cherchant j'ai porté mille coups, </l>
+	<l id='1020'>Que ma haine eût voulu faire tomber sur vous, </l>
+	<l id='1021'>Malgré cette fureur de votre sang avide, </l>
+	<l id='1022'>Je me rends tout à coup à moi-même perfide ; </l>
+	<l id='1023'>Et contre mes serments, forcé de les trahir, </l>
+	<l id='1024'>J'ose, quand je vous vois, cesser de vous haïr. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1025'>Ah ! Si mon sang pouvait adoucir votre peine, </l>
+	<l id='1026'>Il eût été plus beau de garder votre haine, </l>
+	<l id='1027'>Que de me déguiser par quel bizarre sort </l>
+	<l id='1028'>Vos vous trouviez réduit à poursuivre ma mort. </l>
+	<l id='1029'>Charmé de voir en vous une vertu brillante, </l>
+	<l id='1030'>J'aurais pu me contraindre à céder Bradamante. </l>
+	<l id='1031'>Tout son mérite alors ne m'était pas connu, </l>
+	<l id='1032'>Mon esprit de sa gloire était seul prévenu, </l>
+	<l id='1033'>Et mon coeur libre encor, sans trop de violence, </l>
+	<l id='1034'>Aurait quitté peut-être une douce espérance. </l>
+	<l id='1035'>Mais en cachant vos feux, vous m'avez sans retour </l>
+	<l id='1036'>Livré malgré moi-même au pouvoir de l'amour. </l>
+	<l id='1037'>Contre vous, contre moi lui fournissant des armes, </l>
+	<l id='1038'>Vous m'avez laissé voir tout ce qu'elle a de charmes, </l>
+	<l id='1039'>Et de ses feux flatteurs les invincibles traits </l>
+	<l id='1040'>M'ont fait une blessure à n'en guérir jamais. </l>
+	<l id='1041'>Du bonheur de mes jours je sens qu'elle dispose, </l>
+	<l id='1042'>Je n'en vois plus qu'en elle, et vous en êtes cause. </l>
+	<l id='1043'>Si vous eussiez parlé, vos voeux seraient contents. </l>
+	<l id='1044'>Pourquoi vous découvrir quand il n'en est plus temps ? </l>
+	<l id='1045'>Pourquoi vouloir... Ingrat, rendez-moi mon estime, </l>
+	<l id='1046'>Vous me l'avez surprise, et c'est là votre crime. </l>
+	<l id='1047'>Qui peut me croire lâche, injuste, sans pitié, </l>
+	<l id='1048'>Ne saurait de Léon mériter l'amitié. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1049'>Plaignez-vous du Destin quand mon amour éclate, </l>
+	<l id='1050'>Mais ne m'accusez point d'avoir une âme ingrate. </l>
+	<l id='1051'>Si j'ai votre amitié, je la paye assez cher. </l>
+	<l id='1052'>À vos yeux pour jamais j'ai voulu me cacher, </l>
+	<l id='1053'>Et cherchant loin de vous à traîner une vie </l>
+	<l id='1054'>Que déjà mes ennuis devraient m'avoir ravie, </l>
+	<l id='1055'>J'allais vous épargner l'amertume des coups </l>
+	<l id='1056'>Que souffre un malheureux, qui ne l'est que par vous. </l>
+	<l id='1057'>Accablé du triomphe où l'amour vous engage, </l>
+	<l id='1058'>Pour vous le conserver, qu'ai-je pu davantage ? </l>
+	<l id='1059'>Je partais, je fuyais, pourquoi me rappeler ? </l>
+	<l id='1060'>Me reprochera-t-on d'avoir osé parler ? </l>
+	<l id='1061'>Et si votre intérêt ne vous eût pas fait croire, </l>
+	<l id='1062'>Que je pouvais encor soutenir votre gloire, </l>
+	<l id='1063'>Malgré l'état funeste où mes jours sont réduits, </l>
+	<l id='1064'>N'auriez-vous pas toujours ignoré qui je suis ? </l>
+	<l id='1065'>Et qu'importe après tout, que l'on m'ait fait connaître ? </l>
+	<l id='1066'>D'un hymen glorieux êtes-vous moins le maître ? </l>
+	<l id='1067'>Pour goûter le plaisir qu'on trouve à se venger ? </l>
+	<l id='1068'>Vous pouvez ne pas voir Hippalque dans Roger. </l>
+	<l id='1069'>N'y voyez qu'un rival dont la flamme insolente </l>
+	<l id='1070'>Ose vous dérober le coeur de Bradamante. </l>
+	<l id='1071'>De ce triste bonheur si vous êtes jaloux, </l>
+	<l id='1072'>Ma peine vous doit être un spectacle assez doux. </l>
+	<l id='1073'>Servez-vous-en, Seigneur, pour redoubler la joie </l>
+	<l id='1074'>Qu'on ressent des grands biens quand le Ciel les envoie. </l>
+	<l id='1075'>Ce spectacle a de quoi satisfaire vos voeux, </l>
+	<l id='1076'>Puisque jamais rival ne fut si malheureux. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1077'>Qu'il souffre ce rival, j'y consens, qu'il gémisse. </l>
+	<l id='1078'>À quelque dur excès que monte son supplice, </l>
+	<l id='1079'>Il n'égalera point la peine que je dois </l>
+	<l id='1080'>À qui prétend avoir plus de vertu que moi. </l>
+	<l id='1081'>Roger, je l'avouerai, m'a cédé ce qu'il aime. </l>
+	<l id='1082'>Il s'est pour me servir, armé contre lui-même, </l>
+	<l id='1083'>Mais s'il m'eût de son coeur fait connaître l'ennui, </l>
+	<l id='1084'>Ce qu'il a fait pour moi, je l'aurais fait pour lui. </l>
+	<l id='1085'>C'est trop, il m'ose croire et faible et sans courage, </l>
+	<l id='1086'>D'un si bas sentiment souffrons-lui l'avantage. </l>
+	<l id='1087'>Et par tout ce qui peut m'en laisser mieux vengé, </l>
+	<l id='1088'>Faisons-le repentir de m'avoir outragé. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1089'>Quel triomphe, et qu'il coûte à mon âme abattue ! </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1090'>Si votre espoir détruit est un coup qui vous tue, </l>
+	<l id='1091'>Qui fait contre un ami ce qui doit l'accabler, </l>
+	<l id='1092'>Mérite tous les maux dont l'amour peut trembler. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. </head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1093'>Achève, Sort cruel, et si ce que j'endure </l>
+	<l id='1094'>N'est pas pour ton caprice une peine assez dure, </l>
+	<l id='1095'>Invente des tourments dont l'affreuse rigueur </l>
+	<l id='1096'>Ait encor plus de force à déchirer mon coeur. </l>
+	<l id='1097'>Pour plaire à l'amitié qui le veut, qui l'ordonne, </l>
+	<l id='1098'>Je renonce à l'espoir qu'un tendre amour me donne, </l>
+	<l id='1099'>Et par le plus funeste et surprenant retour </l>
+	<l id='1100'>J'offense l'amitié quand je trahis l'amour. </l>
+	<l id='1101'>Que me sert que l'honneur par une loi pressante </l>
+	<l id='1102' part='i'>M'ait forcé d'immoler... </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Roger Timante. </head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1102' part='f'>Ah, Timante, Timante. </l>
+	<l id='1103' part='i'>Quel dur revers ! </l>
+</sp>
+<sp who='TIMANTE'><speaker>TIMANTE.</speaker>
+	<l id='1103' part='m'>Seigneur. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1103' part='f'>Quittons ces tristes lieux, </l>
+	<l id='1104'>Où tout ce que la terre a de plus odieux, </l>
+	<l id='1105'>Les chagrins dévorants, le désespoir, la rage, </l>
+	<l id='1106'>Font sous leurs durs transports succomber mon courage. </l>
+</sp>
+<sp who='TIMANTE'><speaker>TIMANTE.</speaker>
+	<l id='1107'>Mais puisque Bradamante a reçu votre foi... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1108'>Quel bruit fait son hymen, et que pense le Roi ? </l>
+</sp>
+<sp who='TIMANTE'><speaker>TIMANTE.</speaker>
+	<l id='1109'>Des Bulgares, dit-on, il résout l'alliance. </l>
+	<l id='1110'>Leurs Députés sur l'heure ont pressé l'audience, </l>
+	<l id='1111' part='i'>Et voulant en secret... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER, sans avoir écouté Timante.</speaker>
+	<l id='1111' part='f'>Quoi ? Je pourrais souffrir... </l>
+	<l id='1112'>Non, c'est trop, je n'ai plus à songer qu'à mourir. </l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Roger, Doralise. </head>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1113'>Non, je ne prétends plus exposer à sa vue, </l>
+	<l id='1114'>Le déplorable excès du tourment qui me tue. </l>
+	<l id='1115'>Je pars, et vais traîner en d'inconnus climats </l>
+	<l id='1116'>Des jours infortunés qui ne lui plaisent pas. </l>
+	<l id='1117'>Mais au moins si tu veux qu'en cette juste envie, </l>
+	<l id='1118'>Avec moins de regret j'abandonne la vie, </l>
+	<l id='1119'>Dis-lui cent fois pour moi que malgré sa rigueur, </l>
+	<l id='1120'>Elle seule à jamais régnera dans mon coeur, </l>
+	<l id='1121'>Et que si d'un objet que d'aimer on fit gloire </l>
+	<l id='1122'>Au-delà du tombeau l'on garde la mémoire, </l>
+	<l id='1123'>Son image toujours flattant mon souvenir, </l>
+	<l id='1124'>M'y fera cette paix qui ne doit point finir. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='1125'>Pour un coeur bien épris la disgrâce est touchante, </l>
+	<l id='1126'>Mais si votre bonheur dépend de Bradamante, </l>
+	<l id='1127'>Sans combattre Léon pourrez-vous endurer... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1128'>Non, Doralise, non, j'aurais tort d'espérer. </l>
+	<l id='1129'>Je ne m'explique point, mais le Ciel en colère </l>
+	<l id='1130'>Fait agir pour ma peine un Astre si contraire, </l>
+	<l id='1131'>Que plus sur mon malheur je tiens les yeux ouverts, </l>
+	<l id='1132'>Plus a d'horreur pour moi l'abîme où je me perds. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='1133'>Dans cet accablement on ne peut trop vous plaindre. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1134'>Tu conçois mal, hélas ! Tout ce que je dois craindre. </l>
+	<l id='1135'>Fallait-il qu'un revers si prompt, si rigoureux, </l>
+	<l id='1136'>Dans un si pur amour m'empêchât d'être heureux ? </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+<note type="C">Il semble que, dans le vers suivant, il faille lire : "Léon fait vos malheurs", nous laissons. </note>
+	<l id='1137'>Roger fait vos malheurs, et par son hyménée </l>
+	<l id='1138'>Vous dérobant la foi que l'on vous a donnée... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1139'>Ah, quand je la reçus, que mon bonheur fut grand ! </l>
+	<l id='1140'>Mais n'examinons rien dans ce qui te surprend, </l>
+	<l id='1141'>Bradamante m'accuse, et me croit infidèle. </l>
+	<l id='1142'>Sur l'hymen de Léon à quoi se résout-elle ? </l>
+	<l id='1143'>Mon malheur lui devrait coûter quelques regrets. </l>
+</sp>
+<sp who='DORALISE'><speaker>DORALISE.</speaker>
+	<l id='1144'>Aymon pour cet hymen ne parle que d'apprêts. </l>
+	<l id='1145'>Tandis qu'il les ordonne, elle gémit, soupire, </l>
+	<l id='1146'>Et pour vous dans son coeur s'il m'est permis de lire, </l>
+	<l id='1147'>L'ennui qu'elle fait voir, ne se doit imputer... </l>
+	<l id='1148'>Mais Léon qui paraît m'oblige à vous quitter. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Léon, Roger. </head>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1149'>Je romps votre entretien, et peut-être à ma honte, </l>
+	<l id='1150'>Du coeur de Bradamante on vient vous rendre compte. </l>
+	<l id='1151'>Je ne demande point quels sont ses sentiments. </l>
+	<l id='1152'>Je sais ce que l'amour inspire aux vrais Amants, </l>
+	<l id='1153'>Et comme vous, sans doute, elle fait son supplice </l>
+	<l id='1154'>Du bonheur dont le Ciel consent que je jouisse. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1155'>Je l'avouerai, Seigneur, sans vous reprocher rien, </l>
+	<l id='1156'>Son malheur serait grand s'il approchait du mien. </l>
+	<l id='1157'>Je ne vous en fais point la funeste peinture, </l>
+	<l id='1158'>Vous ne savez que trop ce qu'il faut que j'endure, </l>
+	<l id='1159'>Moi qui du plus beau feu dès longtemps consumé, </l>
+	<l id='1160'>M'arrache à ce que j'aime, et suis sûr d'être aimé. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1161'>Dans les maux que vous coûte un destin si contraire, </l>
+	<l id='1162'>Si mon sang peut avoir de quoi vous satisfaire, </l>
+	<l id='1163'>Je vous estime assez pour vouloir accepter </l>
+	<l id='1164'>Le défi que pour vous on m'est venu porter. </l>
+	<l id='1165'>Mais avant que mon bras remplisse votre attente, </l>
+	<l id='1166'>Je dois voir terminer l'hymen de Bradamante. </l>
+	<l id='1167'>Le Duc Aymon son père en a reçu ma foi. </l>
+	<l id='1168'>L'hymen fait, j'y consens, armez-vous contre moi. </l>
+	<l id='1169'>J'ouvrirai la carrière, et quoi que la victoire </l>
+	<l id='1170'>Vous puisse en ce combat promettre quelque gloire, </l>
+	<l id='1171' part='i'>Peut-être alors, peut-être... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1171' part='f'>Ah ! N'appréhendez pas </l>
+	<l id='1172'>Que mon malheur me donne un coeur lâche, un coeur bas. </l>
+	<l id='1173'>Malgré tout ce que peut l'ennui qui me tourmente, </l>
+	<l id='1174'>J'aime et respecte trop l'illustre Bradamante, </l>
+	<l id='1175'>Pour oser me permettre en de si rudes coups </l>
+	<l id='1176'>Le criminel dessein d'attaquer son époux. </l>
+	<l id='1177'>Mon juste désespoir a d'autres lois à suivre. </l>
+	<l id='1178'>Voir son hymen, suffit pour achever de vivre. </l>
+	<l id='1179'>Je saurais mal aimer, si pour finir mes jours </l>
+	<l id='1180'>Ma douleur n'était pas un assez prompt secours. </l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Bradamante, Léon, Roger, Doralise. </head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1181'>Prince, votre valeur partout s'est fait connaître. </l>
+	<l id='1182'>Par ma défaite encore elle vient de paraître, </l>
+	<l id='1183'>Et ce triomphe joint à cent exploits divers, </l>
+	<l id='1184'>Du bruit de votre nom va remplir l'Univers. </l>
+	<l id='1185'>Mais d'une plus solide et plus grande victoire, </l>
+	<l id='1186'>Après m'avoir vaincue, il vous manque la gloire, </l>
+	<l id='1187'>Je vous la viens offrir, elle dépend de vous. </l>
+	<l id='1188'>Je ne vous saurais plus refuser pour époux, </l>
+	<l id='1189'>Si vous voulez ma main il faut que je la donne, </l>
+	<l id='1190'>L'impérieuse loi du combat me l'ordonne, </l>
+	<l id='1191'>Mais l'honneur quelquefois semble faire un devoir </l>
+	<l id='1192'>De ne pas exiger tout ce qu'on peut vouloir. </l>
+	<l id='1193'>Et de ce qu'on obtient le prix ne touche guère, </l>
+	<l id='1194'>Quand on sait que le don n'en est pas volontaire. </l>
+	<l id='1195'>Faites un effort, Prince, et maître de ma foi, </l>
+	<l id='1196'>Triomphez de vous-même, et me rendez à moi. </l>
+	<l id='1197'>Je sais qu'il est fâcheux d'étouffer une flamme </l>
+	<l id='1198' part='i'>Dont le sensible appas... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1198' part='f'>Je le vois bien, Madame, </l>
+	<l id='1199'>Sur moi, sur mon amour, Roger toujours aimé </l>
+	<l id='1200'>Doit emporter le prix qui m'avait trop charmé. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1201'>Seigneur, n'insultez point à mon malheur extrême... </l>
+	<l id='1202' part='i'>Je sais... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1202' part='f'>Non, je n'agis ici que pour moi-même, </l>
+	<l id='1203'>Et reprenant ma foi, je veux bien m'engager </l>
+	<l id='1204'>À n'en disposer pas en faveur de Roger. </l>
+	<l id='1205'>Je n'examine point s'il peut encor prétendre </l>
+	<l id='1206'>Aux douceurs d'un penchant que j'eus pour lui trop tendre. </l>
+	<l id='1207'>Libre à le suivre un jour sur le choix d'un époux, </l>
+	<l id='1208'>Peut-être ce penchant me parlera pour vous. </l>
+	<l id='1209'>Vous devant une estime et parfaite et sincère, </l>
+	<l id='1210'>Je me dirai qu'en tout vous m'aurez voulu plaire, </l>
+	<l id='1211'>Et de moi-même enfin triomphant à mon tour, </l>
+	<l id='1212'>Je pourrai de l'estime aller jusqu'à l'amour, </l>
+	<l id='1213'>Mais il faut que le temps m'y conduise, m'y mène. </l>
+	<l id='1214'>En l'état où je suis, inquiète, incertaine, </l>
+	<l id='1215'>Voyant votre victoire avec des yeux jaloux, </l>
+	<l id='1216'>Je sens bien que mon coeur n'est point digne de vous. </l>
+	<l id='1217'>Laisse-le s'affranchir d'un reste de faiblesse </l>
+	<l id='1218'>Dont ma fierté sitôt ne peut être maîtresse. </l>
+	<l id='1219'>Quand les yeux mieux ouverts sur ce que je vous dois... </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1220'>Non, Madame, le temps ne ferait rien pour moi. </l>
+	<l id='1221'>Puisque toute la Cour attend votre hyménée, </l>
+	<l id='1222'>Remplissons les décrets de notre destinée, </l>
+	<l id='1223'>Suivons sans différer ce qu'elle a résolu. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1224' part='i'>Ah, Ciel ! </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1224' part='f'>Vous vous servez du pouvoir absolu. </l>
+	<l id='1225'>Je ne le puis nier, mon malheur vous le donne. </l>
+	<l id='1226'>Vous vous êtes acquis des droits sur ma personne ; </l>
+	<l id='1227'>Mais peut-être il n'est pas d'un généreux vainqueur, </l>
+	<l id='1228'>De vouloir une main que ne suit pas le coeur. </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1229'>Comme en ce que je fais la gloire m'autorise, </l>
+	<l id='1230'>J'espère que le coeur suivra la foi promise. </l>
+	<l id='1231'>Le vainqueur vous obtient, n'en prenez point d'ennui, </l>
+	<l id='1232'>Ce vainqueur est Roger, et vous êtes à lui. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1233' part='i'>Roger ? Ciel ! </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1233' part='m'>Ah, Seigneur ! </l>
+</sp>
+<sp who='LEON'><speaker>LÉON.</speaker>
+	<l id='1233' part='f'>Madame, plus d'alarmes. </l>
+	<l id='1234'>Roger a combattu sous mon nom, sous mes armes, </l>
+	<l id='1235'>Et son bras, dont les coups ont dû vous étonner, </l>
+	<l id='1236'>A mérité le prix que j'ose abandonner. </l>
+	<l id='1237'>Je veux faire encore plus ; l'ambition d'un père, </l>
+	<l id='1238'>Quand je vous rends à vous, vous peut être contraire. </l>
+	<l id='1239'>Je vais par tant de soins combattre sa rigueur, </l>
+	<l id='1240'>Qu'à force de presser je toucherai son coeur. </l>
+	<l id='1241'>Par ses déguisements Roger m'a fait outrage ; </l>
+	<l id='1242'>Essayons de le vaincre en grandeur de courage. </l>
+	<l id='1243'>Quoi qu'un pareil triomphe ait pour moi de fatal, </l>
+	<l id='1244'>C'est ainsi que Léon se venge d'un rival. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Bradamante, Roger, Doralise. </head>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1245'>Expliquez-moi, Roger, ce qu'on me fait entendre, </l>
+	<l id='1246'>Sans y voir rien d'obscur, j'ai peine à le comprendre. </l>
+	<l id='1247'>Un Amant tant de fois assuré de ma foi, </l>
+	<l id='1248'>Aurait pour son rival combattu contre moi ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1249' part='i'>Madame... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1249' part='f'>Il est donc vrai que vous avez fait gloire </l>
+	<l id='1250'>De chercher pour Léon une injuste victoire ? </l>
+	<l id='1251'>Si toujours votre coeur brûle des mêmes feux, </l>
+	<l id='1252'>Pouviez-vous pour un autre ordonner de mes voeux ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1253'>Je parais criminel, mais malgré l'apparence, </l>
+	<l id='1254'>Vous-même en m'écoutant vous prendrez ma défense. </l>
+	<l id='1255'>Léon sans s'explique vient exiger de moi </l>
+	<l id='1256'>Un service important qu'il attend de ma foi. </l>
+	<l id='1257'>Pour m'acquitter du jour que par lui je respire, </l>
+	<l id='1258'>J'engage ma parole, ai-je pu m'en dédire. </l>
+	<l id='1259' part='i'>Ai-je pu... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1259' part='f'>Ce Roger fidèle à ses amis, </l>
+	<l id='1260'>Qui tient ce qu'il promet, ne m'a-t-il rien promis ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1261'>Oui, je vous ai promis une ardeur sans égale, </l>
+	<l id='1262'>Et si vous rappelez la rencontre fatale, </l>
+	<l id='1263'>Où votre bras, tout prêt à me priver du jour... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1264'>Je vois dans ce combat le pouvoir de l'amour. </l>
+	<l id='1265'>Il m'a fait épargner en vous sans le connaître, </l>
+	<l id='1266'>Celui que de mon coeur il avait rendu maître, </l>
+	<l id='1267'>Il vous a conservé ; mais que peuvent ces soins ? </l>
+	<l id='1268'>En suis-je plus à vous, et me perdez-vous moins ? </l>
+	<l id='1269'>Ma défaite assurait mon bonheur et le vôtre. </l>
+	<l id='1270'>Fallait-il que Roger me vainquît pour un autre, </l>
+	<l id='1271'>Et que par ce triomphe, il m'ôtât aujourd'hui </l>
+	<l id='1272'>L'heureux droit que j'avais de me donner à lui ? </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1273'>Ne désespérons point ; dans tout ce qui m'arrive </l>
+	<l id='1274'>Je vois du Ciel pour moi la colère excessive, </l>
+	<l id='1275'>Mais enfin tout à coup elle peut s'arrêter. </l>
+	<l id='1276' part='i'>Léon, le Roi, le temps... </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1276' part='f'>Ah, pourquoi vous flatter ? </l>
+	<l id='1277'>À l'amour des grandeurs mon père trop sensible </l>
+	<l id='1278'>Sera toujours pour nous un obstacle invincible. </l>
+<note type="L">Lice : Champ clos, carrière où combattaient les anciens chevaliers, soit à outrance, soit par galanterie dans les joutes te les tournois. [F]</note>
+	<l id='1279'>Quand il croit que Léon dans la lice vainqueur, </l>
+	<l id='1280'>M'oblige à recevoir sa Couronne et son coeur, </l>
+	<l id='1281'>Voudra-t-il endurer qu'aux dépens de sa gloire </l>
+	<l id='1282'>Il cède à vos désirs le fruit de sa victoire ; </l>
+	<l id='1283'>Et ce que de la vôtre on aura publié, </l>
+	<l id='1284'>Ne paraîtra-t-il pas un secours mendié ? </l>
+	<l id='1285'>Au combat, dira-t-on, Léon trouve des charmes </l>
+	<l id='1286'>À feindre qu'à Roger il a prêté ses armes, </l>
+	<l id='1287'>Et pour le rendre heureux, sa générosité </l>
+	<l id='1288'>Cède à ses voeux un prix qu'il n'a pas mérité. </l>
+	<l id='1289'>Non, non, n'attendez rien qui ne vous soit contraire. </l>
+	<l id='1290'>En me donnant à vous, il me rend à mon père, </l>
+	<l id='1291'>Et dans le triste état où mes jours sont réduits, </l>
+	<l id='1292'>Demeurer à moi-même est tout ce que je puis. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Roger, Bradamante, Marphise, Doralise. </head>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='1293'>Enfin, mon frère, enfin, après tant d'injustice, </l>
+	<l id='1294'>Vos malheurs vont cesser, le Ciel vous est propice. </l>
+	<l id='1295'>Pour servir votre amour Léon avec éclat </l>
+	<l id='1296'>A publié partout le secret du combat. </l>
+	<l id='1297'>Mais c'est peu qu'à vos voeux il cède Bradamante, </l>
+	<l id='1298'>Il faut pour l'obtenir, que son père y consente, </l>
+	<l id='1299'>Vous craignez ses refus, cet obstacle est levé. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1300'>Ô Ciel ! Pour ce bonheur je serais réservé ! </l>
+	<l id='1301'>Aimon à mon amour se rendrait favorable ? </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1302'>D'un pareil changement mon père est incapable. </l>
+	<l id='1303'>Léon m'eût mise au Trône ; il ne pourra souffrir </l>
+	<l id='1304'>Qu'à moins d'une Couronne on puisse m'acquérir. </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='1305'>Aussi lorsqu'il consent qu'à Roger on vous donne, </l>
+	<l id='1306'>C'est parce que Roger obtient une Couronne. </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1307' part='i'>Que dites-vous, ma soeur ? </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='1307' part='f'>Qu'un grand Peuple par moi </l>
+	<l id='1308'>Vous jure un plein hommage, et que vous êtes Roi. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1309'>Roger aurait acquis la grandeur souveraine ? </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='1310'>Il n'est rien de si haut où la vertu ne mène. </l>
+	<l id='1311'>Quand donc Constantin, par de si prompts effets, </l>
+	<l id='1312'>Sa valeur rétablit les Bulgares défaits, </l>
+	<l id='1313'>Un des siens arrêté leur ayant fait connaître, </l>
+	<l id='1314'>Avecque son vrai nom, quels lieux l'avaient vu naître, </l>
+	<l id='1315'>Ces Peuples, dont son bras avait calmé l'effroi, </l>
+	<l id='1316'>Pour réparer par lui la perte de leur Roi, </l>
+	<l id='1317'>Charmés du souvenir de sa guerrière audace, </l>
+	<l id='1318'>Sont venus le chercher, et l'ont mis en sa place. </l>
+</sp>
+<sp who='BRADAMANTE'><speaker>BRADAMANTE.</speaker>
+	<l id='1319'>Par ce choix glorieux il vous doit être doux, </l>
+	<l id='1320' part='i'>Que d'un bonheur parfait... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER.</speaker>
+	<l id='1320' part='f'>Je n'en connais qu'en vous, </l>
+	<l id='1321'>Et s'il est vrai qu'Aimon dans mes voeux me seconde, </l>
+	<l id='1322'>Madame, j'aurai plus que l'Empire du Monde. </l>
+	<l id='1323'>Mais ma soeur, vous croirai-je, et puis-je ajouter foi... </l>
+</sp>
+<sp who='MARPHISE'><speaker>MARPHISE.</speaker>
+	<l id='1324'>Non, ne m'en croyez pas, mais croyez-en le Roi. </l>
+	<l id='1325'>Il vous mande, on vous cherche, et j'ai voulu moi-même... </l>
+</sp>
+<sp who='ROGER'><speaker>ROGER, à Bradamante.</speaker>
+	<l id='1326'>Si vous doutez encor de mon amour extrême, </l>
+	<l id='1327'>Madame, venez voir avec combien d'ardeur </l>
+	<l id='1328'>Je joins une Couronne à l'offre de mon coeur. </l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

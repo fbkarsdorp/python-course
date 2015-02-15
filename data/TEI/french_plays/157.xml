@@ -1,0 +1,2471 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>ARIANE, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1672</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Ernest FIEVRE</p><p>Mars 2009</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>mythe grec</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1671-1680</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5772310n</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ARIANE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1672'>M. DC. LXXII.</docDate>
+		<docAuthor id='CORNEILLE, Thomas' bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id=''></privilege>
+			<acheveImprime id=''></acheveImprime>
+			<printer>À PARIS, Chez Guillaume de Lyunes, Libraire juré au Palais, sous la montée de la Cour des Aides.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1672-02-26' location='Hôtel de Bourgogne'>Représenté pour la première fois le 26 février 1672 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+. <castList><head>ACTEURS</head>
+		<castItem><role id="OENARUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>OENARUS</role>, roi de Naxe.</castItem>
+		<castItem><role id="THÉSÉE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>THÉSÉE</role>, fils d'AEgée, Roi d'Athènes.</castItem>
+		<castItem><role id="PIRITHOUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>PIRITHOÜS</role>, fils d'Ixion, Roi des Lapithes.</castItem>
+		<castItem><role id="ARIANE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>ARIANE</role>, fille de Minos, Roi de Crète.</castItem>
+		<castItem><role id="PHÈDRE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PHÈDRE</role>, soeur d'Ariane.</castItem>
+		<castItem><role id="NÉRINE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>NÉRINE</role>, confidente d'Ariane.</castItem>
+		<castItem><role id="ARCAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ARCAS</role>, Naxien, Confident d'OEnarus.</castItem>
+</castList>
+<set location='Ile de Naxos' country='Grèce' periode='Temps mythologiques' link=''>La Scène est dans l'ile de Naxe.</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. OEnarus, Arcas.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1'>Je le confesse, Arcas, ma faiblesse redouble,</l>
+	<l id='2'>Je ne puis voir ici Pirithoüs sans trouble.</l>
+	<l id='3'>Quelques maux où ma flamme ait dû me préparer,</l>
+	<l id='4'>C'était toujours beaucoup que les voir différer.</l>
+	<l id='5'>La Princesse avait beau m'étaler sa constance,</l>
+	<l id='6'>Son hymen reculé flattait mon espérance ;</l>
+	<l id='7'>Et si Thésée avait et son coeur et sa foi,</l>
+	<l id='8'>Contre elle, contre lui, le temps était pour moi.</l>
+	<l id='9'>De ce faible secours Pirithoüs me prive ;</l>
+	<l id='10'>Par lui de mon malheur l'instant fatal arrive.</l>
+	<l id='11'>Cet Ami si longtemps de Thésée attendu,</l>
+	<l id='12'>Pour partager sa joie, en ces lieux s'est rendu.</l>
+	<l id='13'>Il vient être témoin du bonheur de sa flamme.</l>
+	<l id='14'>Ainsi plus de remise ; il faut m'arracher l'âme,</l>
+	<l id='15'>Et me soumettre enfin au tourment sans égal</l>
+	<l id='16'>De voir tout ce que j'aime au pouvoir d'un Rival.</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='17'>Ariane vous charme, et sans doute elle est belle ;</l>
+	<l id='18'>Mais Seigneur, quand l'Amour vous a parlé pour elle,</l>
+	<l id='19'>Avez-vous ignoré que déjà d'autres feux</l>
+	<l id='20'>La mettaient hors d'état de répondre à vos voeux ?</l>
+	<l id='21'>Sitôt que dans cette Île où les vents la poussèrent,</l>
+	<l id='22'>Aux yeux de votre Cour ses beautés éclatèrent,</l>
+	<l id='23'>Vous sûtes que Thésée avait par son secours</l>
+	<l id='24'>Du labyrinthe en Crète évité les détours,</l>
+	<l id='25'>Et que pour reconnaître une amour si fidèle,</l>
+	<l id='26'>Vainqueur du Minotaure, il fuyait avec elle.</l>
+	<l id='27'>Quel espoir vous laissaient des noeuds si bien formés ?</l>
+	<l id='28'>Ils étaient l'un de l'autre également charmés.</l>
+	<l id='29'>Chacun d'eux l'avouait, et vous-même en cette Île</l>
+	<l id='30'>Contre le fier Minos leur promettant asile,</l>
+	<l id='31'>Vous les pressiez d'abord d'avancer l'heureux jour</l>
+	<l id='32'>Qui devait par l'hymen couronner leur amour.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='33'>Que n'ont-ils pu me croire ? Ils m'auraient vu sans peine</l>
+	<l id='34'>Consentir à ces noeuds, dont l'image me gêne.</l>
+	<l id='35'>Quoique alors Ariane eût les mêmes appas,</l>
+	<l id='36'>On résiste aisément quand on n'espère pas,</l>
+	<l id='37'>Et du moins je n'eusse eu, pour sauver ma franchise,</l>
+	<l id='38'>Qu'à vaincre de mes sens la première surprise ;</l>
+	<l id='39'>Mais si mon triste coeur à l'amour s'est rendu,</l>
+	<l id='40'>Thésée en est la cause, et lui seul m'a perdu.</l>
+	<l id='41'>Sans songer quels honneurs l'attendent dans Athènes ;</l>
+	<l id='42'>Ici depuis trois moi il languit dans ses chaînes,</l>
+	<l id='43'>Et quoi que dans l'hymen il dût trouver d'appas,</l>
+	<l id='44'>Pirithoüs absent, il ne les goûtait pas.</l>
+	<l id='45'>Pour en choisir le jour, il a fallu l'attendre.</l>
+	<l id='46'>C'est beaucoup d'amitié pour une amour si tendre.</l>
+	<l id='47'>Ces délais démentaient un coeur bien enflammé ;</l>
+	<l id='48'>Et qui n'aurait pas cru qu'il n'aurait point aimé ?</l>
+	<l id='49'>Voilà sur quoi mon âme à l'espoir enhardie,</l>
+	<l id='50'>S'est peut-être en secret un peu trop applaudie.</l>
+	<l id='51'>Les plus charmants Objets qui brillent dans ma Cour</l>
+	<l id='52'>Semblaient chercher Thésée, et briguer son amour.</l>
+	<l id='53'>Il rendait quelques soins à Mégiste, à Cyane.</l>
+	<l id='54'>Tout cela me flattait du côté d'Ariane,</l>
+	<l id='55'>Et j'allais quelquefois jusqu'à m'imaginer</l>
+	<l id='56'>Qu'il dédaignait un bien qu'il n'osait me donner.</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='57'>Dans l'étroite amitié qui depuis tant d'années</l>
+	<l id='58'>De deux Amis si chers unit les destinées,</l>
+	<l id='59'>Il n'est pas surprenant que malgré de beaux feux,</l>
+	<l id='60'>Thésée ait jusqu'ici refusé d'être heureux.</l>
+	<l id='61'>C'est de quoi mieux goûter le fruit de sa victoire,</l>
+	<l id='62'>Qu'avoir Pirithoüs pour témoin de sa gloire.</l>
+	<l id='63'>Mais, Seigneur, Ariane a-t-elle en son Amant</l>
+	<l id='64'>Blâmé pour un Ami ce trop d'empressement ?</l>
+	<l id='65'>En avez-vous trouvé plus d'accès auprès d'elle ?</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='66'>C'est là ma peine, Arcas, Ariane est fidèle.</l>
+	<l id='67'>Mes languissants regards, mes inquiets soupirs</l>
+	<l id='68'>N'ont que trop de ma flamme expliqué les désirs.</l>
+	<l id='69'>C'était peu, j'ai parlé ; mais pour l'heureux Thésée</l>
+	<l id='70'>D'un feu si violent son âme est embrasée,</l>
+	<l id='71'>Qu'elle a toujours depuis appliqué tous ses soins</l>
+	<l id='72'>À fuir l'occasion de me voir sans témoins.</l>
+	<l id='73'>Phèdre sa Soeur, qui sait les peines que j'endure,</l>
+	<l id='74'>Soulage en m'écoutant ma funeste aventure ;</l>
+	<l id='75'>Et comme il ne faut rien pour flatter un Amant,</l>
+	<l id='76'>Je m'obstine pour elle, et chéris mon tourment.</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='77'>Avec un tel secours vous êtes moins à plaindre ;</l>
+	<l id='78'>Mais Phèdre est sans amour, et d'un mérite à craindre.</l>
+	<l id='79'>Vous la voyez souvent, et j'admire, Seigneur,</l>
+	<l id='80'>Que sa beauté n'ait rien qui touche votre coeur.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='81'>Vois par là de l'Amour le bizarre caprice.</l>
+	<l id='82'>Phèdre dans sa beauté n'a rien qui n'éblouisse.</l>
+	<l id='83'>Les charmes de sa Soeur sont à peine aussi doux,</l>
+	<l id='84'>Je n'ai qu'un mot à dire pour en être l'époux ;</l>
+	<l id='85'>Cependant, quoique aimable, et peut-être plus belle,</l>
+	<l id='86'>Je la vois, je lui parle, et ne sens rien pour elle.</l>
+	<l id='87'>Non, ce n'est ni par choix, ni par raison d'aimer,</l>
+	<l id='88'>Qu'en voyant ce qui plaît, on se laisse enflammer.</l>
+	<l id='89'>D'un aveugle penchant le charme imperceptible</l>
+	<l id='90'>Frappe, saisit, entraîne, et rend un coeur sensible,</l>
+	<l id='91'>Et par une secrète et nécessaire loi</l>
+	<l id='92'>On se livre à l'Amour sans qu'on sache pourquoi.</l>
+	<l id='93'>Je l'éprouve au supplice où le Ciel me condamne.</l>
+	<l id='94'>Tout me parle pour Phèdre, et tout contre Ariane ;</l>
+	<l id='95'>Et quoi que sur le choix ma raison ait de jour,</l>
+	<l id='96'>L'une a ma seule estime, et l'autre mon amour.</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='97'>Mais d'un pareil amour n'êtes-vous pas le maître ?</l>
+	<l id='98' part='i'>Qui peut tout, ose tout.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='98' part='f'>Que me fais-tu connaître</l>
+	<l id='99'>L'ayant reçue ici, j'aurais la lâcheté</l>
+	<l id='100'>De violer les droits de l'hospitalité !</l>
+	<l id='101'>Quand je m'y résoudrais, quel espoir pour ma flamme ?</l>
+	<l id='102'>En la tyrannisant, toucherais-je son âme ?</l>
+	<l id='103'>Thésée est un Héros fameux par tant d'exploits,</l>
+	<l id='104'>Qu'auprès d'elle en mérite il efface les Rois.</l>
+	<l id='105'>Son coeur est tout à lui, j'en connais la constance,</l>
+	<l id='106'>Et nous ferions en vain agir la violence.</l>
+	<l id='107'>Ainsi par mon respect, au défaut d'être aimé,</l>
+	<l id='108'>Méritons jusqu'au bout de m'en voir estimé.</l>
+	<l id='109'>Par d'illustres efforts les grands coeurs se connaissent,</l>
+	<l id='110'>Et malgré mon amour... Mais les Princes paraissent.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. OEnarus, Thésée, Pirithoüs, Arcas.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='111'>Enfin voici ce jour si longtemps attendu.</l>
+	<l id='112'>Pirithoüs dans Naxe à Thésée est rendu,</l>
+	<l id='113'>Et quand un heureux sort permet qu'il le revoie,</l>
+	<l id='114'>Il n'est pas malaisé de juger de sa joie.</l>
+	<l id='115'>Après un tel bonheur rien ne manque à sa foi.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='116'>Cette joie est encor plus sensible pour moi,</l>
+	<l id='117'>Seigneur ; et de plus Thésée a pendant mon absence</l>
+	<l id='118'>D'un destin rigoureux souffert la violence,</l>
+	<l id='119'>Plus c'est pour ma tendresse un aimable transport</l>
+	<l id='120'>D'embrasser un Ami, dont j'ai pleuré la mort.</l>
+	<l id='121'>Qui l'eût cru, que du Sort le choix illégitime</l>
+	<l id='122'>L'ayant au Minotaure envoyé pour victime,</l>
+	<l id='123'>Il dût par un triomphe à jamais glorieux</l>
+	<l id='124'>Affranchir son Pays d'un tribut odieux ?</l>
+	<l id='125'>Sur le bruit qui rendait ces nouvelles certaines,</l>
+	<l id='126'>L'espoir de son retour m'attira dans Athènes,</l>
+	<l id='127'>Et par un ordre exprès, ce fut là que je sus.</l>
+	<l id='128'>Qu'il attendait ici son cher Pirithoüs.</l>
+	<l id='129'>Soudain je vole à Naxe, où de sa renommée</l>
+	<l id='130'>Mon âme à la revoir est d'autant plus charmée,</l>
+	<l id='131'>Que tout comblé qu'il est des faveurs d'un grand Roi,</l>
+	<l id='132'>Même zèle toujours l'intéresse pour moi.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='133'>Que Thésée est heureux ! Tandis qu'il peut attendre</l>
+	<l id='134'>Tous les biens que promet l'amitié la plus tendre,</l>
+	<l id='135'>Du plus parfait amour les favorables noeuds</l>
+	<l id='136'>N'ont rien qu'un bel Objet n'abandonne à ses voeux.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='137'>Il ne faut pas juger sur ce qu'on voit paraître ;</l>
+	<l id='138'>Seigneur, on n'est heureux qu'autant qu'on le croit être.</l>
+	<l id='139'>Vous m'accablez de biens, et quand je vous dois tant,</l>
+	<l id='140'>Ne pouvant m'acquitter, je ne vis point content.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='141'>Ce que j'ai fait pour vous vaut peu que l'on y pense ;</l>
+	<l id='142'>Mais si j'en attendais quelque reconnaissance,</l>
+	<l id='143'>Prince, me dussiez-vous et la vie et l'honneur,</l>
+	<l id='144' part='i'>Il serait un moyen...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='144' part='f'>Quel ? Achevez, Seigneur.</l>
+	<l id='145'>J'offre tout, et déjà mon coeur cède à la joie,</l>
+	<l id='146' part='i'>De penser...</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='146' part='f'>Vous voulez en vain que je le croie.</l>
+	<l id='147'>Cessez d'avoir pour moi des soins trop empressés ;</l>
+	<l id='148'>Il vous en coûterait plus que vous ne pensez.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='149' part='i'>Doutez-vous de mon zèle, et...</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='149' part='f'>Non, je me condamne.</l>
+	<l id='150'>Aimez Pirithoüs, possédez Ariane.</l>
+	<l id='151'>Un Ami si parfait... de si charmants appas...</l>
+	<l id='152'>J'en dis trop, c'est à vous à ne m'entendre pas,</l>
+	<l id='153'>Ma gloire le veut, Prince, et je vous le demande.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Pirithoüs, Thésée.</head>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='154'>Je ne sais si le Roi ne veut pas qu'on l'entende ;</l>
+	<l id='155'>Mais au nom d'Ariane un peu trop de chaleur</l>
+	<l id='156'>Me fait craindre pour vous le trouble de son coeur.</l>
+	<l id='157'>Songez-y ; s'il fallait qu'épris d'amour pour elle...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='158'>Sa passion est forte, et ne m'est pas nouvelle.</l>
+	<l id='159'>Je la sus dès l'instant qu'il s'en laissa charmer ;</l>
+	<l id='160'>Mais ce n'est pas un mal qui me doive alarmer.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='161'>Il est vrai qu'Ariane aurait lieu de se plaindre,</l>
+	<l id='162'>Si chéri sans réserve elle vous voyait craindre.</l>
+	<l id='163'>Je viens de lui parler, et je ne vis jamais</l>
+	<l id='164'>Pour un illustre Amant de plus ardents souhaits.</l>
+	<l id='165'>C'est un amour pour vous si fort, si pur, si tendre,</l>
+	<l id='166'>Que quoi que pour vous plaire il fallût entreprendre,</l>
+	<l id='167'>Son coeur de cette gloire uniquement charmé...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='168'>Hélas ! Et que ne puis-je en être moins aimé !</l>
+	<l id='169'>Je ne me verrais pas dans l'état déplorable</l>
+	<l id='170'>Où me réduit sans cesse un amour qui m'accable,</l>
+	<l id='171'>Un amour qui ne montre à mes sens désolés...</l>
+	<l id='172' part='i'>Le puis-je dire ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='172' part='f'>Ô Dieux ! Est-ce vous qui parlez ?</l>
+	<l id='173'>Ariane en beauté partout si renommée,</l>
+	<l id='174'>Aimant avec excès, ne serait point aimée ?</l>
+	<l id='175'>Vous seriez insensible à de si doux appas ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='176'>Ils ont de quoi toucher, je ne l'ignore pas.</l>
+	<l id='177'>Ma raison qui toujours s'intéresse pour elle,</l>
+	<l id='178'>Me dit qu'elle est aimable, et mes yeux qu'elle est belle.</l>
+	<l id='179'>L'Amour sur leur rapport tâche de m'ébranler ;</l>
+	<l id='180'>Mais quand le coeur se tait, l'Amour a beau parler.</l>
+	<l id='181'>Pour engager ce coeur ses amorces sont vaines,</l>
+	<l id='182'>S'il ne court de lui-même au-devant de ses chaînes,</l>
+	<l id='183'>Et ne confond d'abord pas ses doux embarras</l>
+	<l id='184'>Tous les raisonnements d'aimer, ou n'aimer pas.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='185'>Mais vous souvenez-vous que pour sauver Thésée</l>
+	<l id='186'>La fidèle Ariane à tout s'est exposée ?</l>
+	<l id='187'>Par là du labyrinthe heureusement tiré...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='188'>Il est vrai, tout sans elle était désespéré.</l>
+	<l id='189'>Du succès attendu son adresse suivie,</l>
+	<l id='190'>Malgré le Sort jaloux, m'a conservé la vie,</l>
+	<l id='191'>Je la dois à ses soins ; mais par quelle rigueur</l>
+	<l id='192'>Vouloir que je la paye aux dépens de mon coeur ?</l>
+	<l id='193'>Ce n'est pas qu'en secret l'ardeur d'un si beau zèle</l>
+	<l id='194'>Contre ma dureté n'ait combattu pour elle.</l>
+	<l id='195'>Touché de son amour, confus de son éclat,</l>
+	<l id='196'>Je me suis mille fois reproché d'être ingrat.</l>
+	<l id='197'>Mille fois j'ai rougi de ce que j'ose faire,</l>
+	<l id='198'>Mais mon ingratitude est un mal nécessaire,</l>
+	<l id='199'>Et l'on s'efforce en vain par d'assidus combats</l>
+	<l id='200'>À disposer d'un coeur qui ne se donne pas.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='201'>Votre mérite est grand, et peut l'avoir charmée ;</l>
+	<l id='202'>Mais quand elle vous aime, elle se croit aimée.</l>
+	<l id='203'>Ainsi vos voeux d'abord auront flatté sa foi,</l>
+	<l id='204' part='i'>Et vous aurez juré...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='204' part='f'>Qui n'eût fait comme moi ?</l>
+	<l id='205'>Pour me suivre, Ariane abandonnait son Père,</l>
+	<l id='206'>Je lui devais la vie, elle avait de quoi plaire.</l>
+	<l id='207'>Mon coeur sans passion me laissait présumer</l>
+	<l id='208'>Qu'il prendrait à mon choix l'habitude d'aimer.</l>
+	<l id='209'>Par là, ce qu'il donnait à la reconnaissance</l>
+	<l id='210'>De l'amour auprès d'elle eut l'entière apparence.</l>
+	<l id='211'>Pour payer ce qu'au sien je voyais être dû</l>
+	<l id='212'>Mille devoirs... Hélas ! C'est ce qui m'a perdu.</l>
+	<l id='213'>Je les rendais d'un air à me tromper moi-même</l>
+	<l id='214'>À croire que déjà ma flamme était extrême,</l>
+	<l id='215'>Lorsqu'un trouble secret me fit apercevoir</l>
+	<l id='216'>Que souvent pour aimer c'est peu que le vouloir.</l>
+	<l id='217'>Phèdre à mes yeux surpris à toute heure exposée...</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='218'>Quoi, la Soeur d'Ariane a fait changer Thésée ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='219'>Oui, je l'aime, et telle est cette brûlante ardeur,</l>
+	<l id='220'>Qu'il n'est rien qui la puisse arracher de mon coeur.</l>
+	<l id='221'>Sa beauté, pour qui seule en secret je soupire,</l>
+	<l id='222'>M'a fait voir de l'Amour jusqu'où s'étend l'empire ;</l>
+	<l id='223'>Je l'ai connu par elle, et ne m'en sens charmé</l>
+	<l id='224'>Que depuis que je l'aime, et que j'en suis aimé.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='225' part='i'>Elle vous aime ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='225' part='f'>Autant que je le puis attendre</l>
+	<l id='226'>Dans l'intérêt du sang qu'une soeur lui fait prendre.</l>
+	<l id='227'>Comme depuis longtemps l'amitié qui les joint</l>
+	<l id='228'>Forme entre elles des noeuds que l'Amour ne rompt point,</l>
+	<l id='229'>Elle a quelquefois peine à contraindre son âme</l>
+	<l id='230'>De laisser sans scrupule agir toute sa flamme,</l>
+	<l id='231'>Et voudrait, pour montrer ce qu'elle sent pour moi,</l>
+	<l id='232'>Qu'Ariane eût cessé de prétendre à ma foi.</l>
+	<l id='233'>Cependant pour ôter toute défiance</l>
+	<l id='234'>Qu'aurait donné  le cours de notre intelligence,</l>
+	<l id='235'>Naxe a peu de Beautés pour qui des soins rendus</l>
+	<l id='236'>Ne me semblent coûter quelques soupirs perdus ;</l>
+	<l id='237'>Cyane, AEglé, Mégiste ont part à cet hommage.</l>
+	<l id='238'>Ariane le voit, et n'en prend point ombrage,</l>
+	<l id='239'>Rien n'alarme son coeur, tant ce que je lui dois</l>
+	<l id='240'>Contre ma trahison lui répond de ma foi.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='241'>Ces devoirs partagés ont trop d'indifférence</l>
+	<l id='242'>Pour vous faire aisément soupçonner d'inconstance.</l>
+	<l id='243'>Mais quand depuis trois mois vous m'avez attendu,</l>
+	<l id='244'>Ne vous déclarant point, qu'avez-vous prétendu ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='245'>Flatter l'espoir du Roi, donner temps à sa flamme</l>
+	<l id='246'>De pouvoir malgré lui tyranniser son âme,</l>
+	<l id='247'>Gagner l'esprit de Phèdre, et me débarrasser</l>
+	<l id='248'>D'un hymen dont peut-être on m'aurait fait presser.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='249'>Mais me voici dans Naxe, et quoi qu'on puisse faire,</l>
+	<l id='250'>Votre infidélité ne saurait plus se taire.</l>
+	<l id='251'>Quel prétexte auriez-vous encor à différer ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='252'>Je me suis trop contraint, il faut me déclarer.</l>
+	<l id='253'>Quoi que doive Ariane en ressentir de peine,</l>
+	<l id='254'>Il faut lui découvrir que son hymen me gêne,</l>
+	<l id='255'>Et pour punir mon crime, et se venger de moi,</l>
+	<l id='256'>La porter, s'il se peut, à faire choix du Roi.</l>
+	<l id='257'>Vous seul, car de quel front lui confesser moi-même</l>
+	<l id='258'>Qu'en moi c'est un ingrat, un parjure qu'elle aime ?</l>
+	<l id='259'>Non, vous lui peindrez mieux l'embarras de mon coeur.</l>
+	<l id='260'>Parlez, mais gardez bien de lui nommer sa Soeur.</l>
+	<l id='261'>Savoir qu'une Rivale ait mon âme charmée,</l>
+	<l id='262'>La chercher, la trouver dans une Soeur aimée,</l>
+	<l id='263'>Ce serait un supplice, après mon changement,</l>
+	<l id='264'>À faire tout oser à son ressentiment.</l>
+	<l id='265'>Ménagez sa douleur pour la rendre plus lente.</l>
+	<l id='266'>Avouez-lui l'amour, mais cachez-lui l'Amante.</l>
+	<l id='267'>Sur qui que ses soupçons puissent ailleurs tomber,</l>
+	<l id='268'>Phèdre à sa défiance est seule à dérober.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='269'>Je tairai ce qu'il faut ; mais comme je condamne</l>
+	<l id='270'>Votre ingrate conduite au regard d'Ariane,</l>
+	<l id='271'>N'attendez pas de moi que pour vous dégager</l>
+	<l id='272'>Je lui parle du feu qui vous porte à changer.</l>
+	<l id='273'>C'est un aveu honteux qu'un autre lui peut faire.</l>
+	<l id='274'>Cependant mon secours vous étant nécessaire,</l>
+	<l id='275'>Si sur l'hymen du Roi je puis être écouté,</l>
+	<l id='276'>J'appuierai le projet dont je vous vois flatté.</l>
+	<l id='277' part='i'>Phèdre vient, je vous laisse.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='277' part='f'>Ô trop charmante vue !</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Thésée, Phèdre.</head>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='278'>Et bien ? À quoi, Madame, êtes-vous résolue ?</l>
+	<l id='279'>Je n'ai plus de prétexte à cacher mon secret.</l>
+	<l id='280'>Ne verrez-vous jamais mon amour qu'à regret,</l>
+	<l id='281'>Et quand Pirithoüs que je feignais d'attendre,</l>
+	<l id='282'>Me contraint à l'éclat qu'il m'a fallu suspendre,</l>
+	<l id='283'>M'aimerez-vous si peu, que pour le retarder</l>
+	<l id='284'>Vous me disiez encor que c'est trop hasarder ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='285'>Vous pouvez là-dessus vous répondre vous-même.</l>
+	<l id='286'>Prince, je vous l'ai dit, il est vrai, je vous aime,</l>
+	<l id='287'>Et quand d'un coeur bien né la gloire est le secours,</l>
+	<l id='288'>L'avoir dit une fois, c'est le dire toujours.</l>
+	<l id='289'>Je n'examine point si je pouvais sans blâme</l>
+	<l id='290'>Au feu qui m'a surprise abandonner mon âme,</l>
+	<l id='291'>Peut-être à m'en défendre aurais-je trouvé jour,</l>
+	<l id='292'>Mais il entre souvent du destin dans l'amour,</l>
+	<l id='293'>Et dût-il m'en coûter un éternel martyre,</l>
+	<l id='294'>Le destin l'a voulu, c'est à moi d'y souscrire.</l>
+	<l id='295'>J'aime donc ; mais malgré l'appas flatteur et doux</l>
+	<l id='296'>Des tendres sentiments qui me parlent pour vous,</l>
+	<l id='297'>Je ne puis oublier qu'Ariane exilée</l>
+	<l id='298'>S'est pour vos intérêts elle-même immolée ;</l>
+	<l id='299'>Qu'aucun amour jamais n'eut tant de fermeté,</l>
+	<l id='300'>Qu'ayant tout fait pour vous elle a tout mérité,</l>
+	<l id='301'>Et plus l'instant approche où cette Infortunée</l>
+	<l id='302'>Après un long espoir doit être abandonnée,</l>
+	<l id='303'>Plus un secret remords trouve à me reprocher</l>
+	<l id='304'>Que lui vole un bien qui lui coûte si cher.</l>
+	<l id='305'>Vous lui devez ce coeur dont vous m'offrez l'hommage.</l>
+	<l id='306'>Vous lui devez la foi que votre amour m'engage ;</l>
+	<l id='307'>Vous lui devez ces voeux que déjà tant de fois...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='308'>Ah, ne me parlez plus de ce que je lui dois.</l>
+	<l id='309'>Pour elle contre vous qu'ai-je oublié de faire ?</l>
+	<l id='310'>Quels efforts ! J'ai taché de l'aimer pour vous plaire ;</l>
+	<l id='311'>C'est mon crime, et peut-être il m'en faudrait haïr,</l>
+	<l id='312'>Mais vous m'en donniez l'ordre, il fallait obéir.</l>
+	<l id='313'>Il fallait me la peindre aimable, jeune, belle,</l>
+	<l id='314'>Voir son Pays quitté, mes jours sauvés par elle.</l>
+	<l id='315'>C'était de quoi sans doute assujettir mes voeux</l>
+	<l id='316'>À n'aimer qu'à lui plaire, à m'en tenir heureux ;</l>
+	<l id='317'>Mais son mérite en vain semblait fixer ma flamme ;</l>
+	<l id='318'>Un tendre souvenir frappait soudain mon âme.</l>
+	<l id='319'>Dès le moindre retour vers un charme si doux</l>
+	<l id='320'>Je cédais au penchant qui m'entraîne vers vous,</l>
+	<l id='321'>Et sentais dissiper par cette ardeur nouvelle</l>
+	<l id='322'>Tous les projets d'amour que j'avais faits pour elle.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='323'>J'aurais de ces combats affranchi votre coeur,</l>
+	<l id='324'>Si j'eusse eu pour Rivale une autre qu'une Soeur ;</l>
+	<l id='325'>Mais trahir l'amitié dont on la voit sans cesse...</l>
+	<l id='326'>Non, Thésée, elle m'aime avec trop de tendresse.</l>
+	<l id='327'>D'un supplice si rude il faut la garantir,</l>
+	<l id='328'>Sans doute elle en mourrait, je n'y puis consentir.</l>
+	<l id='329'>Rendez-lui votre amour, cet amour qui sans elle</l>
+	<l id='330'>Aurait peut-être dû me demeurer fidèle ;</l>
+	<l id='331'>Cet amour qui toujours trop propre à me charmer,</l>
+	<l id='332' part='i'>N'ose...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='332' part='f'>Apprenez-moi donc à ne vous plus aimer,</l>
+	<l id='333'>À briser ces liens où mon âme asservie</l>
+	<l id='334'>A mis tout ce qui fait le bonheur de ma vie.</l>
+	<l id='335'>Ces feux dont ma raison ne saurait triompher,</l>
+	<l id='336'>Apprenez-moi comment on les peut étouffer,</l>
+	<l id='337'>Comment on peut du coeur bannir le chère image...</l>
+	<l id='338'>Mais à quel sentiment ma passion m'engage !</l>
+	<l id='339'>Si la douceur d'aimer a pour vous quelque appas,</l>
+	<l id='340'>Me pourriez-vous apprendre à ne vous aimer pas ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='341'>Il en est un moyen que ma gloire envisage</l>
+	<l id='342'>Il faut de votre coeur arracher cette image.</l>
+	<l id='343'>Ma vue étant pour vous un mal contagieux,</l>
+	<l id='344'>Pour dégager ce coeur, commencez par les yeux.</l>
+	<l id='345'>Fuyez de mes regards la trop flatteuse amorce ;</l>
+	<l id='346'>Plus vous les souffrirez, plus ils auront de force.</l>
+	<l id='347'>Ce n'est qu'en s'éloignant qu'on pare de tels coups</l>
+	<l id='348'>Si le triomphe est rude, il est digne de vous.</l>
+	<l id='349'>Il est beau d'étouffer ce qui peut trop nous plaire</l>
+	<l id='350' part='i'>D'immoler à sa gloire...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='350' part='f'>Et le pouvez-vous faire</l>
+	<l id='351'>Ces traits qu'en votre coeur mon amour a tracés,</l>
+	<l id='352'>Quand vous me verrez moins, seront-ils effacés ?</l>
+	<l id='353'>Oublierez-vous sitôt cet ardent sacrifice...</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='354'>Cruel, pourquoi vouloir accroître mon supplice ?</l>
+	<l id='355'>M'accable-t-il si peu, qu'il y faille ajouter ?</l>
+	<l id='356'>Les plaintes d'un amour que je n'ose écouter ?</l>
+	<l id='357'>Puisque mon fier devoir le condamne à se taire,</l>
+	<l id='358'>Laissez-moi me cacher que vous m'avez su plaire.</l>
+	<l id='359'>Laissez-moi déguiser à mes chagrins jaloux,</l>
+<note type="L">Heur : rencontre avantageuse. [F]</note>
+	<l id='360'>Qu'il n'est point d'heur pour moi, point de repos sans vous.</l>
+	<l id='361'>C'est trop ; déjà mon coeur à ma gloire infidèle,</l>
+	<l id='362'>De mes sens mutinés suit le parti rebelle ;</l>
+	<l id='363'>Il se trouble, il s'emporte, et dès que je vous vois,</l>
+	<l id='364'>Ma tremblante vertu ne répond plus de moi.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='365'>Ah, puisqu'en ma faveur l'Amour fait ce miracle,</l>
+	<l id='366'>Oubliez qu'une Soeur y voudra mettre obstacle.</l>
+	<l id='367'>Pourquoi pour l'épargner trahir un si beau feu ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='368'>Mais sur quoi vous flattez d'obtenir son aveu ?</l>
+	<l id='369' part='i'>Sachant que vous m'aimez...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='369' part='f'>C'est ce qu'il faut lui taire.</l>
+	<l id='370'>Sa fuite de Minos allume la colère,</l>
+	<l id='371'>Pour s'en mettre à couvert elle a besoin d'appui ;</l>
+	<l id='372'>Le Roi l'aime, faisons qu'elle s'attache à lui,</l>
+	<l id='373'>Et qu'acceptant sa main au défaut de la mienne,</l>
+	<l id='374'>Elle souffre en ces lieux qu'un Trône la soutienne.</l>
+	<l id='375'>Quand un nouvel amour par l'hymen établi</l>
+	<l id='376'>M'aura par l'habitude attiré son oubli,</l>
+	<l id='377'>Qu'elle verra pour moi son mépris nécessaire,</l>
+	<l id='378'>Nous pourrons de nos feux découvrir le mystère.</l>
+	<l id='379'>Mais prêt à la porter à ce grand changement,</l>
+	<l id='380'>J'ai besoin de vous voir enhardir son Amant,</l>
+	<l id='381'>De voir que dans vos yeux, quand ce projet me flatte,</l>
+	<l id='382'>En faveur de l'Amour un peu de joie éclate ;</l>
+	<l id='383'>Que contre vos frayeurs rassurant votre esprit,</l>
+	<l id='384' part='i'>Elle efface...</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='384' part='f'>Allez, Prince, on vous aime, il suffit.</l>
+	<l id='385'>Peut-être que sur moi la crainte a trop d'empire.</l>
+	<l id='386'>Suivez ce qu'en secret votre coeur vous inspire ;</l>
+	<l id='387'>Et de quoi que le mien puisse encor s'allumer,</l>
+	<l id='388'>N'écoutez que l'Amour, si vous savez aimer.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Ariane, Nérine. </head>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='389'>Le Roi, de ce refus eût eu lieu de se plaindre,</l>
+	<l id='390'>Madame, vous devez un moment vous contraindre ;</l>
+	<l id='391'>Et quoiqu'en l'écoutant vous ne puissiez douter</l>
+	<l id='392'>Que c'est son amour seul qu'il vous faut écouter,</l>
+	<l id='393'>Votre hymen dont enfin l'heureux moment s'avance,</l>
+	<l id='394'>Semble vous obliger à cette complaisance.</l>
+	<l id='395'>Il vous perd, et la plainte a de quoi soulager.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='396'>Je sais qu'avec le Roi j'ai tout à ménager,</l>
+	<l id='397'>J'aurais tout de l'aigrir. L'asile qu'il nous prête</l>
+	<l id='398'>Contre la violence assure ma retraite.</l>
+	<l id='399'>D'ailleurs, tant de respect accompagne ses voeux,</l>
+	<l id='400'>Que souvent j'ai regret qu'il ne puisse être heureux.</l>
+	<l id='401'>Mais quand d'un premier feu l'âme toute occupée</l>
+	<l id='402'>Ne trouve de douceur qu'aux traits qui l'ont frappée,</l>
+	<l id='403'>C'est un sujet d'ennui qui ne peut s'exprimer,</l>
+	<l id='404'>Qu'un Amant qu'on néglige, et qui parle d'aimer.</l>
+	<l id='405'>Pour m'en rendre la peine à souffrir plus aisée,</l>
+	<l id='406'>Tandis que le Roi vient, parle-moi de Thésée.</l>
+	<l id='407'>Peins-moi bien quel honneur je reçois de sa foi,</l>
+	<l id='408'>Peins-moi bien tout l'amour dont il brûle pour moi ;</l>
+	<l id='409'>Offres-en à mes yeux la plus sensible image.</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='410'>Je crois que de son coeur vous avez tout l'hommage ;</l>
+	<l id='411'>Mais au point que de lui je vois vos sens charmés,</l>
+	<l id='412'>C'est beaucoup s'il vous aime autant que vous l'aimez.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='413'>Et puis-je trop l'aimer, quand tout brillant de gloire</l>
+	<l id='414'>Mille fameux exploits l'offrent à ma mémoire ?</l>
+	<l id='415'>De cent Monstres par lui l'Univers dégagé</l>
+	<l id='416'>Se voit d'un mauvais sang heureusement purgé.</l>
+	<l id='417'>Combien ainsi qu'Hercule a-t-il pris de victimes ?</l>
+	<l id='418'>Combien vengé de morts, combien puni de crimes ?</l>
+	<l id='419'>Procuste et Cercyon, la terreur des Humains,</l>
+	<l id='420'>N'ont-ils pas succombé sous ses vaillantes mains ?</l>
+	<l id='421'>Ce n'est point le vanter que ce qu'on m'entend dire.</l>
+	<l id='422'>Tout le monde le sait, tout le monde l'admire ;</l>
+	<l id='423'>Mais c'est peu, je voudrais que tout ce que je vois</l>
+	<l id='424'>S'en entretînt sans cesse, en parlât comme moi.</l>
+	<l id='425'>J'aime Phèdre ; tu sais combien elle m'est chère.</l>
+	<l id='426'>Si quelque chose en elle a de quoi me déplaire,</l>
+	<l id='427'>C'est de voir son esprit de froideur combattu,</l>
+	<l id='428'>Négliger entre nous de louer sa vertu.</l>
+	<l id='429'>Quand je dis qu'il s'acquiert une gloire immortelle,</l>
+	<l id='430'>Elle applaudit, m'approuve, et qui ferait moins qu'elle ?</l>
+	<l id='431'>Mais enfin d'elle-même on ne l'entend jamais</l>
+	<l id='432'>De ce charmant Héros élever les hauts faits.</l>
+	<l id='433'>Il faut en leur faveur expliquer son silence.</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='434'>Je ne m'étonne point de cette indifférence.</l>
+	<l id='435'>N'ayant jamais aimé, son coeur ne conçoit pas...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='436'>Elle évite peut-être un cruel embarras.</l>
+	<l id='437'>L'Amour n'a bien souvent qu'une douceur trompeuse ;</l>
+	<l id='438'>Mais vivre indifférente, est-ce une vie heureuse ?</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='439'>Apprenez-le du Roi, qui de vous trop charmé</l>
+	<l id='440'>Ne souffrirait pas tant, s'il n'avait point aimé.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. OEnarus, Ariane, Nérine.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='441'>Ne vous offensez point, Princesse incomparable,</l>
+	<l id='442'>Si prêt à succomber au malheur qui m'accable.</l>
+	<l id='443'>Pour la dernière fois j'ai tâché d'obtenir</l>
+	<l id='444'>La triste liberté de vous entretenir.</l>
+	<l id='445'>Je la demande entière, et quoi que puisse dire</l>
+	<l id='446'>Ce feu qui malgré vous prend sur moi trop d'empire,</l>
+	<l id='447'>Vous pouvez sans scrupule en voir mon coeur atteint,</l>
+	<l id='448'>Quand pour prix de mes maux je ne veux qu'être plaint.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='449'>Je connais tout l'amour dont votre âme est éprise.</l>
+	<l id='450'>Son excès m'a souvent causé de la surprise,</l>
+	<l id='451'>Et vous ne direz rien que mon coeur interdit</l>
+	<l id='452'>Pour vous-même avant vous ne se soit déjà dit.</l>
+	<l id='453'>Tant d'ardeur méritait que ce coeur plus sensible</l>
+	<l id='454'>À l'offre de vos voeux ne fût pas inflexible,</l>
+	<l id='455'>Que d'un si noble hommage il se trouvât charmé ;</l>
+	<l id='456'>Mais quand je vous ai vu, Thésée était aimé ;</l>
+	<l id='457'>Vous savez son mérite, et le prix qu'il me coûte.</l>
+	<l id='458'>Après cela, Seigneur, parlez, je vous écoute.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='459'>Thésée a du mérite, et je l'ai dit cent fois,</l>
+	<l id='460'>Votre amour eût eu peine à faire un plus beau choix.</l>
+	<l id='461'>Partout sa gloire éclate, on l'estime, on l'honore,</l>
+	<l id='462'>Il vous aime, ou plutôt, Madame, il vous adore.</l>
+	<l id='463'>Vous le dire à toute heure est son soin le plus doux ;</l>
+	<l id='464'>Et qui pourrait moins faire étant aimé de vous ?</l>
+	<l id='465'>Après cette justice à sa flamme rendue,</l>
+	<l id='466'>La mienne par pitié sera-t-elle entendue ?</l>
+	<l id='467'>Je ne vous redis point que tous mes sens ravis</l>
+	<l id='468'>Cédèrent à l'amour sitôt que je vous vis.</l>
+	<l id='469'>Vous l'avez déjà su par l'aveu téméraire</l>
+	<l id='470'>Que de ma passion j'osai d'abord vous faire.</l>
+	<l id='471'>Il fallut, pour cesser de vous être suspect,</l>
+	<l id='472'>Ne vous en parler plus, je l'ai fait par respect.</l>
+	<l id='473'>Pour ne vous aigrir pas, d'un rigoureux silence</l>
+	<l id='474'>Je me suis imposé la dure violence,</l>
+	<l id='475'>Et s'il m'est échappé d'en soupirer tout bas,</l>
+	<l id='476'>C'était bien m'en punir, que ne m'écouter pas.</l>
+	<l id='477'>Tant de rigueur n'a pu diminuer ma flamme.</l>
+	<l id='478'>Pour vous voir sans pitié je n'ai point changé d'âme ;</l>
+	<l id='479'>J'ai souffert, j'ai langui d'amour tout consumé,</l>
+	<l id='480'>Madame, et tout cela sans espoir d'être aimé.</l>
+	<l id='481'>Par vos seuls intérêts vous m'avez été chère.</l>
+	<l id='482'>J'ai regardé l'Amour sans chercher le salaire,</l>
+	<l id='483'>Et même en ce funeste et dernier entretien,</l>
+	<l id='484'>Prêt peut-être à mourir, je ne demande rien.</l>
+	<l id='485'>Rendez Thésée heureux, vous l'aimez, il vous aime ;</l>
+	<l id='486'>Mais songez, en plaignant mon infortune extrême,</l>
+	<l id='487'>Que vos bienfaits n'ont point sollicité ma foi,</l>
+	<l id='488'>Que vous n'avez rien fait, rien hasardé pour moi,</l>
+	<l id='489'>Et que lorsque mon coeur dispose de ma vie,</l>
+	<l id='490'>C'est sans vous la devoir qu'il vous la sacrifie.</l>
+	<l id='491'>Pour prix du pur amour qui le fait soupirer,</l>
+	<l id='492'>S'il était quelque grâce où je pusse aspirer,</l>
+	<l id='493'>Je vous demanderais pour flatter mon martyre,</l>
+	<l id='494'>Qu'au moins quand je vous perds, vous daignassiez me dire,</l>
+	<l id='495'>Que sans ce premier feu pour vous si plein d'appas,</l>
+	<l id='496'>J'aurais pu par mes soins ne vous déplaire pas.</l>
+	<l id='497'>Pour adoucir les maux où votre hymen m'expose,</l>
+	<l id='498'>Ce que j'ose exiger sans doute est peu de chose ;</l>
+	<l id='499'>Mais un mot favorable, un sincère soupir,</l>
+	<l id='500'>Est tout pour qui ne veut que l'entendre et mourir.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='501'>Seigneur, tant de vertu dans votre amour éclate,</l>
+	<l id='502'>Qu'il faut vous l'avouer, je ne suis point ingrate.</l>
+	<l id='503'>Mon coeur se sent touché de ce que je vous dois,</l>
+	<l id='504'>Et voudrait être à vous s'il pouvait être à moi ;</l>
+	<l id='505'>Mais il perdrait le prix dont vous le croyez être ;</l>
+	<l id='506'>Si l'infidélité vous en rendait le maître.</l>
+	<l id='507'>Thésée y règne seul, et s'y trouve adoré.</l>
+	<l id='508'>Dès la première fois je vous l'ai déclaré,</l>
+	<l id='509' part='i'>Dès la première fois...</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='509' part='f'>C'en est assez, Madame.</l>
+	<l id='510'>Thésée a mérité que vous payiez sa flamme.</l>
+	<l id='511'>Pour lui, Pirithoüs arrivé dans ma Cour</l>
+	<l id='512'>Va presser votre hymen, choisissez-en le jour.</l>
+	<l id='513'>S'il faut que je donne ordre à l'apprêt nécessaire,</l>
+	<l id='514'>Parlez, il me suffit que ce sera vous plaire,</l>
+	<l id='515'>J'exécuterai tout. Peut-être il serait mieux</l>
+	<l id='516'>De vouloir épargner ce supplice à mes yeux.</l>
+	<l id='517'>Que doit faire le coup, si l'image me tue ?</l>
+	<l id='518'>Mais je me priverais par là de votre vue.</l>
+	<l id='519'>C'est ce qui peut surtout aigrir mon désespoir,</l>
+	<l id='520'>Et j'aime mieux mourir que cesser de vous voir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. OEnarus, Thésée, Ariane, Nérine.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='521'>Prince, mon trouble parle ; et quand je voudrais taire</l>
+	<l id='522'>Le supplice où m'expose un destin trop contraire,</l>
+	<l id='523'>De mes yeux interdits la confuse langueur</l>
+	<l id='524'>Trahirait malgré moi le secret de mon coeur.</l>
+	<l id='525'>J'aime, et de cet amour dont j'adore les charmes,</l>
+	<l id='526'>La Princesse est l'objet, n'en prenez point d'alarmes.</l>
+	<l id='527'>Au point de votre hymen vous en faire l'aveu,</l>
+	<l id='528'>C'est vous montrer assez ce qu'est un si beau feu.</l>
+	<l id='529'>De tous ses mouvements ma raison me rend maître ;</l>
+	<l id='530'>L'effort est grand sans doute, on en souffre, et peut-être</l>
+	<l id='531'>Un Rival tel que moi par sa vertu trahi,</l>
+	<l id='532'>Mérite d'être plaint, et non d'être haï.</l>
+	<l id='533'>C'est tout ce qu'il prétend pour prix de sa victoire,</l>
+	<l id='534'>Ce malheureux Rival qui s'immole à sa gloire.</l>
+	<l id='535'>Vos soupçons auraient pu faire outrage à ma foi,</l>
+	<l id='536'>S'ils s'étaient avec vous expliqués avant moi ;</l>
+	<l id='537'>C'est en les prévenant que je me justifie.</l>
+	<l id='538'>Ne considérez point le malheur de ma vie.</l>
+	<l id='539'>L'hymen depuis longtemps attire tous vos voeux,</l>
+	<l id='540'>J'y consens, dès demain vous pouvez être heureux.</l>
+	<l id='541'>Pirithoüs présent n'y laisse plus d'obstacle,</l>
+	<l id='542'>Ma Cour qui vous honore attend ce grand spectacle.</l>
+	<l id='543'>Ordonnez-en la pompe, et dans un sort si doux,</l>
+	<l id='544'>Quoi que j'aie à souffrir, ne regardez que vous,</l>
+	<l id='545' part='i'>Adieu, Madame.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Thésée, Ariane, Nérine.</head>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='545' part='f'>Il faut l'avouer à sa gloire,</l>
+	<l id='546'>Sa vertu va plus loin que je n'aurais pu croire.</l>
+	<l id='547'>Au bonheur d'un Rival lui-même consentir ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='548'>L'honneur à cet effort a dû l'assujettir.</l>
+	<l id='549'>Qu'eût-il fait ? Il sait trop que mon amour extrême,</l>
+	<l id='550'>En s'attachant à vous, n'a cherché que vous-même,</l>
+	<l id='551'>Et qu'ayant tout quitté pour vous prouver ma foi,</l>
+	<l id='552'>Mille Trônes offerts ne pourraient rien sur moi.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='553'>Tant d'amour me confond, et plus je vois, Madame,</l>
+	<l id='554' part='i'>Que je dois...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='554' part='f'>Apprenez un projet de ma flamme.</l>
+	<l id='555'>Pour m'attacher à vous par de plus fermes noeuds,</l>
+	<l id='556'>J'ai dans Pirithoüs trouvé ce que je veux.</l>
+	<l id='557'>Vous l'aimez chèrement ; il faut que l'Hyménée,</l>
+	<l id='558'>De ma Soeur avec lui joigne la destinée,</l>
+	<l id='559'>Et que nous partagions ce que pour les grands coeurs</l>
+	<l id='560'>L'amour et l'amitié font naître de douceurs.</l>
+	<l id='561'>Ma Soeur a du mérite, elle est aimable et belle,</l>
+	<l id='562'>Suit mes conseils en tout, et je vous réponds d'elle,</l>
+	<l id='563'>Voyez Pirithoüs, et tâchez d'obtenir</l>
+	<l id='564'>Que par elle avec nous il consente à s'unir.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='565'>L'offre de cet hymen rendra sa joie extrême ;</l>
+	<l id='566'>Mais, Madame, le Roi... Vous savez qu'il vous aime.</l>
+	<l id='567' part='i'>S'il faut...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='567' part='f'>Je vous entends ; le Roi trop combattu</l>
+	<l id='568'>Peut laisser à l'Amour séduire sa vertu.</l>
+	<l id='569'>Cet inquiet souci ne saurait me déplaire,</l>
+	<l id='570'>Et pour le dissiper je sais ce qu'il faut faire.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='571' part='i'>C'en est trop, mon coeur... Dieux !</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='571' part='f'>Que ce trouble m'est doux !</l>
+	<l id='572'>Ce qu'il vous fait sentir, je me le dis pour vous.</l>
+	<l id='573' part='i'>Je me dis...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='573' part='f'>Plût aux Dieux ! Vous sauriez la contrainte...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='574'>Encor un coup perdez cette jalouse crainte ;</l>
+	<l id='575'>J'en connais le remède, et si l'on m'ose aimer,</l>
+	<l id='576'>Vous n'aurez pas longtemps à vous en alarmer.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='577'>Minos peut vous poursuivre, et si de sa vengeance...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='578'>Et n'ai-je pas en vous une sûre défense ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='579' part='i'>Elle est sûre, il est vrai, mais...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='579' part='m'>Achevez.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='579' part='f'>J'attends...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='580'>Ce désordre me gêne, et dure trop longtemps ;</l>
+	<l id='581' part='i'>Expliquez-vous enfin.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='581' part='f'>Je le veux, et ne l'ose ;</l>
+	<l id='582'>À mes propres souhaits moi-même je m'oppose,</l>
+	<l id='583'>Je poursuis un aveu que je crains d'obtenir.</l>
+	<l id='584'>Il faut parler pourtant, c'est trop me retenir.</l>
+	<l id='585'>Vous m'aimez, et peut-être une plus digne flamme</l>
+	<l id='586'>N'a jamais eu de quoi toucher un e grande âme,</l>
+	<l id='587'>Tout mon sang aurait peine à m'acquitter vers vous ;</l>
+	<l id='588'>Et cependant le Sort, de ma gloire jaloux,</l>
+	<l id='589'>Par une tyrannie à vos désirs funeste...</l>
+	<l id='590'>Adieu, Pirithoüs vous peut dire le reste.</l>
+	<l id='591'>Sans l'amour qui du Roi vous soumet les États,</l>
+	<l id='592'>Je vous conseillerais de ne l'apprendre pas.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Ariane, Pirithoüs, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='593'>Quel est ce grand secret, Prince, et par quel mystère</l>
+	<l id='594'>Vouloir me l'expliquer, et tout à coup se taire ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='595'>Ne me demandez rien, il sort tout interdit,</l>
+	<l id='596'>Madame, et par son trouble il vous en a trop dit.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='597'>Je vous comprends tous deux, vous arrivez d'Athènes.</l>
+	<l id='598'>Du sang dont je suis née on n'y veut point de Reines,</l>
+	<l id='599'>Et le peuple indigné refuse à ce héros</l>
+	<l id='600'>D'admettre dans son lit la fille de Minos ?</l>
+	<l id='601'>Qu'après la mort d'AEgée il soit toujours le même,</l>
+	<l id='602'>Qu'il m'ôte, s'il le peut, l'honneur du rang suprême,</l>
+	<l id='603'>Trône, Sceptre, grandeurs, sont des biens superflus ;</l>
+	<l id='604'>Thésée étant à moi, je ne veux rien de plus.</l>
+	<l id='605'>Son amour paye assez ce que le mien me coûte,</l>
+	<l id='606' part='i'>Le reste est peu de chose.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='606' part='f'>Il vous aime sans doute,</l>
+	<l id='607'>Et comment pourrait-il avoir le coeur si bas,</l>
+	<l id='608'>Que tenir tout de vous, et ne vous aimer pas ?</l>
+	<l id='609'>Mais, Madame, ce n'est que des âmes communes</l>
+	<l id='610'>Que l'Amour s'autorise à régler les fortunes ;</l>
+	<l id='611'>Qu'Athènes se déclare, ou pour, ou contre vous,</l>
+	<l id='612'>Vous avez de Minos à craindre le courroux,</l>
+	<l id='613'>Et l'hymen seul du Roi peut sans incertitude</l>
+	<l id='614'>Vous ôter là-dessus tout lieu d'inquiétude.</l>
+	<l id='615'>Il vous aime, et de vous Naxe prenant la loi,</l>
+	<l id='616' part='i'>Calmera...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='616' part='f'>Vous voulez que j'épouse le Roi ?</l>
+	<l id='617'>Certes l'avis est rare, et si j'ose vous croire,</l>
+	<l id='618'>Un noble changement me va combler de gloire.</l>
+	<l id='619' part='i'>Me connaissez-vous bien ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='619' part='f'>Les moindres lâchetés</l>
+	<l id='620'>Sont pour votre grand coeur des crimes détestés,</l>
+	<l id='621'>Vous avez pour la gloire une ardeur sans pareille ;</l>
+	<l id='622'>Mais, Madame, je sais ce que je vous conseille,</l>
+	<l id='623'>Et si vous me croyez, quels que soient mes avis,</l>
+	<l id='624'>Vous vous trouverez bien de les avoir suivis.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='625'>Qui ? Moi les suivre ? Moi, qui voudrais pour Thésée</l>
+	<l id='626'>À cent et cent périls voir ma vie exposée ?</l>
+	<l id='627'>Dieux ! Quel étonnement serait au mien égal,</l>
+	<l id='628'>S'il savait qu'un Ami parlât pour son Rival ?</l>
+	<l id='629'>S'il savait qu'il voulût lui ravir ce qu'il aime ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='630'>Vous le consulterez, n'en croyez que lui-même.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='631'>Quoi, si l'offre d'un Trône avait pu m'éblouir,</l>
+	<l id='632'>Je lui demanderais si je dois le trahir,</l>
+	<l id='633'>Si je dois l'exposer au plus cruel martyre</l>
+	<l id='634' part='i'>Qu'un amant...</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='634' part='f'>Je n'ai dit que ce que j'ai dû dire.</l>
+	<l id='635'>Vous y penserez mieux, et peut-être qu'un jour</l>
+	<l id='636'>Vous prendrez un peu moins le parti de l'Amour.</l>
+	<l id='637' part='i'>Adieu, Madame.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='637' part='f'>Il dit ce qu'il faut qu'il me dise !</l>
+	<l id='638'>Demeurez, avec moi c'est en vain qu'on déguise.</l>
+	<l id='639'>Vous en avez trop dit pour ne me pas tirer</l>
+	<l id='640'>D'un doute dont mon coeur commence à soupirer ;</l>
+	<l id='641'>J'en tremble, et c'est pour moi la plus sensible atteinte.</l>
+	<l id='642'>Éclaircissez ce doute, et dissipez ma crainte,</l>
+	<l id='643'>Autrement je croirai qu'une nouvelle ardeur</l>
+	<l id='644'>Rend Thésée infidèle, et me vole son coeur ;</l>
+	<l id='645'>Que pour un autre Objet, sans souci de sa gloire...</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='646'>Je me tais, c'est à vous à voir ce qu'il faut croire.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='647'>Ce qu'il faut croire ? Ah Dieux ! Vous me désespérez,</l>
+	<l id='648'>Je verrais à mes voeux d'autres voeux préférés ?</l>
+	<l id='649'>Thésée à me quitter... Mais quel soupçon j'écoute ?</l>
+	<l id='650'>Non, non, Pirithoüs, on vous trompe sans doute.</l>
+	<l id='651'>Il m'aime ; et s'il m'en faut séparer quelque jour,</l>
+	<l id='652'>Je pleurerai sa mort, et non pas son amour.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='653'>Souvent ce qui nous plaît par une erreur fatale...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='654'>Parlez plus clairement, ai-je quelque Rivale ?</l>
+	<l id='655'>Thésée a-t-il changé ? Viole-t-il sa foi ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='656'>Mon silence déjà s'est expliqué pour moi ;</l>
+	<l id='657'>Par là je vous dis tout. Vos ennuis me font peine ;</l>
+	<l id='658'>Mais quand le seul remède est de vous faire Reine,</l>
+	<l id='659'>N'oubliez point qu'à Naxe on veut vous couronner,</l>
+	<l id='660'>C'est le meilleur conseil qu'on vous puisse donner.</l>
+	<l id='661'>Ma présence commence à vous être importune,</l>
+	<l id='662' part='i'>Je me retire.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Ariane, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='662' part='f'>As-tu conçu mon infortune ?</l>
+	<l id='663'>Il n'en faut point douter, je suis trahie. Hélas !</l>
+	<l id='664' part='i'>Nérine.</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='664' part='m'>Je vous plains.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='664' part='f'>Qui ne me plaindrait pas ?</l>
+	<l id='665'>Tu le sais, tu l'as vu, j'ai tout fait pour Thésée.</l>
+	<l id='666'>Seule à son mauvais sort je me suis opposée,</l>
+	<l id='667'>Et quand je me dois tout promettre de sa foi,</l>
+	<l id='668'>Thésée a de l'amour pour une autre que moi ?</l>
+	<l id='669'>Une autre passion dans son coeur a pu naître ?</l>
+	<l id='670'>J'ai mal oui, Nérine, et cela ne peut être.</l>
+	<l id='671'>Ce serait trahir tout, raison, gloire, équité.</l>
+	<l id='672'>Thésée a trop de coeur pour tant de lâcheté,</l>
+	<l id='673'>Pour croire qu'à ma mort son injustice aspire.</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='674'>Pirithoüs ne dit que ce qu'il lui fait dire ;</l>
+	<l id='675'>Et quand il a voulu l'attendre si longtemps,</l>
+	<l id='676'>Ce n'était qu'un prétexte à ses feux inconstants.</l>
+	<l id='677'>Il nourrissait dès lors l'ardeur qui le domine.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='678'>Ah, que me fais-tu voir, trop cruelle Nérine ?</l>
+	<l id='679'>Sur le gouffre des maux qui me vont abîmer,</l>
+	<l id='680'>Pourquoi m'ouvrir les yeux quand je les veux fermer ?</l>
+	<l id='681'>Hélas ! Il est donc vrai que mon âme abusée</l>
+	<l id='682'>N'adorait qu'un Ingrat en adorant Thésée ?</l>
+	<l id='683'>Dieux, contre un tel ennui soutenez ma raison,</l>
+	<l id='684'>Elle cède à l'horreur de cette trahison ;</l>
+	<l id='685'>Je la sens qui déjà... Mais quand elle s'égare,</l>
+	<l id='686'>Pourquoi la regretter cette raison barbare,</l>
+	<l id='687'>Qui ne peut plus servir qu'à me faire mieux voir</l>
+	<l id='688'>Le sujet de ma rage et de mon désespoir ?</l>
+	<l id='689'>Quoi, Nérine, pour prix de l'amour le plus tendre...</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Ariane, Phèdre, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='690'>Ah, ma Soeur, savez-vous ce qu'on vient de m'apprendre ?</l>
+	<l id='691'>Vous avez cru Thésée un Héros tout parfait,</l>
+	<l id='692'>Vous l'estimiez sans doute ; et qui ne l'eût pas fait ?</l>
+	<l id='693'>N'attendez plus de foi, plus d'honneur, tout chancelle,</l>
+	<l id='694'>Tout doit être suspect, Thésée est infidèle.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='695' part='i'>Quoi, Thésée...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='695' part='f'>Oui, ma Soeur, après ce qu'il me doit,</l>
+	<l id='696'>Me quitter est le prix que ma flamme en reçoit,</l>
+	<l id='697'>Il me trahit. Au point que sa foi violée</l>
+	<l id='698'>Doit avoir irrité mon âme désolée,</l>
+	<l id='699'>J'ai honte, en vous contant l'excès de mes malheurs,</l>
+	<l id='700'>Que mon ressentiment s'exhale par mes pleurs.</l>
+	<l id='701'>Son sang devrait payer la douleur qui me presse.</l>
+	<l id='702'>C'est là, ma Soeur, c'est là, sans pitié, sans tendresse,</l>
+	<l id='703'>Comme après un forfait si noir, si peu commun,</l>
+	<l id='704'>On traite les Ingrats, et Thésée en est un.</l>
+	<l id='705'>Mais quoi qu'à ma vengeance un fier dépit suggère,</l>
+	<l id='706'>Mon amour est encor plus fort que ma colère.</l>
+	<l id='707'>Ma main tremble, et malgré son parjure odieux,</l>
+	<l id='708'>Je vois toujours en lui ce que j'aime le mieux.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='709'>Un revers si cruel vous rend sans doute à plaindre ;</l>
+	<l id='710'>Et vous voyant souffrir ce qu'on n'a pas dû craindre,</l>
+	<l id='711'>On conçoit aisément jusqu'où le désespoir...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='712'>Ah, qu'on est éloigné de le bien concevoir !</l>
+	<l id='713'>Pour pénétrer l'horreur du tourment de mon âme,</l>
+	<l id='714'>Il faudrait qu'on sentît même ardeur, même flamme,</l>
+	<l id='715'>Qu'avec même tendresse on eût donné sa foi.</l>
+	<l id='716'>Et personne jamais n'a tant aimé que moi.</l>
+	<l id='717'>Se peut-il qu'un Héros d'une vertu sublime</l>
+	<l id='718'>Souille ainsi... Quelquefois le remords suit le crime.</l>
+	<l id='719'>Si le sien lui faisait sentir ces durs combats...</l>
+	<l id='720'>Ma Soeur, au nom des Dieux, ne m'abandonnez pas.</l>
+	<l id='721'>Je sais que vous m'aimez, et vous le devez faire.</l>
+	<l id='722'>Vous m'avez dès l'enfance été toujours si chère,</l>
+	<l id='723'>Que cette inébranlable et fidèle amitié</l>
+	<l id='724'>Mérite bien de vous au moins quelque pitié.</l>
+	<l id='725'>Allez trouver... Hélas ! dirai-je mon Parjure ?</l>
+	<l id='726'>Peignez-lui bien l'excès du tourment que j'endure.</l>
+	<l id='727'>Prenez, pour l'arracher à son nouveau penchant,</l>
+	<l id='728'>Ce que les plus grands maux offrent de plus touchant.</l>
+	<l id='729'>Dites-lui qu'à son feu j'immolerais ma vie,</l>
+	<l id='730'>S'il pouvait vivre heureux après m'avoir trahie,</l>
+	<l id='731'>D'un juste et long remords avancez-lui les coups.</l>
+	<l id='732'>Enfin, ma Soeur, enfin je n'espère qu'en vous.</l>
+	<l id='733'>Le Ciel m'inspira bien, quand par l'Amour séduite</l>
+	<l id='734'>Je vous fis malgré vous accompagner ma fuite.</l>
+	<l id='735'>Il semble que dès lors il me faisait prévoir</l>
+	<l id='736'>Le funeste besoin que j'en devais avoir.</l>
+	<l id='737'>Sans vous, à mes malheurs où chercher du remède ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='738'>Je vais mander Thésée, et si son coeur ne cède,</l>
+	<l id='739'>Madame, en lui parlant, vous devez présumer...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='740'>Hélas ! Et plût au Ciel que vous sussiez aimer,</l>
+	<l id='741'>Que vous pussiez savoir par votre expérience</l>
+	<l id='742'>Jusqu'où d'un fort amour s'étend la violence !</l>
+	<l id='743'>Pour émouvoir l'Ingrat, pour fléchir sa rigueur,</l>
+	<l id='744'>Vous trouveriez bien mieux le chemin de son coeur.</l>
+	<l id='745'>Vous auriez plus d'adresse à lui faire l'image</l>
+	<l id='746'>De mes confus transports de douleur et de rage ;</l>
+	<l id='747'>Tous les traits en seraient plus vivement tracés.</l>
+	<l id='748'>N'importe, essayez tout, parlez, priez, pressez.</l>
+	<l id='749'>Au défaut de l'Amour, puisqu'il n'a pu vous plaire,</l>
+	<l id='750'>Votre amitié pour moi fera ce qu'il faut faire.</l>
+	<l id='751'>Allez, ma Soeur, courez empêcher mon trépas.</l>
+	<l id='752'>Toi, viens, suis-moi, Nérine, et ne me quitte pas.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Pirithoüs, Phèdre.</head>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='753'>Ce serait perdre temps, il ne faut plus prétendre</l>
+	<l id='754'>Que rien touche Thésée, et le force à se rendre.</l>
+	<l id='755'>J'admire encor, Madame, avec quelle vertu</l>
+	<l id='756'>Vous avez de nouveau si longtemps combattu.</l>
+	<l id='757'>Par son manque de foi, contre vous-même armée,</l>
+	<l id='758'>Vous avez fait paraître une Soeur opprimée.</l>
+	<l id='759'>Vous avez essayé par un tendre retour</l>
+	<l id='760'>De ramener son coeur vers son premier amour.</l>
+	<l id='761'>Et prière, et menace, et fierté de courage,</l>
+	<l id='762'>Tout vient pour le fléchir d'être mis en usage ;</l>
+	<l id='763'>Mais sur ce changement qui semble vous gêner,</l>
+	<l id='764'>L'ingratitude en vain vous le fait condamner.</l>
+	<l id='765'>Vos yeux rendent pour lui ce crime nécessaire ;</l>
+	<l id='766'>Et s'il cède au remords quelque fois pour vous plaire.</l>
+	<l id='767'>Quoi que vous ait promis ce repentir confus,</l>
+	<l id='768'>Sitôt qu'il vous regarde, il ne s'en souvient plus.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='769'>Les Dieux me sont témoins que de son injustice</l>
+	<l id='770'>Je souffre malgré moi qu'il me rende complice.</l>
+	<l id='771'>Ce qu'il doit à ma Soeur méritait que sa foi</l>
+	<l id='772'>Se fît de l'aimer seule une sévère loi ;</l>
+	<l id='773'>Et quand des longs ennuis où ce refus l'expose,</l>
+	<l id='774'>Par ma facilité je me trouve la cause,</l>
+	<l id='775'>Il n'est peine, supplice, où pour l'en garantir</l>
+	<l id='776'>La pitié de ses maux ne me fît consentir.</l>
+	<l id='777'>L'amour que j'ai pour lui me noircit peu vers elle.</l>
+	<l id='778'>Je l'ai pris sans songer à le rendre infidèle ;</l>
+	<l id='779'>Ou plutôt j'ai senti tout mon coeur s'enflammer,</l>
+	<l id='780'>Avant que de savoir si je voulais aimer.</l>
+	<l id='781'>Mais si ce feu trop prompt n'eut rien de volontaire,</l>
+	<l id='782'>Il dépendait de moi de parler, ou me taire.</l>
+	<l id='783'>J'ai parlé, c'est mon crime, et Thésée applaudi</l>
+	<l id='784'>À l'infidélité par là s'est enhardi.</l>
+	<l id='785'>Ah, qu'on se défend mal auprès de ce qu'on aime !</l>
+	<l id='786'>Ses regards m'expliquaient sa passion extrême ;</l>
+	<l id='787'>Les miens à la flatter s'échappaient malgré moi,</l>
+	<l id='788'>N'étaient-ce pas assez pour corrompre sa foi ?</l>
+	<l id='789'>J'eus beau vouloir régler son âme trop charmée,</l>
+	<l id='790'>Il fallut voir sa flamme, et souffrir d'être aimée ;</l>
+	<l id='791'>J'en craignis le péril, il me sut éblouir.</l>
+	<l id='792'>Que de faiblesse ? Il faut l'empêcher d'en jouir,</l>
+	<l id='793'>Combattre incessamment son infidèle audace.</l>
+	<l id='794'>Allez, Pirithoüs, revoyez-le, de grâce.</l>
+	<l id='795'>De peur qu'en mon amour il prenne trop d'appui,</l>
+	<l id='796'>Ôtez-lui tout espoir que je puisse être à lui ;</l>
+	<l id='797'>J'ai déjà beaucoup dit, dites-lui plus encore.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='798'>Nous avancerions peu, Madame, il vous adore</l>
+	<l id='799'>Et quand pour l'étonner à force de refus,</l>
+	<l id='800'>Vous vous obstineriez à ne l'écouter plus,</l>
+	<l id='801'>Son âme toute à vous n'en serait pas plus prête</l>
+	<l id='802'>À suivre d'autres lois, et changer de conquête.</l>
+	<l id='803'>Quoi que le coup soit rude, achevons de frapper.</l>
+	<l id='804'>Pour servir Ariane il faut la détromper ;</l>
+	<l id='805'>Il faut lui faire voir qu'une flamme nouvelle</l>
+	<l id='806'>Ayant détruit l'amour que Thésée eut pour elle,</l>
+	<l id='807'>Sa sûreté l'oblige à ne pas dédaigner</l>
+	<l id='808'>La gloire d'un hymen qui la fera régner.</l>
+	<l id='809'>Le Roi l'aime, et son Trône est pour elle un asile.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='810'>Quoi, je la trahirais, elle qui trop facile,</l>
+	<l id='811'>Trop aveugle à m'aimer, se confie à ma foi,</l>
+	<l id='812'>Pour toucher un Amant qui la quitte pour moi ?</l>
+	<l id='813'>Et quand elle saurait que par mes faibles charmes,</l>
+	<l id='814'>Pour lui percer le coeur j'aurais prêté des armes,</l>
+	<l id='815'>Je pourrais à ses yeux lâchement exposer</l>
+	<l id='816'>Les criminels appas qui la font mépriser ?</l>
+	<l id='817'>Je pourrais soutenir le sensible reproche</l>
+	<l id='818' part='i'>Qu'un trop juste courroux...</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='818' part='f'>Voyez qu'elle s'approche.</l>
+	<l id='819'>Parlons, son intérêt nous oblige à bannir</l>
+	<l id='820'>Tout l'espoir que son feu tâche d'entretenir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Ariane, Pirithoüs, Phèdre, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='821'>Et bien, ma Soeur ? Thésée est-il inexorable ?</l>
+	<l id='822'>N'avez-vous pu surprendre un soupir favorable,</l>
+	<l id='823'>Et quand au repentir on le porte à céder,</l>
+	<l id='824'>Croit-il que mon amour ose trop demander ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='825'>Madame, j'ai tout fait pour ébranler son âme.</l>
+	<l id='826'>J'ai peint son changement lâche, odieux, infâme.</l>
+	<l id='827'>Pirithoüs lui-même est témoin des efforts</l>
+	<l id='828'>Par où j'ai cru pouvoir le contraindre au remords.</l>
+	<l id='829'>Il connaît et son crime et son ingratitude,</l>
+	<l id='830'>Il s'en hait, il en sent la peine la plus rude,</l>
+	<l id='831'>Ses ennuis de vos maux égalent la rigueur ;</l>
+	<l id='832'>Mais l'Amour en Tyran dispose de son coeur,</l>
+	<l id='833'>Et le Destin plus fort que sa reconnaissance,</l>
+	<l id='834'>Malgré ce qu'il vous doit, l'entraîne à l'inconstance.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='835'>Quelle excuse ! Et pour moi qu'il rend peu de combat !</l>
+	<l id='836'>Il hait l'ingratitude, et se plaît d'être ingrat.</l>
+	<l id='837'>Puisqu'en sa dureté son lâche coeur demeure,</l>
+	<l id='838'>M Soeur, il ne sait point qu'il faudra que j'en meure.</l>
+	<l id='839'>Vous avez oublié de bien marquer l'horreur</l>
+	<l id='840'>Du fatal désespoir qui règne dans mon coeur.</l>
+	<l id='841'>Vous avez oublié pour bien peindre ma rage,</l>
+	<l id='842'>D'assembler tous ses maux dont on connaît l'image ;</l>
+	<l id='843'>Il y serait sensible, et ne pourrait souffrir</l>
+	<l id='844'>Que qui sauva ses jours fût forcée à mourir.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='845'>Si vous saviez pour vous ce qu'a fait ma tendresse,</l>
+	<l id='846' part='i'>Vous soupçonneriez moins...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='846' part='f'>J'ai tort, je le confesse ;</l>
+	<l id='847'>Mais dans un mal, sous qui la constance est à bout,</l>
+	<l id='848'>On s'égare, on s'emporte, et l'on s'en prend à tout.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='849'>Madame, de ces maux à qui la raison cède,</l>
+	<l id='850'>Le temps qui calme tout est l'unique remède.</l>
+	<l id='851' part='i'>C'est par lui seul...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='851' part='f'>Les coups n'en sont guère importants,</l>
+	<l id='852'>Quand on peut se résoudre à s'en remettre au temps.</l>
+	<l id='853'>Thésée est insensible à l'ennui qui me touche,</l>
+	<l id='854'>Il y consent ; je veux l'apprendre de sa bouche.</l>
+	<l id='855'>Je l'attendrai, ma Soeur, qu'il vienne.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='855' part='f'>Je crains bien</l>
+	<l id='856'>Que vous ne vous plaigniez de ce triste entretien.</l>
+	<l id='857'>Voir un ingrat qu'on aime, et le voir inflexible,</l>
+	<l id='858'>C'est de tous les ennuis l'ennui le plus sensible,</l>
+	<l id='859'>Vous en souffrirez trop, et pour peu de souci...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='860'>Allez, ma Soeur, de grâce, et l'envoyez ici.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Ariane, Pirithoüs, Nérine.</head>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='861'>Par ce que je vous dis, ne croyez pas, Madame,</l>
+	<l id='862'>Que je veuille applaudir à sa nouvelle flamme.</l>
+	<l id='863'>Sachant ce qu'il devait au généreux amour</l>
+	<l id='864'>Qui vous fit tout oser pour lui sauver le jour,</l>
+	<l id='865'>Je partageai dès lors l'heureuse destinée</l>
+	<l id='866'>Qu'à ses voeux les plus doux offrait votre hyménée,</l>
+	<l id='867'>Et je venais ici, plein de ressentiment,</l>
+	<l id='868'>Rendre grâce à l'Amante, en embrassant l'Amant.</l>
+	<l id='869'>Jugez de ma surprise à le voir infidèle,</l>
+	<l id='870'>À voir que vers une autre une autre ardeur l'appelle,</l>
+	<l id='871'>Et qu'il ne m'attendait que pour vous annoncer</l>
+	<l id='872'>L'injustice où l'Amour se plaît à le forcer.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='873'>Et ne devais-je pas, quoi qu'il me fît entendre,</l>
+	<l id='874'>Pénétrer les raisons qui vous faisaient attendre,</l>
+	<l id='875'>Et juger qu'en un coeur épris d'un feu constant,</l>
+	<l id='876'>L'Amour à l'Amitié ne déferre pas tant ?</l>
+	<l id='877'>Ah, quand il est ardent, qu'aisément il s'abuse !</l>
+	<l id='878'>Il croit ce qu'il souhaite, et prend tout pour excuse.</l>
+	<l id='879'>Si Thésée avait peu de ces empressements</l>
+	<l id='880'>Qu'une sensible ardeur inspire aux vrais Amants,</l>
+	<l id='881'>Je croyais que son âme au-dessus du vulgaire</l>
+	<l id='882'>Dédaignait de l'Amour la conduite ordinaire,</l>
+	<l id='883'>Et qu'en sa passion garder tant de repos,</l>
+	<l id='884'>C'était suivre en aimant la route des Héros.</l>
+	<l id='885'>Je faisais plus ; j'allais jusqu'à voir sans alarmes,</l>
+	<l id='886'>Que des beautés de Naxe il estimât les charmes,</l>
+	<l id='887'>Et ne pouvais penser qu'ayant reçu sa foi,</l>
+	<l id='888'>Quelques voeux égarés pussent rien contre moi.</l>
+	<l id='889'>Mais enfin puisque rien pour lui n'est plus à taire,</l>
+	<l id='890'>Quel est ce rare Objet que son choix me préfère ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='891'>C'est ce que de son coeur je ne puis arracher.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='892'>Ma colère est suspecte, il faut me le cacher.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='893'>J'ignore ce qu'il craint, mais lorsqu'il vous outrage,</l>
+	<l id='894'>Songez que d'un grand Roi vous recevez l'Hommage ;</l>
+	<l id='895'>Il vous offre son Trône, et malgré le Destin</l>
+	<l id='896'>Votre malheur par là trouve une heureuse fin.</l>
+	<l id='897'>Tout vous porte, Madame, à ce grand hyménée.</l>
+	<l id='898'>Pourriez-vous demeurer errante, abandonnée ?</l>
+	<l id='899'>Déjà la Crète cherche à se venger de vous.</l>
+	<l id='900' part='i'>Et Minos...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='900' part='f'>J'en crains peu le plus ardent courroux.</l>
+	<l id='901'>Qu'il s'arme contre moi, que j'en sois poursuivie,</l>
+	<l id='902'>Sans ce que j'aime, hélas ! Que faire de la vie ?</l>
+	<l id='903'>Aux décrets de mon sort achevons d'obéir.</l>
+	<l id='904'>Thésée avec le Ciel conspire à me trahir ;</l>
+	<l id='905'>Rompre un si grand projet, ce serait lui déplaire.</l>
+	<l id='906'>L'Ingrat veut que je meure, il faut le satisfaire,</l>
+	<l id='907'>Et lui laisser sentir pour double châtiment,</l>
+	<l id='908'>Le remords de ma perte, et de son changement.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='909'>Le voici qui paraît ; n'épargnez rien, Madame,</l>
+	<l id='910'>Pour rentrer dans vos droits, pour regagner son âme ;</l>
+	<l id='911'>Et si l'espoir en vain s'obstine à vous flatter,</l>
+	<l id='912'>Songez ce qu'offre un Trône à qui peut y monter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Ariane, Thésée, Nérine. </head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='913'>Approchez-vous, Thésée, et perdez cette crainte.</l>
+	<l id='914'>Pourquoi dans vos regards marquer tant de contrainte,</l>
+	<l id='915'>Et m'aborder ainsi, quand rien ne vous confond,</l>
+	<l id='916'>Le trouble dans les yeux, et la rougeur au front ?</l>
+	<l id='917'>Un Héros tel que vous, à qui la gloire est chère,</l>
+	<l id='918'>Quoi qu'il fasse, ne fait que ce qu'il voit à faire ;</l>
+	<l id='919'>Et si ce qu'on m'a dit a quelque vérité,</l>
+	<l id='920'>Vous cessez de m'aimer, je l'aurai mérité.</l>
+	<l id='921'>Le changement est grand, mais il est légitime,</l>
+	<l id='922'>Je le crois. Seulement apprenez-moi mon crime ;</l>
+	<l id='923'>Et d'où vient qu'exposée à de si rudes coups,</l>
+	<l id='924'>Ariane n'est plus ce qu'elle fut pour vous.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='925'>Ah, pourquoi le penser ? Elle est toujours la même,</l>
+	<l id='926'>Même zèle toujours suit mon respect extrême,</l>
+	<l id='927'>Et le temps dans mon coeur n'affaiblira jamais</l>
+	<l id='928'>Le pressant souvenir de ses rares bienfaits ;</l>
+	<l id='929'>M'en acquitter vers elle est ma plus forte envie.</l>
+	<l id='930'>Oui, Madame, ordonnez de mon Sang, de ma vie.</l>
+	<l id='931'>Si la fin vous en plaît, le sort me sera doux</l>
+	<l id='932'>Par qui j'obtiendrai l'heur de la perdre pour vous.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='933'>Si quand je vous connus la fin eût pu m'en plaire,</l>
+	<l id='934'>Le Destin la vouloir, je l'aurais laissé faire.</l>
+	<l id='935'>Par moi, par mon amour, le Labyrinthe ouvert</l>
+	<l id='936'>Vous fit fuir le trépas à vos regards offert ;</l>
+	<l id='937'>Et quand à votre foi cet amour s'abandonne,</l>
+	<l id='938'>Des serments de respect sont le prix qu'on lui donne !</l>
+	<l id='939'>Par ce soin de vos jours qui m'a fait tout quitter,</l>
+	<l id='940'>N'aspirais-je à rien de plus qu'à me voir respecter ?</l>
+	<l id='941'>Un service pareil veut un autre salaire.</l>
+	<l id='942'>C'est le coeur, le coeur seul, qui peut y satisfaire.</l>
+	<l id='943'>Il a seul pour mes voeux ce qui peut les borner,</l>
+	<l id='944' part='i'>C'est lui seul...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='944' part='f'>Je voudrais vous le pouvoir donner,</l>
+	<l id='945'>Mais ce coeur malgré moi vit sous un autre empire,</l>
+	<l id='946'>Je le sens à regret, je rougis à le dire ;</l>
+	<l id='947'>Et quand je plains vos feux par ma flamme déçus,</l>
+	<l id='948'>Je hais mon injustice, et ne puis rien de plus.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='949'>Tu ne peux rien de plus ! Qu'aurais-tu fait, Parjure,</l>
+	<l id='950'>Si quand tu vins du Monstre éprouver l'aventure,</l>
+	<l id='951'>Abandonnant ta vie à ta seule valeur,</l>
+	<l id='952'>Je me fusse arrêtée à plaindre ton malheur ?</l>
+	<l id='953'>Pour mériter ce coeur qui pouvait seul me plaire,</l>
+	<l id='954'>Si j'ai peu fait pour toi, que fallait-il plus faire ?</l>
+	<l id='955'>Et que s'est-il offert que je pusse tenter,</l>
+	<l id='956'>Qu'en ta faveur ma flamme ait craint d'exécuter ?</l>
+	<l id='957'>Pour te sauver le jour dont la rigueur me prive,</l>
+	<l id='958'>Ai-je pris à regret le nom de Fugitive ?</l>
+	<l id='959'>La Mer, les vents, l'exil, ont-ils pu m'étonner ?</l>
+	<l id='960'>Te suivre, c'était plus que me voir couronner.</l>
+	<l id='961'>Fatigues, peines, maux, j'aimais tout pour leur cause.</l>
+	<l id='962'>Dis-moi que non, ingrat, si ta lâcheté l'ose ;</l>
+	<l id='963'>Et désavouant tout, éblouis-moi si bien,</l>
+	<l id='964'>Que je puisse penser que tu ne me dois rien.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='965'>Comment désavouer ce que l'honneur me presse</l>
+	<l id='966'>De voir, d'examiner, de me dire sans cesse ?</l>
+	<l id='967'>Si par mon changement je trompe votre choix,</l>
+	<l id='968'>C'est sans rien oublier de ce que je vous dois.</l>
+	<l id='969'>Ainsi joignez aux noms de Traître et de Parjure</l>
+	<l id='970'>Tout l'éclat que produit la plus sanglante injure ;</l>
+	<l id='971'>Ce que vous me direz n'aura point la rigueur</l>
+	<l id='972'>Des reproches secrets qui déchirent mon coeur.</l>
+	<l id='973'>Mais pourquoi, m'accusant, redoubler ces atteintes</l>
+	<l id='974'>Madame, croyez-moi, je ne vaux pas vos plaintes.</l>
+	<l id='975'>L'oubli, l'indifférence, et vos plus fiers mépris,</l>
+	<l id='976'>De mon manque de foi doivent être le prix.</l>
+	<l id='977'>À monter sur le Trône un grand Roi vous invite,</l>
+	<l id='978'>Vengez-vous en l'aimant d'un Lâche qui vous quitte.</l>
+	<l id='979'>Quoi qu'aujourd'hui pour moi l'inconstance ait de doux,</l>
+	<l id='980'>Vous perdant pour jamais, je perdrai plus que vous.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='981'>Quelle perte, grands Dieux, quand elle est volontaire ?</l>
+	<l id='982'>Périsse tout, s'il faut cesser de t'être chère.</l>
+	<l id='983'>Qu'ai-je à faire du Trône et de la main d'un Roi ?</l>
+	<l id='984'>De l'Univers entier je ne voulais que toi.</l>
+	<l id='985'>Pour toi, pour m'attacher à ta seule personne,</l>
+	<l id='986'>J'ai tout abandonné, repos, gloire, Couronne ;</l>
+	<l id='987'>Et quand ces mêmes biens ici me sont offerts,</l>
+	<l id='988'>Que je puis en jouir, c'est toi seul que je perds.</l>
+	<l id='989'>Pour voir leur impuissance à réparer ta perte,</l>
+	<l id='990'>Je te suis, mène-moi dans quelque Île déserte,</l>
+	<l id='991'>Où renonçant à tout, je me laisse charmer</l>
+	<l id='992'>De l'unique douceur de te voir, de t'aimer.</l>
+	<l id='993'>Là, possédant ton coeur, ma gloire est sans seconde.</l>
+	<l id='994'>Ce coeur me sera plus que l'Empire du monde.</l>
+	<l id='995'>Point de ressentiment de ton crime passé ;</l>
+	<l id='996'>Tu n'as qu'à dire un mot, ce crime est effacé.</l>
+	<l id='997'>C'en est fait, tu le vois, je n'ai plus de colère.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='998'>Un si beau feu m'accable, il devrait seul me plaire ;</l>
+	<l id='999'>Mais telle est de l'Amour la tyrannique ardeur...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1000'>Va, tu me répondras des transports de mon coeur.</l>
+	<l id='1001'>Si ma flamme sur toi n'avait qu'un faible empire,</l>
+	<l id='1002'>Si tu la dédaignais, il fallait me le dire,</l>
+	<l id='1003'>Et ne pas m'engager par un trompeur espoir</l>
+	<l id='1004'>À te laisser sur moi prendre tant de pouvoir.</l>
+	<l id='1005'>C'est là, surtout, c'est là ce qui souille ta gloire.</l>
+	<l id='1006'>Tu t'es plu sans m'aimer à me le faire croire :</l>
+	<l id='1007'>Tes indignes serments sur mon crédule esprit...</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1008'>Quand je vous les ai faits, j'ai cru ce que j'ai dit.</l>
+	<l id='1009'>Je partais glorieux d'être votre conquête ;</l>
+	<l id='1010'>Mais enfin dans ces lieux poussé par la tempête,</l>
+	<l id='1011'>J'ai trop vu ce qu'à voir me conviait l'Amour,</l>
+	<l id='1012' part='i'>J'ai trop...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1012' part='f'>Naxe te change ? Ah ! Funeste séjour !</l>
+	<l id='1013'>Dans Naxe, tu le sais, un Roi, grand, magnanime,</l>
+	<l id='1014'>Pour moi dès qu'il me vit, prit une tendre estime,</l>
+	<l id='1015'>Il soumit à mes voeux et son Trône, et sa foi ;</l>
+	<l id='1016'>Quoi qu'il ait pu m'offrir, ai-je fait comme toi ?</l>
+	<l id='1017'>Si tu n'es point touché de ma douleur extrême,</l>
+	<l id='1018'>Rends-moi ton coeur, Ingrat, par pitié de toi-même.</l>
+	<l id='1019'>Je ne demande point quelle est cette Beauté</l>
+	<l id='1020'>Qui semble te contraindre à l'infidélité.</l>
+	<l id='1021'>Si tu crois quelque honte à la faire connaître,</l>
+	<l id='1022'>Ton secret est à toi ; mais qui qu'elle puisse être,</l>
+	<l id='1023'>Pour gagner ton estime, et mérité ta foi,</l>
+	<l id='1024'>Peut-être elle n'a pas plus de charmes que moi.</l>
+	<l id='1025'>Elle n'a pas du moins cette ardeur toute pure</l>
+	<l id='1026'>Qui m'a fait pour te suivre étouffer la Nature ;</l>
+	<l id='1027'>Ces beaux feux qui volant d'abord à ton secours,</l>
+	<l id='1028'>Pour te sauver la vie, ont exposé mes jours ;</l>
+	<l id='1029'>Et si de mon amour ce tendre sacrifice</l>
+	<l id='1030'>De ta légèreté ne rompt point l'injustice,</l>
+	<l id='1031'>Pour ce nouvel Objet, ne lui devant pas tant,</l>
+	<l id='1032'>Par où présumes-tu pouvoir être constant ?</l>
+	<l id='1033'>À peine ton hymen aura payé sa flamme,</l>
+	<l id='1034'>Qu'un violent remords viendra saisir ton âme.</l>
+	<l id='1035'>Tu ne pourras plus voir ton crime sans effroi ;</l>
+	<l id='1036'>Et qui sait ce qu'alors tu sentiras pour moi ?</l>
+	<l id='1037'>Qui sait par quel retour ton ardeur refroidie</l>
+	<l id='1038'>Te feras détester ta lâche perfidie ?</l>
+	<l id='1039'>Tu verras de mes feux les transports éclatants,</l>
+	<l id='1040'>Tu les regretteras, il ne sera plus temps.</l>
+	<l id='1041'>Ne précipite rien ; quelque amour qui t'appelle,</l>
+	<l id='1042'>Prends conseil de ta gloire avant qu'être infidèle.</l>
+	<l id='1043'>Vois Ariane en pleurs. Ariane autrefois</l>
+	<l id='1044'>Toute aimable à tes yeux méritait bien ton choix :</l>
+	<l id='1045'>Elle n'a point changé, d'où vient que ton coeur change ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1046'>Par un amour forcé qui sous ses lois me range.</l>
+	<l id='1047'>Je le crois comme vous ; le Ciel est juste, un jour</l>
+<note type="L">Perfide : Il se dit des personnes et des choses. Qui manque de foi ; qui trahit, qui manque à sa parole, ou à la confiance qu'on a prise en lui. [F]</note>
+	<l id='1048'>Vous me verrez puni de ce perfide amour ;</l>
+	<l id='1049'>Mais à sa violence il faut que ma foi cède.</l>
+	<l id='1050'>Je vous l'ai déjà dit, c'est un mal sans remède.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1051'>Ah, c'est trop, puisque rien ne te saurait toucher,</l>
+	<l id='1052'>Parjure, oublie un feu qui dût t'être si cher.</l>
+	<l id='1053'>Je ne demande plus que ta lâcheté cesse</l>
+	<l id='1054'>Je rougis d'avoir pu m'en souffrir la bassesse.</l>
+	<l id='1055'>Tire-moi seulement d'un séjour odieux,</l>
+	<l id='1056'>Où tout me désespère, où tout blesse mes yeux,</l>
+	<l id='1057'>Et pour faciliter ta coupable entreprise,</l>
+<note type="L">Barbare : signifie ausi seulement ; cruel, inpitoyable, qui n'écoute point le pitié, ni la raison. [F]</note>
+	<l id='1058'>Remène-moi, Barbare, aux lieux où tu m'as prise.</l>
+	<l id='1059'>La Crète, où pour toi seul je me suis fait haïr,</l>
+	<l id='1060'>Me plaira mieux que Naxe, où tu m'oses trahir.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1061'>Vous remener en Crète ! Oubliez-vous, Madame,</l>
+	<l id='1062'>Ce qu'est pour vous un Père, et quel courroux l'enflamme ?</l>
+	<l id='1063'>Songez-vous quels ennuis vous y sont apprêtés ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1064'>Laisse-moi les souffrir, je les ai mérités ;</l>
+	<l id='1065'>Mais de ton faux amour les feintes concertées,</l>
+	<l id='1066'>Tes noires trahisons, les ai-je méritées ?</l>
+	<l id='1067'>Et ce qu'en ta faveur il m'a plu d'immoler,</l>
+	<l id='1068'>Te rend-il cette foi que tu veux violer ?</l>
+	<l id='1069'>Vaine et fausse pitié, quand ma mort peut te plaire !</l>
+	<l id='1070'>Tu crains pour moi les maux que j'ai voulu me faire,</l>
+	<l id='1071'>Ces maux qu'ont tant hâtés mes plus tendres souhaits,</l>
+	<l id='1072'>Et tu ne trembles point de ceux que tu me fais ?</l>
+	<l id='1073'>N'espère pas pourtant éviter le supplice</l>
+	<l id='1074'>Que toujours après foi fait suivre l'injustice.</l>
+	<l id='1075'>Tu romps ce que l'Amour forma de plus beaux noeuds,</l>
+	<l id='1076'>Tu m'arraches le coeur, j'en mourrai, tu le veux.</l>
+	<l id='1077'>Mais quitte des ennuis où m'enchaîne la vie,</l>
+	<l id='1078'>Crois déjà, crois me voir, de ma douleur suivie,</l>
+	<l id='1079'>Dans le fond de mon âme armer, pour te punir,</l>
+	<l id='1080'>Ce qu'a de plus funeste un fatal souvenir,</l>
+	<l id='1081'>Et te dire d'un ton et d'un regard sévère,</l>
+	<l id='1082'>"J'ai tout fait, tout osé pour t'aimer, pour te plaire.</l>
+	<l id='1083'>J'ai trahi mon Pays, et mon Père et mon Roi ;</l>
+	<l id='1084'>Cependant vois le prix, ingrat, que j'en reçois."</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1085'>Ah, si mon changement doit causer votre perte,</l>
+	<l id='1086'>Frappez, prenez ma vie, elle vous est offerte.</l>
+	<l id='1087'>Prévenez par ce coup le forfait odieux</l>
+	<l id='1088' part='i'>Qu'un amour trop aveugle...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1088' part='f'>Ôte-toi de mes yeux.</l>
+	<l id='1089'>De ta constance ailleurs va montrer les mérites ;</l>
+	<l id='1090'>Je ne veux pas avoir l'affront que tu me quittes.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1091' part='i'>Madame...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1091' part='f'>Ôte toi, dis-je, et me laisse en pouvoir</l>
+	<l id='1092'>De te haïr autant que je le crois devoir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Ariane, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1093' part='i'>Il sort, Nérine. Hélas !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1093' part='f'>Qu'aurait fait sa présence,</l>
+	<l id='1094'>Qu'accroître de vos maux la triste violence ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1095'>M'avoir ainsi quittée, et partout me trahir !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1096' part='i'>Vous l'avez commandé.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1096' part='f'>Devait-il obéir !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1097'>Que vouliez-vous qu'il fît ? Vous pressiez sa retraite</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1098'>Qu'il sût en s'emportant, ce que l'Amour souhaite,</l>
+	<l id='1099'>Et qu'à mon désespoir souffrant un libre cours,</l>
+	<l id='1100'>Il s'entendît chasser, et demeurât toujours.</l>
+	<l id='1101'>Quoi que sa trahison et m'accable et me tue,</l>
+	<l id='1102'>Au moins j'aurais joui du plaisir de sa vue.</l>
+	<l id='1103'>Mais il ne saurait plus souffrir la mienne. Ah Dieux !</l>
+	<l id='1104'>As-tu vu quelle joie a paru dans ses yeux ?</l>
+	<l id='1105'>Combien il est sorti satisfait da ma haine ?</l>
+	<l id='1106' part='i'>Que de mépris !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1106' part='f'>Son crime auprès de vous le gêne,</l>
+	<l id='1107'>Madame, et n'ayant point d'excuse à vous donner,</l>
+	<l id='1108'>S'il vous fuit, j'y vois peu de quoi vous étonner.</l>
+	<l id='1109'>Il s'épargne une peine à peu d'autres égale.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1110'>M'en voir trahie ! Il faut découvrir ma Rivale.</l>
+	<l id='1111'>Examine avec moi. De toute cette Cour</l>
+	<l id='1112'>Qui crois-tu la plus propre à donner de l'amour ?</l>
+	<l id='1113'>Est-ce Mégiste, AEglé, qui le rend infidèle ?</l>
+	<l id='1114'>De tout ce qu'il y voit Cyane est la plus belle,</l>
+	<l id='1115'>Il lui parle souvent ; mais pour m'ôter sa foi,</l>
+	<l id='1116'>Doit-elle être à ses yeux plus aimable que moi ?</l>
+	<l id='1117'>Vains et faibles appas qui m'aviez trop flattée,</l>
+	<l id='1118'>Voilà votre pouvoir, un Lâche m'a quittée ;</l>
+	<l id='1119'>Mais si d'un autre amour il se laisse éblouir,</l>
+	<l id='1120'>Peut-être il n'aura pas la douceur d'en jouir,</l>
+	<l id='1121'>Il verra ce que c'est que de me percer l'âme.</l>
+	<l id='1122'>Allons, Nérine, allons, je suis Amante et Femme ;</l>
+	<l id='1123'>Il veut ma mort, j'y cours : mais avant que mourir,</l>
+	<l id='1124'>Je ne sais qui des deux aura plus à souffrir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. OEnarus, Phèdre.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1125'>Un si grand changement ne peut trop me surprendre,</l>
+	<l id='1126'>J'en ai la certitude, et ne le puis comprendre.</l>
+	<l id='1127'>Après ce pur amour dont il suivait la loi</l>
+	<l id='1128'>Thésée à ce qu'il aime ose manquer de foi ?</l>
+	<l id='1129'>Dans la rigueur du coup, je ne vois qu'avec crainte</l>
+	<l id='1130'>Ce qu'au coeur d'Ariane il doit porter d'atteinte.</l>
+	<l id='1131'>J'en tremble ; et si tantôt lui peignant mon amour</l>
+	<l id='1132'>Je voulais être plaint, je la plains à son tour.</l>
+	<l id='1133'>Perdre un bien qui jamais ne permit d'espérance,</l>
+	<l id='1134'>N'est qu'un mal dont le temps calme la violence ;</l>
+	<l id='1135'>Mais voir un bel espoir tout à coup avorter,</l>
+	<l id='1136'>Passe tous les malheurs qu'on ait à redouter.</l>
+	<l id='1137'>C'est du courroux du Ciel la plus funeste preuve.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1138'>Ariane, Seigneur, en fait la triste épreuve,</l>
+	<l id='1139'>Et si de ses ennuis vous n'arrêtez le cours,</l>
+	<l id='1140'>J'ignore, pour le rompre, où chercher du secours.</l>
+	<l id='1141'>Son coeur est accablé d'une douleur mortelle.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1142'>Vous ne savez que trop l'amour que j'ai pour elle,</l>
+	<l id='1143'>Il veut, il offre tout ; mais hélas ! je crains bien</l>
+	<l id='1144'>Que cet amour ne parle, et qu'il n'obtienne rien.</l>
+	<l id='1145'>Si Thésée a changé, j'en serai responsable.</l>
+	<l id='1146'>C'est dans ma Cour qu'il trouve un autre Objet aimable,</l>
+	<l id='1147'>Et sans doute on voudra que je sois le garant</l>
+	<l id='1148'>De l'hommage inconnu que sa flamme lui rend.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1149'>Je doute qu'Ariane, encor que méprisée,</l>
+	<l id='1150'>Veuille par votre hymen se venger de Thésée ;</l>
+	<l id='1151'>Et si ce changement vous permet d'espérer,</l>
+	<l id='1152'>Il ne faut pas, Seigneur, vous y trop assurer.</l>
+	<l id='1153'>Mais quoi qu'elle résolve après la perfidie</l>
+	<l id='1154'>Qui doit tenir pour lui sa flamme refroidie,</l>
+	<l id='1155'>Qu'elle accepte vos voeux, ou refuse vos soins,</l>
+	<l id='1156'>La gloire vous oblige à ne l'aimer pas moins.</l>
+	<l id='1157'>Vous lui pouvez toujours servir d'appui fidèle,</l>
+	<l id='1158'>Et c'est ce que je viens vous demander pour elle.</l>
+	<l id='1159'>Si le Crète vous force à d'injustes combats,</l>
+	<l id='1160'>Au courroux de Minos ne l'abandonnez pas.</l>
+	<l id='1161'>Vous savez les périls où sa fuite l'expose.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1162'>Ah, pour l'en garantir, il n'est rien que je n'ose,</l>
+	<l id='1163'>Madame, et vous verrez mon Trône trébucher</l>
+	<l id='1164'>Avant que je néglige in intérêt si cher.</l>
+	<l id='1165'>Plût aux Dieux que ce soin la tînt seul inquiète !</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1166'>Voyez dans quels ennuis ce changement la jette...</l>
+	<l id='1167'>Son visage vous parle, et sa triste langueur</l>
+	<l id='1168'>Vous fait lire en ses yeux ce que souffre son coeur.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. OEnarus, Ariane, Phèdre, Nérine.</head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1169'>Madame, je ne sais si l'ennui qui vous touche</l>
+	<l id='1170'>Doit m'ouvrir pour vous plaindre, ou me fermer la bouche.</l>
+	<l id='1171'>Après les sentiments que j'ai fait voir pour vous,</l>
+	<l id='1172'>Je dois, quoi qui vous blesse, en partager les coups ;</l>
+	<l id='1173'>Mais si j'ose assurer que jusqu'au fond de l'âme</l>
+	<l id='1174'>Je sens le changement qui trompe votre flamme,</l>
+	<l id='1175'>Que je le mets au rang des plus noirs attentats,</l>
+	<l id='1176'>J'aime, il m'ôte un Rival, vous ne me croirai pas.</l>
+	<l id='1177'>Il est certain pourtant, et le Ciel qui m'écoute</l>
+	<l id='1178'>M'en sera le témoin, si votre coeur en doute,</l>
+	<l id='1179'>Que si de tout mon sang je pouvais racheter</l>
+	<l id='1180' part='i'>Ce que...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1180' part='f'>Cessez, Seigneur, de me le protester.</l>
+	<l id='1181'>S'il dépendait de vous de me rendre Thésée,</l>
+	<l id='1182'>La gloire y trouverait votre âme disposée,</l>
+	<l id='1183'>Je le crois de ce coeur qui sut tout m'immoler ;</l>
+	<l id='1184'>Aussi veux-je avec vous ne rien dissimuler.</l>
+	<l id='1185'>J'aimai, Seigneur ; après mon infortune extrême</l>
+	<l id='1186'>Il me serait honteux de dire encor que j'aime.</l>
+	<l id='1187'>Ce n'est pas que le coeur qu'un vrai mérite émeut,</l>
+	<l id='1188'>Cesse d'être sensible au moment qu'il le veut.</l>
+	<l id='1189'>Le mien fut à Thésée, et je l'en croyais digne.</l>
+	<l id='1190'>Ses vertus à mes yeux étaient d'un prix insigne,</l>
+	<l id='1191'>Rien ne brillait en lui que de grand, de parfait,</l>
+	<l id='1192'>Il feignait de m'aimer, je l'aimais en effet ;</l>
+	<l id='1193'>Et comme d'une foi qui sert à me confondre,</l>
+	<l id='1194'>Ce qu'il doit à ma flamme ont lieu de me répondre</l>
+	<l id='1195'>Malgré l'ingratitude ordinaire aux Amants,</l>
+	<l id='1196'>D'autres que moi peut-être auraient cru ses serments</l>
+	<l id='1197'>Je m'immolais entière à l'ardeur d'un pur zèle ;</l>
+	<l id='1198'>Cet effort valait bien qu'il fût toujours fidèle.</l>
+	<l id='1199'>Sa perfidie enfin n'a plus rien de secret,</l>
+	<l id='1200'>Il la fait éclater, je la vois à regret.</l>
+	<l id='1201'>C'est d'abord un ennui qui ronge, qui dévore,</l>
+	<l id='1202'>J'en ai déjà souffert, j'en puis souffrir encore ;</l>
+	<l id='1203'>Mais quand à n'aimer plus un grand coeur se résout,</l>
+	<l id='1204'>Le vouloir, c'est assez pour en venir à bout.</l>
+	<l id='1205'>Quoi qu'un pareil triomphe ait de dur, de funeste,</l>
+	<l id='1206'>On s'arrache à soi-même, et le temps fait le reste.</l>
+	<l id='1207'>Voilà l'état, Seigneur, où ma triste raison</l>
+	<l id='1208'>A mis enfin mon âme après sa trahison.</l>
+	<l id='1209'>Vous avez su tantôt par un aveu sincère</l>
+	<l id='1210'>Que sans lui votre amour eût eu de quoi me plaire,</l>
+	<l id='1211'>Et que mon coeur touché du respect de vos feux,</l>
+	<l id='1212'>S'il ne m'eût pas aimée, eût accepter vos voeux.</l>
+	<l id='1213'>Puisqu'il me rend à moi, je vous tiendrai parole ;</l>
+	<l id='1214'>Mais après ce qu'il faut que ma gloire s'immole,</l>
+	<l id='1215'>Écoutant un amour et si tendre, et si doux ;</l>
+	<l id='1216'>Je ne vous réponds pas d'en prendre autant pour vous.</l>
+	<l id='1217'>Ce sont des traits de feu que le temps seul imprime.</l>
+	<l id='1218'>J'ai pour votre vertu la plus parfaite estime ;</l>
+	<l id='1219'>Et pour être en état de remplir votre espoir,</l>
+	<l id='1220'>Cette estime suffit à qui sait son devoir.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1221'>Ah, pour la mériter, si le plus pur hommage...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1222'>Seigneur, dispensez-moi d'en ouïr davantage.</l>
+	<l id='1223'>J'ai tous les sens encor de trouble embarrassés,</l>
+	<l id='1224'>Ma main dépend de vous, ce vous doit être assez ;</l>
+	<l id='1225'>Mais pour vous la donner, j'avouerai ma faiblesse.</l>
+	<l id='1226'>J'ai besoin qu'un Ingrat pour son hymen m'en presse.</l>
+	<l id='1227'>Tant que je le verrais en pouvoir d'être à moi,</l>
+	<l id='1228'>Je prétendrais en vain disposer de ma foi.</l>
+	<l id='1229'>Un feu bien allumé ne s'éteint qu'avec peine.</l>
+	<l id='1230'>Le Parjure Thésée a mérité ma haine,</l>
+	<l id='1231'>Mon coeur veut être à vous, et ne peut mieux choisir !</l>
+	<l id='1232'>Mais s'il me voit, me parle, il peut s'en ressaisir.</l>
+	<l id='1233'>L'Amour par le remords aisément se désarme,</l>
+	<l id='1234'>Il ne faut quelquefois qu'un soupir, qu'une larme,</l>
+	<l id='1235'>Et du plus fier courroux quoi qu'on se soit promis,</l>
+	<l id='1236'>On ne tient pas longtemps contre un Amant soumis.</l>
+	<l id='1237'>Ce sont vos intérêts. Que sans m'en vouloir croire,</l>
+	<l id='1238'>Thésée à ses désirs abandonne sa gloire ;</l>
+	<l id='1239'>Dès que d'un autre Objet je le verrai l'époux,</l>
+	<l id='1240'>Si vous m'aimez encor, Seigneur, je suis à vous.</l>
+	<l id='1241'>Mon coeur de votre hymen se fait un heur suprême,</l>
+	<l id='1242'>Et c'est ce que je veux lui déclarer moi-même.</l>
+	<l id='1243'>Qu'on le fasse venir, allez Nérine. Ainsi</l>
+	<l id='1244'>De mon coeur, de ma foi, n'ayez aucun souci ;</l>
+	<l id='1245'>Après ce que j'ai dit, vous en êtes le maître.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1246'>Ah, Madame, par où puis-je assez reconnaître...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1247'>Seigneur, un peu de trêve ; en l'état où je suis,</l>
+	<l id='1248'>J'ai comblé votre espoir, c'est tout ce que je puis.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Ariane, Phèdre. </head>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1249'>Ce retour me surprend. Tantôt contre Thésée</l>
+	<l id='1250'>Du plus ardent courroux vous étiez embrasée,</l>
+	<l id='1251'>Et déjà la raison a calmé ce transport ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1252'>Que ferais-je, ma Soeur ? C'est un Arrêt du Sort.</l>
+	<l id='1253'>Thésée a résolu d'achever son parjure,</l>
+	<l id='1254'>Il veut me voir souffrir, je me tais, et j'endure.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1255'>Mais vous répondez-vous d'oublier aisément</l>
+	<l id='1256'>Ce que sa passion eut pour vous de charmant ?</l>
+	<l id='1257'>D'avoir à d'autres voeux un coeur si peu contraire,</l>
+	<l id='1258' part='i'>Que...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1258' part='f'>Je n'ai rien promis que je ne veuille faire.</l>
+	<l id='1259'>Qu'il s'engage à l'hymen, j'épouserai le Roi.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1260'>Quoi ? Par votre aveu même il donnera sa foi ;</l>
+	<l id='1261'>Et lorsque son amour a tant reçu du vôtre,</l>
+	<l id='1262'>Vous le verrez sans peine entre les bras d'une autre ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1263'>Entre les bras d'une autre ! Avant ce coup, ma Soeur,</l>
+	<l id='1264'>J'aime, je suis trahie, on connaîtra mon coeur.</l>
+	<l id='1265'>Tant de périls bravés, tant d'amour, tant de zèle,</l>
+	<l id='1266'>M'auront fait mériter les soins d'un Infidèle,</l>
+	<l id='1267'>À ma honte partout ma flamme aura fait bruit,</l>
+	<l id='1268'>Et ma lâche Rivale en cueillera le fruit ?</l>
+	<l id='1269'>J'y donnerai bon ordre. Il faut pour la connaître</l>
+	<l id='1270'>Empêcher, s'il se peut, ma fureur de paraître.</l>
+	<l id='1271'>Moins l'amour outragé fait voir d'emportement,</l>
+	<l id='1272'>Plus quand le coup approche, il frappe sûrement.</l>
+	<l id='1273'>C'est par là qu'affectant une douleur aisée,</l>
+	<l id='1274'>Je feins de consentir à l'hymen de Thésée ;</l>
+	<l id='1275'>À savoir son secret j'intéresse le Roi.</l>
+	<l id='1276'>Pour l'apprendre, ma Soeur, travaillez avec moi,</l>
+	<l id='1277'>Car je ne doute point qu'une amitié sincère</l>
+	<l id='1278'>Contre sa trahison n'arme votre colère,</l>
+	<l id='1279'>Que vous ne ressentiez tout ce que sent mon coeur.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1280' part='i'>Madame, vous savez...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1280' part='f'>Je vous connais, ma Soeur.</l>
+	<l id='1281'>Aussi c'est seulement en vous ouvrant mon âme,</l>
+	<l id='1282'>Que dans son désespoir je soulage ma flamme.</l>
+	<l id='1283'>Que de projets trahis ! Sans cet indigne abus</l>
+	<l id='1284'>J'arrêtais votre hymen avec Pirithoüs,</l>
+	<l id='1285'>Et de mon amitié cette marque nouvelle</l>
+	<l id='1286'>Vous doit faire encor plus haïr mon Infidèle.</l>
+	<l id='1287'>Sur le bruit qu'aura fait son changement d'amour,</l>
+	<l id='1288'>Sachez adroitement ce qu'on dit à la Cour.</l>
+	<l id='1289'>Voyez AEglé, Mégiste, et parlez d'Ariane ;</l>
+	<l id='1290'>Mais surtout prenez soin d'entretenir Cyane,</l>
+	<l id='1291'>C'est elle qui d'abord a frappé mon esprit.</l>
+	<l id='1292'>Vous savez que l'Amour aisément se trahit.</l>
+	<l id='1293'>Observez ses regards, son trouble, son silence.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1294'>J'y prends trop d'intérêt pour manquer de prudence.</l>
+	<l id='1295'>Dans l'ardeur de venger tant de droits violés,</l>
+	<l id='1296'>C'est donc cette Rivale à qui vous en voulez ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1297'>Pour porter sur l'Ingrate un coup vraiment terrible,</l>
+	<l id='1298'>Il faut frapper par là, c'est un endroit sensible.</l>
+	<l id='1299'>Vous-même jugez-en. Elle me fait trahir,</l>
+	<l id='1300'>Par elle je perds tout, la puis-je assez haïr ?</l>
+	<l id='1301'>Puis-je assez consentir à tout ce que la rage</l>
+	<l id='1302'>M'offre de plus sanglant pour venger mon outrage ?</l>
+	<l id='1303'>Rien après ce forfait ne me doit retenir,</l>
+	<l id='1304'>Ma Soeur, il est de ceux qu'on ne peut trop punir.</l>
+	<l id='1305'>Si Thésée oubliant une amour ordinaire,</l>
+	<l id='1306'>M'avait manqué de foi dans la Cour de mon Père,</l>
+	<l id='1307'>Quoi que pût le dépit en secret ordonner,</l>
+	<l id='1308'>Cette infidélité serait à pardonner.</l>
+	<l id='1309'>Ma Rivale, dirais-je, a pu sans injustice</l>
+	<l id='1310'>D'un coeur qui fut à moi chérir le sacrifice.</l>
+	<l id='1311'>La douceur d'être aimée ayant touché le sien,</l>
+	<l id='1312'>Elle a dû préférer son intérêt au mien.</l>
+	<l id='1313'>Mais Étrangère ici, pour l'avoir osé croire,</l>
+	<l id='1314'>J'ai sacrifié tout, jusqu'au soin de ma gloire ;</l>
+	<l id='1315'>Et pour ce qu'a quitté ma trop crédule foi,</l>
+	<l id='1316'>Je n'avais que ce coeur que je croyais à moi.</l>
+	<l id='1317'>Je le perds, on me l'ôte ; il n'est rien que n'essaye</l>
+	<l id='1318'>La fureur qui m'anime, afin qu'on me le paye.</l>
+	<l id='1319'>J'en mettrai haut le prix, c'est à lui d'y penser.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1320'>Ce revers est sensible, il faut le confesser.</l>
+	<l id='1321'>Mais quand vous connaîtrez celle qu'il vous préfère,</l>
+	<l id='1322'>Pour venger votre amour, que prétendez-vous faire ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1323'>L'aller trouver, la voir, et de ma propre main</l>
+	<l id='1324'>Lui mettre, lui plonger un poignard dans le sein.</l>
+	<l id='1325'>Mais pour mieux adoucir les peines que j'endure,</l>
+	<l id='1326'>Je veux porter le coup aux yeux de mon Parjure,</l>
+	<l id='1327'>Et qu'en son coeur les miens pénètrent à loisir</l>
+	<l id='1328'>Ce qu'aura de mortel son affreux déplaisir.</l>
+	<l id='1329'>Alors ma passion trouvera de doux charmes</l>
+	<l id='1330'>À jouir de ses pleurs comme il fait de mes larmes.</l>
+	<l id='1331'>Alors il me dira, si se voir lâchement</l>
+	<l id='1332'>Arracher ce qu'on aime, est un léger tourment.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1333'>Mais sans l'autoriser à vous être infidèle,</l>
+	<l id='1334'>Cette Rivale a pu le voir brûler pour elle</l>
+	<l id='1335'>Elle a peine à ses voeux peut-être consentir.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1336'>Point de pardon, ma Soeur, il fallait m'avertir.</l>
+	<l id='1337'>Son silence fait voir qu'elle a part au parjure.</l>
+	<l id='1338'>Enfin il faut du sang pour laver mon injure.</l>
+	<l id='1339'>De Thésée, il est vrai, je puis percer le coeur ;</l>
+	<l id='1340'>Mais si je m'y résous, vous n'avez plus de Soeur.</l>
+	<l id='1341'>Vous aurez beau vouloir que mon bras se retienne,</l>
+	<l id='1342'>Tout perfide qu'il est, ma mort suivra la sienne,</l>
+	<l id='1343'>Et sur mon propre sang l'ardeur de nous unir</l>
+	<l id='1344'>Me le fera venger aussitôt que punir.</l>
+	<l id='1345'>Non, non, un sort trop doux suivrait sa perfidie,</l>
+	<l id='1346'>Si mes ressentiments se bornaient à sa vie.</l>
+	<l id='1347'>Portons, portons plus loin l'ardeur de l'accabler,</l>
+	<l id='1348'>Et donnons, s'il se peut, aux Ingrats à trembler.</l>
+	<l id='1349'>Vous figurez-vous bien son désespoir extrême,</l>
+	<l id='1350'>Quand dégoûtante encor du sang de ce qu'il aime,</l>
+	<l id='1351'>Ma main offerte au Roi dans ce fatal instant</l>
+	<l id='1352'>Bravera jusqu'au bout la douleur qui l'attend ?</l>
+	<l id='1353'>C'est en vain de son coeur qu'il croit m'avoir chassé ;</l>
+	<l id='1354'>Je n'y suis pas peut-être encor toute effacée,</l>
+	<l id='1355'>Et ce sera de quoi mieux combler son ennui,</l>
+	<l id='1356'>Que de vivre à ses yeux pour un autre que lui.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1357'>Mais pour aimer le Roi, vous sentez-vous dans l'âme...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1358'>Et le moyen, ma Soeur, qu'un autre Objet m'enflamme ?</l>
+	<l id='1359'>Jamais, soit qu'on se trompe, ou réussisse au choix,</l>
+	<l id='1360'>Les fortes passions ne touchent qu'une fois.</l>
+	<l id='1361'>Ainsi l'hymen du Roi me tiendra lieu de peine ;</l>
+	<l id='1362'>Mais je dois à mon coeur cette cruelle gêne.</l>
+	<l id='1363'>C'est lui qui m'a fait prendre un trop indigne amour,</l>
+	<l id='1364'>Il m'a trahie ; il faut le trahir à mon tour.</l>
+	<l id='1365'>Oui, je le punirai de n'avoir pu connaître</l>
+	<l id='1366'>Qu'en parlant pour Thésée, il parlait pour un Traître,</l>
+	<l id='1367'>D'avoir... Mais le voici. Contraignons-nous si bien,</l>
+	<l id='1368'>Que de mon artifice il ne soupçonne rien.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Ariane, Thésée, Phèdre, Nérine. </head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1369'>Enfin à la raison mon courroux rend les armes ;</l>
+	<l id='1370'>De l'Amour aisément on ne vainc pas les charmes.</l>
+	<l id='1371'>Si c'était un effort qui dépendît de nous,</l>
+	<l id='1372'>Je regretterais moins ce que je perds en vous.</l>
+	<l id='1373'>Il vous force à changer, il faut que j'y consente.</l>
+	<l id='1374'>Au moins c'est de vos soins une marque obligeante,</l>
+	<l id='1375'>Que par ces nouveaux feux ne pouvant être à moi,</l>
+	<l id='1376'>Vous preniez intérêt à me donner au Roi.</l>
+	<l id='1377'>Son Trône est un appui qui flatte ma disgrâce ;</l>
+	<l id='1378'>Mais ce n'est que par vous que j'y puis prendre place.</l>
+	<l id='1379'>Si l'infidélité ne vous peut étonner,</l>
+	<l id='1380'>J'en veux avoir l'exemple, et non pas le donner.</l>
+	<l id='1381'>C'est peu qu'aux yeux de tous vous brûliez pour une autre.</l>
+	<l id='1382'>Tout ce que peut ma main, c'est d'imiter la vôtre,</l>
+	<l id='1383'>Lorsque par votre hymen m'ayant rendu ma foi,</l>
+	<l id='1384'>Vous m'aurez mise en droit de disposer de moi.</l>
+	<l id='1385'>Pour me faire jouir des biens qu'on me prépare,</l>
+	<l id='1386'>C'est à vous de hâter le coup qui nous sépare.</l>
+	<l id='1387'>Votre intérêt le veut encor plus que le mien.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1388' part='i'>Madame, je n'ai pas...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1388' part='f'>Ne me répliquez rien.</l>
+	<l id='1389'>Si ma perte est un mal dont votre coeur soupire,</l>
+	<l id='1390'>Vos remords trouveront le temps de me le dire ;</l>
+	<l id='1391'>Et cependant ma Soeur qui peut vous écouter,</l>
+	<l id='1392'>Saura ce qu'il vous reste encor à consulter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Phèdre, Thésée. </head>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1393'>Le Ciel à mon amour serait-il favorable,</l>
+	<l id='1394'>Jusqu'à rendre sitôt Ariane exorable ?</l>
+	<l id='1395'>Madame, quel bonheur qu'après tant de soupirs</l>
+	<l id='1396'>Je pusse sans contrainte expliquez mes désirs,</l>
+	<l id='1397'>Vous peindre en liberté ce que pour vous m'inspire...</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1398'>Renfermez-le, de grâce, et craignez d'en trop dire.</l>
+	<l id='1399'>Vous voyez que j'observe, avant que vous parler,</l>
+	<l id='1400'>Qu'aucun témoin ici ne se puisse couler.</l>
+	<l id='1401'>Un grand calme à vos yeux commence de paraître,</l>
+	<l id='1402'>Tremblez, Prince, tremblez, l'orage est prêt de naître.</l>
+	<l id='1403'>Tout ce que vous pouvez vous figurer d'horreur</l>
+	<l id='1404'>Des violents projets de l'Amour en fureur,</l>
+	<l id='1405'>N'est qu'un faible crayon de la secrète rage</l>
+	<l id='1406'>Qui possède Ariane, et trouble son courage.</l>
+	<l id='1407'>L'aveu qu'à votre hymen elle semble donner,</l>
+	<l id='1408'>Vers le piège tendu cherche à vous entraîner.</l>
+	<l id='1409'>C'est par là qu'elle croit découvrir sa Rivale ;</l>
+	<l id='1410'>Et dans les vifs transports que sa vengeance étale,</l>
+	<l id='1411'>Plus le sang nous unit, plus son ressentiment,</l>
+	<l id='1412'>Quand je serai connue, aura d'emportement.</l>
+	<l id='1413'>Rien ne m'en peut sauver, ma mort est assurée.</l>
+	<l id='1414'>Tout à l'heure avec moi sa haine l'a jurée,</l>
+	<l id='1415'>J'en ai reçu l'Arrêt. Ainsi le fort amour</l>
+	<l id='1416'>Souvent, sans le savoir, mettant sa flamme au jour,</l>
+	<l id='1417'>Mon sang doit s'apprêter à laver son outrage.</l>
+	<l id='1418'>Vous l'avez voulu, Prince, achevez votre ouvrage.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1419'>À quoi que son courroux puisse être disposé,</l>
+	<l id='1420'>Il est pour s'en défendre un moyen bien aisé.</l>
+	<l id='1421'>Ce calme qu'elle affecte afin de me surprendre,</l>
+	<l id='1422'>Ne me fait que trop voir ce que j'en dois attendre.</l>
+	<l id='1423'>La foudre gronde, il faut vous mettre hors d'état</l>
+	<l id='1424'>D'en ouïr la menace, et d'en craindre l'éclat.</l>
+	<l id='1425'>Fuyons d'ici, Madame, et venez dans Athènes,</l>
+	<l id='1426'>Par un heureux hymen, voir la fin de nos peines.</l>
+	<l id='1427'>J'ai mon Vaisseau tout prêt. Dès cette même nuit</l>
+	<l id='1428'>Nous pouvons de ces lieux disparaître sans bruit.</l>
+	<l id='1429'>Quand même pour vos jours nous n'aurions rien à craindre,</l>
+	<l id='1430'>Assez d'autres raisons nous y doivent contraindre.</l>
+	<l id='1431'>Ariane forcée à renoncer à moi,</l>
+	<l id='1432'>N'aura plus de prétexte à refuser le Roi.</l>
+	<l id='1433'>Pour son propre intérêt il faut s'éloigner d'elle.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1434'>Et qui me répondra que vous serez fidèle ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1435'>Ma foi, que ni le temps, ni le Ciel en courroux...</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1436'>Ma Soeur l'avait reçue en fuyant avec vous.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1437'>L'emmener avec moi fut un coup nécessaire.</l>
+	<l id='1438'>Il fallait la sauver de la fureur d'un Père,</l>
+	<l id='1439'>Et la reconnaissance eut part seule aux serments</l>
+	<l id='1440'>Par qui mon coeur du sien paya les sentiments.</l>
+	<l id='1441'>Ce coeur violenté n'aimait qu'avec étude ;</l>
+	<l id='1442'>Et quand il entrerait un peu d'ingratitude</l>
+	<l id='1443'>Dans ce manque de foi qui vous semble odieux,</l>
+	<l id='1444'>Pourquoi me reprocher un crime de vos yeux ?</l>
+	<l id='1445'>L'habitude à les voir me fit de l'inconstance</l>
+	<l id='1446'>Une nécessité dont rien ne me dispense ;</l>
+	<l id='1447'>Et si j'ai trop flatté cette crédule Soeur,</l>
+	<l id='1448'>Vous en êtes complice aussi bien que mon coeur.</l>
+	<l id='1449'>Vous voyant auprès d'elle, et mon amour extrême</l>
+	<l id='1450'>Ne pouvant avec vous s'expliquer par vous-même,</l>
+	<l id='1451'>Ce que je lui disais d'engageant et de doux,</l>
+	<l id='1452'>Vous ne saviez que trop qu'il s'adressait à vous.</l>
+	<l id='1453'>Je n'examinais point en vous ouvrant mon âme,</l>
+	<l id='1454'>Si c'était d'Ariane entretenir la flamme.</l>
+	<l id='1455'>Je songeais seulement à vous marquer ma foi,</l>
+	<l id='1456'>Je me faisais entendre, et c'était tout pour moi.</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1457'>Dieux, qu'elle en souffrira ! Que d'ennuis ! Que de larmes !</l>
+	<l id='1458'>J'en sens naître en mon coeur les plus rudes alarmes.</l>
+	<l id='1459'>Il voit avec horreur ce qui doit arriver,</l>
+	<l id='1460'>Cependant j'ai trop fait pour ne pas achever.</l>
+	<l id='1461'>Ces foudroyants regards, ces accablants reproches,</l>
+	<l id='1462'>Dont par son désespoir  je vois les coups si proches,</l>
+	<l id='1463'>Pour moi, pour une Soeur, sont plus à redouter</l>
+	<l id='1464'>Que cette triste mort qu'elle croit m'apprêter.</l>
+	<l id='1465'>Elle a su votre amour, elle saura le reste.</l>
+	<l id='1466'>De ses pleurs, de ses cris, fuyons l'éclat funeste,</l>
+	<l id='1467'>Je vois bien qu'il le faut, mais las !</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1468' part='i'>Vous soupirez ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1468' part='f'>Oui, Prince, je veux trop ce que vous désirez.</l>
+	<l id='1469'>Elle se fie à moi cette Soeur, elle m'aime,</l>
+	<l id='1470'>C'est une ardeur sincère, une tendresse extrême,</l>
+	<l id='1471'>Jamais son amitié ne me refusa rien.</l>
+	<l id='1472'>Pour l'en récompenser je lui vole son bien,</l>
+	<l id='1473'>Je l'expose aux rigueurs du sort le plus sévère,</l>
+	<l id='1474'>Je la tue, et c'est vous qui me le faites faire.</l>
+	<l id='1475' part='i'>Pourquoi vous ai-je aimé ?</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1475' part='f'>Vous en repentez-vous ?</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1476'>Je ne sais ; pour mon coeur il n'est rien de plus doux,</l>
+	<l id='1477'>Mais vous le remarquez, ce coeur tremble, soupire,</l>
+	<l id='1478'>Et perdant uns Soeur, si j'ose encor le dire,</l>
+	<l id='1479'>Vous la laissez dans Naxe en proie à ses douleurs,</l>
+	<l id='1480'>Votre légèreté me peut laisser ailleurs.</l>
+	<l id='1481'>Qui voudra plaindre alors les ennuis de ma vie</l>
+	<l id='1482'>Sur l'exemple éclatant d'Ariane trahie ?</l>
+	<l id='1483'>Je l'aurai bien voulu, mais c'en est fait, partons.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE.</speaker>
+	<l id='1484' part='i'>En vain...</l>
+</sp>
+<sp who='PHEDRE'><speaker>PHÈDRE.</speaker>
+	<l id='1484' part='f'>Le temps se perd quand nous en consultons.</l>
+	<l id='1485'>Si vous blâmez la crainte où ce soupçon me livre,</l>
+	<l id='1486'>J'en répare l'outrage, en m'offrant à vous suivre.</l>
+	<l id='1487'>Puisqu'à ce grand effort ma flamme se résout,</l>
+	<l id='1488'>Donnez l'ordre qu'il faut, je serai prête à tout.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Ariane, Nérine.</head>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1489'>Un peu plus de pouvoir, Madame, sur vous-même.</l>
+	<l id='1490'>À quoi sert ce transport, ce désespoir extrême ?</l>
+	<l id='1491'>Vous avez dans un trouble à nul autre pareil</l>
+	<l id='1492'>Prévenu ce matin le lever du Soleil.</l>
+	<l id='1493'>Dans le Palais errante, interdite, abattue,</l>
+	<l id='1494'>Vous avez laissé voir la douleur qui vous tue.</l>
+	<l id='1495'>Ce ne sont que soupirs, que larmes, que sanglots.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1496'>On me trahit, Nérine, où trouver du repos ?</l>
+	<l id='1497'>Quoi, ce parfait amour dont mon âme ravie</l>
+	<l id='1498'>Ne croyait voir la fin qu'en celle de ma vie,</l>
+	<l id='1499'>Ces feux, ces tendres feux pour moi trop allumés,</l>
+	<l id='1500'>Dans le coeur d'un Ingrat sont déjà consumés ?</l>
+	<l id='1501'>Thésée avec plaisir a pu les voir éteindre,</l>
+	<l id='1502'>Ma mort n'est qu'un malheur qui ne vaut pas le craindre.</l>
+	<l id='1503'>Et ce parjure Amant qui se rit de ma foi,</l>
+	<l id='1504'>Quoi qu'il vive toujours, ne vivra plus pour moi ?</l>
+	<l id='1505' part='i'>Que fait Pirithoüs ? Viendra-t-il ?</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1505' part='f'>Oui, Madame,</l>
+	<l id='1506' part='i'>Je l'ai fait avertir.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1506' part='f'>Quels combats dans mon âme !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1507'>Pirithoüs viendra ; mais ce transport jaloux</l>
+	<l id='1508'>Qu'attend-il de sa vue, et que lui direz-vous ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1509'>Dans l'excès étonnant de mon cruel martyre,</l>
+	<l id='1510'>Hélas ! Demandes-tu ce que je pourrai dire ?</l>
+	<l id='1511'>Dût ma douleur sans cesse avoir le même cours,</l>
+	<l id='1512'>Se plaint-on trop souvent de ce qu'on sent toujours ?</l>
+	<l id='1513'>Tu dis donc qu'hier au soir chacun avec murmure</l>
+	<l id='1514'>Parlait diversement de ma triste aventure ?</l>
+	<l id='1515'>Que la jeune Cyane est celle que l'on croit</l>
+	<l id='1516' part='i'>Que Thésée...</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1516' part='f'>On la nomme à cause qu'il la voit,</l>
+	<l id='1517'>Mais qu'en pouvoir juger ? Il voit Phèdre de même,</l>
+	<l id='1518'>Et cependant, Madame, est-ce Phèdre qu'il aime ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1519'>Que n'a-t-il pu l'aimer ? Phèdre l'aurait connu,</l>
+	<l id='1520'>Et par là mon malheur eût été prévenu.</l>
+	<l id='1521'>De sa flamme par elle aussitôt avertie,</l>
+	<l id='1522'>Dans sa première ardeur je l'aurais amortie.</l>
+	<l id='1523'>Par où vaincre d'ailleurs les rebuts de ma Soeur ?</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1524'>En vain il aurait cru pouvoir toucher son coeur,</l>
+	<l id='1525'>Je le sais ; mais enfin quand un Amant sait plaire,</l>
+	<l id='1526'>Qui consent à l'ouïr peut l'aimer, et se taire.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1527'>Je soupçonnerais Phèdre, elle de qui les pleurs</l>
+	<l id='1528'>Semblaient en s'embarquant présager nos malheurs ?</l>
+	<l id='1529'>Avant que la résoudre à seconder ma fuite,</l>
+	<l id='1530'>À quoi pour la gagner ne fus-je pas réduite ?</l>
+	<l id='1531'>Combien de résistance et d'obstinés refus ?</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1532'>Vous n'avez rien, Madame, à craindre là-dessus.</l>
+	<l id='1533'>Je connais sa tendresse, elle est pour vous si forte,</l>
+	<l id='1534' part='i'>Qu'elle mourrait plutôt...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1534' part='f'>Je veux la voir, n'importe.</l>
+	<l id='1535'>Va, fais-lui promptement savoir que je l'attends.</l>
+	<l id='1536'>Dis-lui que le sommeil l'arrête trop longtemps,</l>
+	<l id='1537'>Que je sens ma douleur croître par son absence.</l>
+	<l id='1538'>Qu'elle est heureuse, hélas ! dans son indifférence !</l>
+	<l id='1539'>Son repos n'est troublé d'aucun mortel souci.</l>
+	<l id='1540'>Pirithoüs paraît, fais-la venir ici.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Ariane, Pirithoüs.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1541'>Et bien ? Puis-je accepter la main qui m'est offerte ?</l>
+	<l id='1542'>Le Roi sur s'empresse-t-il à réparer ma perte,</l>
+	<l id='1543'>Et pour me laisser libre à payer son amour,</l>
+	<l id='1544'>De l'hymen de Thésée a-t-il choisi le jour ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1545'>Le Roi sur ce projet entretint hier Thésée,</l>
+	<l id='1546'>Mais il trouva son âme encor mal disposée.</l>
+	<l id='1547'>Il est pour les Ingrats de rigoureux instants,</l>
+	<l id='1548'>Thésée en fit l'épreuve, et demanda du temps.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1549'>Différer d'être heureux après son inconstance,</l>
+	<l id='1550'>C'est montrer en aimant bien peu d'impatience ;</l>
+	<l id='1551'>Et ce nouvel Objet dont son coeur est épris,</l>
+	<l id='1552'>Y doit pour son amour croire trop de mépris.</l>
+	<l id='1553'>Pour moi, je l'avouerai, sa trahison me fâche ;</l>
+	<l id='1554'>Mais puisqu'en me quittant il lui plaît d'être lâche,</l>
+	<l id='1555'>Si je dois être au Roi, je voudrais que sa main</l>
+	<l id='1556'>Eût pu déjà fixer mon destin incertain.</l>
+	<l id='1557'>L'irrésolution m'embarrasse et me gêne.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1558'>Si l'on m'avait dit vrai, vous seriez hors de peine ;</l>
+	<l id='1559'>Mais, Madame, je puis être mal averti.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1560' part='i'>Et de quoi, Prince ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1560' part='f'>On dit que Thésée est parti.</l>
+	<l id='1561' part='i'>Par là vous seriez libre.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1561' part='f'>Ah, que viens-je d'entendre ?</l>
+	<l id='1562' part='i'>Il est parti, dit-on ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1562' part='f'>Ce bruit doit vous surprendre.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1563'>Il est parti ! Le Ciel me trahirait toujours !</l>
+	<l id='1564'>Mais non ; que deviendraient ses nouvelles amours ?</l>
+	<l id='1565'>Ferait-il cet outrage à l'Objet qui l'enflamme ?</l>
+	<l id='1566' part='i'>L'abandonnerait-il ?</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1566' part='f'>Je ne sais ; mais, Madame,</l>
+	<l id='1567'>Un vaisseau cette nuit s'est échappé du Port.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1568'>Ce n'est pas lui sans doute, on le soupçonne à tort.</l>
+	<l id='1569'>Peut-être est-il parti sans que le Roi le sache ?</l>
+	<l id='1570'>Sans que Pirithoüs à qui rien ne se cache,</l>
+	<l id='1571'>Sans qu'enfin... Mais de quoi me voudrais-je étonner ?</l>
+	<l id='1572'>Que ne peut-il faire ? Il m'ose abandonner,</l>
+	<l id='1573'>Oublier un amour, qui toujours trop fidèle</l>
+	<l id='1574' part='i'>M'oblige encor pour lui...</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Ariane, Pirithoüs, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE, à Nérine.</speaker>
+	<l id='1574' part='f'>Que fait ma Soeur ? Vient-elle ?</l>
+	<l id='1575'>Avec quelle surprise elle va recevoir</l>
+	<l id='1576'>La nouvelle d'un coup qui confond mon espoir !</l>
+	<l id='1577'>D'un coup par qui ma haine à languir est forcée !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1578' part='i'>Madame, j'ai longtemps...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1578' part='f'>Où l'as-tu donc laissé ?</l>
+	<l id='1579' part='i'>Parle.</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1579' part='f'>De tous côtés j'ai couru vainement,</l>
+	<l id='1580'>On ne la trouve point dans son appartement.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1581'>On ne la trouve point ! Quoi, si matin ! Je tremble</l>
+	<l id='1582'>Tant de maux à mes yeux viennent s'offrir ensemble,</l>
+	<l id='1583'>Que stupide, égarée, en ce trouble importun,</l>
+	<l id='1584'>De crainte d'en trop voir, je n'en regarde aucun.</l>
+	<l id='1585' part='i'>N'as-tu rien ouï dire ?</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1585' part='f'>On parle de Thésée.</l>
+	<l id='1586'>On veut que cette nuit voyant la fuite aisée...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1587'>Ô nuit ! Ô trahison dont la double noirceur</l>
+	<l id='1588'>Passe tout... Mais pourquoi m'alarmer de ma Soeur ?</l>
+	<l id='1589'>Sa tendresse pour moi, l'intérêt de sa gloire,</l>
+	<l id='1590'>Sa vertu, tout enfin me défend de rien croire.</l>
+	<l id='1591'>Cependant contre moi quand tout prend son parti,</l>
+	<l id='1592'>Elle ne paraît point, et Thésée est parti.</l>
+	<l id='1593'>Qu'on la cherche ; c'est trop languir dans ce supplice,</l>
+	<l id='1594'>Je m'en sens accablée, il est temps qu'il finisse.</l>
+	<l id='1595'>Quoique mon coeur rejette un doute injurieux,</l>
+	<l id='1596'>Il a besoin, ce coeur, du secours de mes yeux.</l>
+	<l id='1597'>La moindre inquiétude est trop tard apaisée.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Ariane, Pirithoüs, Arcas, Nérine</head>
+<sp who='ARCAS'><speaker>ARCAS, à Pirithoüs.</speaker>
+	<l id='1598'>Seigneur, je vous apporte un Billet de Thésée.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1599'>Donnez, je le verrai. Par qui l'a-t-on reçu ?</l>
+	<l id='1600'>D'où l'a-t-on envoyé ? Qu'a-t-on fait ? Qu'a-t-on su ?</l>
+	<l id='1601'>Il est parti, Nérine. Ah, trop funeste marque !</l>
+</sp>
+<sp who='ARCAS'><speaker>ARCAS.</speaker>
+	<l id='1602'>On vient de voir au Port arriver une Barque.</l>
+	<l id='1603'>C'est de là qu'est venu le Billet que voici.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1604'>Lisons, mon amour tremble à se voir éclairci.</l>
+</sp>
+<sp who='THESEE'><speaker>THÉSÉE, à Pirithoüs.</speaker>
+	<l id='1605'>Pardonnez une fuite où l'Amour me condamne ;</l>
+	<l id='1606'>Je pars sans vous en avertir.</l>
+	<l id='1607'>Phèdre du même amour n'a pu se garantir,</l>
+	<l id='1608'>Elle fuit avec moi ; prenez soin d'Ariane.</l>
+	<l id='1609'>Prenez soin d'Ariane ! Il viole sa foi,</l>
+	<l id='1610'>Ma désespère, et veut qu'on prenne soin de moi.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1611'>Madame, en vos malheurs qui font peine à comprendre...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1612'>Laissez-moi, je ne veux vous voir, ni vous entendre.</l>
+	<l id='1613'>C'est vous, Pirithoüs, dont le funeste abord,</l>
+	<l id='1614'>Toujours fatal pour moi, précipite ma mort.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1615' part='i'>J'ignore...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1615' part='f'>Allez au Roi porter cette nouvelle.</l>
+	<l id='1616'>Nérine me demeure, il me suffira d'elle.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1617'>D'un départ si secret le Roi sera surpris.</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1618'>Sans son ordre Thésée eût-il rien entrepris ?</l>
+	<l id='1619'>Son aveu l'autorise, et de ses injustices</l>
+	<l id='1620'>Le Roi, vous, et les Dieux, vous êtes tous complices.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Ariane, Nérine.</head>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1621' part='i'>Ah, Nérine !</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1621' part='f'>Madame, après ce que je vois,</l>
+	<l id='1622'>Je l'avoue, il n'est plus ni d'honneur, ni de foi.</l>
+	<l id='1623'>Sur les plus saints devoirs l'Injustice l'emporte.</l>
+	<l id='1624' part='i'>Que de chagrins !</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1624' part='f'>Tu vois, ma douleur est si forte,</l>
+	<l id='1625'>Que succombant aux maux qu'on me fait découvrir,</l>
+	<l id='1626'>Je demeure insensible à force de souffrir.</l>
+	<l id='1627'>Enfin d'un fol espoir je suis désabusée ;</l>
+	<l id='1628'>Pour moi, pour mon amour, il n'est plus de Thésée.</l>
+	<l id='1629'>Le temps au repentir aurait pu le forcer ;</l>
+	<l id='1630'>Mais c'en est fait, Nérine, il n'y faut plus penser.</l>
+	<l id='1631'>Hélas ! Qui l'aurait cru, quand son injuste flamme</l>
+	<l id='1632'>Par l'ennui de le perdre accablait tant mon âme,</l>
+	<l id='1633'>Qu'en ce terrible excès de peine et de douleurs</l>
+	<l id='1634'>Je ne connusse encor que mes:moindres malheurs ?</l>
+	<l id='1635'>Une Rivale au moins pour soulager ma peine</l>
+	<l id='1636'>M'offrait en la perdant de quoi plaire à ma haine.</l>
+	<l id='1637'>Je promettais son sang à mes bouillants transports ;</l>
+	<l id='1638'>Mais je trouve à briser les liens les plus forts,</l>
+	<l id='1639'>Et quand dans une Soeur après ce noir outrage</l>
+	<l id='1640'>Je découvre en tremblant la cause de ma rage,</l>
+	<l id='1641'>Ma Rivale et mon Traître, aidés de mon erreur,</l>
+	<l id='1642'>Triomphe par leur fuite, et brave ma fureur.</l>
+	<l id='1643'>Nérine, entres-tu bien, lorsque le Ciel m'accable,</l>
+	<l id='1644'>Dans tout ce qu'a mon sort d'affreux, d'épouvantable ?</l>
+	<l id='1645'>La Rivale sur qui tombe cette fureur,</l>
+	<l id='1646'>C'est à Phèdre, cette Phèdre à qui j'ouvrais mon coeur.</l>
+	<l id='1647'>Quand je lui faisais voir ma peine sans égale,</l>
+	<l id='1648'>Que j'en marquais l'horreur, c'était à ma Rivale.</l>
+	<l id='1649'>La Perfide abusant de ma tendre amitié,</l>
+	<l id='1650'>Montrait de ma disgrâce une fausse pitié,</l>
+	<l id='1651'>Et jouissant des maux que j'aimais à lui peindre,</l>
+	<l id='1652'>Elle en était la cause, et feignait de me plaindre.</l>
+	<l id='1653'>C'est là mon désespoir ; pour avoir trop parlé,</l>
+	<l id='1654'>Je perds ce que déjà je tenais immolé ;</l>
+	<l id='1655'>Je l'ai portée à fuir, et par mon imprudence</l>
+	<l id='1656'>Moi-même je me suis dérobé ma vengeance.</l>
+	<l id='1657'>Dérobé ma vengeance ! À quoi pensai-je ? Ah Dieux !</l>
+	<l id='1658'>L'Ingrate ! On la verrait triompher à mes yeux !</l>
+	<l id='1659'>C'est trop de patience en de si rudes peines.</l>
+	<l id='1660'>Allons, partons, Nérine, et volons vers Athènes.</l>
+	<l id='1661'>Mettons un prompt obstacle à ce qu'on lui promet ;</l>
+	<l id='1662'>Elle n'est pas encor où son espoir la met.</l>
+	<l id='1663'>Sa mort, sa seule mort, mais une mort cruelle...</l>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1664'>Calmez cette douleur, où vous emporte-t-elle ?</l>
+	<l id='1665'>Madame, songez-vous que tous ces vains projets</l>
+	<l id='1666'>Par l'éclat de vos cris s'entendent au Palais ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1667'>Qu'importe que partout mes plaintes soient ouïes !</l>
+	<l id='1668'>On connaît, on a vu des Amantes trahies,</l>
+	<l id='1669'>À d'autres quelquefois on a manqué de foi,</l>
+	<l id='1670'>Mais, Nérine, jamais il n'en fut comme moi.</l>
+	<l id='1671'>Par cette tendre ardeur dont j'ai chéri Thésée,</l>
+	<l id='1672'>Avais-je mérité de m'en voir méprisée ?</l>
+	<l id='1673'>De tout ce que j'ai fait considère le fruit.</l>
+	<l id='1674'>Quand je suis pour lui seul, c'est moi seule qu'il fui700t.</l>
+	<l id='1675'>Pour lui seul je dédaigne une Couronne offerte ;</l>
+	<l id='1676'>En séduisant ma Soeur, il conspire ma perte.</l>
+	<l id='1677'>De ma foi chaque jour ce sont gages nouveaux,</l>
+	<l id='1678'>Je le comble de biens ; il m'accable de maux,</l>
+	<l id='1679'>Et par une rigueur jusqu'au bout poursuivie,</l>
+	<l id='1680'>Quand j'empêche sa mort, il m'arrache la vie.</l>
+	<l id='1681'>Après l'indigne éclat d'un procédé si noir,</l>
+	<l id='1682'>Je ne m'étonne plus qu'il craigne de me voir.</l>
+	<l id='1683'>La honte qu'il en a lui fait fuir ma rencontre ;</l>
+	<l id='1684'>Mais enfin à mes yeux il faudra qu'il se montre.</l>
+	<l id='1685'>Nous verrons s'il tiendra contre ce qu'il me doit,</l>
+	<l id='1686'>Mes larmes parleront ; c'en est fait, s'il les voit.</l>
+	<l id='1687'>Ne les contraignons plus, et par cette faiblesse</l>
+	<l id='1688'>De son coeur étonné surprenons la tendresse.</l>
+	<l id='1689'>Ayant à mon amour immolé ma raison,</l>
+	<l id='1690'>La peur d'en faire trop serait hors de saison.</l>
+	<l id='1691'>Plus d'égard à ma gloire ; approuvée, ou blâmée,</l>
+	<l id='1692'>J'aurai tout fait pour moi, si je demeure aimée.</l>
+	<l id='1693'>Mais à quel lâche espoir mon trouble me réduit ?</l>
+	<l id='1694'>Si j'aime encor Thésée, oubliai-je qu'il fuit ?</l>
+	<l id='1695'>Peut-être en ce moment aux pieds de ma Rivale</l>
+	<l id='1696'>Il rit des vains projets où mon coeur se ravale.</l>
+	<l id='1697'>Tous deux peut-être... Ah Ciel ! Nérine, empêche-moi</l>
+	<l id='1698'>D'ouïr ce que j'entends, de voir ce que je vois.</l>
+	<l id='1699'>Leur triomphe me tue, et toute possédée</l>
+	<l id='1700'>De cette assassinante et trop funeste idée,</l>
+	<l id='1701'>Quelques bras que contre eux ma haine puisse unir,</l>
+	<l id='1702'>Je souffre plus encor qu'elle ne peut punir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. OEnarus, Ariane, Pirithoüs, Nérine, Arcas. </head>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1703'>Je ne viens point, Madame, opposer à vos plaintes,</l>
+	<l id='1704'>De faux raisonnements, ou d'injustes contraintes ;</l>
+	<l id='1705'>Je viens vous protester que tout ce qu'en ma Cour...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1706'>Je sais ce que je dois, Seigneur, à votre amour.</l>
+	<l id='1707'>Je connais même à quoi ma parole m'engage ;</l>
+	<l id='1708' part='i'>Mais...</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1708' part='f'>À vos déplaisirs épargnons cette image,</l>
+	<l id='1709' part='i'>Vous répondriez mal d'un coeur...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1709' part='f'>Comment, hélas !</l>
+	<l id='1710'>Répondrais-je de moi ? Je ne me connais pas.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1711'>Si du secours du temps ma foi favorisée</l>
+	<l id='1712'>Pour mériter qu'un jour vous oubliiez Thésée...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1713'>Si j'oubliais Thésée ? Ah Dieux, mon lâche coeur</l>
+	<l id='1714'>Nourrirait pour Thésée une honteuse ardeur !</l>
+	<l id='1715'>Thésée encor sur moi garderait quelque empire !</l>
+	<l id='1716'>Je dois haïr Thésée, et voudrais m'en dédire !</l>
+	<l id='1717'>Oui, Thésée à jamais sentira mon courroux ;</l>
+	<l id='1718'>Et si c'est pour vos voeux quelque chose de doux,</l>
+	<l id='1719'>Je jure par les Dieux, par ces Dieux qui peut-être</l>
+	<l id='1720'>S'uniront avec moi pour me venger d'un Traître,</l>
+	<l id='1721'>Que j'oublierai Thésée, et que pour m'émouvoir,</l>
+	<l id='1722'>Remords, larmes, soupirs, manqueront de pouvoir.</l>
+</sp>
+<sp who='PIRITHOUS'><speaker>PIRITHOÜS.</speaker>
+	<l id='1723' part='i'>Madame, si j'osais...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1723' part='f'>Non, parjure Thésée,</l>
+	<l id='1724'>Ne crois pas que jamais je puisse être apaisée.</l>
+	<l id='1725'>Ton amour y ferait des efforts superflus.</l>
+	<l id='1726'>Le plus grand de mes maux est de ne t'aimer plus ;</l>
+	<l id='1727'>Mais après ton forfait, ta noire perfidie,</l>
+	<l id='1728'>Pourvu qu'à te gêner le remords s'étudie,</l>
+	<l id='1729'>Qu'il te livre sans cesse à de secrets Bourreaux,</l>
+	<l id='1730'>C'est peu pour m'étonner que le plus grand des maux,</l>
+	<l id='1731'>J'ai trop gémi, j'ai trop pleuré tes injustices,</l>
+	<l id='1732'>Tu m'as bravée ; il faut qu'à ton tour tu gémisses.</l>
+	<l id='1733'>Mais quelle est mon erreur ? Dieux, je menace en l'air.</l>
+	<l id='1734'>L'Ingrat se donne ailleurs quand je crois lui parler.</l>
+	<l id='1735'>Il goûte la douceur de ses nouvelles chaînes.</l>
+	<l id='1736'>Si vous m'aimez, Seigneur, suivons-le dans Athènes.</l>
+	<l id='1737'>Avant que ma Rivale y puisse triompher,</l>
+	<l id='1738'>Partons ; portons-y plus que la flamme et le fer.</l>
+	<l id='1739'>Que par vous la Perfide entre mes mains livrée</l>
+	<l id='1740'>Puisse voir ma fureur de son sang enivrée.</l>
+	<l id='1741'>Par ce terrible éclat signalez ce grand jour,</l>
+	<l id='1742'>Et méritez ma main en vengeant mon amour.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1743'>Consultons-en le temps, Madame, et s'il faut faire...</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE.</speaker>
+	<l id='1744'>Le temps ! Mon désespoir souffre-t-il qu'on diffère ?</l>
+	<l id='1745'>Puisque tout m'abandonne, il est pour mon secours</l>
+	<l id='1746'>Une plus sûre voie, et des moyens plus courts.</l>
+	<l id='1747' part='i'>Tu m'arrêtes, cruel ?</l>
+<stage>Elle se jette sur l'épée de Pirithoüs.</stage>
+</sp>
+<sp who='NERINE'><speaker>NÉRINE.</speaker>
+	<l id='1747' part='f'>Que faites-vous, Madame ?</l>
+</sp>
+<sp who='ARIANE'><speaker>ARIANE, à Nérine.</speaker>
+<note type="L">Transports : se dit aussi figurémment en choses morales, du trouble, ou de l'agitation de l'âme par la violence des passions. [F]</note>
+	<l id='1748'>Soutiens-moi, je succombe aux transports de mon âme.</l>
+	<l id='1749'>Si dans mes déplaisirs tu veux me secourir,</l>
+	<l id='1750'>Ajoute à ma faiblesse, et me laisse mourir.</l>
+</sp>
+<sp who='OENARUS'><speaker>OENARUS.</speaker>
+	<l id='1751'>Elle semble pâmer. Qu'on la secoure, vite.</l>
+	<l id='1752'>Sa douleur est un mal qu'un prompt remède irrite ;</l>
+	<l id='1753'>Et c'en serait sans doute accroître les efforts,</l>
+	<l id='1754'>Qu'opposer quelque obstacle à ses premiers transports.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

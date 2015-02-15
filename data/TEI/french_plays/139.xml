@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA MORT DE POMPÉE, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1643</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70392q</permalien>
+				<sources>
+					<source id='1'><author></author><text></text></source>
+				</sources>	
+
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+<front>
+		<docTitle>
+			<titlePart type="main">LA MORT DE POMPÉE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1644'>M. DC. XLIV. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>[Pierre CORNEILLE]</docAuthor>
+		<docImprint>
+			<privilege id='1644-01-22'><head>Privilège du roi</head>
+			<p>Louis par la grace de Dieu, roi de France et de Navarre, à nos ames et féaux consiellers les gens tenants nos cours de Parlements, maîtres de requêtes ordinaires de notre hôtel, baillifs, sénéchaux, prévôts, leurs lieutenants, et autres nos justiciers et officiers qu'il appartiendra, Salut. Notre aimé et féal le sieur CORNEILLE, nous a fait remontrer qu'il a composé deux pièces de théâtre, intitulées L'une La Mort de pompée, et l'autre Le Menteur, lesquelles il désirerait faire imprimer s'il avait notre lettres à ce nécessaires, qu'il nous a très humblement supplié lui vouloir accorder. À CES CAUSES, voulant gratifier l'exposant, nous lui avons permis et permettons de faire imprimer, vendre et débiter en tous les leiux et terres de notre obéissance, lesdites deux pièces de théâtre, intitulées, La Mort de Pompée, et La Menteur, par tel imprimeur ou libraire, en telle marge, caractère, et autant de fois qu'il voudra, pendant le temps et espace de dix ans révolus et accomplis, à compter du jour qu'ils seront achevés d'imprimer pour la première fois, pendant le temps et espace de dix ans révolus et accomplis, à compter du jour qu'ils seront achevés d'imprimer pour la première fois. Pendant lequel temps, vous ferez, comme nous faisons, très expresses inhibitions et défenses à tous imprimeurs, libraires, et autres personnes de quelque qualité et condition qu'elles soient, d'imprimer, faire imprimer, vendre ni distribuer les dites pièces de théâtre, sous quelque prétexte que ce soit, sans le contentement de l'exposant ou de ceux qui auront droit de lui, à peine de mille livres d'amende, applicable un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, et l'autre tiers à l'exposant, ou à ceu qui auront droit de lui, confiscation des exemplaires, et de tous dépens, dommages et intérêts, à condition qu'il en sera mis deux exemplaires en notre bibliothèque, et un de chacune des dites pièces en celle de notre très cher féal et sieur Séguier chancelier de France, avant que les exposer en vente, à peine de nullité des présentes, du contenu desquelles vous mlandons que vous fassiez jouir et user ledit exposant ou ceux qui auront droit de lui, pleinement et paisiblement, cessant et faisant cesser tous troubles, et empêchements au contraire : voulons en outre, q'uen mettant au commencement ou à la fin de chacun des exemplaires des dites pièces, un extrait des présentes, elles soient tenues pour duement signifiées, et qu'aux copies collationnées par un de nos ames et féaux conseillers secrétaires, foi soit ajoutée comme à l'original. MANDONS en outre au premier de notre huissier ou sergent sur ce requis, faire pour l'exécution des présentes tous exploits nécessaires, nonobstant clameur du haro, Charte Normande, prise à partie, et toutes autres lettres à ce contraire car tel est notre bon plaisir.</p>
+			<p>Donné à Paris le 22 de janvier l'an de grace mille six cent quarante-quatre. Et de notre règne le premier. Signé par le roi en son conseil, VABOIS.</p>
+			<p>La sieur CORNEILLE a cédé son privilège à Antoine de Sommaville et Augustin Courbé, Marchands libraires à Paris selon l'accord fait entr'eux.</p>
+			</privilege>
+			<acheveImprime id='1644-02-16'>Achevé d'imprimer pour la première fois le 16 février 1644. Les exempleire ont été fournis</acheveImprime>
+			<acheveImprime id=''></acheveImprime>
+			<printer >À PARIS, Chez Antoine de Sommaville, au Palais en la Galerie des Merciers, à l'Ecu de France et Augustin COURBE, en la même galerie, à la Palme.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1642-12' location='Théâtre du Marais'>Représenté pour la première fois en décembre 1642 au Théâtre du Marais.</premiere>
+		</performance>
+		<dedicace><adresse>À MONSEIGNEUR L'ÉMINENTISSIME CARDINAL MAZARIN.</adresse>
+		<head>MONSEIGNEUR,</head>
+		<p>Je présente le grand Pompée à Votre Éminence, c'est-à-dire le plus grand personnage de l'ancienne Rome au plus illustre de la nouvelle. Je mets sous la protection du premier ministre de notre jeune roi un héros qui dans sa bonne fortune fut le protecteur de beaucoup de rois, et qui dans sa mauvaise eut encore des rois pour ses ministres. Il espère de la générosité de Votre Éminence qu'elle ne dédaignera pas de lui conserver cette seconde vie que j'ai tâché de lui redonner, et que lui rendant cette justice qu'elle fait rendre par tout le royaume, elle le vengera pleinement de la mauvaise politique de la cour d'Egypte. Il l'espère, et avec raison, puisque dans le peu de séjour qu'il a fait en France, il a déjà su de la voix publique que les maximes dont vous vous servez pour la conduite de cet Etat ne sont point fondées sur d'autres principes que sur ceux de la vertu. Il a su d'elle les obligations que vous a la France de l'avoir choisie pour votre seconde mère, qui vous est d'autant plus redevable, que les grands services que vous lui ren-dez sont de purs effets de votre inclination et de votre zèle, et non pas des devoirs de votre naissance. Il a su d'elle que Rome s'est acquittée envers notre jeune monarque de ce qu'elle devait à ses prédécesseurs, par le présent qu'elle lui a fait de votre personne. Il a su d'elle enfin que la solidité de votre prudence et la netteté de vos lumières enfantent des conseils si avantageux pour le gouvernement, qu'il semble que ce soit vous à qui, par un esprit de prophétie, notre Virgile ait adressé ce vers il y a plus de seize siècles :</p>
+<p type='v'>Tu regere imperio populos, Romane, memento.</p>
+
+<p>Voilà, Monseigneur, ce que ce grand homme a appris en apprenant à parler français :</p>
+<p type='v'>Pauca, sed a pleno venientia pectore veri.</p>
+
+<p>et comme la gloire de Votre Éminence est assez assurée sur la fidélité de cette voix publique, je n'y mêlerai point la faiblesse de mes pensées, ni la rudesse de mes expressions, qui pourraient diminuer quelque chose de son éclat ; et je n'ajouterai rien aux célèbres témoignages qu'elle vous rend, qu'une profonde vénération pour les hautes qualités qui vous les ont acquis, avec une protestation très sincère et très inviolable d'être toute ma vie,</p>
+
+<p>MONSEIGNEUR,</p>
+<p>De Votre Éminence, Le très humble, très obéissant et très fidèle serviteur,</p>
+<p>Corneille.</p>
+		</dedicace>
+		<preface><head>AU LECTEUR.</head>
+		<p>Si je voulais faire ici ce que j'ai fait en mes deux derniers ouvrages, et te donner le texte ou l'abrégé des auteurs dont cette histoire est tirée, afin que tu pusses remarquer en quoi je m'en serais écarté pour l'accommoder au théâtre, je ferais un avant-propos dix fois plus long que mon poème, et j'aurais à rapporter des livres entiers de presque tous ceux qui ont écrit l'histoire romaine. Je me contenterai de t'avertir que celui jdont je me suis le plus servi a été le poète Lucain, dont la lecture m'a rendu si amoureux de la force de ses pensées et de la majesté de son raisonnement, qu'afin d'en enrichir notre langue, j'ai fait cet effort pour réduire en poème dramatique ce qu'il a traité en épique. Tu trouveras ici cent ou deux cents vers traduits ou imités de lui. J'ai tâché de le suivré dans le reste, et de prendre son caractère quand son exemple m'a manqué : si je suis demeuré bien loin derrière, tu en jugeras. Cependant j'ai cru ne te déplaire pas de te donner ici trois passages qui ne viennent pas mal à mon sujet. Le premier est un épitaphe de Pompée, prononcé par Caton dans Lucain. Les deux autres sont deux peintures de Pompée et de César, tirées de Velleius Paterculus. Je les laisse en latin, de peur que ma traduction n'ôte trop de leur grâce et de leur force ; les dames se les feront expliquer.</p>
+</preface>
+<preface><head>EPITAPHIUM POMPEII MAGNI.</head>
+<p>Cato, apud Lucanum, libro 9</p>
+
+<p type='v'>Civis obit, inquit, multo majoribus impar </p>
+<p type='v'>Nosse modum juris, sed in hoc tamen utilis aevo, </p>
+<p type='v'>Cui non ulla fuit justi reverentia : salva </p>
+<p type='v'>Libertate potens, et solus plebe parata</p>
+<p type='v'>Privatus servire sibi, rectorque senatus,</p>
+<p type='v'>Sed regnantis, erat. Nil belli jure poposcit ; </p>
+<p type='v'>Quaeque dari voluit, voluit sibi passe negari.</p>
+<p type='v'>Immodicas possedit opes, sed plura retentis</p>
+<p type='v'>Intulit ; invasit ferrum ; sed ponere norat.</p>
+<p type='v'>Praetulit arma togae, sed pacem armatus amavit.</p>
+<p type='v'>Juvit sumpta ducem, juvit dimissa potestas.</p>
+<p type='v'>Casta domus, luxuque carens, corruptaque nunquam</p>
+<p type='v'>Fortuna domini. Clarum et venerabile nomen</p>
+<p type='v'>Gentibus, et multum nostrae quod proderat urbi.</p>
+<p type='v'>Olim vera fides, Sylla Marioque receptis,</p>
+<p type='v'>Libertatis obit ; Pompeio rebus adempto</p>
+<p type='v'>Nunc et ficta perit. Non jam regnare pudebit ;</p>
+<p type='v'>Nec color imperii, nec frons erit ulla senatus.</p>
+<p type='v'>O felix, cui summa dies fuit obvia victo,</p>
+<p type='v'>Et cui quaerendos Pharium scelus obtulit enses !</p>
+<p type='v'>Forsitan in soceri potuisses vivere regno.</p>
+<p type='v'>Scire mori, sors prima viris ; sed proxima cogi.</p>
+<p type='v'>Et mihi, si fatis aliena in jura venimus,</p>
+<p type='v'>Da talem, Fortuna, Jubam : non deprecor hosti</p>
+<p type='v'>Servari, dum me servet cervice recisa.</p>
+</preface>
+<preface><head>ICON POMPEII MAGNI</head>
+<p>Velleius Paterculus, lib.II, cap. XXIX</p>
+
+<p>Fuit hic genitus matre Lucilia, stirpis senatoriae, forma excellens, non ea qua flos commendatur aetatis, sed dignitate et constantia, quae in illam conveniens amplitudinem, fortunam quoque ejus ad ultimum vitae comitata est diem : innocentia eximius, sanctitate praecipuus, eloquentia medius ; potentiae, quae honoris causa ad eum deferretur, non ut ab eo occuparetur, cupidissimus ; dux bello peritissimus ; civis in toga (nisi ubi vereretur ne quem haberet parem) modestissimus, amicitiarum tenax, in offensis exorabilis, in reconcilianda gratia fidelissimus, in accipienda satisfactione facillimus, potentia sua nunquam aut raro ad impotentiam usus ; paene omnium votorum expers, nisi numeraretur inter maxima, in civitate libera dominaque gentium, indignari, quam omnes cives jure haberet pares, quemquam aequalem dignitate conspicere.</p>
+</preface>
+
+<preface><head>ICON C. J. CAESARIS</head>
+<p>Velleius Paterculus, lib. II, cap. XLI</p>
+
+<p>Hic, nobilissima Juliorum genitus familia, et, quod inter omnes antiquissimos constabat, ab Anchise ac Venere deducens genus, forma omnium civium excellentissimus, vigore animi acerrimus, munificentia effusissimus, animo super humanam et naturam et fidem evectus, magnitudine cogitationum, celeritate bellandi, patientia periculorum. Magno illi Alexandro, sed sobrio, neque iracundo, simillimus ; qui denique semper et somno et cibo in vitam, non in voluptatem uteretur.</p>
+		</preface>
+		<preface><head>EXAMEN</head>
+
+
+<p>À bien considérer cette pièce, je ne crois pas qu'il y en ait sur le théâtre où l'histoire soit plus conservée et plus falsifiée tout ensemble. Elle est si connue, que je n'ai osé en changer les événements ; mais il s'y en trouvera peu qui soient arrivés comme je les fais arriver. Je n'y ai ajouté que ce qui regarde Cornélie, qui semble s'y offrir d'elle-même, puisque, dans la vérité historique, elle était dans le même vaisseau que son mari lorsqu'il aborda en Egypte, qu'elle le vit descendre dans la barque, où il fut assassiné à ses yeux par Septime, et qu'elle fut poursuivie sur mer par les ordres de Ptolomée. C'est ce qui m'a donné occasion de feindre qu'on l'atteignit, et qu'elle fut ramenée devant César, bien que l'histoire n'en parle point. La diversité des lieux où les choses se sont passées, et la longueur du temps qu'elles ont consumé dans la vérité historique, m'ont réduit à cette falsification pour les ramener dans l'unité de jour et de lieu. Pompée fut massacré devant les murs de Pélusium, qu'on appelle aujourd'hui Damiette, et César prit terre à Alexandrie. Je n'ai nommé ni l'une ni l'autre ville, de peur que le nom de l'une n'arrêtât l'imagination de l'auditeur, et ne lui fît remarquer malgré lui la fausseté de ce qui s'est passé ailleurs. Le lieu particulier est, comme dans Polyeucte, un grand vestibule commun à tous les appartements du palais royal ; et cette unité n'a rien que de vraisemblable, pourvu qu'on se détache de la vérité historique. Le premier, le troisième et le quatrième acte y ont leur justesse manifeste ; il y peut avoir quelque difficulté pour le second et le cinquième, dont Cléopatre ouvre l'un, et Cornélie l'autre. Elles sembleraient toutes deux avoir plus de raison de parler dans leur appartement ; mais l'impatience de la curiosité féminine les en peut faire sortir : l'une pour apprendre plus tôt les nouvelles de la mort de Pompée, ou par Achorée, qu'elle a envoyé en être témoin, ou par le premier qui entrera dans ce vestibule ; et l'autre, pour en savoir du combat de César et des Romains contre Ptolomée et les Egyptiens, pour empêcher que ce héros n'en aille donner à Cléopatre avant qu'à elle, et pour obtenir de lui d'autant plus tôt la permission de partir. En quoi on peut remarquer que comme elle sait qu'il est amoureux de cette reine, et qu'elle peut douter qu'au retour de son combat, les trouvant ensemble, il ne lui fasse le premier compliment, le soin qu'elle a de conserver la dignité romaine lui fait prendre la parole la première, et obliger par là César à lui répondre avant qu'il puisse dire rien à l'autre. Pour le temps, il m'a fallu réduire en soulèyement tumultuaire une guerre qui n'a pu durer guère moins d'un an, puisque Plutarque rapporte qu'incontinent après que César fut parti d'Alexandrie, Cléopatre accoucha de Césarion. Quand Pompée se présenta pour entrer en Egypte, cette princesse et le Roi son frère avaient chacun leur armée prête à en venir aux mains l'une contre l'autre, et n'avaient garde ainsi de loger dans le même palais. César, dans ses Commentaires, ne parle point de ses amours avec elle, ni que la tête de Pompée lui fut présentée quand il arriva : c'est Plutarque et Lucain qui nous apprennent l'un et l'autre ; mais ils ne lui font présenter cette tête que par un des ministres du Roi, nommé Théodote, et non pas par le Roi même, comme je l'ai fait.</p>
+
+<p>Il y a quelque chose d'extraordinaire dans le titre de ce poème, qui porte le nom d'un héros qui n'y parle point ; mais il ne laisse pas d'en être, en quelque sorte, le principal acteur, puisque sa mort est la cause unique de tout ce qui s'y passe. J'ai justifié ailleurs l'unité d'action qui s'y rencontre, par cette raison que les événements y ont une telle dépendance l'un de l'autre, que la tragédie n'aurait pas été complète, si je ne l'eusse poussée jusqu'au terme où je la fais finir. C'est à ce dessein que dès le premier acte, je fais connâître la venue de César, à qui la cour d'Egypte immole Pompée pour gagner les bonnes grâces du victorieux ; et ainsi il m'a fallu nécessairement faire voir quelle réception il ferait à leur lâche et cruelle politique. J'ai avancé l'âge de Ptolomée, afin qu'il pût agir, et que, portant le titre de roi, il tâchât d'en soutenir le caractère. Bien que les historiens et le poète Lucain l'appellent communément rex puer, «le roi enfant», il ne l'était pas à tel point qu'il ne fût en état d'épouser sa soeur Cléopatre, comme l'avait ordonné son père. Hirtius dit qu'il était puer jam adulta aetate ; et Lucain appelle Cléopatre incestueuse, dans ce vers qu'il adresse à ce roi par apostrophe :</p>
+
+<p type='v'>Incestae sceptris cessure sorori ;</p>
+
+<p>soit qu'elle eût déjà contracté ce mariage incestueux, soit à cause qu'après la guerre d'Alexandrie et la mort de Ptolomée, César la fit épouser à son jeune frère, qu'il rétablit dans le trône : d'où l'on peut tirer une conséquence infaillible, que si le plus jeune des deux frères était en âge de se marier quand César partit d'Egypte, l'aîné en était capable quand il y arriva, puisqu'il n'y tarda pas plus d'un an.</p>
+
+<p>Le caractère de Cléopatre garde une ressemblance ennoblie par ce qu'on y peut imaginer de plus illustre. Je ne la fais amoureuse que par ambition, et en sorte qu'elle semble n'avoir point d'amour qu'en tant qu'il peut servir à sa grandeur. Quoique la réputation qu'elle a laissée la fasse passer pour une femme lascive et abandonnée à ses plaisirs, et que Lucain, peut-être en haine de César, la nomme en quelque endroit meretrix regina, et fasse dire ailleurs à l'eunuque Photin, qui gouvernait sous le nom de son frère Ptolomée :</p>
+
+<p type='v'>Quem non e nobis credit Cleopatra nocentem,</p>
+<p type='v'>A quo casta fuit ?</p>
+
+<p>Je trouve qu'à bien examiner l'histoire, elle n'avait que de l'ambition sans amour, et que par politique elle se servait des avantages de sa beauté pour affermir sa fortune. Cela paraît visible, en ce que les historiens ne marquent point qu'elle se soit donnée qu'aux deux premiers hommes du monde, César et Antoine ; et qu'après la déroute de ce dernier, elle n'épargna aucun artifice pour engager Auguste dans la même passion qu'ils avaient eue pour elle, et fit voir par là qu'elle ne s'était attachée qu'à la haute puissance d'Antoine, et non pas à sa personne.</p>
+
+<p>Pour le style, il est plus élevé en ce poème qu'en aucun des miens, et ce sont, sans contredit, les vers les plus pompeux que j'aie faits. La gloire n'en est pas toute à moi : j'ai traduit de Lucain tout ce que j'y ai trouvé de propre à mon sujet ; et comme je n'ai point fait de scrupule d'enrichir notre langue du pillage que j'ai pu faire chez lui, j'ai tâché, pour le reste, à entrer si bien dans sa manière de former ses pensées et de s'expliquer, que ce qu'il m'a fallu y joindre du mien sentît son génie, et ne fût pas indigne d'être pris pour un larcin que je lui eusse fait. J'ai parlé, en l'examen de Polyeucte, de ce que je trouve à dire en la confidence que fait Cléopatre à Charmion au second acte ; il ne me reste qu'un mot touchant les narrations d'Achorée, qui ont toujours passé pour fort belles : en quoi je ne veux pas aller contre le jugement du public, mais seulement faire remarquer de nouveau que celui qui les fait et les personnes qui les écoutent ont l'esprit assez tranquille pour avoir toute la patience qu'il y faut donner. Celle du troisième acte, qui est à mon gré la plus magnifique, a été accusée de n'être pas reçue par une personne digne de la recevoir ; mais bien que Charmion qui l'écoute ne soit qu'une domestique de Cléopatre, qu'on peut toutefois prendre pour sa dame d'honneur, étant envoyée exprès par cette reine pour l'écouter, elle tient lieu de cette reine même, qui cependant montre un orgueil digne d'elle, d'attendre la visite de César dans sa chambre sans aller au-devant de lui. D'ailleurs Cléopatre eût rompu tout le reste de ce troisième acte, si elle s'y fût montrée ; et il m'a fallu la cacher par adresse de théâtre, et trouver pour cela dans l'action un prétexte qui fût glorieux pour elle, et qui ne laissât point paraître le secret de l'art qui m'obligeait à l'empêcher de se produire.</p>
+ 	</preface>
+		<castList>
+			<head>ACTEURS</head>
+			<castItem><role id="CESAR" civil='M'>JULES CÉSAR</role></castItem>
+			<castItem><role id="ANTOINE" civil='M'>MARC ANTOINE</role></castItem>
+			<castItem><role id="CORNELIE" civil='F'>CORNÉLIE</role>, Femme de Pompée.</castItem>
+			<castItem><role id="PTOLEMEE" civil='M'>PTOLÉMÉE</role>, roi d'Égypte.</castItem>
+			<castItem><role id="CLEOPATRE" civil='F'>CLÉOPATRE</role>, soeur de Ptolomée.</castItem>
+			<castItem><role id="PHOTIN" civil='M'>PHOTIN</role>, chef du conseil d'Égypte.</castItem>
+			<castItem><role id="ACHILLAS" civil='M'>ACHILLAS</role>, lieutenant général des armées du roi d'Égypte.</castItem>
+			<castItem><role id="SEPTIME" civil='M'>SEPTIME</role>, tribun romain, à la solde du roi d'Égypte.</castItem>
+			<castItem><role id="CHARMION" civil='F'>CHARMION</role>, dame d'honneur de Cléopâtre.</castItem>
+			<castItem><role id="ACHOREE" civil='M'>ACHORÉE</role>, écuyer de Cléopâtre.</castItem>
+			<castItem><role id="PHILIPPE" civil='M'>PHILIPPE</role>, affranchi de Pompée.</castItem>
+			<castItem><role id="ROMAINS" civil='G'>Troupe de romains</role>.</castItem>
+			<castItem><role id="EGYPTIENS" civil='G'>Troupe d'Égyptiens</role>.</castItem>
+		</castList>
+		<set location='Alexandrie' country='Egypte' periode='Ier avant JC'>La scène est à Alexandrie, dans le palais de Ptolomée.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Ptolomée, Photin, Ahcillas, Septime.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1">Le destin se déclare, et nous venons d'entendre</l>
+	<l id="2">Ce qu'il a résolu du beau-père et du gendre.</l>
+	<l id="3">Quand les dieux étonnés semblaient se partager,</l>
+	<l id="4">Pharsale a décidé ce qu'ils n'osaient juger.</l>
+	<l id="5">Ses fleuves teints de sang, et rendus plus rapides</l>
+	<l id="6">Par le débordement de tant de parricides,</l>
+	<l id="7">Cet horrible débris d'aigles, d'armes, de chars,</l>
+	<l id="8">Sur ses champs empestés confusément épars,</l>
+	<l id="9">Ces montagnes de morts privés d'honneurs suprêmes,</l>
+	<l id="10">Que la nature force à se venger eux-mêmes,</l>
+	<l id="11">Et dont les troncs pourris exhalent dans les vents</l>
+	<l id="12">De quoi faire la guerre au reste des vivants,</l>
+	<l id="13">Sont les titres affreux dont le droit de l'épée,</l>
+	<l id="14">Justifiant César, a condamné Pompée.</l>
+	<l id="15">Ce déplorable chef du parti le meilleur,</l>
+	<l id="16">Que sa fortune lasse abandonne au malheur,</l>
+	<l id="17">Devient un grand exemple, et laisse à la mémoire</l>
+	<l id="18">Des changements du sort une éclatante histoire.</l>
+	<l id="19">Il fuit, lui qui, toujours triomphant et vainqueur,</l>
+	<l id="20">Vit ses prospérités égaler son grand coeur ;</l>
+	<l id="21">Il fuit, et dans nos ports, dans nos murs, dans nos villes ;</l>
+	<l id="22">Et contre son beau-père ayant besoin d'asiles,</l>
+	<l id="23">Sa déroute orgueilleuse en cherche aux mêmes lieux</l>
+	<l id="24">Où contre les Titans en trouvèrent les dieux :</l>
+	<l id="25">Il croit que ce climat, en dépit de la guerre,</l>
+	<l id="26">Ayant sauvé le ciel, sauvera bien la terre,</l>
+	<l id="27">Et dans son désespoir à la fin se mêlant,</l>
+	<l id="28">Pourra prêter l'épaule au monde chancelant.</l>
+	<l id="29">Oui, Pompée avec lui porte le sort du monde,</l>
+	<l id="30">Et veut que notre Égypte, en miracles féconde,</l>
+	<l id="31">Serve à sa liberté de sépulcre ou d'appui,</l>
+	<l id="32">Et relève sa chute, ou trébuche sous lui.</l>
+	<l id="33">C'est de quoi, mes amis, nous avons à résoudre.</l>
+	<l id="34">Il apporte en ces lieux les palmes ou la foudre :</l>
+	<l id="35">S'il couronna le père, il hasarde le fils ;</l>
+	<l id="36">Et nous l'ayant donnée, il expose Memphis.</l>
+	<l id="37">Il faut le recevoir, ou hâter son supplice,</l>
+	<l id="38">Le suivre, ou le pousser dedans le précipice.</l>
+	<l id="39">L'un me semble peu sûr, l'autre peu généreux,</l>
+	<l id="40">Et je crains d'être injuste et d'être malheureux.</l>
+	<l id="41">Quoi que je fasse enfin, la fortune ennemie</l>
+	<l id="42">M'offre bien des périls, ou beaucoup d'infamie :</l>
+	<l id="43">C'est à moi de choisir, c'est à vous d'aviser</l>
+	<l id="44">À quel choix vos conseils doivent me disposer.</l>
+	<l id="45">Il s'agit de Pompée, et nous aurons la gloire</l>
+	<l id="46">D'achever de César ou troubler la victoire ;</l>
+	<l id="47">Et je puis dire enfin que jamais potentat</l>
+	<l id="48">N'eut à délibérer d'un si grand coup d'état.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="49">Seigneur, quand par le fer les choses sont vidées,</l>
+	<l id="50">La justice et le droit sont de vaines idées ;</l>
+	<l id="51">Et qui veut être juste en de telles saisons,</l>
+	<l id="52">Balance le pouvoir, et non pas les raisons.</l>
+	<l id="53">Voyez donc votre force, et regardez Pompée,</l>
+	<l id="54">Sa fortune abattue et sa valeur trompée.</l>
+	<l id="55">César n'est pas le seul qu'il fuie en cet état :</l>
+	<l id="56">Il fuit et le reproche et les yeux du sénat,</l>
+	<l id="57">Dont plus de la moitié piteusement étale</l>
+	<l id="58">Une indigne curée aux vautours de Pharsale ;</l>
+	<l id="59">Il fuit Rome perdue, il fuit tous les Romains,</l>
+	<l id="60">À qui par sa défaite il met les fers aux mains ;</l>
+	<l id="61">Il fuit le désespoir des peuples et des princes</l>
+	<l id="62">Qui vengeraient sur lui le sang de leurs provinces,</l>
+	<l id="63">Leurs états et d'argent et d'hommes épuisés,</l>
+	<l id="64">Leurs trônes mis en cendre, et leurs sceptres brisés :</l>
+	<l id="65">Auteur des maux de tous, il est à tous en butte,</l>
+	<l id="66">Et fuit le monde entier écrasé sous sa chute.</l>
+	<l id="67">Le défendrez-vous seul contre tant d'ennemis ?</l>
+	<l id="68">L'espoir de son salut en lui seul était mis ;</l>
+	<l id="69">Lui seul pouvait pour soi : cédez alors qu'il tombe.</l>
+	<l id="70">Soutiendrez-vous un faix sous qui Rome succombe,</l>
+	<l id="71">Sous qui tout l'univers se trouve foudroyé,</l>
+	<l id="72">Sous qui le grand Pompée a lui-même ployé ?</l>
+	<l id="73">Quand on veut soutenir ceux que le sort accable,</l>
+	<l id="74">À force d'être juste on est souvent coupable ;</l>
+	<l id="75">Et la fidélité qu'on garde imprudemment,</l>
+	<l id="76">Après un peu d'éclat traîne un long châtiment,</l>
+	<l id="77">Trouve un noble revers, dont les coups invincibles,</l>
+	<l id="78">Pour être glorieux, ne sont pas moins sensibles.</l>
+	<l id="79">Seigneur, n'attirez point le tonnerre en ces lieux :</l>
+	<l id="80">Rangez-vous du parti des destins et des dieux,</l>
+	<l id="81">Et sans les accuser d'injustice ou d'outrage,</l>
+	<l id="82">Puisqu'ils font les heureux, adorez leur ouvrage ;</l>
+	<l id="83">Quels que soient leurs décrets, déclarez-vous pour eux,</l>
+	<l id="84">Et pour leur obéir, perdez le malheureux.</l>
+	<l id="85">Pressé de toutes parts des colères célestes,</l>
+	<l id="86">Il en vient dessus vous faire fondre les restes ;</l>
+	<l id="87">Et sa tête, qu'à peine il a pu dérober,</l>
+	<l id="88">Toute prête de choir, cherche avec qui tomber.</l>
+	<l id="89">Sa retraite chez vous en effet n'est qu'un crime :</l>
+	<l id="90">Elle marque sa haine, et non pas son estime ;</l>
+	<l id="91">Il ne vient que vous perdre en venant prendre port ;</l>
+	<l id="92">Et vous pouvez douter s'il est digne de mort !</l>
+	<l id="93">Il devait mieux remplir nos voeux et notre attente,</l>
+	<l id="94">Faire voir sur ses nefs la victoire flottante :</l>
+	<l id="95">Il n'eût ici trouvé que joie et que festins ;</l>
+	<l id="96">Mais puisqu'il est vaincu, qu'il s'en prenne aux destins.</l>
+	<l id="97">J'en veux à sa disgrâce, et non à sa personne :</l>
+	<l id="98">J'exécute à regret ce que le ciel ordonne ;</l>
+	<l id="99">Et du même poignard pour César destiné,</l>
+	<l id="100">Je perce en soupirant son coeur infortuné.</l>
+	<l id="101">Vous ne pouvez enfin qu'aux dépens de sa tête</l>
+	<l id="102">Mettre à l'abri la vôtre et parer la tempête.</l>
+	<l id="103">Laissez nommer sa mort un injuste attentat :</l>
+	<l id="104">La justice n'est pas une vertu d'état.</l>
+	<l id="105">Le choix des actions ou mauvaises ou bonnes</l>
+	<l id="106">Ne fait qu'anéantir la force des couronnes ;</l>
+	<l id="107">Le droit des rois consiste à ne rien épargner :</l>
+	<l id="108">La timide équité détruit l'art de régner.</l>
+	<l id="109">Quand on craint d'être injuste, on a toujours à craindre ;</l>
+	<l id="110">Et qui veut tout pouvoir doit oser tout enfreindre,</l>
+	<l id="111">Fuir comme un déshonneur la vertu qui le perd,</l>
+	<l id="112">Et voler sans scrupule au crime qui lui sert.</l>
+	<l id="113">C'est là mon sentiment. Achillas et Septime</l>
+	<l id="114">S'attacheront peut-être à quelque autre maxime :</l>
+	<l id="115">Chacun a son avis ; mais quel que soit le leur.</l>
+	<l id="116">Qui punit le vaincu ne craint point le vainqueur.</l>
+</sp>
+<sp who="ACHILLAS"><speaker>ACHILLAS</speaker>
+	<l id="117">Seigneur, Photin dit vrai ; mais quoique de Pompée</l>
+	<l id="118">Je voie et la fortune et la valeur trompée,</l>
+	<l id="119">Je regarde son sang comme un sang précieux,</l>
+	<l id="120">Qu'au milieu de Pharsale ont respecté les dieux.</l>
+	<l id="121">Non qu'en un coup d'état je n'approuve le crime ;</l>
+	<l id="122">Mais s'il n'est nécessaire, il n'est point légitime :</l>
+	<l id="123">Et quel besoin ici d'une extrême rigueur ?</l>
+	<l id="124">Qui n'est point au vaincu ne craint point le vainqueur.</l>
+	<l id="125">Neutre jusqu'à présent, vous pouvez l'être encore :</l>
+	<l id="126">Vous pouvez adorer César, si l'on l'adore ;</l>
+	<l id="127">Mais quoique vos encens le traitent d'immortel,</l>
+	<l id="128">Cette grande victime est trop pour son autel ;</l>
+	<l id="129">Et sa tête immolée au dieu de la victoire</l>
+	<l id="130">Imprime à votre nom une tache trop noire :</l>
+	<l id="131">Ne le pas secourir suffit sans l'opprimer ;</l>
+	<l id="132">En usant de la sorte, on ne vous peut blâmer.</l>
+	<l id="133">Vous lui devez beaucoup : par lui Rome animée</l>
+	<l id="134">A fait rendre le sceptre au feu roi Ptolomée ;</l>
+	<l id="135">Mais la reconnaissance et l'hospitalité</l>
+	<l id="136">Sur les âmes des rois n'ont qu'un droit limité.</l>
+	<l id="137">Quoi que doive un monarque, et dût-il sa couronne,</l>
+	<l id="138">Il doit à ses sujets encore plus qu'à personne,</l>
+	<l id="139">Et cesse de devoir quand la dette est d'un rang</l>
+	<l id="140">À ne point s'acquitter qu'aux dépens de leur sang.</l>
+	<l id="141">S'il est juste d'ailleurs que tout se considère,</l>
+	<l id="142">Que hasardait Pompée en servant votre père ?</l>
+	<l id="143">Il se voulut par là faire voir tout-puissant,</l>
+	<l id="144">Et vit croître sa gloire en le rétablissant.</l>
+	<l id="145">Il le servit enfin, mais ce fut de la langue.</l>
+	<l id="146">La bourse de César fit plus que sa harangue :</l>
+	<l id="147">Sans ses mille talents, Pompée et ses discours</l>
+	<l id="148">Pour rentrer en Égypte étaient un froid secours.</l>
+	<l id="149">Qu'il ne vante donc plus ses mérites frivoles :</l>
+	<l id="150">Les effets de César valent bien ses paroles ;</l>
+	<l id="151">Et si c'est un bienfait qu'il faut rendre aujourd'hui,</l>
+	<l id="152">Comme il parla pour vous, vous parlerez pour lui.</l>
+	<l id="153">Ainsi vous le pouvez et devez reconnaître.</l>
+	<l id="154">Le recevoir chez vous, c'est recevoir un maître,</l>
+	<l id="155">Qui, tout vaincu qu'il est, bravant le nom de roi,</l>
+	<l id="156">Dans vos propres états vous donnerait la loi.</l>
+	<l id="157">Fermez-lui donc vos ports, mais épargnez sa tête.</l>
+	<l id="158">S'il le faut toutefois, ma main est toute prête :</l>
+	<l id="159">J'obéis avec joie, et je serais jaloux</l>
+	<l id="160">Qu'autre bras que le mien portât les premiers coups.</l>
+</sp>
+<sp who="SEPTIME"><speaker>SEPTIME</speaker>
+	<l id="161">Seigneur, je suis romain : je connais l'un et l'autre.</l>
+	<l id="162">Pompée a besoin d'aide, il vient chercher la vôtre ;</l>
+	<l id="163">Vous pouvez, comme maître absolu de son sort,</l>
+	<l id="164">Le servir, le chasser, le livrer vif ou mort.</l>
+	<l id="165">Des quatre le premier vous serait trop funeste ;</l>
+	<l id="166">Souffrez donc qu'en deux mots j'examine le reste.</l>
+	<l id="167">Le chasser, c'est vous faire un puissant ennemi,</l>
+	<l id="168">Sans obliger par là le vainqueur qu'à demi,</l>
+	<l id="169">Puisque c'est lui laisser et sur mer et sur terre</l>
+	<l id="170">La suite d'une longue et difficile guerre,</l>
+	<l id="171">Dont peut-être tous deux également lassés</l>
+	<l id="172">Se vengeraient sur vous de tous les maux passés.</l>
+	<l id="173">Le livrer à César n'est que la même chose :</l>
+	<l id="174">Il lui pardonnera, s'il faut qu'il en dispose,</l>
+	<l id="175">Et s'armant à regret de générosité,</l>
+	<l id="176">D'une fausse clémence il fera vanité :</l>
+	<l id="177">Heureux de l'asservir en lui donnant la vie,</l>
+	<l id="178">Et de plaire par là même à Rome asservie !</l>
+	<l id="179">Cependant que forcé d'épargner son rival,</l>
+	<l id="180">Aussi bien que Pompée il vous voudra du mal.</l>
+	<l id="181">Il faut le délivrer du péril et du crime,</l>
+	<l id="182">Assurer sa puissance, et sauver son estime,</l>
+	<l id="183">Et du parti contraire en ce grand chef détruit,</l>
+	<l id="184">Prendre sur vous le crime, et lui laisser le fruit.</l>
+	<l id="185">C'est là mon sentiment, ce doit être le vôtre :</l>
+	<l id="186">Par là vous gagnez l'un, et ne craignez plus l'autre ;</l>
+	<l id="187">Mais suivant d'Achillas le conseil hasardeux,</l>
+	<l id="188">Vous n'en gagnez aucun, et les perdez tous deux.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="189">N'examinons donc plus la justice des causes,</l>
+	<l id="190">Et cédons au torrent qui roule toutes choses.</l>
+	<l id="191">Je passe au plus de voix, et de mon sentiment</l>
+	<l id="192">Je veux bien avoir part à ce grand changement.</l>
+	<l id="193">Assez et trop longtemps l'arrogance de Rome</l>
+	<l id="194">A cru qu'être Romain c'était être plus qu'homme.</l>
+	<l id="195">Abattons sa superbe avec sa liberté ;</l>
+	<l id="196">Dans le sang de Pompée éteignons sa fierté ;</l>
+	<l id="197">Tranchons l'unique espoir où tant d'orgueil se fonde,</l>
+	<l id="198">Et donnons un tyran à ces tyrans du monde :</l>
+	<l id="199">Secondons le destin qui les veut mettre aux fers,</l>
+	<l id="200">Et prêtons-lui la main pour venger l'univers.</l>
+	<l id="201">Rome, tu serviras ; et ces rois que tu braves,</l>
+	<l id="202">Et que ton insolence ose traiter d'esclaves,</l>
+	<l id="203">Adoreront César avec moins de douleur,</l>
+	<l id="204">Puisqu'il sera ton maître aussi bien que le leur.</l>
+	<l id="205">Allez donc, Achillas, allez avec Septime</l>
+	<l id="206">Nous immortaliser par cet illustre crime.</l>
+	<l id="207">Qu'il plaise au ciel ou non, laissez-m'en le souci.</l>
+	<l id="208">Je crois qu'il veut sa mort, puisqu'il l'amène ici.</l>
+</sp>
+<sp who="ACHILLAS"><speaker>ACHILLAS</speaker>
+	<l id="209">Seigneur, je crois tout juste alors qu'un roi l'ordonne.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="210">Allez, et hâtez-vous d'assurer ma couronne,</l>
+	<l id="211">Et vous ressouvenez que je mets en vos mains</l>
+	<l id="212">Le destin de l'Égypte et celui des Romains.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCENE II. Ptolomée, Photin.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="213">Photin, ou je me trompe, ou ma soeur est déçue :</l>
+	<l id="214">De l'abord de Pompée elle espère autre issue.</l>
+	<l id="215">Sachant que de mon père il a le testament,</l>
+	<l id="216">Elle ne doute point de son couronnement :</l>
+	<l id="217">Elle se croit déjà souveraine maîtresse</l>
+	<l id="218">D'un sceptre partagé que sa bonté lui laisse ;</l>
+	<l id="219">Et se promettant tout de leur vieille amitié,</l>
+	<l id="220">De mon trône en son âme elle prend la moitié,</l>
+	<l id="221">Où de son vain orgueil les cendres rallumées</l>
+	<l id="222">Poussent déjà dans l'air de nouvelles fumées.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="223">Seigneur, c'est un motif que je ne disais pas,</l>
+	<l id="224">Qui devait de Pompée avancer le trépas.</l>
+	<l id="225">Sans doute il jugerait de la soeur et du frère</l>
+	<l id="226">Suivant le testament du feu roi votre père,</l>
+	<l id="227">Son hôte et son ami, qui l'en daigna saisir :</l>
+	<l id="228">Jugez après cela de votre déplaisir.</l>
+	<l id="229">Ce n'est pas que je veuille, en vous parlant contre elle,</l>
+	<l id="230">Rompre les sacrés noeuds d'une amour fraternelle ;</l>
+	<l id="231">Du trône et non du coeur je la veux éloigner,</l>
+	<l id="232">Car c'est ne régner pas qu'être deux à régner ;</l>
+	<l id="233">Un roi qui s'y résout est mauvais politique :</l>
+	<l id="234">Il détruit son pouvoir quand il le communique ;</l>
+	<l id="235">Et les raisons d'état... Mais, seigneur, la voici.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Ptolomée, Cléopâtre, Photin.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="236">Seigneur, Pompée arrive, et vous êtes ici !</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="237">J'attends dans mon palais ce guerrier magnanime,</l>
+	<l id="238">Et lui viens d'envoyer Achillas et Septime.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="239">Quoi ? Septime à Pompée, à Pompée Achillas !</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="240">Si ce n'est assez d'eux, allez, suivez leurs pas.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="241">Donc pour le recevoir c'est trop que de vous-même ?</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="242">Ma soeur, je dois garder l'honneur du diadème.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="243">Si vous en portez un, ne vous en souvenez</l>
+	<l id="244">Que pour baiser la main de qui vous le tenez,</l>
+	<l id="245">Que pour en faire hommage aux pieds d'un si grand homme.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="246">Au sortir de Pharsale est-ce ainsi qu'on le nomme ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="247">Fût-il dans son malheur de tous abandonné,</l>
+	<l id="248">Il est toujours Pompée, et vous a couronné.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="249">Il n'en est plus que l'ombre, et couronna mon père,</l>
+	<l id="250">Dont l'ombre et non pas moi lui doit ce qu'il espère.</l>
+	<l id="251">Il peut aller, s'il veut, dessus son monument</l>
+	<l id="252">Recevoir ses devoirs et son remerciement.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="253">Après un tel bienfait, c'est ainsi qu'on le traite !</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="254">Je m'en souviens, ma soeur, et je vois sa défaite.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="255">Vous la voyez de vrai, mais d'un oeil de mépris.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="256">Le temps de chaque chose ordonne et fait le prix.</l>
+	<l id="257">Vous qui l'estimez tant, allez lui rendre hommage ;</l>
+	<l id="258">Mais songez qu'au port même il peut faire naufrage.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="259">Il peut faire naufrage, et même dans le port !</l>
+	<l id="260">Quoi ? Vous auriez osé lui préparer la mort !</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="261">J'ai fait ce que les dieux m'ont inspiré de faire,</l>
+	<l id="262">Et que pour mon état j'ai jugé nécessaire.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="263">Je ne le vois que trop, Photin et ses pareils</l>
+	<l id="264">Vous ont empoisonné de leurs lâches conseils :</l>
+	<l id="265">Ces âmes que le ciel ne forma que de boue...</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="266">Ce sont de nos conseils, oui, madame, et j'avoue...</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="267">Photin, je parle au roi ; vous répondrez pour tous</l>
+	<l id="268">Quand je m'abaisserai jusqu'à parler à vous.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE, à Photin.</speaker>
+	<l id="269">Il faut un peu souffrir de cette humeur hautaine.</l>
+	<l id="270">Je sais votre innocence, et je connais sa haine ;</l>
+	<l id="271">Après tout, c'est ma soeur, oyez sans repartir.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="272">Ah ! S'il est encore temps de vous en repentir,</l>
+	<l id="273">Affranchissez-vous d'eux et de leur tyrannie ;</l>
+	<l id="274">Rappelez la vertu par leurs conseils bannie :</l>
+	<l id="275">Cette haute vertu dont le ciel et le sang</l>
+	<l id="276">Enflent toujours les coeurs de ceux de notre rang.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="277">Quoi ? D'un frivole espoir déjà préoccupée,</l>
+	<l id="278">Vous me parlez en reine en parlant de Pompée ;</l>
+	<l id="279">Et d'un faux zèle ainsi votre orgueil revêtu</l>
+	<l id="280">Fait agir l'intérêt sous le nom de vertu !</l>
+	<l id="281">Confessez-le, ma soeur, vous sauriez vous en taire,</l>
+	<l id="282">N'était le testament du feu roi notre père :</l>
+	<l id="283" part="i">Vous savez qu'il le garde.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="283" part="f">Et vous saurez aussi</l>
+	<l id="284">Que la seule vertu me fait parler ainsi,</l>
+	<l id="285">Et que si l'intérêt m'avait préoccupée,</l>
+	<l id="286">J'agirais pour César, et non pas pour Pompée.</l>
+	<l id="287">Apprenez un secret que je voulais cacher,</l>
+	<l id="288">Et cessez désormais de me rien reprocher.</l>
+	<l id="289">Quand ce peuple insolent qu'enferme Alexandrie</l>
+	<l id="290">Fit quitter au feu roi son trône et sa patrie,</l>
+	<l id="291">Et que jusque dans Rome il alla du sénat</l>
+	<l id="292">Implorer la pitié contre un tel attentat,</l>
+	<l id="293">Il nous mena tous deux pour toucher son courage :</l>
+	<l id="294">Vous, assez jeune encore ; moi, déjà dans un âge</l>
+	<l id="295">Où ce peu de beauté que m'ont donné les cieux</l>
+	<l id="296">D'un assez vif éclat faisait briller mes yeux.</l>
+	<l id="297">César en fut épris, et du moins j'eus la gloire</l>
+	<l id="298">De le voir hautement donner lieu de le croire ;</l>
+	<l id="299">Mais voyant contre lui le sénat irrité,</l>
+	<l id="300">Il fit agir Pompée et son autorité.</l>
+	<l id="301">Ce dernier nous servit à sa seule prière,</l>
+	<l id="302">Qui de leur amitié fut la preuve dernière :</l>
+	<l id="303">Vous en savez l'effet, et vous en jouissez.</l>
+	<l id="304">Mais pour un tel amant ce ne fut pas assez :</l>
+	<l id="305">Après avoir pour nous employé ce grand homme,</l>
+	<l id="306">Qui nous gagna soudain toutes les voix de Rome,</l>
+	<l id="307">Son amour en voulut seconder les efforts,</l>
+	<l id="308">Et nous ouvrant son coeur, nous ouvrit ses trésors :</l>
+	<l id="309">Nous eûmes de ses feux, encore en leur naissance,</l>
+	<l id="310">Et les nerfs de la guerre, et ceux de la puissance ;</l>
+	<l id="311">Et les mille talents qui lui sont encore dus</l>
+	<l id="312">Remirent en nos mains tous nos états perdus.</l>
+	<l id="313">Le roi, qui s'en souvint à son heure fatale,</l>
+	<l id="314">Me laissa comme à vous la dignité royale,</l>
+	<l id="315">Et par son testament il vous fit cette loi,</l>
+	<l id="316">Pour me rendre une part de ce qu'il tint de moi.</l>
+	<l id="317">C'est ainsi qu'ignorant d'où vint ce bon office,</l>
+	<l id="318">Vous appelez faveur ce qui n'est que justice,</l>
+	<l id="319">Et l'osez accuser d'une aveugle amitié,</l>
+	<l id="320">Quand du tout qu'il me doit il me rend la moitié.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="321">Certes, ma soeur, le conte est fait avec adresse.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="322">César viendra bientôt, et j'en ai lettre expresse ;</l>
+	<l id="323">Et peut-être aujourd'hui vos yeux seront témoins</l>
+	<l id="324">De ce que votre esprit s'imagine le moins.</l>
+	<l id="325">Ce n'est pas sans sujet que je parlais en reine.</l>
+	<l id="326">Je n'ai reçu de vous que mépris et que haine ;</l>
+	<l id="327">Et de ma part du sceptre indigne ravisseur,</l>
+	<l id="328">Vous m'avez plus traitée en esclave qu'en soeur ;</l>
+	<l id="329">Même, pour éviter des effets plus sinistres,</l>
+	<l id="330">Il m'a fallu flatter vos insolents ministres,</l>
+	<l id="331">Dont j'ai craint jusqu'ici le fer ou le poison.</l>
+	<l id="332">Mais Pompée ou César m'en va faire raison,</l>
+	<l id="333">Et quoi qu'avec Photin Achillas en ordonne,</l>
+	<l id="334">Ou l'une ou l'autre main me rendra ma couronne.</l>
+	<l id="335">Cependant mon orgueil vous laisse à démêler</l>
+	<l id="336">Quel était l'intérêt qui me faisait parler.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Ptolomée, Photin.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="337">Que dites-vous, ami, de cette âme orgueilleuse ?</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="338">Seigneur, cette surprise est pour moi merveilleuse ;</l>
+	<l id="339">Je n'en sais que penser, et mon coeur étonné</l>
+	<l id="340">D'un secret que jamais il n'aurait soupçonné,</l>
+	<l id="341">Inconstant et confus dans son incertitude,</l>
+	<l id="342">Ne se résout à rien qu'avec inquiétude.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="343" part="i">Sauverons-nous Pompée ?</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="343" part="f">Il faudrait faire effort,</l>
+	<l id="344">Si nous l'avions sauvé, pour conclure sa mort.</l>
+	<l id="345">Cléopatre vous hait ; elle est fière, elle est belle ;</l>
+	<l id="346">Et si l'heureux César a de l'amour pour elle,</l>
+	<l id="347">La tête de Pompée est l'unique présent</l>
+	<l id="348">Qui vous fasse contre elle un rempart suffisant.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="349">Ce dangereux esprit a beaucoup d'artifice.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="350">Son artifice est peu contre un si grand service.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="351">Mais si, tout grand qu'il est, il cède à ses appas ?</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="352">Il la faudra flatter ; mais ne m'en croyez pas,</l>
+	<l id="353">Et pour mieux empêcher qu'elle ne vous opprime,</l>
+	<l id="354">Consultez-en encore Achillas et Septime.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="355">Allons donc les voir faire, et montons à la tour ;</l>
+	<l id="356">Et nous en résoudrons ensemble à leur retour.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cléopâtre, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="357">Je l'aime ; mais l'éclat d'une si belle flamme,</l>
+	<l id="358">Quelque brillant qu'il soit, n'éblouit point mon âme,</l>
+	<l id="359">Et toujours ma vertu retrace dans mon coeur</l>
+	<l id="360">Ce qu'il doit au vaincu, brûlant pour le vainqueur.</l>
+	<l id="361">Aussi qui l'ose aimer porte une âme trop haute</l>
+	<l id="362">Pour souffrir seulement le soupçon d'une faute ;</l>
+	<l id="363">Et je le traiterais avec indignité,</l>
+	<l id="364">Si j'aspirais à lui par une lâcheté.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="365">Quoi ? Vous aimez César, et si vous étiez crue,</l>
+	<l id="366">L'Égypte pour Pompée armerait à sa vue,</l>
+	<l id="367">En prendrait la défense, et par un prompt secours</l>
+	<l id="368">Du destin de Pharsale arrêterait le cours !</l>
+	<l id="369">L'amour certes sur vous a bien peu de puissance.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="370">Les princes ont cela de leur haute naissance :</l>
+	<l id="371">Leur âme dans leur sang prend des impressions</l>
+	<l id="372">Qui dessous leur vertu rangent leurs passions.</l>
+	<l id="373">Leur générosité soumet tout à leur gloire :</l>
+	<l id="374">Tout est illustre en eux quand ils daignent se croire ;</l>
+	<l id="375">Et si le peuple y voit quelques dérèglements,</l>
+	<l id="376">C'est quand l'avis d'autrui corrompt leurs sentiments.</l>
+	<l id="377">Ce malheur de Pompée achève la ruine :</l>
+	<l id="378">Le roi l'eût secouru, mais Photin l'assassine ;</l>
+	<l id="379">Il croit cette âme basse, et se montre sans foi ;</l>
+	<l id="380">Mais s'il croyait la sienne, il agirait en roi.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="381">Ainsi donc de César l'amante et l'ennemie...</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="382">Je lui garde ma flamme exempte d'infamie,</l>
+	<l id="383" part="i">Un coeur digne de lui.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="383" part="f">Vous possédez le sien ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="384" part="i">Je crois le posséder.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="384" part="f">Mais le savez-vous bien ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="385">Apprends qu'une princesse aimant sa renommée,</l>
+	<l id="386">Quand elle dit qu'elle aime, est sûre d'être aimée,</l>
+	<l id="387">Et que les plus beaux feux dont son coeur soit épris</l>
+	<l id="388">N'oseraient l'exposer aux hontes d'un mépris.</l>
+	<l id="389">Notre séjour à Rome enflamma son courage :</l>
+	<l id="390">Là j'eus de son amour le premier témoignage,</l>
+	<l id="391">Et depuis jusqu'ici chaque jour ses courriers</l>
+	<l id="392">M'apportent en tribut ses voeux et ses lauriers.</l>
+	<l id="393">Partout, en Italie, aux Gaules, en Espagne,</l>
+	<l id="394">La fortune le suit, et l'amour l'accompagne.</l>
+	<l id="395">Son bras ne dompte point de peuples ni de lieux</l>
+	<l id="396">Dont il ne rende hommage au pouvoir de mes yeux ;</l>
+	<l id="397">Et de la même main dont il quitte l'épée,</l>
+	<l id="398">Fumante encore du sang des amis de Pompée,</l>
+	<l id="399">Il trace des soupirs, et d'un style plaintif</l>
+	<l id="400">Dans son champ de victoire il se dit mon captif.</l>
+	<l id="401">Oui, tout victorieux il m'écrit de Pharsale ;</l>
+	<l id="402">Et si sa diligence à ses feux est égale,</l>
+	<l id="403">Ou plutôt si la mer ne s'oppose à ses feux,</l>
+	<l id="404">L'Égypte le va voir me présenter ses voeux.</l>
+	<l id="405">Il vient, ma Charmion, jusque dans nos murailles,</l>
+	<l id="406">Chercher auprès de moi le prix de ses batailles,</l>
+	<l id="407">M'offrir toute sa gloire, et soumettre à mes lois</l>
+	<l id="408">Ce coeur et cette main qui commandent aux rois ;</l>
+	<l id="409">Et ma rigueur, mêlée aux faveurs de la guerre,</l>
+	<l id="410">Ferait un malheureux du maître de la terre.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="411">J'oserais bien jurer que vos charmants appas</l>
+	<l id="412">Se vantent d'un pouvoir dont ils n'useront pas,</l>
+	<l id="413">Et que le grand César n'a rien qui l'importune,</l>
+	<l id="414">Si vos seules rigueurs ont droit sur sa fortune.</l>
+	<l id="415">Mais quelle est votre attente, et que prétendez-vous,</l>
+	<l id="416">Puisque d'une autre femme il est déjà l'époux,</l>
+	<l id="417">Et qu'avec Calphurnie un paisible hyménée</l>
+	<l id="418">Par des liens sacrés tient son âme enchaînée ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="419">Le divorce, aujourd'hui si commun aux Romains,</l>
+	<l id="420">Peut rendre en ma faveur tous ces obstacles vains :</l>
+	<l id="421">César en sait l'usage et la cérémonie ;</l>
+	<l id="422">Un divorce chez lui fit place à Calphurnie.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="423">Par cette même voie il pourra vous quitter.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="424">Peut-être mon bonheur saura mieux l'arrêter ;</l>
+	<l id="425">Peut-être mon amour aura quelque avantage</l>
+	<l id="426">Qui saura mieux pour moi ménager son courage.</l>
+	<l id="427">Mais laissons au hasard ce qui peut arriver ;</l>
+	<l id="428">Achevons cet hymen, s'il se peut achever,</l>
+	<l id="429">Ne durât-il qu'un jour, ma gloire est sans seconde</l>
+	<l id="430">D'être du moins un jour la maîtresse du monde.</l>
+	<l id="431">J'ai de l'ambition, et soit vice ou vertu,</l>
+	<l id="432">Mon coeur sous son fardeau veut bien être abattu ;</l>
+	<l id="433">J'en aime la chaleur et la nomme sans cesse</l>
+	<l id="434">La seule passion digne d'une princesse.</l>
+	<l id="435">Mais je veux que la gloire anime ses ardeurs,</l>
+	<l id="436">Qu'elle mène sans honte au faîte des grandeurs ;</l>
+	<l id="437">Et je la désavoue alors que sa manie</l>
+	<l id="438">Nous présente le trône avec ignominie.</l>
+	<l id="439">Ne t'étonne donc plus, Charmion, de me voir</l>
+	<l id="440">Défendre encore Pompée et suivre mon devoir.</l>
+	<l id="441">Ne pouvant rien de plus pour sa vertu séduite,</l>
+	<l id="442">Dans mon âme en secret je l'exhorte à la fuite,</l>
+	<l id="443">Et voudrais qu'un orage, écartant ses vaisseaux,</l>
+	<l id="444">Malgré lui l'enlevât aux mains de ses bourreaux.</l>
+	<l id="445">Mais voici de retour le fidèle Achorée,</l>
+	<l id="446">Par qui j'en apprendrai la nouvelle assurée.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléopâtre, Achorée, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="447">En est-ce déjà fait, et nos bords malheureux</l>
+	<l id="448">Sont-ils déjà souillés d'un sang si généreux ?</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="449">Madame, j'ai couru par votre ordre au rivage ;</l>
+	<l id="450">J'ai vu la trahison, j'ai vu toute sa rage ;</l>
+	<l id="451">Du plus grand des mortels j'ai vu trancher le sort :</l>
+	<l id="452">J'ai vu dans son malheur la gloire de sa mort ;</l>
+	<l id="453">Et puisque vous voulez qu'ici je vous raconte</l>
+	<l id="454">La gloire d'une mort qui nous couvre de honte,</l>
+	<l id="455">écoutez, admirez, et plaignez son trépas.</l>
+	<l id="456">Ses trois vaisseaux en rade avaient mis voile bas ;</l>
+	<l id="457">Et voyant dans le port préparer nos galères,</l>
+	<l id="458">Il croyait que le roi, touché de ses misères,</l>
+	<l id="459">Par un beau sentiment d'honneur et de devoir,</l>
+	<l id="460">Avec toute sa cour le venait recevoir ;</l>
+	<l id="461">Mais voyant que ce prince, ingrat à ses mérites,</l>
+	<l id="462">N'envoyait qu'un esquif rempli de satellites,</l>
+	<l id="463">Il soupçonne aussitôt son manquement de foi,</l>
+	<l id="464">Et se laisse surprendre à quelque peu d'effroi ;</l>
+	<l id="465">Enfin, voyant nos bords et notre flotte en armes,</l>
+	<l id="466">Il condamne en son coeur ces indignes alarmes,</l>
+	<l id="467">Et réduit tous les soins d'un si pressant ennui</l>
+	<l id="468">À ne hasarder pas Cornélie avec lui :</l>
+	<l id="469">« N'exposons, lui dit-il, que cette seule tête</l>
+	<l id="470">À la réception que l'Égypte m'apprête ;</l>
+	<l id="471">Et tandis que moi seul j'en courrai le danger,</l>
+	<l id="472">Songe à prendre la fuite afin de me venger.</l>
+	<l id="473">Le roi Juba nous garde une foi plus sincère ;</l>
+	<l id="474">Chez lui tu trouveras et mes fils et ton père ;</l>
+	<l id="475">Mais quand tu les verrais descendre chez Pluton,</l>
+	<l id="476">Ne désespère point, du vivant de Caton. »</l>
+	<l id="477">Tandis que leur amour en cet adieu conteste,</l>
+	<l id="478">Achillas à son bord joint son esquif funeste.</l>
+	<l id="479">Septime se présente, et lui tendant la main,</l>
+	<l id="480">Le salue empereur en langage romain ;</l>
+	<l id="481">Et comme député de ce jeune monarque :</l>
+	<l id="482">« Passez, seigneur, dit-il, passez dans cette barque ;</l>
+	<l id="483">Les sables et les bancs cachés dessous les eaux</l>
+	<l id="484">Rendent l'accès mal sûr à de plus grands vaisseaux. »</l>
+	<l id="485">Ce héros voit la fourbe, et s'en moque dans l'âme :</l>
+	<l id="486">Il reçoit les adieux des siens et de sa femme,</l>
+	<l id="487">Leur défend de le suivre, et s'avance au trépas</l>
+	<l id="488">Avec le même front qu'il donnait les états ;</l>
+	<l id="489">La même majesté sur son visage empreinte</l>
+	<l id="490">Entre ces assassins montre un esprit sans crainte ;</l>
+	<l id="491">Sa vertu toute entière à la mort le conduit.</l>
+	<l id="492">Son affranchi Philippe est le seul qui le suit ;</l>
+	<l id="493">C'est de lui que j'ai su ce que je viens de dire ;</l>
+	<l id="494">Mes yeux ont vu le reste, et mon coeur en soupire,</l>
+	<l id="495">Et croit que César même à de si grands malheurs</l>
+	<l id="496">Ne pourra refuser des soupirs et des pleurs.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="497">N'épargnez pas les miens : achevez, Achorée,</l>
+	<l id="498">L'histoire d'une mort que j'ai déjà pleurée.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="499">On l'amène ; et du port nous le voyons venir,</l>
+	<l id="500">Sans que pas un d'entre eux daigne l'entretenir.</l>
+	<l id="501">Ce mépris lui fait voir ce qu'il en doit attendre.</l>
+	<l id="502">Sitôt qu'on a pris terre, on l'invite à descendre :</l>
+	<l id="503">Il se lève ; et soudain, pour signal, Achillas</l>
+	<l id="504">Derrière ce héros tirant son coutelas,</l>
+	<l id="505">Septime et trois des siens, lâches enfants de Rome,</l>
+	<l id="506">Percent à coups pressés les flancs de ce grand homme,</l>
+	<l id="507">Tandis qu'Achillas même, épouvanté d'horreur,</l>
+	<l id="508">De ces quatre enragés admire la fureur.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="509">Vous qui livrez la terre aux discordes civiles,</l>
+	<l id="510">Si vous vengez sa mort, dieux, épargnez nos villes !</l>
+	<l id="511">N'imputez rien aux lieux, reconnaissez les mains :</l>
+	<l id="512">Le crime de l'Égypte est fait par des Romains.</l>
+	<l id="513">Mais que fait et que dit ce généreux courage ?</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="514">D'un des pans de sa robe il couvre son visage,</l>
+	<l id="515">À son mauvais destin en aveugle obéit,</l>
+	<l id="516">Et dédaigne de voir le ciel qui le trahit,</l>
+	<l id="517">De peur que d'un coup d'oeil contre une telle offense</l>
+	<l id="518">Il ne semble implorer son aide ou sa vengeance.</l>
+	<l id="519">Aucun gémissement à son coeur échappé</l>
+	<l id="520">Ne le montre, en mourant, digne d'être frappé :</l>
+	<l id="521">Immobile à leurs coups, en lui-même il rappelle</l>
+	<l id="522">Ce qu'eut de beau sa vie, et ce qu'on dira d'elle ;</l>
+	<l id="523">Et tient la trahison que le roi leur prescrit</l>
+	<l id="524">Trop au-dessous de lui pour y prêter l'esprit.</l>
+	<l id="525">Sa vertu dans leur crime augmente ainsi son lustre ;</l>
+	<l id="526">Et son dernier soupir est un soupir illustre,</l>
+	<l id="527">Qui de cette grande âme achevant les destins,</l>
+	<l id="528">étale tout Pompée aux yeux des assassins.</l>
+	<l id="529">Sur les bords de l'esquif sa tête enfin penchée,</l>
+	<l id="530">Par le traître Septime indignement tranchée,</l>
+	<l id="531">Passe au bout d'une lance en la main d'Achillas,</l>
+	<l id="532">Ainsi qu'un grand trophée après de grands combats.</l>
+	<l id="533">On descend, et pour comble à sa noire aventure</l>
+	<l id="534">On donne à ce héros la mer pour sépulture,</l>
+	<l id="535">Et le tronc sous les flots roule dorénavant</l>
+	<l id="536">Au gré de la fortune, et de l'onde, et du vent.</l>
+	<l id="537">La triste Cornélie, à cet affreux spectacle,</l>
+	<l id="538">Par de longs cris aigus tâche d'y mettre obstacle,</l>
+	<l id="539">Défend ce cher époux de la voix et des yeux,</l>
+	<l id="540">Puis n'espérant plus rien, lève les mains aux cieux ;</l>
+	<l id="541">Et cédant tout à coup à la douleur plus forte,</l>
+	<l id="542">Tombe, dans sa galère, évanouie ou morte.</l>
+	<l id="543">Les siens en ce désastre, à force de ramer,</l>
+	<l id="544">L'éloignent de la rive, et regagnent la mer.</l>
+	<l id="545">Mais sa fuite est mal sûre ; et l'infâme Septime,</l>
+	<l id="546">Qui se voit dérober la moitié de son crime,</l>
+	<l id="547">Afin de l'achever, prend six vaisseaux au port,</l>
+	<l id="548">Et poursuit sur les eaux Pompée après sa mort.</l>
+	<l id="549">Cependant Achillas porte au roi sa conquête :</l>
+	<l id="550">Tout le peuple tremblant en détourne la tête ;</l>
+	<l id="551">Un effroi général offre à l'un sous ses pas</l>
+	<l id="552">Des abîmes ouverts pour venger ce trépas ;</l>
+	<l id="553">L'autre entend le tonnerre, et chacun se figure</l>
+	<l id="554">Un désordre soudain de toute la nature :</l>
+	<l id="555">Tant l'excès du forfait, troublant leurs jugements,</l>
+	<l id="556">Présente à leur terreur l'excès des châtiments !</l>
+	<l id="557">Philippe, d'autre part, montrant sur le rivage</l>
+	<l id="558">Dans une âme servile un généreux courage,</l>
+	<l id="559">Examine d'un oeil et d'un soin curieux</l>
+	<l id="560">Où les vagues rendront ce dépôt précieux,</l>
+	<l id="561">Pour lui rendre, s'il peut, ce qu'aux morts on doit rendre,</l>
+	<l id="562">Dans quelque urne chétive en ramasser la cendre,</l>
+	<l id="563">Et d'un peu de poussière élever un tombeau</l>
+	<l id="564">À celui qui du monde eut le sort le plus beau.</l>
+	<l id="565">Mais comme vers l'Afrique on poursuit Cornélie,</l>
+	<l id="566">On voit d'ailleurs César venir de Thessalie :</l>
+	<l id="567">Une flotte paraît qu'on a peine à compter...</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="568">C'est lui-même, Achorée, il n'en faut point douter.</l>
+	<l id="569">Tremblez, tremblez, méchants, voici venir la foudre ;</l>
+	<l id="570">Cléopatre a de quoi vous mettre tous en poudre :</l>
+	<l id="571">César vient, elle est reine, et Pompée est vengé ;</l>
+	<l id="572">La tyrannie est bas, et le sort a changé.</l>
+	<l id="573">Admirons cependant le destin des grands hommes,</l>
+	<l id="574">Plaignons-les, et par eux jugeons ce que nous sommes.</l>
+	<l id="575">Ce prince d'un sénat maître de l'univers,</l>
+	<l id="576">Dont le bonheur semblait au-dessus du revers,</l>
+	<l id="577">Lui que sa Rome a vu plus craint que le tonnerre,</l>
+	<l id="578">Triompher en trois fois des trois parts de la terre,</l>
+	<l id="579">Et qui voyait encore en ces derniers hasards</l>
+	<l id="580">L'un et l'autre consul suivre ses étendards ;</l>
+	<l id="581">Sitôt que d'un malheur sa fortune est suivie,</l>
+	<l id="582">Les monstres de l'Égypte ordonnent de sa vie.</l>
+	<l id="583">On voit un Achillas, un Septime, un Photin,</l>
+	<l id="584">Arbitres souverains d'un si noble destin ;</l>
+	<l id="585">Un roi qui de ses mains a reçu la couronne</l>
+	<l id="586">À ces pestes de cour lâchement l'abandonne.</l>
+	<l id="587">Ainsi finit Pompée ; et peut-être qu'un jour</l>
+	<l id="588">César éprouvera même sort à son tour.</l>
+	<l id="589">Rendez l'augure faux, dieux qui voyez mes larmes,</l>
+	<l id="590">Et secondez partout et mes voeux et ses armes !</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="591">Madame, le roi vient, qui pourra vous ouïr.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Ptolomée, Cléopâtre, Charmion.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="592">Savez-vous le bonheur dont nous allons jouir,</l>
+	<l id="593" part="i">Ma soeur ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="593" part="f">Oui, je le sais, le grand César arrive :</l>
+	<l id="594">Sous les lois de Photin je ne suis plus captive.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="595">Vous haïssez toujours ce fidèle sujet ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="596">Non, mais en liberté je ris de son projet.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="597">Quel projet faisait-il dont vous pussiez vous plaindre ?</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="598">J'en ai souffert beaucoup, et j'avais plus à craindre :</l>
+	<l id="599">Un si grand politique est capable de tout ;</l>
+	<l id="600">Et vous donnez les mains à tout ce qu'il résout.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="601">Si je suis ses conseils, j'en connais la prudence.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="602">Si j'en crains les effets, j'en vois la violence.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="603">Pour le bien de l'état tout est juste en un roi.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="604">Ce genre de justice est à craindre pour moi :</l>
+	<l id="605">Après ma part du sceptre, à ce titre usurpée,</l>
+	<l id="606">Il en coûte la vie et la tête à Pompée.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="607">Jamais un coup d'état ne fut mieux entrepris.</l>
+	<l id="608">Le voulant secourir, César nous eût surpris :</l>
+	<l id="609">Vous voyez sa vitesse ; et l'Égypte troublée</l>
+	<l id="610">Avant qu'être en défense en serait accablée ;</l>
+	<l id="611">Mais je puis maintenant à cet heureux vainqueur</l>
+	<l id="612">Offrir en sûreté mon trône et votre coeur.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="613">Je ferai mes présents ; n'ayez soin que des vôtres,</l>
+	<l id="614">Et dans vos intérêts n'en confondez point d'autres.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="615">Les vôtres sont les miens, étant de même sang.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="616">Vous pouvez dire encore, étant de même rang,</l>
+	<l id="617">étant rois l'un et l'autre ; et toutefois je pense</l>
+	<l id="618">Que nos deux intérêts ont quelque différence.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="619">Oui, ma soeur ; car l'état dont mon coeur est content,</l>
+	<l id="620">Sur quelques bords du Nil à grand'peine s'étend ;</l>
+	<l id="621">Mais César, à vos lois soumettant son courage,</l>
+	<l id="622">Vous va faire régner sur le Gange et le Tage.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="623">J'ai de l'ambition, mais je la sais régler :</l>
+	<l id="624">Elle peut m'éblouir, et non pas m'aveugler.</l>
+	<l id="625">Ne parlons point ici du Tage ni du Gange ;</l>
+	<l id="626">Je connais ma portée, et ne prends point le change.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="627">L'occasion vous rit, et vous en userez.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="628">Si je n'en use bien, vous m'en accuserez.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="629">J'en espère beaucoup, vu l'amour qui l'engage.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="630">Vous la craignez peut-être encore davantage ;</l>
+	<l id="631">Mais quelque occasion qui me rie aujourd'hui,</l>
+	<l id="632">N'ayez aucune peur, je ne veux rien d'autrui :</l>
+	<l id="633">Je ne garde pour vous ni haine ni colère,</l>
+	<l id="634">Et je suis bonne soeur, si vous n'êtes bon frère.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="635">Vous montrez cependant un peu bien du mépris.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="636">Le temps de chaque chose ordonne et fait le prix.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="637">Votre façon d'agir le fait assez connaître.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="638">Le grand César arrive, et vous avez un maître.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="639">Il l'est de tout le monde, et je l'ai fait le mien.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="640">Allez lui rendre hommage, et j'attendrai le sien ;</l>
+	<l id="641">Allez, ce n'est pas trop pour lui que de vous-même :</l>
+	<l id="642">Je garderai pour vous l'honneur du diadème.</l>
+	<l id="643">Photin vous vient aider à le bien recevoir :</l>
+	<l id="644">Consultez avec lui quel est votre devoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Ptolomée, Photin.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="645">J'ai suivi tes conseils ; mais plus je l'ai flattée,</l>
+	<l id="646">Et plus dans l'insolence elle s'est emportée ;</l>
+	<l id="647">Si bien qu'enfin, outré de tant d'indignités,</l>
+	<l id="648">Je m'allais emporter dans les extrémités :</l>
+	<l id="649">Mon bras, dont ses mépris forçaient la retenue,</l>
+	<l id="650">N'eût plus considéré César ni sa venue,</l>
+	<l id="651">Et l'eût mise en état, malgré tout son appui,</l>
+	<l id="652">De s'en plaindre à Pompée auparavant qu'à lui.</l>
+	<l id="653">L'arrogante ! à l'ouïr elle est déjà ma reine ;</l>
+	<l id="654">Et si César en croit son orgueil et sa haine ;</l>
+	<l id="655">Si, comme elle s'en vante, elle est son cher objet,</l>
+	<l id="656">De son frère et son roi je deviens son sujet.</l>
+	<l id="657">Non, non ; prévenons-la : c'est faiblesse d'attendre</l>
+	<l id="658">Le mal qu'on voit venir sans vouloir s'en défendre.</l>
+	<l id="659">Ôtons-lui les moyens de nous plus dédaigner ;</l>
+	<l id="660">Ôtons-lui les moyens de plaire et de régner ;</l>
+	<l id="661">Et ne permettons pas qu'après tant de bravades,</l>
+	<l id="662">Mon sceptre soit le prix d'une de ses oeillades.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="663">Seigneur, ne donnez point de prétexte à César</l>
+	<l id="664">Pour attacher l'Égypte aux pompes de son char.</l>
+	<l id="665">Ce coeur ambitieux, qui par toute la terre</l>
+	<l id="666">Ne cherche qu'à porter l'esclavage et la guerre,</l>
+	<l id="667">Enflé de sa victoire, et des ressentiments</l>
+	<l id="668">Qu'une perte pareille imprime aux vrais amants,</l>
+	<l id="669">Quoique vous ne rendiez que justice à vous-même,</l>
+	<l id="670">Prendrait l'occasion de venger ce qu'il aime ;</l>
+	<l id="671">Et pour s'assujettir et vos états et vous,</l>
+	<l id="672">Imputerait à crime un si juste courroux.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="673">Si Cléopatre vit, s'il la voit, elle est reine.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="674">Si Cléopatre meurt, votre perte est certaine.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="675">Je perdrai qui me perd, ne pouvant me sauver.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="676">Pour la perdre avec joie, il faut vous conserver.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="677">Quoi ? Pour voir sur sa tête éclater ma couronne ?</l>
+	<l id="678">Sceptre, s'il faut enfin que ma main t'abandonne,</l>
+	<l id="679">Passe, passe plutôt en celle du vainqueur.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="680">Vous l'arracherez mieux de celle d'une soeur.</l>
+	<l id="681">Quelques feux que d'abord il lui fasse paraître,</l>
+	<l id="682">Il partira bientôt, et vous serez le maître.</l>
+	<l id="683">L'amour à ses pareils ne donne point d'ardeur</l>
+	<l id="684">Qui ne cède aisément aux soins de leur grandeur.</l>
+	<l id="685">Il voit encore l'Afrique et l'Espagne occupées</l>
+	<l id="686">Par Juba, Scipion et les jeunes Pompées ;</l>
+	<l id="687">Et le monde à ses lois n'est point assujetti,</l>
+	<l id="688">Tant qu'il verra durer ces restes du parti.</l>
+	<l id="689">Au sortir de Pharsale un si grand capitaine</l>
+	<l id="690">Saurait mal son métier s'il laissait prendre haleine,</l>
+	<l id="691">Et s'il donnait loisir à des coeurs si hardis</l>
+	<l id="692">De relever du coup dont ils sont étourdis.</l>
+	<l id="693">S'il les vainc, s'il parvient où son désir aspire,</l>
+	<l id="694">Il faut qu'il aille à Rome établir son empire,</l>
+	<l id="695">Jouir de sa fortune et de son attentat,</l>
+	<l id="696">Et changer à son gré la forme de l'état.</l>
+	<l id="697">Jugez durant ce temps ce que vous pourrez faire.</l>
+	<l id="698">Seigneur, voyez César, forcez-vous à lui plaire ;</l>
+	<l id="699">Et lui déférant tout, veuillez vous souvenir</l>
+	<l id="700">Que les événements régleront l'avenir.</l>
+	<l id="701">Remettez en ses mains trône, sceptre, couronne,</l>
+	<l id="702">Et sans en murmurer, souffrez qu'il en ordonne :</l>
+	<l id="703">Il en croira sans doute ordonner justement,</l>
+	<l id="704">En suivant du feu roi l'ordre et le testament ;</l>
+	<l id="705">L'importance d'ailleurs de ce dernier service</l>
+	<l id="706">Ne permet pas d'en craindre une entière injustice.</l>
+	<l id="707">Quoi qu'il en fasse enfin, feignez d'y consentir,</l>
+	<l id="708">Louez son jugement, et laissez-le partir.</l>
+	<l id="709">Après, quand nous verrons le temps propre aux vengeances,</l>
+	<l id="710">Nous aurons et la force et les intelligences.</l>
+	<l id="711">Jusque-là réprimez ces transports violents</l>
+	<l id="712">Qu'excitent d'une soeur les mépris insolents :</l>
+	<l id="713">Les bravades enfin sont des discours frivoles,</l>
+	<l id="714">Et qui songe aux effets néglige les paroles.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="715">Ah ! Tu me rends la vie et le sceptre à la fois :</l>
+	<l id="716">Un sage conseiller est le bonheur des rois.</l>
+	<l id="717">Cher appui de mon trône, allons, sans plus attendre,</l>
+	<l id="718">Offrir tout à César, afin de tout reprendre ;</l>
+	<l id="719">Avec toute ma flotte allons le recevoir,</l>
+	<l id="720">Et par ces vains honneurs séduire son pouvoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Charmion, Achorée.</head>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="721">Oui, tandis que le roi va lui-même en personne</l>
+	<l id="722">Jusqu'aux pieds de César prosterner sa couronne,</l>
+	<l id="723">Cléopatre s'enferme en son appartement,</l>
+	<l id="724">Et sans s'en émouvoir attend son compliment.</l>
+	<l id="725">Comment nommerez-vous une humeur si hautaine ?</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="726">Un orgueil noble et juste, et digne d'une reine</l>
+	<l id="727">Qui soutient avec coeur et magnanimité</l>
+	<l id="728">L'honneur de sa naissance et de sa dignité :</l>
+	<l id="729" part="i">Lui pourrai-je parler ?</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="729" part="f">Non ; mais elle m'envoie</l>
+	<l id="730">Savoir à cet abord ce qu'on a vu de joie ;</l>
+	<l id="731">Ce qu'à ce beau présent César a témoigné ;</l>
+	<l id="732">S'il a paru content, ou s'il l'a dédaigné ;</l>
+	<l id="733">S'il traite avec douceur, s'il traite avec empire ;</l>
+	<l id="734">Ce qu'à nos assassins enfin il a su dire.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="735">La tête de Pompée a produit des effets</l>
+	<l id="736">Dont ils n'ont pas sujet d'être fort satisfaits.</l>
+	<l id="737">Je ne sais si César prendrait plaisir à feindre ;</l>
+	<l id="738">Mais pour eux jusqu'ici je trouve lieu de craindre :</l>
+	<l id="739">S'ils aimaient Ptolomée, ils l'ont fort mal servi.</l>
+	<l id="740">Vous l'avez vu partir, et moi je l'ai suivi.</l>
+	<l id="741">Ses vaisseaux en bon ordre ont éloigné la ville,</l>
+	<l id="742">Et pour joindre César n'ont avancé qu'un mille.</l>
+	<l id="743">Il venait à plein voile ; et si dans les hasards</l>
+	<l id="744">Il éprouva toujours pleine faveur de Mars,</l>
+	<l id="745">Sa flotte, qu'à l'envi favorisait Neptune,</l>
+	<l id="746">Avait le vent en poupe ainsi que sa fortune.</l>
+	<l id="747">Dès le premier abord notre prince étonné</l>
+	<l id="748">Ne s'est plus souvenu de son front couronné :</l>
+	<l id="749">Sa frayeur a paru sous sa fausse allégresse ;</l>
+	<l id="750">Toutes ses actions ont senti la bassesse ;</l>
+	<l id="751">J'en ai rougi moi-même, et me suis plaint à moi</l>
+	<l id="752">De voir là Ptolomée, et n'y voir point de roi ;</l>
+	<l id="753">Et César, qui lisait sa peur sur son visage,</l>
+	<l id="754">Le flattait par pitié pour lui donner courage.</l>
+	<l id="755">Lui, d'une voix tombante offrant ce don fatal :</l>
+	<l id="756">" seigneur, vous n'avez plus, lui dit-il, de rival ;</l>
+	<l id="757">Ce que n'ont pu les dieux dans votre Thessalie,</l>
+	<l id="758">Je vais mettre en vos mains Pompée et Cornélie :</l>
+	<l id="759">En voici déjà l'un, et pour l'autre, elle fuit ;</l>
+	<l id="760">Mais avec six vaisseaux un des miens la poursuit. "</l>
+	<l id="761">À ces mots Achillas découvre cette tête :</l>
+	<l id="762">Il semble qu'à parler encore elle s'apprête.</l>
+	<l id="763">Qu'à ce nouvel affront un reste de chaleur</l>
+	<l id="764">En sanglots mal formés exhale sa douleur ;</l>
+	<l id="765">Sa bouche encore ouverte et sa vue égarée</l>
+	<l id="766">Rappellent sa grande âme à peine séparée ;</l>
+	<l id="767">Et son courroux mourant fait un dernier effort</l>
+	<l id="768">Pour reprocher aux dieux sa défaite et sa mort.</l>
+	<l id="769">César, à cet aspect, comme frappé du foudre,</l>
+	<l id="770">Et comme ne sachant que croire ou que résoudre,</l>
+	<l id="771">Immobile, et les yeux sur l'objet attachés,</l>
+	<l id="772">Nous tient assez longtemps ses sentiments cachés ;</l>
+	<l id="773">Et je dirai, si j'ose en faire conjecture,</l>
+	<l id="774">Que, par un mouvement commun à la nature,</l>
+	<l id="775">Quelque maligne joie en son coeur s'élevait,</l>
+	<l id="776">Dont sa gloire indignée à peine le sauvait.</l>
+	<l id="777">L'aise de voir la terre à son pouvoir soumise</l>
+	<l id="778">Chatouillait malgré lui son âme avec surprise,</l>
+	<l id="779">Et de cette douceur son esprit combattu</l>
+	<l id="780">Avec un peu d'effort rassurait sa vertu.</l>
+	<l id="781">S'il aime sa grandeur, il hait la perfidie ;</l>
+	<l id="782">Il se juge en autrui, se tâte, s'étudie,</l>
+	<l id="783">Examine en secret sa joie et ses douleurs,</l>
+	<l id="784">Les balance, choisit, laisse couler des pleurs ;</l>
+	<l id="785">Et forçant sa vertu d'être encore la maîtresse,</l>
+	<l id="786">Se montre généreux par un trait de faiblesse ;</l>
+	<l id="787">Ensuite il fait ôter ce présent de ses yeux,</l>
+	<l id="788">Lève les mains ensemble et les regards aux cieux,</l>
+	<l id="789">Lâche deux ou trois mots contre cette insolence ;</l>
+	<l id="790">Puis tout triste et pensif il s'obstine au silence,</l>
+	<l id="791">Et même à ses Romains ne daigne repartir</l>
+	<l id="792">Que d'un regard farouche et d'un profond soupir.</l>
+	<l id="793">Enfin, ayant pris terre avec trente cohortes,</l>
+	<l id="794">Il se saisit du port, il se saisit des portes,</l>
+	<l id="795">Met des gardes partout et des ordres secrets,</l>
+	<l id="796">Fait voir sa défiance, ainsi que ses regrets,</l>
+	<l id="797">Parle d'Égypte en maître et de son adversaire,</l>
+	<l id="798">Non plus comme ennemi, mais comme son beau-père.</l>
+	<l id="799" part="i">Voilà ce que j'ai vu.</l>
+</sp>
+<sp who="CHARMION"><speaker>CHARMION</speaker>
+	<l id="799" part="f">Voilà ce qu'attendait,</l>
+	<l id="800">Ce qu'au juste Osiris la reine demandait.</l>
+	<l id="801">Je vais bien la ravir avec cette nouvelle.</l>
+	<l id="802">Vous, continuez-lui ce service fidèle.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="803">Qu'elle n'en doute point. Mais César vient. Allez,</l>
+	<l id="804">Peignez-lui bien nos gens pâles et désolés ;</l>
+	<l id="805">Et moi, soit que l'issue en soit douce ou funeste,</l>
+	<l id="806">J'irai l'entretenir quand j'aurai vu le reste.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. César, Ptolémée, Lépide, Photin, Achorée, Soldats romains, Soldats égyptiens.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="807">Seigneur, montez au trône, et commandez ici.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="808">Connaissez-vous César, de lui parler ainsi ?</l>
+	<l id="809">Que m'offrirait de pis la fortune ennemie,</l>
+	<l id="810">À moi qui tiens le trône égal à l'infamie ?</l>
+	<l id="811">Certes, Rome à ce coup pourrait bien se vanter</l>
+	<l id="812">D'avoir eu juste lieu de me persécuter ;</l>
+	<l id="813">Elle qui d'un même oeil les donne et les dédaigne,</l>
+	<l id="814">Qui ne voit rien aux rois qu'elle aime ou qu'elle craigne,</l>
+	<l id="815">Et qui verse en nos coeurs, avec l'âme et le sang,</l>
+	<l id="816">Et la haine du nom, et le mépris du rang.</l>
+	<l id="817">C'est ce que de Pompée il vous fallait apprendre :</l>
+	<l id="818">S'il en eût aimé l'offre, il eût su s'en défendre ;</l>
+	<l id="819">Et le trône et le roi se seraient ennoblis</l>
+	<l id="820">À soutenir la main qui les a rétablis.</l>
+	<l id="821">Vous eussiez pu tomber, mais tout couvert de gloire :</l>
+	<l id="822">Votre chute eût valu la plus haute victoire ;</l>
+	<l id="823">Et si votre destin n'eût pu vous en sauver,</l>
+	<l id="824">César eût pris plaisir à vous en relever.</l>
+	<l id="825">Vous n'avez pu former une si noble envie ;</l>
+	<l id="826">Mais quel droit aviez-vous sur cette illustre vie ?</l>
+	<l id="827">Que vous devait son sang pour y tremper vos mains,</l>
+	<l id="828">Vous qui devez respect au moindre des Romains ?</l>
+	<l id="829">Ai-je vaincu pour vous dans les champs de Pharsale ?</l>
+	<l id="830">Et par une victoire aux vaincus trop fatale,</l>
+	<l id="831">Vous ai-je acquis sur eux, en ce dernier effort,</l>
+	<l id="832">La puissance absolue et de vie et de mort ?</l>
+	<l id="833">Moi qui n'ai jamais pu la souffrir à Pompée,</l>
+	<l id="834">La souffrirai-je en vous sur lui-même usurpée,</l>
+	<l id="835">Et que de mon bonheur vous ayez abusé</l>
+	<l id="836">Jusqu'à plus attenter que je n'aurais osé ?</l>
+	<l id="837">De quel nom, après tout, pensez-vous que je nomme</l>
+	<l id="838">Ce coup où vous tranchez du souverain de Rome,</l>
+	<l id="839">Et qui sur un seul chef lui fait bien plus d'affront</l>
+	<l id="840">Que sur tant de milliers ne fit le roi de Pont ?</l>
+	<l id="841">Pensez-vous que j'ignore ou que je dissimule</l>
+	<l id="842">Que vous n'auriez pas eu pour moi plus de scrupule,</l>
+	<l id="843">Et que s'il m'eût vaincu, votre esprit complaisant</l>
+	<l id="844">Lui faisait de ma tête un semblable présent ?</l>
+	<l id="845">Grâces à ma victoire, on me rend des hommages</l>
+	<l id="846">Où ma fuite eût reçu toutes sortes d'outrages ;</l>
+	<l id="847">Au vainqueur, non à moi, vous faites tout l'honneur :</l>
+	<l id="848">Si César en jouit, ce n'est que par bonheur.</l>
+	<l id="849">Amitié dangereuse, et redoutable zèle,</l>
+	<l id="850">Que règle la fortune, et qui tourne avec elle !</l>
+	<l id="851">Mais parlez, c'est trop être interdit et confus.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="852">Je le suis, il est vrai, si jamais je le fus ;</l>
+	<l id="853">Et vous-même avouerez que j'ai sujet de l'être.</l>
+	<l id="854">étant né souverain, je vois ici mon maître :</l>
+	<l id="855">Ici, dis-je, où ma cour tremble en me regardant,</l>
+	<l id="856">Où je n'ai point encore agi qu'en commandant,</l>
+	<l id="857">Je vois une autre cour sous une autre puissance,</l>
+	<l id="858">Et ne puis plus agir qu'avec obéissance.</l>
+	<l id="859">De votre seul aspect je me suis vu surpris :</l>
+	<l id="860">Jugez si vos discours rassurent mes esprits ;</l>
+	<l id="861">Jugez par quels moyens je puis sortir d'un trouble</l>
+	<l id="862">Que forme le respect, que la crainte redouble,</l>
+	<l id="863">Et ce que vous peut dire un prince épouvanté</l>
+	<l id="864">De voir tant de colère et tant de majesté.</l>
+	<l id="865">Dans ces étonnements dont mon âme est frappée,</l>
+	<l id="866">De rencontrer en vous le vengeur de Pompée,</l>
+	<l id="867">Il me souvient pourtant que s'il fut notre appui,</l>
+	<l id="868">Nous vous dûmes dès lors autant et plus qu'à lui.</l>
+	<l id="869">Votre faveur pour nous éclata la première,</l>
+	<l id="870">Tout ce qu'il fit après fut à votre prière :</l>
+	<l id="871">Il émut le sénat pour des rois outragés,</l>
+	<l id="872">Que sans cette prière il aurait négligés ;</l>
+	<l id="873">Mais de ce grand sénat les saintes ordonnances</l>
+	<l id="874">Eussent peu fait pour nous, seigneur, sans vos finances ;</l>
+	<l id="875">Par là de nos mutins le feu roi vint à bout ;</l>
+	<l id="876">Et pour en bien parler, nous vous devons le tout.</l>
+	<l id="877">Nous avons honoré votre ami, votre gendre,</l>
+	<l id="878">Jusqu'à ce qu'à vous-même il ait osé se prendre ;</l>
+	<l id="879">Mais voyant son pouvoir, de vos succès jaloux,</l>
+	<l id="880">Passer en tyrannie, et s'armer contre vous...</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="881">Tout beau : que votre haine en son sang assouvie</l>
+	<l id="882">N'aille point à sa gloire ; il suffit de sa vie.</l>
+	<l id="883">N'avancez rien ici que Rome ose nier ;</l>
+	<l id="884">Et justifiez-vous sans le calomnier.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="885">Je laisse donc aux dieux à juger ses pensées,</l>
+	<l id="886">Et dirai seulement qu'en vos guerres passées,</l>
+	<l id="887">Où vous fûtes forcé par tant d'indignités,</l>
+	<l id="888">Tous nos voeux ont été pour vos prospérités ;</l>
+	<l id="889">Que comme il vous traitait en mortel adversaire,</l>
+	<l id="890">J'ai cru sa mort pour vous un malheur nécessaire ;</l>
+	<l id="891">Et que sa haine injuste, augmentant tous les jours,</l>
+	<l id="892">Jusque dans les enfers chercherait du secours ;</l>
+	<l id="893">Ou qu'enfin, s'il tombait dessous votre puissance,</l>
+	<l id="894">Il nous fallait pour vous craindre votre clémence,</l>
+	<l id="895">Et que le sentiment d'un coeur trop généreux,</l>
+	<l id="896">Usant mal de vos droits, vous rendît malheureux.</l>
+	<l id="897">J'ai donc considéré qu'en ce péril extrême</l>
+	<l id="898">Nous vous devions, seigneur, servir malgré vous-même ;</l>
+	<l id="899">Et sans attendre d'ordre en cette occasion,</l>
+	<l id="900">Mon zèle ardent l'a prise à ma confusion.</l>
+	<l id="901">Vous m'en désavouez, vous l'imputez à crime ;</l>
+	<l id="902">Mais pour servir César rien n'est illégitime.</l>
+	<l id="903">J'en ai souillé mes mains pour vous en préserver :</l>
+	<l id="904">Vous pouvez en jouir, et le désapprouver ;</l>
+	<l id="905">Et j'ai plus fait pour vous, plus l'action est noire,</l>
+	<l id="906">Puisque c'est d'autant plus vous immoler ma gloire,</l>
+	<l id="907">Et que ce sacrifice, offert par mon devoir,</l>
+	<l id="908">Vous assure la vôtre avec votre pouvoir.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="909">Vous cherchez, Ptolomée, avec trop de ruses,</l>
+	<l id="910">De mauvaises couleurs et de froides excuses.</l>
+	<l id="911">Votre zèle était faux, si seul il redoutait</l>
+	<l id="912">Ce que le monde entier à pleins voeux souhaitait,</l>
+	<l id="913">Et s'il vous a donné ces craintes trop subtiles,</l>
+	<l id="914">Qui m'ôtent tout le fruit de nos guerres civiles,</l>
+	<l id="915">Où l'honneur seul m'engage, et que pour terminer</l>
+	<l id="916">Je ne veux que celui de vaincre et pardonner,</l>
+	<l id="917">Où mes plus dangereux et plus grands adversaires,</l>
+	<l id="918">Sitôt qu'ils sont vaincus, ne sont plus que mes frères ;</l>
+	<l id="919">Et mon ambition ne va qu'à les forcer,</l>
+	<l id="920">Ayant dompté leur haine, à vivre et m'embrasser.</l>
+	<l id="921">Oh ! Combien d'allégresse une si triste guerre</l>
+	<l id="922">Aurait-elle laissé dessus toute la terre,</l>
+	<l id="923">Si Rome avait pu voir marcher en même char,</l>
+	<l id="924">Vainqueurs de leur discorde, et Pompée et César !</l>
+	<l id="925">Voilà ces grands malheurs que craignait votre zèle.</l>
+	<l id="926">Ô crainte ridicule autant que criminelle !</l>
+	<l id="927">Vous craigniez ma clémence ! Ah ! N'ayez plus ce soin ;</l>
+	<l id="928">Souhaitez-la plutôt, vous en avez besoin.</l>
+	<l id="929">Si je n'avais égard qu'aux lois de la justice,</l>
+	<l id="930">Je m'apaiserais Rome avec votre supplice,</l>
+	<l id="931">Sans que ni vos respects, ni votre repentir,</l>
+	<l id="932">Ni votre dignité vous pussent garantir ;</l>
+	<l id="933">Votre trône lui-même en serait le théâtre ;</l>
+	<l id="934">Mais voulant épargner le sang de Cléopatre,</l>
+	<l id="935">J'impute à vos flatteurs toute la trahison,</l>
+	<l id="936">Et je veux voir comment vous m'en ferez raison.</l>
+	<l id="937">Suivant les sentiments dont vous serez capable,</l>
+	<l id="938">Je saurai vous tenir innocent ou coupable.</l>
+	<l id="939">Cependant à Pompée élevez des autels :</l>
+	<l id="940">Rendez-lui les honneurs qu'on rend aux immortels ;</l>
+	<l id="941">Par un prompt sacrifice expiez tous vos crimes ;</l>
+	<l id="942">Et surtout pensez bien au choix de vos victimes.</l>
+	<l id="943">Allez y donner ordre, et me laissez ici</l>
+	<l id="944">Entretenir les miens sur quelque autre souci.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. César, Antoine, Lépide.</head>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="945">Antoine, avez-vous vu cette reine adorable ?</l>
+</sp>
+<sp who="ANTOINE"><speaker>ANTOINE</speaker>
+	<l id="946">Oui, seigneur, je l'ai vue : elle est incomparable ;</l>
+	<l id="947">Le ciel n'a point encore, par de si doux accords,</l>
+	<l id="948">Uni tant de vertus aux grâces d'un beau corps.</l>
+	<l id="949">Une majesté douce épand sur son visage</l>
+	<l id="950">De quoi s'assujettir le plus noble courage ;</l>
+	<l id="951">Ses yeux savent ravir, son discours sait charmer ;</l>
+	<l id="952">Et si j'étais César, je la voudrais aimer.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="953">Comme a-t-elle reçu les offres de ma flamme ?</l>
+</sp>
+<sp who="ANTOINE"><speaker>ANTOINE</speaker>
+	<l id="954">Comme n'osant la croire, et la croyant dans l'âme ;</l>
+	<l id="955">Par un refus modeste et fait pour inviter,</l>
+	<l id="956">Elle s'en dit indigne, et la croit mériter.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="957" part="i">En pourrai-je être aimé ?</l>
+</sp>
+<sp who="ANTOINE"><speaker>ANTOINE</speaker>
+	<l id="957" part="f">Douter qu'elle vous aime,</l>
+	<l id="958">Elle qui de vous seul attend son diadème,</l>
+	<l id="959">Qui n'espère qu'en vous ! Douter de ses ardeurs,</l>
+	<l id="960">Vous qui pouvez la mettre au faîte des grandeurs !</l>
+	<l id="961">Que votre amour sans crainte à son amour prétende :</l>
+	<l id="962">Au vainqueur de Pompée il faut que tout se rende ;</l>
+	<l id="963">Et vous l'éprouverez. Elle craint toutefois</l>
+	<l id="964">L'ordinaire mépris que Rome fait des rois,</l>
+	<l id="965">Et surtout elle craint l'amour de Calphurnie ;</l>
+	<l id="966">Mais l'une et l'autre crainte à votre aspect bannie,</l>
+	<l id="967">Vous ferez succéder un espoir assez doux,</l>
+	<l id="968">Lorsque vous daignerez lui dire un mot pour vous.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="969">Allons donc l'affranchir de ces frivoles craintes,</l>
+	<l id="970">Lui montrer de mon coeur les sensibles atteintes ;</l>
+	<l id="971" part="i">Allons, ne tardons plus.</l>
+</sp>
+<sp who="ANTOINE"><speaker>ANTOINE</speaker>
+	<l id="971" part="f">Avant que de la voir,</l>
+	<l id="972">Sachez que Cornélie est en votre pouvoir ;</l>
+	<l id="973">Septime vous l'amène, orgueilleux de son crime,</l>
+	<l id="974">Et pense auprès de vous se mettre en haute estime.</l>
+	<l id="975">Dès qu'ils ont abordé, vos chefs, par vous instruits,</l>
+	<l id="976">Sans leur rien témoigner, les ont ici conduits.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="977">Qu'elle entre. Ah ! L'importune et fâcheuse nouvelle !</l>
+	<l id="978">Qu'à mon impatience elle semble cruelle !</l>
+	<l id="979">Ô ciel ! Et ne pourrai-je enfin à mon amour</l>
+	<l id="980">Donner en liberté ce qui reste du jour ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. César, Cornélie, Antoine, Lépide, Septime.</head>
+<sp who="SEPTIME"><speaker>SEPTIME</speaker>
+	<l id="981" part="i">Seigneur...</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="981" part="f">Allez, Septime, allez vers votre maître.</l>
+	<l id="982">César ne peut souffrir la présence d'un traître,</l>
+	<l id="983">D'un Romain lâche assez pour servir sous un roi,</l>
+	<l id="984">Après avoir servi sous Pompée et sous moi.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="985">César, car le destin, que dans tes fers je brave,</l>
+	<l id="986">Me fait ta prisonnière et non pas ton esclave,</l>
+	<l id="987">Et tu ne prétends pas qu'il m'abatte le coeur</l>
+	<l id="988">Jusqu'à te rendre hommage, et te nommer seigneur :</l>
+	<l id="989">De quelque rude trait qu'il m'ose avoir frappée,</l>
+	<l id="990">Veuve du jeune Crasse, et veuve de Pompée,</l>
+	<l id="991">Fille de Scipion, et pour dire encore plus,</l>
+	<l id="992">Romaine, mon courage est encore au-dessus ;</l>
+	<l id="993">Et de tous les assauts que sa rigueur me livre,</l>
+	<l id="994">Rien ne me fait rougir que la honte de vivre.</l>
+	<l id="995">J'ai vu mourir Pompée, et ne l'ai pas suivi ;</l>
+	<l id="996">Et bien que le moyen m'en aye été ravi,</l>
+	<l id="997">Qu'une pitié cruelle à mes douleurs profondes</l>
+	<l id="998">M'aie ôté le secours et du fer et des ondes,</l>
+	<l id="999">Je dois rougir pourtant, après un tel malheur,</l>
+	<l id="1000">De n'avoir pu mourir d'un excès de douleur :</l>
+	<l id="1001">Ma mort était ma gloire, et le destin m'en prive</l>
+	<l id="1002">Pour croître mes malheurs et me voir ta captive.</l>
+	<l id="1003">Je dois bien toutefois rendre grâces aux dieux</l>
+	<l id="1004">De ce qu'en arrivant je te trouve en ces lieux,</l>
+	<l id="1005">Que César y commande, et non pas Ptolomée.</l>
+	<l id="1006">Hélas ! Et sous quel astre, ô ciel ! M'as-tu formée,</l>
+	<l id="1007">Si je leur dois des voeux de ce qu'ils ont permis</l>
+	<l id="1008">Que je rencontre ici mes plus grands ennemis,</l>
+	<l id="1009">Et tombe entre leurs mains plutôt qu'aux mains d'un prince</l>
+	<l id="1010">Qui doit à mon époux son trône et sa province ?</l>
+	<l id="1011">César, de ta victoire écoute moins le bruit :</l>
+	<l id="1012">Elle n'est que l'effet du malheur qui me suit ;</l>
+	<l id="1013">Je l'ai porté pour dot chez Pompée et chez Crasse ;</l>
+	<l id="1014">Deux fois du monde entier j'ai causé la disgrâce,</l>
+	<l id="1015">Deux fois de mon hymen le noeud mal assorti</l>
+	<l id="1016">A chassé tous les dieux du plus juste parti :</l>
+	<l id="1017">Heureuse en mes malheurs, si ce triste hyménée,</l>
+	<l id="1018">Pour le bonheur de Rome, à César m'eût donnée,</l>
+	<l id="1019">Et si j'eusse avec moi porté dans ta maison</l>
+	<l id="1020">D'un astre envenimé l'invincible poison !</l>
+	<l id="1021">Car enfin n'attends pas que j'abaisse ma haine :</l>
+	<l id="1022">Je te l'ai déjà dit, César, je suis romaine ;</l>
+	<l id="1023">Et quoique ta captive, un coeur comme le mien,</l>
+	<l id="1024">De peur de s'oublier, ne te demande rien.</l>
+	<l id="1025">Ordonne ; et sans vouloir qu'il tremble ou s'humilie,</l>
+	<l id="1026">Souviens-toi seulement que je suis Cornélie.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1027">Ô d'un illustre époux noble et digne moitié,</l>
+	<l id="1028">Dont le courage étonne, et le sort fait pitié !</l>
+	<l id="1029">Certes, vos sentiments font assez reconnaître</l>
+	<l id="1030">Qui vous donna la main, et qui vous donna l'être ;</l>
+	<l id="1031">Et l'on juge aisément, au coeur que vous portez,</l>
+	<l id="1032">Où vous êtes entrée, et de qui vous sortez.</l>
+	<l id="1033">L'âme du jeune Crasse, et celle de Pompée,</l>
+	<l id="1034">L'une et l'autre vertu par le malheur trompée,</l>
+	<l id="1035">Le sang des Scipions protecteur de nos dieux,</l>
+	<l id="1036">Parlent par votre bouche et brillent dans vos yeux ;</l>
+	<l id="1037">Et Rome dans ses murs ne voit point de famille</l>
+	<l id="1038">Qui soit plus honorée ou de femme ou de fille.</l>
+	<l id="1039">Plût au grand Jupiter, plût à ces mêmes dieux,</l>
+	<l id="1040">Qu'Annibal eût bravés jadis sans vos aïeux,</l>
+	<l id="1041">Que ce héros si cher dont le ciel vous sépare</l>
+	<l id="1042">N'eût pas si mal connu la cour d'un roi barbare,</l>
+	<l id="1043">Ni mieux aimé tenter une incertaine foi,</l>
+	<l id="1044">Que la vieille amitié qu'il eût trouvée en moi ;</l>
+	<l id="1045">Qu'il eût voulu souffrir qu'un bonheur de mes armes</l>
+	<l id="1046">Eût vaincu ses soupçons, dissipé ses alarmes ;</l>
+	<l id="1047">Et qu'enfin, m'attendant sans plus se défier,</l>
+	<l id="1048">Il m'eût donné moyen de me justifier !</l>
+	<l id="1049">Alors, foulant aux pieds la discorde et l'envie,</l>
+	<l id="1050">Je l'eusse conjuré de se donner la vie,</l>
+	<l id="1051">D'oublier ma victoire, et d'aimer un rival</l>
+	<l id="1052">Heureux d'avoir vaincu pour vivre son égal ;</l>
+	<l id="1053">J'eusse alors regagné son âme satisfaite,</l>
+	<l id="1054">Jusqu'à lui faire aux dieux pardonner sa défaite ;</l>
+	<l id="1055">Il eût fait à son tour, en me rendant son coeur,</l>
+	<l id="1056">Que Rome eût pardonné la victoire au vainqueur.</l>
+	<l id="1057">Mais puisque par sa perte, à jamais sans seconde,</l>
+	<l id="1058">Le sort a dérobé cette allégresse au monde,</l>
+	<l id="1059">César s'efforcera de s'acquitter vers vous</l>
+	<l id="1060">De ce qu'il voudrait rendre à cet illustre époux.</l>
+	<l id="1061">Prenez donc en ces lieux liberté toute entière :</l>
+	<l id="1062">Seulement pour deux jours soyez ma prisonnière,</l>
+	<l id="1063">Afin d'être témoin comme après nos débats</l>
+	<l id="1064">Je chéris sa mémoire et venge son trépas,</l>
+	<l id="1065">Et de pouvoir apprendre à toute l'Italie</l>
+	<l id="1066">De quel orgueil nouveau m'enfle la Thessalie.</l>
+	<l id="1067">Je vous laisse à vous-même et vous quitte un moment</l>
+	<l id="1068">Choisissez-lui, Lépide, un digne appartement ;</l>
+	<l id="1069">Et qu'on l'honore ici, mais en dame romaine,</l>
+	<l id="1070">C'est-à-dire un peu plus qu'on n'honore la reine.</l>
+	<l id="1071">Commandez, et chacun aura soin d'obéir.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1072">Ô ciel, que de vertus vous me faites haïr !</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Ptolémée, Achillas, Pholin.</head>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1073">Quoi ? De la même main et de la même épée</l>
+	<l id="1074">Dont il vient d'immoler le malheureux Pompée,</l>
+	<l id="1075">Septime, par César indignement chassé,</l>
+	<l id="1076">Dans un tel désespoir à vos yeux a passé ?</l>
+</sp>
+<sp who="ACHILLAS"><speaker>ACHILLAS</speaker>
+	<l id="1077">Oui, seigneur ; et sa mort a de quoi vous apprendre</l>
+	<l id="1078">La honte qu'il prévient et qu'il vous faut attendre.</l>
+	<l id="1079">Jugez quel est César à ce courroux si lent.</l>
+	<l id="1080">Un moment pousse et rompt un transport violent ;</l>
+	<l id="1081">Mais l'indignation qu'on prend avec étude</l>
+	<l id="1082">Augmente avec le temps, et porte un coup plus rude ;</l>
+	<l id="1083">Ainsi n'espérez pas de le voir modéré :</l>
+	<l id="1084">Par adresse il se fâche après s'être assuré.</l>
+	<l id="1085">Sa puissance établie, il a soin de sa gloire.</l>
+	<l id="1086">Il poursuivait Pompée, et chérit sa mémoire ;</l>
+	<l id="1087">Et veut tirer à soi, par un courroux accort,</l>
+	<l id="1088">L'honneur de sa vengeance et le fruit de sa mort.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1089">Ah ! Si je t'avais cru, je n'aurais pas de maître :</l>
+	<l id="1090">Je serais dans le trône où le ciel m'a fait naître ;</l>
+	<l id="1091">Mais c'est une imprudence assez commune aux rois</l>
+	<l id="1092">D'écouter trop d'avis, et se tromper au choix ;</l>
+	<l id="1093">Le destin les aveugle au bord du précipice ;</l>
+	<l id="1094">Ou si quelque lumière en leur âme se glisse,</l>
+	<l id="1095">Cette fausse clarté, dont il les éblouit,</l>
+	<l id="1096">Les plonge dans un gouffre, et puis s'évanouit.</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="1097">J'ai mal connu César ; mais puisqu'en son estime</l>
+	<l id="1098">Un si rare service est un énorme crime,</l>
+	<l id="1099">Il porte dans son flanc de quoi nous en laver ;</l>
+	<l id="1100">C'est là qu'est notre grâce, il nous l'y faut trouver.</l>
+	<l id="1101">Je ne vous parle plus de souffrir sans murmure,</l>
+	<l id="1102">D'attendre son départ pour venger cette injure ;</l>
+	<l id="1103">Je sais mieux conformer les remèdes au mal :</l>
+	<l id="1104">Justifions sur lui la mort de son rival ;</l>
+	<l id="1105">Et notre main alors également trempée</l>
+	<l id="1106">Et du sang de César et du sang de Pompée,</l>
+	<l id="1107">Rome, sans leur donner de titres différents,</l>
+	<l id="1108">Se croira par vous seul libre de deux tyrans.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1109">Oui, par là seulement ma perte est évitable :</l>
+	<l id="1110">C'est trop craindre un tyran que j'ai fait redoutable.</l>
+	<l id="1111">Montrons que sa fortune est l'oeuvre de nos mains ;</l>
+	<l id="1112">Deux fois en même jour disposons des Romains ;</l>
+	<l id="1113">Faisons leur liberté comme leur esclavage.</l>
+	<l id="1114">César, que tes exploits n'enflent plus ton courage ;</l>
+	<l id="1115">Considère les miens, tes yeux en sont témoins.</l>
+	<l id="1116">Pompée était mortel, et tu ne l'es pas moins ;</l>
+	<l id="1117">Il pouvait plus que toi ; tu lui portais envie ;</l>
+	<l id="1118">Tu n'as, non plus que lui, qu'une âme et qu'une vie ;</l>
+	<l id="1119">Et son sort que tu plains te doit faire penser</l>
+	<l id="1120">Que ton coeur est sensible, et qu'on peut le percer.</l>
+	<l id="1121">Tonne, tonne à ton gré, fais peur de ta justice :</l>
+	<l id="1122">C'est à moi d'apaiser Rome par ton supplice ;</l>
+	<l id="1123">C'est à moi de punir ta cruelle douceur,</l>
+	<l id="1124">Qui n'épargne en un roi que le sang de sa soeur.</l>
+	<l id="1125">Je n'abandonne plus ma vie et ma puissance</l>
+	<l id="1126">Au hasard de sa haine ou de ton inconstance ;</l>
+	<l id="1127">Ne crois pas que jamais tu puisses à ce prix</l>
+	<l id="1128">Récompenser sa flamme ou punir ses mépris :</l>
+	<l id="1129">J'emploierai contre toi de plus nobles maximes.</l>
+	<l id="1130">Tu m'as prescrit tantôt de choisir des victimes,</l>
+	<l id="1131">De bien penser au choix ; j'obéis, et je vois</l>
+	<l id="1132">Que je n'en puis choisir de plus dignes que toi,</l>
+	<l id="1133">Ni dont le sang offert, la fumée et la cendre</l>
+	<l id="1134">Puissent mieux satisfaire aux mânes de ton gendre.</l>
+	<l id="1135">Mais ce n'est pas assez, amis, de s'irriter :</l>
+	<l id="1136">Il faut voir quels moyens on a d'exécuter ;</l>
+	<l id="1137">Toute cette chaleur est peut-être inutile ;</l>
+	<l id="1138">Les soldats du tyran sont maîtres de la ville ;</l>
+	<l id="1139">Que pouvons-nous contre eux ? Et pour les prévenir,</l>
+	<l id="1140">Quel temps devons-nous prendre, et quel ordre tenir ?</l>
+</sp>
+<sp who="ACHILLAS"><speaker>ACHILLAS</speaker>
+	<l id="1141">Nous pouvons tout, seigneur, en l'état où nous sommes.</l>
+	<l id="1142">À deux milles d'ici vous avez six mille hommes,</l>
+	<l id="1143">Que depuis quelque jours, craignant des remuements,</l>
+	<l id="1144">Je faisais tenir prêts à tous événements.</l>
+	<l id="1145">Quelques soins qu'ait César, sa prudence est déçue.</l>
+	<l id="1146">Cette ville a sous terre une secrète issue,</l>
+	<l id="1147">Par où fort aisément on les peut cette nuit</l>
+	<l id="1148">Jusque dans le palais introduire sans bruit ;</l>
+	<l id="1149">Car contre sa fortune aller à force ouverte,</l>
+	<l id="1150">Ce serait trop courir vous-même à votre perte.</l>
+	<l id="1151">Il nous le faut surprendre au milieu du festin,</l>
+	<l id="1152">Enivré des douceurs de l'amour et du vin.</l>
+	<l id="1153">Tout le peuple est pour nous. Tantôt, à son entrée,</l>
+	<l id="1154">J'ai remarqué l'horreur que ce peuple a montrée</l>
+	<l id="1155">Lorsque avec tant de faste il a vu ses faisceaux</l>
+	<l id="1156">Marcher arrogamment et braver nos drapeaux ;</l>
+	<l id="1157">Au spectacle insolent de ce pompeux outrage</l>
+	<l id="1158">Ses farouches regards étincelaient de rage :</l>
+	<l id="1159">Je voyais sa fureur à peine se dompter ;</l>
+	<l id="1160">Et pour peu qu'on le pousse, il est prêt d'éclater ;</l>
+	<l id="1161">Mais surtout les Romains que commandait Septime,</l>
+	<l id="1162">Pressés de la terreur que sa mort leur imprime,</l>
+	<l id="1163">Ne cherchent qu'à venger par un coup généreux</l>
+	<l id="1164">Le mépris qu'en leur chef ce superbe a fait d'eux.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1165">Mais qui pourra de nous approcher sa personne,</l>
+	<l id="1166">Si durant le festin sa garde l'environne ?</l>
+</sp>
+<sp who="PHOTIN"><speaker>PHOTIN</speaker>
+	<l id="1167">Les gens de Cornélie, entre qui vos Romains</l>
+	<l id="1168">Ont déjà reconnu des frères, des germains,</l>
+	<l id="1169">Dont l'âpre déplaisir leur a laissé paraître</l>
+	<l id="1170">Une soif d'immoler leur tyran à leur maître :</l>
+	<l id="1171">Ils ont donné parole, et peuvent, mieux que nous,</l>
+	<l id="1172">Dans les flancs de César porter les premiers coups.</l>
+	<l id="1173">Son faux art de clémence, ou plutôt sa folie,</l>
+	<l id="1174">Qui pense gagner Rome en flattant Cornélie,</l>
+	<l id="1175">Leur donnera sans doute un assez libre accès</l>
+	<l id="1176">Pour de ce grand dessein assurer le succès.</l>
+	<l id="1177">Mais voici Cléopatre : agissez avec feinte,</l>
+	<l id="1178">Seigneur, et ne montrez que faiblesse et que crainte.</l>
+	<l id="1179">Nous allons vous quitter, comme objets odieux</l>
+	<l id="1180">Dont l'aspect importun offenserait ses yeux.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1181" part="i">Allez, je vous rejoins.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Ptolomée, Cléopâtre, Achorée, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1181" part="f">J'ai vu César, mon frère,</l>
+	<l id="1182">Et de tout mon pouvoir combattu sa colère.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1183">Vous êtes généreuse ; et j'avais attendu</l>
+	<l id="1184">Cet office de soeur que vous m'avez rendu.</l>
+	<l id="1185">Mais cet illustre amant vous a bientôt quittée.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1186">Sur quelque brouillerie, en la ville excitée :</l>
+	<l id="1187">Il a voulu lui-même apaiser les débats</l>
+	<l id="1188">Qu'avec nos citoyens ont eus quelques soldats ;</l>
+	<l id="1189">Et moi, j'ai bien voulu moi-même vous redire</l>
+	<l id="1190">Que vous ne craigniez rien pour vous ni votre empire ;</l>
+	<l id="1191">Et que le grand César blâme votre action</l>
+	<l id="1192">Avec moins de courroux que de compassion.</l>
+	<l id="1193">Il vous plaint d'écouter ces lâches politiques</l>
+	<l id="1194">Qui n'inspirent aux rois que des moeurs tyranniques :</l>
+	<l id="1195">Ainsi que la naissance, ils ont les esprits bas.</l>
+	<l id="1196">En vain on les élève à régir des états :</l>
+	<l id="1197">Un coeur né pour servir sait mal comme on commande ;</l>
+	<l id="1198">Sa puissance l'accable alors qu'elle est trop grande ;</l>
+	<l id="1199">Et sa main, que le crime en vain fait redouter,</l>
+	<l id="1200">Laisse choir le fardeau qu'elle ne peut porter.</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1201">Vous dites vrai, ma soeur, et ces effets sinistres</l>
+	<l id="1202">Me font bien voir ma faute au choix de mes ministres.</l>
+	<l id="1203">Si j'avais écouté de plus nobles conseils,</l>
+	<l id="1204">Je vivrais dans la gloire où vivent mes pareils ;</l>
+	<l id="1205">Je mériterais mieux cette amitié si pure</l>
+	<l id="1206">Que pour un frère ingrat vous donne la nature ;</l>
+	<l id="1207">César embrasserait Pompée en ce palais ;</l>
+	<l id="1208">Notre Égypte à la terre aurait rendu la paix,</l>
+	<l id="1209">Et verrait son monarque encore à juste titre</l>
+	<l id="1210">Ami de tous les deux, et peut-être l'arbitre.</l>
+	<l id="1211">Mais puisque le passé ne peut se révoquer,</l>
+	<l id="1212">Trouvez bon qu'avec vous mon coeur s'ose expliquer.</l>
+	<l id="1213">Je vous ai maltraitée, et vous êtes si bonne,</l>
+	<l id="1214">Que vous me conservez la vie et la couronne.</l>
+	<l id="1215">Vainquez-vous tout à fait ; et par un digne effort</l>
+	<l id="1216">Arrachez Achillas et Photin à la mort :</l>
+	<l id="1217">Elle leur est bien due ; ils vous ont offensée ;</l>
+	<l id="1218">Mais ma gloire en leur perte est trop intéressée.</l>
+	<l id="1219">Si César les punit des crimes de leur roi,</l>
+	<l id="1220">Toute l'ignominie en rejaillit sur moi :</l>
+	<l id="1221">Il me punit en eux ; leur supplice est ma peine.</l>
+	<l id="1222">Forcez, en ma faveur, une trop juste haine.</l>
+	<l id="1223">De quoi peut satisfaire un coeur si généreux</l>
+	<l id="1224">Le sang abject et vil de ces deux malheureux ?</l>
+	<l id="1225">Que je vous doive tout : César cherche à vous plaire,</l>
+	<l id="1226">Et vous pouvez d'un mot désarmer sa colère.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1227">Si j'avais en mes mains leur vie et leur trépas,</l>
+	<l id="1228">Je les méprise assez pour ne m'en venger pas ;</l>
+	<l id="1229">Mais sur le grand César je puis fort peu de chose,</l>
+	<l id="1230">Quand le sang de Pompée à mes désirs s'oppose.</l>
+	<l id="1231">Je ne me vante pas de pouvoir le fléchir ;</l>
+	<l id="1232">J'en ai déjà parlé, mais il a su gauchir ;</l>
+	<l id="1233">Et tournant le discours sur une autre matière,</l>
+	<l id="1234">Il n'a ni refusé, ni souffert ma prière.</l>
+	<l id="1235">Je veux bien toutefois encor m'y hasarder,</l>
+	<l id="1236">Mes efforts redoublés pourront mieux succéder ;</l>
+	<l id="1237" part="i">Et j'ose croire...</l>
+</sp>
+<sp who="PTOLEMEE"><speaker>PTOLÉMÉE</speaker>
+	<l id="1237" part="f">Il vient ; souffrez que je l'évite :</l>
+	<l id="1238">Je crains que ma présence à vos yeux ne l'irrite,</l>
+	<l id="1239">Que son courroux ému ne s'aigrisse à me voir ;</l>
+	<l id="1240">Et vous agirez seule avec plus de pouvoir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. César, Cléopâtre, Antoine, Lépide, Charmion, Achorée, romains.</head>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1241">Reine, tout est paisible ; et la ville calmée,</l>
+	<l id="1242">Qu'un trouble assez léger avait trop alarmée,</l>
+	<l id="1243">N'a plus à redouter le divorce intestin</l>
+	<l id="1244">Du soldat insolent et du peuple mutin.</l>
+	<l id="1245">Mais, ô dieux ! Ce moment que je vous ai quittée</l>
+	<l id="1246">D'un trouble bien plus grand a mon âme agitée !</l>
+	<l id="1247">Et ces soins importuns, qui m'arrachaient de vous,</l>
+	<l id="1248">Contre ma grandeur même allumaient mon courroux :</l>
+	<l id="1249">Je lui voulais du mal de m'être si contraire,</l>
+	<l id="1250">De rendre ma présence ailleurs si nécessaire ;</l>
+	<l id="1251">Mais je lui pardonnais, au simple souvenir</l>
+	<l id="1252">Du bonheur qu'à ma flamme elle fait obtenir.</l>
+	<l id="1253">C'est elle dont je tiens cette haute espérance</l>
+	<l id="1254">Qui flatte mes désirs d'une illustre apparence,</l>
+	<l id="1255">Et fait croire à César qu'il peut former des voeux,</l>
+	<l id="1256">Qu'il n'est pas tout à fait indigne de vos feux,</l>
+	<l id="1257">Et qu'il peut en prétendre une juste conquête,</l>
+	<l id="1258">N'ayant plus que les dieux au-dessus de sa tête.</l>
+	<l id="1259">Oui, reine, si quelqu'un dans ce vaste univers</l>
+	<l id="1260">Pouvait porter plus haut la gloire de vos fers ;</l>
+	<l id="1261">S'il était quelque trône où vous pussiez paraître</l>
+	<l id="1262">Plus dignement assise en captivant son maître,</l>
+	<l id="1263">J'irais, j'irais à lui, moins pour le lui ravir,</l>
+	<l id="1264">Que pour lui disputer le droit de vous servir ;</l>
+	<l id="1265">Et je n'aspirerais au bonheur de vous plaire</l>
+	<l id="1266">Qu'après avoir mis bas un si grand adversaire.</l>
+	<l id="1267">C'était pour acquérir un droit si précieux</l>
+	<l id="1268">Que combattait partout mon bras ambitieux ;</l>
+	<l id="1269">Et dans Pharsale même il a tiré l'épée</l>
+	<l id="1270">Plus pour le conserver que pour vaincre Pompée.</l>
+	<l id="1271">Je l'ai vaincu, princesse ; et le dieu des combats</l>
+	<l id="1272">M'y favorisait moins que vos divins appas :</l>
+	<l id="1273">Ils conduisaient ma main, ils enflaient mon courage ;</l>
+	<l id="1274">Cette pleine victoire est leur dernier ouvrage :</l>
+	<l id="1275">C'est l'effet des ardeurs qu'ils daignaient m'inspirer ;</l>
+	<l id="1276">Et vos beaux yeux enfin m'ayant fait soupirer,</l>
+	<l id="1277">Pour faire que votre âme avec gloire y réponde,</l>
+	<l id="1278">M'ont rendu le premier et de Rome et du monde.</l>
+	<l id="1279">C'est ce glorieux titre, à présent effectif,</l>
+	<l id="1280">Que je viens ennoblir par celui de captif :</l>
+	<l id="1281">Heureux, si mon esprit gagne tant sur le vôtre,</l>
+	<l id="1282">Qu'il en estime l'un et me permette l'autre !</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1283">Je sais ce que je dois au souverain bonheur</l>
+	<l id="1284">Dont me comble et m'accable un tel excès d'honneur.</l>
+	<l id="1285">Je ne vous tiendrai plus mes passions secrètes :</l>
+	<l id="1286">Je sais ce que je suis ; je sais ce que vous êtes.</l>
+	<l id="1287">Vous daignâtes m'aimer dès mes plus jeunes ans ;</l>
+	<l id="1288">Le sceptre que je porte est un de vos présents ;</l>
+	<l id="1289">Vous m'avez par deux fois rendu le diadème :</l>
+	<l id="1290">J'avoue, après cela, seigneur, que je vous aime,</l>
+	<l id="1291">Et que mon coeur n'est point à l'épreuve des traits</l>
+	<l id="1292">Ni de tant de vertus, ni de tant de bienfaits.</l>
+	<l id="1293">Mais, hélas ! Ce haut rang, cette illustre naissance,</l>
+	<l id="1294">Cet état de nouveau rangé sous ma puissance,</l>
+	<l id="1295">Ce sceptre par vos mains dans les miennes remis,</l>
+	<l id="1296">À mes voeux innocents sont autant d'ennemis.</l>
+	<l id="1297">Ils allument contre eux une implacable haine :</l>
+	<l id="1298">Ils me font méprisable alors qu'ils me font reine ;</l>
+	<l id="1299">Et si Rome est encore telle qu'auparavant,</l>
+	<l id="1300">Le trône où je me sieds m'abaisse en m'élevant ;</l>
+	<l id="1301">Et ces marques d'honneur, comme titres infâmes,</l>
+	<l id="1302">Me rendent à jamais indigne de vos flammes.</l>
+	<l id="1303">J'ose encore toutefois, voyant votre pouvoir,</l>
+	<l id="1304">Permettre à mes désirs un généreux espoir.</l>
+	<l id="1305">Après tant de combats, je sais qu'un si grand homme</l>
+	<l id="1306">A droit de triompher des caprices de Rome,</l>
+	<l id="1307">Et que l'injuste horreur qu'elle eut toujours des rois</l>
+	<l id="1308">Peut céder par votre ordre à de plus justes lois.</l>
+	<l id="1309">Je sais que vous pouvez forcer d'autres obstacles :</l>
+	<l id="1310">Vous me l'avez promis, et j'attends ces miracles.</l>
+	<l id="1311">Votre bras dans Pharsale a fait de plus grands coups,</l>
+	<l id="1312">Et je ne les demande à d'autres dieux qu'à vous.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1313">Tout miracle est facile où mon amour s'applique.</l>
+	<l id="1314">Je n'ai plus qu'à courir les côtes de l'Afrique,</l>
+	<l id="1315">Qu'à montrer mes drapeaux au reste épouvanté</l>
+	<l id="1316">Du parti malheureux qui m'a persécuté ;</l>
+	<l id="1317">Rome n'ayant plus lors d'ennemis à me faire,</l>
+	<l id="1318">Par impuissance enfin prendra soin de me plaire ;</l>
+	<l id="1319">Et vos yeux la verront, par un superbe accueil,</l>
+	<l id="1320">Immoler à vos pieds sa haine et son orgueil.</l>
+	<l id="1321">Encore une défaite, et dans Alexandrie</l>
+	<l id="1322">Je veux que cette ingrate en ma faveur vous prie ;</l>
+	<l id="1323">Et qu'un juste respect, conduisant ses regards,</l>
+	<l id="1324">À votre chaste amour demande des Césars.</l>
+	<l id="1325">C'est l'unique bonheur où mes désirs prétendent ;</l>
+	<l id="1326">C'est le fruit que j'attends des lauriers qui m'attendent :</l>
+	<l id="1327">Heureux si mon destin, encore un peu plus doux,</l>
+	<l id="1328">Me les faisait cueillir sans m'éloigner de vous !</l>
+	<l id="1329">Mais, las ! Contre mon feu mon feu me sollicite :</l>
+	<l id="1330">Si je veux être à vous, il faut que je vous quitte.</l>
+	<l id="1331">En quelques lieux qu'on fuie, il me faut y courir,</l>
+	<l id="1332">Pour achever de vaincre et de vous conquérir.</l>
+	<l id="1333">Permettez cependant qu'à ces douces amorces</l>
+	<l id="1334">Je prenne un nouveau coeur et de nouvelles forces,</l>
+	<l id="1335">Pour faire dire encore aux peuples pleins d'effroi,</l>
+	<l id="1336">Que venir, voir et vaincre est même chose en moi.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1337">C'est trop, c'est trop, seigneur, souffrez que j'en abuse :</l>
+	<l id="1338">Votre amour fait ma faute, il fera mon excuse.</l>
+	<l id="1339">Vous me rendez le sceptre, et peut-être le jour ;</l>
+	<l id="1340">Mais si j'ose abuser de cet excès d'amour,</l>
+	<l id="1341">Je vous conjure encore, par ses plus puissants charmes,</l>
+	<l id="1342">Par ce juste bonheur qui suit toujours vos armes,</l>
+	<l id="1343">Par tout ce que j'espère et que vous attendez,</l>
+	<l id="1344">De n'ensanglanter pas ce que vous me rendez.</l>
+	<l id="1345">Faites grâce, seigneur, ou souffrez que j'en fasse,</l>
+	<l id="1346">Et montre à tous par là que j'ai repris ma place.</l>
+	<l id="1347">Achillas et Photin sont gens à dédaigner :</l>
+	<l id="1348">Ils sont assez punis en me voyant régner ;</l>
+	<l id="1349" part="i">Et leur crime...</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1349" part="f">Ah ! Prenez d'autres marques de reine :</l>
+	<l id="1350">Dessus mes volontés vous êtes souveraine ;</l>
+	<l id="1351">Mais si mes sentiments peuvent être écoutés,</l>
+	<l id="1352">Choisissez des sujets dignes de vos bontés.</l>
+	<l id="1353">Ne vous donnez sur moi qu'un pouvoir légitime,</l>
+	<l id="1354">Et ne me rendez point complice de leur crime.</l>
+	<l id="1355">C'est beaucoup que pour vous j'ose épargner le roi,</l>
+	<l id="1356" part="i">Et si mes feux n'étaient...</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. César, Cornélie, Cléopâtre, Achorée, Antoine, Lépide, Charmion, romains.</head>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1356" part="f">César, prends garde à toi :</l>
+	<l id="1357">Ta mort est résolue, on la jure, on l'apprête ;</l>
+	<l id="1358">À celle de Pompée on veut joindre ta tête.</l>
+	<l id="1359">Prends-y garde, César, ou ton sang répandu</l>
+	<l id="1360">Bientôt parmi le sien se verra confondu.</l>
+	<l id="1361">Mes esclaves en sont ; apprends de leurs indices</l>
+	<l id="1362">L'auteur de l'attentat, et l'ordre, et les complices :</l>
+	<l id="1363" part="i">Je te les abandonne.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1363" part="f">Ô coeur vraiment romain,</l>
+	<l id="1364">Et digne du héros qui vous donna la main !</l>
+	<l id="1365">Ses mânes, qui du ciel ont vu de quel courage</l>
+	<l id="1366">Je préparais la mienne à venger son outrage,</l>
+	<l id="1367">Mettant leur haine bas, me sauvent aujourd'hui</l>
+	<l id="1368">Par la moitié qu'en terre il nous laisse de lui.</l>
+	<l id="1369">Il vit, il vit encore en l'objet de sa flamme,</l>
+	<l id="1370">Il parle par sa bouche, il agit dans son âme ;</l>
+	<l id="1371">Il la pousse, et l'oppose à cette indignité,</l>
+	<l id="1372">Pour me vaincre par elle en générosité.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1373">Tu te flattes, César, de mettre en ta croyance</l>
+	<l id="1374">Que la haine ait fait place à la reconnaissance :</l>
+	<l id="1375">Ne le présume plus ; le sang de mon époux</l>
+	<l id="1376">A rompu pour jamais tout commerce entre nous.</l>
+	<l id="1377">J'attends la liberté qu'ici tu m'as offerte,</l>
+	<l id="1378">Afin de l'employer toute entière à ta perte ;</l>
+	<l id="1379">Et je te chercherai partout des ennemis,</l>
+	<l id="1380">Si tu m'oses tenir ce que tu m'as promis.</l>
+	<l id="1381">Mais avec cette soif que j'ai de ta ruine,</l>
+	<l id="1382">Je me jette au-devant du coup qui t'assassine,</l>
+	<l id="1383">Et forme des désirs avec trop de raison</l>
+	<l id="1384">Pour en aimer l'effet par une trahison :</l>
+	<l id="1385">Qui la sait et la souffre a part à l'infamie.</l>
+	<l id="1386">Si je veux ton trépas, c'est en juste ennemie :</l>
+	<l id="1387">Mon époux a des fils, il aura des neveux ;</l>
+	<l id="1388">Quand ils te combattront, c'est là que je le veux,</l>
+	<l id="1389">Et qu'une digne main par moi-même animée,</l>
+	<l id="1390">Dans ton champ de bataille, aux yeux de ton armée,</l>
+	<l id="1391">T'immole noblement, et par un digne effort,</l>
+	<l id="1392">Aux mânes du héros dont tu venges la mort.</l>
+	<l id="1393">Tous mes soins, tous mes voeux hâtent cette vengeance ;</l>
+	<l id="1394">Ta perte la recule, et ton salut l'avance.</l>
+	<l id="1395">Quelque espoir qui d'ailleurs me l'ose ou puisse offrir,</l>
+	<l id="1396">Ma juste impatience aurait trop à souffrir :</l>
+	<l id="1397">La vengeance éloignée est à demi perdue,</l>
+	<l id="1398">Et quand il faut l'attendre, elle est trop cher vendue.</l>
+	<l id="1399">Je n'irai point chercher sur les bords africains</l>
+	<l id="1400">Le foudre souhaité que je vois en tes mains :</l>
+	<l id="1401">La tête qu'il menace en doit être frappée.</l>
+	<l id="1402">J'ai pu donner la tienne, au lieu d'elle, à Pompée :</l>
+	<l id="1403">Ma haine avait le choix ; mais cette haine enfin</l>
+	<l id="1404">Sépare son vainqueur d'avec son assassin,</l>
+	<l id="1405">Et ne croit avoir droit de punir ta victoire</l>
+	<l id="1406">Qu'après le châtiment d'une action si noire.</l>
+	<l id="1407">Rome le veut ainsi ; son adorable front</l>
+	<l id="1408">Aurait de quoi rougir d'un trop honteux affront,</l>
+	<l id="1409">De voir en même jour, après tant de conquêtes,</l>
+	<l id="1410">Sous un indigne fer ses deux plus nobles têtes.</l>
+	<l id="1411">Son grand coeur, qu'à tes lois en vain tu crois soumis,</l>
+	<l id="1412">En veut aux criminels plus qu'à ses ennemis,</l>
+	<l id="1413">Et tiendrait à malheur le bien de se voir libre,</l>
+	<l id="1414">Si l'attentat du Nil affranchissait le Tibre.</l>
+	<l id="1415">Comme autre qu'un Romain n'a pu l'assujettir,</l>
+	<l id="1416">Autre aussi qu'un Romain ne l'en doit garantir.</l>
+	<l id="1417">Tu tomberais ici sans être sa victime ;</l>
+	<l id="1418">Au lieu d'un châtiment ta mort serait un crime ;</l>
+	<l id="1419">Et sans que tes pareils en conçussent d'effroi,</l>
+	<l id="1420">L'exemple que tu dois périrait avec toi.</l>
+	<l id="1421">Venge-la de l'Égypte à son appui fatale,</l>
+	<l id="1422">Et je la vengerai, si je puis, de Pharsale.</l>
+	<l id="1423">Va, ne perds point de temps, il presse. Adieu : tu peux</l>
+	<l id="1424">Te vanter qu'une fois j'ai fait pour toi des voeux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. César, Cléopâtre, Antoine, Lépide, Achorée, Charmion.</head>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1425">Son courage m'étonne autant que leur audace.</l>
+	<l id="1426">Reine, voyez pour qui vous me demandiez grâce !</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1427">Je n'ai rien à vous dire : allez, seigneur, allez</l>
+	<l id="1428">Venger sur ces méchants tant de droits violés.</l>
+	<l id="1429">On m'en veut plus qu'à vous : c'est ma mort qu'ils respirent,</l>
+	<l id="1430">C'est contre mon pouvoir que les traîtres conspirent ;</l>
+	<l id="1431">Leur rage, pour l'abattre, attaque mon soutien,</l>
+	<l id="1432">Et par votre trépas cherche un passage au mien.</l>
+	<l id="1433">Mais parmi ces transports d'une juste colère,</l>
+	<l id="1434">Je ne puis oublier que leur chef est mon frère.</l>
+	<l id="1435">Le saurez-vous, seigneur ? Et pourrai-je obtenir</l>
+	<l id="1436">Que ce coeur irrité daigne s'en souvenir ?</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1437">Oui, je me souviendrai que ce coeur magnanime</l>
+	<l id="1438">Au bonheur de son sang veut pardonner son crime.</l>
+	<l id="1439">Adieu, ne craignez rien : Achillas et Photin</l>
+	<l id="1440">Ne sont pas gens à vaincre un si puissant destin.</l>
+	<l id="1441">Pour les mettre en déroute, eux et tous leurs complices,</l>
+	<l id="1442">Je n'ai qu'à déployer l'appareil des supplices,</l>
+	<l id="1443">Et pour soldats choisis, envoyer des bourreaux</l>
+	<l id="1444">Qui portent hautement mes haches pour drapeaux.</l>
+<stage>César rentre avec les Romains.</stage>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1445">Ne quittez pas César : allez, cher Achorée,</l>
+	<l id="1446">Repousser avec lui ma mort qu'on a jurée ;</l>
+	<l id="1447">Et quand il punira nos lâches ennemis,</l>
+	<l id="1448">Faites-le souvenir de ce qu'il m'a promis.</l>
+	<l id="1449">Ayez l'oeil sur le roi dans la chaleur des armes,</l>
+	<l id="1450">Et conservez son sang pour épargner mes larmes.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1451">Madame, assurez-vous qu'il ne peut y périr,</l>
+	<l id="1452">Si mon zèle et mes soins peuvent le secourir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cornélie, tenant une petite, urne en sa main, Philippe.</head>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1453">Mes yeux, puis-je vous croire, et n'est-ce point un songe</l>
+	<l id="1454">Qui sur mes tristes voeux a formé ce mensonge ?</l>
+	<l id="1455">Te revois-je, Philippe, et cet époux si cher</l>
+	<l id="1456">A-t-il reçu de toi les honneurs du bûcher ?</l>
+	<l id="1457">Cette urne que je tiens contient-elle sa cendre ?</l>
+	<l id="1458">Ô vous, à ma douleur objet terrible et tendre,</l>
+	<l id="1459">éternel entretien de haine et de pitié,</l>
+	<l id="1460">Reste du grand Pompée, écoutez sa moitié.</l>
+	<l id="1461">N'attendez point de moi de regrets, ni de larmes ;</l>
+	<l id="1462">Un grand coeur à ses maux applique d'autres charmes.</l>
+	<l id="1463">Les faibles déplaisirs s'amusent à parler,</l>
+	<l id="1464">Et quiconque se plaint cherche à se consoler.</l>
+	<l id="1465">Moi, je jure des dieux la puissance suprême,</l>
+	<l id="1466">Et pour dire encore plus, je jure par vous-même,</l>
+	<l id="1467">Car vous pouvez bien plus sur ce coeur affligé</l>
+	<l id="1468">Que le respect des dieux qui l'ont mal protégé :</l>
+	<l id="1469">Je jure donc par vous, ô pitoyable reste,</l>
+	<l id="1470">Ma divinité seule après ce coup funeste,</l>
+	<l id="1471">Par vous, qui seul ici pouvez me soulager,</l>
+	<l id="1472">De n'éteindre jamais l'ardeur de le venger.</l>
+	<l id="1473">Ptolomée à César, par un lâche artifice,</l>
+	<l id="1474">Rome, de ton Pompée a fait un sacrifice ;</l>
+	<l id="1475">Et je n'entrerai point dans tes murs désolés,</l>
+	<l id="1476">Que le prêtre et le dieu ne lui soient immolés.</l>
+	<l id="1477">Faites-m'en souvenir, et soutenez ma haine,</l>
+	<l id="1478">Ô cendres, mon espoir aussi bien que ma peine ;</l>
+	<l id="1479">Et pour m'aider un jour à perdre son vainqueur,</l>
+	<l id="1480">Versez dans tous les coeurs ce que ressent mon coeur.</l>
+	<l id="1481">Toi qui l'as honoré sur cette infâme rive</l>
+	<l id="1482">D'une flamme pieuse autant comme chétive,</l>
+	<l id="1483">Dis-moi, quel bon démon a mis en ton pouvoir</l>
+	<l id="1484">De rendre à ce héros ce funèbre devoir ?</l>
+</sp>
+<sp who="PHILIPPE"><speaker>PHILIPPE</speaker>
+	<l id="1485">Tout couvert de son sang, et plus mort que lui-même,</l>
+	<l id="1486">Après avoir cent fois maudit le diadème,</l>
+	<l id="1487">Madame, j'ai porté mes pas et mes sanglots</l>
+	<l id="1488">Du côté que le vent poussait encore les flots.</l>
+	<l id="1489">Je cours longtemps en vain ; mais enfin d'une roche</l>
+	<l id="1490">J'en découvre le tronc vers un sable assez proche,</l>
+	<l id="1491">Où la vague en courroux semblait prendre plaisir</l>
+	<l id="1492">À feindre de le rendre, et puis s'en ressaisir.</l>
+	<l id="1493">Je m'y jette, et l'embrasse, et le pousse au rivage ;</l>
+	<l id="1494">Et ramassant sous lui le débris d'un naufrage,</l>
+	<l id="1495">Je lui dresse un bûcher à la hâte et sans art,</l>
+	<l id="1496">Tel que je pus sur l'heure, et qu'il plût au hasard.</l>
+	<l id="1497">À peine brûlait-il que le ciel plus propice</l>
+	<l id="1498">M'envoie un compagnon en ce pieux office :</l>
+	<l id="1499">Cordus, un vieux Romain qui demeure en ces lieux,</l>
+	<l id="1500">Retournant de la ville, y détourne les yeux ;</l>
+	<l id="1501">Et n'y voyant qu'un tronc dont la tête est coupée,</l>
+	<l id="1502">À cette triste marque il reconnaît Pompée.</l>
+	<l id="1503">Soudain la larme à l'oeil : « Ô toi, qui que tu sois,</l>
+	<l id="1504">À qui le ciel permet de si dignes emplois,</l>
+	<l id="1505">Ton sort est bien, dit-il, autre que tu ne penses ;</l>
+	<l id="1506">Tu crains des châtiments, attends des récompenses.</l>
+	<l id="1507">César est en Égypte, et venge hautement</l>
+	<l id="1508">Celui pour qui ton zèle a tant de sentiment.</l>
+	<l id="1509">Tu peux faire éclater les soins qu'on t'en voit prendre,</l>
+	<l id="1510">Tu peux même à sa veuve en reporter la cendre.</l>
+	<l id="1511">Son vainqueur l'a reçue avec tout le respect</l>
+	<l id="1512">Qu'un dieu pourrait ici trouver à son aspect.</l>
+	<l id="1513">Achève, je reviens. » Il part et m'abandonne,</l>
+	<l id="1514">Et rapporte aussitôt ce vase qu'il me donne,</l>
+	<l id="1515">Où sa main et la mienne enfin ont renfermé</l>
+	<l id="1516">Ces restes d'un héros par le feu consumé.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1517">Oh ! Que sa piété mérite de louanges !</l>
+</sp>
+<sp who="PHILIPE"><speaker>PHILIPPE</speaker>
+	<l id="1518">En entrant j'ai trouvé des désordres étranges.</l>
+	<l id="1519">J'ai vu fuir tout un peuple en foule vers le port,</l>
+	<l id="1520">Où le roi, disait-on, s'était fait le plus fort.</l>
+	<l id="1521">Les Romains poursuivaient ; et César, dans la place</l>
+	<l id="1522">Ruisselante du sang de cette populace,</l>
+	<l id="1523">Montrait de sa justice un exemple si beau,</l>
+	<l id="1524">Faisant passer Photin par les mains d'un bourreau.</l>
+	<l id="1525">Aussitôt qu'il me voit, il daigne me connaître ;</l>
+	<l id="1526">Et prenant de ma main les cendres de mon maître :</l>
+	<l id="1527">" restes d'un demi-dieu, dont à peine je puis</l>
+	<l id="1528">égaler le grand nom, tout vainqueur que j'en suis,</l>
+	<l id="1529">De vos traîtres, dit-il, voyez punir les crimes :</l>
+	<l id="1530">Attendant des autels, recevez ces victimes ;</l>
+	<l id="1531">Bien d'autres vont les suivre. Et toi, cours au palais</l>
+	<l id="1532">Porter à sa moitié ce don que je lui fais ;</l>
+	<l id="1533">Porte à ses déplaisirs cette faible allégeance,</l>
+	<l id="1534">Et dis-lui que je cours achever sa vengeance. "</l>
+	<l id="1535">Ce grand homme à ces mots me quitte en soupirant,</l>
+	<l id="1536">Et baise avec respect ce vase qu'il me rend.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1537">Ô soupirs ! ô respect ! Oh ! Qu'il est doux de plaindre</l>
+	<l id="1538">Le sort d'un ennemi quand il n'est plus à craindre !</l>
+	<l id="1539">Qu'avec chaleur, Philippe, on court à le venger</l>
+	<l id="1540">Lorsqu'on s'y voit forcé par son propre danger,</l>
+	<l id="1541">Et quand cet intérêt qu'on prend pour sa mémoire</l>
+	<l id="1542">Fait notre sûreté comme il croît notre gloire !</l>
+	<l id="1543">César est généreux, j'en veux être d'accord ;</l>
+	<l id="1544">Mais le roi le veut perdre, et son rival est mort.</l>
+	<l id="1545">Sa vertu laisse lieu de douter à l'envie</l>
+	<l id="1546">De ce qu'elle ferait s'il le voyait en vie :</l>
+	<l id="1547">Pour grand qu'en soit le prix, son péril en rabat ;</l>
+	<l id="1548">Cette ombre qui la couvre en affaiblit l'éclat ;</l>
+	<l id="1549">L'amour même s'y mêle, et le force à combattre :</l>
+	<l id="1550">Quand il venge Pompée, il défend Cléopatre.</l>
+	<l id="1551">Tant d'intérêts sont joints à ceux de mon époux,</l>
+	<l id="1552">Que je ne devrais rien à ce qu'il fait pour nous,</l>
+	<l id="1553">Si, comme par soi-même un grand coeur juge un autre,</l>
+	<l id="1554">Je n'aimais mieux juger sa vertu par la nôtre,</l>
+	<l id="1555">Et croire que nous seuls armons ce combattant,</l>
+	<l id="1556">Parce qu'au point qu'il est j'en voudrais faire autant.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cléopâtre, Cornélie, Philippe, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1557">Je ne viens pas ici pour troubler une plainte</l>
+	<l id="1558">Trop juste à la douleur dont vous êtes atteinte :</l>
+	<l id="1559">Je viens pour rendre hommage aux cendres d'un héros</l>
+	<l id="1560">Qu'un fidèle affranchi vient d'arracher aux flots ;</l>
+	<l id="1561">Pour le plaindre avec vous, et vous jurer, madame,</l>
+	<l id="1562">Que j'aurais conservé ce maître de votre âme,</l>
+	<l id="1563">Si le ciel, qui vous traite avec trop de rigueur,</l>
+	<l id="1564">M'en eût donné la force aussi bien que le coeur.</l>
+	<l id="1565">Si pourtant, à l'aspect de ce qu'il vous renvoie,</l>
+	<l id="1566">Vos douleurs laissaient place à quelque peu de joie ;</l>
+	<l id="1567">Si la vengeance avait de quoi vous soulager,</l>
+	<l id="1568">Je vous dirais aussi qu'on vient de vous venger,</l>
+	<l id="1569">Que le traître Photin... Vous le savez peut-être ?</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1570">Oui, princesse, je sais qu'on a puni ce traître.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1571">Un si prompt châtiment vous doit être bien doux.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1572">S'il a quelque douceur, elle n'est que pour vous.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1573">Tous les coeurs trouvent doux le succès qu'ils espèrent.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1574">Comme nos intérêts, nos sentiments diffèrent.</l>
+	<l id="1575">Si César à sa mort joint celle d'Achillas,</l>
+	<l id="1576">Vous êtes satisfaite, et je ne la suis pas.</l>
+	<l id="1577">Aux mânes de Pompée il faut une autre offrande :</l>
+	<l id="1578">La victime est trop basse et l'injure est trop grande ;</l>
+	<l id="1579">Et ce n'est pas un sang que pour la réparer</l>
+	<l id="1580">Son ombre et ma douleur daignent considérer.</l>
+	<l id="1581">L'ardeur de le venger, dans mon âme allumée,</l>
+	<l id="1582">En attendant César, demande Ptolomée.</l>
+	<l id="1583">Tout indigne qu'il est de vivre et de régner,</l>
+	<l id="1584">Je sais bien que César se force à l'épargner ;</l>
+	<l id="1585">Mais quoi que son amour ait osé vous promettre,</l>
+	<l id="1586">Le ciel, plus juste enfin, n'osera le permettre ;</l>
+	<l id="1587">Et s'il peut une fois écouter tous mes voeux,</l>
+	<l id="1588">Par la main l'un de l'autre ils périront tous deux.</l>
+	<l id="1589">Mon âme à ce bonheur, si le ciel me l'envoie,</l>
+	<l id="1590">Oubliera ses douleurs pour s'ouvrir à la joie ;</l>
+	<l id="1591">Mais si ce grand souhait demande trop pour moi,</l>
+	<l id="1592">Si vous n'en perdez qu'un, ô ciel ! Perdez le roi.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1593">Le ciel sur nos souhaits ne règle pas les choses.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1594">Le ciel règle souvent les effets sur les causes,</l>
+	<l id="1595">Et rend aux criminels ce qu'ils ont mérité.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1596">Comme de la justice, il a de la bonté.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1597">Oui ; mais il fait juger, à voir comme il commence,</l>
+	<l id="1598">Que sa justice agit, et non pas sa clémence.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1599">Souvent de la justice il passe à la douceur.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1600">Reine, je parle en veuve, et vous parlez en soeur.</l>
+	<l id="1601">Chacune a son sujet d'aigreur ou de tendresse,</l>
+	<l id="1602">Qui dans le sort du roi justement l'intéresse.</l>
+	<l id="1603">Apprenons par le sang qu'on aura répandu</l>
+	<l id="1604">À quels souhaits le ciel a le mieux répondu.</l>
+	<l id="1605" part="i">Voici votre Achorée.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Cornélie, Cléopâtre, Achorée, Philippe, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1605" part="f">Hélas ! Sur son visage</l>
+	<l id="1606">Rien ne s'offre à mes yeux que de mauvais présage.</l>
+	<l id="1607">Ne nous déguisez rien, parlez sans me flatter :</l>
+	<l id="1608">Qu'ai-je à craindre, Achorée, ou qu'ai-je à regretter ?</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1609">Aussitôt que César eut su la perfidie...</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1610">Ce ne sont pas ses soins que je veux qu'on me die.</l>
+	<l id="1611">Je sais qu'il fit trancher et clore ce conduit</l>
+	<l id="1612">Par où ce grand secours devait être introduit ;</l>
+	<l id="1613">Qu'il manda tous les siens pour s'assurer la place,</l>
+	<l id="1614">Où Photin a reçu le prix de son audace ;</l>
+	<l id="1615">Que d'un si prompt supplice Achillas étonné</l>
+	<l id="1616">S'est aisément saisi du port abandonné ;</l>
+	<l id="1617">Que le roi l'a suivi ; qu'Antoine a mis à terre</l>
+	<l id="1618">Ce qui dans ses vaisseaux restait de gens de guerre ;</l>
+	<l id="1619">Que César l'a rejoint ; et je ne doute pas</l>
+	<l id="1620">Qu'il n'ait su vaincre encore, et punir Achillas.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1621">Oui, madame, on a vu son bonheur ordinaire...</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1622">Dites-moi seulement s'il a sauvé mon frère,</l>
+	<l id="1623" part="i">S'il m'a tenu promesse.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1623" part="f">Oui, de tout son pouvoir.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1624">C'est là l'unique point que je voulais savoir.</l>
+	<l id="1625">Madame, vous voyez, les dieux m'ont écoutée.</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1626">Ils n'ont que différé la peine méritée.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1627">Vous la vouliez sur l'heure, ils l'en ont garanti.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1628">Il faudrait qu'à nos voeux il eût mieux consenti.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1629">Que disiez-vous naguère, et que viens-je d'entendre ?</l>
+	<l id="1630">Accordez ces discours, que j'ai peine à comprendre.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1631">Aucuns ordres ni soins n'ont pu le secourir :</l>
+	<l id="1632">Malgré César et nous il a voulu périr ;</l>
+	<l id="1633">Mais il est mort, madame, avec toutes les marques</l>
+	<l id="1634">Que puissent laisser d'eux les plus dignes monarques :</l>
+	<l id="1635">Sa vertu rappelée a soutenu son rang,</l>
+	<l id="1636">Et sa perte aux Romains a coûté bien du sang.</l>
+	<l id="1637">Il combattait Antoine avec tant de courage,</l>
+	<l id="1638">Qu'il emportait déjà sur lui quelque avantage ;</l>
+	<l id="1639">Mais l'abord de César a changé le destin ;</l>
+	<l id="1640">Aussitôt Achillas suit le sort de Photin :</l>
+	<l id="1641">Il meurt, mais d'une mort trop belle pour un traître,</l>
+	<l id="1642">Les armes à la main, en défendant son maître.</l>
+	<l id="1643">Le vainqueur crie en vain qu'on épargne le roi ;</l>
+	<l id="1644">Ces mots au lieu d'espoir lui donnent de l'effroi ;</l>
+	<l id="1645">Son esprit alarmé les croit un artifice</l>
+	<l id="1646">Pour réserver sa tête à l'affront d'un supplice.</l>
+	<l id="1647">Il pousse dans nos rangs, il les perce, et fait voir</l>
+	<l id="1648">Ce que peut la vertu qu'arme le désespoir ;</l>
+	<l id="1649">Et son coeur, emporté par l'erreur qui l'abuse,</l>
+	<l id="1650">Cherche partout la mort, que chacun lui refuse.</l>
+	<l id="1651">Enfin perdant haleine après ces grands efforts,</l>
+	<l id="1652">Près d'être environné, ses meilleurs soldats morts,</l>
+	<l id="1653">Il voit quelques fuyards sauter dans une barque :</l>
+	<l id="1654">Il s'y jette, et les siens, qui suivent leur monarque,</l>
+	<l id="1655">D'un si grand nombre en foule accablent ce vaisseau,</l>
+	<l id="1656">Que la mer l'engloutit avec tout son fardeau.</l>
+	<l id="1657">C'est ainsi que sa mort lui rend toute sa gloire,</l>
+	<l id="1658">À vous toute l'Égypte, à César la victoire.</l>
+	<l id="1659">Il vous proclame reine ; et bien qu'aucun Romain</l>
+	<l id="1660">Du sang que vous pleurez n'ait vu rougir sa main,</l>
+	<l id="1661">Il nous fait voir à tous un déplaisir extrême,</l>
+	<l id="1662">Il soupire, il gémit. Mais le voici lui-même,</l>
+	<l id="1663">Qui pourra mieux que moi vous montrer la douleur</l>
+	<l id="1664">Que lui donne du roi l'invincible malheur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. César, Cornélie, Cléopâtre, Antoine, Lépide, Achorée, Charmion, Philippe.</head>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1665">César, tiens-moi parole, et me rends mes galères.</l>
+	<l id="1666">Achillas et Photin ont reçu leurs salaires ;</l>
+	<l id="1667">Leur roi n'a pu jouir de ton coeur adouci ;</l>
+	<l id="1668">Et Pompée est vengé ce qu'il peut l'être ici.</l>
+	<l id="1669">Je n'y saurais plus voir qu'un funeste rivage</l>
+	<l id="1670">Qui de leur attentat m'offre l'horrible image,</l>
+	<l id="1671">Ta nouvelle victoire, et le bruit éclatant</l>
+	<l id="1672">Qu'aux changements de roi pousse un peuple inconstant ;</l>
+	<l id="1673">Et parmi ces objets, ce qui le plus m'afflige,</l>
+	<l id="1674">C'est d'y revoir toujours l'ennemi qui m'oblige.</l>
+	<l id="1675">Laisse-moi m'affranchir de cette indignité,</l>
+	<l id="1676">Et souffre que ma haine agisse en liberté.</l>
+	<l id="1677">À cet empressement j'ajoute une requête :</l>
+	<l id="1678">Vois l'urne de Pompée ; il y manque sa tête :</l>
+	<l id="1679">Ne me la retiens plus, c'est l'unique faveur</l>
+	<l id="1680">Dont je te puis encore prier avec honneur.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1681">Il est juste, et César est tout prêt de vous rendre</l>
+	<l id="1682">Ce reste où vous avez tant de droit de prétendre ;</l>
+	<l id="1683">Mais il est juste aussi qu'après tant de sanglots</l>
+	<l id="1684">À ses mânes errants nous rendions le repos,</l>
+	<l id="1685">Qu'un bûcher allumé par ma main et la vôtre</l>
+	<l id="1686">Le venge pleinement de la honte de l'autre,</l>
+	<l id="1687">Que son ombre s'apaise en voyant notre ennui,</l>
+	<l id="1688">Et qu'une urne plus digne et de vous et de lui,</l>
+	<l id="1689">Après la flamme éteinte et les pompes finies,</l>
+	<l id="1690">Renferme avec éclat ses cendres réunies.</l>
+	<l id="1691">De cette même main dont il fut combattu,</l>
+	<l id="1692">Il verra des autels dressés à sa vertu ;</l>
+	<l id="1693">Il recevra des voeux, de l'encens, des victimes,</l>
+	<l id="1694">Sans recevoir par là d'honneurs que légitimes :</l>
+	<l id="1695">Pour ces justes devoirs je ne veux que demain ;</l>
+	<l id="1696">Ne me refusez pas ce bonheur souverain.</l>
+	<l id="1697">Faites un peu de force à votre impatience ;</l>
+	<l id="1698">Vous êtes libre après : partez en diligence ;</l>
+	<l id="1699">Portez à notre Rome un si digne trésor ;</l>
+	<l id="1700" part="i">Portez...</l>
+</sp>
+<sp who="CORNELIE"><speaker>CORNÉLIE</speaker>
+	<l id="1700" part="f">Non pas, César, non pas à Rome encore :</l>
+	<l id="1701">Il faut que ta défaite et que tes funérailles</l>
+	<l id="1702">À cette cendre aimée en ouvrent les murailles ;</l>
+	<l id="1703">Et quoiqu'elle la tienne aussi chère que moi,</l>
+	<l id="1704">Elle n'y doit rentrer qu'en triomphant de toi.</l>
+	<l id="1705">Je la porte en Afrique ; et c'est là que j'espère</l>
+	<l id="1706">Que les fils de Pompée, et Caton, et mon père,</l>
+	<l id="1707">Secondés par l'effort d'un roi plus généreux,</l>
+	<l id="1708">Ainsi que la justice auront le sort pour eux.</l>
+	<l id="1709">C'est là que tu verras sur la terre et sur l'onde</l>
+	<l id="1710">Le débris de Pharsale armer un autre monde ;</l>
+	<l id="1711">Et c'est là que j'irai, pour hâter tes malheurs,</l>
+	<l id="1712">Porter de rang en rang ces cendres et mes pleurs.</l>
+	<l id="1713">Je veux que de ma haine ils reçoivent des règles,</l>
+	<l id="1714">Qu'ils suivent au combat des urnes au lieu d'aigles ;</l>
+	<l id="1715">Et que ce triste objet porte en leur souvenir</l>
+	<l id="1716">Les soins de le venger, et ceux de te punir.</l>
+	<l id="1717">Tu veux à ce héros rendre un devoir suprême :</l>
+	<l id="1718">L'honneur que tu lui rends rejaillit sur toi-même ;</l>
+	<l id="1719">Tu m'en veux pour témoin : j'obéis au vainqueur ;</l>
+	<l id="1720">Mais ne présume pas toucher par là mon coeur.</l>
+	<l id="1721">La perte que j'ai faite est trop irréparable ;</l>
+	<l id="1722">La source de ma haine est trop inépuisable :</l>
+	<l id="1723">À l'égal de mes jours je la ferai durer ;</l>
+	<l id="1724">Je veux vivre avec elle, avec elle expirer.</l>
+	<l id="1725">Je t'avouerai pourtant, comme vraiment Romaine,</l>
+	<l id="1726">Que pour toi mon estime est égale à ma haine ;</l>
+	<l id="1727">Que l'une et l'autre est juste, et montre le pouvoir,</l>
+	<l id="1728">L'une de ta vertu, l'autre de mon devoir ;</l>
+	<l id="1729">Que l'une est généreuse, et l'autre intéressée,</l>
+	<l id="1730">Et que dans mon esprit l'une et l'autre est forcée.</l>
+	<l id="1731">Tu vois que ta vertu, qu'en vain on veut trahir,</l>
+	<l id="1732">Me force de priser ce que je dois haïr :</l>
+	<l id="1733">Juge ainsi de la haine où mon devoir me lie ;</l>
+	<l id="1734">La veuve de Pompée y force Cornélie.</l>
+	<l id="1735">J'irai, n'en doute point, au sortir de ces lieux,</l>
+	<l id="1736">Soulever contre toi les hommes et les dieux ;</l>
+	<l id="1737">Ces dieux qui t'ont flatté, ces dieux qui m'ont trompée,</l>
+	<l id="1738">Ces dieux qui dans Pharsale ont mal servi Pompée,</l>
+	<l id="1739">Qui la foudre à la main l'ont pu voir égorger :</l>
+	<l id="1740">Ils connaîtront leur faute, et le voudront venger.</l>
+	<l id="1741">Mon zèle, à leur refus, aidé de sa mémoire,</l>
+	<l id="1742">Te saura bien sans eux arracher la victoire :</l>
+	<l id="1743">Et quand tout mon effort se trouvera rompu,</l>
+	<l id="1744">Cléopatre fera ce que je n'aurai pu.</l>
+	<l id="1745">Je sais quelle est ta flamme et quelles sont ses forces,</l>
+	<l id="1746">Que tu n'ignores pas comme on fait les divorces,</l>
+	<l id="1747">Que ton amour t'aveugle, et que pour l'épouser</l>
+	<l id="1748">Rome n'a point de lois que tu n'oses briser ;</l>
+	<l id="1749">Mais sache aussi qu'alors la jeunesse romaine</l>
+	<l id="1750">Se croira tout permis sur l'époux d'une reine,</l>
+	<l id="1751">Et que de cet hymen tes amis indignés</l>
+	<l id="1752">Vengeront sur ton sang leurs avis dédaignés.</l>
+	<l id="1753">J'empêche ta ruine, empêchant tes caresses.</l>
+	<l id="1754">Adieu : j'attends demain l'effet de tes promesses.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. César, Cléopâtre, Antoine, Lépide, Achorée, Charmion.</head>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1755">Plutôt qu'à ces périls je vous puisse exposer,</l>
+	<l id="1756">Seigneur, perdez en moi ce qui les peut causer :</l>
+	<l id="1757">Sacrifiez ma vie au bonheur de la vôtre ;</l>
+	<l id="1758">Le mien sera trop grand, et je n'en veux point d'autre,</l>
+	<l id="1759">Indigne que je suis d'un César pour époux,</l>
+	<l id="1760">Que de vivre en votre âme, étant morte pour vous.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1761">Reine, ces vains projets sont le seul avantage</l>
+	<l id="1762">Qu'un grand coeur impuissant a du ciel en partage :</l>
+	<l id="1763">Comme il a peu de force, il a beaucoup de soins ;</l>
+	<l id="1764">Et s'il pouvait plus faire, il souhaiterait moins.</l>
+	<l id="1765">Les dieux empêcheront l'effet de ces augures,</l>
+	<l id="1766">Et mes félicités n'en seront pas moins pures,</l>
+	<l id="1767">Pourvu que votre amour gagne sur vos douleurs,</l>
+	<l id="1768">Qu'en faveur de César vous tarissiez vos pleurs,</l>
+	<l id="1769">Et que votre bonté, sensible à ma prière,</l>
+	<l id="1770">Pour un fidèle amant oublie un mauvais frère.</l>
+	<l id="1771">On aura pu vous dire avec quel déplaisir</l>
+	<l id="1772">J'ai vu le désespoir qu'il a voulu choisir ;</l>
+	<l id="1773">Avec combien d'efforts j'ai voulu le défendre</l>
+	<l id="1774">Des paniques terreurs qui l'avaient pu surprendre.</l>
+	<l id="1775">Il s'est de mes bontés jusqu'au bout défendu,</l>
+	<l id="1776">Et de peur de se perdre il s'est enfin perdu.</l>
+	<l id="1777">Oh ! Honte pour César, qu'avec tant de puissance,</l>
+	<l id="1778">Tant de soins de vous rendre entière obéissance,</l>
+	<l id="1779">Il n'ait pu toutefois, en ces événements,</l>
+	<l id="1780">Obéir au premier de vos commandements !</l>
+	<l id="1781">Prenez-vous-en au ciel, dont les ordres sublimes</l>
+	<l id="1782">Malgré tous nos efforts savent punir les crimes ;</l>
+	<l id="1783">Sa rigueur envers lui vous ouvre un sort plus doux,</l>
+	<l id="1784">Puisque par cette mort l'Égypte est toute à vous.</l>
+</sp>
+<sp who="CLEOPATRE"><speaker>CLÉOPÂTRE</speaker>
+	<l id="1785">Je sais que j'en reçois un nouveau diadème,</l>
+	<l id="1786">Qu'on n'en peut accuser que les dieux et lui-même ;</l>
+	<l id="1787">Mais comme il est, seigneur, de la fatalité</l>
+	<l id="1788">Que l'aigreur soit mêlée à la félicité,</l>
+	<l id="1789">Ne vous offensez pas si cet heur de vos armes,</l>
+	<l id="1790">Qui me rend tant de biens, me coûte un peu de larmes,</l>
+	<l id="1791">Et si voyant sa mort due à sa trahison,</l>
+	<l id="1792">Je donne à la nature ainsi qu'à la raison.</l>
+	<l id="1793">Je n'ouvre point les yeux sur ma grandeur si proche,</l>
+	<l id="1794">Qu'aussitôt à mon coeur mon sang ne le reproche ;</l>
+	<l id="1795">J'en ressens dans mon âme un murmure secret,</l>
+	<l id="1796">Et ne puis remonter au trône sans regret.</l>
+</sp>
+<sp who="ACHOREE"><speaker>ACHORÉE</speaker>
+	<l id="1797">Un grand peuple, seigneur, dont cette cour est pleine,</l>
+	<l id="1798">Par des cris redoublés demande à voir sa reine,</l>
+	<l id="1799">Et tout impatient déjà se plaint aux cieux</l>
+	<l id="1800">Qu'on lui donne trop tard un bien si précieux.</l>
+</sp>
+<sp who="CESAR"><speaker>CÉSAR</speaker>
+	<l id="1801">Ne lui refusons plus le bonheur qu'il désire :</l>
+	<l id="1802">Princesse, allons par là commencer votre empire.</l>
+	<l id="1803">Fasse le juste ciel, propice à mes désirs,</l>
+	<l id="1804">Que ces longs cris de joie étouffent vos soupirs,</l>
+	<l id="1805">Et puissent ne laisser dedans votre pensée</l>
+	<l id="1806">Que l'image des traits dont mon âme est blessée !</l>
+	<l id="1807">Cependant, qu'à l'envi ma suite et votre cour</l>
+	<l id="1808">Préparent pour demain la pompe d'un beau jour,</l>
+	<l id="1809">Où dans un digne emploi l'une et l'autre occupée</l>
+	<l id="1810">Couronne Cléopatre et m'apaise Pompée,</l>
+	<l id="1811">élève à l'une un trône, à l'autre des autels,</l>
+	<l id="1812">Et jure à tous les deux des respects immortels.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

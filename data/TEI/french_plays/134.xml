@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>HORACE, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1639</date>
+			</titleStmt>
+			<publicationStmp>	
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire romaine</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1631-1640</periode>
+				<taille>1750-2000</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k72709x</permalien>
+				<sources>
+					<source id="1"><author/><text/></source>
+				</sources>	
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">HORACE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1641">M. DC. XXXXI. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'></docAuthor>
+		<docImprint>
+			<privilege id="1641-12-11"><head>Ectrait du Privilège du Roi.</head>
+<p>LOUIS PAR LA GRÂCE DE DIEU ROI DE FRANCE ET DE NAVARRE. À nos Amés et féaux conseiller les gens tenants les cours de Parlement, Maîtres de requêtes ordinaires de notre hôtel, baillifs, sénéchaux, et officiers qu'il appartiendra, Salut. Notre bien aimé AUGUSTIN COURBÉ, libraire à Paris, Nous a fait remontrer qu'il désirerait imprimer Horace, Tragédie, par Corneille, s'il avait sur ce nos lettres nécessaires, lesquelles il nous a très humblement supplié de lui accorder. À ces causes nous avons permis et permettons à l'exposant d'imprimer, vendre et débiter en tous lieux de notre obéissance le dit livre, en telles marges, en tels caractères, et autant de fois qu'il voudra durant l'espace de dix ans entiers et accomplis, à compter du jour qu'ils seront achevés d'imprimer, pour la première fois ; et faisons très expresse défenses à toutes personnes de quelque qualités, et condition qu'elles soient de les imprimer, faire imprimer, vendre ni distribuer en aucun endroit de ce Royaume durant le dit temps, sous prétexte d'augmentation, correction et changement de titre, ou autrement, en quelque sorte et manière que ce soit, à peine de quinze cents livres d'amende, payable sans déport par chacun des contrevenants, et applicables un tiers à Nous, un tiers à l'Hôtel Dieu de Paris, et l'autre à l'exposant, de confiscation des exemplaires contrefaits, et de tous dépens dommages et intérêts : à condition qu'il en sera remis deux exemplaires en notre bibliothèque publique, et un en celle de notre très cher féal et sieur Séguier, Chevalier Chancelier de France, avant que l'exposer en vente, à peine de nullité des présentes, du contenu desquelles nous vous mandons que vous fassiez jouir pleinement et paisiblement  l'exposant, et ceux qui auront droit d'icelui , sans qu'il lui soit fait aucun trouble ni empêchement. Voulons aussi qu'en mettant au commencement ou à la fin  des dits livres un bref extrait des présentes, elles soient tenues pour dûment signifiées, et que  fois y soit ajoutée, et aux copies d'icelles collationnées par l'un de nos amés et féaux conseillers et secrétaire comme à l'original. Mandons aussi au premier huissier ou sergent sur ce requis, de faire pour l'exécution des présentes tous exploits nécessaires sans demander autre permission : car tel est Notre bon plaisir. Nonobstant oppositions ou appellations quelconques, et sans préjudices d'icelles, Clameur du haro, Chartes normandes, et autres lettres à ce contraires.</p>
+<p>Donné à Paris le 11ème jour de décembre l'an de grâce mille six cent quarante ; et de notre Règne le trente et unième. </p>
+<p>Signé, par le roi en son conseil. CONRART.</p></privilege>
+			<acheveImprime id=""></acheveImprime>
+			<printer id="COURBE">Chez AUGUSTIN COURBÉ, libraire et imprimeur de Monsieur, frère du Roi, dans la petite Salle du Palais, à la Palme.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1639" location='Hôtel de Bourgogne'>Représenté pour la première fois au commencement de l'année 1639 au Théâtre de l'Hôtel de Bourgogne.</premiere>
+		</performance>
+		<dedicace><adresse>À MONSEIGNEUR, MONSEIGNEUR LE CARDINAL DUC DE RICHELIEU</adresse>
+		<head>MONSEIGNEUR,</head>
+	<p>Je n'aurais jamais eu la témérité de présenter à votre éminence ce mauvais portrait d'Horace, si je n'eusse considéré qu'après tant de bienfaits, que j'ai reçu d'elle, le silence où mon respect m'a retenu jusqu'à présent, passerait pour ingratitude, et que quelque juste défiance que j'ai de mon travail, je dois avoir encore plus de confiance en votre bonté; C'est d'elle que je tiens tout ce que je suis ; et ce n'est pas sans rougir que pour toute reconnaissance je vous fais un présent si peu digne de vous, et si peu proportionné à ce que je vous dois. Mais dans cette confusion, qui m'est commune avec tous ceux qui écrivent, j'ai cet avantage, qu'on ne peut sans quelque injustice condamner mon choix, et que ce généreux Romain que je mets aux pieds de V.E. eut pu paraître devant elle avec moins de honte, si les forces de l'artisan eussent répondu à la dignité de la matière; J'en ai pour garant l'auteur dont je l'ai tirée, qui commence à décrire cette fameuse histoire par ce glorieux éloge, « qu'il n'y a presque aucune chose plus noble dans toute l'Antiquité ». Je voudrais que ce qu'il a dit de l'action se peut dire de la peinture que j'en ai faite, non pour en tirer plus de vanité, mais seulement pour vous offrir quelque chose un peu moins indigne de vous être offert. Le sujet était capable de plus de grâces s'il eut été traité d'une main plus savante, mais du moins il eut reçu de la mienne toutes celles qu'elle était capable de lui donner, et qu'on pourrait raisonnablement attendre d'une muse de province, qui n'étant pas assez heureuse pour jouir souvent des regards de V.E. n'a pas les mêmes lumières à se conduire qu'ont celles qui en sont continuellement éclairées. Et certes, MONSEIGNEUR, ce changement visible qu'on remarque en mes ouvrages, depuis que j'ai l'honneur d'être à V.E. qu'est ce autre chose qu'un effet des grandes idées qu'elle m'inspire quand elle daigne souffrir que je lui rende mes devoirs ; et à quoi peut-on attribuer ce qui s'y mêle de mauvais qu'aux teintures grossières que je reprends quand je demeure abandonné à ma propre faiblesse ? Il faut, MONSEIGNEUR, que tous ceux qui donnent leurs veilles au théâtre, publient hautement avec moi que nous vous deux obligations très signalées ; l'une d'avoir ennobli les but de l'Art, l'autre de nous en avoir facilité les connaissance. Vous avec ennobli le but de l'Art, puisqu'au lieu de celui de plaire au peuple, que nous prescrivent nos maîtres, et dont les deux plus honnêtes gens de leur siècle, Scipion et Laelie ont autre fois protesté de se contenter, vous nous avez donné celui de vous plaire et de vous divertir ; et qu'ainsi nous ne rendons pas un petit service à l'État, puisque contribuant à vos divertissements, nous contribuons à l'entretien d'une santé qui lui est si précieuse et si nécessaire. Vous nous en avez facilité les connaissances puisque nous n'avons plus besoin d'autre étude pour les acquérir, que d'attacher nos yeux sur V.E. Quand elle honore de sa présence et de son attention le récit de nos poèmes; C'est là que lisant sur son visage ce qui lui plaît, et ce qui ne lui plaît pas, nous nous instruisons avec certitude de ce qui est bon, et de ce qui est mauvais, et tirons des règles infaillibles de ce qu'il faut suivre et de ce qu'il faut éviter. C'est là que j'ai souvent appris en deux heures ce que mes livres n'eussent pu m'apprendre en dis ans ; c'est là que j'ai puisé ce qui m'a valu l'applaudissement du public, et c'est là qu'avec votre faveur j'espère puiser assez pour être un jour une oeuvre digne de vos mains; Ne trouvez donc pas mauvais, MONSEIGNEUR, que pour vous remercier de ce que j'ai de réputation dont je vous suis entièrement redevable, j'emprunte quatre vers d'un autre Horace que celui que je vous présente, et que je vous exprime par eux les plus véritables sentiments de mon âme. </p>
+<p type='v'>Totum muneris hoc tui est</p>
+<p type='v'>Quod monstror digito praeterentium</p>
+<p type='v'>Scenae non levis artifex,</p>
+<p type='v'>Quod spiro et placeo, si placeo, tuum est. </p>
+<p>Je n'ajouterai qu'une vérité à celle-ci, en vous suppliant de croire que je suis et serai toute ma vie très passionnément , MONSEIGNEUR de V.E. le très humble, très obéissant et très fidèle serviteur, </p>
+<signature>CORNEILLE.</signature>
+</dedicace>
+<preface><head>EXAMEN 1660</head>
+<p>C'est une croyance assez générale que cette pièce pourrait passer pour la plus belle des miennes, si les derniers actes répondaient aux premiers. Tous veulent que la mort de Camille en gâte la fin, et j'en demeure d'accord; mais je ne sais si tous en savent la raison. On l'attribue communément à ce qu'on voit cette mort sur la scène; ce qui serait plutôt la faute de l'actrice que la mienne, parce que, quand elle voit son frère mettre l'épée à la main, la frayeur, si naturelle au sexe, lui doit faire prendre la fuite, et recevoir le coup derrière le théâtre, comme je le marque dans cette impression. D'ailleurs, si c'est une règle de ne le point ensanglanter, elle n'est pas du temps d'Aristote, qui nous apprend que pour émouvoir puissamment il faut de grands déplaisirs, des blessures et des morts en spectacle. Horace ne veut pas que nous y hasardions les événements trop dénaturés, comme de Médée qui tue ses enfants; mais je ne vois pas qu'il en fasse une règle générale pour toutes sortes de morts, ni que l'emportement d'un homme passionné pour sa patrie contre une soeur qui la maudit en sa présence avec des imprécations horribles, soit de même nature que la cruauté de cette mère. Sénèque l'expose aux yeux du peuple, en dépit d'Horace; et, chez Sophocle, Ajax ne se cache point au spectateur lorsqu'il se tue. L'adoucissement que j'apporte dans le second de ces discours pour rectifier la mort de Clytemnestre ne peut être propre ici à celle de Camille. Quand elle s'enferrerait d'elle-même par désespoir en voyant son frère l'épée à la main, ce frère ne laisserait pas d'être criminel de l'avoir tirée contre elle, puisqu'il n'y a point de troisième personne sur le théâtre à qui il pût adresser le coup qu'elle recevrait, comme peut faire Oreste à Egisthe. D'ailleurs, l'histoire est trop connue pour retrancher le péril qu'il court d'une mort infâme après l'avoir tuée; et la défense que lui prête son père pour obtenir sa grâce n'aurait plus de lieu, s'il demeurait innocent. Quoi qu'il en soit, voyons si cette action n'a pu causer la chute de ce poème que par là, et si elle n'a point d'autre irrégularité que de blesser les yeux. Comme je n'ai point accoutumé de dissimuler mes défauts, j'en trouve ici deux ou trois assez considérables. Le premier est que cette action, qui devient la principale de la pièce, est momentanée, et n'a point cette juste grandeur que lui demande Aristote, et qui consiste en un commencement, un milieu et une fin. Elle surprend tout d'un coup; et toute la préparation que j'y ai donnée par la peinture de la vertu farouche d'Horace, et par la défense qu'il fait à sa soeur de regretter qui que ce soit de lui ou de son amant qui meure au combat, n'est point suffisante pour faire attendre un emportement si extraordinaire, et servir de commencement à cette action. Le second défaut est que cette mort fait une action double par le second péril où tombe Horace après être sorti du premier. L'unité de péril d'un héros dans la tragédie fait l'unité d'action; et quand il en est garanti, la pièce est finie, si ce n'est que la sortie même de ce péril l'engage si nécessairement dans un autre, que la liaison et la continuité des deux n'en fassent qu'une action; ce qui n'arrive point ici, où Horace revient triomphant sans aucun besoin de tuer sa soeur, ni même de parler à elle; et l'action serait suffisamment terminée à sa victoire. Cette chute d'un péril en l'autre, sans nécessité, fait ici un effet d'autant plus mauvais, que d'un péril public, où il y va de tout l'Etat, il tombe en un péril particulier, où il n'y va que de sa vie; et, pour dire encore plus, d'un péril illustre, où il ne peut succomber que glorieusement, en un péril infâme, dont il ne peut sortir sans tache. Ajoutez, pour troisième imperfection, que Camille, qui ne tient que le second rang dans les trois premiers actes, et y laisse le premier à Sabine, prend le premier en ces deux derniers, où cette Sabine n'est plus considérable; et qu'ainsi, s'il y a égalité dans les moeurs, il n'y en a point dans la dignité des personnages, où se doit étendre ce précepte d'Horace: Servetur ad imum </p>
+<p type='v'>Qualis ab incepto processerit, et sibi constet.</p>
+<p>Ce défaut en Rodelinde a été une des principales causes du mauvais succès de Pertharite, et je n'ai point encore vu sur nos théâtres cette inégalité de rang en un même acteur, qui n'ait produit un très méchant effet. Il serait bon d'en établir une règle inviolable. Du côté du temps, l'action n'est point trop pressée, et n'a rien qui ne me semble vraisemblable. Pour le lieu, bien que l'unité y soit exacte, elle n'est pas sans quelque contrainte. Il est constant qu'Horace et Curiace n'ont point de raison de se séparer du reste de la famille pour commencer le second acte; et c'est une adresse de théâtre de n'en donner aucune, quand on n'en peut donner de bonnes. L'attachement de l'auditeur à l'action présente souvent ne lui permet pas de descendre à l'examen sévère de cette justesse, et ce n'est pas un crime que de s'en prévaloir pour l'éblouir, quand il est malaisé de le satisfaire. Le personnage de Sabine est assez heureusement inventé, et trouve sa vraisemblance aisée dans le rapport à l'histoire, qui marque assez d'amitié et d'égalité entre les deux familles pour avoir pu faire cette double alliance. Elle ne sert pas davantage à l'action que l'Infante à celle du Cid, et ne fait que se laisser toucher diversement, comme elle, à la diversité des événements. Néanmoins on a généralement approuvé celle-ci, et condamné l'autre. J'en ai cherché la raison, et j'en ai trouvé deux: l'une est la liaison des scènes, qui semble, s'il m'est permis de parler ainsi, incorporer Sabine dans cette pièce, au lieu que, dans le Cid, toutes celles de l'Infante sont détachées, et paraissent hors oeuvre: Tantum series juncturaque pollet. </p>
+<p>L'autre, qu'ayant une fois posé Sabine pour femme d'Horace, il est nécessaire que tous les incidents de ce poème lui donnent les sentiments qu'elle en témoigne avoir, par l'obligation qu'elle a de prendre intérêt à ce qui regarde son mari et ses frères; mais l'Infante n'est point obligée d'en prendre aucun en ce qui touche le Cid; et si elle a quelque inclination secrète pour lui, il n'est point besoin qu'elle en fasse rien paraître, puisqu'elle ne produit aucun effet. </p>
+<p>L'oracle qui est proposé au premier acte trouve son vrai sens à la conclusion du cinquième. Il semble clair d'abord, et porte l'imagination à un sens contraire; et je les aimerais mieux de cette sorte sur nos théâtres, que ceux qu'on fait entièrement obscurs, parce que la surprise de leur véritable effet en est plus belle. J'en ai usé ainsi encore dans l'Andromède et dans l'Oedipe. Je ne dis pas la même chose des songes, qui peuvent faire encore un grand ornement dans la protase, pourvu qu'on ne s'en serve pas souvent. Je voudrais qu'ils eussent l'idée de la fin véritable de la pièce, mais avec quelque confusion qui n'en permît pas l'intelligence entière. C'est ainsi que je m'en suis servi deux fois, ici et dans Polyeucte, mais avec plus d'éclat et d'artifice dans ce dernier poème, où il marque toutes les particularités de l'événement, qu'en celui-ci, où il ne fait qu'exprimer une ébauche tout à fait informe de ce qui doit arriver de funeste. </p>
+<p>Il passe pour constant que le second acte est un des plus pathétiques qui soient sur la scène, et le troisième un des plus artificieux. Il est soutenu de la seule narration de la moitié du combat des trois frères, qui est coupée très heureusement pour laisser Horace le père dans la colère et le déplaisir, et lui donner ensuite un beau retour à la joie dans le quatrième. Il a été à propos, pour le jeter dans cette erreur, de se servir de l'impatience d'une femme qui suit brusquement sa première idée, et présume le combat achevé, parce qu'elle a vu deux des Horaces par terre, et le troisième en fuite. Un homme, qui doit être plus posé et plus judicieux, n'eût pas été propre à donner cette fausse alarme; il eût dû prendre plus de patience, afin d'avoir plus de certitude de l'événement, et n'eût pas été excusable de se laisser emporter si légèrement, par les apparences, à présumer le mauvais succès d'un combat dont il n'eût pas vu la fin. </p>
+<p>Bien que le roi n'y paraisse qu'au cinquième, il y est mieux dans sa dignité que dans le Cid, parce qu'il a intérêt pour tout son Etat dans le reste de la pièce; et bien qu'il n'y parle point, il ne laisse pas d'y agir comme roi. Il vient aussi dans ce cinquième comme roi qui veut honorer par cette visite un père dont les fils lui ont conservé sa couronne, et acquis celle d'Albe au prix de leur sang. S'il y fait l'office de juge, ce n'est que par accident; et il le fait dans ce logis même d'Horace, par la seule contrainte qu'impose la règle de l'unité de lieu. Tout ce cinquième est encore une des causes du peu de satisfaction que laisse cette tragédie: il est tout en plaidoyers, et ce n'est pas là la place des harangues ni des longs discours: ils peuvent être supportés en un commencement de pièce, où l'action n'est pas encore échauffée; mais le cinquième acte doit plus agir que discourir. L'attention de l'auditeur, déjà lassée, se rebute de ces conclusions qui traînent et tirent la fin en longueur. </p>
+<p>Quelques-uns ne veulent pas que Valère y soit un digne accusateur d'Horace, parce que dans la pièce il n'a pas fait voir assez de passion pour Camille; à quoi je réponds que ce n'est pas à dire qu'il n'en eût une très forte, mais qu'un amant mal voulu ne pouvait se montrer de bonne grâce à sa maîtresse dans le jour qui la rejoignait à un amant aimé. Il n'y avait point de place pour lui au premier acte, et encore moins au second; il fallait qu'il tînt son rang à l'armée pendant le troisième; et il se montre au quatrième, sitôt que la mort de son rival fait quelque ouverture à son espérance: il tâche à gagner les bonnes grâces du père par la commission qu'il prend du roi de lui apporter les glorieuses nouvelles de l'honneur que ce prince lui veut faire; et, par occasion, il lui apprend la victoire de son fils, qu'il ignorait. Il ne manque pas d'amour durant les trois premiers actes, mais d'un temps propre à le témoigner; et, dès la première scène de la pièce, il paraît bien qu'il rendait assez de soins à Camille, puisque Sabine s'en alarme pour son frère. S'il ne prend pas le procédé de France, il faut considérer qu'il est Romain, et dans Rome, où il n'aurait pu entreprendre un duel contre un autre Romain sans faire un crime d'État, et que j'en aurais fait un de théâtre, si j'avais habillé un Romain à la française.</p>
+</preface>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="TULLE" civil="M">TULLE</role>, roi de Rome.</castItem>
+			<castItem><role id="VIEIL_HORACE" civil="M">Le vieil HORACE</role>, chevalier romain.</castItem>
+			<castItem><role id="HORACE" civil="M">HORACE</role>, son fils.</castItem>
+			<castItem><role id="CURIACE" civil="M">CURIACE</role>, gentilhomme d'Albe, amant de Camille.</castItem>
+			<castItem><role id="VALERE" civil="M">VALÈRE</role>, chevalier romain, amoureux de Camille.</castItem>
+			<castItem><role id="SABINE" civil="F">SABINE</role>, femme d'Horace, et soeur de Curiace.</castItem>
+			<castItem><role id="CAMILLE" civil="F">CAMILLE</role>, amante de Curiace, et soeur d'Horace.</castItem>
+			<castItem><role id="JULIE" civil="F">JULIE</role>, dame romaine, confidence de Sabine et de Camille.</castItem>
+			<castItem><role id="FLAVIAN" civil="M">FLAVIAN</role>, soldat de l'armée d'Albe.</castItem>
+			<castItem><role id="PROCULE" civil="M">PROCULE</role>, soldat de l'armée de Rome.</castItem>
+	</castList>
+<set location='Rome' country='Italie' periode='VIIème avant JC' link=''>La scène est à Rome, dans une salle de la maison d'Horace.</set>
+	</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Sabine, Julie.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1">Approuvez ma faiblesse, et souffrez ma douleur ;</l>
+	<l id="2">Elle n'est que trop juste en un si grand malheur :</l>
+	<l id="3">Si près de voir sur soi fondre de tels orages,</l>
+	<l id="4">L'ébranlement sied bien aux plus fermes courages ;</l>
+	<l id="5">Et l'esprit le plus mâle et le moins abattu</l>
+	<l id="6">Ne saurait sans désordre exercer sa vertu.</l>
+	<l id="7">Quoique le mien s'étonne à ces rudes alarmes,</l>
+	<l id="8">Le trouble de mon coeur ne peut rien sur mes larmes,</l>
+	<l id="9">Et parmi les soupirs qu'il pousse vers les cieux,</l>
+	<l id="10">Ma constance du moins règne encore sur mes yeux :</l>
+	<l id="11">Quand on arrête là les déplaisirs d'une âme,</l>
+	<l id="12">Si l'on fait moins qu'un homme, on fait plus qu'une femme.</l>
+	<l id="13">Commander à ses pleurs en cette extrémité,</l>
+	<l id="14">C'est montrer, pour le sexe, assez de fermeté.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="15">C'en est peut-être assez pour une âme commune,</l>
+	<l id="16">Qui du moindre péril se fait une infortune ;</l>
+	<l id="17">Mais de cette faiblesse un grand coeur est honteux ;</l>
+	<l id="18">Il ose espérer tout dans un succès douteux.</l>
+	<l id="19">Les deux camps sont rangés au pied de nos murailles ;</l>
+	<l id="20">Mais Rome ignore encore comme on perd des batailles.</l>
+	<l id="21">Loin de trembler pour elle, il lui faut applaudir :</l>
+	<l id="22">Puisqu'elle va combattre, elle va s'agrandir.</l>
+	<l id="23">Bannissez, bannissez une frayeur si vaine,</l>
+	<l id="24">Et concevez des voeux dignes d'une Romaine.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="25">Je suis romaine, hélas ! Puisqu'Horace est romain ;</l>
+	<l id="26">J'en ai reçu le titre en recevant sa main ;</l>
+	<l id="27">Mais ce noeud me tiendrait en esclave enchaînée,</l>
+	<l id="28">S'il m'empêchait de voir en quels lieux je suis née.</l>
+<note type="L">Albe : ville fort ancienne du Latium à 20km au sud-est de Rome, s'étendait du flanc septentrionale du Mont Albain, susques sur le rive orientale de l'Albanus Lacus. [B]</note>
+	<l id="29">Albe, où j'ai commencé de respirer le jour,</l>
+	<l id="30">Albe, mon cher pays, et mon premier amour ;</l>
+	<l id="31">Lorsqu'entre nous et toi je vois la guerre ouverte,</l>
+	<l id="32">Je crains notre victoire autant que notre perte.</l>
+	<l id="33">Rome, si tu te plains que c'est là te trahir,</l>
+	<l id="34">Fais-toi des ennemis que je puisse haïr.</l>
+	<l id="35">Quand je vois de tes murs leur armée et la nôtre,</l>
+	<l id="36">Mes trois frères dans l'une, et mon mari dans l'autre,</l>
+	<l id="37">Puis-je former des voeux, et sans impiété</l>
+	<l id="38">Importuner le ciel pour ta félicité ?</l>
+	<l id="39">Je sais que ton état, encore en sa naissance,</l>
+	<l id="40">Ne saurait, sans la guerre, affermir sa puissance ;</l>
+	<l id="41">Je sais qu'il doit s'accroître, et que tes grands destins</l>
+	<l id="42">Ne le borneront pas chez les peuples latins ;</l>
+	<l id="43">Que les dieux t'ont promis l'empire de la terre,</l>
+	<l id="44">Et que tu n'en peux voir l'effet que par la guerre :</l>
+	<l id="45">Bien loin de m'opposer à cette noble ardeur</l>
+	<l id="46">Qui suit l'arrêt des dieux et court à ta grandeur,</l>
+	<l id="47">Je voudrais déjà voir tes troupes couronnées,</l>
+	<l id="48">D'un pas victorieux franchir les Pyrénées.</l>
+	<l id="49">Va jusqu'en l'orient pousser tes bataillons ;</l>
+	<l id="50">Va sur les bords du Rhin planter tes pavillons ;</l>
+	<l id="51">Fais trembler sous tes pas les colonnes d'Hercule ;</l>
+	<l id="52">Mais respecte une ville à qui tu dois Romule.</l>
+	<l id="53">Ingrate, souviens-toi que du sang de ses rois</l>
+	<l id="54">Tu tiens ton nom, tes murs, et tes premières lois.</l>
+	<l id="55">Albe est ton origine : arrête, et considère</l>
+	<l id="56">Que tu portes le fer dans le sein de ta mère.</l>
+	<l id="57">Tourne ailleurs les efforts de tes bras triomphants ;</l>
+	<l id="58">Sa joie éclatera dans l'heur de ses enfants ;</l>
+	<l id="59">Et se laissant ravir à l'amour maternelle,</l>
+	<l id="60">Ses voeux seront pour toi, si tu n'es plus contre elle.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="61">Ce discours me surprend, vu que depuis le temps</l>
+	<l id="62">Qu'on a contre son peuple armé nos combattants,</l>
+	<l id="63">Je vous ai vu pour elle autant d'indifférence</l>
+	<l id="64">Que si d'un sang romain vous aviez pris naissance.</l>
+	<l id="65">J'admirais la vertu qui réduisait en vous</l>
+	<l id="66">Vos plus chers intérêts à ceux de votre époux ;</l>
+	<l id="67">Et je vous consolais au milieu de vos plaintes,</l>
+	<l id="68">Comme si notre Rome eût fait toutes vos craintes.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="69">Tant qu'on ne s'est choqué qu'en de légers combats,</l>
+	<l id="70">Trop faibles pour jeter un des partis à bas,</l>
+	<l id="71">Tant qu'un espoir de paix a pu flatter ma peine,</l>
+	<l id="72">Oui, j'ai fait vanité d'être toute romaine.</l>
+	<l id="73">Si j'ai vu Rome heureuse avec quelque regret,</l>
+	<l id="74">Soudain j'ai condamné ce mouvement secret ;</l>
+	<l id="75">Et si j'ai ressenti, dans ses destins contraires,</l>
+	<l id="76">Quelque maligne joie en faveur de mes frères,</l>
+	<l id="77">Soudain, pour l'étouffer rappelant ma raison,</l>
+	<l id="78">J'ai pleuré quand la gloire entrait dans leur maison.</l>
+	<l id="79">Mais aujourd'hui qu'il faut que l'une ou l'autre tombe,</l>
+	<l id="80">Qu'Albe devienne esclave, ou que Rome succombe,</l>
+	<l id="81">Et qu'après la bataille il ne demeure plus</l>
+	<l id="82">Ni d'obstacle aux vainqueurs, ni d'espoir aux vaincus,</l>
+	<l id="83">J'aurais pour mon pays une cruelle haine,</l>
+	<l id="84">Si je pouvais encore être toute romaine,</l>
+	<l id="85">Et si je demandais votre triomphe aux dieux,</l>
+	<l id="86">Au prix de tant de sang qui m'est si précieux.</l>
+	<l id="87">Je m'attache un peu moins aux intérêts d'un homme :</l>
+	<l id="88">Je ne suis point pour Albe, et ne suis plus pour Rome ;</l>
+	<l id="89">Je crains pour l'une et l'autre en ce dernier effort,</l>
+	<l id="90">Et serai du parti qu'affligera le sort.</l>	
+	<l id="91">Égale à tous les deux jusques à la victoire,</l>
+	<l id="92">Je prendrai part aux maux sans en prendre à la gloire ;</l>
+	<l id="93">Et je garde, au milieu de tant d'âpres rigueurs,</l>
+	<l id="94">Mes larmes aux vaincus, et ma haine aux vainqueurs.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="95">Qu'on voit naître souvent de pareilles traverses,</l>
+	<l id="96">En des esprits divers, des passions diverses !</l>
+	<l id="97">Et qu'à nos yeux Camille agit bien autrement !</l>
+	<l id="98">Son frère est votre époux, le vôtre est son amant ;</l>
+	<l id="99">Mais elle voit d'un oeil bien différent du vôtre</l>
+	<l id="100">Son sang dans une armée, et son amour dans l'autre.</l>
+	<l id="101">Lorsque vous conserviez un esprit tout romain,</l>
+	<l id="102">Le sien irrésolu, le sien tout incertain,</l>
+	<l id="103">De la moindre mêlée appréhendait l'orage,</l>
+	<l id="104">De tous les deux partis détestait l'avantage,</l>
+	<l id="105">Au malheur des vaincus donnait toujours ses pleurs,</l>
+	<l id="106">Et nourrissait ainsi d'éternelles douleurs.</l>
+	<l id="107">Mais hier, quand elle sut qu'on avait pris journée,</l>
+	<l id="108">Et qu'enfin la bataille allait être donnée,</l>
+	<l id="109">Une soudaine joie éclatant sur son front...</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="110">Ah ! Que je crains, Julie, un changement si prompt !</l>
+	<l id="111">Hier dans sa belle humeur elle entretint Valère ;</l>
+	<l id="112">Pour ce rival, sans doute, elle quitte mon frère ;</l>
+	<l id="113">Son esprit, ébranlé par les objets présents,</l>
+	<l id="114">Ne trouve point d'absent aimable après deux ans.</l>
+	<l id="115">Mais excusez l'ardeur d'une amour fraternelle ;</l>
+	<l id="116">Le soin que j'ai de lui me fait craindre tout d'elle ;</l>
+	<l id="117">Je forme des soupçons d'un trop léger sujet :</l>
+	<l id="118">Près d'un jour si funeste on change peu d'objet ;</l>
+	<l id="119">Les âmes rarement sont de nouveau blessées,</l>
+	<l id="120">Et dans un si grand trouble on a d'autres pensées ;</l>
+	<l id="121">Mais on n'a pas aussi de si doux entretiens,</l>
+	<l id="122">Ni de contentements qui soient pareils aux siens.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="123">Les causes, comme à vous, m'en semblent fort obscures ;</l>
+	<l id="124">Je ne me satisfais d'aucunes conjectures.</l>
+	<l id="125">C'est assez de constance en un si grand danger</l>
+	<l id="126">Que de le voir, l'attendre, et ne point s'affliger ;</l>
+	<l id="127">Mais certes c'en est trop d'aller jusqu'à la joie.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="128">Voyez qu'un bon génie à propos nous l'envoie.</l>
+	<l id="129">Essayez sur ce point à la faire parler :</l>
+	<l id="130">Elle vous aime assez pour ne vous rien celer.</l>
+	<l id="131">Je vous laisse. Ma soeur, entretenez Julie :</l>
+	<l id="132">J'ai honte de montrer tant de mélancolie,</l>
+	<l id="133">Et mon coeur, accablé de mille déplaisirs,</l>
+	<l id="134">Cherche la solitude à cacher ses soupirs.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Camille, Julie.</head>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="135">Qu'elle a tort de vouloir que je vous entretienne !</l>
+	<l id="136">Croit-elle ma douleur moins vive que la sienne,</l>
+	<l id="137">Et que plus insensible à de si grands malheurs,</l>
+	<l id="138">À mes tristes discours je mêle moins de pleurs ?</l>
+	<l id="139">De pareilles frayeurs mon âme est alarmée ;</l>
+	<l id="140">Comme elle je perdrai dans l'une et l'autre armée :</l>
+	<l id="141">Je verrai mon amant, mon plus unique bien,</l>
+	<l id="142">Mourir pour son pays, ou détruire le mien,</l>
+	<l id="143">Et cet objet d'amour devenir, pour ma peine,</l>
+	<l id="144">Digne de mes soupirs, ou digne de ma haine.</l>
+	<l id="145" part="i">Hélas !</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="145" part="f">Elle est pourtant plus à plaindre que vous :</l>
+	<l id="146">On peut changer d'amant, mais non changer d'époux.</l>
+	<l id="147">Oubliez Curiace, et recevez Valère,</l>
+	<l id="148">Vous ne tremblerez plus pour le parti contraire ;</l>
+	<l id="149">Vous serez toute nôtre, et votre esprit remis</l>
+	<l id="150">N'aura plus rien à perdre au camp des ennemis.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="151">Donnez-moi des conseils qui soient plus légitimes,</l>
+	<l id="152">Et plaignez mes malheurs sans m'ordonner des crimes.</l>
+	<l id="153">Quoiqu'à peine à mes maux je puisse résister,</l>
+	<l id="154">J'aime mieux les souffrir que de les mériter.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="155">Quoi ! Vous appelez crime un change raisonnable ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="156">Quoi ! Le manque de foi vous semble pardonnable ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="157">Envers un ennemi qui peut nous obliger ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="158">D'un serment solennel qui peut nous dégager ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="159">Vous déguisez en vain une chose trop claire :</l>
+	<l id="160">Je vous vis encore hier entretenir Valère ;</l>
+	<l id="161">Et l'accueil gracieux qu'il recevait de vous</l>
+	<l id="162">Lui permet de nourrir un espoir assez doux.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="163">Si je l'entretins hier et lui fis bon visage,</l>
+	<l id="164">N'en imaginez rien qu'à son désavantage :</l>
+	<l id="165">De mon contentement un autre était l'objet.</l>
+	<l id="166">Mais pour sortir d'erreur sachez-en le sujet ;</l>
+	<l id="167">Je garde à Curiace une amitié trop pure</l>
+	<l id="168">Pour souffrir plus longtemps qu'on m'estime parjure.</l>
+	<l id="169">Il vous souvient qu'à peine on voyait de sa soeur</l>
+<note type="L">Hymen : signifie aussi poétiquement le mariage. [F]</note>
+	<l id="170">Par un heureux hymen mon frère possesseur,</l>
+	<l id="171">Quand, pour comble de joie, il obtint de mon père</l>
+	<l id="172">Que de ses chastes feux je serais le salaire.</l>
+	<l id="173">Ce jour nous fut propice et funeste à la fois :</l>
+	<l id="174">Unissant nos maisons, il désunit nos rois ;</l>
+	<l id="175">Un même instant conclut notre hymen et la guerre,</l>
+	<l id="176">Fit naître notre espoir et le jeta par terre,</l>
+	<l id="177">Nous ôta tout, sitôt qu'il nous eut tout promis,</l>
+	<l id="178">Et nous faisant amants, il nous fit ennemis.</l>
+	<l id="179">Combien nos déplaisirs parurent lors extrêmes !</l>
+	<l id="180">Combien contre le ciel il vomit de blasphèmes !</l>
+	<l id="181">Et combien de ruisseaux coulèrent de mes yeux !</l>
+	<l id="182">Je ne vous le dis point, vous vîtes nos adieux ;</l>
+	<l id="183">Vous avez vu depuis les troubles de mon âme ;</l>
+	<l id="184">Vous savez pour la paix quels voeux a faits ma flamme,</l>
+	<l id="185">Et quels pleurs j'ai versés à chaque événement,</l>
+	<l id="186">Tantôt pour mon pays, tantôt pour mon amant.</l>
+	<l id="187">Enfin mon désespoir parmi ces longs obstacles,</l>
+	<l id="188">M'a fait avoir recours à la voix des oracles.</l>	
+	<l id="189">Écoutez si celui qui me fut hier rendu</l>
+	<l id="190">Eut droit de rassurer mon esprit éperdu.</l>
+	<l id="191">Ce Grec si renommé, qui depuis tant d'années</l>
+	<l id="192">Au pied de l'Aventin prédit nos destinées,</l>
+	<l id="193">Lui qu'Apollon jamais n'a fait parler à faux,</l>
+	<l id="194">Me promit par ces vers la fin de mes travaux :</l>
+	<l id="195">"Albe et Rome demain prendront une autre face ;</l>
+	<l id="196">Tes voeux sont exaucés, elles auront la paix,</l>
+	<l id="197">Et tu seras unie avec ton Curiace,</l>
+	<l id="198">Sans qu'aucun mauvais sort t'en sépare jamais."</l>
+	<l id="199">Je pris sur cet oracle une entière assurance,</l>
+	<l id="200">Et comme le succès passait mon espérance,</l>
+	<l id="201">J'abandonnai mon âme à des ravissements</l>
+	<l id="202">Qui passaient les transports des plus heureux amants.</l>
+	<l id="203">Jugez de leur excès : je rencontrai Valère,</l>
+	<l id="204">Et contre sa coutume, il ne put me déplaire,</l>
+	<l id="205">Il me parla d'amour sans me donner d'ennui :</l>
+	<l id="206">Je ne m'aperçus pas que je parlais à lui ;</l>
+	<l id="207">Je ne lui pus montrer de mépris ni de glace :</l>
+	<l id="208">Tout ce que je voyais me semblait Curiace ;</l>
+	<l id="209">Tout ce qu'on me disait me parlait de ses feux ;</l>
+	<l id="210">Tout ce que je disais l'assurait de mes voeux.</l>
+	<l id="211">Le combat général aujourd'hui se hasarde ;</l>
+	<l id="212">J'en sus hier la nouvelle, et je n'y pris pas garde :</l>
+	<l id="213">Mon esprit rejetait ces funestes objets,</l>
+<note type="L">Penser : nom masculin au XVIIème pour « pensée ».</note>
+	<l id="214">Charmé des doux pensers d'hymen et de la paix.</l>
+	<l id="215">La nuit a dissipé des erreurs si charmantes :</l>
+	<l id="216">Mille songes affreux, mille images sanglantes,</l>
+	<l id="217">Ou plutôt mille amas de carnage et d'horreur,</l>
+	<l id="218">M'ont arraché ma joie et rendu ma terreur.</l>
+	<l id="219">J'ai vu du sang, des morts, et n'ai rien vu de suite ;</l>
+	<l id="220">Un spectre en paraissant prenait soudain la fuite ;</l>
+	<l id="221">Ils s'effaçaient l'un l'autre, et chaque illusion</l>
+	<l id="222">Redoublait mon effroi par sa confusion.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="223">C'est en contraire sens qu'un songe s'interprète.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="224">Je le dois croire ainsi, puisque je le souhaite ;</l>
+	<l id="225">Mais je me trouve enfin, malgré tous mes souhaits,</l>
+	<l id="226">Au jour d'une bataille, et non pas d'une paix.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="227">Par là finit la guerre, et la paix lui succède.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="228">Dure à jamais le mal, s'il y faut ce remède !</l>
+	<l id="229">Soit que Rome y succombe ou qu'Albe ait le dessous,</l>
+	<l id="230">Cher amant, n'attends plus d'être un jour mon époux ;</l>
+	<l id="231">Jamais, jamais ce nom ne sera pour un homme</l>
+	<l id="232">Qui soit ou le vainqueur, ou l'esclave de Rome.</l>
+	<l id="233">Mais quel objet nouveau se présente en ces lieux ?</l>
+	<l id="234">Est-ce toi, Curiace ? En croirai-je mes yeux ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Curiace, Camille, Julie.</head>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="235">N'en doutez point, Camille, et revoyez un homme</l>
+	<l id="236">Qui n'est ni le vainqueur ni l'esclave de Rome ;</l>
+	<l id="237">Cessez d'appréhender de voir rougir mes mains</l>
+	<l id="238">Du poids honteux des fers ou du sang des Romains.</l>
+	<l id="239">J'ai cru que vous aimiez assez Rome et la gloire</l>
+	<l id="240">Pour mépriser ma chaîne et haïr ma victoire ;</l>
+	<l id="241">Et comme également en cette extrémité</l>
+	<l id="242">Je craignais la victoire et la captivité...</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="243">Curiace, il suffit, je devine le reste :</l>
+	<l id="244">Tu fuis une bataille à tes voeux si funeste,</l>
+	<l id="245">Et ton coeur, tout à moi, pour ne me perdre pas,</l>
+	<l id="246">Dérobe à ton pays le secours de ton bras.</l>
+	<l id="247">Qu'un autre considère ici ta renommée,</l>
+	<l id="248">Et te blâme, s'il veut, de m'avoir trop aimée ;</l>
+	<l id="249">Ce n'est point à Camille à t'en mésestimer :</l>
+	<l id="250">Plus ton amour paraît, plus elle doit t'aimer ;</l>
+	<l id="251">Et si tu dois beaucoup aux lieux qui t'ont vu naître,</l>
+	<l id="252">Plus tu quittes pour moi, plus tu le fais paraître.</l>
+	<l id="253">Mais as-tu vu mon père, et peut-il endurer</l>
+	<l id="254">Qu'ainsi dans sa maison tu t'oses retirer ?</l>
+	<l id="255">Ne préfère-t-il point l'état à sa famille ?</l>
+	<l id="256">Ne regarde-t-il point Rome plus que sa fille ?</l>
+	<l id="257">Enfin notre bonheur est-il bien affermi ?</l>
+	<l id="258">T'a-t-il vu comme gendre, ou bien comme ennemi ?</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="259">Il m'a vu comme gendre, avec une tendresse</l>
+	<l id="260">Qui témoignait assez une entière allégresse ;</l>
+	<l id="261">Mais il ne m'a point vu, par une trahison,</l>
+	<l id="262">Indigne de l'honneur d'entrer dans sa maison.</l>
+	<l id="263">Je n'abandonne point l'intérêt de ma ville,</l>
+	<l id="264">J'aime encore mon honneur en adorant Camille.</l>
+	<l id="265">Tant qu'a duré la guerre, on m'a vu constamment</l>
+	<l id="266">Aussi bon citoyen que véritable amant.</l>
+	<l id="267">D'Albe avec mon amour j'accordais la querelle :</l>
+	<l id="268">Je soupirais pour vous en combattant pour elle ;</l>
+	<l id="269">Et s'il fallait encore que l'on en vînt aux coups,</l>
+	<l id="270">Je combattrais pour elle en soupirant pour vous.</l>
+	<l id="271">Oui, malgré les désirs de mon âme charmée,</l>
+	<l id="272">Si la guerre durait, je serais dans l'armée :</l>
+	<l id="273">C'est la paix qui chez vous me donne un libre accès,</l>
+	<l id="274">La paix à qui nos feux doivent ce beau succès.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="275">La paix ! Et le moyen de croire un tel miracle ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="276">Camille, pour le moins croyez-en votre oracle,</l>
+	<l id="277">Et sachons pleinement par quels heureux effets</l>
+	<l id="278">L'heure d'une bataille a produit cette paix.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="279">L'aurait-on jamais cru ? Déjà les deux armées,</l>
+	<l id="280">D'une égale chaleur au combat animées,</l>
+	<l id="281">Se menaçaient des yeux, et marchant fièrement,</l>
+	<l id="282">N'attendaient, pour donner, que le commandement,</l>
+	<l id="283">Quand notre dictateur devant les rangs s'avance,</l>
+	<l id="284">Demande à votre prince un moment de silence,</l>
+	<l id="285">Et l'ayant obtenu : "Que faisons-nous, Romains,</l>
+	<l id="286">Dit-il, et quel démon nous fait venir aux mains ?</l>
+	<l id="287">Souffrons que la raison éclaire enfin nos âmes :</l>
+	<l id="288">Nous sommes vos voisins, nos filles sont vos femmes,</l>
+	<l id="289">Et l'hymen nous a joints par tant et tant de noeuds,</l>
+	<l id="290">Qu'il est peu de nos fils qui ne soient vos neveux.</l>
+	<l id="291">Nous ne sommes qu'un sang et qu'un peuple en deux villes :</l>
+	<l id="292">Pourquoi nous déchirer par des guerres civiles,</l>
+	<l id="293">Où la mort des vaincus affaiblit les vainqueurs,</l>
+	<l id="294">Et le plus beau triomphe est arrosé de pleurs ?</l>
+	<l id="295">Nos ennemis communs attendent avec joie</l>
+	<l id="296">Qu'un des partis défait leur donne l'autre en proie,</l>
+	<l id="297">Lassé, demi-rompu, vainqueur, mais, pour tout fruit,</l>
+	<l id="298">Dénué d'un secours par lui-même détruit.</l>
+	<l id="299">Ils ont assez longtemps joui de nos divorces ;</l>
+	<l id="300">Contre eux dorénavant joignons toutes nos forces,</l>
+	<l id="301">Et noyons dans l'oubli ces petits différends</l>
+	<l id="302">Qui de si bons guerriers font de mauvais parents.</l>
+	<l id="303">Que si l'ambition de commander aux autres</l>
+	<l id="304">Fait marcher aujourd'hui vos troupes et les nôtres,</l>
+	<l id="305">Pourvu qu'à moins de sang nous voulions l'apaiser,</l>
+	<l id="306">Elle nous unira, loin de nous diviser.</l>
+	<l id="307">Nommons des combattants pour la cause commune :</l>
+	<l id="308">Que chaque peuple aux siens attache sa fortune ;</l>
+	<l id="309">Et suivant ce que d'eux ordonnera le sort,</l>
+	<l id="310">Que le faible parti prenne loi du plus fort ;</l>
+	<l id="311">Mais sans indignité pour des guerriers si braves,</l>
+	<l id="312">Qu'ils deviennent sujets sans devenir esclaves,</l>
+	<l id="313">Sans honte, sans tribut, et sans autre rigueur</l>
+	<l id="314">Que de suivre en tous lieux les drapeaux du vainqueur.</l>
+	<l id="315">Ainsi nos deux états ne feront qu'un empire."</l>
+	<l id="316">Il semble qu'à ces mots notre discorde expire :</l>
+	<l id="317">Chacun, jetant les yeux dans un rang ennemi,</l>
+	<l id="318">Reconnaît un beau-frère, un cousin, un ami ;</l>
+	<l id="319">Ils s'étonnent comment leurs mains, de sang avides,</l>
+	<l id="320">Volaient, sans y penser, à tant de parricides,</l>
+	<l id="321">Et font paraître un front couvert tout à la fois</l>
+	<l id="322">D'horreur pour la bataille, et d'ardeur pour ce choix.</l>
+	<l id="323">Enfin l'offre s'accepte, et la paix désirée</l>
+	<l id="324">Sous ces conditions est aussitôt jurée :</l>
+	<l id="325">Trois combattront pour tous ; mais pour les mieux choisir,</l>
+	<l id="326">Nos chefs ont voulu prendre un peu plus de loisir :</l>
+	<l id="327">Le vôtre est au sénat, le nôtre dans sa tente.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="328">Ô dieux, que ce discours rend mon âme contente !</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="329">Dans deux heures au plus, par un commun accord,</l>
+	<l id="330">Le sort de nos guerriers réglera notre sort.</l>
+	<l id="331">Cependant tout est libre, attendant qu'on les nomme :</l>
+	<l id="332">Rome est dans notre camp, et notre camp dans Rome ;</l>
+	<l id="333">D'un et d'autre côté l'accès étant permis,</l>
+	<l id="334">Chacun va renouer avec ses vieux amis.</l>
+	<l id="335">Pour moi, ma passion m'a fait suivre vos frères ;</l>
+	<l id="336">Et mes désirs ont eu des succès si prospères,</l>
+	<l id="337">Que l'auteur de vos jours m'a promis à demain</l>
+	<l id="338">Le bonheur sans pareil de vous donner la main.</l>
+	<l id="339">Vous ne deviendrez pas rebelle à sa puissance ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="340">Le devoir d'une fille est en l'obéissance.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="341">Venez donc recevoir ce doux commandement,</l>
+	<l id="342">Qui doit mettre le comble à mon contentement.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="343">Je vais suivre vos pas, mais pour revoir mes frères,</l>
+	<l id="344">Et savoir d'eux encore la fin de nos misères.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="345">Allez, et cependant au pied de nos autels</l>
+	<l id="346">J'irai rendre pour vous grâces aux immortels.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE. Horace, Curiace.</head>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="347">Ainsi Rome n'a point séparé son estime ;</l>
+	<l id="348">Elle eût cru faire ailleurs un choix illégitime :</l>
+	<l id="349">Cette superbe ville en vos frères et vous</l>
+	<l id="350">Trouve les trois guerriers qu'elle préfère à tous ;</l>
+	<l id="351">Et son illustre ardeur d'oser plus que les autres,</l>
+	<l id="352">D'une seule maison brave toutes les nôtres :</l>
+	<l id="353">Nous croirons, à la voir toute entière en vos mains,</l>
+	<l id="354">Que hors les fils d'Horace il n'est point de Romains.</l>
+	<l id="355">Ce choix pouvait combler trois familles de gloire,</l>
+	<l id="356">Consacrer hautement leurs noms à la mémoire :</l>
+	<l id="357">Oui, l'honneur que reçoit la vôtre par ce choix,</l>
+	<l id="358">En pouvait à bon titre immortaliser trois ;</l>
+	<l id="359">Et puisque c'est chez vous que mon heur et ma flamme</l>
+	<l id="360">M'ont fait placer ma soeur et choisir une femme,</l>
+	<l id="361">Ce que je vais vous être et ce que je vous suis</l>
+	<l id="362">Me font y prendre part autant que je le puis ;</l>
+	<l id="363">Mais un autre intérêt tient ma joie en contrainte,</l>
+	<l id="364">Et parmi ses douceurs mêle beaucoup de crainte :</l>
+	<l id="365">La guerre en tel éclat a mis votre valeur,</l>
+	<l id="366">Que je tremble pour Albe et prévois son malheur :</l>
+	<l id="367">Puisque vous combattez, sa perte est assurée ;</l>
+	<l id="368">En vous faisant nommer, le destin l'a jurée.</l>
+	<l id="369">Je vois trop dans ce choix ses funestes projets,</l>
+	<l id="370">Et me compte déjà pour un de vos sujets.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="371">Loin de trembler pour Albe, il vous faut plaindre Rome,</l>
+	<l id="372">Voyant ceux qu'elle oublie, et les trois qu'elle nomme.</l>
+	<l id="373">C'est un aveuglement pour elle bien fatal,</l>
+	<l id="374">D'avoir tant à choisir, et de choisir si mal.</l>
+	<l id="375">Mille de ses enfants beaucoup plus dignes d'elle</l>
+	<l id="376">Pouvaient bien mieux que nous soutenir sa querelle ;</l>
+	<l id="377">Mais quoique ce combat me promette un cercueil,</l>
+	<l id="378">La gloire de ce choix m'enfle d'un juste orgueil ;</l>
+	<l id="379">Mon esprit en conçoit une mâle assurance :</l>
+	<l id="380">J'ose espérer beaucoup de mon peu de vaillance ;</l>
+	<l id="381">Et du sort envieux quels que soient les projets,</l>
+	<l id="382">Je ne me compte point pour un de vos sujets.</l>
+	<l id="383">Rome a trop cru de moi ; mais mon âme ravie</l>
+	<l id="384">Remplira son attente, ou quittera la vie.</l>
+	<l id="385">Qui veut mourir, ou vaincre, est vaincu rarement :</l>
+	<l id="386">Ce noble désespoir périt malaisément.</l>
+	<l id="387">Rome, quoi qu'il en soit, ne sera point sujette,</l>
+	<l id="388">Que mes derniers soupirs n'assurent ma défaite.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="389">Hélas ! C'est bien ici que je dois être plaint.</l>
+	<l id="390">Ce que veut mon pays, mon amitié le craint.</l>
+	<l id="391">Dures extrémités, de voir Albe asservie,</l>
+	<l id="392">Ou sa victoire au prix d'une si chère vie,</l>
+	<l id="393">Et que l'unique bien où tendent ses désirs</l>
+	<l id="394">S'achète seulement par vos derniers soupirs !</l>
+	<l id="395">Quels voeux puis-je former, et quel bonheur attendre ?</l>
+	<l id="396">De tous les deux côtés j'ai des pleurs à répandre ;</l>
+	<l id="397">De tous les deux côtés mes désirs sont trahis.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="398">Quoi ! Vous me pleureriez mourant pour mon pays !</l>
+	<l id="399">Pour un coeur généreux ce trépas a des charmes ;</l>
+	<l id="400">La gloire qui le suit ne souffre point de larmes,</l>
+	<l id="401">Et je le recevrais en bénissant mon sort,</l>
+	<l id="402">Si Rome et tout l'état perdaient moins en ma mort.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="403">À vos amis pourtant permettez de le craindre ;</l>
+	<l id="404">Dans un si beau trépas ils sont les seuls à plaindre :</l>
+	<l id="405">La gloire en est pour vous, et la perte pour eux ;</l>
+	<l id="406">Il vous fait immortel, et les rend malheureux :</l>
+	<l id="407">On perd tout quand on perd un ami si fidèle.</l>
+	<l id="408">Mais Flavian m'apporte ici quelque nouvelle.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Horace, Curiace, Flavian.</head>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="409">Albe de trois guerriers a-t-elle fait le choix ?</l>
+</sp>
+<sp who="FLAVIAN"><speaker>FLAVIAN</speaker>
+	<l id="410" part="i">Je viens pour vous l'apprendre.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="410" part="f">Eh bien, qui sont les trois ?</l>
+</sp>
+<sp who="FLAVIAN"><speaker>FLAVIAN</speaker>
+	<l id="411" part="i">Vos deux frères et vous.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="411" part="m">Qui ?</l>
+</sp>
+<sp who="FLAVIAN"><speaker>FLAVIAN</speaker>
+	<l id="411" part="f">Vous et vos deux frères.</l>
+	<l id="412">Mais pourquoi ce front triste et ces regards sévères ?</l>
+	<l id="413" part="i">Ce choix vous déplaît-il ?</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="413" part="f">Non, mais il me surprend :</l>
+	<l id="414">Je m'estimais trop peu pour un honneur si grand.</l>
+</sp>
+<sp who="FLAVIAN"><speaker>FLAVIAN</speaker>
+	<l id="415">Dirai-je au dictateur, dont l'ordre ici m'envoie,</l>
+	<l id="416">Que vous le recevez avec si peu de joie ?</l>
+	<l id="417">Ce morne et froid accueil me surprend à mon tour.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="418">Dis-lui que l'amitié, l'alliance et l'amour</l>
+	<l id="419">Ne pourront empêcher que les trois Curiaces</l>
+	<l id="420">Ne servent leur pays contre les trois Horaces.</l>
+</sp>
+<sp who="FLAVIAN"><speaker>FLAVIAN</speaker>
+	<l id="421">Contre eux ! Ah ! C'est beaucoup me dire en peu de mots.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="422">Porte-lui ma réponse, et nous laisse en repos.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Horace, Curiace.</head>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="423">Que désormais le ciel, les enfers et la terre</l>
+	<l id="424">Unissent leurs fureurs à nous faire la guerre ;</l>
+	<l id="425">Que les hommes, les dieux, les démons et le sort</l>
+	<l id="426">Préparent contre nous un général effort !</l>
+	<l id="427">Je mets à faire pis, en l'état où nous sommes,</l>
+	<l id="428">Le sort, et les démons, et les dieux, et les hommes.</l>
+	<l id="429">Ce qu'ils ont de cruel, et d'horrible et d'affreux,</l>
+	<l id="430">L'est bien moins que l'honneur qu'on nous fait à tous deux.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="431">Le sort qui de l'honneur nous ouvre la barrière</l>
+	<l id="432">Offre à notre constance une illustre matière ;</l>
+	<l id="433">Il épuise sa force à former un malheur</l>
+	<l id="434">Pour mieux se mesurer avec notre valeur ;</l>
+	<l id="435">Et comme il voit en nous des âmes peu communes,</l>
+	<l id="436">Hors de l'ordre commun il nous fait des fortunes.</l>
+	<l id="437">Combattre un ennemi pour le salut de tous,</l>
+	<l id="438">Et contre un inconnu s'exposer seul aux coups,</l>
+	<l id="439">D'une simple vertu c'est l'effet ordinaire :</l>
+	<l id="440">Mille déjà l'ont fait, mille pourraient le faire ;</l>
+	<l id="441">Mourir pour le pays est un si digne sort,</l>
+	<l id="442">Qu'on briguerait en foule une si belle mort ;</l>
+	<l id="443">Mais vouloir au public immoler ce qu'on aime,</l>
+	<l id="444">S'attacher au combat contre un autre soi-même,</l>
+	<l id="445">Attaquer un parti qui prend pour défenseur</l>
+	<l id="446">Le frère d'une femme et l'amant d'une soeur,</l>
+	<l id="447">Et rompant tous ces noeuds, s'armer pour la patrie</l>
+	<l id="448">Contre un sang qu'on voudrait racheter de sa vie,</l>
+	<l id="449">Une telle vertu n'appartenait qu'à nous ;</l>
+	<l id="450">L'éclat de son grand nom lui fait peu de jaloux,</l>
+	<l id="451">Et peu d'hommes au coeur l'ont assez imprimée</l>
+	<l id="452">Pour oser aspirer à tant de renommée.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="453">Il est vrai que nos noms ne sauraient plus périr.</l>
+	<l id="454">L'occasion est belle, il nous la faut chérir.</l>
+	<l id="455">Nous serons les miroirs d'une vertu bien rare ;</l>
+	<l id="456">Mais votre fermeté tient un peu du barbare :</l>
+	<l id="457">Peu, même des grands coeurs, tireraient vanité</l>
+	<l id="458">D'aller par ce chemin à l'immortalité.</l>
+	<l id="459">À quelque prix qu'on mette une telle fumée,</l>
+	<l id="460">L'obscurité vaut mieux que tant de renommée.</l>
+	<l id="461">Pour moi, je l'ose dire, et vous l'avez pu voir,</l>
+	<l id="462">Je n'ai point consulté pour suivre mon devoir ;</l>
+	<l id="463">Notre longue amitié, l'amour, ni l'alliance,</l>
+	<l id="464">N'ont pu mettre un moment mon esprit en balance ;</l>
+	<l id="465">Et puisque par ce choix Albe montre en effet</l>
+	<l id="466">Qu'elle m'estime autant que Rome vous a fait,</l>
+	<l id="467">Je crois faire pour elle autant que vous pour Rome ;</l>
+	<l id="468">J'ai le coeur aussi bon, mais enfin je suis homme :</l>
+	<l id="469">Je vois que votre honneur demande tout mon sang,</l>
+	<l id="470">Que tout le mien consiste à vous percer le flanc,</l>
+	<l id="471">Près d'épouser la soeur, qu'il faut tuer le frère,</l>
+	<l id="472">Et que pour mon pays j'ai le sort si contraire.</l>
+	<l id="473">Encore qu'à mon devoir je coure sans terreur,</l>
+	<l id="474">Mon coeur s'en effarouche, et j'en frémis d'horreur ;</l>
+	<l id="475">J'ai pitié de moi-même, et jette un oeil d'envie</l>
+	<l id="476">Sur ceux dont notre guerre a consumé la vie,</l>
+	<l id="477">Sans souhait toutefois de pouvoir reculer.</l>
+	<l id="478">Ce triste et fier honneur m'émeut sans m'ébranler :</l>
+	<l id="479">J'aime ce qu'il me donne, et je plains ce qu'il m'ôte ;</l>
+	<l id="480">Et si Rome demande une vertu plus haute,</l>
+	<l id="481">Je rends grâces aux dieux de n'être pas romain,</l>
+	<l id="482">Pour conserver encore quelque chose d'humain.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="483">Si vous n'êtes romain, soyez digne de l'être ;</l>
+	<l id="484">Et si vous m'égalez, faites-le mieux paraître.</l>
+	<l id="485">La solide vertu dont je fais vanité</l>
+	<l id="486">N'admet point de faiblesse avec sa fermeté ;</l>
+	<l id="487">Et c'est mal de l'honneur entrer dans la carrière</l>
+	<l id="488">Que dès le premier pas regarder en arrière.</l>
+	<l id="489">Notre malheur est grand ; il est au plus haut point ;</l>
+	<l id="490">Je l'envisage entier, mais je n'en frémis point :</l>
+	<l id="491">Contre qui que ce soit que mon pays m'emploie,</l>
+	<l id="492">J'accepte aveuglément cette gloire avec joie ;</l>
+	<l id="493">Celle de recevoir de tels commandements</l>
+	<l id="494">Doit étouffer en nous tous autres sentiments.</l>
+	<l id="495">Qui, près de le servir, considère autre chose,</l>
+	<l id="496">À faire ce qu'il doit lâchement se dispose ;</l>
+	<l id="497">Ce droit saint et sacré rompt tout autre lien.</l>
+	<l id="498">Rome a choisi mon bras, je n'examine rien :</l>
+	<l id="499">Avec une allégresse aussi pleine et sincère</l>
+	<l id="500">Que j'épousai la soeur, je combattrai le frère ;</l>
+	<l id="501">Et pour trancher enfin ces discours superflus,</l>
+	<l id="502">Albe vous a nommé, je ne vous connais plus.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="503">Je vous connais encore, et c'est ce qui me tue ;</l>
+	<l id="504">Mais cette âpre vertu ne m'était pas connue ;</l>
+	<l id="505">Comme notre malheur elle est au plus haut point :</l>
+	<l id="506">Souffrez que je l'admire et ne l'imite point.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="507">Non, non, n'embrassez pas de vertu par contrainte ;</l>
+	<l id="508">Et puisque vous trouvez plus de charme à la plainte,</l>
+	<l id="509">En toute liberté goûtez un bien si doux ;</l>
+	<l id="510">Voici venir ma soeur pour se plaindre avec vous.</l>
+	<l id="511">Je vais revoir la vôtre, et résoudre son âme</l>
+	<l id="512">À se bien souvenir qu'elle est toujours ma femme,</l>
+	<l id="513">À vous aimer encore, si je meurs par vos mains,</l>
+	<l id="514">Et prendre en son malheur des sentiments romains</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Horace, Curiace, Camille.</head>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="515">Avez-vous su l'état qu'on fait de Curiace,</l>
+	<l id="516" part="i">ma soeur ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="516" part="f">Hélas ! Mon sort a bien changé de face.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="517">Armez-vous de constance, et montrez-vous ma soeur ;</l>
+	<l id="518">Et si par mon trépas il retourne vainqueur,</l>
+	<l id="519">Ne le recevez point en meurtrier d'un frère,</l>
+	<l id="520">Mais en homme d'honneur qui fait ce qu'il doit faire,</l>
+	<l id="521">Qui sert bien son pays, et sait montrer à tous,</l>
+	<l id="522">Par sa haute vertu, qu'il est digne de vous.</l>
+<note type="L">Hyménée : divinité fabuleuse des païens, qu'ils coient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
+	<l id="523">Comme si je vivais, achevez l'hyménée ;</l>
+	<l id="524">Mais si ce fer aussi tranche sa destinée,</l>
+	<l id="525">Faites à ma victoire un pareil traitement :</l>
+	<l id="526">Ne me reprochez point la mort de votre amant.</l>
+	<l id="527">Vos larmes vont couler, et votre coeur se presse.</l>
+	<l id="528">Consumez avec lui toute cette faiblesse,</l>
+	<l id="529">Querellez ciel et terre, et maudissez le sort ;</l>
+	<l id="530">Mais après le combat ne pensez plus au mort.</l>
+	<l id="531">Je ne vous laisserai qu'un moment avec elle,</l>
+	<l id="532">Puis nous irons ensemble où l'honneur nous appelle.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Curiace, Camille.</head>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="533">Iras-tu, Curiace, et ce funeste honneur</l>
+	<l id="534">Te plaît-il aux dépens de tout notre bonheur ?</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="535">Hélas ! Je vois trop bien qu'il faut, quoi que je fasse,</l>
+	<l id="536">Mourir, ou de douleur, ou de la main d'Horace.</l>
+	<l id="537">Je vais comme au supplice à cet illustre emploi,</l>
+	<l id="538">Je maudis mille fois l'état qu'on fait de moi,</l>
+	<l id="539">Je hais cette valeur qui fait qu'Albe m'estime ;</l>
+	<l id="540">Ma flamme au désespoir passe jusques au crime,</l>
+	<l id="541">Elle se prend au ciel, et l'ose quereller ;</l>
+	<l id="542">Je vous plains, je me plains ; mais il y faut aller.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="543">Non ; je te connais mieux, tu veux que je te prie</l>
+	<l id="544">Et qu'ainsi mon pouvoir t'excuse à ta patrie.</l>
+	<l id="545">Tu n'es que trop fameux par tes autres exploits :</l>
+	<l id="546">Albe a reçu par eux tout ce que tu lui dois.</l>
+	<l id="547">Autre n'a mieux que toi soutenu cette guerre ;</l>
+	<l id="548">Autre de plus de morts n'a couvert notre terre :</l>
+	<l id="549">Ton nom ne peut plus croître, il ne lui manque rien ;</l>
+	<l id="550">Souffre qu'un autre ici puisse ennoblir le sien.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="551">Que je souffre à mes yeux qu'on ceigne une autre tête</l>
+<note tyep="L">Laurier : se dit figurément en Morale, pour signifer la gloire d'un triomphe, d'une conquête. [F]</note>
+	<l id="552">Des lauriers immortels que la gloire m'apprête,</l>
+	<l id="553">Ou que tout mon pays reproche à ma vertu</l>
+	<l id="554">Qu'il aurait triomphé si j'avais combattu,</l>
+	<l id="555">Et que sous mon amour ma valeur endormie</l>
+	<l id="556">Couronne tant d'exploits d'une telle infamie !</l>
+	<l id="557">Non, Albe, après l'honneur que j'ai reçu de toi,</l>
+	<l id="558">Tu ne succomberas ni vaincras que par moi ;</l>
+	<l id="559">Tu m'as commis ton sort, je t'en rendrai bon conte,</l>
+	<l id="560">Et vivrai sans reproche, ou périrai sans honte.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="561">Quoi ! Tu ne veux pas voir qu'ainsi tu me trahis !</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="562">Avant que d'être à vous, je suis à mon pays.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="563">Mais te priver pour lui toi-même d'un beau-frère,</l>
+	<l id="564" part="i">ta soeur de son mari !</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="564" part="f">Telle est notre misère :</l>
+	<l id="565">Le choix d'Albe et de Rome ôte toute douceur</l>
+	<l id="566">Aux noms jadis si doux de beau-frère et de soeur.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="567">Tu pourras donc, cruel, me présenter sa tête,</l>
+	<l id="568">Et demander ma main pour prix de ta conquête !</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="569">Il n'y faut plus penser : en l'état où je suis,</l>
+	<l id="570">Vous aimer sans espoir, c'est tout ce que je puis.</l>
+	<l id="571" part="i">Vous en pleurez, Camille ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="571" part="f">Il faut bien que je pleure :</l>
+	<l id="572">Mon insensible amant ordonne que je meure ;</l>
+	<l id="573">Et quand l'hymen pour nous allume son flambeau,</l>
+	<l id="574">Il l'éteint de sa main pour m'ouvrir le tombeau.</l>
+	<l id="575">Ce coeur impitoyable à ma perte s'obstine,</l>
+	<l id="576">Et dit qu'il m'aime encore alors qu'il m'assassine.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="577">Que les pleurs d'une amante ont de puissants discours,</l>
+	<l id="578">Et qu'un bel oeil est fort avec un tel secours !</l>
+	<l id="579">Que mon coeur s'attendrit à cette triste vue !</l>
+	<l id="580">Ma constance contre elle à regret s'évertue.</l>
+	<l id="581">N'attaquez plus ma gloire avec tant de douleurs,</l>
+	<l id="582">Et laissez-moi sauver ma vertu de vos pleurs ;</l>
+	<l id="583">Je sens qu'elle chancelle, et défend mal la place :</l>
+	<l id="584">Plus je suis votre amant, moins je suis Curiace.</l>
+	<l id="585">Faible d'avoir déjà combattu l'amitié,</l>
+	<l id="586">Vaincrait-elle à la fois l'amour et la pitié ?</l>
+	<l id="587">Allez, ne m'aimez plus, ne versez plus de larmes,</l>
+	<l id="588">Ou j'oppose l'offense à de si fortes armes ;</l>
+	<l id="589">Je me défendrai mieux contre votre courroux,</l>
+	<l id="590">Et pour le mériter, je n'ai plus d'yeux pour vous :</l>
+	<l id="591">Vengez-vous d'un ingrat, punissez un volage.</l>
+	<l id="592">Vous ne vous montrez point sensible à cet outrage !</l>
+	<l id="593">Je n'ai plus d'yeux pour vous, vous en avez pour moi !</l>
+	<l id="594">En faut-il plus encore ? Je renonce à ma foi.</l>
+	<l id="595">Rigoureuse vertu dont je suis la victime,</l>
+	<l id="596">Ne peux-tu résister sans le secours d'un crime ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="597">Ne fais point d'autre crime, et j'atteste les dieux</l>
+	<l id="598">Qu'au lieu de t'en haïr, je t'en aimerai mieux ;</l>
+	<l id="599">Oui, je te chérirai, tout ingrat et perfide,</l>
+	<l id="600">Et cesse d'aspirer au nom de fratricide.</l>
+	<l id="601">Pourquoi suis-je romaine, ou que n'es-tu romain ?</l>
+	<l id="602">Je te préparerais des lauriers de ma main ;</l>
+	<l id="603">Je t'encouragerais, au lieu de te distraire ;</l>
+	<l id="604">Et je te traiterais comme j'ai fait mon frère.</l>
+	<l id="605">Hélas ! J'étais aveugle en mes voeux aujourd'hui ;</l>
+	<l id="606">J'en ai fait contre toi quand j'en ai fait pour lui.</l>
+	<l id="607">Il revient : quel malheur, si l'amour de sa femme</l>
+	<l id="608">Ne peut non plus sur lui que le mien sur ton âme !</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Horace, Curiace, Sabine, Camille.</head>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="609">Dieux ! Sabine le suit. Pour ébranler mon coeur,</l>
+	<l id="610">Est-ce peu de Camille ? Y joignez-vous ma soeur ?</l>
+	<l id="611">Et laissant à ses pleurs vaincre ce grand courage,</l>
+	<l id="612">L'amenez-vous ici chercher même avantage ?</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="613">Non, non, mon frère, non ; je ne viens en ce lieu</l>
+	<l id="614">Que pour vous embrasser et pour vous dire adieu.</l>
+	<l id="615">Votre sang est trop bon, n'en craignez rien de lâche,</l>
+	<l id="616">Rien dont la fermeté de ces grands coeurs se fâche :</l>
+	<l id="617">Si ce malheur illustre ébranlait l'un de vous,</l>
+	<l id="618">Je le désavouerais pour frère ou pour époux.</l>
+	<l id="619">Pourrais-je toutefois vous faire une prière</l>
+	<l id="620">Digne d'un tel époux et digne d'un tel frère ?</l>
+	<l id="621">Je veux d'un coup si noble ôter l'impiété,</l>
+	<l id="622">À l'honneur qui l'attend rendre sa pureté,</l>
+	<l id="623">La mettre en son éclat sans mélange de crimes ;</l>
+	<l id="624">Enfin je vous veux faire ennemis légitimes.</l>
+	<l id="625">Du saint noeud qui vous joint je suis le seul lien :</l>
+	<l id="626">Quand je ne serai plus, vous ne vous serez rien.</l>
+	<l id="627">Brisez votre alliance, et rompez-en la chaîne ;</l>
+	<l id="628">Et puisque votre honneur veut des effets de haine,</l>
+	<l id="629">Achetez par ma mort le droit de vous haïr :</l>
+	<l id="630">Albe le veut, et Rome ; il faut leur obéir.</l>
+	<l id="631">Qu'un de vous deux me tue, et que l'autre me venge :</l>
+	<l id="632">Alors votre combat n'aura plus rien d'étrange ;</l>
+	<l id="633">Et du moins l'un des deux sera juste agresseur,</l>
+	<l id="634">Ou pour venger sa femme, ou pour venger sa soeur.</l>
+	<l id="635">Mais quoi ? Vous souilleriez une gloire si belle,</l>
+	<l id="636">Si vous vous animiez par quelque autre querelle :</l>
+	<l id="637">Le zèle du pays vous défend de tels soins ;</l>
+	<l id="638">Vous feriez peu pour lui si vous vous étiez moins :</l>
+	<l id="639">Il lui faut, et sans haine, immoler un beau-frère.</l>
+	<l id="640">Ne différez donc plus ce que vous devez faire :</l>
+	<l id="641">Commencez par sa soeur à répandre son sang,</l>
+	<l id="642">Commencez par sa femme à lui percer le flanc,</l>
+	<l id="643">Commencez par Sabine à faire de vos vies</l>
+	<l id="644">Un digne sacrifice à vos chères patries :</l>
+	<l id="645">Vous êtes ennemis en ce combat fameux,</l>
+	<l id="646">Vous d'Albe, vous de Rome, et moi de toutes deux.</l>
+	<l id="647">Quoi ? Me réservez-vous à voir une victoire</l>
+	<l id="648">Où pour haut appareil d'une pompeuse gloire,</l>
+	<l id="649">Je verrai les lauriers d'un frère ou d'un mari</l>
+	<l id="650">Fumer encore d'un sang que j'aurai tant chéri ?</l>
+	<l id="651">Pourrai-je entre vous deux régler alors mon âme,</l>
+	<l id="652">Satisfaire aux devoirs et de soeur et de femme,</l>
+	<l id="653">Embrasser le vainqueur en pleurant le vaincu ?</l>
+	<l id="654">Non, non, avant ce coup Sabine aura vécu :</l>
+	<l id="655">Ma mort le préviendra, de qui que je l'obtienne ;</l>
+	<l id="656">Le refus de vos mains y condamne la mienne.</l>
+	<l id="657">Sus donc, qui vous retient ? Allez, coeurs inhumains,</l>
+	<l id="658">J'aurai trop de moyens pour y forcer vos mains.</l>
+	<l id="659">Vous ne les aurez point au combat occupées,</l>
+	<l id="660">Que ce corps au milieu n'arrête vos épées ;</l>
+	<l id="661">Et malgré vos refus, il faudra que leurs coups</l>
+	<l id="662">Se fassent jour ici pour aller jusqu'à vous.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="663" part="i">ô ma femme !</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="663" part="m">ô ma soeur !</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="663" part="f">Courage ! Ils s'amollissent.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="664">Vous poussez des soupirs ; vos visages pâlissent !</l>
+	<l id="665">Quelle peur vous saisit ? Sont-ce là ces grands coeurs,</l>
+	<l id="666">Ces héros qu'Albe et Rome ont pris pour défenseurs ?</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="667">Que t'ai-je fait, Sabine, et quelle est mon offense</l>
+	<l id="668">Qui t'oblige à chercher une telle vengeance ?</l>
+	<l id="669">Que t'a fait mon honneur, et par quel droit viens-tu</l>
+	<l id="670">Avec toute ta force attaquer ma vertu ?</l>
+	<l id="671">Du moins contente-toi de l'avoir étonnée,</l>
+	<l id="672">Et me laisse achever cette grande journée.</l>
+	<l id="673">Tu me viens de réduire en un étrange point ;</l>
+	<l id="674">Aime assez ton mari pour n'en triompher point.</l>
+	<l id="675">Va-t'en, et ne rends plus la victoire douteuse ;</l>
+	<l id="676">La dispute déjà m'en est assez honteuse :</l>
+	<l id="677">Souffre qu'avec honneur je termine mes jours.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="678">Va, cesse de me craindre : on vient à ton secours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Le Viel Horace, Horace, Curiace.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="679">Qu'est-ce-ci, mes enfants ? écoutez-vous vos flammes,</l>
+	<l id="680">Et perdez-vous encore le temps avec des femmes ?</l>
+	<l id="681">Prêts à verser du sang, regardez-vous des pleurs ?</l>
+	<l id="682">Fuyez, et laissez-les déplorer leurs malheurs.</l>
+	<l id="683">Leurs plaintes ont pour vous trop d'art et de tendresse.</l>
+	<l id="684">Elles vous feraient part enfin de leur faiblesse,</l>
+	<l id="685">Et ce n'est qu'en fuyant qu'on pare de tels coups.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="686">N'appréhendez rien d'eux, ils sont dignes de vous.</l>
+	<l id="687">Malgré tous nos efforts, vous en devez attendre</l>
+	<l id="688">Ce que vous souhaitez et d'un fils et d'un gendre ;</l>
+	<l id="689">Et si notre faiblesse ébranlait leur honneur,</l>
+	<l id="690">Nous vous laissons ici pour leur rendre du coeur.</l>
+	<l id="691">Allons, ma soeur, allons, ne perdons plus de larmes :</l>
+	<l id="692">Contre tant de vertus ce sont de faibles armes.</l>
+	<l id="693">Ce n'est qu'au désespoir qu'il nous faut recourir.</l>
+	<l id="694">Tigres, allez combattre, et nous, allons mourir.</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Le Vieil Horace, Horace, Curiace.</head>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="695">Mon père, retenez des femmes qui s'emportent,</l>
+	<l id="696">Et de grâce empêchez surtout qu'elles ne sortent.</l>
+	<l id="697">Leur amour importun viendrait avec éclat</l>
+	<l id="698">Par des cris et des pleurs troubler notre combat ;</l>
+	<l id="699">Et ce qu'elles nous sont ferait qu'avec justice</l>
+	<l id="700">On nous imputerait ce mauvais artifice.</l>
+	<l id="701">L'honneur d'un si beau choix serait trop acheté,</l>
+	<l id="702">Si l'on nous soupçonnait de quelque lâcheté.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="703">J'en aurai soin. Allez, vos frères vous attendent ;</l>
+	<l id="704">Ne pensez qu'aux devoirs que vos pays demandent.</l>
+</sp>
+<sp who="CURIACE"><speaker>CURIACE</speaker>
+	<l id="705">Quel adieu vous dirai-je ? Et par quels compliments...</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="706">Ah ! N'attendrissez point ici mes sentiments ;</l>
+	<l id="707">Pour vous encourager ma voix manque de termes ;</l>
+	<l id="708">Mon coeur ne forme point de pensées assez fermes ;</l>
+	<l id="709">Moi-même en cet adieu j'ai les larmes aux yeux.</l>
+	<l id="710">Faites votre devoir, et laissez faire aux dieux.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="711">Prenons parti, mon âme, en de telles disgrâces :</l>
+	<l id="712">Soyons femme d'Horace, ou soeur des Curiaces ;</l>
+	<l id="713">Cessons de partager nos inutiles soins ;</l>
+	<l id="714">Souhaitons quelque chose, et craignons un peu moins.</l>
+	<l id="715">Mais, las ! Quel parti prendre en un sort si contraire ?</l>
+	<l id="716">Quel ennemi choisir, d'un époux ou d'un frère ?</l>
+	<l id="717">La nature ou l'amour parle pour chacun d'eux,</l>
+	<l id="718">Et la loi du devoir m'attache à tous les deux.</l>
+	<l id="719">Sur leurs hauts sentiments réglons plutôt les nôtres ;</l>
+	<l id="720">Soyons femme de l'un ensemble et soeur des autres :</l>
+	<l id="721">Regardons leur honneur comme un souverain bien ;</l>
+	<l id="722">Imitons leur constance, et ne craignons plus rien.</l>
+	<l id="723">La mort qui les menace est une mort si belle,</l>
+	<l id="724">Qu'il en faut sans frayeur attendre la nouvelle.</l>
+	<l id="725">N'appelons point alors les destins inhumains ;</l>
+	<l id="726">Songeons pour quelle cause, et non par quelles mains ;</l>
+	<l id="727">Revoyons les vainqueurs, sans penser qu'à la gloire</l>
+	<l id="728">Que toute leur maison reçoit de leur victoire ;</l>
+	<l id="729">Et sans considérer aux dépens de quel sang</l>
+	<l id="730">Leur vertu les élève en cet illustre rang,</l>
+	<l id="731">Faisons nos intérêts de ceux de leur famille :</l>
+	<l id="732">En l'une je suis femme, en l'autre je suis fille,</l>
+	<l id="733">Et tiens à toutes deux par de si forts liens,</l>
+	<l id="734">Qu'on ne peut triompher que par les bras des miens.</l>
+	<l id="735">Fortune, quelques maux que ta rigueur m'envoie,</l>
+	<l id="736">J'ai trouvé les moyens d'en tirer de la joie,</l>
+	<l id="737">Et puis voir aujourd'hui le combat sans terreur,</l>
+	<l id="738">Les morts sans désespoir, les vainqueurs sans horreur.</l>
+	<l id="739">Flatteuse illusion, erreur douce et grossière,</l>
+	<l id="740">Vain effort de mon âme, impuissante lumière,</l>
+	<l id="741">De qui le faux brillant prend droit de m'éblouir,</l>
+	<l id="742">Que tu sais peu durer, et tôt t'évanouir !</l>
+	<l id="743">Pareille à ces éclairs qui dans le fort des ombres</l>
+	<l id="744">Poussent un jour qui fuit et rend les nuits plus sombres,</l>
+	<l id="745">Tu n'as frappé mes yeux d'un moment de clarté</l>
+	<l id="746">Que pour les abîmer dans plus d'obscurité.</l>
+	<l id="747">Tu charmais trop ma peine, et le ciel, qui s'en fâche,</l>
+	<l id="748">Me vend déjà bien cher ce moment de relâche.</l>
+	<l id="749">Je sens mon triste coeur percé de tous les coups</l>
+	<l id="750">Qui m'ôtent maintenant un frère ou mon époux.</l>
+	<l id="751">Quand je songe à leur mort, quoi que je me propose,</l>
+	<l id="752">Je songe par quels bras, et non pour quelle cause,</l>
+	<l id="753">Et ne vois les vainqueurs en leur illustre rang</l>
+	<l id="754">Que pour considérer aux dépens de quel sang.</l>
+	<l id="755">La maison des vaincus touche seule mon âme :</l>
+	<l id="756">En l'une je suis fille, en l'autre je suis femme,</l>
+	<l id="757">Et tiens à toutes deux par de si forts liens,</l>
+	<l id="758">Qu'on ne peut triompher que par la mort des miens.</l>
+	<l id="759">C'est là donc cette paix que j'ai tant souhaitée !</l>
+	<l id="760">Trop favorables dieux, vous m'avez écoutée !</l>
+	<l id="761">Quels foudres lancez-vous quand vous vous irritez,</l>
+	<l id="762">Si même vos faveurs ont tant de cruautés ?</l>
+	<l id="763">Et de quelle façon punissez-vous l'offense,</l>
+	<l id="764">Si vous traitez ainsi les voeux de l'innocence ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Sabine, Julie.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="765">En est-ce fait, Julie, et que m'apportez-vous ?</l>
+	<l id="766">Est-ce la mort d'un frère, ou celle d'un époux ?</l>
+	<l id="767">Le funeste succès de leurs armes impies</l>
+	<l id="768">De tous les combattants a-t-il fait des hosties,</l>
+	<l id="769">Et m'enviant l'horreur que j'aurais des vainqueurs,</l>
+	<l id="770">Pour tous tant qu'ils étaient demande-t-il mes pleurs ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="771">Quoi ? Ce qui s'est passé, vous l'ignorez encore ?</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="772">Vous faut-il étonner de ce que je l'ignore,</l>
+	<l id="773">Et ne savez-vous point que de cette maison</l>
+	<l id="774">Pour Camille et pour moi l'on fait une prison ?</l>
+	<l id="775">Julie, on nous renferme, on a peur de nos larmes ;</l>
+	<l id="776">Sans cela nous serions au milieu de leurs armes,</l>
+	<l id="777">Et par les désespoirs d'une chaste amitié,</l>
+	<l id="778">Nous aurions des deux camps tiré quelque pitié.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="779">Il n'était pas besoin d'un si tendre spectacle :</l>
+	<l id="780">Leur vue à leur combat apporte assez d'obstacle.</l>
+	<l id="781">Sitôt qu'ils ont paru prêts à se mesurer,</l>
+	<l id="782">On a dans les deux camps entendu murmurer :</l>
+	<l id="783">À voir de tels amis, des personnes si proches,</l>
+	<l id="784">Venir pour leur patrie aux mortelles approches,</l>
+	<l id="785">L'un s'émeut de pitié, l'autre est saisi d'horreur,</l>
+	<l id="786">L'autre d'un si grand zèle admire la fureur ;</l>
+	<l id="787">Tel porte jusqu'aux cieux leur vertu sans égale,</l>
+	<l id="788">Et tel l'ose nommer sacrilège et brutale.</l>
+	<l id="789">Ces divers sentiments n'ont pourtant qu'une voix ;</l>
+	<l id="790">Tous accusent leurs chefs, tous détestent leur choix ;</l>
+	<l id="791">Et ne pouvant souffrir un combat si barbare,</l>
+	<l id="792">On s'écrie, on s'avance, enfin on les sépare.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="793">Que je vous dois d'encens, grands dieux, qui m'exaucez !</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="794">Vous n'êtes pas, Sabine, encore où vous pensez :</l>
+	<l id="795">Vous pouvez espérer, vous avez moins à craindre ;</l>
+	<l id="796">Mais il vous reste encore assez de quoi vous plaindre.</l>
+	<l id="797">En vain d'un sort si triste on les veut garantir ;</l>
+	<l id="798">Ces cruels généreux n'y peuvent consentir :</l>
+	<l id="799">La gloire de ce choix leur est si précieuse,</l>
+	<l id="800">Et charme tellement leur âme ambitieuse,</l>
+	<l id="801">Qu'alors qu'on les déplore ils s'estiment heureux,</l>
+	<l id="802">Et prennent pour affront la pitié qu'on a d'eux.</l>
+	<l id="803">Le trouble des deux camps souille leur renommée ;</l>
+	<l id="804">Ils combattront plutôt et l'une et l'autre armée,</l>
+	<l id="805">Et mourront par les mains qui leur font d'autres lois,</l>
+	<l id="806">Que pas un d'eux renonce aux honneurs d'un tel choix.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="807">Quoi ? Dans leur dureté ces coeurs d'acier s'obstinent !</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="808">Oui, mais d'autre côté les deux camps se mutinent,</l>
+	<l id="809">Et leurs cris, des deux parts poussés en même temps,</l>
+	<l id="810">Demandent la bataille, ou d'autres combattants.</l>
+	<l id="811">La présence des chefs à peine est respectée,</l>
+	<l id="812">Leur pouvoir est douteux, leur voix mal écoutée ;</l>
+	<l id="813">Le roi même s'étonne ; et pour dernier effort :</l>
+	<l id="814">" puisque chacun, dit-il, s'échauffe en ce discord,</l>
+	<l id="815">Consultons des grands dieux la majesté sacrée,</l>
+	<l id="816">Et voyons si ce change à leurs bontés agrée.</l>
+	<l id="817">Quel impie osera se prendre à leur vouloir,</l>
+	<l id="818">Lorsqu'en un sacrifice ils nous l'auront fait voir ? "</l>
+	<l id="819">Il se tait, et ces mots semblent être des charmes ;</l>
+	<l id="820">Même aux six combattants ils arrachent les armes ;</l>
+	<l id="821">Et ce désir d'honneur qui leur ferme les yeux,</l>
+	<l id="822">Tout aveugle qu'il est, respecte encore les dieux.</l>
+	<l id="823">Leur plus bouillante ardeur cède à l'avis de Tulle ;</l>
+	<l id="824">Et soit par déférence, ou par un prompt scrupule,</l>
+	<l id="825">Dans l'une et l'autre armée on s'en fait une loi,</l>
+	<l id="826">Comme si toutes deux le connaissaient pour roi.</l>
+	<l id="827">Le reste s'apprendra par la mort des victimes.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="828">Les dieux n'avoueront point un combat plein de crimes ;</l>
+	<l id="829">J'en espère beaucoup, puisqu'il est différé,</l>
+	<l id="830">Et je commence à voir ce que j'ai désiré.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Sabine, Camille, Julie.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="831">Ma soeur, que je vous dise une bonne nouvelle.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="832">Je pense la savoir, s'il faut la nommer telle.</l>
+	<l id="833">On l'a dite à mon père, et j'étais avec lui ;</l>
+	<l id="834">Mais je n'en conçois rien qui flatte mon ennui.</l>
+	<l id="835">Ce délai de nos maux rendra leurs coups plus rudes ;</l>
+	<l id="836">Ce n'est qu'un plus long terme à nos inquiétudes ;</l>
+	<l id="837">Et tout l'allégement qu'il en faut espérer,</l>
+	<l id="838">C'est de pleurer plus tard ceux qu'il faudra pleurer.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="839">Les dieux n'ont pas en vain inspiré ce tumulte.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="840">Disons plutôt, ma soeur, qu'en vain on les consulte.</l>
+	<l id="841">Ces mêmes dieux à Tulle ont inspiré ce choix ;</l>
+	<l id="842">Et la voix du public n'est pas toujours leur voix ;</l>
+	<l id="843">Ils descendent bien moins dans de si bas étages</l>
+	<l id="844">Que dans l'âme des rois, leurs vivantes images,</l>
+	<l id="845">De qui l'indépendante et sainte autorité</l>
+	<l id="846">Est un rayon secret de leur divinité.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="847">C'est vouloir sans raison vous former des obstacles</l>
+	<l id="848">Que de chercher leur voix ailleurs qu'en leurs oracles ;</l>
+	<l id="849">Et vous ne vous pouvez figurer tout perdu,</l>
+	<l id="850">Sans démentir celui qui vous fut hier rendu.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="851">Un oracle jamais ne se laisse comprendre :</l>
+	<l id="852">On l'entend d'autant moins que plus on croit l'entendre ;</l>
+	<l id="853">Et loin de s'assurer sur un pareil arrêt,</l>
+	<l id="854">Qui n'y voit rien d'obscur doit croire que tout l'est.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="855">Sur ce qui fait pour nous prenons plus d'assurance,</l>
+	<l id="856">Et souffrons les douceurs d'une juste espérance.</l>
+	<l id="857">Quand la faveur du ciel ouvre à demi ses bras,</l>
+	<l id="858">Qui ne s'en promet rien ne la mérite pas ;</l>
+	<l id="859">Il empêche souvent qu'elle ne se déploie,</l>
+	<l id="860">Et lorsqu'elle descend, son refus la renvoie.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="861">Le ciel agit sans nous en ces événements,</l>
+	<l id="862">Et ne les règle point dessus nos sentiments.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="863">Il ne vous a fait peur que pour vous faire grâce.</l>
+	<l id="864">Adieu : je vais savoir comme enfin tout se passe.</l>
+	<l id="865">Modérez vos frayeurs ; j'espère à mon retour</l>
+	<l id="866">Ne vous entretenir que de propos d'amour,</l>
+	<l id="867">Et que nous n'emploierons la fin de la journée</l>
+	<l id="868">Qu'aux doux préparatifs d'un heureux hyménée.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="869" part="i">J'ose encore l'espérer.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="869" part="f">Moi, je n'espère rien.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="870">L'effet vous fera voir que nous en jugeons bien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Sabine, Camille.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="871">Parmi nos déplaisirs souffrez que je vous blâme :</l>
+	<l id="872">Je ne puis approuver tant de trouble en votre âme ;</l>
+	<l id="873">Que feriez-vous, ma soeur, au point où je me vois,</l>
+	<l id="874">Si vous aviez à craindre autant que je le dois,</l>
+	<l id="875">Et si vous attendiez de leurs armes fatales</l>
+	<l id="876">Des maux pareils aux miens, et des pertes égales ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="877">Parlez plus sainement de vos maux et des miens :</l>
+	<l id="878">Chacun voit ceux d'autrui d'un autre oeil que les siens ;</l>
+	<l id="879">Mais à bien regarder ceux où le ciel me plonge,</l>
+	<l id="880">Les vôtres auprès d'eux vous sembleront un songe.</l>
+	<l id="881">La seule mort d'Horace est à craindre pour vous.</l>
+	<l id="882">Des frères ne sont rien à l'égal d'un époux ;</l>
+	<l id="883">L'hymen qui nous attache en une autre famille</l>
+	<l id="884">Nous détache de celle où l'on a vécu fille ;</l>
+	<l id="885">On voit d'un oeil divers des noeuds si différents,</l>
+	<l id="886">Et pour suivre un mari l'on quitte ses parents ;</l>
+	<l id="887">Mais si près d'un hymen, l'amant que donne un père</l>
+	<l id="888">Nous est moins qu'un époux, et non pas moins qu'un frère ;</l>
+	<l id="889">Nos sentiments entre eux demeurent suspendus,</l>
+	<l id="890">Notre choix impossible, et nos voeux confondus.</l>
+	<l id="891">Ainsi, ma soeur, du moins vous avez dans vos plaintes</l>
+	<l id="892">Où porter vos souhaits et terminer vos craintes ;</l>
+	<l id="893">Mais si le ciel s'obstine à nous persécuter,</l>
+	<l id="894">Pour moi, j'ai tout à craindre, et rien à souhaiter.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="895">Quand il faut que l'un meure et par les mains de l'autre,</l>
+	<l id="896">C'est un raisonnement bien mauvais que le vôtre.</l>
+	<l id="897">Quoique ce soient, ma soeur, des noeuds bien différents,</l>
+	<l id="898">C'est sans les oublier qu'on quitte ses parents :</l>
+	<l id="899">L'hymen n'efface point ces profonds caractères ;</l>
+	<l id="900">Pour aimer un mari, l'on ne hait pas ses frères :</l>
+	<l id="901">La nature en tout temps garde ses premiers droits ;</l>
+	<l id="902">Aux dépens de leur vie on ne fait point de choix :</l>
+	<l id="903">Aussi bien qu'un époux ils sont d'autres nous-mêmes ;</l>
+	<l id="904">Et tous maux sont pareils alors qu'ils sont extrêmes.</l>
+	<l id="905">Mais l'amant qui vous charme et pour qui vous brûlez</l>
+	<l id="906">Ne vous est, après tout, que ce que vous voulez ;</l>
+	<l id="907">Une mauvaise humeur, un peu de jalousie,</l>
+	<l id="908">En fait assez souvent passer la fantaisie ;</l>
+	<l id="909">Ce que peut le caprice, osez-le par raison,</l>
+	<l id="910">Et laissez votre sang hors de comparaison :</l>
+	<l id="911">C'est crime qu'opposer des liens volontaires</l>
+	<l id="912">À ceux que la naissance a rendus nécessaires.</l>
+	<l id="913">Si donc le ciel s'obstine à nous persécuter,</l>
+	<l id="914">Seule j'ai tout à craindre, et rien à souhaiter ;</l>
+	<l id="915">Mais pour vous, le devoir vous donne, dans vos plaintes,</l>
+	<l id="916">Où porter vos souhaits et terminer vos craintes.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="917">Je le vois bien, ma soeur, vous n'aimâtes jamais ;</l>
+	<l id="918">Vous ne connaissez point ni l'amour ni ses traits :</l>
+	<l id="919">On peut lui résister quand il commence à naître,</l>
+	<l id="920">Mais non pas le bannir quand il s'est rendu maître,</l>
+	<l id="921">Et que l'aveu d'un père, engageant notre foi,</l>
+	<l id="922">A fait de ce tyran un légitime roi :</l>
+	<l id="923">Il entre avec douceur, mais il règne par force ;</l>
+	<l id="924">Et quand l'âme une fois a goûté son amorce,</l>
+	<l id="925">Vouloir ne plus aimer, c'est ce qu'elle ne peut,</l>
+	<l id="926">Puisqu'elle ne peut plus vouloir que ce qu'il veut :</l>
+	<l id="927">Ses chaînes sont pour nous aussi fortes que belles.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Le Vieil Horace, Sabine, Camille.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="928">Je viens vous apporter de fâcheuses nouvelles,</l>
+	<l id="929">Mes filles ; mais en vain je voudrais vous celer</l>
+	<l id="930">Ce qu'on ne vous saurait longtemps dissimuler :</l>
+	<l id="931">Vos frères sont aux mains, les dieux ainsi l'ordonnent.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="932">Je veux bien l'avouer, ces nouvelles m'étonnent ;</l>
+	<l id="933">Et je m'imaginais dans la divinité</l>
+	<l id="934">Beaucoup moins d'injustice, et bien plus de bonté.</l>
+	<l id="935">Ne nous consolez point : contre tant d'infortune</l>
+	<l id="936">La pitié parle en vain, la raison importune.</l>
+	<l id="937">Nous avons en nos mains la fin de nos douleurs,</l>
+	<l id="938">Et qui veut bien mourir peut braver les malheurs.</l>
+	<l id="939">Nous pourrions aisément faire en votre présence</l>
+	<l id="940">De notre désespoir une fausse constance ;</l>
+	<l id="941">Mais quand on peut sans honte être sans fermeté,</l>
+	<l id="942">L'affecter au dehors, c'est une lâcheté ;</l>
+	<l id="943">L'usage d'un tel art, nous le laissons aux hommes,</l>
+	<l id="944">Et ne voulons passer que pour ce que nous sommes.</l>
+	<l id="945">Nous ne demandons point qu'un courage si fort</l>
+	<l id="946">S'abaisse à notre exemple à se plaindre du sort.</l>
+	<l id="947">Recevez sans frémir ces mortelles alarmes ;</l>
+	<l id="948">Voyez couler nos pleurs sans y mêler vos larmes ;</l>
+	<l id="949">Enfin, pour toute grâce, en de tels déplaisirs,</l>
+	<l id="950">Gardez votre constance, et souffrez nos soupirs.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="951">Loin de blâmer les pleurs que je vous vois répandre,</l>
+	<l id="952">Je crois faire beaucoup de m'en pouvoir défendre,</l>
+	<l id="953">Et céderais peut-être à de si rudes coups,</l>
+	<l id="954">Si je prenais ici même intérêt que vous :</l>
+	<l id="955">Non qu'Albe par son choix m'ait fait haïr vos frères,</l>
+	<l id="956">Tous trois me sont encor des personnes bien chères ;</l>
+	<l id="957">Mais enfin l'amitié n'est pas du même rang,</l>
+	<l id="958">Et n'a point les effets de l'amour ni du sang ;</l>
+	<l id="959">Je ne sens point pour eux la douleur qui tourmente</l>
+	<l id="960">Sabine comme soeur, Camille comme amante :</l>
+	<l id="961">Je puis les regarder comme nos ennemis,</l>
+	<l id="962">Et donne sans regret mes souhaits à mes fils.</l>
+	<l id="963">Ils sont, grâces aux dieux, dignes de leur patrie ;</l>
+	<l id="964">Aucun étonnement n'a leur gloire flétrie ;</l>
+	<l id="965">Et j'ai vu leur honneur croître de la moitié,</l>
+	<l id="966">Quand ils ont des deux camps refusé la pitié.</l>
+	<l id="967">Si par quelque faiblesse ils l'avaient mendiée,</l>
+	<l id="968">Si leur haute vertu ne l'eût répudiée,</l>
+	<l id="969">Ma main bientôt sur eux m'eût vengé hautement</l>
+	<l id="970">De l'affront que m'eût fait ce mol consentement.</l>
+	<l id="971">Mais lorsqu'en dépit d'eux on en a voulu d'autres,</l>
+	<l id="972">Je ne le cèle point, j'ai joint mes voeux aux vôtres.</l>
+	<l id="973">Si le ciel pitoyable eût écouté ma voix,</l>
+	<l id="974">Albe serait réduite à faire un autre choix ;</l>
+	<l id="975">Nous pourrions voir tantôt triompher les Horaces</l>
+	<l id="976">Sans voir leurs bras souillés du sang des Curiaces,</l>
+	<l id="977">Et de l'événement d'un combat plus humain</l>
+	<l id="978">Dépendrait maintenant l'honneur du nom romain.</l>
+	<l id="979">La prudence des dieux autrement en dispose ;</l>
+	<l id="980">Sur leur ordre éternel mon esprit se repose :</l>
+	<l id="981">Il s'arme en ce besoin de générosité,</l>
+	<l id="982">Et du bonheur public fait sa félicité.</l>
+	<l id="983">Tâchez d'en faire autant pour soulager vos peines,</l>
+	<l id="984">Et songez toutes deux que vous êtes romaines :</l>
+	<l id="985">Vous l'êtes devenue, et vous l'êtes encore ;</l>
+	<l id="986">Un si glorieux titre est un digne trésor.</l>
+	<l id="987">Un jour, un jour viendra que par toute la terre</l>
+	<l id="988">Rome se fera craindre à l'égal du tonnerre,</l>
+	<l id="989">Et que tout l'univers tremblant dessous ses lois,</l>
+	<l id="990">Ce grand nom deviendra l'ambition des rois :</l>
+	<l id="991">Les dieux à notre Enée ont promis cette gloire.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Le Vieil Horace, Sabine, Camille, Julie.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="992">Nous venez-vous, Julie, apprendre la victoire ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="993">Mais plutôt du combat les funestes effets :</l>
+	<l id="994">Rome est sujette d'Albe, et vos fils sont défaits ;</l>
+	<l id="995">Des trois les deux sont morts, son époux seul vous reste.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="996">Ô d'un triste combat effet vraiment funeste !</l>
+	<l id="997">Rome est sujette d'Albe, et pour l'en garantir</l>
+	<l id="998">Il n'a pas employé jusqu'au dernier soupir !</l>
+	<l id="999">Non, non, cela n'est point, on vous trompe, Julie ;</l>
+	<l id="1000">Rome n'est point sujette, ou mon fils est sans vie :</l>
+	<l id="1001">Je connais mieux mon sang, il sait mieux son devoir.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="1002">Mille, de nos remparts, comme moi l'ont pu voir.</l>
+	<l id="1003">Il s'est fait admirer tant qu'ont duré ses frères ;</l>
+	<l id="1004">Mais comme il s'est vu seul contre trois adversaires,</l>
+	<l id="1005">Près d'être enfermé d'eux, sa fuite l'a sauvé.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1006">Et nos soldats trahis ne l'ont point achevé ?</l>
+	<l id="1007">Dans leurs rangs à ce lâche ils ont donné retraite ?</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="1008">Je n'ai rien voulu voir après cette défaite.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1009" part="i">ô mes frères !</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1009" part="f">Tout beau, ne les pleurez pas tous ;</l>
+	<l id="1010">Deux jouissent d'un sort dont leur père est jaloux.</l>
+	<l id="1011">Que des plus nobles fleurs leur tombe soit couverte ;</l>
+	<l id="1012">La gloire de leur mort m'a payé de leur perte :</l>
+	<l id="1013">Ce bonheur a suivi leur courage invaincu,</l>
+	<l id="1014">Qu'ils ont vu Rome libre autant qu'ils ont vécu,</l>
+	<l id="1015">Et ne l'auront point vue obéir qu'à son prince,</l>
+	<l id="1016">Ni d'un état voisin devenir la province.</l>
+	<l id="1017">Pleurez l'autre, pleurez l'irréparable affront</l>
+	<l id="1018">Que sa fuite honteuse imprime à notre front ;</l>
+	<l id="1019">Pleurez le déshonneur de toute notre race,</l>
+	<l id="1020">Et l'opprobre éternel qu'il laisse au nom d'Horace.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE</speaker>
+	<l id="1021" part="i">Que vouliez-vous qu'il fît contre trois ?</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1021" part="f">Qu'il mourût,</l>
+	<l id="1022">Ou qu'un beau désespoir alors le secourût.</l>
+	<l id="1023">N'eût-il que d'un moment reculé sa défaite,</l>
+	<l id="1024">Rome eût été du moins un peu plus tard sujette ;</l>
+	<l id="1025">Il eût avec honneur laissé mes cheveux gris,</l>
+	<l id="1026">Et c'était de sa vie un assez digne prix.</l>
+	<l id="1027">Il est de tout son sang comptable à sa patrie ;</l>
+	<l id="1028">Chaque goutte épargnée a sa gloire flétrie ;</l>
+	<l id="1029">Chaque instant de sa vie, après ce lâche tour,</l>
+	<l id="1030">Met d'autant plus ma honte avec la sienne au jour.</l>
+	<l id="1031">J'en romprai bien le cours, et ma juste colère,</l>
+	<l id="1032">Contre un indigne fils usant des droits d'un père,</l>
+	<l id="1033">Saura bien faire voir dans sa punition</l>
+	<l id="1034">L'éclatant désaveu d'une telle action.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1035">Écoutez un peu moins ces ardeurs généreuses,</l>
+	<l id="1036">Et ne nous rendez point tout à fait malheureuses.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1037">Sabine, votre coeur se console aisément ;</l>
+	<l id="1038">Nos malheurs jusqu'ici vous touchent faiblement.</l>
+	<l id="1039">Vous n'avez point encore de part à nos misères :</l>
+	<l id="1040">Le ciel vous a sauvé votre époux et vos frères ;</l>
+	<l id="1041">Si nous sommes sujets, c'est de votre pays ;</l>
+	<l id="1042">Vos frères sont vainqueurs quand nous sommes trahis ;</l>
+	<l id="1043">Et voyant le haut point où leur gloire se monte,</l>
+	<l id="1044">Vous regardez fort peu ce qui nous vient de honte.</l>
+	<l id="1045">Mais votre trop d'amour pour cet infâme époux</l>
+	<l id="1046">Vous donnera bientôt à plaindre comme à nous.</l>
+	<l id="1047">Vos pleurs en sa faveur sont de faibles défenses :</l>
+	<l id="1048">J'atteste des grands dieux les suprêmes puissances</l>
+	<l id="1049">Qu'avant ce jour fini, ces mains, ces propres mains</l>
+	<l id="1050">Laveront dans son sang la honte des Romains.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1051">Suivons-le promptement, la colère l'emporte.</l>
+	<l id="1052">Dieux ! Verrons-nous toujours des malheurs de la sorte ?</l>
+	<l id="1053">Nous faudra-t-il toujours en craindre de plus grands,</l>
+	<l id="1054">Et toujours redouter la main de nos parents ?</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Le Vieil Horace, Camille.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1055">Ne me parlez jamais en faveur d'un infâme ;</l>
+	<l id="1056">Qu'il me fuie à l'égal des frères de sa femme :</l>
+	<l id="1057">Pour conserver un sang qu'il tient si précieux,</l>
+	<l id="1058">Il n'a rien fait encore s'il n'évite mes yeux.</l>
+	<l id="1059">Sabine y peut mettre ordre, ou derechef j'atteste</l>
+	<l id="1060">Le souverain pouvoir de la troupe céleste...</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1061">Ah ! Mon père, prenez un plus doux sentiment ;</l>
+	<l id="1062">Vous verrez Rome même en user autrement ;</l>
+	<l id="1063">Et de quelque malheur que le ciel l'ait comblée,</l>
+	<l id="1064">Excuser la vertu sous le nombre accablée.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1065">Le jugement de Rome est peu pour mon regard,</l>
+	<l id="1066">Camille ; je suis père, et j'ai mes droits à part.</l>
+	<l id="1067">Je sais trop comme agit la vertu véritable :</l>
+	<l id="1068">C'est sans en triompher que le nombre l'accable ;</l>
+	<l id="1069">Et sa mâle vigueur, toujours en même point,</l>
+	<l id="1070">Succombe sous la force, et ne lui cède point.</l>
+	<l id="1071">Taisez-vous, et sachons ce que nous veut Valère.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Le Vieil Horace, Valère, Camille.</head>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1072">Envoyé par le roi pour consoler un père,</l>
+	<l id="1073" part="i">et pour lui témoigner...</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1073" part="f">N'en prenez aucun soin :</l>
+	<l id="1074">C'est un soulagement dont je n'ai pas besoin ;</l>
+	<l id="1075">Et j'aime mieux voir morts que couverts d'infamie</l>
+	<l id="1076">Ceux que vient de m'ôter une main ennemie.</l>
+	<l id="1077">Tous deux pour leur pays sont morts en gens d'honneur ;</l>
+	<l id="1078" part="i">il me suffit.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1078" part="f">Mais l'autre est un rare bonheur ;</l>
+	<l id="1079">De tous les trois chez vous il doit tenir la place.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1080">Que n'a-t-on vu périr en lui le nom d'Horace !</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1081">Seul vous le maltraitez après ce qu'il a fait.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1082">C'est à moi seul aussi de punir son forfait.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1083">Quel forfait trouvez-vous en sa bonne conduite ?</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1084">Quel éclat de vertu trouvez-vous en sa fuite ?</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1085">La fuite est glorieuse en cette occasion.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1086">Vous redoublez ma honte et ma confusion.</l>
+	<l id="1087">Certes, l'exemple est rare et digne de mémoire,</l>
+	<l id="1088">De trouver dans la fuite un chemin à la gloire.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1089">Quelle confusion, et quelle honte à vous</l>
+	<l id="1090">D'avoir produit un fils qui nous conserve tous,</l>
+	<l id="1091">Qui fait triompher Rome, et lui gagne un empire ?</l>
+	<l id="1092">À quels plus grands honneurs faut-il qu'un père aspire ?</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1093">Quels honneurs, quel triomphe, et quel empire enfin,</l>
+	<l id="1094">Lorsqu'Albe sous ses lois range notre destin ?</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1095">Que parlez-vous ici d'Albe et de sa victoire ?</l>
+	<l id="1096">Ignorez-vous encore la moitié de l'histoire ?</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1097">Je sais que par sa fuite il a trahi l'état.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1098">Oui, s'il eût en fuyant terminé le combat ;</l>
+	<l id="1099">Mais on a bientôt vu qu'il ne fuyait qu'en homme</l>
+	<l id="1100">Qui savait ménager l'avantage de Rome.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1101" part="i">Quoi, Rome donc triomphe !</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1101" part="f">Apprenez, apprenez</l>
+	<l id="1102">La valeur de ce fils qu'à tort vous condamnez.</l>
+	<l id="1103">Resté seul contre trois, mais en cette aventure</l>
+	<l id="1104">Tous trois étant blessés, et lui seul sans blessure,</l>
+	<l id="1105">Trop faible pour eux tous, trop fort pour chacun d'eux,</l>
+	<l id="1106">Il sait bien se tirer d'un pas si dangereux ;</l>
+	<l id="1107">Il fuit pour mieux combattre, et cette prompte ruse</l>
+	<l id="1108">Divise adroitement trois frères qu'elle abuse.</l>
+	<l id="1109">Chacun le suit d'un pas ou plus ou moins pressé,</l>
+	<l id="1110">Selon qu'il se rencontre ou plus ou moins blessé ;</l>
+	<l id="1111">Leur ardeur est égale à poursuivre sa fuite ;</l>
+	<l id="1112">Mais leurs coups inégaux séparent leur poursuite.</l>
+	<l id="1113">Horace, les voyant l'un de l'autre écartés,</l>
+	<l id="1114">Se retourne, et déjà les croit demi-domptés :</l>
+	<l id="1115">Il attend le premier, et c'était votre gendre.</l>
+	<l id="1116">L'autre, tout indigné qu'il ait osé l'attendre,</l>
+	<l id="1117">En vain en l'attaquant fait paraître un grand coeur ;</l>
+	<l id="1118">Le sang qu'il a perdu ralentit sa vigueur.</l>
+	<l id="1119">Albe à son tour commence à craindre un sort contraire ;</l>
+	<l id="1120">Elle crie au second qu'il secoure son frère :</l>
+	<l id="1121">Il se hâte et s'épuise en efforts superflus ;</l>
+	<l id="1122">Il trouve en les joignant que son frère n'est plus.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1123" part="i">Hélas !</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1123" part="f">Tout hors d'haleine il prend pourtant sa place,</l>
+	<l id="1124">Et redouble bientôt la victoire d'Horace :</l>
+	<l id="1125">Son courage sans force est un débile appui ;</l>
+	<l id="1126">Voulant venger son frère, il tombe auprès de lui.</l>
+	<l id="1127">L'air résonne des cris qu'au ciel chacun envoie ;</l>
+	<l id="1128">Albe en jette d'angoisse, et les Romains de joie.</l>
+	<l id="1129">Comme notre héros se voit près d'achever,</l>
+	<l id="1130">C'est peu pour lui de vaincre, il veut encor braver :</l>
+	<l id="1131">" j'en viens d'immoler deux aux mânes de mes frères ;</l>
+	<l id="1132">Rome aura le dernier de mes trois adversaires,</l>
+	<l id="1133">C'est à ses intérêts que je vais l'immoler, "</l>
+	<l id="1134">Dit-il ; et tout d'un temps on le voit y voler.</l>
+	<l id="1135">La victoire entre eux deux n'était pas incertaine ;</l>
+	<l id="1136">L'Albain percé de coups ne se traînait qu'à peine,</l>
+	<l id="1137">Et comme une victime aux marches de l'autel,</l>
+	<l id="1138">Il semblait présenter sa gorge au coup mortel :</l>
+	<l id="1139">Aussi le reçoit-il, peu s'en faut, sans défense,</l>
+	<l id="1140">Et son trépas de Rome établit la puissance.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1141">Ô mon fils ! ô ma joie ! ô l'honneur de nos jours !</l>
+	<l id="1142">Ô d'un état penchant l'inespéré secours !</l>
+	<l id="1143">Vertu digne de Rome, et sang digne d'Horace !</l>
+	<l id="1144">Appui de ton pays, et gloire de ta race !</l>
+	<l id="1145">Quand pourrai-je étouffer dans tes embrassements</l>
+	<l id="1146">L'erreur dont j'ai formé de si faux sentiments ?</l>
+	<l id="1147">Quand pourra mon amour baigner avec tendresse</l>
+	<l id="1148">Ton front victorieux de larmes d'allégresse ?</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1149">Vos caresses bientôt pourront se déployer :</l>
+	<l id="1150">Le roi dans un moment vous le va renvoyer,</l>
+	<l id="1151">Et remet à demain la pompe qu'il prépare</l>
+	<l id="1152">D'un sacrifice aux dieux pour un bonheur si rare ;</l>
+	<l id="1153">Aujourd'hui seulement on s'acquitte vers eux</l>
+	<l id="1154">Par des chants de victoire et par de simples voeux.</l>
+	<l id="1155">C'est où le roi le mène, et tandis il m'envoie</l>
+	<l id="1156">Faire office vers vous de douleur et de joie ;</l>
+	<l id="1157">Mais cet office encore n'est pas assez pour lui ;</l>
+	<l id="1158">Il y viendra lui-même, et peut-être aujourd'hui :</l>
+	<l id="1159">Il croit mal reconnaître une vertu si pure,</l>
+	<l id="1160">Si de sa propre bouche il ne vous en assure,</l>
+	<l id="1161">S'il ne vous dit chez vous combien vous doit l'état.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1162">De tels remerciements ont pour moi trop d'éclat,</l>
+	<l id="1163">Et je me tiens déjà trop payé par les vôtres</l>
+	<l id="1164">Du service d'un fils, et du sang des deux autres.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1165">Il ne sait ce que c'est d'honorer à demi ;</l>
+	<l id="1166">Et son sceptre arraché des mains de l'ennemi</l>
+	<l id="1167">Fait qu'il tient cet honneur qu'il lui plaît de vous faire</l>
+	<l id="1168">Au-dessous du mérite et du fils et du père.</l>
+	<l id="1169">Je vais lui témoigner quels nobles sentiments</l>
+	<l id="1170">La vertu vous inspire en tous vos mouvements,</l>
+	<l id="1171">Et combien vous montrez d'ardeur pour son service.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1172">Je vous devrai beaucoup pour un si bon office.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Le Vieil Horace, Camille.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1173">Ma fille, il n'est plus temps de répandre des pleurs ;</l>
+	<l id="1174">Il sied mal d'en verser où l'on voit tant d'honneurs ;</l>
+	<l id="1175">On pleure injustement des pertes domestiques,</l>
+	<l id="1176">Quand on en voit sortir des victoires publiques.</l>
+	<l id="1177">Rome triomphe d'Albe, et c'est assez pour nous ;</l>
+	<l id="1178">Tous nos maux à ce prix doivent nous être doux.</l>
+	<l id="1179">En la mort d'un amant vous ne perdez qu'un homme</l>
+	<l id="1180">Dont la perte est aisée à réparer dans Rome ;</l>
+	<l id="1181">Après cette victoire, il n'est point de Romain</l>
+	<l id="1182">Qui ne soit glorieux de vous donner la main.</l>
+	<l id="1183">Il me faut à Sabine en porter la nouvelle ;</l>
+	<l id="1184">Ce coup sera sans doute assez rude pour elle,</l>
+	<l id="1185">Et ses trois frères morts par la main d'un époux</l>
+	<l id="1186">Lui donneront des pleurs bien plus justes qu'à vous ;</l>
+	<l id="1187">Mais j'espère aisément en dissiper l'orage,</l>
+	<l id="1188">Et qu'un peu de prudence aidant son grand courage</l>
+	<l id="1189">Fera bientôt régner sur un si noble coeur</l>
+	<l id="1190">Le généreux amour qu'elle doit au vainqueur.</l>
+	<l id="1191">Cependant étouffez cette lâche tristesse ;</l>
+	<l id="1192">Recevez-le, s'il vient, avec moins de faiblesse ;</l>
+	<l id="1193">Faites-vous voir sa soeur, et qu'en un même flanc</l>
+	<l id="1194">Le ciel vous a tous deux formés d'un même sang.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1195">Oui, je lui ferai voir, par d'infaillibles marques,</l>
+	<l id="1196">Qu'un véritable amour brave la main des Parques,</l>
+	<l id="1197">Et ne prend point de lois de ces cruels tyrans</l>
+	<l id="1198">Qu'un astre injurieux nous donne pour parents.</l>
+	<l id="1199">Tu blâmes ma douleur, tu l'oses nommer lâche ;</l>
+	<l id="1200">Je l'aime d'autant plus que plus elle te fâche,</l>
+	<l id="1201">Impitoyable père, et par un juste effort</l>
+	<l id="1202">Je la veux rendre égale aux rigueurs de mon sort.</l>
+	<l id="1203">En vit-on jamais un dont les rudes traverses</l>
+	<l id="1204">Prissent en moins de rien tant de faces diverses,</l>
+	<l id="1205">Qui fût doux tant de fois, et tant de fois cruel,</l>
+	<l id="1206">Et portât tant de coups avant le coup mortel ?</l>
+	<l id="1207">Vit-on jamais une âme en un jour plus atteinte</l>
+	<l id="1208">De joie et de douleur, d'espérance et de crainte,</l>
+	<l id="1209">Asservie en esclave à plus d'événements,</l>
+	<l id="1210">Et le piteux jouet de plus de changements ?</l>
+	<l id="1211">Un oracle m'assure, un songe me travaille ;</l>
+	<l id="1212">La paix calme l'effroi que me fait la bataille ;</l>
+	<l id="1213">Mon hymen se prépare, et presque en un moment</l>
+	<l id="1214">Pour combattre mon frère on choisit mon amant ;</l>
+	<l id="1215">Ce choix me désespère, et tous le désavouent ;</l>
+	<l id="1216">La partie est rompue, et les dieux la renouent ;</l>
+	<l id="1217">Rome semble vaincue, et seul des trois Albains,</l>
+	<l id="1218">Curiace en mon sang n'a point trempé ses mains.</l>
+	<l id="1219">Ô dieux ! Sentais-je alors des douleurs trop légères</l>
+	<l id="1220">Pour le malheur de Rome et la mort de deux frères,</l>
+	<l id="1221">Et me flattais-je trop quand je croyais pouvoir</l>
+	<l id="1222">L'aimer encore sans crime et nourrir quelque espoir ?</l>
+	<l id="1223">Sa mort m'en punit bien, et la façon cruelle</l>
+	<l id="1224">Dont mon âme éperdue en reçoit la nouvelle :</l>
+	<l id="1225">Son rival me l'apprend, et faisant à mes yeux</l>
+	<l id="1226">D'un si triste succès le récit odieux,</l>
+	<l id="1227">Il porte sur le front une allégresse ouverte,</l>
+	<l id="1228">Que le bonheur public fait bien moins que ma perte ;</l>
+	<l id="1229">Et bâtissant en l'air sur le malheur d'autrui,</l>
+	<l id="1230">Aussi bien que mon frère il triomphe de lui.</l>
+	<l id="1231">Mais ce n'est rien encore au prix de ce qui reste :</l>
+	<l id="1232">On demande ma joie en un jour si funeste ;</l>
+	<l id="1233">Il me faut applaudir aux exploits du vainqueur,</l>
+	<l id="1234">Et baiser une main qui me perce le coeur.</l>
+	<l id="1235">En un sujet de pleurs si grand, si légitime,</l>
+	<l id="1236">Se plaindre est une honte, et soupirer un crime ;</l>
+	<l id="1237">Leur brutale vertu veut qu'on s'estime heureux,</l>
+	<l id="1238">Et si l'on n'est barbare, on n'est point généreux.</l>
+	<l id="1239">Dégénérons, mon coeur, d'un si vertueux père ;</l>
+	<l id="1240">Soyons indigne soeur d'un si généreux frère :</l>
+	<l id="1241">C'est gloire de passer pour un coeur abattu,</l>
+	<l id="1242">Quand la brutalité fait la haute vertu.</l>
+	<l id="1243">Éclatez, mes douleurs : à quoi bon vous contraindre ?</l>
+	<l id="1244">Quand on a tout perdu, que saurait-on plus craindre ?</l>
+	<l id="1245">Pour ce cruel vainqueur n'ayez point de respect ;</l>
+	<l id="1246">Loin d'éviter ses yeux, croissez à son aspect ;</l>
+	<l id="1247">Offensez sa victoire, irritez sa colère,</l>
+	<l id="1248">Et prenez, s'il se peut, plaisir à lui déplaire.</l>
+	<l id="1249">Il vient : préparons-nous à montrer constamment</l>
+	<l id="1250">Ce que doit une amante à la mort d'un amant. </l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Horace, Camille, Procule.</head>
+<stage>Procule porte en sa main les trois épées des Curiaces.</stage>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1251">Ma soeur, voici le bras qui venge nos deux frères,</l>
+	<l id="1252">Le bras qui rompt le cours de nos destins contraires,</l>
+	<l id="1253">Qui nous rend maîtres d'Albe ; enfin voici le bras</l>
+	<l id="1254">Qui seul fait aujourd'hui le sort de deux états ;</l>
+	<l id="1255">Vois ces marques d'honneur, ces témoins de ma gloire,</l>
+	<l id="1256">Et rends ce que tu dois à l'heur de ma victoire.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1257">Recevez donc mes pleurs, c'est ce que je lui dois.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1258">Rome n'en veut point voir après de tels exploits,</l>
+	<l id="1259">Et nos deux frères morts dans le malheur des armes</l>
+	<l id="1260">Sont trop payés de sang pour exiger des larmes :</l>
+	<l id="1261">Quand la perte est vengée, on n'a plus rien perdu.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1262">Puisqu'ils sont satisfaits par le sang épandu,</l>
+	<l id="1263">Je cesserai pour eux de paraître affligée,</l>
+	<l id="1264">Et j'oublierai leur mort que vous avez vengée ;</l>
+	<l id="1265">Mais qui me vengera de celle d'un amant,</l>
+	<l id="1266">Pour me faire oublier sa perte en un moment ?</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1267" part="i">Que dis-tu, malheureuse ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1267" part="f">ô mon cher Curiace !</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1268">Ô d'une indigne soeur insupportable audace !</l>
+	<l id="1269">D'un ennemi public dont je reviens vainqueur</l>
+	<l id="1270">Le nom est dans ta bouche et l'amour dans ton coeur !</l>
+	<l id="1271">Ton ardeur criminelle à la vengeance aspire !</l>
+	<l id="1272">Ta bouche la demande, et ton coeur la respire !</l>
+	<l id="1273">Suis moins ta passion, règle mieux tes désirs,</l>
+	<l id="1274">Ne me fais plus rougir d'entendre tes soupirs ;</l>
+	<l id="1275">Tes flammes désormais doivent être étouffées ;</l>
+	<l id="1276">Bannis-les de ton âme, et songe à mes trophées :</l>
+	<l id="1277">Qu'ils soient dorénavant ton unique entretien.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1278">Donne-moi donc, barbare, un coeur comme le tien ;</l>
+	<l id="1279">Et si tu veux enfin que je t'ouvre mon âme,</l>
+	<l id="1280">Rends-moi mon Curiace, ou laisse agir ma flamme :</l>
+	<l id="1281">Ma joie et mes douleurs dépendaient de son sort ;</l>
+	<l id="1282">Je l'adorais vivant, et je le pleure mort.</l>
+	<l id="1283">Ne cherche plus ta soeur où tu l'avais laissée ;</l>
+	<l id="1284">Tu ne revois en moi qu'une amante offensée,</l>
+	<l id="1285">Qui comme une furie attachée à tes pas,</l>
+	<l id="1286">Te veut incessamment reprocher son trépas.</l>
+	<l id="1287">Tigre altéré de sang, qui me défends les larmes,</l>
+	<l id="1288">Qui veux que dans sa mort je trouve encore des charmes,</l>
+	<l id="1289">Et que jusques au ciel élevant tes exploits,</l>
+	<l id="1290">Moi-même je le tue une seconde fois !</l>
+	<l id="1291">Puissent tant de malheurs accompagner ta vie,</l>
+	<l id="1292">Que tu tombes au point de me porter envie ;</l>
+	<l id="1293">Et toi, bientôt souiller par quelque lâcheté</l>
+	<l id="1294">Cette gloire si chère à ta brutalité !</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1295">Ô ciel ! Qui vit jamais une pareille rage !</l>
+	<l id="1296">Crois-tu donc que je sois insensible à l'outrage,</l>
+	<l id="1297">Que je souffre en mon sang ce mortel déshonneur ?</l>
+	<l id="1298">Aime, aime cette mort qui fait notre bonheur,</l>
+	<l id="1299">Et préfère du moins au souvenir d'un homme</l>
+	<l id="1300">Ce que doit ta naissance aux intérêts de Rome.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+	<l id="1301">Rome, l'unique objet de mon ressentiment !</l>
+	<l id="1302">Rome, à qui vient ton bras d'immoler mon amant !</l>
+	<l id="1303">Rome qui t'a vu naître, et que ton coeur adore !</l>
+	<l id="1304">Rome enfin que je hais parce qu'elle t'honore !</l>
+	<l id="1305">Puissent tous ses voisins ensemble conjurés</l>
+	<l id="1306">Saper ses fondements encore mal assurés !</l>
+	<l id="1307">Et si ce n'est assez de toute l'Italie,</l>
+	<l id="1308">Que l'orient contre elle à l'occident s'allie ;</l>
+	<l id="1309">Que cent peuples unis des bouts de l'univers</l>
+	<l id="1310">Passent pour la détruire et les monts et les mers !</l>
+	<l id="1311">Qu'elle-même sur soi renverse ses murailles,</l>
+	<l id="1312">Et de ses propres mains déchire ses entrailles !</l>
+	<l id="1313">Que le courroux du ciel allumé par mes voeux</l>
+	<l id="1314">Fasse pleuvoir sur elle un déluge de feux !</l>
+	<l id="1315">Puissai-je de mes yeux y voir tomber ce foudre,</l>
+	<l id="1316">Voir ses maisons en cendre, et tes lauriers en poudre,</l>
+	<l id="1317">Voir le dernier Romain à son dernier soupir,</l>
+	<l id="1318">Moi seule en être cause, et mourir de plaisir !</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE, mettant l'épée, à la main, et poursuivant sa soeur qui s'enfuit.</speaker>
+	<l id="1319">C'est trop, ma patience à la raison fait place ;</l>
+<note type="C">v. 1320, l'édition 1660 remplace "joindre" par "plaindre".</note>
+	<l id="1320">Va dedans les enfers joindre ton Curiace.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE, blessée derrière le théâtre.</speaker>
+	<l id="1321" part="i">Ah ! Traître !</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1321" part="f">Ainsi reçoive un châtiment soudain</l>
+	<l id="1322">Quiconque ose pleurer un ennemi romain ! </l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Horace, Procule.</head>
+<sp who="PROCULE"><speaker>PROCULE</speaker>
+	<l id="1323" part="i">Que venez-vous de faire ?</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1323" part="f">Un acte de justice :</l>
+	<l id="1324">Un semblable forfait veut un pareil supplice.</l>
+</sp>
+<sp who="PROCULE"><speaker>PROCULE</speaker>
+	<l id="1325">Vous deviez la traiter avec moins de rigueur.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1326">Ne me dis point qu'elle est et mon sang et ma soeur.</l>
+	<l id="1327">Mon père ne peut plus l'avouer pour sa fille :</l>
+	<l id="1328">Qui maudit son pays renonce à sa famille ;</l>
+	<l id="1329">Des noms si pleins d'amour ne lui sont plus permis ;</l>
+	<l id="1330">De ses plus chers parents il fait ses ennemis :</l>
+	<l id="1331">Le sang même les arme en haine de son crime.</l>
+	<l id="1332">La plus prompte vengeance en est plus légitime ;</l>
+	<l id="1333">Et ce souhait impie, encore qu'impuissant,</l>
+	<l id="1334">Est un monstre qu'il faut étouffer en naissant. </l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Horace, Sabine, Procule.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1335">À quoi s'arrête ici ton illustre colère ?</l>
+	<l id="1336">Viens voir mourir ta soeur dans les bras de ton père ;</l>
+	<l id="1337">Viens repaître tes yeux d'un spectacle si doux :</l>
+	<l id="1338">Ou si tu n'es point las de ces généreux coups,</l>
+	<l id="1339">Immole au cher pays des vertueux Horaces</l>
+	<l id="1340">Ce reste malheureux du sang des Curiaces.</l>
+	<l id="1341">Si prodigue du tien, n'épargne pas le leur ;</l>
+	<l id="1342">Joins Sabine à Camille, et ta femme à ta soeur ;</l>
+	<l id="1343">Nos crimes sont pareils, ainsi que nos misères ;</l>
+	<l id="1344">Je soupire comme elle, et déplore mes frères :</l>
+	<l id="1345">Plus coupable en ce point contre tes dures lois,</l>
+	<l id="1346">Qu'elle n'en pleurait qu'un, et que j'en pleure trois,</l>
+	<l id="1347">Qu'après son châtiment ma faute continue.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1348">Sèche tes pleurs, Sabine, ou les cache à ma vue :</l>
+	<l id="1349">Rends-toi digne du nom de ma chaste moitié,</l>
+	<l id="1350">Et ne m'accable point d'une indigne pitié.</l>
+	<l id="1351">Si l'absolu pouvoir d'une pudique flamme</l>
+	<l id="1352">Ne nous laisse à tous deux qu'un penser et qu'une âme,</l>
+	<l id="1353">C'est à toi d'élever tes sentiments aux miens,</l>
+	<l id="1354">Non à moi de descendre à la honte des tiens.</l>
+	<l id="1355">Je t'aime, et je connais la douleur qui te presse ;</l>
+	<l id="1356">Embrasse ma vertu pour vaincre ta faiblesse,</l>
+	<l id="1357">Participe à ma gloire au lieu de la souiller.</l>
+	<l id="1358">Tâche à t'en revêtir, non à m'en dépouiller.</l>
+	<l id="1359">Es-tu de mon honneur si mortelle ennemie,</l>
+	<l id="1360">Que je te plaise mieux couvert d'une infamie ?</l>
+	<l id="1361">Sois plus femme que soeur, et te réglant sur moi,</l>
+	<l id="1362">Fais-toi de mon exemple une immuable loi.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1363">Cherche pour t'imiter des âmes plus parfaites.</l>
+	<l id="1364">Je ne t'impute point les pertes que j'ai faites,</l>
+	<l id="1365">J'en ai les sentiments que je dois en avoir,</l>
+	<l id="1366">Et je m'en prends au sort plutôt qu'à ton devoir ;</l>
+	<l id="1367">Mais enfin je renonce à la vertu romaine,</l>
+	<l id="1368">Si pour la posséder je dois être inhumaine ;</l>
+	<l id="1369">Et ne puis voir en moi la femme du vainqueur</l>
+	<l id="1370">Sans y voir des vaincus la déplorable soeur.</l>
+	<l id="1371">Prenons part en public aux victoires publiques ;</l>
+	<l id="1372">Pleurons dans la maison nos malheurs domestiques,</l>
+	<l id="1373">Et ne regardons point des biens communs à tous,</l>
+	<l id="1374">Quand nous voyons des maux qui ne sont que pour nous.</l>
+	<l id="1375">Pourquoi veux-tu, cruel, agir d'une autre sorte ?</l>
+	<l id="1376">Laisse en entrant ici tes lauriers à la porte ;</l>
+	<l id="1377">Mêle tes pleurs aux miens. Quoi ? Ces lâches discours</l>
+	<l id="1378">N'arment point ta vertu contre mes tristes jours ?</l>
+	<l id="1379">Mon crime redoublé n'émeut point ta colère ?</l>
+	<l id="1380">Que Camille est heureuse ! Elle a pu te déplaire ;</l>
+	<l id="1381">Elle a reçu de toi ce qu'elle a prétendu,</l>
+	<l id="1382">Et recouvre là-bas tout ce qu'elle a perdu.</l>
+	<l id="1383">Cher époux, cher auteur du tourment qui me presse,</l>
+	<l id="1384">Écoute la pitié, si ta colère cesse ;</l>
+	<l id="1385">Exerce l'une ou l'autre, après de tels malheurs,</l>
+	<l id="1386">À punir ma faiblesse, ou finir mes douleurs :</l>
+	<l id="1387">Je demande la mort pour grâce, ou pour supplice ;</l>
+	<l id="1388">Qu'elle soit un effet d'amour ou de justice,</l>
+	<l id="1389">N'importe : tous ses traits n'auront rien que de doux,</l>
+	<l id="1390">Si je les vois partir de la main d'un époux.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1391">Quelle injustice aux dieux d'abandonner aux femmes</l>
+	<l id="1392">Un empire si grand sur les plus belles âmes,</l>
+	<l id="1393">Et de se plaire à voir de si faibles vainqueurs</l>
+	<l id="1394">Régner si puissamment sur les plus nobles coeurs !</l>
+	<l id="1395">À quel point ma vertu devient-elle réduite !</l>
+	<l id="1396">Rien ne la saurait plus garantir que la fuite.</l>
+	<l id="1397">Adieu : ne me suis point, ou retiens tes soupirs.</l>
+</sp>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1398">Ô colère, ô pitié, sourdes à mes désirs,</l>
+	<l id="1399">Vous négligez mon crime, et ma douleur vous lasse,</l>
+	<l id="1400">Et je n'obtiens de vous ni supplice ni grâce !</l>
+	<l id="1401">Allons-y par nos pleurs faire encore un effort,</l>
+	<l id="1402">Et n'employons après que nous à notre mort.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Le Vieil Horace, Horace.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1403">Retirons nos regards de cet objet funeste,</l>
+	<l id="1404">Pour admirer ici le jugement céleste :</l>
+	<l id="1405">Quand la gloire nous enfle, il sait bien comme il faut</l>
+	<l id="1406">Confondre notre orgueil qui s'élève trop haut.</l>
+	<l id="1407">Nos plaisirs les plus doux ne vont point sans tristesse ;</l>
+	<l id="1408">Il mêle à nos vertus des marques de faiblesse,</l>
+	<l id="1409">Et rarement accorde à notre ambition</l>
+	<l id="1410">L'entier et pur honneur d'une bonne action.</l>
+	<l id="1411">Je ne plains point Camille : elle était criminelle ;</l>
+	<l id="1412">Je me tiens plus à plaindre, et je te plains plus qu'elle :</l>
+	<l id="1413">Moi, d'avoir mis au jour un coeur si peu romain ;</l>
+	<l id="1414">Toi, d'avoir par sa mort déshonoré ta main.</l>
+	<l id="1415">Je ne la trouve point injuste ni trop prompte ;</l>
+	<l id="1416">Mais tu pouvais, mon fils, t'en épargner la honte :</l>
+	<l id="1417">Son crime, quoique énorme et digne du trépas,</l>
+	<l id="1418">Était mieux impuni que puni par ton bras.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1419">Disposez de mon sang, les lois vous en font maître ;</l>
+	<l id="1420">J'ai cru devoir le sien aux lieux qui m'ont vu naître.</l>
+	<l id="1421">Si dans vos sentiments mon zèle est criminel,</l>
+	<l id="1422">S'il m'en faut recevoir un reproche éternel,</l>
+	<l id="1423">Si ma main en devient honteuse et profanée,</l>
+	<l id="1424">Vous pouvez d'un seul mot trancher ma destinée :</l>
+	<l id="1425">Reprenez tout ce sang de qui ma lâcheté</l>
+	<l id="1426">A si brutalement souillé la pureté.</l>
+	<l id="1427">Ma main n'a pu souffrir de crime en votre race ;</l>
+	<l id="1428">Ne souffrez point de tache en la maison d'Horace.</l>
+	<l id="1429">C'est en ces actions dont l'honneur est blessé</l>
+	<l id="1430">Qu'un père tel que vous se montre intéressé :</l>
+	<l id="1431">Son amour doit se taire où toute excuse est nulle ;</l>
+	<l id="1432">Lui-même il y prend part lorsqu'il les dissimule ;</l>
+	<l id="1433">Et de sa propre gloire il fait trop peu de cas,</l>
+	<l id="1434">Quand il ne punit point ce qu'il n'approuve pas.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1435">Il n'use pas toujours d'une rigueur extrême ;</l>
+	<l id="1436">Il épargne ses fils bien souvent pour soi-même ;</l>
+	<l id="1437">Sa vieillesse sur eux aime à se soutenir,</l>
+	<l id="1438">Et ne les punit point, de peur de se punir.</l>
+	<l id="1439">Je te vois d'un autre oeil que tu ne te regardes ;</l>
+	<l id="1440">Je sais... Mais le roi vient, je vois entrer ses gardes. </l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Tulle, Valère, Le Vieil Horace, Horace, troupe de Gardes.</head>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1441">Ah ! Sire, un tel honneur a trop d'excès pour moi ;</l>
+	<l id="1442">Ce n'est point en ce lieu que je dois voir mon roi :</l>
+	<l id="1443" part="i">permettez qu'à genoux...</l>
+</sp>
+<sp who="TULLE"><speaker>TULLE</speaker>
+	<l id="1443" part="f">Non, levez-vous, mon père :</l>
+	<l id="1444">Je fais ce qu'en ma place un bon prince doit faire.</l>
+	<l id="1445">Un si rare service et si fort important</l>
+	<l id="1446">Veut l'honneur le plus rare et le plus éclatant.</l>
+	<l id="1447">Vous en aviez déjà sa parole pour gage ;</l>
+	<l id="1448">Je ne l'ai pas voulu différer davantage.</l>
+	<l id="1449">J'ai su par son rapport, et je n'en doutais pas,</l>
+	<l id="1450">Comme de vos deux fils vous portez le trépas,</l>
+	<l id="1451">Et que déjà votre âme étant trop résolue,</l>
+	<l id="1452">Ma consolation vous serait superflue ;</l>
+	<l id="1453">Mais je viens de savoir quel étrange malheur</l>
+	<l id="1454">D'un fils victorieux a suivi la valeur,</l>
+	<l id="1455">Et que son trop d'amour pour la cause publique</l>
+	<l id="1456">Par ses mains à son père ôte une fille unique.</l>
+	<l id="1457">Ce coup est un peu rude à l'esprit le plus fort ;</l>
+	<l id="1458">Et je doute comment vous portez cette mort.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1459">Sire, avec déplaisir, mais avec patience.</l>
+</sp>
+<sp who="TULLE"><speaker>TULLE</speaker>
+	<l id="1460">C'est l'effet vertueux de votre expérience.</l>
+	<l id="1461">Beaucoup par un long âge ont appris comme vous</l>
+	<l id="1462">Que le malheur succède au bonheur le plus doux :</l>
+	<l id="1463">Peu savent comme vous s'appliquer ce remède,</l>
+	<l id="1464">Et dans leur intérêt toute leur vertu cède.</l>
+	<l id="1465">Si vous pouvez trouver dans ma compassion</l>
+	<l id="1466">Quelque soulagement pour votre affliction,</l>
+	<l id="1467">Ainsi que votre mal sachez qu'elle est extrême,</l>
+	<l id="1468">Et que je vous en plains autant que je vous aime.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1469">Sire, puisque le ciel entre les mains des rois</l>
+	<l id="1470">Dépose sa justice et la force des lois,</l>
+	<l id="1471">Et que l'état demande aux princes légitimes</l>
+	<l id="1472">Des prix pour les vertus, des peines pour les crimes,</l>
+	<l id="1473">Souffrez qu'un bon sujet vous fasse souvenir</l>
+	<l id="1474">Que vous plaignez beaucoup ce qu'il vous faut punir ;</l>
+	<l id="1475" part="i">souffrez...</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>LE VIEIL HORACE</speaker>
+	<l id="1475" part="f">Quoi ? Qu'on envoie un vainqueur au supplice ?</l>
+</sp>
+<sp who="TULLE"><speaker>TULLE</speaker>
+	<l id="1476">Permettez qu'il achève, et je ferai justice :</l>
+	<l id="1477">J'aime à la rendre à tous, à toute heure, en tout lieu.</l>
+	<l id="1478">C'est par elle qu'un roi se fait un demi-dieu ;</l>
+	<l id="1479">Et c'est dont je vous plains, qu'après un tel service</l>
+	<l id="1480">On puisse contre lui me demander justice.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1481">Souffrez donc, ô grand roi, le plus juste des rois,</l>
+	<l id="1482">Que tous les gens de bien vous parlent par ma voix.</l>
+	<l id="1483">Non que nos coeurs jaloux de ses honneurs s'irritent ;</l>
+	<l id="1484">S'il en reçoit beaucoup, ses hauts faits le méritent ;</l>
+	<l id="1485">Ajoutez-y plutôt que d'en diminuer :</l>
+	<l id="1486">Nous sommes tous encore prêts d'y contribuer ;</l>
+	<l id="1487">Mais puisque d'un tel crime il s'est montré capable,</l>
+	<l id="1488">Qu'il triomphe en vainqueur, et périsse en coupable.</l>
+	<l id="1489">Arrêtez sa fureur, et sauvez de ses mains,</l>
+	<l id="1490">Si vous voulez régner, le reste des Romains :</l>
+	<l id="1491">Il y va de la perte ou du salut du reste.</l>
+	<l id="1492">La guerre avait un cours si sanglant, si funeste,</l>
+	<l id="1493">Et les noeuds de l'hymen, durant nos bons destins,</l>
+	<l id="1494">Ont tant de fois uni des peuples si voisins,</l>
+	<l id="1495">Qu'il est peu de Romains que le parti contraire</l>
+	<l id="1496">N'intéresse en la mort d'un gendre ou d'un beau-frère,</l>
+	<l id="1497">Et qui ne soient forcés de donner quelques pleurs,</l>
+	<l id="1498">Dans le bonheur public, à leurs propres malheurs.</l>
+	<l id="1499">Si c'est offenser Rome, et que l'heur de ses armes</l>
+	<l id="1500">L'autorise à punir ce crime de nos larmes,</l>
+	<l id="1501">Quel sang épargnera ce barbare vainqueur,</l>
+	<l id="1502">Qui ne pardonne pas à celui de sa soeur,</l>
+	<l id="1503">Et ne peut excuser cette douleur pressante</l>
+	<l id="1504">Que la mort d'un amant jette au coeur d'une amante,</l>
+	<l id="1505">Quand près d'être éclairés du nuptial flambeau,</l>
+	<l id="1506">Elle voit avec lui son espoir au tombeau ?</l>
+	<l id="1507">Faisant triompher Rome, il se l'est asservie ;</l>
+	<l id="1508">Il a sur nous un droit et de mort et de vie ;</l>
+	<l id="1509">Et nos jours criminels ne pourront plus durer</l>
+	<l id="1510">Qu'autant qu'à sa clémence il plaira l'endurer.</l>
+	<l id="1511">Je pourrais ajouter aux intérêts de Rome</l>
+	<l id="1512">Combien un pareil coup est indigne d'un homme ;</l>
+	<l id="1513">Je pourrais demander qu'on mît devant vos yeux</l>
+	<l id="1514">Ce grand et rare exploit d'un bras victorieux :</l>
+	<l id="1515">Vous verriez un beau sang, pour accuser sa rage,</l>
+	<l id="1516">D'un frère si cruel rejaillir au visage :</l>
+	<l id="1517">Vous verriez des horreurs qu'on ne peut concevoir ;</l>
+	<l id="1518">Son âge et sa beauté vous pourraient émouvoir ;</l>
+	<l id="1519">Mais je hais ces moyens qui sentent l'artifice.</l>
+	<l id="1520">Vous avez à demain remis le sacrifice :</l>
+	<l id="1521">Pensez-vous que les dieux, vengeurs des innocents,</l>
+	<l id="1522">D'une main parricide acceptent de l'encens ?</l>
+	<l id="1523">Sur vous ce sacrilège attirerait sa peine ;</l>
+	<l id="1524">Ne le considérez qu'en objet de leur haine,</l>
+	<l id="1525">Et croyez avec nous qu'en tous ses trois combats</l>
+	<l id="1526">Le bon destin de Rome a plus fait que son bras,</l>
+	<l id="1527">Puisque ces mêmes dieux, auteurs de sa victoire,</l>
+	<l id="1528">Ont permis qu'aussitôt il en souillât la gloire,</l>
+	<l id="1529">Et qu'un si grand courage, après ce noble effort,</l>
+	<l id="1530">Fût digne en même jour de triomphe et de mort.</l>
+	<l id="1531">Sire, c'est ce qu'il faut que votre arrêt décide.</l>
+	<l id="1532">En ce lieu Rome a vu le premier parricide ;</l>
+	<l id="1533">La suite en est à craindre, et la haine des cieux :</l>
+	<l id="1534">Sauvez-nous de sa main, et redoutez les dieux.</l>
+</sp>
+<sp who="TULLE"><speaker>TULLE</speaker>
+	<l id="1535" part="i">Défendez-vous, Horace.</l>
+</sp>
+<sp who="HORACE"><speaker>HORACE</speaker>
+	<l id="1535" part="f">à quoi bon me défendre ?</l>
+	<l id="1536">Vous savez l'action, vous la venez d'entendre ;</l>
+	<l id="1537">Ce que vous en croyez me doit être une loi.</l>
+	<l id="1538">Sire, on se défend mal contre l'avis d'un roi,</l>
+	<l id="1539">Et le plus innocent devient soudain coupable,</l>
+	<l id="1540">Quand aux yeux de son prince il paraît condamnable.</l>
+	<l id="1541">C'est crime qu'envers lui se vouloir excuser :</l>
+	<l id="1542">Notre sang est son bien, il en peut disposer ;</l>
+	<l id="1543">Et c'est à nous de croire, alors qu'il en dispose,</l>
+	<l id="1544">Qu'il ne s'en prive point sans une juste cause.</l>
+	<l id="1545">Sire, prononcez donc, je suis prêt d'obéir ;</l>
+	<l id="1546">D'autres aiment la vie, et je la dois haïr.</l>
+	<l id="1547">Je ne reproche point à l'ardeur de Valère</l>
+	<l id="1548">Qu'en amant de la soeur il accuse le frère :</l>
+	<l id="1549">Mes voeux avec les siens conspirent aujourd'hui ;</l>
+	<l id="1550">Il demande ma mort, je la veux comme lui.</l>
+	<l id="1551">Un seul point entre nous met cette différence,</l>
+	<l id="1552">Que mon honneur par là cherche son assurance,</l>
+	<l id="1553">Et qu'à ce même but nous voulons arriver,</l>
+	<l id="1554">Lui pour flétrir ma gloire, et moi pour la sauver.</l>
+	<l id="1555">Sire, c'est rarement qu'il s'offre une matière</l>
+	<l id="1556">À montrer d'un grand coeur la vertu toute entière.</l>
+	<l id="1557">Suivant l'occasion elle agit plus ou moins,</l>
+	<l id="1558">Et paraît forte ou faible aux yeux de ses témoins.</l>
+	<l id="1559">Le peuple, qui voit tout seulement par l'écorce,</l>
+	<l id="1560">S'attache à son effet pour juger de sa force ;</l>
+	<l id="1561">Il veut que ses dehors gardent un même cours,</l>
+	<l id="1562">Qu'ayant fait un miracle, elle en fasse toujours :</l>
+	<l id="1563">Après une action pleine, haute, éclatante,</l>
+	<l id="1564">Tout ce qui brille moins remplit mal son attente ;</l>
+	<l id="1565">Il veut qu'on soit égal en tout temps, en tous lieux ;</l>
+	<l id="1566">Il n'examine point si lors on pouvait mieux,</l>
+	<l id="1567">Ni que, s'il ne voit pas sans cesse une merveille,</l>
+	<l id="1568">L'occasion est moindre, et la vertu pareille :</l>
+	<l id="1569">Son injustice accable et détruit les grands noms ;</l>
+	<l id="1570">L'honneur des premiers faits se perd par les seconds ;</l>
+	<l id="1571">Et quand la renommée a passé l'ordinaire,</l>
+	<l id="1572">Si l'on n'en veut déchoir, il faut ne plus rien faire.</l>
+	<l id="1573">Je ne vanterai point les exploits de mon bras ;</l>
+	<l id="1574">Votre majesté, sire, a vu mes trois combats :</l>
+	<l id="1575">Il est bien malaisé qu'un pareil les seconde,</l>
+	<l id="1576">Qu'une autre occasion à celle-ci réponde,</l>
+	<l id="1577">Et que tout mon courage, après de si grands coups,</l>
+	<l id="1578">Parvienne à des succès qui n'aillent au-dessous ;</l>
+	<l id="1579">Si bien que pour laisser une illustre mémoire,</l>
+	<l id="1580">La mort seule aujourd'hui peut conserver ma gloire :</l>
+	<l id="1581">Encore la fallait-il sitôt que j'eus vaincu,</l>
+	<l id="1582">Puisque pour mon honneur j'ai déjà trop vécu.</l>
+	<l id="1583">Un homme tel que moi voit sa gloire ternie,</l>
+	<l id="1584">Quand il tombe en péril de quelque ignominie ;</l>
+	<l id="1585">Et ma main aurait su déjà m'en garantir ;</l>
+	<l id="1586">Mais sans votre congé mon sang n'ose sortir :</l>
+	<l id="1587">Comme il vous appartient, votre aveu doit se prendre ;</l>
+	<l id="1588">C'est vous le dérober qu'autrement le répandre.</l>
+	<l id="1589">Rome ne manque point de généreux guerriers ;</l>
+	<l id="1590">Assez d'autres sans moi soutiendront vos lauriers ;</l>
+	<l id="1591">Que votre majesté désormais m'en dispense ;</l>
+	<l id="1592">Et si ce que j'ai fait vaut quelque récompense,</l>
+	<l id="1593">Permettez, ô grand roi, que de ce bras vainqueur</l>
+	<l id="1594">Je m'immole à ma gloire, et non pas à ma soeur.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Tulle, Valère, Le Vieil Horace, Horace, Sabine.</head>
+<sp who="SABINE"><speaker>SABINE</speaker>
+	<l id="1595">Sire, écoutez Sabine, et voyez dans son âme</l>
+	<l id="1596">Les douleurs d'une soeur, et celles d'une femme,</l>
+	<l id="1597">Qui toute désolée, à vos sacrés genoux,</l>
+	<l id="1598">Pleure pour sa famille, et craint pour son époux.</l>
+	<l id="1599">Ce n'est pas que je veuille avec cet artifice</l>
+	<l id="1600">Dérober un coupable au bras de la justice :</l>
+	<l id="1601">Quoi qu'il ait fait pour vous, traitez-le comme tel,</l>
+	<l id="1602">Et punissez en moi ce noble criminel ;</l>
+	<l id="1603">De mon sang malheureux expiez tout son crime ;</l>
+	<l id="1604">Vous ne changerez point pour cela de victime :</l>
+	<l id="1605">Ce n'en sera point prendre une injuste pitié,</l>
+	<l id="1606">Mais en sacrifier la plus chère moitié.</l>
+	<l id="1607">Les noeuds de l'hyménée et son amour extrême</l>
+	<l id="1608">Font qu'il vit plus en moi qu'il ne vit en lui-même ;</l>
+	<l id="1609">Et si vous m'accordez de mourir aujourd'hui,</l>
+	<l id="1610">Il mourra plus en moi qu'il ne mourrait en lui ;</l>
+	<l id="1611">La mort que je demande, et qu'il faut que j'obtienne,</l>
+	<l id="1612">Augmentera sa peine, et finira la mienne.</l>
+	<l id="1613">Sire, voyez l'excès de mes tristes ennuis,</l>
+	<l id="1614">Et l'effroyable état où mes jours sont réduits.</l>
+	<l id="1615">Quelle horreur d'embrasser un homme dont l'épée</l>
+	<l id="1616">De toute ma famille a la trame coupée !</l>
+	<l id="1617">Et quelle impiété de haïr un époux</l>
+	<l id="1618">Pour avoir bien servi les siens, l'état et vous !</l>
+	<l id="1619">Aimer un bras souillé du sang de tous mes frères !</l>
+	<l id="1620">N'aimer pas un mari qui finit nos misères !</l>
+	<l id="1621">Sire, délivrez-moi par un heureux trépas</l>
+	<l id="1622">Des crimes de l'aimer et de ne l'aimer pas ;</l>
+	<l id="1623">J'en nommerai l'arrêt une faveur bien grande.</l>
+	<l id="1624">Ma main peut me donner ce que je vous demande ;</l>
+	<l id="1625">Mais ce trépas enfin me sera bien plus doux,</l>
+	<l id="1626">Si je puis de sa honte affranchir mon époux ;</l>
+	<l id="1627">Si je puis par mon sang apaiser la colère</l>
+	<l id="1628">Des dieux qu'a pu fâcher sa vertu trop sévère,</l>
+	<l id="1629">Satisfaire en mourant aux mânes de sa soeur,</l>
+	<l id="1630">Et conserver à Rome un si bon défenseur.</l>
+</sp>
+<sp who="VIEIL_HORACE"><speaker>Le vieil Horace, au roi.</speaker>
+	<l id="1631">Sire, c'est donc à moi de répondre à Valère.</l>
+	<l id="1632">Mes enfants avec lui conspirent contre un père :</l>
+	<l id="1633">Tous trois veulent me perdre, et s'arment sans raison</l>
+	<l id="1634">Contre si peu de sang qui reste en ma maison.</l>
+<stage>À Sabine.</stage>
+	<l id="1635">Toi qui par des douleurs à ton devoir contraires,</l>
+	<l id="1636">Veux quitter un mari pour rejoindre tes frères,</l>
+	<l id="1637">Va plutôt consulter leurs mânes généreux ;</l>
+	<l id="1638">Ils sont morts, mais pour Albe, et s'en tiennent heureux :</l>
+	<l id="1639">Puisque le ciel voulait qu'elle fût asservie,</l>
+	<l id="1640">Si quelque sentiment demeure après la vie,</l>
+	<l id="1641">Ce mal leur semble moindre, et moins rudes ses coups,</l>
+	<l id="1642">Voyant que tout l'honneur en retombe sur nous ;</l>
+	<l id="1643">Tous trois désavoueront la douleur qui te touche,</l>
+	<l id="1644">Les larmes de tes yeux, les soupirs de ta bouche,</l>
+	<l id="1645">L'horreur que tu fais voir d'un mari vertueux.</l>
+	<l id="1646">Sabine, sois leur soeur, suis ton devoir comme eux.</l>
+<stage>Au roi.</stage>
+	<l id="1647">Contre ce cher époux Valère en vain s'anime :</l>
+	<l id="1648">Un premier mouvement ne fut jamais un crime ;</l>
+	<l id="1649">Et la louange est due, au lieu du châtiment,</l>
+	<l id="1650">Quand la vertu produit ce premier mouvement.</l>
+	<l id="1651">Aimer nos ennemis avec idolâtrie,</l>
+	<l id="1652">De rage en leur trépas maudire la patrie,</l>
+	<l id="1653">Souhaiter à l'état un malheur infini,</l>
+	<l id="1654">C'est ce qu'on nomme crime, et ce qu'il a puni.</l>
+	<l id="1655">Le seul amour de Rome a sa main animée :</l>
+	<l id="1656">Il serait innocent s'il l'avait moins aimée.</l>
+	<l id="1657">Qu'ai-je dit, sire ? Il l'est, et ce bras paternel</l>
+	<l id="1658">L'aurait déjà puni s'il était criminel :</l>
+	<l id="1659">J'aurais su mieux user de l'entière puissance</l>
+	<l id="1660">Que me donnent sur lui les droits de la naissance ;</l>
+	<l id="1661">J'aime trop l'honneur, sire, et ne suis point de rang</l>
+	<l id="1662">À souffrir ni d'affront ni de crime en mon sang.</l>
+	<l id="1663">C'est dont je ne veux point de témoin que Valère :</l>
+	<l id="1664">Il a vu quel accueil lui gardait ma colère,</l>
+	<l id="1665">Lorsqu'ignorant encore la moitié du combat,</l>
+	<l id="1666">Je croyais que sa fuite avait trahi l'état.</l>
+	<l id="1667">Qui le fait se charger des soins de ma famille ?</l>
+	<l id="1668">Qui le fait, malgré moi, vouloir venger ma fille ?</l>
+	<l id="1669">Et par quelle raison, dans son juste trépas,</l>
+	<l id="1670">Prend-il un intérêt qu'un père ne prend pas ?</l>
+	<l id="1671">On craint qu'après sa soeur il n'en maltraite d'autres !</l>
+	<l id="1672">Sire, nous n'avons part qu'à la honte des nôtres,</l>
+	<l id="1673">Et de quelque façon qu'un autre puisse agir,</l>
+	<l id="1674">Qui ne nous touche point ne nous fait point rougir.</l>
+<stage>À Valère.</stage>
+	<l id="1675">Tu peux pleurer, Valère, et même aux yeux d'Horace ;</l>
+	<l id="1676">Il ne prend intérêt qu'aux crimes de sa race :</l>
+	<l id="1677">Qui n'est point de son sang ne peut faire d'affront</l>
+	<l id="1678">Aux lauriers immortels qui lui ceignent le front.</l>
+	<l id="1679">Lauriers, sacrés rameaux qu'on veut réduire en poudre,</l>
+	<l id="1680">Vous qui mettez sa tête à couvert de la foudre,</l>
+	<l id="1681">L'abandonnerez-vous à l'infâme couteau</l>
+	<l id="1682">Qui fait choir les méchants sous la main d'un bourreau ?</l>
+	<l id="1683">Romains, souffrirez-vous qu'on vous immole un homme</l>
+	<l id="1684">Sans qui Rome aujourd'hui cesserait d'être Rome,</l>
+	<l id="1685">Et qu'un Romain s'efforce à tacher le renom</l>
+	<l id="1686">D'un guerrier à qui tous doivent un si beau nom ?</l>
+	<l id="1687">Dis, Valère, dis-nous, si tu veux qu'il périsse,</l>
+	<l id="1688">Où tu penses choisir un lieu pour son supplice ?</l>
+	<l id="1689">Sera-ce entre ces murs que mille et mille voix</l>
+	<l id="1690">Font résonner encor du bruit de ses exploits ?</l>
+	<l id="1691">Sera-ce hors des murs, au milieu de ces places</l>
+	<l id="1692">Qu'on voit fumer encor du sang des Curiaces,</l>
+	<l id="1693">Entre leurs trois tombeaux, et dans ce champ d'honneur</l>
+	<l id="1694">Témoin de sa vaillance et de notre bonheur ?</l>
+	<l id="1695">Tu ne saurais cacher sa peine à sa victoire ;</l>
+	<l id="1696">Dans les murs, hors des murs, tout parle de sa gloire,</l>
+	<l id="1697">Tout s'oppose à l'effort de ton injuste amour,</l>
+	<l id="1698">Qui veut d'un si bon sang souiller un si beau jour.</l>
+	<l id="1699">Albe ne pourra pas souffrir un tel spectacle,</l>
+	<l id="1700">Et Rome par ses pleurs y mettra trop d'obstacle.</l>
+<stage>Au roi.</stage>
+	<l id="1701">Vous les préviendrez, sire ; et par un juste arrêt</l>
+	<l id="1702">Vous saurez embrasser bien mieux son intérêt.</l>
+	<l id="1703">Ce qu'il a fait pour elle, il peut encore le faire :</l>
+	<l id="1704">Il peut la garantir encore d'un sort contraire.</l>
+	<l id="1705">Sire, ne donnez rien à mes débiles ans :</l>
+	<l id="1706">Rome aujourd'hui m'a vu père de quatre enfants ;</l>
+	<l id="1707">Trois en ce même jour sont morts pour sa querelle ;</l>
+	<l id="1708">Il m'en reste encore un, conservez-le pour elle :</l>
+	<l id="1709">N'ôtez pas à ses murs un si puissant appui ;</l>
+	<l id="1710">Et souffrez, pour finir, que je m'adresse à lui.</l>
+<stage>À Horace.</stage>
+	<l id="1711">Horace, ne crois pas que le peuple stupide</l>
+	<l id="1712">Soit le maître absolu d'un renom bien solide :</l>
+	<l id="1713">Sa voix tumultueuse assez souvent fait bruit ;</l>
+	<l id="1714">Mais un moment l'élève, un moment le détruit ;</l>
+	<l id="1715">Et ce qu'il contribue à notre renommée</l>
+	<l id="1716">Toujours en moins de rien se dissipe en fumée.</l>
+	<l id="1717">C'est aux rois, c'est aux grands, c'est aux esprits bien faits,</l>
+	<l id="1718">À voir la vertu pleine en ses moindres effets ;</l>
+	<l id="1719">C'est d'eux seuls qu'on reçoit la véritable gloire ;</l>
+	<l id="1720">Eux seuls des vrais héros assurent la mémoire.</l>
+	<l id="1721">Vis toujours en Horace, et toujours auprès d'eux</l>
+	<l id="1722">Ton nom demeurera grand, illustre, fameux,</l>
+	<l id="1723">Bien que l'occasion, moins haute ou moins brillante,</l>
+	<l id="1724">D'un vulgaire ignorant trompe l'injuste attente.</l>
+	<l id="1725">Ne hais donc plus la vie, et du moins vis pour moi,</l>
+	<l id="1726">Et pour servir encore ton pays et ton roi.</l>
+	<l id="1727">Sire, j'en ai trop dit ; mais l'affaire vous touche ;</l>
+	<l id="1728">Et Rome toute entière a parlé par ma bouche.</l>
+</sp>
+<sp who="VALERE"><speaker>VALÈRE</speaker>
+	<l id="1729" part="i">Sire, permettez-moi...</l>
+</sp>
+<sp who="TULLE"><speaker>TULLE</speaker>
+	<l id="1729" part="f">Valère, c'est assez :</l>
+	<l id="1730">Vos discours par les leurs ne sont pas effacés ;</l>
+	<l id="1731">J'en garde en mon esprit les forces plus pressantes,</l>
+	<l id="1732">Et toutes vos raisons me sont encore présentes.</l>
+	<l id="1733">Cette énorme action faite presque à nos yeux</l>
+	<l id="1734">Outrage la nature, et blesse jusqu'aux dieux.</l>
+	<l id="1735">Un premier mouvement qui produit un tel crime</l>
+	<l id="1736">Ne saurait lui servir d'excuse légitime :</l>
+	<l id="1737">Les moins sévères lois en ce point sont d'accord ;</l>
+	<l id="1738">Et si nous les suivons, il est digne de mort.</l>
+	<l id="1739">Si d'ailleurs nous voulons regarder le coupable,</l>
+	<l id="1740">Ce crime, quoique grand, énorme, inexcusable,</l>
+	<l id="1741">Vient de la même épée et part du même bras</l>
+	<l id="1742">Qui me fait aujourd'hui maître de deux états.</l>
+	<l id="1743">Deux sceptres en ma main, Albe à Rome asservie,</l>
+	<l id="1744">Parlent bien hautement en faveur de sa vie :</l>
+	<l id="1745">Sans lui j'obéirais où je donne la loi,</l>
+	<l id="1746">Et je serais sujet où je suis deux fois roi.</l>
+	<l id="1747">Assez de bons sujets dans toutes les provinces</l>
+	<l id="1748">Par des voeux impuissants s'acquittent vers leurs princes ;</l>
+	<l id="1749">Tous les peuvent aimer, mais tous ne peuvent pas</l>
+	<l id="1750">Par d'illustres effets assurer leurs états ;</l>
+	<l id="1751">Et l'art et le pouvoir d'affermir des couronnes</l>
+	<l id="1752">Sont des dons que le ciel fait à peu de personnes.</l>
+	<l id="1753">De pareils serviteurs sont les forces des rois,</l>
+	<l id="1754">Et de pareils aussi sont au-dessus des lois.</l>
+	<l id="1755">Qu'elles se taisent donc ; que Rome dissimule</l>
+	<l id="1756">Ce que dès sa naissance elle vit en Romule :</l>
+	<l id="1757">Elle peut bien souffrir en son libérateur</l>
+	<l id="1758">Ce qu'elle a bien souffert en son premier auteur.</l>
+	<l id="1759">Vis donc, Horace, vis, guerrier trop magnanime :</l>
+	<l id="1760">Ta vertu met ta gloire au-dessus de ton crime ;</l>
+	<l id="1761">Sa chaleur généreuse a produit ton forfait ;</l>
+	<l id="1762">D'une cause si belle il faut souffrir l'effet.</l>
+	<l id="1763">Vis pour servir l'état ; vis, mais aime Valère :</l>
+	<l id="1764">Qu'il ne reste entre vous ni haine ni colère ;</l>
+	<l id="1765">Et soit qu'il ait suivi l'amour ou le devoir,</l>
+	<l id="1766">Sans aucun sentiment résous-toi de le voir.</l>
+	<l id="1767">Sabine, écoutez moins la douleur qui vous presse ;</l>
+	<l id="1768">Chassez de ce grand coeur ces marques de faiblesse :</l>
+	<l id="1769">C'est en séchant vos pleurs que vous vous montrerez</l>
+	<l id="1770">La véritable soeur de ceux que vous pleurez.</l>
+	<l id="1771">Mais nous devons aux dieux demain un sacrifice ;</l>
+	<l id="1772">Et nous aurions le ciel à nos voeux mal propice,</l>
+	<l id="1773">Si nos prêtres, avant que de sacrifier,</l>
+	<l id="1774">Ne trouvaient les moyens de le purifier :</l>
+	<l id="1775">Son père en prendra soin ; il lui sera facile</l>
+	<l id="1776">D'apaiser tout d'un temps les mânes de Camille.</l>
+	<l id="1777">Je la plains ; et pour rendre à son sort rigoureux</l>
+	<l id="1778">Ce que peut souhaiter son esprit amoureux,</l>
+	<l id="1779">Puisqu'en un même jour l'ardeur d'un même zèle</l>
+	<l id="1780">Achève le destin de son amant et d'elle,</l>
+	<l id="1781">Je veux qu'un même jour, témoin de leurs deux morts,</l>
+	<l id="1782">En un même tombeau voie enfermer leurs corps.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE DERNIÈRE.</head>
+<sp who='JULIE'><speaker>JULIE.</speaker>
+<note type="C">Cette scène est supprimée à partir de 1660.</note>
+	<l id='1783'>Camille, ainsi le ciel t'avait bien avertie</l>
+	<l id='1784'>Des tragiques succès qu'il t'avait préparés,</l>
+	<l id='1785'>Mais toujours du secret il cache une partie</l>
+	<l id='1786'>Aux esprits les plus nets, et les mieux éclairés,</l>
+	<l id='1787'>Il semblait nous parler de ton proche hyménée,</l>
+	<l id='1788'>Il semblait tout promettre à tes voeux innocents,</l>
+	<l id='1789'>Et nous cachant ainsi ta mort inopinée</l>
+	<l id='1790'>Sa voix n'est que trop vraie en trompant notre sens.</l>
+<note type="C">Vers 1791, l'édition 1641 porte "un autre", nous corrigeons en "une autre".</note>
+	<l id='1791'>Albe et Rome aujourd'hui prennent une autre face,</l>
+	<l id='1792'>Tes voeux sont exaucés, elles goutent le paix,</l>
+	<l id='1793'>Et tu vas être unie avec ton Curiace</l>
+	<l id='1794'>Sans qu'aucun mauvais sort t'en sépare jamais.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

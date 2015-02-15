@@ -1,0 +1,3039 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AGÉSILAS, TRAGÉDIE</title>
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<date>1666</date>
+			</titleStmt>
+			<publicationStmp>	
+				<authority>publié par Paul FIEVRE, Mai 2006</authority>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>histoire grecque</inspiration>
+				<type>vers</type>
+				<structure>Cinq actes</structure>
+				<periode>1661-1670</periode>
+				<taille>2000-2250</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70403j</permalien>
+			</SourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<docTitle>
+				<titlePart type="main">AGÉSILAS</titlePart>
+				<titlePart type="sub">TRAGÉDIE en vers libre rimés</titlePart>
+			</docTitle> 
+			<docDate value='1666'>M. C. LXVI.</docDate>
+			<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>par P. Corneille</docAuthor>
+			<docImprint>
+				<privilege id='1666-03-24'>24 mars 1666</privilege>
+				<imprimeur id='Guillaume de Luyne'>à Rouen, Paris, G. de Luyne</imprimeur>
+				<acheveImprime id='1666-04-03'>3 avril 1666</acheveImprime>
+			</docImprint>
+			<performance>
+				<premiere date='1666-02-16' location='Hôtel de Bourgogne'>Réprésenté pour la première fois le 28 février 1666 à l'Hôtel de Bourgogne.</premiere>
+			</performance>
+			<castList><head>ACTEURS</head>
+				<castItem><role id="AGESILAS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>AGÉSILAS</role>, roi de Sparte.</castItem>
+				<castItem><role id="LYSANDER" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>LYSANDER</role>, fameux capitaine de Sparte.</castItem>
+				<castItem><role id="COTYS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>COTYS</role>, roi de Paphlagonie.</castItem>
+				<castItem><role id="SPITRIDATE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>SPITRIDATE</role>, grand Seigneur persan.</castItem>
+				<castItem><role id="MANDANE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>MANDANE</role>, soeur de Spitridate.</castItem>
+				<castItem><role id="ELPINICE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ELPINICE</role>, fille de Lysander.</castItem>
+				<castItem><role id="AGLATIDE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>AGLATIDE</role>, fille de Lysander.</castItem>
+				<castItem><role id="XENOCLES" civil='M' type="H" statut="lieutenant" age="A" stat_amour='néant'>XENOCLES</role>, lieutenant d'Agésilas.</castItem>
+				<castItem><role id="CLEON" civil='M' type="H" statut="orateur" age="A" stat_amour='néant'>CLÉON</role>, orateur grec, natif d'Halicarnasse.</castItem>
+			</castList>
+		<set location='Ephèse' country='Grèce' periode='Vème avant JC' link=''>[La sène est à Éphèse.]</set>
+		</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Elpinice, Aglatide</head>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+<note type="L">Éphèse : ville d'Asie mineure, la principale sur le côte de la Méditarranée, au bord du Caystre et à 60 km du sud-sud-est de SMyrne. [B]</note>
+	<l id="1">Ma soeur, depuis un mois nous voilà dans Éphèse,</l>
+	<l id="2">Prêtes à recevoir ces illustres époux</l>
+	<l id="3">Que Lysander, mon père, a su choisir pour nous ;</l>
+	<l id="4">Et ce choix bienheureux n'a rien qui ne vous plaise.</l>
+	<l id="5">Dites-moi toutefois, et parlons librement,</l>
+	<l id="6">Vous semble-t-il que votre amant</l>
+	<l id="7">Cherche avec grande ardeur votre chère présence ?</l>
+	<l id="8">Et trouvez-vous qu'il montre, attendant ce grand jour,</l>
+	<l id="9">Cette obligeante impatience</l>
+	<l id="10">Que donne, à ce qu'on dit, le véritable amour ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="11">Cotys est roi, ma soeur ; et comme sa couronne</l>
+	<l id="12">Parle suffisamment pour lui,</l>
+	<l id="13">Assuré de mon coeur, que son trône lui donne,</l>
+	<l id="14">De le trop demander il s'épargne l'ennui.</l>
+	<l id="15">Ce me doit être assez qu'en secret il soupire,</l>
+	<l id="16">Que je puis deviner ce qu'il craint de trop dire,</l>
+	<l id="17">Et que moins son amour a d'importunité,</l>
+	<l id="18">Plus il a de sincérité.</l>
+	<l id="19">Mais vous ne dites rien de votre Spitridate :</l>
+	<l id="20">Prend-il autant de peine à mériter vos feux</l>
+	<l id="21">Que l'autre à retenir mes voeux ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="22">C'est environ ainsi que son amour éclate :</l>
+	<l id="23">Il m'obsède à peu près comme l'autre vous sert.</l>
+	<l id="24">On dirait que tous deux agissent de concert,</l>
+	<l id="25">Qu'ils ont juré de n'être importuns l'un ni l'autre :</l>
+	<l id="26">Ils en font grand scrupule ; et la sincérité</l>
+	<l id="27">Dont mon amant se pique, à l'exemple du vôtre,</l>
+	<l id="28">Ne met pas son bonheur en l'assiduité.</l>
+	<l id="29">Ce n'est pas qu'à vrai dire il ne soit excusable :</l>
+<note>Sparte : ville du Péloponèse, capitale de la Laconie et de tout l'état lacédémonien, à peu près au centre de la Laconie, dans une région âpre et montueuse. [B]</note>
+	<l id="30">Je préparai pour lui, dès Sparte, une froideur</l>
+	<l id="31">Qui, dès l'abord, était capable</l>
+	<l id="32">D'éteindre la plus vive ardeur ;</l>
+	<l id="33">Et j'avoue entre nous qu'alors qu'il me néglige,</l>
+	<l id="34">Qu'il se montre à son tour si froid, si retenu,</l>
+	<l id="35">Loin de m'offenser, il m'oblige,</l>
+	<l id="36">Et me remet un coeur qu'il n'eût pas obtenu.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="37">J'admire cette antipathie</l>
+	<l id="38">Qui vous l'a fait haïr avant que de le voir,</l>
+	<l id="39">Et croirais que sa vue aurait eu le pouvoir</l>
+	<l id="40">D'en dissiper une partie ;</l>
+	<l id="41">Car enfin Spitridate a l'entretien charmant,</l>
+	<l id="42">L'oeil vif, l'esprit aisé, le coeur bon, l'âme belle.</l>
+	<l id="43">À tant de qualités s'il joignait un vrai zèle...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="44">Ma soeur, il n'est pas roi, comme l'est votre amant.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="45">Mais au parti des Grecs il unit deux provinces ;</l>
+	<l id="46">Et ce Perse vaut bien la plupart de nos princes.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="47">Il n'est pas roi, vous dis-je, et c'est un grand défaut.</l>
+	<l id="48">Ce n'est point avec vous que je le dissimule,</l>
+	<l id="49">J'ai peut-être le coeur trop haut ;</l>
+	<l id="50">Mais aussi bien que vous je sors du sang d'Hercule ;</l>
+	<l id="51">Et lorsqu'on vous destine un roi pour votre époux,</l>
+	<l id="52">J'en veux un aussi bien que vous.</l>
+	<l id="53">J'aurais quelque chagrin à vous traiter de reine,</l>
+	<l id="54">À vous voir dans un trône assise en souveraine,</l>
+	<l id="55">S'il me fallait ramper dans un degré plus bas ;</l>
+	<l id="56">Et je porte une âme assez vaine</l>
+	<l id="57">Pour vouloir jusque-là vous suivre pas à pas.</l>
+	<l id="58">Vous êtes mon aînée, et c'est un avantage</l>
+	<l id="59">Qui me fait vous devoir grande civilité ;</l>
+	<l id="60">Aussi veux-je céder le pas devant à l'âge,</l>
+	<l id="61">Mais je ne puis souffrir autre inégalité.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="62">Vous êtes donc jalouse, et ce trône vous gêne</l>
+	<l id="63">Où la main de Cotys a droit de me placer !</l>
+	<l id="64">Mais si je renonçais au rang de souveraine,</l>
+	<l id="65">Voudriez-vous y renoncer ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="66">Non, pas sitôt : j'ai quelque vue</l>
+	<l id="67">Qui me peut encore amuser.</l>
+	<l id="68">Mariez-vous, ma soeur ; quand vous serez pourvue,</l>
+	<l id="69">On trouvera peut-être un roi pour m'épouser.</l>
+	<l id="70">J'en aurais un déjà, n'était ce rang d'aînée</l>
+	<l id="71">Qui demandait pour vous ce qu'il voulait m'offrir,</l>
+	<l id="72">Ou s'il eût reconnu qu'un père eût pu souffrir</l>
+	<l id="73">Qu'à l'hymen avant vous on me vît destinée.</l>
+	<l id="74">Si ce roi jusqu'ici ne s'est point déclaré,</l>
+	<l id="75">Peut-être qu'après tout il n'a que différé,</l>
+	<l id="76">Qu'il attend votre hymen pour rompre son silence.</l>
+	<l id="77">Je pense avoir encor ce qui le sut charmer ;</l>
+	<l id="78">Et s'il faut vous en faire entière confidence,</l>
+	<l id="79">Agésilas m'aimait, et peut encor m'aimer.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="80">Que dites-vous, ma soeur ? Agésilas vous aime !</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="81">Je vous dis qu'il m'aimait, et que sa passion</l>
+	<l id="82">Pourrait bien être encor la même ;</l>
+	<l id="83">Mais cet amusement de mon ambition</l>
+	<l id="84">Peut n'être qu'une illusion.</l>
+	<l id="85">Ce prince tient son trône et sa haute puissance</l>
+	<l id="86">De ce même héros dont nous tenons le jour ;</l>
+	<l id="87">Et si ce n'était lors que par reconnaissance</l>
+	<l id="88">Qu'il me témoignait de l'amour,</l>
+	<l id="89">Puis-je être sans inquiétude</l>
+	<l id="90">Quand il n'a plus pour lui que de l'ingratitude,</l>
+	<l id="91">Qu'il n'écoute plus rien qui vienne de sa part ?</l>
+	<l id="92">Je ne sais si sa flamme est pour moi faible ou forte ;</l>
+	<l id="93">Mais la reconnaissance morte,</l>
+	<l id="94">L'amour doit courir grand hasard.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="95">Ah ! S'il n'avait voulu que par reconnaissance</l>
+	<l id="96">Être gendre de Lysander,</l>
+	<l id="97">Son choix aurait suivi l'ordre de la naissance,</l>
+	<l id="98">Et Sparte, au lieu de vous, l'eût vu me demander ;</l>
+	<l id="99">Mais pour mettre chez nous l'éclat de sa couronne</l>
+	<l id="100">Attendre que l'hymen m'ait engagée ailleurs,</l>
+	<l id="101">C'est montrer que le coeur s'attache à la personne.</l>
+	<l id="102">Ayez, ayez pour lui des sentiments meilleurs.</l>
+	<l id="103">Ce coeur qu'il vous donna, ce choix qui considère</l>
+	<l id="104">Autant et plus encor la fille que le père,</l>
+	<l id="105">Feront que le devoir aura bientôt son tour ;</l>
+	<l id="106">Et pour vous faire seoir où vos désirs aspirent,</l>
+	<l id="107">Vous verrez, et dans peu, comme pour vous conspirent</l>
+	<l id="108">La reconnaissance et l'amour.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="109">Vous voyez cependant qu'à peine il me regarde :</l>
+	<l id="110">Depuis notre arrivée il ne m'a point parlé ;</l>
+	<l id="111">Et quand ses yeux vers moi se tournent par mégarde...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="112">Comme avec lui mon père a quelque démêlé,</l>
+	<l id="113">Cette petite négligence,</l>
+	<l id="114">Qui vous fait douter de sa foi,</l>
+	<l id="115">Vient de leur mésintelligence,</l>
+	<l id="116">Et dans le fond de l'âme il vit sous votre loi.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="117">À tous hasards, ma soeur, comme j'en suis mal sûre,</l>
+	<l id="118">Si vous me pouviez faire un don de votre amant,</l>
+	<l id="119">Je crois que je pourrais l'accepter sans murmure.</l>
+	<l id="120">Vous venez de parler du mien si dignement...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="121" part="i">Aimeriez-vous Cotys, ma soeur ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="121" part="f">Moi ? Nullement.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="122">Pourquoi donc vouloir qu'il vous aime ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="123">Les hommages qu'Agésilas</l>
+	<l id="124">Daigna rendre en secret au peu que j'ai d'appas,</l>
+	<l id="125">M'ont si bien imprimé l'amour du diadème,</l>
+	<l id="126">Que pourvu qu'un amant soit roi,</l>
+	<l id="127">Il est trop aimable pour moi.</l>
+	<l id="128">Mais sans trône on perd temps : c'est la première idée</l>
+	<l id="129">Qu'à l'amour en mon coeur il ait plu de tracer ;</l>
+	<l id="130">Il l'a fidèlement gardée,</l>
+	<l id="131">Et rien ne peut plus l'effacer.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="132">Chacune a son humeur : la grandeur souveraine,</l>
+	<l id="133">Quelque main qui vous l'offre, est digne de vos feux ;</l>
+	<l id="134">Et vous ne ferez point d'heureux</l>
+	<l id="135">Qui de vous ne fasse une reine.</l>
+	<l id="136">Moi, je m'éblouis moins de la splendeur du rang ;</l>
+	<l id="137">Son éclat au respect plus qu'à l'amour m'invite :</l>
+	<l id="138">Cet heureux avantage ou du sort ou du sang</l>
+	<l id="139">Ne tombe pas toujours sur le plus de mérite.</l>
+	<l id="140">Si mon coeur, si mes yeux en étaient consultés,</l>
+	<l id="141">Leur choix irait à la personne,</l>
+	<l id="142">Et les hautes vertus, les rares qualités</l>
+	<l id="143">L'emporteraient sur la couronne.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="144">Avouez tout, ma soeur : Spitridate vous plaît.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="145">Un peu plus que Cotys ; et si votre intérêt</l>
+	<l id="146">Vous pouvait résoudre à l'échange...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="147">Qu'en pouvons-nous ici résoudre vous et moi ?</l>
+	<l id="148">En l'état où le ciel nous range,</l>
+	<l id="149">Il faut l'ordre d'un père, il faut l'aveu d'un roi,</l>
+	<l id="150">Que je plaise à Cotys, et vous à Spitridate.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="151">Pour l'un je ne sais quoi m'en flatte,</l>
+	<l id="152">Pour l'autre je n'en réponds pas ;</l>
+	<l id="153">Et je craindrais fort que Mandane,</l>
+	<l id="154">Cette incomparable Persane,</l>
+	<l id="155">N'eût pour lui des attraits plus forts que vos appas.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="156">Ma soeur, Spitridate est son frère,</l>
+	<l id="157">Et si jamais sur lui vous aviez du pouvoir...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="158">Le voilà qui nous considère.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="159">Est-ce vous ou moi qu'il vient voir ?</l>
+	<l id="160">Voulez-vous que je vous le laisse ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="161">Ma soeur, auparavant engagez l'entretien ;</l>
+	<l id="162">Et s'il s'en offre lieu, jouez d'un peu d'adresse,</l>
+	<l id="163">Pour votre intérêt et le mien.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="164">Il est juste en effet, puisqu'il n'a su me plaire,</l>
+	<l id="165">Que je vous aide à m'en défaire.</l>
+</sp></div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Spitridate, Elpinice, Aglatide.</head>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="166">Seigneur, je me retire : entre les vrais amants</l>
+	<l id="167">Leur amour seul a droit d'être de confidence,</l>
+	<l id="168">Et l'on ne peut mêler d'agréable présence</l>
+	<l id="169">A de si précieux moments.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="170">Un vertueux amour n'a rien d'incompatible</l>
+	<l id="171">Avec les regards d'une soeur.</l>
+	<l id="172">Ne m'enviez point la douceur</l>
+	<l id="173">De pouvoir à vos yeux convaincre une insensible :</l>
+	<l id="174">Soyez juge et témoin de l'indigne succès</l>
+	<l id="175">Qui se prépare pour ma flamme ;</l>
+	<l id="176">Voyez jusqu'au fond de mon âme</l>
+	<l id="177">D'une si pure ardeur où va le digne excès ;</l>
+	<l id="178">Voyez tout mon espoir au bord du précipice ;</l>
+	<l id="179">Voyez des maux sans nombre et hors de guérison ;</l>
+	<l id="180">Et quand vous aurez vu toute cette injustice,</l>
+	<l id="181">Faites m'en un peu de raison.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="182">Si vous me permettez, Seigneur, de vous entendre,</l>
+	<l id="183">De l'air dont votre amour commence à m'accuser,</l>
+	<l id="184">Je crains que pour en bien user</l>
+	<l id="185">Je ne me doive mal défendre.</l>
+	<l id="186">Je sais bien que j'ai tort, j'avoue et hautement</l>
+	<l id="187">Que ma froideur doit vous déplaire ;</l>
+	<l id="188">Mais en cette froideur un heureux changement</l>
+	<l id="189">Pourrait-il fort vous satisfaire ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="190">En doutez-vous, Madame, et peut-on concevoir... ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="191">Je vous entends, Seigneur, et vois ce qu'il faut voir :</l>
+	<l id="192">Un aveu plus précis est d'une conséquence</l>
+	<l id="193">Qui pourrait vous embarrasser ;</l>
+	<l id="194">Et même à notre sexe il est de bienséance</l>
+	<l id="195">De ne pas trop vous en presser.</l>
+	<l id="196">À Lysander mon père il vous plut de promettre</l>
+	<l id="197">D'unir par notre hymen votre sang et le sien ;</l>
+	<l id="198">La raison, à peu près, Seigneur, je la pénètre,</l>
+	<l id="199">Bien qu'aux raisons d'état je ne connaisse rien.</l>
+	<l id="200">Vous ne m'aviez point vue, et facile ou cruelle,</l>
+	<l id="201">Petite ou grande, laide ou belle,</l>
+	<l id="202">Qu'à votre humeur ou non je pusse m'accorder,</l>
+	<l id="203">La chose était égale à votre ardeur nouvelle,</l>
+	<l id="204">Pourvu que vous fussiez gendre de Lysander.</l>
+	<l id="205">Ma soeur vous aurait plu s'il vous l'eût proposée ;</l>
+	<l id="206">J'eusse agréé Cotys s'il me l'eût proposé.</l>
+	<l id="207">Vous trouvâtes tous deux la politique aisée ;</l>
+	<l id="208">Nous crûmes toutes deux notre devoir aisé.</l>
+	<l id="209">Comme à traiter cette alliance</l>
+	<l id="210">Les tendresses des coeurs n'eurent aucune part,</l>
+	<l id="211">Le vôtre avec le mien a peu d'intelligence,</l>
+	<l id="212">Et l'amour en tous deux pourra naître un peu tard.</l>
+	<l id="213">Quand il faudra que je vous aime,</l>
+	<l id="214">Que je l'aurai promis à la face des dieux,</l>
+	<l id="215">Vous deviendrez cher à mes yeux ;</l>
+	<l id="216">Et j'espère de vous le même.</l>
+	<l id="217">Jusque-là votre amour assez mal se fait voir ;</l>
+	<l id="218">Celui que je vous garde encor plus mal s'explique :</l>
+	<l id="219">Vous attendez le temps de votre politique,</l>
+	<l id="220">Et moi celui de mon devoir.</l>
+	<l id="221">Voilà, Seigneur, quel est mon crime ;</l>
+	<l id="222">Vous m'en vouliez convaincre, il n'en est plus besoin ;</l>
+	<l id="223">J'en ai fait, comme vous, ma soeur juge et témoin :</l>
+	<l id="224">Que ma froideur lui semble injuste ou légitime,</l>
+	<l id="225">La raison que vous peut en faire sa bonté</l>
+	<l id="226">Je consens qu'elle vous la fasse ;</l>
+	<l id="227">Et pour vous en laisser tous deux en liberté,</l>
+	<l id="228">Je veux bien lui quitter la place.</l>
+</sp></div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Spitridate, Elpinice.</head>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="229">Elle ne s'y fait pas, Madame, un grand effort,</l>
+	<l id="230">Et ferait grâce entière à mon peu de mérite,</l>
+	<l id="231">Si vôtre âme avec elle était assez d'accord</l>
+	<l id="232">Pour se vouloir saisir de ce qu'elle vous quitte.</l>
+	<l id="233">Pour peu que vous daigniez écouter la raison,</l>
+	<l id="234">Vous me devez cette justice,</l>
+	<l id="235">Et prendre autant de part à voir ma guérison,</l>
+	<l id="236">Qu'en ont eu vos attraits à faire mon supplice.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="237" part="i">Quoi ? Seigneur, j'aurais part...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="237" part="f">C'est trop dissimuler</l>
+	<l id="238">La cause et la grandeur du mal qui me possède ;</l>
+	<l id="239">Et je me dois, Madame, au défaut du remède,</l>
+	<l id="240">La vaine douceur d'en parler.</l>
+	<l id="241">Oui, vos yeux ont part à ma peine,</l>
+	<l id="242">Ils en font plus de la moitié ;</l>
+	<l id="243">Et s'il n'est point d'amour pour en finir la gêne,</l>
+	<l id="244">Il est pour l'adoucir des regards de pitié.</l>
+	<l id="245">Quand je quittai la Perse, et brisai l'esclavage</l>
+	<l id="246">Où, m'envoyant au jour, le ciel m'avait soumis,</l>
+	<l id="247">Je crus qu'il me fallait parmi ses ennemis</l>
+	<l id="248">D'un protecteur puissant assurer l'avantage.</l>
+	<l id="249">Cotys eut, comme moi, besoin de Lysander ;</l>
+	<l id="250">Et quand pour l'attacher lui-même à nos familles,</l>
+	<l id="251">Nous demandâmes ses deux filles,</l>
+	<l id="252">Ce fut les obtenir que de les demander.</l>
+	<l id="253">Par déférence au trône il lui promit l'aînée ;</l>
+	<l id="254">La jeune me fut destinée.</l>
+	<l id="255">Comme nous ne cherchions tous deux que son appui,</l>
+	<l id="256">Nous acceptâmes tout sans regarder que lui.</l>
+	<l id="257">J'avais su qu'Aglatide était des plus aimables,</l>
+	<l id="258">On m'avait dit qu'à Sparte elle savait charmer ;</l>
+	<l id="259">Et sur des bruits si favorables</l>
+	<l id="260">Je me répondais de l'aimer.</l>
+	<l id="261">Que l'amour aime peu ces folles confiances !</l>
+	<l id="262">Et que pour affermir son empire en tous lieux,</l>
+	<l id="263">Il laisse choir souvent de cruelles vengeances</l>
+	<l id="264">Sur qui promet son coeur sans l'aveu de ses yeux !</l>
+	<l id="265">Ce sont les conseillers fidèles</l>
+	<l id="266">Dont il prend les avis pour ajuster ses coups ;</l>
+	<l id="267">Leur rapport inégal vous fait plus ou moins belles,</l>
+	<l id="268">Et les plus beaux objets ne le sont pas pour tous.</l>
+	<l id="269">À ce moment fatal qui nous permit la vue</l>
+	<l id="270">Et de vous et de cette soeur,</l>
+	<l id="271">Mon âme devint toute émue,</l>
+	<l id="272">Et le trouble aussitôt s'empara de mon coeur ;</l>
+	<l id="273">Je le sentis pour elle tout de glace,</l>
+	<l id="274">Je le sentis tout de flamme pour vous ;</l>
+	<l id="275">Vous y régnâtes en sa place,</l>
+	<l id="276">Et ses regards aux miens n'offrirent rien de doux.</l>
+	<l id="277">Il faut pourtant l'aimer, du moins il faut le feindre ;</l>
+	<l id="278">Il faut vous voir aimer ailleurs :</l>
+	<l id="279">Voyez s'il fut jamais un amant plus à plaindre,</l>
+	<l id="280">Un coeur plus accablé de mortelles douleurs.</l>
+	<l id="281">C'est un malheur sans doute égal au trépas même</l>
+	<l id="282">Que d'attacher sa vie à ce qu'on n'aime pas ;</l>
+	<l id="283">Et voir en d'autres mains passer tout ce qu'on aime,</l>
+	<l id="284">C'est un malheur encor plus grand que le trépas.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="285">Je vous en plains, Seigneur, et ne puis davantage,</l>
+	<l id="286">Je ne sais aimer ni haïr ;</l>
+	<l id="287">Mais dès qu'un père parle, il porte en mon courage</l>
+	<l id="288">Toute l'impression qu'il faut pour obéir.</l>
+	<l id="289">Voyez avec Cotys si ses voeux les plus tendres</l>
+	<l id="290">Voudraient rendre à ma soeur l'hommage qu'il me rend.</l>
+	<l id="291">Tout doit être à mon père assez indifférent,</l>
+	<l id="292">Pourvu que vous et lui vous demeuriez ses gendres.</l>
+	<l id="293">Mais à vous dire tout, je crains qu'Agésilas</l>
+	<l id="294">N'y refuse l'aveu qui vous est nécessaire :</l>
+	<l id="295" part="i">C'est notre souverain.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="295" part="f">S'il en dédit un père,</l>
+	<l id="296">Peut-être ai-je une soeur qu'il n'en dédira pas.</l>
+	<l id="297">Ce grand prince pour elle a tant de complaisance,</l>
+	<l id="298">Qu'à sa moindre prière il ne refuse rien ;</l>
+	<l id="299">Et si son coeur voulait s'entendre avec le mien...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="300">Reposez-vous, Seigneur, sur mon obéissance,</l>
+	<l id="301">Et contentez-vous de savoir</l>
+	<l id="302">Qu'aussi bien que ma soeur j'écoute mon devoir.</l>
+	<l id="303">Allez trouver Cotys, et sans aucun scrupule...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="304">Perdriez-vous pour moi son trône sans ennui ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="305">Le voilà qui paraît. Quelque ardeur qui vous brûle,</l>
+	<l id="306">Mettez d'accord mon père, Agésilas et lui.</l>
+</sp></div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Cotys, Spitridate.</head>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="307">Vous voyez de quel air Elpinice me traite,</l>
+	<l id="308">Comme elle disparaît, Seigneur, à mon abord.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="309">Si votre âme, Seigneur, en est mal satisfaite,</l>
+	<l id="310">Mon sort est bien à plaindre autant que votre sort.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="311">Ah ! S'il n'était honteux de manquer de promesse !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="312">Si la foi sans rougir pouvait se dégager !</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="313">Qu'une autre de mon coeur serait bientôt maîtresse !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="314">Que je serais ravi, comme vous, de changer !</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="315">Elpinice pour moi montre une telle glace,</l>
+	<l id="316">Que je me tiendrais sûr de son consentement.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="317">Aglatide verrait qu'une autre prît sa place</l>
+	<l id="318">Sans en murmurer un moment.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="319">Que nous sert qu'en secret l'une et l'autre engagée</l>
+	<l id="320">Peut-être ainsi que nous porte son coeur ailleurs ?</l>
+	<l id="321">Pour voir notre infortune entre elles partagée,</l>
+	<l id="322">Nos destins n'en sont pas meilleurs.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="323">Elles aiment ailleurs, ces belles dédaigneuses ;</l>
+	<l id="324">Et peut-être, en dépit du sort,</l>
+	<l id="325">Il serait un moyen et de les rendre heureuses,</l>
+	<l id="326">Et de nous rendre heureux par un commun accord.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="327">Souffrez donc qu'avec vous tout mon coeur se déploie.</l>
+	<l id="328">Ah ! Si vous le vouliez, que mon sort serait doux !</l>
+	<l id="329">Vous seul me pouvez mettre au comble de ma joie.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="330">Et ma félicité dépend toute de vous.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="331">Vous me pouvez donner l'objet qui me possède.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="332">Vous me pouvez donner celui de tous mes voeux :</l>
+	<l id="333" part="i">Elpinice me charme.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="333" part="f">Et si je vous la cède ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="334">Je céderai de même Aglatide à vos feux.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="335">Aglatide, Seigneur ! Ce n'est pas là m'entendre,</l>
+	<l id="336">Et vous ne feriez rien pour moi.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="337">Ne vous devez-vous pas à Lysander pour gendre ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="338">Oui ; mais l'amour ici me fait une autre loi.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="339">L'amour ! Il n'en faut point écouter qui le blesse,</l>
+	<l id="340">Et qui nous ôte son appui.</l>
+	<l id="341">L'échange des deux soeurs n'a rien qui l'intéresse,</l>
+	<l id="342">Nous n'en serons pas moins à lui ;</l>
+	<l id="343">Mais de porter ailleurs sa main, qui leur est due,</l>
+	<l id="344">Seigneur, au dernier point ce sera l'irriter,</l>
+	<l id="345">Et sa protection perdue,</l>
+	<l id="346">N'avons-nous rien à redouter ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="347">Si je n'en juge mal, sa faveur n'est pas grande,</l>
+	<l id="348">Seigneur, auprès d'Agésilas ;</l>
+	<l id="349">Il n'obtient presque rien de quoi qu'il lui demande.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="350">Je vois qu'assez souvent il ne l'écoute pas ;</l>
+	<l id="351">Mais pour un différend frivole,</l>
+	<l id="352">Dont nous ignorons le secret,</l>
+	<l id="353">Ce prince avouerait-il un amour indiscret,</l>
+	<l id="354">D'un tel manquement de parole ?</l>
+	<l id="355">Lui qui lui doit son trône, et cet illustre rang</l>
+	<l id="356">D'unique général des troupes de la Grèce,</l>
+	<l id="357">Pourrait-il le haïr avec tant de bassesse,</l>
+	<l id="358">Qu'il pût autoriser ce mépris de son sang ?</l>
+	<l id="359">Si nous manquons de foi, qu'aura-t-il lieu de croire ?</l>
+	<l id="360">En aurions-nous pour lui plus que pour Lysander ?</l>
+	<l id="361">Pensez-y bien, Seigneur, avant qu'y hasarder</l>
+	<l id="362">Nos sûretés et votre gloire.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="363">Et si ce différend, que vous craignez si peu,</l>
+	<l id="364">Lui fait pour notre hymen refuser un aveu ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="365">Ma soeur n'a qu'à parler, je m'en tiens sûr par elle.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="366" part="i">Seigneur, l'aimerait-il ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="366" part="f">Il la trouve assez belle,</l>
+	<l id="367">Il en parle avec joie, et se plaît à la voir.</l>
+	<l id="368">Je tâche d'affermir ces douces apparences ;</l>
+	<l id="369">Et si vous voulez tout savoir,</l>
+	<l id="370">Je pense avoir de quoi flatter mes espérances.</l>
+	<l id="371">Prenez-y part, Seigneur, pour l'intérêt commun.</l>
+	<l id="372">Quand nous aurons tous deux Lysander pour beau-père,</l>
+	<l id="373">Ce roi s'allie à vous, s'il devient mon beau-frère ;</l>
+	<l id="374">Et nous aurons ainsi deux appuis au lieu d'un.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="375" part="i">Et Mandane y consent ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="375" part="f">Mandane est trop bien née</l>
+	<l id="376">Pour dédire un devoir qui la met sous ma loi.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="377">Et vous avez donné pour elle votre foi ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="378">Non ; mais à dire vrai, je la tiens pour donnée.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="379">Ah ! Ne la donnez point, Seigneur, si vous m'aimez,</l>
+	<l id="380">Ou si vous aimez Elpinice.</l>
+	<l id="381">Mandane a tout mon coeur, mes yeux en sont charmés ;</l>
+	<l id="382">Et ce n'est qu'à ce prix que je vous rends justice.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="383">Elpinice ne rend votre foi qu'à sa soeur,</l>
+	<l id="384">Et ce n'est qu'à ce prix qu'elle-même se donne.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="385">Hélas ! Et si l'amour autrement en ordonne,</l>
+	<l id="386">Le moyen d'y forcer mon coeur ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="387" part="i">Rendez-vous-en le maître.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="387" part="f">Et l'êtes-vous du vôtre ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="388">J'y ferai mon effort, si je vous parle en vain ;</l>
+	<l id="389">Et du moins, si ma soeur vous dérobe à toute autre,</l>
+	<l id="390">Je serai maître de ma main.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="391">Je ne le puis celer, qui que l'on me propose,</l>
+	<l id="392">Toute autre que Mandane est pour moi même chose.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="393">Il vous est donc facile, et doit même être doux,</l>
+	<l id="394">Puisqu'enfin Elpinice aime un autre que vous,</l>
+	<l id="395">De lui préférer qui vous aime ;</l>
+	<l id="396">Et du moins vous auriez l'honneur,</l>
+	<l id="397">Par un peu d'effort sur vous-même,</l>
+	<l id="398">De faire le commun bonheur.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="399">Je ferais trois heureux qui m'empêchent de l'être !</l>
+	<l id="400">J'ose, j'ose vous faire une plus juste loi :</l>
+	<l id="401">Ou faites mon bonheur dont vous êtes le maître,</l>
+	<l id="402">Ou demeurez tous trois malheureux comme moi.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="403">Eh bien ! épousez Elpinice :</l>
+	<l id="404">Je renonce à tout mon bonheur,</l>
+	<l id="405">Plutôt que de me voir complice</l>
+	<l id="406">D'un manquement de foi qui vous perdrait d'honneur.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="407">Rendez-vous à votre Aglatide,</l>
+	<l id="408">Puisque votre coeur endurci</l>
+	<l id="409">Veut suivre obstinément un faux devoir pour guide :</l>
+	<l id="410">Je serai malheureux, vous le serez aussi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Spitridate, Mandane.</head>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="411">Que nous avons, ma soeur, brisé de rudes chaînes !</l>
+	<l id="412">En Perse il n'est point de sujets ;</l>
+	<l id="413">Ce ne sont qu'esclaves abjects,</l>
+	<l id="414">Qu'écrasent d'un coup d'oeil les têtes souveraines :</l>
+	<l id="415">Le monarque, ou plutôt le tyran général,</l>
+	<l id="416">N'y suit pour loi que son caprice,</l>
+	<l id="417">N'y veut point d'autre règle et point d'autre justice,</l>
+	<l id="418">Et souvent même impute à crime capital</l>
+	<l id="419">Le plus rare mérite et le plus grand service ;</l>
+	<l id="420">Il abat à ses pieds les plus hautes vertus,</l>
+	<l id="421">S'immole insolemment les plus illustres vies,</l>
+	<l id="422">Et ne laisse aujourd'hui que les coeurs abattus</l>
+	<l id="423">À couvert de ses tyrannies.</l>
+	<l id="424">Vous autres, s'il vous daigne honorer de son lit,</l>
+	<l id="425">Ce sont indignités égales :</l>
+	<l id="426">La gloire s'en partage entre tant de rivales,</l>
+	<l id="427">Qu'elle est moins un honneur qu'un sujet de dépit.</l>
+	<l id="428">Toutes n'ont pas le nom de reines,</l>
+	<l id="429">Mais toutes portent mêmes chaînes,</l>
+	<l id="430">Et toutes, à parler sans fard,</l>
+	<l id="431">Servent à ses plaisirs sans part à son empire ;</l>
+	<l id="432">Et même en ses plaisirs elles n'ont autre part</l>
+	<l id="433">Que celle qu'à son coeur brutalement inspire</l>
+	<l id="434">Ou ce caprice, ou le hasard.</l>
+	<l id="435">Voilà, ma soeur, à quoi vous avait destinée,</l>
+	<l id="436">À quel infâme honneur vous avait condamnée</l>
+	<l id="437">Pharnabaze, son lieutenant :</l>
+	<l id="438">Il aurait fait de vous un présent à son prince,</l>
+	<l id="439">Si pour nous affranchir mon soin le prévenant</l>
+	<l id="440">N'eût à sa tyrannie arraché ma province.</l>
+	<l id="441">La Grèce a de plus saintes lois,</l>
+	<l id="442">Elle a des peuples et des rois</l>
+	<l id="443">Qui gouvernent avec justice :</l>
+	<l id="444">La raison y préside, et la sage équité ;</l>
+	<l id="445">Le pouvoir souverain par elles limité,</l>
+	<l id="446">N'y laisse aucun droit de caprice.</l>
+	<l id="447">L'hymen de ses rois même y donne coeur pour coeur ;</l>
+	<l id="448">Et si vous aviez le bonheur</l>
+	<l id="449">Que l'un d'eux vous offrît son trône avec son âme,</l>
+	<l id="450">Vous seriez, par ce noeud charmant,</l>
+	<l id="451">Et reine véritablement,</l>
+	<l id="452">Et véritablement sa femme.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="453">Je veux bien l'espérer : tout est facile aux dieux ;</l>
+	<l id="454">Et peut-être que de bons yeux</l>
+	<l id="455">En auraient déjà vu quelque flatteuse marque ;</l>
+	<l id="456">Mais il en faut de bons pour faire un si grand choix.</l>
+	<l id="457">Si le roi dans la Perse est un peu trop monarque,</l>
+	<l id="458">En Grèce il est des rois qui ne sont pas trop rois :</l>
+	<l id="459">Il en est dont le peuple est le suprême arbitre ;</l>
+	<l id="460">Il en est d'attachés aux ordres d'un sénat ;</l>
+	<l id="461">Il en est qui ne sont enfin, sous ce grand titre,</l>
+	<l id="462">Que premiers sujets de l'état.</l>
+	<l id="463">Je ne sais si le ciel pour régner m'a fait naître,</l>
+	<l id="464">Et quoi qu'en ma faveur j'aie encor vu paraître,</l>
+	<l id="465">Je doute si l'on m'aime ou non ;</l>
+	<l id="466">Mais je pourrais être assez vaine</l>
+	<l id="467">Pour dédaigner le nom de reine</l>
+	<l id="468">Que m'offrirait un roi qui n'en eût que le nom.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="469">Vous en savez beaucoup, ma soeur, et vos mérites</l>
+	<l id="470">Vous ouvrent fort les yeux sur ce que vous valez.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="471">Je réponds simplement à ce que vous me dites,</l>
+	<l id="472">Et parle en général comme vous me parlez.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="473">Cependant et des rois et de leur différence</l>
+	<l id="474">Je vous trouve en effet plus instruite que moi.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="475">Puisque vous m'ordonnez qu'ici j'espère un roi,</l>
+	<l id="476">Il est juste, Seigneur, que quelquefois j'y pense.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="477" part="i">N'y pensez-vous point trop ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="477" part="f">Je sais que c'est à vous</l>
+	<l id="478">À régler mes désirs sur le choix d'un époux :</l>
+	<l id="479">Mon devoir n'en fera point d'autre ;</l>
+	<l id="480">Mais quand vous daignerez choisir pour une soeur,</l>
+	<l id="481">Daignez songer, de grâce, à faire son bonheur</l>
+	<l id="482">Mieux que vous n'avez fait le vôtre.</l>
+	<l id="483">D'un choix que vous m'aviez vous-même tant loué,</l>
+	<l id="484">Votre coeur et vos yeux vous ont désavoué ;</l>
+	<l id="485">Et si j'ai, comme vous, quelques pentes secrètes,</l>
+	<l id="486">Seigneur, si c'est ainsi que vous les rencontrez,</l>
+	<l id="487">Jugez, par le trouble où vous êtes,</l>
+	<l id="488">De l'état où vous me mettrez.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="489">Je le vois bien, ma soeur, il faut vous laisser faire :</l>
+	<l id="490">Qui choisit mal pour soi choisit mal pour autrui ;</l>
+	<l id="491">Et votre coeur, instruit par le malheur d'un frère,</l>
+	<l id="492">A déjà fait son choix sans lui.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="493">Peut-être ; mais enfin vous suis-je nécessaire ?</l>
+	<l id="494">Parlez : il n'est désirs ni tendres sentiments</l>
+	<l id="495">Que je ne sacrifie à vos contentements.</l>
+	<l id="496">Faut-il donner ma main pour celle d'Elpinice ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="497">Que sert de m'en offrir un entier sacrifice,</l>
+	<l id="498">Si je n'ose et ne puis même déterminer</l>
+	<l id="499">À qui pour mon bonheur vous devez la donner ?</l>
+	<l id="500">Cotys me la demande, Agésilas l'espère.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="501">Agésilas, Seigneur ! Et le savez-vous bien ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="502">Parler de vous sans cesse, aimer votre entretien,</l>
+	<l id="503">Vous donner tout crédit, ne chercher qu'à vous plaire...</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="504">Ce sont civilités envers une étrangère,</l>
+	<l id="505">Qui font beaucoup d'éclat, et ne produisent rien.</l>
+	<l id="506">Il jette par là des amorces</l>
+	<l id="507">À ceux qui, comme nous, voudront grossir ses forces ;</l>
+	<l id="508">Mais quelque haut crédit qu'il me donne en sa cour,</l>
+	<l id="509">De toute sa conduite il est si bien le maître,</l>
+	<l id="510">Qu'au simple nom d'hymen vous verriez disparaître</l>
+	<l id="511">Tout ce qu'en ses faveurs vous prenez pour amour.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="512">Vous penchez vers Cotys, et savez qu'Elpinice</l>
+	<l id="513">Ne veut point être à moi qu'il ne soit à sa soeur !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="514">Je vous réponds de tout, si vous avez son coeur.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="515">Et Lysander pourra souffrir cette injustice ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="516">Lysander est si mal auprès d'Agésilas,</l>
+	<l id="517">Que ce sera beaucoup s'il en obtient un gendre ;</l>
+	<l id="518">Et peut-être sans moi ne l'a-t-il pas :</l>
+	<l id="519">Pour deux, il aurait tort, s'il osait y prétendre.</l>
+	<l id="520">Mais, Seigneur, le voici ; tâchez de pressentir</l>
+	<l id="521">Ce qu'en votre faveur il pourrait consentir.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="522">Ma soeur, vous êtes plus adroite ;</l>
+	<l id="523">Souffrez que je ménage un moment de retraite :</l>
+	<l id="524">J'aurais trop à rougir, pour peu que devant moi</l>
+	<l id="525">Vous fissiez deviner de ce manque de foi.</l>
+</sp></div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Lysander, Spitridate, Mandane, Cléon.</head>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="526">Quoique en matière d'hyménées</l>
+	<l id="527">L'importune langueur des affaires traînées</l>
+	<l id="528">Attire assez souvent de fâcheux embarras,</l>
+	<l id="529">J'ai voulu qu'à loisir vous pussiez voir mes filles,</l>
+	<l id="530">Avant que demander l'aveu d'Agésilas</l>
+	<l id="531">Sur l'union de nos familles.</l>
+	<l id="532">Dites-moi donc, Seigneur, ce qu'en jugent vos yeux,</l>
+	<l id="533">S'ils laissent votre coeur d'accord de vos promesses,</l>
+	<l id="534">Et si vous y sentez plus d'aimables tendresses</l>
+	<l id="535">Que de justes désirs de pouvoir choisir mieux.</l>
+	<l id="536">Parlez avec franchise, avant que je m'expose</l>
+	<l id="537">À des refus presque assurés,</l>
+	<l id="538">Que j'estimerai peu de chose</l>
+	<l id="539">Quand vous serez plus déclarés ;</l>
+	<l id="540">Et n'appréhendez point l'emportement d'un père :</l>
+	<l id="541">Je sais trop que l'amour de ses droits est jaloux,</l>
+	<l id="542">Qu'il dispose de nous sans nous,</l>
+	<l id="543">Que les plus beaux objets ne sont pas sûrs de plaire.</l>
+	<l id="544">L'aveugle sympathie est ce qui fait agir</l>
+	<l id="545">La plupart des feux qu'il excite ;</l>
+	<l id="546">Il ne l'attache pas toujours au vrai mérite :</l>
+	<l id="547">Et quand il la dénie, on n'a point à rougir.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="548">Puisque vous le voulez, je ne puis me défendre,</l>
+	<l id="549">Seigneur, de vous parler avec sincérité :</l>
+	<l id="550">Ma seule ambition est d'être votre gendre ;</l>
+	<l id="551">Mais apprenez, de grâce, une autre vérité :</l>
+	<l id="552">Ce bonheur que j'attends, cette gloire où j'aspire,</l>
+	<l id="553">Et qui rendrait mon sort égal au sort des dieux,</l>
+	<l id="554">N'a pour objet... Seigneur, je tremble à vous le dire ;</l>
+	<l id="555">Ma soeur vous l'expliquera mieux.</l>
+</sp></div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Lysander, Mandane, Cléon.</head>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="556">Que veut dire, Madame, une telle retraite ?</l>
+	<l id="557">Se plaint-il d'Aglatide, et la jeune indiscrète</l>
+	<l id="558">Répondrait-elle mal aux honneurs qu'il lui fait ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="559">Elle y répond, Seigneur, ainsi qu'il le souhaite,</l>
+	<l id="560">Et je l'en vois fort satisfait ;</l>
+	<l id="561">Mais je ne vois pas bien que par les sympathies</l>
+	<l id="562">Dont vous venez de nous parler,</l>
+	<l id="563">Leurs âmes soient fort assorties,</l>
+	<l id="564">Ni que l'amour encore ait daigné s'en mêler.</l>
+	<l id="565">Ce n'est pas qu'il n'aspire à se voir votre gendre,</l>
+	<l id="566">Qu'il n'y mette sa gloire, et borne ses plaisirs ;</l>
+	<l id="567">Mais puisque par son ordre il me faut vous l'apprendre,</l>
+	<l id="568">Elpinice est l'objet de ses plus chers désirs.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="569">Elpinice ! Et sa main n'est plus en ma puissance !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="570">Je sais qu'il n'est plus temps de vous la demander ;</l>
+	<l id="571">Mais je vous répondrais de son obéissance,</l>
+	<l id="572">Si Cotys la voulait céder.</l>
+	<l id="573">Que sait-on si l'amour, dont la bizarrerie</l>
+	<l id="574">Se joue assez souvent du fond de notre coeur,</l>
+	<l id="575">N'aura point fait au sien même supercherie ?</l>
+	<l id="576">S'il n'y préfère point Aglatide à sa soeur ?</l>
+	<l id="577">Cet échange, Seigneur, pourrait-il vous déplaire,</l>
+	<l id="578">S'il les rendait tous quatre heureux ?</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="579">Madame, doutez-vous de la bonté d'un père ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="580">Voyez donc si Cotys sera plus rigoureux :</l>
+	<l id="581">Je vous laisse avec lui, de peur que ma présence</l>
+	<l id="582">N'empêche une sincère et pleine confiance.</l>
+<stage>À Cotys.</stage>
+	<l id="583">Seigneur, ne cachez plus le véritable amour</l>
+	<l id="584">Dont l'idée en secret vous flatte.</l>
+	<l id="585">J'ai dit à Lysander celui de Spitridate ;</l>
+	<l id="586">Dites le vôtre à votre tour.</l>
+</sp></div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Lysander, Cotys, Cléon.</head>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="587">Puisqu'elle vous l'a dit, pourrais-je vous le taire ?</l>
+	<l id="588">Jugez, Seigneur, de mes ennuis :</l>
+	<l id="589">Une autre qu'Elpinice à mes yeux a su plaire ;</l>
+	<l id="590">Et l'aimer est un crime en l'état où je suis.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="591">Ne traitez point, Seigneur, ce nouveau feu de crime :</l>
+	<l id="592">Le choix que font les yeux est le plus légitime ;</l>
+	<l id="593">Et comme un beau désir ne peut bien s'allumer</l>
+	<l id="594">S'ils n'instruisent le coeur de ce qu'il doit aimer,</l>
+	<l id="595">C'est ôter à l'amour tout ce qu'il a d'aimable,</l>
+	<l id="596">Que les tenir captifs sous une aveugle foi ;</l>
+	<l id="597">Et le don le plus favorable</l>
+	<l id="598">Que ce coeur sans leur ordre ose faire de soi</l>
+	<l id="599">Ne fut jamais irrévocable.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="600">Seigneur, ce n'est point par mépris,</l>
+	<l id="601">Ce n'est point qu'Elpinice aux miens n'ait paru belle ;</l>
+	<l id="602">Mais enfin (le dirai-je ? ) oui, Seigneur, on m'a pris,</l>
+	<l id="603">On m'a volé ce coeur que j'apportais pour elle :</l>
+	<l id="604">D'autres yeux, malgré moi, s'en sont faits les tyrans,</l>
+	<l id="605">Et ma foi s'est armée en vain pour ma défense ;</l>
+	<l id="606">Ce lâche, qui s'est mis de leur intelligence,</l>
+	<l id="607">Les a soudain reçus en justes conquérants.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="608">Laissez-leur garder leur conquête.</l>
+	<l id="609">Peut-être qu'Elpinice avec plaisir s'apprête</l>
+	<l id="610">À vous laisser ailleurs trouver un sort plus doux,</l>
+	<l id="611">Quand un autre pour elle a d'autres yeux que vous,</l>
+	<l id="612">Qu'elle cède ce coeur à celle qui le vole,</l>
+	<l id="613">Et qu'en ce même instant qu'on vous le surprenait,</l>
+	<l id="614">Un pareil attentat sur sa propre parole</l>
+	<l id="615">Lui dérobait celui qu'elle vous destinait.</l>
+	<l id="616">Surtout ne craignez rien du côté d'Aglatide :</l>
+	<l id="617">Je puis répondre d'elle, et quand j'aurai parlé,</l>
+	<l id="618">Vous verrez tout son coeur, où mon vouloir préside,</l>
+	<l id="619">Vous payer de celui qu'elle vous a volé.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="620">Ah ! Seigneur, pour ce vol je ne me plains pas d'elle.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="621" part="i">Et de qui donc ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="621" part="f">L'amour s'y sert d'une autre main.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="622" part="i">L'amour !</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="622" part="f">Oui, cet amour qui me rend infidèle...</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="623">Seigneur, du nom d'amour n'abusez point en vain,</l>
+	<l id="624">Dites d'Agésilas la haine insatiable :</l>
+	<l id="625">C'est elle dont l'aigreur auprès de vous m'accable,</l>
+	<l id="626">Et qui de jour en jour s'animant contre moi,</l>
+	<l id="627">Pour me perdre d'honneur m'enlève votre foi.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="628">Ah ! S'il y va de votre gloire,</l>
+	<l id="629">Ma parole est donnée, et dussé-je en mourir,</l>
+	<l id="630">Je la tiendrai, Seigneur, jusqu'au dernier soupir ;</l>
+	<l id="631">Mais quoi que la surprise ait pu vous faire croire,</l>
+	<l id="632">N'accusez point Agésilas</l>
+	<l id="633">D'un crime de mon coeur, que même il ne sait pas.</l>
+	<l id="634">Mandane, qui m'ordonne à vos yeux de le dire,</l>
+	<l id="635">Vous montre assez par là quel souverain empire</l>
+	<l id="636">L'amour lui donne sur ce coeur.</l>
+	<l id="637">Ne considérez point si j'aime ou si l'on m'aime ;</l>
+	<l id="638">En matière d'honneur ne voyez que vous-même,</l>
+	<l id="639">Et disposez de moi comme veut cet honneur.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="640">L'amour le fera mieux ; ce que j'en viens d'apprendre</l>
+	<l id="641">M'offre un sujet de joie où j'en voyais d'ennui :</l>
+	<l id="642">Épouser la soeur de mon gendre,</l>
+	<l id="643">C'est le devenir comme lui.</l>
+	<l id="644">Aglatide d'ailleurs n'est pas si délaissée</l>
+	<l id="645">Que votre exemple n'aide à lui trouver un roi ;</l>
+	<l id="646">Et pour peu que le ciel réponde à ma pensée,</l>
+	<l id="647">Ce sera plus de gloire et plus d'appui pour moi.</l>
+	<l id="648">Aussi ferai-je plus : je veux que de moi-même</l>
+	<l id="649">Vous teniez cet objet qui vous fait soupirer ;</l>
+	<l id="650">Et Spitridate, à moins que de m'en assurer,</l>
+	<l id="651">N'obtiendra jamais ce qu'il aime.</l>
+	<l id="652">Je veux dès aujourd'hui savoir d'Agésilas</l>
+	<l id="653">S'il pourra consentir à ce double hyménée,</l>
+	<l id="654">Dont ma parole était donnée.</l>
+	<l id="655">Sa haine apparemment ne m'en avouera pas :</l>
+	<l id="656">Si pourtant par bonheur il m'en laisse le maître,</l>
+	<l id="657">J'en userai, Seigneur, comme je le promets ;</l>
+	<l id="658">Sinon, vous lui ferez connaître</l>
+	<l id="659">Vous-même quels sont vos souhaits.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="660">Ah ! Que Mandane et moi n'avons-nous mille vies,</l>
+	<l id="661">Seigneur, pour vous les immoler !</l>
+	<l id="662">Car je ne saurais plus vous le dissimuler,</l>
+	<l id="663">Nos âmes en seront également ravies.</l>
+	<l id="664">Souffrez-lui donc sa part en ces ravissements ;</l>
+	<l id="665">Et pardonnez, de grâce, à mon impatience...</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="666">Allez : on m'a vu jeune, et par expérience</l>
+	<l id="667">Je sais ce qui se passe au coeur des vrais amants.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Lysander, Cléon.</head>
+<sp who="CLEON"><speaker>CLÉON</speaker>
+	<l id="668">Seigneur, n'êtes-vous point d'une humeur bien facile</l>
+	<l id="669">D'applaudir à Cotys sur son manque de foi ?</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="670">Je prends pour l'attacher à moi</l>
+	<l id="671">Ce qui s'offre de plus utile.</l>
+	<l id="672">D'un emportement indiscret</l>
+	<l id="673">Je ne voyais rien à prétendre :</l>
+	<l id="674">Vouloir par force en faire un gendre,</l>
+	<l id="675">Ce n'est qu'en vouloir faire un ennemi secret.</l>
+	<l id="676">Je veux me l'acquérir : je veux, s'il m'est possible,</l>
+	<l id="677">À force d'amitiés si bien le ménager,</l>
+	<l id="678">Que quand je voudrai me venger,</l>
+	<l id="679">J'en tire un secours infaillible.</l>
+	<l id="680">Ainsi je flatte ses désirs,</l>
+	<l id="681">J'applaudis, je défère à ses nouveaux soupirs,</l>
+	<l id="682">Je me fais l'auteur de sa joie,</l>
+	<l id="683">Je sers sa passion, et sous cette couleur</l>
+	<l id="684">Je m'ouvre dans son âme une infaillible voie</l>
+	<l id="685">À m'en faire à mon tour servir avec chaleur.</l>
+</sp>
+<sp who="CLEON"><speaker>CLÉON</speaker>
+	<l id="686">Oui, mais Agésilas, Seigneur, aime Mandane :</l>
+	<l id="687">Du moins toute sa cour ose le deviner ;</l>
+	<l id="688">Et promettre à Cotys cette illustre Persane,</l>
+	<l id="689">C'est lui promettre tout pour ne lui rien donner.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="690">Qu'à ses voeux mon tyran l'accorde ou la refuse,</l>
+	<l id="691">De la manière dont j'en use,</l>
+	<l id="692">Il ne peut m'ôter son appui ;</l>
+	<l id="693">Et de quelque façon que la chose se passe,</l>
+	<l id="694">Ou je fais la première grâce,</l>
+	<l id="695">Ou j'aigris puissamment ce rival contre lui.</l>
+	<l id="696">J'ai même à souhaiter que son feu se déclare.</l>
+	<l id="697">Comme de notre Sparte il choquera les lois,</l>
+	<l id="698">C'est une occasion que lui-même il prépare,</l>
+	<l id="699">Et qui peut la résoudre à mieux choisir ses rois.</l>
+	<l id="700">Nous avons trop longtemps asservi sa couronne</l>
+	<l id="701">À la vaine splendeur du sang ;</l>
+	<l id="702">Il est juste à son tour que la vertu la donne,</l>
+	<l id="703">Et que le seul mérite ait droit à ce haut rang.</l>
+	<l id="704">Ma ligue est déjà forte, et ta harangue est prête</l>
+	<l id="705">À faire éclater la tempête,</l>
+	<l id="706">Sitôt qu'il aura mis ma patience à bout.</l>
+	<l id="707">Si pourtant je voyais sa haine enfin bornée</l>
+	<l id="708">Ne mettre aucun obstacle à ce double hyménée,</l>
+	<l id="709">Je crois que je pourrais encore oublier tout.</l>
+	<l id="710">En perdant cet ingrat, je détruis mon ouvrage ;</l>
+	<l id="711">Je vois dans sa grandeur le prix de mon courage,</l>
+	<l id="712">Le fruit de mes travaux, l'effet de mon crédit.</l>
+	<l id="713">Un reste d'amitié tient mon âme en balance :</l>
+	<l id="714">Quand je veux le haïr je me fais violence,</l>
+	<l id="715">Et me force à regret à ce que je t'ai dit.</l>
+	<l id="716">Il faut, il faut enfin qu'avec lui je m'explique,</l>
+	<l id="717">Que j'en sache qui peut causer</l>
+	<l id="718">Cette haine si lâche, et qu'il rend si publique,</l>
+	<l id="719">Et fasse un digne effort à le désabuser.</l>
+</sp>
+<sp who="CLEON"><speaker>CLÉON</speaker>
+	<l id="720">Il n'appartient qu'à vous de former ces pensées ;</l>
+	<l id="721">Mais vous ne songez point avec quels sentiments</l>
+	<l id="722">Vos deux filles intéressées</l>
+	<l id="723">Apprendront de tels changements.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="724">Aglatide est d'humeur à rire de sa perte :</l>
+	<l id="725">Son esprit enjoué ne s'ébranle de rien.</l>
+	<l id="726">Pour l'autre, elle a, de vrai, l'âme un peu moins ouverte,</l>
+	<l id="727">Mais elle n'eut jamais de vouloir que le mien.</l>
+	<l id="728">Ainsi je me tiens sûr de leur obéissance.</l>
+</sp>
+<sp who="CLEON"><speaker>CLÉON</speaker>
+	<l id="729">Quand cette obéissance a fait un digne choix,</l>
+	<l id="730">Le coeur, tombé par là sous une autre puissance,</l>
+	<l id="731">N'obéit pas toujours une seconde fois.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="732">Les voici : laisse-nous, afin qu'avec franchise</l>
+	<l id="733">Leurs âmes s'en ouvrent à moi.</l>
+</sp></div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Lysander, Elpinice, Aglatide.</head>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="734">J'apprends avec quelque surprise,</l>
+	<l id="735">Mes filles, qu'on vous manque à toutes deux de foi :</l>
+	<l id="736">Cotys aime en secret une autre qu'Elpinice,</l>
+	<l id="737">Spitridate n'en fait pas moins.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="738">Si l'on nous fait quelque injustice,</l>
+	<l id="739">Seigneur, notre devoir s'en remet à vos soins.</l>
+	<l id="740" part="i">Je ne sais qu'obéir.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="740" part="f">J'en sais donc davantage :</l>
+	<l id="741">Je sais que Spitridate adore d'autres yeux ;</l>
+	<l id="742">Je sais que c'est ma soeur à qui va cet hommage,</l>
+	<l id="743">Et quelque chose encor qu'elle vous dirait mieux.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="744" part="i">Ma soeur, qu'aurais-je à dire ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="744" part="f">À quoi bon ce mystère ?</l>
+	<l id="745">Dites ce qu'à ce nom le coeur vous dit tout bas,</l>
+	<l id="746">Ou je dirai tout haut qu'il ne vous déplaît pas.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="747">Moi, je pourrais l'aimer, et sans l'ordre d'un père !</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="748">Vous ne savez que c'est d'aimer ou de haïr,</l>
+	<l id="749">Mais vous seriez pour lui fort aise d'obéir.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="750" part="i">Qu'il faut souffrir de vous, ma soeur !</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="750" part="f">Le grand supplice</l>
+	<l id="751">De voir qu'en dépit d'elle on lui rend du service !</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="752">Rendez-lui la pareille. Aime-t-elle Cotys ?</l>
+	<l id="753">Et s'il fallait changer entre vous de partis...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="754">Je n'ai pas besoin d'interprète,</l>
+	<l id="755">Et vous en dirai plus, Seigneur, qu'elle n'en sait.</l>
+	<l id="756">Cotys pourrait me plaire, et plairait en effet,</l>
+	<l id="757">Si pour toucher son coeur j'étais assez bien faite ;</l>
+	<l id="758">Mais je suis fort trompée, ou cet illustre coeur</l>
+	<l id="759">N'est pas plus à moi qu'à ma soeur.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="760">Peut-être ce malheur d'assez près te menace.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="761">J'en connais plus de vingt qui mourraient en ma place,</l>
+	<l id="762">Ou qui sauraient du moins hautement quereller</l>
+	<l id="763">L'injustice de la fortune ;</l>
+	<l id="764">Mais pour moi, qui n'ai pas une âme si commune,</l>
+	<l id="765">Je sais l'art de m'en consoler.</l>
+	<l id="766">Il est d'autres rois dans l'Asie</l>
+	<l id="767">Qui seront trop heureux de prendre votre appui ;</l>
+	<l id="768">Et déjà, je ne sais par quelle fantaisie,</l>
+	<l id="769">J'en crois voir à mes pieds de plus puissants que lui.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="770">Donc à moins que d'un roi tu ne veux plus te rendre ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="771">Je crois pour Spitridate avoir déjà fait voir</l>
+	<l id="772">Que ma soeur n'a rien à m'apprendre</l>
+	<l id="773">Sur le chapitre du devoir.</l>
+	<l id="774">Elle sait obéir, et je le sais comme elle :</l>
+	<l id="775">C'est l'ordre ; et je lui garde un coeur assez fidèle</l>
+	<l id="776">Pour en subir toutes les lois ;</l>
+	<l id="777">Mais pour régler ma destinée,</l>
+	<l id="778">Si vous vous abaissiez jusqu'à prendre ma voix,</l>
+	<l id="779">Vous arrêteriez votre choix</l>
+	<l id="780">Sur une tête couronnée,</l>
+	<l id="781">Et ne m'offririez que des rois.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="782">C'est mettre un peu haut ta conquête.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="783">La couronne, Seigneur, orne bien une tête.</l>
+	<l id="784">Je me la figurais sur celle de ma soeur,</l>
+	<l id="785">Lorsque Cotys devait l'y mettre ;</l>
+	<l id="786">Et quand j'en contemplais la gloire et la douceur,</l>
+	<l id="787">Que je ne pouvais me promettre,</l>
+	<l id="788">Un peu de jalousie et de confusion</l>
+	<l id="789">Mutinait mes désirs et me soulevait l'âme ;</l>
+	<l id="790">Et comme en cette occasion</l>
+	<l id="791">Mon devoir pour agir n'attendait point ma flamme...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="792">La gloire d'obéir à votre grand regret</l>
+	<l id="793">Vous faisait pester en secret :</l>
+	<l id="794">C'est l'ordre ; et du devoir la scrupuleuse idée...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="795">Que dites-vous, ma soeur ? Qu'osez-vous hasarder,</l>
+	<l id="796" part="i">Vous qui tantôt... ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="796" part="f">Ma soeur, laissez-moi vous aider,</l>
+	<l id="797">Ainsi que vous m'avez aidée.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="798">Pour bien m'aider à dire ici mes sentiments,</l>
+	<l id="799">Vous vous prenez trop mal aux vôtres ;</l>
+	<l id="800">Et si je suis jamais réduite aux truchements,</l>
+	<l id="801">Il m'en faudra bien chercher d'autres.</l>
+	<l id="802">Seigneur, quoi qu'il en soit, voilà quelle je suis.</l>
+	<l id="803">J'acceptais Spitridate avec quelques ennuis ;</l>
+	<l id="804">De ce petit chagrin le ciel m'a dégagée,</l>
+	<l id="805">Sans que mon âme soit changée.</l>
+	<l id="806">Mon devoir règne encor sur mon ambition :</l>
+	<l id="807">Quoi que vous m'ordonniez, j'obéirai sans peine ;</l>
+	<l id="808">Mais de mon inclination,</l>
+	<l id="809">Je mourrai fille, ou vivrai reine.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="810">Achevez donc, ma soeur : dites qu'Agésilas...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="811">Ah ! Seigneur, ne l'écoutez pas :</l>
+	<l id="812">Ce qu'elle vous veut dire est une bagatelle ;</l>
+	<l id="813">Et même, s'il le faut, je la dirai mieux qu'elle.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="814" part="i">Dis donc. Agésilas...</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="814" part="f">M'aimait jadis un peu.</l>
+	<l id="815">Du moins lui-même à Sparte il m'en fit confidence ;</l>
+	<l id="816">Et s'il me disait vrai, sa noble impatience</l>
+	<l id="817">De vous en demander l'aveu</l>
+	<l id="818">N'attendait qu'après l'hyménée</l>
+	<l id="819">De cette aimable et chère aînée.</l>
+	<l id="820">Mais s'il attendait là que mon tour arrivé</l>
+	<l id="821">Autorisât à ma conquête</l>
+	<l id="822">La flamme qu'en réserve il tenait toute prête,</l>
+	<l id="823">Son amour est encore ici plus réservé ;</l>
+	<l id="824">Et soit que dans Éphèse un autre objet me passe,</l>
+	<l id="825">Soit que par complaisance il cède à son rival,</l>
+	<l id="826">Il me fait à présent la grâce</l>
+	<l id="827">De ne m'en dire bien ni mal.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="828">D'un pareil changement ne cherche point la cause :</l>
+	<l id="829">Sa haine pour ton père à cet amour s'oppose ;</l>
+	<l id="830">Mais n'importe, il est bon que j'en sois averti.</l>
+	<l id="831">J'agirai d'autre sorte avec cette lumière ;</l>
+	<l id="832">Et suivant qu'aujourd'hui nous l'aurons plus entière,</l>
+	<l id="833">Nous verrons à prendre parti.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Elpinice, Aglatide.</head>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="834">Ma soeur, je vous admire, et ne saurais comprendre</l>
+	<l id="835">Cet inépuisable enjouement,</l>
+	<l id="836">Qui d'un chagrin trop juste a de quoi vous défendre,</l>
+	<l id="837">Quand vous êtes si près de vous voir sans amant.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="838">Il est aisé pourtant d'en deviner les causes.</l>
+	<l id="839">Je sais comme il faut vivre, et m'en trouve fort bien.</l>
+	<l id="840">La joie est bonne à mille choses,</l>
+	<l id="841">Mais le chagrin n'est bon à rien.</l>
+	<l id="842">Ne perds-je pas assez, sans doubler l'infortune,</l>
+	<l id="843">Et perdre encor le bien d'avoir l'esprit égal ?</l>
+	<l id="844">Perte sur perte est importune,</l>
+	<l id="845">Et je m'aime un peu trop pour me traiter si mal.</l>
+	<l id="846">Soupirer quand le sort nous rend une injustice,</l>
+	<l id="847">C'est lui prêter une aide à nous faire un supplice.</l>
+	<l id="848">Pour moi, qui ne lui puis souffrir tant de pouvoir,</l>
+	<l id="849">Le bien que je me veux met sa haine à pis faire.</l>
+	<l id="850">Mais allons rejoindre mon père :</l>
+	<l id="851">J'ai quelque chose encore à lui faire savoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agésilas, Lysander, Xénoclès.</head>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="852">Je ne suis point surpris qu'à ces deux hyménées</l>
+	<l id="853">Vous refusiez, Seigneur, votre consentement :</l>
+	<l id="854">J'aurais eu tort d'attendre un meilleur traitement</l>
+	<l id="855">Pour le sang odieux dont mes filles sont nées.</l>
+	<l id="856">Il est le sang d'Hercule en elles comme en vous,</l>
+	<l id="857">Et méritait par là quelque destin plus doux ;</l>
+	<l id="858">Mais s'il vous peut donner un titre légitime,</l>
+	<l id="859">Pour être leur maître et leur roi,</l>
+	<l id="860">C'est pour l'une et pour l'autre une espèce de crime</l>
+	<l id="861">Que de l'avoir reçu de moi.</l>
+	<l id="862">J'avais cru toutefois que l'exil volontaire</l>
+	<l id="863">Où l'amour paternel près d'elles m'eût réduit,</l>
+	<l id="864">Moi qui de mes travaux ne vois plus autre fruit</l>
+	<l id="865">Que le malheur de vous déplaire,</l>
+	<l id="866">Comme il délivrerait vos yeux</l>
+	<l id="867">D'une insupportable présence,</l>
+	<l id="868">À mes jours presque usés obtiendrait la licence</l>
+	<l id="869">D'aller finir sous d'autres cieux.</l>
+	<l id="870">C'était là mon dessein ; mais cette même envie,</l>
+	<l id="871">Qui me fait près de vous un si malheureux sort,</l>
+	<l id="872">Ne saurait endurer ni l'éclat de ma vie,</l>
+	<l id="873">Ni l'obscurité de ma mort.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="874">Ce n'est pas d'aujourd'hui que l'envie et la haine</l>
+	<l id="875">Ont persécuté les héros.</l>
+	<l id="876">Hercule en sert d'exemple, et l'histoire en est pleine,</l>
+	<l id="877">Nous ne pouvons souffrir qu'ils meurent en repos.</l>
+	<l id="878">Cependant cet exil, ces retraites paisibles,</l>
+	<l id="879">Cet unique souhait d'y terminer leurs jours,</l>
+	<l id="880">Sont des mots bien choisis à remplir leurs discours :</l>
+	<l id="881">Ils ont toujours leur grâce, ils sont toujours plausibles ;</l>
+	<l id="882">Mais ils ne sont pas vrais toujours ;</l>
+	<l id="883">Et souvent des périls, ou cachés ou visibles,</l>
+	<l id="884">Forcent notre prudence à nous mieux assurer</l>
+	<l id="885">Qu'ils ne veulent se figurer.</l>
+	<l id="886">Je ne m'étonne point qu'avec tant de lumières</l>
+	<l id="887">Vous ayez prévu mes refus ;</l>
+	<l id="888">Mais je m'étonne fort que les ayant prévus,</l>
+	<l id="889">Vous n'en ayez pu voir les raisons bien entières.</l>
+	<l id="890">Vous êtes un grand homme, et de plus mécontent :</l>
+	<l id="891">J'avouerai plus encor, vous avez lieu de l'être.</l>
+	<l id="892">Ainsi de ce repos où votre ennui prétend</l>
+	<l id="893">Je dois prévoir en roi quel désordre peut naître,</l>
+	<l id="894">Et regarde en quels lieux il vous plaît de porter</l>
+	<l id="895">Des chagrins qu'en leur temps on peut voir éclater.</l>
+	<l id="896">Ceux que prend pour exil ou choisit pour asile</l>
+	<l id="897">Ce dessein d'une mort tranquille,</l>
+	<l id="898">Des Perses et des Grecs séparent les états.</l>
+	<l id="899">L'assiette en est heureuse, et l'accès difficile ;</l>
+	<l id="900">Leurs maîtres ont du coeur, leurs peuples ont des bras ;</l>
+	<l id="901">Ils viennent de nous joindre avec une puissance</l>
+	<l id="902">À beaucoup espérer, à craindre beaucoup d'eux ;</l>
+	<l id="903">Et c'est mettre en leurs mains une étrange balance,</l>
+	<l id="904">Que de mettre à leur tête un guerrier si fameux.</l>
+	<l id="905">C'est vous qui les donnez l'un et l'autre à la Grèce :</l>
+	<l id="906">L'un fut ami du Perse, et l'autre son sujet.</l>
+	<l id="907">Le service est bien grand, mais aussi je confesse</l>
+	<l id="908">Qu'on peut ne pas bien voir tout le fond du projet.</l>
+	<l id="909">Votre intérêt s'y mêle en les prenant pour gendres ;</l>
+	<l id="910">Et si par des liens et si forts et si tendres</l>
+	<l id="911">Vous pouvez aujourd'hui les attacher à vous,</l>
+	<l id="912">Vous vous les donnez plus qu'à nous.</l>
+	<l id="913">Si malgré le secours, si malgré les services</l>
+	<l id="914">Qu'un ami doit à l'autre, un sujet à son roi,</l>
+	<l id="915">Vous les avez tous deux arrachés à leur foi,</l>
+	<l id="916">Sans aucun droit sur eux, sans aucuns bons offices,</l>
+	<l id="917">Avec quelle facilité</l>
+	<l id="918">N'immoleront-ils point une amitié nouvelle</l>
+	<l id="919">À votre courage irrité,</l>
+	<l id="920">Quand vous ferez agir toute l'autorité</l>
+	<l id="921">De l'amour conjugale et de la paternelle,</l>
+	<l id="922">Et que l'occasion aura d'heureux moments</l>
+	<l id="923">Qui flattent vos ressentiments ?</l>
+	<l id="924">Vous ne nous laissez aucun gage :</l>
+	<l id="925">Votre sang tout entier passe avec vous chez eux.</l>
+	<l id="926">Voyez donc ce projet comme je l'envisage,</l>
+	<l id="927">Et dites si pour nous il n'a rien de douteux.</l>
+	<l id="928">Vous avez jusqu'ici fait paraître un vrai zèle,</l>
+	<l id="929">Un coeur si généreux, une âme si fidèle,</l>
+	<l id="930">Que par toute la Grèce on vous loue à l'envi ;</l>
+	<l id="931">Mais le temps quelquefois inspire une autre envie.</l>
+	<l id="932">Comme vous, Thémistocle avait fort bien servi,</l>
+	<l id="933">Et dans la cour de Perse il a fini sa vie.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="934">Si c'est avec raison que je suis mécontent,</l>
+	<l id="935">Si vous-même avouez que j'ai lieu de me plaindre,</l>
+	<l id="936">Et si jusqu'à ce point on me croit important</l>
+	<l id="937">Que mes ressentiments puissent vous être à craindre,</l>
+	<l id="938">Oserais-je vous demander</l>
+	<l id="939">Ce que vous a fait Lysander</l>
+	<l id="940">Pour leur donner ici chaque jour de quoi naître,</l>
+	<l id="941">Seigneur ? Et s'il est vrai qu'un homme tel que moi,</l>
+	<l id="942">Quand il est mécontent, peut desservir son roi,</l>
+	<l id="943">Pourquoi me forcez-vous à l'être ?</l>
+	<l id="944">Quelque avis que je donne, il n'est point écouté ;</l>
+	<l id="945">Quelque emploi que j'embrasse, il m'est soudain ôté :</l>
+	<l id="946">Me choisir pour appui, c'est courir à sa perte.</l>
+	<l id="947">Vous changez en tous lieux les ordres que j'ai mis ;</l>
+	<l id="948">Et comme s'il fallait agir à guerre ouverte,</l>
+	<l id="949">Vous détruisez tous mes amis,</l>
+	<l id="950">Ces amis dont pour vous je gagnai les suffrages</l>
+	<l id="951">Quand il fallut aux Grecs élire un général,</l>
+	<l id="952">Eux qui vous ont soumis les plus nobles courages,</l>
+	<l id="953">Et fait ce haut pouvoir qui leur est si fatal :</l>
+	<l id="954">Leur seul amour pour moi les livre à leur ruine ;</l>
+	<l id="955">Il leur coûte l'honneur, l'autorité, le bien ;</l>
+	<l id="956">Cependant plus j'y songe, et plus je m'examine,</l>
+	<l id="957">Moins je trouve, Seigneur, à me reprocher rien.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="958">Dites tout : vous avez la mémoire trop bonne</l>
+	<l id="959">Pour avoir oublié que vous me fîtes roi,</l>
+	<l id="960">Lorsqu'on balança ma couronne</l>
+	<l id="961">Entre Léotychide et moi.</l>
+	<l id="962">Peut-être n'osez-vous me vanter un service</l>
+	<l id="963">Qui ne me rendit que justice,</l>
+	<l id="964">Puisque nos lois voulaient ce qu'il sut maintenir ;</l>
+	<l id="965">Mais moi qui l'ai reçu, je veux m'en souvenir.</l>
+	<l id="966">Vous m'avez donc fait roi, vous m'avez de la Grèce</l>
+	<l id="967">Contre celui de Perse établi général ;</l>
+	<l id="968">Et quand je sens dans l'âme une ardeur qui me presse</l>
+	<l id="969">De ne m'en revancher pas mal,</l>
+	<l id="970">À peine sommes-nous arrivés dans Éphèse,</l>
+	<l id="971">Où de nos alliés j'ai mis le rendez-vous,</l>
+	<l id="972">Que sans considérer si j'en serai jaloux,</l>
+	<l id="973">Ou s'il se peut que je m'en taise,</l>
+	<l id="974">Vous vous saisissez par vos mains</l>
+	<l id="975">De plus que votre récompense ;</l>
+	<l id="976">Et tirant toute à vous la suprême puissance,</l>
+	<l id="977">Vous me laissez des titres vains.</l>
+	<l id="978">On s'empresse à vous voir, on s'efforce à vous plaire ;</l>
+	<l id="979">On croit lire en vos yeux ce qu'il faut qu'on espère ;</l>
+	<l id="980">On pense avoir tout fait quand on vous a parlé.</l>
+	<l id="981">Mon palais près du vôtre est un lieu désolé ;</l>
+	<l id="982">Et le généralat comme le diadème</l>
+	<l id="983">M'érige sous votre ordre en fantôme éclatant,</l>
+	<l id="984">En colosse d'état qui de vous seul attend</l>
+	<l id="985">L'âme qu'il n'a pas de lui-même,</l>
+	<l id="986">Et que vous seul faites aller</l>
+	<l id="987">Où pour vos intérêts il le faut étaler.</l>
+	<l id="988">Général en idée, et monarque en peinture,</l>
+	<l id="989">De ces illustres noms pourrais-je faire cas</l>
+	<l id="990">S'il les fallait porter moins comme Agésilas</l>
+	<l id="991">Que comme votre créature,</l>
+	<l id="992">Et montrer avec pompe au reste des humains</l>
+	<l id="993">En ma propre grandeur l'ouvrage de vos mains ?</l>
+	<l id="994">Si vous m'avez fait roi, Lysander, je veux l'être.</l>
+	<l id="995">Soyez-moi bon sujet, je vous serai bon maître ;</l>
+	<l id="996">Mais ne prétendez plus partager avec moi</l>
+	<l id="997">Ni la puissance ni l'emploi.</l>
+	<l id="998">Si vous croyez qu'un sceptre accable qui le porte,</l>
+	<l id="999">À moins qu'il prenne une aide à soutenir son poids,</l>
+	<l id="1000">Laissez discerner à mon choix</l>
+	<l id="1001">Quelle main à m'aider pourrait être assez forte.</l>
+	<l id="1002">Vous aurez bonne part à des emplois si doux,</l>
+	<l id="1003">Quand vous pourrez m'en laisser faire ;</l>
+	<l id="1004">Mais soyez sûr aussi d'un succès tout contraire,</l>
+	<l id="1005">Tant que vous ne voudrez les tenir que de vous.</l>
+	<l id="1006">Je passe à vos amis qu'il m'a fallu détruire.</l>
+	<l id="1007">Si dans votre vrai rang je voulais vous réduire,</l>
+	<l id="1008">Et d'un pouvoir surpris saper les fondements,</l>
+	<l id="1009">Ils étaient tout à vous ; et par reconnaissance</l>
+	<l id="1010">D'en avoir reçu leur puissance,</l>
+	<l id="1011">Ils ne considéraient que vos commandements.</l>
+	<l id="1012">Vous seul les aviez faits souverains dans leurs villes,</l>
+	<l id="1013">Et j'y verrais encor mes ordres inutiles,</l>
+	<l id="1014">À moins que d'avoir mis leur tyrannie à bas,</l>
+	<l id="1015">Et changé comme vous la face des états.</l>
+	<l id="1016">Chez tous nos Grecs asiatiques</l>
+	<l id="1017">Votre pouvoir naissant trouva des républiques,</l>
+	<l id="1018">Que sous votre cabale il vous plut asservir :</l>
+	<l id="1019">La vieille liberté, si chère à leurs ancêtres,</l>
+	<l id="1020">Y fut partout forcée à recevoir dix maîtres ;</l>
+	<l id="1021">Et dès qu'on murmurait de se la voir ravir,</l>
+	<l id="1022">On voyait par votre ordre immoler les plus braves</l>
+	<l id="1023">À l'empire de vos esclaves.</l>
+	<l id="1024">J'ai tiré de ce joug les peuples opprimés :</l>
+	<l id="1025">En leur premier état j'ai remis toutes choses ;</l>
+	<l id="1026">Et la gloire d'agir par de plus justes causes</l>
+	<l id="1027">A produit des effets plus doux et plus aimés.</l>
+	<l id="1028">J'ai fait, à votre exemple, ici des créatures,</l>
+	<l id="1029">Mais sans verser de sang, sans causer de murmures ;</l>
+	<l id="1030">Et comme vos tyrans prenaient de vous la loi,</l>
+	<l id="1031">Comme ils étaient à vous, les peuples sont à moi.</l>
+	<l id="1032">Voilà quelles raisons ôtent à vos services</l>
+	<l id="1033">Ce qu'ils vous semblent mériter,</l>
+	<l id="1034">Et colorent ces injustices</l>
+	<l id="1035">Dont vous avez raison de vous mécontenter.</l>
+	<l id="1036">Si d'abord elles ont quelque chose d'étrange,</l>
+	<l id="1037">Repassez-les deux fois au fond de votre coeur ;</l>
+	<l id="1038">Changez, si vous pouvez, de conduite et d'humeur ;</l>
+	<l id="1039">Mais n'espérez pas que je change.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="1040">S'il ne m'est pas permis d'espérer rien de tel,</l>
+	<l id="1041">Du moins, grâces aux dieux, je ne vois dans vos plaintes</l>
+	<l id="1042">Que des raisons d'état et de jalouses craintes,</l>
+	<l id="1043">Qui me font malheureux, et non pas criminel.</l>
+	<l id="1044">Non, Seigneur, que je veuille être assez téméraire</l>
+	<l id="1045">Pour oser d'injustice accuser mes malheurs :</l>
+	<l id="1046">L'action la plus belle a diverses couleurs ;</l>
+	<l id="1047">Et lorsqu'un roi prononce, un sujet doit se taire.</l>
+	<l id="1048">Je voudrais seulement vous faire souvenir</l>
+	<l id="1049">Que j'ai près de trente ans commandé nos armées</l>
+	<l id="1050">Sans avoir amassé que ces nobles fumées</l>
+	<l id="1051">Qui gardent les noms de finir.</l>
+	<l id="1052">Sparte, pour qui j'allais de victoire en victoire,</l>
+	<l id="1053">M'a toujours vu pour fruit n'en vouloir que la gloire,</l>
+	<l id="1054">Et faire en son épargne entrer tous les trésors</l>
+	<l id="1055">Des peuples subjugués par mes heureux efforts.</l>
+	<l id="1056">Vous-même le savez, que quoi qu'on m'ait vu faire,</l>
+	<l id="1057">Mes filles n'ont pour dot que le nom de leur père ;</l>
+	<l id="1058">Tant il est vrai, Seigneur, qu'en un si long emploi</l>
+	<l id="1059">J'ai tout fait pour l'état, et n'ai rien fait pour moi.</l>
+	<l id="1060">Dans ce manque de bien Cotys et Spitridate,</l>
+	<l id="1061">L'un roi, l'autre en pouvoir égal peut-être aux rois,</l>
+	<l id="1062">M'ont assez estimé pour y borner leur choix ;</l>
+	<l id="1063">Et quand de les pourvoir un doux espoir me flatte,</l>
+	<l id="1064">Vous semblez m'envier un bien</l>
+	<l id="1065">Qui fait ma récompense, et ne vous coûte rien.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1066">Il nous serait honteux que des mains étrangères</l>
+	<l id="1067">Vous payassent pour nous de ce qui vous est dû.</l>
+	<l id="1068">Tôt ou tard le mérite a ses justes salaires,</l>
+	<l id="1069">Et son prix croît souvent, plus il est attendu.</l>
+	<l id="1070">D'ailleurs n'aurait-on pas quelque lieu de vous dire,</l>
+	<l id="1071">Si je vous permettais d'accepter ces partis,</l>
+	<l id="1072">Qu'amenant avec nous Spitridate et Cotys,</l>
+	<l id="1073">Vous auriez fait pour vous plus que pour notre empire ?</l>
+	<l id="1074">Que vos seuls intérêts vous auraient fait agir ?</l>
+	<l id="1075">Et pourriez-vous enfin l'entendre sans rougir ?</l>
+	<l id="1076">Vos filles sont d'un sang que Sparte aime et révère</l>
+	<l id="1077">Assez pour les payer des services d'un père.</l>
+	<l id="1078">Je veux bien en répondre, et moi-même au besoin</l>
+	<l id="1079">J'en ferai mon affaire, et prendrai tout le soin.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="1080">Je n'attendais, Seigneur, qu'un mot si favorable</l>
+	<l id="1081">Pour finir envers vous mes importunités ;</l>
+	<l id="1082">Et je ne craindrai plus qu'aucun malheur m'accable,</l>
+	<l id="1083">Puisque vous avez ces bontés.</l>
+	<l id="1084">Aglatide surtout aura l'âme ravie</l>
+	<l id="1085">De perdre un époux à ce prix ;</l>
+	<l id="1086">Et moi, pour me venger de vos plus durs mépris,</l>
+	<l id="1087">Je veux tout de nouveau vous consacrer ma vie.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Agésilas, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1088">D'un peu d'amour que j'eus Aglatide a parlé :</l>
+	<l id="1089">Son père qui l'a su dans son âme s'en flatte ;</l>
+	<l id="1090">Et sur ce vain espoir il part tout consolé</l>
+	<l id="1091">Du refus que j'en fais aux voeux de Spitridate :</l>
+	<l id="1092">Tu l'as vu, Xénoclès, tout d'un coup s'adoucir.</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1093">Oui ; mais enfin, Seigneur, il est temps de le dire,</l>
+	<l id="1094">Tout soumis qu'il paraît, apprenez qu'il conspire,</l>
+	<l id="1095">Et par où sa vengeance espère y réussir.</l>
+	<l id="1096">Ce confident choisi, Cléon d'Halicarnasse,</l>
+	<l id="1097">Dont l'éloquence a tant d'éclat,</l>
+	<l id="1098">Lui vend une harangue à renverser l'état,</l>
+	<l id="1099">Et le mettre bientôt lui-même en votre place.</l>
+	<l id="1100">En voici la copie, et je la viens d'avoir</l>
+	<l id="1101">D'un des siens sur qui l'or me donne tout pouvoir,</l>
+	<l id="1102">De l'esclave Damis, qui sert de secrétaire</l>
+	<l id="1103">À cet orateur mercenaire,</l>
+	<l id="1104">Et plus mercenaire que lui,</l>
+	<l id="1105">Pour être mieux payé vous les livre aujourd'hui.</l>
+	<l id="1106">On y soutient, Seigneur, que notre république</l>
+	<l id="1107">Va bientôt voir ses rois devenir ses tyrans,</l>
+	<l id="1108">À moins que d'en choisir de trois ans en trois ans,</l>
+	<l id="1109">Et non plus suivant l'ordre antique</l>
+	<l id="1110">Qui règle ce choix par le sang ;</l>
+	<l id="1111">Mais qu'indifféremment elle doit à ce rang</l>
+	<l id="1112">Élever le mérite et les rares services.</l>
+	<l id="1113">J'ignore quels sont les complices ;</l>
+	<l id="1114">Mais il pourra d'Éphèse écrire à ses amis ;</l>
+	<l id="1115">Et soudain le paquet entre vos mains remis</l>
+	<l id="1116">Vous instruira de toutes choses.</l>
+	<l id="1117">Cependant j'ai fait mon devoir.</l>
+	<l id="1118">Vous voyez le dessein, vous en savez les causes ;</l>
+	<l id="1119">Votre perte en dépend : c'est à vous d'y pourvoir.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1120">à te dire le vrai, l'affaire m'embarrasse ;</l>
+	<l id="1121">J'ai peine à démêler ce qu'il faut que je fasse,</l>
+	<l id="1122">Tant la confusion de mes raisonnements</l>
+	<l id="1123">Étonne mes ressentiments.</l>
+	<l id="1124">Lysander m'a servi : j'aurais une âme ingrate</l>
+	<l id="1125">Si je méconnaissais ce que je tiens de lui ;</l>
+	<l id="1126">Il a servi l'état, et si son crime éclate,</l>
+	<l id="1127">Il y trouvera de l'appui.</l>
+	<l id="1128">Je sens que ma reconnaissance</l>
+	<l id="1129">Ne cherche qu'un moyen de le mettre à couvert ;</l>
+	<l id="1130">Mais enfin il y va de toute ma puissance :</l>
+	<l id="1131">Si je ne le perds, il me perd.</l>
+	<l id="1132">Ce que veut l'intérêt, la prudence ne l'ose ;</l>
+	<l id="1133">Tu peux juger par là du désordre où je suis.</l>
+	<l id="1134">Je vois qu'il faut le perdre ; et plus je m'y dispose,</l>
+	<l id="1135">Plus je doute si je le puis.</l>
+	<l id="1136">Sparte est un état populaire,</l>
+	<l id="1137">Qui ne donne à ses rois qu'un pouvoir limité :</l>
+	<l id="1138">On peut y tout dire et tout faire</l>
+	<l id="1139">Sous ce grand nom de liberté.</l>
+	<l id="1140">Si je suis souverain en tête d'une armée,</l>
+	<l id="1141">Je n'ai que ma voix au sénat ;</l>
+	<l id="1142">Il faut y rendre compte ; et tant de renommée</l>
+	<l id="1143">Y peut avoir déjà quelque ligue formée</l>
+	<l id="1144">Pour autoriser l'attentat.</l>
+	<l id="1145">Ce prétexte flatteur de la cause publique,</l>
+	<l id="1146">Dont il le couvrira, si je le mets au jour,</l>
+	<l id="1147">Tournera bien des yeux vers cette politique</l>
+	<l id="1148">Qui met chacun en droit de régner à son tour.</l>
+	<l id="1149">Cet espoir y pourra toucher plus d'un courage ;</l>
+	<l id="1150">Et quand sur Lysander j'aurai fait choir l'orage,</l>
+	<l id="1151">Mille autres, comme lui jaloux ou mécontents,</l>
+	<l id="1152">Se promettront plus d'heur à mieux choisir leur temps.</l>
+	<l id="1153">Ainsi de toutes parts le péril m'environne :</l>
+	<l id="1154">Si je veux le punir, j'expose ma couronne ;</l>
+	<l id="1155">Et si je lui fais grâce, ou veux dissimuler,</l>
+	<l id="1156" part="i">Je dois craindre...</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1156" part="f">Cotys, Seigneur, vous veut parler.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1157">Voyons quelle est sa flamme, avant que de résoudre</l>
+	<l id="1158">S'il nous faudra lancer ou retenir la foudre.</l>
+</sp></div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Agésilas, Cotys, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1159">Si vous n'êtes, Seigneur, plus mon ami qu'amant,</l>
+	<l id="1160">Vous me voudrez du mal avec quelque justice ;</l>
+	<l id="1161">Mais vous m'êtes trop cher, pour souffrir aisément</l>
+	<l id="1162">Que vous vous attachiez au père d'Elpinice :</l>
+	<l id="1163">Non qu'entre un si grand homme et moi</l>
+	<l id="1164">Ce qu'on voit de froideur prépare aucune haine ;</l>
+	<l id="1165">Mais c'est assez pour voir cet hymen avec peine</l>
+	<l id="1166">Qu'un sujet déplaise à son roi.</l>
+	<l id="1167">D'ailleurs je n'ai pas cru votre âme fort éprise :</l>
+	<l id="1168">Sans l'avoir jamais vue, elle vous fut promise ;</l>
+	<l id="1169">Et la foi qui ne tient qu'à la raison d'état</l>
+	<l id="1170">Souvent n'est qu'un devoir qui gêne, tyrannise,</l>
+	<l id="1171">Et fait sur tout le coeur un secret attentat.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1172">Seigneur, la personne est aimable :</l>
+	<l id="1173">Je promis de l'aimer avant que de la voir,</l>
+	<l id="1174">Et sentis à sa vue un accord agréable</l>
+	<l id="1175">Entre mon coeur et mon devoir.</l>
+	<l id="1176">La froideur toutefois que vous montrez au père</l>
+	<l id="1177">M'en donne un peu pour elle, et me la rend moins chère :</l>
+	<l id="1178">Non que j'ose après vos refus</l>
+	<l id="1179">Vous assurer encor que je ne l'aime plus.</l>
+	<l id="1180">Comme avec ma parole il nous fallait la vôtre,</l>
+	<l id="1181">Vous dégagez ma foi, mon devoir, mon honneur ;</l>
+	<l id="1182">Mais si vous en voulez dégager tout mon coeur,</l>
+	<l id="1183">Il faut l'engager à quelque autre.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1184">Choisissez, choisissez, et s'il est quelque objet</l>
+	<l id="1185">À Sparte, ou dans toute la Grèce,</l>
+	<l id="1186">Qui puisse de ce coeur mériter la tendresse,</l>
+	<l id="1187">Tenez-vous sûr d'un prompt effet.</l>
+	<l id="1188">En est-il qui vous touche ? En est-il qui vous plaise ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1189">Il en est, oui, Seigneur, il en est dans Éphèse ;</l>
+	<l id="1190">Et pour faire en ce coeur naître un nouvel amour,</l>
+	<l id="1191">Il ne faut point aller plus loin que votre cour :</l>
+	<l id="1192">L'éclat et les vertus de l'illustre Mandane...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1193">Que dites-vous, Seigneur ? Et quel est ce désir ?</l>
+	<l id="1194">Quand par toute la Grèce on vous donne à choisir,</l>
+	<l id="1195">Vous choisissez une Persane !</l>
+	<l id="1196">Pensez-y bien, de grâce, et ne nous forcez pas,</l>
+	<l id="1197">Nous qui vous aimons, à connaître</l>
+	<l id="1198">Que pressé d'un amour, qui ne vient pas de naître,</l>
+	<l id="1199">Vous ne venez à moi que pour suivre ses pas.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1200">Mon amour en ces lieux ne cherchait qu'Elpinice ;</l>
+	<l id="1201">Mes yeux ont rencontré Mandane par hasard ;</l>
+	<l id="1202">Et quand ce même amour, de vos froideurs complice,</l>
+	<l id="1203">S'est voulu pour vous plaire attacher autre part,</l>
+	<l id="1204">Les siens ont attiré toute la déférence</l>
+	<l id="1205">Que j'ai cru devoir rendre à votre aversion ;</l>
+	<l id="1206">Et je l'ai regardée, après votre alliance,</l>
+	<l id="1207">Bien moins Persane de naissance</l>
+	<l id="1208">Que Grecque par adoption.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1209">Ce sont subtilités que l'amour vous suggère,</l>
+	<l id="1210">Dont nous voyons pour nous les succès incertains.</l>
+	<l id="1211">Ne pourriez-vous, Seigneur, d'une amitié si chère</l>
+	<l id="1212">Mettre le grand dépôt en de plus sûres mains ?</l>
+	<l id="1213">Pausanias et moi nous avons des parentes ;</l>
+	<l id="1214">Et jamais un vrai roi ne fait un digne choix</l>
+	<l id="1215">S'il ne s'allie au sang des rois.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1216">Quand on aime, on se fait des règles différentes.</l>
+	<l id="1217">Spitridate a du nom et de la qualité ;</l>
+	<l id="1218">Sans trône, il a d'un roi le pouvoir en partage ;</l>
+	<l id="1219">Votre Grèce en reçoit un pareil avantage ;</l>
+	<l id="1220">Et le sang n'y met pas tant d'inégalité,</l>
+	<l id="1221">Que l'amour où sa soeur m'engage</l>
+	<l id="1222">Ravale fort ma dignité.</l>
+	<l id="1223">Se peut-il qu'en l'aimant ma gloire se hasarde</l>
+	<l id="1224">Après l'exemple d'un grand roi,</l>
+	<l id="1225">Qui, tout grand roi qu'il est, l'estime et la regarde</l>
+	<l id="1226">Avec les mêmes yeux que moi ?</l>
+	<l id="1227">Si ce bruit n'est point faux, mon mal est sans remède ;</l>
+	<l id="1228">Car enfin c'est un roi dont il me faut l'appui.</l>
+	<l id="1229">Adieu, Seigneur : je la lui cède,</l>
+	<l id="1230">Mais je ne la cède qu'à lui.</l>
+</sp></div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Agésilas, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1231">D'où sait-il, Xénoclès, d'où sait-il que je l'aime ?</l>
+	<l id="1232">Je ne l'ai dit qu'à toi : m'aurais-tu découvert ?</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1233">Si j'ose vous parler, Seigneur, à coeur ouvert,</l>
+	<l id="1234">Il ne le sait que de vous-même.</l>
+	<l id="1235">L'éclat de ces faveurs dont vous enveloppez</l>
+	<l id="1236">De votre faux secret le chatouilleux mystère,</l>
+	<l id="1237">Dit si haut, malgré vous, ce que vous pensez taire,</l>
+	<l id="1238">Que vous êtes ici le seul que vous trompez.</l>
+	<l id="1239">De si brillants dehors font un grand jour dans l'âme ;</l>
+	<l id="1240">Et quelque illusion qui puisse vous flatter,</l>
+	<l id="1241">Plus ils déguisent votre flamme,</l>
+	<l id="1242">Plus au travers du voile ils la font éclater.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1243">Quoi ? La civilité, l'accueil, la déférence,</l>
+	<l id="1244">Ce que pour le beau sexe on a de complaisance,</l>
+	<l id="1245">Ce qu'on lui rend d'honneur, tout passe pour amour ?</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1246">Il est bien malaisé qu'aux yeux de votre cour</l>
+	<l id="1247">Il passe pour indifférence ;</l>
+	<l id="1248">Et c'est l'en avouer assez ouvertement</l>
+	<l id="1249">Que refuser Mandane aux voeux d'un autre amant.</l>
+	<l id="1250">Mais qu'importe après tout ? Si du plus grand courage</l>
+	<l id="1251">Le vrai mérite a droit d'attendre un plein hommage,</l>
+	<l id="1252">Serait-il honteux de l'aimer ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1253">Non, et même avec gloire on s'en laisse charmer ;</l>
+	<l id="1254">Mais un roi, que son trône à d'autres soins engage,</l>
+	<l id="1255">Doit n'aimer qu'autant qu'il lui plaît</l>
+	<l id="1256">Et que de sa grandeur y consent l'intérêt.</l>
+	<l id="1257">Vois donc si ma peine est légère :</l>
+	<l id="1258">Sparte ne permet point aux fils d'une étrangère</l>
+	<l id="1259">De porter son sceptre en leur main ;</l>
+	<l id="1260">Cependant à mes yeux Mandane a su trop plaire ;</l>
+	<l id="1261">Je veux cacher ma flamme, et je le veux en vain.</l>
+	<l id="1262">Empêcher son hymen, c'est lui faire injustice ;</l>
+	<l id="1263">L'épouser, c'est blesser nos lois ;</l>
+	<l id="1264">Et même il n'est pas sûr que j'emporte son choix.</l>
+	<l id="1265">La donner à Cotys, c'est me faire un supplice ;</l>
+	<l id="1266">M'opposer à ses voeux, c'est le joindre au parti</l>
+	<l id="1267">Que déjà contre moi Lysander a pu faire ;</l>
+	<l id="1268">Et s'il a le bonheur de ne lui pas déplaire,</l>
+	<l id="1269">J'en recevrai peut-être un honteux démenti.</l>
+	<l id="1270">Que ma confusion, que mon trouble est extrême !</l>
+	<l id="1271">Je me défends d'aimer, et j'aime ;</l>
+	<l id="1272">Et je sens tout mon coeur balancé nuit et jour</l>
+	<l id="1273">Entre l'orgueil du diadème</l>
+	<l id="1274">Et les doux espoirs de l'amour.</l>
+	<l id="1275">En qualité de roi, j'ai pour ma gloire à craindre ;</l>
+	<l id="1276">En qualité d'amant, je vois mon sort à plaindre :</l>
+	<l id="1277">Mon trône avec mes voeux ne souffre aucun accord,</l>
+	<l id="1278">Et ce que je me dois me reproche sans cesse</l>
+	<l id="1279">Que je ne suis pas assez fort</l>
+	<l id="1280">Pour triompher de ma faiblesse.</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1281">Toutefois il est temps ou de vous déclarer,</l>
+	<l id="1282">Ou de céder l'objet qui vous fait soupirer.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1283">Le plus sûr, Xénoclès, n'est pas le plus facile.</l>
+	<l id="1284">Cherche-moi Spitridate, et l'amène en ce lieu ;</l>
+	<l id="1285">Et nous verrons après s'il n'est point de milieu</l>
+	<l id="1286">Entre le charmant et l'utile.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Spitridate, Elpinice.</head>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1287">Agésilas me mande ; il est temps d'éclater.</l>
+	<l id="1288">Que me permettez-vous, Madame, de lui dire ?</l>
+	<l id="1289">M'en désavouerez-vous si j'ose me vanter</l>
+	<l id="1290">Que c'est pour vous que je soupire,</l>
+	<l id="1291">Que je crois mes soupirs assez bien écoutés</l>
+	<l id="1292">Pour vous fermer le coeur et l'oreille à tous autres,</l>
+	<l id="1293">Et que dans vos regards je vois quelques bontés</l>
+	<l id="1294">Qui semblent m'assurer des vôtres ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1295">Que servirait, Seigneur, de vous y hasarder ?</l>
+	<l id="1296">Suis-je moins que ma soeur fille de Lysander ?</l>
+	<l id="1297">Et la raison d'état qui rompt votre hyménée</l>
+	<l id="1298">Regarde-t-elle plus la jeune que l'aînée ?</l>
+	<l id="1299">S'il n'eût point à Cotys refusé votre soeur,</l>
+	<l id="1300">J'eusse osé présumer qu'il eût aimé la mienne ;</l>
+	<l id="1301">Et m'aurais dit moi-même, avec quelque douceur :</l>
+	<l id="1302">" Il se l'est réservée, et veut bien qu'on m'obtienne. "</l>
+	<l id="1303">Mais il aime Mandane ; et ce prince, jaloux</l>
+	<l id="1304">De ce que peut ici le grand nom de mon père,</l>
+	<l id="1305">N'a pour lui qu'une haine obstinée et sévère</l>
+	<l id="1306">Qui ne lui peut souffrir de gendres tels que vous.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1307">Puisqu'il aime ma soeur, cet amour est un gage</l>
+	<l id="1308">Qui me répond de son suffrage :</l>
+	<l id="1309">Ses désirs prendront loi de mes propres désirs ;</l>
+	<l id="1310">Et son feu pour les satisfaire</l>
+	<l id="1311">N'a pas moins besoin de me plaire,</l>
+	<l id="1312">Que j'en ai de lui voir approuver mes soupirs.</l>
+	<l id="1313">Madame, on est bien fort quand on parle soi-même,</l>
+	<l id="1314">Et qu'on peut dire au souverain :</l>
+	<l id="1315">" J'aime et je suis aimé, vous aimez comme j'aime ;</l>
+	<l id="1316">Achevez mon bonheur, j'ai le vôtre en ma main. "</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1317">Vous ne songez qu'à vous, et dans votre âme éprise</l>
+	<l id="1318">Vos voeux se tiennent sûrs d'un prompt et plein effet.</l>
+	<l id="1319">Mais que fera Cotys, à qui je suis promise ?</l>
+	<l id="1320">Me rendra-t-il ma foi s'il n'est point satisfait ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1321">La perte de ma soeur lui servira de guide</l>
+	<l id="1322">À tourner ses désirs du côté d'Aglatide.</l>
+	<l id="1323">D'ailleurs que pourra-t-il, si contre Agésilas</l>
+	<l id="1324">Ce grand homme ni moi nous ne le servons pas ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1325">Il a parole de mon père</l>
+	<l id="1326">Que vous n'obtiendrez rien à moins qu'il soit content ;</l>
+	<l id="1327">Et mon père n'est pas un esprit inconstant</l>
+	<l id="1328">Qui donne une parole incertaine et légère.</l>
+	<l id="1329">Je vous le dis encor, Seigneur, pensez-y bien :</l>
+	<l id="1330">Cotys aura Mandane, ou vous n'obtiendrez rien.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1331">Dites, dites un mot, et ma flamme enhardie...</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1332">Que voulez-vous que je vous dise ?</l>
+	<l id="1333">Je suis sujette et fille, et j'ai promis ma foi ;</l>
+	<l id="1334">Je dépends d'un amant, et d'un père, et d'un roi.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1335">N'importe, ce grand mot produirait des miracles.</l>
+	<l id="1336">Un amant avoué renverse tous obstacles :</l>
+	<l id="1337">Tout lui devient possible, il fléchit les parents,</l>
+	<l id="1338">Triomphe des rivaux, et brave les tyrans.</l>
+	<l id="1339" part="i">Dites donc, m'aimez-vous ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1339" part="f">Que ma soeur est heureuse.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1340">Quand mon amour pour vous la laisse sans amant.</l>
+	<l id="1341">Son destin est-il si charmant</l>
+	<l id="1342">Que vous en soyez envieuse ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1343">Elle est indifférente, et ne s'attache à rien.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1344" part="i">Et vous ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1344" part="f">Que n'ai-je un coeur qui soit comme le sien !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1345">Le vôtre est-il moins insensible ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1346">S'il ne tenait qu'à lui que tout vous fût possible,</l>
+	<l id="1347" part="i">Le devoir et l'amour...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1347" part="f">Ah ! Madame, achevez :</l>
+	<l id="1348">Le devoir et l'amour, que vous feraient-ils faire ?</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1349">Voyez le roi, voyez Cotys, voyez mon père :</l>
+	<l id="1350">Fléchissez, triomphez, bravez,</l>
+	<l id="1351">Seigneur, mais laissez-moi me taire.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1352">Venez, ma soeur, venez aider mes tristes feux</l>
+	<l id="1353">À combattre un injuste et rigoureux silence.</l>
+</sp>
+<sp who="ELPINICE"><speaker>ELPINICE</speaker>
+	<l id="1354">Hélas ! Il est si bien de leur intelligence,</l>
+	<l id="1355">Qu'il vous dit plus que je ne veux.</l>
+	<l id="1356">J'en dois rougir. Adieu : voyez avec Madame</l>
+	<l id="1357">Le moyen le plus propre à servir votre flamme.</l>
+	<l id="1358">Des trois dont je dépens elle peut tout sur deux :</l>
+	<l id="1359">L'un hautement l'adore, et l'autre au fond de l'âme ;</l>
+	<l id="1360">Et son destin lui-même, ainsi que notre sort,</l>
+	<l id="1361">Dépend de les mettre d'accord.</l>
+</sp></div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Spitridate, Mandane.</head>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1362">Il est temps de résoudre avec quel artifice</l>
+	<l id="1363">Vous pourrez en venir à bout,</l>
+	<l id="1364">Vous, ma soeur, qui tantôt me répondiez de tout,</l>
+	<l id="1365">Si j'avais le coeur d'Elpinice.</l>
+	<l id="1366">Il est à moi ce coeur, son silence le dit,</l>
+	<l id="1367">Son adieu le fait voir, sa fuite le proteste ;</l>
+	<l id="1368">Et si je n'obtiens pas le reste,</l>
+	<l id="1369">Vous manquez de parole, ou du moins de crédit.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1370">Si le don de ma main vous peut donner la sienne,</l>
+	<l id="1371">Je vous sacrifierai tout ce que j'ai promis ;</l>
+	<l id="1372">Mais vous, répondez-vous que ce don vous l'obtienne,</l>
+	<l id="1373">Et qu'il mette d'accord de si fiers ennemis ?</l>
+	<l id="1374">Le roi, qui vous refuse à Lysander pour gendre,</l>
+	<l id="1375">Y consentira-t-il si vous m'offrez à lui ?</l>
+	<l id="1376">Et s'il peut à ce prix le permettre aujourd'hui,</l>
+	<l id="1377">Lysander voudra-t-il se rendre ?</l>
+	<l id="1378">Lui qui ne vous remet votre première foi</l>
+	<l id="1379">Qu'en faveur de l'amour que Cotys fait paraître,</l>
+	<l id="1380">Ne vous fait-il pas cette loi</l>
+	<l id="1381">Que sans le rendre heureux vous ne le sauriez être ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1382">Cotys de cet espoir ose en vain se flatter :</l>
+	<l id="1383">L'amour d'Agésilas à son amour s'oppose.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1384">Et si vous ne pensez à le mieux écouter,</l>
+	<l id="1385">Lysander d'Elpinice en sa faveur dispose.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1386">Ne me cachez rien, vous l'aimez.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1387">Comme vous aimez Elpinice.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1388">Mais vous m'avez promis un entier sacrifice.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1389">Oui, s'il peut être utile aux voeux que vous formez.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1390" part="i">Que ne peut point un roi ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1390" part="f">Quels droits n'a point un père ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1391" part="i">Inexorable soeur !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1391" part="f">Impitoyable frère,</l>
+	<l id="1392">Qui voulez que j'éteigne un feu digne de moi,</l>
+	<l id="1393">Et ne sauriez vous faire une pareille loi !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1394" part="i">Hélas ! Considérez...</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1394" part="f">Considérez vous-même...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1395">Que j'aime, et que je suis aimé.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1396">Que je suis aimée, et que j'aime.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1397">N'égalez point au mien un feu mal allumé :</l>
+	<l id="1398">Le sexe vous apprend à régner sur vos âmes.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1399">Dites qu'il nous apprend à renfermer nos flammes ;</l>
+	<l id="1400">Dites que votre ardeur, à force d'éclater,</l>
+	<l id="1401">S'exhale, se dissipe, ou du moins s'exténue,</l>
+	<l id="1402">Quand la nôtre grossit sous cette retenue,</l>
+	<l id="1403">Dont le joug odieux ne sert qu'à l'irriter.</l>
+	<l id="1404">Je vous parle, Seigneur, avec une âme ouverte ;</l>
+	<l id="1405">Et si je vous voyais capable de raison,</l>
+	<l id="1406">Si quand l'amour domine, elle était de saison...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1407">Ah ! Si quelque lumière enfin vous est offerte,</l>
+	<l id="1408">Expliquez-vous, de grâce, et pour le commun bien,</l>
+	<l id="1409">Vous ni moi ne négligeons rien.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1410">Notre amour à tous deux ne rencontre qu'obstacles</l>
+	<l id="1411">Presque impossibles à forcer ;</l>
+	<l id="1412">Et si pour nous le ciel n'est prodigue en miracles,</l>
+	<l id="1413">Nous espérons en vain nous en débarrasser.</l>
+	<l id="1414">Tirons-nous une fois de cette servitude</l>
+	<l id="1415">Qui nous fait un destin si rude.</l>
+	<l id="1416">Bravons Agésilas, Cotys et Lysander :</l>
+	<l id="1417">Qu'ils s'accordent sans nous, s'ils peuvent s'accorder.</l>
+	<l id="1418">Dirai-je tout ? Cessons d'aimer et de prétendre,</l>
+	<l id="1419">Et nous cesserons d'en dépendre.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1420" part="i">N'aimer plus ! Ah ! Ma soeur !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1420" part="f">J'en soupire à mon tour ;</l>
+	<l id="1421">Mais un grand coeur doit être au-dessus de l'amour.</l>
+	<l id="1422">Quel qu'en soit le pouvoir, quelle qu'en soit l'atteinte,</l>
+	<l id="1423">Deux ou trois soupirs étouffés,</l>
+	<l id="1424">Un moment de murmure, une heure de contrainte,</l>
+	<l id="1425">Un orgueil noble et ferme, et vous en triomphez.</l>
+	<l id="1426">N'avons-nous secoué le joug de notre prince</l>
+	<l id="1427">Que pour choisir des fers dans une autre province ?</l>
+	<l id="1428">Ne cherchons-nous ici que d'illustres tyrans,</l>
+	<l id="1429">Dont les chaînes plus glorieuses</l>
+	<l id="1430">Soumettent nos destins aux obscurs différends</l>
+	<l id="1431">De leurs haines mystérieuses ?</l>
+	<l id="1432">Ne cherchons-nous ici que les occasions</l>
+	<l id="1433">De fournir de matière à leurs divisions,</l>
+	<l id="1434">Et de nous imposer un plus rude esclavage</l>
+	<l id="1435">Par la nécessité d'obtenir leur suffrage ?</l>
+	<l id="1436">Puisque nous y cherchons tous deux la liberté,</l>
+	<l id="1437">Tâchons de la goûter, Seigneur, en sûreté :</l>
+	<l id="1438">Réduisons nos souhaits à la cause publique,</l>
+	<l id="1439">N'aimons plus que par politique,</l>
+	<l id="1440">Et dans la conjoncture où le ciel nous a mis,</l>
+	<l id="1441">Faisons des protecteurs, sans faire d'ennemis.</l>
+	<l id="1442">À quel propos aimer, quand ce n'est que déplaire</l>
+	<l id="1443">À qui nous peut nuire ou servir ?</l>
+	<l id="1444">S'il nous en faut l'appui, pourquoi nous le ravir ?</l>
+	<l id="1445">Pourquoi nous attirer sa haine et sa colère ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1446">Oui, ma soeur, et j'en suis d'accord :</l>
+	<l id="1447">Agésilas, ici maître de notre sort,</l>
+	<l id="1448">Peut nous abandonner à la Perse irritée,</l>
+	<l id="1449">Et nous laisser rentrer, malgré tout notre effort,</l>
+	<l id="1450">Sous la captivité que nous avons quittée.</l>
+	<l id="1451">Cotys ni Lysander ne nous soutiendront pas,</l>
+	<l id="1452">S'il faut que sa colère à nous perdre s'applique.</l>
+	<l id="1453">Aimez, aimez-le donc, du moins par politique,</l>
+	<l id="1454">Ce redoutable Agésilas.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1455">Voulez-vous que je le prévienne,</l>
+	<l id="1456">Et qu'en dépit de la pudeur</l>
+	<l id="1457">D'un amour commandé l'obéissante ardeur</l>
+	<l id="1458">Fasse éclater ma flamme auparavant la sienne ?</l>
+	<l id="1459">On dit que je lui plais, qu'il soupire en secret,</l>
+	<l id="1460">Qu'il retient, qu'il combat ses désirs à regret ;</l>
+	<l id="1461">Et cette vanité qui nous est naturelle</l>
+	<l id="1462">Veut croire ainsi que vous qu'on en juge assez bien ;</l>
+	<l id="1463">Mais enfin c'est un feu sans aucune étincelle :</l>
+	<l id="1464">J'en crois ce qu'on en dit, et n'en sais encor rien.</l>
+	<l id="1465">S'il m'aime, un tel silence est la marque certaine</l>
+	<l id="1466">Qu'il craint Sparte et ses dures lois ;</l>
+	<l id="1467">Qu'il voit qu'en m'épousant, s'il peut m'y faire reine,</l>
+	<l id="1468">Il ne peut lui donner des rois ;</l>
+	<l id="1469" part="i">Que sa gloire...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1469" part="f">Ma soeur, l'amour vaincra sans doute :</l>
+	<l id="1470">Ce héros est à vous, quelques lois qu'il redoute ;</l>
+	<l id="1471">Et si par la prière il ne les peut fléchir,</l>
+	<l id="1472">Ses victoires auront de quoi l'en affranchir.</l>
+	<l id="1473">Ces lois, ces mêmes lois s'imposeront silence</l>
+	<l id="1474">À l'aspect de tant de vertus ;</l>
+	<l id="1475">Ou Sparte l'avouera d'un peu de violence,</l>
+	<l id="1476">Après tant d'ennemis à ses pieds abattus.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1477">C'est vous flatter beaucoup en faveur d'Elpinice,</l>
+	<l id="1478">Que ce prince après tout ne vous peut accorder</l>
+	<l id="1479">Sans une éclatante injustice,</l>
+	<l id="1480">À moins que vous ayez l'aveu de Lysander.</l>
+	<l id="1481">D'ailleurs en exiger un hymen qui le gêne,</l>
+	<l id="1482">Et lui faire des lois au milieu de sa cour,</l>
+	<l id="1483">N'est-ce point hautement lui demander sa haine,</l>
+	<l id="1484">Quand vous lui promettez l'objet de son amour ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1485">Si vous saviez, ma soeur, aimer autant que j'aime...</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1486">Si vous saviez, mon frère, aimer comme je fais,</l>
+	<l id="1487">Vous sauriez ce que c'est que s'immoler soi-même,</l>
+	<l id="1488">Et faire violence à de si doux souhaits.</l>
+	<l id="1489">Je vous en parle en vain. Allez, frère barbare,</l>
+	<l id="1490">Voir à quoi Lysander se résoudra pour vous ;</l>
+	<l id="1491">Et si d'Agésilas la flamme se déclare,</l>
+	<l id="1492">J'en mourrai, mais je m'y résous.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Spitridate, Mandane, Aglatide.</head>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1493">Vous me quittez, Seigneur ; mais vous croyez-vous quitte,</l>
+	<l id="1494">Et que ce soit assez que de me rendre à moi ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1495">Après tant de froideurs pour mon peu de mérite,</l>
+	<l id="1496">Est-ce vous mal servir que reprendre ma foi ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1497">Non ; mais le pouvez-vous, à moins que je la rende ?</l>
+	<l id="1498">Et si je vous la rends, savez-vous à quel prix ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1499">Je ne crois pas pour vous cette perte si grande,</l>
+	<l id="1500">Que vous en souhaitiez d'autre que vos mépris.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1501" part="i">Moi, des mépris pour vous !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1501" part="f">C'est ainsi que j'appelle</l>
+	<l id="1502">Un feu si bien promis, et si mal allumé.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1503">Si je ne vous aimais, je vous aurais aimé,</l>
+	<l id="1504">Mon devoir m'en était un garant trop fidèle.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1505">Il ne vous répondait que d'agir un peu tard,</l>
+	<l id="1506">Et laissait beaucoup au hasard.</l>
+	<l id="1507">Votre ordre cependant vers une autre me chasse,</l>
+	<l id="1508">Et vous avez quitté la place à votre soeur.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1509">Si je vous ai donné de quoi remplir la place,</l>
+	<l id="1510">Ne me devez-vous point de quoi remplir mon coeur ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1511">J'en suis au désespoir ; mais je n'ai point de frère</l>
+	<l id="1512">Que je puisse à mon tour vous prier d'accepter.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1513">Si vous n'en avez point par qui me satisfaire,</l>
+	<l id="1514">Vous avez une soeur qui vous peut acquitter :</l>
+	<l id="1515">Elle a trop d'un amant ; et si sa flamme heureuse</l>
+	<l id="1516">Me renvoyait celui dont elle ne veut plus,</l>
+	<l id="1517">Je ne suis point d'humeur fâcheuse,</l>
+	<l id="1518">Et m'accommoderais bientôt de ses refus.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1519">De tout mon coeur je l'en conjure :</l>
+	<l id="1520">Envoyez-lui Cotys, ou même Agésilas,</l>
+	<l id="1521">Ma soeur, et prenez soin d'apaiser ce murmure,</l>
+	<l id="1522">Qui cherche à m'imputer des sentiments ingrats.</l>
+	<l id="1523">Je vous laisse entre vous faire ce grand partage,</l>
+	<l id="1524">Et vais chez Lysander voir quel sera le mien.</l>
+	<l id="1525">Madame, vous voyez, je ne puis davantage ;</l>
+	<l id="1526">Et qui fait ce qu'il peut n'est plus garant de rien.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Aglatide, Mandane.</head>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1527">Vous pourrez-vous résoudre à payer pour ce frère,</l>
+	<l id="1528">Madame, et de deux rois daignant en choisir un,</l>
+	<l id="1529">Me donner en sa place, ou le plus importun,</l>
+	<l id="1530">Ou le moins digne de vous plaire ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1531" part="i">Hélas !</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1531" part="f">Je n'entends pas des mieux</l>
+	<l id="1532">Comme il faut qu'un hélas s'explique ;</l>
+	<l id="1533">Et lorsqu'on se retranche au langage des yeux,</l>
+	<l id="1534">Je suis muette à la réplique.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1535">Pourquoi mieux expliquer quel est mon déplaisir ?</l>
+	<l id="1536">Il ne se fait que trop entendre.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1537">Si j'avais comme vous de deux rois à choisir,</l>
+	<l id="1538">Mes déplaisirs auraient peu de chose à prétendre.</l>
+	<l id="1539">Parlez donc, et de bonne foi :</l>
+	<l id="1540">Acquittez par ce choix Spitridate envers moi.</l>
+	<l id="1541" part="i">Ils sont tous deux à vous.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1541" part="f">Je n'y suis pas moi-même.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1542" part="i">Qui des deux est l'aimé ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1542" part="f">Qu'importe lequel j'aime,</l>
+	<l id="1543">Si le plus digne amour, de quoi qu'il soit d'accord,</l>
+	<l id="1544">Ne peut décider de mon sort ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1545">Ainsi je dois perdre espérance</l>
+	<l id="1546">D'obtenir de vous aucun d'eux ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1547">Donnez-moi votre indifférence,</l>
+	<l id="1548">Et je vous les donne tous deux.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1549">C'en serait un peu trop : leur mérite est si rare,</l>
+	<l id="1550">Qu'il en faut être plus avare.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1551">Il est grand, mais bien moins que la félicité</l>
+	<l id="1552">De votre insensibilité.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1553">Ne me prenez point tant pour une âme insensible :</l>
+	<l id="1554">Je l'ai tendre, et qui souffre aisément de beaux feux ;</l>
+	<l id="1555">Mais je sais ne vouloir que ce qui m'est possible,</l>
+	<l id="1556">Quand je ne puis ce que je veux.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1557">Laissez donc faire au ciel, au temps, à la fortune :</l>
+	<l id="1558">Ne voulez que ce qu'ils voudront ;</l>
+	<l id="1559">Et sans prendre d'attache, ou d'idée importune,</l>
+	<l id="1560">Attendez en repos les coeurs qui se rendront.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1561">Il m'en pourrait coûter mes plus belles années</l>
+	<l id="1562">Avant qu'ainsi deux rois en devinssent le prix ;</l>
+	<l id="1563">Et j'aime mieux borner mes bonnes destinées</l>
+	<l id="1564">Au plus digne de vos mépris.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1565">Donnez-moi donc, Madame, un coeur comme le vôtre,</l>
+	<l id="1566">Et je vous les redonne une seconde fois ;</l>
+	<l id="1567">Ou si c'est trop de l'un et l'autre,</l>
+	<l id="1568">Laissez-m'en le rebut, et prenez-en le choix.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1569">Si vous leur ordonniez à tous deux de m'en croire,</l>
+	<l id="1570">Et que l'obéissance eût pour eux quelque appas,</l>
+	<l id="1571">Peut-être que mon choix satisferait ma gloire,</l>
+	<l id="1572">Et qu'enfin mon rebut ne vous déplairait pas.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1573">Qui peut vous assurer de cette obéissance ?</l>
+	<l id="1574">Les rois, même en amour, savent mal obéir ;</l>
+	<l id="1575">Et les plus enflammés s'efforcent de haïr</l>
+	<l id="1576">Sitôt qu'on prend sur eux un peu trop de puissance.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="1577">Je vois bien ce que c'est, vous voulez tout garder :</l>
+	<l id="1578">Il est honteux de rendre une de vos conquêtes,</l>
+	<l id="1579">Et quoi qu'au plus heureux le coeur veuille accorder,</l>
+	<l id="1580">L'oeil règne avec plaisir sur deux si grandes têtes ;</l>
+	<l id="1581">Mais craignez que je n'use aussi de tous mes droits.</l>
+	<l id="1582">Peut-être en ai-je encor de garder quelque empire</l>
+	<l id="1583">Sur l'un et l'autre de ces rois,</l>
+	<l id="1584">Bien qu'à l'envi pour vous l'un et l'autre soupire,</l>
+	<l id="1585">Et si j'en laisse faire à mon esprit jaloux,</l>
+	<l id="1586">Quoique la jalousie assez peu m'inquiète,</l>
+	<l id="1587">Je ne sais s'ils pourront l'un ni l'autre pour vous</l>
+	<l id="1588">Tout ce que votre coeur souhaite.</l>
+<stage>À Cotys.</stage>
+	<l id="1589">Seigneur, vous le savez, ma soeur a votre foi,</l>
+	<l id="1590">Et ne vous la rend que pour moi.</l>
+	<l id="1591">Usez-en comme bon vous semble ;</l>
+	<l id="1592">Mais sachez que je me promets</l>
+	<l id="1593">De ne vous la rendre jamais,</l>
+	<l id="1594">À moins d'un roi qui vous ressemble.</l>
+</sp></div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Cotys, Mandane.</head>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1595">L'étrange contre-temps que prend sa belle humeur !</l>
+	<l id="1596">Et la froide galanterie</l>
+	<l id="1597">D'affecter par bravade à tourner son malheur</l>
+	<l id="1598">En importune raillerie !</l>
+	<l id="1599">Son coeur l'en désavoue, et murmurant tout bas...</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1600">Que cette belle humeur soit véritable ou feinte,</l>
+	<l id="1601">Tout ce qu'elle en prétend ne m'alarmerait pas,</l>
+	<l id="1602">Si le pouvoir d'Agésilas</l>
+	<l id="1603">Ne me portait dans l'âme une plus juste crainte.</l>
+	<l id="1604" part="i">Pourrez-vous l'aimer ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1604" part="m">Non.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1604" part="f">Pourrez-vous l'épouser ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1605">Vous-même, dites-moi, puis-je m'en excuser ?</l>
+	<l id="1606">Et quel bras, quel secours appeler à mon aide,</l>
+	<l id="1607">Lorsqu'un frère me donne, et qu'un amant me cède ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1608">N'imputez point à crime une civilité</l>
+	<l id="1609">Qu'ici de général voulait l'autorité.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1610">Souffrez-moi donc, Seigneur, la même déférence</l>
+	<l id="1611">Qu'ici de nos destins demande l'assurance.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1612">Vous céder par dépit, et d'un ton menaçant</l>
+	<l id="1613">Faire voir qu'on pénètre au coeur du plus puissant,</l>
+	<l id="1614">Qu'on sait de ses refus la plus secrète cause,</l>
+	<l id="1615">Ce n'est pas tant céder l'objet de son amour,</l>
+	<l id="1616">Que presser un rival de paraître en plein jour,</l>
+	<l id="1617">Et montrer qu'à ses voeux hautement on s'oppose.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1618">Que sert de s'opposer aux voeux d'un tel rival,</l>
+	<l id="1619">Qui n'a qu'à nous protéger mal</l>
+	<l id="1620">Pour nous livrer à notre perte ?</l>
+	<l id="1621">Serait-il d'un grand coeur de chercher à périr,</l>
+	<l id="1622">Quand il voit une porte ouverte</l>
+	<l id="1623">À régner avec gloire aux dépens d'un soupir ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1624" part="i">Ah ! Le change vous plaît.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1624" part="f">Non, Seigneur, je vous aime ;</l>
+	<l id="1625">Mais je dois à mon frère, à ma gloire, à vous-même.</l>
+	<l id="1626">D'un rival si puissant si nous perdons l'appui,</l>
+	<l id="1627">Pourrons-nous du Persan nous défendre sans lui ?</l>
+	<l id="1628">L'espoir d'un renouement de la vieille alliance</l>
+	<l id="1629">Flatte en vain votre amour et vos nouveaux desseins.</l>
+	<l id="1630">Si vous ne remettez sa proie entre ses mains,</l>
+	<l id="1631">Oserez-vous y prendre aucune confiance ?</l>
+	<l id="1632">Quant à mon frère et moi, si les dieux irrités</l>
+	<l id="1633">Nous font jamais rentrer dessous sa tyrannie,</l>
+	<l id="1634">Comme il nous traitera d'esclaves révoltés,</l>
+	<l id="1635">Le supplice l'attend, et moi l'ignominie.</l>
+	<l id="1636">C'est ce que je saurai prévenir par ma mort ;</l>
+	<l id="1637">Mais jusque-là, Seigneur, permettez-moi de vivre,</l>
+	<l id="1638">Et que par un illustre et rigoureux effort,</l>
+	<l id="1639">Acceptant les malheurs où mon destin me livre,</l>
+	<l id="1640">Un sacrifice entier de mes voeux les plus doux</l>
+	<l id="1641">Fasse la sûreté de mon frère et de vous.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1642">Cette sûreté malheureuse</l>
+	<l id="1643">À qui vous immolez votre amour et le mien</l>
+	<l id="1644">Peut-elle être si précieuse</l>
+	<l id="1645">Qu'il faille l'acheter de mon unique bien ?</l>
+	<l id="1646">Et faut-il que l'amour garde tant de mesure</l>
+	<l id="1647">Avec des intérêts qui lui font tant d'injure ?</l>
+	<l id="1648">Laissez, laissez périr ce déplorable roi,</l>
+	<l id="1649">À qui ces intérêts dérobent votre foi.</l>
+	<l id="1650">Que sert que vous l'aimiez ? Et que fait votre flamme</l>
+	<l id="1651">Qu'augmenter son ardeur pour croître ses malheurs,</l>
+	<l id="1652">Si malgré le don de votre âme</l>
+	<l id="1653">Votre raison vous livre ailleurs ?</l>
+	<l id="1654">Armez-vous de dédains ; rendez, s'il est possible,</l>
+	<l id="1655">Votre perte pour lui moins grande ou moins sensible ;</l>
+	<l id="1656">Et par pitié d'un coeur trop ardemment épris,</l>
+	<l id="1657">Éteignez-en la flamme à force de mépris.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1658">L'éteindre ! Ah ! Se peut-il que vous m'ayez aimée ?</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1659">Jamais si digne flamme en un coeur allumée...</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1660">Non, non ; vous m'en feriez des serments superflus :</l>
+	<l id="1661">Vouloir ne plus aimer, c'est déjà n'aimer plus ;</l>
+	<l id="1662">Et qui peut n'aimer plus ne fut jamais capable</l>
+	<l id="1663">D'une passion véritable.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1664">L'amour au désespoir peut-il encor charmer ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1665">L'amour au désespoir fait gloire encor d'aimer ;</l>
+	<l id="1666">Il en fait de souffrir et souffre avec constance,</l>
+	<l id="1667">Voyant l'objet aimé partager la souffrance ;</l>
+	<l id="1668">Il regarde ses maux comme un doux souvenir</l>
+	<l id="1669">De l'union des coeurs qui ne saurait finir ;</l>
+	<l id="1670">Et comme n'aimer plus quand l'espoir abandonne,</l>
+	<l id="1671">C'est aimer ses plaisirs et non pas la personne,</l>
+	<l id="1672">Il fuit cette bassesse, et s'affermit si bien,</l>
+	<l id="1673">Que toute sa douleur ne se reproche rien.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1674">Quel indigne tourment, quel injuste supplice</l>
+	<l id="1675">Succède au doux espoir qui m'osait tout offrir !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1676">Et moi, Seigneur, et moi, n'ai-je rien à souffrir ?</l>
+	<l id="1677">Ou m'y condamne-t-on avec plus de justice ?</l>
+	<l id="1678">Si vous perdez l'objet de votre passion,</l>
+	<l id="1679">Épousez-vous celui de votre aversion ?</l>
+	<l id="1680">Attache-t-on vos jours à d'aussi rudes chaînes ?</l>
+	<l id="1681">Et souffrez-vous enfin la moitié de mes peines ?</l>
+	<l id="1682">Cependant mon amour aura tout son éclat</l>
+	<l id="1683">En dépit du supplice où je suis condamnée ;</l>
+	<l id="1684">Et si notre tyran par maxime d'état</l>
+	<l id="1685">Ne s'interdit mon hyménée,</l>
+	<l id="1686">Je veux qu'il ait la joie, en recevant ma main,</l>
+	<l id="1687">D'entendre que du coeur vous êtes souverain,</l>
+	<l id="1688">Et que les déplaisirs dont ma flamme est suivie</l>
+	<l id="1689">Ne cesseront qu'avec ma vie.</l>
+	<l id="1690">Allez, Seigneur, défendre aux vôtres de durer :</l>
+	<l id="1691">Ennuyez-vous de soupirer,</l>
+	<l id="1692">Craignez de trop souffrir, et trouvez en vous-même</l>
+	<l id="1693">L'art de ne plus aimer dès qu'on perd ce qu'on aime.</l>
+	<l id="1694">Je souffrirai pour vous, et ce nouveau malheur,</l>
+	<l id="1695">De tous mes maux le plus funeste,</l>
+	<l id="1696">D'un trait assez perçant armera ma douleur</l>
+	<l id="1697">Pour trancher de mes jours le déplorable reste.</l>
+</sp>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="1698">Que dites-vous, Madame ? Et par quel sentiment...</l>
+</sp>
+<sp who="CLEON"><speaker>CLÉON</speaker>
+	<l id="1699">Spitridate, Seigneur, et Lysander vous prient</l>
+	<l id="1700">De vouloir avec eux conférer un moment.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1701">Allez, Seigneur, allez, puisqu'ils vous en convient.</l>
+	<l id="1702">Aimez, cédez, souffrez, ou voyez si les dieux</l>
+	<l id="1703">Voudront vous inspirer quelque chose de mieux.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agésilas, Xénoclès.</head>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1704">Je remets en vos mains et l'une et l'autre lettre</l>
+	<l id="1705">Que l'esclave Damis aux miennes vient de mettre.</l>
+	<l id="1706">Vous y verrez, Seigneur, quels sont les attentats...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1707">Au sénateur Cratès, à l'éphore Arsidas.</l>
+	<l id="1708">Spitridate et Cotys sont de l'intelligence ?</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1709">Non ; il s'est caché d'eux en cette conférence ;</l>
+	<l id="1710">Il a plaint leur malheur, et de tout son pouvoir ;</l>
+	<l id="1711">Mais sa prudence enfin tous deux vous les renvoie,</l>
+	<l id="1712">Sans leur donner aucun espoir</l>
+	<l id="1713">D'obtenir que de vous ce qui ferait leur joie.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1714">Par cette déférence il croit les mieux aigrir ;</l>
+	<l id="1715">Et rejetant sur moi ce qu'ils ont à souffrir...</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1716">Vous avez mandé Spitridate,</l>
+	<l id="1717" part="i">Il entre ici.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1717" part="f">Gardons qu'à ses yeux rien n'éclate.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Agésilas, Spitridate, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1718">Aglatide, Seigneur, a-t-elle encor vos voeux ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1719">Non, Seigneur ; mais enfin ils ne vont pas loin d'elle,</l>
+	<l id="1720">Et sa soeur a fait naître une flamme nouvelle</l>
+	<l id="1721">En la place des premiers feux.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1722" part="i">Elpinice ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1722" part="m">Elle-même.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1722" part="f">Ainsi toujours pour gendre</l>
+	<l id="1723">Vous vous donnez à Lysander ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1724">Seigneur, contre l'amour peut-on bien se défendre ?</l>
+	<l id="1725">À peine attaque-t-il qu'on brûle de se rendre :</l>
+	<l id="1726">Le plus ferme courage est ravi de céder ;</l>
+	<l id="1727">Et j'ai trouvé ma foi plus facile à reprendre</l>
+	<l id="1728">Que mon coeur à redemander.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1729" part="i">Si vous considériez...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1729" part="f">Seigneur, que considère</l>
+	<l id="1730">Un coeur d'un vrai mérite heureusement charmé ?</l>
+	<l id="1731">L'amour n'est plus amour sitôt qu'il délibère,</l>
+	<l id="1732">Et vous le sauriez trop si vous aviez aimé.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1733">Seigneur, j'aimais à Sparte et j'aime dans Éphèse.</l>
+	<l id="1734">L'un et l'autre objet est charmant ;</l>
+	<l id="1735">Mais bien que l'un m'ait plu, bien que l'autre me plaise,</l>
+	<l id="1736">Ma raison m'en a su défendre également.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1737">La mienne suivrait mieux un plus commun exemple.</l>
+	<l id="1738">Si vous aimez, Seigneur, ne vous refusez rien,</l>
+	<l id="1739">Ou souffrez que je vous contemple</l>
+	<l id="1740">Comme un coeur au-dessus du mien.</l>
+	<l id="1741">Des climats différents la nature est diverse :</l>
+	<l id="1742">La Grèce a des vertus qu'on ne voit point en Perse.</l>
+	<l id="1743">Permettez qu'un Persan n'ose vous imiter,</l>
+	<l id="1744">Que sur votre partage il craigne d'attenter,</l>
+	<l id="1745">Qu'il se contente à moins de gloire,</l>
+	<l id="1746">Et trouve en sa faiblesse un destin assez doux</l>
+	<l id="1747">Pour ne point envier cette haute victoire,</l>
+	<l id="1748">Que vous seul avez droit de remporter sur vous.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1749">Mais de mon ennemi rechercher l'alliance !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1750" part="i">De votre ennemi !</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1750" part="f">Non, Lysander ne l'est pas ;</l>
+	<l id="1751">Mais s'il faut vous le dire, il y court à grands pas.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1752">C'en est assez : je dois me faire violence</l>
+	<l id="1753">Et renonce à plus croire ou mes yeux, ou mon coeur.</l>
+	<l id="1754">Ne m'ordonnez-vous rien sur l'hymen de ma soeur ?</l>
+	<l id="1755" part="i">Cotys l'aime.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1755" part="f">Il est roi, je ne suis pas son maître ;</l>
+	<l id="1756">Et Mandane ni vous n'êtes pas mes sujets.</l>
+	<l id="1757" part="i">L'aime-t-elle ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1757" part="f">Il se peut. Lui ferai-je connaître</l>
+	<l id="1758">Que vous auriez d'autres projets ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1759">C'est me connaître mal ; je ne contrains personne.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1760">Peut-être qu'elle n'aime encor que sa couronne ;</l>
+	<l id="1761">Et je ne sais pas bien où pencherait son choix,</l>
+	<l id="1762">Si le ciel lui donnait à choisir de deux rois.</l>
+	<l id="1763">Vous l'avez jusqu'ici de tant d'honneurs comblée,</l>
+	<l id="1764">De tant de faveurs accablée,</l>
+	<l id="1765">Qu'à vos ordres ses voeux sans peine assujettis...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1766" part="i">L'ingrate !</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1766" part="f">Je réponds de sa reconnaissance,</l>
+	<l id="1767">Et qu'elle ne consent à l'espoir de Cotys</l>
+	<l id="1768">Que pour le maintenir dans votre dépendance.</l>
+	<l id="1769">Pourrait-elle, Seigneur, davantage pour vous ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1770">Non ; mais qui la pressait de choisir un époux ?</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1771">L'occasion d'un roi, Seigneur, est bien pressante.</l>
+	<l id="1772">Les plus dignes objets ne l'ont pas chaque jour ;</l>
+	<l id="1773">Elle échappe à la moindre attente</l>
+	<l id="1774">Dont on veut éprouver l'amour.</l>
+	<l id="1775">À moins que de la prendre au moment qu'elle arrive,</l>
+	<l id="1776">On s'expose aux périls de l'accepter trop tard,</l>
+	<l id="1777">Et l'asile est si beau pour une fugitive,</l>
+	<l id="1778">Qu'elle ne peut sans crime en rien mettre au hasard.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1779">Elle eût peu hasardé peut-être pour attendre.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1780">Voyait-elle en ces lieux un plus illustre espoir ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1781">Comme l'amour n'entend que ce qu'il veut entendre,</l>
+	<l id="1782">Il ne voit que ce qu'il veut voir.</l>
+	<l id="1783">Si je l'ai jusqu'ici de tant d'honneurs comblée,</l>
+	<l id="1784">De tant de faveurs accablée,</l>
+	<l id="1785">Ces faveurs, ces honneurs ne lui disaient-ils rien ?</l>
+	<l id="1786">Elle les entendait trop bien en dépit d'elle :</l>
+	<l id="1787">Mais l'ingrate ! Mais la cruelle ! ...</l>
+	<l id="1788">Seigneur, à votre tour vous m'entendez trop bien.</l>
+	<l id="1789">Qu'elle aille chez Cotys partager sa couronne ;</l>
+	<l id="1790">Je n'y mets point d'obstacle, et n'en veux rien savoir :</l>
+	<l id="1791">Soit que l'ambition, soit que l'amour la donne,</l>
+	<l id="1792">Vous avez tous deux tout pouvoir.</l>
+	<l id="1793" part="i">Si pourtant vous m'aimiez...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1793" part="f">Soyez sûr de mon zèle.</l>
+	<l id="1794">Ma parole à Cotys est encore à donner.</l>
+	<l id="1795">Mais si cet hyménée a de quoi vous gêner,</l>
+	<l id="1796">Mandane que deviendra-t-elle ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1797">Allez, encore un coup, allez en d'autres lieux</l>
+	<l id="1798">Épargner par pitié cette gêne à mes yeux ;</l>
+	<l id="1799">Sauvez-moi du chagrin de montrer que je l'aime.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1800">Elle vient recevoir vos ordres elle-même.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Agésilas, Spitridate, Mandane, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1801">Ô vue ! ô sur mon coeur regards trop absolus !</l>
+	<l id="1802">Que vous allez troubler mes voeux irrésolus !</l>
+	<l id="1803">Ne partez pas, Madame. Ô ciel ! J'en vais trop dire.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1804">Je conçois mal, Seigneur, de quoi vous me parlez.</l>
+	<l id="1805" part="i">Moi partir ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1805" part="f">Oui, partez, encor que j'en soupire.</l>
+	<l id="1806">Que ce mot ne peut-il suffire !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1807">Je conçois encor moins pourquoi vous m'exilez.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1808">J'aime trop à vous voir et je vous ai trop vue :</l>
+	<l id="1809">C'est, Madame, ce qui me tue.</l>
+	<l id="1810" part="i">Partez, partez, de grâce.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1810" part="f">Où me bannissez-vous ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1811">Nommez-vous un exil le trône d'un époux ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1812" part="i">Quel trône, et quel époux ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1812" part="m">Cotys...</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1812" part="f">Je crois qu'il m'aime ;</l>
+	<l id="1813">Mais si je vous regarde ici comme mon roi</l>
+	<l id="1814">Et comme un protecteur que j'ai choisi moi-même,</l>
+	<l id="1815">Puis-je sans votre aveu l'assurer de ma foi ?</l>
+	<l id="1816">Après tant de bontés et de marques d'estime,</l>
+	<l id="1817">À vous moins déférer je croirais faire un crime ;</l>
+	<l id="1818" part="i">Et mon âme...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1818" part="f">Ah ! C'est trop déférer, et trop peu.</l>
+	<l id="1819">Quoi ? Pour cet hyménée exiger mon aveu !</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1820">Jusque-là mon bonheur n'aura qu'incertitude ;</l>
+	<l id="1821">Et bien qu'une couronne éblouisse aisément...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1822">Ma soeur, il faut parler un peu plus clairement :</l>
+	<l id="1823">Le roi s'est plaint à moi de votre ingratitude.</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1824">Et je me plains à lui des inégalités</l>
+	<l id="1825">Qu'il me force de voir lui-même en ses bontés.</l>
+	<l id="1826">Tout ce que pour un autre a voulu ma prière,</l>
+	<l id="1827">Vous me l'avez, Seigneur, et sur l'heure accordé ;</l>
+	<l id="1828">Et pour mes intérêts ce qu'on a demandé</l>
+	<l id="1829">Prête à de prompts refus une digne matière !</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1830">Si vous vouliez avoir des yeux</l>
+	<l id="1831">Pour voir de ces refus la véritable cause...</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1832">N'est-ce pas assez dire, et faut-il autre chose ?</l>
+	<l id="1833">Voyez mieux sa pensée, ou répondez-y mieux.</l>
+	<l id="1834">Ces refus obligeants veulent qu'on les entende :</l>
+	<l id="1835">Ils sont de ses faveurs le comble, et la plus grande.</l>
+	<l id="1836">Tout roi qu'est votre amant, perdez-le sans ennui,</l>
+	<l id="1837">Lorsqu'on vous en destine un plus puissant que lui.</l>
+	<l id="1838" part="i">M'en désavouerez-vous, Seigneur ?</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1838" part="f">Non, Spitridate.</l>
+	<l id="1839">C'est inutilement que ma raison me flatte :</l>
+	<l id="1840">Comme vous j'ai mon faible ; et j'avoue à mon tour</l>
+	<l id="1841">Qu'un si triste secours défend mal de l'amour.</l>
+	<l id="1842">Je vois par mon épreuve avec quelle injustice</l>
+	<l id="1843">Je vous refusais Elpinice :</l>
+	<l id="1844">Je cesse de vous faire une si dure loi.</l>
+	<l id="1845">Allez ; elle est à vous, si Mandane est à moi.</l>
+	<l id="1846">Ce que pour Lysander je semble avoir de haine</l>
+	<l id="1847">Fera place aux douceurs de cette double chaîne,</l>
+	<l id="1848">Dont vous serez le noeud commun ;</l>
+	<l id="1849">Et cet heureux hymen, accompagné du vôtre,</l>
+	<l id="1850">Nous rendant entre nous garant de l'un vers l'autre,</l>
+	<l id="1851">Réduira nos trois coeurs en un.</l>
+	<l id="1852" part="i">Madame, parlez donc.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="1852" part="f">Seigneur, l'obéissance</l>
+	<l id="1853">S'exprime assez par le silence.</l>
+	<l id="1854">Trouvez bon que je puisse apprendre à Lysander</l>
+	<l id="1855">La grâce qu'à ma flamme il vous plaît d'accorder.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Agésilas, Mandane, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1856">En puis-je pour la mienne espérer une égale,</l>
+	<l id="1857">Madame ? Ou ne sera-ce en effet qu'obéir ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1858">Seigneur, je croirais vous trahir</l>
+	<l id="1859">Et n'avoir pas pour vous une âme assez royale,</l>
+	<l id="1860">Si je vous cachais rien des justes sentiments</l>
+	<l id="1861">Que m'inspire le ciel pour deux rois mes amants.</l>
+	<l id="1862">J'ai vu que vous m'aimiez ; et sans autre interprète</l>
+	<l id="1863">J'en ai cru vos faveurs qui m'ont si peu coûté ;</l>
+	<l id="1864">J'en ai cru vos bontés, et l'assiduité</l>
+	<l id="1865">Qu'apporte à me chercher votre ardeur inquiète.</l>
+	<l id="1866">Ma gloire y voulait consentir ;</l>
+	<l id="1867">Mais ma reconnaissance a pris soin de la vôtre.</l>
+	<l id="1868">Vos feux la hasardaient, et pour les amortir</l>
+	<l id="1869">J'ai réduit mes désirs à pencher vers un autre.</l>
+	<l id="1870">Pour m'épouser, vous le pouvez,</l>
+	<l id="1871">Je ne saurais former de voeux plus élevés ;</l>
+	<l id="1872">Mais avant que juger ma conquête assez haute,</l>
+	<l id="1873">De l'oeil dont il faut voir ce que vous vous devez,</l>
+	<l id="1874">Voyez ce qu'elle donne, ou plutôt ce qu'elle ôte.</l>
+	<l id="1875">Votre Sparte si haut porte sa royauté,</l>
+	<l id="1876">Que tout sang étranger la souille et la profane :</l>
+	<l id="1877">Jalouse de ce trône où vous êtes monté,</l>
+	<l id="1878">Y faire seoir une Persane,</l>
+	<l id="1879">C'est pour elle une étrange et dure nouveauté ;</l>
+	<l id="1880">Et tout votre pouvoir ne peut m'y donner place,</l>
+	<l id="1881">Que vous n'y renonciez pour toute votre race.</l>
+	<l id="1882">Vos éphores peut-être oseront encor plus ;</l>
+	<l id="1883">Et si votre sénat avec eux se soulève,</l>
+	<l id="1884">Si de me voir leur reine indignés et confus,</l>
+	<l id="1885">Ils m'arrachent d'un trône où votre choix m'élève...</l>
+	<l id="1886">Pensez bien à la suite avant que d'achever,</l>
+	<l id="1887">Et si ce sont périls que vous deviez braver.</l>
+	<l id="1888">Vous les voyez si bien que j'ai mauvaise grâce</l>
+	<l id="1889">De vous en faire souvenir ;</l>
+	<l id="1890">Mais mon zèle a voulu cette indiscrète audace,</l>
+	<l id="1891">Et moi je n'ai pas cru devoir la retenir.</l>
+	<l id="1892">Que la suite, après tout, vous flatte ou vous traverse,</l>
+	<l id="1893">Ma gloire est sans pareille aux yeux de l'univers,</l>
+	<l id="1894">S'il voit qu'une Persane au vainqueur de la Perse</l>
+	<l id="1895">Donne à son tour des lois, et l'arrête en ses fers.</l>
+	<l id="1896">Comme votre intérêt m'est plus considérable,</l>
+	<l id="1897">Je tâche de vous rendre à des destins meilleurs.</l>
+	<l id="1898">Mon amour peut vous perdre, et je m'attache ailleurs,</l>
+	<l id="1899">Pour être pour vous moins aimable.</l>
+	<l id="1900">Voilà ce que devait un coeur reconnaissant.</l>
+	<l id="1901">Quant au reste, parlez en maître,</l>
+	<l id="1902">Vous êtes ici tout-puissant.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1903">Quand peut-on être ingrat, si c'est là reconnaître ?</l>
+	<l id="1904">Et que puis-je sur vous si le coeur n'y consent ?</l>
+</sp>
+<sp who="MANDANE"><speaker>MANDANE</speaker>
+	<l id="1905">Seigneur, il est donné ; la main n'est pas donnée ;</l>
+	<l id="1906">Et l'inclination ne fait pas l'hyménée.</l>
+	<l id="1907">Au défaut de ce coeur, je vous offre une foi</l>
+	<l id="1908">Sincère, inviolable, et digne enfin de moi.</l>
+	<l id="1909">Voyez si ce partage aura pour vous des charmes.</l>
+	<l id="1910">Contre l'amour d'un roi c'est assez raisonner.</l>
+	<l id="1911">J'aime, et vais toutefois attendre sans alarmes</l>
+	<l id="1912">Ce qu'il lui plaira m'ordonner.</l>
+	<l id="1913">Je fais un sacrifice assez noble, assez ample,</l>
+	<l id="1914">S'il en veut un en ce grand jour ;</l>
+	<l id="1915">Et s'il peut se résoudre à vaincre son amour,</l>
+	<l id="1916">J'en donne à son grand coeur un assez haut exemple.</l>
+	<l id="1917">Qu'il écoute sa gloire ou suive son désir,</l>
+	<l id="1918">Qu'il se fasse grâce ou justice,</l>
+	<l id="1919">Je me tiens prête à tout, et lui laisse à choisir</l>
+	<l id="1920">De l'exemple ou du sacrifice.</l>
+</sp></div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Agésilas, Xénoclès.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker> 	
+	<l id="1921">Qu'une Persane m'ose offrir un si grand choix !</l>
+	<l id="1922">Parmi nous qui traitons la Perse de barbare,</l>
+	<l id="1923">Et méprisons jusqu'à ses rois,</l>
+	<l id="1924">Est-il plus haut mérite ? Est-il vertu plus rare ?</l>
+	<l id="1925">Cependant mon destin à ce point est amer,</l>
+	<l id="1926">Que plus elle mérite, et moins je dois l'aimer ;</l>
+	<l id="1927">Et que plus ses vertus sont dignes de l'hommage</l>
+	<l id="1928">Que rend toute mon âme à cet illustre objet,</l>
+	<l id="1929">Plus je la dois fermer à tout autre projet</l>
+	<l id="1930">Qu'à celui d'égaler sa grandeur de courage.</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1931">Du moins vous rendre heureux, ce n'est plus hasarder.</l>
+	<l id="1932">Puisqu'un si digne amour fait grâce à Lysander,</l>
+	<l id="1933">Il n'a plus lieu de se contraindre :</l>
+	<l id="1934">Vous devenez par là maître de tout l'état ;</l>
+	<l id="1935">Et ce grand homme à vous, vous n'avez plus à craindre</l>
+	<l id="1936">Ni d'éphores ni de sénat.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1937">Je n'en suis pas encor d'accord avec moi-même.</l>
+	<l id="1938">J'aime ; mais, après tout, je hais autant que j'aime ;</l>
+	<l id="1939">Et ces deux passions qui règnent tour à tour</l>
+	<l id="1940">Ont au fond de mon coeur si peu d'intelligence,</l>
+	<l id="1941">Qu'à peine immole-t-il la vengeance à l'amour,</l>
+	<l id="1942">Qu'il voudrait immoler l'amour à la vengeance.</l>
+	<l id="1943">Entre ce digne objet et ce digne ennemi,</l>
+	<l id="1944">Mon âme incertaine et flottante,</l>
+	<l id="1945">Quoi que l'un me promette, et quoi que l'autre attente,</l>
+	<l id="1946">Ne se peut ni dompter, ni croire qu'à demi :</l>
+	<l id="1947">Et plus des deux côtés je la sens balancée,</l>
+	<l id="1948">Plus je vois clairement que si je veux régner,</l>
+	<l id="1949">Moi qui de Lysander vois toute la pensée,</l>
+	<l id="1950">Il le faut tout à fait ou perdre ou regagner ;</l>
+	<l id="1951" part="i">Qu'il est temps de choisir.</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1951" part="f">Qu'il serait magnanime</l>
+	<l id="1952">De vaincre et la vengeance et l'amour à la fois !</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1953">Il faudrait, Xénoclès, une âme plus sublime.</l>
+</sp>
+<sp who="XENOCLES"><speaker>XENOCLES</speaker>
+	<l id="1954">Il ne faut que vouloir : tout est possible aux rois.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1955">Ah ! Si je pouvais tout, dans l'ardeur qui me presse</l>
+	<l id="1956">Pour ces deux passions qui partagent mes voeux,</l>
+	<l id="1957">Peut-être aurais-je la faiblesse</l>
+	<l id="1958">D'obéir à toutes les deux.</l>
+</sp></div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Agésilas, Lysander, Xénoclès.</head>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="1959">Seigneur, il vous a plu disposer d'Elpinice ;</l>
+	<l id="1960">Nous devons, elle et moi, beaucoup à vos bontés ;</l>
+	<l id="1961">Et je serai ravi qu'elle vous obéisse,</l>
+	<l id="1962">Pourvu que de Cotys les voeux soient acceptés.</l>
+	<l id="1963">J'en ai donné parole, il y va de ma gloire.</l>
+	<l id="1964">Spitridate, sans lui, ne saurait être heureux ;</l>
+	<l id="1965">Et donner mon aveu, s'ils ne le sont tous deux,</l>
+	<l id="1966">C'est faire à mon honneur une tache trop noire.</l>
+	<l id="1967">Vous pouvez nous parler en roi.</l>
+	<l id="1968">Ma fille vous doit plus qu'à moi :</l>
+	<l id="1969">Commandez, elle est prête, et je saurai me taire.</l>
+	<l id="1970">N'exigez rien de plus d'un père.</l>
+	<l id="1971">Il a tenu toujours vos ordres à bonheur ;</l>
+	<l id="1972">Mais rendez-lui cette justice</l>
+	<l id="1973">De souffrir qu'il emporte au tombeau cet honneur,</l>
+	<l id="1974">Qui fait l'unique prix de trente ans de service.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1975">Oui, vous l'y porterez, et du moins de ma part</l>
+	<l id="1976">Ce précieux honneur ne court aucun hasard.</l>
+	<l id="1977">On a votre parole, et j'ai donné la mienne ;</l>
+	<l id="1978">Et pour faire aujourd'hui que l'une et l'autre tienne,</l>
+	<l id="1979">Il faut vaincre un amour qui m'était aussi doux</l>
+	<l id="1980">Que votre gloire l'est pour vous,</l>
+	<l id="1981">Un amour dont l'espoir ne voyait plus d'obstacle.</l>
+	<l id="1982">Mais enfin il est beau de triompher de soi,</l>
+	<l id="1983">Et de s'accorder ce miracle,</l>
+	<l id="1984">Quand on peut hautement donner à tous la loi,</l>
+	<l id="1985">Et que le juste soin de combler notre gloire</l>
+	<l id="1986">Demande notre coeur pour dernière victoire.</l>
+	<l id="1987">Un roi né pour l'éclat des grandes actions</l>
+	<l id="1988">Dompte jusqu'à ses passions,</l>
+	<l id="1989">Et ne se croit point roi, s'il ne fait sur lui-même</l>
+	<l id="1990">Le plus illustre essai de son pouvoir suprême.</l>
+<stage>À Cotys.</stage>
+	<l id="1991">Allez dire à Cotys que Mandane est à lui ;</l>
+	<l id="1992">Que si mes feux aux siens ne l'ont pas accordée,</l>
+	<l id="1993">Pour venger son amour de ce moment d'ennui,</l>
+	<l id="1994">Je veux la lui céder comme il me l'a cédée.</l>
+	<l id="1995" part="i">Oyez de plus...</l>
+<stage>Il parle à l'oreille de Xénoclès qui s'en va.</stage>	
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Agésilas, Lysander.</head>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="1995" part="f">Eh bien ! Vos mécontentements</l>
+	<l id="1996">Me seront-ils encore à craindre ?</l>
+	<l id="1997">Et vous souviendrez-vous des mauvais traitements</l>
+	<l id="1998">Qui vous avaient donné tant de lieu de vous plaindre ?</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="1999">Je vous ai dit, Seigneur, que j'étais tout à vous ;</l>
+	<l id="2000">Et j'y suis d'autant plus, que malgré l'apparence,</l>
+	<l id="2001">Je trouve des bontés qui passent l'espérance,</l>
+	<l id="2002">Où je n'avais cru voir que des soupçons jaloux.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2003">Et que va devenir cette docte harangue</l>
+	<l id="2004">Qui du fameux Cléon doit ennoblir la langue ?</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="2005" part="i">Seigneur...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2005" part="f">Nous sommes seuls, j'ai chassé Xénoclès :</l>
+	<l id="2006">Parlons confidemment. Que venez-vous d'écrire</l>
+	<l id="2007">À l'éphore Arsidas, au sénateur Cratès ?</l>
+	<l id="2008">Je vous défère assez pour n'en vouloir rien lire ;</l>
+	<l id="2009" part="i">Tout est encor fermé. Voyez.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="2009" part="f">Je suis coupable,</l>
+	<l id="2010">Parce qu'on me trahit, que l'on vous sert trop bien,</l>
+	<l id="2011">Et que par un effort de prudence admirable,</l>
+	<l id="2012">Vous avez su prévoir de quoi serait capable,</l>
+	<l id="2013">Après tant de mépris, un coeur comme le mien.</l>
+	<l id="2014">Ce dessein toutefois ne passera pour crime</l>
+	<l id="2015">Que parce qu'il est sans effet ;</l>
+	<l id="2016">Et ce qu'on va nommer forfait</l>
+	<l id="2017">N'a rien qu'un plein succès n'eût rendu légitime.</l>
+	<l id="2018">Tout devient glorieux pour qui peut l'obtenir,</l>
+	<l id="2019">Et qui le manque est à punir.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2020">Non, non ; j'aurais plus fait peut-être en votre place :</l>
+	<l id="2021">Il est naturel aux grands coeurs</l>
+	<l id="2022">De sentir vivement de pareilles rigueurs ;</l>
+	<l id="2023">Et vous m'offenseriez de douter de ma grâce.</l>
+	<l id="2024">Comme roi, je la donne, et comme ami discret</l>
+	<l id="2025">Je vous assure du secret.</l>
+	<l id="2026">Je remets en vos mains tout ce qui vous peut nuire.</l>
+	<l id="2027">Vous m'avez trop servi pour m'en trouver ingrat ;</l>
+	<l id="2028">Et d'un trop grand soutien je priverais l'état</l>
+	<l id="2029">Pour des ressentiments où j'ai su vous réduire.</l>
+	<l id="2030">Ma puissance établie et mes droits conservés</l>
+	<l id="2031">Ne me laissent point d'yeux pour voir votre entreprise.</l>
+	<l id="2032">Dites-moi seulement avec même franchise,</l>
+	<l id="2033">Vous dois-je encor bien plus que vous ne me devez ?</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="2034">Avez-vous pu, Seigneur, me devoir quelque chose ?</l>
+	<l id="2035">Qui sert le mieux son roi ne fait que son devoir.</l>
+	<l id="2036">En vous de tout l'état j'ai défendu la cause,</l>
+	<l id="2037">Quand je l'ai fait tomber dessous votre pouvoir.</l>
+	<l id="2038">Le zèle est tout de feu quand ce grand devoir presse ;</l>
+	<l id="2039">Et comme à le moins suivre on s'en acquitte mal,</l>
+	<l id="2040">Le mien vous servit moins qu'il ne servit la Grèce,</l>
+	<l id="2041">Quand j'en sus ménager les coeurs avec adresse</l>
+	<l id="2042">Pour vous en faire général.</l>
+	<l id="2043">Je vous dois cependant et la vie et ma gloire ;</l>
+	<l id="2044">Et lorsqu'un dessein malheureux</l>
+	<l id="2045">Peut me coûter le jour et souiller ma mémoire,</l>
+	<l id="2046">La magnanimité de ce coeur généreux...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2047">Reprochez-moi plutôt toutes mes injustices,</l>
+	<l id="2048">Que de plus ravaler de si rares services.</l>
+	<l id="2049">Elles ont fait le crime, et j'en tire ce bien,</l>
+	<l id="2050">Que j'ai pu m'acquitter et ne vous dois plus rien.</l>
+	<l id="2051">À présent que la gratitude</l>
+	<l id="2052">Ne peut passer pour dette en qui s'est acquitté,</l>
+	<l id="2053">Vos services, payés d'un traitement si rude,</l>
+	<l id="2054">Vont recevoir de moi ce qu'ils ont mérité.</l>
+	<l id="2055">S'ils ont su conserver un trône en ma famille,</l>
+	<l id="2056">J'y veux par mon hymen faire seoir votre fille :</l>
+	<l id="2057">C'est ainsi qu'avec vous je puis le partager.</l>
+</sp>
+<sp who="LYSANDER"><speaker>LYSANDER</speaker>
+	<l id="2058">Seigneur, à ces bontés, que je n'osais attendre,</l>
+	<l id="2059" part="i">Que puis-je...</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2059" part="f">Jugez-en comme il en faut juger,</l>
+	<l id="2060">Et surtout commencez d'apprendre</l>
+	<l id="2061">Que les rois sont jaloux du souverain pouvoir,</l>
+	<l id="2062">Qu'ils aiment qu'on leur doive, et ne peuvent devoir,</l>
+	<l id="2063">Que rien à leurs sujets n'acquiert l'indépendance,</l>
+	<l id="2064">Qu'ils règlent à leur choix l'emploi des plus grands coeurs ;</l>
+	<l id="2065">Qu'ils ont pour qui les sert des grâces, des faveurs,</l>
+	<l id="2066">Et qu'on n'a jamais droit sur leur reconnaissance.</l>
+	<l id="2067">Prenons dorénavant, vous et moi, pour objet,</l>
+	<l id="2068">Les devoirs qu'il faudra l'un à l'autre nous rendre :</l>
+	<l id="2069">N'oubliez pas ceux d'un sujet,</l>
+	<l id="2070">Et j'aurai soin de ceux d'un gendre.</l>
+</sp></div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Agésilas, Lysander, Aglatide conduite par Xénoclès.</head>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="2071">Sur un ordre, Seigneur, reçu de votre part,</l>
+	<l id="2072">Je viens, étonnée et surprise</l>
+	<l id="2073">De voir que tout d'un coup un roi m'en favorise,</l>
+	<l id="2074">Qui me daignait à peine honorer d'un regard.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2075">Sortez d'étonnement. Les temps changent, Madame,</l>
+	<l id="2076">Et l'on n'a pas toujours mêmes yeux ni même âme.</l>
+	<l id="2077">Pourriez-vous de ma main accepter un époux ?</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="2078">Si mon père y consent, mon devoir me l'ordonne ;</l>
+	<l id="2079">Ce me sera trop d'heur de le tenir de vous.</l>
+	<l id="2080">Mais avant que savoir quelle en est la personne,</l>
+	<l id="2081">Pourrais-je vous parler avec la liberté</l>
+	<l id="2082">Que me souffrait à Sparte un feu trop écouté,</l>
+	<l id="2083">Alors qu'il vous plaisait, ou m'aimer, ou me dire</l>
+	<l id="2084">Qu'en votre coeur mes yeux s'étaient fait un empire ?</l>
+	<l id="2085">Non que j'y pense encor ; j'apprends de vous, Seigneur,</l>
+	<l id="2086">Qu'on change avec le temps, d'âme, d'yeux et de coeur.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2087">Rappelez ces beaux jours pour me parler sans feindre ;</l>
+	<l id="2088">Mais si vous le pouvez, Madame, épargnez-moi.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="2089">Ce serait sans raison que j'oserais m'en plaindre :</l>
+	<l id="2090">L'amour doit être libre, et vous êtes mon roi.</l>
+	<l id="2091">Mais puisque jusqu'à vous vous m'avez fait prétendre,</l>
+	<l id="2092">N'obligez point, Seigneur, cet espoir à descendre,</l>
+	<l id="2093">Et ne me faites point de lois</l>
+	<l id="2094">Qui profanent l'honneur de votre premier choix.</l>
+	<l id="2095">J'y trouvais pour moi tant de gloire,</l>
+	<l id="2096">J'en chéris à tel point la flatteuse mémoire,</l>
+	<l id="2097">Que je regarderais comme un indigne époux</l>
+	<l id="2098">Quiconque m'offrirait un moindre rang que vous.</l>
+	<l id="2099">Si cet orgueil a quelque crime,</l>
+	<l id="2100">Il n'en faut accuser que votre trop d'estime :</l>
+	<l id="2101">Ce sont des sentiments que je ne puis trahir.</l>
+	<l id="2102">Après cela, parlez ; c'est à moi d'obéir.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2103">Je parlerai, Madame, avec même franchise.</l>
+	<l id="2104">J'aime à voir cet orgueil que mon choix autorise</l>
+	<l id="2105">À dédaigner les voeux de tout autre qu'un roi :</l>
+	<l id="2106">J'aime cette hauteur en un jeune courage ;</l>
+	<l id="2107">Et vous n'aurez point lieu de vous plaindre de moi,</l>
+	<l id="2108">Si votre heureux destin dépend de mon suffrage.</l>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX. Agésilas, Lysander, Cotys, Spitridate, Mandane, Elpinice, Aglatide, Xénoclès.</head>
+<sp who="COTYS"><speaker>COTYS</speaker>
+	<l id="2109">Seigneur, à vos bontés nous venons consacrer,</l>
+	<l id="2110">Et Mandane et moi, notre vie.</l>
+</sp>
+<sp who="SPITRIDATE"><speaker>SPITRIDATE</speaker>
+	<l id="2111">De pareilles faveurs, Seigneur, nous font rentrer</l>
+	<l id="2112">Pour vous faire voir même envie.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2113">Je vous ai fait justice à tous,</l>
+	<l id="2114">Et je crois que ce jour vous doit être assez doux,</l>
+	<l id="2115">Qui de tous vos souhaits à votre gré décide ;</l>
+	<l id="2116">Mais pour le rendre encor plus doux et plus charmant,</l>
+	<l id="2117">Sachez que Sparte voit sa reine en Aglatide,</l>
+	<l id="2118">À qui le ciel en moi rend son premier amant.</l>
+</sp>
+<sp who="AGLATIDE"><speaker>AGLATIDE</speaker>
+	<l id="2119">C'est me faire, Seigneur, des surprises nouvelles.</l>
+</sp>
+<sp who="AGESILAS"><speaker>AGÉSILAS</speaker>
+	<l id="2120">Rendons nos coeurs, Madame, à des flammes si belles ;</l>
+	<l id="2121">Et tous ensemble allons préparer ce beau jour</l>
+	<l id="2122">Qui par un triple hymen couronnera l'amour !</l>
+</sp></div2>
+</div1>
+</body>
+</text>
+</TEI.2>

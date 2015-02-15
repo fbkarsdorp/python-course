@@ -1,0 +1,2521 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>ANDROMEDE, TRAGÉDIE.</title>
+			<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+		</titleStmt>
+		<publicationStmp>	
+			<p>publié par Paul FIEVRE, Mai 2006</p>
+		</publicationStmp>
+		<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>mythe grec</inspiration>
+				<structure>Cinq actes, un prologue</structure>
+				<type>vers</type>
+				<periode>1641-1650</periode>
+				<taille>1500-1750</taille>
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k70397f</permalien>
+		</SourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">ANDROMÈDE</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+		</docTitle> 
+		<docDate value='1651'>M. DC. LI. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>[Pierre CORNEILLE]</docAuthor>
+		<docImprint>
+			<privilege id='1650-04-02'><head>Privilège du Roi</head>
+			<p>LOUIS par la grâce de Dieu, roi de France et de Navarre : À nos âmes et féaux conseilles, les gens tenant nos cours de parlement, maîtres de requêtes ordinaires de notre hôtel, baillifs, sénéchaux, prévôts, leurs lieutenants, et à tous autres nos justiciers et officiers qu'il appartiendra, Salut. Notre cher et bien aimé le sieur CORNEILLE, Nous a fait remontrer qu'il a composé deux pièces de théâtre, l'une intitulée Andromède, et l'autre Don Sanche d'Aragon, lesquelles il est sollicité de faire imprimer pour les donner au public ; et d'autant que cela ne se peut sans grand frais, il nous a supplié de lui accordé nos lettres sur ce nécessaires. À ces causes, Nous avons permis, et permettons per ces présentes à l'Exposant, de faire imprimer, vendre et débiter en tous les lieux de notre obéïssance, par tel imprimeur qu'il voudra choisir, lesdites deux pièces d'Andromède et Don Sanche d'Aragon, avec figures ou sans figures, conjointement ou séparémment, en tels marges, et tels caractètes, et autant de fois que bon lui semblera, durant l'espce de dix ans entier et accomplis, à compter du jour que chacune sera chevée d'imprimer pour la première fois. Et faison très expresses défences à toutes personnes de quelque qualité et condition qu'elles soient, d'imprimer, vendre et débiter ni l'une ni l'autre sans le consentement de l'exposant, ou de ceux qui auront son droit, sous prétexte d'augmentation, correction, changement de titre, fausses remarques, ou autrmeent en quelque sorte et manière que ce soit, à peie de quinze cent livres d'amande, applicables un tiers à Nous, un tiers aux Hotels-Dieu des leiux où se seront fait les saisies, et l'autre tiers à l'Exposant, ou au libraire dont il se sera servi ; de confiscation des exemplaires qui seront imprimés en vertu des présentes, en notre bilbiothèque publique, et un en celle du sieur de Chateauneuf chancelier, Garde des Sceaux de France, autant que de les exposer en vente, à  peine de nullité des présentes, elles soient tenues pour devenues signifiées, et que foi y soit ajoutée, et aux copies collationnées par l'un des nos âmes et féaux conseillers et secrétaires, comme à l'original : mandons au premeir notre huissier ou sergent sur ce requis, de faire pour l'exécution des présentes tous exploits nécesaires, sans demander autre permission : car tel est notre plaisir. Donné a Paris le onzième jour d'Avril l'en de grâce mille six cent cinquante : et de notre règne le septième. Par le roi en son conseil, signé CONRARD. Et escéllé sur simple queue du grand sceau de cire jaune.</p>
+			<p>Les exemplaires ont été fournis.</p>
+			</privilege>
+			<acheveImprime id='1651-08-13'>Achevé d'imprimer à Rouen par Laurens Maurry, le 13 d'août mille six cent cinquante.</acheveImprime>
+			<printer id='MAURRY'>À Rouen, chez LAURENS MAURRY, près le Palais. Et se vendent à Paris chez CHARLES de SERCY ; au Palais, dans la Place Dauphine, à la bonne foi couronnée.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1650-01-13' location='Théâtre du Petit-Bourbon'>Représenté pour la première fois 13 janvier 1650 au Théâtre du Petit-Bourbon.</premiere>
+		</performance>
+<dedicace>
+	<adresse>À M.M.M.M.</adresse>
+		<head>Madame,</head>
+		<p>C'est vous rendre un hommage bien secret, que de vous le rendre ainsi, et je m'assurer que vous aurez de la peine vous-même à reconnaître que c'est à vous que je dédie cet ouvrage. Ces quatre lettres hiéroglyphiques vous embarrasseront aussi bine que les autres, et vous ne vous apercevrez jamais qu'elles parlent de vous jusqu'à ce que je vous les explique. Alors vous m'avouerez sans doute que je suis fort exact à ma parole, et fort ponctuel à l'exécution de vos commandements. Vous l'avez voulu, et j'obéis, je vous l'ai promis, et je m'acquitte. C'est peut être vous en dire trop pour un homme qui se veut cacher quelque temps à vous-même, et pour peu que vous fassiez de réflexion sur mes dernières visites, vous devinerez à demi que c'est à vous que ce compliment s'adresse. N'achevez pas je vous prie, et laissez moi la joie de vous surprendre par la confidence que je vous en dois. Je vous en conjure par tout le mérite de mon obéissance, et ne vous dis point en quoi les belles qualités d'Andromède approchent de vos perfections, ni quel rapport ses aventures ont avec les vôtres ; ce serait vous faire un miroir, où vous verriez trop aisément, et vous ne pourriez plus rien ignorer de ce que j'ai à vous dire. Préparez-vous seulement à recevoir, non pas tant comme un des plus beaux spectacles que le France ait vu, que comme une marque de respectueuse de l'attachement inoubliable à votre service, dont fait voeur, MADAME, </p>
+<p>Vous très humble, très obéissant, et très obligé serviteur.</p>
+<signature>CORNEILLE</signature>
+	</dedicace>	
+<preface><head>ARGUMENT</head>
+<p>Cassiope femme de Céphée roi d'Éthiopie fut si vaine de sa beauté, qu'elle osa la préférer à celle des Néréïdes, dont les nymphes irritées firent sortir de la mer un monstre, qui fit de si étranges ravages sur les terres de l'obéissance du roi son mari, que les forces humaines ne pouvant donner aucun remède à des misères si grandes, on recourut à l'Oracle de Jupiter Ammon. La réponse qu'en reçurent ces malheureux princes fut un commandement d'exposer à ce monstre Andromède leur fille unique, pour en être dévorée. Il fallut exécuter ce triste arrêt, et cette illustre victime fut attachée à un rocher, où elle n'attendait que la mort, lorsque Persée fils de Jupiter et de Danaé passant par hasard, jeta les yeux sur elle. Il revenait de la conquête glorieuse de la tête de la Méduse qu'il portait sous son bouclier, et volait au milieu de l'air, au moyen des ailes qu'il aurait attachées aux deux pieds de la façon qu'on nous peint Mercure. Ce fut d'elle-même qu'il apprit la cause de sa disgrâce, et l'amour que ses premiers regards lui donnèrent, lui fit en même temps former le dessein de combattre ce monstre, pour conserver des jours qui lui étaient devenus si précieux. Avant que d'entrer au combat il eut loisir de tenir parole de ses parents que les fruits en seraient pour lui, et reçut les effets de cette promesse, si tôt qu'il eut tué le monstre. Le roi et la reine donnèrent avec grande joie leur fille à son libératuer, mais la magnificence des noces dut troublée par la violence que voulut faire Phinée frère du roi et oncle de la Princesse, à qui elle avait été promise avant son malheur. Il se jeta dans le palais royal avec une troupe de gens armés ; et Persée s'en défendit quelque temps sans autre secours que celui de sa valeur et de quelques amis généreux : mais se voyant près de succomber sous le nombre, il se servit enfin de cette tête de Méduse, qu'il tira de sous son bouclier, et l'exposant aux yeux de Phinée et des assassins qui le suivaient , cette fatale vue les convertit en autant de statues de pierre, qui servirent d'ornement au même palais qu'ils voulaient teindre de sang de ce héros. Voilà comme Ovide raconte cette fable, où j'ai changé beaucoup de choses tant par la liberté de l'Art, que par la nécessite des ordres du théâtre, et pour lui donner plus d'agrément. </p>
+<p>En premier lieu j'ai cru plus à propos de faire Cassiope vaine de la beauté de sa fille que de la sienne propre, d'autant qu'il est fort extraordinaire qu'une femme dont la fille est en âge d'être mariée, ait encore d'assez beaux restes pour s'en vanter si hautement ; et qu'il n'est pas vraisemblable que cet orgueil de Cassiope pour elle-même eut attendu si tard à éclater, vu que c'est dans sa jeunesse que la beauté étant plus parfaite et le jugement moins formé, donnent plus de lieu à des vanités de cette nature, et non pas alors que cette même beauté commence d'être sur le retour, et que l'âge a mûri l'esprit de la personne qui s'en serait enorgueillie en un autre temps.</p>
+<p>Ensuite, j'ai supposé que l'Oracle d'Ammon n'avait pas condamné précisément Andromède à être dévorée par le monstre, mais qu'il avait ordonné seulement qu'on lui exposât tous les mois une fille, qu'on tirât au sort pour voir celle qui lui était livrée, et que cet ordre ayant déjà été exécuté cinq fois, on était au jour qu'il fallait suivre pour la sixième.</p>
+<p> J'ai introduit Persée comme un chevalier errant qui s'est arrêté depuis un mois dans la cour de Céphée, et non pas comme se rencontrant par hasard dans le temps qu'Andromède est attachée au rocher. Je lui ai donné de l'amour pour elle, qu'il n'ose découvrir, parce qu'il la voir promise à Phinée ; mais qu'il nourrit toutefois d'un peu d'espoir, parce qu'il voit son mariage différé jusques à la fins des malheurs publics. Je l'ai fait plus généreux qu'il n'est dans Ovide, où il n'entreprend la délivrance de cette Princesse, qu'après que ses rapports l'ont assuré qu'elle l'épouserait, sitôt qu'il l'aurait délivrée. J'ai changé aussi le qualité de Phinée, que j'ai fait seulement le neveu du roi dont le roi le nomme frère : le mariage de deux courin me semblant plus supportable dans nos façons de vivre, que celui de l'oncle et de la nièce, qui eut pu sembler un peu plus étrange à mes auditeurs.</p>
+<p>Les peintres qui cherchent à faire paraître leur Art dans les nudités, ne manquent jamais à nous représenter Andromède nue au pied du rocher où elle est attachée, quoi qu'Ovide n'en parle point. Ils me pardonneront si je ne les ai pas suivis dans cette invention, comme j'ai fait en celle du cheval Pégase, sur lequel ils montrent Persée pour combattre le monstre, quoi qu'Ovide ne lui donne des ailes aux talons. Ce changement donne lieu à une machine toute extraordinaire et merveilleuse, et empêche que Persée ne soit pris pour Mercure : outre qu'ils ne le mettent pas en cet équipement sans fondement, vu que le même Ovide raconte, que sitôt que Persée eut coupé la monstrueuse tête de Méduse, Pégase tout ailé sortit de cette Gorgone, et que Persée s'en put saisir dès lors pour faire des courses par le milieu de l'air.</p>
+<p>Nos globes célestes où l'on marque pour constellation Céphée, Cassiope, Persée et Andromède, m'ont donné jour à la faire enlever tous quatre au Ciel sur la fin de la pièce pour y faire les noces de ces amants, comme si la Terre n'en était pas digne.</p>
+<p>Au reste, comme Ovide ne nomme point la ville où il fait arriver cette aventure, je ne me suis point enhardi à la nommer. Il dit pour toute chose que Céphée régnait en Ethiopie, sans désigner sous quel climat. La topographie modernes des ces contrées-là n'est pas fort connue, et celle du temps de Céphée encore moins. Je me contenterai donc de vous dire qu'il fallait que Céphée régnât en quelque pays maritime, que se ville capitale dut sur les bords de la mer, et que les peuples fussent blancs quoqu'Etiophien; Ce n'est pas que les Mores les plus noirs n'aient leur beauté à leur mode, mais il n'est pas vraisemblable que Persée qui était grec et né dans Argos, fur devenu amoureux d'Andromède, si elle eut été de leur teint. j'ai pour moi le consentement de tous les peintres, et surtout l'autorité du grand Héliodore qui ne fonde la blancheur de la divine Chariclée que sur un tableau d'Andromède. Ma scène sera donc s'il vous plait dans la capitale de Céphée, proche d ela mer, et pour le nom, vous lui donnerez tel qu'il vous plaira.</p>
+<p>Vous trouverez cet ordre gardé dans les changements de théâtre, que chaque acte aussi bien que le prologue a sa décoration particulière, et du moins une machine volante avec un concert de musique, que je n'ai employée qu'à satisfaire les oreilles des spectateurs, tandis que leurs yeux sont arrêtés à voir descendre ou remonter une machine, ou s'attachent à quelque chose qui leur empêche de prêter attention à ce que pourraient sire les acteurs, comme fait le combat de Persée avec le monstre : mais je me suis bien gardé de rien faire chanter qui fut nécessaire à l'intelligence de la pièce, parce que communément les paroles qui se chantent étant mal entendues des auditeurs, pour la confusion qu'y apporte la diversité des voix qui les prononcent ensemble, elles auraient fait une grande obscurité dans le corps de l'ouvrage, si elles avaient eu à instruire l'auditeur de quelque chose d'important. Il n'en va pas de même des machines, qui ne sont pas dans cette tragédie comme des agréments détachés, elles en sont le noeud et le dénouement, et y sont si nécessaires que vous n'en sauriez retrancher aucune, que vous ne fassiez tomber tout l'édifice. J'ai été assez heureux à les inventer et à leur donner place dans la tissure de ce poème, mais aussi fait-il que j'avoue que le sieur Torrelli s'est surmonté lui-même à en exécuter les dessins, et qu'il a eu des inventions admirables pour les faire agir à propos, de sorte que s'il m'eut du quelque gloire pour avoir introduit cette Vénus dans le premier acte, qui fait le noeud de cette tragédie par l'Oracle ingénieux qu'elle prononce, il lui en est du bine davantage pour l'avoir fait venir de si loin et descendre au milieu de l'air par cette magnifique étoile, avec tant d'art et de pompe, qu'elle remplit tout le monde d'étonnement et d'admiration. Il en faut dire autant des autres que j'ai introduites et dont il a inventé l'exécution, qui en a rendu le spectacle si merveilleux qu'il sera mal aisé d'en faire un plus beau de cette nature. Pour moi je confesse ingénument que quelque effort d'imagination que j'aie fait depuis, je n'ai pu découvrir encore un sujet capable de tant de d'ornements extérieurs où les machines pussent être distribuées avec tant de justesse : je n'en désespère pas toutefois, et peut-être que le temps en fera éclater quelqu'un assez brillant et assez heureux pour me faire dédire de ce que j'avance. En attendant recevez celui-ci comme le plus achevé qui ait encore paru sur nos théâtres, et souffrez que la beauté de la représentation supplée au manque de beaux vers que vous ne trouverez pas en si grande quantité  que dans Cinna, ou dans Rodogune, parce que mon principal but ici a été de satisfaire la vue par l'éclat et la diversité du spectacle, et non pas de toucher l'esprit par la force du raisonnement, ou le coeur par la délicatesse des passions. Ce n'est pas que j'en ai fui ou négligé aucunes occasions., mais il s'en est rencontré si peu, que j'aime mieux avouer que cette pièce n'est que pour les yeux. </p>
+</preface>
+	<castList><head>ACTEURS</head>
+			<castItem><role id="CÉPHÉE" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>CÉPHÉE</role>, roi d'Éthiope, père d'Andromède.</castItem>
+			<castItem><role id="CASSIOPE" civil='F' type="H" statut="roi" age="A" stat_amour='néant'>CASSIOPE</role>, reine d'Éthiopie.</castItem>
+			<castItem><role id="ANDROMEDE" civil='F' type="H" statut="prince" age="A" stat_amour='néant'>ANDROMÈDE</role>, fille Céphée et de Cassiope.</castItem>
+			<castItem><role id="JUPITER" civil='M' type="D" statut="dieu" age="A" stat_amour='néant'>JUPITER</role>.</castItem>
+			<castItem><role id="JUNON" civil='F' type="D" statut="dieu" age="A" stat_amour='néant'>JUNON</role>.</castItem>
+			<castItem><role id="NEPTUNE" civil='M' type="D" statut="dieu" age="A" stat_amour='néant'>NEPTUNE</role>.</castItem>
+			<castItem><role id="MERCURE" civil='M' type="D" statut="dieu" age="A" stat_amour='néant'>MERCURE</role>.</castItem>
+			<castItem><role id="SOLEIL" civil='M' type="D" statut="dieur" age="A" stat_amour='néant'>LE SOLEIL</role>.</castItem>
+			<castItem><role id="VÉNUS" civil='F' type="D" statut="dieu" age="A" stat_amour='néant'>VÉNUS</role>.</castItem>
+			<castItem><role id="MELPOMÈNE" civil='F' type="D" statut="muse" age="A" stat_amour='néant'>MELPOMÈNE</role>.</castItem>
+			<castItem><role id="ÉOLE" civil='M' type="D" statut="dieu" age="A" stat_amour='néant'>ÉOLE</role>.</castItem>
+			<castItem><role id="CYMODOCE" civil='M' type="N" statut="néréïde" age="A" stat_amour='néant'>CYMODOCE</role>.</castItem>
+			<castItem><role id="EPHYRE" civil='M' type="N" statut="néréïde" age="A" stat_amour='néant'>EPHYRE</role>.</castItem>
+			<castItem><role id="CYDIPPE" civil='M' type="N" statut="néréïde" age="A" stat_amour='néant'>CYDIPPE</role>.</castItem>
+			<castItem><role id="NÉRÉIDES" civil='G' type="N" statut="néréïde" age="A" stat_amour='néant'>NÉRÉIDES</role>.</castItem>
+			<castItem><role id="VENTS" civil='G' type="A" statut="vent" age="A" stat_amour='néant'>HUIT VENTS</role>.</castItem>
+			<castItem><role id="PHINÉE" civil='M' type="H" statut="prince" age="A" stat_amour='néant'>PHINÉE</role>, prince d'Éthiopie.</castItem>
+			<castItem><role id="PERSÉE" civil='M' type="H" statut="héros" age="A" stat_amour='néant'>PERSÉE</role>, fils de Jupiter et de Danaé.</castItem>
+			<castItem><role id="TIMANTE" civil='M' type="H" statut="capitaine" age="A" stat_amour='néant'>TIMANTE</role>, capitaine des gardes du roi.</castItem>
+			<castItem><role id="AMMON" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>AMMON</role>, ami de Phinée.</castItem>
+			<castItem><role id="AGLANTE" civil='F' type="N" statut="nymphe" age="A" stat_amour='néant'>AGLANTE</role>, nymphe d'Andromède.</castItem>
+			<castItem><role id="CEPHALIE" civil='F' type="N" statut="nymphe" age="A" stat_amour='néant'>CÉPHALIE</role>, nymphe d'Andromède.</castItem>
+			<castItem><role id="LIRIOPE" civil='F' type="N" statut="nymphe" age="A" stat_amour='néant'>LIRIOPE</role>, nymphe d'Andromède.</castItem>
+			<castItem><role id="UN-PAGE" civil='M' type="H" statut="page" age="A" stat_amour='néant'>Un page de Phinée</role>.</castItem>
+		    <castItem><role id="PHORBAS" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>PHORBAS</role>.</castItem>
+			<castItem><role id="CHOEUR" civil='G' type="H" statut="choeur" age="A" stat_amour='néant'>Choeur du peuple</role>.</castItem>
+			<castItem><role id="VOIX" civil='F' type="F" statut="fantôme" age="A" stat_amour='néant'>Une voix</role>.</castItem>
+			<castItem><role id="SUITE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>Suite du roi</role>.</castItem>
+		</castList>
+		<set location='Capitale de Cephée' country='Ethiopie' periode='Temps mythologiques' link=''>La scène est en Éthiopie, dans la ville capitale du royaume de Céphée, proche de la mer.</set>
+	</front>
+<body>
+<div1 type="prologue" n="0"><head>PROLOGUE</head>
+<stage>DÉCORATION DU PROLOGUE. L'ouverture du théâtre présente de front aux yeux des spectateurs une montagne, dont les sommets inégaux, s'élevant les uns sur les autres, portent le faîte jusque dans les nues. Le pied de cette montagne est percé à jour par une grotte profonde qui laise voir la mer en éloignement. Les deux côtés du théâtre sont occupés par une forêt d'arbres touffus et entrelacés les uns dans les autres. Sur un des sommets de la montagne paraît Melpomène, le muse de la tragédie, et à l'opposite dans le ciel, on voit le soleil s'avancer dans un char tout lumineux, tiré par les quatre chevaux qu'Ovide lui donne.</stage>
+<div2 type="scene" n="1"><head>Le Soleil, Melpomène.</head>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="1">Arrête un peu ta course impétueuse :</l>
+	<l id="2">Mon théâtre, Soleil, mérite bien tes yeux ;</l>
+	<l id="3">Tu n'en vis jamais en ces lieux</l>
+	<l id="4">La pompe plus majestueuse :</l>
+	<l id="5">J'ai réuni, pour la faire admirer,</l>
+	<l id="6">Tout ce qu'ont de plus beau la France et l'Italie ;</l>
+	<l id="7">De tous leurs arts mes soeurs l'ont embellie :</l>
+	<l id="8">Prête-moi tes rayons pour la mieux éclairer.</l>
+	<l id="9">Daigne à tant de beautés, par ta propre lumière,</l>
+	<l id="10">Donner un parfait agrément,</l>
+	<l id="11">Et rends cette merveille entière</l>
+	<l id="12">En lui servant toi-même d'ornement.</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="13">Charmante muse de la scène,</l>
+	<l id="14">Chère et divine Melpomène,</l>
+	<l id="15">Tu sais de mon destin l'inviolable loi :</l>
+	<l id="16">Je donne l'âme à toutes choses,</l>
+	<l id="17">Je fais agir toutes les causes ;</l>
+	<l id="18">Mais quand je puis le plus, je suis le moins à moi ;</l>
+	<l id="19">Par une puissance plus forte</l>
+	<l id="20">Le char que je conduis m'emporte :</l>
+	<l id="21">Chaque jour sans repos doit et naître et mourir.</l>
+	<l id="22">J'en suis esclave alors que j'y préside ;</l>
+	<l id="23">Et ce frein que je tiens aux chevaux que je guide</l>
+	<l id="24">Ne règle que leur route, et les laisse courir.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="25">La naissance d'Hercule et le festin d'Atrée</l>
+	<l id="26">T'ont fait rompre ces lois ;</l>
+	<l id="27">Et tu peux faire encore ce qu'on t'a vu deux fois</l>
+	<l id="28">Faire en même contrée.</l>
+	<l id="29">Je dis plus : tu le dois en faveur du spectacle</l>
+	<l id="30">Qu'au monarque des lis je prépare aujourd'hui ;</l>
+	<l id="31">Le ciel n'a fait que miracles en lui :</l>
+	<l id="32">Lui voudrais-tu refuser un miracle ?</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="33">Non ; mais je le réserve à ces bienheureux jours</l>
+	<l id="34">Qu'ennoblira sa première victoire :</l>
+	<l id="35">Alors j'arrêterai mon cours,</l>
+	<l id="36">Pour être plus longtemps le témoin de sa gloire.</l>
+	<l id="37">Prends cependant le soin de le bien divertir,</l>
+	<l id="38">Pour lui faire avec joie attendre les années</l>
+	<l id="39">Qui feront éclater les belles destinées</l>
+	<l id="40">Des peuples que son bras lui doit assujettir.</l>
+	<l id="41">Calliope ta soeur déjà d'un oeil avide</l>
+	<l id="42">Cherche dans l'avenir les faits de ce grand roi,</l>
+	<l id="43">Dont les hautes vertus lui donneront emploi</l>
+	<l id="44">Pour plus d'une Illiade et plus d'une Énéide.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="45">Que je porte d'envie à cette illustre soeur,</l>
+	<l id="46">Quoique j'aie à craindre pour elle</l>
+	<l id="47">Que sous ce grand fardeau sa force ne chancelle !</l>
+	<l id="48">Mais quel qu'en soit enfin le mérite et l'honneur,</l>
+	<l id="49">J'aurai du moins cet avantage,</l>
+	<l id="50">Que déjà je le vois, que déjà je lui plais,</l>
+	<l id="51">Et que de ses vertus, et que de ses hauts faits</l>
+	<l id="52">Déjà dans ses pareils je lui trace une image.</l>
+	<l id="53">Je lui montre Pompée, Alexandre, César,</l>
+	<l id="54">Mais comme des héros attachés à son char ;</l>
+	<l id="55">Et tout ce haut éclat où je les fais paraître</l>
+	<l id="56">Lui peint plus qu'ils n'étaient, et moins qu'il ne doit être.</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="57">Il en effacera les plus glorieux noms,</l>
+	<l id="58">Dès qu'il pourra lui-même animer son armée ;</l>
+	<l id="59">Et tout ce que d'eux tous a dit la renommée</l>
+	<l id="60">Te fera voir en lui le plus grand des Bourbons.</l>
+	<l id="61">Son père et son aïeul tous rayonnants de gloire,</l>
+	<l id="62">Ces grands rois qu'en tous lieux a suivis la victoire,</l>
+	<l id="63">Lui voyant emporter sur eux le premier rang,</l>
+	<l id="64">En deviendraient jaloux s'il n'était pas leur sang.</l>
+	<l id="65">Mais vole dans mon char, muse ; je veux t'apprendre</l>
+	<l id="66">Tout l'avenir d'un roi qui t'est si précieux.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="67">Je sais déjà ce qu'on doit en attendre,</l>
+	<l id="68">Et je lis chaque jour son destin dans les cieux.</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="69">Viens donc, viens avec moi faire le tour du monde ;</l>
+	<l id="70">Qu'unissant ensemble nos voix,</l>
+	<l id="71">Nous fassions résonner sur la terre et sur l'onde</l>
+	<l id="72">Qu'il est et le plus jeune et le plus grand des rois.</l>
+</sp>
+<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+	<l id="73">Soleil, j'y vole ; attends-moi donc, de grâce.</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="74">Viens, je t'attends, et te fais place.</l>
+<stage>Mélpomène vole dans le char du soleil, et y ayant pris place auprès de lui, ils unissent leurs voix, et chantent cet air à la louange du roi. Le dernier vers de chaque couplet est répété par le choeur de la musique.</stage>
+</sp>
+<sp who="MELPOMÈNE_SOLEIL"><speaker>MELPOMÈNE et Le SOLEIL.</speaker>
+	<l id="75">Cieux, écoutez ; écoutez, mers profondes ;</l>
+	<l id="76">Et vous, antres et bois,</l>
+	<l id="77">Affreux déserts, rochers battus des ondes,</l>
+	<l id="78">Redites après nous d'une commune voix :</l>
+	<l id="79">" Louis est le plus jeune et le plus grand des rois. "</l>
+	<l id="80">La majesté qui déjà l'environne</l>
+	<l id="81">Charme tous ses François ;</l>
+	<l id="82">Il est lui seul digne de sa couronne ;</l>
+	<l id="83">Et quand même le ciel l'aurait mise à leur choix,</l>
+	<l id="84">Il serait le plus jeune et le plus grand des rois.</l>
+	<l id="85">C'est à vos soins, reine, qu'on doit la gloire</l>
+	<l id="86">De tant de grands exploits ;</l>
+	<l id="87">Ils sont partout suivis de la victoire ;</l>
+	<l id="88">Et l'ordre merveilleux dont vous donnez ses lois</l>
+	<l id="89">Le rend et le plus jeune et le plus grand des rois.</l>
+</sp>
+<sp who="SOLEIL"><speaker>Le SOLEIL.</speaker>
+	<l id="90">Voilà ce que je dis sans cesse</l>
+	<l id="91">Dans tout mon large tour.</l>
+	<l id="92">Mais c'est trop retarder le jour ;</l>
+	<l id="93">Allons, muse, l'heure me presse,</l>
+	<l id="94">Et ma rapidité</l>
+	<l id="95">Doit regagner le temps que sur cette province,</l>
+	<l id="96">Pour contempler ce prince,</l>
+	<l id="97">Je me suis arrêté.</l>
+<stage>Le Soleil part avec rapidité, et enlève Melpomène avec lui dans son char pour aller publier ensemble la même chose au reste de l'univers.</stage>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<stage>DÉCORATION du PREMIER ACTE. Cette grande masse de montagnes et ces rochers élevés les uns sur les autres qui la composaient, ayant disparu e un moment par un merveilleux artifice, laissent voir en leur place la ville capitale du royaume de Céphée, ou plutôt la place publique de cette ville. Les deux côtés et le fond de théâtre sont des palais magnifiques, tous différents de structure, mais qui gardent admirablement l'égalité et les justesses de la perspective. Après que les dieux ont eu loisir de se satisfaire à considérer leur beauté, la rein Cassiope paraît comme passant par cette place pour aller au temple : elle est conduite par Persée, encore inconnu, mais qui passe pour un cavalier de grand mérite qu'elle entretient des malheurs publics, attendant que le roi la rejoigne pour aller à ce temple de compagnie.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cassiope, Persée, Suite de la Reine.</head>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="98">Généreux inconnu, qui chez tous les monarques</l>
+	<l id="99">Portez de vos vertus les éclatantes marques,</l>
+	<l id="100">Et dont l'aspect suffit à convaincre nos yeux</l>
+	<l id="101">Que vous sortez du sang ou des rois ou des dieux,</l>
+	<l id="102">Puisque vous avez vu le sujet de ce crime</l>
+	<l id="103">Que chaque mois expie une telle victime,</l>
+	<l id="104">Cependant qu'en ce lieu nous attendrons le roi,</l>
+	<l id="105">Soyez-y juste juge entre les dieux et moi.</l>
+	<l id="106">Jugez de mon forfait, jugez de leur colère ;</l>
+	<l id="107">Jugez s'ils ont eu droit d'en punir une mère,</l>
+	<l id="108">S'ils ont dû faire agir leur haine au même instant.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="109">J'en ai déjà jugé, reine, en vous imitant ;</l>
+	<l id="110">Et si de vos malheurs la cause ne procède</l>
+	<l id="111">Que d'avoir fait justice aux beautés d'Andromède,</l>
+	<l id="112">Si c'est là ce forfait digne d'un tel courroux,</l>
+	<l id="113">Je veux être à jamais coupable comme vous.</l>
+	<l id="114">Mais comme un bruit confus m'apprend ce mal extrême,</l>
+	<l id="115">Ne le puis-je, madame, apprendre de vous-même,</l>
+	<l id="116">Pour mieux renouveler ce crime glorieux</l>
+	<l id="117">Où soudain la raison est complice des yeux ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="118">écoutez : la douleur se soulage à se plaindre ;</l>
+	<l id="119">Et quelques maux qu'on souffre ou que l'on aye à craindre,</l>
+	<l id="120">Ce qu'un coeur généreux en montre de pitié</l>
+	<l id="121">Semble en notre faveur en prendre la moitié.</l>
+	<l id="122">Ce fut ce même jour qui conclut l'hyménée</l>
+	<l id="123">De ma chère Andromède avec l'heureux Phinée :</l>
+	<l id="124">Nos peuples, tous ravis de ces illustres noeuds,</l>
+	<l id="125">Sur les bords de la mer dressèrent force jeux ;</l>
+	<l id="126">Elle en donnait les prix. Dispensez ma tristesse</l>
+	<l id="127">De vous dépeindre ici la publique allégresse ;</l>
+	<l id="128">On décrit mal la joie au milieu des malheurs,</l>
+	<l id="129">Et sa plus douce idée est un sujet de pleurs.</l>
+	<l id="130">Ô jour, que ta mémoire encore m'est cruelle !</l>
+	<l id="131">Andromède jamais ne me parut si belle ;</l>
+	<l id="132">Et voyant ses regards s'épandre sur les eaux</l>
+	<l id="133">Pour jouir et juger d'un combat de vaisseaux :</l>
+	<l id="134">" telle, dis-je, Vénus sortit du sein de l'onde,</l>
+	<l id="135">Et promit à ses yeux la conquête du monde,</l>
+	<l id="136">Quand elle eut consulté sur leur éclat nouveau</l>
+	<l id="137">Les miroirs vagabonds de son flottant berceau. "</l>
+	<l id="138">À ce fameux spectacle on vit les Néréides</l>
+	<l id="139">Lever leurs moites fronts de leurs palais liquides,</l>
+	<l id="140">Et pour nouvelle pompe à ces nobles ébats</l>
+	<l id="141">À l'envi de la terre étaler leurs appas.</l>
+	<l id="142">Elles virent ma fille ; et leurs regards à peine</l>
+	<l id="143">Rencontrèrent les siens sur cette humide plaine,</l>
+	<l id="144">Que par des traits plus forts se sentant effacer,</l>
+	<l id="145">éblouis et confus je les vis s'abaisser,</l>
+	<l id="146">Examiner les leurs, et sur tous leurs visages</l>
+	<l id="147">En chercher d'assez vifs pour braver nos rivages.</l>
+	<l id="148">Je les vis se choisir jusqu'à cinq et six fois,</l>
+	<l id="149">Et rougir aussitôt nous comparant leur choix ;</l>
+	<l id="150">Et cette vanité qu'en toutes les familles</l>
+	<l id="151">On voit si naturelle aux mères pour leurs filles,</l>
+	<l id="152">Leur cria par ma bouche : " en est-il parmi vous,</l>
+	<l id="153">Ô nymphes ! Qui ne cède à des attraits si doux ?</l>
+	<l id="154">Et pourrez-vous nier, vous autres immortelles,</l>
+	<l id="155">Qu'entre nous la nature en forme de plus belles ? "</l>
+	<l id="156">Je m'emportais sans doute, et c'en était trop dit :</l>
+	<l id="157">Je les vis s'en cacher de honte et de dépit ;</l>
+	<l id="158">J'en vis dedans leurs yeux les vives étincelles :</l>
+	<l id="159">L'onde qui les reçut s'en irrita pour elles ;</l>
+	<l id="160">J'en vis enfler la vague, et la mer en courroux</l>
+	<l id="161">Rouler à gros bouillons ses flots jusques à nous.</l>
+	<l id="162">C'eût été peu des flots : la soudaine tempête,</l>
+	<l id="163">Qui trouble notre joie et dissipe la fête,</l>
+	<l id="164">Enfante en moins d'une heure et pousse sur nos bords</l>
+	<l id="165">Un monstre contre nous armé de mille morts.</l>
+	<l id="166">Nous fuyons, mais en vain ; il suit, il brise, il tue ;</l>
+	<l id="167">Chaque victime est morte aussitôt qu'abattue.</l>
+	<l id="168">Nous ne voyons qu'horreur, que sang de toutes parts ;</l>
+	<l id="169">Son haleine est poison, et poison ses regards :</l>
+	<l id="170">Il ravage, il désole et nos champs et nos villes,</l>
+	<l id="171">Et contre sa fureur il n'est aucuns asiles.</l>
+	<l id="172">Après beaucoup d'efforts et de voeux superflus,</l>
+	<l id="173">Ayant souffert beaucoup, et craignant encore plus,</l>
+	<l id="174">Nous courons à l'oracle en de telles alarmes ;</l>
+	<l id="175">Et voici ce qu'Ammon répondit à nos larmes :</l>
+	<l id="176">" pour apaiser Neptune, exposez tous les mois</l>
+	<l id="177">Au monstre qui le venge une fille à son choix,</l>
+	<l id="178">Jusqu'à ce que le calme à l'orage succède ;</l>
+	<l id="179">Le sort vous montrera</l>
+	<l id="180">Celle qu'il agréera :</l>
+	<l id="181">Différez cependant les noces d'Andromède."</l>
+	<l id="182">Comme dans un grand mal un moindre semble doux,</l>
+	<l id="183">Nous prenons pour faveur ce reste de courroux.</l>
+	<l id="184">Le monstre disparu nous rend un peu de joie :</l>
+	<l id="185">On ne le voit qu'aux jours qu'on lui livre sa proie.</l>
+	<l id="186">Mais ce remède enfin n'est qu'un amusement :</l>
+	<l id="187">Si l'on souffre un peu moins, on craint également ;</l>
+	<l id="188">Et toutes nous tremblons devant une infortune</l>
+	<l id="189">Qui toutes nous menace avant qu'en frapper une.</l>
+	<l id="190">La peur s'en renouvelle au bout de chaque mois ;</l>
+	<l id="191">J'en ai cru de frayeur déjà mourir cinq fois.</l>
+	<l id="192">Déjà nous avons vu cinq beautés dévorées,</l>
+	<l id="193">Mais des beautés, hélas ! Dignes d'être adorées,</l>
+	<l id="194">Et de qui tous les traits, pleins d'un céleste feu,</l>
+	<l id="195">Ne cédaient qu'à ma fille, et lui cédaient bien peu :</l>
+	<l id="196">Comme si choisissant de plus belle en plus belle,</l>
+	<l id="197">Le sort par ces degrés tâchait d'approcher d'elle,</l>
+	<l id="198">Et que pour élever ses traits jusques à nous,</l>
+	<l id="199">Il essayât sa force et mesurât ses coups.</l>
+	<l id="200">Rien n'a pu jusqu'ici toucher ce dieu barbare ;</l>
+	<l id="201">Et le sixième choix aujourd'hui se prépare :</l>
+	<l id="202">On le va faire au temple ; et je sens malgré moi</l>
+	<l id="203">Des mouvements secrets redoubler mon effroi.</l>
+	<l id="204">Je fis hier à Vénus offrir un sacrifice,</l>
+	<l id="205">Qui jamais à mes voeux ne parut si propice ;</l>
+	<l id="206">Et toutefois mon coeur, à force de trembler,</l>
+	<l id="207">Semble prévoir le coup qui le doit accabler.</l>
+	<l id="208">Vous donc, qui connaissez et mon crime et sa peine,</l>
+	<l id="209">Dites-moi s'il a pu mériter tant de haine,</l>
+	<l id="210">Et si le ciel devait tant de sévérité</l>
+	<l id="211">Aux premiers mouvements d'un peu de vanité.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="212">Oui, madame, il est juste ; et j'avouerai moi-même</l>
+	<l id="213">Qu'en le blâmant tantôt j'ai commis un blasphème.</l>
+	<l id="214">Mais vous ne voyez pas, dans votre aveuglement,</l>
+	<l id="215">Quel grand crime il punit d'un si grand châtiment.</l>
+	<l id="216">Les nymphes de la mer ne lui sont pas si chères</l>
+	<l id="217">Qu'il veuille s'abaisser à suivre leurs colères ;</l>
+	<l id="218">Et quand votre mépris en fit comparaison,</l>
+	<l id="219">Il voyait mieux que vous que vous aviez raison.</l>
+	<l id="220">Il venge, et c'est de là que votre mal procède,</l>
+	<l id="221">L'injustice rendue aux beautés d'Andromède.</l>
+	<l id="222">Sous les lois d'un mortel votre choix l'asservit !</l>
+	<l id="223">Cette injure est sensible aux dieux qu'elle ravit,</l>
+	<l id="224">Aux dieux qu'elle captive ; et ces rivaux célestes</l>
+	<l id="225">S'opposent à des noeuds à sa gloire funestes,</l>
+	<l id="226">En sauvent les appas qui les ont éblouis,</l>
+	<l id="227">Punissent vos sujets qui s'en sont réjouis.</l>
+	<l id="228">Jupiter, résolu de l'ôter à Phinée,</l>
+	<l id="229">Exprès par son oracle en défend l'hyménée.</l>
+	<l id="230">À sa flamme peut-être il veut la réserver ;</l>
+	<l id="231">Ou s'il peut se résoudre enfin à s'en priver,</l>
+	<l id="232">À quelqu'un de ses fils sans doute il la destine ;</l>
+	<l id="233">Et voilà de vos maux la secrète origine.</l>
+	<l id="234">Faites cesser l'offense, et le même moment</l>
+	<l id="235">Fera cesser ici son juste châtiment.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="236">Vous montrez pour ma fille une trop haute estime,</l>
+	<l id="237">Quand pour la mieux flatter vous me faites un crime,</l>
+	<l id="238">Dont la civilité me force de juger</l>
+	<l id="239">Que vous ne m'accusez qu'afin de m'obliger.</l>
+	<l id="240">Si quelquefois les dieux pour des beautés mortelles</l>
+	<l id="241">Quittent de leur séjour les clartés éternelles,</l>
+	<l id="242">Ces mêmes dieux aussi, de leur grandeur jaloux,</l>
+	<l id="243">Ne font pas chaque jour ce miracle pour nous ;</l>
+	<l id="244">Et quand pour l'espérer je serais assez folle,</l>
+	<l id="245">Le roi, dont tout dépend, est homme de parole ;</l>
+	<l id="246">Il a promis sa fille, et verra tout périr</l>
+	<l id="247">Avant qu'à se dédire il veuille recourir.</l>
+	<l id="248">Il tient cette alliance et glorieuse et chère :</l>
+	<l id="249">Phinée est de son sang, il est fils de son frère.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="250">Reine, le sang des dieux vaut bien celui des rois...</l>
+	<l id="251">Mais nous en parlerons encore quelque autre fois.</l>
+	<l id="252" part="i">Voici le roi qui vient.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Céphée, Cassiope, Phinée, Persée, suite du Roi et de la Reine.</head>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="252" part="f">N'en parlons plus, Phinée,</l>
+	<l id="253">Et laissons d'Andromède aller la destinée.</l>
+	<l id="254">Votre amour fait pour elle un inutile effort :</l>
+	<l id="255">Je la dois comme une autre au triste choix du sort.</l>
+	<l id="256">Elle est cause du mal, puisqu'elle l'est du crime :</l>
+	<l id="257">Peut-être qu'il la veut pour dernière victime,</l>
+	<l id="258">Et que nos châtiments deviendraient éternels,</l>
+	<l id="259">S'ils ne pouvaient tomber sur les vrais criminels.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="260">Est-ce un crime en ces lieux, seigneur, que d'être belle ?</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="261">Elle a rendu par là sa mère criminelle.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="262">C'est donc un crime ici que d'avoir de bons yeux</l>
+	<l id="263">Qui sachent bien juger d'un tel présent des cieux ?</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="264">Qui veut en bien juger n'a point le privilège</l>
+	<l id="265">D'aller jusqu'au blasphème et jusqu'au sacrilège.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="266">Ce blasphème, seigneur, de quoi vous m'accusez...</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="267">Madame, après les maux que vous avez causés,</l>
+	<l id="268">C'est à vous à pleurer, et non à vous défendre.</l>
+	<l id="269">Voyez, voyez quel sang vous avez fait répandre ;</l>
+	<l id="270">Et ne laissez paraître en cette occasion</l>
+	<l id="271">Que larmes, que soupirs, et que confusion.</l>
+	<l id="272">Je vous le dis encore, elle la crut trop belle ;</l>
+	<l id="273">Et peut-être le sort l'en veut punir en elle :</l>
+	<l id="274">Dérober Andromède à cette élection,</l>
+	<l id="275">C'est dérober sa mère à sa punition.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="276">Déjà cinq fois, seigneur, à ce choix exposée,</l>
+	<l id="277">Vous voyez que cinq fois le sort l'a refusée.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="278">Si le courroux du ciel n'en veut point à ses jours,</l>
+	<l id="279">Ce qu'il a fait cinq fois il le fera toujours.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="280">Le tenter si souvent, c'est lasser sa clémence :</l>
+	<l id="281">Il pourra vous punir de trop de confiance :</l>
+	<l id="282">Vouloir toujours faveur, c'est trop lui demander,</l>
+	<l id="283">Et c'est un crime enfin que de tant hasarder.</l>
+	<l id="284">Mais quoi ? N'est-il, seigneur, ni bonté paternelle,</l>
+	<l id="285">Ni tendresse du sang qui vous parle pour elle ?</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="286">Ah ! Ne m'arrachez point mon sentiment secret.</l>
+	<l id="287">Phinée, il est tout vrai, je l'expose à regret.</l>
+	<l id="288">J'aime que votre amour en sa faveur me presse ;</l>
+	<l id="289">La nature en mon coeur avec lui s'intéresse ;</l>
+	<l id="290">Mais elle ne saurait mettre d'accord en moi</l>
+	<l id="291">Les tendresses d'un père et les devoirs d'un roi ;</l>
+	<l id="292">Et par une justice à moi-même sévère,</l>
+	<l id="293">Je vous refuse en roi ce que je veux en père.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="294">Quelle est cette justice, et quelles sont ces lois</l>
+	<l id="295">Dont l'aveugle rigueur s'étend jusques aux rois ?</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="296">Celles que font les dieux, qui, tous rois que nous sommes,</l>
+	<l id="297">Punissent nos forfaits ainsi que ceux des hommes,</l>
+	<l id="298">Et qui ne nous font part de leur sacré pouvoir</l>
+	<l id="299">Que pour le mesurer aux règles du devoir.</l>
+	<l id="300">Que diraient mes sujets si je me faisais grâce,</l>
+	<l id="301">Et si, durant qu'au monstre on expose leur race,</l>
+	<l id="302">Ils voyaient, par un droit tyrannique et honteux,</l>
+	<l id="303">Le crime en ma maison, et la peine sur eux ?</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="304">Heureux sont les sujets, heureuses les provinces</l>
+	<l id="305">Dont le sang peut payer pour celui de leurs princes !</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="306">Mais heureux est le prince, heureux sont ses projets,</l>
+	<l id="307">Quand il se fait justice ainsi qu'à ses sujets !</l>
+	<l id="308">Notre oracle, après tout, n'excepte point ma fille :</l>
+	<l id="309">Ses termes généraux comprennent ma famille ;</l>
+	<l id="310">Et ne confondre pas ce qu'il a confondu,</l>
+	<l id="311">C'est se mettre au-dessus du dieu qui l'a rendu.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="312">Seigneur, s'il m'est permis d'entendre votre oracle,</l>
+	<l id="313">Je crois qu'à sa prière il donne peu d'obstacle ;</l>
+	<l id="314">Il parle d'Andromède, il la nomme, il suffit,</l>
+	<l id="315">Arrêtez-vous pour elle à ce qu'il vous en dit :</l>
+	<l id="316">La séparer longtemps d'un amant si fidèle,</l>
+	<l id="317">C'est tout le châtiment qu'il semble vouloir d'elle.</l>
+	<l id="318">Différez son hymen sans l'exposer au choix.</l>
+	<l id="319">Le ciel assez souvent, doux aux crimes des rois,</l>
+	<l id="320">Quand il leur a montré quelque légère haine,</l>
+	<l id="321">Répand sur leurs sujets le reste de leur peine.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="322">Vous prenez mal l'oracle ; et pour l'expliquer mieux,</l>
+	<l id="323">Sachez... Mais quel éclat vient de frapper mes yeux ?</l>
+	<l id="324">D'où partent ces longs traits de nouvelles lumières ?</l>
+</sp>
+<stage>Le ciel s'ouvre durant cette conversation du roi avec Phinée, et fait voir dans un profond éloignement l'étoile de Vénus qui sert de machine pour apporter cette déesse jusqu'au milieu du théâtre. Elle s'avance lentement sans que l'oeil puisse découvrir à quoi elle est suspendue, et cependant le peuple a loisir de lui adresser ses voeux par cet hymne que chantent les musiciens.</stage>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="325">Du ciel qui vient d'ouvrir ses luisantes barrières,</l>
+	<l id="326">D'où quelque déité vient, ce semble, ici-bas</l>
+	<l id="327">Terminer elle-même entre vous ces débats.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="328">Ah ! Je la reconnais, la déesse d'Éryce ;</l>
+	<l id="329">C'est elle, c'est Vénus, à mes voeux si propice :</l>
+	<l id="330">Je vois dans ses regards mon bonheur renaissant.</l>
+	<l id="331">Peuple, faites des voeux, tandis qu'elle descend.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Vénus, Céphée, Cassiope, Persée, Phinée, Choeur de musique, Suite du Roi et de la Reine.</head>
+<sp who="CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="332">Reine de Paphe et d'Amathonte,</l>
+	<l id="333">Mère d'amour, et fille de la mer,</l>
+	<l id="334">Peux-tu voir sans un peu de honte</l>
+	<l id="335">Que contre nous elle ait voulu s'armer,</l>
+	<l id="336">Et que du même sein qui fut ton origine</l>
+	<l id="337">Sorte notre ruine ?</l>
+	<l id="338">Peux-tu voir que de la même onde</l>
+	<l id="339">Il ose naître un tel monstre après toi ?</l>
+	<l id="340">Que d'où vint tant de bien au monde</l>
+	<l id="341">Il vienne enfin tant de mal et d'effroi,</l>
+	<l id="342">Et que l'heureux berceau de ta beauté suprême</l>
+	<l id="343">Enfante l'horreur même ?</l>
+	<l id="344">Venge l'honneur de ta naissance</l>
+	<l id="345">Qu'on a souillé par un tel attentat ;</l>
+	<l id="346">Rends-lui sa première innocence,</l>
+	<l id="347">Et tu rendras le calme à tout l'état ;</l>
+	<l id="348">Et nous dirons enfin que d'où le mal procède</l>
+	<l id="349">Part aussi le remède.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="350">Peuple, elle veut parler : silence à la déesse ;</l>
+	<l id="351">Silence, et préparez vos coeurs à l'allégresse.</l>
+	<l id="352">Elle a reçu nos voeux, et les daigne exaucer ;</l>
+	<l id="353">écoutez-en l'effet qu'elle va prononcer.</l>
+</sp>
+<sp who="VENUS"><speaker>VÉNUS.</speaker>
+	<l id="354">Ne tremblez plus, mortels ; ne tremble plus, ô mère !</l>
+	<l id="355">On va jeter le sort pour la dernière fois,</l>
+	<l id="356">Et le ciel ne veut plus qu'un choix</l>
+	<l id="357">Pour apaiser de tout point sa colère.</l>
+	<l id="358">Andromède ce soir aura l'illustre époux</l>
+	<l id="359">Qui seul est digne d'elle, et dont seule elle est digne.</l>
+	<l id="360">Préparez son hymen, où, pour faveur insigne,</l>
+	<l id="361">Les dieux ont résolu de se joindre avec vous.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="362">Souffrez que sans tarder je porte à ma princesse,</l>
+	<l id="363">Seigneur, l'heureux arrêt qu'a donné la déesse.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="364">Allez, l'impatience est trop juste aux amants.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="365">Suivons-la dans le ciel par nos remerciements ;</l>
+	<l id="366">Et d'une voix commune adorant sa puissance,</l>
+	<l id="367">Montrons à ses faveurs notre reconnaissance.</l>
+</sp>
+<sp who="CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="368">Ainsi toujours sur tes autels</l>
+	<l id="369">Tous les mortels</l>
+	<l id="370">Offrent leurs coeurs en sacrifice !</l>
+	<l id="371">Ainsi le Zéphyre en tout temps</l>
+	<l id="372">Sur tes palais de Cythère et d'Éryce</l>
+	<l id="373">Fasse régner les grâces du printemps !</l>
+	<l id="374">Daigne affermir l'heureuse paix</l>
+	<l id="375">Qu'à nos souhaits</l>
+	<l id="376">Vient de promettre ton oracle ;</l>
+	<l id="377">Et fais pour ces jeunes amants,</l>
+	<l id="378">Pour qui tu viens de faire ce miracle,</l>
+	<l id="379">Un siècle entier de doux ravissements.</l>
+	<l id="380">Dans nos campagnes et nos bois</l>
+	<l id="381">Toutes nos voix</l>
+	<l id="382">Béniront tes douces atteintes ;</l>
+	<l id="383">Et dans les rochers d'alentour,</l>
+	<l id="384">La même écho qui redisait nos plaintes</l>
+	<l id="385">Ne redira que des soupirs d'amour.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="386">C'est assez... La déesse est déjà disparue ;</l>
+	<l id="387">Ses dernières clartés se perdent dans la nue ;</l>
+	<l id="388">Allons jeter le sort pour la dernière fois.</l>
+	<l id="389">Malheureux le dernier que foudroiera son choix,</l>
+	<l id="390">Et dont en ce grand jour la perte domestique</l>
+	<l id="391">Souillera de ses pleurs l'allégresse publique !</l>
+	<l id="392">Madame, cependant, songez à préparer</l>
+	<l id="393">Cet hymen que les dieux veulent tant honorer :</l>
+	<l id="394">Rendez-en l'appareil digne de ma puissance,</l>
+	<l id="395">Et digne, s'il se peut, d'une telle présence.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="396">J'obéis avec joie, et c'est me commander</l>
+	<l id="397">Ce qu'avec passion j'allais vous demander.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Cassiope, Persée, Suite de la Reine.</head>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="398">Eh bien ! Vous le voyez, ce n'était pas un crime,</l>
+	<l id="399">Et les dieux ont trouvé cet hymen légitime,</l>
+	<l id="400">Puisque leur ordre exprès nous le fait achever,</l>
+	<l id="401">Et que par leur présence ils doivent l'approuver.</l>
+	<l id="402" part="i">Mais quoi ? Vous soupirez ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="402" part="f">J'en ai bien lieu, madame.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="403" part="i">Le sujet ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="403" part="m">Votre joie.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="403" part="f">Elle vous gêne l'âme ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="404">Après ce que j'ai dit, douter d'un si beau feu,</l>
+	<l id="405">Reine, c'est ou m'entendre ou me croire bien peu.</l>
+	<l id="406">Mais ne me forcez pas du moins à vous le dire,</l>
+	<l id="407">Quand mon âme en frémit et mon coeur en soupire.</l>
+	<l id="408">Pouvais-je avoir des yeux et ne pas l'adorer ?</l>
+	<l id="409">Et pourrais-je la perdre et n'en pas soupirer ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="410">Quel espoir formiez-vous, puisqu'elle était promise,</l>
+	<l id="411">Et qu'en vain son bonheur domptait votre franchise ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="412">Vouloir que la raison règne sur un amant,</l>
+	<l id="413">C'est être plus que lui dedans l'aveuglement.</l>
+	<l id="414">Un coeur digne d'aimer court à l'objet aimable,</l>
+	<l id="415">Sans penser au succès dont sa flamme est capable ;</l>
+	<l id="416">Il s'abandonne entier, et n'examine rien :</l>
+	<l id="417">Aimer est tout son but, aimer est tout son bien ;</l>
+	<l id="418">Il n'est difficulté ni péril qui l'étonne.</l>
+	<l id="419">" ce qui n'est point à moi n'est encore à personne,</l>
+	<l id="420">Disais-je ; et ce rival qui possède sa foi,</l>
+	<l id="421">S'il espère un peu plus, n'obtient pas plus que moi. "</l>
+	<l id="422">Voilà durant vos maux de quoi vivait ma flamme,</l>
+	<l id="423">Et les douces erreurs dont je flattais mon âme.</l>
+	<l id="424">Pour nourrir des désirs d'un beau feu trop contents,</l>
+	<l id="425">C'était assez d'espoir que d'espérer au temps ;</l>
+	<l id="426">Lui qui fait chaque jour tant de métamorphoses,</l>
+	<l id="427">Pouvait en ma faveur faire beaucoup de choses.</l>
+	<l id="428">Mais enfin la déesse a prononcé ma mort,</l>
+	<l id="429">Et je suis ce dernier sur qui tombe le sort.</l>
+	<l id="430">J'étais indigne d'elle et de son hyménée,</l>
+	<l id="431">Et toutefois, hélas ! Je valais bien Phinée.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="432">Vous plaindre en cet état, c'est tout ce que je puis.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="433">Vous vous plaindrez peut-être apprenant qui je suis.</l>
+	<l id="434">Vous ne vous trompiez point touchant mon origine,</l>
+	<l id="435">Lorsque vous la jugiez ou royale ou divine :</l>
+	<l id="436">Mon père est... Mais pourquoi contre vous l'animer ?</l>
+	<l id="437">Puisqu'il nous faut mourir, mourons sans le nommer ;</l>
+	<l id="438">Il vengerait ma mort, si j'avais fait connaître</l>
+	<l id="439">De quel illustre sang j'ai la gloire de naître ;</l>
+	<l id="440">Et votre grand bonheur serait mal assuré,</l>
+	<l id="441">Si vous m'aviez connu sans m'avoir préféré</l>
+	<l id="442">C'est trop perdre de temps, courons à votre joie,</l>
+	<l id="443">Courons à ce bonheur que le ciel vous envoie ;</l>
+	<l id="444">J'en veux être témoin, afin que mon tourment</l>
+	<l id="445">Puisse par ce poison finir plus promptement.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="446">Le temps vous fera voir pour souverain remède</l>
+	<l id="447">Le peu que vous perdez en perdant Andromède ;</l>
+	<l id="448">Et les dieux, dont pour nous vous voyez la bonté,</l>
+	<l id="449">Vous rendront bientôt plus qu'ils ne vous ont ôté.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="450">Ni le temps ni les dieux ne feront ce miracle.</l>
+	<l id="451">Mais allons : à votre heur je ne mets point d'obstacle,</l>
+	<l id="452">Reine ; c'est l'affaiblir que de le retarder ;</l>
+	<l id="453">Et les dieux ont parlé, c'est à moi de céder.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<stage>DÉCORATION DU SECOND ACTE. Cette place publique s'évanouit en un instant pour faire place à un jardin délicieux, et ces grands palais sont changés en autant de vases de marbre blanc, qui portent alternativement, les uns des statues d'où sortent autant de jets d'eau, les autres des myrtes, des jasmins et d'autres arbres de cette nature. De chaque côté se détache un rang d'orangers dans de pareils vases, qui viennent former un admirable berceau jusqu'au milieu du théâtre, et le séparent ainsi en trois allées, que l'artifice ingénieux de la perspective fait paraître longue de plus de mille pas. C'est là qu'on voit Andromède que ces nymphes qui cueillent des fleurs, et en composent une guirlande dont cette princesse veut couronner Phinée, pour le récompenser, par cette galanterie, de la bonne nouvelle qu'il lui vient d'apporter.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Andromède, Choeur de Nymphes.</head>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="454">Nymphes, notre guirlande est encore mal ornée ;</l>
+	<l id="455">Et devant qu'il soit peu nous reverrons Phinée,</l>
+	<l id="456">Que de ma propre main j'en voulais couronner</l>
+	<l id="457">Pour les heureux avis qu'il vient de me donner.</l>
+	<l id="458">Toutefois la faveur ne serait pas bien grande,</l>
+	<l id="459">Et mon coeur après tout vaut bien une guirlande.</l>
+	<l id="460">Dans l'état où le ciel nous a mis aujourd'hui,</l>
+	<l id="461">C'est l'unique présent qui soit digne de lui.</l>
+	<l id="462">Quittez, nymphes, quittez ces peines inutiles ;</l>
+	<l id="463">L'augure déplairait de tant de fleurs stériles :</l>
+	<l id="464">Il faut à notre hymen des présages plus doux.</l>
+	<l id="465">Dites-moi cependant laquelle d'entre vous...</l>
+	<l id="466">Mais il faut me le dire, et sans faire les fines.</l>
+</sp>
+<sp who="AGLANTE"><speaker>AGLANTE.</speaker>
+	<l id="467" part="i">Quoi ? Madame.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="467" part="f">à tes yeux je vois que tu devines.</l>
+	<l id="468">Dis-moi donc d'entre vous laquelle a retenu</l>
+	<l id="469">En ces lieux jusqu'ici cet illustre inconnu ;</l>
+	<l id="470">Car enfin ce n'est point sans un peu de mystère</l>
+	<l id="471">Qu'un tel héros s'attache à la cour de mon père :</l>
+	<l id="472">Quelque chaîne l'arrête et le force à tarder.</l>
+	<l id="473">Qu'on ne perde point temps à s'entre-regarder :</l>
+	<l id="474">Parlez, et d'un seul mot éclaircissez mes doutes.</l>
+	<l id="475">Aucune ne répond, et vous rougissez toutes !</l>
+	<l id="476">Quoi ? Toutes, l'aimez-vous ? Un si parfait amant</l>
+	<l id="477">Vous a-t-il su charmer toutes également ?</l>
+	<l id="478">Il n'en faut point rougir, il est digne qu'on l'aime :</l>
+	<l id="479">Si je n'aimais ailleurs, peut-être que moi-même,</l>
+	<l id="480">Oui, peut-être, à le voir si bien fait, si bien né,</l>
+	<l id="481">Il aurait eu mon coeur, s'il n'eût été donné.</l>
+	<l id="482">Mais j'aime trop Phinée, et le change est un crime.</l>
+</sp>
+<sp who="AGLANTE"><speaker>AGLANTE.</speaker>
+	<l id="483">Ce héros vaut beaucoup, puisqu'il a votre estime ;</l>
+	<l id="484">Mais il sait ce qu'il vaut, et n'a jusqu'à ce jour</l>
+	<l id="485">À pas une de nous daigné montrer d'amour.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="486" part="i">Que dis-tu ?</l>
+</sp>
+<sp who="AGLANTE"><speaker>AGLANTE.</speaker>
+	<l id="486" part="f">Pas fait même une offre de service.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="487">Ah ! C'est de quoi rougir toutes avec justice ;</l>
+	<l id="488">Et la honte à vos fronts doit bien cette couleur,</l>
+	<l id="489">Si tant de si beaux yeux ont pu manquer son coeur.</l>
+</sp>
+<sp who="CEPHALIE"><speaker>CÉPHALIE.</speaker>
+	<l id="490">Où les vôtres, madame, épandent leur lumière,</l>
+	<l id="491">Cette honte pour nous est assez coutumière.</l>
+	<l id="492">Les plus vives clartés s'éteignent auprès d'eux,</l>
+	<l id="493">Comme auprès du soleil meurent les autres feux ;</l>
+	<l id="494">Et pour peu qu'on vous voie et qu'on vous considère,</l>
+	<l id="495">Vous ne nous laissez point de conquêtes à faire.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="496">Vous êtes une adroite ; achevez, achevez :</l>
+	<l id="497">C'est peut-être en effet vous qui le captivez ;</l>
+	<l id="498">Car il aime, et j'en vois la preuve trop certaine.</l>
+	<l id="499">Chaque fois qu'il me parle il semble être à la gêne ;</l>
+	<l id="500">Son visage et sa voix changent à tous propos ;</l>
+	<l id="501">Il hésite, il s'égare au bout de quatre mots ;</l>
+	<l id="502">Ses discours vont sans ordre ; et plus je les écoute,</l>
+	<l id="503">Plus j'entends des soupirs dont j'ignore la route.</l>
+	<l id="504">Où vont-ils, Céphalie ? Où vont-ils ? Répondez.</l>
+</sp>
+<sp who="CEPHALIE"><speaker>CÉPHALIE.</speaker>
+	<l id="505">C'est à vous d'en juger, vous qui les entendez.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE, chantant sans être vu.</speaker>
+	<l id="506">Qu'elle est lente, cette journée !</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="507">Taisons-nous : cette voix me parle pour Phinée ;</l>
+	<l id="508">Sans doute il n'est pas loin, et veut à son retour</l>
+	<l id="509">Que des accents si doux m'expliquent son amour.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="510">Qu'elle est lente, cette journée</l>
+	<l id="511">Dont la fin me doit rendre heureux !</l>
+	<l id="512">Chaque moment à mon coeur amoureux</l>
+	<l id="513">Semble durer plus d'une année.</l>
+	<l id="514">Ô ciel ! Quel est l'heur d'un amant,</l>
+	<l id="515">Si quand il en a l'assurance</l>
+	<l id="516">Sa juste impatience</l>
+	<l id="517">Est un nouveau tourment ?</l>
+	<l id="518">Je dois posséder Andromède :</l>
+	<l id="519">Juge, Soleil, quel est mon bien !</l>
+	<l id="520">Vis-tu jamais amour égal au mien ?</l>
+	<l id="521">Vois-tu beauté qui ne lui cède ?</l>
+	<l id="522">Puis donc que la longueur du jour</l>
+	<l id="523">De mon nouveau mal est la source,</l>
+	<l id="524">Précipite ta course,</l>
+	<l id="525">Et tarde ton retour.</l>
+	<l id="526">Tu luis encore, et ta lumière</l>
+	<l id="527">Semble se plaire à m'affliger.</l>
+	<l id="528">Ah ! Mon amour te va bien obliger</l>
+	<l id="529">À quitter soudain ta carrière.</l>
+	<l id="530">Viens, Soleil, viens voir la beauté</l>
+	<l id="531">Dont le divin éclat me dompte ;</l>
+	<l id="532">Et tu fuiras de honte</l>
+	<l id="533">D'avoir moins de clarté.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Phinée, Andromède, Choeur de Nymphes, Suite de Phinée.</head>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="534">Ce n'est pas mon dessein, madame, de surprendre,</l>
+	<l id="535">Puisque avant que d'entrer je me suis fait entendre.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="536">Vos voeux pour les cacher n'étaient pas criminels,</l>
+	<l id="537">Puisqu'ils suivent des dieux les ordres éternels.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="538">Que me direz-vous donc de leur galanterie ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="539">Que je vais vous payer de votre flatterie.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="540" part="i">Comment ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="540" part="f">En vous donnant de semblables témoins,</l>
+	<l id="541">Si vous aimez beaucoup, que je n'aime pas moins.</l>
+	<l id="542">Approchez, Liriope, et rendez-lui son change ;</l>
+	<l id="543">C'est vous, c'est votre voix que je veux qui me venge.</l>
+	<l id="544">De grâce, écoutez-la ; nous avons écouté,</l>
+	<l id="545">Et demandons silence après l'avoir prêté.</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE, chante.</speaker>
+	<l id="546">Phinée est plus aimé qu'Andromède n'est belle,</l>
+	<l id="547">Bien qu'ici-bas tout cède à ses attraits ;</l>
+	<l id="548">Comme il n'est point de si doux traits,</l>
+	<l id="549">Il n'est point de coeur si fidèle.</l>
+	<l id="550">De mille appas son visage semé</l>
+	<l id="551">La rend une merveille ;</l>
+	<l id="552">Mais quoiqu'elle soit sans pareille,</l>
+	<l id="553">Phinée est encor plus aimé.</l>
+	<l id="554">Bien que le juste ciel fasse voir que sans crime</l>
+	<l id="555">On la préfère aux nymphes de la mer,</l>
+	<l id="556">Ce n'est que de savoir aimer</l>
+	<l id="557">Qu'elle-même veut qu'on l'estime ;</l>
+	<l id="558">Chacun, d'amour pour elle consumé,</l>
+	<l id="559">D'un coeur lui fait un temple ;</l>
+	<l id="560">Mais quoiqu'elle soit sans exemple,</l>
+	<l id="561">Phinée est encor plus aimé.</l>
+	<l id="562">Enfin, si ses beaux yeux passent pour un miracle,</l>
+	<l id="563">C'est un miracle aussi que son amour,</l>
+	<l id="564">Pour qui Vénus en ce beau jour</l>
+	<l id="565">A prononcé ce digne oracle :</l>
+	<l id="566">Le ciel lui-même, en la voyant, charmé,</l>
+	<l id="567">La juge incomparable ;</l>
+	<l id="568">Mais quoiqu'il l'ait faite adorable,</l>
+	<l id="569">Phinée est encore plus aimé.</l>
+</sp>
+<stage>Cet air chanté, le page de Phinée et cette nymphe font un dialogue en musique, dont chaque couplet à pour refrain l'oracle que Vénus a prononcé au premier acte en faveur de ces deux amants, chanté par les deux voies unies, et répété par le choeur entier de la musique.</stage>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="570" part="i">Heureux amant !</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="570" part="f">Heureuse amante !</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="571" part="i">Ils n'ont qu'une âme.</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="571" part="f">Ils n'ont tous deux qu'un coeur.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="572">Joignons nos voix pour chanter leur bonheur.</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="573">Joignons nos voix pour bénir leur attente.</l>
+</sp>
+<sp who="PAGE_LIRIOPE"><speaker>PAGE et LIRIOPE.</speaker>
+	<l id="574">Andromède ce soir aura l'illustre époux</l>
+	<l id="575">Qui seul est digne d'elle, et dont seule elle est digne.</l>
+	<l id="576">Préparons son hymen, où, pour faveur insigne,</l>
+	<l id="577">Les dieux ont résolu de se joindre avec nous.</l>
+</sp>
+<sp who="CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="578">Préparons son hymen, où, pour faveur insigne,</l>
+	<l id="579">Les dieux ont résolu de se joindre avec nous.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="580" part="i">Le ciel le veut.</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="580" part="f">Vénus l'ordonne.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="581" part="i">L'amour les joint.</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="581" part="f">L'hymen va les unir.</l>
+</sp>
+<sp who="PAGE"><speaker>UN PAGE.</speaker>
+	<l id="582">Douce union que chacun doit bénir !</l>
+</sp>
+<sp who="LIRIOPE"><speaker>LIRIOPE.</speaker>
+	<l id="583">Heureuse amour qu'un tel succès couronne !</l>
+</sp>
+<sp who="PAGE_LIRIOPE"><speaker>PAGE et LIRIOPE.</speaker>
+	<l id="584">Andromède ce soir aura l'illustre époux</l>
+	<l id="585">Qui seul est digne d'elle, et dont seule elle est digne.</l>
+	<l id="586">Préparons son hymen, où, pour faveur insigne,</l>
+	<l id="587">Les dieux ont résolu de se joindre avec nous.</l>
+</sp>
+<sp who="CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="588">Préparons son hymen, où, pour faveur insigne,</l>
+	<l id="589">Les dieux ont résolu de se joindre avec nous.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="590">Il n'en faut point mentir, leur accord m'a surprise.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="591">Madame, c'est ainsi que tout me favorise,</l>
+	<l id="592">Et que tous vos sujets soupirent en ces lieux</l>
+	<l id="593">Après l'heureux effet de cet arrêt des dieux,</l>
+	<l id="594" part="i">que leurs souhaits unis...</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Phinée, Andromède, Timante, Choeur de Nymphes, Suite de Phinée.</head>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="594" part="f">Ah ! Seigneur, ah ! Madame.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="595">Que nous veux-tu, Timante, et qui trouble ton âme ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="596" part="i">Le pire des malheurs.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="596" part="f">Le roi serait-il mort ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="597">Non, seigneur ; mais enfin le triste choix du sort</l>
+	<l id="598">Vient de tomber... Hélas ! Pourrai-je vous le dire ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="599">Est-ce sur quelque objet pour qui ton coeur soupire ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="600">Soupirer à vos yeux du pire de ses coups,</l>
+	<l id="601">N'est-ce pas dire assez qu'il est tombé sur vous ?</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="602">Qui te fait nous donner de si vaines alarmes ?</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="603">Si vous n'en croyez pas mes soupirs et mes larmes,</l>
+	<l id="604">Vous en croirez le roi, qui bientôt à vos yeux</l>
+	<l id="605">La va livrer lui-même aux ministres des dieux.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="606">C'est nous faire, Timante, un conte ridicule ;</l>
+	<l id="607">Et je tiendrais le roi bien simple et bien crédule,</l>
+	<l id="608">Si plus qu'une déesse il en croyait le sort.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="609">Le roi non plus que vous ne l'a pas cru d'abord ;</l>
+	<l id="610">Il a fait par trois fois essayer sa malice,</l>
+	<l id="611">Et l'a vu par trois fois faire même injustice :</l>
+	<l id="612">Du vase par trois fois ce beau nom est sorti.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="613">Et toutes les trois fois le sort en a menti.</l>
+	<l id="614">Le ciel a fait pour vous une autre destinée :</l>
+	<l id="615">Son ordre est immuable, il veut notre hyménée ;</l>
+	<l id="616">Il le veut, il y met le bonheur de ces lieux ;</l>
+	<l id="617">Et ce n'est pas au sort à démentir les dieux.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="618">Assez souvent le ciel par quelque fausse joie</l>
+	<l id="619">Se plaît à prévenir les maux qu'il nous envoie ;</l>
+	<l id="620">Du moins il m'a rendu quelques moments bien doux</l>
+	<l id="621">Par ce flatteur espoir que j'allais être à vous.</l>
+	<l id="622">Mais puisque ce n'était qu'une trompeuse attente,</l>
+	<l id="623">Gardez mon souvenir, et je mourrai contente.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="624">Et vous mourrez contente ! Et j'ai pu mériter</l>
+	<l id="625">Qu'avec contentement vous puissiez me quitter !</l>
+	<l id="626">Détacher sans regret votre âme de la mienne !</l>
+	<l id="627">Vouloir que je le voie, et que je m'en souvienne !</l>
+	<l id="628">Et mon fidèle amour qui reçut votre foi</l>
+	<l id="629">Vous trouve indifférente entre la mort et moi !</l>
+	<l id="630">Oui, je m'en souviendrai, vous le voulez, madame ;</l>
+	<l id="631">J'accepte le supplice où vous livrez mon âme ;</l>
+	<l id="632">Mais quelque peu d'amour que vous me fassiez voir,</l>
+	<l id="633">Le mien n'oubliera pas les lois de son devoir.</l>
+	<l id="634">Je dois, malgré le sort, je dois, malgré vous-même,</l>
+	<l id="635">Si vous aimez si mal, vous montrer comme on aime,</l>
+	<l id="636">Et faire reconnaître aux yeux qui m'ont charmé</l>
+	<l id="637">Que j'étais digne au moins d'être un peu mieux aimé.</l>
+	<l id="638">Vous l'avouerez bientôt, et j'aurai cette gloire,</l>
+	<l id="639">Qui dans tout l'avenir suivra notre mémoire,</l>
+	<l id="640">Que pour se voir quitter avec contentement,</l>
+	<l id="641">Un amant tel que moi n'en est pas moins amant.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="642">C'est donc trop peu pour moi que des malheurs si proches,</l>
+	<l id="643">Si vous ne les croissez par d'injustes reproches !</l>
+	<l id="644">Vous quitter sans regret ! Les dieux me sont témoins</l>
+	<l id="645">Que j'en montrerais plus si je vous aimais moins.</l>
+	<l id="646">C'est pour vous trop aimer que je parois toute autre :</l>
+	<l id="647">J'étouffe ma douleur pour n'aigrir pas la vôtre ;</l>
+	<l id="648">Je retiens mes soupirs de peur de vous fâcher,</l>
+	<l id="649">Et me montre insensible afin de moins toucher.</l>
+	<l id="650">Hélas ! Si vous savez faire voir comme on aime,</l>
+	<l id="651">Du moins vous voyez mal quand l'amour est extrême ;</l>
+	<l id="652">Oui, Phinée, et je doute, en courant à la mort,</l>
+	<l id="653">Lequel m'est plus cruel, ou de vous, ou du sort.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="654">Hélas ! Qu'il était grand quand je l'ai cru s'éteindre,</l>
+	<l id="655">Votre amour ! Et qu'à tort ma flamme osait s'en plaindre !</l>
+	<l id="656">Princesse, vous pouvez me quitter sans regret :</l>
+	<l id="657">Vous ne perdez en moi qu'un amant indiscret,</l>
+	<l id="658">Qu'un amant téméraire, et qui même a l'audace</l>
+	<l id="659">D'accuser votre amour quand vous lui faites grâce ;</l>
+	<l id="660">Mais pour moi, dont la perte est sans comparaison,</l>
+	<l id="661">Qui perds en vous perdant et lumière et raison,</l>
+	<l id="662">Je n'ai que ma douleur qui m'aveugle et me guide :</l>
+	<l id="663">Dessus toute mon âme elle seule préside ;</l>
+	<l id="664">Elle y règne, et je cède entier à son transport ;</l>
+	<l id="665">Mais je ne cède pas aux caprices du sort.</l>
+	<l id="666">Que le roi par scrupule à sa rigueur défère,</l>
+	<l id="667">Qu'une indigne équité le fasse injuste père,</l>
+	<l id="668">La reine et mon amour sauront bien empêcher</l>
+	<l id="669">Qu'un choix si criminel ne coûte un sang si cher.</l>
+	<l id="670">J'ose tout, je puis tout après un tel oracle.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="671">La reine est hors d'état d'y joindre aucun obstacle :</l>
+	<l id="672">Surprise comme vous d'un tel événement,</l>
+	<l id="673">Elle en a de douleur perdu tout sentiment ;</l>
+	<l id="674">Et sans doute le roi livrera la princesse</l>
+	<l id="675">Avant qu'on l'ait pu voir sortir de sa faiblesse.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="676">Eh bien ! Mon amour seul saura jusqu'au trépas,</l>
+	<l id="677" part="i">malgré tous...</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="677" part="f">Le roi vient ; ne vous emportez pas.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Céphée, Phinée, Andromède, Persée, Timante, Choeur de Nymphes, Suite du Roi et de Phinée.</head>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="678">Ma fille, si tu sais les nouvelles funestes</l>
+	<l id="679">De ce dernier effort des colères célestes,</l>
+	<l id="680">Si tu sais de ton sort l'impitoyable cours,</l>
+	<l id="681">Qui fait le plus cruel du plus beau de nos jours,</l>
+	<l id="682">épargne ma douleur, juges-en par sa cause,</l>
+	<l id="683">Et va sans me forcer à te dire autre chose.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="684">Seigneur, je vous l'avoue, il est bien rigoureux</l>
+	<l id="685">De tout perdre au moment qu'on se doit croire heureux ;</l>
+	<l id="686">Et le coup qui surprend un espoir légitime</l>
+	<l id="687">Porte plus d'une mort au coeur de la victime.</l>
+	<l id="688">Mais enfin il est juste, et je le dois bénir :</l>
+	<l id="689">La cause des malheurs les doit faire finir.</l>
+	<l id="690">Le ciel, qui se repent sitôt de ses caresses,</l>
+	<l id="691">Verra plus de constance en moi qu'en ses promesses :</l>
+	<l id="692">Heureuse, si mes jours un peu précipités</l>
+	<l id="693">Satisfont à ces dieux pour moi seule irrités,</l>
+	<l id="694">Si je suis la dernière à leur courroux offerte,</l>
+	<l id="695">Si le salut public peut naître de ma perte !</l>
+	<l id="696">Malheureuse pourtant de ce qu'un si grand bien</l>
+	<l id="697">Vous a déjà coûté d'autre sang que le mien,</l>
+	<l id="698">Et que je ne suis pas la première et l'unique</l>
+	<l id="699">Qui rende à votre état la sûreté publique !</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="700">Quoi ? Vous vous obstinez encore à me trahir ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="701">Je vous plains, je me plains, mais je dois obéir.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="702">Honteuse obéissance à qui votre amour cède !</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="703">Obéissance illustre, et digne d'Andromède !</l>
+	<l id="704">Son nom comblé par là d'un immortel honneur...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="705">Je l'empêcherai bien, ce funeste bonheur.</l>
+	<l id="706">Andromède est à moi, vous me l'avez donnée ;</l>
+	<l id="707">Le ciel pour notre hymen a pris cette journée ;</l>
+	<l id="708">Vénus l'a commandé : qui me la peut ôter ?</l>
+	<l id="709">Le sort auprès des dieux se doit-il écouter ?</l>
+	<l id="710">Ah ! Si j'en vois ici les infâmes ministres</l>
+	<l id="711">S'apprêter aux effets de ses ordres sinistres...</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="712">Apprenez que le sort n'agit que sous les dieux,</l>
+	<l id="713">Et souffrez comme moi le bonheur de ces lieux.</l>
+	<l id="714">Votre perte n'est rien au prix de ma misère :</l>
+	<l id="715">Vous n'êtes qu'amoureux, Phinée, et je suis père.</l>
+	<l id="716">Il est d'autres objets dignes de votre foi ;</l>
+	<l id="717">Mais il n'est point ailleurs d'autres filles pour moi.</l>
+	<l id="718">Songez donc mieux qu'un père à ces affreux ravages</l>
+	<l id="719">Que partout de ce monstre épandirent les rages ;</l>
+	<l id="720">Et n'en rappelez pas l'épouvantable horreur,</l>
+	<l id="721">Pour trop croire et trop suivre une aveugle fureur.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="722">Que de nouveau ce monstre entré dessus vos terres</l>
+	<l id="723">Fasse à tous vos sujets d'impitoyables guerres,</l>
+	<l id="724">Le sang de tout un peuple est trop bien employé</l>
+	<l id="725">Quand celui de ses rois en peut être payé ;</l>
+	<l id="726">Et je ne connais point d'autre perte publique</l>
+	<l id="727">Que celle où vous condamne un sort si tyrannique.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="728">Craignez ces mêmes dieux qui président au sort.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="729">Qu'entre eux-mêmes ces dieux se montrent donc d'accord.</l>
+	<l id="730">Quelle crainte après tout me pourrait y résoudre ?</l>
+	<l id="731">S'ils m'ôtent Andromède, ont-ils quelque autre foudre ?</l>
+	<l id="732">Il n'est plus de respect qui puisse rien sur moi ;</l>
+	<l id="733">Andromède est mon sort, et mes dieux, et mon roi ;</l>
+	<l id="734">Punissez un impie, et perdez un rebelle ;</l>
+	<l id="735">Satisfaites le sort en m'exposant pour elle :</l>
+	<l id="736">J'y cours ; mais autrement je jure ses beaux yeux,</l>
+	<l id="737">Et mes uniques rois, et mes uniques Dieux...</l>
+<stage>Ici le tonnerre commence à rouler avec un si grand bruit, et accompagné d'éclairs redoublés avec tant de promptitude, que cette feinte donne de l'épouvante aussi bien que de l'admiration, tant elle approche du naturel. On voit cependant descendre Éole avec huit vents, dont quatre sont à ses deux côtés, en sorte toutefois que les deux plus éloignés sont comme volants en l'air tout conte ce même nuage. Les quatre autres paraissent deux à deux au milieu de l'air sur les ailes du théâtre, deux à la main gauche et deux à la main droite : ce qui n'empêche pas Phinée de continuer ses blasphèmes.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Éole, Huit vents, Céphée, Persée, Phinée, Andromède, Choeur des Nymphes, Suite du Roi et de Phinée.</head>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="738">Arrêtez : ce nuage enferme une tempête</l>
+	<l id="739">Qui peut-être déjà menace votre tête.</l>
+	<l id="740">N'irritez plus les dieux déjà trop irrités.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="741">Qu'il crève, ce nuage, et que ces déités...</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="742">Ne les irritez plus, vous dis-je, et prenez garde...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="743">À les trop irriter qu'est-ce que je hasarde ?</l>
+	<l id="744">Que peut craindre un amant quand il voit tout perdu ?</l>
+	<l id="745">Tombe, tombe sur moi leur foudre, s'il m'est dû !</l>
+	<l id="746">Mais s'il est quelque main assez lâche et traîtresse</l>
+	<l id="747">Pour suivre leur caprice et saisir ma princesse,</l>
+	<l id="748">Seigneur, encore un coup, je jure ses beaux yeux,</l>
+	<l id="749">Et mes uniques rois, et mes uniques dieux...</l>
+</sp>
+<sp who="EOLE"><speaker>ÉOLE, au milieu de l'air.</speaker>
+	<l id="750">Téméraire mortel, n'en dis pas davantage ;</l>
+	<l id="751">Tu n'obliges que trop les dieux à te haïr :</l>
+	<l id="752">Quoi que pense attenter l'orgueil de ton courage,</l>
+	<l id="753">Ils ont trop de moyens de se faire obéir.</l>
+	<l id="754">Connais-moi pour ton infortune ;</l>
+	<l id="755">Je suis Éole, roi des vents.</l>
+	<l id="756">Partez, mes orageux suivants,</l>
+	<l id="757">Faites ce qu'ordonne Neptune.</l>
+</sp>
+<stage>Ce commandement d'Éole produit un spectacle étrange et merveilleux tout ensemble. Les deux vents qui étaient à ses côtés suspendus en l'air s'envolent, l'un à gauche et l'autre à droite ; deux autres remontent avec lui dans le ciel sur le même nuage qui le vient d'apporter ; deux autres , qui étaient à sa main gauche sur les ailes du théâtre, s'avancent au milieu de l'air, où ayant fait un tour, ainsi que de deux tourbillons, ils passent au côté droit du théâtre, d'où les deux derniers fondent sur Andromède et l'ayant saisie chacun par un bras, ils l'enlèvent de l'autre côté jusque dans les nues.</stage>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="758" part="i">ô ciel !</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="758" part="f">Ils l'ont saisie, et l'enlèvent en l'air.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="759">Ah ! Ne présumez pas ainsi me la voler :</l>
+	<l id="760">Je vous suivrai partout malgré votre surprise.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Céphée, Persée.</head>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="761">Seigneur, un tel péril ne veut point de remise ;</l>
+	<l id="762">Mais espérez encor, je vole à son secours,</l>
+	<l id="763">Et vais forcer le sort à prendre un autre cours.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="764">Vingt amants pour Nérée en firent l'entreprise ;</l>
+	<l id="765">Mais il n'est point d'effort que ce monstre ne brise.</l>
+	<l id="766">Tous voulurent sauver ses attraits adorés,</l>
+	<l id="767">Tous furent avec elle à l'instant dévorés.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="768">Le ciel aime Andromède, il veut son hyménée,</l>
+	<l id="769">Seigneur ; et si les vents l'arrachent à Phinée,</l>
+	<l id="770">Ce n'est que pour la rendre à quelque illustre époux</l>
+	<l id="771">Qui soit plus digne d'elle, et plus digne de vous ;</l>
+	<l id="772">À quelque autre par là les dieux l'ont réservée.</l>
+	<l id="773">Vous saurez qui je suis quand je l'aurai sauvée.</l>
+	<l id="774">Adieu : par des chemins aux hommes inconnus</l>
+	<l id="775">Je vais mettre en effet l'oracle de Vénus.</l>
+	<l id="776">Le temps nous est trop cher pour le perdre en paroles.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="777">Moi, qui ne puis former d'espérances frivoles,</l>
+	<l id="778">Pour ne voir point courir ce grand coeur au trépas,</l>
+	<l id="779">Je vais faire des voeux qu'on n'écoutera pas.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<stage>DÉCORATION DU TROISIÈME. Il se fait ici une si étrange métamorphose qu'il semble qu'avant que de sortir de ce jardin Persée ait découvert cette monstrueuse tête de Méduse qu'il porte partout sous son bouclier. Les myrtes et les jasmins qui le composaient sont devenus des rochers affreux dont les masses inégalement escarpées et bossues suivent si parfaitement le caprice de la nature, qu'il semble qu'elle ait plus contribué que l'art à les placer ainsi des deux côtés du théâtre : c'est en quoi l'artifice de l'ouvrier est merveilleux, et se fait voir d'autant plus qu'il prend soin de se cacher. Les vagues s'emparent de toute la scène, à la réserve de cinq ou six pieds qu'ils laissent pour leur servir de rivage ; elles sont dans une agitation continuelle, et composent comme un golfe enfermé entre ces deux rangs de falaises ; on en voit l'embouchure se dégorger dans la pleine mer, qui paraît si vaste et d'une si grande étendue qu'on jurerait que les vaisseaux qui flottent près de l'horizon, dont le vue est bornée, sont éloignés de plus de six lieues de ceux qui les considèrent. Il n'y a personne qui ne juge que cet horrible spectacle et le funeste appareil de l'injustice des Dieux et du supplice d'Andromède ; aussi la voit-on au haut des nues, d'où les deux vents qui l'ont enlevée l'apportent avec impétuosité et l'attachement au pied d'un de ces rochers.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Andromède au pied d'un rocher, Deux vents qui l'attachent, Timante, Choeur de Peuple sur le rivage.</head>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="780">Allons voir, chers amis, ce qu'elle est devenue,</l>
+	<l id="781">La princesse, et mourir, s'il se peut, à sa vue.</l>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="782">La voilà que ces vents achèvent d'attacher,</l>
+	<l id="783">En infâmes bourreaux, à ce fatal rocher.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="784">Oui, c'est elle sans doute. Ah ! L'indigne spectacle !</l>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="785">Si le ciel n'est injuste, il lui doit un miracle.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="786">Il en fera voir un, s'il en croit nos désirs.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="787" part="i">ô dieux !</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="787" part="f">Avec respect écoutons ses soupirs ;</l>
+	<l id="788">Et puissent les accents de ses premières plaintes</l>
+	<l id="789">Porter dans tous nos coeurs de mortelles atteintes !</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="790">Affreuse image du trépas</l>
+	<l id="791">Qu'un triste honneur m'avait fardée,</l>
+	<l id="792">Surprenantes horreurs, épouvantable idée,</l>
+	<l id="793">Qui tantôt ne m'ébranliez pas,</l>
+	<l id="794">Que l'on vous conçoit mal quand on vous envisage</l>
+	<l id="795">Avec un peu d'éloignement !</l>
+	<l id="796">Qu'on vous méprise alors ! Qu'on vous brave aisément !</l>
+	<l id="797">Mais que la grandeur de courage</l>
+	<l id="798">Devient d'un difficile usage</l>
+	<l id="799">Lorsqu'on touche au dernier moment !</l>
+	<l id="800">Ici seule, et de toutes parts</l>
+	<l id="801">À mon destin abandonnée,</l>
+	<l id="802">Ici que je n'ai plus ni parents, ni Phinée,</l>
+	<l id="803">Sur qui détourner mes regards,</l>
+	<l id="804">L'attente de la mort de tout mon coeur s'empare,</l>
+	<l id="805">Il n'a qu'elle à considérer ;</l>
+	<l id="806">Et quoi que de ce monstre il s'ose figurer,</l>
+	<l id="807">Ma constance qui s'y prépare</l>
+	<l id="808">Le trouve d'autant plus barbare</l>
+	<l id="809">Qu'il diffère à me dévorer.</l>
+	<l id="810">étrange effet de mes malheurs !</l>
+	<l id="811">Mon âme traînante, abattue,</l>
+	<l id="812">N'a qu'un moment à vivre, et ce moment me tue</l>
+	<l id="813">À force de vives douleurs.</l>
+	<l id="814">Ma frayeur a pour moi mille mortelles feintes,</l>
+	<l id="815">Cependant que la mort me fuit :</l>
+	<l id="816">Je pâme au moindre vent, je meurs au moindre bruit ;</l>
+	<l id="817">Et mes espérances éteintes</l>
+	<l id="818">N'attendent la fin de mes craintes</l>
+	<l id="819">Que du monstre qui les produit.</l>
+	<l id="820">Qu'il tarde à suivre mes désirs !</l>
+	<l id="821">Et que sa cruelle paresse</l>
+	<l id="822">À ce coeur dont ma flamme est encore la maîtresse</l>
+	<l id="823">Coûte d'amers et longs soupirs !</l>
+	<l id="824">Ô toi, dont jusqu'ici la douceur m'a suivie,</l>
+	<l id="825">Va-t'en, souvenir indiscret ;</l>
+	<l id="826">Et cessant de me faire un entretien secret</l>
+	<l id="827">De ce prince qui m'a servie,</l>
+	<l id="828">Laisse-moi sortir de la vie</l>
+	<l id="829">Avec un peu moins de regret.</l>
+	<l id="830">C'est assez que tout l'univers</l>
+	<l id="831">Conspire à faire mes supplices ;</l>
+	<l id="832">Ne les redouble point, toi qui fus mes délices,</l>
+	<l id="833">En me montrant ce que je perds ;</l>
+	<l id="834" part="i">laisse-moi...</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cassiope, Andromède, Timante, Choeur de Peuple.</head>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="834" part="f">Me voici, qui seule ai fait le crime ;</l>
+	<l id="835">Me voici, justes dieux, prenez votre victime :</l>
+	<l id="836">S'il est quelque justice encore parmi vous,</l>
+	<l id="837">C'est à moi seule, à moi qu'est dû votre courroux.</l>
+	<l id="838">Punir les innocents, et laisser les coupables,</l>
+	<l id="839">Inhumains ! Est-ce en être, est-ce en être capables ?</l>
+	<l id="840">À moi tout le supplice, à moi tout le forfait.</l>
+	<l id="841">Que faites-vous, cruels ? Qu'avez-vous presque fait ?</l>
+	<l id="842">Andromède est ici votre plus rare ouvrage ;</l>
+	<l id="843">Andromède est ici votre plus digne image ;</l>
+	<l id="844">Elle rassemble en soi vos attraits divisés :</l>
+	<l id="845">On vous connaîtra moins si vous la détruisez.</l>
+	<l id="846">Ah ! Je découvre enfin d'où provient tant de haine :</l>
+	<l id="847">Vous en êtes jaloux plus que je n'en fus vaine ;</l>
+	<l id="848">Si vous la laissiez vivre, envieux tout-puissants,</l>
+	<l id="849">Elle aurait plus que vous et d'autels et d'encens ;</l>
+	<l id="850">Chacun préférerait le portrait au modèle,</l>
+	<l id="851">Et bientôt l'univers n'adorerait plus qu'elle.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="852">En l'état où je suis le sort m'est-il trop doux,</l>
+	<l id="853">Si vous ne me donnez de quoi craindre pour vous ?</l>
+	<l id="854">Faut-il encore ce comble à des malheurs extrêmes ?</l>
+	<l id="855">Qu'espérez-vous, madame, à force de blasphèmes ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="856">Attirer et leur monstre et leur foudre sur moi ;</l>
+	<l id="857">Mais je ne les irrite, hélas ! Que contre toi :</l>
+	<l id="858">Sur ton sang innocent retombent tous mes crimes ;</l>
+	<l id="859">Seule tu leur tiens lieu de mille autres victimes ;</l>
+	<l id="860">Et pour punir ta mère ils n'ont, ces cruels dieux,</l>
+	<l id="861">Ni monstre dans la mer, ni foudre dans les cieux.</l>
+	<l id="862">Aussi savent-ils bien que se prendre à ta vie,</l>
+	<l id="863">C'est percer de mon coeur la plus tendre partie ;</l>
+	<l id="864">Que je souffre bien plus en te voyant périr,</l>
+	<l id="865">Et qu'ils me feraient grâce en me faisant mourir.</l>
+	<l id="866">Ma fille, c'est donc là cet heureux hyménée,</l>
+	<l id="867">Cette illustre union par Vénus ordonnée,</l>
+	<l id="868">Qu'avec tant de pompe il fallait préparer,</l>
+	<l id="869">Et que ces mêmes dieux devaient tant honorer !</l>
+	<l id="870">Ce que nos yeux ont vu n'était-ce donc qu'un songe,</l>
+	<l id="871">Déesse ? Ou ne viens-tu que pour dire un mensonge ?</l>
+	<l id="872">Nous aurais-tu parlé sans l'aveu du destin ?</l>
+	<l id="873">Est-ce ainsi qu'à nos maux le ciel trouve une fin ?</l>
+	<l id="874">Est-ce ainsi qu'Andromède en reçoit les caresses ?</l>
+	<l id="875">Si contre elle l'envie émeut quelques déesses,</l>
+	<l id="876">L'amour en sa faveur n'arme-t-il point de dieux ?</l>
+	<l id="877">Sont-ils tous devenus ou sans coeur, ou sans yeux ?</l>
+	<l id="878">Le maître souverain de toute la nature</l>
+	<l id="879">Pour de moindres beautés a changé de figure ;</l>
+	<l id="880">Neptune a soupiré pour de moindres appas ;</l>
+	<l id="881">Elle en montre à Phébus que Daphné n'avait pas ;</l>
+	<l id="882">Et l'Amour en Psyché voyait bien moins de charmes,</l>
+	<l id="883">Quand pour elle il daigna se blesser de ses armes.</l>
+	<l id="884">Qui dérobe à tes yeux le droit de tout charmer,</l>
+	<l id="885">Ma fille ? Au vif éclat qu'ils sèment dans la mer,</l>
+	<l id="886">Les tritons amoureux, malgré leurs Néréides,</l>
+	<l id="887">Devraient déjà sortir de leurs grottes humides,</l>
+	<l id="888">Aux fureurs de leur monstre à l'envi s'opposer,</l>
+	<l id="889">Contre ce même écueil eux-mêmes l'écraser,</l>
+	<l id="890">Et de ses os brisés, de sa rage étouffée,</l>
+	<l id="891">Au pied de ton rocher t'élever un trophée.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE, voyant venir le monstre de loin.</speaker>
+	<l id="892">Renouveler le crime, est-ce pour les fléchir ?</l>
+	<l id="893">Vous hâtez mon supplice au lieu de m'affranchir.</l>
+	<l id="894">Vous appelez le monstre. Ah ! Du moins à sa vue</l>
+	<l id="895">Quittez la vanité qui m'a déjà perdue.</l>
+	<l id="896">Il n'est mortel ni dieu qui m'ose secourir.</l>
+	<l id="897">Il vient : consolez-vous, et me laissez mourir.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="898">Je le vois, c'en est fait. Parois du moins, Phinée,</l>
+	<l id="899">Pour sauver la beauté qui t'était destinée ;</l>
+	<l id="900">Parais, il en est temps ; viens en dépit des dieux</l>
+	<l id="901">Sauver ton Andromède, ou périr à ses yeux ;</l>
+	<l id="902">L'amour te le commande, et l'honneur t'en convie ;</l>
+	<l id="903">Peux-tu, si tu la perds, aimer encore la vie ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="904">Il n'a manque d'amour, ni manque de valeur ;</l>
+	<l id="905">Mais sans doute, madame, il est mort de douleur ;</l>
+	<l id="906">Et comme il a du coeur et sait que je l'adore,</l>
+	<l id="907">Il périrait ici, s'il respirait encore.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="908">Dis plutôt que l'ingrat n'ose te mériter.</l>
+	<l id="909">Toi donc, qui plus que lui t'osais tantôt vanter,</l>
+	<l id="910">Viens, amant inconnu, dont la haute origine,</l>
+	<l id="911">Si nous t'en voulons croire, est royale ou divine ;</l>
+	<l id="912">Viens en donner la preuve, et par un prompt secours,</l>
+	<l id="913">Fais-nous voir quelle foi l'on doit à tes discours ;</l>
+	<l id="914">Supplante ton rival par une illustre audace ;</l>
+	<l id="915">Viens à droit de conquête en occuper la place :</l>
+	<l id="916">Andromède est à toi si tu l'oses gagner.</l>
+	<l id="917">Quoi ? Lâches, le péril vous la fait dédaigner !</l>
+	<l id="918">Il éteint en tous deux ces flammes sans secondes !</l>
+	<l id="919">Allons, mon désespoir, jusqu'au milieu des ondes</l>
+	<l id="920">Faire servir l'effort de nos bras impuissants</l>
+	<l id="921">D'exemple et de reproche à leurs feux languissants ;</l>
+	<l id="922">Faisons ce que tous deux devraient faire avec joie ;</l>
+	<l id="923">Détournons sa fureur dessus une autre proie :</l>
+	<l id="924">Heureuse si mon sang la pouvait assouvir !</l>
+	<l id="925">Allons. Mais qui m'arrête ? Ah ! C'est mal me servir.</l>
+</sp>
+<stage>On voit ici Persée descendre du haut des nues.</stage>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Andromède attachée au rocher, Persée en l'air sur le chaval Pégase, Cassiope, Timante, et le Choeur sur le rivage.</head>
+<sp who="TIMANTE"><speaker>TIMANTE, montrant Persée à Cassiope, et l'empêchant de se jeter à la mer.</speaker>
+	<l id="926">Courez-vous à la mort quand on vole à votre aide ?</l>
+	<l id="927">Voyez par quels chemins on secourt Andromède ;</l>
+	<l id="928">Quel héros, ou quel dieu sur ce cheval ailé...</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="929">Ah ! C'est cet inconnu par mes cris appelé,</l>
+	<l id="930">C'est lui-même, seigneur, que mon âme étonnée...</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE, en l'air, sur le Pégase.</speaker>
+	<l id="931">Reine, voyez par là si je vaux bien Phinée,</l>
+	<l id="932">Si j'étais moins que lui digne de votre choix,</l>
+	<l id="933">Et si le sang des dieux cède à celui des rois.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="934">Rien n'égale, seigneur, un amour si fidèle ;</l>
+	<l id="935">Combattez donc pour vous en combattant pour elle :</l>
+	<l id="936">Vous ne trouverez point de sentiments ingrats.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE, à Andromède.</speaker>
+	<l id="937">Adorable princesse, avouez-en mon bras.</l>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR de musique, cependant que Persée combat le monstre.</speaker>
+	<l id="938">Courage, enfant des dieux ! Elle est votre conquête ;</l>
+	<l id="939">Et jamais amant ni guerrier</l>
+	<l id="940">Ne vit ceindre sa tête</l>
+	<l id="941">D'un si beau myrte ou d'un si beau laurier.</l>
+</sp>
+<sp who="VOIX"><speaker>Une voix, seule.</speaker>
+	<l id="942">Andromède est le prix qui suit votre victoire :</l>
+	<l id="943">Combattez, combattez ;</l>
+	<l id="944">Et vos plaisirs et votre gloire</l>
+	<l id="945">Rendront jaloux les dieux dont vous sortez.</l>
+</sp>
+<sp who="CHOEUR"><speaker>Le choeur, répète.</speaker>
+	<l id="946">Courage, enfant des dieux ! Elle est votre conquête ;</l>
+	<l id="947">Et jamais amant ni guerrier</l>
+	<l id="948">Ne vit ceindre sa tête</l>
+	<l id="949">D'un si beau myrte ou d'un si beau laurier.</l>
+</sp>
+<sp who="TIMANTE"><speaker>TIMANTE, à la reine.</speaker>
+	<l id="950">Voyez de quel effet notre attente est suivie,</l>
+	<l id="951">Madame : elle est sauvée, et le monstre est sans vie.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE, ayant tué le monstre.</speaker>
+	<l id="952">Rendez grâces au dieu qui m'en a fait vainqueur.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="953">Ô ciel ! Que ne vous puis-je assez ouvrir mon coeur !</l>
+	<l id="954">L'oracle de Vénus enfin s'est fait entendre :</l>
+	<l id="955">Voilà ce dernier choix qui nous devait tout rendre ;</l>
+	<l id="956">Et vous êtes, seigneur, l'incomparable époux</l>
+	<l id="957">Par qui le sang des dieux se doit joindre avec nous.</l>
+	<l id="958">Ne pense plus, ma fille, à ton ingrat Phinée :</l>
+	<l id="959">C'est à ce grand héros que le sort t'a donnée ;</l>
+	<l id="960">C'est pour lui que le ciel te destine aujourd'hui ;</l>
+	<l id="961">Il est digne de toi, rends-toi digne de lui.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="962">Il faut la mériter par mille autres services ;</l>
+	<l id="963">Un peu d'espoir suffit pour de tels sacrifices.</l>
+	<l id="964">Princesse, cependant quittez ces tristes lieux,</l>
+	<l id="965">Pour rendre à votre cour tout l'éclat de vos yeux.</l>
+	<l id="966">Ces vents, ces mêmes vents qui vous ont enlevée,</l>
+	<l id="967">Vont rendre de tout point ma victoire achevée :</l>
+	<l id="968">L'ordre que leur prescrit mon père Jupiter</l>
+	<l id="969">Jusqu'en votre palais les force à vous porter,</l>
+	<l id="970">Les force à vous remettre où tantôt leur surprise...</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="971">D'une frayeur mortelle à peine encore remise,</l>
+	<l id="972">Pardonnez, grand héros, si mon étonnement</l>
+	<l id="973">N'a pas la liberté d'aucun remerciement.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="974">Venez, tyrans des mers, réparer votre crime,</l>
+	<l id="975">Venez restituer cette illustre victime ;</l>
+	<l id="976">Méritez votre grâce, impétueux mutins,</l>
+	<l id="977">Par votre obéissance au maître des destins.</l>
+</sp>
+<stage>Les vents obéissent aussitôt à ce commandement de Persée, et on les voit en un moment détacher cette princesse, et la reporter par-dessus les flots jusqu'aux lieux d'où ils avaient apportée au commencement de cet acte. En même temps Persée revole en haut sur son cheval ailé ; et, après avoir fait un caracol admirable au milieu de l'air, il tire du même côté qu'on a vu disparaître la Princesse : tandis qu'il vole, tout le rivage retentit de cris de joie et de chants de victoire.</stage>
+<sp who="CASSIOPE"><speaker>CASSIOPE, voyant Persée revoler en haut après sa victoire.</speaker>
+	<l id="978">Peuple, qu'à pleine voix l'allégresse publique</l>
+	<l id="979">Après un tel miracle en triomphe s'explique,</l>
+	<l id="980">Et fasse retentir sur ce rivage heureux</l>
+	<l id="981">L'immortelle valeur d'un bras si généreux.</l>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="982">Le monstre est mort, crions victoire,</l>
+	<l id="983">Victoire tous, victoire à pleine voix ;</l>
+	<l id="984">Que nos campagnes et nos bois</l>
+	<l id="985">Ne résonnent que de sa gloire.</l>
+	<l id="986">Princesse, elle vous donne enfin l'illustre époux</l>
+	<l id="987">Qui seul était digne de vous.</l>
+	<l id="988">Vous êtes sa digne conquête.</l>
+	<l id="989">Victoire tous, victoire à son amour !</l>
+	<l id="990">C'est lui qui nous rend ce beau jour,</l>
+	<l id="991">C'est lui qui calme la tempête ;</l>
+	<l id="992">Et c'est lui qui vous donne enfin l'illustre époux</l>
+	<l id="993">Qui seul étoit digne de vous.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="994">Dieux ! J'étais sur ces bords immobile de joie.</l>
+	<l id="995">Allons voir où ces vents ont reporté leur proie,</l>
+	<l id="996">Embrasser ce vainqueur, et demander au roi</l>
+	<l id="997">L'effet du juste espoir qu'il a reçu de moi.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Trois Néréïdes s'élevant du milieu des flots.</head>
+<sp who="CYMODOCE"><speaker>CYMODOCE.</speaker>
+	<l id="998">Ainsi notre colère est de tout point bravée ;</l>
+	<l id="999">Ainsi notre victime à nos yeux enlevée</l>
+	<l id="1000">Va croître les douceurs de ses contentements</l>
+	<l id="1001">Par le juste mépris de nos ressentiments.</l>
+</sp>
+<sp who="EPHYRE"><speaker>éphyre.</speaker>
+	<l id="1002">Toute notre fureur, toute notre vengeance</l>
+	<l id="1003">Semble avec son destin être d'intelligence,</l>
+	<l id="1004">N'agir qu'en sa faveur ; et ses plus rudes coups</l>
+	<l id="1005">Ne font que lui donner un plus illustre époux.</l>
+</sp>
+<sp who="CYDIPPE"><speaker>CYDIPPE.</speaker>
+	<l id="1006">Le sort, qui jusqu'ici nous a donné le change,</l>
+	<l id="1007">Immole à ses beautés le monstre qui nous venge ;</l>
+	<l id="1008">Du même sacrifice, et dans le même lieu,</l>
+	<l id="1009">De victime qu'elle est, elle devient le dieu.</l>
+	<l id="1010">Cessons dorénavant, cessons d'être immortelles,</l>
+	<l id="1011">Puisque les immortels trahissent nos querelles,</l>
+	<l id="1012">Qu'une beauté commune est plus chère à leurs yeux ;</l>
+	<l id="1013">Car son libérateur est sans doute un des dieux.</l>
+	<l id="1014">Autre qu'un dieu n'eût pu nous ôter cette proie</l>
+	<l id="1015">Autre qu'un dieu n'eût pu prendre une telle voie ;</l>
+	<l id="1016">Et ce cheval ailé fût péri mille fois,</l>
+	<l id="1017">Avant que de voler sous un indigne poids.</l>
+</sp>
+<sp who="CYMODOCE"><speaker>CYMODOCE.</speaker>
+	<l id="1018">Oui, c'est sans doute un dieu qui vient de la défendre :</l>
+	<l id="1019">Mais il n'est pas, mes soeurs, encore temps de nous rendre ;</l>
+	<l id="1020">Et puisqu'un dieu pour elle ose nous outrager,</l>
+	<l id="1021">Il faut trouver aussi des dieux à nous venger.</l>
+	<l id="1022">Du sang de notre monstre encore toutes teintes,</l>
+	<l id="1023">Au palais de Neptune allons porter nos plaintes,</l>
+	<l id="1024">Lui demander raison de l'immortel affront</l>
+	<l id="1025">Qu'une telle défaite imprime à notre front.</l>
+</sp>
+<sp who="CYDIPPE"><speaker>CYDIPPE.</speaker>
+	<l id="1026">Je crois qu'il nous prévient ; les ondes en bouillonnent ;</l>
+	<l id="1027">Les conques des tritons dans ces rochers résonnent :</l>
+	<l id="1028" part="i">c'est lui-même, parlons.</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Neptune, les Néréïdes.</head>
+<sp who="NEPTUNE"><speaker>NEPTUNE, dans son char formé d'une grande conque de nacre, et tiré par deux chevaux marins.</speaker>
+	<l id="1028" part="f">Je sais vos déplaisirs,</l>
+	<l id="1029">Mes filles ; et je viens au bruit de vos soupirs,</l>
+	<l id="1030">De l'affront qu'on vous fait plus que vous en colère.</l>
+	<l id="1031">C'est moi que tyrannise un superbe de frère,</l>
+	<l id="1032">Qui dans mon propre état m'osant faire la loi,</l>
+	<l id="1033">M'envoie un de ses fils pour triompher de moi.</l>
+	<l id="1034">Qu'il règne dans le ciel, qu'il règne sur la terre ;</l>
+	<l id="1035">Qu'il gouverne à son gré l'éclat de son tonnerre ;</l>
+	<l id="1036">Que même du destin il soit indépendant ;</l>
+	<l id="1037">Mais qu'il me laisse à moi gouverner mon trident.</l>
+	<l id="1038">C'est bien assez pour lui d'un si grand avantage,</l>
+	<l id="1039">Sans me venir braver encore dans mon partage.</l>
+	<l id="1040">Après cet attentat sur l'empire des mers,</l>
+	<l id="1041">Même honte à leur tour menace les enfers ;</l>
+	<l id="1042">Aussi leur souverain prendra notre querelle :</l>
+	<l id="1043">Je vais l'intéresser avec Junon pour elle ;</l>
+	<l id="1044">Et tous trois, assemblant notre pouvoir en un,</l>
+	<l id="1045">Nous saurons bien dompter notre tyran commun.</l>
+	<l id="1046">Adieu : consolez-vous, nymphes trop outragées ;</l>
+	<l id="1047">Je périrai moi-même, ou vous serez vengées ;</l>
+	<l id="1048">Et j'ai su du destin, qui se ligue avec nous,</l>
+	<l id="1049">Qu'Andromède ici-bas n'aura jamais d'époux.</l>
+</sp>
+<stage>Il fond au milieu de la mer.</stage>
+<sp who="CYMODOCE"><speaker>CYMODOCE.</speaker>
+	<l id="1050">Après le doux espoir d'une telle promesse,</l>
+	<l id="1051">Reprenons, chères soeurs, une entière allégresse.</l>
+</sp>
+<stage>Les Néréides se plongent aussi dans le mer.</stage>
+</div2>
+</div1>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<stage>Décoration du quatrième acte. Les vagues fondent sous le théâtre, et ces hideuses masses de pierre dont elles battaient le pied font place à la magnificence d'un palais royal. On ne le voit pas tout entier, on n'en oit que le vestibule, ou plutôt la grande salle, qui doivent servir aux noces de Persée et d'Andromède. Deux rangs de colonnes de chaque côté, l'un de rondes, et l'autre de carrées, en font les ornements : elles sont enrichies de statues de marbre blanc d'une grandeur naturelle, et leurs bases, corniches, amortissements, étalent tout ce que peut la justesse de l'architecture. Le frontispice suit le même ordre, et par trois portes dont il est percé, il fait voir trois allées de cyprès où l'oeil s'enfonce à perte de vue.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Andromède, Persée, Choeur de Nymphes, Suite de Persée.</head>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1052">Que me permettez-vous, madame, d'espérer ?</l>
+	<l id="1053">Mon amour jusqu'à vous a-t-il lieu d'aspirer ?</l>
+	<l id="1054">Et puis-je, en cette illustre et charmante journée,</l>
+	<l id="1055">Prétendre jusqu'au coeur que possédait Phinée ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1056">Laissez-moi l'oublier, puisqu'on me donne à vous ;</l>
+	<l id="1057">Et s'il l'a possédé, n'en soyez point jaloux.</l>
+	<l id="1058">Le choix du roi l'y mit, le choix du roi l'en chasse ;</l>
+	<l id="1059">Ce même choix du roi vous y donne sa place ;</l>
+	<l id="1060">N'exigez rien de plus : je ne sais point haïr,</l>
+	<l id="1061">Je ne sais point aimer, mais je sais obéir :</l>
+	<l id="1062">Je sais porter ce coeur à tout ce qu'on m'ordonne,</l>
+	<l id="1063">Il suit aveuglément la main qui vous le donne :</l>
+	<l id="1064">De sorte, grand héros, qu'après le choix du roi,</l>
+	<l id="1065">Ce que vous demandez est plus à vous qu'à moi.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1066">Que je puisse abuser ainsi de sa puissance !</l>
+	<l id="1067">Hasarder vos plaisirs sur votre obéissance !</l>
+	<l id="1068">Et de libérateur de vos rares beautés</l>
+	<l id="1069">M'élever en tyran dessus vos volontés !</l>
+	<l id="1070">Princesse, mon bonheur vous aurait mal servie,</l>
+	<l id="1071">S'il vous faisait esclave en vous rendant la vie,</l>
+	<l id="1072">Et s'il n'avait sauvé des jours si précieux</l>
+	<l id="1073">Que pour les attacher sous un joug odieux.</l>
+	<l id="1074">C'est aux courages bas, c'est aux amants vulgaires,</l>
+	<l id="1075">À faire agir pour eux l'autorité des pères.</l>
+	<l id="1076">Souffrez à mon amour des chemins différents.</l>
+	<l id="1077">J'ai vu parler pour moi les dieux et vos parents ;</l>
+	<l id="1078">Je sens que mon espoir s'enfle de leur suffrage ;</l>
+	<l id="1079">Mais je n'en veux enfin tirer autre avantage</l>
+	<l id="1080">Que de pouvoir ici faire hommage à vos yeux</l>
+	<l id="1081">Du choix de vos parents et du vouloir des dieux.</l>
+	<l id="1082">Ils vous donnent à moi, je vous rends à vous-même ;</l>
+	<l id="1083">Et comme enfin c'est vous, et non pas moi, que j'aime,</l>
+	<l id="1084">J'aime mieux m'exposer à perdre un bien si doux,</l>
+	<l id="1085">Que de vous obtenir d'un autre que vous.</l>
+	<l id="1086">Je garde cet espoir et hasarde le reste,</l>
+	<l id="1087">Et me soit votre choix ou propice ou funeste,</l>
+	<l id="1088">Je bénirai l'arrêt qu'en feront vos désirs,</l>
+	<l id="1089">Si ma mort vous épargne un peu de déplaisirs.</l>
+	<l id="1090">Remplissez mon espoir ou trompez mon attente,</l>
+	<l id="1091">Je mourrai sans regret, si vous vivez contente ;</l>
+	<l id="1092">Et mon trépas n'aura que d'aimables moments,</l>
+	<l id="1093">S'il vous ôte un obstacle à vos contentements.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1094">C'est trop d'être vainqueur dans la même journée</l>
+	<l id="1095">Et de ma retenue et de ma destinée.</l>
+	<l id="1096">Après que par le roi vos voeux sont exaucés,</l>
+	<l id="1097">Vous parler d'obéir c'était vous dire assez ;</l>
+	<l id="1098">Mais vous voulez douter, afin que je m'explique,</l>
+	<l id="1099">Et que votre victoire en devienne publique.</l>
+	<l id="1100" part="i">Sachez donc...</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1100" part="f">Non, madame : où j'ai tant d'intérêt,</l>
+	<l id="1101">Ce n'est pas devant moi qu'il faut faire l'arrêt.</l>
+	<l id="1102">L'excès de vos bontés pourrait en ma présence</l>
+	<l id="1103">Faire à vos sentiments un peu de violence :</l>
+	<l id="1104">Ce bras vainqueur du monstre, et qui vous rend le jour,</l>
+	<l id="1105">Pourrait en ma faveur séduire votre amour ;</l>
+	<l id="1106">La pitié de mes maux pourrait même surprendre</l>
+	<l id="1107">Ce coeur trop généreux pour s'en vouloir défendre ;</l>
+	<l id="1108">Et le moyen qu'un coeur ou séduit ou surpris</l>
+	<l id="1109">Fût juste en ses faveurs, ou juste en ses mépris ?</l>
+	<l id="1110">De tout ce que j'ai fait ne voyez que ma flamme ;</l>
+	<l id="1111">De tout ce qu'on vous dit ne croyez que votre âme ;</l>
+	<l id="1112">Ne me répondez point, et consultez-la bien ;</l>
+	<l id="1113">Faites votre bonheur sans aucun soin du mien :</l>
+	<l id="1114">Je lui voudrais du mal s'il retranchait du vôtre,</l>
+	<l id="1115">S'il vous pouvait coûter un soupir pour quelque autre,</l>
+	<l id="1116">Et si quittant pour moi quelques destins meilleurs,</l>
+	<l id="1117">Votre devoir laissait votre tendresse ailleurs.</l>
+	<l id="1118">Je vous le dis encore dans ma plus douce attente,</l>
+	<l id="1119">Je mourrai trop content si vous vivez contente,</l>
+	<l id="1120">Et si l'heur de ma vie ayant sauvé vos jours,</l>
+	<l id="1121">La gloire de ma mort assure vos amours.</l>
+	<l id="1122">Adieu : je vais attendre ou triomphe ou supplice,</l>
+	<l id="1123">L'un comme effet de grâce, et l'autre de justice.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1124">À ces profonds respects qu'ici vous me rendez</l>
+	<l id="1125">Je ne réplique point, vous me le défendez ;</l>
+	<l id="1126">Mais quoique votre amour me condamne au silence,</l>
+	<l id="1127">Je vous dirai, seigneur, malgré votre défense,</l>
+	<l id="1128">Qu'un héros tel que vous ne saurait ignorer</l>
+	<l id="1129">Qu'ayant tout mérité, l'on doit tout espérer.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Andromède, Choeur de Nymphes.</head>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1130">Nymphes, l'auriez-vous cru, qu'en moins d'une journée</l>
+	<l id="1131">J'aimasse de la sorte un autre que Phinée ?</l>
+	<l id="1132">Le roi l'a commandé, mais de mon sentiment</l>
+	<l id="1133">Je m'offrais en secret à son commandement.</l>
+	<l id="1134">Ma flamme impatiente invoquait sa puissance,</l>
+	<l id="1135">Et courait au-devant de mon obéissance.</l>
+	<l id="1136">Je fais plus : au seul nom de mon premier vainqueur,</l>
+	<l id="1137">L'amour à la colère abandonne mon coeur ;</l>
+	<l id="1138">Et ce captif rebelle, ayant brisé sa chaîne,</l>
+	<l id="1139">Va jusques au dédain, s'il ne passe à la haine.</l>
+	<l id="1140">Que direz-vous d'un change et si prompt et si grand,</l>
+	<l id="1141">Qui dans ce même coeur moi-même me surprend ?</l>
+</sp>
+<sp who="AGLANTE"><speaker>AGLANTE.</speaker>
+	<l id="1142">Que pour faire un bonheur promis par tant d'oracles,</l>
+	<l id="1143">Cette grande journée est celle des miracles,</l>
+	<l id="1144">Et qu'il n'est pas aux dieux besoin de plus d'effort</l>
+	<l id="1145">À changer votre coeur qu'à changer votre sort.</l>
+	<l id="1146">Cet empire absolu qu'ils ont dessus nos âmes</l>
+	<l id="1147">éteint comme il leur plaît et rallume nos flammes,</l>
+	<l id="1148">Et verse dans nos coeurs, pour se faire obéir,</l>
+	<l id="1149">Des principes secrets d'aimer et de haïr.</l>
+	<l id="1150">Nous en voyions au vôtre en cette haute estime</l>
+	<l id="1151">Que vous nous témoigniez pour ce bras magnanime ;</l>
+	<l id="1152">Au défaut de l'amour que Phinée emportait,</l>
+	<l id="1153">Il lui donnait dès lors tout ce qui lui restait ;</l>
+	<l id="1154">Dès lors ces mêmes dieux, dont l'ordre s'exécute,</l>
+	<l id="1155">Le penchaient du côté qu'ils préparaient sa chute,</l>
+	<l id="1156">Et cette haute estime attendant ce beau jour</l>
+	<l id="1157">N'était qu'un beau degré pour monter à l'amour.</l>
+</sp>
+<sp who="CEPHALIE"><speaker>CÉPHALIE.</speaker>
+	<l id="1158">Un digne amour succède à cette haute estime :</l>
+	<l id="1159">Si je puis toutefois vous le dire sans crime,</l>
+	<l id="1160">C'est hasarder beaucoup que croire entièrement</l>
+	<l id="1161">L'impétuosité d'un si prompt changement.</l>
+	<l id="1162">Comme pour vous Phinée eut toujours quelques charmes,</l>
+	<l id="1163">Peut-être il ne lui faut qu'un soupir et deux larmes</l>
+	<l id="1164">Pour dissiper un peu de cette avidité</l>
+	<l id="1165">Qui d'un si gros torrent suit la rapidité.</l>
+	<l id="1166">Deux amants que sépare une légère offense</l>
+	<l id="1167">Rentrent d'un seul coup d'oeil en pleine intelligence.</l>
+	<l id="1168">Vous reverrez en lui ce qui le fit aimer,</l>
+	<l id="1169">Les mêmes qualités qu'il vous plut estimer...</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1170">Et j'y verrai de plus cette âme lâche et basse</l>
+	<l id="1171">Jusqu'à m'abandonner à toute ma disgrâce ;</l>
+	<l id="1172">Cet ingrat trop aimé qui n'osa me sauver,</l>
+	<l id="1173">Qui me voyant périr, voulut se conserver,</l>
+	<l id="1174">Et crut s'être acquitté devant ce que nous sommes,</l>
+	<l id="1175">En querellant les dieux et menaçant les hommes.</l>
+	<l id="1176">S'il eût... Mais le voici : voyons si ses discours</l>
+	<l id="1177">Rompront de ce torrent ou grossiront le cours.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Andromède, Phinée, Ammon, Choeur de Nymphes, Suite de Phinée.</head>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1178">Sur un bruit qui m'étonne, et que je ne puis croire,</l>
+	<l id="1179">Madame, mon amour, jaloux de votre gloire,</l>
+	<l id="1180">Vient savoir s'il est vrai que vous soyez d'accord,</l>
+	<l id="1181">Par un change honteux, de l'arrêt de ma mort.</l>
+	<l id="1182">Je ne suis point surpris que le roi, que la reine,</l>
+	<l id="1183">Suivent les mouvements d'une faiblesse humaine :</l>
+	<l id="1184">Tout ce qui me surprend, ce sont vos volontés.</l>
+	<l id="1185">On vous donne à Persée, et vous y consentez !</l>
+	<l id="1186">Et toute votre foi demeure sans défense,</l>
+	<l id="1187">Alors que de mon bien on fait sa récompense !</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1188">Oui, j'y consens, Phinée, et j'y dois consentir ;</l>
+	<l id="1189">Et quel que soit ce bien qu'il a su garantir,</l>
+	<l id="1190">Sans vous faire injustice on en fait son salaire,</l>
+	<l id="1191">Quand il a fait pour moi ce que vous deviez faire.</l>
+	<l id="1192">De quel front osez-vous me nommer votre bien,</l>
+	<l id="1193">Vous qu'on a vu tantôt n'y prétendre plus rien ?</l>
+	<l id="1194">Quoi ? Vous consentirez qu'un monstre me dévore,</l>
+	<l id="1195">Et ce monstre étant mort je suis à vous encore !</l>
+	<l id="1196">Quand je sors de péril vous revenez à moi !</l>
+	<l id="1197">Vous avez de l'amour, et je vous dois ma foi !</l>
+	<l id="1198">C'était de sa fureur qu'il me fallait défendre,</l>
+	<l id="1199">Si vous vouliez garder quelque droit d'y prétendre :</l>
+	<l id="1200">Ce demi-dieu n'a fait, quoi que vous prétendiez,</l>
+	<l id="1201">Que m'arracher au monstre à qui vous me cédiez.</l>
+	<l id="1202">Quittez donc cette vaine et téméraire idée ;</l>
+	<l id="1203">Ne me demandez plus, quand vous m'avez cédée.</l>
+	<l id="1204">Ce doit être pour vous même chose aujourd'hui,</l>
+	<l id="1205">Ou de me voir au monstre, ou de me voir à lui.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1206">Qu'ai-je oublié pour vous de ce que j'ai pu faire ?</l>
+	<l id="1207">N'ai-je pas des dieux même attiré la colère ?</l>
+	<l id="1208">Lorsque je vis Éole armé pour m'en punir,</l>
+	<l id="1209">Fut-il en mon pouvoir de vous mieux retenir ?</l>
+	<l id="1210">N'eurent-ils pas besoin d'un éclat de tonnerre,</l>
+	<l id="1211">Ses ministres ailés, pour me jeter par terre ?</l>
+	<l id="1212">Et voyant mes efforts avorter sans effets,</l>
+	<l id="1213">Quels pleurs n'ai-je versés, et quels voeux n'ai-je faits ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1214">Vous avez donc pour moi daigné verser des larmes,</l>
+	<l id="1215">Lorsque pour me défendre un autre a pris les armes !</l>
+	<l id="1216">Et dedans mon péril vos sentiments ingrats</l>
+	<l id="1217">S'amusaient à des voeux quand il fallait des bras !</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1218">Que pouvais-je de plus, ayant vu pour Nérée</l>
+	<l id="1219">De vingt amants armés la troupe dévorée ?</l>
+	<l id="1220">Devais-je encor promettre un succès à ma main,</l>
+	<l id="1221">Qu'on voyait au-dessus de tout l'effort humain ?</l>
+	<l id="1222">Devais-je me flatter de l'espoir d'un miracle ?</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1223">Vous deviez l'espérer sur la foi d'un oracle :</l>
+	<l id="1224">Le ciel l'avait promis par un arrêt si doux !</l>
+	<l id="1225">Il l'a fait par un autre, et l'aurait fait par vous.</l>
+	<l id="1226">Mais quand vous auriez cru votre perte assurée,</l>
+	<l id="1227">Du moins ces vingt amants dévorés pour Nérée</l>
+	<l id="1228">Vous laissaient un exemple et noble et glorieux,</l>
+	<l id="1229">Si vous n'eussiez pas craint de périr à mes yeux.</l>
+	<l id="1230">Ils voyaient de leur mort la même certitude ;</l>
+	<l id="1231">Mais avec plus d'amour et moins d'ingratitude,</l>
+	<l id="1232">Tous voulurent mourir pour leur objet mourant.</l>
+	<l id="1233">Que leur amour du vôtre était bien différent !</l>
+	<l id="1234">L'effort de leur courage a produit vos alarmes,</l>
+	<l id="1235">Vous a réduit aux voeux, vous a réduit aux larmes ;</l>
+	<l id="1236">Et quoique plus heureuse en un semblable sort,</l>
+	<l id="1237">Je vois d'un oeil jaloux la gloire de sa mort.</l>
+	<l id="1238">Elle avait vingt amants qui voulurent la suivre,</l>
+	<l id="1239">Et je n'en avais qu'un, qui m'a voulu survivre.</l>
+	<l id="1240">Encore ces vingt amants, qui vous ont alarmé,</l>
+	<l id="1241">N'étaient pas tous aimés, et vous étiez aimé :</l>
+	<l id="1242">Ils n'avaient la plupart qu'une faible espérance,</l>
+	<l id="1243">Et vous aviez, Phinée, une entière assurance ;</l>
+	<l id="1244">Vous possédiez mon coeur, vous possédiez ma foi ;</l>
+	<l id="1245">N'était-ce point assez pour mourir avec moi ?</l>
+	<l id="1246" part="i">Pouviez-vous ? ...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1246" part="f">Ah ! De grâce, imputez-moi, madame,</l>
+	<l id="1247">Les crimes les plus noirs dont soit capable une âme ;</l>
+	<l id="1248">Mais ne soupçonnez point ce malheureux amant</l>
+	<l id="1249">De vous pouvoir jamais survivre un seul moment.</l>
+	<l id="1250">J'épargnais à mes yeux un funeste spectacle,</l>
+	<l id="1251">Où mes bras impuissants n'avaient pu mettre obstacle,</l>
+	<l id="1252">Et tenais ma main prête à servir ma douleur</l>
+	<l id="1253">Au moindre et premier bruit qu'eût fait votre malheur.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1254">Et vos respects trouvaient une digne matière</l>
+	<l id="1255">À me laisser l'honneur de périr la première !</l>
+	<l id="1256">Ah ! C'était à mes yeux qu'il fallait y courir,</l>
+	<l id="1257">Si vous aviez pour moi cette ardeur de mourir.</l>
+	<l id="1258">Vous ne me deviez pas envier cette joie</l>
+	<l id="1259">De voir offrir au monstre une première proie ;</l>
+	<l id="1260">Vous m'auriez de la mort adouci les horreurs,</l>
+	<l id="1261">Vous m'auriez fait du monstre adorer les fureurs ;</l>
+	<l id="1262">Et lui voyant ouvrir ce gouffre épouvantable,</l>
+	<l id="1263">Je l'aurais regardé comme un port favorable,</l>
+	<l id="1264">Comme un vivant sépulcre où mon coeur amoureux</l>
+	<l id="1265">Eût brûlé de rejoindre un amant généreux.</l>
+	<l id="1266">J'aurais désavoué la valeur de Persée ;</l>
+	<l id="1267">En me sauvant la vie il m'aurait offensée ;</l>
+	<l id="1268">Et de ce même bras qu'il m'aurait conservé</l>
+	<l id="1269">Je vous immolerais ce qu'il m'aurait sauvé.</l>
+	<l id="1270">Ma mort aurait déjà couronné votre perte,</l>
+	<l id="1271">Et la bonté du ciel ne l'aurait pas soufferte ;</l>
+	<l id="1272">C'est à votre refus que les dieux ont remis</l>
+	<l id="1273">En de plus dignes mains ce qu'ils m'avaient promis.</l>
+	<l id="1274">Mon coeur eût mieux aimé le tenir de la vôtre ;</l>
+	<l id="1275">Mais je vis par un autre, et vivrai pour un autre.</l>
+	<l id="1276">Vous n'avez aucun lieu d'en devenir jaloux,</l>
+	<l id="1277">Puisque sur ce rocher j'étais morte pour vous.</l>
+	<l id="1278">Qui pouvait le souffrir peut me voir sans envie</l>
+	<l id="1279">Vivre pour un héros de qui je tiens la vie ;</l>
+	<l id="1280">Et quand l'amour encore me parlerait pour lui,</l>
+	<l id="1281">Je ne puis disposer des conquêtes d'autrui.</l>
+	<l id="1282" part="i">Adieu.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Phinée, Ammon, Suite de Phinée.</head>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1282" part="f">Vous voulez donc que j'en fasse la mienne,</l>
+	<l id="1283">Cruelle, et que ma foi de mon bras vous obtienne ?</l>
+	<l id="1284">Eh bien ! Nous l'irons voir, ce bienheureux vainqueur,</l>
+	<l id="1285">Qui triomphant d'un monstre, a dompté votre coeur.</l>
+	<l id="1286">C'était trop peu pour lui d'une seule victoire,</l>
+	<l id="1287">S'il n'eût dedans ce coeur triomphé de ma gloire !</l>
+	<l id="1288">Mais si sa main au monstre arrache un bien si cher,</l>
+	<l id="1289">La mienne à son bonheur saura bien l'arracher ;</l>
+	<l id="1290">Et vainqueur de tous deux en une seule tête,</l>
+	<l id="1291">De ce qui fut mon bien je ferai ma conquête.</l>
+	<l id="1292">La force me rendra ce que ne peut l'amour.</l>
+	<l id="1293">Allons-y, chers amis, et montrons dès ce jour...</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1294">Seigneur, auparavant d'une âme plus remise</l>
+	<l id="1295">Daignez voir le succès d'une telle entreprise.</l>
+	<l id="1296">Savez-vous que Persée est fils de Jupiter,</l>
+	<l id="1297">Et qu'ainsi vous avez le foudre à redouter ?</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1298">Je sais que Danaé fut son indigne mère :</l>
+	<l id="1299">L'or qui plut dans son sein l'y forma d'adultère ;</l>
+	<l id="1300">Mais le pur sang des rois n'est pas moins précieux</l>
+	<l id="1301">Ni moins chéri du ciel que les crimes des dieux.</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1302">Mais vous ne savez pas, seigneur, que son épée</l>
+	<l id="1303">De l'horrible Méduse a la tête coupée,</l>
+	<l id="1304">Que sous son bouclier il la porte en tous lieux,</l>
+	<l id="1305">Et que c'est fait de vous, s'il en frappe vos yeux.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1306">On dit que ce prodige est pire qu'un tonnerre,</l>
+	<l id="1307">Qu'il ne faut que le voir pour n'être plus que pierre,</l>
+	<l id="1308">Et que naguère Atlas, qui ne s'en put cacher,</l>
+	<l id="1309">À cet aspect fatal devint un grand rocher.</l>
+	<l id="1310">Soit une vérité, soit un conte, n'importe ;</l>
+	<l id="1311">Si la valeur ne peut, que le nombre l'emporte.</l>
+	<l id="1312">Puisque Andromède enfin voulait me voir périr,</l>
+	<l id="1313">Ou triompher d'un monstre afin de l'acquérir,</l>
+	<l id="1314">Que fière de se voir l'objet de tant d'oracles,</l>
+	<l id="1315">Elle veut que pour elle on fasse des miracles,</l>
+	<l id="1316">Cette tête est un monstre aussi bien que celui</l>
+	<l id="1317">Dont cet heureux rival la délivre aujourd'hui ;</l>
+	<l id="1318">Et nous aurons ainsi dans un seul adversaire</l>
+	<l id="1319">Et monstres à combattre, et miracles à faire.</l>
+	<l id="1320">Peut-être quelques dieux prendront notre parti,</l>
+	<l id="1321">Quoique de leur monarque il se dise sorti ;</l>
+	<l id="1322">Et Junon pour le moins prendra notre querelle</l>
+	<l id="1323">Contre l'amour furtif d'un époux infidèle.</l>
+</sp>
+<stage>Junon se fait voir dans un char superbe, tiré par deux paons, et si bine enrichi, qu'il paraît digne de l'orgueil de la déesse qui s'y fait porter. Elle se promène au milieu de l'air, dont nos poètes lui attribuent l'empire, et y fait plusieurs tours, tantôt à droite et tantôt à gauche, cependant qu'elle assure Phinée de sa protection.</stage>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Junon dans son char au milieu de l'air, Phinée, Ammon, suite de Phinée.</head>
+<sp who="JUNON"><speaker>JUNON.</speaker>
+	<l id="1324">N'en doute point, Phinée, et cesse d'endurer.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1325">Elle-même paraît pour nous en assurer.</l>
+</sp>
+<sp who="JUNON"><speaker>JUNON.</speaker>
+	<l id="1326">Je ne serai pas seule : ainsi que moi Neptune</l>
+	<l id="1327">S'intéresse en ton infortune ;</l>
+	<l id="1328">Et déjà la noire Alecton,</l>
+	<l id="1329">Du fond des enfers déchaînée,</l>
+	<l id="1330">A, par les ordres de Pluton,</l>
+	<l id="1331">De mille coeurs pour toi la fureur mutinée :</l>
+	<l id="1332">Fort de tant de seconds, ose, et sers mon courroux</l>
+	<l id="1333">Contre l'indigne sang de mon perfide époux.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1334">Nous te suivons, déesse ; et dessous tes auspices</l>
+	<l id="1335">Nous franchirons sans peur les plus noirs précipices.</l>
+	<l id="1336">Que craindrons-nous, amis ? Nous avons dieux pour dieux,</l>
+	<l id="1337">Oracle pour oracle ; et la faveur des cieux,</l>
+	<l id="1338">D'un contre-poids égal dessus nous balancée,</l>
+	<l id="1339">N'est pas entièrement du côté de Persée.</l>
+</sp>
+<sp who="JUNON"><speaker>JUNON.</speaker>
+	<l id="1340">Je te le dis encore, ose, et sers mon courroux</l>
+	<l id="1341">Contre l'indigne sang de mon perfide époux.</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1342">Sous tes commandements nous y courons, déesse,</l>
+	<l id="1343">Le coeur plein d'espérance, et l'âme d'allégresse.</l>
+	<l id="1344">Allons, seigneur, allons assembler vos amis ;</l>
+	<l id="1345">Courons au grand succès qu'elle vous a promis :</l>
+	<l id="1346">Aussi bien le roi vient, il faut quitter la place,</l>
+	<l id="1347" part="i">de peur...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1347" part="f">Non, demeurez pour voir ce qui se passe ;</l>
+	<l id="1348">Et songez à m'en faire un fidèle rapport,</l>
+	<l id="1349">Tandis que je m'apprête à cet illustre effort.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Céphée, Cassiope, Andromède, Persée, Ammon, Timante, Choeur du peuple.</head>
+<sp who="TIMANTE"><speaker>TIMANTE.</speaker>
+	<l id="1350">Seigneur, le souvenir des plus âpres supplices,</l>
+	<l id="1351">Quand un tel bien les suit, n'a jamais que délices.</l>
+	<l id="1352">Si d'un mal sans pareil nous nous vîmes surpris,</l>
+	<l id="1353">Nous bénissons le ciel d'un tel mal à ce prix ;</l>
+	<l id="1354">Et voyant quel époux il donne à la princesse,</l>
+	<l id="1355">La douleur s'en termine en ces chants d'allégresse.</l>
+</sp>
+<sp who="CHOEUR"><speaker>LE CHOEUR, chante.</speaker>
+	<l id="1356">Vivez, vivez, heureux amants,</l>
+	<l id="1357">Dans les douceurs que l'amour vous inspire ;</l>
+	<l id="1358">Vivez heureux, et vivez si longtemps,</l>
+	<l id="1359">Qu'au bout d'un siècle entier on puisse encore vous dire :</l>
+	<l id="1360">"Vivez, heureux amants. "</l>
+	<l id="1361">Que les plaisirs les plus charmants</l>
+	<l id="1362">Fassent les jours d'une si belle vie ;</l>
+	<l id="1363">Qu'ils soient sans tache, et que tous leurs moments</l>
+	<l id="1364">Fassent redire même à la voix de l'envie :</l>
+	<l id="1365">" Vivez, heureux amants. "</l>
+	<l id="1366">Que les peuples les plus puissants</l>
+	<l id="1367">Dans nos souhaits à pleins voeux nous secondent ;</l>
+	<l id="1368">Qu'aux dieux pour vous ils prodiguent l'encens,</l>
+	<l id="1369">Et des bouts de la terre à l'envi nous répondent :</l>
+	<l id="1370">"Vivez, heureux amants. "</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1371">Allons, amis, allons, dans ce comble de joie,</l>
+	<l id="1372">Rendre grâces au ciel de l'heur qu'il nous envoie.</l>
+	<l id="1373">Allons dedans le temple avec mille voeux</l>
+	<l id="1374">De cet illustre hymen achever les beaux noeuds.</l>
+	<l id="1375">Allons sacrifier à Jupiter son père,</l>
+	<l id="1376">Le prier de souffrir ce que nous pensons faire,</l>
+	<l id="1377">Et ne s'offenser pas que ce noble lien</l>
+	<l id="1378">Fasse un mélange heureux de son sang et du mien.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1379">Souffrez qu'auparavant par d'autres sacrifices</l>
+	<l id="1380">Nous nous rendions des eaux les déités propices.</l>
+	<l id="1381">Neptune est irrité ; les nymphes de la mer</l>
+	<l id="1382">Ont de nouveaux sujets encore de s'animer ;</l>
+	<l id="1383">Et comme mon orgueil fit naître leur colère,</l>
+	<l id="1384">Par mes submissions je dois les satisfaire.</l>
+	<l id="1385">Sur leurs sables, témoins de tant de vanités,</l>
+	<l id="1386">Je vais sacrifier à leurs divinités ;</l>
+	<l id="1387">Et conduisant ma fille à ce même rivage,</l>
+	<l id="1388">De ces mêmes beautés leur rendre un plein hommage,</l>
+	<l id="1389">Joindre nos voeux au sang des taureaux immolés,</l>
+	<l id="1390">Puis nous vous rejoindrons au temple où vous allez.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1391">Souffrez qu'en même temps de ma fière marâtre</l>
+	<l id="1392">Je tâche d'apaiser la haine opiniâtre ;</l>
+	<l id="1393">Qu'un pareil sacrifice et de semblables voeux</l>
+	<l id="1394">Tirent d'elle l'aveu qui peut me rendre heureux.</l>
+	<l id="1395">Vous savez que Junon à ce lien préside,</l>
+	<l id="1396">Que sans elle l'hymen marche d'un pied timide,</l>
+	<l id="1397">Et que sa jalousie aime à persécuter</l>
+	<l id="1398">Quiconque ainsi que moi sort de son Jupiter.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1399">Je suis ravi de voir qu'au milieu de vos flammes</l>
+	<l id="1400">De si dignes respects règnent dessus vos âmes.</l>
+	<l id="1401">Allez, j'immolerai pour vous à Jupiter,</l>
+	<l id="1402">Et je ne vois plus rien enfin à redouter.</l>
+	<l id="1403">Des dieux les moins bénins l'éternelle puissance</l>
+	<l id="1404">Ne veut de nous qu'amour et que reconnaissance ;</l>
+	<l id="1405">Et jamais leur courroux ne montre de rigueurs</l>
+	<l id="1406">Que n'abatte aussitôt l'abaissement des coeurs.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<stage>DÉCORATION DU CINQUIÈME ACTE. L'architecture ne s'est pas épuisé en la structure de ce palais royal. Le temple qui lui succède a tan davantage sur lui, qu'il fait mépriser ce qu'on admirait : aussi est-il juste que la demeure des Dieux l'emporte sur celle des hommes, et l'art du sieur Torrelli est ici d'autant plus merveilleux qu'il fait paraître une grande diversité en ces deux décorations, quoiqu'elles soient presque le même chose. On voit encore en celle-ci deux rangs de colonnes comme en l'autre, mais d'un ordre si différent, qu'on n'y remarque aucun rapport. Celles-ci sort du porphyre, et tous les accompagnements qui les soutiennent et qui les finissent, de bronze ciselé, dont la gravure représente quantité de dieux et de déesses. La réflexion   des lumières sur ce bronze en fait sortir un jour tout extraordinaire. Un grand et superbe dôme couvre le milieu de ce temple magnifique, l'artifice de l'ouvrier jette une galerie toute brillante d'or et d'azur. Le dessous de cette galerie laisse voir le dedans du temple par trois portes d'argent  ouvragées à jour : on y verrait Céphée sacrifiant à Jupiter pour le mariage de sa fille, n'était que l'attention que les spectateurs prêteraient à ce sacrifice les détournerait de celle qu'ils doivent à ce qui se passe dans le parvis que représente le théâtre.</stage>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Phinée, Ammon.</head>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1407">Vos amis assemblés brûlent tous de vous suivre,</l>
+	<l id="1408">Et Junon dans son temple entre vos mains le livre.</l>
+	<l id="1409">Ce rival, presque seul au pied de son autel,</l>
+	<l id="1410">Semble attendre à genoux l'honneur du coup mortel.</l>
+	<l id="1411">Là, comme la déesse agréera la victime,</l>
+	<l id="1412">Plus les lieux seront saints, moindre en sera le crime ;</l>
+	<l id="1413">Et son aveu changeant de nom à l'attentat,</l>
+	<l id="1414">Ce sera sacrifice au lieu d'assassinat.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1415">Que me sert que Junon, que Neptune propice,</l>
+	<l id="1416">Que tous les dieux ensemble aiment ce sacrifice,</l>
+	<l id="1417">Si la seule déesse à qui je fais des voeux</l>
+	<l id="1418">Ne m'en voit que d'un oeil d'autant plus rigoureux,</l>
+	<l id="1419">Et si ce coup, sensible au coeur de l'inhumaine,</l>
+	<l id="1420">D'un injuste mépris fait une juste haine ?</l>
+	<l id="1421">Ami, quelque fureur qui puisse m'agiter,</l>
+	<l id="1422">Je cherche à l'acquérir, et non à l'irriter ;</l>
+	<l id="1423">Et m'immoler l'objet de sa nouvelle flamme,</l>
+	<l id="1424">Ce n'est pas le chemin de rentrer dans son âme.</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1425">Mais, seigneur, vous touchez à ce moment fatal</l>
+	<l id="1426">Qui pour jamais la donne à cet heureux rival.</l>
+	<l id="1427">En cette extrémité que prétendez-vous faire ?</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1428">Tout, hormis l'irriter ; tout, hormis lui déplaire :</l>
+	<l id="1429">Soupirer à ses pieds, pleurer à ses genoux,</l>
+	<l id="1430">Trembler devant sa haine, adorer son courroux.</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1431">Quittez, quittez, seigneur, un respect si funeste ;</l>
+	<l id="1432">Ôtez-vous ce rival, et hasardez le reste :</l>
+	<l id="1433">En dût-elle à jamais dédaigner vos soupirs,</l>
+	<l id="1434">La vengeance elle seule a de si doux plaisirs...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1435">N'en cherchons les douceurs, ami, que les dernières.</l>
+	<l id="1436">Rarement un amant les peut goûter entières ;</l>
+	<l id="1437">Et quand de sa vengeance elles sont tout le fruit,</l>
+	<l id="1438">Ce sont fausses douceurs que l'amertume suit.</l>
+	<l id="1439">La mort de son rival, les pleurs de son ingrate,</l>
+	<l id="1440">Ont bien je ne sais quoi qui dans l'abord le flatte ;</l>
+	<l id="1441">Mais de ce cher objet s'en voyant plus haï,</l>
+	<l id="1442">Plus il s'en est flatté, plus il s'en croit trahi.</l>
+	<l id="1443">Sous d'éternels regrets son âme est abattue,</l>
+	<l id="1444">Et sa propre vengeance incessamment le tue.</l>
+	<l id="1445">Ce n'est pas que je veuille enfin la négliger :</l>
+	<l id="1446">Si je ne puis fléchir, je cours à me venger ;</l>
+	<l id="1447">Mais souffre à mon amour, mais souffre à ma faiblesse</l>
+	<l id="1448">Encore un peu d'effort auprès de ma princesse.</l>
+	<l id="1449">Un amant véritable espère jusqu'au bout,</l>
+	<l id="1450">Tant qu'il voit un moment qui peut lui rendre tout.</l>
+	<l id="1451">L'inconstante, peut-être encore toute étonnée,</l>
+	<l id="1452">N'était pas bien à soi quand elle s'est donnée ;</l>
+	<l id="1453">Et la reconnaissance a fait plus que l'amour</l>
+	<l id="1454">En faveur d'une main qui lui rendait le jour.</l>
+	<l id="1455">Au sortir du péril, pâle encore et tremblante,</l>
+	<l id="1456">L'image de la mort devant les yeux errante,</l>
+	<l id="1457">Elle a cru tout devoir à son libérateur ;</l>
+	<l id="1458">Mais souvent le devoir ne donne pas le coeur ;</l>
+	<l id="1459">Il agit rarement sans un peu d'imposture,</l>
+	<l id="1460">Et fait peu de présents dont ce coeur ne murmure.</l>
+	<l id="1461">Peut-être, ami, peut-être après ce grand effroi</l>
+	<l id="1462">Son amour en secret aura parlé pour moi :</l>
+	<l id="1463">Les traits mal effacés de tant d'heureux services,</l>
+	<l id="1464">Les douceurs d'un beau feu qui furent ses délices,</l>
+	<l id="1465">D'un regret amoureux touchant son souvenir,</l>
+	<l id="1466">Auront en ma faveur surpris quelque soupir,</l>
+	<l id="1467">Qui s'échappant d'un coeur qu'elle force à ma perte,</l>
+	<l id="1468">M'en aura pu laisser la porte encore ouverte.</l>
+	<l id="1469">Ah ! Si ce triste hymen se pouvait éloigner !</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1470">Quoi ? Vous voulez encore vous faire dédaigner ?</l>
+	<l id="1471">Sous ce honteux espoir votre fureur se dompte ?</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1472">Que veux-tu ? Ne sois point le témoin de ma honte :</l>
+	<l id="1473">Andromède revient ; va trouver nos amis,</l>
+	<l id="1474">Va préparer leurs bras à ce qu'ils m'ont promis.</l>
+	<l id="1475">Ou mes nouveaux respects fléchiront l'inhumaine,</l>
+	<l id="1476">Ou ses nouveaux mépris animeront ma haine ;</l>
+	<l id="1477">Et tu verras mes feux, changés en juste horreur,</l>
+	<l id="1478">Armer mes désespoirs, et hâter ma fureur.</l>
+</sp>
+<sp who="AMMON"><speaker>AMMON.</speaker>
+	<l id="1479">Je vous plains ; mais enfin j'obéis, et vous laisse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Cassiope, Andromède, Phinée, Suite de la Reine.</head>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1480">Une seconde fois, adorable princesse,</l>
+	<l id="1481">Malgré de vos rigueurs l'impérieuse loi...</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1482">Quoi ? Vous voyez la reine, et vous parlez à moi !</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1483">C'est de vous seule aussi que j'ai droit de me plaindre :</l>
+	<l id="1484">Je serais trop heureux de la voir vous contraindre,</l>
+	<l id="1485">Et n'accuserais plus votre infidélité,</l>
+	<l id="1486">Si vous vous excusiez sur son autorité.</l>
+	<l id="1487">Au nom de cette amour autrefois si puissante,</l>
+	<l id="1488">Aidez un peu la mienne à vous faire innocente :</l>
+	<l id="1489">Dites-moi que votre âme à regret obéit,</l>
+	<l id="1490">Qu'un rigoureux devoir malgré vous me trahit ;</l>
+	<l id="1491">Donnez-moi lieu de dire : " elle-même elle en pleure,</l>
+	<l id="1492">Elle change forcée, et son coeur me demeure ; "</l>
+	<l id="1493">Et soudain, de la reine embrassant les genoux,</l>
+	<l id="1494">Vous m'y verrez mourir sans me plaindre de vous.</l>
+	<l id="1495">Mais que lui puis-je, hélas ! Demander pour remède,</l>
+	<l id="1496">Quand la main qui me tue est celle d'Andromède,</l>
+	<l id="1497">Et que son coeur léger ne court au changement</l>
+	<l id="1498">Qu'avec la vanité d'y courir justement ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1499">Et quel droit sur ce coeur pouvait garder Phinée,</l>
+	<l id="1500">Quand Persée a trouvé la place abandonnée,</l>
+	<l id="1501">Et n'a fait autre chose, en prenant son parti,</l>
+	<l id="1502">Que s'emparer d'un lieu dont vous étiez sorti ?</l>
+	<l id="1503">Mais sorti, le dirai-je, et pourrez-vous l'entendre ?</l>
+	<l id="1504">Oui, sorti lâchement, de peur de le défendre.</l>
+	<l id="1505">Ainsi nous n'avons fait que le récompenser</l>
+	<l id="1506">D'un bien où votre bras venait de renoncer,</l>
+	<l id="1507">Que vous cédiez au monstre, à lui-même, à tout autre :</l>
+	<l id="1508">Si c'est une injustice, examinons la vôtre.</l>
+	<l id="1509">La voyant exposée aux rigueurs de son sort,</l>
+	<l id="1510">Vous vous étiez déjà consolé de sa mort ;</l>
+	<l id="1511">Et quand par un héros le ciel l'a garantie,</l>
+	<l id="1512">Vous ne vous pouvez plus consoler de sa vie.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1513" part="i">Ah ! Madame...</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1513" part="f">Eh bien ! Soit, vous avez soupiré</l>
+	<l id="1514">Autant que l'a pu faire un coeur désespéré.</l>
+	<l id="1515">Jamais aucun tourment n'égala votre peine ;</l>
+	<l id="1516">Certes, quelque douleur dont votre âme fût pleine,</l>
+	<l id="1517">Ce désespoir illustre et ces nobles regrets</l>
+	<l id="1518">Lui devaient un peu plus que des soupirs secrets.</l>
+	<l id="1519" part="i">À ce défaut, Persée...</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1519" part="f">Ah ! C'en est trop, madame ;</l>
+	<l id="1520">Ce nom rend, malgré moi, la fureur à mon âme :</l>
+	<l id="1521">Je me force au respect ; mais toujours le vanter,</l>
+	<l id="1522">C'est me forcer moi-même à ne rien respecter.</l>
+	<l id="1523">Qu'a-t-il fait, après tout, si digne de vous plaire,</l>
+	<l id="1524">Qu'avec un tel secours tout autre n'eût pu faire ?</l>
+	<l id="1525">Et tout héros qu'il est, qu'eût-il osé pour vous,</l>
+	<l id="1526">S'il n'eût eu que sa flamme et son bras comme nous ?</l>
+	<l id="1527">Mille et mille auraient fait des actions plus belles,</l>
+	<l id="1528">Si le ciel comme à lui leur eût prêté des ailes ;</l>
+	<l id="1529">Et vous les auriez vus encore plus généreux,</l>
+	<l id="1530">S'ils eussent vu le monstre et le péril sous eux :</l>
+	<l id="1531">On s'expose aisément quand on n'a rien à craindre.</l>
+	<l id="1532">Combattre un ennemi qui ne pouvait l'atteindre,</l>
+	<l id="1533">Voir sa victoire sûre et daigner l'accepter,</l>
+	<l id="1534">C'est tout le rare exploit dont il se peut vanter ;</l>
+	<l id="1535">Et je ne comprends point ni quelle en est la gloire,</l>
+	<l id="1536">Ni quel grand prix mérite une telle victoire.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1537">Et votre aveuglement sera bien moins compris,</l>
+	<l id="1538">Qui d'un sujet d'estime en fait un de mépris.</l>
+	<l id="1539">Le ciel, qui mieux que nous connaît ce que nous sommes,</l>
+	<l id="1540">Mesure ses faveurs au mérite des hommes ;</l>
+	<l id="1541">Et d'un pareil secours vous auriez eu l'appui,</l>
+	<l id="1542">S'il eût pu voir en vous mêmes vertus qu'en lui.</l>
+	<l id="1543">Ce sont grâces d'en haut rares et singulières,</l>
+	<l id="1544">Qui n'en descendent point pour des âmes vulgaires ;</l>
+	<l id="1545">Ou pour en mieux parler, la justice des cieux</l>
+	<l id="1546">Garde ce privilège au digne sang des dieux :</l>
+	<l id="1547">C'est par là que leur roi vient d'avouer sa race.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1548">Je dirai plus, Phinée ; et pour vous faire grâce,</l>
+	<l id="1549">Je veux ne rien devoir à cet heureux secours</l>
+	<l id="1550">Dont ce vaillant guerrier a conservé mes jours ;</l>
+	<l id="1551">Je veux fermer les yeux sur toute cette gloire,</l>
+	<l id="1552">Oublier mon péril, oublier sa victoire,</l>
+	<l id="1553">Et quel qu'en soit enfin le mérite ou l'éclat,</l>
+	<l id="1554">Ne juger entre vous que depuis le combat.</l>
+	<l id="1555">Voyez ce qu'il a fait, lorsque après ces alarmes,</l>
+	<l id="1556">Me voyant toute acquise au bonheur de ses armes,</l>
+	<l id="1557">Ayant pour lui les dieux, ayant pour lui le roi,</l>
+	<l id="1558">Dans sa victoire même il s'est vaincu pour moi.</l>
+	<l id="1559">Il m'a sacrifié tout ce haut avantage ;</l>
+	<l id="1560">De toute sa conquête il m'a fait un hommage ;</l>
+	<l id="1561">Il m'en a fait un don ; et fort de tant de voix,</l>
+	<l id="1562">Au péril de tout perdre, il met tout à mon choix :</l>
+	<l id="1563">Il veut tenir pour grâce un si juste salaire ;</l>
+	<l id="1564">Il réduit son bonheur à ne me point déplaire ;</l>
+	<l id="1565">Préférant mes refus, préférant son trépas</l>
+	<l id="1566">À l'effet de ses voeux qui ne me plairait pas.</l>
+	<l id="1567">En usez-vous de même ? Et votre violence</l>
+	<l id="1568">Garde-t-elle pour moi la même déférence ?</l>
+	<l id="1569">Vous avez contre vous et les dieux et le roi,</l>
+	<l id="1570">Et vous voulez encore m'obtenir malgré moi !</l>
+	<l id="1571">Sous ombre d'une foi qui se tient en réserve,</l>
+	<l id="1572">Je dois à votre amour ce qu'un autre conserve ;</l>
+	<l id="1573">À moins que d'être ingrate à mon libérateur,</l>
+	<l id="1574">À moins que d'adorer un lâche adorateur,</l>
+	<l id="1575">Que d'être à mes parents, aux dieux mêmes rebelle,</l>
+	<l id="1576">Vous crierez après moi sans cesse : " à l'infidèle ! "</l>
+	<l id="1577">C'était aux yeux du monstre, au pied de ce rocher,</l>
+	<l id="1578">Que l'effet de ma foi se devait rechercher ;</l>
+	<l id="1579">Mon âme, encore pour vous de même ardeur pressée,</l>
+	<l id="1580">Vous eût tendu la main au mépris de Persée,</l>
+	<l id="1581">Et cru plus glorieux qu'on m'eût vue aujourd'hui</l>
+	<l id="1582">Expirer avec vous que régner avec lui.</l>
+	<l id="1583">Mais puisque vous m'avez envié cette joie,</l>
+	<l id="1584">Cessez de m'envier ce que le ciel m'envoie ;</l>
+	<l id="1585">Et souffrez que je tâche enfin à mériter,</l>
+	<l id="1586">Au refus de Phinée, un fils de Jupiter.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1587">Je perds donc temps, madame, et votre âme obstinée</l>
+	<l id="1588">N'a plus amour, ni foi, ni pitié pour Phinée ?</l>
+	<l id="1589">Un peu de vanité qui flatte vos parents,</l>
+	<l id="1590">Et d'un rival adroit les respects apparents,</l>
+	<l id="1591">Font plus en un moment, avec leurs artifices,</l>
+	<l id="1592">Que n'ont fait en six ans ma flamme et mes services ?</l>
+	<l id="1593">Je ne vous dirai point que de pareils respects</l>
+	<l id="1594">À tout autre que vous pourraient être suspects,</l>
+	<l id="1595">Que qui peut se priver de la personne aimée</l>
+	<l id="1596">N'a qu'une ardeur civile et fort mal allumée,</l>
+	<l id="1597">Que dans ma violence on doit voir plus d'amour :</l>
+	<l id="1598">C'est un présent des cieux, faites-lui votre cour ;</l>
+	<l id="1599">Plus fidèle qu'à moi, tenez-lui mieux parole :</l>
+	<l id="1600">J'en vais rougir pour vous, cependant qu'il me vole ;</l>
+	<l id="1601">Mais ce rival peut-être, après m'avoir volé,</l>
+	<l id="1602">Ne sera pas toujours sur ce cheval ailé.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1603">Il n'en a pas besoin s'il n'a que vous à craindre.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1604">Il peut avec le temps être le plus à plaindre.</l>
+</sp>
+<sp who="ANDROMEDE"><speaker>ANDROMÈDE.</speaker>
+	<l id="1605">Il porte à son côté de quoi l'en garantir.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1606">Vous l'attendez ici, je vais l'en avertir.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1607">Son amour peut sans vous nous rendre cet office.</l>
+</sp>
+<sp who="PHINEE"><speaker>PHINÉE.</speaker>
+	<l id="1608">Le mien s'efforcera pour ce dernier service.</l>
+	<l id="1609">Vous pouvez cependant divertir vos esprits</l>
+	<l id="1610">À rendre compte au roi de vos justes mépris.</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Céphée, Cassiope, Andromède, Suite du Roi et de la Reine.</head>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1611">Que faisait là Phinée ? Est-il si téméraire</l>
+	<l id="1612">Que ce que font les dieux il pense à le défaire ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1613">Après avoir prié, soupiré, menacé,</l>
+	<l id="1614">Il vous a vu, seigneur, et l'orage a passé.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1615">Et vous prêtiez l'oreille à ses discours frivoles ?</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1616">Un amant qui perd tout peut perdre des paroles ;</l>
+	<l id="1617">Et l'écouter sans trouble et sans rien hasarder,</l>
+	<l id="1618">C'est la moindre faveur qu'on lui puisse accorder.</l>
+	<l id="1619">Mais, seigneur, dites-nous si Jupiter propice</l>
+	<l id="1620">Se déclare en faveur de votre sacrifice,</l>
+	<l id="1621">Si de notre famille il se rend le soutien,</l>
+	<l id="1622">S'il consent l'union de notre sang au sien.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1623">Jamais les feux sacrés et la mort des victimes</l>
+	<l id="1624">N'ont daigné mieux répondre à des voeux légitimes.</l>
+	<l id="1625">Tous auspices heureux ; et le grand Jupiter</l>
+	<l id="1626">Par des signes plus clairs ne pouvait l'accepter,</l>
+	<l id="1627">À moins qu'y joindre encore l'honneur de sa présence,</l>
+	<l id="1628">Et de sa propre bouche assurer l'alliance.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1629">Les nymphes de la mer nous en ont fait autant ;</l>
+	<l id="1630">Toutes ont hors des flots paru presque à l'instant ;</l>
+	<l id="1631">Et leurs bénins regards envoyés au rivage</l>
+	<l id="1632">Avec notre encens ont reçu notre hommage ;</l>
+	<l id="1633">Après le sacrifice honoré de leurs yeux,</l>
+	<l id="1634">Où Neptune à l'envi mêlait ses demi-dieux,</l>
+	<l id="1635">Toutes ont témoigné d'un penchement de tête</l>
+	<l id="1636">Consentir au bonheur que le ciel nous apprête ;</l>
+	<l id="1637">Et nos submissions désarmant leurs dédains,</l>
+	<l id="1638">Toutes ont pour adieu battu l'onde des mains.</l>
+	<l id="1639">Que si même bonheur suit les voeux de Persée,</l>
+	<l id="1640">Qu'il ait vu de Junon sa prière exaucée,</l>
+	<l id="1641">Nous n'avons plus à craindre aucun sinistre effet.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1642">Les dieux ne laissent point leur ouvrage imparfait :</l>
+	<l id="1643">N'en doutez point, madame, aussi bien que Neptune</l>
+	<l id="1644">Junon consentira notre bonne fortune.</l>
+	<l id="1645" part="i">Mais que nous veut Aglante ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Cépéhe, Cassoipe, Andromède, Aglante, Suite du Roi et de la Reine.</head>
+<sp who="AGLANTE"><speaker>AGLANTE.</speaker>
+	<l id="1645" part="f">Ah ! Seigneur, au secours !</l>
+	<l id="1646">Du généreux Persée on attaque les jours.</l>
+	<l id="1647">Presque au sortir du temple une troupe mutine</l>
+	<l id="1648">Vient de l'environner, et déjà l'assassine.</l>
+	<l id="1649">Phinée en les joignant, furieux et jaloux,</l>
+	<l id="1650">Leur a crié : « Main basse ! À lui seul, donnez tous ! »</l>
+	<l id="1651">Ceux qui l'accompagnaient tout aussitôt se rendent,</l>
+	<l id="1652">Clyte et Nylée encore vaillamment le défendent ;</l>
+	<l id="1653">Mais ce sont vains efforts de peu d'autres suivis,</l>
+	<l id="1654">Et je viens toute en pleurs vous en donner avis.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1655">Dieux ! Est-ce là l'effet de tant d'heureux présages ?</l>
+	<l id="1656">Allez, gardes, allez signaler vos courages ;</l>
+	<l id="1657">Allez perdre ce traître, et punir ce voleur</l>
+	<l id="1658">Qui prétend sous le nombre accabler la valeur.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1659">Modérez vos frayeurs, et vous, séchez vos larmes.</l>
+	<l id="1660">Le ciel n'a point besoin du secours de nos armes ;</l>
+	<l id="1661">Il a de ce héros trop pris les intérêts,</l>
+	<l id="1662">Pour n'avoir pas pour lui des miracles tous prêts :</l>
+	<l id="1663">Et peut-être bientôt sur ce lâche adversaire</l>
+	<l id="1664">Vous entendrez tomber la foudre de son père.</l>
+	<l id="1665">Jugez de l'avenir par ce qui s'est passé ;</l>
+	<l id="1666">Les dieux achèveront ce qu'ils ont commencé ;</l>
+	<l id="1667">Oui, les dieux à leur sang doivent ce privilège :</l>
+	<l id="1668">Y mêler notre main, c'est faire un sacrilège.</l>
+</sp>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1669">Seigneur, sur cet espoir hasarder ce héros,</l>
+	<l id="1670" part="i">c'est trop...</l>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Céphée, Cassiope, Andromède, Phrobas, Aglante, Suite du Roi et de la Reine.</head>
+<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+	<l id="1670" part="f">Mettez, grand roi, votre esprit en repos ;</l>
+	<l id="1671">La tête de Méduse a puni tous ces traîtres.</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1672">Le ciel n'est point menteur, et les dieux sont nos maîtres.</l>
+</sp>
+<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+	<l id="1673">Aussitôt que Persée a pu voir son rival :</l>
+	<l id="1674">"Descendons, a-t-il dit, en un combat égal ;</l>
+	<l id="1675">Quoique j'aie en ma main un entier avantage,</l>
+	<l id="1676">Je ne veux que mon bras, ne prends que ton courage.</l>
+	<l id="1677">- Prends, prends cet avantage, et j'userai du mien, "</l>
+	<l id="1678">Dit Phinée ; et soudain, sans plus répondre rien,</l>
+	<l id="1679">Les siens donnent en foule, et leur troupe pressée</l>
+	<l id="1680">Fait choir Ménale et Clyte aux pieds du grand Persée.</l>
+	<l id="1681">Il s'écrie aussitôt : « Amis, fermez les yeux,</l>
+	<l id="1682">Et sauvez vos regards de ce présent des cieux :</l>
+	<l id="1683">J'atteste qu'on m'y force, et n'en fais plus d'excuse .»</l>
+	<l id="1684">Il découvre à ces mots la tête de Méduse.</l>
+	<l id="1685">Soudain j'entends des cris qu'on ne peut achever ;</l>
+	<l id="1686">J'entends gémir les uns, les autres se sauver ;</l>
+	<l id="1687">J'entends le repentir succéder à l'audace ;</l>
+	<l id="1688">J'entends Phinée enfin qui lui demande grâce.</l>
+	<l id="1689">« Perfide, il n'est plus temps, » lui dit Persée. Il fuit :</l>
+	<l id="1690">J'entends comme à grands pas ce vainqueur le poursuit ;</l>
+	<l id="1691">Comme il court se venger de qui l'osait surprendre ;</l>
+	<l id="1692">Je l'entends s'éloigner, puis je cesse d'entendre.</l>
+	<l id="1693">Alors, ouvrant les yeux par son ordre fermés,</l>
+	<l id="1694">Je vois tous ces méchants en pierre transformés ;</l>
+	<l id="1695">Mais l'un plein de fureur, et l'autre plein de crainte,</l>
+	<l id="1696">En porte sur le front l'image encore empreinte ;</l>
+	<l id="1697">Et tel voulait frapper, dont le coup suspendu</l>
+	<l id="1698">Demeure en sa statue à demi descendu ;</l>
+	<l id="1699" part="i">tant cet affreux prodige...</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Céphée, Cassiope, Andromède, Persée, Phorbas, Aglante, Suite du Roi et de la Reine.</head>
+<sp who="CEPHEE"><speaker>CÉPHÉE, à Persée.</speaker>
+	<l id="1699" part="f">Est-il puni, ce lâche,</l>
+	<l id="1700" part="i">cet impie ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1700" part="f">Oui, seigneur ; et si sa mort vous fâche,</l>
+	<l id="1701">Si c'est de votre sang avoir fait peu d'état...</l>
+</sp>
+<sp who="CEPHEE"><speaker>CÉPHÉE.</speaker>
+	<l id="1702">Il n'est plus de ma race après son attentat :</l>
+	<l id="1703">Ce crime l'en dégrade, et ce coup téméraire</l>
+	<l id="1704">Efface de mon sang l'illustre caractère.</l>
+	<l id="1705">Perdons-en la mémoire, et faisons-la céder</l>
+	<l id="1706">À l'heur de vous revoir et de vous posséder,</l>
+	<l id="1707">Vous que le juste ciel, remplissant son oracle,</l>
+	<l id="1708">Par miracle nous donne, et nous rend par miracle</l>
+	<l id="1709">Entrons dedans ce temple, où l'on n'attend que vous</l>
+	<l id="1710">Pour nous unir aux dieux par des liens si doux ;</l>
+	<l id="1711">Entrons sans différer. Mais quel nouveau prodige</l>
+<stage>Les portes se ferment comme ils veulent entrer.</stage>
+	<l id="1712">Dans cet excès de joie à craindre nous oblige ?</l>
+	<l id="1713">Qui nous ferme la porte et nous défend d'entrer</l>
+	<l id="1714">Où tout notre bonheur se devait rencontrer ?</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1715">Puissant maître du foudre, est-il quelque tempête</l>
+	<l id="1716">Que le destin jaloux à dissiper m'apprête ?</l>
+	<l id="1717">Quelle nouvelle épreuve attaque ma vertu ?</l>
+	<l id="1718">Après ce qu'elle a fait, la désavouerais-tu ?</l>
+	<l id="1719">Ou si c'est que le prix dont tu la vois suivie</l>
+	<l id="1720">Au bonheur de ton fils te fait porter envie ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Mercure, Céphée, Cassiope, Andromède, Persée, Phorbas, Aglante, Suite du Roi et de la Reine.</head>
+<sp who="MERCURE"><speaker>MERCURE, au milieu de l'air.</speaker>
+	<l id="1721">Roi, reine, et vous princesse, et vous heureux vainqueur,</l>
+	<l id="1722">Que Jupiter mon père</l>
+	<l id="1723">Tient pour mon digne frère,</l>
+	<l id="1724">Ne craignez plus du sort la jalouse rigueur.</l>
+	<l id="1725">Ces portes du temple fermées,</l>
+	<l id="1726">Dont vos âmes sont alarmées,</l>
+	<l id="1727">Vous marquent des faveurs où tout le ciel consent :</l>
+	<l id="1728">Tous les dieux sont d'accord de ce bonheur suprême ;</l>
+	<l id="1729">Et leur monarque tout-puissant</l>
+	<l id="1730">Vous le vient apprendre lui-même.</l>
+</sp>
+<stage>Mercure revole en haut après avoir parlé.</stage>
+<sp who="CASSIOPE"><speaker>CASSIOPE.</speaker>
+	<l id="1731">Redoublons donc nos voeux, redoublons nos ferveurs,</l>
+	<l id="1732">Pour mériter du ciel ces nouvelles faveurs.</l>
+</sp>
+<sp who="CHOEUR"><speaker>CHOEUR de MUSIQUE.</speaker>
+	<l id="1733">Maître des dieux, hâte-toi de paraître,</l>
+	<l id="1734">Et de verser sur ton sang et nos rois</l>
+	<l id="1735">Les grâces que garde ton choix</l>
+	<l id="1736">À ceux que tu fais naître.</l>
+	<l id="1737">Fais choir sur eux de nouvelles couronnes,</l>
+	<l id="1738">Et fais-nous voir, par un heur accompli,</l>
+	<l id="1739">Qu'ils ont tous dignement rempli</l>
+	<l id="1740">Le rang que tu leur donnes.</l>
+</sp>
+<stage>Tandis qu'on chante, Jupiter descend du ciel dans un trône tout éclatant d'or et de lumières, enfermé dans un nuage qui l'environne. A ses deux côtés, deux autres nuages apportent jusqu'à terre Junon et Neptune, apaisés par les sacrifices des amants ; ils se déploient en rond autour de celui de Jupiter, et, occupant toute la face du théâtre, ils font le plus agréable spectacle de toute cette représentation.</stage>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Jupiter, Junon, Neptune, Céphée, Cassiope, Andromède, Persée, Phorbas, Aglante, Suite du Roi et de la Reine.</head>
+<sp who="JUPITER"><speaker>JUPITER, dans son trône au milieu de l'air.</speaker>
+	<l id="1741">Des noces de mon fils la terre n'est pas digne,</l>
+	<l id="1742">La gloire en appartient aux cieux,</l>
+	<l id="1743">Et c'est là ce bonheur insigne</l>
+	<l id="1744">Qu'en vous fermant mon temple ont annoncé les dieux.</l>
+	<l id="1745">Roi, reine, et vous amants, venez sans jalousie</l>
+	<l id="1746">Vivre à jamais en ce brillant séjour,</l>
+	<l id="1747">Où le nectar et l'ambrosie</l>
+	<l id="1748">Vous seront comme à nous prodigués chaque jour ;</l>
+	<l id="1749">Et quand la nuit aura tendu ses voiles,</l>
+	<l id="1750">Vos corps semés de nouvelles étoiles,</l>
+	<l id="1751">Du haut du ciel éclairant aux mortels,</l>
+	<l id="1752">Leur apprendront qu'il vous faut des autels.</l>
+</sp>
+<sp who="JUNON"><speaker>JUNON, à Persée.</speaker>
+	<l id="1753">Junon même y consent, et votre sacrifice</l>
+	<l id="1754">A calmé les fureurs de son esprit jaloux.</l>
+</sp>
+<sp who="NEPTUNE"><speaker>NEPTUNE, à Cassiope.</speaker>
+	<l id="1755">Neptune n'est pas moins propice,</l>
+	<l id="1756">Et vos encens désarment son courroux.</l>
+</sp>
+<sp who="JUNON"><speaker>JUNON.</speaker>
+	<l id="1757">Venez, héros, et vous Céphée,</l>
+	<l id="1758">Prendre là-haut vos places de ma main.</l>
+</sp>
+<sp who="NEPTUNE"><speaker>NEPTUNE.</speaker>
+	<l id="1759">Reines, venez ; que ma haine étouffée</l>
+	<l id="1760">Vous conduise elle-même à cet heur souverain.</l>
+</sp>
+<sp who="PERSÉE"><speaker>PERSÉE.</speaker>
+	<l id="1761">Accablés et surpris d'une faveur si grande...</l>
+</sp>
+<sp who="JUNON"><speaker>JUNON.</speaker>
+	<l id="1762">Arrêtez là votre remerciement :</l>
+	<l id="1763">L'obéissance est le seul compliment</l>
+	<l id="1764">Qu'agrée un Dieu quand il commande.</l>
+</sp>
+<stage>Sitôt que Junon a dit ces vers, elle fait prendre place au Roi et à Persée auprès d'elle. Neptune fait le même honneur à la reine et la princesse Andromède ; et tous ensemble remontent dans le ciel qui les attend, cependant que le peuple, pour acclamation publique, chante ces vers qui viennent d'être prononcés par Jupiter.</stage>
+<sp who="CHOEUR"><speaker>LE CHOEUR.</speaker>
+	<l id="1765">Allez, amants, allez sans jalousie</l>
+	<l id="1766">Vivre à jamais en ce brillant séjour,</l>
+	<l id="1767">Où le nectar et l'ambrosie</l>
+	<l id="1768">Vous seront comme aux dieux prodigués chaque jour ;</l>
+	<l id="1769">Et quand la nuit aura tendu ses voiles,</l>
+	<l id="1770">Vos corps semés de nouvelles étoiles,</l>
+	<l id="1771">Du haut du ciel éclairant aux mortels,</l>
+	<l id="1772">Leur apprendront qu'il vous faut des autels.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,5398 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<TEI.2>
+
+<teiHeader>
+
+		<fileDesc>
+
+			<titleStmt>
+
+				<title>OTHON, TRAGÉDIE</title>
+
+				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+
+				<author>CORNEILLE, Pierre (1606-1684)</author>
+
+			</titleStmt>
+
+			<publicationStmp>	
+
+				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
+
+			</publicationStmp>
+
+			<SourceDesc>
+
+				<genre>Tragédie</genre>
+
+				<inspiration>histoire romaine</inspiration>
+
+				<structure>Cinq actes</structure>
+
+				<type>vers</type>
+
+				<periode>1661-1670</periode>
+
+				<taille>1750-2000</taille>
+
+				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k704026</permalien>
+
+				<sources>
+
+					<source id="1"><author/><text/></source>
+
+				</sources>
+
+			</SourceDesc>
+
+		</fileDesc>
+
+</teiHeader>
+
+<text>
+
+	<front>
+
+		<docTitle>
+
+			<titlePart type="main">OTHON</titlePart>
+
+			<titlePart type="sub">TRAGÉDIE</titlePart>
+
+		</docTitle> 
+
+		<docDate value="1665">M. DC. LXV. Avec PRIVILÈGE DU ROI.</docDate>
+
+		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>Pierre Corneille</docAuthor>
+
+		<docImprint>
+
+			<privilege id="1664-11-28"><head>Extrait du privilège du Roi</head>
+
+			<p>Par grâce et privilège du Roi donné à Paris le dernier octobre 1664 signé par le Roi en son conseil GUITONNEAU, il est permis à Guillaume de Luyne Marchand libraire de faire imprimer une pièce de théâtre, de le composition du sieur Corneille, intitulée Othon ; pendant sept ans, et défenses sont faites à tous autres de l'imprimer, à peine de dix mille livres d'amende confiscation des exemplaires, et tous dépens dommages et intérêts, comme il est plus long porté par les dites lettres.</p>
+
+		<p>Registré sur le livre de la Communauté des libraires, le 28 novembre 1664.</p>
+
+		<p>Signé E. MARTIN. Syndic.</p>
+
+		<p>Et le dit Luyne a fait part pour moitié du présent privilège à Thomas Jolly, et Louis Billaine, devant l'accord fait entre eux.</p>
+
+		<p>Les exemplaires ont été fournis.</p></privilege>
+
+			<acheveImprime id="1665-02-05">Achevé d'imprimer le 5 février 1665.</acheveImprime>
+
+			<printer id="LUYNES">À Paris, Chez GUILLAUME DE LUYNES, Libraire-juré, au Palais de la Salle des Merciers, à la Justice.</printer>
+
+		</docImprint>
+
+		<performance>
+
+			<premiere date="1664-08-03" location='Château de Fontainebleau'>Représentée pour la première fois le 3 août 1664 au Château de Fontainebleau. Repris le 5 novembre 1664 à l'Hôtel de Bourgogne</premiere>
+
+		</performance>
+
+<preface><head>AU LECTEUR</head>
+
+<p>Si mes amis ne me trompent, cette pièce égale ou passe la meilleure des miennes. Quantité de suffrages illustres et solides se sont déclarés pour elle, et si j'ose y mêler le mien, je vous dirai que vous y trouverez quelque justesse dans la conduite, et un peu de bon sens dans le raisonnement. Quand aux vers, on n'en a point vu de moi que j'ai travaillé avec plus de soin. Le sujet est tiré de Tacite, qui commence ses histoires par celle-ci, et je n'en ai encore mis aucune sur le théâtre à qui j'ai gardé plus de fidélité, et prêté plus d'invention. les caractères de ceux que j'y fais parler y sont les mêmes que chez cet incomparable auteur, que j'ai traduit tant qu'il m'a été possible. J'ai tâché de faire paraître les vertus de mon héros en tout leur éclat, sans en dissimuler les vies non plus que lui, et je me suis contenté des les attribuer à une politique de Cour, où quand le souverain se plonge dans les débauches, et que sa faveur n'est qu'à ce prix, il y a presse à qui sera de la partie. J'y ai conservé les événements, et pris la liberté de changer la manière dont ils arrivent, pour en jeter tout le crime sur un méchant homme, qu'on soupçonna dès lors d'avoir donné des ordres secrets pour la mort de Vinius, tant leur inimitié était forte et déclarée. Othon avait promis à ce Consul, d'épouser sa fille s'il le pouvait faire choisir, à Galba son successeur, et comme il se vit Empereur sans son ministère, il se crut dégagé de cette promesse, et ne l'épousa point. Je n'ai pas voulu aller plus loin que l'Histoire, et je puis dire qu'on a point encore vu de pièce, où il se propose tant de mariages pour n'en conclure aucun. Ce sont intrigues de Cabinet qui se détruisent les unes les autres. J'en dirai devantage, quand mes libraires joindrant celle-ci aux recueils qu'ils ont fait de celles de ma façon qui l'ont précédée.</p>
+
+</preface>
+
+	<castList><head>ACTEURS</head>
+
+		<castItem><role id="GALBA" civil='M' type="H" statut="empereur" age="A" stat_amour='néant'>GALBA</role>, empereur de Rome.</castItem>
+
+		<castItem><role id="VINIUS" civil='M' type="H" statut="consul" age="A" stat_amour='néant'>VINIUS</role>, consul.</castItem>
+
+		<castItem><role id="OTHON" civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>OTHON</role>, sénateur romain, amant de Pautine.</castItem>
+
+		<castItem><role id="LACUS" civil='M' type="H" statut="préfet romain" age="A" stat_amour='néant'>LACUS</role>, préfet du Prétoire.</castItem>
+
+		<castItem><role id="CAMILLE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>CAMILLE</role>, nièce de Galba.</castItem>
+
+		<castItem><role id="PLAUTINE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>PLAUTINE</role>, fille de Vinius, amante d'Othon.</castItem>
+
+		<castItem><role id="MARTIAN" civil='M' type="H" statut="affranchi" age="A" stat_amour='néant'>MARTIAN</role>, affranchi de Galba.</castItem>
+
+		<castItem><role id="ALBIN" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ALBIN</role>, ami d'Othon.</castItem>
+
+		<castItem><role id="ALBIANE" civil='F' type="H" statut="dame d'honneur" age="A" stat_amour='néant'>ALBIANE</role>, soeur d'Albin, et dame d'honneur de Camille.</castItem>
+
+		<castItem><role id="FLAVIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>FLAVIE</role>, amie de Plautine.</castItem>
+
+		<castItem><role id="ATTICUS" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>ATTICUS</role>, soldat romain.</castItem>
+
+		<castItem><role id="RUTILE" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>RUTILE</role>, soldat romain.</castItem>
+
+	</castList>
+
+	<set location='Rome' country='Italie' periode='Ier avant JC' link=''>La scène est à Rome dans le Palais Impérial.</set>
+
+</front>
+
+<body>
+
+<div1 type="acte" n="1"><head>ACTE I</head>
+
+<div2 type="scene" n="1"><head>SCÈNE I. Othon, Albin.</head>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="1">Votre amitié, Seigneur, me rendra téméraire,</l>
+
+	<l id="2">J'en abuse, et je sais que je vais vous déplaire ;</l>
+
+	<l id="3">Que vous condamnerez ma curiosité :</l>
+
+	<l id="4">Mais je croirais vous faire une infidélité</l>
+
+	<l id="5">Si je vous cachais rien de ce que j'entends dire</l>
+
+	<l id="6">De votre amour nouveau sous ce nouvel empire.</l>
+
+	<l id="7">On s'étonne de voir qu'un homme tel qu'Othon,</l>
+
+	<l id="8">Othon, dont les hauts faits soutiennent le grand nom,</l>
+
+	<l id="9">Daigne d'un Vinius se réduire à la fille,</l>
+
+	<l id="10">S'attache à ce consul, qui ravage, qui pille,</l>
+
+	<l id="11">Qui peut tout, je l'avoue, auprès de l'empereur,</l>
+
+	<l id="12">Mais dont tout le pouvoir ne sert qu'à faire horreur,</l>
+
+	<l id="13">Et détruit, d'autant plus que plus on le voit croître,</l>
+
+	<l id="14">Ce que l'on doit d'amour aux vertus de son maître.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="15">Ceux qu'on voit s'étonner de ce nouvel amour</l>
+
+	<l id="16">N'ont jamais bien conçu ce que c'est que la cour.</l>
+
+	<l id="17">Un homme tel que moi jamais ne s'en détache,</l>
+
+	<l id="18">Il n'est point de retraite ou d'ombre qui le cache,</l>
+
+	<l id="19">Et si du souverain la faveur n'est pour lui,</l>
+
+	<l id="20">Il faut, ou qu'il périsse, ou qu'il prenne un appui.</l>
+
+	<l id="21">Quand le monarque agit par sa propre conduite,</l>
+
+	<l id="22">Mes pareils sans péril se rangent à sa suite,</l>
+
+	<l id="23">Le mérite et le sang nous y font discerner ;</l>
+
+	<l id="24">Mais quand le potentat se laisse gouverner,</l>
+
+	<l id="25">Et que de son pouvoir les grands dépositaires</l>
+
+	<l id="26">N'ont pour raison d'état que leurs propres affaires,</l>
+
+	<l id="27">Ces lâches ennemis de tous les gens de coeur</l>
+
+	<l id="28">Cherchent à nous pousser avec toute rigueur,</l>
+
+	<l id="29">À moins que notre adroite et prompte servitude</l>
+
+	<l id="30">Nous dérobe aux fureurs de leur inquiétude.</l>
+
+	<l id="31">Sitôt que de Galba le sénat eut fait choix.</l>
+
+	<l id="32">Dans mon gouvernement j'en établis les lois,</l>
+
+	<l id="33">Et je fus le premier qu'on vit au nouveau prince</l>
+
+	<l id="34">Donner toute une armée et toute une province :</l>
+
+	<l id="35">Ainsi je me comptais de ses premiers suivants.</l>
+
+	<l id="36">Mais déjà Vinius avait pris les devants ;</l>
+
+	<l id="37">Martian l'affranchi, dont tu vois les pillages</l>
+
+	<l id="38">Avait avec Lacus fermé tous les passages ;</l>
+
+	<l id="39">On n'approchait de lui que sous leur bon plaisir ;</l>
+
+	<l id="40">J'eus donc pour m'y produire un des trois à choisir.</l>
+
+	<l id="41">Je les voyais tous trois se hâter sous un maître</l>
+
+	<l id="42">Qui, chargé d'un long âge, a peu de temps à l'être,</l>
+
+	<l id="43">Et tous trois à l'envi s'empresser ardemment</l>
+
+	<l id="44">À qui dévorerait ce règne d'un moment.</l>
+
+	<l id="45">J'eus horreur des appuis qui restaient seuls à prendre,</l>
+
+	<l id="46">J'espérai quelque temps de m'en pouvoir défendre :</l>
+
+	<l id="47">Mais quand Nymphidius dans Rome assassiné</l>
+
+	<l id="48">Fit place au favori qui l'avait condamné,</l>
+
+	<l id="49">Que Lacus, par sa mort, fut préfet du prétoire,</l>
+
+	<l id="50">Que pour couronnement d'une action si noire</l>
+
+	<l id="51">Les mêmes assassins furent encor percer</l>
+
+	<l id="52">Varron, Turpilian, Capiton, et Macer,</l>
+
+	<l id="53">Je vis qu'il était temps de prendre mes mesures,</l>
+
+	<l id="54">Qu'on perdait de Néron toutes les créatures,</l>
+
+	<l id="55">Et que demeuré seul de toute cette cour,</l>
+
+	<l id="56">À moins d'un protecteur j'aurais bientôt mon tour.</l>
+
+	<l id="57">Je choisis Vinius dans cette défiance,</l>
+
+	<l id="58">Pour plus de sûreté j'en cherchai l'alliance,</l>
+
+	<l id="59">Les autres n'ont ni soeur ni fille à me donner,</l>
+
+	<l id="60">Et d'eux sans ce grand noeud tout est à soupçonner.</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="61" part="i">Vos voeux furent reçus ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="61" part="f">Oui, déjà l'hyménée,</l>
+
+	<l id="62">Aurait avec Plautine uni ma destinée,</l>
+
+	<l id="63">Si ces rivaux d'état n'en savaient divertir</l>
+
+	<l id="64">Un maître qui sans eux n'ose rien consentir.</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="65">Ainsi tout votre amour n'est qu'une politique,</l>
+
+	<l id="66">Et le coeur ne sent point ce que la bouche explique ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="67">Il ne le sentit pas, Albin, du premier jour,</l>
+
+	<l id="68">Mais cette politique est devenue amour.</l>
+
+	<l id="69">Tout m'en plaît, tout m'en charme, et mes premiers scrupules</l>
+
+	<l id="70">Près d'un si cher objet passent pour ridicules.</l>
+
+	<l id="71">Vinius est consul, Vinius est puissant,</l>
+
+	<l id="72">Il a de la naissance, et s'il est agissant,</l>
+
+	<l id="73">S'il suit des favoris la pente trop commune,</l>
+
+	<l id="74">Plautine hait en lui ces soins de sa fortune,</l>
+
+	<l id="75" part="i">Son coeur est noble et grand.</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="75" part="f">Quoi qu'elle ait de vertu,</l>
+
+	<l id="76">Vous devriez dans l'âme être un peu combattu.</l>
+
+	<l id="77">La nièce de Galba pour dot aura l'empire,</l>
+
+	<l id="78">Et vaut bien que pour elle à ce prix on soupire.</l>
+
+	<l id="79">Son oncle doit bientôt lui choisir un époux.</l>
+
+	<l id="80">Le mérite et le sang font un éclat en vous,</l>
+
+	<l id="81">Qui pour y joindre encor celui du diadème...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="82">Quand mon coeur se pourrait soustraire à ce que j'aime,</l>
+
+	<l id="83">Et que pour moi Camille aurait tant de bonté,</l>
+
+	<l id="84">Que je dusse espérer de m'en voir écouté,</l>
+
+	<l id="85">Si, comme tu le dis, sa main doit faire un maître,</l>
+
+	<l id="86">Aucun de nos tyrans n'est encor las de l'être,</l>
+
+	<l id="87">Et ce serait tous trois les attirer sur moi,</l>
+
+	<l id="88">Qu'aspirer sans leur ordre à recevoir sa foi.</l>
+
+	<l id="89">Surtout de Vinius le sensible courage</l>
+
+	<l id="90">Ferait tout pour me perdre après un tel outrage,</l>
+
+	<l id="91">Et se vengerait même à la face des dieux</l>
+
+	<l id="92">Si j'avais sur Camille osé tourner les yeux.</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="93">Pensez-y toutefois, ma soeur est auprès d'elle,</l>
+
+	<l id="94">Je puis vous y servir, l'occasion est belle,</l>
+
+	<l id="95">Tout autre amant que vous s'en laisserait charmer,</l>
+
+	<l id="96">Et je vous dirais plus, si vous osiez l'aimer.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="97">Porte à d'autres qu'à moi cette amorce inutile,</l>
+
+	<l id="98">Mon coeur tout à Plautine est fermé pour Camille.</l>
+
+	<l id="99">La beauté de l'objet, la honte de changer,</l>
+
+	<l id="100">Le succès incertain, l'infaillible danger,</l>
+
+	<l id="101">Tout fait à tes projets d'invincibles obstacles.</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="102">Seigneur, en moins de rien il se fait des miracles.</l>
+
+	<l id="103">À ces deux grands rivaux peut-être il serait doux</l>
+
+	<l id="104">D'ôter à Vinius un gendre tel que vous,</l>
+
+	<l id="105">Et si l'un par bonheur à Galba vous propose...</l>
+
+	<l id="106">Ce n'est pas qu'après tout j'en sache aucune chose,</l>
+
+	<l id="107">Je leur suis trop suspect pour s'en ouvrir à moi,</l>
+
+	<l id="108">Mais si je vous puis dire enfin ce que j'en crois,</l>
+
+	<l id="109">Je vous proposerais, si j'étais en leur place.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="110">Aucun d'eux ne fera ce que tu veux qu'il fasse,</l>
+
+	<l id="111">Et s'ils peuvent jamais trouver quelque douceur</l>
+
+	<l id="112">À faire que Galba choisisse un successeur,</l>
+
+	<l id="113">Ils voudront par ce choix se mettre en assurance,</l>
+
+	<l id="114">Et n'en proposeront que de leur dépendance.</l>
+
+	<l id="115">Je sais... Mais Vinius que j'aperçois venir...</l></sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Vinius, Othon.</head>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="116">Laissez-nous seuls, Albin, je veux l'entretenir.</l>
+
+	<l id="117">Je crois que vous m'aimez Seigneur, et que ma fille</l>
+
+	<l id="118">Vous fait prendre intérêt en toute la famille.</l>
+
+	<l id="119">Il en faut une preuve, et non pas seulement</l>
+
+	<l id="120">Qui consiste aux devoirs dont s'empresse un amant.</l>
+
+	<l id="121">Il la faut plus solide, il la faut d'un grand homme,</l>
+
+	<l id="122">D'un coeur digne en effet de commander à Rome,</l>
+
+	<l id="123" part="i">Il faut ne plus l'aimer.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="123" part="f">Quoi ! Pour preuve d'amour...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="124">Il faut faire encor plu; Seigneur, en ce grand jour,</l>
+
+	<l id="125" part="i">Il faut aimer ailleurs.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="125" part="f">Ah ! Que m'osez-vous dire ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="126">Je sais qu'à son hymen tout votre coeur aspire ;</l>
+
+	<l id="127">Mais elle, et vous, et moi, nous allons tous périr,</l>
+
+	<l id="128">Et votre change seul nous peut tous secourir.</l>
+
+	<l id="129">Vous me devez, Seigneur, peut-être quelque chose,</l>
+
+	<l id="130">Sans moi, sans mon crédit qu'à leurs desseins j'oppose,</l>
+
+	<l id="131">Lacus et Martian vous auraient peu souffert ;</l>
+
+	<l id="132">Il faut à votre tour rompre un coup qui me perd,</l>
+
+	<l id="133">Et qui si votre coeur ne s'arrache à Plautine,</l>
+
+	<l id="134">Vous enveloppera tous deux en ma ruine.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="135">Dans le plus doux espoir de mes voeux acceptés</l>
+
+	<l id="136" part="i">M'ordonner que je change ! Et vous-même !</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="136" part="f">Écoutez,</l>
+
+	<l id="137">L'honneur que nous ferait votre illustre hyménée</l>
+
+	<l id="138">Des deux que j'ai nommés tient l'âme si gênée,</l>
+
+	<l id="139">Que jusqu'ici Galba qu'ils obsèdent tous deux</l>
+
+	<l id="140">A refusé son ordre à l'effet de nos voeux.</l>
+
+	<l id="141">L'obstacle qu'ils y font vous peut montrer sans peine</l>
+
+	<l id="142">Quelle est pour vous et moi leur envie et leur haine,</l>
+
+	<l id="143">Et qu'aujourd'hui de l'air dont nous nous regardons,</l>
+
+	<l id="144">Ils nous perdront bientôt si nous ne les perdons.</l>
+
+	<l id="145">C'est une vérité qu'on voit trop manifeste,</l>
+
+	<l id="146">Et sur ce fondement, Seigneur, je passe au reste.</l>
+
+	<l id="147">Galba vieil et cassé, qui se voit sans enfants,</l>
+
+	<l id="148">Croit qu'on méprise en lui la faiblesse des ans,</l>
+
+	<l id="149">Et qu'on ne peut aimer à servir sous un maître</l>
+
+	<l id="150">Qui n'aura pas loisir de le bien reconnaître.</l>
+
+	<l id="151">Il voit de toutes parts du tumulte excité,</l>
+
+	<l id="152">Le soldat en Syrie est presque révolté.</l>
+
+	<l id="153">Vitellius avance avec la force unie</l>
+
+	<l id="154">Des troupes de la Gaule et de la Germanie,</l>
+
+	<l id="155">Ce qu'il a de vieux corps le souffre avec ennui,</l>
+
+	<l id="156">Tous les prétoriens murmurent contre lui,</l>
+
+	<l id="157">De leur Nymphidius l'indigne sacrifice</l>
+
+	<l id="158">De qui se l'immola leur demande justice ;</l>
+
+	<l id="159">Il le sait, et prétend par un jeune empereur</l>
+
+	<l id="160">Ramener les esprits, et calmer leur fureur.</l>
+
+	<l id="161">Il espère un pouvoir ferme, plein, et tranquille,</l>
+
+	<l id="162">S'il nomme pour César un époux de Camille ;</l>
+
+	<l id="163">Mais il balance encor sur ce choix d'un époux,</l>
+
+	<l id="164">Et je ne puis, Seigneur, m'assurer que sur vous.</l>
+
+	<l id="165">J'ai donc pour ce grand choix vanté votre courage,</l>
+
+	<l id="166">Et Lacus à Pison a donné son suffrage ;</l>
+
+	<l id="167">Martian n'a parlé qu'en termes ambigus,</l>
+
+	<l id="168">Mais sans doute il ira du côté de Lacus,</l>
+
+	<l id="169">Et l'unique remède est de gagner Camille,</l>
+
+	<l id="170">Si sa voix est pour nous, la leur est inutile,</l>
+
+	<l id="171">Nous serons pareil nombre, et dans l'égalité,</l>
+
+	<l id="172">Galba pour cette nièce aura de la bonté.</l>
+
+	<l id="173">Il a remis exprès à tantôt d'en résoudre,</l>
+
+	<l id="174">De nos têtes, sur eux, détournez cette foudre ;</l>
+
+	<l id="175">Je vous le dis encor, contre ces grands jaloux</l>
+
+	<l id="176">Je ne me puis, Seigneur, assurer que sur vous.</l>
+
+	<l id="177">De votre premier choix quoi que je doive attendre,</l>
+
+	<l id="178">Je vous aime encor mieux pour maître que pour gendre,</l>
+
+	<l id="179">Et je ne vois pour nous qu'un naufrage certain,</l>
+
+	<l id="180">S'il nous faut recevoir un prince de leur main.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="181">Ah ! Seigneur, sur ce point c'est trop de confiance,</l>
+
+	<l id="182">C'est vous tenir trop sûr de mon obéissance ;</l>
+
+	<l id="183">Je ne prends plus de lois que de ma passion,</l>
+
+	<l id="184">Plautine est l'objet seul de mon ambition,</l>
+
+	<l id="185">Et si votre amitié me veut détacher d'elle,</l>
+
+	<l id="186">La haine de Lacus me serait moins cruelle.</l>
+
+	<l id="187">Que m'importe après tout, si tel est mon malheur,</l>
+
+	<l id="188">De mourir par son ordre ou mourir de douleur ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="189">Seigneur, un grand courage à quelque point qu'il aime,</l>
+
+	<l id="190">Sait toujours au besoin se posséder soi-même.</l>
+
+	<l id="191">Poppée avait pour vous du moins autant d'appas,</l>
+
+	<l id="192">Et quand on vous l'ôta vous n'en mourûtes pas.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="193">Non, Seigneur ; mais Poppée était une infidèle,</l>
+
+	<l id="194">Qui n'en voulait qu'au trône, et qui m'aimait moins qu'elle.</l>
+
+	<l id="195">Ce peu qu'elle eut d'amour ne fit du lit d'Othon</l>
+
+	<l id="196">Qu'un degré pour monter à celui de Néron.</l>
+
+	<l id="197">Elle ne m'épousa qu'afin de s'y produire,</l>
+
+	<l id="198">D'y ménager sa place au hasard de me nuire.</l>
+
+	<l id="199">Aussi j'en fus banni sous un titre d'honneur,</l>
+
+	<l id="200">Et pour ne me plus voir, on me fit gouverneur.</l>
+
+	<l id="201">Mais j'adore Plautine et je règne en son âme,</l>
+
+	<l id="202">Nous ordonner d'éteindre une si belle flamme,</l>
+
+	<l id="203">C'est... Je ne l'ose dire. Il est d'autres Romains,</l>
+
+	<l id="204">Seigneur, qui sauront mieux appuyer vos desseins ;</l>
+
+	<l id="205">Il en est dont le coeur pour Camille soupire,</l>
+
+	<l id="206">Et qui seront ravis de vous devoir l'empire.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="207">Je veux que cet espoir à d'autres soit permis,</l>
+
+	<l id="208">Mais êtes-vous fort sûr qu'ils soient de nos amis ?</l>
+
+	<l id="209">Savez-vous mieux que moi s'ils plairont à Camille ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="210">Et croyez-vous pour moi qu'elle soit plus facile ?</l>
+
+	<l id="211" part="i">Pour moi, que d'autres voeux...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="211" part="f">À ne vous rien celer,</l>
+
+	<l id="212">Sortant d'avec Galba, j'ai voulu lui parler,</l>
+
+	<l id="213">J'ai voulu sur ce point pressentir sa pensée.</l>
+
+	<l id="214">J'en ai nommé plusieurs pour qui je l'ai pressée.</l>
+
+	<l id="215">À leurs noms, un grand froid, un front triste, un ?il bas,</l>
+
+	<l id="216">M'ont fait voir aussitôt qu'ils ne lui plaisaient pas ;</l>
+
+	<l id="217">Au vôtre elle a rougi, puis s'est mise à sourire,</l>
+
+	<l id="218">Et m'a soudain quitté sans me vouloir rien dire.</l>
+
+	<l id="219">C'est à vous, qui savez ce que c'est que d'aimer,</l>
+
+	<l id="220">À juger de son coeur ce qu'on doit présumer.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="221">Je n'en veux rien juger, Seigneur ; et sans Plautine</l>
+
+	<l id="222">L'amour m'est un poison, le bonheur m'assassine ;</l>
+
+	<l id="223">Et toutes les douceurs du pouvoir souverain</l>
+
+	<l id="224">Me sont d'affreux tourments, s'il m'en coûte sa main.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="225">De tant de fermeté j'aurais l'âme ravie,</l>
+
+	<l id="226">Si cet excès d'amour nous assurait la vie ;</l>
+
+	<l id="227">Mais il nous faut le trône, ou renoncer au jour,</l>
+
+	<l id="228">Et quand nous périrons, que servira l'amour ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="229">À de vaines frayeurs un noir soupçon vous livre,</l>
+
+	<l id="230">Pison n'est point cruel et nous laissera vivre.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="231">Il nous laissera vivre et je vous ai nommé !</l>
+
+	<l id="232">Si de nous voir dans Rome il n'est point alarmé,</l>
+
+	<l id="233">Nos communs ennemis qui prendront sa conduite</l>
+
+	<l id="234">En préviendront pour lui la dangereuse suite.</l>
+
+	<l id="235">Seigneur, quand pour l'empire on s'est vu désigner,</l>
+
+	<l id="236">Il faut, quoi qu'il arrive, ou périr ou régner.</l>
+
+	<l id="237">Le posthume Agrippa vécut peu sous Tibère,</l>
+
+	<l id="238">Néron n'épargna point le sang de son beau-frère,</l>
+
+	<l id="239">Et Pison vous perdra par la même raison,</l>
+
+	<l id="240">Si vous ne vous hâtez de prévenir Pison.</l>
+
+	<l id="241">Il n'est point de milieu qu'en saine politique...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="242">Et l'amour est la seule où tout mon coeur s'applique.</l>
+
+	<l id="243">Rien ne vous a servi, Seigneur, de me nommer,</l>
+
+	<l id="244">Vous voulez que je règne, et je ne sais qu'aimer.</l>
+
+	<l id="245">Je pourrais savoir plus, si l'astre qui domine</l>
+
+	<l id="246">Me voulait faire un jour régner avec Plautine,</l>
+
+	<l id="247">Mais dérober son âme à de si doux appas,</l>
+
+	<l id="248">Pour attacher sa vie à ce qu'on n'aime pas !</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="249">Eh bien, si cet amour a sur vous tant de force,</l>
+
+	<l id="250">Régnez, qui fait des lois peut bien faire un divorce,</l>
+
+	<l id="251">Du trône on considère enfin ses vrais amis,</l>
+
+	<l id="252">Et quand vous pourrez tout, tout vous sera permis.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Plautine, Othon, Vinius.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="253">Non pas, Seigneur, non pas ; quoi que le ciel m'envoie,</l>
+
+	<l id="254">Je ne veux rien tenir d'une honteuse voie,</l>
+
+	<l id="255">Et cette lâcheté qui me rendrait son coeur</l>
+
+	<l id="256">Sentirait le tyran et non pas l'empereur.</l>
+
+	<l id="257">À votre sûreté, puisque le péril presse,</l>
+
+	<l id="258">J'immolerai ma flamme et toute ma tendresse,</l>
+
+	<l id="259">Et je vaincrai l'horreur d'un si cruel devoir,</l>
+
+	<l id="260">Pour conserver le jour à qui me l'a fait voir.</l>
+
+	<l id="261">Mais ce qu'à mes désirs je fais de violence</l>
+
+	<l id="262">Fuit les honteux appas d'une indigne espérance,</l>
+
+	<l id="263">Et la vertu qui dompte et bannit mon amour</l>
+
+	<l id="264">N'en souffrira jamais qu'un vertueux retour.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="265">Ah Que cette vertu m'apprête un dur supplice !</l>
+
+	<l id="266">Seigneur, et le moyen que je vous obéisse ?</l>
+
+	<l id="267">Voyez, et s'il se peut, pour voir tout mon tourment,</l>
+
+	<l id="268">Quittez vos yeux de père, et prenez-en d'amant.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="269">L'estime de mon sang ne m'est pas interdite,</l>
+
+	<l id="270">Je lui vois des attraits, je lui vois du mérite,</l>
+
+	<l id="271">Je crois qu'elle en a même assez pour engager,</l>
+
+	<l id="272">Si quelqu'un nous perdait, quelque autre à nous venger.</l>
+
+	<l id="273">Par là nos ennemis la tiendront redoutable,</l>
+
+	<l id="274">Et sa perte par là devient inévitable.</l>
+
+	<l id="275">Je vois de plus, Seigneur, que je n'obtiendrai rien,</l>
+
+	<l id="276">Tant que votre ?il blessé rencontrera le sien,</l>
+
+	<l id="277">Que le temps se va perdre en répliques frivoles,</l>
+
+	<l id="278">Et pour les éviter j'achève en trois paroles.</l>
+
+	<l id="279">Si vous manquez le trône il faut périr tous trois ;</l>
+
+	<l id="280">Prévenez, attendez cet ordre à votre choix,</l>
+
+	<l id="281">Je me remets à vous de ce qui vous regarde :</l>
+
+	<l id="282">Mais en ma fille et moi ma gloire se hasarde,</l>
+
+	<l id="283">De ses jours et des miens je suis maître absolu,</l>
+
+	<l id="284">Et j'en disposerai comme j'ai résolu.</l>
+
+	<l id="285">Je ne crains point la mort, mais je hais l'infamie</l>
+
+	<l id="286">D'en recevoir la loi d'une main ennemie,</l>
+
+	<l id="287">Et je saurai verser tout mon sang en Romain,</l>
+
+	<l id="288">Si le choix que j'attends ne me retient la main.</l>
+
+	<l id="289">C'est dans une heure ou deux que Galba se déclare,</l>
+
+	<l id="290">Vous savez l'un et l'autre à quoi je me prépare,</l>
+
+	<l id="291" part="i">Résolvez-en ensemble.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Othon, Plautine.</head>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="291" part="f">Arrêtez donc, Seigneur,</l>
+
+	<l id="292">Et s'il faut prévenir ce mortel déshonneur,</l>
+
+	<l id="293">Recevez-en l'exemple, et jugez si la honte...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="294">Quoi, Seigneur, à mes yeux une fureur si prompte ?</l>
+
+	<l id="295">Ce noble désespoir si digne des Romains,</l>
+
+	<l id="296">Tant qu'ils ont du courage, est toujours en leurs mains,</l>
+
+	<l id="297">Et pour vous et pour moi fut-il digne d'un temple,</l>
+
+	<l id="298">Il n'est pas encor temps de m'en donner l'exemple.</l>
+
+	<l id="299">Il faut vivre, et l'amour nous y doit obliger</l>
+
+	<l id="300">Pour me sauver un père, et pour me protéger.</l>
+
+	<l id="301">Quand vous voyez ma vie à la vôtre attachée,</l>
+
+	<l id="302">Faut-il que malgré moi votre âme effarouchée</l>
+
+	<l id="303">Pour m'ouvrir le tombeau hâte votre trépas,</l>
+
+	<l id="304">Et m'avance un destin où je ne consens pas ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="305">Quand il faut m'arracher tout cet amour de l'âme,</l>
+
+	<l id="306">Puis-je que dans mon sang en éteindre la flamme ?</l>
+
+	<l id="307" part="i">Puis-je sans le trépas...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="307" part="f">Et vous ai-je ordonné</l>
+
+	<l id="308">D'éteindre tout l'amour que je vous ai donné ?</l>
+
+	<l id="309">Si l'injuste rigueur de notre destinée</l>
+
+	<l id="310">Ne permet plus l'espoir d'un heureux hyménée,</l>
+
+	<l id="311">Il est un autre amour dont les voeux innocents</l>
+
+	<l id="312">S'élèvent au-dessus du commerce des sens.</l>
+
+	<l id="313">Plus la flamme en est pure et plus elle est durable,</l>
+
+	<l id="314">Il rend de son objet le coeur inséparable,</l>
+
+	<l id="315">Il a de vrais plaisirs dont ce coeur est charmé,</l>
+
+	<l id="316">Et n'aspire qu'au bien d'aimer et d'être aimé.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="317">Qu'un tel épurement demande un grand courage !</l>
+
+	<l id="318">Qu'il est même aux plus grands d'un difficile usage !</l>
+
+	<l id="319">Madame, permettez que je die à mon tour</l>
+
+	<l id="320">Que tout ce que l'honneur peut souffrir à l'amour</l>
+
+	<l id="321">Un amant le souhaite, il en veut l'espérance,</l>
+
+	<l id="322">Et se croit mal aimé s'il n'en a l'assurance.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="323">Aimez-moi toutefois sans l'attendre de moi,</l>
+
+	<l id="324">Et ne m'enviez point l'honneur que j'en reçois.</l>
+
+	<l id="325">Quelle gloire à Plautine, ô ciel, de pouvoir dire</l>
+
+	<l id="326">Que le choix de son coeur fut digne de l'empire,</l>
+
+	<l id="327">Qu'un héros destiné pour maître à l'univers</l>
+
+	<l id="328">Voulut borner ses voeux à vivre dans ses fers,</l>
+
+	<l id="329">Et qu'à moins que d'un ordre absolu d'elle-même</l>
+
+	<l id="330">Il aurait renoncé pour elle au diadème !</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="331">Ah ! Qu'il faut aimer peu pour faire son bonheur,</l>
+
+	<l id="332">Pour tirer vanité d'un si fatal honneur !</l>
+
+	<l id="333">Si vous m'aimiez madame, il vous serait sensible</l>
+
+	<l id="334">De voir qu'à d'autres voeux mon coeur fût accessible,</l>
+
+	<l id="335">Et la nécessité de le porter ailleurs</l>
+
+	<l id="336">Vous aurait fait déjà partager mes douleurs.</l>
+
+	<l id="337">Mais tout mon désespoir n'a rien qui vous alarme,</l>
+
+	<l id="338">Vous pouvez perdre Othon sans verser une larme,</l>
+
+	<l id="339">Vous en témoignez joie, et vous-même aspirez</l>
+
+	<l id="340">À tout l'excès des maux qui me sont préparés.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="341">Que votre aveuglement a pour moi d'injustice !</l>
+
+	<l id="342">Pour épargner vos maux, j'augmente mon supplice,</l>
+
+	<l id="343">Je souffre, et c'est pour vous que j'ose m'imposer</l>
+
+	<l id="344">La gêne de souffrir, et de le déguiser.</l>
+
+	<l id="345">Tout ce que vous sentez, je le sens dans mon âme,</l>
+
+	<l id="346">J'ai mêmes déplaisirs comme j'ai même flamme,</l>
+
+	<l id="347">J'ai mêmes désespoirs, mais je sais les cacher,</l>
+
+	<l id="348">Et paraître insensible afin de moins toucher.</l>
+
+	<l id="349">Faites à vos désirs pareille violence,</l>
+
+	<l id="350">Retenez-en l'éclat, sauvez-en l'apparence,</l>
+
+	<l id="351">Au péril qui nous presse immolez le dehors,</l>
+
+	<l id="352">Et pour vous faire aimer montrez d'autres transports.</l>
+
+	<l id="353">Je ne vous défends point une douleur muette,</l>
+
+	<l id="354">Pourvu que votre front n'en soit point l'interprète,</l>
+
+	<l id="355">Et que de votre coeur vos yeux indépendants</l>
+
+	<l id="356">Triomphent comme moi des troubles du dedans.</l>
+
+	<l id="357">Suivez, passez l'exemple, et portez à Camille</l>
+
+	<l id="358">Un visage content, un visage tranquille,</l>
+
+	<l id="359">Qui lui laisse accepter ce que vous offrirez,</l>
+
+	<l id="360">Et ne démente rien de ce que vous direz.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="361">Hélas ! Madame, hélas ! Que pourrai-je lui dire ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="362">Il y va de ma vie, il y va de l'empire,</l>
+
+	<l id="363">Réglez-vous là-dessus. Le temps se perd, Seigneur,</l>
+
+	<l id="364">Adieu, donnez la main, mais gardez-moi le coeur,</l>
+
+	<l id="365">Ou si c'est trop pour moi, donnez et l'un et l'autre,</l>
+
+	<l id="366">Emportez mon amour et retirez le vôtre ;</l>
+
+	<l id="367">Mais dans ce triste état, si je vous fais pitié,</l>
+
+	<l id="368">Conservez-moi toujours l'estime et l'amitié,</l>
+
+	<l id="369">Et n'oubliez jamais quand vous serez le maître,</l>
+
+	<l id="370">Que c'est moi qui vous force et qui vous aide à l'être.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON, seul.</speaker>
+
+	<l id="371">Que ne m'est-il permis d'éviter par ma mort</l>
+
+	<l id="372">Les barbares rigueurs d'un si cruel effort !</l></sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="2"><head>ACTE II</head>
+
+<div2 type="scene" n="1"><head>SCÈNE I. Plautine, Flavie.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="373">Dis-moi donc, lorsque Othon s'est offert à Camille,</l>
+
+	<l id="374">A-t-il paru contraint ? A-t-elle été facile ?</l>
+
+	<l id="375">Son hommage auprès d'elle a-t-il eu plein effet ?</l>
+
+	<l id="376">Comment l'a-t-elle pris, et comment l'a-t-il fait ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="377">J'ai tout vu, mais enfin votre humeur curieuse</l>
+
+	<l id="378">À vous faire un supplice est trop ingénieuse ;</l>
+
+	<l id="379">Quelque reste d'amour qui vous parle d'Othon,</l>
+
+	<l id="380">Madame, oubliez-en, s'il se peut, jusqu'au nom.</l>
+
+	<l id="381">Vous vous êtes vaincue en faveur de sa gloire,</l>
+
+	<l id="382">Goûtez un plein triomphe après votre victoire :</l>
+
+	<l id="383">Le dangereux récit que vous me commandez</l>
+
+	<l id="384">Est un nouveau combat où vous vous hasardez.</l>
+
+	<l id="385">Votre âme n'en est pas encor si détachée,</l>
+
+	<l id="386">Qu'il puisse aimer ailleurs sans qu'elle en soit touchée.</l>
+
+	<l id="387">Prenez moins d'intérêt à l'y voir réussir,</l>
+
+	<l id="388">Et fuyez le chagrin de vous en éclaircir.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="389">Je le force moi-même à se montrer volage,</l>
+
+	<l id="390">Et regardant son change ainsi que mon ouvrage,</l>
+
+	<l id="391">J'y prends un intérêt qui n'a rien de jaloux,</l>
+
+	<l id="392">Qu'on l'accepte, qu'il règne, et tout m'en sera doux.</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="393">J'en doute, et rarement une flamme si forte</l>
+
+	<l id="394" part="i">Souffre qu'à notre gré ses ardeurs...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="394" part="f">Que t'importe ?</l>
+
+	<l id="395">Laisse-m'en le hasard, et sans dissimuler</l>
+
+	<l id="396">Dis de quelle manière il a su lui parler.</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="397">N'imputez donc qu'à vous si votre âme inquiète</l>
+
+	<l id="398">En ressent malgré moi quelque gêne secrète.</l>
+
+	<l id="399">Othon à la princesse a fait un compliment</l>
+
+	<l id="400">Plus en homme de cour qu'en véritable amant.</l>
+
+	<l id="401">Son éloquence accorte enchaînant avec grâce</l>
+
+	<l id="402">L'excuse du silence à celle de l'audace,</l>
+
+	<l id="403">En termes trop choisis accusait le respect</l>
+
+	<l id="404">D'avoir tant retardé cet hommage suspect.</l>
+
+	<l id="405">Ses gestes concertés, ses regards de mesure</l>
+
+	<l id="406">N'y laissaient aucun mot aller à l'aventure,</l>
+
+	<l id="407">On ne voyait que pompe en tout ce qu'il peignait,</l>
+
+	<l id="408">Jusque dans ses soupirs la justesse régnait,</l>
+
+	<l id="409">Et suivait pas à pas un effort de mémoire,</l>
+
+	<l id="410">Qu'il était plus aisé d'admirer que de croire.</l>
+
+	<l id="411">Camille semblait même assez de cet avis,</l>
+
+	<l id="412">Elle aurait mieux goûté des discours moins suivis,</l>
+
+	<l id="413">Je l'ai vu dans ses yeux, mais cette défiance</l>
+
+	<l id="414">Avait avec son coeur trop peu d'intelligence.</l>
+
+	<l id="415">De ses justes soupçons ses souhaits indignés</l>
+
+	<l id="416">Les ont tout aussitôt détruits, ou dédaignés.</l>
+
+	<l id="417">Elle a voulu tout croire, et quelque retenue</l>
+
+	<l id="418">Qu'ait su garder l'amour dont elle est prévenue,</l>
+
+	<l id="419">On a vu par ce peu qu'il laissait échapper</l>
+
+	<l id="420">Qu'elle prenait plaisir à se laisser tromper,</l>
+
+	<l id="421">Et que si quelquefois l'horreur de la contrainte</l>
+
+	<l id="422">Forçait le triste Othon à soupirer sans feinte,</l>
+
+	<l id="423">Soudain l'avidité de régner sur son coeur</l>
+
+	<l id="424">Imputait à l'amour ces soupirs de douleur.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="425" part="i">Et sa réponse enfin ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="425" part="f">Elle a paru civile,</l>
+
+	<l id="426">Mais la civilité n'est qu'amour en Camille,</l>
+
+	<l id="427">Comme en Othon l'amour n'est que civilité.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="428">Et n'a-t-elle rien dit de sa légèreté,</l>
+
+	<l id="429">Rien de la foi qu'il semble avoir si mal gardée ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="430">Elle a su rejeter cette fâcheuse idée,</l>
+
+	<l id="431">Et n'a pas témoigné qu'elle sût seulement</l>
+
+	<l id="432">Qu'on l'eût vu pour vos yeux soupirer un moment.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="433" part="i">Mais qu'a-t-elle promis ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="433" part="f">Que son devoir fidèle</l>
+
+	<l id="434">Suivrait ce que Galba voudrait ordonner d'elle,</l>
+
+	<l id="435">Et de peur d'en trop dire et d'ouvrir trop son coeur,</l>
+
+	<l id="436">Elle l'a renvoyé soudain vers l'empereur.</l>
+
+	<l id="437">Il lui parle à présent. Qu'en dites-vous, Madame,</l>
+
+	<l id="438">Et de cet entretien que souhaite votre âme,</l>
+
+	<l id="439">Voulez-vous qu'on l'accepte, ou qu'il n'obtienne rien ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="440">Moi-même à dire vrai je ne le sais pas bien.</l>
+
+	<l id="441">Comme des deux côtés le coup me sera rude,</l>
+
+	<l id="442">J'aimerais à jouir de cette inquiétude,</l>
+
+	<l id="443">Et tiendrais à bonheur le reste de mes jours</l>
+
+	<l id="444">De n'en sortir jamais, et de douter toujours.</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="445">Mais il faut se résoudre et vouloir quelque chose.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="446">Souffre sans m'alarmer que le ciel en dispose.</l>
+
+	<l id="447">Quand son ordre une fois en aura résolu,</l>
+
+	<l id="448">Il nous faudra vouloir ce qu'il aura voulu.</l>
+
+	<l id="449">Ma raison cependant cède Othon à l'empire,</l>
+
+	<l id="450">Il est de mon honneur de ne m'en pas dédire ;</l>
+
+	<l id="451">Et soit ce grand souhait volontaire ou forcé,</l>
+
+	<l id="452">Il est beau d'achever comme on a commencé.</l>
+
+	<l id="453" part="i">Mais je vois Martian ?</l></sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Martian, Flavie, Plautine.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="453" part="f">Que venez-vous m'apprendre ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="454">Que de votre seul choix l'empire va dépendre,</l>
+
+	<l id="455" part="i">Madame.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="455" part="f">Quoi, Galba voudrait suivre mon choix ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="456">Non, mais de son conseil nous ne sommes que trois,</l>
+
+	<l id="457">Et si pour votre Othon vous voulez mon suffrage,</l>
+
+	<l id="458">Je vous le viens offrir avec un humble hommage.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="459" part="i">Avec ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="459" part="f">Avec des voeux sincères et soumis,</l>
+
+	<l id="460">Qui feront encor plus si l'espoir m'est permis.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="461" part="i">Quels voeux, et quel espoir ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="461" part="f">Cet important service,</l>
+
+	<l id="462">Qu'un si profond respect vous offre en sacrifice...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="463">Eh bien, il remplira mes désirs les plus doux ;</l>
+
+	<l id="464">Mais pour reconnaissance, enfin, que voulez-vous ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="465" part="i">La gloire d'être aimé.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="465" part="m">De qui ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="465" part="f">De vous, madame.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="466" part="i">De moi-même ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="466" part="f">De vous, j'ai des yeux, et mon âme...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="467">Votre âme en me faisant cette civilité</l>
+
+	<l id="468">Devrait l'accompagner de plus de vérité.</l>
+
+	<l id="469">On n'a pas grande foi pour tant de déférence,</l>
+
+	<l id="470">Lorsqu'on voit que la suite a si peu d'apparence.</l>
+
+	<l id="471">L'offre sans doute est belle et bien digne d'un prix,</l>
+
+	<l id="472">Mais en le choisissant vous vous êtes mépris ;</l>
+
+	<l id="473">Si vous me connaissiez, vous feriez mieux paraître...</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="474">Hélas ! Mon mal ne vient que de vous trop connaître,</l>
+
+	<l id="475">Mais vous-même après tout ne vous connaissez pas,</l>
+
+	<l id="476">Quand vous croyez si peu l'effet de vos appas.</l>
+
+	<l id="477">Si vous daigniez savoir quel est votre mérite,</l>
+
+	<l id="478">Vous ne douteriez point de l'amour qu'il excite.</l>
+
+	<l id="479">Othon m'en sert de preuve, il n'avait rien aimé,</l>
+
+	<l id="480">Depuis que de Poppée il s'était vu charmé ;</l>
+
+	<l id="481">Bien que d'entre ses bras Néron l'eût enlevée,</l>
+
+	<l id="482">L'image dans son coeur s'en était conservée,</l>
+
+	<l id="483">La mort même, la mort n'avait pu l'en chasser ;</l>
+
+	<l id="484">À vous seule était dû l'honneur de l'effacer,</l>
+
+	<l id="485">Vous seule d'un coup d'?il emportâtes la gloire</l>
+
+	<l id="486">D'en faire évanouir la plus douce mémoire,</l>
+
+	<l id="487">Et d'avoir su réduire à de nouveaux souhaits</l>
+
+	<l id="488">Ce coeur impénétrable aux plus charmants objets.</l>
+
+	<l id="489">Et vous vous étonnez que pour vous je soupire !</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="490">Je m'étonne bien plus que vous me l'osiez dire.</l>
+
+	<l id="491">Je m'étonne de voir qu'il ne vous souvient plus</l>
+
+	<l id="492">Que l'heureux Martian fut l'esclave Icélus,</l>
+
+	<l id="493">Qu'il a changé de nom sans changer de visage.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="494">C'est ce crime du sort qui m'enfle le courage.</l>
+
+	<l id="495">Lorsqu'en dépit de lui je suis ce que je suis,</l>
+
+	<l id="496">On voit ce que je vaux voyant ce que je puis.</l>
+
+	<l id="497">Un pur hasard sans nous règle notre naissance ;</l>
+
+	<l id="498">Mais comme le mérite est en notre puissance,</l>
+
+	<l id="499">La honte d'un destin qu'on vit mal assorti</l>
+
+	<l id="500">Fait d'autant plus d'honneur quand on en est sorti ;</l>
+
+	<l id="501">Quelque tache en mon sang que laissent mes ancêtres,</l>
+
+	<l id="502">Depuis que nos Romains ont accepté des maîtres,</l>
+
+	<l id="503">Ces maîtres ont toujours fait choix de mes pareils</l>
+
+	<l id="504">Pour les premiers emplois et les secrets conseils.</l>
+
+	<l id="505">Ils ont mis en nos mains la fortune publique,</l>
+
+	<l id="506">Ils ont soumis la terre à notre politique :</l>
+
+	<l id="507">Patrobe, Polyclète, et Narcisse, et Pallas,</l>
+
+	<l id="508">Ont déposé des rois, et donné des États.</l>
+
+	<l id="509">On nous élève au trône au sortir de nos chaînes,</l>
+
+	<l id="510">Sous Claude on vit Félix le mari de trois reine,</l>
+
+	<l id="511">Et quand l'amour en moi vous présente un époux</l>
+
+	<l id="512">Vous me traitez d'esclave, et d'indigne de vous !</l>
+
+	<l id="513">Madame, en quelque rang que vous ayez pu naître,</l>
+
+	<l id="514">C'est beaucoup que d'avoir l'oreille du grand maître.</l>
+
+	<l id="515">Vinius est consul, et Lacus est préfet,</l>
+
+	<l id="516">Je ne suis l'un ni l'autre, et suis plus en effet,</l>
+
+	<l id="517">Et de ces consulats, et de ces préfectures</l>
+
+	<l id="518">Je puis quand il me plaît faire des créatures ;</l>
+
+	<l id="519">Galba m'écoute enfin, et c'est être aujourd'hui,</l>
+
+	<l id="520">Quoique sans ces grands noms, le premier d'après lui.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="521">Pardonnez donc, Seigneur, si je me suis méprise,</l>
+
+	<l id="522">Mon orgueil dans vos fers n'a rien qui l'autorise,</l>
+
+	<l id="523">Je viens de me connaître, et me vois à mon tour</l>
+
+	<l id="524">Indigne des honneurs qui suivent votre amour.</l>
+
+	<l id="525">Avoir brisé ces fers fait un degré de gloire</l>
+
+	<l id="526">Au-dessus des consuls, des préfets, du prétoire,</l>
+
+	<l id="527">Et si de cet amour je n'ose être le prix,</l>
+
+	<l id="528">Le respect m'en empêche et non plus le mépris ;</l>
+
+	<l id="529">On m'avait dit pourtant que souvent la nature</l>
+
+	<l id="530">Gardait en vos pareils sa première teinture,</l>
+
+	<l id="531">Que ceux de nos césars qui les ont écoutés</l>
+
+	<l id="532">Ont tous souillé leurs noms par quelques lâchetés,</l>
+
+	<l id="533">Et que pour dérober l'empire à cette honte</l>
+
+	<l id="534">L'univers a besoin qu'un vrai héros y monte.</l>
+
+	<l id="535">C'est ce qui me faisait y souhaiter Othon :</l>
+
+	<l id="536">Mais à ce que j'apprends ce souhait n'est pas bon.</l>
+
+	<l id="537">Laissons-en faire aux dieux, et faites-vous justice,</l>
+
+	<l id="538">D'un coeur vraiment romain dédaignez le caprice,</l>
+
+	<l id="539">Cent reines à l'envi vous prendront pour époux,</l>
+
+	<l id="540">Félix en eut bien trois, et valait moins que vous.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="541">Madame, encore un coup, souffrez que je vous aime,</l>
+
+	<l id="542">Songez que dans ma main j'ai le pouvoir suprême,</l>
+
+	<l id="543">Qu'entre Othon et Pison mon suffrage incertain,</l>
+
+	<l id="544">Suivant qu'il penchera, va faire un souverain.</l>
+
+	<l id="545">Je n'ai fait jusqu'ici qu'empêcher l'hyménée</l>
+
+	<l id="546">Qui d'Othon avec vous eût joint la destinée,</l>
+
+	<l id="547">J'aurais pu hasarder quelque chose de plus ;</l>
+
+	<l id="548">Ne m'y contraignez point à force de refus.</l>
+
+	<l id="549">Quand vous cédez Othon, me souffrir en sa place,</l>
+
+	<l id="550">Peut-être ce sera faire plus d'une grâce ;</l>
+
+	<l id="551">Car de vous voir à lui ne l'espérez jamais.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Plautine, Lacus, Martian, Flavie.</head>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="552">Madame, enfin Galba s'accorde à vos souhaits,</l>
+
+	<l id="553">Et j'ai tant fait sur lui que dès cette journée</l>
+
+	<l id="554">De vous avec Othon il consent l'hyménée.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="555">Qu'en dites-vous, Seigneur ? Pourrez-vous bien souffrir</l>
+
+	<l id="556">Cet hymen que Lacus de sa part vient m'offrir ?</l>
+
+	<l id="557">Le grand maître a parlé, voudrez-vous l'en dédire,</l>
+
+	<l id="558">Vous qu'on voit après lui le premier de l'empire ?</l>
+
+	<l id="559">Dois-je me ravaler jusques à cet époux ?</l>
+
+	<l id="560">Ou dois-je par votre ordre aspirer jusqu'à vous ?</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="561" part="i">Quel énigme est-ce-ci, Madame ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="561" part="f">Sa grande âme</l>
+
+	<l id="562">Me faisait tout à l'heure un présent de sa flamme ;</l>
+
+	<l id="563">Il m'assurait qu'Othon jamais ne m'obtiendrait,</l>
+
+	<l id="564">Et disait à demi qu'un refus nous perdrait.</l>
+
+	<l id="565">Vous m'osez cependant assurer du contraire,</l>
+
+	<l id="566">Et je ne sais pas bien quelle réponse y faire.</l>
+
+	<l id="567">Comme en de certains temps il fait bon s'expliquer,</l>
+
+	<l id="568">En d'autres il vaut mieux ne s'y point embarquer.</l>
+
+	<l id="569">Grands ministres d'état, accordez-vous ensemble,</l>
+
+	<l id="570">Et je pourrai vous dire après ce qui m'en semble.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Lacus, Martian.</head>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="571">Vous aimez donc Plautine, et c'est là cette foi</l>
+
+	<l id="572">Qui contre Vinius vous attachait à moi ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="573">Si les yeux de Plautine ont pour moi quelque charme,</l>
+
+	<l id="574">Y trouvez-vous, Seigneur, quelque sujet d'alarme ?</l>
+
+	<l id="575">Le moment bienheureux qui m'en ferait l'époux</l>
+
+	<l id="576">Réunirait par moi Vinius avec vous.</l>
+
+	<l id="577">Par là de nos trois coeurs l'amitié ressaisie,</l>
+
+	<l id="578">En déracinerait, et haine, et jalousie ;</l>
+
+	<l id="579">Le pouvoir de tous trois par tous trois affermi</l>
+
+	<l id="580">Aurait pour noeud commun son gendre en votre ami,</l>
+
+	<l id="581">Et quoi que contre vous il osât entreprendre...</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="582">Vous seriez mon ami, mais vous seriez son gendre.</l>
+
+	<l id="583">Et c'est un faible appui des intérêts de cour</l>
+
+	<l id="584">Qu'une vieille amitié contre un nouvel amour.</l>
+
+	<l id="585">Quoi que veuille exiger une femme adorée,</l>
+
+	<l id="586">La résistance est vaine ou de peu de durée,</l>
+
+	<l id="587">Elle choisit ses temps, et les choisit si bien,</l>
+
+	<l id="588">Qu'on se voit hors d'état de lui refuser rien.</l>
+
+	<l id="589">Vous-même êtes-vous sûr que ce noeud la retienne</l>
+
+	<l id="590">D'ajouter, s'il le faut, votre perte à la mienne ?</l>
+
+	<l id="591">Apprenez que des coeurs séparés à regret</l>
+
+	<l id="592">Trouvent de se rejoindre aisément le secret.</l>
+
+	<l id="593">Othon n'a pas pour elle éteint toutes ses flammes,</l>
+
+	<l id="594">Il sait comme aux maris on arrache les femmes,</l>
+
+	<l id="595">Cet art sur son exemple est commun aujourd'hui,</l>
+
+	<l id="596">Et son maître Néron l'avait appris de lui.</l>
+
+	<l id="597">Après tout je me trompe, ou près de cette belle...</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="598">J'espère en Vinius, si je n'espère en elle,</l>
+
+	<l id="599">Et l'offre pour Othon de lui donner ma voix,</l>
+
+	<l id="600">Soudain en ma faveur emportera son choix.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="601">Quoi, Vous nous donneriez vous-même Othon pour maître ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="602">Et quel autre dans Rome est plus digne de l'être ?</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="603">Ah ! Pour en être digne, il l'est, et plus que tous,</l>
+
+	<l id="604">Mais aussi pour tout dire il en sait trop pour nous.</l>
+
+	<l id="605">Il sait trop ménager ses vertus et ses vices ;</l>
+
+	<l id="606">Il était sous Néron de toutes ses délices,</l>
+
+	<l id="607">Et la Lusitanie a vu ce même Othon</l>
+
+	<l id="608">Gouverner en César, et juger en Caton.</l>
+
+	<l id="609">Tout favori dans Rome, et tout maître en province,</l>
+
+	<l id="610">De lâche courtisan il s'y montra grand prince,</l>
+
+	<l id="611">Et son âme ployant, attendant l'avenir.</l>
+
+	<l id="612">Sait faire également sa cour et la tenir.</l>
+
+	<l id="613">Sous un tel souverain nous sommes peu de chose.</l>
+
+	<l id="614">Son soin jamais sur nous tout à fait ne repose,</l>
+
+	<l id="615">Sa main seule départ ses libéralités,</l>
+
+	<l id="616">Son choix seul distribue États et dignités,</l>
+
+	<l id="617">Du timon qu'il embrasse il se fait le seul guide,</l>
+
+	<l id="618">Consulte et résout seul, écoute et seul décide,</l>
+
+	<l id="619">Et quoique nos emplois puissent faire du bruit,</l>
+
+	<l id="620">Sitôt qu'il nous veut perdre, un coup d'?il nous détruit.</l>
+
+	<l id="621">Voyez d'ailleurs Galba, quel pouvoir il nous laisse,</l>
+
+	<l id="622">En quel poste sous lui nous a mis sa faiblesse.</l>
+
+	<l id="623">Nos ordres règlent tout, nous donnons, retranchons,</l>
+
+	<l id="624">Rien n'est exécuté dès que nous l'empêchons ;</l>
+
+	<l id="625">Comme par un de nous il faut que tout s'obtienne,</l>
+
+	<l id="626">Nous voyons notre cour plus grosse que la sienne,</l>
+
+	<l id="627">Et notre indépendance irait au dernier point,</l>
+
+	<l id="628">Si l'heureux Vinius ne la partageait point,</l>
+
+	<l id="629">Notre unique chagrin est qu'il nous la dispute.</l>
+
+	<l id="630">L'âge met cependant Galba près de sa chute,</l>
+
+	<l id="631">De peur qu'il nous entraîne il faut un autre appui,</l>
+
+	<l id="632">Mais il le faut pour nous aussi faible que lui.</l>
+
+	<l id="633">Il nous en faut prendre un qui satisfait des titres</l>
+
+	<l id="634">Nous laisse du pouvoir les suprêmes arbitres.</l>
+
+	<l id="635">Pison a l'âme simple et l'esprit abattu,</l>
+
+	<l id="636">S'il a grande naissance, il a peu de vertu ;</l>
+
+	<l id="637">Non de cette vertu qui déteste le crime,</l>
+
+	<l id="638">Sa probité sévère est digne qu'on l'estime,</l>
+
+	<l id="639">Elle a tout ce qui fait un grand homme de bien,</l>
+
+	<l id="640">Mais en un souverain c'est peu de chose, ou rien,</l>
+
+	<l id="641">Il faut de la prudence, il faut de la lumière,</l>
+
+	<l id="642">Il faut de la vigueur adroite autant que fière,</l>
+
+	<l id="643">Qui pénètre, éblouisse, et sème des appas...</l>
+
+	<l id="644">Il faut mille vertus enfin qu'il n'aura pas.</l>
+
+	<l id="645">Lui-même il nous priera d'avoir soin de l'empire,</l>
+
+	<l id="646">En saura seulement ce qu'il nous plaira dire,</l>
+
+	<l id="647">Plus nous l'y tiendrons bas, plus il nous mettra haut,</l>
+
+	<l id="648">Et c'est là justement le maître qu'il nous faut.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="649">Mais, Seigneur, sur le trône élever un tel homme,</l>
+
+	<l id="650">C'est mal servir l'État, et faire opprobre à Rome.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="651">Et qu'importe à tous deux de Rome et de l'État ?</l>
+
+	<l id="652">Qu'importe qu'on leur voie ou plus, ou moins d'éclat ?</l>
+
+	<l id="653">Faisons nos sûretés et moquons-nous du reste.</l>
+
+	<l id="654">Point, point de bien public, s'il nous devient funeste,</l>
+
+	<l id="655">De notre grandeur seule ayons des coeurs jaloux</l>
+
+	<l id="656">Ne vivons que pour nous, et ne pensons qu'à nous.</l>
+
+	<l id="657">Je vous le dis encor, mettre Othon sur nos têtes,</l>
+
+	<l id="658">C'est nous livrer tous deux à d'horribles tempêtes.</l>
+
+	<l id="659">Si nous l'en voulons croire, il nous devra le tout,</l>
+
+	<l id="660">Mais de ce grand projet s'il vient par nous à bout,</l>
+
+	<l id="661">Vinius en aura lui seul tout l'avantage,</l>
+
+	<l id="662">Comme il l'a proposé, ce sera son ouvrage,</l>
+
+	<l id="663">Et la mort, ou l'exil, ou les abaissements,</l>
+
+	<l id="664">Seront pour vous et moi ses vrais remerciements.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="665">Oui, notre sûreté veut que Pison domine.</l>
+
+	<l id="666">Obtenez-en pour moi qu'il m'assure Plautine,</l>
+
+	<l id="667">Je vous promets pour lui mon suffrage à ce prix.</l>
+
+	<l id="668">La violence est juste après de tels mépris,</l>
+
+	<l id="669">Commençons à jouir par là de son empire,</l>
+
+	<l id="670">Et voyons s'il est homme à nous oser dédire.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="671">Quoi Votre amour toujours fera son capital</l>
+
+	<l id="672">Des attraits de Plautine et du noeud conjugal ?</l>
+
+	<l id="673">Eh bien ! Il faudra voir qui sera plus utile</l>
+
+	<l id="674">D'en croire... Mais voici la princesse Camille.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Camille, Lacus, Martian, Albiane.</head>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="675">Je vous rencontre ensemble ici fort à propos</l>
+
+	<l id="676">Et voulais à tous deux vous dire quatre mots.</l>
+
+	<l id="677">Si j'en crois certain bruit que je ne puis vous taire,</l>
+
+	<l id="678">Vous poussez un peu loin l'orgueil du ministère ;</l>
+
+	<l id="679">On dit que sur mon rang vous étendez sa loi,</l>
+
+	<l id="680">Et que vous vous mêlez de disposer de moi.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="681" part="i">Nous, madame ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="681" part="f">Faut-il que je vous obéisse,</l>
+
+	<l id="682">Moi, dont Galba prétend faire une impératrice ?</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="683">L'un et l'autre sait trop quel respect vous est dû.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="684">Le crime en est plus grand, si vous l'avez perdu.</l>
+
+	<l id="685">Parlez, qu'avez-vous dit à Galba l'un et l'autre ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="686">Sa pensée a voulu s'assurer sur la nôtre,</l>
+
+	<l id="687">Et s'étant proposé le choix d'un successeur</l>
+
+	<l id="688">Pour laisser à l'empire un digne possesseur,</l>
+
+	<l id="689">Sur ce don imprévu qu'il fait du diadème</l>
+
+	<l id="690">Vinius a parlé, Lacus a fait de même.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="691">Et ne savez-vous point, et Vinius, et vous,</l>
+
+	<l id="692">Que ce grand successeur doit être mon époux ?</l>
+
+	<l id="693">Que le don de ma main suit ce don de l'empire ?</l>
+
+	<l id="694">Galba, par vos conseils, voudrait-il s'en dédire ?</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="695">Il est toujours le même, et nous avons parlé</l>
+
+	<l id="696">Suivant ce qu'à tous deux le ciel a révélé.</l>
+
+	<l id="697">En ces occasions, lui qui tient les couronnes</l>
+
+	<l id="698">Inspire les avis sur le choix des personnes.</l>
+
+	<l id="699">Nous avons cru d'ailleurs pouvoir sans attentat</l>
+
+	<l id="700">Faire vos intérêts de ceux de tout l'État :</l>
+
+	<l id="701">Vous ne voudriez pas en avoir de contraires.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="702">Vous n'avez, vous ni lui, pensé qu'à vos affaires,</l>
+
+	<l id="703">Et nous offrir Pison, c'est assez témoigner...</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="704">Le trouvez-vous, Madame, indigne de régner ?</l>
+
+	<l id="705">Il a de la vertu, de l'esprit, du courage,</l>
+
+	<l id="706" part="i">Il a de plus...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="706" part="f">De plus, il a votre suffrage,</l>
+
+	<l id="707">Et c'est assez de quoi mériter mes refus.</l>
+
+	<l id="708">Par respect de son sang je ne dis rien de plus.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="709">Aimeriez-vous Othon que Vinius propose ?</l>
+
+	<l id="710">Othon dont vous savez que Plautine dispose,</l>
+
+	<l id="711">Et qui n'aspire ici qu'à lui donner sa foi ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="712">Qu'il brûle encor pour elle, ou la quitte pour moi,</l>
+
+	<l id="713">Ce n'est pas votre affaire, et votre exactitude</l>
+
+	<l id="714">Se charge en ma faveur de trop d'inquiétude.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="715">Mais l'empereur consent qu'il l'épouse aujourd'hui,</l>
+
+	<l id="716">Et moi-même je viens de l'obtenir pour lui.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="717">Vous en a-t-il prié ? Dites, ou si l'envie...</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="718">Un véritable ami n'attend point qu'on le prie.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="719">Cette amitié me charme, et je dois avouer</l>
+
+	<l id="720">Qu'Othon a jusqu'ici tout lieu de s'en louer,</l>
+
+	<l id="721">Que l'heureux contre-temps d'un si rare service...</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="722" part="i">Madame...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="722" part="f">Croyez-moi, mettez bas l'artifice,</l>
+
+	<l id="723">Ne vous hasardez point à faire un empereur.</l>
+
+	<l id="724">Galba connaît l'empire, et je connais mon coeur,</l>
+
+	<l id="725">Je sais ce qui m'est propre, il voit ce qu'il doit faire,</l>
+
+	<l id="726">Et quel prince à l'état est le plus salutaire ;</l>
+
+	<l id="727">Si le ciel vous inspire, il aura soin de nous,</l>
+
+	<l id="728">Et saura sur ce point nous accorder sans vous.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="729">Si Pison vous déplaît, il en est quelques autres...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="730">N'attachez point ici mes intérêts aux vôtres,</l>
+
+	<l id="731">Vous avez de l'esprit, mais j'ai des yeux perçants.</l>
+
+	<l id="732">Je vois qu'il vous est doux d'être les tout-puissants,</l>
+
+	<l id="733">Et je n'empêche point qu'on ne vous continue</l>
+
+	<l id="734">Votre toute-puissance au point qu'elle est venue ;</l>
+
+	<l id="735">Mais quant à cet époux, vous me ferez plaisir</l>
+
+	<l id="736">De trouver bon qu'enfin je puisse le choisir.</l>
+
+	<l id="737">Je m'aime un peu moi-même, et n'ai pas grande envie</l>
+
+	<l id="738">De vous sacrifier le repos de ma vie.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="739">Puisqu'il doit avec vous régir tout l'univers...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="740">Faut-il vous dire encor que j'ai des yeux ouverts ?</l>
+
+	<l id="741">Je vois jusqu'en vos coeurs, et m'obstine à me taire ;</l>
+
+	<l id="742">Mais je pourrais enfin dévoiler le mystère.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="743" part="i">Si l'empereur nous croit...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="743" part="f">Sans doute il vous croira,</l>
+
+	<l id="744">Sans doute je prendrai l'époux qu'il m'offrira,</l>
+
+	<l id="745">Soit qu'il plaise à mes yeux, soit qu'il me choque en l'âme,</l>
+
+	<l id="746">Il sera votre maître, et je serai sa femme ;</l>
+
+	<l id="747">Le temps me donnera sur lui quelque pouvoir,</l>
+
+	<l id="748">Et vous pourrez alors vous en apercevoir.</l>
+
+	<l id="749">Voilà les quatre mots que j'avais à vous dire</l>
+
+	<l id="750" part="i">Pensez-y ?</l></sp>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI. Lacus, Martian.</head>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="750" part="f">Ce courroux que Pison nous attire...</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="751">Vous vous en alarmez ! Laissons-la discourir,</l>
+
+	<l id="752">Et ne nous perdons pas de crainte de périr.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="753">Vous voyez quel orgueil contre nous l'intéresse.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="754">Plus elle m'en fait voir, plus je vois sa faiblesse.</l>
+
+	<l id="755">Faisons régner Pison, et malgré ce courroux,</l>
+
+	<l id="756">Vous verrez qu'elle-même aura besoin de nous.</l></sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="3"><head>ACTE III</head>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Camille, Albiane.</head>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="757" part="i">Ton frère te l'a dit, Albiane ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="757" part="f">Oui, Madame.</l>
+
+	<l id="758">Galba choisit Pison, et vous êtes sa femme,</l>
+
+	<l id="759">Ou pour en mieux parler, l'esclave de Lacus,</l>
+
+	<l id="760">À moins d'un éclatant et généreux refus.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="761" part="i">Et que devient Othon ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="761" part="f">Vous allez voir sa tête</l>
+
+	<l id="762">De vos trois ennemis affermir la conquête,</l>
+
+	<l id="763">Je veux dire assurer votre main à Pison,</l>
+
+	<l id="764">Et l'empire aux tyrans qui font régner son nom.</l>
+
+	<l id="765">Car comme il n'a pour lui qu'une suite d'ancêtres,</l>
+
+	<l id="766">Lacus et Martian vont être nos vrais maîtres,</l>
+
+	<l id="767">Et Pison ne sera qu'un idole sacré</l>
+
+	<l id="768">Qu'ils tiendront sur l'autel pour répondre à leur gré.</l>
+
+	<l id="769">Sa probité stupide autant comme farouche</l>
+
+	<l id="770">À prononcer leurs lois asservira sa bouche,</l>
+
+	<l id="771">Et le premier arrêt qu'ils lui feront donner</l>
+
+	<l id="772">Les défera d'Othon, qui les peut détrôner.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="773" part="i">Ô dieux, que je le plains !</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="773" part="f">Il est sans doute à plaindre,</l>
+
+	<l id="774">Si vous l'abandonnez à tout ce qu'il doit craindre ;</l>
+
+	<l id="775">Mais comme enfin la mort finira son ennui,</l>
+
+	<l id="776">Je crains fort de vous voir plus à plaindre que lui.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="777">L'hymen sur un époux donne quelque puissance.</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="778">Octavie a péri sur cette confiance.</l>
+
+	<l id="779">Son sang qui fume encor vous montre à quel destin</l>
+
+	<l id="780">Peut exposer vos jours un nouveau Tigellin</l>
+
+	<l id="781">Ce grand choix vous en donne à craindre deux ensemble,</l>
+
+	<l id="782">Et pour moi plus j'y songe, et plus pour vous je tremble.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="783">Quel remède, Albiane ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="784" part="i">Aimer, et faire voir...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="784" part="f">Que l'amour est sur moi plus fort que le devoir ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="785">Songez moins à Galba qu'à Lacus qui vous brave,</l>
+
+	<l id="786">Et qui vous fait encor braver par un esclave,</l>
+
+	<l id="787">Songez à vos périls, et peut-être à son tour</l>
+
+	<l id="788">Ce devoir passera du côté de l'amour.</l>
+
+	<l id="789">Bien que nous devions tout aux puissances suprêmes</l>
+
+	<l id="790">Madame, nous devons quelque chose à nous-mêmes,</l>
+
+	<l id="791">Surtout quand nous voyons des ordres dangereux,</l>
+
+	<l id="792">Sous ces grands souverains, partir d'autres que d'eux.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="793" part="i">Mais Othon m'aime-t-il ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="793" part="f">S'il vous aime ? Ah ! Madame ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="794">On a cru que Plautine avait toute son âme.</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="795">On l'a dû croire aussi, mais on s'est abusé.</l>
+
+	<l id="796">Autrement, Vinius l'aurait-il proposé ?</l>
+
+	<l id="797">Aurait-il pu trahir l'espoir d'en faire un gendre ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="798">En feignant de l'aimer que pouvait-il prétendre ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="799">De s'approcher de vous, et se faire en la cour</l>
+
+	<l id="800">Un accès libre et sûr pour un plus digne amour.</l>
+
+	<l id="801">De Vinius par là gagnant la bienveillance,</l>
+
+	<l id="802">Il a su le jeter dans une autre espérance,</l>
+
+	<l id="803">Et le flatter d'un rang plus haut, et plus certain,</l>
+
+	<l id="804">S'il devenait par vous empereur de sa main.</l>
+
+	<l id="805">Vous voyez à ces soins que Vinius s'applique</l>
+
+	<l id="806">En même temps qu'Othon auprès de vous s'explique.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="807">Mais à se déclarer il a bien attendu !</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="808">Mon frère jusque-là vous en a répondu !</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="809">Tandis tu m'as réduite à faire un peu d'avance,</l>
+
+	<l id="810">À consentir qu'Albin combattît son silence,</l>
+
+	<l id="811">Et même Vinius, dès qu'il me l'a nommé,</l>
+
+	<l id="812">A pu voir aisément qu'il pourrait être aimé.</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="813">C'est la gêne où réduit celles de votre sorte</l>
+
+	<l id="814">La scrupuleuse loi du respect qu'on leur porte.</l>
+
+	<l id="815">Il arrête les voeux, captive les désirs,</l>
+
+	<l id="816">Abaisse les regards, étouffe les soupirs,</l>
+
+	<l id="817">Dans le milieu du coeur enchaîne la tendresse,</l>
+
+	<l id="818">Et tel est en aimant le sort d'une princesse,</l>
+
+	<l id="819">Que quelque amour qu'elle ait et qu'elle ait pu donner,</l>
+
+	<l id="820">Il faut qu'elle devine et force à deviner.</l>
+
+	<l id="821">Quelque peu qu'on lui die, on craint de lui trop dire,</l>
+
+	<l id="822">À peine on se hasarde à jurer qu'on l'admire,</l>
+
+	<l id="823">Et pour apprivoiser ce respect ennemi</l>
+
+	<l id="824">Il faut qu'en dépit d'elle elle s'offre à demi.</l>
+
+	<l id="825">Voyez-vous comme Othon saurait encor se taire,</l>
+
+	<l id="826">Si je ne l'avais fait enhardir par mon frère ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="827" part="i">Tu le crois donc, qu'il m'aime ?</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="827" part="f">Et qu'il lui serait doux</l>
+
+	<l id="828">Que vous eussiez pour lui l'amour qu'il a pour vous.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="829">Hélas ! Que cet amour croit tôt ce qu'il souhaite !</l>
+
+	<l id="830">En vain la raison parle, en vain elle inquiète,</l>
+
+	<l id="831">En vain la défiance ose ce qu'elle peut,</l>
+
+	<l id="832">Il veut croire, et ne croit que parce qu'il le veut.</l>
+
+	<l id="833">Pour Plautine ou pour moi je vois du stratagème,</l>
+
+	<l id="834">Et m'obstine avec joie à m'aveugler moi-même.</l>
+
+	<l id="835">Je plains cette abusée, et c'est moi qui la suis</l>
+
+	<l id="836">Peut-être, et qui me livre à d'éternels ennuis.</l>
+
+	<l id="837">Peut-être, en ce moment qu'il m'est doux de te croire,</l>
+
+	<l id="838">De ses voeux à Plautine il assure la gloire,</l>
+
+	<l id="839" part="i">Peut-être...</l></sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Albin, Camille.</head>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="839" part="f">L'empereur vient ici vous trouver,</l>
+
+	<l id="840">Pour vous dire son choix, et le faire approuver.</l>
+
+	<l id="841">S'il vous déplaît, Madame, il faut de la constance,</l>
+
+	<l id="842">Il faut une fidèle et noble résistance,</l>
+
+	<l id="843" part="i">Il faut...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="843" part="f">De mon devoir je saurai prendre soin.</l>
+
+	<l id="844">Allez chercher Othon pour en être témoin.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Galba, Camille, Albiane.</head>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="845">Quand la mort de mes fils désola ma famille,</l>
+
+	<l id="846">Ma nièce, mon amour vous prit dès lors pour fille,</l>
+
+	<l id="847">Et regardant en vous les restes de mon sang,</l>
+
+	<l id="848">Je flattai ma douleur en vous donnant leur rang.</l>
+
+	<l id="849">Rome, qui m'a depuis chargé de son empire,</l>
+
+	<l id="850">Quand sous le poids de l'âge à peine je respire,</l>
+
+	<l id="851">A vu ce même amour me le faire accepter,</l>
+
+	<l id="852">Moins pour me seoir si haut que pour vous y porter.</l>
+
+	<l id="853">Non que si jusque-là Rome pouvait renaître,</l>
+
+	<l id="854">Qu'elle fût en état de se passer de maître,</l>
+
+	<l id="855">Je ne me crusse digne, en cet heureux moment</l>
+
+	<l id="856">De commencer par moi son rétablissement :</l>
+
+	<l id="857">Mais cet empire immense est trop vaste pour elle,</l>
+
+	<l id="858">À moins que d'une tête un si grand corps chancelle,</l>
+
+	<l id="859">Et pour le nom des rois son invincible horreur</l>
+
+	<l id="860">S'est d'ailleurs si bien faite aux lois d'un empereur,</l>
+
+	<l id="861">Qu'elle ne peut souffrir, après cette habitude,</l>
+
+	<l id="862">Ni pleine liberté, ni pleine servitude.</l>
+
+	<l id="863">Elle veut donc un maître, et Néron condamné</l>
+
+	<l id="864">Fait voir ce qu'elle veut en un front couronné.</l>
+
+	<l id="865">Vindex, Rufus, ni moi, n'avons causé sa perte,</l>
+
+	<l id="866">Ses crimes seuls l'ont faite, et le ciel l'a soufferte,</l>
+
+	<l id="867">Pour marque aux souverains qu'ils doivent par l'effet</l>
+
+	<l id="868">Répondre dignement au grand choix qu'il en fait.</l>
+
+	<l id="869">Jusques à ce grand coup, un honteux esclavage</l>
+
+	<l id="870">D'une seule maison nous faisait l'héritage ;</l>
+
+	<l id="871">Rome n'en a repris au lieu de liberté</l>
+
+	<l id="872">Qu'un droit de mettre ailleurs la souveraineté,</l>
+
+	<l id="873">Et laisser après moi dans le trône un grand homme,</l>
+
+	<l id="874">C'est tout ce qu'aujourd'hui je puis faire pour Rome.</l>
+
+	<l id="875">Prendre un si noble soin, c'est en prendre de vous,</l>
+
+	<l id="876">Ce maître qu'il lui faut vous est dû pour époux,</l>
+
+	<l id="877">Et mon zèle s'unit à l'amour paternelle</l>
+
+	<l id="878">Pour vous en donner un digne de vous et d'elle.</l>
+
+	<l id="879">Jule, et le grand Auguste ont choisi dans leur sang,</l>
+
+	<l id="880">Ou dans leur alliance, à qui laisser ce rang ;</l>
+
+	<l id="881">Moi, sans considérer aucun noeud domestique</l>
+
+	<l id="882">J'ai fait ce choix comme eux, mais dans la république,</l>
+
+	<l id="883">Je l'ai fait de Pison, c'est le sang de Crassus,</l>
+
+	<l id="884">C'est celui de Pompée, il en a les vertus,</l>
+
+	<l id="885">Et ces fameux héros dont il suivra la trace</l>
+
+	<l id="886">Joindront de si grands noms aux grands noms de ma race,</l>
+
+	<l id="887">Qu'il n'est point d'hyménée, en qui l'égalité</l>
+
+	<l id="888">Puisse élever l'empire à plus de dignité.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="889">J'ai tâché de répondre à cet amour de père</l>
+
+	<l id="890">Par un tendre respect qui chérit et révère,</l>
+
+	<l id="891">Seigneur, et je vois mieux encor par ce grand choix</l>
+
+	<l id="892">Et combien vous m'aimez, et combien je vous dois.</l>
+
+	<l id="893">Je sais ce qu'est Pison, et quelle est sa noblesse ;</l>
+
+	<l id="894">Mais si j'ose à vos yeux montrer quelque faiblesse,</l>
+
+	<l id="895">Quelque digne qu'il soit et de Rome et de moi,</l>
+
+	<l id="896">Je tremble à lui promettre et mon coeur et ma foi,</l>
+
+	<l id="897">Et j'avouerai, Seigneur, que pour mon hyménée</l>
+
+	<l id="898">Je crois tenir un peu de Rome où je suis née.</l>
+
+	<l id="899">Je ne demande point la pleine liberté,</l>
+
+	<l id="900">Puisqu'elle en a mis bas l'intrépide fierté ;</l>
+
+	<l id="901">Mais si vous m'imposez la pleine servitude,</l>
+
+	<l id="902">J'y trouverai comme elle un joug un peu bien rude.</l>
+
+	<l id="903">Je suis trop ignorante en matière d'État,</l>
+
+	<l id="904">Pour savoir quel doit être un si grand potentat ;</l>
+
+	<l id="905">Mais Rome dans ses murs n'a-t-elle qu'un seul homme ?</l>
+
+	<l id="906">N'a-t-elle que Pison qui soit digne de Rome,</l>
+
+	<l id="907">Et dans tous ses États n'en saurait-on voir deux,</l>
+
+	<l id="908">Que puissent vos bontés hasarder à mes voeux ?</l>
+
+	<l id="909">Néron fit aux vertus une cruelle guerre,</l>
+
+	<l id="910">S'il en a dépeuplé les trois parts de la terre</l>
+
+	<l id="911">Et si pour nous donner de dignes empereurs,</l>
+
+	<l id="912">Pison seul avec vous échappe à ses fureurs.</l>
+
+	<l id="913">Il est d'autres héros dans un si vaste empire,</l>
+
+	<l id="914">Il en est qu'après vous on se plairait d'élire,</l>
+
+	<l id="915">Et qui sauraient mêler sans vous faire rougir</l>
+
+	<l id="916">L'art de gagner les coeurs au grand art de régir.</l>
+
+	<l id="917">D'une vertu sauvage on craint un dur empire,</l>
+
+	<l id="918">Souvent on s'en dégoûte au moment qu'on l'admire,</l>
+
+	<l id="919">Et puisque ce grand choix me doit faire un époux,</l>
+
+	<l id="920">Il serait bon qu'il eût quelque chose de doux,</l>
+
+	<l id="921">Qu'on vît en sa personne également paraître</l>
+
+	<l id="922">Les grâces d'un amant et les hauteurs d'un maître,</l>
+
+	<l id="923">Et qu'il fût aussi propre à donner de l'amour,</l>
+
+	<l id="924">Qu'à faire ici trembler sous lui toute sa cour.</l>
+
+	<l id="925">Souvent un peu d'amour dans les coeurs des monarques</l>
+
+	<l id="926">Accompagne assez bien leurs plus illustres marques.</l>
+
+	<l id="927">Ce n'est pas qu'après tout je pense à résister,</l>
+
+	<l id="928">J'aime à vous obéir, seigneur, sans contester,</l>
+
+	<l id="929">Pour prix d'un sacrifice où mon coeur se dispose,</l>
+
+	<l id="930">Permettez qu'un époux me doive quelque chose :</l>
+
+	<l id="931">Dans cette servitude où se plaît mon désir</l>
+
+	<l id="932">C'est quelque liberté qu'un ou deux à choisir.</l>
+
+	<l id="933">Votre Pison peut-être aura de quoi me plaire,</l>
+
+	<l id="934">Quand il ne sera plus un mari nécessaire,</l>
+
+	<l id="935">Et son amour pour moi sera plus assuré,</l>
+
+	<l id="936">S'il voit à quels rivaux je l'aurai préféré.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="937">Ce long raisonnement dans sa délicatesse</l>
+
+	<l id="938">À vos tendres respects mêle beaucoup d'adresse ;</l>
+
+	<l id="939">Si le refus n'est juste, il est doux et civil.</l>
+
+	<l id="940">Parlez donc, et sans feinte, Othon vous plairait-il ?</l>
+
+	<l id="941">On me l'a proposé, qu'y trouvez-vous à dire ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="942">L'avez-vous cru d'abord indigne de l'empire,</l>
+
+	<l id="943" part="i">Seigneur ?</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="943" part="f">Non, mais depuis consultant ma raison</l>
+
+	<l id="944">J'ai trouvé qu'il fallait lui préférer Pison.</l>
+
+	<l id="945">Sa vertu, plus solide, et toute inébranlable,</l>
+
+	<l id="946">Nous fera, comme Auguste un siècle incomparable,</l>
+
+	<l id="947">Où l'autre par Néron dans le vice abîmé,</l>
+
+	<l id="948">Ramènera ce luxe où sa main l'a formé,</l>
+
+	<l id="949">Et tous les attentats de l'infâme licence</l>
+
+	<l id="950">Dont il osa souiller la suprême puissance.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="951">Othon près d'un tel maître a su se ménager,</l>
+
+	<l id="952">Jusqu'à ce que le temps ait pu l'en dégager.</l>
+
+	<l id="953">Qui sait faire sa cour se fait aux moeurs du prince,</l>
+
+	<l id="954">Mais il fut tout à soi quand il fut en province,</l>
+
+	<l id="955">Et sa haute vertu par d'illustres effets</l>
+
+	<l id="956">Y dissipa soudain ces vices contrefaits.</l>
+
+	<l id="957">Chaque jour a sous vous grossi sa renommée ;</l>
+
+	<l id="958">Mais Pison n'eut jamais de charge ni d'armée ;</l>
+
+	<l id="959">Et comme il a vécu jusqu'ici sans emploi,</l>
+
+	<l id="960">On ne sait ce qu'il vaut que sur sa bonne foi.</l>
+
+	<l id="961">Je veux croire, en faveur des héros de sa race,</l>
+
+	<l id="962">Qu'il en a les vertus, qu'il en suivra la trace,</l>
+
+	<l id="963">Qu'il en égalera les plus illustres noms,</l>
+
+	<l id="964">Mais j'en croirais bien mieux de grandes actions.</l>
+
+	<l id="965">Si dans un long exil il a paru sans vice,</l>
+
+	<l id="966">La vertu des bannis souvent n'est qu'artifice,</l>
+
+	<l id="967">Sans vous avoir servi vous l'avez ramené,</l>
+
+	<l id="968">Mais l'autre est le premier qui vous ait couronné.</l>
+
+	<l id="969">Dès qu'il vit deux partis, il se rangea du vôtre,</l>
+
+	<l id="970">Ainsi l'un vous doit tout, et vous devez à l'autre.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="971">Vous prendrez donc le soin de m'acquitter vers lui,</l>
+
+	<l id="972">Et comme pour l'empire il faut un autre appui,</l>
+
+	<l id="973">Vous croirez que Pison est plus digne de Rome,</l>
+
+	<l id="974">Pour ne plus en douter suffit que je le nomme.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="975">Pour Rome et son empire, après vous je le crois,</l>
+
+	<l id="976">Mais je doute si l'autre est moins digne de moi.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="977">Doutez-en, un tel doute est bien digne d'une âme</l>
+
+	<l id="978">Qui voudrait de Néron revoir le siècle infâme,</l>
+
+	<l id="979">Et qui voyant qu'Othon lui ressemble le mieux...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="980">Choisissez de vous-même, et je ferme les yeux.</l>
+
+	<l id="981">Que vos seules bontés de tout mon sort ordonnent,</l>
+
+	<l id="982">Je me donne en aveugle à qui qu'elles me donnent.</l>
+
+	<l id="983">Mais quand vous consultez Lacus et Martian,</l>
+
+	<l id="984">Un époux de leur main me paraît un tyran,</l>
+
+	<l id="985">Et si j'ose tout dire, en cette conjoncture</l>
+
+	<l id="986">Je regarde Pison comme leur créature,</l>
+
+	<l id="987">Qui régnant par leur ordre, et leur prêtant sa voix,</l>
+
+	<l id="988">Me forcera moi-même à recevoir leurs lois.</l>
+
+	<l id="989">Je ne veux point d'un trône où je sois leur captive,</l>
+
+	<l id="990">Où leur pouvoir m'enchaîne et quoi qu'il en arrive,</l>
+
+	<l id="991">J'aime mieux un mari qui sache être empereur,</l>
+
+	<l id="992">Qu'un mari qui le soit et souffre un gouverneur.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="993">Ce n'est pas mon dessein de contraindre les âmes.</l>
+
+	<l id="994">N'en parlons plus, dans Rome il sera d'autres femmes</l>
+
+	<l id="995">À qui Pison en vain n'offrira pas sa foi :</l>
+
+	<l id="996">Votre main est à vous, mais l'empire est à moi.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Galba, Othon, Camille, Albin, Albiane.</head>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="997">Othon, est-il bien vrai que vous aimiez Camille ?</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="998">Cette témérité m'est sans doute inutile,</l>
+
+	<l id="999">Mais si j'osais, Seigneur, dans mon sort adouci...</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1000">Non, non, si vous l'aimez, elle vous aime aussi.</l>
+
+	<l id="1001">Son amour près de moi vous rend de tels offices,</l>
+
+	<l id="1002">Que je vous en fais don pour prix de vos services.</l>
+
+	<l id="1003">Ainsi, bien qu'à Lacus j'aie accordé pour vous</l>
+
+	<l id="1004">Qu'aujourd'hui de Plautine on vous verra l'époux,</l>
+
+	<l id="1005">L'illustre et digne ardeur d'une flamme si belle,</l>
+
+	<l id="1006">M'en fait révoquer l'ordre, et vous obtient pour elle.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1007">Vous m'en voyez de joie interdit et confus.</l>
+
+	<l id="1008">Quand je me prononçais moi-même un prompt refus,</l>
+
+	<l id="1009">Que j'attendais l'effet d'une juste colère,</l>
+
+	<l id="1010">Je suis assez heureux pour ne vous pas déplaire !</l>
+
+	<l id="1011">Et loin de condamner des voeux trop élevés...</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1012">Vous savez mal encor combien vous lui devez.</l>
+
+	<l id="1013">Son coeur de telle force à votre hymen aspire,</l>
+
+	<l id="1014">Que pour mieux être à vous, il renonce à l'empire.</l>
+
+	<l id="1015">Choisissez donc ensemble, à communs sentiments,</l>
+
+	<l id="1016">Des charges dans ma cour, ou des gouvernements,</l>
+
+	<l id="1017" part="i">Vous n'avez qu'à parler.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1017" part="f">Seigneur, si la princesse...</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1018">Pison n'en voudra pas dédire ma promesse.</l>
+
+	<l id="1019">Je l'ai nommé César pour le faire empereur,</l>
+
+	<l id="1020">Vous savez ses vertus, je réponds de son coeur.</l>
+
+	<l id="1021">Adieu, pour observer la forme accoutumée,</l>
+
+	<l id="1022">Je le vais de ma main présenter à l'armée.</l>
+
+	<l id="1023">Pour Camille, en faveur de cet heureux lien,</l>
+
+	<l id="1024">Tenez-vous assuré qu'elle aura tout mon bien,</l>
+
+	<l id="1025">Je la fais dès ce jour mon unique héritière.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Othon, Camille, Albin, Albiane.</head>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1026">Vous pouvez voir par là mon âme toute entière,</l>
+
+	<l id="1027">Seigneur, et je voudrais en vain la déguiser,</l>
+
+	<l id="1028">Après ce que pour vous l'amour me fait oser ;</l>
+
+	<l id="1029">Ce que Galba pour moi prend le soin de vous dire...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1030">Quoi donc, Madame, Othon vous coûterait l'empire ?</l>
+
+	<l id="1031">Il sait mieux ce qu'il vaut, et n'est pas d'un tel prix,</l>
+
+	<l id="1032">Qu'il le faille acheter par ce noble mépris.</l>
+
+	<l id="1033">Il se doit opposer à cet effort d'estime</l>
+
+	<l id="1034">Où s'abaisse pour lui ce coeur trop magnanime,</l>
+
+	<l id="1035">Et par un même effort de magnanimité</l>
+
+	<l id="1036">Rendre une âme si haute au trône mérité.</l>
+
+	<l id="1037">D'un si parfait amour quelles que soient les causes...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1038">Je ne sais point, Seigneur, faire valoir les choses,</l>
+
+	<l id="1039">Et dans ce prompt succès dont nos coeurs sont charmés</l>
+
+	<l id="1040">Vous me devez bien moins que vous ne présumez.</l>
+
+	<l id="1041">Il semble que pour vous je renonce à l'empire,</l>
+
+	<l id="1042">Et qu'un amour aveugle ait su me le prescrire ;</l>
+
+	<l id="1043">Je vous aime, il est vrai, mais si l'empire est doux,</l>
+
+	<l id="1044">Je crois m'en assurer quand je me donne à vous.</l>
+
+	<l id="1045">Tant que vivra Galba, le respect de son âge,</l>
+
+	<l id="1046">Du moins apparemment, soutiendra son suffrage,</l>
+
+	<l id="1047">Pison croira régner : mais peut-être qu'un jour</l>
+
+	<l id="1048">Rome se permettra de choisir à son tour.</l>
+
+	<l id="1049">À faire un empereur alors quoi qui l'excite,</l>
+
+	<l id="1050">Qu'elle en veuille la race, ou cherche le mérite,</l>
+
+	<l id="1051">Notre union aura des voix de tous côtés,</l>
+
+	<l id="1052">Puisque j'en ai le sang, et vous les qualités.</l>
+
+	<l id="1053">Sous un nom si fameux qui vous rend préférable,</l>
+
+	<l id="1054">L'héritier de Galba sera considérable,</l>
+
+	<l id="1055">On aimera ce titre en un si digne époux,</l>
+
+	<l id="1056">Et l'empire est à moi, si l'on me voit à vous.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1057">Ah ! Madame, quittez cette vaine espérance</l>
+
+	<l id="1058">De nous voir quelque jour remettre en la balance.</l>
+
+	<l id="1059">S'il faut que de Pison on accepte la loi,</l>
+
+	<l id="1060">Rome, tant qu'il vivra, n'aura plus d'yeux pour moi,</l>
+
+	<l id="1061">Elle a beau murmurer contre un indigne maître,</l>
+
+	<l id="1062">Elle en souffre, pour lâche, ou méchant qu'il puisse être.</l>
+
+	<l id="1063">Tibère était cruel, Caligule brutal,</l>
+
+	<l id="1064">Claude faible, Néron en forfaits sans égal,</l>
+
+	<l id="1065">Il se perdit lui-même à force de grands crimes,</l>
+
+	<l id="1066">Mais le reste a passé pour princes légitimes.</l>
+
+	<l id="1067">Claude même, ce Claude et sans coeur et sans yeux,</l>
+
+	<l id="1068">À peine les ouvrit qu'il devint furieux,</l>
+
+	<l id="1069">Et Narcisse et Pallas l'ayant mis en furie</l>
+
+	<l id="1070">Firent sous son aveu régner la barbarie.</l>
+
+	<l id="1071">Il régna toutefois, bien qu'il se fît haïr,</l>
+
+	<l id="1072">Jusqu'à ce que Néron se fâchât d'obéir,</l>
+
+	<l id="1073">Et ce monstre ennemi de la vertu romaine</l>
+
+	<l id="1074">N'a succombé que tard sous la commune haine.</l>
+
+	<l id="1075">Par ce qu'ils ont osé jugez sur vos refus</l>
+
+	<l id="1076">Ce qu'osera Pison gouverné par Lacus :</l>
+
+	<l id="1077">Il aura peine à voir, lui qui pour vous soupire,</l>
+
+	<l id="1078">Que votre hymen chez moi laisse un droit à l'empire.</l>
+
+	<l id="1079">Chacun sur ce penchant voudra faire sa cour,</l>
+
+	<l id="1080">Et le pouvoir suprême enhardit bien l'amour.</l>
+
+	<l id="1081">Si Néron qui m'aimait osa m'ôter Poppée,</l>
+
+	<l id="1082">Jugez pour ressaisir votre main usurpée,</l>
+
+	<l id="1083">Quel scrupule on aura du plus noir attentat,</l>
+
+	<l id="1084">Contre un rival ensemble et d'amour et d'État.</l>
+
+	<l id="1085">Il n'est point ni d'exil, ni de Lusitanie,</l>
+
+	<l id="1086">Qui dérobe à Pison le reste de ma vie,</l>
+
+	<l id="1087">Et je sais trop la cour pour douter un moment,</l>
+
+	<l id="1088">Ou des soins de sa haine, ou de l'événement.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1089">Et c'est là ce grand coeur qu'on croyait intrépide ?</l>
+
+	<l id="1090">Le péril comme un autre à mes yeux l'intimide,</l>
+
+	<l id="1091">Et pour monter au trône, et pour me posséder,</l>
+
+	<l id="1092">Son espoir le plus beau n'ose rien hasarder ?</l>
+
+	<l id="1093">Il redoute Pison ? Dites-moi donc, de grâce,</l>
+
+	<l id="1094">Si d'aimer en lieu même on vous a vu l'audace,</l>
+
+	<l id="1095">Si pour vous et pour lui le trône eut même appas,</l>
+
+	<l id="1096">Êtes-vous moins rivaux pour ne m'épouser pas ?</l>
+
+	<l id="1097">À quel droit voulez-vous que cette haine cesse</l>
+
+	<l id="1098">Pour qui lui disputa ce trône et sa maîtresse,</l>
+
+	<l id="1099">Et qu'il veuille oublier se voyant souverain</l>
+
+	<l id="1100">Que vous pouvez dans l'âme en garder le dessein ?</l>
+
+	<l id="1101">Ne vous y trompez plus, il a vu dans cette âme,</l>
+
+	<l id="1102">Et votre ambition, et toute votre flamme,</l>
+
+	<l id="1103">Et peut tout contre vous, à moins que contre lui</l>
+
+	<l id="1104">Mon hymen chez Galba vous assure un appui.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1105">Eh bien, il me perdra pour vous avoir aimée,</l>
+
+	<l id="1106">Sa haine sera douce à mon âme enflammée,</l>
+
+	<l id="1107">Et tout mon sang n'a rien que je veuille épargner.</l>
+
+	<l id="1108">Si ce n'est que par là que vous pouvez régner.</l>
+
+	<l id="1109">Permettez cependant à cet amour sincère</l>
+
+	<l id="1110">De vous redire encor ce qu'il n'ose vous taire.</l>
+
+	<l id="1111">En l'état qu'est Pison, il vous faut aujourd'hui</l>
+
+	<l id="1112">Renoncer à l'empire, ou le prendre avec lui.</l>
+
+	<l id="1113">Avant qu'en décider pensez-y bien, Madame,</l>
+
+	<l id="1114">C'est votre intérêt seul qui fait parler ma flamme.</l>
+
+	<l id="1115">Il est mille douceurs dans un grade si haut,</l>
+
+	<l id="1116">Où peut-être avez-vous moins pensé qu'il ne faut,</l>
+
+	<l id="1117">Peut-être en un moment serez-vous détrompée,</l>
+
+	<l id="1118">Et si j'osais encor vous parler de Poppée,</l>
+
+	<l id="1119">Je dirais que sans doute elle m'aimait un peu,</l>
+
+	<l id="1120">Et qu'un trône alluma bientôt un autre feu.</l>
+
+	<l id="1121">Le ciel vous a fait l'âme et plus grande et plus belle,</l>
+
+	<l id="1122">Mais vous êtes princesse, et femme enfin comme elle.</l>
+
+	<l id="1123">L'horreur de voir une autre au rang qui vous est dû,</l>
+
+	<l id="1124">Et le juste chagrin d'avoir trop descendu,</l>
+
+	<l id="1125">Presseront en secret cette âme de se rendre</l>
+
+	<l id="1126">Même au plus faible espoir de le pouvoir reprendre.</l>
+
+	<l id="1127">Les yeux ne veulent pas en tout temps se fermer,</l>
+
+	<l id="1128">Mais l'empire en tout temps a de quoi les charmer,</l>
+
+	<l id="1129">L'amour passe ou languit, et pour fort qu'il puisse être,</l>
+
+	<l id="1130">De la soif de régner il n'est pas toujours maître.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1131">Je ne sais quel amour je vous ai pu donner,</l>
+
+	<l id="1132">Seigneur, mais sur l'empire il aime à raisonner,</l>
+
+	<l id="1133">Je l'y trouve assez fort, et même d'une force</l>
+
+	<l id="1134">À montrer qu'il connaît tout ce qu'il a d'amorce,</l>
+
+	<l id="1135">Et qu'à ce qu'il me dit touchant un si grand choix</l>
+
+	<l id="1136">Il a daigné penser un peu plus d'une fois.</l>
+
+	<l id="1137">Je veux croire avec vous qu'il est ferme et sincère,</l>
+
+	<l id="1138">Qu'il me dit seulement ce qu'il n'ose me taire,</l>
+
+	<l id="1139" part="i">Mais à parler sans feinte...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1139" part="f">Ah ! Madame, croyez...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1140">Oui, j'en croirai Pison à qui vous m'envoyez,</l>
+
+	<l id="1141">Et vous, pour vous donner quelque peu plus de joie,</l>
+
+	<l id="1142">Vous en croirez Plautine à qui je vous renvoie.</l>
+
+	<l id="1143">Je n'en suis point jalouse, et le dis sans courroux,</l>
+
+	<l id="1144">Vous n'aimez que l'empire, et je n'aimais que vous.</l>
+
+	<l id="1145">N'en appréhendez rien, je suis femme et princesse,</l>
+
+	<l id="1146">Sans en avoir pourtant l'orgueil, ni la faiblesse,</l>
+
+	<l id="1147">Et votre aveuglement me fait trop de pitié,</l>
+
+	<l id="1148">Pour l'accabler encor de mon inimitié.</l>
+
+<stage>Elle sort.</stage>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1149">Que je vois d'appareils, Albin, pour ma ruine !</l>
+
+</sp>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="1150">Seigneur, tout est perdu, si vous voyez Plautine.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1151">Allons-y toutefois, le trouble où je me vois</l>
+
+	<l id="1152">Ne peut souffrir d'avis que d'un coeur tout à moi.</l></sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="4"><head>ACTE IV</head>
+
+<div2 type="scene" n="1"><head>SCÈNE I. Othon, Plautine.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1153">Que voulez-vous, Seigneur, qu'enfin je vous conseille ?</l>
+
+	<l id="1154">Je sens un trouble égal d'une douleur pareille,</l>
+
+	<l id="1155">Et mon coeur tout à vous n'est pas assez à soi,</l>
+
+	<l id="1156">Pour trouver un remède aux maux que je prévois.</l>
+
+	<l id="1157">Je ne sais que pleurer, je ne sais que vous plaindre.</l>
+
+	<l id="1158">Le seul choix de Pison nous donne tout à craindre,</l>
+
+	<l id="1159">Mon père vous a dit qu'il ne laisse à tous trois</l>
+
+	<l id="1160">Que l'espoir de mourir ensemble à notre choix ;</l>
+
+	<l id="1161">Et nous craignons de plus une amante irritée</l>
+
+	<l id="1162">D'une offre en moins d'un jour reçue et rétractée,</l>
+
+	<l id="1163">D'un hommage où la suite a si peu répondu,</l>
+
+	<l id="1164">Et d'un trône qu'en vain pour vous elle a perdu.</l>
+
+	<l id="1165">Pour vous avec ce trône elle était adorable,</l>
+
+	<l id="1166">Pour vous elle y renonce, et n'a plus rien d'aimable ;</l>
+
+	<l id="1167">Où ne portera point un si juste courroux</l>
+
+	<l id="1168">La honte de se voir sans l'empire et sans vous ?</l>
+
+	<l id="1169">Honte d'autant plus grande et d'autant plus sensible,</l>
+
+	<l id="1170">Qu'elle s'y promettait un retour infaillible,</l>
+
+	<l id="1171">Et que sa main par vous croyait tôt regagner</l>
+
+	<l id="1172">Ce que son coeur pour vous paraissait dédaigner.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1173">Je n'ai donc qu'à mourir, je l'ai voulu, Madame,</l>
+
+	<l id="1174">Quand je l'ai pu sans crime, en faveur de ma flamme,</l>
+
+	<l id="1175">Et je le dois vouloir quand votre arrêt cruel</l>
+
+	<l id="1176">Pour mourir justement m'a rendu criminel.</l>
+
+	<l id="1177">Vous m'avez commandé de m'offrir à Camille,</l>
+
+	<l id="1178">Grâces à nos malheurs ce crime est inutile,</l>
+
+	<l id="1179">Je mourrai tout à vous, et si pour obéir</l>
+
+	<l id="1180">J'ai paru mal aimer, j'ai semblé vous trahir,</l>
+
+	<l id="1181">Ma main par ce même ordre à vos yeux enhardie</l>
+
+	<l id="1182">Lavera dans mon sang ma fausse perfidie.</l>
+
+	<l id="1183">N'enviez pas, Madame, à mon sort inhumain</l>
+
+	<l id="1184">La gloire de finir du moins en vrai Romain,</l>
+
+	<l id="1185">Après qu'il vous a plu de me rendre incapable</l>
+
+	<l id="1186">Des douceurs de mourir en amant véritable.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1187">Bien loin d'en condamner la noble passion,</l>
+
+	<l id="1188">J'y veux borner ma joie et mon ambition.</l>
+
+	<l id="1189">Pour de moindres malheurs on renonce à la vie.</l>
+
+	<l id="1190">Soyez sûr de ma part de l'exemple d'Arrie,</l>
+
+	<l id="1191">J'ai la main aussi ferme et le coeur aussi grand,</l>
+
+	<l id="1192">Et quand il le faudra, je sais comme on s'y prend.</l>
+
+	<l id="1193">Si vous daigniez, Seigneur, jusque-là vous contraindre,</l>
+
+	<l id="1194">Peut-être espérerais-je en voyant tout à craindre,</l>
+
+	<l id="1195">Camille est irritée, et se peut apaiser.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1196">Me condamneriez-vous, Madame, à l'épouser ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1197">Que n'y puis-je moi-même opposer ma défense !</l>
+
+	<l id="1198">Mais si vos jours enfin n'ont point d'autre assurance,</l>
+
+	<l id="1199" part="i">S'il n'est point d'autre asile...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1199" part="f">Ah ! Courons à la mort,</l>
+
+	<l id="1200">Ou si pour l'éviter il faut nous faire effort,</l>
+
+	<l id="1201">Subissons de Lacus toute la tyrannie,</l>
+
+	<l id="1202">Avant que me soumettre à cette ignominie.</l>
+
+	<l id="1203">J'en saurai préférer les plus barbares coups</l>
+
+	<l id="1204">À l'affront de me voir sans l'empire et sans vous,</l>
+
+	<l id="1205">Aux hontes d'un hymen qui me rendrait infâme,</l>
+
+	<l id="1206">Puisqu'on fait pour Camille un crime de sa flamme,</l>
+
+	<l id="1207">Et qu'on lui vole un trône en haine d'une foi</l>
+
+	<l id="1208">Qu'a voulu son amour ne promettre qu'à moi.</l>
+
+	<l id="1209">Non que pour moi sans vous ce trône eût aucuns charme,</l>
+
+	<l id="1210">Pour vous je le cherchais, mais non pas sans alarmes,</l>
+
+	<l id="1211">Et si tantôt Galba ne m'eût point dédaigné,</l>
+
+	<l id="1212">J'aurais porté le sceptre, et vous auriez régné :</l>
+
+	<l id="1213">Vos seules volontés mes dignes souveraines</l>
+
+	<l id="1214">D'un empire si vaste auraient tenu les rênes,</l>
+
+	<l id="1215" part="i">Vos lois...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1215" part="f">C'est donc à moi de vous faire empereur.</l>
+
+	<l id="1216">Je l'ai pu, les moyens d'abord m'ont fait horreur,</l>
+
+	<l id="1217">Mais je saurai la vaincre, et me donnant moi-même,</l>
+
+	<l id="1218">Vous assurer ensemble et vie et diadème,</l>
+
+	<l id="1219">Et réparer par là le crime d'un orgueil</l>
+
+	<l id="1220">Qui vous dérobe un trône et vous ouvre un cercueil.</l>
+
+	<l id="1221">De Martian pour vous j'aurais eu le suffrage,</l>
+
+	<l id="1222">Si j'avais pu souffrir son insolent hommage,</l>
+
+	<l id="1223" part="i">Son amour...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1223" part="f">Martian se connaîtrait si peu,</l>
+
+	<l id="1224" part="i">Que d'oser...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1224" part="f">Il n'a pas encore éteint son feu,</l>
+
+	<l id="1225">Et du choix de Pison quelles que soient les causes,</l>
+
+	<l id="1226">Je n'ai qu'à dire un mot pour brouiller bien des choses.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1227">Vous vous ravaleriez jusques à l'écouter ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1228">Pour vous j'irai, Seigneur, jusques à l'accepter.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1229">Consultez votre gloire, elle saura vous dire...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1230">Qu'il est de mon devoir de vous rendre l'empire.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1231">Qu'un front encor marqué des fers qu'il a portés...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1232">A droit de me charmer s'il fait vos sûretés.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1233">En concevez-vous bien toute l'ignominie ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1234">Je n'en puis voir, Seigneur, à vous sauver la vie.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1235">L'épouser à ma vue, et pour comble d'ennui...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1236">Donnez-vous à Camille, ou je me donne à lui.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1237">Périssons, périssons, Madame, l'un pour l'autre,</l>
+
+	<l id="1238">Avec toute ma gloire, avec toute la vôtre ;</l>
+
+	<l id="1239">Pour nous faire un trépas dont les dieux soient jaloux,</l>
+
+	<l id="1240">Rendez-vous toute à moi, comme moi tout à vous ;</l>
+
+	<l id="1241">Ou si pour conserver en vous tout ce que j'aime</l>
+
+	<l id="1242">Mon malheur vous obstine à vous donner vous-même,</l>
+
+	<l id="1243">Du moins de votre gloire ayez un soin égal,</l>
+
+	<l id="1244">Et ne me préférez qu'un illustre rival.</l>
+
+	<l id="1245">J'en mourrai de douleur, mais je mourrais de rage,</l>
+
+	<l id="1246">Si vous me préfériez un reste d'esclavage.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Vinius, Othon, Plautine.</head>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1247" part="i">Ah ! Seigneur, empêchez que Plautine...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1247" part="f">Seigneur,</l>
+
+	<l id="1248">Vous empêcherez tout si vous avez du coeur.</l>
+
+	<l id="1249">Malgré de nos destins la rigueur importune,</l>
+
+	<l id="1250">Le ciel met en vos mains toute notre fortune.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1251" part="i">Seigneur, que dites-vous ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1251" part="f">Ce que je viens de voir,</l>
+
+	<l id="1252">Que pour être empereur il n'a qu'à le vouloir.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1253">Ah ! Seigneur, plus d'empire, à moins qu'avec Plautine...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1254">Saisissez-vous d'un trône où le ciel vous destine,</l>
+
+	<l id="1255">Et pour choisir vous-même avec qui le remplir,</l>
+
+	<l id="1256">À vos heureux destins aidez à s'accomplir.</l>
+
+	<l id="1257">L'armée a vu Pison, mais avec un murmure</l>
+
+	<l id="1258">Qui semblait mal goûter ce qu'on vous fait d'injure.</l>
+
+	<l id="1259">Galba ne l'a produit qu'avec sévérité,</l>
+
+	<l id="1260">Sans faire aucun espoir de libéralité.</l>
+
+	<l id="1261">Il pouvait sous l'appas d'une feinte promesse</l>
+
+	<l id="1262">Jeter dans les soldats un moment d'allégresse ;</l>
+
+	<l id="1263">Mais il a mieux aimé hautement protester</l>
+
+	<l id="1264">Qu'il savait les choisir et non les acheter.</l>
+
+	<l id="1265">Ces hautes duretés, à contretemps poussées</l>
+
+	<l id="1266">Ont rappelé l'horreur des cruautés passées,</l>
+
+	<l id="1267">Lorsque d'Espagne à Rome il sema son chemin</l>
+
+	<l id="1268">De Romains immolés à son nouveau destin,</l>
+
+	<l id="1269">Et qu'ayant de leur sang souillé chaque contrée</l>
+
+	<l id="1270">Par un nouveau carnage il y fit son entrée.</l>
+
+	<l id="1271">Aussi durant le temps qu'a harangué Pison</l>
+
+	<l id="1272">Ils ont de rang en rang fait courir votre nom,</l>
+
+	<l id="1273">Quatre des plus zélés sont venus me le dire,</l>
+
+	<l id="1274">Et m'ont promis pour vous les troupes et l'empire.</l>
+
+	<l id="1275">Courez donc à la place, où vous les trouverez,</l>
+
+	<l id="1276">Suivez-les dans leur camp, et vous en assurez,</l>
+
+	<l id="1277" part="i">Un temps bien pris peut tout.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1277" part="f">Si cet astre contraire</l>
+
+	<l id="1278" part="i">Qui m'a...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1278" part="f">Sans discourir, faites ce qu'il faut faire,</l>
+
+	<l id="1279">Un moment de séjour peut tout déconcerter,</l>
+
+	<l id="1280">Et le moindre soupçon vous va faire arrêter.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1281">Avant que de partir souffrez que je proteste...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1282">Partez, en empereur vous nous direz le reste.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Vinius, Plautine.</head>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1283">Ce n'est pas tout, ma fille, un bonheur plus certain</l>
+
+	<l id="1284">Quoi qu'il puisse arriver, met l'empire en ta main.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1285">Flatteriez-vous Othon d'une vaine chimère ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1286">Non : tout ce que j'ai dit n'est qu'un rapport sincère,</l>
+
+	<l id="1287">Je crois te voir régner avec ce cher Othon,</l>
+
+	<l id="1288">Mais n'espère pas moins du côté de Pison.</l>
+
+	<l id="1289">Galba te donne à lui. Piqué contre Camille,</l>
+
+	<l id="1290">Dont l'amour a rendu son projet inutile,</l>
+
+	<l id="1291">Il veut que cet hymen, punissant ses refus</l>
+
+	<l id="1292">Réunisse avec moi Martian et Lacus,</l>
+
+	<l id="1293">Et trompe heureusement les présages sinistres</l>
+
+	<l id="1294">De la division qu'il voit en ses ministres.</l>
+
+	<l id="1295">Ainsi des deux côtés on combattra pour toi,</l>
+
+	<l id="1296">Le plus heureux des chefs t'apportera sa foi,</l>
+
+	<l id="1297">Sans part à ses périls tu l'auras à sa gloire,</l>
+
+	<l id="1298">Et verras à tes pieds l'une ou l'autre victoire.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1299">Quoi, mon coeur par vous-même à ce héros donné</l>
+
+	<l id="1300">Pourrait ne l'aimer plus s'il n'est point couronné,</l>
+
+	<l id="1301">Et s'il faut qu'à Pison son mauvais sort nous livre,</l>
+
+	<l id="1302">Pour ce même Pison je pourrais vouloir vivre ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1303">Si nos communs souhaits ont un contraire effet,</l>
+
+	<l id="1304">Tu te peux faire encor l'effort que tu t'es fait,</l>
+
+	<l id="1305">Et qui vient de donner Othon au diadème,</l>
+
+	<l id="1306">Pour régner à son tour peut se donner soi-même.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1307">Si pour le couronner j'ai fait un noble effort,</l>
+
+	<l id="1308">Dois-je en faire un honteux pour jouir de sa mort ?</l>
+
+	<l id="1309">Je me privais de lui sans me vendre à personne,</l>
+
+	<l id="1310">Et vous voulez, Seigneur, que son trépas me donne,</l>
+
+	<l id="1311">Que mon coeur entraîné par la splendeur du rang,</l>
+
+	<l id="1312">Vole après une main fumante de son sang,</l>
+
+	<l id="1313">Et que de ses malheurs triomphante et ravie</l>
+
+	<l id="1314">Je sois l'infâme prix d'avoir tranché sa vie !</l>
+
+	<l id="1315">Non, Seigneur, nous aurons même sort aujourd'hui,</l>
+
+	<l id="1316">Vous me verrez régner, ou périr avec lui,</l>
+
+	<l id="1317">Ce n'est qu'à l'un des deux que tout ce coeur aspire.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1318">Que tu vois mal encor ce que c'est que l'empire !</l>
+
+	<l id="1319">Si deux jours seulement tu pouvais l'essayer,</l>
+
+	<l id="1320">Tu ne croirais jamais le pouvoir trop payer,</l>
+
+	<l id="1321">Et tu verrais périr mille amants avec joie,</l>
+
+	<l id="1322">S'il fallait tout leur sang pour t'y faire une voie.</l>
+
+	<l id="1323">Aime Othon, si tu peux t'en faire un sûr appui,</l>
+
+	<l id="1324">Mais s'il en est besoin, aime-toi plus que lui,</l>
+
+	<l id="1325">Et sans t'inquiéter où fondra la tempête,</l>
+
+	<l id="1326">Laisse aux dieux à leur choix écraser une tête,</l>
+
+	<l id="1327">Prends le sceptre aux dépens de qui succombera,</l>
+
+	<l id="1328">Et règne sans scrupule avec qui régnera.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1329">Que votre politique a d'étranges maximes !</l>
+
+	<l id="1330">Mon amour, s'il l'osait, y trouverait des crimes.</l>
+
+	<l id="1331">Je sais aimer, Seigneur, je sais garder ma foi,</l>
+
+	<l id="1332">Je sais pour un amant faire ce que je dois,</l>
+
+	<l id="1333">Je sais à son bonheur m'offrir en sacrifice,</l>
+
+	<l id="1334">Et je saurai mourir si je vois qu'il périsse :</l>
+
+	<l id="1335">Mais je ne sais point l'art de forcer ma douleur</l>
+
+	<l id="1336">À pouvoir recueillir les fruits de son malheur.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1337">Tiens pourtant l'âme prête à le mettre en usage,</l>
+
+	<l id="1338">Change de sentiments, ou du moins de langage,</l>
+
+	<l id="1339">Et pour mettre d'accord ta fortune et ton coeur,</l>
+
+	<l id="1340">Souhaite pour l'amant, et te garde au vainqueur.</l>
+
+	<l id="1341">Adieu, je vois entrer la princesse Camille :</l>
+
+	<l id="1342">Quelque trouble où tu sois montre une âme tranquille,</l>
+
+	<l id="1343">Profite de sa faute, et tiens l'?il mieux ouvert</l>
+
+	<l id="1344">Au vif et doux éclat du trône qu'elle perd.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Camille, Plautine, Albiane.</head>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1345">Agréerez-vous, Madame, un fidèle service,</l>
+
+	<l id="1346">Dont je viens faire hommage à mon impératrice ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1347">Je crois n'avoir pas droit de vous en empêcher,</l>
+
+	<l id="1348">Mais ce n'est pas ici qu'il vous la faut chercher.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1349">Lorsque Galba vous donne à Pison pour épouse...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1350">Il n'est pas encor temps de vous en voir jalouse.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1351">Si j'aimais toutefois, ou l'empire, ou Pison,</l>
+
+	<l id="1352">Je pourrais déjà l'être avec quelque raison.</l></sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1353">Et si j'aimais, Madame, ou Pison ou l'empire,</l>
+
+	<l id="1354">J'aurais quelque raison de ne m'en pas dédire.</l>
+
+	<l id="1355">Mais votre exemple apprend aux coeurs comme le mien</l>
+
+	<l id="1356">Qu'un généreux mépris quelquefois leur sied bien.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1357">Quoi ? L'empire et Pison n'ont rien pour vous d'aimable ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1358">Ce que vous dédaignez je le tiens méprisable,</l>
+
+	<l id="1359">Ce qui plaît à vos yeux aux miens semble aussi doux,</l>
+
+	<l id="1360">Tant je trouve de gloire à me régler sur vous.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1361" part="i">Donc si j'aimais Othon...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1361" part="f">Je l'aimerais de même,</l>
+
+	<l id="1362">Si ma main avec moi donnait le diadème.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1363">Ne peut-on sans le trône être digne de lui ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1364">Je m'en rapporte à vous, qu'il aime d'aujourd'hui.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1365">Vous pouvez mieux qu'une autre en dire des nouvelles,</l>
+
+	<l id="1366">Et comme vos ardeurs ont été mutuelles,</l>
+
+	<l id="1367">Votre exemple ne laisse à personne à douter</l>
+
+	<l id="1368">Qu'à moins de la couronne on peut le mériter.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1369">Mon exemple ne laisse à douter à personne</l>
+
+	<l id="1370">Qu'il pourra vous quitter à moins de la couronne.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1371">Il a trouvé sans elle en vos yeux tant d'appas...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1372">Toutes les passions ne se ressemblent pas.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1373">En effet, vous avez un mérite si rare !</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1374">Mérite à part, l'amour est quelquefois bizarre,</l>
+
+	<l id="1375">Selon l'objet divers le goût est différent,</l>
+
+	<l id="1376">Aux unes on se donne, aux autres on se vend.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1377">Qui connaissait Othon pouvait à la pareille</l>
+
+	<l id="1378">M'en donner en amie un avis à l'oreille.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1379">Et qui l'estime assez pour l'élever si haut,</l>
+
+	<l id="1380">Peut quand il lui plaira m'apprendre ce qu'il vaut.</l>
+
+	<l id="1381">Afin que si mes feux ont ordre de renaître...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1382">J'en ai fait quelque estime avant que le connaître,</l>
+
+	<l id="1383">Et vous l'ai renvoyé dès que je l'ai connu.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1384">Qui vient de votre part est toujours bienvenu.</l>
+
+	<l id="1385">J'accepte le présent, et crois pouvoir sans honte</l>
+
+	<l id="1386">L'ayant de votre main en tenir quelque conte.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1387">Pour vous rendre son âme il vous est venu voir ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1388">Pour négliger votre ordre il sait trop son devoir.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1389">Il vous a tôt quittée, et son ingratitude...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1390">Vous met-elle, Madame, en quelque inquiétude ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1391">Non, mais j'aime à savoir comment on m'obéit.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1392">La curiosité quelquefois nous trahit,</l>
+
+	<l id="1393">Et par un demi-mot que du coeur elle tire</l>
+
+	<l id="1394">Souvent elle dit plus qu'elle ne pense dire.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1395">La mienne ne dit pas tout ce que vous pensez.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1396">Sur tout ce que je pense elle s'explique assez.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1397">Souvent trop d'intérêt que l'amour force à prendre</l>
+
+	<l id="1398">Entend plus qu'on ne dit et qu'on ne doit entendre.</l>
+
+	<l id="1399">Si vous saviez quel est mon plus ardent désir...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1400">D'Othon et de Pison je vous donne à choisir.</l>
+
+	<l id="1401">Mon peu d'ambition vous rend l'un avec joie,</l>
+
+	<l id="1402">Et pour l'autre, s'il faut que je vous le renvoie,</l>
+
+	<l id="1403">Mon amour, je l'avoue, en pourra murmurer,</l>
+
+	<l id="1404">Mais vous savez qu'au vôtre il aime à déférer.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1405">Je pourrai me passer de cette déférence.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1406">Sans doute, et toutefois si j'en crois l'apparence...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1407">Brisons-là, ce discours deviendrait ennuyeux.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1408">Martian que je vois vous entretiendra mieux.</l>
+
+	<l id="1409">Agréez ma retraite, et souffrez que j'évite</l>
+
+	<l id="1410">Un esclave insolent de qui l'amour m'irrite.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Camille, Martian, Albiane.</head>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1411">À ce qu'elle me dit, Martian, vous l'aimez ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1412">Malgré ses fiers mépris mes yeux en sont charmés.</l>
+
+	<l id="1413">Cependant pour l'empire, il est à vous encore,</l>
+
+	<l id="1414">Galba s'est laissé vaincre, et Pison vous adore.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1415">De votre haut crédit c'est donc un pur effet ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1416">Ne désavouez point ce que mon zèle a fait.</l>
+
+	<l id="1417">Mes soins de l'empereur ont fléchi la colère,</l>
+
+	<l id="1418">Et renvoyé Plautine obéir chez son père.</l>
+
+	<l id="1419">Notre nouveau César la voulait épouser,</l>
+
+	<l id="1420">Mais j'ai su le résoudre à s'en désabuser.</l>
+
+	<l id="1421">Et Galba, que le sang presse pour sa famille</l>
+
+	<l id="1422">Permet à Vinius de mettre ailleurs sa fille,</l>
+
+	<l id="1423">L'un vous rend la couronne, et l'autre tout son coeur.</l>
+
+	<l id="1424">Voyez mieux quelle en est la gloire et la douceur,</l>
+
+	<l id="1425">Quelle félicité vous vous étiez ôtée</l>
+
+	<l id="1426">Par une aversion un peu précipitée...</l>
+
+	<l id="1427">Et pour vos intérêts daignez considérer...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1428">Je vois quelle est ma faute, et puis la réparer,</l>
+
+	<l id="1429">Mais je veux, car jamais on ne m'a vue ingrate,</l>
+
+	<l id="1430">Que ma reconnaissance auparavant éclate,</l>
+
+	<l id="1431">Et n'accorderai rien qu'on ne vous fasse heureux.</l>
+
+	<l id="1432">Vous aimez, dites-vous, cet objet rigoureux,</l>
+
+	<l id="1433">Et Pison dans sa main ne verra point la mienne,</l>
+
+	<l id="1434">Qu'il n'ait réduit Plautine à vous donner la sienne,</l>
+
+	<l id="1435">Si pourtant le mépris qu'elle fait de vos feux</l>
+
+	<l id="1436">Ne vous a pu contraindre à former d'autres voeux.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1437">Ah ! Madame, l'hymen a de si douces chaînes,</l>
+
+	<l id="1438">Qu'il lui faut peu de temps pour calmer bien des haines,</l>
+
+	<l id="1439">Et du moins mon bonheur saurait avec éclat</l>
+
+	<l id="1440">Vous venger de Plautine, et punir un ingrat.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1441">Je l'avais préféré, cet ingrat, à l'empire,</l>
+
+	<l id="1442">Je l'ai dit, et trop haut pour m'en pouvoir dédire,</l>
+
+	<l id="1443">Et l'amour qui m'apprend le faible des amants</l>
+
+	<l id="1444">Unit vos plus doux voeux à mes ressentiments,</l>
+
+	<l id="1445">Pour me faire ébaucher ma vengeance en Plautine,</l>
+
+	<l id="1446">Et l'achever bientôt par sa propre ruine.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1447">Ah ! Si vous la voulez, je sais des bras tous prêts,</l>
+
+	<l id="1448">Et j'ai tant de chaleur pour tous vos intérêts...</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1449">Ah, que c'est me donner une sensible joie !</l>
+
+	<l id="1450">Ces bras que vous m'offrez faites que je les voie,</l>
+
+	<l id="1451">Que je leur donne l'ordre et prescrive le temps.</l>
+
+	<l id="1452">Je veux qu'aux yeux d'Othon vos désirs soient contents,</l>
+
+	<l id="1453">Que lui-même il ait vu l'hymen de sa maîtresse</l>
+
+	<l id="1454">Livrer entre vos bras l'objet de sa tendresse,</l>
+
+	<l id="1455">Qu'il ait ce désespoir avant que de mourir :</l>
+
+	<l id="1456">Après, à son trépas vous me verrez courir ;</l>
+
+	<l id="1457">Jusque-là gardez-vous de rien faire entreprendre.</l>
+
+	<l id="1458">Du pouvoir qu'on me rend vous devez tout attendre.</l>
+
+	<l id="1459">Allez vous préparer à ces heureux moments,</l>
+
+	<l id="1460">Mais n'exécutez rien sans mes commandements.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI. Camille, Albiane.</head>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="1461">Vous voulez perdre Othon ! Vous le pouvez, madame !</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1462">Que tu pénètres mal dans le fond de mon âme !</l>
+
+	<l id="1463">De son lâche rival voyant le noir projet</l>
+
+	<l id="1464">J'ai su par cette adresse en arrêter l'effet,</l>
+
+	<l id="1465">M'en rendre la maîtresse, et je serai ravie</l>
+
+	<l id="1466">S'il peut savoir les soins que je prends de sa vie.</l>
+
+	<l id="1467">Va me chercher ton frère, et fais que de ma part</l>
+
+	<l id="1468">Il apprenne par lui ce qu'il court de hasard,</l>
+
+	<l id="1469">À quoi va l'exposer son aveugle conduite,</l>
+
+	<l id="1470">Et qu'il n'est plus pour lui de salut qu'en la fuite.</l>
+
+	<l id="1471">C'est tout ce qu'à l'amour peut souffrir mon courroux.</l>
+
+</sp>
+
+<sp who="ALBIANE"><speaker>ALBIANE</speaker>
+
+	<l id="1472">Du courroux à l'amour le retour serait doux.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="7"><head>SCÈNE VII. Camille, Rutile, Albiane.</head>
+
+<sp who="RUTILE"><speaker>RUTILE</speaker>
+
+	<l id="1473">Ah ! Madame, apprenez quel malheur nous menace.</l>
+
+	<l id="1474">Quinze ou vingt révoltés au milieu de la place</l>
+
+	<l id="1475">Viennent de proclamer Othon pour empereur.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1476">Et de leur insolence Othon n'a point d'horreur,</l>
+
+	<l id="1477">Lui qui sait qu'aussitôt ces tumultes avortent ?</l>
+
+</sp>
+
+<sp who="RUTILE"><speaker>RUTILE</speaker>
+
+	<l id="1478">Ils le mènent au camp, ou plutôt ils l'y portent,</l>
+
+	<l id="1479">Et ce qu'on voit de peuple autour d'eux s'amasser</l>
+
+	<l id="1480">Frémit de leur audace, et les laisse passer.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1481" part="i">L'empereur le sait-il ?</l>
+
+</sp>
+
+<sp who="RUTILE"><speaker>RUTILE</speaker>
+
+	<l id="1481" part="f">Oui, Madame, il vous mande,</l>
+
+	<l id="1482">Et pour un prompt remède à ce qu'on appréhende,</l>
+
+	<l id="1483">Pison de ces mutins va courir sur les pas</l>
+
+	<l id="1484">Avec ce qu'on pourra lui trouver de soldats.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1485">Puisque Othon veut périr, consentons qu'il périsse,</l>
+
+	<l id="1486">Allons presser Galba pour son juste supplice.</l>
+
+	<l id="1487">Du courroux à l'amour si le retour est doux,</l>
+
+	<l id="1488">On repasse aisément de l'amour au courroux.</l></sp>
+
+</div2>
+
+</div1>
+
+<div1 type="acte" n="5"><head>ACTE V</head>
+
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Galba, Camille, Rutile, Albiane.</head>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1489">Je vous le dis encor, redoutez ma vengeance,</l>
+
+	<l id="1490">Pour peu que vous soyez de son intelligence.</l>
+
+	<l id="1491">On ne pardonne point en matière d'État,</l>
+
+	<l id="1492">Plus on chérit la main, plus on hait l'attentat,</l>
+
+	<l id="1493">Et lorsque la fureur va jusqu'au sacrilège,</l>
+
+	<l id="1494">Le sexe ni le sang n'ont point de privilège.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1495">Cet indigne soupçon serait bientôt détruit,</l>
+
+	<l id="1496">Si vous voyiez du crime où doit aller le fruit.</l>
+
+	<l id="1497">Othon, qui pour Plautine au fond du coeur soupire,</l>
+
+	<l id="1498">Othon, qui me dédaigne à moins que de l'empire,</l>
+
+	<l id="1499">S'il en fait sa conquête et vous peut détrôner,</l>
+
+	<l id="1500">Laquelle de nous deux voudra-t-il couronner ?</l>
+
+	<l id="1501">Pourrais-je de Pison conspirer la ruine,</l>
+
+	<l id="1502">Qui m'arrachant du trône y porterait Plautine ?</l>
+
+	<l id="1503">Croyez mes intérêts si vous doutez de moi,</l>
+
+	<l id="1504">Et sur de tels garants assuré de ma foi,</l>
+
+	<l id="1505">Tournez sur Vinius toute la défiance</l>
+
+	<l id="1506">Dont veut ternir ma gloire une injuste croyance.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1507">Vinius par son zèle est trop justifié,</l>
+
+	<l id="1508">Voyez ce qu'en un jour il m'a sacrifié.</l>
+
+	<l id="1509">Il m'offre Othon pour vous qu'il souhaitait pour gendre,</l>
+
+	<l id="1510">Je le rends à sa fille, il aime à le reprendre,</l>
+
+	<l id="1511">Je la veux pour Pison, mon vouloir est suivi,</l>
+
+	<l id="1512">Je vous mets en sa place, et l'en trouve ravi,</l>
+
+	<l id="1513">Son ami se révolte, il presse ma colère,</l>
+
+	<l id="1514">Il donne à Martian Plautine à ma prière,</l>
+
+	<l id="1515">Et je soupçonnerais un crime dans les voeux</l>
+
+	<l id="1516">D'un homme qui s'attache à tout ce que je veux ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1517">Qui veut également tout ce qu'on lui propose</l>
+
+	<l id="1518">Dans le secret du coeur souvent veut autre chose,</l>
+
+	<l id="1519">Et maître de son âme il n'a point d'autre foi,</l>
+
+	<l id="1520">Que celle qu'en soi-même il ne donne qu'à soi.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1521">Cet hymen toutefois est l'épreuve dernière</l>
+
+	<l id="1522">D'une foi toujours pure, inviolable, entière.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1523">Vous verrez à l'effet comment elle agira,</l>
+
+	<l id="1524">Seigneur, et comme enfin Plautine obéira.</l>
+
+	<l id="1525">Sûr de sa résistance, et se flattant peut-être</l>
+
+	<l id="1526">De voir bientôt ici son cher Othon le maître,</l>
+
+	<l id="1527">Dans l'état où pour vous il a mis l'avenir,</l>
+
+	<l id="1528">Il promet aisément plus qu'il ne veut tenir.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1529">Le devoir désunit l'amitié la plus forte,</l>
+
+	<l id="1530">Mais l'amour aisément sur ce devoir l'emporte,</l>
+
+	<l id="1531">Et son feu qui jamais ne s'éteint qu'à demi,</l>
+
+	<l id="1532">Intéresse une amante autrement qu'un ami.</l>
+
+	<l id="1533">J'aperçois Vinius. Qu'on m'amène sa fille.</l>
+
+	<l id="1534">J'en punirai le crime en toute la famille,</l>
+
+	<l id="1535">Si jamais je puis voir par où n'en point douter ;</l>
+
+	<l id="1536">Mais aussi jusque-là j'aurais tort d'éclater.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="2"><head>SCÈNE II. Galba, Camille, Lacus, Vinius, Albiane.</head>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1537">Je vois d'ailleurs Lacus. Eh bien, Quelles nouvelles ?</l>
+
+	<l id="1538">Qu'apprenez-vous tous deux du camp de nos rebelles ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1539">Que ceux de la marine et les Illyriens</l>
+
+	<l id="1540">Se sont avec chaleur joints aux prétoriens,</l>
+
+	<l id="1541">Et que des bords du Nil les troupes rappelées</l>
+
+	<l id="1542">Seules par leurs fureurs ne sont point ébranlées.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="1543">Tous ces mutins ne sont que de simples soldats,</l>
+
+	<l id="1544">Aucun des chefs ne trempe en leurs vains attentats :</l>
+
+	<l id="1545">Ainsi ne craignez rien d'une masse d'armée</l>
+
+	<l id="1546">Où déjà la discorde est peut-être allumée.</l>
+
+	<l id="1547">Sitôt qu'on y saura que le peuple à grands cris</l>
+
+	<l id="1548">Veut que de ces complots les auteurs soient proscrits,</l>
+
+	<l id="1549">Que du perfide Othon il demande la tête,</l>
+
+	<l id="1550">La consternation calmera la tempête,</l>
+
+	<l id="1551">Et vous n'avez, Seigneur, qu'à vous y faire voir</l>
+
+	<l id="1552">Pour rendre d'un coup d'?il chacun à son devoir.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1553">Irons-nous, Vinius, hâter par ma présence</l>
+
+	<l id="1554">L'effet d'une si douce et si juste espérance ?</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1555">Ne hasardez, Seigneur, que dans l'extrémité</l>
+
+	<l id="1556">Le redoutable effet de votre autorité.</l>
+
+	<l id="1557">Alors qu'il réussit, tout fait jour, tout lui cède,</l>
+
+	<l id="1558">Mais aussi quand il manque, il n'est plus de remède.</l>
+
+	<l id="1559">Il faut, pour déployer le souverain pouvoir,</l>
+
+	<l id="1560">Sûreté toute entière, ou profond désespoir ;</l>
+
+	<l id="1561">Et nous ne sommes pas, Seigneur, à ne rien feindre,</l>
+
+	<l id="1562">En état d'oser tout, non plus que de tout craindre.</l>
+
+	<l id="1563">Si l'on court au grand crime avec avidité,</l>
+
+	<l id="1564">Laissez-en ralentir l'impétuosité,</l>
+
+	<l id="1565">D'elle-même elle avorte, et la peur des supplices</l>
+
+	<l id="1566">Arme contre le chef ses plus zélés complices,</l>
+
+	<l id="1567">Un salutaire avis agit avec lenteur.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="1568">Un véritable prince agit avec hauteur,</l>
+
+	<l id="1569">Et je ne conçois point cet avis salutaire,</l>
+
+	<l id="1570">Quand on couronne Othon, de le regarder faire.</l>
+
+	<l id="1571">Si l'on court au grand crime avec avidité,</l>
+
+	<l id="1572">Il en faut réprimer l'impétuosité,</l>
+
+	<l id="1573">Avant que les esprits qu'un juste effroi balance</l>
+
+	<l id="1574">S'y puissent enhardir sur notre nonchalance,</l>
+
+	<l id="1575">Et prennent le dessus de ces conseils prudents,</l>
+
+	<l id="1576">Dont on cherche l'effet quand il n'en est plus temps.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1577">Vous détruirez toujours mes conseils par les vôtres ;</l>
+
+	<l id="1578">Le seul ton de ma voix vous en inspire d'autres,</l>
+
+	<l id="1579">Et tant que vous aurez ce rare et haut crédit</l>
+
+	<l id="1580">Je n'aurai qu'à parler pour être contredit.</l>
+
+	<l id="1581">Pison, dont l'heureux choix est votre digne ouvrage,</l>
+
+	<l id="1582">Ne serait que Pison s'il eût eu mon suffrage :</l>
+
+	<l id="1583">Vous n'avez soulevé Martian contre Othon</l>
+
+	<l id="1584">Que parce que ma bouche a proféré son nom,</l>
+
+	<l id="1585">Et verriez comme un autre une preuve assez claire</l>
+
+	<l id="1586">De combien votre avis est le plus salutaire,</l>
+
+	<l id="1587">Si vous n'aviez fait voeu d'être jusqu'au trépas</l>
+
+	<l id="1588">L'ennemi des conseils que vous ne donnez pas.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="1589">Et vous l'ami d'Othon, c'est tout dire, et peut-être</l>
+
+	<l id="1590">Qui le voulait pour gendre, et l'a choisi pour maître,</l>
+
+	<l id="1591">Ne fait encor de voeux qu'en faveur de ce choix,</l>
+
+	<l id="1592">Pour l'avoir et pour maître et pour gendre à la fois.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1593">J'étais l'ami d'Othon, et le tenais à gloire</l>
+
+	<l id="1594">Jusqu'à l'indignité d'une action si noire,</l>
+
+	<l id="1595">Que d'autres nommeront l'effet du désespoir</l>
+
+	<l id="1596">Où l'a, malgré mes soins, plongé votre pouvoir.</l>
+
+	<l id="1597">Je l'ai voulu pour gendre, et choisi pour l'empire ;</l>
+
+	<l id="1598">À l'un ni l'autre choix vous n'avez pu souscrire ;</l>
+
+	<l id="1599">Par là de tout l'état le bonheur s'agrandit,</l>
+
+	<l id="1600">Et vous voyez aussi comme il vous applaudit.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1601">Qu'un prince est malheureux quand de ceux qu'il écoute</l>
+
+	<l id="1602">Le zèle cherche à prendre une diverse route,</l>
+
+	<l id="1603">Et que l'attachement qu'ils ont au propre sens</l>
+
+	<l id="1604">Pousse jusqu'à l'aigreur des conseils différents !</l>
+
+	<l id="1605">Ne me trompé-je point, et puis-je nommer zèle</l>
+
+	<l id="1606">Cette haine à tous deux obstinément fidèle,</l>
+
+	<l id="1607">Qui peut-être en dépit des maux qu'elle prévoit</l>
+
+	<l id="1608">Seule en mes intérêts se consulte et se croit ?</l>
+
+	<l id="1609">Faites mieux, et croyez en ce péril extrême,</l>
+
+	<l id="1610">Vous, que Lacus me sert, vous, que Vinius m'aime,</l>
+
+	<l id="1611">Ne haïssez qu'Othon, et songez qu'aujourd'hui</l>
+
+	<l id="1612">Vous n'avez à parler tous deux que contre lui.</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1613">J'ose donc vous redire, en serviteur sincère</l>
+
+	<l id="1614">Qu'il fait mauvais pousser tant de gens en colère,</l>
+
+	<l id="1615">Qu'il faut donner aux bons pour s'entre-soutenir</l>
+
+	<l id="1616">Le temps de se remettre et de se réunir,</l>
+
+	<l id="1617">Et laisser aux méchants celui de reconnaître</l>
+
+	<l id="1618">Quelle est l'impiété de se prendre à son maître.</l>
+
+	<l id="1619">Pison peut cependant amuser leur fureur,</l>
+
+	<l id="1620">De vos ressentiments leur donner la terreur,</l>
+
+	<l id="1621">Y joindre avec adresse un espoir de clémence</l>
+
+	<l id="1622">Au moindre repentir d'une telle insolence,</l>
+
+	<l id="1623">Et s'il vous faut enfin aller à son secours,</l>
+
+	<l id="1624">Ce qu'on veut à présent on le pourra toujours.</l>
+
+</sp>
+
+<sp who="LACUS"><speaker>LACUS</speaker>
+
+	<l id="1625">J'en doute, et crois parler en serviteur sincère,</l>
+
+	<l id="1626">Moi qui n'ai point d'amis dans le parti contraire.</l>
+
+	<l id="1627">Attendrons-nous, Seigneur, que Pison repoussé</l>
+
+	<l id="1628">Nous vienne ensevelir sous l'état renversé,</l>
+
+	<l id="1629">Qu'on descende en la place en bataille rangée,</l>
+
+	<l id="1630">Qu'on tienne en ce palais votre cour assiégée,</l>
+
+	<l id="1631">Que jusqu'au Capitole Othon aille à vos yeux</l>
+
+	<l id="1632">De l'empire usurpé rendre grâces aux dieux,</l>
+
+	<l id="1633">Et que le front paré de votre diadème</l>
+
+	<l id="1634">Ce traître trop heureux ordonne de vous-même ?</l>
+
+	<l id="1635">Allons, allons, Seigneur, les armes à la main</l>
+
+	<l id="1636">Soutenir le sénat et le peuple romain ;</l>
+
+	<l id="1637">Cherchons aux yeux d'Othon un trépas à leur tête,</l>
+
+	<l id="1638">Pour lui plus odieux, et pour nous plus honnête.</l>
+
+	<l id="1639">Et par un noble effort allons lui témoigner...</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1640">Eh bien, ma nièce, eh bien, est-il doux de régner ?</l>
+
+	<l id="1641">Est-il doux de tenir le timon d'un empire,</l>
+
+	<l id="1642">Pour en voir les soutiens toujours se contredire ?</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1643">Plus on voit aux avis de contrariétés,</l>
+
+	<l id="1644">Plus à faire un bon choix on reçoit de clartés.</l>
+
+	<l id="1645">C'est ce que je dirais si je n'étais suspecte :</l>
+
+	<l id="1646">Mais je suis à Pison, Seigneur, et vous respecte,</l>
+
+	<l id="1647">Et ne puis toutefois retenir ces deux mots,</l>
+
+	<l id="1648">Que si l'on m'avait crue on serait en repos.</l>
+
+	<l id="1649">Plautine qu'on amène aura même pensée.</l>
+
+	<l id="1650">D'une vive douleur elle paraît blessée...</l></sp>
+
+</div2>
+
+<div2 type="scene" n="3"><head>SCÈNE III. Galba, Camille, Vinius, Lacus, Plautine, Rutile, Albiane.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1651">Je ne m'en défends point, Madame, Othon est mort,</l>
+
+	<l id="1652">De quiconque entre ici c'est le commun rapport,</l>
+
+	<l id="1653">Et son trépas pour vous n'aura pas tant de charmes</l>
+
+	<l id="1654">Qu'à vos yeux comme aux miens il n'en coûte des larmes.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1655">Dit-elle vrai, Rutile, ou m'en flatté-je en vain ?</l>
+
+</sp>
+
+<sp who="RUTILE"><speaker>RUTILE</speaker>
+
+	<l id="1656">Seigneur, le bruit est grand, et l'auteur incertain.</l>
+
+	<l id="1657">Tous veulent qu'il soit mort, et c'est la voix publique,</l>
+
+	<l id="1658">Mais comment et par qui, c'est ce qu'aucun n'explique.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1659">Allez, allez, Lacus, vous-même prendre soin</l>
+
+	<l id="1660">De nous en faire voir un assuré témoin,</l>
+
+	<l id="1661">Et si de ce grand coup l'auteur se peut connaître...</l></sp>
+
+</div2>
+
+<div2 type="scene" n="4"><head>SCÈNE IV. Martian, Galba, Atticus, Vinius, Camille.</head>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1662">Qu'on ne le cherche plus, vous le voyez paraître,</l>
+
+	<l id="1663">Seigneur, c'est par sa main qu'un rebelle puni...</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1664">Par celle d'Atticus ce grand trouble a fini !</l>
+
+</sp>
+
+<sp who="ATTICUS"><speaker>ATTICUS</speaker>
+
+	<l id="1665">Mon zèle l'a poussée, et les dieux l'ont conduite,</l>
+
+	<l id="1666">Et c'est à vous, Seigneur, d'en arrêter la suite,</l>
+
+	<l id="1667">D'empêcher le désordre, et borner les rigueurs</l>
+
+	<l id="1668">Où contre des vaincus s'emportent des vainqueurs.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1669">Courons-y. Cependant consolez-vous, Plautine,</l>
+
+	<l id="1670">Ne pensez qu'à l'époux que mon choix vous destine.</l>
+
+	<l id="1671">Vinius vous le donne, et vous l'accepterez</l>
+
+	<l id="1672">Quand vos premiers soupirs seront évaporés.</l>
+
+	<l id="1673">C'est à vous, Martian, que je la laisse en garde :</l>
+
+	<l id="1674">Comme c'est votre main que son hymen regarde,</l>
+
+	<l id="1675">Ménagez son esprit, et ne l'aigrissez pas,</l>
+
+	<l id="1676">Vous pouvez, Vinius, ne suivre point mes pas,</l>
+
+	<l id="1677">Et la vieille amitié pour peu qu'il vous en reste...</l>
+
+</sp>
+
+<sp who="VINIUS"><speaker>VINIUS</speaker>
+
+	<l id="1678">Ah, c'est une amitié, Seigneur, que je déteste,</l>
+
+	<l id="1679">Mon coeur est tout à vous, et n'a point eu d'amis,</l>
+
+	<l id="1680">Qu'autant qu'on les a vus à vos ordres soumis.</l>
+
+</sp>
+
+<sp who="GALBA"><speaker>GALBA</speaker>
+
+	<l id="1681">Suivez, mais gardez-vous de trop de complaisance.</l>
+
+</sp>
+
+<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+
+	<l id="1682">L'entretien des amants hait toute autre présence,</l>
+
+	<l id="1683">Madame, et je retourne en mon appartement</l>
+
+	<l id="1684">Rendre grâces aux dieux d'un tel événement.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="5"><head>SCÈNE V. Martian, Plautine, Atticus, Soldats.</head>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1685">Allez-y renfermer des pleurs qui vous échappent.</l>
+
+	<l id="1686">Les désastres d'Othon ainsi que moi vous frappent,</l>
+
+	<l id="1687">Et si l'on avait cru vos souhaits les plus doux,</l>
+
+	<l id="1688">Ce grand jour le verrait couronner avec vous.</l>
+
+	<l id="1689">Voilà, voilà le fruit de m'avoir trop aimée,</l>
+
+	<l id="1690" part="i">Voilà quel est l'effet...</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1690" part="f">Si votre âme enflammée...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1691">Vil esclave, est-ce à toi de troubler ma douleur ?</l>
+
+	<l id="1692">Est-ce à toi de vouloir adoucir mon malheur ?</l>
+
+	<l id="1693">À toi de qui l'amour m'ose en offrir un pire ?</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1694">Il est juste d'abord qu'un si grand coeur soupire,</l>
+
+	<l id="1695">Mais il est juste aussi de ne pas trop pleurer</l>
+
+	<l id="1696">Une perte facile et prête à réparer.</l>
+
+	<l id="1697">Il est temps qu'un sujet à son prince fidèle</l>
+
+	<l id="1698">Remplisse heureusement la place d'un rebelle ;</l>
+
+	<l id="1699">Un monarque le veut, un père en est d'accord,</l>
+
+	<l id="1700">Vous devez pour tous deux vous faire un peu d'effort,</l>
+
+	<l id="1701">Et bannir de ce coeur la honteuse mémoire</l>
+
+	<l id="1702">D'un amour criminel qui souille votre gloire.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1703">Lâche, Tu ne vaux pas que pour te démentir</l>
+
+	<l id="1704">Je daigne m'abaisser jusqu'à te repartir.</l>
+
+	<l id="1705">Tais-toi, laisse en repos une âme possédée</l>
+
+	<l id="1706">D'une plus agréable encor que triste idée,</l>
+
+	<l id="1707" part="i">N'interromps plus mes pleurs.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1707" part="f">Tournez vers moi les yeux.</l>
+
+	<l id="1708">Après la mort d'Othon que pouvez-vous de mieux ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE, cependant que deux soldats entrent et parlent à Atticus à l'oreille.</speaker>
+
+	<l id="1709">Quelque insolent espoir qu'ait ta folle arrogance,</l>
+
+	<l id="1710">Apprends que j'en saurai punir l'extravagance,</l>
+
+	<l id="1711">Et percer de ma main ou ton coeur ou le mien,</l>
+
+	<l id="1712">Plutôt que de souffrir cet infâme lien.</l>
+
+	<l id="1713" part="i">Connais-toi, si tu peux, ou connais-moi.</l>
+
+</sp>
+
+<sp who="ATTICUS"><speaker>ATTICUS</speaker>
+
+	<l id="1713" part="f">De grâce,</l>
+
+	<l id="1714" part="i">Souffrez...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1714" part="f">De me parler tu prends aussi l'audace,</l>
+
+	<l id="1715">Assassin d'un héros, que je verrais sans toi</l>
+
+	<l id="1716">Donner des lois au monde et les prendre de moi ?</l>
+
+	<l id="1717">Toi, dont la main sanglante au désespoir me livre ?</l>
+
+</sp>
+
+<sp who="ATTICUS"><speaker>ATTICUS</speaker>
+
+	<l id="1718">Si vous aimez Othon, Madame, il va revivre,</l>
+
+	<l id="1719">Et vous verrez longtemps sa vie en sûreté,</l>
+
+	<l id="1720">S'il ne meurt que des coups dont je me suis vanté.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1721" part="i">Othon vivrait encore !</l>
+
+</sp>
+
+<sp who="ATTICUS"><speaker>ATTICUS</speaker>
+
+	<l id="1721" part="f">Il triomphe, Madame,</l>
+
+	<l id="1722">Et maître de l'état comme vous de son âme,</l>
+
+	<l id="1723">Vous l'allez bientôt voir lui-même à vos genoux</l>
+
+	<l id="1724">Vous faire offre d'un sort qu'il n'aime que pour vous,</l>
+
+	<l id="1725">Et dont sa passion dédaignerait la gloire,</l>
+
+	<l id="1726">Si vous ne vous faisiez le prix de sa victoire.</l>
+
+	<l id="1727">L'armée à son mérite enfin a fait raison,</l>
+
+	<l id="1728">On porte devant lui la tête de Pison ;</l>
+
+	<l id="1729">Et Camille tient mal ce qu'elle vient de dire,</l>
+
+	<l id="1730">Ou rend grâces pour vous aux dieux d'un autre empire,</l>
+
+	<l id="1731">Et fatigue le ciel par des voeux superflus</l>
+
+	<l id="1732">En faveur d'un parti qu'il ne regarde plus.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1733">Exécrable, ainsi donc ta promesse frivole...</l>
+
+</sp>
+
+<sp who="ATTICUS"><speaker>ATTICUS</speaker>
+
+	<l id="1734">Qui promet de trahir peut manquer de parole.</l>
+
+	<l id="1735">Si je n'eusse promis ce lâche assassinat,</l>
+
+	<l id="1736">Un autre par ton ordre eût commis l'attentat,</l>
+
+	<l id="1737">Et tout ce que j'ai dit n'était qu'un stratagème</l>
+
+	<l id="1738">Pour livrer en ses mains Lacus, et Galba même.</l>
+
+	<l id="1739">Galba n'a rien à craindre, on respecte son nom,</l>
+
+	<l id="1740">Et ce n'est que sous lui que veut régner Othon.</l>
+
+	<l id="1741">Quant à Lacus et toi, je vois peu d'apparence</l>
+
+	<l id="1742">Que vos jours à tous deux soient en même assurance,</l>
+
+	<l id="1743">Si ce n'est que madame ait assez de bonté</l>
+
+	<l id="1744">Pour fléchir un vainqueur justement irrité.</l>
+
+	<l id="1745">Autour de ce palais nous avions deux cohortes</l>
+
+	<l id="1746">Qui déjà pour Othon en ont saisi les portes,</l>
+
+	<l id="1747">J'y commande, Madame, et mon ordre aujourd'hui</l>
+
+	<l id="1748">Est de vous obéir, et m'assurer de lui.</l>
+
+	<l id="1749">Qu'on l'emmène, Soldats, il blesse ici la vue.</l>
+
+</sp>
+
+<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+
+	<l id="1750">Fut-il jamais disgrâce, ô dieux, plus imprévue !</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE, seule.</speaker>
+
+	<l id="1751">Je me trouble, et ne sais par quel pressentiment</l>
+
+	<l id="1752">Mon coeur n'ose goûter ce bonheur pleinement,</l>
+
+	<l id="1753">Il semble avec chagrin se livrer à la joie,</l>
+
+	<l id="1754">Et bien qu'en ses douceurs mon déplaisir se noie,</l>
+
+	<l id="1755">Je ne passe de l'une à l'autre extrémité</l>
+
+	<l id="1756">Qu'avec un reste obscur d'esprit inquiété.</l>
+
+	<l id="1757">Je sens... Mais que me veut Flavie épouvantée !</l></sp>
+
+</div2>
+
+<div2 type="scene" n="6"><head>SCÈNE VI. Plautine, Flavie.</head>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1758">Vous dire que du ciel la colère irritée,</l>
+
+	<l id="1759">Ou plutôt du destin la jalouse fureur...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1760">Auraient-ils mis Othon aux fers de l'empereur,</l>
+
+	<l id="1761">Et dans ce grand succès la fortune inconstante</l>
+
+	<l id="1762">Aurait-elle trompé notre plus douce attente ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1763">Othon est libre, il règne, et toutefois, hélas...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1764">Serait-il si blessé qu'on craignît son trépas ?</l>
+
+</sp>
+
+<sp who="FL6AO"><speaker>FLAVIE</speaker>
+
+	<l id="1765">Non, partout à sa vue on a mis bas les armes,</l>
+
+	<l id="1766">Mais enfin son bonheur vous va coûter des larmes.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1767">Explique, explique donc ce que je dois pleurer.</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1768">Vous voyez que je tremble à vous le déclarer.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1769" part="i">Le mal est-il si grand ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1769" part="f">D'un balcon, chez mon frère</l>
+
+	<l id="1770">J'ai vu... Que ne peut-on, madame, vous le taire,</l>
+
+	<l id="1771">Ou qu'à voir ma douleur n'avez-vous deviné</l>
+
+	<l id="1772" part="i">Que Vinius...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1772" part="m">Eh bien ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1772" part="f">Vient d'être assassiné.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1773" part="i">Juste ciel !</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1773" part="f">De Lacus l'inimitié cruelle...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1774">Ô d'un trouble inconnu présage trop fidèle !</l>
+
+	<l id="1775" part="i">Lacus...</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1775" part="f">C'est de sa main que part ce coup fatal.</l>
+
+	<l id="1776">Tous deux près de Galba marchaient d'un pas égal,</l>
+
+	<l id="1777">Lorsque tournant ensemble à la première rue</l>
+
+	<l id="1778">Ils découvrent Othon maître de l'avenue ;</l>
+
+	<l id="1779">Cet effroi ne les fait reculer quelques pas</l>
+
+	<l id="1780">Que pour voir ce palais saisi par vos soldats,</l>
+
+	<l id="1781">Et Lacus aussitôt étincelant de rage</l>
+
+	<l id="1782">De voir qu'Othon partout leur ferme le passage,</l>
+
+	<l id="1783">Lance sur Vinius un furieux regard,</l>
+
+	<l id="1784">L'approche sans parler, et tirant un poignard...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1785">Le traître, hélas, Flavie, où me vois-je réduite ?</l>
+
+</sp>
+
+<sp who="FLAVIE"><speaker>FLAVIE</speaker>
+
+	<l id="1786">Vous m'entendez, Madame ; et je passe à la suite.</l>
+
+	<l id="1787">Ce lâche sur Galba portant même fureur,</l>
+
+	<l id="1788">"Mourez, Seigneur, dit-il, mais mourez empereur,</l>
+
+	<l id="1789">Et recevez ce coup comme un dernier hommage,</l>
+
+	<l id="1790">Que doit à votre gloire un généreux courage."</l>
+
+	<l id="1791">Galba tombe, et ce monstre enfin s'ouvrant le flanc</l>
+
+	<l id="1792">Mêle un sang détestable à leur illustre sang.</l>
+
+	<l id="1793">En vain le triste Othon, à cet affreux spectacle</l>
+
+	<l id="1794">Précipite ses pas pour y mettre un obstacle,</l>
+
+	<l id="1795">Tout ce que peut l'effort de cher conquérant,</l>
+
+	<l id="1796">C'est de verser des pleurs sur Vinius mourant,</l>
+
+	<l id="1797">De l'embrasser tout mort. Mais le voilà, Madame,</l>
+
+	<l id="1798">Qui vous fera mieux voir les troubles de son âme.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="7"><head>SCÈNE VII. Othon, Plautine, Flavie.</head>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1799">Madame, savez-vous les crimes de Lacus ?</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1800">J'apprends en ce moment que mon père n'est plus.</l>
+
+	<l id="1801">Fuyez, Seigneur, fuyez un objet de tristesse,</l>
+
+	<l id="1802">D'un jour si beau pour vous goûtez mieux l'allégresse,</l>
+
+	<l id="1803">Vous êtes empereur, épargnez-vous l'ennui</l>
+
+	<l id="1804" part="i">De voir qu'un père...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1804" part="f">Hélas, je suis plus mort que lui,</l>
+
+	<l id="1805">Et si votre bonté ne me rend une vie</l>
+
+	<l id="1806">Qu'en lui perçant le coeur un traître m'a ravie,</l>
+
+	<l id="1807">Je ne reviens ici qu'en malheureux amant</l>
+
+	<l id="1808">Faire hommage à vos yeux de mon dernier moment.</l>
+
+	<l id="1809">Mon amour pour vous seule a cherché la victoire,</l>
+
+	<l id="1810">Ce même amour sans vous n'en peut souffrir la gloire,</l>
+
+	<l id="1811">Et n'accepte le nom de maître des Romains,</l>
+
+	<l id="1812">Que pour mettre avec moi l'univers en vos mains.</l>
+
+	<l id="1813">C'est à vous d'ordonner ce qui lui reste à faire.</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1814">C'est à moi de gémir, et de pleurer mon père,</l>
+
+	<l id="1815">Non que je vous impute en ma vive douleur</l>
+
+	<l id="1816">Les crimes de Lacus et de notre malheur,</l>
+
+	<l id="1817" part="i">Mais enfin...</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1817" part="f">Achevez, s'il se peut, en amante,</l>
+
+	<l id="1818" part="i">Nos feux...</l>
+
+</sp>
+
+<sp who="PLAUTINE"><speaker>PLAUTINE</speaker>
+
+	<l id="1818" part="f">Ne pressez point un trouble qui s'augmente.</l>
+
+	<l id="1819">Vous voyez mon devoir, et connaissez ma foi,</l>
+
+	<l id="1820">En ce funeste état répondez-vous pour moi ?</l>
+
+	<l id="1821" part="i">Adieu, Seigneur.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1821" part="f">De grâce, encore une parole.</l>
+
+	<l id="1822" part="i">Madame.</l></sp>
+
+</div2>
+
+<div2 type="scene" n="8"><head>SCÈNE VIII. Othon, Albin.</head>
+
+<sp who="ALBIN"><speaker>ALBIN</speaker>
+
+	<l id="1822" part="f">On vous attend, Seigneur, au Capitole ;</l>
+
+	<l id="1823">Et le sénat en corps vient exprès d'y monter</l>
+
+	<l id="1824">Pour jurer sur vos lois aux yeux de Jupiter.</l>
+
+</sp>
+
+<sp who="OTHON"><speaker>OTHON</speaker>
+
+	<l id="1825">J'y cours, mais quelque honneur, Albin, qu'on m'y destine,</l>
+
+	<l id="1826">Comme il n'aurait pour moi rien de doux sans Plautine,</l>
+
+	<l id="1827">Souffre du moins que j'aille en faveur de mon feu</l>
+
+	<l id="1828">Prendre pour y courir son ordre ou son aveu</l>
+
+	<l id="1829">Afin qu'à mon retour l'âme un peu plus tranquille</l>
+
+	<l id="1830">Je puisse faire effort à consoler Camille,</l>
+
+	<l id="1831">Et lui jurer moi-même en ce malheureux jour</l>
+
+	<l id="1832">Une amitié fidèle au défaut de l'amour.</l>
+
+</sp>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>
+

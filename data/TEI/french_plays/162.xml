@@ -1,0 +1,3562 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LE CHARME DE LA VOIX, COMÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+			</titleStmt>
+			<publicationStmp>	
+				<editor>Texte établi par Coline Piot (Mémoire de master I sous la direction de M. Georges Forestier U.F.R de Littérature française et comparée, 2009-2010.)</editor>
+				<publisher>modernisé et publié par Paul FIEVRE, septembre 2013</publisher>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Comédie</genre>
+				<inspiration>moeurs italiennes</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1651-1660</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LE CHARME DE LA VOIX</titlePart>
+			<titlePart type="sub">COMÉDIE</titlePart>
+		</docTitle> 
+		<docDate value="1658">M. DC. LVIII. Avec PRIVILEGE DU ROY.</docDate>
+		<docAuthor id="CORNEILLE, Thomas" bio='corneillet'>Thomas Corneille</docAuthor>
+		<docImprint>
+			<privilege id="1657-12-28"><head>Extrait du Privilège du Roi.</head>
+			<p>Le Roi par ses Lettres Patentes données à Paris le 28 Décembre 1657 a permis à AUGUSTIN COURBE Marchand Librairie à Paris, de faire imprimer, vendre et débiter en tous lieux de son obéissance deux pièces de Théâtre intitulées, Timocrate et le Charme de la Voix, du Sr. THOMAS CORNEILLE, en telles marges, et en tels caractères, et autant de fois que bon lui semble durant vingt ans, à compter du jour que chaque pièce sera achevée d'imprimer pour la première fois ; avec défenses à toutes personnes, de quelque condition et qualité qu'elles soient, d'imprimer, vendre, ni débiter aucunes des dites pièces de théâtre, sans le consentement dudit exposant, ou de ceux qui auront son droit, à peine de deux mille livres d'amende, et de tous dépens, dommages et intérêts envers les suppliants ; A condition qu'il sera mis deux Exemplaires de chaque pièce en Bibliothèque publique de sa Majesté, et en celle de Monseigneur Séguier, Chevalier, Chancelier de France, avant que de les exposer en vente, et de registrer sur le Livre de la Communauté des Libraires et Imprimeurs de la Ville de Paris, à peine de nullité. Veut sa dite Majesté qu'en mettant au commencement ou à la fin des dites pièces un Extrait des dites lettres, elles soient tenues pour devenant signifiées, et aux Copies d'icelles collationnées par un des Conseillers Secrétaires de sa dite Majesté, soi y soit ajoutée comme à l'Original, nonobstant oppositions et appellation quelconques, et sans préjudice d'icelles, comme il est porté plus au long par lesdites Lettres, Signées par le Roi en son Conseil, CONRART, Et scellées du grand Sceau de cire jaune sur simple queue. Registré sur le Livre de la Communauté des Marchands Libraires de Paris, le vingt-huitième Décembre mil six cens cinquante sept.</p>
+			<p>Ledit Courbé a associé Guillaume de Luyne aussi Marchand Libraire, suivant l'accord fait entre eux le vingt-cinquième Décembre 1657.</p>
+			</privilege>
+			<acheveImprime id="1658-01-04">Achevé d'imprimer pour la première fois le quatrième Janvier 1658. A ROUEN, par L.MAUVRY. Les Exemplaires ont été fournis.</acheveImprime>
+			<printer id="COURBE">Imprimé à ROUEN, Et se vend  À PARIS, Chez AUGUSTIN COURBE, au Palais, en la Galerie des Merciers, à la Palme, Et GUILLAUME DE LUYNE, Libraire Juré, dans la même Galerie, à la Justice.</printer>
+		</docImprint>
+		<performance>
+			<premiere date='1653' location='Hôtel de Bourgogne'>Représenté pour la première fois en 1653.</premiere>
+		</performance>
+		<dedicace><head>Monsieur, </head>
+		<p>Je n'appellerai point du jugement du public sur cette Comédie, pour tâcher à vous faire estimer davantage le présent que je vous en fais. Il peut se laisser surprendre dans les approbations qu'il donne, et ces tumultueux applaudissements qu'une première émotion lui fait quelquefois accorder d'abord à ce qu'il n'a pas bien examiné, ne sont pas toujours d'infaillibles garants de la véritable beauté de nos poèmes ; mais il arrive rarement qu'il condamne ce qui mérite d'être approuvé, et puis qu'il s'est déclaré contre celui-ci, je dois être persuadé qu'il a eu raison de le faire. On m'accusera sans doute d'une franchise peu judicieuse d'en demeurer d'accord avec vous, lors que je prends la liberté de vous l'offrir, et j'aurais lieu d'appréhender que vous n'entrassiez dans ce sentiment, si je n'étais assuré que vous ne m'imputerez pas ce qu'il a de plus défectueux, et que séparant ce que vous y connaîtrez de moi d'avec ce qui n'en n'est pas, vous serez assez équitable, pour trouver de l'injustice à me vouloir faire répondre des fautes d'autrui. J'ai rendu si religieusement jusqu'ici ce que j'ai cru devoir aux Auteurs Espagnols qui m'ont servi de guides dans les sujets Comiques qui ont paru de moi sur la scène avec quelque succès, qu'on ne doit pas trouver étrange, si leur en ayant fait partager la gloire, je refuse de me charger de toute la honte qui a suivi le malheur de ce dernier, puisqu'en effet j'eusse peut-être moins failli, si je ne me fusse pas attaché si étroitement à la conduite de D. Augustin Moreto, qui l'a traité dans sa langue, sous le titre de « Lo que puede la apprehension ». Si vous voulez vous souvenir de la lecture que nous fîmes ensemble de cet original, avant que j'en commençasse la copie, vous vous souviendrez en même temps que j'en combattis opiniâtrement tous les caractères, et soutins que quelque soin que l'on apportât à les justifier pour le faire paraître avec quelque grâce sur nôtre théâtre, il serait impossible d'en venir à bout, sans faire voir toujours ceux qui sont intéressez dans cette intrigue plus capricieux que raisonnables ; néanmoins cet excellent ami qui me portait à ce dessein, appuya si fortement devant vous le conseil qu'il m'avait enfants donné d'y travailler, que vous vous en laissâtes vous-même persuader,et crûtes que puisque la bizarrerie des motifs, qui font agir tous les personnages de cette Comédie, avait été reçue en Espagne avec acclamation, il y avait lieu d'espérer, que pour peu que j'employasse d'adresse à les rendre plus justes, ils ne déplairaient pas en France. Il n'en fallut point davantage pour me forcer à me rendre, je ne voulus plus opposer que le goût des deux Nations est fort différent, que ces entretiens de valet, de bouffons avec des princesses et des souverains, que l'une souffre toujours avec plaisir dans les actions les plus sérieuses, ne sont jamais supportables à l'autre, dans les moins importantes, et que les plus ingénieuses nouveautés deviennent rarement capables de nous divertir quand elles semblent en quelque sorte opposées à la raison. L'événement a fait voir que je n'en avais pas mal jugé, je ne saurais toutefois me repentir entièrement de m'être exposé à cette petite disgrâce contre mes sentiments, puis qu'elle vous doit convaincre de la déférence que j'ai pour les vôtres, et de la passion avec laquelle je suis, MONSIEUR,</p>
+		<p>Votre très humble serviteur,</p>
+		<signature>T. CORNEILLE</signature>
+		</dedicace>
+	<castList><head>ACTEURS.</head>
+		<castItem><role id="LE DUC" civil='M' type="H" statut='duc' age='A' stat_amour='néant'>LE DUC</role>, de Milan.</castItem>
+		<castItem><role id="LA DUCHESSE" civil='F' type="H" statut='duc' age='A' stat_amour='néant'>LA DUCHESSE</role>, de Parme.</castItem>
+		<castItem><role id="FEDERIC" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>FEDERIC</role>, Gouverneur du Duc.</castItem>
+		<castItem><role id="CARLOS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CARLOS</role>, Fils de Federic.</castItem>
+		<castItem><role id="FENISE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>FENISE</role>, Fille de Federic.</castItem>
+		<castItem><role id="LAURE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LAURE</role>, Confidente de Fenise.</castItem>
+		<castItem><role id="FABRICE" civil='M' type="H" statut='bouffon' age='A' stat_amour='néant'>FABRICE</role>, Bouffon du Duc.</castItem>
+		<castItem><role id="CAMILLE" civil='M' type="H" statut='suivant' age='A' stat_amour='néant'>CAMILLE</role>, Suivant de Carlos.</castItem>
+	</castList>
+	<set location='Milan' country='Italie' periode='XVIIème' link=''>La Scène est à Milan.</set>
+	</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Fenise, Laure.</head>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1'>Quoi, lorsque dans ces lieux tout le monde s'apprête</l>
+	<l id='2'>Au spectacle pompeux d'une superbe fête,</l>
+	<l id='3'>Et que pour augmenter l'éclat d'un si beau jour,</l>
+	<l id='4'>Nous vous voyons enfin rappelée à la Cour,</l>
+	<l id='5'>Vous soupirez, Madame, et votre âme inquiète</l>
+	<l id='6'>Semble n'en recevoir qu'une joie imparfaite ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='7'>Après douze ans d'exil te faut-il étonner</l>
+	<l id='8'>Si l'ordre qui m'en tire a de quoi me gêner ?</l>
+	<l id='9'>Quand on a tant vécu dedans la solitude</l>
+	<l id='10'>On n'y renonce pas sans quelque inquiétude,</l>
+	<l id='11'>Et dans le changement qui me vient d'arriver</l>
+	<l id='12'>Les plus fermes esprits se plairaient à rêver.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='13'>Votre humeur au chagrin fut toujours si contraire,</l>
+	<l id='14'>Qu'il parle malgré vous quand vous voulez vous taire,</l>
+	<l id='15'>Le luth dont vous faisiez votre plus cher souci, </l>
+	<l id='16'>À peine encor pour vous a quelque charme ici,</l>
+	<l id='17'>Et cette belle voix, le comble favorable</l>
+	<l id='18'>De tant de qualités qui vous rendent aimable ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='19'>Ah, don de la nature à mon repos fatal !</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='20'>Quoi donc sans y penser j'ai touché votre mal ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='21'>Oui, Laure, et c'est en vain qu'un obstiné silence</l>
+	<l id='22'>Voudrait t'en dérober l'entière connaissance,</l>
+	<l id='23'>J'en sens par cet effort redoubler la rigueur,</l>
+	<l id='24'>Et te le découvrir c'est soulager mon coeur.</l>
+	<l id='25'>Mais pour le concevoir, remets en ta mémoire </l>
+	<l id='26'>De nos malheurs passez la pitoyable histoire,</l>
+	<l id='27'>Lors que le Duc de Parme, injuste en ses projets,</l>
+	<l id='28'>Nous priva si longtemps des douceurs de la paix.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='29'>Je sais que de Milan prétendant quelque hommage,</l>
+	<l id='30'>Il en tint le refus pour un sanglant outrage, </l>
+	<l id='31'>Et qu'il fit par la guerre éclater en ces lieux</l>
+	<l id='32'>Tout ce que la vengeance a de plus furieux,</l>
+	<l id='33'>Qu'après plusieurs combats aux deux partis funestes</l>
+	<l id='34'>On chercha par l'hymen d'en conserver les restes,</l>
+	<l id='35'>Que les Ducs ennemis s'en faisant une loi,</l>
+	<l id='36'>Dès lors pour leurs enfants se donnèrent la foi,</l>
+	<l id='37'>Et qu'ainsi par l'accord où l'obligea son père,</l>
+	<l id='38'>Le nôtre doit de Parme épouser l'héritière.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='39'>Hélas ! Je vins au jour dans ce temps malheureux,</l>
+	<l id='40'>Qui fit naître un accord pour moi si rigoureux, </l>
+	<l id='41'>Puisque j'entrais à peine en ma cinquième année</l>
+	<l id='42'>Que Milan de son Duc pleure la destinée,</l>
+	<l id='43'>Il meurt, et par un choix qui nous comble d'honneur,</l>
+	<l id='44'>Mon père de son fils est déclaré tuteur.</l>
+	<l id='45'>Sa prudence connue, et son rang et son âge</l>
+	<l id='46'>Acquièrent à sa foi cet illustre avantage,</l>
+	<l id='47'>Et chacun s'assurant sur sa fidélité,</l>
+	<l id='48'>On lui laisse le soin de l'hymen arrêté.</l>
+	<l id='49'>Comme par une rude et triste expérience,</l>
+	<l id='50'>Pour l'un et l'autre État il en sait l'importance,</l>
+	<l id='51'>Auprès de la Duchesse, héritière à son tour,</l>
+	<l id='52'>À Parme pour son maître il fait toujours sa Cour,</l>
+	<l id='53'>Et craignant de laisser un prétexte à l'envie</l>
+	<l id='54'>Qui pût mêler quelque ombre à l'éclat de sa vie,</l>
+	<l id='55'>Pour montrer qu'à l'État il est bien plus qu'à soi, </l>
+	<l id='56'>Par mon bannissement il veut marquer sa foi.</l>
+	<l id='57'>Ce que sur mon visage il pense voir de charmes</l>
+	<l id='58'>Pour le rendre suspect a d'assez fortes armes,</l>
+	<l id='59'>Avec le jeune Duc m'élever au Palais</l>
+	<l id='60'>C'est vouloir l'asservir au peu que j'ai d'attraits, </l>
+	<l id='61'>Et rompant un Traité qui finit notre peine,</l>
+	<l id='62'>M'assurer en secret le rang de Souveraine.</l>
+	<l id='63'>Voila sur quels motifs ce père sans amour </l>
+	<l id='64'>Dés l'âge de cinq ans m'éloigna de la Cour.</l>
+	<l id='65'>Compagne de mon sort, tu sais à quelle étude </l>
+	<l id='66'>J'ai tâché d'employer ma longue solitude,</l>
+	<l id='67'>Et que sans être vue, ou du moins rarement,</l>
+	<l id='68'>J'ai pris pour la Musique assez d'attachement.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='69'>C'est ce qui me confond, qu'au mal qui vous possède</l>
+	<l id='70'>Elle manque aujourd'hui d'apporter le remède. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='71'>Ah, s'il faut éclaircir ton esprit abusé,</l>
+	<l id='72'>Comment guérirait elle un mal qu'elle a causé ?</l>
+	<l id='73'>Pour les noces du Duc à Milan revenue,</l>
+	<l id='74'>À ce Prince toujours je demeure inconnue,</l>
+	<l id='75'>Et l'on ne me permet de paraître à ses yeux, </l>
+	<l id='76'>Qu'avecque la Duchesse attendue en ces lieux.</l>
+	<l id='77'>Mon frère l'est allé recevoir à Pavie,</l>
+	<l id='78'>Et de tant de malheur ma fortune est suivie,</l>
+	<l id='79'>Que contre mes souhaits, sans en rien espérer,</l>
+	<l id='80'>Je romps son hyménée, ou le fais différer. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='81' part='i'>Vous ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='81' part='f'>Si de cet aveu ton âme est étonnée</l>
+	<l id='82'>Songe depuis huit jours quelle est ma destinée,</l>
+	<l id='83'>Et qu'affranchie enfin d'un long bannissement,</l>
+	<l id='84'>Dans le Palais du Duc j'ai cet appartement,</l>
+	<l id='85'>Qu'ayant sur ce jardin une secrète vue, </l>
+	<l id='86'>C'est de là qu'aisément, sans en être aperçue,</l>
+	<l id='87'>J'ai pu, quelque ordre exprès qui m'en ôtât l'espoir,</l>
+	<l id='88'>Et voir ce jeune Prince, et suivre mon devoir.</l>
+	<l id='89'>Hélas ! par cette vue où me vois-je réduite ?</l>
+	<l id='90'>Ma raison en désordre en fut d'abord séduite, </l>
+	<l id='91'>Et pour le dissiper je cherchai dans ma voix </l>
+	<l id='92'>Ce charme qu'à mes maux elle offrait autrefois,</l>
+	<l id='93'>Mais qu'indiscrètement je rompis le silence !</l>
+	<l id='94'>Le Duc en est surpris, il s'approche, il s'avance,</l>
+	<l id='95'>Je me pers, je me trouble à le considérer, </l>
+	<l id='96'>Interdit et confus, je l'entends soupirer,</l>
+	<l id='97'>Et l'un et l'autre atteints de blessures pareilles,</l>
+	<l id='98'>S'il m'éblouit les yeux, je touche ses oreilles.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='99' part='i'>Sut-il qui vous étiez ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='99' part='f'>Il l'apprit aisément,</l>
+	<l id='100'>Et son inquiétude égalant mon tourment </l>
+	<l id='101'>Dans la pressante ardeur qu'il a de me connaître</l>
+	<l id='102'>Chaque jour en ce lieu je le vois seul paraître,</l>
+	<l id='103'>Je chante, et ne pouvant obtenir rien de plus,</l>
+	<l id='104'>Il soupire, il se plaint d'un injuste refus,</l>
+	<l id='105'>Jamais, s'il l'en faut croire, une si vive flamme</l>
+	<l id='106'>Avec tant de respect ne s'empara d'une âme.</l>
+	<l id='107'>Ce que lui peint de moi la douceur de ma voix</l>
+	<l id='108'>Par un charme inconnu l'asservit à mes lois,</l>
+	<l id='109'>Et ce rare tableau qu'en lui-même il s'en trace</l>
+	<l id='110'>Ne souffre dans son coeur aucun trait qu'il n'efface, </l>
+	<l id='111'>Un vieil accord à Parme engage en vain sa foi,</l>
+	<l id='112'>S'il me voit, s'il me parle, il le rompra pour moi,</l>
+	<l id='113'>Et sur quelque prétexte arrêtant la Duchesse,</l>
+	<l id='114'>Son amour de Milan me fera la maîtresse.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='115'>Il est de certains n?uds dont le secret pouvoir </l>
+	<l id='116'>Attache un coeur à l'autre avant que de se voir,</l>
+	<l id='117'>Et cette sympathie a souvent tant de force ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='118'>Ô de mon fol espoir trompeuse et vaine amorce !</l>
+	<l id='119'>Après tant de serments dont mon esprit flatté</l>
+	<l id='120'>Par trop de confiance enfla ma vanité, </l>
+	<l id='121'>Je crûs que me montrant sans me faire connaître, </l>
+	<l id='122'>Si par l'ordre du Ciel sa flamme avait pu naître,</l>
+	<l id='123'>Le Duc serait contraint de la faire éclater</l>
+	<l id='124'>Aussitôt à me voir qu'à m'entendre chanter.</l>
+	<l id='125'>Ainsi pour m'assurer du secret de son âme, </l>
+	<l id='126'>Ayant adroitement pratiqué quelque Dame,</l>
+	<l id='127'>La curiosité me servant de couleur</l>
+	<l id='128'>Je la suivis au bal, hélas ! pour mon malheur.</l>
+	<l id='129'>Ce fut pour mon orgueil de quoi se satisfaire</l>
+	<l id='130'>D'y mériter le nom de la belle étrangère, </l>
+	<l id='131'>Chacun m'offrit des voeux, chacun me fit sa cour,</l>
+	<l id='132'>Et le Duc seul m'y vit sans me parler d'amour.</l>
+	<l id='133'>Ce qu'il ouït vanter d'attraits sur mon visage</l>
+	<l id='134'>Ne pût forcer son coeur au plus léger hommage,</l>
+	<l id='135'>Mes yeux, dont les regards en cherchaient les moyens </l>
+	<l id='136'>N'eurent qu'un faible éclat pour arrêter les siens,</l>
+	<l id='137'>Et ce fatal essai de son indifférence</l>
+	<l id='138'>Sans finir mon amour finit mon espérance.</l>
+	<l id='139'>Vois par là si ce coeur a droit de soupirer.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='140'>Au moins ne l'a-t-il pas de ne point espérer. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='141'>Quoi, sans sentir ce trouble aux amants ordinaire,</l>
+	<l id='142'>Il me voit, il m'écoute, et tu
+ veux que j'espère ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='143'>Cette indigne froideur dont vous vous irritez</l>
+	<l id='144'>Vient de n'avoir pas su que c'est vous qui chantez.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='145'>Quand l'Amour dans nos coeurs se coule avec empire, </l>
+	<l id='146'>Le Ciel qui le permet prend soin de les instruire.</l>
+	<l id='147'>Un désordre secret qu'on ne peut réprimer</l>
+	<l id='148'>Nous fait connaître assez ce qu'il nous fait aimer ;</l>
+	<l id='149'>En vain on dissimule, en vain on se déguise,</l>
+	<l id='150'>Un beau feu n'a jamais à craindre de surprise, </l>
+	<l id='151'>Et comme en ses effets il est toujours égal, </l>
+	<l id='152'>Il ne brûle pas bien quand il éclaire mal.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='153'>Mais il faudra qu'enfin le secret s'éclaircisse.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='154'>Mais tu vois que le Duc n'aime que par caprice,</l>
+	<l id='155'>Et ma voix de sa flamme étant le seul appui, </l>
+	<l id='156'>Voudrais-tu que mon coeur se déclarât pour lui ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='157'>C'est l'unique moyen de vous faire Duchesse.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='158'>Où je hasarde trop, mon ambition cesse.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='159'>Et que hasardez-vous à souffrir son amour ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Federic, Fenise, Laure.</head>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='160'>Il faut vous retirer, le Duc est de retour, </l>
+	<l id='161'>Ma fille, et son chagrin, qu'aucun plaisir n'efface</l>
+	<l id='162'>N'a pu céder longtemps à celui de la chasse.</l>
+	<l id='163'>Pour rêver solitaire il doit entrer ici.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='164'>Mais encor jusqu'à quand me renfermer ainsi ?</l>
+	<l id='165'>Ai-je à vivre toujours exilée ou captive ? </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='166'>Ma fille, c'est demain que la Duchesse arrive,</l>
+	<l id='167'>Et l'État par mes soins jusqu'ici défendu</l>
+	<l id='168'>Vous remettra par elle au rang qui vous est dû.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='169'>Jusqu'ici mon respect vous a trop fait connaître ? </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='170'>Hâtez-vous de rentrer, le Duc s'en va paraître. </l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='171' part='i'>C'est ma voix qui l'attire.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='171' part='f'>Et sans vous laisser voir</l>
+	<l id='172'>Vous chercherez toujours à flatter son espoir ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='173' part='i'>Sans doute.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='173' part='f'>Mais par là que pouvez-vous prétendre ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='174'>Perdre quelques soupirs sans qu'il les puisse entendre,</l>
+	<l id='175'>Et de ce faux appas soulager mon ennui </l>
+	<l id='176'>Qu'il souffrira pour moi si je souffre pour lui.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Le Duc, Federic, Fabrice.</head>
+<sp who='LE DUC'><speaker>LE DUC, à Fabrice.</speaker>
+	<l id='177'>Si tu peux à mon mal trouver quelque remède ?</l>
+	<l id='178'>Mais verrai-je en tous lieux que Federic m'obsède,</l>
+	<l id='179'>Et faut-il, pour surcroîts de gêne et de chagrin</l>
+	<l id='180'>Qu'aujourd'hui mon malheur l'amène en ce jardin ? </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='181'>Seigneur, si prés de voir arriver la Duchesse</l>
+	<l id='182'>Vous conservez encor cette morne tristesse ?</l>
+	<l id='183'>Un espoir si charmant vous en dût retirer. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='184'>Quelque bien qu'il m'assure, il faut le différer,</l>
+	<l id='185'>Comme dans mon chagrin je ne puis me contraindre, </l>
+	<l id='186'>De mon accueil peut-être elle pourrait se plaindre,</l>
+	<l id='187'>Et je trouve à propos, pour la mieux recevoir</l>
+	<l id='188'>De me priver encor du plaisir de la voir.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='189'>Quoi, comme aux autres lieux l'arrêter à Pavie !</l>
+	<l id='190' part='i'>Seigneur ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='190' part='f'>Mais, Federic, il y va de ma vie, </l>
+	<l id='191'>Qu'on ait soin seulement de bien l'y divertir</l>
+	<l id='192'>Tant qu'un ordre nouveau l'oblige d'en partir.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='193'>Ce long retardement ouvrant sa défiance</l>
+	<l id='194'>Convaincra votre amour de peu d'impatience,</l>
+	<l id='195'>Et je crains que par là son esprit irrité ? </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='196'>Enfin, n'en parlons plus, le sort en est jeté !</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='197'>Au point que cet hymen à votre État importe ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='198'>La raison est pour vous, mais elle est la moins forte,</l>
+	<l id='199'>Et quand la passion tâche de l'étouffer</l>
+	<l id='200'>Ce n'est qu'en lui cédant qu'on en peut triompher. </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='201'>Puisqu'aujourd'hui sur vous la vôtre a tant d'empire,</l>
+	<l id='202'>De peur de l'irriter, Seigneur, je me retire.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Le Duc, Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='203'>Enfin il est parti, Fabrice, c'est à toi</l>
+	<l id='204'>À me donner ici des preuves de ta foi.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='205'>Elle a de tous vos maux la guérison certaine, </l>
+	<l id='206'>Vous en avez douté, vous en souffrez la peine.</l>
+	<l id='207'>Si vous eussiez plutôt imploré mon secours ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='208'>Je tâchais à me vaincre, et l'espérais toujours.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='209'>C'était mal espérer, rien n'est gâté, n'importe,</l>
+	<l id='210'>Vous m'aller voir pour vous agir de bonne sorte. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='211'>Si tu peux m'acquérir le bien que je prétends ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='212'>Je bats bien du pays, Seigneur, en peu de temps,</l>
+	<l id='213'>Et veux à bouffonner n'être jamais de mise</l>
+	<l id='214'>Si devant qu'il soit nuit vous ne voyez Fenise.</l>
+	<l id='215'>Mais vaudrait-il pas mieux, sans chercher ce détour, </l>
+	<l id='216'>Aller à Féderic découvrir votre amour ?</l>
+	<l id='217'>Dans l'espoir de se voir ducalement beau-père ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='218'>Non non, il faut aimer, et souffrir, et me taire,</l>
+	<l id='219'>Attendant que sa fille avecque nous d'accord</l>
+	<l id='220'>Du malheur que je crains m'aide à braver l'effort. </l>
+	<l id='221'>Je sais de Federic la fière politique, </l>
+	<l id='222'>Au seul bien de l'État tout son zèle s'applique,</l>
+	<l id='223'>Et lui laisser enfin soupçonner mon amour</l>
+	<l id='224'>C'est bannir de nouveau Fenise de la Cour.</l>
+	<l id='225'>Vois si je dois songer à rompre le silence. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='226'>Mais vous lui pourriez faire un peu de violence,</l>
+	<l id='227'>Et si de l'éloigner il prenait le dessein</l>
+	<l id='228'>Malgré ses dents et lui, parler en Souverain.</l>
+	<l id='229'>Un, je veux, bien poussé, de loin se fait entendre.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='230'>Mais enfin sans aveu dois-je rien entreprendre ? </l>
+	<l id='231'>Si pour trop écouter un scrupuleux devoir</l>
+	<l id='232'>Fenise a jusqu'ici refusé de me voir,</l>
+	<l id='233'>Puis-je sans être sûr de ne lui pas déplaire</l>
+	<l id='234'>Permettre à mon amour d'agir contre son père ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='235'>Sans plus moraliser il faut donc promptement </l>
+	<l id='236'>Vous donner l'accès libre à son appartement,</l>
+	<l id='237'>Ce sera lors à vous d'avancer vos affaires.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='238'>Tu m'y verras donner les ordres nécessaires.</l>
+	<l id='239'>Mais comment ton adresse en viendra-t-elle à bout ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='240'>Sachez que ma folie est mon passe-par-tout, </l>
+	<l id='241'>Et que vieux harangueur qu'avec vous on voit rire</l>
+	<l id='242'>J'entre par privilège en tous lieux sans rien dire.</l>
+	<l id='243' part='i'>Mais quel son musical ?</l>
+<stage>On entend quelques accords de Tuorbe.</stage>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='243' part='f'>Fenise va chanter,</l>
+	<l id='244'>C'est le signal, approche, il la faut écouter.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, chante derrière le théâtre.</speaker>
+	<l id='245'>Si dans l'ennui dont mon âme est atteinte </l>
+	<l id='246'>Mes soupirs chaque jour vous adressent ma plainte,</l>
+	<l id='247'>Cessez ruisseaux, d'en murmurer ; </l>
+	<l id='248'>Quand d'un Astre fâcheux la fatale influence</l>
+	<l id='249'>Nous défend l'espérance,</l>
+	<l id='250'>Il est permis de soupirer. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='251' part='i'>Peste, quels roulements !</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='251' part='f'>Ils enlèvent mon âme,</l>
+	<l id='252'>Et bien, Fabrice, et bien, condamnes-tu ma flamme,</l>
+	<l id='253'>Et d'un plus rare objet puis-je suivre la loi ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='254'>Vous en croyez l'amour, et cela sur sa foi ?</l>
+	<l id='255'>Mais s'il fallait qu'enfin cette rare personne </l>
+<note>Guenon : Petit singe femelle que les dames de qualité prennent plaisir de nourrir. On appelle aussi guenon, une femme vieille, ou laide, quand on veut lui dire quelque injure. Il est bas. [F]</note>
+	<l id='256'>Eut le nez perroquet ou la face guenonne ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='257'>Quoi, tu pourrais penser qu'elle manquât d'appas,</l>
+	<l id='258' part='i'>Et que chantant si bien ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='258' part='f'>Ne vous y trompez pas.</l>
+	<l id='259'>J'en ai vue telle, moi témoin irréprochable,</l>
+	<l id='260'>Qui chantant comme un Ange aurait fait peur au diable </l>
+	<l id='261'>Et qui, quoi que sa voix semblât venir des Cieux,</l>
+	<l id='262'>Avait un ?il en terre et l'autre chassieux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='263'>Non, Fenise toujours eut le bruit d'être belle.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='264'>Si ce bruit n'est point faux, que ne se montre-t-elle ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='265'>Peut-être ? Mais je crois ouïr encor sa voix, </l>
+	<l id='266' part='i'>Écoute.</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, à Fenise.</speaker>
+	<l id='266' part='f'>Un peu plus haut que la première fois.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, continue à chanter.</speaker>
+	<l id='267'>Je connais bien qu'au mal qui me possède</l>
+	<l id='268'>Je n'applique par là qu'un impuissant remède,</l>
+	<l id='269'>Qui n'étouffe point mes désirs. </l>
+	<l id='270'>Mais en vain en fuyant votre onde s'en offense. </l>
+	<l id='271'>Quand on perd l'espérance,</l>
+	<l id='272'>On peut bien perdre des soupirs.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fenise.</speaker>
+	<l id='273'>Ah, si d'un coeur soumis vous estimez l'hommage,</l>
+	<l id='274'>Perdrez-vous des soupirs que mon amour partage,</l>
+	<l id='275'>Et lors que par l'espoir le sort se peut braver, </l>
+	<l id='276'>Vous le défendrez vous afin de m'en priver ?</l>
+	<l id='277'>Fabrice, c'en est fait, il faut avec adresse</l>
+	<l id='278'>À Parme dés demain renvoyer la Duchesse.</l>
+	<l id='279'>Dût se perdre Milan, on verra mon amour ?</l>
+	<l id='280'>Mais que vois-je ? Carlos est déjà de retour. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Le Duc, Carlos, Fabrice, Camille.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='281'>Seigneur, vous me verrez sans doute avecque joie,</l>
+	<l id='282'>Apprenant que vers vous la Duchesse m'envoie,</l>
+	<l id='283'>Et que de son amour l'impatiente ardeur,</l>
+	<l id='284'>Vous explique par là les secrets de son coeur.</l>
+	<l id='285'>Ces superbes apprêts dont la magnificence </l>
+	<l id='286'>Par votre ordre à Pavie honore sa présence,</l>
+	<l id='287'>N'ont point d'appas en eux qu'elle daigne goûter,</l>
+	<l id='288'>Lors que pour en jouir il s'y faut arrêter.</l>
+	<l id='289'>C'est ce que de sa part j'ai charge de vous dire,</l>
+	<l id='290'>Vous voir est le seul bien où son désir aspire, </l>
+	<l id='291'>Et l'ennui qu'elle sent des honneurs qu'on lui fait </l>
+	<l id='292'>D'une agréable cause est le charmant effet.</l>
+	<l id='293'>À ce retardement où leur pompe l'engage,</l>
+	<l id='294'>Un aimable courroux a saisi son courage,</l>
+	<l id='295'>En vain à le cacher elle a fait quelque effort, </l>
+	<l id='296'>Dans l'éclat de ses yeux il a paru d'abord ;</l>
+	<l id='297'>À songer au bonheur dont ce délai la prive,</l>
+	<l id='298'>On les a vu briller d'une clarté plus vive,</l>
+	<l id='299'>Son teint dont la blancheur eût les lys effacez,</l>
+	<l id='300' part='i'>Souffrant un doux mélange a paru ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='300' part='f'>C'est assez. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Carlos, Camille, Fabrice.</head>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='301' part='i'>La réponse est bien courte.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='301' part='f'>Ô l'étrange caprice !</l>
+	<l id='302'>D'où lui vient cette humeur ? Arrête, un mot, Fabrice.</l>
+	<l id='303'>Toi qui souvent du Duc partage le souci,</l>
+	<l id='304'>Apprends moi qui l'oblige à me traiter ainsi.</l>
+	<l id='305'>Sans daigner me parler je vois qu'il se retire. </l>
+	<l id='306'>Pour l'aigrir contre moi qu'aurais-je pu lui dire ?</l>
+	<l id='307'>Car enfin je n'ai fait qu'applaudir à ce feu</l>
+	<l id='308'>Dont lui-même avec joie il a signé l'aveu.</l>
+	<l id='309'>Par ce retardement qui gêne la Duchesse</l>
+	<l id='310'>J'ai donné plus de jour à l'ardeur qui la presse, </l>
+	<l id='311'>J'en ai peint tout exprès ses désirs traversez, </l>
+	<l id='312'>J'ai parlé de ses yeux, de son teint ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='313' part='i'>C'est assez.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Carlos, Camille.</head>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='313' part='m'>Entendez-vous l'écho ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='313' part='f'>Tout sert à me confondre.</l>
+	<l id='314'>Quoi, le Duc tout à coup s'en va sans me répondre,</l>
+	<l id='315'>Et quand je crois venir soulager son amour </l>
+	<l id='316'>Un silence affecté condamne mon retour ?</l>
+	<l id='317'>Quelle énigme est-ce ci ? Dieux, qu'est-ce qui se passe ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='318'>Est-ce là seulement ce qui vous embarrasse ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+<note type="L">Penser : Faire une action de l'esprit, de l'imagination, de la mémoire. [F] Au XVIIème, mot masculin pour « pensée ».</note>
+	<l id='319'>Mille pensers divers me tiennent divisé.</l>
+	<l id='320' part='i'>Qui le devinerait ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='320' part='f'>Il n'est rien plus aisé. </l>
+	<l id='321'>Nous arrivons tous deux, et sans qu'on vous en presse</l>
+	<l id='322'>Votre langue s'exerce à louer la Duchesse.</l>
+	<l id='323'>Le Duc à la harangue ayant les yeux baissez</l>
+	<l id='324'>Vous la fait accourcir par un grand, c'est assez,</l>
+	<l id='325'>Et sourcilleusement, nous laissant seuls ensemble, </l>
+	<l id='326'>Sans plus longue réplique il tourne où bon lui semble.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='327' part='i'>Mais enfin le sujet, quel est-il ? </l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='327' part='f'>Pour ce point,</l>
+	<l id='328'>Il est bien évident que je ne le sais point,</l>
+	<l id='329'>Mais du reste, si c'est ce qui vous embarrasse,</l>
+	<l id='330'>Sans y rien altérer, voilà ce qui se passe. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='331'>Ah, cesse de railler quand mon sort rigoureux</l>
+	<l id='332'>Dans un trouble confus laisse flotter mes voeux.</l>
+	<l id='333'>Si pour quelque autre objet l'âme d'amour atteinte</l>
+	<l id='334'>Le Duc pour son hymen sentait quelque contrainte,</l>
+	<l id='335'>Et qu'il vêt à regret ? Mais, ô frivole espoir </l>
+	<l id='336'>Qu'un feu trop écouté me laisse concevoir !</l>
+	<l id='337'>C'est plutôt que ce coeur, à louer la Duchesse</l>
+	<l id='338'>À trop fait éclater quel motif l'intéresse,</l>
+	<l id='339'>Et que mes sentiments par un zèle indiscret</l>
+	<l id='340'>D'un amour que je cache ont trahi le secret. </l>
+	<l id='341' part='i'>Ah, Dieux, s'il est ainsi ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='341' part='f'>Non, cela ne peut être.</l>
+	<l id='342'>C'est plutôt que le Duc cherchant à se connaître,</l>
+	<l id='343'>De peur de trop donner à son tempérament ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='344' part='i'>Et bien ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='344' part='f'>Ma foi, brisons sur le raisonnement,</l>
+	<l id='345'>Il vaudra mieux peut-être à divers reprises. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='346'>Je perds temps en effet d'écouter tes sottises,</l>
+	<l id='347'>Allons trouver mon père, et tâchons de savoir</l>
+	<l id='348'>Si j'ai plus de sujet de crainte que d'espoir.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Le Duc, Fabrice.</head>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='349'>C'est n'avoir pas peu fait avec mon badinage</l>
+	<l id='350'>D'avoir à votre amour assuré ce passage. </l>
+	<l id='351'>Tandis que de sa voix jamais rassasiez</l>
+	<l id='352'>Vos sens à l'écouter étaient extasiez,</l>
+	<l id='353'>M'étant coulé sans peine avec un domestique,</l>
+	<l id='354'>J'ai mis avec tant d'art le bouffon en pratique,</l>
+	<l id='355'>Que sans donner soupçon d'aucun secret complot </l>
+	<l id='356'>Je me suis esquivé soudain sans dire mot,</l>
+	<l id='357'>Et laissant au besoin cette porte entrouverte,</l>
+	<l id='358'>J'ai ménagé pour vous l'occasion offerte,</l>
+	<l id='359'>C'est à vous maintenant à vous en bien servir.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='360'>Mon coeur dans son transport se sent presque ravir, </l>
+	<l id='361'>Mais un fâcheux souci vient traverser ma joie.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='362' part='i'>Quel, Seigneur ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='362' part='f'>De Carlos qu'il faut que l'on renvoie.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='363'>On l'est allé chercher, il partira soudain</l>
+	<l id='364'>Lors qu'il en verra l'ordre écrit de votre main.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='365'>Il restera surpris d'y trouver charge expresse </l>
+	<l id='366'>De ramener à Parme au plutôt la Duchesse.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='367' part='i'>Que dira Federic ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='367' part='f'>C'est ce que je crains peu</l>
+	<l id='368'>Si j'obtiens de sa fille un favorable aveu.</l>
+	<l id='369'>Enfin je la verrai, cette aimable inconnue.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='370'>Ce poste bien gardé vous assure sa vue.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='371'>Mais es-tu bien certain qu'elle doive passer ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='372'>Vous prenez grand plaisir à vous embarrasser,</l>
+	<l id='373'>Ne chantait-elle pas dans cette galerie ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='374'>Si l'on s'était douté de ta supercherie ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='375'>Pour peu que vous donniez sur les si, sur les mais, </l>
+	<l id='376'>Vous trouverez matière à ne finir jamais.</l>
+	<l id='377' part='i'>L'amour est ombrageux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='377' part='f'>Et Fenise trop belle</l>
+	<l id='378'>Pour ne pas craindre tout alors qu'il s'agit d'elle.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='379'>Dans ce que votre esprit s'en figure d'appas,</l>
+	<l id='380'>Elle peut être belle, et ne vous plaire pas, </l>
+	<l id='381'>Car la plus belle enfin, quelques traits qu'elle assemble,</l>
+	<l id='382'>N'est pas celle qui l'est, mais celle qui le semble.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='383'>Qui t'a fait si savant en matière d'amour ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='384'>On est en bonne école alors qu'on suit la Cour.</l>
+	<l id='385'>Et le plus ignorant, pour grossier qu'il puisse être, </l>
+	<l id='386'>Aux leçons qu'on y prend y devient bientôt maître.</l>
+	<l id='387'>Mais enfin en aimant que croyez-vous aimer ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='388'>L'objet seul dont l'empire a droit de me charmer,</l>
+	<l id='389'>Je m'en forme une idée et si noble et si belle,</l>
+	<l id='390'>Que je ne sache rien qui puisse approcher d'elle. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='391'>Tant pis, car ce portrait dans votre coeur gravé</l>
+	<l id='392'>Y doit avoir déjà son autel élevé,</l>
+	<l id='393'>Et si l'original était fort dissemblable ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='394'>Tel qu'il soit, à mes yeux il faut qu'il soit aimable,</l>
+	<l id='395'>De sa divine voix j'en crois le doux effet, </l>
+	<l id='396'>Le Ciel ne laisse point son ouvrage imparfait,</l>
+	<l id='397'>Et l'amour sans succès entre peu dans une âme,</l>
+	<l id='398'>Lors que la sympathie en fait naître la flamme.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='399'>Pour moi, qui n'y sais point tant de raffinement,</l>
+	<l id='400'>J'aimerais mieux aimer moins sympathiquement. </l>
+	<l id='401'>Deux yeux un peu fripons aidez d'un souris tendre</l>
+	<l id='402'>Sont beaux à regarder avant que de se rendre,</l>
+	<l id='403'>Les blessures qu'ils font sont de meilleur aloi,</l>
+	<l id='404'>Et s'il faut en mourir, au moins sait-on pourquoi.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='405'>Tais-toi, j'entends marcher, on vient à nous, écoute. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='406'>Retirons-nous ici, c'est Fenise sans doute,</l>
+	<l id='407'>Sans nous montrer si tôt, laissons-la s'avancer.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='408' part='i'>Je crains ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='408' part='f'>Quoi ? Les regards qu'elle va vous lancer ? </l>
+	<l id='409'>Pour les tendres de coeur la blessure est mal saine.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Le Duc, Fénise, Laure, Fabrice.</head>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='410' part='i'>As-tu remis ce luth ?</l>
+</sp>
+<sp who='LAURE'><speaker>LAURE.</speaker>
+	<l id='410' part='f'>N'en soyez point en peine. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='411'>Regarde, admire, vois, Fabrice, quel éclat !</l>
+	<l id='412' part='i'>Qui n'en serait charmé ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='412' part='f'>Tâtez, le coeur vous bat ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='413'>Mais as-tu vu jamais beauté plus surprenante ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<note type='L'>Oeillader : Jeter l'oeil, action de la vue. [F]</note>
+	<l id='414'>Ma foi, je n'en sais rien, j'oeillade la suivante,</l>
+	<l id='415'>Comme elle est plus mon fait, elle est plus à mon gré. </l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='416'>Dieux, comment jusqu'ici le Duc est-il entré ?</l>
+	<l id='417' part='i'>Feignons grande surprise.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fenise.</speaker>
+	<l id='417' part='f'>Enfin, je puis, Madame ?</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE.</speaker>
+	<l id='418' part='i'>Ah Laure, où sommes-nous ?</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='418' part='f'>Couchez vite de flamme.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='419' part='i'>Ne vous offensez pas ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='419' part='m'>Allons, Laure.</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, l'arrêtant.</speaker>
+	<l id='419' part='f'>Ah ! tout doux.</l>
+	<l id='420' part='i'>La belle, c'est le Duc.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='420' part='f'>Que voudrait-il de nous ? </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='421'>En pouvez-vous douter si vous êtes Fenise ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='422'>L'erreur qui vous abuse augmente ma surprise.</l>
+	<l id='423'>Moi, Fenise ? Ah, Seigneur, j'ai quelque vanité</l>
+	<l id='424'>De voir à cette erreur votre esprit emporté,</l>
+	<l id='425'>Et je puis désormais me vanter d'être belle </l>
+	<l id='426'>Puis qu'au moins à vos yeux j'ai pû passer pour elle.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='427' part='i'>Quoi, vous ne l'êtes point ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='427' part='m'>Non, Seigneur.</l>
+</sp>
+<sp who='FABRICE'><speaker>LE DUC, à Fabrice.</speaker>
+	<l id='427' part='f'>Qu'est-ce-ci ?</l>
+	<l id='428'>Que toujours le malheur me persécute ainsi !</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+<note type="L">Fleurette : Se dit au figuré de petits ornements de langage, ou de galanteries, et de termes doucereux dont on se sert ordinairement pour cajoler les femmes. [F]</note>
+	<l id='429'>Ma foi, nous allions mal adresser nos fleurettes.</l>
+</sp>
+<sp who='LAURE'><speaker>LAURE, à Fenise.</speaker>
+	<l id='430'>Mais de grâce, à quoi bon lui cacher qui vous êtes ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='431'>Pour voir si mon visage a pour lui quelque appas,</l>
+	<l id='432'>Et ne rien hasarder si je ne lui plais pas.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='433'>Vous êtes de sa suite à ce que je puis croire ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='434'>Oui, Seigneur, la servir fait toute notre gloire.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='435'>Ce soin de l'une et l'autre est le plus cher emploi, </l>
+	<l id='436'>Mais Célie est d'un rang plus élevé que moi,</l>
+	<l id='437'>Comme Dame d'honneur, il faut que je lui cède.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fenise.</speaker>
+	<l id='438' part='i'>Vous êtes donc la Dame ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='438' part='f'>Et moi, je suis son aide.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='439'>Si l'on trouvait moyen de s'en accommoder,</l>
+	<l id='440'>L'aide à l'air assez drôle, on pourrait s'en aider. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='441' part='i'>Et Fenise ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='441' part='f'>Pour moi, je ne la quitte guère</l>
+	<l id='442'>Que lors qu'elle reçoit visite de son père.</l>
+	<l id='443'>Ils ont quelque secret toujours à consulter.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='444'>Mais ici tout à l'heure elle vient de chanter ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='445'>Oui, dedans ce lieu même, et j'étais avec elle, </l>
+	<l id='446'>Quand de cette visite ayant su la nouvelle,</l>
+	<l id='447'>Par cet autre escalier nous quittant promptement,</l>
+	<l id='448'>Elle a couru le joindre en son appartement.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fabrice.</speaker>
+	<l id='449'>Ô succès imprévu d'une heureuse entreprise !</l>
+	<l id='450'>Que je trouve Célie où je dois voir Fenise ! </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='451'>Mais si pour celle-ci vous vous sentez piqué,</l>
+	<l id='452'>Que perdra votre amour à s'être équivoqué ?</l>
+	<l id='453'>Après tout, c'est hasard si l'autre n'est plus laide.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='454'>Ah, non Fabrice, non, mon mal est sans remède,</l>
+	<l id='455'>J'ai beau voir dans Célie éclater mille appas, </l>
+	<l id='456'>C'est en manquer pour moi que de ne chanter pas.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='457'>Eh bien ? Quoi qu'à ma voix il semble rendre hommage,</l>
+	<l id='458'>Veux-tu d'un plein mépris un plus clair témoignage,</l>
+	<l id='459'>Et crois-tu que mes yeux, pour en faire un captif,</l>
+	<l id='460'>Puissent jamais briller d'un éclat assez vif ? </l>
+	<l id='461' part='i'>À peine il me regarde.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='461' part='f'>Et c'est là ma surprise.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fenise.</speaker>
+	<l id='462'>Voudriez-vous pour moi dire un mot à Fenise ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='463'>Vous pouvez m'employer, Seigneur, sûr qu'il n'est rien</l>
+	<l id='464'>Que Fenise de moi ne reçoive fort bien,</l>
+	<l id='465'>Qu'elle prend mes avis, les estime, les aime, </l>
+	<l id='466'>Et qu'enfin je lui suis comme une autre elle-même.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='467'>Ainsi je vous pourrais confier mon secret ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='468'>Vous ne sauriez choisir un esprit plus discret.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='469' part='i'>Et vous lui direz tout ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='469' part='f'>Célie est ponctuelle,</l>
+	<l id='470'>Quoi que vous lui disiez, je vous réponds pour elle, </l>
+	<l id='471'>Qu'avecque tant de soin elle vous servira </l>
+	<l id='472'>Que dans le même instant Fenise le saura.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='473'>Daignez donc l'assurer que mon âme soumise</l>
+	<l id='474'>Au charme de sa voix a voué sa franchise,</l>
+	<l id='475'>Que malgré ses refus, le bonheur de la voir </l>
+	<l id='476'>De ce coeur amoureux sait le plus doux espoir,</l>
+	<l id='477'>Et qu'enfin si le sien dans mes voeux s'intéresse,</l>
+	<l id='478'>Milan verra ma mort ou la verra Duchesse.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='479' part='i'>Quoi, vous aimez Fenise ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='479' part='f'>Ah, c'est dire trop peu,</l>
+	<l id='480'>La plus pressante ardeur n'égale point mon feu, </l>
+	<l id='481'>Et sa rare beauté, pour qui ce coeur soupire,</l>
+	<l id='482'>Est la seule conquête où mon espoir aspire.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='483' part='i'>Vous la croyez donc belle ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='483' part='f'>À former son beau corps</l>
+	<l id='484'>Le Ciel a déployé ses plus riches trésors,</l>
+	<l id='485'>Jamais de tant d'appas beauté ne fut pourvue. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='486'>Comment la louer tant sans l'avoir jamais vue ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='487'>C'est assez que l'amour par un merveilleux trait</l>
+	<l id='488'>À mon âme enflammée en ait fait le portrait,</l>
+	<l id='489'>Et s'il m'a su causer de si douces alarmes,</l>
+	<l id='490'>Jugez ce que sa vue aura pour moi de charmes. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='491'>Quoi que vous présumiez de ce rare portrait,</l>
+	<l id='492'>L'imagination fait en vous trop d'effet,</l>
+	<l id='493'>Et Fenise après tout ne peut être si belle</l>
+	<l id='494'>Que vous n'en ayez vu qui vaillent autant qu'elle.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='495'>Non, tout ce que jamais j'ai vu de plus charmant </l>
+	<l id='496'>N'a pu faire à mon coeur de surprise un moment,</l>
+	<l id='497'>Ce sont fades beautés indignes qu'on leur cède.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, bas à Laure.</speaker>
+	<l id='498'>Qu'ose-t-il dire, Laure, il me trouve donc laide ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='499'>Mais cette belle voix dont les divins accents</l>
+	<l id='500'>M'ont enchanté l'oreille et captivé les sens, </l>
+	<l id='501'>C'est là des plus grands coeurs le charme inévitable,</l>
+	<l id='502'>C'est par elle qu'au mien Fenise est adorable,</l>
+	<l id='503'>Et que j'estime autant cet objet inconnu</l>
+	<l id='504'>Que je sens de mépris pour tout ce que j'ai vu.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='505'>Hélas ! Que de mon sort le caprice est extrême, </l>
+	<l id='506'>Si l'on me désoblige à me dire qu'on m'aime !</l>
+	<l id='507'>Il faut pourtant pousser la chose encor plus loin.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='508'>Mais de votre secours mon amour a besoin,</l>
+	<l id='509'>Mon secret déclaré, me le puis-je promettre ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='510'>En de plus sûres mains l'eussiez vous pu remettre ? </l>
+	<l id='511'>Je prévois toutefois un obstacle fâcheux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='512'>Quel ? Fenise aurait-elle accepté d'autres voeux ?</l>
+	<l id='513'>Si le Ciel l'a permis ma mort est infaillible.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='514'>Non, son coeur jusqu'ici s'est montré peu sensible,</l>
+	<l id='515'>Mais j'ai su découvrir depuis notre retour </l>
+	<l id='516'>Qu'une Dame assez belle a pour vous de l'amour,</l>
+	<l id='517'>Et prenant quelque soin d'observer cette amante,</l>
+	<l id='518'>J'ai connu que Fenise en était confidente,</l>
+	<l id='519'>Et je tiens assuré, comme elle en fait grand cas,</l>
+	<l id='520'>Qu'elle vous voudra mal de n'y répondre pas.  </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='521'>Et quelle est cette Dame à qui le Ciel m'engage ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='522'>Celle que ma maîtresse estime davantage,</l>
+	<l id='523'>Dont, quoi qu'elle entreprenne, elle trouve tout bon.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='524'>Faites-moi grâce entière en m'apprenant son nom.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='525'>Je vous le dirais bien, mais je ne saurais croire </l>
+	<l id='526'>Que vous eussiez sitôt pu manquer de mémoire,</l>
+	<l id='527'>Après ce que déjà vous avez su de moi ?</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='528'>Oyez-vous la friponne ? Elle parle pour soi.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='529'>Je viens de me remettre, et sais qui ce peut être.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='530' part='i'>Vous la connaissez donc ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='530' part='f'>Oui, je crois la connaître. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='531'>Et bien ? La trouvez-vous indigne qu'un grand coeur</l>
+	<l id='532'>Pour prix de son amour en partage l'ardeur ?</l>
+	<l id='533'>Qui verrait et Fenise, et celle que je pense,</l>
+	<l id='534'>N'y trouverait peut-être aucune différence,</l>
+	<l id='535'>Le mérite de l'une à l'autre est fort égal. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='536'>Bon, qui l'entendra mieux ne l'entendra pas mal.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='537'>Ce qui presse le plus c'est qu'auprès de Fenise</l>
+	<l id='538'>Vous daigniez de ma flamme appuyer l'entreprise.</l>
+	<l id='539'>Assurez-la d'un coeur respectueux, soumis, </l>
+	<l id='540'>Je l'espère de vous, vous me l'avez promis. </l>
+	<l id='541'>Et quant à cette Dame, à qui le Ciel fait prendre</l>
+	<l id='542'>Des sentiments plus doux que je n'en dois prétendre,</l>
+	<l id='543'>Dites-lui qu'à la voir si j'osais présumer</l>
+	<l id='544'>Que je fusse jamais capable de l'aimer,</l>
+	<l id='545'>D'une autre passion contraire à son attente </l>
+	<l id='546'>Je ne la voudrais pas choisir pour confidente.</l>
+<stage>Le Duc et Fabrice s'en vont.</stage>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='547'>Ah, Laure ! À sa froideur vois quel mépris est joint !</l>
+	<l id='548' part='i'>Que mon malheur est grand !</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, revenant.</speaker>
+	<l id='548' part='f'>Ne vous affligez point.</l>
+	<l id='549'>Si par hasard votre âme était embarrassée</l>
+	<l id='550'>De quelque trait d'amour dont elle fut pressée, </l>
+	<l id='551'>Avisez et comment, et pour combien, et quand,</l>
+	<l id='552'>Votre fait est trouvé, je suis toujours vacant.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='553'>Maraud, si de railler tu prends jamais l'audace ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Fénise, Laure.</head>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='554'>Soufrons, je n'ai que trop mérité ma disgrâce.</l>
+	<l id='555'>Qu'à ce mépris le Duc ait pu s'abandonner ? </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='556'>Je ne vois point encor de quoi vous étonner.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='557'>Non, sa façon d'agir est sans doute obligeante ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='558'>S'il s'est mis dans l'esprit d'aimer celle qui chante,</l>
+	<l id='559'>Il ne doit pas trouver grands charmes à vous voir</l>
+	<l id='560'>Lors que vous lui cachez ce qu'il devrait savoir. </l>
+	<l id='561'>Avec quelques appas que le Ciel l'ait formée,</l>
+	<l id='562'>L'amour fait la beauté de la personne aimée,</l>
+	<l id='563'>À votre seule voix le sien est attaché,</l>
+	<l id='564'>Et tant que le secret lui restera caché,</l>
+	<l id='565'>Tous vos attraits pour lui n'auront qu'un éclat sombre, </l>
+	<l id='566'>Et comme l'âme y manque, il n'en verra que l'ombre.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='567'>Et bien, qu'il continue à s'aveugler ainsi,</l>
+	<l id='568'>S'il est capricieux je la veux être aussi,</l>
+	<l id='569'>Et de ce que je suis il n'aura connaissance</l>
+	<l id='570'>Qu'en cessant de me voir avec indifférence. </l>
+	<l id='571'>Aussi bien de ce coeur l'espoir ambitieux,</l>
+	<l id='572'>Pour arrêter le sien, doit éblouir ses yeux,</l>
+	<l id='573'>Et sans un fort amour, ce n'est qu'une faiblesse </l>
+	<l id='574'>De croire qu'il rompra l'hymen de la Duchesse.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Fénise, Laure, Camille.</head>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='575' part='i'>Adieu, Laure.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='575' part='f'>Ah ! C'est toi, qui t'amène en ce lieu ? </l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='576'>Tu n'écoutes donc pas ? je viens te dire adieu.</l>
+	<l id='577' part='i'>Touche.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='577' part='f'>Tu me le dis avec beaucoup de joie.</l>
+	<l id='578' part='i'>Où vas-tu donc ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='578' part='f'>À Parme, où le Duc nous renvoie,</l>
+	<l id='579'>Nous avons ordre exprès de le démarier.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='580' part='i'>Et Carlos ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='580' part='f'>Il y va sans se faire prier. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='581'>Quoi, d'un pareil emploi ne craint-il point la honte ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='582'>À le voir on dirait qu'il y trouve son conte.</l>
+	<l id='583'>Pour le moins il prétend ? Mais il vous dira tout.</l>
+</sp>
+<sp who='LAURE'><speaker>LAURE, à Fenise.</speaker>
+	<l id='584'>Voyez-vous que le Duc pousse l'affaire à bout ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='585'>Je crains de Federic l'humeur inexorable. </l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='586'>C'est fort bien craindre à vous, il peste comme un diable,</l>
+	<l id='587'>Carlos est avec lui qui ne peut l'apaiser.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='588'>N'en doutez point, Madame, il veut vous épouser,</l>
+	<l id='589'>En levant un obstacle à ses desseins contraire</l>
+	<l id='590'>Il va pour vous fléchir employer votre frère, </l>
+	<l id='591'>C'est par là que Carlos sans contrainte obéit.</l>
+	<l id='592' part='i'>Mais il entre.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Carlos, Fénise, Laure, Camille.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='592' part='f'>Ma soeur, la fortune nous rit,</l>
+	<l id='593'>Et sur nous désormais sa faveur se déploie,</l>
+	<l id='594'>Voyez dans ce billet la cause de ma joie.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, lit.</speaker>
+	<l id='595'>Carlos, sans trop abattre ou flatter son espoir, </l>
+	<l id='596'>Jusques dans ses États ramenez la Duchesse,</l>
+	<l id='597'>À trouver un prétexte employez votre adresse,</l>
+	<l id='598'>Je ne suis point encor en état de la voir.</l>
+	<l id='599' part='i'>LE DUC.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='599' part='f'>Que dites-vous, de l'ordre qu'il me donne ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='600'>Sachant ce qui se passe il n'a rien qui m'étonne, </l>
+	<l id='601'>Mais après les bontés que vous avez pour moi,</l>
+	<l id='602' part='i'>Je me dois accuser ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='602' part='f'>Vous, ma soeur, et de quoi ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='603'>De vous avoir caché ce qu'avaient su m'apprendre</l>
+	<l id='604'>Mille soupirs qu'en vain j'ai refusé d'entendre.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='605'>Ils sont les seuls à craindre à qui se voit forcé </l>
+	<l id='606'>De déguiser sa peine aux yeux qui l'ont blessé.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='607'>Il n'est point toutefois de flammes si secrètes,</l>
+	<l id='608'>Qu'on ne les autorise à s'en rendre interprètes.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='609'>Le respect quelquefois a lieu de prévaloir.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='610'>Je ne vois pas pour qui le Duc en dût avoir. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='611'>Je sais qu'on lui doit tout, aussi j'ose vous dire</l>
+	<l id='612'>Que sentant dans mon coeur ce que l'amour inspire,</l>
+	<l id='613'>Ma raison dont mes sens tâchaient de triompher</l>
+	<l id='614'>S'employa toute entière afin de l'étouffer,</l>
+	<l id='615'>Et si de cette ardeur, à toute autre inconnue </l>
+	<l id='616'>Mes soupirs malgré moi vous ont entretenue,</l>
+	<l id='617'>C'est que contraint ailleurs à les trop resserrer,</l>
+	<l id='618'>Ce coeur auprès de vous cherchait à respirer.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='619'>Où m'allait engager mon imprudence extrême,</l>
+	<l id='620'>Sans savoir mon secret il parle pour lui-même, </l>
+	<l id='621'>Pour nous entendre mal j'ai pensé me trahir. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='622'>Mais qu'à ce nouvel ordre il m'est doux d'obéir,</l>
+	<l id='623'>Quand le Duc rejetant l'hymen de la Duchesse</l>
+	<l id='624'>Ôte à ma passion toute ombre de faiblesse,</l>
+	<l id='625'>Car c'en est une enfin qu'on ne peut trop blâmer </l>
+	<l id='626'>Que d'aimer sans espoir qui ne peut nous aimer.</l>
+	<l id='627'>J'ai vécu cependant dans ce cruel martyre,</l>
+	<l id='628'>J'aimais, et le respect m'empêchait de le dire,</l>
+	<l id='629'>Et mes voeux incertains, dans mon coeur renfermés,</l>
+	<l id='630'>Y mouraient languissants, aussitôt que formés, </l>
+	<l id='631'>Hélas ! combien de fois sans le faire paraître</l>
+	<l id='632'>Me suis-je plaint du rang où le Ciel m'a fait naître,</l>
+	<l id='633'>Puisque son vain éclat faisait tomber sur moi</l>
+	<l id='634'>Le redoutable honneur d'un glorieux emploi,</l>
+	<l id='635'>Qui pour servir le Duc me réduisait sans cesse </l>
+	<l id='636'>À m'arrêter à Parme auprès de la Duchesse !</l>
+	<l id='637'>C'est-là qu'à ses regards ce coeur trop exposé</l>
+	<l id='638'>Prit l'amorce du feu dont il s'est embrasé,</l>
+	<l id='639'>C'est-là que le devoir m'attachant à lui plaire</l>
+	<l id='640'>Produisit un effet à soi-même contraire, </l>
+	<l id='641'>Et que de mes respects les soins trop assidus</l>
+	<l id='642'>Dans l'hommage du Duc se virent confondus,</l>
+	<l id='643'>Mais enfin ennuyé de contraindre ma flamme,</l>
+	<l id='644'>Le Ciel daigne à mes voeux abandonner mon âme,</l>
+	<l id='645'>Et cet heureux revers que je n'osais prévoir </l>
+	<l id='646'>Permet à mon amour les douceurs de l'espoir.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='647'>Cet espoir qui si tôt croit avoir lieu de naître,</l>
+	<l id='648'>Vous fait voir plus heureux que vous ne feignez d'être,</l>
+	<l id='649'>Puisque dans la Duchesse il suppose pour vous</l>
+	<l id='650'>Des sentiments d'estime et glorieux et doux. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='651'>Je l'avouerai, ma soeur, si l'ardeur qui m'enflamme</l>
+	<l id='652'>Éclaire assez mon coeur pour lire dans son âme,</l>
+	<l id='653'>L'estime que toujours la Duchesse eut pour moi</l>
+	<l id='654'>Trouve quelque contrainte au respect de sa foi,</l>
+	<l id='655'>Et ce qu'elle se plaît à m'en faire paraître </l>
+	<l id='656'>Désavoué à regret l'amour qui le fait naître.</l>
+	<l id='657'>Cent fois j'ai vu sa peine égale à mon ennui,</l>
+	<l id='658'>À m'ouïr expliquer la passion d'autrui,</l>
+	<l id='659'>Et nos coeurs interdits ne se pouvait défendre</l>
+	<l id='660'>De pousser des soupirs que nous n'osions entendre. </l>
+	<l id='661'>Ainsi comme l'hymen que l'on voit arrêté</l>
+	<l id='662'>A pour unique appui la foi d'un vieux traité,</l>
+	<l id='663'>Que bien loin que son coeur dans ce choix s'intéresse,</l>
+	<l id='664'>Le seul bien de l'État y porte la Duchesse,</l>
+	<l id='665'>Et que même elle tient pour un mépris secret </l>
+	<l id='666'>Que le Duc n'ait jamais demandé son portrait,</l>
+	<l id='667'>Jugez si d'un retour où son ordre m'engage,</l>
+	<l id='668'>Mon adresse pourra dissimuler l'outrage,</l>
+	<l id='669'>Et si prenant mon temps à parler de mon feu</l>
+	<l id='670'>Il doit m'être permis d'en espérer l'aveu. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='671'>Vous l'espérez, mon frère, avec trop de justice,</l>
+	<l id='672'>Prenez l'occasion puisqu'elle est si propice ;</l>
+	<l id='673'>Parlez, priez, pressez, et ne négligez rien.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='674'>L'ordre que je reçois m'en offre le moyen.</l>
+	<l id='675'>Federic toutefois m'en donne un tout contraire, </l>
+	<l id='676'>Auprès de la Duchesse il m'engage à me taire,</l>
+	<l id='677'>Tandis que de sa part il fera son effort</l>
+	<l id='678'>À remettre le Duc aux termes de l'accord.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='679'>Ah, ne l'en croyez pas c'est un abus extrême</l>
+	<l id='680'>Quand on peut tout pour soi, d'agir contre soi-même, </l>
+	<l id='681'>Le Duc vous autorise à ne rien déguiser, </l>
+	<l id='682'>Irritez la Duchesse au lieu de l'apaiser,</l>
+	<l id='683'>Inventez, ajoutez, une couronne est belle,</l>
+	<l id='684'>Et quoi qu'on fasse enfin, tout est permis pour elle.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='685'>À ces hauts sentiments je vois toute ma soeur. </l>
+	<l id='686'>Que pour mes intérêts elle montre d'ardeur !</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='687'>Le Ciel sait à quel point cette ardeur est sincère,</l>
+	<l id='688'>Mais en pourrais-je moins témoigner pour un frère,</l>
+	<l id='689'>Qui pendant mon exil m'a montré tant de fois</l>
+	<l id='690'>Qu'il en désapprouvait les tyranniques lois ? </l>
+	<l id='691'>Aussi ce doux espoir de vous voir Duc de Parme,</l>
+	<l id='692'>Pour la mienne à son tour est un si puissant charme,</l>
+	<l id='693'>Qu'à peine, m'acquittant de ce que je vous dois,</l>
+	<l id='694'>Celui d'être Duchesse en aurait plus pour moi.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='695'>Certes, je suis confus de voir qu'à tant de zèle ? </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Fédéric, Caarlos, Fenise, Laure, Camille.</head>
+<sp who='FEDERIC'><speaker>FEDERIC.</speaker>
+	<l id='696'>Je viens vous apporter une étrange nouvelle.</l>
+	<l id='697'>De ton départ, Carlos, ne sois plus en souci,</l>
+	<l id='698'>La Duchesse en secret vient d'arriver ici.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='699' part='i'>Que dites-vous, Seigneur ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='699' part='f'>Moi-même je l'ai vue,</l>
+	<l id='700'>Elle veut à Milan demeurer inconnue, </l>
+	<l id='701'>Et tenant de son rang le secret déguisé,</l>
+	<l id='702'>Entretenir le Duc sous un nom supposé.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='703'>La résolution me semble si nouvelle ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='704'>Ma Fille, cependant courez au devant d'elle,</l>
+	<l id='705'>Et dans son entreprise offrez-lui tous vos soins. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='706' part='i'>Je sais ce que je dois.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='706' part='f'>Allez, je vous rejoins.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Federic, Carlos, Camille.</head>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='707'>Carlos, sans pénétrer son dessein davantage,</l>
+	<l id='708'>Pour servir la Duchesse il faut feindre un voyage,</l>
+	<l id='709'>Et demeurant caché le reste de ce jour,</l>
+	<l id='710'>D'un ordre de sa part appuyer ton retour. </l>
+	<l id='711'>Prends bien garde sur tout de ne lui rien apprendre</l>
+	<l id='712'>Du dessein que le Duc contre elle avait su prendre,</l>
+	<l id='713'>Pour l'intérêt public il faut dissimuler.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='714'>Mais sans se découvrir elle veut lui parler ?</l>
+	<l id='715' part='i'>Quel en est votre espoir ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='715' part='f'>Qu'ébloui de ses charmes </l>
+	<l id='716'>Le Duc à sa beauté rendra soudain les armes,</l>
+	<l id='717'>Et que de son chagrin l'effort capricieux</l>
+	<l id='718'>Cédera sans contrainte à l'éclat de ses yeux.</l>
+	<l id='719'>J'en viens d'être surpris ; on lit sur son visage</l>
+	<l id='720'>Une fierté si noble et d'âme et de courage, </l>
+	<l id='721'>Sa taille avantageuse a tant de majesté,</l>
+	<l id='722'>Son teint tant de douceur et de vivacité,</l>
+	<l id='723'>Qu'auprès tant de beautés il est presque impossible</l>
+	<l id='724'>D'en voir briller l'appas, et n'être point sensible.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='725'>Mais enfin sous quel nom le prétend-elle voir ? </l>
+	<l id='726' part='i'>En quelle qualité ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='726' part='f'>C'est ce qu'il faut savoir.</l>
+	<l id='727'>Comme à l'entretenir le devoir nous appelle,</l>
+	<l id='728'>Allons sans différer en résoudre avec elle.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. La Duchesse, Fenise, Laure.</head>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='729'>Celles qui comme nous naissent dans ce haut rang</l>
+	<l id='730'>Doivent ce sacrifice à l'éclat de leur sang. </l>
+	<l id='731'>Ces hommages profonds, et ces honneurs suprêmes</l>
+	<l id='732'>Ne servent qu'à les rendre esclaves d'elles-mêmes,</l>
+	<l id='733'>Et leur propre grandeur étale un joug pompeux</l>
+	<l id='734'>Qui pour être éclatant n'est pas moins rigoureux.</l>
+	<l id='735'>Sur tout pour leur hymen quoi qu'elles se proposent </l>
+	<l id='736'>Elles sont aux États, les États en disposent,</l>
+	<l id='737'>Et de leurs intérêts faisant d'injustes lois</l>
+	<l id='738'>Pour régler leurs désirs n'attendent pas leur choix.</l>
+	<l id='739'>C'est par là que ce coeur, sans aucun autre charme,</l>
+	<l id='740'>Agréa l'union de Milan et de Parme, </l>
+	<l id='741'>Mais au premier soupçon qui m'a fait pressentir,</l>
+	<l id='742'>Qu'à cet accord le Duc eut peine à consentir,</l>
+	<l id='743'>Ayant su m'échapper de Pavie inconnue,</l>
+	<l id='744'>Pour m'en éclaircir mieux je suis ici venue,</l>
+	<l id='745'>Où l'ordre de Carlos ne m'a que trop appris,  </l>
+	<l id='746'>Ce qu'il faut que j'oppose à de lâches mépris.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='747'>Madame, pour le Duc je demeure confuse</l>
+	<l id='748'>De voir qu'à son bonheur lui-même il se refuse,</l>
+	<l id='749'>Mais quand vous ne cherchez qu'à vous désabuser,</l>
+	<l id='750'>J'aurais cru faire un crime à vous rien déguiser. </l>
+	<l id='751'>La raison peut sur lui bien moins que son caprice.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='752'>Quoi qui le fasse agir, le Ciel me rend justice,</l>
+	<l id='753'>D'une indigne contrainte il dégage ma foi,</l>
+	<l id='754'>Et me laisse en état de disposer de moi,</l>
+	<l id='755'>Car enfin j'avouerai ce qu'en faveur d'un frère </l>
+	<l id='756'>Vous m'avez su déjà forcer à ne plus taire,</l>
+	<l id='757'>Ce beau feu dont pour lui je me sentais brûler,</l>
+	<l id='758'>Et que l'honneur toujours me fit dissimuler.</l>
+	<l id='759'>Je rougis toutefois, et crains un juste blâme</l>
+	<l id='760'>D'avoir sitôt reçu l'hommage de sa flamme, </l>
+	<l id='761'>Et doute si Carlos, dans un trop prompt aveu</l>
+	<l id='762'>Peut estimer un bien qui lui coûte si peu.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='763'>Douter qu'il ne l'estime ! ah, c'est lui faire injure,</l>
+	<l id='764'>Madame, il a pour vous une flamme si pure,</l>
+	<l id='765'>Il trouve tant de gloire à s'en voir consumer </l>
+	<l id='766'>Qu'il semble que lui seul ait su jamais aimer.</l>
+	<l id='767'>Ravi de votre aveu, vous l'avez vu vous-même</l>
+	<l id='768'>Témoigner à vos pieds sa passion extrême,</l>
+	<l id='769'>Mais si je vous disais à quels secrets efforts</l>
+	<l id='770'>Le respect devant vous contraignait ses transports, </l>
+	<l id='771'>Si son feu tel qu'il est s'osait faire paraître ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='772'>Ce n'est pas d'aujourd'hui que je l'ai su connaître,</l>
+	<l id='773'>Mais à vous en ouïr exagérer l'ardeur,</l>
+	<l id='774'>Carlos auprès de vous n'a que de la froideur,</l>
+	<l id='775'>Jamais soeur ne prit tant les intérêts d'un frère. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='776'>Le sang fait dans nos coeurs un profond caractère.</l>
+	<l id='777'>D'ailleurs, pendant douze ans et d'ennui,</l>
+	<l id='778'>N'ayant vu que lui seul, que puis-je aimer que lui ?</l>
+	<l id='779'>Lui seul avait accès dedans ma solitude.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='780'>D'un pareil traitement l'exemple est assez rude. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='781'>Federic crût devoir cet exemple à sa foi.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='782'>Vous m'en devez haïr puisque ce fut pour moi.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='783'>Dîtes plutôt le Duc, dont le fâcheux caprice</l>
+	<l id='784'>Justifia depuis une telle injustice.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='785'>Il a l'air d'un bizarre, et tantôt à le voir </l>
+	<l id='786'>J'ai lu dedans ses yeux ce qu'on m'en fait savoir,</l>
+	<l id='787'>Mais c'est peu d'en juger par ce qu'ils font paraître,</l>
+	<l id='788'>Je veux l'entretenir sans me faire connaître,</l>
+	<l id='789'>Il est juste aussi bien qu'il me voie à son tour.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='790'>Madame, et s'il venait à vous parler d'amour ? </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='791'>Que la vengeance alors aurait pour moi de charmes !</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='792'>Il est pour attendrir des soupirs et des larmes,</l>
+	<l id='793' part='i'>S'il s'en servait, Madame ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='793' part='f'>Il n'en ferait pas mieux.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='794'>Mais l'amour quelquefois se glisse par les yeux,</l>
+	<l id='795' part='i'>S'il vous plaisait enfin ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='795' part='f'>Le Duc pourrait me plaire ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='796'>Madame, excusez-moi, je parle pour un frère</l>
+	<l id='797'>Dont l'amour inquiet semble ne craindre rien</l>
+	<l id='798'>À l'égal du péril d'un semblable entretien ;</l>
+	<l id='799'>Car enfin si le Duc est la même inconstance,</l>
+	<l id='800'>Il s'attache sur l'heure, au moins en apparence, </l>
+	<l id='801'>Toutes les nouveautés ont pour lui tant d'appas</l>
+	<l id='802'>Qu'il estime toujours ce qu'il ne connaît pas.</l>
+	<l id='803'>Moi-même, à me savoir hors de ma solitude,</l>
+	<l id='804'>J'ai mis dans son esprit un peu d'inquiétude,</l>
+	<l id='805'>Et pour me laisser voir, si je veux l'écouter, </l>
+	<l id='806'>Peut-être qu'il ira jusqu'à me protester.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='807'>Flattant son feu d'espoir, faites qu'il continue.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='808'>Il s'évanouirait à la première vue,</l>
+	<l id='809'>Et ce n'est après tout que la difficulté</l>
+	<l id='810'>Qui chatouille aujourd'hui sa curiosité, </l>
+	<l id='811'>Ayant ouï ma voix il s'est pris par l'oreille.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='812'>On publie en effet que c'est une merveille,</l>
+<note type='L'>Farder : Appliquer du fard. Signife aussi, employer de l'artifice pour faire paraître une chose plus belle qu'elle n'est. [F]</note> 
+	<l id='813'>Et j'ai su de Carlos, lui qui ne farde rien ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='814'>Il prend mon intérêt comme je fais le sien,</l>
+	<l id='815'>Madame, on est suspect parlant de ce qu'on aime. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='816'>Je voudrais avoir lieu de m'en croire moi-même.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='817'>Mes voeux ont à vous plaire et leur gloire et leur but,</l>
+	<l id='818'>Je vais vous détromper, qu'on apporte mon luth.</l>
+<stage>Laure sort.</stage>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='819'>Les accords en sont doux quand la voix les anime,</l>
+	<l id='820' part='i'>Ce talent est aimable.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='820' part='f'>Il vaut ce qu'on l'estime, </l>
+	<l id='821'>Pendant ma solitude il flattait mon souci.</l>
+	<l id='822' part='i'>Donne.</l>
+</sp>
+<sp who='LAURE'><speaker>LAURE, rentrant.</speaker>
+	<l id='822' part='m'>Le Duc, Madame ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='822' part='m'>Et bien ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='822' part='f'>Il vient ici.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='823' part='i'>Le Duc ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='823' part='f'>Pour me cacher usons de stratagème.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='824'>Appelez-moi Célie, et passez pour moi-même,</l>
+	<l id='825'>Vous n'aurez rien à craindre ; attiré par ma voix </l>
+	<l id='826'>Le Duc ici déjà m'a surprise une fois,</l>
+	<l id='827'>J'ai feint lors si bien que trompant son attente</l>
+	<l id='828'>Sous ce nom emprunté j'ai passé pour suivante.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='829'>Ce jeu de votre esprit ne se peut trop priser.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, lui donnant son luth.</speaker>
+	<l id='830'>Servez-vous de ce luth pour le mieux abuser. </l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Le Duc, La Duchesse, Fenise, Laure,Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='831' part='i'>Voyons sans être vus.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='831' part='f'>Ah, Seigneur, qu'elle est belle !</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='832'>Célie avec raison s'estimait autant qu'elle,</l>
+	<l id='833'>Et je doute en effet si jamais sans sa voix</l>
+	<l id='834'>La beauté de Fenise eut arrêté mon choix,</l>
+	<l id='835'>Mais elle est belle enfin, et ce charme l'emporte. </l>
+	<l id='836' part='i'>Elle accorde son luth, demeurons-là.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='836' part='f'>Qu'importe ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='837'>Si tu sais que ma joie est à l'ouïr chanter ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='838'>Oyez-donc, mais gardez de vous en dégoûter,</l>
+	<l id='839' part='i'>Si vous fermiez les yeux ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='839' part='f'>Le conseil ridicule !</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='840'>J'appréhende pour vous qu'elle ne gesticule. </l>
+	<l id='841'>Est-elle la première à qui sans y penser</l>
+	<l id='842'>L'étude d'un passage apprend à grimacer,</l>
+	<l id='843'>Et qui pour l'adoucir, croyant faire merveille </l>
+	<l id='844'>Le commence à la bouche, et finit à l'oreille ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='845'>Ton sens de la folie a toujours le support, </l>
+	<l id='846' part='i'>Tais-toi.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='846' part='f'>Son instrument est d'un fâcheux accord.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à la Duchesse.</speaker>
+	<l id='847' part='i'>Il ne s'avance point.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='847' part='f'>La rencontre est plaisante,</l>
+	<l id='848'>Comme il me prend pour vous, il attend que je chante.</l>
+	<l id='849'>J'y vais remédier. Julie est-elle ici ?</l>
+	<l id='850'>Cherchez, Laure, mais Dieux ! qui nous observe ainsi ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='851' part='i'>Madame, c'est le Duc.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
+	<l id='851' part='f'>Enfin, belle Fenise,</l>
+	<l id='852'>Le Ciel par son aveu soutient mon entreprise,</l>
+	<l id='853'>Puisque malgré vos soins à vous cacher de moi</l>
+	<l id='854'>Il daigne consentir au bien que je reçois.</l>
+	<l id='855'>Mais Dieux, quelle rigueur, et qui le pourrait croire </l>
+	<l id='856'>Qu'au plaisir de vous voir lors que je mets ma gloire,</l>
+	<l id='857'>Vos voeux dans mes désirs prissent si peu de part</l>
+	<l id='858'>Que s'ils sont satisfaits je le dois au hasard ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='859'>Seigneur, je l'avouerai, ce reproche m'étonne,</l>
+	<l id='860'>Quand on vit sans désirs on n'en cause à personne, </l>
+	<l id='861'>Et je me connais trop pour oser concevoir</l>
+	<l id='862'>Qu'on se laissât surprendre à celui de me voir.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='863'>Vous désavouerez donc cette voix adorable</l>
+	<l id='864'>Qui d'un si beau désir m'a su rendre capable,</l>
+	<l id='865'>Ce charme qui déjà m'a surpris tant de fois ?  </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='866'>Si bien que vos désirs sont l'effet de ma voix ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='867'>Il est vrai qu'elle seule a su les faire naître,</l>
+	<l id='868'>Mais comment les borner quand on vous peut connaître,</l>
+	<l id='869'>Et qu'on admire en vous ces merveilleux accords</l>
+	<l id='870'>Des charmes de la voix et des beautés du corps ? </l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='871'>Que lui parois-je donc s'il la trouve charmante ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='872'>Vous lui laissez penser que c'est elle qui chante,</l>
+	<l id='873' part='i'>C'est par là qu'il se prend.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='873' part='f'>Qu'il est capricieux !</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='874'>Vos réserves pour lui ne valent guère mieux.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='875'>J'examine, Seigneur, quand je vous pourrais croire, </l>
+	<l id='876'>Comment vous accordez vos désirs et ma gloire,</l>
+	<l id='877'>Et je ne vois pas bien de quel espoir flatté</l>
+	<l id='878'>Vous admirez ma voix, ou louez ma beauté.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='879'>Comme tous mes désirs sont éloignez du crime</l>
+	<l id='880'>Je crois m'être flatté d'un espoir légitime, </l>
+	<l id='881'>Et que vous agréerez qu'en ce bienheureux jour</l>
+	<l id='882'>Mon coeur vous soit donné par les mains de l'amour.</l>
+	<l id='883'>Que dis-je ? il est à vous, et la gloire où j'aspire</l>
+	<l id='884'>N'est que d'être avoué quand j'ose vous le dire.</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, à Fenise.</speaker>
+	<l id='885'>Voyez qu'à ma vengeance il se livre à propos. </l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à la Duchesse.</speaker>
+	<l id='886'>Mais n'oublierez-vous point le malheureux Carlos ?</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, au Duc.</speaker>
+	<l id='887'>Si c'est-là de la Cour le langage ordinaire,</l>
+	<l id='888'>Il faudra que j'apprenne à n'être plus sincère.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='889'>Quoi, doutez-vous d'un feu qu'ont tant justifié ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='890'>Quoi, l'on parle d'amour quand on est marié ? </l>
+	<l id='891'>Est-ce que vous croyez m'acquérir pour maîtresse ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='892' part='i'>Moi marié, Madame ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='892' part='f'>Avecque la Duchesse.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='893'>Et ne savez-vous pas qu'afin de l'irriter,</l>
+	<l id='894'>En tous lieux à dessein je l'ai fait s'arrêter,</l>
+	<l id='895'>Et qu'à ma passion craignant qu'elle pût nuire </l>
+	<l id='896'>Carlos jusques à Parme est allé la conduire ?</l>
+	<l id='897'>J'en hais jusques au nom, et trouverais plus doux</l>
+	<l id='898'>De vivre sans État que de vivre sans vous.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='899'>Quelle assurance, Laure, et qu'il la trouve aimable !</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='900'>Un tel aveu, Seigneur, m'est assez favorable, </l>
+	<l id='901'>Mais c'est un peu trop tôt m'engager votre foi,</l>
+	<l id='902'>Peut-être la Duchesse est plus belle que moi,</l>
+	<l id='903' part='i'>Et je m'exposerais ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='903' part='f'>Pensez-en mieux de grâce,</l>
+	<l id='904'>Est-il quelque beauté que la vôtre n'efface ?</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, à Fenise.</speaker>
+	<l id='905'>J'obtiens sous votre nom un accueil assez doux, </l>
+	<l id='906'>Voyez ce que je puis lui promettre pour vous,</l>
+	<l id='907'>Répondrai-je en cruelle, ou serai-je propice ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='908'>Je n'ai point d'intérêt à flatter son caprice,</l>
+	<l id='909'>Comme votre beauté fait vivre son désir,</l>
+	<l id='910'>Sans me considérer c'est à vous à choisir. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='911'>Mais c'est pour votre voix que ce désir éclate.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='912'>Qu'importe, si vos yeux ont l'appas qui le flatte ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='913'>Où l'on voit à la plainte un coeur abandonné,</l>
+	<l id='914'>L'amour naîtra bientôt s'il n'est pas déjà né.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='915'>Hélas, lors qu'il s'agit du repos de ma vie, </l>
+	<l id='916'>Au lieu de mon amour consultez-vous Célie ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='917'>Outre que son avis est le seul qui me plaît,</l>
+	<l id='918'>Peut-être a-t-elle ici quelque peu d'intérêt,</l>
+	<l id='919' part='i'>Je le dois conserver.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='919' part='m'>Vois Fabrice.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='919' part='f'>Ah j'enrage,</l>
+<note type="L">Filoutage : Habitude de filou ; métier de filou (voleur). [L]</note>
+	<l id='920'>Elles sont toutes d'eux d'accord du filoutage. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='921' part='i'>Mais que résolvez-vous ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='921' part='f'>De prendre votre amour</l>
+	<l id='922'>Pour un feu qui peut naître et mourir en un jour,</l>
+	<l id='923'>Pour un aveugle effort d'une première idée</l>
+	<l id='924'>Dont sans réflexion votre âme est possédée,</l>
+	<l id='925'>Ou si vous m'en voulez pleinement assurer, </l>
+	<l id='926'>Il faut voir la Duchesse, et puis me préférer.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='927'>Ah, si vous en doutez, que votre crainte cesse,</l>
+	<l id='928'>Quelque éclat de beauté qu'étale la Duchesse,</l>
+	<l id='929'>Eut-elle mille attraits capables de charmer,</l>
+	<l id='930'>N'ayant point votre voix, je ne la puis aimer. </l>
+</sp>
+<sp who='LAURE'><speaker>LAURE, à Fenise.</speaker>
+	<l id='931' part='i'>Cela va bien pour vous.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='931' part='f'>D'ailleurs les miens l'ont vue,</l>
+	<l id='932'>Et sa beauté par eux ne m'est que trop connue ;</l>
+	<l id='933'>Ce sont charmes communs, ce sont mornes appas</l>
+	<l id='934'>Qui des plus faibles coeurs ne triompheraient pas.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='935' part='i'>Et même ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='935' part='m'>Que dis-tu ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='935' part='f'>Que vous êtes modeste. </l>
+	<l id='936'>Elle a, vous a-t-on dit, quelque os ici de reste,</l>
+	<l id='937'>Qui n'a jamais voulu se mettre à la raison,</l>
+	<l id='938'>Qu'on ne l'ait mis aux fers et son corps en prison.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='939'>Vous ne répondez point ! serait-il bien possible</l>
+	<l id='940'>Qu'un si parfait amour vous trouvât insensible, </l>
+	<l id='941'>Et que vous trahissiez mon espoir le plus doux,</l>
+	<l id='942'>Quand j'ose mépriser la Duchesse pour vous ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='943'>En vain de ce mépris qui si tôt vous dégage,</l>
+	<l id='944'>Votre légèreté tire quelque avantage,</l>
+	<l id='945'>Puisque dans cet amour qui presse mon aveu </l>
+	<l id='946'>Ma voix mérite trop, et ma beauté trop peu.</l>
+	<l id='947'>Si pour avoir ouï cette voix qui vous blesse,</l>
+	<l id='948'>Sans scrupule aujourd'hui vous quittez la Duchesse,</l>
+	<l id='949'>Pour me rendre le change, et m'ôter votre foi,</l>
+	<l id='950'>Il ne faudrait demain que chanter mieux que moi, </l>
+	<l id='951'>L'exemple me fait peur, et sur cette assurance </l>
+	<l id='952'>Vous pouvez adresser ailleurs votre inconstance.</l>
+	<l id='953' part='i'>Adieu.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='953' part='f'>Quoi ? Me quitter ! Madame, encor deux mots.</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, à Fenise.</speaker>
+	<l id='954'>Allons, il faut donner mes ordres à Carlos.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Le Duc, Fenise, Laure, Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='955'>Et de grace, un moment ; arrêtez-là, Célie. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='956' part='i'>Moi, Seigneur ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='956' part='m'>Quel mépris !</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='956' part='f'>Dîtes quelle folie.</l>
+	<l id='957'>Mais pour lui donner lieu de s'en mordre les doigts,</l>
+	<l id='958'>Épousons la Duchesse, et nargue de sa voix.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='959'>Ah, ne m'en parle point ; quoi qu'elle me méprise,</l>
+	<l id='960'>Ce coeur ne brûlera jamais que pour Fenise, </l>
+	<l id='961'>Elle a seule pour lui tout ce qui peut charmer.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='962'>Donc sa seule beauté vous pouvait enflammer,</l>
+	<l id='963'>Et toute autre aujourd'hui vous est indifférente ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='964'>J'en sens dedans mon coeur l'impression charmante.</l>
+	<l id='965'>Ah, si Célie eût eu quelque bonté pour moi ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='966'>Je prends vos intérêts autant que je le dois,</l>
+	<l id='967'>Et quoi qu'à m'accuser votre plainte s'attache,</l>
+	<l id='968'>Vous ne m'avez rien dit que Fenise ne sache.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='969'>Auriez-vous exprimé ces doux empressements ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='970'>Avec la même ardeur, les mêmes sentiments, </l>
+	<l id='971'>Mais j'ai trouvé toujours obstacle à votre flamme.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='972' part='i'>Et c'est ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='972' part='f'>Vous le savez, l'amour de cette Dame,</l>
+	<l id='973'>Qui dans sa confidence eut toujours tant de part.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='974' part='i'>Mais me dites-vous vrai ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='974' part='f'>Je vous parle sans fard.</l>
+	<l id='975'>Est-ce avec vous, Seigneur, qu'il est permis de feindre ? </l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fabrice.</speaker>
+	<l id='976' part='i'>Qu'elle est folle ! Entends-tu ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='976' part='f'>J'ai peine à me contraindre.</l>
+	<l id='977'>Quoi, ce petit extrait d'original humain,</l>
+	<l id='978'>Pour aspirer à vous a le coeur assez vain ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='979' part='i'>Tu vois.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='979' part='f'>Pour la payer de tous ses badinages,</l>
+	<l id='980'>Mariez-là, Seigneur, à quelqu'un de vos pages. </l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, au Duc.</speaker>
+	<l id='981'>Enfin sur cet amour il faut vous déclarer.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='982'>Mais cette Dame encore que peut-elle espérer ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='983'>Si pour elle, Seigneur, vous avez quelque estime,</l>
+	<l id='984'>Ignorez-vous le prix d'une amour légitime ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='985' part='i'>Mais me connaissez-vous ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='985' part='f'>En vous vantant son feu, </l>
+	<l id='986'>Au seul Duc de Milan j'en crois faire l'aveu.</l>
+	<l id='987'>Si vous ne l'êtes pas, permettez que j'espère</l>
+	<l id='988'>Qu'il apprendra de vous ce que je n'ai pu taire.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='989'>Pour obliger Fenise à recevoir ma foi,</l>
+	<l id='990'>Continuez, de grâce, à lui parler de moi, </l>
+	<l id='991'>Et pour reconnaissance, assurez cette Dame</l>
+	<l id='992'>Qu'au Duc même aujourd'hui j'expliquerai sa flamme,</l>
+	<l id='993'>Et qu'en votre faveur il peut être qu'un jour</l>
+	<l id='994'>Le Duc se montrera sensible à son amour.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='995'>Dites vous-même au Duc, que quoi qu'il pense d'elle, </l>
+	<l id='996'>Elle eut l'âme toujours aussi fière que belle,</l>
+	<l id='997'>Et qu'il peut arriver, quand le Duc l'aimera,</l>
+	<l id='998'>Qu'elle verra sa peine, et la méprisera.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE IV. Le Duc, Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='999' part='i'>Fabrice, qu'en dis-tu ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='999' part='f'>J'admire la harangue,</l>
+	<l id='1000'>Elle a le Diable au corps, ou du moins à la langue, </l>
+	<l id='1001' part='i'>Comme elle tranche net !</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1001' part='f'>J'aime cette fierté</l>
+	<l id='1002'>Qui relève à mes yeux l'éclat de sa beauté,</l>
+	<l id='1003' part='i'>Elle est belle après tout.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1003' part='f'>Mais Fenise plus qu'elle ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1004'>Elle chante, il suffit pour être la plus belle.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1005'>C'est par-là seulement que vous la préférez ? </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1006'>Oui, par sa seule voix mes voeux sont attirez,</l>
+	<l id='1007'>Elle seule à mon coeur livre une douce guerre.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<note type="L">Caterre : Fluxion et distillation d'humeurs sur le visage, sur la gorge, ou sur autre partie du corps. Les caterres proviennent ordinairement de chaleur ou de froideur excessives, ou de la repletion du cerveau, et de la debilité de la partie recevante. [F]</note>
+	<l id='1008'>Vous aurez un amour bien sujet au caterre,</l>
+	<l id='1009'>Il ne faut qu'une toux, un rhume, adieu la voix,</l>
+	<l id='1010'>C'est-à-dire, à l'amour adieu pour quelques mois. </l>
+	<l id='1011' part='i'>Mais voici Federic.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Le Duc, Federic, Fabrice.</head>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1011' part='f'>Seigneur, quelle surprise !</l>
+	<l id='1012' part='i'>Vous rencontrer ici ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1012' part='f'>Vous me cachiez Fenise,</l>
+	<l id='1013'>Mais enfin malgré vous j'ai vu ce rare objet.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1014'>Je n'ai jamais agi qu'en fidèle sujet.</l>
+	<l id='1015'>En l'éloignant de vous si j'ai pu vous déplaire, </l>
+	<l id='1016'>Pour le bien de l'État j'ai crû le devoir faire.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1017'>Aussi jusques ici renonçant à mon choix,</l>
+	<l id='1018'>De son seul intérêt je me suis fait des lois,</l>
+	<l id='1019'>J'ai contraint ma raison sur un triste hyménée</l>
+	<l id='1020'>Qui l'avait asservie avant qu'elle fut née, </l>
+	<l id='1021'>Et pour l'y mieux forcer par un dernier effort,</l>
+	<l id='1022'>Sans voir, sans être vu, j'en ai signé l'accord,</l>
+	<l id='1023'>Mais aujourd'hui le Ciel autrement en ordonne.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1024' part='i'>Que dites-vous, Seigneur ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1024' part='f'>Ce discours vous étonne.</l>
+	<l id='1025'>La surprise pourtant n'aura rien que de doux </l>
+	<l id='1026'>Si je partage enfin ma couronne avec vous,</l>
+	<l id='1027'>J'en veux mettre le droit dedans votre famille.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1028' part='i'>Quoi, Seigneur, vous voulez ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1028' part='f'>Épouser votre fille.</l>
+	<l id='1029'>Sa beauté sur mon coeur usant de tous ses droits</l>
+	<l id='1030'>Vient d'achever en moi le charme de sa voix. </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1031'>Ah, dissipez ce charme, et rentrez en vous-même.</l>
+	<l id='1032' part='i'>Vous, l'amant de ma fille ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1032' part='f'>Oui, Federic, je l'aime,</l>
+	<l id='1033'>Et rien ne peut changer ce que j'ai résolu.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1034'>Servez-vous mieux, Seigneur, du pouvoir absolu.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1035' part='i'>Non, mon dessein est juste.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1035' part='f'>Il ne le faut pas croire, </l>
+	<l id='1036'>Puisqu'il blesse l'État, il blesse votre gloire.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1037'>Quoi, lorsque votre sang prend sa source du mien,</l>
+	<l id='1038'>Ne vous en rend-il pas le plus ferme soutien,</l>
+	<l id='1039'>Et dans ce rang illustre où votre gloire monte,</l>
+	<l id='1040'>Ce qui vous fait honneur, me peut-il faire honte ? </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1041'>Oui, Seigneur, si l'État à qui vous vous devez</l>
+	<l id='1042'>Voit que ses intérêts en soient mal conservez,</l>
+	<l id='1043'>Nous sommes tous à lui, mais vous plus que tout autre,</l>
+	<l id='1044'>Ce qui n'est point son bien ne peut être le vôtre,</l>
+	<l id='1045'>Et comme à tous vos soins il doit servir d'objet, </l>
+	<l id='1046'>S'il vous fait notre maître, il vous rend son sujet.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1047'>Je n'ai que trop suivi cette injuste maxime,</l>
+	<l id='1048' part='i'>Il faut m'en affranchir.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1048' part='f'>Le pouvez-vous sans crime,</l>
+	<l id='1049'>Et songez-vous assez de quel sanglant affront</l>
+	<l id='1050'>La Duchesse par là verrait rougir son front ? </l>
+	<l id='1051'>Après qu'en vos États on l'a déjà reçue ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1052'>Enfin de ce dessein je prends sur moi l'issue,</l>
+	<l id='1053'>Quoi qu'il puisse arriver, je le veux, il suffit.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1054'>Et je suivrai les lois que le Ciel me prescrit.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1055'>Qu'est-ceci, Federic, et qu'osez-vous me dire ? </l>
+	<l id='1056'>Quoi donc, ma volonté ne peut ici suffire ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1057'>Non, quand j'en vois sur moi la honte rejaillir,</l>
+	<l id='1058'>C'est assez pour bien faire, et non pas pour faillir,</l>
+	<l id='1059'>Comme votre tuteur j'ai droit de vous l'apprendre.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1060'>Ce beau-père futur craint bien qu'on ne l'engendre. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1061'>Je force ma colère à ne pas éclater,</l>
+	<l id='1062'>Mais à ma passion cessez de résister.</l>
+	<l id='1063'>Aussi bien si pour moi la Duchesse est à craindre,</l>
+	<l id='1064'>L'affront est déjà fait, il n'est plus temps de feindre,</l>
+	<l id='1065'>Et par un ordre exprès que j'ai su lui donner, </l>
+	<l id='1066'>Carlos dans ses États l'est allé remener.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1067'>Pour ne pas vous aigrir je cède et me retire,</l>
+	<l id='1068'>Je ne puis toutefois m'empêcher de vous dire,</l>
+	<l id='1069'>Que peut-être pour voir vos desseins traversez,</l>
+	<l id='1070'>La Duchesse n'est pas si loin que vous pensez. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Le Duc, Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1071' part='i'>Quelle est cette menace ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1071' part='f'>Ah, je rentre en mémoire.</l>
+	<l id='1072'>Apprenez un secret que je n'avais pu croire,</l>
+	<l id='1073'>Mais par cette menace il est trop éclairci,</l>
+	<l id='1074'>Le bruit court que Carlos n'a point parti d'ici.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1075'>Ainsi donc la Duchesse est encore à Pavie ? </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1076' part='i'>Il n'en faut point douter.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1076' part='f'>Dieux, quelle perfidie !</l>
+	<l id='1077'>Hélas ! fut-il jamais amant plus interdit ?</l>
+	<l id='1078'>Je me fie à Carlos, et l'ingrat me trahit.</l>
+	<l id='1079'>Mais ne le vois-je pas ? ah, Dieu, quelle est ma peine ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Le Duc, Carlos, Fabrice, Camille.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1080'>Quoi, de retour encor, Carlos ? Qui vous ramène ? </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1081'>L'ordre de la Duchesse, à qui pour inspirer</l>
+	<l id='1082'>Le dessein de partir et de se retirer,</l>
+	<l id='1083'>J'ai su feindre d'abord qu'une attente imprévue</l>
+	<l id='1084'>Vous priverait encor quelque temps de se vue,</l>
+	<l id='1085'>Et que d'un mal trop prompt les violents accès </l>
+	<l id='1086'>Nous en faisaient déjà redouter le succès.</l>
+	<l id='1087'>Lors que m'interrompant ; je vois ce qu'il espère,</l>
+	<l id='1088'>Carlos, m'a-t-elle dit, il faut le satisfaire,</l>
+	<l id='1089'>Pour soulager son mal retournez de ce pas</l>
+	<l id='1090'>L'assurer que demain je sorts de ses États, </l>
+	<l id='1091'>Et que tenant ma foi par contrainte engagée,</l>
+	<l id='1092'>Pourvu qu'il me la rende, il m'aura trop vengée.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1093'>Vous venez donc, Carlos, reprendre cette foi ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1094'>C'est ce que la Duchesse a souhaité de moi,</l>
+	<l id='1095' part='i'>Et j'ai crû vous servir ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1095' part='f'>J'estime votre zèle, </l>
+	<l id='1096'>Je n'aspirais, Carlos, qu'à me dégager d'elle,</l>
+	<l id='1097'>Et ce seul embarras causait tout mon chagrin.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1098'>Consentez-donc, Seigneur, à mon heureux destin,</l>
+	<l id='1099'>La Duchesse a pour moi quelques bontés secrètes</l>
+	<l id='1100'>Dont ses yeux aujourd'hui m'ont servi d'interprètes, </l>
+	<l id='1101'>Et si par votre aveu j'osais me déclarer,</l>
+	<l id='1102'>Après votre refus, j'aurais droit d'espérer.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1103'>Quoi, vous prétendriez épouser la Duchesse ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1104'>Seigneur, lorsque je vois que votre flamme cesse,</l>
+	<l id='1105'>Étant de votre sang, quel autre mieux que moi </l>
+	<l id='1106'>Peut prétendre à l'honneur de mériter sa foi ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1107'>Vous le sauriez, Carlos, si vous saviez connaître</l>
+	<l id='1108'>Quel respect un Vassal doit avoir pour son maître.</l>
+	<l id='1109'>Sitôt que vous aimez, espérer d'être aimé</l>
+	<l id='1110'>Marque un feu dans vos coeurs déjà tout allumé, </l>
+	<l id='1111'>Et ce retour si prompt offre à ma défiance</l>
+	<l id='1112'>L'entier et plein aveu de votre intelligence.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1113' part='i'>Seigneur ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1113' part='f'>Non, non, j'en crois ce que vous m'avez dit,</l>
+	<l id='1114'>Vous voulez être Duc, Carlos, il me suffit.</l>
+	<l id='1115'>Allez remplir à Parme une si noble envie, </l>
+	<l id='1116'>Vous y pourrez aller de même qu'à Pavie.</l>
+	<l id='1117' part='i'>Suivez-moi.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1117' part='f'>Mon malheur me réduit-il au point</l>
+	<l id='1118' part='i'>De...</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1118' part='f'>Suivez-moi, vous dis-je, et ne répliquez point.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Federic, Fenise, Laure.</head>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1119'>Je vous blâmais à tort, si par cette surprise</l>
+	<l id='1120'>Le Duc vous a pu voir sans connaître Fenise, </l>
+	<l id='1121'>Et j'en trouve à mes voeux le succès assez doux</l>
+	<l id='1122'>Puisqu'elle a fait passer la Duchesse pour vous.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1123'>Sans pouvoir m'en défendre, à lui parler réduite,</l>
+	<l id='1124'>J'ai su sous ce faux nom éviter sa poursuite,</l>
+	<l id='1125'>Et cette erreur enfants l'ayant trompé deux fois </l>
+	<l id='1126'>Le rend dans la Duchesse amoureux de ma voix.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1127'>Pour le bien de l'État empêchons qu'il n'en sorte.</l>
+	<l id='1128'>Il faudra qu'à la fin la Duchesse l'emporte,</l>
+	<l id='1129'>Et nous verrons céder avec facilité</l>
+	<l id='1130'>Les charmes de la voix à ceux de la beauté. </l>
+	<l id='1131'>On n'éteint point un feu qu'un vrai mérite allume,</l>
+	<l id='1132'>À la voir seulement faisons qu'il s'accoutume,</l>
+	<l id='1133'>Et n'appréhendons point, s'il s'en laisse charmer,</l>
+	<l id='1134'>Que pour la mieux connaître il cesse de l'aimer.</l>
+	<l id='1135'>Quoi que sur son esprit son caprice ait de force, [] </l>
+	<l id='1136'>L'éclat d'une Couronne est une douce amorce,</l>
+	<l id='1137'>Et le droit d'un État où dispenser ses lois,</l>
+	<l id='1138'>Fait bientôt oublier la douceur d'une voix.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1139'>Mais lors qu'en cette voix pour qui son coeur soupire</l>
+	<l id='1140'>Il trouve seulement le charme qui l'attire, </l>
+	<l id='1141'>Croyez-vous qu'en effet la Duchesse aujourd'hui</l>
+	<l id='1142'>Se résolve en amour d'être l'écho d'autrui ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1143'>S'il faut à nos desseins que la fierté s'oppose,</l>
+	<l id='1144'>Pour gagner son esprit vous pourrez quelque chose,</l>
+	<l id='1145'>Déjà sur vos conseils je la vois se régler. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1146'>Moi, que jusqu'à ce point je pusse m'aveugler,</l>
+	<l id='1147'>Que peut-être au hasard d'attirer sa colère,</l>
+	<l id='1148'>Je songeasse à trahir les intérêts d'un frère !</l>
+	<l id='1149'>Pour élever Carlos au rang de Souverain</l>
+	<l id='1150'>La Duchesse a promis de lui donner la main, </l>
+	<l id='1151'>Et quand en sa faveur sa vengeance s'explique,</l>
+	<l id='1152'>Je dois plus à mon sang qu'à votre politique.</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1153'>Par les ordres du Duc votre frère arrêté</l>
+	<l id='1154'>Reçoit le juste prix de sa témérité,</l>
+	<l id='1155'>Et si sans mon aveu son espoir osa naître, </l>
+	<l id='1156'>Je saurai désormais l'empêcher de paraître.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1157'>Quoi, l'éclat d'un tel choix peut-il si peu sur vous,</l>
+	<l id='1158'>Que loin de l'appuyer vous en soyez jaloux ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1159'>Si d'un commun accord le Duc et la Duchesse</l>
+	<l id='1160'>Rompaient cette union où l'État s'intéresse, </l>
+	<l id='1161'>Et qu'un nouveau traité propice à leurs souhaits</l>
+	<l id='1162'>En dégageant leur foi nous assurât la paix,</l>
+	<l id='1163'>Alors ce coeur jaloux, comme vous l'osez croire, [F]</l>
+	<l id='1164'>De la grandeur d'un fils ferait toute sa gloire,</l>
+	<l id='1165'>Et je n'ai point de sang que pour le couronner </l>
+	<l id='1166'>Ma juste ambition ne fût preste à donner.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1167'>Mais si le Duc renonce à l'Empire de Parme,</l>
+	<l id='1168'>Milan pour la Duchesse est un bien faible charme,</l>
+	<l id='1169'>Et tous deux possédez d'une autre passion</l>
+	<l id='1170'>Montrent pour leur hymen égale aversion. </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1171'>Non non, la passion que le Duc fait paraître</l>
+	<l id='1172'>S'attache au seul objet qui l'a dû faire naître,</l>
+	<l id='1173'>Et lors que tout l'État se repose sur moi,</l>
+	<l id='1174'>Je sais de son erreur quel conte je lui dois.</l>
+	<l id='1175'>Tâchez à la nourrir, tandis qu'avec adresse </l>
+	<l id='1176'>Je saurai ménager l'esprit de la Duchesse.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Fenise, Laure.</head>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1177'>Un père eut-il jamais de pareils sentiments ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1178'>Voilà ce qu'ont produit tous vos déguisements.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1179'>Ah, cruel souvenir d'un mépris qui me tue !</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1180'>Vous n'en seriez pas là si j'avais été crue, </l>
+	<l id='1181' part='i'>Car vous aimez enfin ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1181' part='f'>Que te dirai-je, hélas ?</l>
+	<l id='1182'>Je sens des mouvements que je ne comprends pas.</l>
+	<l id='1183'>Dans mon coeur indigné l'intérêt de ma gloire</l>
+	<l id='1184'>À mes ressentiments dispute la victoire,</l>
+	<l id='1185'>À songer que le Duc s'obstine à me trahir </l>
+	<l id='1186'>Pour me venger de lui je voudrais le haïr,</l>
+	<l id='1187'>Et jalouse qu'une autre ait son âme enflammée,</l>
+	<l id='1188'>Pour ne lui point céder, j'en voudrais être aimée.</l>
+	<l id='1189'>Ainsi lors qu'à ma haine il semble donner jour,</l>
+	<l id='1190'>Mon coeur à mon orgueil croit devoir son amour, </l>
+	<l id='1191'>Et pour l'oser prétendre, oppose à ma colère,</l>
+	<l id='1192'>Le reproche honteux de n'avoir su lui plaire.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1193'>Quoi qu'en présume un coeur de colère animé,</l>
+	<l id='1194'>On est loin de haïr quand on veut être aimé,</l>
+	<l id='1195'>Et ce faux sentiment, qu'un vain orgueil inspire, </l>
+	<l id='1196'>S'il déguise l'amour, n'en détruit pas l'empire.</l>
+	<l id='1197'>Vos feintes après tout ne vous avancent pas.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1198'>La Duchesse en ces lieux m'en cause l'embarras,</l>
+	<l id='1199'>Et tel est mon malheur, qu'au point de sa retraite</l>
+	<l id='1200'>Pour délivrer Carlos sa passion l'arrête, </l>
+	<l id='1201'>Il n'est rien que le Duc lui voulut refuser.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1202'>Non, si vous consentez encore à l'abuser,</l>
+	<l id='1203'>Mais si vous vous aimez, quittez le stratagème,</l>
+	<l id='1204'>Montrez Fenise au Duc et parlez pour vous-même.</l>
+	<l id='1205'>Si soudain pour vous plaire on ne lui voit quitter ? </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1206'>Ô frivole espoir dont tu m'oses flatter!</l>
+	<l id='1207'>Après que la Duchesse a sur moi l'avantage</l>
+	<l id='1208'>D'avoir par sa beauté mérité son hommage,</l>
+	<l id='1209'>Tu veux que m'exposant à de nouveaux mépris,</l>
+	<l id='1210'>J'assure un plein triomphe aux yeux qui l'ont surpris ? </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1211'>Mais c'est par votre voix qu'il la trouve charmante,</l>
+	<l id='1212'>C'est elle qui lui plaît, c'est elle qui l'enchante,</l>
+	<l id='1213'>Et ce charme innocent, toujours victorieux,</l>
+	<l id='1214'>Par un secret pouvoir fait celui de ses yeux.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1215'>Ton zèle à son amour impute ce caprice. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1216'>Pour vous en éclaircir il faut sonder Fabrice.</l>
+	<l id='1217' part='i'>Il vient.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1217' part='f'>Que voudrais-tu que ce fou nous apprît ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1218'>Dans son extravagance il sait bien ce qu'il dit,</l>
+	<l id='1219'>Comme le duc l'écoute, il en sait des nouvelles.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Fenise, Laure, Fabrice.</head>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1220' part='i'>Ne vois-je pas Fabrice ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1220' part='f'>Ah, Dieu vous garde, les belles. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1221' part='i'>Qui t'a permis d'entrer ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1221' part='m'>Moi-même.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1221' part='f'>Et sans refus ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1222'>Les ordres sont changez, on ne vous cache plus.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1223' part='i'>D'où vient donc que le Duc ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1223' part='f'>Le Duc n'est pas trop sage.</l>
+	<l id='1224' part='i'>Ne m'en demande rien.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1224' part='m'>Que fait-il ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1224' part='f'>Il enrage.</l>
+	<l id='1225'>L'amour lui bouleverse et l'esprit et les sens. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1226'>Fenise a donc pour lui des charmes bien puissants ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1227'>Il en est possédé, son démon est Fenise,</l>
+	<l id='1228'>Fenise cependant s'en moque et le méprise,</l>
+	<l id='1229'>Mais s'il m'en voulait croire, avant qu'il fût un jour,</l>
+	<l id='1230'>Fenise pourréit bien enrager à son tour. </l>
+	<l id='1231' part='i'>J'en sais bien le secret.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1231' part='f'>Tu vas un peu bien vite,</l>
+	<l id='1232' part='i'>Peut-être que Fenise ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1232' part='f'>Ô la bonne hypocrite !</l>
+	<l id='1233'>Je parle librement, mais aussi sait-on bien,</l>
+	<l id='1234' part='i'>Que votre langue ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1234' part='f'>Et bien ? Sa langue ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1235' part='i'>Ne vaut rien.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1235' part='m'>Je souffre tout de toi.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1235' part='f'>Croyez que je bouffonne, </l>
+	<l id='1236'>Mais le Duc vous connaît, et vous la garde bonne.</l>
+	<l id='1237'>C'est vous qui détournez Fenise de l'aimer. </l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1238'>Le Duc sur l'apparence a pu le présumer,</l>
+	<l id='1239'>Mais Fenise à dessein, pour éprouver sa flamme,</l>
+	<l id='1240'>Me faisait lui parler de l'amour d'une Dame ; </l>
+	<l id='1241' part='i'>J'agissais par son ordre.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1241' part='f'>Il n'en était donc rien ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1242'>Son feu tâchais par là de s'assurer du sien.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1243'>Donc après cette épreuve il en peut tout attendre ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1244' part='i'>Oui, s'il l'aime en effet.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1244' part='f'>Il ne faut que l'entendre,</l>
+	<l id='1245' part='i'>Il perd l'esprit pour elle.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1245' part='f'>Elle craint toutefois </l>
+	<l id='1246'>Que feignant de l'aimer il n'aime que sa voix,</l>
+	<l id='1247'>Et ne croit son amour qu'une amour imparfaite,</l>
+	<l id='1248'>Si sa seule beauté n'est pas ce qui l'arrête.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1249'>Sa beauté ! J'en réponds si c'est ce qui la tient,</l>
+	<l id='1250'>C'est d'elle à tous moments que le Duc s'entretient. </l>
+	<l id='1251'>Sa voix ayant servi d'abord à l'introduire,</l>
+	<l id='1252'>Il la louera toujours de peur de se détruire,</l>
+	<l id='1253'>Mais quoi que par adresse il cherche à la flatter,</l>
+	<l id='1254'>Pour peu qu'elle fut laide, elle aurait beau chanter.</l>
+	<l id='1255'>Ébloui d'un amas de beautés entassées, </l>
+	<l id='1256'>Dont chacune à son tour promène ses pensées,</l>
+	<l id='1257'>Il trouve dans ses yeux, dans sa taille, en son port</l>
+	<l id='1258' part='i'>Tous les charmes ? Bonsoir.</l>
+<stage>Fenise rentre.</stage>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Fabrice, Laure.</head>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1258' part='f'>D'où vient donc qu'elle sort ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1259' part='i'>C'est que tu jases trop.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1259' part='f'>Chacun sait son affaire.</l>
+	<l id='1260'>Qu'elle s'en fâche ou non, il ne m'importe guère, </l>
+	<l id='1261'>Elle me fait plaisir me laissant avec toi.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1262' part='i'>D'où vient ta belle humeur ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1262' part='f'>De ce que je te vois,</l>
+	<l id='1263'>Friponne, sais-tu bien lors que tu me regardes ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1264' part='i'>Quoi, je te tiens au coeur ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1264' part='f'>Ma foi, tu le pétardes,</l>
+	<l id='1265'>Jusqu'au moindre recoin tes yeux vont ravager. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1266' part='i'>Je te plais donc ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1266' part='f'>Assez pour me faire enrager.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1267' part='i'>Déjà jusqu'à la rage ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1267' part='f'>Et plus qu'il ne te semble,</l>
+	<l id='1268'>Mais le plaisir d'amour c'est d'enrager ensemble,</l>
+	<l id='1269'>Ainsi si tu voulais enrager tant soit peu ? </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1270' part='i'>Il y faudra songer.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1270' part='f'>Tu te ris de mon feu. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1271'>M'en rire ? Je t'en vois la face toute blême.</l>
+	<l id='1272' part='i'>Mais enfin tout de bon, m'aimes-tu ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1272' part='f'>Si je t'aime ?</l>
+	<l id='1273'>J'ai déjà depuis hier, pour preuve de ma foi,</l>
+	<l id='1274'>Tâché plus de six fois à soupirer pour toi.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1275'>C'est d'abord en amour le chemin qu'il faut prendre. </l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1276'>Va, j'en connais le fin, le délicat, le tendre.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1277' part='i'>Tu n'as fait que tâcher cependant ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1277' part='f'>N'est-ce rien ?</l>
+	<l id='1278'>Pactisons seulement, et le reste ira bien.</l>
+	<l id='1279' part='i'>Es-tu traitable ?</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1279' part='f'>Moi ? Cela s'en va sans dire.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1280'>Combien de temps faut-il que pour toi l'on soupire ? </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1281' part='i'>Que t'importe combien ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1281' part='f'>C'est là la question.</l>
+	<l id='1282'>Je crains en soupirant quelque indigestion,</l>
+	<l id='1283'>Il faut s'enfler le coeur, et l'excès est à craindre !</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1284'>Ton feu n'irait pas loin avant que de s'éteindre,</l>
+	<l id='1285' part='i'>Tu me plains de soupirs ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1285' part='f'>Je sais bien qu'il t'en faut, </l>
+	<l id='1286'>Mais j'en voudrais avoir ma quittance au plutôt,</l>
+	<l id='1287'>Et pour n'en recevoir ni reproche ni honte,</l>
+	<l id='1288'>N'être obligé qu'à tant et les fournir par conte.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1289'>Tu les ferais réduire avant que les fournir.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1290'>Va, si je promets peu, c'est afin de tenir, </l>
+	<l id='1291' part='i'>Vois-tu bien, je suis franc.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1291' part='f'>Donc en toute franchise</l>
+	<l id='1292'>Dis moi quels sentiments le Duc a pour Fenise.</l>
+	<l id='1293' part='i'>N'est-ce plus pour sa voix ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1293' part='f'>Que tu le bailles doux !</l>
+	<l id='1294'>Mais les voici tous deux qui s'en viennent à nous,</l>
+	<l id='1295'>Dispose ta maîtresse à mieux traiter sa flamme. </l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Le Duc, La Duchesse, Laure, Fabrice.</head>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1296' part='i'>Quoi, Seigneur, jusqu'ici ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1296' part='f'>Me fuyez-vous, Madame,</l>
+	<l id='1297'>Et gardez-vous un coeur assez indifférent</l>
+	<l id='1298'>Pour refuser mes soins quand l'amour vous les rend ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1299'>Mon procédé n'a rien qui vous doive déplaire,</l>
+	<l id='1300'>Je ne tâche à vous fuir que pour vous satisfaire, </l>
+	<l id='1301'>Et comme on souffre à voir un objet odieux,</l>
+	<l id='1302'>J'en voudrais épargner la contrainte à vos yeux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1303'>Où me réduisez-vous, si d'un pareil outrage</l>
+	<l id='1304'>Vos mépris de mes voeux osent payer l'hommage ?</l>
+	<l id='1305'>Depuis que votre voix m'a contraint aux soupirs, </l>
+	<l id='1306'>Le désir de vous plaire a fait tous mes désirs,</l>
+	<l id='1307'>Et quand il vous fait voir jusqu'au fonds de mon âme,</l>
+	<l id='1308'>Une injuste rigueur est le prix de ma flamme.</l>
+	<l id='1309' part='i'>Hélas !</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='1309' part='f'>Si vous voulez réussir cette fois,</l>
+	<l id='1310'>Parlez de la beauté plutôt que de la voix, </l>
+	<l id='1311' part='i'>J'ai bien menti pour vous.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1311' part='f'>Enfin que dois-je attendre ?</l>
+	<l id='1312'>Mes plus profonds respects n'ont-ils rien à prétendre,</l>
+	<l id='1313'>Et mon sceptre et mon coeur à votre empire offerts</l>
+	<l id='1314'>Me laissent-ils toujours indigne de vos fers ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1315'>Quand pour moi par l'effet votre haine s'exprime, </l>
+	<l id='1316'>Ce reproche, Seigneur, est bien peu légitime,</l>
+	<l id='1317'>Ou sans doute vos sens par quelque erreur séduits</l>
+	<l id='1318'>Aient mal su jusqu'ici pénétrer qui je suis.</l>
+	<l id='1319'>Mais si vous l'ignorez je veux bien vous apprendre</l>
+	<l id='1320'>Qu'en vain d'aimer Carlos je voudrais me défendre, </l>
+	<l id='1321'>Et que la juste ardeur d'un zèle assez parfait</l>
+	<l id='1322'>M'oblige à partager l'outrage qu'on lui fait.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1323'>Madame, c'est assez que sa prison vous gêne,</l>
+	<l id='1324'>Je n'examine rien, Fabrice, qu'on l'amène.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Le Duc, La Duchesse, Laure.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1325'>À quoi qu'ait pu son crime aujourd'hui me forcer, </l>
+	<l id='1326'>Le bonheur de son sang suffit pour l'effacer.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1327'>Quel crime auprès de vous aurait souillé sa gloire ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1328'>Une infidélité qu'on aura peine à croire.</l>
+	<l id='1329'>Il aime la Duchesse, et sans respect pour moi</l>
+	<l id='1330'>Ayant surpris son coeur, il aspire à sa foi. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1331'>C'est ainsi que j'ai dû me tenir assurée</l>
+	<l id='1332'>D'effacer la Duchesse et d'être préférée ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1333'>Quoi, toujours la Duchesse arme votre rigueur ?</l>
+	<l id='1334'>Elle à qui ma raison a refusé mon coeur,</l>
+	<l id='1335'>Elle dont le nom seul m'est un supplice extrême, </l>
+	<l id='1336'>Elle enfin que je hai parce que je vous aime,</l>
+	<l id='1337'>Et pour qui d'un beau feu mes sentiments jaloux</l>
+	<l id='1338'>Ont autant de mépris que de respect pour vous.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1339'>Si ce mépris est tel que vous me l'osez peindre,</l>
+	<l id='1340'>Qu'a l'amour de Carlos dont vous puissiez vous plaindre ? </l>
+	<l id='1341'>Avec peu de raison vous vous en offensez,</l>
+	<l id='1342'>Est-ce un crime d'aimer ce que vous haïssez ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1343'>Non, et comme le sang pour Carlos m'intéresse</l>
+	<l id='1344'>Je le verrais sans peine aimé de la Duchesse,</l>
+	<l id='1345'>S'il avait attendu, pour s'en faire un soutien, </l>
+	<l id='1346'>Que mon amour éteint autorisât le sien,</l>
+	<l id='1347'>Mais quoi que j'y renonce, avant que de l'apprendre,</l>
+	<l id='1348'>Oser porter ses voeux où l'on me voit prétendre,</l>
+	<l id='1349'>Étouffer un respect qui le dût retenir,</l>
+	<l id='1350'>C'est ce qui fait son crime, et que j'ai dû punir. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1351'>Par votre dernier ordre il n'a donc pu connaître</l>
+	<l id='1352'>Que votre amour cessant son espoir pouvait naître ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1353'>C'est faire assez pour lui que de me déguiser</l>
+	<l id='1354'>Par quelle intelligence il a pu m'abuser, </l>
+	<l id='1355'>Et sûr que la Duchesse appuierait son envie,</l>
+	<l id='1356'>Sans sortir de Milan lui parler à Pavie.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1357'>Doutez-vous qu'à sa foi votre ordre confié ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1358'>N'en parlons plus, Madame, il est justifié ;</l>
+	<l id='1359' part='i'>Le voici qui paraît.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Le Duc, La Duchesse, Carlos, Fabrice, Camille.</head>
+<sp who='CARLOS'><speaker>CARLOS, à Camille.</speaker>
+	<l id='1359' part='f'>Que vois-je ? la Duchesse ?</l>
+	<l id='1360'>Ah, le Duc la connaît, et tout espoir me laisse. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1361'>Approchez-vous, Carlos, et venez recevoir</l>
+	<l id='1362'>L'assurance d'un bien qui passe votre espoir,</l>
+	<l id='1363'>Puisque l'amour le veut, ne parlons plus de crime,</l>
+	<l id='1364'>Sans rien craindre de moi, rentrez dans mon estime,</l>
+	<l id='1365'>Je vous la rends entière avec la liberté. </l>
+</sp>
+<sp who='CAMILLE'><speaker>CAMILLE, à Carlos.</speaker>
+	<l id='1366'>Le vent pour être Duc souffle du bon côté.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1367'>Ah, pour un bien si grand permettez que j'embrasse ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1368'>Non, ce n'est pas à moi qu'il en faut rendre grâce,</l>
+	<l id='1369'>S'il peut remplir l'espoir que vous en concevez,</l>
+	<l id='1370'>Vous voyez devant vous à qui vous le devez. </l>
+	<l id='1371'>Ravi par mes respects de trouver à lui plaire,</l>
+	<l id='1372'>Mon coeur à ses désirs immole ma colère,</l>
+	<l id='1373'>Et pour elle avec joie il perd le souvenir</l>
+	<l id='1374'>De ce qu'en votre audace il trouvait à punir.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1375'>Dieux, que viens-je d'ouïr ? L'aimerait-il Camille ? </l>
+</sp>
+<sp who='CAMILLE'><speaker>CAMILLE.</speaker>
+	<l id='1376'>Vous n'êtes pas trop Duc s'il change de style.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1377'>Cette froideur, Carlos, ou plutôt ce mépris,</l>
+	<l id='1378'>De son zèle pour vous doit-il être le prix ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1379'>Il suffit que je sache expliquer son silence.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1380'>Un bonheur qui surprend porte à la défiance, </l>
+	<l id='1381'>Et l'on en voit si peu qui ressemblent au mien,</l>
+	<l id='1382'>Qu'il me force à douter si je le conçois bien.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1383'>Non, puisqu'elle est pour vous, que rien ne vous alarme,</l>
+	<l id='1384'>Je résistais, Carlos, à vous voir Duc de Parme,</l>
+	<l id='1385'>Mais les soins qu'elle prend d'appuyer votre feu </l>
+	<l id='1386'>Enfin pour votre hymen obtiennent mon aveu,</l>
+	<l id='1387'>J'oublie en sa faveur tout ce que j'ai pu croire.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1388'>Ô favorable aveu qui me comble de gloire !</l>
+	<l id='1389'>Madame, tout mon sang pour la votre épandu</l>
+	<l id='1390'>Pourrait-il m'acquitter de ce qui vous est dû ? </l>
+	<l id='1391'>Ce haut rang de Duchesse à qui ce coeur apporte ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1392'>Il n'est pas temps, Carlos, de parler de la sorte.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
+	<l id='1393'>Quoi, de votre rigueur l'excès est-il si grand</l>
+	<l id='1394'>Que vous désavouiez l'hommage qu'il vous rend ?</l>
+	<l id='1395'>Et lorsque sûr d'un feu qui s'augmente sans cesse, </l>
+	<l id='1396'>Il veut vous applaudir sur le rang de Duchesse ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1397'>Et qui m'assurera que ce n'est pas en vain</l>
+	<l id='1398'>S'il faut que Federic s'oppose à ce dessein ?</l>
+	<l id='1399'>Sur nos premiers traitez à voir comme il s'explique,</l>
+	<l id='1400'>Ce changement d'Hymen blesse sa politique. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1401'>Mais si de sa rigueur je puis venir à bout ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1402'>Jugez de moi par vous quand je vous devrai tout.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1403'>Seigneur, à cet aveu qui pour moi vous engage,</l>
+	<l id='1404'>Joindre de vos bontés ce nouveau témoignage !</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1405'>Madame, je vous quitte, et vais sur cet accord </l>
+	<l id='1406'>Pour gagner Federic, faire un dernier effort,</l>
+	<l id='1407'>Heureux si le succès vous donne lieu de croire</l>
+	<l id='1408'>Que l'heur de vous servir fait ma plus haute gloire.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1409'>À de tels sentiments je sais ce que je dois.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1410'>Je vous laisse Carlos qui répondra pour moi. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1411'>En quoi puis-je, Seigneur, vous témoigner mon zèle ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1412'>À lui bien exprimer l'amour que j'ai pour elle,</l>
+	<l id='1413'>Et chasser de son coeur certaine impression</l>
+	<l id='1414'>Qui seule a pu d'abord nuire à ma passion.</l>
+	<l id='1415'>Car enfin je l'adore, et ma flamme est si pure, </l>
+	<l id='1416'>Que tout ce que de grand mon esprit se figure,</l>
+	<l id='1417'>N'a point d'appas pour moi ni si fort, ni si doux,</l>
+	<l id='1418'>Qui ne cède à l'espoir de me voir son époux.</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. La Duchesse, Carlos, Camille.</head>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1419' part='i'>Ah, Dieux !</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1419' part='f'>Voilà que c'est de conter sans son hôte.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1420' part='i'>Il la veut épouser, Camille !</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1420' part='f'>Est-ce ma faute ? </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1421' part='i'>Ô malheur !</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1421	' part='f'>Quoi, Carlos, je t'entends soupirer,</l>
+	<l id='1422'>Quand par l'aveu du Duc tu peux tout espérer ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1423'>Si vous me condamnez alors que je soupire,</l>
+	<l id='1424'>Que m'a-t-il dit, Madame, ou qu'osez-vous me dire ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1425'>Va, sans t'inquiéter, apprends par quelle erreur </l>
+	<l id='1426'>Il m'adresse des voeux qu'il forme pour ta soeur,</l>
+	<l id='1427'>Et qu'épris de sa voix, dont la douceur l'appelle,</l>
+	<l id='1428'>Il croit aimer en moi ce qui le charme en elle.</l>
+	<l id='1429'>Mais puis qu'à ton amour il a pu consentir,</l>
+	<l id='1430'>Ne perdons point de temps, et songeons à partir, </l>
+	<l id='1431'>Quoi que par ses mépris je me sente outragée,</l>
+	<l id='1432'>M'en étant fait aimer, je suis assez vengée,</l>
+	<l id='1433'>Et ma beauté du moins s'applaudit en secret </l>
+	<l id='1434'>De l'avoir mis au point de me perdre à regret.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1435' part='i'>Ah, que m'apprenez-vous ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1435' part='f'>Cette froideur m'étonne, </l>
+	<l id='1436'>Parle enfin, que faut-il, Carlos que j'en soupçonne ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1437'>Que le sort qui se plaît à me tyranniser</l>
+	<l id='1438'>M'offre en vain un bonheur que je dois refuser.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1439'>C'est donc ce que de toi, pour t'avoir osé croire,</l>
+	<l id='1440' part='i'>Mon amour ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1440' part='f'>Ah, Madame, il fait toute ma gloire, </l>
+	<l id='1441'>Mais aussi, s'il fut trop pour le peu que je vaux,</l>
+	<l id='1442'>Je puis dire qu'il fait le plus grand de mes maux.</l>
+	<l id='1443'>Car lors que par le temps l'amour ne peut s'éteindre,</l>
+	<l id='1444'>Si le manque d'espoir rend un amant à plaindre,</l>
+	<l id='1445'>Jugez dans quelle horreur il se voit abîmé, </l>
+	<l id='1446'>À céder cet espoir quand il se voit aimé.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1447' part='i'>Quoi, tu cèdes le tien ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1447' part='f'>Ma peine en est extrême,</l>
+	<l id='1448'>Mais je dois tout au Duc, et je vois qu'il vous aime.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1449'>S'il me prend pour Fenise, il n'aime qu'elle en moi.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1450'>L'abus du nom fait peu pour dispenser ma foi ; </l>
+	<l id='1451'>Il suffit que c'est vous dont la beauté l'engage,</l>
+	<l id='1452'>Vous à qui de son coeur il adresse l'hommage,</l>
+	<l id='1453'>Et que sans lâcheté je ne puis aujourd'hui,</l>
+	<l id='1454'>Connaissant son erreur, m'en servir contre lui,</l>
+	<l id='1455'>Je sais que cet effort où l'honneur me convie  </l>
+	<l id='1456'>Ne peut avoir d'effet sans me coûter la vie,</l>
+	<l id='1457'>Mais à la trahison on doit peu recourir,</l>
+	<l id='1458'>Quand pour sauver sa gloire il ne faut que mourir :</l>
+	<l id='1459'>Des grands coeurs affligez c'est la plus douce attente,</l>
+	<l id='1460'>Je mourrai donc, Madame, et vous vivrez contente, </l>
+	<l id='1461'>Et mon feu cachera si bien tous ses désirs</l>
+	<l id='1462'>Qu'il ne paraîtra plus qu'en mes derniers soupirs ;</l>
+	<l id='1463'>Ainsi le Duc pour vous ayant l'âme enflammée,</l>
+	<l id='1464'>Ne vous offensez point de vous en voir aimée,</l>
+	<l id='1465'>Souffrez que par l'espoir ses voeux soient animés, </l>
+	<l id='1466'>Et s'il se peut, hélas ! j'ai pensé dire, aimez.</l>
+	<l id='1467'>Mais pour marquer ma foi, c'est peut-être assez faire</l>
+	<l id='1468'>De lui sacrifier une flamme si chère,</l>
+	<l id='1469'>Sans que je vous conseille en ce malheureux jour</l>
+	<l id='1470'>Ce qui rend votre perte affreuse à mon amour. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1471'>Tu peux m'avoir aimée et parler de la sorte ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1472'>Cet amour m'est bien cher mais mon devoir l'emporte,</l>
+	<l id='1473' part='i'>Et le respect du Duc ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1473' part='f'>Le glorieux projet,</l>
+	<l id='1474'>D'être mauvais amant pour être bon sujet !</l>
+	<l id='1475'>Va, rends à me trahir ta foi brillante et pure, </l>
+	<l id='1476'>Achètes-en l'éclat aux dépens d'un parjure,</l>
+	<l id='1477'>C'est de ta lâcheté me venger pleinement</l>
+	<l id='1478'>Que de t'abandonner à ton aveuglement.</l>
+	<l id='1479'>Je ne te dis plus rien, fais gloire de ton crime,</l>
+	<l id='1480'>Ainsi qu'à mon amour renonce à mon estime, </l>
+	<l id='1481'>Tandis que par un droit jusqu'ici suspendu</l>
+	<l id='1482'>Mes armes poursuivront l'hommage qui m'est dû,</l>
+	<l id='1483'>Et que pour égaler le supplice à l'offense</l>
+	<l id='1484'>Le Ciel sur tout Milan étendra ma vengeance,</l>
+	<l id='1485' part='i'>Je vais y donner ordre, adieu.</l>
+</sp>
+</div2>
+<div2 type='scene' n='9'><head>SCÈNE IX. Carlos, Camille.</head>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1485' part='f'>Nous voilà bien. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1486' part='i'>Ô rigueur de mon sort ! Que dois-je faire ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1486' part='f'>Rien.</l>
+	<l id='1487'>Il n'est fidèle preux que votre foi redoute,</l>
+	<l id='1488' part='i'>Vous avez assez fait.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1488' part='f'>Que cet effort me coûte !</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1489'>Ne vous en plaignez point ; céder une Duché,</l>
+	<l id='1490'>Pour se montrer loyal, c'est avoir bon marché. </l>
+	<l id='1491' part='i'>Vous serez dans l'histoire.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1491' part='f'>Ah, crains de me déplaire.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1492'>Quoi, lors que l'on enrage, il faut encor se taire,</l>
+<note typ="L">Estamoquer (s') : Se scandaliser, s'offenser de ce que quelqu'un dit contre nous. [F]</note>
+	<l id='1493'>Et sans qu'il soit permis de s'en estomaquer,</l>
+	<l id='1494'>D'une foi du vieux temps vous pourrez vous piquer ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1495'>J'ai fait ce qu'a voulu l'intérêt de ma gloire. </l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1496'>Chacun sur cet article a liberté de croire,</l>
+	<l id='1497'>Pour moi, si j'en osais dire mon sentiment, </l>
+	<l id='1498'>Je vous condamnerais très authentiquement,</l>
+	<l id='1499'>Car enfin loin d'avoir quelque excuse valable,</l>
+	<l id='1500'>Qu'aurait pu faire pis un hérétique, un Diable ? </l>
+	<l id='1501'>Une belle Duchesse, et tout ce qui la suit,</l>
+	<l id='1502' part='i'>Sceptre, couronne ?</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1502' part='f'>Hélas ! où me vois-je réduit ?</l>
+	<l id='1503' part='i'>Perdre un objet si cher !</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1503' part='f'>Le remède est facile,</l>
+	<l id='1504' part='i'>Revoyez-la.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1504' part='f'>Non non, n'en parlons point, Camille ;</l>
+	<l id='1505'>Dans le pressant malheur où me plonge le sort, </l>
+	<l id='1506'>Si quelque espoir me reste il n'est plus qu'en la mort.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. La Duchesse, Fenise, Laure.</head>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1507'>Quoi que vous me disiez de l'ennui qui l'accable,</l>
+	<l id='1508'>L'ayant pu mériter il est assez coupable,</l>
+	<l id='1509'>Et toute ma rigueur venge mal ma fierté</l>
+	<l id='1510'>De l'outrageant refus dont il fait vanité ; </l>
+	<l id='1511'>Mais en vain contre lui je me sens animée</l>
+	<l id='1512'>Si je songe toujours qu'il peut m'avoir aimée,</l>
+	<l id='1513'>Et si mon feu sans cesse oppose à mon courroux</l>
+	<l id='1514'>Ce qu'un tel souvenir a pour moi de plus doux.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1515'>Madame, plût au Ciel que vous vissiez vous-même </l>
+	<l id='1516'>Où l'a enfants porté son désespoir extrême,</l>
+	<l id='1517'>Je sais que votre coeur, sensible à ses ennuis</l>
+	<l id='1518'>Plaindrait le triste état où ses jours sont réduits,</l>
+	<l id='1519'>Et ne pourrait souffrir que la mort qu'il souhaite</l>
+	<l id='1520'>Fut le funeste prix d'une amour si parfaite. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1521'>Quoi que pour lui mon coeur me presse d'accorder,</l>
+	<l id='1522'>Puis-je oublier sitôt qu'il m'a voulu céder ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1523'>Vous en souviendrez-vous sans songer que son crime</l>
+	<l id='1524'>Est l'effet éclatant d'une vertu sublime,</l>
+	<l id='1525'>Et qu'affranchi par lui d'un reproche éternel, </l>
+	<l id='1526'>S'il était moins coupable, il serait criminel ?</l>
+	<l id='1527'>Quelque ressentiment que vous fassiez paraître,</l>
+	<l id='1528'>Qu'en auriez-vous jugé s'il eut trahi son maître,</l>
+	<l id='1529'>Et s'il vous eut par là forcée à soupçonner</l>
+	<l id='1530'>Une foi que sans crime il n'eut pu vous donner ? </l>
+	<l id='1531'>Rendez, rendez justice à cette grandeur d'âme,</l>
+	<l id='1532'>Qui veut que pour sa gloire il trahisse sa flamme,</l>
+	<l id='1533'>Et vous ressouvenez que jamais on n'eut droit</l>
+	<l id='1534'>De haïr un amant de faire ce qu'il doit.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1535'>C'en est trop, et déjà ma colère s'efface, </l>
+	<l id='1536'>Au seul nom de Carlos mon coeur obtient sa grâce,</l>
+	<l id='1537'>Il y rentre, ou plutôt il n'en n'a pu sortir.</l>
+	<l id='1538'>Mais enfin il ne peut se résoudre à partir !</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1539'>Soit qu'à votre beauté le Duc s'assujettisse,</l>
+	<l id='1540'>Soit que ma seule voix soutienne son caprice, </l>
+	<l id='1541'>Pour fuir avecque vous, ce frère malheureux</l>
+	<l id='1542'>A-t-il droit d'abuser de l'erreur de ses voeux ?</l>
+	<l id='1543'>Il doit, il doit au Duc ce qu'il ose lui rendre,</l>
+	<l id='1544'>Et si passant pour moi vous l'avez pu surprendre,</l>
+	<l id='1545'>C'est pour vous qu'aujourd'hui ce secret découvert </l>
+	<l id='1546'>Doit sauver son amour d'un devoir qui le perd.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1547'>Pour finir cette erreur que ma feinte a fait naître</l>
+	<l id='1548'>Je vois bien qu'il est temps de me faire connaître ;</l>
+	<l id='1549'>Mais les mépris du Duc que j'ai voulu braver</l>
+	<l id='1550'>Abattent mon espoir au lieu de l'élever ; </l>
+	<l id='1551'>Mon orgueil s'en plaignait, et pour le satisfaire,</l>
+	<l id='1552'>J'avouai ma beauté de chercher à lui plaire,</l>
+	<l id='1553'>Et j'ai trop reconnu que ses faibles attraits </l>
+	<l id='1554'>Ont obtenu sur lui l'effet de mes souhaits.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1555' part='i'>Hélas !</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1555' part='f'>Ainsi je crains que son coeur trop sensible </l>
+	<l id='1556'>N'apporte à nos projets un obstacle invincible,</l>
+	<l id='1557'>Et que me connaissant, il n'ose avec éclat</l>
+	<l id='1558'>Faire agir pour sa flamme un intérêt d'État.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1559'>C'est à vous à juger si vous seriez capable</l>
+	<l id='1560'>D'abandonner Carlos au malheur qui l'accable ; </l>
+	<l id='1561'>Et si Milan pour vous serait d'un si haut prix,</l>
+	<l id='1562'>Qu'il put du Duc alors racheter les mépris.</l>
+	<l id='1563'>Pour moi qui de mon rang soutiendrais l'avantage</l>
+	<l id='1564'>Si d'un pareil refus j'avais reçu l'outrage,</l>
+	<l id='1565'>Il n'est serments ni voeux qui pussent obtenir </l>
+	<l id='1566'>Que j'aimasse jamais quand je devrais punir.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1567'>Ce sont les sentiments dont ma colère s'arme,</l>
+	<l id='1568'>Et si l'amour du Duc me cause quelque alarme,</l>
+	<l id='1569'>C'est pour prévoir qu'en vain j'ose me déguiser</l>
+	<l id='1570'>Qu'au bonheur de Carlos il voudra s'opposer. </l>
+	<l id='1571'>Cependant, si je sais pénétrer dans votre âme,</l>
+	<l id='1572'>D'un lâche abaissement vous soupçonnez ma flamme,</l>
+	<l id='1573'>Et croyez que Carlos aurait en vain ma foi,</l>
+	<l id='1574'>Si le Duc s'obstinait à soupirer pour moi.</l>
+	<l id='1575'>Pour guérir votre esprit de cet abus extrême </l>
+	<l id='1576'>Je veux de son amour que vous jugiez vous-même,</l>
+	<l id='1577'>Et qu'en voyant l'effort, vous puissiez témoigner</l>
+	<l id='1578'>Quels nobles sentiments me le font dédaigner.</l>
+	<l id='1579' part='i'>Je l'aperçois qui vient.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='1579' part='f'>Qu'une épreuve si rude</l>
+	<l id='1580'>À mon coeur alarmé cause d'inquiétude ! </l>
+	<l id='1581' part='i'>Ah, Laure. </l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1581' part='f'>Voila bien de quoi vous tourmenter.</l>
+	<l id='1582'>Quand vous n'en pourrez plus vous n'aurez qu'à chanter.</l>
+	<l id='1583'>Forcez vous un moment à garder le silence.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Le Duc, La Duchesse, Fenice, Laure, Fabrice.</head>
+<sp who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
+	<l id='1584'>Madame, le succès passe mon espérance,</l>
+	<l id='1585'>Mes voeux par Federic jusqu'ici condamnez </l>
+	<l id='1586'>D'aucun crime d'État ne sont plus soupçonnez,</l>
+	<l id='1587'>Et c'est par son aveu que mon âme charmée</l>
+	<l id='1588'>Vient vous rendre ma foi pleinement confirmée,</l>
+	<l id='1589'>Recevez-en pour gage et mon coeur et ma main.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='1590' part='i'>Dieux, quelle offre !</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1590' part='f'>Attendez l'effet de ce dessein. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1591'>Seigneur, si Federic de surprise incapable</l>
+	<l id='1592'>À votre passion se montre favorable,</l>
+	<l id='1593'>Dans tout ce que l'honneur fait dépendre de moi,</l>
+	<l id='1594'>Soyez sûr que Fenise agréera votre foi,</l>
+	<l id='1595'>Pourvu que cette foi par mes voeux couronnée </l>
+	<l id='1596'>Me tienne pour Carlos la parole donnée.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1597'>N'en doutez point, Madame, il se peut assurer</l>
+	<l id='1598'>De tout ce que l'amour lui permet d'espérer;</l>
+	<l id='1599'>Mon coeur avec plaisir lui cède la Duchesse.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1600'>Quelquefois on oublie une juste promesse. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1601'>L'effet suivra la mienne, et je le jure ici</l>
+	<l id='1602'>Par ce coeur que mes soins ont enfin adouci,</l>
+	<l id='1603'>Par ces yeux vifs et doux, le charme de mon âme,</l>
+	<l id='1604'>Par cette belle voix, la source de ma flamme,</l>
+	<l id='1605'>Cette voix que me fit connaître le hasard. </l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='1606'>Pour ne vous point brouiller laissez la voix à part,</l>
+	<l id='1607' part='i'>Oubliez-vous ainsi ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1607' part='f'>J'ai donc sujet de croire</l>
+	<l id='1608'>Qu'à ma voix de vos feux je dois toute la gloire ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1609'>Je vous ai enfants dit que son divin pouvoir</l>
+	<l id='1610'>Fit naître en moi d'abord le désir de vous voir ; </l>
+	<l id='1611'>Mais sur mon âme enfin vos beautés sans obstacle</l>
+	<l id='1612'>Ont d'un charme si doux achevé le miracle.</l>
+	<l id='1613'>De leur brillant éclat l'impérieux effort</l>
+	<l id='1614'>A trouvé ma raison avec mes sens d'accord,</l>
+	<l id='1615'>Et cédant à vos yeux une pleine victoire, </l>
+	<l id='1616'>Mon coeur par sa défaite a signalé leur gloire.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='1617'>C'en est fait, sa beauté l'emporte sur ma voix.</l>
+	<l id='1618'>Qu'a-t-elle plus que moi qui mérite son choix ?</l>
+	<l id='1619' part='i'>Ah, je perds patience.</l>
+</sp>
+<sp who="LAURE"><speaker>LAURE.</speaker>
+	<l id='1619' part='f'>Il n'est pas temps encore.</l>
+	<l id='1620'>C'est votre seule voix, vous dis-je, qu'il adore, </l>
+	<l id='1621'>Quoi qu'il proteste ici, l'épreuve en fera foi.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1622'>Oserais-je expliquer ce silence pour moi ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1623'>N'en soyez point surpris, l'aveu que vous me faites</l>
+	<l id='1624'>Pour l'orgueil de mes voeux a des douceurs secrètes,</l>
+	<l id='1625'>Dont vous comprendriez l'appas mystérieux </l>
+	<l id='1626'>S'il vous était permis de me connaître mieux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1627'>Ce discours est obscur, mais quoi qu'il en puisse être,</l>
+	<l id='1628'>Si je vous connais mal, faites-vous mieux connaître,</l>
+	<l id='1629'>Et de mes sens charmez dissipant le faux jour,</l>
+	<l id='1630'>Souffrez à vos beaux yeux d'éclairer mon amour. </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1631'>Vos soins et vos respects semblent assez me dire</l>
+	<l id='1632'>Qu'en effet votre amour en reconnaît l'empire,</l>
+	<l id='1633'>Mais de grâce, sans fard éclaircissons un point,</l>
+	<l id='1634'>Me pourriez-vous aimer si je ne chantais point ?</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Fabrice.</speaker>
+	<l id='1635'>Elle veut m'éprouver. Que dites-vous, Madame ? </l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1636'>Cette atteinte imprévue étonne votre flamme ;</l>
+	<l id='1637'>Mais enfin pourriez-vous me garder votre foi</l>
+	<l id='1638'>Si jusqu'ici quelque autre avait chanté pour moi ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1639'>Sans votre belle voix j'avouerai que peut-être</l>
+	<l id='1640'>Je n'aurais pas cherché sitôt à vous connaître, </l>
+	<l id='1641'>Et que pour ce bonheur mes voeux moins empressez</l>
+	<l id='1642'>D'un soin si redoublé se seraient dispensez,</l>
+	<l id='1643'>Mais quand de mille attraits le Ciel vous a pourvue,</l>
+	<l id='1644'>Songer à la révolte après vous avoir vue,</l>
+	<l id='1645'>C'est une trahison dont le crime honteux </l>
+	<l id='1646'>Ne souillera jamais la gloire de mes feux.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, à Laure.</speaker>
+	<l id='1647'>Je n'en puis plus souffrir, le dépit me surmonte,</l>
+	<l id='1648'>Tu vas voir ma vengeance, ou ma dernière honte.</l>
+<stage>Elle sort.</stage>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Le Duc, La Duchesse, Fabrice, Laure.</head>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1649'>Ce fort attachement, quoi que peu mérité,</l>
+	<l id='1650'>D'une fierté nouvelle enfle ma vanité, </l>
+	<l id='1651'>Qui peut-être abusant de votre âme enflammée</l>
+	<l id='1652'>Vous fera repentir de m'avoir trop aimée.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1653'>Comment en abuser, si mes voeux les plus doux</l>
+	<l id='1654'>Se bornent sans réserve à prendre loi de vous ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1655'>Un amour si soumis est mauvais Politique. </l>
+	<l id='1656'>Car enfin notre empire est un peu tyrannique,</l>
+	<l id='1657'>Et comme notre orgueil soutient ce qu'il résout,</l>
+	<l id='1658'>Une femme est à craindre alors qu'elle peut tout.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<stage>On entend quelques accords de luth.</stage>
+	<l id='1659' part='i'>Ce pouvoir ? Mais, ô Dieux ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1659' part='f'>Quelle est cette surprise ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1660' part='i'>J'entends toucher un luth.</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, bas se détournant.</speaker>
+	<l id='1660' part='f'>Je ne vois plus Fenise. </l>
+<stage>Haut.</stage>
+	<l id='1661'>Mes filles quelquefois voulant me divertir ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1662'>Leur dessein est trop juste, et j'y dois consentir,</l>
+	<l id='1663' part='i'>Il faut les écouter. Dieux ! </l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='1663' part='f'>Votre amour s'alarme ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1664'>C'est le même signal de la voix qui me charme.</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, bas.</speaker>
+	<l id='1665'>Ô Ciel ! Se pourrait-il, m'ayant tant protesté, </l>
+	<l id='1666'>Qu'une voix dans son coeur effaçât ma beauté ?</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, chante derrière le théâtre.</speaker>
+	<l id='1667'>En vain de mes soupirs laissez sans espérance</l>
+	<l id='1668'>Vous croiriez réparer l'offense</l>
+	<l id='1669'>En soupirant à votre tour ;</l>
+	<l id='1670'>L'amour est doux, mais la vengeance </l>
+	<l id='1671'>Est aussi douce que l'amour.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1672'>Dieux ! Eût-il rien d'égal au trouble de mon âme ?</l>
+	<l id='1673'>C'est cette même voix qui fit naître ma flamme.</l>
+	<l id='1674'>Mais non, la ressemblance a pu me décevoir.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE, bas.</speaker>
+	<l id='1675'>Qu'il ose de mes yeux balancer le pouvoir, </l>
+	<l id='1676'>Et d'un lâche caprice appuyant l'imposture</l>
+	<l id='1677'>Joindre au premier outrage une seconde injure !</l>
+	<l id='1678'>S'il s'en laisse surprendre, il faut pour m'en venger</l>
+	<l id='1679'>Que de nouveaux appas m'aident à l'engager.</l>
+	<l id='1680'>Quoi, Seigneur, la Musique à ce point vous transporte, </l>
+	<l id='1681'>Qu'elle vous autorise à rêver de la sorte ?</l>
+	<l id='1682'>Son charme pour vos sens peut-il être si doux,</l>
+	<l id='1683'>Qu'il vous fasse oublier que je suis avec vous ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1684'>J'y failli, je l'avoue, et mon âme étonnée</l>
+	<l id='1685'>À son transport secret s'est trop abandonnée, </l>
+	<l id='1686'>Mais sur moi la Musique eut toujours ce pouvoir.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1687'>De grâce, seyez-vous, que je puisse me seoir.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, bas.</speaker>
+	<l id='1688'>Qui croirait que mon coeur, malgré sa foi promise,</l>
+	<l id='1689'>Dans Fenise déjà ne trouvât plus Fenise ?</l>
+	<l id='1690' part='i'>M'aurait-on pu tromper ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1690' part='f'>Il faut que sur nos sens </l>
+	<l id='1691'>L'empire du devoir ait des droits bien puissants,</l>
+	<l id='1692'>Car enfin, quelque éclat qui brille dans votre âme,</l>
+	<l id='1693'>Avant que Federic approuvât votre flamme,</l>
+	<l id='1694'>Je n'y remarquais point ces rares qualités</l>
+	<l id='1695'>Dont soudain son aveu m'a fourni les clartés, </l>
+	<l id='1696'>Et qui dans un instant par un pouvoir extrême</l>
+	<l id='1697'>Vous rendent à mes yeux différent de vous-même.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, bas.</speaker>
+	<l id='1698'>À quel fâcheux tourment me va-t-elle exposer,</l>
+	<l id='1699'>S'il faut qu'elle s'obstine à me favoriser ?</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1700' part='i'>Vous ne répondez point ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1700' part='f'>Que puis-je vous répondre, </l>
+	<l id='1701'>Sinon que vos bontés servent à me confondre,</l>
+<stage>On entend encore le luth.</stage>
+	<l id='1702'>Et que ?mais malgré moi je me sens emporter.</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, bas.</speaker>
+	<l id='1703'>C'en est trop, pour ma gloire il est temps d'éclater.</l>
+</sp>
+<sp who='FENISE'><speaker>FENISE, chante.</speaker>
+	<l id='1704'>En vain vous me diriez que votre âme charmée</l>
+	<l id='1705'>D'un feu si pur est consumée, </l>
+	<l id='1706'>Que je la devrais soulager :</l>
+	<l id='1707'>Il est doux de se voir aimée,</l>
+	<l id='1708'>Mais il est doux de se venger.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1709'>On m'a trompé sans doute, ah, c'est trop me contraindre.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1710'>Levons le masque, Duc, enfin c'est assez feindre.  </l>
+	<l id='1711'>Je vous rends votre amour, qui pour en bien parler</l>
+	<l id='1712'>Ne cherchant qu'une voix, n'est qu'un amour en l'air.</l>
+	<l id='1713'>Si l'espoir de ma main a pu flatter votre âme,</l>
+	<l id='1714'>Le Ciel a pris plaisir d'abuser votre flamme,</l>
+	<l id='1715'>Et n'a sur ce faux bien arrêté votre choix </l>
+	<l id='1716'>Qu'afin de trouver lieu de vous l'ôter deux fois,</l>
+	<l id='1717'>Et vous faire avouer, trompant votre espérance,</l>
+	<l id='1718'>Que vous n'en méritiez l'effet, ni l'apparence,</l>
+	<l id='1719'>C'est ainsi qu'il se rit d'un feu capricieux,</l>
+	<l id='1720'>Adieu, vous répondrez quand vous m'entendrez mieux. </l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Le Duc, Fabrice.</head>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1721' part='i'>Vous voilà bien payé.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1721' part='f'>N'importe, elle m'oblige,</l>
+	<l id='1722'>Son mépris me fait grâce et n'a rien qui m'afflige,</l>
+	<l id='1723'>Puisqu'enfin sa beauté, quelques charmes qu'elle eut,</l>
+	<l id='1724'>Sans celui de sa voix n'avait rien qui me plut.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1725'>Mais que deviendrez-vous si votre amour l'oublie ? </l>
+	<l id='1726'>Car la chanteuse enfin n'est autre que Célie.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1727' part='i'>Que Célie ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1727' part='f'>Oui, mes yeux en sont de bons garants,</l>
+	<l id='1728'>Eux qui viennent de voir ce que je vous apprends.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1729'>Quoi qu'en beauté peut-être elle cède à Fenise,</l>
+	<l id='1730'>Elle a je ne sais quoi dont mon âme est éprise, </l>
+	<l id='1731'>Et d'un secret instinct l'invincible pouvoir,</l>
+	<l id='1732'>Quand je la pris pour elle, avait su m'émouvoir.</l>
+	<l id='1733'>Mais qu'en vain sa beauté, qu'en vain sa voix m'enflamme,</l>
+	<l id='1734'>Si ce que je me dois tyrannise mon âme,</l>
+	<l id='1735'>Et si par ce qu'elle est tout mon esprit détruit </l>
+	<l id='1736' part='i'>Ne découvre ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Le Duc, Fénice, Fabrice, Laure.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1736' part='f'>Ah, Célie, où m'avez-vous réduit ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1737' part='i'>De quoi vous plaignez-vous ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1737' part='f'>D'un amour qui m'accable.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1738' part='i'>Votre malheur est grand.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1738' part='f'>Vous en êtes coupable.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1739'>Quoi, s'il vous traite mal, m'en faut-il accuser ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1740'>Oui, puisque c'est par vous qu'il a su m'abuser. </l>
+	<l id='1741'>Vous m'avez fait aimer votre voix en Fenise,</l>
+	<l id='1742'>Vous avez à son charme engagé ma franchise.</l>
+	<l id='1743'>Satisfait de son rang, hélas ! Je l'ai souffert, </l>
+	<l id='1744'>J'ai cédé sans contrainte, et c'est ce qui me perd.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1745'>Qui dut mieux que Fenise avoir charmé votre âme ? </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1746'>Mais c'était votre voix qui soutenait ma flamme.</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1747'>Il se peut qu'en effet elle ait eu le pouvoir</l>
+	<l id='1748'>De vous porter d'abord au désir de la voir,</l>
+	<l id='1749'>Mais quand de mille attraits ses beautés sont pourvues,</l>
+	<l id='1750'>Songer à la révolte après les avoir vues, </l>
+	<l id='1751'>C'est une trahison dont le crime honteux</l>
+	<l id='1752'>Ne doit jamais souiller la gloire de vos feux.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1753'>C'est ce que mon erreur m'engageait à lui dire,</l>
+	<l id='1754'>Mais enfin sur mon âme elle n'a plus d'empire,</l>
+	<l id='1755'>Et sur moi votre voix en a pris un si doux, </l>
+	<l id='1756'>Que je me sens forcé de l'adorer en vous.</l>
+	<l id='1757'>Ah, si vous n'étiez pas ce que je vous vois être ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1758'>Quelle estime pour moi feriez-vous plus paraître ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1759'>Je vivrais pour vous seule, et tiendrais à bonheur</l>
+	<l id='1760'>D'ajouter ma Couronne à l'offre de mon coeur. </l>
+	<l id='1761'>Qu'avec joie à vos pieds on me la verrait mettre,</l>
+	<l id='1762'>Si l'éclat de mon rang me le pouvait permettre !</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1763'>Et si je vous disais que celui que je tiens</l>
+	<l id='1764'>Laisse à peine égaler vos sentiments aux miens,</l>
+	<l id='1765'>Et que dans la fierté que ma vertu me donne, </l>
+	<l id='1766'>Je renonce à ce coeur, comme à votre couronne ?</l>
+	<l id='1767'>Quoi que votre sujette, il n'est ni Duc, ni Roi,</l>
+	<l id='1768'>À qui son choix suffit pour m'obtenir de moi,</l>
+	<l id='1769'>Il faut d'autres devoirs à l'orgueil qui m'enflamme,</l>
+	<l id='1770'>C'est pourquoi gardez bien l'empire de votre âme. </l>
+	<l id='1771'>À quoi qu'un peu d'éclat fasse monter ce bien, </l>
+	<l id='1772'>Il remplirait trop mal un coeur comme le mien.</l>
+	<l id='1773'>Non, que par ce refus j'aie assez de faiblesse</l>
+	<l id='1774'>Pour vouloir vous porter à me faire Duchesse,</l>
+	<l id='1775'>Ce bonheur, tel qu'il soit, n'est pas d'un si haut prix, </l>
+	<l id='1776'>Qu'il valut la douceur d'un semblable mépris.</l>
+	<l id='1777'>Adieu, souvenez-vous que contre son attente</l>
+	<l id='1778'>Celle que de vos feux vous fîtes confidente,</l>
+	<l id='1779'>Quand vous la méprisiez, se vantait qu'à son tour</l>
+	<l id='1780'>Peut-être elle aurait lieu de braver votre amour. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Le Duc, Fabrice.</head>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1781' part='i'>Elle a l'esprit perdu !</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1781' part='f'>Qu'en toute son audace</l>
+	<l id='1782'>Elle sait conserver et d'attraits et de grâce !</l>
+	<l id='1783'>Bien loin de m'irriter, sa fierté me ravit.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1784'>Vous aimez son orgueil, sa voix vous asservit,</l>
+	<l id='1785'>Même pour sa beauté votre coeur s'intéresse, </l>
+	<l id='1786'>Voilà bien de l'amour, et bien peu de maîtresse.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1787'>Tel est de mon destin l'âpre fatalité ;</l>
+	<l id='1788'>Mais enfin que résoudre en cette extrémité ?</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1789'>De n'aimer que vous seul, et narguer les cruelles,</l>
+	<l id='1790' part='i'>Aussi bien ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Le Duc, Camille, Fabrice.</head>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1790' part='f'>Ah, Seigneur, voici bien des nouvelles. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1791'>Quoi, qu'est-il survenu ? Tire-moi de souci.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1792' part='i'>La Duchesse ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1792' part='m'>Et bien parle.</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1792' part='f'>Est arrivée ici.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1793' part='i'>Que dis-tu ? la Duchesse ?</l>
+</sp>
+<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+	<l id='1793' part='f'>Elle-même en personne.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1794'>Tout le sexe aujourd'hui d'assez prés vous talonne.</l>
+	<l id='1795'>Voilà pour bien encor exercer vos esprits. </l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à Camille.</speaker>
+	<l id='1796'>Fais venir Federic, le conseil en est pris.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1797' part='i'>Qu'avez-vous résolu ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1797' part='f'>Rien ne m'en peut distraire,</l>
+	<l id='1798'>L'effort est violent, mais il est nécessaire.</l>
+	<l id='1799'>Puisque Fenise enfin m'a su rendre ma foi,</l>
+	<l id='1800'>Que par son rang Célie est indigne de moi, </l>
+	<l id='1801'>Il faut qu'à ma vertu soumettant ma faiblesse </l>
+	<l id='1802'>Je rende en l'épousant justice à la Duchesse.</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1803'>Fort bien, si votre amour peut faire un si beau saut,</l>
+	<l id='1804'>Fenise et la chanteuse auront ce qu'il leur faut,</l>
+	<l id='1805'>Voici l'une déjà que Carlos vous amène. </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1806'>Si c'est pour l'excuser, leur espérance est vaine.</l>
+</sp>
+</div2>
+<div2 type='scene' n='8'><head>SCÈNE VIII. Le Duc, La Duchesse, Carlos, Fabrice.</head>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1807'>Madame, enfin cessez de craindre désormais</l>
+	<l id='1808'>Que mes voeux importuns contraignent vos souhaits,</l>
+	<l id='1809'>Ils cèdent, et mon coeur par un respect indigne</l>
+	<l id='1810'>Abandonne un espoir dont il n'était pas digne. </l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1811'>Seigneur, souffrez qu'ici j'ose vous éclaircir ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1812'>Vous n'y pourriez, Carlos, que fort mal réussir.</l>
+	<l id='1813'>Non que voyant vos feux appuyez l'un par l'autre,</l>
+	<l id='1814'>Quand j'éteins mon amour je ne plaigne le vôtre :</l>
+	<l id='1815'>Mais quelques droits sur moi qu'on lui vit usurper, </l>
+	<l id='1816'>Je n'ai pu rien promettre à qui m'ose tromper,</l>
+	<l id='1817'>Et comme à la Duchesse un vieil accord m'engage,</l>
+	<l id='1818'>Puisqu'elle est à Milan, je lui rends mon hommage.</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1819'>Vous pensez me braver, Duc, mais par cet aveu</l>
+	<l id='1820'>Votre aveugle mes pris ne m'oblige pas peu, </l>
+	<l id='1821'>Puis qu'à changer d'objet votre âme un peu trop prompte</l>
+	<l id='1822'>Sur vous d'un fier refus fait retomber la honte :</l>
+	<l id='1823'>Car enfin de sa part je viens vous assurer</l>
+	<l id='1824'>Qu'en vain à son hymen vous osez aspirer,</l>
+	<l id='1825'>Et que ce qui l'amène est une ardeur sincère </l>
+	<l id='1826'>D'assurer à Carlos le bonheur qu'il espère.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1827'>Je l'empêcherai bien, ce téméraire amour.</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, au Duc.</speaker>
+	<l id='1828'>Faites-vous promptement chanter un air de Cour,</l>
+	<l id='1829'>Contre tous accidents c'est un puissant remède.</l>
+</sp>
+</div2>
+<div2 type='scene' n='9'><head>SCÈNE IX. Le Duc, La Duchesse, Carlos, Fenise, Federic, Laure, Fabrice, Camille.</head>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1830'>Quel chagrin importun de nouveau vous possède ? </l>
+	<l id='1831'>Seigneur, vous paraissez l'esprit tout inquiet.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1832'>J'ai quelque lieu de l'être, et le suis en effet.</l>
+	<l id='1833'>Pour payer votre foi, dont par tout l'éclat brille,</l>
+	<l id='1834'>Je m'étais engagé d'épouser votre fille,</l>
+	<l id='1835'>Mais sorti d'une erreur qu'à la fin je connais,  </l>
+	<l id='1836'>Il ne m'est plus permis de disposer de moi.</l>
+	<l id='1837'>Vous savez, Federic, que tout Milan me presse</l>
+	<l id='1838'>D'étouffer ses malheurs épousant la Duchesse,</l>
+	<l id='1839'>Et puis qu'elle est ici, ce serait le trahir,</l>
+	<l id='1840'>Qu'à la loi qu'il m'en fait refuser d'obéir. </l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1841'>Oui, Seigneur, et tantôt si j'ai pu pour Fenise</l>
+	<l id='1842'>De votre amour séduit approuver l'entreprise,</l>
+	<l id='1843'>Apprenez que déjà de votre erreur instruit</l>
+	<l id='1844'>Mon coeur à la Duchesse en assurait le fruit.</l>
+	<l id='1845'>En vain pour mes enfants le sang me sollicite, </l>
+	<l id='1846'>Pour ébranler ma foi sa force est trop petite,</l>
+	<l id='1847'>Et je ne me souviens de ce que je leur dois</l>
+	<l id='1848'>Qu'après que mon pays n'attend plus rien de moi.</l>
+	<l id='1849'>Ainsi sans balancer épousez la Duchesse,</l>
+	<l id='1850'>Qu'aujourd'hui de Milan elle soit la maîtresse, </l>
+	<l id='1851'>Rendez cette justice à l'éclat de son sang,</l>
+	<l id='1852'>À celui qu'elle en tient joignez ce nouveau rang,</l>
+	<l id='1853'>Je le verrai sans peine, et je fais davantage</l>
+	<l id='1854'>Si j'ose l'assurer par mon premier hommage.</l>
+	<l id='1855'>Recevez-le, Madame, et souffrez qu'à genoux ? </l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1856'>Qu'est-ceci, Federic ? Ô Dieux que faites vous ?</l>
+</sp>
+<sp who="FEDERIC"><speaker>FEDERIC.</speaker>
+	<l id='1857'>Ce que d'un bon sujet vous avez droit d'attendre.</l>
+</sp>
+<sp who="CARLOS"><speaker>CARLOS.</speaker>
+	<l id='1858'>Je vois dans ce discours ce qui vous peut surprendre,</l>
+	<l id='1859'>Mais, Seigneur, si d'abord vous m'eussiez écouté,</l>
+	<l id='1860'>Il n'aurait eu pour vous aucune obscurité, </l>
+	<l id='1861'>Et vous auriez enfants connu par quelle adresse,</l>
+	<l id='1862'>Où vous croyez ma soeur, vous croyez la Duchesse.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1863' part='i'>La Duchesse !</l>
+</sp>
+<sp who="LA DUCHESSE"><speaker>LA DUCHESSE.</speaker>
+	<l id='1863' part='f'>Oui, c'est moi, vous en doutez en vain.</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1863' part='f'>Ô Dieux !</l>
+</sp>
+<sp who="FABRICE"><speaker>FABRICE.</speaker>
+	<l id='1864'>Il va crier, ô Dieux ! jusqu'à demain.</l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
+	<l id='1865'>Pardonnez mon silence à ma juste surprise, </l>
+	<l id='1866'>Mais si l'on m'a dit vrai, qui peut être Fenise ?</l>
+</sp>
+<sp who="FENISE"><speaker>FENISE.</speaker>
+	<l id='1867'>Dans un pareil succès à votre espoir si doux,</l>
+	<l id='1868'>Si vous saviez aimer, le demanderiez-vous ?</l>
+</sp>
+<sp who="LE DUC"><speaker>LE DUC.</speaker>
+	<l id='1869'>Quoi, c'est donc vous, Madame ? Ô bonheur, ô miracle !</l>
+</sp>
+<sp who='LA DUCHESSE'><speaker>LA DUCHESSE, au Duc.</speaker>
+	<l id='1870'>À l'amour de Carlos voudrez-vous mettre obstacle ? </l>
+</sp>
+<sp who='LE DUC'><speaker>LE DUC, à la Duchesse.</speaker>
+	<l id='1871' part='i'>Puis-je assez m'excuser, Madame ?</l>
+</sp>
+<sp who='FABRICE'><speaker>FABRICE, montrant l'assemblée.</speaker>
+	<l id='1871' part='f'>Arrêtez-là,</l>
+	<l id='1872'>Laissez ce monde en paix puisque vous y voila,</l>
+	<l id='1873'>L'éclaircir plus avant serait pure sottise.</l>
+	<l id='1874'>Voit-il pas que le Duc épousera Fenise,</l>
+	<l id='1875'>La Duchesse, Carlos, et si le coeur m'en dit </l>
+	<l id='1876'>Qu'avec Laure demain je ne ferai qu'un lit ?</l>
+	<l id='1877'>À quoi bon l'étourdir de vos qui l'eut pu croire ?</l>
+	<l id='1878'>C'était vous qui chantiez ? que j'ai d'heur et de gloire !</l>
+	<l id='1879'>Tout cela c'est fadaise ; ainsi jusqu'au revoir,</l>
+	<l id='1880'>Sans autre compliment donnons-lui le bonsoir. </l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

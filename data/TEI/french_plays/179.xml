@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LA MORT D'ACHILLE, TRAGÉDIE</title>
+				<author born='1625' born_location='Rouen' death='1709' death_location='Les Andelys' academie='1685'>CORNEILLE, Thomas</author>
+				<date>1673</date>
+			</titleStmt>
+			<publicationStmp>	
+				<authority>publié par Ernest FIEVRE, décembre 2007</authority>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragédie</genre>
+				<inspiration>mythe grec</inspiration>
+				<structure>Cinq actes</structure>
+				<type>vers</type>
+				<periode>1671-1680</periode>
+				<taille>1500-1750</taille>
+				<permalien></permalien>
+				<refNum/>
+			</SourceDesc>
+		</fileDesc>
+	</teiHeader>
+<text>
+<front>
+	<docTitle>
+		<titlePart type="main">LA MORT D'ACHILLE</titlePart>
+		<titlePart type="sub">TRAGÉDIE</titlePart>
+	</docTitle>
+	<docDate value="1673">M. DC. LXXXIII</docDate>
+		<docAuthor id="CORNEILLE, Thomas" bio='corneillet'>Par T. CORNEILLE. </docAuthor>
+	<docImprint>
+	<privilege id=""></privilege>
+	<imprimeur id=""></imprimeur>
+	<acheveImprime id=""></acheveImprime>
+		</docImprint>
+		<performance>
+			<premiere date="1673-12-29" location='Hôtel Guénégaud'>Représenté pour la première fois le 29 décembre 1673 au T^éâtre de l'Hôtel Guénégaud.</premiere>
+		</performance>
+<castList><head>ACTEURS </head>
+	<castItem><role id="ACHILLE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>ACHILLE</role>.</castItem>
+	<castItem><role id="PYRRHUS" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>PYRRHUS</role>, fils d'Achille.</castItem>
+	<castItem><role id="POLIXENE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, fille de Priam, roi de Troie.</castItem>
+	<castItem><role id="BRISEIS" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>BRISEIS</role>, princesse, captive d'Achille.</castItem>
+	<castItem><role id="PHÉNICE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>PHÉNICE</role>, confidente de Briseis.</castItem>
+	<castItem><role id="ILIONE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ILIONE</role>, confidente de Polixène.</castItem>
+	<castItem><role id="ALCIME" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ALCIME</role>, confident d'Achille.</castItem>
+	<castItem><role id="ANTILOCHUS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>ANTILOCHUS</role>, confident de Pyrrhus.</castItem>
+</castList>
+<set location='Troie' country='Turquie' periode='Temps mythologiques' link=''>[La scène se situe à Troie.]</set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Briseis, Pyrrhus, Antilochus, Phénice.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1'>Prince, n'en doutez point, je l'obtiendrai d'Achille.</l>
+	<l id='2'>Pour vous auprès de lui tout me sera facile,</l>
+	<l id='3'>Et quoique mon amour veuille exiger du sien,</l>
+	<l id='4'>Son coeur est trop à moi pour me refuser rien.</l>
+	<l id='5'>Vos yeux en sont témoins ; pour fléchir son courage</l>
+	<l id='6'>En vain le vieux Priam a tout mis en usage.</l>
+	<l id='7'>En vain ce triste roi, pour le corps de son fils,</l>
+	<l id='8'>A joint les pleurs d'Hécube à des présents exquis.</l>
+	<l id='9'>Insensible à ces pleurs, trois fois d'une âme fière</l>
+	<l id='10'>Il a de tous les deux rejeté la prière,</l>
+	<l id='11'>Et par tout ce que peut la plus vive douleur,</l>
+	<l id='12'>Hécube ni Priam n'ont pu toucher son coeur.</l>
+	<l id='13'>Sitôt qu'à ses genoux j'ai fait voir Polixène,</l>
+	<l id='14'>Que j'ai parlé pour elle, il a cédé sans peine,</l>
+	<l id='15'>Et deux mots de ma bouche ont fait en un moment</l>
+	<l id='16'>Ce que la terre entière eut tenté vainement.</l>
+	<l id='17'>J'ai proposé la trêve, et soudain avec joie   </l>
+	<l id='18'>Il a pour quelques jours laissé respirer Troie,</l>
+	<l id='19'>Rendu le corps d'Hector, et lui-même honoré</l>
+	<l id='20'>Les cendres d'un héros si justement pleuré.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='21'>Après avoir forcé sa colère à se rendre,</l>
+	<l id='22'>L'illustre Briseis a droit de tout prétendre.</l>
+	<l id='23'>Par cette majesté dont brillent ses appas</l>
+	<l id='24'>Quels obstinés refus ne vaincrait-elle pas,</l>
+	<l id='25'>Elle qui triomphant du destin qui la brave</l>
+	<l id='26'>A fait de son vainqueur un glorieux esclave,</l>
+	<l id='27'>Soumis le fier Achille, et par un doux revers,</l>
+	<l id='28'>Trouvé l'art de régner au milieu de ses fers ?</l>
+	<l id='29'>C'est en ce grand pouvoir, Madame, que j'espère.</l>
+	<l id='30'>Que n'obtiendra-t-il point d'un amant et d'un père ?</l>
+	<l id='31'>Un mot en ma faveur couronne mon amour,</l>
+	<l id='32'>Achille vous adore, il m'a donné le jour,</l>
+	<l id='33'>Et sait trop ce que peut un beau feu sur une âme</l>
+	<l id='34'>Pour vouloir mettre obstacle au succès de ma flamme.</l>
+	<l id='35'>La guerre n'a produit que trop d'affreux effets,</l>
+	<l id='36'>Nous vous devons la trêve, accordez-nous la paix,</l>
+	<l id='37'>Et pour faire cesser tous les sujets de haine,</l>
+	<l id='38'>Obtenez que l'hymen m'unisse à Polixène.</l>
+	<l id='39'>Priam qui pleure un fils à ses larmes rendu,</l>
+	<l id='40'>Le recouvrant en moi, n'aura plus rien perdu.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='41'>Malgré le sang d'Hector qu'Achille a dû répandre,</l>
+	<l id='42'>Il se peut que Priam aime Pyrrhus pour gendre,</l>
+	<l id='43'>Qu'il consente à l'hymen qui flatte vos souhaits,</l>
+	<l id='44'>Mais ce n'est point assez pour nous donner la paix.</l>
+	<l id='45'>Une trop rude guerre à votre espoir s'oppose,</l>
+	<l id='46'>Il faut pour l'étouffer en supprimer la cause,</l>
+	<l id='47'>Rendre, malgré Pâris, Hélène à Ménélas.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='48'>Pour apaiser les Grecs que ne fera-t-on pas ?</l>
+	<l id='49'>Après la mort d'Hector que les Dieux ont soufferte,</l>
+	<l id='50'>Troie enfin sans défense est sûre de sa perte.   </l>
+	<l id='51'>Tandis que cette mort y fait régner l'effroi,</l>
+	<l id='52'>Gagnez l'esprit d'Achille, et tout sera pour moi,</l>
+	<l id='53'>C'est de là que dépend le repos de ma vie.</l>
+	<l id='54'>Vôtre propre intérêt à parler vous convie.</l>
+	<l id='55'>Pour vous donner la main, vous rendre vos ?tats,</l>
+	<l id='56'>Vous savez qu'il attend la fin de nos combats,</l>
+	<l id='57'>Et qu'il ne veut que voir la guerre terminée</l>
+	<l id='58'>Pour conclure avec vous un heureux hyménée.</l>
+	<l id='59'>Faites votre bonheur en assurant le mien.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='60'>Achille pour ma gloire est un brillant soutien,</l>
+	<l id='61'>Disposer de son coeur c'est être plus que Reine ;</l>
+	<l id='62'>Mais pourrez-vous toucher celui de Polixène ?</l>
+	<l id='63'>Il faut vous l'avouer, si sa beauté vous plaît</l>
+	<l id='64'>Ses larmes dans son sort m'ont fait prendre intérest,</l>
+	<l id='65'>Je sens que ses malheurs attendrissent mon âme,</l>
+	<l id='66'>J'en partage l'atteinte, et malgré votre flamme,</l>
+	<l id='67'>Si le don de sa main contraignait ses désirs,</l>
+	<l id='68'>Je les écouterais plutôt que vos soupirs ;</l>
+	<l id='69'>Songez ce qu'est un coeur qui s'arrache à soi-même.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='70'>Je dirais trop peut être en disant qu'elle m'aime,</l>
+	<l id='71'>Mais au moins si le sort ne m'avait point trahi</l>
+	<l id='72'>Je pourrais me flatter de n'être pas haï.</l>
+	<l id='73'>Dans l'un de nos combats pris par Hector son frère,</l>
+	<l id='74'>Je la vis, et la voir, fut aimer à lui plaire,</l>
+	<l id='75'>Puisqu'en moi sa beauté fit dés le premier jour</l>
+	<l id='76'>D'un Prisonnier de guerre, un prisonnier d'amour.</l>
+	<l id='77'>Vers elle en un moment, tous mes voeux se tournèrent,</l>
+	<l id='78'>Mes timides regards d'abord s'en expliquèrent,</l>
+	<l id='79'>Et le trouble des siens avec soin consulté</l>
+	<l id='80'>Ne me fit que trop voir que j'étais écouté.</l>
+	<l id='81'>De ces muets témoins de mes flammes secrètes</l>
+	<l id='82'>Cent soupirs échappés furent les interprètes,</l>
+	<l id='83'>Tout leur fut favorable, et soit qu'à tant d'ardeur</l>
+	<l id='84'>De la belle Princesse on crut devoir le coeur,</l>
+	<l id='85'>Soit que par mon hymen on se fît une joie</l>
+	<l id='86'>De pouvoir prévenir les disgrâces de Troie,</l>
+	<l id='87'>Priam dont sans rançon j'obtins ma liberté</l>
+	<l id='88'>Me permit tout l'espoir dont je m'étais flatté.</l>
+	<l id='89'>Charmé de ce succès je viens trouver Achille.</l>
+	<l id='90'>Quel revers ! mon espoir fut un bien inutile.</l>
+	<l id='91'>Achille en ce moment tout saisi de fureur</l>
+	<l id='92'>Ne parlait que de sang, ne méditait qu'horreur ;</l>
+	<l id='93'>Patrocle avait péri. Dans son impatience</l>
+	<l id='94'>Troie entière était due à sa juste vengeance.</l>
+	<l id='95'>Hector fut le premier qu'il jura d'immoler,</l>
+	<l id='96'>J'adorais Polixène, et je n'osai parler.</l>
+	<l id='97'>Les effets ont rempli cette funeste envie,</l>
+	<l id='98'>C'est peu qu'Achillle ait vu tomber Hector sans vie,</l>
+	<l id='99'>Trois fois, pour assouvir ses furieux transports,</l>
+	<l id='100'>Autour des murs de Troie il a traîné son corps,</l>
+	<l id='101'>Et si sa haine en vous n'eut point trouvé d'obstacles,</l>
+	<l id='102'>Peut être eussions-nous vu de plus sanglants spectacles.</l>
+	<l id='103'>L'étouffant pour vous plaire il a par mille honneurs</l>
+	<l id='104'>De ses emportements réparé les rigueurs,</l>
+	<l id='105'>Et si bien modéré son humeur violente,</l>
+	<l id='106'>Qu'à Priam depuis hier il a cédé sa tente.</l>
+	<l id='107'>C'est de là qu'à toute heure il rend ce roi témoin</l>
+	<l id='108'>Que satisfaire Hector est son unique soin,</l>
+	<l id='109'>Un vain tombeau dressé pour apaiser son ombre</l>
+	<l id='110'>De ces honneurs rendus vient d'augmenter le nombre.</l>
+	<l id='111'>Et pour un ennemi, jamais tant d'amitié</l>
+	<l id='112'>D'un vainqueur adouci ne fit voir la pitié.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='113'>Vous aurez pris ce temps pour revoir Polixène ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='114'>Je l'ai vue, et n'ai pu lui parler de ma peine,</l>
+	<l id='115'>Ses pleurs qui pour Hector coulent presque toujours</l>
+	<l id='116'>Des larmes de la Reine accompagnent le cours ;</l>
+	<l id='117'>Mais de ses tristes yeux la langueur, quoique extrême,</l>
+	<l id='118'>A semblé m'assurer qu'elle est encor la même,   </l>
+	<l id='119'>Et malgré sa douleur j'ai vu je ne sais quoi</l>
+	<l id='120'>Qui forçait ses regards à s'expliquer pour moi.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='121'>Prince, s'il est ainsi, je n'ai plus rien à dire,</l>
+	<l id='122'>Achille sur ses voeux m'a donné plein empire,</l>
+	<l id='123'>Et pourvu que Priam réponde à nos souhaits,</l>
+	<l id='124'>Je vais sur l'heure agir, soyez sûr de la paix.</l>
+	<l id='125'>Mon coeur comme le vôtre est tout à Polixène,</l>
+	<l id='126'>Et si... Mais quel sujet de nouveau me l'amène ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='127'>Madame, en ma faveur daignez lui protester...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='128'>Voyez qu'elle s'avance, il la faut écouter.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Briseis, Pyrrhus, Polixène, Antilochus, Ilione, Phénice.</head>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='129'>Ne vous étonnez point si dans notre infortune</l>
+	<l id='130'>J'ose encor me résoudre à vous être importune.</l>
+	<l id='131'>Il est, vous le savez, d'un coeur grand, généreux,</l>
+	<l id='132'>De se faire toujours l'appui des malheureux,</l>
+	<l id='133'>Et ce que vos bontés m'ont obtenu d'Achille,</l>
+	<l id='134'>M'ayant fait voir qu'en vous la vertu trouve asile,</l>
+	<l id='135'>Je viens offrir, Madame, à ces mêmes bontés</l>
+	<l id='136'>De quoi remplir l'éclat du sang dont vous sortez.</l>
+	<l id='137'>Assez et trop longtemps une funeste guerre</l>
+	<l id='138'>Par ses vastes horreurs désole cette terre.</l>
+	<l id='139'>Assez le vieux Priam a vu ses cheveux gris</l>
+	<l id='140'>Dans ses derniers baisers teints du sang de ses fils.</l>
+	<l id='141'>À force de combats Troie en est épuisée,</l>
+	<l id='142'>Il n'est mère à gémir qui ne soit exposée ;</l>
+	<l id='143'>Chacun plaint sa disgrâce, et dans nos longs revers</l>
+	<l id='144'>Ces lugubres habits montrent ce que je perds.</l>
+	<l id='145'>Dix frères au tombeau m'ont demandé des larmes,</l>
+	<l id='146'>Ce sont de ma douleur les ordinaires charmes ;</l>
+	<l id='147'>J'ai pleuré Lycaon, Antiphone, Mestor,</l>
+	<l id='148'>Troile ; je me tais du malheureux Hector,</l>
+	<l id='149'>Il doit être apaisé par l'honneur qu'à sa cendre</l>
+	<l id='150'>Aux pieds de nos remparts son vainqueur vient de rendre ;</l>
+	<l id='151'>Nos yeux de cette pompe ont été les témoins,</l>
+	<l id='152'>L'éclat m'en surprend peu, c'est l'effet de vos soins.</l>
+	<l id='153'>Mais en vain ces honneurs souffrent que je respire,</l>
+	<l id='154'>La fin m'en fait trembler, demain la trêve expire,</l>
+	<l id='155'>Et pour peu que la guerre ait encor à durer</l>
+	<l id='156'>J'aurai bientôt Hécube et Priam à pleurer.</l>
+	<l id='157'>Ils ne survivront point à la perte de Troie,</l>
+	<l id='158'>Au fer, au feu déjà je la crois voir en proie,</l>
+	<l id='159'>Hector étant sans vie elle n'a plus d'appui,</l>
+	<l id='160'>Lui seul en faisait l'âme, elle était toute en lui,</l>
+	<l id='161'>Rien ne peut réparer une perte si grande,</l>
+	<l id='162'>Tout périt sans la paix, et je vous la demande.</l>
+	<l id='163'>Voyez pour l'obtenir et d'Achille et de vous</l>
+	<l id='164'>La fille de Priam tomber à vos genoux,</l>
+	<l id='165' part='i'>Voyez-là pour un père...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='165' part='f'>Ah, c'en est trop, Princesse,</l>
+	<l id='166'>Une tendre pitié dans vos maux m'intéresse,</l>
+	<l id='167'>Et je les envisage avecque tant d'effroi,</l>
+	<l id='168'>Qu'en travaillant pour vous, je crois agir pour moi.</l>
+	<l id='169'>Vous demandez la paix, j'y vais porter Achille,</l>
+	<l id='170'>Mais pour ne rendre pas ce projet inutile,</l>
+	<l id='171'>Priam se répond-il que l'injuste Pâris</l>
+	<l id='172'>Veuille céder l'objet dont son coeur est épris ?</l>
+	<l id='173'>Point de salut pour Troie à moins de rendre Hélène.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='174'>Pâris a trop d'amour pour la céder sans peine ;</l>
+	<l id='175'>Mais après ce qu'à Troie ont coûté nos combats,</l>
+	<l id='176'>L'intérêt de Pâris ne l'emportera pas.</l>
+	<l id='177'>Si pour lui cette Hélène a toujours mêmes charmes,   </l>
+	<l id='178'>C'est peu pour tant de sang qu'il verse quelques larmes,</l>
+	<l id='179'>Et de son désespoir nous craignons peu l'éclat,</l>
+	<l id='180'>Quand son malheur importe au salut de l'?tat.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='181'>Cet obstacle levé, réglez la paix vous même,</l>
+	<l id='182' part='i'>Elle dépend de vous.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='182' part='m'>De moi ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='182' part='f'>Pyrrhus vous aime,</l>
+	<l id='183'>Agréez son hymen, la guerre est sans retour.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='184'>Ah, Princesse, auriez-vous oublié mon amour,</l>
+	<l id='185'>Cet amour dont mon âme heureusement charmée...</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='186'>Non, Prince, il me souvient que vous m'avez aimée,</l>
+	<l id='187'>Et qu'il m'eut été doux, si le Ciel l'eut permis,</l>
+	<l id='188'>Que l'hymen nous eut fait cesser d'être ennemis.</l>
+	<l id='189'>Le Roi Priam mon père approuva votre flamme,</l>
+	<l id='190'>Je vous dois cet aveu. Souffrez-le moi, Madame,</l>
+	<l id='191'>Un feu de qui la gloire a seule été l'appui</l>
+	<l id='192'>Peut sans honte à vos yeux se déclarer pour lui.</l>
+	<l id='193'>Oui, Prince, de Priam votre amour eut l'estime,</l>
+	<l id='194'>L'espoir qui l'alluma lui parut légitime,</l>
+	<l id='195'>Et l'ordre qui m'en fit autoriser l'ardeur</l>
+	<l id='196'>N'eut rien qui fut contraire au penchant de mon coeur.</l>
+	<l id='197'>De vos soins, de vos voeux j'aimai le tendre hommage,</l>
+	<l id='198'>Mais quand je me souviens de ce triste avantage,</l>
+	<l id='199'>Il me souvient aussi, malgré vos voeux reçus,</l>
+	<l id='200'>Qu'Achille est votre père, et qu'Hector ne vit plus.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='201'>Quoi, vous trouvez pour moi du crime en ma naissance ?</l>
+<stage>À Briseis.</stage>
+	<l id='202'>Ah, Madame, de grâce embrassez ma défense,</l>
+	<l id='203'>Soutenez un amour qui n'a jamais songé...</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='204'>C'est le même, il est vrai, mais les temps ont changé.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='205'>Un scrupule pareil n'a rien qui m'inquiète,</l>
+	<l id='206'>Vous trouvez dans le Prince une vertu parfaite,</l>
+	<l id='207'>Et qui pour lui d'un père aima d'abord le choix,</l>
+	<l id='208'>Voudra bien obéir une seconde fois.</l>
+	<l id='209'>Comme Ulysse m'écoute, et peut nous être utile,</l>
+	<l id='210'>Je vais l'entretenir avant que voir Achille.</l>
+	<l id='211'>Princesse, espérez-en les plus heureux effets.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='212'>Madame, tous mes voeux se bornent à la paix.</l>
+	<l id='213'>Sauvez Troie, il suffit de ce seul avantage,</l>
+	<l id='214'>Ou si de cette paix on veut ma foi pour gage,</l>
+	<l id='215'>Si mon hymen en peut être le seul lien,</l>
+	<l id='216'>Faites-le proposer sans que j'en sache rien,</l>
+	<l id='217'>C'est tout ce qu'à mon coeur ma gloire peut permettre.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='218'>Pour elle de mes soins il doit tout se promettre.</l>
+	<l id='219'>Vous saurez si pour vous j'aurai perdu mes pas.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='220'>Allez, parlez, Madame, et ne m'oubliez pas.</l>
+	<l id='221'>Pour obtenir qu'Achille à mes voeux soit propice,</l>
+	<l id='222'>De mon timide espoir peignez-lui le supplice.</l>
+	<l id='223'>Par tout ce que vos feux ont pour lui de plus doux,</l>
+	<l id='224' part='i'>Priez, pressez.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Polixène, Pyrrhus, Ilione, Antilochus.</head>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='224' part='f'>Hélas ! Que lui demandez-vous ?</l>
+	<l id='225'>Tremblez, Prince, tremblez au nom de Polixène,</l>
+	<l id='226'>Laissez la céder seule au destin qui l'entraîne,</l>
+	<l id='227'>Et ne vous livrez point, sans l'avoir mérité,</l>
+	<l id='228'>Aux malheurs d'un parti que les dieux ont quitté.</l>
+	<l id='229'>Pour attirer sur moi leur plus rude colère,</l>
+	<l id='230'>Le crime est assez grand d'avoir Priam pour père,</l>
+	<l id='231'>Ne le partagez point. Me vouloir épouser</l>
+	<l id='232'>C'est empêcher la paix que l'on va proposer.</l>
+	<l id='233'>Quand d'abord mon hymen en dut être le gage</l>
+	<l id='234'>La guerre n'avait fait que son moindre ravage,</l>
+	<l id='235'>Sa fureur était lente, et nous laissait encor</l>
+	<l id='236'>Et le jeune Troile, et le vaillant Hector.</l>
+	<l id='237'>Dans l'instant qu'un Traité semble un projet facile,</l>
+	<l id='238'>Patrocle qui périt arme contre eux Achille,</l>
+	<l id='239'>Et les faisant tomber sous l'effort de son bras,</l>
+	<l id='240'>Nous ramène l'horreur des plus sanglants combats.</l>
+	<l id='241'>Vous y replongerez la déplorable Troie</l>
+	<l id='242'>Si votre amour encor à les finir s'emploie ;</l>
+	<l id='243'>Ma main est un présent funeste à vous offrir,</l>
+	<l id='244'>Et l'oser demander c'est chercher à périr.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='245'>Pourquoi, lorsque le Ciel nous voit d'un oeil propice,</l>
+	<l id='246'>D'un si cruel augure écouter l'injustice ?</l>
+	<l id='247'>Ces feux qui sur votre âme ont eu quelque pouvoir</l>
+	<l id='248'>N'eurent jamais l'appui d'un si riant espoir.</l>
+	<l id='249'>Briseis dont pour vous l'amitié s'intéresse,</l>
+	<l id='250'>Pourra tout sur Achille, il l'aime avec tendresse.</l>
+	<l id='251'>La trêve de ses soins est le premier effet,</l>
+	<l id='252'>La paix suivra sans doute, Hector est satisfait,   </l>
+	<l id='253'>Priam à notre Hymen consentira sans peine.</l>
+	<l id='254'>Aurai-je contre moi la seule Polixène,</l>
+	<l id='255'>Et mon amour est-il d'un prix si ravalé</l>
+	<l id='256'>Qu'à de vaines terreurs il doive être immolé ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='257'>Prince, veuillent les dieux que faible, et trop timide,</l>
+	<l id='258'>Mon coeur de nos malheurs injustement décide.</l>
+	<l id='259'>Si j'en crois l'apparence ils sont prêts à cesser,</l>
+	<l id='260'>Tout nous promet l'hymen que vous voulez presser,</l>
+	<l id='261'>Briseis s'intéresse au feu qui vous anime,</l>
+	<l id='262'>Achille est sans colère, et Priam vous estime.</l>
+	<l id='263'>Cependant malgré moi je vois de toutes parts</l>
+	<l id='264'>De noirs fleuves de sang effrayer mes regards.</l>
+	<l id='265'>Vous savez de mon sort ce qu'a prédit Cassandre,</l>
+	<l id='266'>L'oeil farouche, égaré, je crois toujours l'entendre.</l>
+	<l id='267'>A peine elle eut appris qu'on nous voulait unir</l>
+	<l id='268'>Que sur ce triste hymen pénétrant l'avenir,</l>
+	<l id='269'>Fuis Polixène, fuis l'impitoyable Achille,</l>
+	<l id='270'>Me dit-elle, tu prends un espoir inutile,</l>
+	<l id='271'>Vouloir donner ta main, c'est courir au tombeau,</l>
+	<l id='272'>Achille est destiné pour être ton bourreau.</l>
+	<l id='273'>Jugez, Prince, jugez après cette menace</l>
+	<l id='274'>Si mon coeur sans sujet se trouble, s'embarrasse,</l>
+	<l id='275'>Si de vaines frayeurs le rendent interdit.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='276'>Peut-on craindre un malheur que Cassandre a prédit ?</l>
+	<l id='277'>En vain d'un si grand Art elle usurpe la gloire,</l>
+	<l id='278'>Jamais on ne l'a crue, et vous la voulez croire.</l>
+	<l id='279'>Non, ne m'opposez point que les Destins jaloux</l>
+	<l id='280'>Combattent les bontés que j'attendais de vous.</l>
+	<l id='281'>Dites, dites, plutôt, que quoi qu'il ait pu faire,</l>
+	<l id='282'>L'infortuné Pyrrhus n'a jamais su vous plaire,</l>
+	<l id='283'>Que ce parfait amour qu'il a fait éclater</l>
+	<l id='284'>Du coeur qu'il attaquait n'a pu rien mériter,</l>
+	<l id='285'>Et que si de Priam la favorable estime</l>
+	<l id='286'>Peut rendre auprès de vous son espoir légitime,   </l>
+	<l id='287'>Il prétendrait en vain à rien plus, qu'à jouir</l>
+	<l id='288'>De la faible douceur de vous voir obéir.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='289'>Ah, Pyrrhus, est-ce ainsi que vous rendez justice</l>
+	<l id='290'>Aux frayeurs dont pour vous j'éprouve le supplice ?</l>
+	<l id='291'>Si la crainte m'expose aux plus rudes combats</l>
+	<l id='292'>Craint-on de voir périr ce que l'on n'aime pas ?</l>
+	<l id='293'>Vous tenez de Priam l'empire de mon âme ;</l>
+	<l id='294'>Mais quand il m'ordonna d'écouter votre flamme,</l>
+	<l id='295'>Je ne sais si mon coeur pour flatter votre espoir</l>
+	<l id='296'>N'avait point en secret prévenu mon devoir,</l>
+	<l id='297'>Et s'il m'eut pû souffrir sur un ordre contraire</l>
+	<l id='298'>La même déférence aux volontés d'un père.</l>
+	<l id='299'>C'est vous faire assez voir ce qui me fait agir,</l>
+	<l id='300'>Je dirai plus ; peut être en devrais je rougir.</l>
+	<l id='301'>Hector, l'appui de Troie, et l'effroi de la Grèce</l>
+	<l id='302'>N'avait que trop, hélas, mérité ma tendresse,</l>
+	<l id='303'>Je l'aimais, on le sait. Il n'est plus cet Hector,</l>
+	<l id='304'>J'en ai pleuré la perte, et je la pleure encor,</l>
+	<l id='305'>Dans les vives douleurs qu'elle ajoute à ma peine,</l>
+	<l id='306'>Je sais qu'à son Vainqueur je dois toute ma haine,</l>
+	<l id='307'>Et cependant, malgré ce qu'il me fait souffrir,</l>
+	<l id='308'>Quand à mes tristes yeux Achille vient s'offrir,</l>
+	<l id='309'>Je me souviens plutôt qu'Achille est votre père,</l>
+	<l id='310'>Que je ne puis songer qu'il a tué mon frère.</l>
+	<l id='311'>L'image de son sang par ses mains répandu</l>
+	<l id='312'>S'efface au souvenir de ce qui vous est dû.</l>
+	<l id='313'>Point pour lui de fierté ? quelques maux qu'il me coûte,</l>
+	<l id='314'>Je le laisse approcher, je le vois, je l'écoute,</l>
+	<l id='315'>Et Pyrrhus tient pour lui, quoi qu'encor ennemis,</l>
+	<l id='316'>Et ma haine enchaînée, et mon courroux soumis.</l>
+	<l id='317'>Pour vous garder ma foi triompher de moi-même,</l>
+	<l id='318'>Si ce n'est point aimer, dites-moi comme on aime.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='319'>Ah, pardonnez, Madame, à l'erreur d'un amant</l>
+	<l id='320'>Qui se perd dans sa crainte, et s'alarme aisément.</l>
+	<l id='321'>Cet Hymen que poursuit ma juste impatience,</l>
+	<l id='322'>N'a rien sans votre aveu qui flatte ma constance,</l>
+	<l id='323'>Et l'honneur d'être à vous dont je me sens charmé</l>
+	<l id='324'>Toucherait peu mon coeur si je n'étais aimé.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='325'>Vous ne l'êtes que trop, mais j'ose le redire,</l>
+	<l id='326'>Vous en soupirerez ainsi que j'en soupire.</l>
+	<l id='327'>Poursuivez un Hymen à votre espoir si doux,</l>
+	<l id='328'>Quoi qu'on fasse, les dieux ne seront point pour nous,</l>
+	<l id='329'>Leur jalouse fureur serait mal établie</l>
+	<l id='330'>S'ils souffraient que nos coeurs... Prince, adieu, je m'oublie,</l>
+	<l id='331'>Dans l'invincible effroi des malheurs que j'attends,</l>
+	<l id='332'>C'est redoubler mes maux que vous voir plus longtemps,</l>
+	<l id='333'>Plus je m'arrête ici, plus je devines sensible,</l>
+	<l id='334'>N'attendez rien pour moi, qu'une sort affreux, terrible,</l>
+	<l id='335'>Et pour vous consoler, en de si rudes coups,</l>
+	<l id='336'>Songez que si je meurs, je mourray toute à vous.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Achille, Alcime.</head>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='337'>Ce triomphe à tout autre eut été difficile.</l>
+	<l id='338'>Le grand Achille seul pouvait dompter Achille,</l>
+	<l id='339'>Et l'heureux art de vaincre un si juste courroux</l>
+	<l id='340'>Passe tous les exploits qui font parler de vous.</l>
+	<l id='341'>Flatter vos ennemis, leur céder votre tente,</l>
+	<l id='342'>Ordonner pour Hector une pompe éclatante,</l>
+	<l id='343'>Sont des effets, Seigneur, si grands, si relevés,</l>
+	<l id='344'>Qu'à votre seul courage ils étaient réservés.</l>
+	<l id='345'>Chacun en a pour vous redoublé son estime.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='346'>C'est trop peu pour ma gloire, il faut plus faire, Alcime.</l>
+	<l id='347'>Privés du grand Hector les Troyens sont défaits.</l>
+	<l id='348'>Prêt à vaincre, je veux leur demander la paix,</l>
+	<l id='349'>Et pour leur épargner la honte de se rendre,</l>
+	<l id='350'>Moi-même leur offrir ce qu'ils n'osent prétendre.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='351'>Ah, Seigneur, c'est ici, deux fois victorieux,</l>
+	<l id='352'>Qu'Achille tout entier se découvre à mes yeux.</l>
+	<l id='353'>Suivez la voix du ciel qui veut conserver Troie,</l>
+	<l id='354'>Nos Grecs las de combattre en auront de la joie,</l>
+	<l id='355'>Déjà depuis longtemps ils pressent leur retour.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='356'>Ils peuvent l'espérer sur la foi de l'amour,</l>
+	<l id='357'>Pour réparer les maux qu'il causa par Hélène,</l>
+	<l id='358'>Alcime, il m'a fait voir la jeune Polixène,</l>
+	<l id='359'>Et c'est en l'épousant que je veux assurer</l>
+	<l id='360'>Les liens d'une paix qui doit toujours durer.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='361' part='i'>Vous aimez Polixène ?</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='361' part='f'>Oui, je l'adore, Alcime,</l>
+	<l id='362'>L'amour que j'ai pour elle égale mon estime,</l>
+	<l id='363'>Et de ma liberté l'entier engagement,</l>
+	<l id='364'>À ses premiers regards n'a coûté qu'un moment.</l>
+	<l id='365'>Si tu savais l'état où d'abord je l'ai vue !</l>
+	<l id='366'>La rencontre à mon coeur fut sans doute imprévue,</l>
+	<l id='367'>Dans les plus fiers transports qu'exhalait mon courroux</l>
+	<l id='368'>Je la vis tout à coup pleurer à mes genoux.</l>
+	<l id='369'>Résolu de braver tout l'éclat de ses charmes,</l>
+	<l id='370'>Je ne pus un moment résister à ses larmes,</l>
+	<l id='371'>Ma tremblante fureur s'en laissa désarmer,</l>
+	<l id='372'>La haine m'animait, je ne sus plus qu'aimer,</l>
+	<l id='373'>Et si j'en eusse crû ma passion extrême,</l>
+	<l id='374'>À ses pieds devant tous j'aurais prié moi-même.</l>
+	<l id='375'>Ah, contre un ennemi qui cause nos malheurs</l>
+	<l id='376'>Qu'un bel objet est fort quand il verse des pleurs !</l>
+	<l id='377'>Le corps d'Hector rendu satisfit son envie.</l>
+	<l id='378'>Que n'eus je le pouvoir de lui rendre la vie !</l>
+	<l id='379'>Au moins à ce défaut j'allai dans Troie exprès</l>
+	<l id='380'>Honorer son tombeau de quelques vains regrets.</l>
+	<l id='381'>Priam qui m'y reçut en roi digne de l'être</l>
+	<l id='382'>Dans son propre Palais me fit traiter en maître.</l>
+	<l id='383'>La pompe dont au Camp pour Hector j'ai pris soin</l>
+	<l id='384'>Semblait le convier d'en être le témoin ;</l>
+	<l id='385'>Dans ma Tente à mon tour je l'attirai sans peine,</l>
+	<l id='386'>Et tout cela, pour être auprès de Polixène,</l>
+	<l id='387'>Pour jouir de sa vue, et ne point m'arracher</l>
+	<l id='388'>A l'unique plaisir qui me puisse toucher.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='389' part='i'>L'amour peut tout, Seigneur, mais...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='389' part='f'>Je t'entends Alcime,</l>
+	<l id='390'>Je quitte Briseis, tu vas m'en faire un crime.</l>
+	<l id='391'>Il est vrai, Briseis m'aime avec tant d'ardeur</l>
+	<l id='392'>Que ce coup imprévu lui percera le coeur,</l>
+	<l id='393'>Je conçois les ennuis dont je serai la cause,   </l>
+	<l id='394'>Je l'en plains, mais enfin je me dois quelque chose,</l>
+	<l id='395'>Et je n'ai pas vaincu pour souffrir qu'à son choix</l>
+	<l id='396'>Ma Captive ait l'orgueil de me faire des lois.</l>
+	<l id='397'>Malgré tout le pouvoir que la guerre me donne,</l>
+	<l id='398'>Qu'elle me laisse à moi, je lui rends sa Couronne.</l>
+	<l id='399'>Un Trône, dont les droits, si je veux, me sont dûs</l>
+	<l id='400'>Est un prix assez grand pour des soupirs perdus.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='401'>Ayant aimé toujours Patrocle avec tendresse</l>
+	<l id='402'>Vous cessez tout à coup d'aimer une maîtresse ?</l>
+	<l id='403'>L'exemple est peu commun, et l'on voit rarement</l>
+	<l id='404'>Qu'un véritable ami soit infidèle Amant.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='405'>L'amour et l'amitié, n'ont rien qui se ressemble,</l>
+	<l id='406'>C'est les connaître mal que les confondre ensemble,</l>
+	<l id='407'>Leurs droits sont différents en durée, en douceur,</l>
+	<l id='408'>La raison cause l'une, et l'autre vient du coeur ;</l>
+	<l id='409'>Et comme la raison quand elle veut qu'on aime,</l>
+	<l id='410'>Contente de son choix est toujours elle-même,</l>
+	<l id='411'>On doit peu s'étonner que dans ses longs progrès</l>
+	<l id='412'>Une forte amitié ne se rompe jamais :</l>
+	<l id='413'>Mais, Alcime, le coeur s'engage par surprise,</l>
+	<l id='414'>Sans prendre son aveu l'amour le tyrannise,</l>
+	<l id='415'>Et quand d'un bel Objet il se laisse charmer,</l>
+	<l id='416'>Il aime sans savoir qu'il a dessein d'aimer.</l>
+	<l id='417'>Le penchant qui l'entraîne en commençant de naître</l>
+	<l id='418'>Est une aveugle ardeur dont il n'est pas le maître,</l>
+	<l id='419'>Et comme elle est contrainte, il en voit le retour</l>
+	<l id='420'>Quand le temps fait languir les forces de l'amour.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='421'>Mais pour vous Polixène à vaincre est-elle aisée ?</l>
+	<l id='422' part='i'>Souillé du sang d'Hector...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='422' part='f'>Son ombre est apaisée,</l>
+	<l id='423'>Et le coup malheureux qui causa son trépas   </l>
+	<l id='424'>Fut un crime du Sort, et non pas de mon bras.</l>
+	<l id='425'>Polixène oubliant cette triste victoire,</l>
+	<l id='426'>Ne voudra regarder que l'amas de ma gloire,</l>
+	<l id='427'>De son coeur tant d'éclat viendra sans peine à bout,</l>
+	<l id='428'>Et pour le mériter le nom d'Achille est tout.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='429'>Ce nom est au dessus de tout ce qu'on peut dire,</l>
+	<l id='430'>Mais on peut n'aimer pas toujours ce qu'on admire,</l>
+	<l id='431'>Et le coeur fier de soi se rend moins aisément</l>
+	<l id='432'>Aux vertus d'un héros, qu'aux soupirs d'un Amant.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='433'>Du succès de mon feu je ne suis point en peine,</l>
+	<l id='434'>J'en ai trop consulté les yeux de Polixène,</l>
+	<l id='435'>Pour moi, quand je m'approche, ils ont tant de douceur,</l>
+	<l id='436'>Que leur tranquillité me répond de son coeur,</l>
+	<l id='437'>C'est un entier oubli de ce qu'on m'a vu faire,</l>
+	<l id='438'>Point de marques d'aigreur pour la mort de son frère.</l>
+	<l id='439'>Le triomphe secret de m'avoir adouci</l>
+	<l id='440' part='i'>lui fait naître...</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='440' part='f'>Seigneur, Briseis vient ici.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='441'>Cache-lui mon secret, elle pourra l'apprendre</l>
+	<l id='442'>Du bruit qui dans le camp doit bientôt s'en répandre,</l>
+	<l id='443'>Quand j'aurai vu Priam, il faudra m'exposer</l>
+	<l id='444'>À ce que sa douleur lui pourra faire oser.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Briseis, Achille, Phénice, Alcime.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='445'>Seigneur, de mon amour ne blâmez point l'audace</l>
+	<l id='446'>S'il vient vous demander une nouvelle grâce.   </l>
+	<l id='447'>Le vôtre s'est pour moi tant de fois déclaré</l>
+	<l id='448'>Qu'il m'est de vos bontés un garant assuré,</l>
+	<l id='449'>Et sur leur noble excès je n'ai point eu de peine</l>
+	<l id='450'>A me faire vers vous l'appui de Polixène.</l>
+	<l id='451'>Elle n'est point, Seigneur, digne de ses malheurs,</l>
+	<l id='452'>Je l'ai vue, et la viens de quitter toute en pleurs.</l>
+	<l id='453'>Troie aux fureurs des Grecs depuis dix ans en bute,</l>
+	<l id='454'>Le Trône de son père à deux doigts de sa chute,</l>
+	<l id='455'>Le reste de son sang tout prêt d'être versé,</l>
+	<l id='456'>Des plus rudes frayeurs tiennent son coeur pressé.</l>
+	<l id='457'>La paix de tant de maux dissipant les menaces,</l>
+	<l id='458'>Adoucirait l'aigreur de ses autres disgrâces.</l>
+	<l id='459'>Voyez pour l'obtenir qu'elle vous tend les bras,</l>
+	<l id='460'>Ulysse que j'ai vu ne s'en éloigne pas,</l>
+	<l id='461'>Et lorsqu'à la rigueur Patrocle vous convie,</l>
+	<l id='462'>Assez de sang peut-être a coulé pour sa vie.</l>
+	<l id='463'>Achevez d'oublier cette funeste mort,</l>
+	<l id='464'>Polixène vaut bien ce généreux effort.</l>
+	<l id='465'>La modeste douleur qui fait parler ses larmes</l>
+	<l id='466'>Ajoute à sa beauté de si sensibles charmes,</l>
+	<l id='467'>Que le coeur qui pour elle en la voyant s'émeut,</l>
+	<l id='468'>Semble aller au devant de tout ce qu'elle veut,</l>
+	<l id='469'>Et si de ses ennuis la déplorable image...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='470'>Madame, il ne faut point m'en dire davantage.</l>
+	<l id='471'>Mon coeur las des malheurs que finira la paix</l>
+	<l id='472'>Avait en sa faveur prévenu vos souhaits,</l>
+	<l id='473'>Et j'allais proposer moi-même au roi son père</l>
+	<l id='474'>Ce que pour ce dessein j'ai jugé nécessaire.</l>
+	<l id='475' part='i'>De la Grèce offensée...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='475' part='f'>Il doit tout réparer,</l>
+	<l id='476'>Seigneur, et sait de lui ce qu'on peut désirer,</l>
+	<l id='477'>Ainsi de son côté ne craignez point d'obstacle.</l>
+	<l id='478'>Mais d'un triomphe entier donnez-nous le spectacle,</l>
+	<l id='479'>Et ne dédaignez point d'appuyer un projet</l>
+	<l id='480'>Où mon propre intérêt vous peut servir d'objet.   </l>
+	<l id='481'>Par un secret instinct dont la force m'entraîne,</l>
+	<l id='482'>Ma tendresse prend part au sort de Polixène ;</l>
+	<l id='483'>D'abord que je l'ai vue elle a su me toucher,</l>
+	<l id='484'>Et je sens que mon coeur ne s'en peut détacher,</l>
+	<l id='485'>Pour ne la perdre pas demandez-la pour fille,</l>
+	<l id='486'>De son illustre sang par tout la gloire brille,</l>
+	<l id='487'>Et sa main pour Pyrrhus ne peut qu'être d'un prix...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='488'>Quoi, vous souhaiteriez qu'elle épousât mon fils ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='489'>Cet Hymen qui rendra le calme à la Phrygie</l>
+	<l id='490'>L'assure d'une paix pour longtemps affermie,</l>
+	<l id='491'>Rien n'en rompra le cours s'il en serre les noeuds.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='492'>Ainsi que vos souhaits Polixène a mes voeux,</l>
+	<l id='493'>Mais Pyrrhus les partage, et j'aurais lieu de craindre</l>
+	<l id='494'>Que lui parler d'hymen ce ne fut le contraindre ;</l>
+	<l id='495'>Il est jeune ; à son âge on tremble à s'engager.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='496'>Vous n'avez rien pour lui, Seigneur, à ménager,</l>
+	<l id='497'>Tout l'amour dont jamais une âme fut capable...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='498' part='i'>Quoy, mon fils l'aime ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='498' part='f'>Autant qu'il la connaît aimable,</l>
+	<l id='499'>Les traits que dans son coeur son mérite a tracés</l>
+	<l id='500' part='i'>L'ont si bien pénétré...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='500' part='f'>Madame, c'est assez,</l>
+	<l id='501'>Quand de Pyrrhus Amant l'intérêt vous amène,</l>
+	<l id='502'>Il suffit que je sais ce que vaut Polixène.</l>
+	<l id='503'>Pour assurer sa gloire et remplir vos souhaits</l>
+	<l id='504'>J'aurai soin que sa main soit le sceau de la paix,</l>
+	<l id='505'>Sans elle point d'accord, quelques offres qu'on fasse.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='506'>Vous refuserait-on lors que vous faites grâce ?</l>
+	<l id='507'>Cet Hymen aux Troyens assure un sort si doux,   </l>
+	<l id='508' part='i'>Que Priam recevra...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='508' part='f'>Je le crois comme vous,</l>
+	<l id='509'>Il voit pour lui la guerre en trop de maux fertile</l>
+	<l id='510'>Pour oser dédaigner l'alliance d'Achille ;</l>
+	<l id='511'>Voyez Pyrrhus, Madame, et me laissez rêver</l>
+	<l id='512'>A l'ouvrage important qu'il me faut achever.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Achille, Alcime.</head>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='513'>L'as-tu bien entendue, et conçois tu ma peine,</l>
+	<l id='514'>Alcime ? tout mon coeur se donne à Polixène,</l>
+	<l id='515'>Et dans mon propre Fils, par un revers fatal,</l>
+	<l id='516'>Prêt à me rendre heureux, je découvre un Rival ?</l>
+	<l id='517'>Plein d'un feu dont sur moi le pouvoir est extrême,</l>
+	<l id='518'>Je connais que Pyrrhus adore ce que j'aime,</l>
+	<l id='519'>Et de mon triste sort telles sont les rigueurs,</l>
+	<l id='520'>Que vivant par ma perte, il meurt si je ne meurs.</l>
+	<l id='521'>Ah, si des dieux jaloux la sévère injustice</l>
+	<l id='522'>Destinait à ma flamme un si cruel supplice,</l>
+	<l id='523'>Que ne m'ont-ils, ces Dieux, qui voulaient me trahir,</l>
+	<l id='524'>Donné quelque Rival que je pusse haïr !</l>
+	<l id='525'>Son Sang aurait été le prix de ma Victoire.</l>
+	<l id='526'>Que n'ose Agamemnon m'en disputer la gloire !</l>
+	<l id='527'>Ses Grecs pour ce triomphe armés tous contre moi,</l>
+	<l id='528'>Me trouveraient un coeur incapable d'effroi ;</l>
+	<l id='529'>Mais j'ai beau l'affermir, ici tout m'abandonne,</l>
+	<l id='530'>Au seul nom de Pyrrhus je frémis, je m'étonne,</l>
+	<l id='531'>Et malgré tout l'amour que j'en sens redoubler,</l>
+	<l id='532'>Dés que je vois un Fils je commence à trembler.</l>
+	<l id='533'>Pourquoi cette faiblesse ? il doit tout à son père.</l>
+	<l id='534'>Est-ce à moi d'étouffer une flamme si chère,</l>
+	<l id='535'>Et prétend-il ce Fils que ne lui devant rien</l>
+	<l id='536'>J'achète son repos par la perte du mien ?</l>
+	<l id='537'>Non, non, s'il doit souffrir, jouissons de sa peine,</l>
+	<l id='538'>J'offense, en balançant, l'aimable Polixène,</l>
+	<l id='539'>Raison, pitié, tout cesse où brillent ses appas,</l>
+	<l id='540'>Et qui doute un moment ne la mérite pas.</l>
+	<l id='541'>C'en est fait, tout le veut, ne songeons qu'à lui plaire,</l>
+	<l id='542'>Faisons au nom d'amant céder celui de père,</l>
+	<l id='543'>Quelque ennui que Pyrrhus en puisse recevoir</l>
+	<l id='544'>Il a pour s'en guérir le temps et son devoir.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='545'>L'amour peut sur Pyrrhus avoir pris quelque empire ?</l>
+	<l id='546'>Mais quoique Briseis, Seigneur, vous ait pu dire,</l>
+	<l id='547'>Peut-être il n'aime pas avec assez d'excès</l>
+	<l id='548'>Pour se faire un malheur de votre heureux succès,</l>
+	<l id='549'>Et sitôt qu'il saura que cet amour vous gêne,</l>
+	<l id='550' part='i'>Son respect...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='550' part='f'>Non, Alcime, il a vu Polixène,</l>
+	<l id='551'>Et ce charme attirant qui gagne tous les coeurs,</l>
+	<l id='552'>Ne saurait inspirer de légères ardeurs,</l>
+	<l id='553'>J'en suis trop convaincu par mon expérience,</l>
+	<l id='554'>N'en doute point, il l'aime avecque violence,</l>
+	<l id='555'>Et tout l'espoir qui s'offre à mon coeur alarmé,</l>
+	<l id='556'>C'est que brûlant pour elle, il n'en soit point aimé.</l>
+	<l id='557'>Je pouvais le savoir, mais mon inquiétude</l>
+	<l id='558'>Du malheur dont je tremble a craint la certitude,</l>
+	<l id='559'>Et de cette frayeur vivement possédé,</l>
+	<l id='560'>De peur d'apprendre trop, je n'ai rien demandé.</l>
+	<l id='561'>Vaines précautions ! Qu'est-ce que je redoute ?</l>
+	<l id='562'>Pyrrhus aimé ? Non, non, il ne l'est point sans doute,</l>
+	<l id='563'>L'éclat seul qui pourrait faire estimer sa foi,</l>
+	<l id='564'>Il le tient de l'honneur d'être sorti de moi ;</l>
+	<l id='565'>D'aucun exploit fameux la gloire consommée</l>
+	<l id='566'>N'a fait en sa faveur parler la Renommée ;   </l>
+	<l id='567'>Et la Cour de Priam ne le connait encor,</l>
+	<l id='568'>Que sous le nom honteux de prisonnier d'Hector,</l>
+	<l id='569'>L'affront d'être vaincu lui fit voir Polixène ;</l>
+	<l id='570'>Mais de quel fol espoir veux-je flatter ma peine ?</l>
+	<l id='571'>Quoiqu'à voir le mérite un coeur trouve de jour,</l>
+	<l id='572'>A-t-on d'autre raison pour aimer que l'amour,</l>
+	<l id='573'>Et vers ce qui nous plaît toute l'âme entraînée,</l>
+	<l id='574'>Prend-elle ailleurs des lois que de la destinée ?</l>
+	<l id='575'>Ah, s'il faut que le Ciel de fureur animé</l>
+	<l id='576'>M'apprête le tourment de voir Pyrrhus aimé,</l>
+	<l id='577'>Quoique j'aie à souffrir, au moins pour ma vengeance...</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='578'>Modérez ce transport, le voici qui s'avance.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Achille, Pyrrhus, Alcime.</head>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='579'>Seigneur, Briseis vient de me faire savoir</l>
+	<l id='580'>L'appui que vos bontés prêtent à mon espoir,</l>
+	<l id='581'>Et la reconnaissance où mon devoir m'engage,</l>
+	<l id='582'>En demande à mon zèle un si prompt témoignage,</l>
+	<l id='583'>Que je la trahirais si mon empressement</l>
+	<l id='584'>Pouvait à l'expliquer différer un moment.</l>
+	<l id='585'>Mais par où faire voir ce qu'elle est dans mon âme</l>
+	<l id='586'>Si vous n'y pénétrez tout l'excès de ma flamme ?</l>
+	<l id='587'>J'aime un objet, Seigneur, si digne d'être aimé...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='588'>Je connais à quel point vous en êtes charmé,</l>
+	<l id='589'>Et ferai pour la paix, puis qu'elle vous est chère,</l>
+	<l id='590'>Ce que l'on vous a dit que j'ai promis de faire.</l>
+	<l id='591'>Vous pouviez cependant régler mieux votre coeur,</l>
+	<l id='592'>Ne l'abandonner pas à cet excès d'ardeur.</l>
+	<l id='593'>Sur le plus bel espoir, quelques projets qu'on fasse,</l>
+	<l id='594'>Les choses quelquefois peuvent changer de face,</l>
+	<l id='595'>Et vous vous exposez par trop d'attachement</l>
+	<l id='596'>Aux plus fâcheux ennuis qu'ait à craindre un amant.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='597'>En l'état qu'est Priam, quel sujet de les craindre ?</l>
+	<l id='598'>Quoique vous demandiez, il n'a point à s'en plaindre,</l>
+	<l id='599'>Et sait trop contre lui ce que peut votre bras,</l>
+	<l id='600'>Pour voir ma main offerte, et ne l'accepter pas.</l>
+	<l id='601'>Mais quand de ses refus la juste défiance</l>
+	<l id='602'>Tiendrait de mon amour le succès en balance,</l>
+	<l id='603'>Comment voir Polixène, et sur mes volontés</l>
+	<l id='604'>Conserver le pouvoir que vous me souhaitez ?</l>
+	<l id='605'>Sans ce premier amour dont les sensibles charmes</l>
+	<l id='606'>Contre elle en la voyant vous font de sûres armes,</l>
+	<l id='607'>Je ne sais si vous-même admirant ses appas,</l>
+	<l id='608'>Auriez pu la connaître, et ne soupirer pas.</l>
+	<l id='609'>Une majesté douce, un air incomparable</l>
+	<l id='610' part='i'>Soutient si noblement...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='610' part='f'>Elle est sans doute aimable,</l>
+	<l id='611' part='i'>Mais...</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='611' part='f'>Seigneur, quelle joie à mon coeur enflammé</l>
+	<l id='612'>Que vous rendiez justice au feu qui m'a charmé !</l>
+	<l id='613'>Jugez dans quel excès il doit aller pour elle</l>
+	<l id='614' part='i'>Quand son aveu...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='614' part='f'>La Grèce attend tout de mon zèle,</l>
+	<l id='615'>Il faudra dans l'accord garder ses intérêts.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='616'>À vous accorder tout les troyens sont tous prêts,</l>
+	<l id='617' part='i'>Polixène me montre...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='617' part='f'>Encor qu'intéressée,</l>
+	<l id='618'>Elle peut de Priam ignorer la pensée.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='619'>Non, Seigneur, croyez-en l'amour qu'elle a pour moi,</l>
+	<l id='620'>Elle m'a découvert ce que pense le roi,</l>
+	<l id='621'>Son coeur qui de mon feu partage la tendresse...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='622' part='i'>Vous êtes donc aimé ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='622' part='f'>Cette belle princesse</l>
+	<l id='623'>À qui par votre aveu je me puis attacher,</l>
+	<l id='624'>N'a pu voir mon amour sans s'en laisser toucher,</l>
+	<l id='625'>C'est-là ce qui surtout rend mon bonheur extrême.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='626'>Allez, Prince, il suffit que je sais qu'on vous aime,</l>
+	<l id='627'>Je vais trouver Priam, et vous ferai savoir</l>
+	<l id='628'>Ce que Troie et les Dieux vous souffriront d'espoir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Achille, Alcime.</head>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='629'>Ah, de tous les malheurs le dernier et le pire !</l>
+	<l id='630'>Je n'entendais que trop ce qu'il me voulait dire,</l>
+	<l id='631'>Et contre son amour toujours forcé d'agir,</l>
+	<l id='632'>Je cherchais les moyens d'avoir moins à rougir.</l>
+	<l id='633'>Je voulais ignorer que Polixène aimée</l>
+	<l id='634'>Fut de la même ardeur pour Pyrrhus enflammée,</l>
+	<l id='635'>Et demander sa main avant qu'on m'eut appris</l>
+	<l id='636'>Que l'amour l'eut déjà destinée à mon Fils.</l>
+	<l id='637'>Étouffe, étouffe, Achille, une ardeur si funeste,</l>
+	<l id='638'>De ta raison séduite entends ce qui te reste.</l>
+	<l id='639'>Le coeur de Polixène où tu veux aspirer,</l>
+	<l id='640'>Est un bien que l'amour te défend d'espérer.</l>
+	<l id='641'>N'en sois point le Tyran, ta gloire t'en convie,</l>
+	<l id='642'>Pyrrhus te le demande, il y va de sa vie,</l>
+	<l id='643'>Et Briseis en pleurs qui te garde sa foi,</l>
+	<l id='644'>Attend pour les sécher ce triomphe de toi.</l>
+	<l id='645'>Songe à ces tendres feux qui te parlent pour elle,</l>
+	<l id='646'>Ils ont trop mérité que tu lui sois fidèle.</l>
+	<l id='647'>Veux-tu, sans aucun fruit pour ton coeur amoureux,</l>
+	<l id='648'>Par un lâche intérêt faire trois malheureux ?</l>
+	<l id='649'>Encor si Polixène, à nul autre sensible,</l>
+	<l id='650'>Te laissait quelque espoir de la trouver flexible,</l>
+	<l id='651'>Mais elle aime, et l'amour dont tu crois trop l'appas</l>
+	<l id='652'>En déchirant son coeur ne le gagnera pas.</l>
+	<l id='653'>Aide-moi, cher Alcime, à vaincre ma faiblesse,</l>
+	<l id='654'>J'ai peine à bien vouloir ce que ma gloire presse,</l>
+	<l id='655'>Et contre un ennemi qui me charme toujours,</l>
+	<l id='656'>Ma vertu chancelante a besoin de secours.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='657'>Ce vous serait sans doute une illustre victoire</l>
+	<l id='658'>D'étouffer un amour que combat votre gloire,</l>
+	<l id='659'>Mais quoique ce triomphe excite vos souhaits,</l>
+	<l id='660'>Vous voudrez faiblement, et ne vaincrez jamais.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='661'>Ô d'un Astre fatal trop cruelle influence !</l>
+	<l id='662'>Alcime, tout mon sort est plein de violence.</l>
+	<l id='663'>Lorsque de nos combats me disputant le prix,</l>
+	<l id='664'>L'injuste Agamemnon m'enleva Briseis,</l>
+	<l id='665'>Dans ma tente enfermé tout brûlant de colère,</l>
+	<l id='666'>J'eus beau voir la fortune aux Grecs partout contraire,</l>
+	<l id='667'>Pour eux aucun secours ne me sembla permis,</l>
+	<l id='668'>Et par cette retraite utile aux ennemis,</l>
+	<l id='669'>Laissant à leurs efforts nos escadrons en proie,</l>
+	<l id='670'>Je fis plus pour Priam que tous les dieux de Troie.</l>
+	<l id='671'>Patrocle est mort, quel sang n'a point coulé pour lui !</l>
+	<l id='672'>Que de haine ! l'amour en triomphe aujourd'hui,</l>
+	<l id='673'>Il m'arrache aux transports qui pressaient ma vengeance,</l>
+	<l id='674'>Et quand des traits si doux m'ont trouvé sans défense,</l>
+	<l id='675'>Un Fils dont ma pitié tremble à régler le sort,   </l>
+	<l id='676'>M'apprend que cet amour est l'arrêt de sa mort.</l>
+	<l id='677'>Briseis qui m'en vient expliquer l'injustice,</l>
+	<l id='678'>Le seconde, m'accable, et c'est là mon supplice.</l>
+	<l id='679'>Je dois à tous les deux ce qu'ils veulent de moi,</l>
+	<l id='680'>La nature est pour l'un, l'autre a reçu ma foi.</l>
+	<l id='681'>Mais ces noeuds sont sans force, et ma victoire est vaine</l>
+	<l id='682'>Sitôt que je commence à revoir Polixène.</l>
+	<l id='683'>Mon coeur qu'ont asservi des charmes si puissants</l>
+	<l id='684'>Se range tout à coup du parti de mes sens,</l>
+	<l id='685'>Et contre ces assauts mon courage inutile</l>
+	<l id='686'>Ne trouve plus en moi ce fier, ce fort Achille,</l>
+	<l id='687'>Qui du sort des Troyens arbitre glorieux,</l>
+	<l id='688'>Maîtrisait la fortune, et tenait tête aux Dieux.</l>
+	<l id='689'>Cédons, puisqu'il le faut, je suis lâche, infidèle,</l>
+	<l id='690'>Mais pour y renoncer, Polixène est trop belle.</l>
+	<l id='691'>Si je ne la puis voir favorable à mes voeux,</l>
+	<l id='692'>Au moins j'empêcherai qu'un autre soit heureux,</l>
+	<l id='693'>Et peut-être l'hymen en qui ma flamme espère,</l>
+	<l id='694'>lui fera de l'amour un devoir nécessaire.</l>
+	<l id='695'>Allons trouver Priam, et sans plus balancer,</l>
+	<l id='696'>Demandons un accord où je puis le forcer.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='3'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Pyrrhus, Antilochus.</head>
+<sp who='ANTILOCHUS'><speaker>ANTILOCHUS</speaker>
+	<l id='697'>Oui, Seigneur, le succès a suivi votre attente,</l>
+	<l id='698'>Achille avec Priam est encor dans sa Tente,</l>
+	<l id='699'>Il l'a seul en secret longtemps entretenu,</l>
+	<l id='700'>Et n'a rien demandé qu'il ne l'ait obtenu.</l>
+	<l id='701'>Tout est d'accord entre eux, et la Paix est certaine.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='702'>As-tu su quelle joie en montre Polixène ?</l>
+	<l id='703'>Sa crainte combattait l'espoir que j'avais pris,</l>
+	<l id='704' part='i'>J'en croyais trop l'amour.</l>
+</sp>
+<sp who='ANTILOCHUS'><speaker>ANTILOCHUS</speaker>
+	<l id='704' part='f'>Je n'en ai rien appris.</l>
+	<l id='705'>Seulement la nouvelle est au Camp répandue</l>
+	<l id='706'>Qu'Hélène à Ménélas par l'accord est rendue,</l>
+	<l id='707'>Et qu'au sang de Priam celui d'Achille uni</l>
+	<l id='708' part='i'>Étouffe pour toujours...</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='708' part='f'>Ô bonheur infini !</l>
+	<l id='709'>Enfin, Antilochus, contre toute apparence,</l>
+	<l id='710'>Apràs de longs transports de haine et de vengeance,</l>
+	<l id='711'>Après le corps d'Hector indignement traîné,</l>
+	<l id='712'>Je vois en un moment l'orage terminé.</l>
+	<l id='713'>Prêt à renverser tout, il calme sa furie,</l>
+	<l id='714'>Achille est exorable, on le priait, il prie,</l>
+	<l id='715'>Et de mon coeur charmé secondant les désirs,</l>
+	<l id='716'>Il acquiert Polixène à mes brûlants soupirs.</l>
+	<l id='717'>Qui l'eut crû que mon feu fut sitôt sans obstacle ?</l>
+</sp>
+<sp who='ANTILOCHUS'><speaker>ANTILOCHUS</speaker>
+	<l id='718'>Achille aime, et l'amour a produit ce miracle.</l>
+	<l id='719'>Aux Manes de Patrocle il eut tout immolé,</l>
+	<l id='720'>Plus de ressentiment, Briseis a parlé,   </l>
+	<l id='721'>Et ce que sur son âme il lui donne d'empire</l>
+	<l id='722'>L'asservit, quoiqu'il veuille, à ce qu'elle désire.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='723'>Rien ne pouvait sans doute être plus généreux,</l>
+	<l id='724'>Je dois à Briseis ce qui me rend heureux,</l>
+	<l id='725'>Elle seule appuyant les intérêts de Troie...</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Achille, Pyrrhus, Alcime, Antilochus.</head>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='726'>Ah, Seigneur, puis-je assez vous témoigner ma joie ?</l>
+	<l id='727'>Pour reconnaître mieux ce que je tiens de vous,</l>
+	<l id='728'>Permettez que l'amour me jette à vos genoux.</l>
+	<l id='729'>Cette paix que ma flamme avait tant souhaitée,</l>
+	<l id='730' part='i'>M'assure un bien si cher...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='730' part='f'>Nous l'avons arrêtée,</l>
+	<l id='731'>Et ce soir Polixène, en présence du roi,</l>
+	<l id='732'>Doit confirmer l'accord par le don de sa foi.</l>
+	<l id='733'>Au Temple d'Apollon déjà tout se prépare ;</l>
+	<l id='734'>Mais quoique pour la paix votre amour se déclare,</l>
+	<l id='735'>Je crains qu'elle n'ait plus de quoi vous contenter,</l>
+	<l id='736'>Quand vous saurez le prix qu'il vous en doit coûter.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='737'>Ah, n'appréhendez point qu'il ait rien qui me gêne,</l>
+	<l id='738'>Puis-je trop acheter la main de Polixène ?</l>
+	<l id='739'>Quelques conditions qu'exigent les Troyens,</l>
+	<l id='740'>J'y consens, Polixène est le plus grand des biens,</l>
+	<l id='741'>Et puisque son hymen est le prix de ma flamme,</l>
+	<l id='742'>Accordons tout le reste, il touche peu mon âme.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='743'>Et c'est ce qui du Sort vous marque le courroux,</l>
+	<l id='744'>La main que vous voulez ne saurait être à vous.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='745'>Ne saurait être à moi ? Dieux ! mais non, je m'abuse,</l>
+	<l id='746'>Et d'un transport trop prompt ma passion s'accuse.</l>
+	<l id='747'>Ne m'avez-vous pas dit que selon mes souhaits,</l>
+	<l id='748'>L'hymen de Polixène affermissait la paix ?</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='749'>Je vous le dis encor, l'hymen de Polixène</l>
+	<l id='750'>Fait naître un heureux calme où régna trop de haine,</l>
+	<l id='751'>Mais lorsqu'en se donnant sa main a ce pouvoir,</l>
+	<l id='752'>C'est un autre que vous qui la doit recevoir.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='753'>Un autre ! non, Seigneur, je vous dois mieux connaître,</l>
+	<l id='754'>Vous voulez m'éprouver, voir tout mon feu paraître.</l>
+	<l id='755'>Souffririez-vous, hélas, que né pour commander,</l>
+	<l id='756'>Le fils du grand Achille eut l'affront de céder,</l>
+	<l id='757'>Qu'un insolent rival lui ravit ce qu'il aime ;</l>
+	<l id='758'>Ou plutôt si toujours votre coeur est le même,</l>
+	<l id='759'>Souffririez-vous qu'un fils cheri si tendrement,</l>
+	<l id='760'>D'une éternelle rage éprouvât le tourment,</l>
+	<l id='761'>Et qu'un sort effroyable assemblât pour ma peine</l>
+	<l id='762'>Tous les maux qui du Ciel puissent marquer la haine ?</l>
+	<l id='763'>Par ces tendres liens que le sang rend si doux,</l>
+	<l id='764' part='i'>Partout...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='764' part='f'>Ma pitié, Prince, a combattu pour vous.</l>
+	<l id='765'>Mais en vain mes chagrins m'ont fait juger des vôtres,</l>
+	<l id='766'>Malgré vos intérêts j'en ai dû prendre d'autres,</l>
+	<l id='767'>Et doute qu'aisément on eut conclu la paix,</l>
+	<l id='768'>Sans l'hymen imprévu qui trompe vos souhaits.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='769'>Qui trompe mes souhaits ? Seigneur, jamais Hélène</l>
+	<l id='770'>N'a causé tant de maux qu'en fera Polixène.</l>
+	<l id='771'>Elle m'aime, et Priam se déclarait pour moi,</l>
+	<l id='772'>Je n'examine point qui me vole sa foi,</l>
+	<l id='773'>Quel rival m'ose ôter sa main presque donnée,</l>
+	<l id='774'>Si c'est Agamemnon, Ajax, Idomenée ;</l>
+	<l id='775'>Mais soit Idomenée, Ajax, Agamemnon,</l>
+	<l id='776'>Le coup m'arrache l'âme, on m'en fera raison.</l>
+	<l id='777'>Oui, pour le prévenir, quoiqu'un lâche prétende,</l>
+	<l id='778'>Il n'est sang chez les Grecs que mon bras ne répande,</l>
+	<l id='779'>Ma vengeance peut-être y portera l'effroi.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='780'>Prince, vous oubliez que vous parlez à moi.</l>
+	<l id='781'>Quoique put votre amour avoir de violence,</l>
+	<l id='782'>Vous deviez par respect le contraindre au silence,</l>
+	<l id='783'>De vos égarements prendre un autre témoin.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='784'>J'ai tort, et devant vous ma fureur va trop loin,</l>
+	<l id='785'>Mais pour me souvenir que vous m'avez fait naître,</l>
+	<l id='786'>Sais-je assez qui je suis, et puis-je me connaître ?</l>
+	<l id='787'>Je cède à la raison que je dois écouter,</l>
+	<l id='788'>La joie à vos genoux m'a fait d'abord jeter,</l>
+	<l id='789'>De l'ardeur de ma flamme elle était l'interprète,</l>
+	<l id='790'>C'est pour elle à présent que la douleur m'y jette.</l>
+	<l id='791'>Faites grâce aux transports d'un désespoir jaloux,</l>
+	<l id='792'>Et qui les doit, Seigneur, mieux excuser que vous ?</l>
+	<l id='793'>Briseis sous ses lois tient votre âme asservie.</l>
+	<l id='794'>Quand par Agamemnon elle vous fut ravie,</l>
+	<l id='795'>A quels sanglants effets votre amour outragé</l>
+	<l id='796'>N'osa-t-il pas porter l'ardeur d'être vengé ?</l>
+	<l id='797'>Ce que vous fit souffrir un feu si beau, si tendre,</l>
+	<l id='798'>N'en dit que trop pour moi si vous voulez l'entendre,</l>
+	<l id='799'>Et Briseis aimée étale en ma faveur</l>
+	<l id='800'>Tout ce qui peut m'aider à fléchir votre coeur.</l>
+	<l id='801'>Le mien pour Polixène à tel point s'intéresse,</l>
+	<l id='802' part='i'>Que si...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='802' part='f'>Vous souffrirez, Prince, je le confesse,</l>
+	<l id='803'>Le revers est fâcheux, mais j'ai beau le savoir,</l>
+	<l id='804'>Ce que vous demandez n'est pas en mon pouvoir,</l>
+	<l id='805'>Ce serait vous flatter qu'en garder l'espérance.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='806'>Et bien, Seigneur, ma vie est en votre puissance,</l>
+	<l id='807'>Vous pouvez me l'ôter, commandez, je suis prêt,</l>
+	<l id='808'>Mon respect sans murmure acceptera l'arrêt.</l>
+	<l id='809'>Pour qui voit tant de maux unis à le poursuivre,</l>
+	<l id='810'>Ce n'en saurait être un que de cesser de vivre ;</l>
+	<l id='811'>Mais je vous le redis, à moins d'un prompt trépas,</l>
+	<l id='812'>Mon Rival, quel qu'il soit, doit redouter mon bras.</l>
+	<l id='813'>Fut-il environné de tout ce que la Grèce...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='814'>C'est en croire un peu trop la douleur qui vous presse,</l>
+	<l id='815'>Mais d'un amour trompé je sais quels sont les droits,</l>
+	<l id='816'>Et veux bien en souffrir une seconde fois.</l>
+	<l id='817'>Cependant apprenez que contre votre audace</l>
+	<l id='818'>J'appuierai hautement le rival qu'on menace,</l>
+	<l id='819'>Et que si votre main s'apprête à le percer,</l>
+	<l id='820'>C'est par moi, par mon sang qu'il faudra commencer.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Pyrrhus, Antilochus.</head>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='821'>Non, de tous les malheurs le plus épouvantable,</l>
+	<l id='822'>N'a jamais approché de celui qui m'accable.</l>
+	<l id='823'>Tu vois, Antilochus, comme je suis traité,</l>
+	<l id='824'>C'est peu qu'à mon amour tout espoir soit ôté,</l>
+	<l id='825'>C'est peu que la nature immolant ce que j'aime,</l>
+	<l id='826'>En faveur d'un Rival se trahisse elle-même,</l>
+	<l id='827'>On veut qu'impunément je me laisse outrager,</l>
+	<l id='828'>Et je suis criminel si j'ose me venger.</l>
+	<l id='829'>Conçois-tu quelque peine au delà du supplice</l>
+	<l id='830'>Où d'un père endurci m'expose l'injustice ?</l>
+	<l id='831'>Parle, affaibli mes maux, et lorsque je me rends,</l>
+	<l id='832'>Convaincs-moi s'il se peut qu'il en est de plus grands.</l>
+</sp>
+<sp who='ANTILOCHUS'><speaker>ANTILOCHUS</speaker>
+	<l id='833'>Achille me surprend, et j'eusse eu peine à croire</l>
+	<l id='834'>Que de tant de rigueur il eut pu faire gloire.</l>
+	<l id='835'>Se ranger contre vous du parti d'un rival !</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='836'>C'est une barbarie à qui rien n'est égal.</l>
+	<l id='837'>Plutôt que se résoudre à me déchirer l'âme,</l>
+	<l id='838'>C'est mon père, il devait porter par tout la flamme,</l>
+	<l id='839'>Perdre, saccager Troie, et sur ses murs détruits</l>
+	<l id='840'>Élever un trophée à mes tristes ennuis.</l>
+	<l id='841'>Au moins en poursuivant cette entière victoire,</l>
+	<l id='842'>Le sang de quelques Grecs aurait vengé ma gloire,</l>
+	<l id='843'>Et dans ce prompt carnage où l'on n'épargne rien,</l>
+	<l id='844'>Mon ennemi peut-être aurait payé du sien.</l>
+	<l id='845'>Mais en vain à ma rage il prétend se soustraire,</l>
+	<l id='846'>En vain contre le Fils il prend l'appui du père,</l>
+	<l id='847'>Rien n'échappe aux fureurs d'un Amant qui perd tout,</l>
+	<l id='848'>Et qui veut se venger en vient toujours à bout.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Briseis, Pyrrhus, Phénice, Antilochus.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='849'>Et bien, notre retraite est enfin résolue,</l>
+	<l id='850'>Achille a vu Priam, et la paix est conclue ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='851'>Oui, Madame, et l'horreur où je me vois réduit</l>
+	<l id='852'>De cette affreuse paix est le funeste fruit.</l>
+	<l id='853'>Tout s'arme pour me nuire, et je perds Polixène.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='854'>Quoi, Priam contre Achille en aurait crû sa haine ;</l>
+	<l id='855'>Et l'hommage du fils n'aurait point effacé</l>
+	<l id='856'>Le souvenir du sang que le père a versé ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='857'>J'ignore à qui je dois imputer ma disgrâce,</l>
+	<l id='858'>Mais enfin, plus d'espoir, un autre a pris ma place,</l>
+	<l id='859'>Achille à mon rival consent à m'immoler,</l>
+	<l id='860'>Et pour le bien public je m'en dois consoler.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='861'>Achille contre un fils malgré moi l'autorise ?</l>
+	<l id='862'>Il lui cède l'objet dont votre âme est éprise ?</l>
+	<l id='863' part='i'>Et quel est ce rival ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='863' part='f'>On m'en a tu le nom,</l>
+	<l id='864'>Mais en vain on me croit cacher Agamemnon,</l>
+	<l id='865'>Il vous aimait, Madame, et forcé de vous rendre</l>
+	<l id='866'>Des traits de Polixène il n'a pu se défendre.</l>
+	<l id='867'>Achille qui pour vous a triomphé de lui,</l>
+	<l id='868'>A voulu contre moi se faire son appui,</l>
+	<l id='869'>Et crû devoir par là calmer la haine ouverte,</l>
+	<l id='870'>Qu'avait semée entre eux l'ennui de votre perte.</l>
+	<l id='871'>C'est lui, qu'on me préfère, il n'en faut point douter,</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='872'>En vain Agamemnon prend droit de se flatter.</l>
+	<l id='873'>Achille m'a promis, et plutôt que j'endure</l>
+	<l id='874'>Ce que vos feux trompés feraient au mien d'injure,</l>
+	<l id='875'>Dût la guerre en fureur ne s'éteindre jamais,</l>
+	<l id='876'>Il m'aime, soyez sûr que je romprai la paix.</l>
+	<l id='877' part='i'>Je sais ce que je puis.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='877' part='f'>Ah, c'en est trop, Madame,</l>
+	<l id='878'>Tant de sang à verser fait horreur à ma flamme.</l>
+	<l id='879'>Quoiqu'Achille pour vous fasse moins qu'il ne peut,</l>
+	<l id='880'>Ne troublons point la paix, Polixène la veut,</l>
+	<l id='881'>Votre bonheur dépend de laisser tout tranquille,</l>
+	<l id='882'>Par là vous l'épousez ce trop injuste Achille,</l>
+	<l id='883'>Et pour mes intérêts la raison ne veut pas</l>
+	<l id='884'>Qu'un plus long différent vous ôte à vos ?tats.</l>
+	<l id='885'>Allez, Madame, allez prendre le nom de reine,   </l>
+	<l id='886'>J'aurai soin de venger la triste Polixène,</l>
+	<l id='887'>Et mon lâche rival à ses pieds immolé,</l>
+	<l id='888'>Peut-être me rendra le bien qu'il m'a volé.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Briseis, Pyrrhus, Polixène, Phénice, Ilione, Antilochus.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='889'>Que me dit-on, Princesse ? On trahit votre flamme,</l>
+	<l id='890'>Achille qui me trompe aide à vous percer l'âme ?</l>
+	<l id='891'>Priam à son parti contre Pyrrhus est joint ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='892'>Madame, ces malheurs ne me surprennent point.</l>
+	<l id='893'>Si du ciel contre moi la rigueur se déploie,</l>
+	<l id='894'>Je n'attendais pas moins, c'est le destin de Troie.</l>
+	<l id='895'>Victime d'une paix qu'on m'a fait demander,</l>
+	<l id='896'>Priam résout ma mort, c'est à moi de céder,</l>
+	<l id='897'>Heureuse en m'immolant pour calmer la tempête,</l>
+	<l id='898'>Si l'éclat n'en tombait que sur ma seule tête,</l>
+	<l id='899'>Mais ma raison se perd quand de si rudes coups</l>
+	<l id='900'>Désespérant Pyrrhus, rejaillissent sur vous,</l>
+	<l id='901'>Et le crime odieux dont je me vois complice,</l>
+	<l id='902'>Par ce que je vous dois m'est le dernier supplice,</l>
+	<l id='903'>Punissez en l'audace, elle est dure à souffrir,</l>
+	<l id='904'>Mon sang peut l'expier, et je viens vous l'offrir.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='905'>Ainsi, Madame, ainsi vous êtes résolue</l>
+	<l id='906'>D'accepter un arrêt qui vous perd et me tue ?</l>
+	<l id='907'>Si mon coeur est un bien que l'amour vous rend cher,</l>
+	<l id='908'>Songez-vous ce que c'est que de vous l'arracher ?</l>
+	<l id='909'>Songez-vous ce que c'est que de forcer le vôtre</l>
+	<l id='910'>A changer de tendresse, à vivre pour un autre,</l>
+	<l id='911'>Et voyez-vous ces maux avec si peu d'effroi,</l>
+	<l id='912'>Que vous n'ayez pitié ni de vous ni de moi ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='913'>J'en frémis, je l'avoue, et mon âme étonnée,</l>
+	<l id='914'>A mille morts par là se trouve condamnée,</l>
+	<l id='915'>Mais dés que j'ose voir vos malheurs et les miens,</l>
+	<l id='916'>J'entends les cris affreux que poussent les Troyens,</l>
+	<l id='917'>La nature me fait une image sanglante</l>
+	<l id='918'>Et de Priam sans vie et d'Hécube mourante.</l>
+	<l id='919'>Je vois, sans respecter, âge, sexe, ni rang,</l>
+	<l id='920'>Les Grecs presser le meurtre et nager dans le sang,</l>
+	<l id='921'>Et la flamme partout avide à se répandre,</l>
+	<l id='922'>Dévorer nos Palais et laisser Troie en cendre.</l>
+	<l id='923'>Quand par là mon repos se pourrait acheter,</l>
+	<l id='924'>Vaudrait-il les horreurs qu'il aurait su coûter ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='925'>Espérons mieux du Ciel, quelque dure disgrâce</l>
+	<l id='926'>Dont votre amour timide ait reçu la menace,</l>
+	<l id='927'>Il ne souffrira point qu'un accord inhumain,</l>
+	<l id='928'>Vous ôtant à Pyrrhus, lui vole votre main.</l>
+	<l id='929'>Suspendez vos ennuis ; l'ordre qui les fait naître...</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='930'>J'ai sans doute à rougir de les laisser paraître,</l>
+	<l id='931'>Vous me donnez l'exemple, et moins d'accablement</l>
+	<l id='932'>Aurait du suivre en moi la perte d'un Amant.</l>
+	<l id='933'>Vôtre fière vertu qu'aucun revers n'étonne</l>
+	<l id='934'>Me reproche le trouble où mon coeur s'abandonne,</l>
+	<l id='935'>Un peu d'effort sur vous lui fait tout surmonter,</l>
+	<l id='936'>C'est beaucoup, je voudrais la pouvoir imiter,</l>
+	<l id='937'>Et soutenir le coup d'une âme aussi tranquille</l>
+	<l id='938'>Que je vous vois souffrir l'inconstance d'Achille.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='939' part='i'>Achille est inconstant ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='939' part='f'>Madame, Achille... Ah, Dieux ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='940'>Sur cet affreux revers je n'ose ouvrir les yeux.</l>
+	<l id='941'>Se pourrait-il qu'Achille eut souffert qu'en son âme...</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='942'>Et quoi, de ce barbare ignorez-vous la flamme,</l>
+	<l id='943'>Et qu'il veut que ma main, assassinant Pyrrhus,</l>
+	<l id='944'>Soit le prix des honneurs qu'Hector en a reçus ?</l>
+	<l id='945'>En vain Hécube en pleurs, en vain le roi mon père</l>
+	<l id='946'>A refusé la soeur au meurtrier du frère ;</l>
+	<l id='947'>En vain d'une autre flamme ils se sont fait l'appui,</l>
+	<l id='948'>Point de paix, point d'accord si je ne suis à lui.</l>
+	<l id='949'>Perdant, renversant Troie il nous fera connaître</l>
+	<l id='950'>Qu'Achille suppliant a pu parler en maître,</l>
+	<l id='951'>Et qu'un dernier assaut donné de toutes parts,</l>
+	<l id='952'>Sitôt qu'il s'armera, le met sur nos remparts,</l>
+	<l id='953'>Nous cédons à la force. Et qui peut s'en défendre ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='954'>Son amour devant tous s'est fait cent fois entendre.</l>
+	<l id='955'>Qui l'auroat pu penser ? Après tant de serments,</l>
+	<l id='956'>Tant de soins, de devoirs, d'ardeurs, d'empressements,</l>
+	<l id='957'>Achille, cet Achille à qui toute son âme</l>
+	<l id='958'>Semblait un prix trop bas pour bien payer ma flamme,</l>
+	<l id='959'>Me quitte, m'abandonne, et violant sa foi,</l>
+	<l id='960'>Porte ailleurs ce qu'en vain je croyais tout à moi.</l>
+	<l id='961'>Ah, Prince, à ce malheur toute ma raison cède,</l>
+	<l id='962'>Il a trop de témoins pour souffrir du remède,</l>
+	<l id='963'>Puisque contre sa gloire Achille a fait ce pas,</l>
+	<l id='964'>Sa fierté m'est connue, il ne changera pas,</l>
+	<l id='965'>Et je dois préparer mon âme infortunée</l>
+	<l id='966'>Aux éternels ennuis où je suis condamnée.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='967'>Enfin, à ma disgrâce il ne manque plus rien,</l>
+	<l id='968'>Au moins dans les grands maux la vengeance est un bien,</l>
+	<l id='969'>Et tant que cet espoir a soulagé ma flamme</l>
+	<l id='970'>J'ai moins senti le coup qui va m'arracher l'âme.</l>
+	<l id='971'>Par un fatal surcroît de malheurs inouïs,</l>
+	<l id='972'>Prêt à verser du sang j'entends le nom de fils,</l>
+	<l id='973'>Et vois avec horreur que ma juste colère,</l>
+	<l id='974'>Pour percer mon rival, doit s'armer contre un père.   </l>
+	<l id='975'>Ah, Madame, vous perdre est-ce un mal si léger,</l>
+	<l id='976'>Qu'il faille le souffrir, et ne vous point venger.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='977'>Vous en avez sujet, plaignez-vous l'un et l'autre,</l>
+	<l id='978'>L'aigreur de mon destin se répand sur le vôtre,</l>
+	<l id='979'>Pour vous perdre, le ciel semble n'épargner rien,</l>
+	<l id='980'>Mais enfin vos malheurs approchent-ils du mien ?</l>
+	<l id='981'>Si la douleur du coup vous les fait croire extrêmes,</l>
+	<l id='982'>Au moins vous demeurez absolus sur vous-mêmes,</l>
+	<l id='983'>Et la rigueur du sort n'asservit point vos coeurs</l>
+	<l id='984'>A la nécessité de se donner ailleurs :</l>
+	<l id='985'>Mais quand d'un feu qui plaît la douceur combattue</l>
+	<l id='986'>Cède à l'affreuse loi d'un devoir qui nous tue,</l>
+	<l id='987'>Qu'on n'éteint un amour dont on était charmé</l>
+	<l id='988'>Que pour en voir un autre à sa place allumé,</l>
+	<l id='989'>Des plus cruels tourments tout ce qu'on se figure</l>
+	<l id='990'>N'est de ce dur revers qu'une faible peinture.</l>
+	<l id='991'>J'en tremble, et ma vertu qui craint mon désespoir</l>
+	<l id='992'>N'ose m'abandonner à ce qu'elle ose voir,</l>
+	<l id='993'>Elle n'offre à mes yeux qu'une confuse image</l>
+	<l id='994'>De l'abîme étonnant des maux qu'elle envisage,</l>
+	<l id='995'>Et si déjà pour moi c'est plus que le trépas,</l>
+	<l id='996'>Quand je connaîtrai tout, que ne sera-ce pas ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='997'>Ah, tâchez, s'il se peut, de ne le point connaître,</l>
+	<l id='998'>Voyez de grâce Achille, il se rendra peut-être,</l>
+	<l id='999'>Si vous lui peignez bien à quel destin affreux</l>
+	<l id='1000'>L'amour qu'il a pour vous livre trois malheureux.</l>
+	<l id='1001'>Déjà depuis longtemps dites-lui que votre âme</l>
+	<l id='1002'>Par l'aveu de Priam se doit toute à ma flamme,</l>
+	<l id='1003'>Et qu'en vain il prétend que le titre d'époux</l>
+	<l id='1004'>Assure à ses désirs ce qui n'est plus à vous.</l>
+	<l id='1005'>Enfin, faites pour moi tout ce qu'il se peut faire,</l>
+	<l id='1006'>Réveillez dans son coeur la tendresse de père,</l>
+	<l id='1007'>Montrez-lui le respect où j'ai toujours vécu,</l>
+	<l id='1008'>Et ne le quittez point que vous n'ayez vaincu.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1009'>Quelque peu que j'espère, allez, pressez, Madame,</l>
+	<l id='1010'>Essayez ce que peut la pitié sur son âme.</l>
+	<l id='1011'>La fortune bientôt s'est changée entre nous,</l>
+	<l id='1012'>Vous attendiez de moi ce que j'attends de vous.</l>
+	<l id='1013'>Veuille le pur amour qui m'avait trop flattée,</l>
+	<l id='1014'>Qu'avec plus de succès vous soyez écoutée.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1015'>Sur l'ordre de l'hymen qui fait tous nos malheurs,</l>
+	<l id='1016'>C'est de loin seulement qu'Achille a vu mes pleurs,</l>
+	<l id='1017'>Contre un coeur généreux ce sont de fortes armes,</l>
+	<l id='1018'>J'en vais faire l'épreuve, et si mes faibles charmes</l>
+	<l id='1019'>Font toujours qu'à sa gloire il m'ose préférer,</l>
+	<l id='1020'>J'aurai pour vous du sang prêt à tout réparer.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Briseis, Pyrrhus, Phénice, Antlochus.</head>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1021'>De quelle dureté doit-il être capable</l>
+	<l id='1022'>Si pour vous, si pour elle il est inexorable ?</l>
+	<l id='1023'>Attaqué par ses pleurs pourra-t-il résister ?</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1024'>Prince, ne cherchons point tous deux à nous flatter.</l>
+	<l id='1025'>Trop de soins empressés d'obliger et de plaire</l>
+	<l id='1026'>Ont précédé l'éclat qu'Achille vient de faire,</l>
+	<l id='1027'>Pour avoir droit encor de nous persuader,</l>
+	<l id='1028'>Que rien puisse jamais le contraindre à céder.</l>
+	<l id='1029'>Ah, que le fort amour dans un coeur noble et tendre,</l>
+	<l id='1030'>Pour peu qu'on se déguise, est facile à surprendre !</l>
+	<l id='1031'>Ce courroux où sans peine on le vit renoncer,</l>
+	<l id='1032'>Ce vain tombeau d'Hector qu'il fit soudain dresser,</l>
+	<l id='1033'>Ces honneurs qu'à sa cendre il alla rendre à Troie,</l>
+	<l id='1034'>Sa tente offerte au roi, ses soins pour lui, sa joie ;</l>
+	<l id='1035'>Qui ne s'y fût trompée ? Il me devait sa foi,</l>
+	<l id='1036'>On m'avait fait parler, j'expliquais tout pour moi,   </l>
+	<l id='1037'>Tant de marques d'amour me rendaient fière et vaine.</l>
+	<l id='1038'>Cependant tout était pour plaire à Polixène,</l>
+	<l id='1039'>Et telle est de mon sort la funeste rigueur</l>
+	<l id='1040'>Que j'ai poussé les traits qui me percent le coeur.</l>
+	<l id='1041'>Appuyant Polixène, et lui montrant ses larmes</l>
+	<l id='1042'>Je l'ai livré moi-même au pouvoir de ses charmes.</l>
+	<l id='1043'>Quel désespoir pour moi ! mais ne négligeons rien,</l>
+	<l id='1044'>Prince, votre intérêt se trouve joint au mien,</l>
+	<l id='1045'>Pour empêcher l'hymen qui fait notre supplice,</l>
+	<l id='1046'>Voyez Agamemnon, j'irai trouver Ulysse,</l>
+	<l id='1047'>Quelque paix qu'à Priam Achille ait pu jurer,</l>
+	<l id='1048'>S'ils sont tous deux pour nous, nous pouvons espérer.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Achille, Alcime.</head>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1049'>Seigneur, jamais Traité ne causa tant de joie,</l>
+	<l id='1050'>Nous entendons du Camp les cris qu'en pousse Troie,</l>
+	<l id='1051'>Où chacun à l'envi d'un bien si précieux</l>
+	<l id='1052'>Court au pied des Autels rendre grâces aux Dieux.</l>
+	<l id='1053'>Pâris, le seul Pâris se plaint, se désespère,</l>
+	<l id='1054'>Hélène à son amour a toujours droit de plaire,</l>
+	<l id='1055'>Et la paix n'offre rien qui le puisse toucher</l>
+	<l id='1056'>Quand il perd malgré lui ce qu'il a de plus cher.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1057' part='i'>Et nos Grecs ?</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1057' part='f'>Diomede, Ulysse, Idomenée</l>
+	<l id='1058'>En faveur de Pyrrhus blâment vôtre hyménée,</l>
+	<l id='1059'>Mais sans y mettre obstacle ; Agamemnon charmé</l>
+	<l id='1060'>De nouveau s'abandonne à l'espoir d'être aimé,</l>
+	<l id='1061'>Et croyant qu'à ses voeux Briseis est acquise,</l>
+	<l id='1062'>Il aime en ce projet ce qui le favorise.</l>
+	<l id='1063' part='i'>Tout est calme partout.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1063' part='f'>Alcime, quel bonheur</l>
+	<l id='1064'>Si ce calme empêchait le trouble de mon coeur !</l>
+	<l id='1065'>Il a beau se livrer aux charmes qui l'attirent,</l>
+	<l id='1066'>Briseis et Pyrrhus tour à tour le déchirent,</l>
+	<l id='1067'>Et de leurs feux trahis le remords accablant</l>
+	<l id='1068'>Est un bourreau secret qu'il ne voit qu'en tremblant.</l>
+	<l id='1069'>Quand l'amour malgré nous l'emporte sur la gloire,</l>
+	<l id='1070'>Qu'un grand coeur est gêné d'une telle victoire,</l>
+	<l id='1071'>Et qu'il est malaisé que ce honteux appas</l>
+	<l id='1072'>lui coûte une faiblesse, et qu'il n'en souffre pas !</l>
+	<l id='1073'>C'est peu que mon chagrin me fasse voir sans cesse,   </l>
+	<l id='1074'>Que j'assassine un Fils, accable une Maîtresse,</l>
+	<l id='1075'>Polixène elle-même, à qui j'immole tout</l>
+	<l id='1076'>Met ma flamme en désordre, et ma constance à bout.</l>
+	<l id='1077'>A toute heure, en tous lieux, je l'entends qui s'écrie,</l>
+	<l id='1078'>Songe songe Tyran quelle est ta barbarie,</l>
+	<l id='1079'>Abusant du pouvoir qu'on te donne sur moi,</l>
+	<l id='1080'>Tu m'arraches un coeur qui ne peut être à toi.</l>
+	<l id='1081'>Tant que Pyrrhus vivra, quoique tu te proposes,</l>
+	<l id='1082'>Ce coeur sera le prix des maux que tu lui causes,</l>
+	<l id='1083'>Et mon dernier soupir, pour flatter son ennui,</l>
+	<l id='1084'>Sera pour toi d'horreur, et de pitié pour lui.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1085'>Si de ses voeux contraints vous vous faites un crime,</l>
+	<l id='1086' part='i'>Il est, il est, Seigneur, encor temps...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1086' part='f'>Non, Alcime ;</l>
+	<l id='1087'>J'ai beau voir quels malheurs en peuvent arriver,</l>
+	<l id='1088'>J'adore Polixène, et ne puis m'en priver.</l>
+	<l id='1089'>C'est mon destin. J'en suis le décret immuable.</l>
+	<l id='1090'>Les Dieux m'ont fait un corps au fer impénétrable,</l>
+	<l id='1091'>Aucun dards, aucun traits ne le peuvent percer,</l>
+	<l id='1092'>Fallait-il que mon coeur fut facile à blesser,</l>
+	<l id='1093'>Et qu'à mes passions mon âme abandonnée,</l>
+	<l id='1094'>Par leurs moindres efforts fut toujours entraînée.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1095'>Elle peut s'apprêter à de nouveaux combats,</l>
+	<l id='1096' part='i'>Polixène paraît, Seigneur.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1096' part='f'>Qu'elle a d'appas !</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Achille, Polixène, Alcime, Ilione.</head>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1097'>Madame, dans vos yeux je lis ce qui se passe,</l>
+	<l id='1098'>D'Achille trop à vous l'amour vous embarrasse,</l>
+	<l id='1099'>Et votre coeur gêné de l'aveu que j'ai fait</l>
+	<l id='1100'>Ne peut en ma faveur obéir qu'à regret.</l>
+	<l id='1101'>Je lui voudrais sans doute épargner ce supplice,</l>
+	<l id='1102'>Mais daignez vous connaître, et me rendez justice.</l>
+	<l id='1103'>Tout ce qui fut jamais d'engageant et de doux,</l>
+	<l id='1104'>Tout ce qui peut charmer, le Ciel l'a mis en vous.</l>
+	<l id='1105'>J'ai des yeux, c'est assez pour n'aimer qu'à vous plaire.</l>
+	<l id='1106'>D'un si noble dessein rien ne me peut distraire,</l>
+	<l id='1107'>J'y mettrai tous mes soins, et si votre froideur</l>
+	<l id='1108'>S'obstine de mes voeux à combattre l'ardeur,</l>
+	<l id='1109'>Tant de respect suivra le beau feu qui m'anime,</l>
+	<l id='1110'>Que vous croirez au moins me devoir votre estime,</l>
+	<l id='1111'>Et peut-être à la fin souffrirez-vous qu'un jour</l>
+	<l id='1112'>Cette estime enhardie aille jusqu'à l'amour.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1113'>De l'univers entier l'estime vous est due,</l>
+	<l id='1114'>Seigneur, et quand de vous la mienne est attendue,</l>
+	<l id='1115'>Vos bontés m'en ont fait un si pressant devoir,</l>
+	<l id='1116'>Que vous la refuser n'est pas en mon pouvoir.</l>
+	<l id='1117'>Mais je vous l'avouerai, quelque rang où m'élève</l>
+	<l id='1118'>Cet Hymen dont l'accord joint la paix à la trêve,</l>
+	<l id='1119'>Je n'y saurais penser que mes sens étonnés</l>
+	<l id='1120'>Ne rejettent l'honneur que vous me destinez.</l>
+	<l id='1121'>Je ne vous dira point que votre main offerte</l>
+	<l id='1122'>D'Hector tombé sous vous me reproche la perte,</l>
+	<l id='1123'>Mon père et mon pays ont des droits absolus,</l>
+	<l id='1124'>Ils parlent, c'est assez, je ne m'en souviens plus ;</l>
+	<l id='1125'>Mais puis-je également ôter de ma mémoire</l>
+	<l id='1126'>Qu'en demandant ma main vous souillez votre gloire ?</l>
+	<l id='1127'>Je sais que Briseis a reçu votre foi,</l>
+	<l id='1128'>Je lui dois les bontés que vous eûtes pour moi,</l>
+	<l id='1129'>Et sur elle avec vous porter un coup si rude</l>
+	<l id='1130'>C'est à la trahison joindre l'ingratitude.</l>
+	<l id='1131'>Montrez ce qu'est Achille, et songez que sur vous</l>
+	<l id='1132'>L'Univers qui s'étonne ouvre ses yeux jaloux.</l>
+	<l id='1133'>Ne lui donnez pas lieu de dire, à votre honte,</l>
+	<l id='1134'>Que le Vainqueur d'Hector souffre qu'on le surmonte,   </l>
+	<l id='1135'>Et que toute la gloire où je le vois monté,</l>
+	<l id='1136'>N'a pu le dérober à l'infidélité.</l>
+	<l id='1137'>Le triomphe est fâcheux, il est dur, difficile,</l>
+	<l id='1138'>Je le crois, mais enfin il est digne d'Achille,</l>
+	<l id='1139'>Et le nom de héros à vos vertus acquis,</l>
+	<l id='1140'>Des efforts qu'il exige est un assez haut prix.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1141'>Le conseil paraît beau, généreux, magnanime,</l>
+	<l id='1142'>Mais, Madame, je vois quel intérêt l'anime.</l>
+	<l id='1143'>Ce soin de satisfaire à l'univers jaloux,</l>
+	<l id='1144'>Bien qu'expliqué pour moi, ne regarde que vous.</l>
+	<l id='1145'>Votre coeur qui ne peut me souffrir infidèle,</l>
+	<l id='1146'>Appuyant Briseis, court où l'amour l'appelle,</l>
+	<l id='1147'>Et ne me peint ses feux injustement déçus,</l>
+	<l id='1148'>Qu'afin de se pouvoir conserver à Pyrrhus.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1149'>Pyrrhus, je le confesse, avait de quoi me plaire,</l>
+	<l id='1150'>Vous en avez trop su pour vouloir vous le taire.</l>
+	<l id='1151'>Si le Ciel nous eut vus d'un oeil moins rigoureux,</l>
+	<l id='1152'>Mon bonheur dépendait de voir Pyrrhus heureux.</l>
+	<l id='1153'>Priam qui m'ordonna de répondre à sa flamme</l>
+	<l id='1154'>Me fit prendre plaisir à régner sur son âme,</l>
+	<l id='1155'>Patrocle était vivant, et l'espoir de la paix</l>
+	<l id='1156'>Par une douce amorce engageait mes souhaits.</l>
+	<l id='1157'>De ses voeux empressés l'hommage trop sensible</l>
+	<l id='1158'>Méritait que mon coeur ne fût pas inflexible,</l>
+	<l id='1159'>Et faut-il s'étonner s'il s'en trouva charmé ?</l>
+	<l id='1160'>C'était un jeune coeur qui n'avait rien aimé,</l>
+	<l id='1161'>La conquête pouvait en être plus facile,</l>
+	<l id='1162'>Pyrrhus le valoit bien, il était fils d'Achille,</l>
+	<l id='1163'>D'un père si fameux les exploits éclatants</l>
+	<l id='1164'>Répondaient de sa gloire, et prévenaient le temps.</l>
+	<l id='1165'>Je ne sais si l'amour doit passer pour un crime</l>
+	<l id='1166'>Quand l'honneur, le devoir, le rendent légitime,</l>
+	<l id='1167'>Aux volontés d'un père ils ont su m'attacher,   </l>
+	<l id='1168'>Le défaut n'est pas grand pour me le reprocher.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1169'>Mais vous l'aimez encor ce Pyrrhus, et votre âme</l>
+	<l id='1170'>Malgré mes voeux offerts est sensible à sa flamme.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1171'>Quand ce soupir, hélas ! n'en serait pas l'aveu,</l>
+	<l id='1172'>Un moment suffit-il pour éteindre un beau feu,</l>
+	<l id='1173'>Et pourrais-je sitôt, malgré votre espérance,</l>
+	<l id='1174'>Vous répondre pour lui de mon indifférence ?</l>
+	<l id='1175'>Je puis avoir trop cru le penchant de mon coeur,</l>
+	<l id='1176'>Mais des soins de Pyrrhus quand j'ai chéri l'ardeur,</l>
+	<l id='1177'>Je ne prévoyais pas que trop prompt à vous rendre</l>
+	<l id='1178'>Vous dussiez condamner l'amour qu'il m'a fait prendre,</l>
+	<l id='1179'>Que vous pussiez vouloir en combattre l'appas,</l>
+	<l id='1180'>Et peut-être, Seigneur, ne le voudrez vous pas.</l>
+	<l id='1181'>Vous vous reprocherez la barbare injustice</l>
+	<l id='1182'>De séparer deux coeurs que tout veut qu'on unisse,</l>
+	<l id='1183'>Deux coeurs du même feu dés longtemps enflammés,</l>
+	<l id='1184'>Et que l'amour exprès l'un pour l'autre a formés.</l>
+	<l id='1185' part='i'>Vous vous reprocherez de vouloir...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1185' part='f'>Non, Madame,</l>
+	<l id='1186'>Si j'avais de Pyrrhus autorisé la flamme</l>
+	<l id='1187'>Je me reprocherais la barbare rigueur</l>
+	<l id='1188'>De m'être fait pour lui l'ennemi de mon coeur.</l>
+	<l id='1189'>Il ne saurait souffrir, ce coeur qui vous adore,</l>
+	<l id='1190'>Que vous ayez aimé, que vous aimiez encore,</l>
+	<l id='1191'>Cette image le tue, et vous croyez en vain</l>
+	<l id='1192'>Qu'il cède à mon rival le don de votre main.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1193'>Et bien, Seigneur, et bien, j'oublierai que je l'aime,</l>
+	<l id='1194'>Ne faites rien pour lui, faites tout pour vous-mesme.</l>
+	<l id='1195'>Je ne demande plus que vos chagrins jaloux   </l>
+	<l id='1196'>lui souffrent un amour à ses désirs trop doux,</l>
+	<l id='1197'>Un autre de ce crime aurait voulu l'absoudre,</l>
+	<l id='1198'>Vous voulez qu'il l'expie, il faudra l'y résoudre.</l>
+	<l id='1199'>Mais enfin vos serments, le don de vôtre foi,</l>
+	<l id='1200'>Tout est pour Briseis, vous la voyez en moi.</l>
+	<l id='1201'>Sauvez-la des ennuis dont je tremble pour elle,</l>
+	<l id='1202'>Sauvez-vous de l'affront d'être lâche, infidèle.</l>
+	<l id='1203'>Votre seul intérêt fait naître mes refus,</l>
+	<l id='1204'>C'en est fait, pour jamais je renonce à Pyrrhus,</l>
+	<l id='1205'>Qu'il parte avecque vous. ?loignez l'un de l'autre,</l>
+	<l id='1206'>Il plaindra son amour étouffé par le vôtre.</l>
+	<l id='1207'>Pour moi, qui de mon coeur essayerai d'obtenir</l>
+	<l id='1208'>Qu'il immole à ma gloire un si doux souvenir,</l>
+	<l id='1209'>Je me contenterai de l'innocente joie</l>
+	<l id='1210'>De voir régner Priam sur les restes de Troie.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1211'>N'écouter mon amour que pour le dédaigner,</l>
+	<l id='1212'>Madame ce n'est pas le moyen de régner.</l>
+	<l id='1213'>Vous gardez trop longtemps un espoir inutile,</l>
+	<l id='1214'>Plus de Trône pour vous qu'en épousant Achille,</l>
+	<l id='1215'>Résolvez, le destin est assez glorieux.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1216'>Faites donc, inhumain, faites plus que les Dieux.</l>
+	<l id='1217'>Jusqu'ici quelque sort dont la rigueur me brave,</l>
+	<l id='1218'>Ils n'ont pu me forcer à prendre un coeur d'esclave,</l>
+	<l id='1219'>Et c'est un juste orgueil que ce coeur va trahir,</l>
+	<l id='1220'>Si quand vous commandez, il me laisse obéir.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1221'>De cet illustre orgueil donnez un fier exemple,</l>
+	<l id='1222'>Qu'il éclate. Ce soir j'ai promis d'être au Temple,</l>
+	<l id='1223'>J'y serai. Si ma main est pour vous sans appas,</l>
+	<l id='1224'>Madame, vous pouvez ne vous y rendre pas.</l>
+	<l id='1225'>Je n'irai point sur vous dans ma juste colère</l>
+	<l id='1226'>Mendier lâchement l'autorité d'un père,</l>
+	<l id='1227'>Un coeur tel que le vôtre a droit de tout oser.</l>
+	<l id='1228'>Cependant de mon bras je pourrai disposer,</l>
+	<l id='1229'>Et quand sur vos remparts le carnage et la flamme</l>
+	<l id='1230'>Aux dernières horreurs exposeront vôtre âme,</l>
+	<l id='1231'>Vous n'aurez pas sujet dans vos cris superflus</l>
+	<l id='1232'>De m'imputer des maux que vous aurez voulus.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1233'>Non, cruel, vos fureurs n'auront pas l'avantage</l>
+	<l id='1234'>De me rendre témoin de cet affreux carnage,</l>
+	<l id='1235'>C'est assez qu'aujourd'hui je le puis racheter</l>
+	<l id='1236'>Par le dur sacrifice où je vais m'apprêter.</l>
+	<l id='1237'>Pour épargner à Troie un destin si funeste,</l>
+	<l id='1238'>J'irai porter ma main, les Dieux feront le reste.</l>
+	<l id='1239'>Ils savent que mon coeur mille fois déchiré</l>
+	<l id='1240'>Paye en larmes de sang tout ce qu'elle a pleuré,</l>
+	<l id='1241'>Que s'il ne s'agissait de prévenir sa chute,</l>
+	<l id='1242'>Cent morts me seraient moins que ce que j'exécute,</l>
+	<l id='1243'>Qu'auprès de ce tourment tout supplice est léger ;</l>
+	<l id='1244'>S'ils ont de la justice ils voudront y songer,</l>
+	<l id='1245'>Ils se repentiront d'avoir pu se résoudre</l>
+	<l id='1246'>A vous laisser sur moi lancer plus que leur foudre,</l>
+	<l id='1247'>Et vengeant Briseis, apprendront aux ingrats</l>
+	<l id='1248'>Que c'est pour mieux punir qu'ils retiennent leur bras.</l>
+	<l id='1249'>Jouissez à ce prix de mon cruel martyre.</l>
+<stage>À Briseis qui paraît.</stage>
+	<l id='1250'>Madame, je m'éloigne, et n'ai rien à vous dire.</l>
+	<l id='1251'>Nous n'aurons pas sitôt la fin de nos malheurs,</l>
+	<l id='1252'>Tout s'arme contre nous, voyez-le par mes pleurs.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Achille, Briseis, Phénice, Alcime.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1253'>Enfin, il se peut donc qu'Achille me trahisse,</l>
+	<l id='1254'>Que son coeur sans remords succombe à l'injustice,</l>
+	<l id='1255'>Et qu'un nouvel amour écouté d'aujourd'hui</l>
+	<l id='1256'>Triomphe du pouvoir qu'il me donna sur lui.</l>
+	<l id='1257'>Ce honteux changement, encor qu'inexcusable,   </l>
+	<l id='1258'>En tout autre du moins m'aurait paru croyable,</l>
+	<l id='1259'>La froideur, le dégoût, et l'oubli des serments</l>
+	<l id='1260'>Ne sont que trop communs aux vulgaires Amants.</l>
+	<l id='1261'>Mais qu'une âme élevée au dessus d'elle-même,</l>
+	<l id='1262'>Qu'Achille se résolve à trahir ce qu'il aime,</l>
+	<l id='1263'>Qu'il s'ose montrer faible, ingrat, lâche, sans foi,</l>
+	<l id='1264'>Qu'il renonce à l'honneur, c'est un monstre pour moi.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1265'>Madame, avec plaisir je garde en ma mémoire,</l>
+	<l id='1266'>Que je vous ai promis d'assurer votre gloire,</l>
+	<l id='1267'>Je vous tiendrai parole, et pour vous couronner</l>
+	<l id='1268'>Pyrrhus dans vos ?tats ira vous ramener.</l>
+	<l id='1269'>Il a l'ordre, daignez accepter sa conduite.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1270'>Pyrrhus a l'ordre ! hélas, où me vois-je réduite !</l>
+	<l id='1271'>L'amour le veut, il faut vous défaire de nous,</l>
+	<l id='1272'>Vous fuyez des témoins trop à craindre pour vous,</l>
+	<l id='1273'>Vous fuyez des regards dont le sanglant reproche</l>
+	<l id='1274'>Troublerait le bonheur que vous voyez si proche.</l>
+	<l id='1275'>Pour me sauver du coup qui doit m'assassiner,</l>
+	<l id='1276'>N'avez-vous, inhumain, qu'un trône à me donner ?</l>
+	<l id='1277'>Si ce charme eût trouvé le faible de mon âme</l>
+	<l id='1278'>J'aurais d'Agamemnon favorisé la flamme,</l>
+	<l id='1279'>Ravie à votre espoir, sûre de mon repos,</l>
+	<l id='1280'>Je n'avais qu'à parler, j'étais reine d'Argos.</l>
+	<l id='1281'>Il n'eut point comme vous, pour me donner ce titre,</l>
+	<l id='1282'>Attendu que la guerre en eut été l'arbitre.</l>
+	<l id='1283'>Il n'eut point, pour m'oser soumettre ses ?tats,</l>
+	<l id='1284'>Attendu comme vous la fin de vos combats.</l>
+	<l id='1285'>J'ai d'Achille amoureux préféré la promesse</l>
+	<l id='1286'>A l'honneur assuré de régner sur la Grèce,</l>
+	<l id='1287'>Son coeur m'a plus été qu'un diadème offert,</l>
+	<l id='1288'>J'ai tout fait pour lui plaire, et c'est lui qui me perd.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1289'>Madame, il serait bon... ?pargnez-moi de grâce,</l>
+	<l id='1290'>Le titre de Vainqueur peut donner de l'audace,</l>
+	<l id='1291'>Et je serais fâché que de trop durs adieux...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1292'>L'ordre presse, j'entends, il faut quitter ces lieux,</l>
+	<l id='1293'>Sans rien examiner sur tout ce qui m'arrive,</l>
+	<l id='1294'>C'est à moi d'obéir, je suis votre captive,</l>
+	<l id='1295'>Quoi que le nom me blesse, il m'est encor plus doux</l>
+	<l id='1296'>De l'entendre de moi, que de l'ouïr de vous ;</l>
+	<l id='1297'>Mais je puis dire au moins, quelle qu'en soit la honte,</l>
+	<l id='1298'>Quand de cette captive on fait si peu de compte,</l>
+	<l id='1299'>Qu'elle a vu mille fois son Vainqueur à ses pieds</l>
+	<l id='1300'>Tenir pour la toucher ses voeux humiliés,</l>
+	<l id='1301'>Et lui sacrifiant sa fierté naturelle,</l>
+	<l id='1302'>Baiser avec respect les fers qu'il prenait d'elle.</l>
+	<l id='1303'>Après tant de devoirs, si son coeur aujourd'hui</l>
+	<l id='1304'>Trouve qu'une Captive est indigne de lui,</l>
+	<l id='1305'>Si le nom que j'en eus à m'oublier l'engage,</l>
+	<l id='1306'>L'étais-je moins alors, la suis-je davantage,</l>
+	<l id='1307'>Ou cet Achille, heureux quand il se soumettait,</l>
+	<l id='1308'>Parce qu'il est perfide, est-il plus qu'il n'était ?</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1309'>Vous le savez peut-être, Achille est fier, Madame,</l>
+	<l id='1310'>Et quoi qu'il ait voulu devoir à votre flamme,</l>
+	<l id='1311'>Dans l'inquiet souci qui trouble sa raison</l>
+	<l id='1312'>Des reproches si durs ne sont pas de saison.</l>
+	<l id='1313'>Si de quelques ennuis je suis pour vous la cause,</l>
+	<l id='1314'>L'amour qui m'y contraint me coûte quelque chose,</l>
+	<l id='1315'>Et c'est trop hasarder après ce que j'ai fait,</l>
+	<l id='1316'>Qu'irriter un amour qui n'est pas satisfait.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1317'>Et c'est, ingrat, c'est-là ma plus sensible peine.</l>
+	<l id='1318'>Je lis dans votre coeur le remords qui vous gêne,</l>
+	<l id='1319'>Vous souffrez. Briseis que vous voulez bannir</l>
+	<l id='1320'>S'offre encor malgré vous à votre souvenir.   </l>
+	<l id='1321'>Malgré vous de Pyrrhus l'accablante disgrâce</l>
+	<l id='1322'>D'un supplice éternel vous porte la menace,</l>
+	<l id='1323'>Et quel fruit se promet vôtre esprit aveuglé</l>
+	<l id='1324'>D'une Amante trahie, et d'un Fils immolé ?</l>
+	<l id='1325'>Je l'avoue avec vous, Polixène a des charmes,</l>
+	<l id='1326'>C'est moi qui contre moi vous ai prêté des armes,</l>
+	<l id='1327'>C'est moi qui lui faisant embrasser vos genoux</l>
+	<l id='1328'>Ai demandé la mort que je reçois de vous.</l>
+	<l id='1329'>J'ai commencé, j'achève, et mon amour extrême</l>
+	<l id='1330'>Ne veut dans ce qu'il fait regarder que vous-même.</l>
+	<l id='1331'>Votre raison surprise applaudit à vos sens,</l>
+	<l id='1332'>Polixène vous plaît, voyez-la, j'y consens,</l>
+	<l id='1333'>Par les soins les plus doux, par le plus tendre hommage</l>
+	<l id='1334'>Tâchez de l'engager comme elle vous engage,</l>
+	<l id='1335'>Méritez que pour vous son coeur soit enflammé,</l>
+	<l id='1336'>Et rendez-vous heureux si vous êtes aimé.</l>
+	<l id='1337'>Sans espoir, sans repos, errante, infortunée,</l>
+	<l id='1338'>J'irai loin de vos yeux pleurer ma destinée,</l>
+	<l id='1339'>Heureuse dans ce triste et déplorable sort</l>
+	<l id='1340'>Qu'au moins vôtre bonheur soit le prix de ma mort ;</l>
+	<l id='1341'>Mais qu'un aveugle amour qui vous trahit vous-même,</l>
+	<l id='1342'>Vous donne à qui vous hait, vous ôte à qui vous aime,</l>
+	<l id='1343'>Qu'Achille malheureux réduise Briseis...</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1344'>Madame, c'est assez, le dessein en est pris,</l>
+	<l id='1345'>Contre un coeur résolu la résistance est vaine,</l>
+	<l id='1346'>Heureux ou malheureux, j'épouse Polixène :</l>
+	<l id='1347'>Si sa haine a pour moi des revers éclatants,</l>
+	<l id='1348'>Vous plaindrez mes malheurs quand il en sera temps.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1349'>Va, fais gloire des noms de parjure et de traître,</l>
+	<l id='1350'>Ingrat, pour espérer j'ai trop dû te connaître,</l>
+	<l id='1351'>Et savoir que ton coeur, après ta lâcheté</l>
+	<l id='1352'>N'en voudrait consulter que sa seule fierté.</l>
+	<l id='1353'>Aussi je rougirais si pour toucher ton âme   </l>
+	<l id='1354'>A ses entiers transports j'abandonnais ma flamme,</l>
+	<l id='1355'>Si je te faisais voir dans quel gouffre d'ennuis</l>
+	<l id='1356'>Me plonge le malheur où mes jours sont réduits.</l>
+	<l id='1357'>Non, ne présume point que je m'abaisse à dire</l>
+	<l id='1358'>Que j'ai peu mérité les maux dont je soupire,</l>
+	<l id='1359'>Que le parfait amour qui m'engage ta foi...</l>
+	<l id='1360'>Hélas, crois-tu qu'une autre en ait autant pour toi ?</l>
+	<l id='1361'>Crois-tu qu'une tendresse aussi pure et solide</l>
+	<l id='1362'>Soit... J'entends tes regards, c'est trop pour un perfide,</l>
+	<l id='1363'>De tes serments faussés ton coeur est satisfait,</l>
+	<l id='1364'>La trahison te plaît, je te perds sans regret.</l>
+	<l id='1365'>Cours presser un hymen dont je suis la victime,</l>
+	<l id='1366'>Il suffit que les Dieux soient ennemis du crime.</l>
+</sp>
+<sp who='ACHILLE'><speaker>ACHILLE</speaker>
+	<l id='1367' part='i'>Madame...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1367' part='f'>En vain sur toi l'on voudrait attenter,</l>
+	<l id='1368'>Tu le crois, mais enfin, crains de te trop flatter.</l>
+	<l id='1369'>Ces Dieux dont le pouvoir t'a fait invulnérable</l>
+	<l id='1370'>Ne te protègent pas pour te rendre coupable,</l>
+	<l id='1371'>Ils conduiront le dard quand il sera lancé,</l>
+	<l id='1372'>Et trouveront par où tu peux être percé ;</l>
+	<l id='1373'>Confus, désespéré, tu verras Polyxene,</l>
+	<l id='1374'>Quand ton sang coulera, triompher de ta peine,</l>
+	<l id='1375'>L'image de Pyrrhus heureux par ton trépas...</l>
+<stage>Achille sort.</stage>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Briseis, Phénice.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1376'>Tu me quittes cruel, et ne m'écoutes pas,</l>
+	<l id='1377'>Mes reproches pour toi sont un trop dur supplice,</l>
+	<l id='1378'>Tu ne les peux souffrir, tu ne peux... Ah, Phénice,</l>
+	<l id='1379'>Il est temps qu'avec toi ma douleur mette au jour</l>
+	<l id='1380'>Toute l'horreur des maux où m'abîme l'amour.</l>
+	<l id='1381'>Je sens ce coup affreux... Mais quand il me déchire   </l>
+	<l id='1382'>Le sentirais-je assez si je pouvais le dire ?</l>
+	<l id='1383'>Pour mieux voir de ces maux le déplorable excès</l>
+	<l id='1384'>Peins-toi les plus beaux feux dont on brûla jamais,</l>
+	<l id='1385'>Peins-toi d'un long espoir, quand l'amour est extrême...</l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE</speaker>
+	<l id='1386'>Eh, Madame, tâchez de vous rendre à vous même.</l>
+	<l id='1387'>Achille traître, ingrat, ne vaut pas aujourd'hui</l>
+	<l id='1388'>Le moindre des soupirs que vous perdez pour lui.</l>
+	<l id='1389'>Ne songez qu'à régner, il est doux de reprendre</l>
+	<l id='1390'>Un Trône dont le sort vous avait fait descendre,</l>
+	<l id='1391' part='i'>De vos ?tats perdus...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1391' part='f'>Tu me parles d'?tats.</l>
+	<l id='1392'>Des plus vastes grandeurs joins les plus doux appas,</l>
+	<l id='1393'>Rends-moi du monde entier la conquête facile,</l>
+	<l id='1394'>En être reine, est moins que régner sur Achille.</l>
+	<l id='1395'>Il avait tout mon coeur, tu ne l'as que trop su,</l>
+	<l id='1396'>S'il s'est donné cent fois, cent fois il l'a reçu,</l>
+	<l id='1397'>Cent fois il m'a juré que Briseis aimée...</l>
+	<l id='1398'>Ah, suivons la fureur dont je suis animée,</l>
+	<l id='1399'>Vengeons-nous d'un ingrat qui m'ose dédaigner,</l>
+	<l id='1400'>Une juste douleur ne doit rien épargner,</l>
+	<l id='1401'>Pour le faire souffrir immolons Polixène.</l>
+	<l id='1402'>Pourquoi sur ce projet laisser trembler ma haine ?</l>
+	<l id='1403'>N'a-t-elle pas causé tous mes malheurs ? Hélas !</l>
+	<l id='1404'>Pour les avoir causés elle n'en jouit pas.</l>
+	<l id='1405'>Si je souffre beaucoup, plus malheureuse encore</l>
+	<l id='1406'>Il faut qu'elle se livre au Tyran qu'elle abhorre.</l>
+	<l id='1407'>Puisque le même coup nous frape toutes deux,</l>
+	<l id='1408'>C'est contre Achille seul qu'il faut tourner mes voeux.</l>
+	<l id='1409'>Qu'il périsse ; le Ciel nous doit cette vengeance.</l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE</speaker>
+	<l id='1410'>Si de vos feux trahis son sang lavait l'offense,</l>
+	<l id='1411'>Voyant à vos désirs son trépas accordé,   </l>
+	<l id='1412'>Vous vous repentiriez d'avoir trop demandé.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1413'>Non, à quelque retour que la pitié m'appelle,</l>
+	<l id='1414'>J'aime mieux le voir mort que le voir infidèle,</l>
+	<l id='1415'>Ce seul soulagement peut flatter mon espoir.</l>
+	<l id='1416'>Mais allons de Priam essayer le pouvoir.</l>
+	<l id='1417'>Le temps presse, malgré la parole donnée</l>
+	<l id='1418'>Tâchons à reculer ce funeste hyménée.</l>
+	<l id='1419'>Ma douleur chez les Grecs trouvera du secours</l>
+	<l id='1420'>Si je puis de Priam obtenir quelques jours.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Polixène, Ilione.</head>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1421'>Laisse, laisse ces soins, je m'en trouve gênée,</l>
+	<l id='1422'>La victime, Ilione, est assez bien ornée,</l>
+	<l id='1423'>Et quand il faut offrir sa gorge au coup mortel,</l>
+	<l id='1424'>On peut en cet état la conduire à l'autel.</l>
+	<l id='1425' part='i'>Si Briseis pouvait...</l>
+</sp>
+<sp who='ILIONE'><speaker>ILIONE</speaker>
+	<l id='1425' part='f'>J'y vois peu d'espérance.</l>
+	<l id='1426'>Priam plaint de ces maux la dure violence,</l>
+	<l id='1427'>Il plaint le triste sort de Pyrrhus et de vous,</l>
+	<l id='1428'>Il soupire, et voudrait vous faire grâce à tous,</l>
+	<l id='1429'>Mais dans cet instant même Alcime vient lui dire</l>
+	<l id='1430'>Qu'Achille à votre hymen avec ardeur aspire,</l>
+	<l id='1431'>Qu'il marche vers le Temple, où quittant nos remparts,</l>
+	<l id='1432'>Le Peuple impatient accourt de toutes parts.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1433'>Allons donc de ma mort lui donner le spectacle.</l>
+</sp>
+<sp who='ILIONE'><speaker>ILIONE</speaker>
+	<l id='1434'>Briseis presse encor Priam d'y mettre obstacle,</l>
+	<l id='1435'>Mais, Madame, il s'agit de tout le sang Troyen,</l>
+	<l id='1436'>Nous n'avons plus d'Hector, elle n'obtiendra rien.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1437'>O paix, funeste paix, qui sans m'ôter la vie</l>
+	<l id='1438'>De mille et mille morts rends ma peine suivie !</l>
+	<l id='1439'>Fallait-il que le sang que tu dois conserver</l>
+	<l id='1440'>Me coutât le repos dont tu me vas priver !</l>
+	<l id='1441'>Heureux ceux dont le fer mettant fin à leur peine...</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SCÈNE II. Polixène, Pyrrhus, Ilione.</head>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1442'>Ah, Prince, quel sujet en ce lieu vous amène ?</l>
+	<l id='1443'>Sera-ce, en m'accablant un charme à vos douleurs</l>
+	<l id='1444'>Que le triste plaisir de jouir de mes pleurs ?</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1445'>Vous pouvez l'accorder , Madame, à mon envie,</l>
+	<l id='1446'>Puisque c'est le dernier que j'aurai de ma vie.</l>
+	<l id='1447'>Ulysse, Ajax, Nestor, contre Achille employés,</l>
+	<l id='1448'>Sans l'avoir pu fléchir ont été renvoyés,</l>
+	<l id='1449'>Il vous épouse, et moi, le désespoir dans l'âme,</l>
+	<l id='1450'>Plein des vives ardeurs de la plus tendre flamme,</l>
+	<l id='1451'>Trop faible pour les maux que je vois à souffrir</l>
+	<l id='1452'>Je viens auprès de vous les accroître, et mourir.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1453'>Quoi que l'ordre en soit dur, lorsqu'on m'attend au Temple,</l>
+	<l id='1454'>Je vous le donnerais, Prince, par mon exemple,</l>
+	<l id='1455'>Si Troie à qui ma main preste quelque secours</l>
+	<l id='1456'>Ne me défendait pas d'attenter sur mes jours.</l>
+	<l id='1457'>Je dois à mon pays cette mourante vie</l>
+	<l id='1458'>Que l'horreur de mon sort m'aura bientôt ravie.</l>
+	<l id='1459'>Vos feux ont eu pour moi de trop flatteurs appas</l>
+	<l id='1460'>Pour souffrir votre perte, et n'y succomber pas,</l>
+	<l id='1461'>Ma tendresse pour vous si longtemps écoutée...</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1462'>Peut-être mon amour l'avait bien méritée.</l>
+	<l id='1463'>Au moins puis-je jurer que jamais tant d'ardeur</l>
+	<l id='1464'>Pour un charmant Objet n'a régné dans un coeur,</l>
+	<l id='1465'>Que le mien tout à vous sans que rien le partage,</l>
+	<l id='1466'>Vous a de tous mes voeux soumis le pur hommage,</l>
+	<l id='1467'>Qu'en vous donnant sur lui ce pouvoir absolu...</l>
+	<l id='1468'>Que de bonheur, hélas, si le Ciel l'eut voulu,</l>
+	<l id='1469'>S'il eut pu consentir qu'en se faisant connaître   </l>
+	<l id='1470'>L'amour de nos destins fut demeuré le maître !</l>
+	<l id='1471'>Flatteuse illusion qui viens m'embarrasser !</l>
+	<l id='1472'>Achille vous épouse, il n'y faut plus penser.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1473'>Vous blâmiez les frayeurs que vous me voyiez prendre,</l>
+	<l id='1474'>Voila, Prince, voila ce qu'a prédit Cassandre,</l>
+	<l id='1475'>Préparer mon Hymen, c'est m'ouvrir le tombeau,</l>
+	<l id='1476'>Je vais porter ma teste, Achille est mon bourreau.</l>
+	<l id='1477'>Si l'oracle est cruel, au moins il vous éclaire</l>
+	<l id='1478'>A voir qu'à cet Hymen je ne survivrai guère,</l>
+	<l id='1479'>Et que si de votre âme il fait l'accablement</l>
+	<l id='1480'>Vous n'aurez pas longtemps à souffrir ce tourment.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1481'>Mais Achille aura su triompher de ma flamme.</l>
+	<l id='1482'>Ne fut-ce qu'un moment, y songez-vous, Madame ?</l>
+	<l id='1483'>Ce moment de souffrance est un amas de maux</l>
+	<l id='1484'>Tels que même aux enfers il n'en est point d'égaux.</l>
+	<l id='1485'>De la douceur d'aimer n'ai-je pris l'habitude</l>
+	<l id='1486'>Que pour être l'objet d'un supplice si rude,</l>
+	<l id='1487'>Et fallait-il qu'ayant à m'ôter votre foi</l>
+	<l id='1488'>On me fit espérer que vous seriez à moi ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1489'>Et bien, Prince, oubliez que vous m'avez aimée,</l>
+	<l id='1490'>Que le peu que je vaux tint votre âme charmée.</l>
+	<l id='1491'>Armez-vous contre moi d'un coeur indifférent.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1492'>Ah, de tous mes malheurs c'est ici le plus grand,</l>
+	<l id='1493'>Vous oublier ! Je vois votre injustice extrême,</l>
+	<l id='1494'>Madame, vous prendrez ce conseil pour vous même,</l>
+	<l id='1495'>Et Pyrrhus effacé malgré de si beaux feux</l>
+	<l id='1496'>Verra bientôt Achille en état d'être heureux.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1497'>Si j'entends mon devoir, c'est ce qu'il me demande,</l>
+	<l id='1498'>À ses barbares lois il veut que je me rende,</l>
+	<l id='1499'>Et qu'aux voeux d'un époux un Amant immolé</l>
+	<l id='1500'>Se taise dans mon coeur quand Priam a parlé.</l>
+	<l id='1501'>Mais ce coeur se révolte, et ma vertu complice</l>
+	<l id='1502'>Des tendres mouvements qui vous rendent justice,</l>
+	<l id='1503'>Laisse à l'amour sur lui malgré ce fier devoir,</l>
+	<l id='1504'>Conserver pour Pyrrhus ce qu'il eut de pouvoir,</l>
+	<l id='1505'>Les traits en sont présents sans cesse à ma mémoire.</l>
+	<l id='1506'>L'aveu sans doute est fort, il peut blesser ma gloire,</l>
+	<l id='1507'>Mais je puis m'échapper à plus que je ne dois</l>
+	<l id='1508'>Quand je vous parle enfin pour la dernière fois.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1509' part='i'>Pour la dernière fois ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1509' part='f'>Oui, Prince, votre vue</l>
+	<l id='1510'>Par l'ennui de vous perdre et m'accable et me tue,</l>
+	<l id='1511'>Et pour jouir au moins de quelque ombre de paix</l>
+	<l id='1512'>Il faut que je consente à ne vous voir jamais.</l>
+	<l id='1513'>C'est n'immoler pas peu ; quel qu'en soit le supplice</l>
+	<l id='1514'>Faites, si vous m'aimez, le même sacrifice,</l>
+	<l id='1515'>Et content de savoir que jusqu'au dernier jour</l>
+	<l id='1516'>Le dedans déchiré vengera votre amour,</l>
+	<l id='1517'>Souffrez que le dehors pour apaiser ma gloire</l>
+	<l id='1518'>Cache ce que du mien je vous permets de croire.</l>
+	<l id='1519'>Adieu, Prince. En l'état où le Ciel nous a mis,</l>
+	<l id='1520'>Un plus long entretien ne peut m'être permis.</l>
+	<l id='1521'>Je lis dans vos regards la douleur où vous êtes,</l>
+	<l id='1522'>Leur trouble m'en fait voir les atteintes secrètes,</l>
+	<l id='1523'>Et n'a déjà que trop de quoi vous accabler</l>
+	<l id='1524'>Sans que ma vue encor cherche à le redoubler.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1525'>Qu'il redouble, aussi-bien sans espoir pour ma flamme,</l>
+	<l id='1526'>Plus de repos pour moi, frappez, frappez, Madame,</l>
+	<l id='1527'>Sur ce coeur affligé portez les derniers coups,</l>
+	<l id='1528'>Plus ils seront mortels, plus ils me seront doux.</l>
+	<l id='1529'>Je vivais pour vous seule, et si l'ordre barbare...   </l>
+	<l id='1530'>Hélas ! Encor un coup faut-il qu'on nous sépare ?</l>
+	<l id='1531'>Que l'on ne m'ait permis que des voeux superflus ?</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1532'>Aimez-moi toujours, Prince, et ne me parlez plus.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1533'>Adieu, Madame, il faut en vous cachant ma rage</l>
+	<l id='1534'>Vous donner de ma flamme un dernier témoignage ;</l>
+	<l id='1535'>Après tant de malheurs, puisse le ciel sur vous</l>
+	<l id='1536'>Verser à pleines mains ce qu'il a de plus doux.</l>
+	<l id='1537'>C'est l'unique souhait que l'on m'entendra faire.</l>
+	<l id='1538'>Régnez, vivez heureuse, et s'il est nécessaire</l>
+	<l id='1539'>Que votre coeur s'arrache aux traits qu'il a reçus,</l>
+	<l id='1540'>Je me rends, oubliez le malheureux Pyrrhus.</l>
+	<l id='1541'>Pour moi, qui veux au feu dont j'ai l'âme asservie,</l>
+	<l id='1542'>Donner tous les moments qui me restent de vie,</l>
+	<l id='1543'>Je vous répons d'un coeur ferme à vous adorer</l>
+	<l id='1544'>Tant que sous mes ennuis il me faille expirer,</l>
+	<l id='1545'>Et si les Dieux touchés de mon amour extrême,</l>
+	<l id='1546'>Au de là du tombeau peuvent souffrir que j'aime,</l>
+	<l id='1547'>Ce coeur encor à vous, quoi qu'il m'en ait coûté,</l>
+	<l id='1548'>Ne cherchera jamais d'autre félicité.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SCÈNE III. Briseis, Polixène, Pyrrhus, Phénice, Ilione.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1549'>Je n'ai rien gagné, Prince, et Troie est la plus forte,</l>
+	<l id='1550'>Contre les droits du Sang son intérêt l'emporte,</l>
+	<l id='1551'>En vain de ma douleur Priam a vu l'éclat,</l>
+	<l id='1552'>Il doit ce sacrifice au besoin de l'?tat,</l>
+	<l id='1553'>Rien n'est à consulter lors qu'Achille menace.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1554'>Quoi, Priam sans pitié consent à ma disgrâce,</l>
+	<l id='1555'>Et je vois approcher l'épouvantable instant... </l>
+	<l id='1556' part='i'>Madame.</l>
+</sp>
+<sp who='POLIXENE'><speaker>POLIXÈNE</speaker>
+	<l id='1556' part='f'>Cachez-moi le destin qui m'attend,</l>
+	<l id='1557'>Je m'y pers. Quelques maux où vous soyez plongée,</l>
+	<l id='1558'>Si je les ai causés, vous êtes bien vengée.</l>
+	<l id='1559'>Madame, je ne sais si vous le concevez.</l>
+	<l id='1560'>Mais les mortels ennuis qui me sont réservés,</l>
+	<l id='1561'>Pyrrhus qui de mon coeur contre Achille dispose...</l>
+	<l id='1562'>Pyrrhus... J'en dis trop, Prince, et vous en êtes cause.</l>
+	<l id='1563'>Vous pour qui malgré moi je m'arrête en ce lieu,</l>
+	<l id='1564'>Oubliez-le, de grâce, et pour jamais, adieu.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SCÈNE IV. Pyrrhus, Briseis, Phénice.</head>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1565'>Enfin, Madame, il faut renoncer à la vie,</l>
+	<l id='1566'>C'en est fait, à mes voeux Polixène est ravie,</l>
+	<l id='1567'>Et dans les bras d'un autre, un sort plein de rigueur,</l>
+	<l id='1568'>Met l'objet adorable à qui je dois mon coeur.</l>
+	<l id='1569'>Vous m'aviez assuré qu'en faisant rendre Hélène</l>
+	<l id='1570'>Vous feriez à ma flamme accorder Polixène,</l>
+	<l id='1571'>Hélène des Troyens suit l'ordre rigoureux,</l>
+	<l id='1572'>On la rend, et pourtant je ne suis pas heureux.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1573'>De votre amour trompé jetez sur moi l'injure,</l>
+	<l id='1574'>Joignez-en le reproche aux peines que j'endure,</l>
+	<l id='1575'>Mon coeur qui se vantait d'un absolu pouvoir</l>
+	<l id='1576'>Ne vous peut consoler que par son désespoir.</l>
+	<l id='1577'>Voyez, dans le revers qui nous perd l'un et l'autre,</l>
+	<l id='1578'>De combien mon malheur est plus grand que le vôtre.</l>
+	<l id='1579'>Pour appui de vos feux vous n'avez eu jamais</l>
+	<l id='1580'>Que l'espoir chancelant d'une incertaine paix,</l>
+	<l id='1581'>La colère d'Achille implacable en sa haine,</l>
+	<l id='1582'>Après Patrocle mort vous ôtait Polixène,</l>
+	<l id='1583'>Et quand elle vous perd, quels que soient vos malheurs,   </l>
+	<l id='1584'>Du moins, Prince, du moins vous lui coûtez des pleurs.</l>
+	<l id='1585'>Mais après un espoir qui n'eut rien à combattre</l>
+	<l id='1586'>La main qui m'élevait s'intéresse à m'abattre,</l>
+	<l id='1587'>Et je ne pers Achille en ce funeste jour</l>
+	<l id='1588'>Que parce qu'il lui plaît de trahir mon amour.</l>
+	<l id='1589'>Sa seule dureté de mon trépas ordonne,</l>
+	<l id='1590'>On ne me l'ôte point, c'est lui seul qui se donne,</l>
+	<l id='1591'>Et qui sans être aimé ne cherche contre moi</l>
+	<l id='1592'>Que l'indigne douceur de me manquer de foi.</l>
+	<l id='1593'>Ah, c'est peu que sa mort pour venger cette injure,</l>
+	<l id='1594'>Inventons, s'il se peut, quelque peine plus dure,</l>
+	<l id='1595'>Qui lente à le punir ait toujours le pouvoir...</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SCÈNE V. Briseis, Pyrrhus, Phénice, Antilochus.</head>
+<sp who='ANTILOCHUS'><speaker>ANTILOCHUS</speaker>
+	<l id='1596'>Seigneur, la paix a mis Pâris au désespoir.</l>
+	<l id='1597'>Achille avec les Siens au Temple entrait à peine,</l>
+	<l id='1598'>Qu'on l'a vu, prévenant Priam et Polixène,</l>
+	<l id='1599'>Escorté de Troyens, sans respect pour les Dieux,</l>
+	<l id='1600'>S'y lancer tout à coup en amant furieux.</l>
+	<l id='1601'>Si ce qu'on dit est vrai, l'ardeur qui les engage</l>
+	<l id='1602'>S'augmentant par le sang les pousse à tant de rage,</l>
+	<l id='1603'>Que pour peu que le Ciel tarde à le secourir,</l>
+	<l id='1604'>Achille est en danger lui même de périr.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1605' part='i'>De périr !</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1605' part='m'>Dieux ! Achille...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1605' part='f'>Il y va de sa vie.</l>
+</sp>
+<sp who='PYRRHUS'><speaker>PYRRHUS</speaker>
+	<l id='1606' part='i'>Adieu, Madame.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1606' part='f'>Allez où l'honneur vous convie,</l>
+	<l id='1607'>Achille est en péril, courez l'en garantir.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SCÈNE VI. Briseis, Phénice.</head>
+<sp who='PHENICE'><speaker>PHÉNICE</speaker>
+	<l id='1608'>Voilà comme l'amour ne se peut démentir.</l>
+	<l id='1609'>Son crime tout à l'heure armait votre colère</l>
+	<l id='1610'>Jusqu'à trouver sa mort une peine légère,</l>
+	<l id='1611'>Et votre impatience implore du secours</l>
+	<l id='1612'>Dés le moindre péril qui menace ses jours.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1613'>Que veux-tu ? si mon coeur accablé de l'offense</l>
+	<l id='1614'>N'a rien vu de plus doux pour moi que la vengeance,</l>
+	<l id='1615'>De deux maux à souffrir pires que le trépas</l>
+	<l id='1616'>On préfère toujours celui qu'on ne sent pas.</l>
+	<l id='1617'>Ainsi sa trahison m'a fait vouloir sa perte ;</l>
+	<l id='1618'>Mais lorsqu'à mes regards l'image en est offerte,</l>
+	<l id='1619'>Que je vois le coup prêt, tu dois peu t'étonner</l>
+	<l id='1620'>Si ce que j'ai voulu commence à me gêner.</l>
+	<l id='1621'>Malgré ce qu'il a fait, je suis toujours la même,</l>
+	<l id='1622'>Et ne le haïssant que parce que je l'aime,</l>
+	<l id='1623'>Quand mon amour obtient ce qui le va trahir,</l>
+	<l id='1624'>J'ai bientôt oublié que je le dois haïr.</l>
+	<l id='1625'>La pitié seule alors me paraît légitime,</l>
+	<l id='1626'>Je vois le châtiment, et ne vois plus le crime,</l>
+	<l id='1627'>Et craignant son trépas, je songe seulement</l>
+	<l id='1628'>Qu'on me donne à trembler pour les jours d'un Amant.</l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE</speaker>
+	<l id='1629'>Mais d'où vient que Pâris vous est si redoutable ?</l>
+	<l id='1630'>Que craindre pour Achille ? il est invulnérable,</l>
+	<l id='1631'>Et par un privilège et noble et glorieux...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1632'>Je ne m'assure point sur ce qu'ont fait les Dieux,</l>
+	<l id='1633'>Pâris suit contre Achille une fureur extrême,</l>
+	<l id='1634'>Et pour craindre sa perte il suffit que je l'aime.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SCÈNE VII. Briseis, Alcime, Phénice.</head>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1635'>Pyrrhus est-il au temple, et le ciel adouci...</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1636'>J'ai rencontré Pyrrhus à trente pas d'ici.</l>
+	<l id='1637'>Sur le bruit du tumulte il courait vers Achille ;</l>
+	<l id='1638'>Mais les Dieux ont rendu son secours inutile,</l>
+	<l id='1639'>Et tandis que pressé du plus sensible ennui,</l>
+	<l id='1640'>Il est d'Agamemnon allé chercher l'appui,</l>
+	<l id='1641'>Il a voulu qu'ici je vinsse vous apprendre</l>
+	<l id='1642'>Les malheurs que sur nous le Ciel vient de répandre,</l>
+	<l id='1643'>Achille qu'on croyait être au dessus du sort,</l>
+	<l id='1644' part='i'>Achille...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1644' part='m'>Et bien Achille ?</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1644' part='m'>Il est mort.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1644' part='f'>Il est mort ?</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1645'>Polixène déjà vers le temple conduite,</l>
+	<l id='1646'>Avec Priam son père a pris soudain la fuite,</l>
+	<l id='1647'>Il la ramène à Troie, où tristes et confus</l>
+	<l id='1648'>S'ils gardent quelque espoir, il n'est plus qu'en Pyrrhus ;</l>
+	<l id='1649'>Mais quoi qu'il soit allé, pour servir Polixène,</l>
+	<l id='1650'>Suspendre de nos Chefs la fureur trop certaine,</l>
+	<l id='1651'>Pour empêcher les maux qu'elle me fait prévoir,</l>
+	<l id='1652'>Je doute que Pyrrhus ait assez de pouvoir.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1653'>Non, tu me fais, Alcime, un rapport incroyable,</l>
+	<l id='1654'>Achille vit encor, Achille invulnérable</l>
+	<l id='1655'>N'a pu se voir sujet à la fureur du Sort.</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1656'>Cependant d'un Mortel il a reçu la mort.</l>
+	<l id='1657'>Un seul endroit au fer pouvait donner passage,</l>
+	<l id='1658'>Pâris l'a découvert, ce coup est son ouvrage.</l>
+	<l id='1659'>Sitôt que le perfide a vu son sang couler,</l>
+	<l id='1660'>"C'est assez, a-t-il dit, j'ai su me l'immoler,</l>
+	<l id='1661'>Cet ennemi d'Hélène à mon amour ravie</l>
+	<l id='1662'>Ne peut perdre de sang qu'il ne perde la vie,</l>
+	<l id='1663'>C'est l'ordre du Destin. Puisqu'Achille n'est plus,</l>
+	<l id='1664'>Les Grecs doivent trembler, Troie aura le dessus,</l>
+	<l id='1665'>Allons de cette mort lui porter la nouvelle."</l>
+	<l id='1666'>Ils se sont retirés, et la douleur mortelle</l>
+	<l id='1667'>Où d'Achille expirant le malheur nous a mis,</l>
+	<l id='1668'>Les a quand ils ont fui laissés sans ennemis.</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1669'>Il est donc vrai qu'Achille ait pu perdre la vie ?</l>
+	<l id='1670'>Et bien barbare, enfin ta rage est assouvie,</l>
+	<l id='1671'>Les Dieux n'en ont que trop écouté le transport,</l>
+	<l id='1672'>Triomphe, il t'est permis de jouir de sa mort.</l>
+	<l id='1673'>Trouves-y les douceurs dont tu t'osais répondre,</l>
+	<l id='1674'>Brave un ingrat mourant, sois fière à le confondre,</l>
+	<l id='1675'>Et songe, après un bien si cher à tes souhaits</l>
+	<l id='1676'>Quel sera ton bonheur à ne le voir jamais.</l>
+	<l id='1677'>Dieux, suis-je encor moi-même ? Achille est mort ! Phénice,</l>
+	<l id='1678'>Aurais-tu crû le Ciel capable d'injustice ?</l>
+	<l id='1679' part='i'>Souffrir qu'Achille...</l>
+</sp>
+<sp who='PHENICE'><speaker>PHÉNICE</speaker>
+	<l id='1679' part='f'>Il meurt, et sa mort vous abat,</l>
+	<l id='1680'>Mais songez-vous qu'Achille était parjure, ingrat ?</l>
+	<l id='1681'>Que tout à Polixène, il n'aspirait qu'à suivre</l>
+	<l id='1682' part='i'>Ce que l'amour pour elle...</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1682' part='f'>Ah, que ne peut-il vivre,</l>
+	<l id='1683'>Quoi qu'une autre à mes yeux triomphât de sa foi,</l>
+	<l id='1684'>Je le verrais du moins, ce serait tout pour moi,</l>
+	<l id='1685'>Le remords de ma perte et de son injustice   </l>
+	<l id='1686'>Peut-être lui ferait partager mon supplice,</l>
+	<l id='1687'>Il souffrirait peut-être en me voyant souffrir.</l>
+	<l id='1688'>N'a-t-il rien dit, Alcime, et l'as-tu vu mourir ?</l>
+</sp>
+<sp who='ALCIME'><speaker>ALCIME</speaker>
+	<l id='1689'>À peine il a du coup senti la rude atteinte</l>
+	<l id='1690'>Qu'il tombe, et d'un regard qui fait naître la crainte</l>
+	<l id='1691'>Reprochant à Pâris son indigne attentat,</l>
+	<l id='1692'>"Il faut céder, dit-il, au destin qui m'abat,</l>
+	<l id='1693'>Je meurs ; du lâche coup dont la rigueur m'entraîne,</l>
+	<l id='1694'>L'infamie était due au Ravisseur d'Hélène :</l>
+	<l id='1695'>Il s'arrête à ces mots, et voyant les Troyens</l>
+	<l id='1696'>Le laisser par leur fuite entre les bras des Siens ;</l>
+	<l id='1697'>S'étant tourné vers moi ; le ciel est juste, Alcime,</l>
+	<l id='1698'>Tu le vois, m'a-t-il dit, ma mort punit mon crime,</l>
+	<l id='1699'>Et venge Briseis de l'affront qu'à sa foi</l>
+	<l id='1700'>Par l'hymen qui me perd, je faisais malgré moi.</l>
+	<l id='1701'>Dis-lui que d'un mépris si dur si peu croyable</l>
+	<l id='1702'>Plus que ma volonté le Destin est coupable,</l>
+	<l id='1703'>Et qu'à l'ordre absolu qui me l'a fait trahir</l>
+	<l id='1704'>Un fatal Ascendant m'a forcé d'obéir.</l>
+	<l id='1705'>Dis-lui qu'en la quittant, plein pour elle d'estime,</l>
+	<l id='1706' part='i'>Mon coeur de ses ennuis..."</l>
+</sp>
+<sp who='BRISEIS'><speaker>BRISEIS</speaker>
+	<l id='1706' part='f'>N'achève point, Alcime,</l>
+	<l id='1707'>Et pour m'accabler moins, cache moi qu'en mourant</l>
+	<l id='1708'>Achille ait plaint l'amour que son malheur me rend,</l>
+	<l id='1709'>C'est enfoncer le trait où je sens la blessure.</l>
+	<l id='1710'>Dis-moi, dis-moi plutôt qu'il fut lâche, parjure,</l>
+	<l id='1711'>Et que de ma Rivale indignement charmé</l>
+	<l id='1712'>Il meurt du seul regret de n'être point aimé.</l>
+	<l id='1713'>Dieux ! pour comble de maux, quand tout me désespère,</l>
+	<l id='1714'>Faut-il que ses remords désarment ma colère,</l>
+	<l id='1715'>Et qu'au triste moment qu'Achille perd le jour</l>
+	<l id='1716'>Achille repentant mérite mon amour ?</l>
+	<l id='1717'>Non, il n'est que trop vrai, ma frayeur était vaine,   </l>
+	<l id='1718'>Achille n'aurait point épousé Polixène,</l>
+	<l id='1719'>Prêt à donner sa main il eut vu Briseis,</l>
+	<l id='1720'>Sa flamme rallumée eut plaint mes feux trahis,</l>
+	<l id='1721'>Et dans son coeur gêné sa gloire eut fait renaître</l>
+	<l id='1722'>Tous les traits que son crime avait fait disparaître,</l>
+	<l id='1723'>C'est trop, délivrons-nous de ce cruel ennui,</l>
+	<l id='1724'>Puisqu'il est mort fidèle, il faut mourir pour lui.</l>
+	<l id='1725'>Mais avant que mon bras venge ce que je pleure,</l>
+	<l id='1726'>Pâris en est la cause, il faut que Pâris meure,</l>
+	<l id='1727'>Et que par mille horreurs, et la flamme et le fer,</l>
+	<l id='1728'>De ce lâche assassin me fassent triompher.</l>
+	<l id='1729'>Je verrai lors mon sang couler avecque joie</l>
+	<l id='1730'>Si je le puis verser sur les cendres de Troie.</l>
+	<l id='1731'>Allons, Phénice, allons, en de pareils malheurs</l>
+	<l id='1732'>C'est mal user du temps que le perdre à des pleurs.</l>
+	<l id='1733'>Pressons Agamemnon de servir ma colère,</l>
+	<l id='1734'>S'il le faut éblouir, consentons qu'il espère,</l>
+	<l id='1735'>Ma mort aura vers lui de quoi me dégager,</l>
+	<l id='1736'>Quand s'armant pour Achille, il m'aura su venger.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>
