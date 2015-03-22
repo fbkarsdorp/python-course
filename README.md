@@ -20,69 +20,20 @@ This document describes the installation procedure for all the software needed f
 
 ## Sublime text
 
-We advice you to install a good text editor, Sublime text 2 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2 go to http://www.sublimetext.com/ download the version for your operating system and install.
+We advice you to install a good text editor, Sublime text 2/3 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2/3 go to http://www.sublimetext.com/ download the version for your operating system and install.
 
-In the course we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. 
+In the course we will be using software that works best with Google Chrome. Firefox (or above) and Safari will also work. Internet Explorer is not supported. 
 
 We will be using Python 3 for our course. Lower versions are more or less supported, but not recommended.
 
 
 ## Installation
-### All platforms
 
 **We strongly advice you to install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
 
-Anaconda's default installation is Python 2.7. However, we will use Python 3 in this course. To install all necessary packages for Python 3, type 
+We will use Python 3 in this course. Make sure you select Python 3.4 and not Python 2.7.
 
-    conda create -n py34 python=3.4 anaconda
-
-followed by
-
-    source activate py34
-
-at the command line. If you work on a Windows machine, use the following command instead:
-
-    activate py34
-
-(If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that you can start the course with double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
-
-### Windows
-Download and install the Anaconda Python Distribution (see above).
-
-Double click the file start-windows.bat.
-
-If everything goes right, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. If for some reason, the notebook is opened by Internet Explorer, copy the URL and paste that in either Google Chrome or Firefox.
-
-### OS X 
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution (see above). After that, double click the file start-osx.command.
-
-First you will need to install Xcode from the App Store. After you have successfully installed Xcode, open Xcode and go to Xcode -> preferences -> Downloads. Now click on the install button next to commandline tools. 
-
-Open spotlight and type in `terminal' to open the terminal application. (You can also go to your applications folder and then to utilities where you'll find the terminal.app)
-
-Cd to the folder where you downloaded or saved the file mac-installer.sh (probably in ~/Downloads) by using
-
-    cd /folder/of/mac-installer.sh 
-
-Run the installer with the following command. The installer will download some packages and will request for your password to install them.
-
-    . mac-installer.sh
-
-To check your installation, relaunch the terminal.app. Then type in 
-
-    ipython3 notebook --matplotlib=inline
-
-If everything went well this should open your browser (best with Google Chrome or Firefox) on the page http://127.0.0.1:8888/ which says IP[y]: Notebook.
-
-### Linux (Ubuntu/Debian)
-
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
-
-First open a terminal, then type
-
-    sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
-
-If you run another Linux distribution, similar packages should be available. Finally execute the file start-unix.sh.
+After you installed Anaconda, you launch the course by double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
 
 ## Static Notebooks
 
