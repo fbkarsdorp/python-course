@@ -1,7 +1,5 @@
 # Programming for the Humanities
 
-**DRAFT VERSION OF BOOK "Programming for the Humanities"**
-
 The programming language [Python](http://www.python.org) is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this book you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. The book expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 10 chapters. Chapter 5 and Chapter 6 are still in draft status and not ready for use.
 
 - [Chapter 1](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/book/Chapter%201%20-%20Getting%20started.ipynb) starts with the very basics where we will try to whet your appetite. You will be asked to do many short quizes to test whether you really understand the material.
@@ -18,20 +16,22 @@ The programming language [Python](http://www.python.org) is widely used within m
 
 This document describes the installation procedure for all the software needed for the Python class. If your stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
-## Sublime text
+## Text Editor
 
-We advice you to install a good text editor, Sublime text 2/3 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2/3 go to http://www.sublimetext.com/ download the version for your operating system and install.
+We advice you to install a good text editor, Sublime text 2/3 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2/3, go to http://www.sublimetext.com/, download the version for your operating system and install.
 
 In the course we will be using software that works best with Google Chrome. Firefox (or above) and Safari will also work. Internet Explorer is not supported. 
 
 We will be using Python 3 for our course. Lower versions are more or less supported, but not recommended.
 
 
-## Installation
+## Python Installation
 
-**We strongly advice you to install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure/ You can download it from: http://continuum.io/downloads. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
+**We strongly advice you to install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure. You can download it from: http://continuum.io/downloads#py34. More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html 
 
 We will use Python 3 in this course. Make sure you select Python 3.4 and not Python 2.7.
+
+## Launching the Python Course
 
 After you installed Anaconda, you launch the course by double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
 
