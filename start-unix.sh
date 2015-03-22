@@ -2,7 +2,6 @@
 
 cd "$(dirname "$0")"
 
-source activate py34
 if [[ $? == 0 ]]; then
 	ipython notebook --matplotlib=inline
 else
