@@ -33,7 +33,7 @@ We will use Python 3 in this course. Make sure you select Python 3.4 and not Pyt
 
 ## Launching the Python Course
 
-After you installed Anaconda, you launch the course by double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
+After you installed Anaconda, you launch the course by double clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh (if you work with Linux) or start-osx.command (if you work on Mac OS X).
 
 ## Static Notebooks
 
