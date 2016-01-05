@@ -19,7 +19,7 @@ This document describes the installation procedure for all the software needed f
 
 ## Sublime text
 
-We advise you to install a good text editor, Sublime Text 2 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2, go to http://www.sublimetext.com/ , download the version for your operating system and install.
+We advise you to install a good text editor, Sublime Text 2 for example. However, you are absolutely free to use your own favorite editor. For Sublime Text 2, go to http://www.sublimetext.com/, download the version for your operating system and install.
 
 In the course, we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported.
 
