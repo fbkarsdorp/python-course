@@ -1,7 +1,7 @@
 {
  "metadata": {
   "name": "",
-  "signature": "sha256:41a53a916b6fa9c23ef4f59d79a40c4961d07c0543c440ca1d3c1a343bd4e93a"
+  "signature": "sha256:b812b955eb6663112f1e4d0d2fd16d90f387b368bed7feac53d56e8c1a3f9270"
  },
  "nbformat": 3,
  "nbformat_minor": 0,
@@ -800,7 +800,7 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
-      "**a)** In this exercise you have to add the length of each document in our collection to the IR system. Reimplement the `index_document` method. Besides updating the term-document frequencies of each term, it should update the `Counter` object `lengths` in such a way that for each document ID it stores the length of the document being indexed."
+      "**a)** In this exercize you have to add the length of each document in our collection to the IR system. Reimplement the `index_document` method. Besides updating the term-document frequencies of each term, it should update the `Counter` object `lengths` in such a way that for each document ID it stores the length of the document being indexed."
      ]
     },
     {
@@ -856,7 +856,11 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
+<<<<<<< HEAD
+      "**b)** Once we have obtained the document length for each document, computing the average document length is trivial. In this exercize we will focus on the IDF weights. To compute the IDF weight for a particular term $q_i$ we need to know two things:\n",
+=======
       "**b)** Once we have obtained the document length for each document, computing the average document length is trivial. In this exercise we will focus on the IDF weights. To compute the IDF weight for a particular term $q_i$ we need to know two things:\n",
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "\n",
       "1. how many documents $N$ there are in our collection;\n",
       "2. in how many documents that term occurs: $n(q_i)$.\n",
@@ -884,7 +888,10 @@
       "                \n",
       "    def index_document(self, doc_id, words):\n",
       "        \"Add a new unindexed document to the system.\"\n",
+<<<<<<< HEAD
       "        self.doc_ids.append(doc_id)\n",
+=======
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "        # insert you code here\n",
       "    \n",
       "    def index_collection(self, filenames):\n",
@@ -1056,14 +1063,14 @@
      "level": 4,
      "metadata": {},
      "source": [
-      "Final exercise"
+      "Final exercize"
      ]
     },
     {
      "cell_type": "markdown",
      "metadata": {},
      "source": [
-      "Perhaps the biggest advantage of Object Oriented Programming is the ability to subclass objects. You could, for example, make a specialized IRSystem for searching through particular directories on your own laptop. In this final exercise you will implement a simple web searcher. This searcher can be initialized with a number of URLs of web pages. The searcher downloads these pages, strips all HTML markup and indexes the raw text. The searcher can then be used to query for particular web pages. \n",
+      "Perhaps the biggest advantage of Object Oriented Programming is the ability to subclass objects. You could, for example, make a specialized IRSystem for searching through particular directories on your own laptop. In this final exercize you will implement a simple web searcher. This searcher can be initialized with a number of URLs of web pages. The searcher downloads these pages, strips all HTML markup and indexes the raw text. The searcher can then be used to query for particular web pages. \n",
       "\n",
       "Our implementation starts with a function to retrieve a webpage given a URL. The module [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) in Python's standard library, defines a number of functions and classes to open and read URLs. The function `urlopen` opens a `HTTPResponse` object, which has a method called `read`. Upon calling the `read` method, the complete webpage will be downloaded:"
      ]
@@ -1153,6 +1160,10 @@
      "collapsed": false,
      "input": [
       "class WebSearcher(IRSystem):\n",
+<<<<<<< HEAD
+=======
+      "    \n",
+>>>>>>> 74d405b678e41477451c9434a1ce3df98d27818a
       "    # insert your code here"
      ],
      "language": "python",
@@ -1238,14 +1249,9 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
-      "---"
-     ]
-    },
-    {
-     "cell_type": "markdown",
-     "metadata": {},
-     "source": [
-      "<p><small><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><br /><span xmlns:dct=\"http://purl.org/dc/terms/\" property=\"dct:title\">Python Programming for the Humanities</span> by <a xmlns:cc=\"http://creativecommons.org/ns#\" href=\"http://fbkarsdorp.github.io/python-course\" property=\"cc:attributionName\" rel=\"cc:attributionURL\">http://fbkarsdorp.github.io/python-course</a> is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Based on a work at <a xmlns:dct=\"http://purl.org/dc/terms/\" href=\"https://github.com/fbkarsdorp/python-course\" rel=\"dct:source\">https://github.com/fbkarsdorp/python-course</a>.</small></p>"
+      "by Folgert Karsdorp (Meertens Instituut)\n",
+      "\n",
+      "Licensed under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html)"
      ]
     }
    ],

@@ -1,7 +1,7 @@
 {
  "metadata": {
   "name": "",
-  "signature": "sha256:ced5a666849424a6c823a1903e6f23e5dd63c09e6fb0126fe86221ee3c5ce757"
+  "signature": "sha256:cfdf2e2f87626e61a47356de271a32958896c29bce6ec4af4456a82dc25b3c9b"
  },
  "nbformat": 3,
  "nbformat_minor": 0,
@@ -36,7 +36,11 @@
      "source": [
       "What are the rules for distinguishing a real e-mail message from spam? You might come up with rules like \"if a message has XXX in the subject\" it is probably spam. Or if the message contains many mentions of large amounts of money, it's probably spam. Spammers change their behavior all the time and their spamming techniques have evolved substantially over time. You will soon realize that hand-crafting a set of rules for spam is practically infeasable. In his famous essay '[A plan for Spam](http://www.paulgraham.com/spam.html)', Paul Graham thought exactly the same thing. Graham proposed to employ techniques from Machine Learning to automatically *learn* from a number of examples which features distinguish best between spam and non-spam. The basic idea of his spam filter is that we keep track of the frequencies with which words occur in spam messages and in non-spam messages and compare the frequencies of the words in a new, previously unseen e-mail to those statistics to decide whether we're dealing with spam or not.\n",
       "\n",
+<<<<<<< HEAD
       "Graham's spam filter is an example of a *supervised learning system*. We call it supervised, because on the basis of a set of training examples of which the label is known (e.g. spam or non-spam), we attempt to automatically find a way to distinguish between the two categories. More formally, supervised learning systems estimate functions $f : X \\rightarrow Y$ from a multi-dimensional input space $X$ to a set of discrete classes $Y$. In the example of the spam filter, $f$ would be the filter we try to learn, $X$ could be the word frequencies of the e-mail messages (both spam and non-spam) and $Y$ would be the two classes spam and non-spam ($Y = \\{ \\textrm{spam},\\textrm{non-spam}\\})$. \n",
+=======
+      "Graham's spam filter is an example of a *supervised learning system*. We call it supervized, because on the basis of a set of training examples of which the label is known (e.g. spam or non-spam), we attempt to automatically find a way to distinguish between the two categories. More formally, supervized learning systems estimate functions $f : X \\rightarrow Y$ from a multi-dimensional input space $X$ to a set of discrete classes $Y$. In the example of the spam filter, $f$ would be the filter we try to learn, $X$ could be the word frequencies of the e-mail messages (both spam and non-spam) and $Y$ would be the two classes spam and non-spam ($Y = \\{ \\textrm{spam},\\textrm{non-spam}\\})$. \n",
+>>>>>>> upstream/master
       "\n",
       "Have a look at the following example. Say we have a training set of four e-mail messages, two spams and two non-spams. In those four e-mails we find a total of 5 unique words. For each training e-mail $x \\in X$, we write down how often each of those words occurs in $x$:\n",
       "\n",
@@ -70,7 +74,7 @@
       "      <td> 0</td>\n",
       "    </tr>\n",
       "    <tr>\n",
-      "      <th>spam</th>\n",
+      "      <th>ham</th>\n",
       "      <td> 0</td>\n",
       "      <td> 1</td>\n",
       "      <td> 1</td>\n",
@@ -78,7 +82,7 @@
       "      <td> 0</td>\n",
       "    </tr>\n",
       "    <tr>\n",
-      "      <th>spam</th>\n",
+      "      <th>ham</th>\n",
       "      <td> 0</td>\n",
       "      <td> 0</td>\n",
       "      <td> 0</td>\n",
@@ -165,8 +169,7 @@
      ],
      "language": "python",
      "metadata": {},
-     "outputs": [],
-     "prompt_number": 1
+     "outputs": []
     },
     {
      "cell_type": "markdown",
@@ -332,7 +335,7 @@
       "  </tbody>\n",
       "</table>\n",
       "\n",
-      "What is the probability of $P(y=\\textrm{Walt Whitman}|x = [12, 10, 1, 8, 0, 4, 0, 0, 0, 4])$? And what is the probability of $P(y=\\textrm{J.K. Rowling}|x = [7, 4, 0, 0, 0, 12, 6, 8, 3, 0])$?"
+      "What is the probability of $P(y=\\textrm{Walt Whitman}|x = [7, 4, 0, 0, 0, 12, 6, 8, 3, 0])$? And what is the probability of $P(y=\\textrm{J.K. Rowling}|x = [7, 4, 0, 0, 0, 12, 6, 8, 3, 0])$?"
      ]
     },
     {
@@ -473,11 +476,10 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
-      "**d)** Now that we know how to compute the posterior probability, it is time to implement our naive bayes learner. We will start with implementing the `fit` method. The `fit` method has three core jobs:\n",
+      "**d)** Now that we know how to compute the posterior probability, it is time to implement our naive bayes learner. We will start with implementing the `fit` method. The `fit` method has two core jobs:\n",
       "\n",
       "1. extract all the counts of each feature given each class;\n",
-      "2. count how often each class label occurs in the training data;\n",
-      "3. count the number of unique features.\n",
+      "2. count how often each class label occurs in the training data.\n",
       "\n",
       "The `NaiveBayesLearner` below provides the skeleton of our class. Implement the `fit` method."
      ]
@@ -502,8 +504,6 @@
       "        self.C = # insert your code here (class counts)\n",
       "        self.N = # insert your code here (feature counts per class)\n",
       "        # add the feature counts per class here\n",
-      "        \n",
-      "        self.V = len(set(x for y_x in self.N for x in self.N[y_x])) # number of unique features\n",
       "       \n",
       "    def predict(self, x):\n",
       "        \"\"\"Predict the outcome for example x. Choose the most\n",
@@ -574,7 +574,6 @@
       "        self.N = defaultdict(Counter)\n",
       "        for x, y_x in zip(X, y):\n",
       "            self.N[y_x] += Counter(x)\n",
-      "        self.V = len(set(x for y_x in self.N for x in self.N[y_x]))\n",
       "\n",
       "    def prior(self, y):\n",
       "        \"\"\"Return the prior probability of class y.\"\"\"\n",
@@ -706,7 +705,6 @@
       "        self.N = defaultdict(Counter)\n",
       "        for x, y_x in zip(X, y):\n",
       "            self.N[y_x] += Counter(x)\n",
-      "        self.V = len(set(x for y_x in self.N for x in self.N[y_x]))\n",
       "\n",
       "    def prior(self, y):\n",
       "        \"\"\"Return the prior probability of class y.\"\"\"\n",
@@ -715,7 +713,7 @@
       "    def probability(self, x, y):\n",
       "        \"\"\"Apply Laplace Smoothing to give a probability\n",
       "        estimate of feature x given y.\"\"\"\n",
-      "        return (self.N[y][x] + 1.0) / (sum(self.N[y].values()) + self.V)\n",
+      "        return (self.N[y][x] + 1.0) / (sum(self.N[y].values()) + len(self.N))\n",
       "\n",
       "    def predict(self, x):\n",
       "        \"\"\"Predict the outcome for example x. Choose the most\n",
@@ -1634,14 +1632,9 @@
      "cell_type": "markdown",
      "metadata": {},
      "source": [
-      "---"
-     ]
-    },
-    {
-     "cell_type": "markdown",
-     "metadata": {},
-     "source": [
-      "<p><small><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><br /><span xmlns:dct=\"http://purl.org/dc/terms/\" property=\"dct:title\">Python Programming for the Humanities</span> by <a xmlns:cc=\"http://creativecommons.org/ns#\" href=\"http://fbkarsdorp.github.io/python-course\" property=\"cc:attributionName\" rel=\"cc:attributionURL\">http://fbkarsdorp.github.io/python-course</a> is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Based on a work at <a xmlns:dct=\"http://purl.org/dc/terms/\" href=\"https://github.com/fbkarsdorp/python-course\" rel=\"dct:source\">https://github.com/fbkarsdorp/python-course</a>.</small></p>"
+      "by Folgert Karsdorp (Meertens Instituut)\n",
+      "\n",
+      "Licensed under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html)"
      ]
     }
    ],
