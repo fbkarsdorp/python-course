@@ -4,12 +4,12 @@ cd "$(dirname "$0")"
 
 source activate py34
 if [[ $? == 0 ]]; then
-	ipython notebook --matplotlib=inline
+	jupyter-notebook
 else
 	which ipython3
 	if [[ $? == 0 ]]; then
-		ipython3 notebook --matplotlib=inline
+		jupyter-notebook
 	else
-		ipython notebook --matplotlib=inline
+		jupyter-notebook
 	fi
 fi

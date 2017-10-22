@@ -75,11 +75,18 @@ If everything went well, this should open your browser (best with Google Chrome 
 
 ### Linux (Ubuntu/Debian)
 
-Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution
+Only take these steps if you know what you are doing. Otherwise, simply download and install the Anaconda Python Distribution.
 
 First, open a terminal, then type
-
-    sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
+```bash
+# Debian 8 / Ubuntu 16.04
+$ sudo apt-get install python3 ipython3 ipython3-notebook numpy scipy matplotlib 
+```
+or
+```bash
+# Debian 9 / Ubuntu 17.04
+$ sudo apt-get install python3 jupyter-notebook numpy scipy matplotlib 
+```
 
 If you run another Linux distribution, similar packages should be available. Finally execute the file start-unix.sh.
 
