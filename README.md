@@ -1,5 +1,7 @@
 # Python Programming for the Humanities
 
+**UPDATE March 8, 2021**: This repository is no longer under development. Together with Mike Kestemont and Allen Riddell, I have published a much more comprehensive book about processing humanities data with Python. For more information see the website of the publisher: https://press.princeton.edu/books/hardcover/9780691172361/humanities-data-analysis
+
 [![Join the chat at https://gitter.im/fbkarsdorp/python-course](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fbkarsdorp/python-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The programming language [Python](http://www.python.org) is widely used within many scientific domains nowadays and the language is readily accessible to scholars from the Humanities. Python is an excellent choice for dealing with (linguistic as well as literary) textual data, which is so typical of the Humanities. In this book you will be thoroughly introduced to the language and be taught to program basic algorithmic procedures. The book expects no prior experience with programming, although we hope to provide some interesting insights and skills for more advanced programmers as well. The book consists of 10 chapters. Chapter 5 and Chapter 6 are still in draft status and not ready for use.
