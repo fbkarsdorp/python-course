@@ -17,6 +17,8 @@ The programming language [Python](http://www.python.org) is widely used within m
 - [Chapter 9](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%209%20-%20Learning%20from%20Examples.ipynb) will introduce you to some of the more advanced techniques used in automatic classification. We will implement a naive Bayes classifier, show you a number of evaluation metrics and strategies, and briefly address the question of parameter optimization.
 - [Chapter 10](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Chapter%2010%20-%20Learning%20without%20Supervision.ipynb) focuses on hierarchical clustering, one of the important methods for unsupervized learning. We explain the basic methods for doining hierarchical clustering and create a simple implementation in Python.
 
+- [Appendix TF](http://nbviewer.ipython.org/urls/raw.github.com/fbkarsdorp/python-course/master/Appendix%20TF%20-%20Text-Fabric.ipynb) introduces an approach for distributing a pre-processed versionof your corpus. Others can start computing with it right away, using any of the above tools, and feed their results back in.
+
 This document describes the installation procedure for all the software needed for the Python class. If you're stuck anywhere in the installation procedure, please do not hesitate to contact Folgert Karsdorp (folgert.karsdorp@meertens.knaw.nl).
 
 ## Sublime text
@@ -46,6 +48,8 @@ at the command line. If you work on a Windows machine, use the following command
     activate py34
 
 (If this doesn't work, have a look here: http://continuum.io/blog/anaconda-python-3). After that, you can start the course by double-clicking the file start-windows.bat (if you are working on Windows) or start-unix.sh if you work with Linux or start-osx.command if you work on Mac OS X.
+
+**N.B. For Appendix TF you need Python 3.6 or higher.**
 
 ### Windows
 Download and install the Anaconda Python Distribution (see above).
